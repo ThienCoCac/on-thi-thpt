@@ -2,16 +2,15 @@
 
 Website tĩnh luyện thi tốt nghiệp THPT cho học sinh lớp 12: đề thi theo cấu trúc thật, lời giải theo hướng tư duy, làm bài và chấm điểm ngay trên trình duyệt.
 
-**Không có backend.** Toàn bộ đề thi, câu hỏi, bài phương pháp và bài viết nằm trong thư mục `content/`. Site được build thành HTML tĩnh (`out/`) và deploy thẳng lên Netlify — không cần database, không cần đăng nhập, không cần biến môi trường bí mật.
+**Không có backend.** Toàn bộ đề thi và câu hỏi nằm trong thư mục `content/`. Site được build thành HTML tĩnh (`out/`) và deploy thẳng lên Cloudflare Workers — không cần database, không cần đăng nhập, không cần biến môi trường bí mật.
 
 ## Tính năng
 
-- **Trang chủ**: đề nổi bật, đề mới cập nhật, bài phương pháp mới và số liệu nội dung.
+- **Trang chủ**: đề nổi bật, đề mới cập nhật và số liệu nội dung.
 - **Danh sách đề** (`/de-thi`): lọc theo môn, loại đề, năm và từ khóa; phân trang — tất cả xử lý ở trình duyệt.
-- **Chi tiết đề**: cấu trúc từng phần thi, phân bố độ khó, chuyên đề, bài phương pháp liên quan.
+- **Chi tiết đề**: cấu trúc từng phần thi, phân bố độ khó, chuyên đề.
 - **Làm bài** (`/de-thi/[slug]/lam-bai`): đồng hồ đếm ngược chạy tại máy, tự nộp khi hết giờ, tự lưu bản nháp vào `localStorage`, nộp bài là chấm điểm ngay và hiện lời giải từng câu.
-- **Phương pháp** (`/phuong-phap`) và **Bài viết** (`/bai-viet`): lọc theo môn/chuyên mục, nội dung Markdown có công thức KaTeX.
-- **SEO**: canonical, Open Graph, Twitter Card, JSON-LD (WebSite, EducationalOrganization, BreadcrumbList, LearningResource, Article/BlogPosting), `sitemap.xml`, `robots.txt`, Web App Manifest.
+- **SEO**: canonical, Open Graph, Twitter Card, JSON-LD (WebSite, EducationalOrganization, BreadcrumbList, LearningResource), `sitemap.xml`, `robots.txt`, Web App Manifest.
 
 Điểm và lịch sử làm bài **chỉ lưu trên thiết bị** của người học, không gửi đi đâu cả.
 
@@ -48,8 +47,6 @@ Không cần sửa code — chỉ sửa file JSON trong `content/` rồi build l
 |---|---|
 | `content/subjects.json` | Môn học và chuyên đề (kèm slug dùng để tham chiếu) |
 | `content/exams/*.json` | Đề thi, câu hỏi, phương án, đáp án đúng, lời giải, độ khó, thẻ |
-| `content/articles/*.json` | Bài phương pháp (gắn môn học và đề liên quan) |
-| `content/posts/*.json` | Bài viết/kinh nghiệm theo chuyên mục |
 
 Quy ước nhanh:
 
@@ -59,7 +56,7 @@ Quy ước nhanh:
 - `publishedAt`/`updatedAt` theo chuẩn ISO 8601; trang sắp xếp theo `publishedAt` giảm dần.
 - Nếu tham chiếu sai (môn/chuyên đề/đề không tồn tại) hoặc thiếu trường bắt buộc, **build sẽ báo lỗi** kèm tên file và vị trí — không có chuyện nội dung lỗi lọt lên production.
 
-Để thêm một đề mới: tạo file trong `content/exams/`, khai báo nó trong `lib/content.ts` (`examContents`), và slug sẽ tự có trang chi tiết + trang làm bài.
+Để thêm một đề mới: tạo file trong `content/exams/`; slug sẽ tự có trang chi tiết, trang làm bài, luyện tập và đề con sau khi build.
 
 ## Lệnh hữu ích
 
@@ -83,8 +80,6 @@ Quy ước nhanh:
 │   │   │   └── [slug]/
 │   │   │       ├── page.tsx    # Chi tiết đề
 │   │   │       └── lam-bai/    # Làm bài + chấm điểm tại máy
-│   │   ├── phuong-phap/        # Danh sách + chi tiết bài phương pháp
-│   │   ├── bai-viet/           # Danh sách + chi tiết bài viết
 │   │   ├── error.tsx
 │   │   └── not-found.tsx
 │   ├── layout.tsx              # Metadata gốc, font Be Vietnam Pro, CSS KaTeX
@@ -96,8 +91,7 @@ Quy ước nhanh:
 │   ├── ui/                     # button, input, card, badge
 │   ├── layout/                 # header, footer, skip link, breadcrumbs, 404
 │   ├── seo/                    # JsonLd
-│   ├── exams/                  # thẻ đề, bộ lọc, runner làm bài
-│   └── articles/               # thẻ bài, bộ lọc, ảnh bìa
+│   └── exams/                  # thẻ đề, bộ lọc, runner làm bài
 ├── content/                    # Nguồn nội dung duy nhất (JSON)
 ├── lib/
 │   ├── content.ts              # Đọc + validate nội dung, tạo view model
@@ -111,7 +105,9 @@ Quy ước nhanh:
 ├── scripts/
 │   ├── serve-out.mjs           # Máy chủ tĩnh xem trước out/
 │   └── gen-brand-images.ps1    # Sinh lại ảnh thương hiệu
-├── public/og-default.png       # Ảnh chia sẻ mặc định 1200×630
+├── public/
+│   ├── logo.png                # Logo hiển thị trên header/footer
+│   └── og-default.png          # Ảnh chia sẻ mặc định 1200×630
 ├── docs/deploy-netlify.md      # Hướng dẫn deploy
 ├── netlify.toml                # Build, publish out/, header bảo mật & cache
 └── next.config.mjs

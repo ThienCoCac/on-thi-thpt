@@ -3,7 +3,6 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import {
   AlertTriangle,
-  ArrowRight,
   BookOpenCheck,
   CalendarDays,
   CheckCircle2,
@@ -157,7 +156,7 @@ export default function ExamDetailPage({ params }: ExamDetailPageProps) {
 
         <dl className="mt-6 grid grid-cols-2 gap-3 md:grid-cols-4">
           {metaItems.map((item) => (
-            <div key={item.label} className="rounded-xl border bg-card p-4">
+            <div key={item.label} className="rounded-2xl border bg-card p-4">
               <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
                 <item.icon className="h-3.5 w-3.5" aria-hidden="true" />
                 {item.label}
@@ -292,35 +291,6 @@ export default function ExamDetailPage({ params }: ExamDetailPageProps) {
               </CardContent>
             </Card>
           </div>
-
-          {exam.relatedArticles.length > 0 ? (
-            <Card>
-              <CardHeader>
-                <CardTitle className="text-base">Bài phương pháp liên quan</CardTitle>
-                <CardDescription>
-                  Đọc trước khi làm đề để áp dụng kỹ thuật tư duy phù hợp.
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                <ul className="space-y-2">
-                  {exam.relatedArticles.map((article) => (
-                    <li key={article.slug}>
-                      <Link
-                        href={`/phuong-phap/${article.slug}`}
-                        className="flex items-center justify-between gap-3 rounded-lg border px-4 py-3 text-sm transition-colors hover:bg-secondary"
-                      >
-                        <span className="font-medium">{article.title}</span>
-                        <ArrowRight
-                          className="h-4 w-4 shrink-0 text-muted-foreground"
-                          aria-hidden="true"
-                        />
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </CardContent>
-            </Card>
-          ) : null}
         </div>
 
         <aside className="space-y-4 lg:sticky lg:top-20">

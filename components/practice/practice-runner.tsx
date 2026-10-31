@@ -223,18 +223,18 @@ export function PracticeRunner({
             <h1 className="mt-2 text-2xl font-bold tracking-tight md:text-3xl">{title}</h1>
 
             <div className="mt-6 grid gap-3 sm:grid-cols-3">
-              <div className="rounded-xl border bg-emerald-50 p-4">
+              <div className="rounded-2xl border bg-emerald-50 p-4">
                 <p className="text-xs text-emerald-800">Trả lời đúng</p>
                 <p className="mt-1 text-2xl font-bold text-emerald-900">
                   {correctCount}
                   <span className="text-base font-semibold text-emerald-700">/{total}</span>
                 </p>
               </div>
-              <div className="rounded-xl border bg-muted/40 p-4">
+              <div className="rounded-2xl border bg-muted/40 p-4">
                 <p className="text-xs text-muted-foreground">Độ chính xác</p>
                 <p className="mt-1 text-2xl font-bold">{accuracy}%</p>
               </div>
-              <div className="rounded-xl border bg-muted/40 p-4">
+              <div className="rounded-2xl border bg-muted/40 p-4">
                 <p className="text-xs text-muted-foreground">Thời gian</p>
                 <p className="mt-1 text-2xl font-bold">{formatTimeSpent(duration)}</p>
               </div>
@@ -281,7 +281,7 @@ export function PracticeRunner({
         </Card>
 
         {wrongQuestions.length > 0 ? (
-          <div className="mt-6 rounded-xl border bg-card p-4">
+          <div className="mt-6 rounded-2xl border bg-card p-4">
             <p className="text-sm font-semibold">Các câu cần xem lại</p>
             <ul className="mt-3 space-y-2">
               {results
@@ -434,7 +434,7 @@ export function PracticeRunner({
                 readOnly={checked}
                 placeholder="Viết bài làm của bạn"
                 aria-label={`Bài làm cho câu ${index + 1}`}
-                className="min-h-[140px] w-full rounded-md border border-input bg-background px-3 py-2 text-sm leading-relaxed ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+                className="min-h-[140px] w-full rounded-lg border border-input bg-background px-3 py-2 text-sm leading-relaxed ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
               />
             ) : current.options.length > 0 ? (
               <div
@@ -456,7 +456,7 @@ export function PracticeRunner({
                       onClick={() => chooseOption(current, option.key)}
                       aria-pressed={isChosen}
                       className={cn(
-                        'flex items-start gap-3 rounded-xl border p-3.5 text-left transition-colors',
+                        'flex items-start gap-3 rounded-2xl border p-3.5 text-left transition-colors',
                         showState && isCorrectOption
                           ? 'border-emerald-400 bg-emerald-50'
                           : showState && isChosen && !isCorrectOption
@@ -469,7 +469,7 @@ export function PracticeRunner({
                     >
                       <span
                         className={cn(
-                          'mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-md border text-xs font-bold',
+                          'mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border text-xs font-bold',
                           showState && isCorrectOption
                             ? 'border-emerald-500 bg-emerald-500 text-white'
                             : showState && isChosen && !isCorrectOption
@@ -541,7 +541,7 @@ export function PracticeRunner({
               <div className="space-y-3">
                 <div
                   className={cn(
-                    'flex items-start gap-2.5 rounded-xl border px-4 py-3 text-sm',
+                    'flex items-start gap-2.5 rounded-2xl border px-4 py-3 text-sm',
                     currentResult?.isCorrect === true
                       ? 'border-emerald-300 bg-emerald-50 text-emerald-900'
                       : currentResult?.isCorrect === false
@@ -582,7 +582,7 @@ export function PracticeRunner({
                   </div>
                 </div>
 
-                <div className="rounded-xl border border-primary/20 bg-primary/5 p-4">
+                <div className="rounded-2xl border border-primary/20 bg-primary/5 p-4">
                   <p className="flex items-center gap-2 text-sm font-semibold text-primary">
                     <Lightbulb className="h-4 w-4" aria-hidden="true" />
                     Lời giải

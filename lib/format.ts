@@ -76,7 +76,7 @@ export function formatScore(value: number | null | undefined): string {
   return Number.isInteger(value) ? String(value) : value.toFixed(2);
 }
 
-// Tạo tóm tắt thuần văn bản từ nội dung Markdown để hiển thị ở thẻ bài viết.
+// Tạo tóm tắt thuần văn bản từ nội dung Markdown để hiển thị ở thẻ câu hỏi.
 export function toExcerpt(markdown: string, maxLength = 160): string {
   const plain = markdown
     .replace(/```[\s\S]*?```/g, ' ')

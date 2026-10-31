@@ -12,6 +12,7 @@ import {
   Target,
 } from 'lucide-react';
 import { PracticeRunner } from '@/components/practice/practice-runner';
+import { DogMascot } from '@/components/brand/dog-mascot';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import {
@@ -67,10 +68,15 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
     return (
       <Card>
         <CardHeader>
-          <CardTitle>Chưa có câu hỏi để luyện</CardTitle>
-          <CardDescription>
-            Nội dung đang được cập nhật. Quay lại sau khi có thêm đề nhé.
-          </CardDescription>
+          <div className="flex items-start justify-between gap-4">
+            <div className="space-y-1.5">
+              <CardTitle>Chưa có câu hỏi để luyện</CardTitle>
+              <CardDescription>
+                Nội dung đang được cập nhật. Quay lại sau khi có thêm đề nhé.
+              </CardDescription>
+            </div>
+            <DogMascot className="h-20 w-20 shrink-0" />
+          </div>
         </CardHeader>
         <CardContent>
           <Button asChild>

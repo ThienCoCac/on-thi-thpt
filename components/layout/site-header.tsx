@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import { DogMascot } from '@/components/brand/dog-mascot';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 
@@ -10,8 +11,6 @@ const navItems = [
   { href: '/de-thi', label: 'Đề thi' },
   { href: '/luyen-tap', label: 'Luyện tập' },
   { href: '/tien-do', label: 'Tiến độ' },
-  { href: '/phuong-phap', label: 'Phương pháp' },
-  { href: '/bai-viet', label: 'Bài viết' },
 ];
 
 function isActive(pathname: string, href: string): boolean {
@@ -25,12 +24,7 @@ export function SiteHeader() {
     <header className="border-b">
       <div className="container flex h-16 items-center justify-between gap-4">
         <Link href="/" className="flex shrink-0 items-center gap-2">
-          <span
-            className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-lg font-bold text-primary-foreground"
-            aria-hidden="true"
-          >
-            Ô
-          </span>
+          <DogMascot className="h-10 w-10 shrink-0" />
           <span className="text-base font-semibold tracking-tight">Ôn Thi THPT</span>
         </Link>
 

@@ -102,10 +102,10 @@ Lưu ý:
 | 2 | `GET /de-thi` | Lọc theo môn/loại/năm/từ khóa và phân trang hoạt động |
 | 3 | Chi tiết đề → **Bắt đầu làm bài** | Đồng hồ chạy, chọn đáp án, nộp bài ra điểm và lời giải |
 | 4 | Tải lại trang giữa bài | Bản nháp được khôi phục từ `localStorage` |
-| 5 | `GET /phuong-phap`, `GET /bai-viet` | Danh sách + bộ lọc hoạt động, bài chi tiết render Markdown/KaTeX |
+| 5 | `GET /luyen-tap`, `GET /tien-do` | Luyện theo chuyên đề hiện đáp án ngay, sổ tay câu sai và tiến độ hoạt động |
 | 6 | `GET /robots.txt` | Có `Sitemap: https://<domain>/sitemap.xml`, chặn `/de-thi/*/lam-bai` |
 | 7 | `GET /sitemap.xml` | Liệt kê trang chủ, các trang danh sách và slug đề/bài |
-| 8 | `GET /manifest.webmanifest` | Trả JSON manifest, icon `/icon.svg` + `/apple-icon.png` |
+| 8 | `GET /manifest.webmanifest` | Trả JSON manifest, icon `/icon.png` + `/apple-icon.png` |
 | 9 | `GET /khong-ton-tai` | Trả `404.html` với giao diện đầy đủ |
 | 10 | Xem source trang chủ | Có `og:*`, `twitter:card`, JSON-LD `WebSite` + `EducationalOrganization` |
 | 11 | Response header | Có `Strict-Transport-Security`, `X-Content-Type-Options: nosniff`, không có `X-Powered-By` |

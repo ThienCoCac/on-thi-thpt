@@ -87,7 +87,7 @@ function ReviewCard({
     <details
       open={variant !== 'correct'}
       className={cn(
-        'group rounded-xl border bg-card shadow-sm',
+        'group rounded-2xl border bg-card shadow-soft',
         variant === 'wrong'
           ? 'border-destructive/30'
           : variant === 'correct'
@@ -185,7 +185,7 @@ function ReviewCard({
                 >
                   <span
                     className={cn(
-                      'flex h-7 w-7 shrink-0 items-center justify-center rounded-md border text-xs font-bold',
+                      'flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border text-xs font-bold',
                       isCorrectOption
                         ? 'border-emerald-500 bg-emerald-500 text-white'
                         : isChosen
@@ -363,7 +363,7 @@ export function ExamResult({
           </div>
 
           <dl className="mt-6 grid gap-3 sm:grid-cols-3">
-            <div className="rounded-xl border bg-muted/30 p-4">
+            <div className="rounded-2xl border bg-muted/30 p-4">
               <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
                 <Clock className="h-3.5 w-3.5" aria-hidden="true" />
                 Thời gian làm bài
@@ -372,7 +372,7 @@ export function ExamResult({
                 {formatTimeSpent(result.timeSpentSeconds)}
               </dd>
             </div>
-            <div className="rounded-xl border bg-muted/30 p-4">
+            <div className="rounded-2xl border bg-muted/30 p-4">
               <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
                 <Target className="h-3.5 w-3.5" aria-hidden="true" />
                 Số câu đúng
@@ -383,7 +383,7 @@ export function ExamResult({
                   : `${result.correctCount}/${result.questionCount}`}
               </dd>
             </div>
-            <div className="rounded-xl border bg-muted/30 p-4">
+            <div className="rounded-2xl border bg-muted/30 p-4">
               <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
                 <CheckCircle2 className="h-3.5 w-3.5" aria-hidden="true" />
                 Độ chính xác
@@ -490,7 +490,7 @@ export function ExamResult({
             aria-live="polite"
           >
             {tab === 'neutral' ? (
-              <p className="mb-3 rounded-xl border border-primary/20 bg-primary/5 px-4 py-3 text-sm leading-relaxed">
+              <p className="mb-3 rounded-2xl border border-primary/20 bg-primary/5 px-4 py-3 text-sm leading-relaxed">
                 Câu tự luận không được chấm tự động. Hãy đọc lại bài làm, đối chiếu với bài mẫu và
                 thang điểm gợi ý để tự đánh giá, rồi ghi lại những ý cần bổ sung cho lần viết sau.
               </p>
@@ -511,7 +511,7 @@ export function ExamResult({
                   </CardContent>
                 </Card>
               ) : (
-                <p className="rounded-xl border bg-card p-5 text-sm text-muted-foreground">
+                <p className="rounded-2xl border bg-card p-5 text-sm text-muted-foreground">
                   Không có câu nào trong nhóm này.
                 </p>
               )

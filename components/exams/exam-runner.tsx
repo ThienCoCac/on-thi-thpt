@@ -628,7 +628,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
 
           <CardContent className="space-y-5">
             <dl className="grid grid-cols-3 gap-3">
-              <div className="rounded-xl border bg-muted/30 p-3">
+              <div className="rounded-2xl border bg-muted/30 p-3">
                 <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
                   <Clock className="h-3.5 w-3.5" aria-hidden="true" />
                   Thời gian
@@ -637,14 +637,14 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
                   {formatDuration(exam.durationMinutes)}
                 </dd>
               </div>
-              <div className="rounded-xl border bg-muted/30 p-3">
+              <div className="rounded-2xl border bg-muted/30 p-3">
                 <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
                   <ListChecks className="h-3.5 w-3.5" aria-hidden="true" />
                   Số câu hỏi
                 </dt>
                 <dd className="mt-1 text-base font-semibold">{total} câu</dd>
               </div>
-              <div className="rounded-xl border bg-muted/30 p-3">
+              <div className="rounded-2xl border bg-muted/30 p-3">
                 <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
                   <Target className="h-3.5 w-3.5" aria-hidden="true" />
                   Thang điểm
@@ -655,7 +655,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
               </div>
             </dl>
 
-            <ul className="space-y-2.5 rounded-xl border bg-secondary/30 p-4 text-sm text-muted-foreground">
+            <ul className="space-y-2.5 rounded-2xl border bg-secondary/30 p-4 text-sm text-muted-foreground">
               <li className="flex gap-2">
                 <Timer className="mt-0.5 h-4 w-4 shrink-0 text-primary" aria-hidden="true" />
                 <span>Đồng hồ bắt đầu tính từ lúc bạn bấm bắt đầu làm bài.</span>
@@ -770,7 +770,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
       <div className="container grid max-w-6xl items-start gap-6 py-6 lg:grid-cols-[minmax(0,1fr)_320px]">
         <main className="min-w-0">
           <div className="mb-4 lg:hidden">
-            <details className="rounded-xl border bg-card p-4">
+            <details className="rounded-2xl border bg-card p-4">
               <summary className="cursor-pointer text-sm font-medium">
                 Danh sách câu hỏi ({answeredCount}/{total})
               </summary>
@@ -848,7 +848,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
                       onChange={(event) => handleTextChange(current, event.target.value)}
                       placeholder="Viết bài làm của bạn"
                       aria-label={`Bài làm cho câu ${currentIndex + 1}`}
-                      className="min-h-[160px] w-full rounded-md border border-input bg-background px-3 py-2 text-sm leading-relaxed ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+                      className="min-h-[160px] w-full rounded-lg border border-input bg-background px-3 py-2 text-sm leading-relaxed ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
                     />
                     <p className="text-xs text-muted-foreground">
                       Câu tự luận chưa được chấm tự động. Sau khi nộp, bạn đối chiếu bài làm với
@@ -871,7 +871,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
                         <label
                           key={option.key}
                           className={cn(
-                            'flex cursor-pointer items-start gap-3 rounded-xl border p-3.5 transition-colors',
+                            'flex cursor-pointer items-start gap-3 rounded-2xl border p-3.5 transition-colors',
                             selected
                               ? 'border-primary bg-primary/5'
                               : 'bg-card hover:border-primary/40',
@@ -888,7 +888,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
                           />
                           <span
                             className={cn(
-                              'mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-md border text-xs font-bold',
+                              'mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border text-xs font-bold',
                               selected
                                 ? 'border-primary bg-primary text-primary-foreground'
                                 : 'bg-background text-muted-foreground',
@@ -1009,7 +1009,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
             role="dialog"
             aria-modal="true"
             aria-labelledby="submit-dialog-title"
-            className="w-full max-w-md rounded-xl border bg-card p-6 shadow-lg"
+            className="w-full max-w-md rounded-2xl border bg-card p-6 shadow-lift"
           >
             <div className="flex items-start justify-between gap-3">
               <h2 id="submit-dialog-title" className="text-lg font-semibold">
@@ -1019,7 +1019,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
                 type="button"
                 onClick={() => setConfirmOpen(false)}
                 aria-label="Đóng hộp thoại"
-                className="rounded-md p-1 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+                className="rounded-lg p-1 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
               >
                 <X className="h-5 w-5" aria-hidden="true" />
               </button>

@@ -64,37 +64,9 @@ export interface ExamContent {
   questions: ExamQuestionContent[];
 }
 
-export interface ArticleContent {
-  id: string;
-  title: string;
-  slug: string;
-  subject: string;
-  relatedExam: string | null;
-  coverImageUrl: string | null;
-  publishedAt: string;
-  updatedAt: string;
-  content: string;
-}
-
-export interface PostContent {
-  id: string;
-  title: string;
-  slug: string;
-  excerpt: string;
-  category: string | null;
-  coverImageUrl: string | null;
-  publishedAt: string;
-  updatedAt: string;
-  content: string;
-}
-
 export interface SubjectRef {
   name: string;
   slug: string;
-}
-
-export interface AuthorRef {
-  fullName: string;
 }
 
 export interface ExamSummary {
@@ -113,6 +85,7 @@ export interface ExamSummary {
   updatedAt: Date;
   subject: SubjectRef;
   questionCount: number;
+  difficulty: Difficulty;
 }
 
 export interface ExamPart {
@@ -136,7 +109,6 @@ export interface ExamDetail extends ExamSummary {
   parts: ExamPart[];
   difficulties: DifficultyBreakdownItem[];
   topics: TopicBreakdownItem[];
-  relatedArticles: ArticleSummary[];
 }
 
 export interface SubjectSummary {
@@ -148,46 +120,9 @@ export interface SubjectSummary {
   topicCount: number;
 }
 
-export interface ArticleSummary {
-  id: string;
-  title: string;
-  slug: string;
-  excerpt: string;
-  coverImageUrl: string | null;
-  publishedAt: Date;
-  updatedAt: Date;
-  subject: SubjectRef | null;
-  author: AuthorRef;
-  relatedExam: { title: string; slug: string } | null;
-}
-
-export interface ArticleDetail extends ArticleSummary {
-  content: string;
-  contentHtml: string;
-}
-
-export interface PostSummary {
-  id: string;
-  title: string;
-  slug: string;
-  excerpt: string;
-  coverImageUrl: string | null;
-  category: string | null;
-  publishedAt: Date;
-  updatedAt: Date;
-  author: AuthorRef;
-}
-
-export interface PostDetail extends PostSummary {
-  content: string;
-  contentHtml: string;
-}
-
 export interface ContentStats {
   exams: number;
   questions: number;
-  articles: number;
-  posts: number;
 }
 
 // Dữ liệu chuyển sang trình duyệt cho luồng làm bài và chấm điểm tại máy.

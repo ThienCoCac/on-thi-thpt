@@ -23,7 +23,7 @@
     --border: 214 32% 91%;
     --input: 214 32% 91%;
     --ring: 224 64% 33%;
-    --radius: 0.5rem;
+    --radius: 0.75rem;
   }
 
   * {
@@ -41,7 +41,7 @@
 
 @layer components {
   .skip-link {
-    @apply absolute left-4 top-4 z-50 -translate-y-24 rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow-lg transition-transform;
+    @apply absolute left-4 top-4 z-50 -translate-y-24 rounded-lg bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow-lift transition-transform;
   }
 
   .skip-link:focus-visible {
@@ -81,7 +81,7 @@
   }
 
   .article-content .video-embed {
-    @apply relative aspect-video w-full overflow-hidden rounded-xl border bg-black;
+    @apply relative aspect-video w-full overflow-hidden rounded-2xl border bg-black;
   }
 
   .article-content .video-embed iframe {

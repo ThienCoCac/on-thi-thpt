@@ -12,6 +12,7 @@ import {
   Trash2,
 } from 'lucide-react';
 import { PracticeRunner } from '@/components/practice/practice-runner';
+import { DogMascot } from '@/components/brand/dog-mascot';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import {
@@ -219,14 +220,19 @@ export function MistakeBook() {
     return (
       <Card>
         <CardHeader>
-          <CardTitle className="flex items-center gap-2 text-lg">
-            <NotebookPen className="h-5 w-5 text-primary" aria-hidden="true" />
-            Sổ tay đang trống
-          </CardTitle>
-          <CardDescription>
-            Những câu bạn làm sai trong đề thi hoặc phiên luyện tập sẽ tự động được ghi vào
-            đây. Trả lời đúng lại thì câu đó được gỡ khỏi sổ.
-          </CardDescription>
+          <div className="flex items-start justify-between gap-4">
+            <div className="space-y-1.5">
+              <CardTitle className="flex items-center gap-2 text-lg">
+                <NotebookPen className="h-5 w-5 text-primary" aria-hidden="true" />
+                Sổ tay đang trống
+              </CardTitle>
+              <CardDescription>
+                Những câu bạn làm sai trong đề thi hoặc phiên luyện tập sẽ tự động được ghi vào
+                đây. Trả lời đúng lại thì câu đó được gỡ khỏi sổ.
+              </CardDescription>
+            </div>
+            <DogMascot className="h-20 w-20 shrink-0" />
+          </div>
         </CardHeader>
         <CardContent className="flex flex-wrap gap-3">
           <Button asChild>
@@ -382,7 +388,7 @@ export function MistakeBook() {
           const correctKeys = getCorrectOptionKeys(question.correctAnswer);
 
           return (
-            <details key={entry.id} className="group rounded-xl border bg-card shadow-sm">
+            <details key={entry.id} className="group rounded-2xl border bg-card shadow-soft">
               <summary className="flex cursor-pointer list-none items-start gap-3 p-4 [&::-webkit-details-marker]:hidden">
                 <span className="min-w-0 flex-1">
                   <span className="flex flex-wrap items-center gap-1.5">
@@ -428,7 +434,7 @@ export function MistakeBook() {
                         >
                           <span
                             className={cn(
-                              'flex h-7 w-7 shrink-0 items-center justify-center rounded-md border text-xs font-bold',
+                              'flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border text-xs font-bold',
                               isCorrectOption
                                 ? 'border-emerald-500 bg-emerald-500 text-white'
                                 : 'bg-background text-muted-foreground',

@@ -2,16 +2,11 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { z } from 'zod';
 import type {
-  ArticleContent,
-  ArticleDetail,
-  ArticleSummary,
   BankQuestion,
+  Difficulty,
   ExamContent,
   ExamDetail,
   ExamSummary,
-  PostContent,
-  PostDetail,
-  PostSummary,
   PracticeSubject,
   RunnerExam,
   RunnerQuestion,
@@ -21,13 +16,10 @@ import type {
   TopicContent,
 } from '@/lib/content-types';
 import { DIFFICULTY_ORDER } from '@/lib/labels';
-import { toExcerpt } from '@/lib/format';
 import { renderMarkdown } from '@/lib/markdown';
 
 // Toàn bộ nội dung nằm trong thư mục content/ và được kiểm tra kiểu khi build.
 // Sửa nội dung bằng cách sửa file JSON rồi build lại, không cần cơ sở dữ liệu.
-
-const CONTENT_AUTHOR = { fullName: 'Ban biên tập Ôn Thi THPT' };
 
 const CONTENT_DIR = path.join(process.cwd(), 'content');
 
@@ -115,30 +107,6 @@ const examSchema = z.object({
   questions: z.array(questionSchema).min(1),
 });
 
-const articleSchema = z.object({
-  id: z.string().trim().min(1),
-  title: z.string().trim().min(1),
-  slug: z.string().trim().min(1),
-  subject: z.string().trim().min(1),
-  relatedExam: z.string().nullish().transform((value) => value ?? null),
-  coverImageUrl: z.string().nullish().transform((value) => value ?? null),
-  publishedAt: isoDate,
-  updatedAt: isoDate,
-  content: z.string().trim().min(1),
-});
-
-const postSchema = z.object({
-  id: z.string().trim().min(1),
-  title: z.string().trim().min(1),
-  slug: z.string().trim().min(1),
-  excerpt: z.string(),
-  category: z.string().nullish().transform((value) => value ?? null),
-  coverImageUrl: z.string().nullish().transform((value) => value ?? null),
-  publishedAt: isoDate,
-  updatedAt: isoDate,
-  content: z.string().trim().min(1),
-});
-
 function parseContent<TSchema extends z.ZodTypeAny>(
   schema: TSchema,
   value: unknown,
@@ -162,14 +130,6 @@ const subjectContents: SubjectContent[] = parseContent(
 
 const examContents: ExamContent[] = readJsonFolder('exams').map(({ label, value }) =>
   parseContent(examSchema, value, label),
-);
-
-const articleContents: ArticleContent[] = readJsonFolder('articles').map(({ label, value }) =>
-  parseContent(articleSchema, value, label),
-);
-
-const postContents: PostContent[] = readJsonFolder('posts').map(({ label, value }) =>
-  parseContent(postSchema, value, label),
 );
 
 const subjectBySlug = new Map(subjectContents.map((subject) => [subject.slug, subject]));
@@ -205,14 +165,6 @@ for (const exam of examContents) {
     }
   }
 }
-for (const article of articleContents) {
-  requireSubjectRef(article.subject);
-  if (article.relatedExam && !examContents.some((exam) => exam.slug === article.relatedExam)) {
-    throw new Error(
-      `Bài viết ${article.slug} tham chiếu đề "${article.relatedExam}" không tồn tại`,
-    );
-  }
-}
 
 const examBySlug = new Map(examContents.map((exam) => [exam.slug, exam]));
 
@@ -220,13 +172,26 @@ const sortedExams = [...examContents].sort(
   (a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt),
 );
 
-const sortedArticles = [...articleContents].sort(
-  (a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt),
-);
+const DIFFICULTY_WEIGHT: Record<Difficulty, number> = {
+  EASY: 1,
+  MEDIUM: 2,
+  HARD: 3,
+  VERY_HARD: 4,
+};
 
-const sortedPosts = [...postContents].sort(
-  (a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt),
-);
+function averageDifficulty(exam: ExamContent): Difficulty {
+  if (exam.questions.length === 0) {
+    return 'MEDIUM';
+  }
+
+  const total = exam.questions.reduce(
+    (sum, question) => sum + DIFFICULTY_WEIGHT[question.difficulty],
+    0,
+  );
+  const level = Math.min(4, Math.max(1, Math.round(total / exam.questions.length)));
+
+  return DIFFICULTY_ORDER[level - 1];
+}
 
 function toExamSummary(exam: ExamContent): ExamSummary {
   return {
@@ -245,27 +210,9 @@ function toExamSummary(exam: ExamContent): ExamSummary {
     updatedAt: new Date(exam.updatedAt),
     subject: requireSubjectRef(exam.subject),
     questionCount: exam.questions.length,
+    difficulty: averageDifficulty(exam),
   };
 }
-
-function toArticleSummary(article: ArticleContent): ArticleSummary {
-  const exam = article.relatedExam ? examBySlug.get(article.relatedExam) : undefined;
-
-  return {
-    id: article.id,
-    title: article.title,
-    slug: article.slug,
-    excerpt: toExcerpt(article.content),
-    coverImageUrl: article.coverImageUrl ?? null,
-    publishedAt: new Date(article.publishedAt),
-    updatedAt: new Date(article.updatedAt),
-    subject: requireSubjectRef(article.subject),
-    author: CONTENT_AUTHOR,
-    relatedExam: exam ? { title: exam.title, slug: exam.slug } : null,
-  };
-}
-
-const articleSummaries = sortedArticles.map(toArticleSummary);
 
 export function listSubjects(): SubjectSummary[] {
   return subjectContents.map((subject) => ({
@@ -357,9 +304,6 @@ export function getExamBySlug(slug: string): ExamDetail | null {
       count: difficultyCounts.get(key) ?? 0,
     })),
     topics,
-    relatedArticles: articleSummaries
-      .filter((article) => article.relatedExam?.slug === exam.slug)
-      .slice(0, 3),
   };
 }
 
@@ -461,103 +405,9 @@ export function getPracticeCatalog(): PracticeSubject[] {
     .filter((subject) => subject.questionCount > 0);
 }
 
-export function listArticles(
-  options: { subject?: string; limit?: number } = {},
-): ArticleSummary[] {
-  const items = options.subject
-    ? articleSummaries.filter((article) => article.subject?.slug === options.subject)
-    : articleSummaries;
-
-  return items.slice(0, options.limit ?? 20);
-}
-
-export function listLatestArticles(limit = 3): ArticleSummary[] {
-  return articleSummaries.slice(0, limit);
-}
-
-export function listArticleSubjects(): SubjectRef[] {
-  const slugs = new Set(articleContents.map((article) => article.subject));
-  return subjectContents
-    .filter((subject) => slugs.has(subject.slug))
-    .map((subject) => ({ name: subject.name, slug: subject.slug }));
-}
-
-export function listArticleSlugs(): string[] {
-  return sortedArticles.map((article) => article.slug);
-}
-
-export function getArticleBySlug(slug: string): ArticleDetail | null {
-  const article = sortedArticles.find((item) => item.slug === slug);
-
-  if (!article) {
-    return null;
-  }
-
-  return {
-    ...toArticleSummary(article),
-    content: article.content,
-    contentHtml: renderMarkdown(article.content),
-  };
-}
-
-function toPostSummary(post: PostContent): PostSummary {
-  return {
-    id: post.id,
-    title: post.title,
-    slug: post.slug,
-    excerpt: post.excerpt.trim() || toExcerpt(post.content),
-    coverImageUrl: post.coverImageUrl ?? null,
-    category: post.category?.trim() || null,
-    publishedAt: new Date(post.publishedAt),
-    updatedAt: new Date(post.updatedAt),
-    author: CONTENT_AUTHOR,
-  };
-}
-
-export function listPosts(
-  options: { category?: string; limit?: number } = {},
-): PostSummary[] {
-  const items = options.category
-    ? sortedPosts.filter((post) => post.category?.trim() === options.category)
-    : sortedPosts;
-
-  return items.slice(0, options.limit ?? 20).map(toPostSummary);
-}
-
-export function listPostCategories(): string[] {
-  const categories = new Set<string>();
-  for (const post of postContents) {
-    const category = post.category?.trim();
-    if (category) {
-      categories.add(category);
-    }
-  }
-  return Array.from(categories).sort((a, b) => a.localeCompare(b, 'vi'));
-}
-
-export function listPostSlugs(): string[] {
-  return sortedPosts.map((post) => post.slug);
-}
-
-export function getPostBySlug(slug: string): PostDetail | null {
-  const post = sortedPosts.find((item) => item.slug === slug);
-
-  if (!post) {
-    return null;
-  }
-
-  return {
-    ...toPostSummary(post),
-    content: post.content,
-    contentHtml: renderMarkdown(post.content),
-  };
-}
-
 export function getContentStats(): {
   exams: number;
   questions: number;
-  articles: number;
-  posts: number;
 } {
   const questionIds = new Set<string>();
   for (const exam of examContents) {
@@ -569,9 +419,5 @@ export function getContentStats(): {
   return {
     exams: examContents.length,
     questions: questionIds.size,
-    articles: articleContents.length,
-    posts: postContents.length,
   };
 }
-
-export { CONTENT_AUTHOR };

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowRight, BookOpenCheck, CheckCircle2, Brain } from 'lucide-react';
-import { ArticleCard } from '@/components/articles/article-card';
+import { DogMascot } from '@/components/brand/dog-mascot';
 import { ExamCard } from '@/components/exams/exam-card';
 import { JsonLd } from '@/components/seo/json-ld';
 import { Button } from '@/components/ui/button';
@@ -9,7 +9,6 @@ import { formatNumber } from '@/lib/format';
 import {
   getContentStats,
   listFeaturedExams,
-  listLatestArticles,
   listLatestExams,
 } from '@/lib/content';
 import {
@@ -86,7 +85,6 @@ function SectionHeading({
 export default function HomePage() {
   const featuredExams = listFeaturedExams(3);
   const latestExams = listLatestExams(4);
-  const articles = listLatestArticles(3);
   const stats = getContentStats();
 
   const featuredSlugs = new Set(featuredExams.map((exam) => exam.slug));
@@ -97,8 +95,6 @@ export default function HomePage() {
   const statItems = [
     { label: 'Đề thi sẵn sàng', value: stats.exams },
     { label: 'Câu hỏi có lời giải', value: stats.questions },
-    { label: 'Bài phương pháp', value: stats.articles },
-    { label: 'Bài viết kinh nghiệm', value: stats.posts },
   ];
 
   return (
@@ -125,14 +121,24 @@ export default function HomePage() {
                   <Link href="/de-thi">Xem danh sách đề</Link>
                 </Button>
                 <Button asChild size="lg" variant="outline">
-                  <Link href="/phuong-phap">Học theo phương pháp</Link>
+                  <Link href="/luyen-tap">Luyện tập theo chuyên đề</Link>
                 </Button>
               </div>
             </div>
 
-            <div className="rounded-2xl border bg-background p-6 shadow-sm">
-              <p className="text-sm font-semibold text-foreground">Nội dung đang có</p>
-              <dl className="mt-5 grid grid-cols-2 gap-x-4 gap-y-6">
+            <div className="relative overflow-hidden rounded-2xl border bg-background p-6 shadow-soft">
+              <div
+                className="pointer-events-none absolute -right-12 -top-12 h-36 w-36 rounded-full bg-primary/5"
+                aria-hidden="true"
+              />
+              <div className="relative flex items-start justify-between gap-3">
+                <p className="text-sm font-semibold text-foreground">Nội dung đang có</p>
+                <DogMascot
+                  className="-mr-2 -mt-4 h-20 w-20 shrink-0"
+                  title="Linh vật Ôn Thi THPT - chú chó đội mũ NICE"
+                />
+              </div>
+              <dl className="relative mt-4 grid grid-cols-2 gap-x-4 gap-y-6">
                 {statItems.map((item) => (
                   <div key={item.label}>
                     <dd className="text-2xl font-bold tracking-tight text-primary">
@@ -144,9 +150,9 @@ export default function HomePage() {
                   </div>
                 ))}
               </dl>
-              <p className="mt-6 border-t pt-4 text-xs leading-relaxed text-muted-foreground">
-                Toàn bộ đề thi và bài viết được đóng gói sẵn trong website, tải nhanh và dùng
-                được ngay cả khi mạng chập chờn.
+              <p className="relative mt-6 border-t pt-4 text-xs leading-relaxed text-muted-foreground">
+                Toàn bộ đề thi được đóng gói sẵn trong website, tải nhanh và dùng được ngay cả
+                khi mạng chập chờn.
               </p>
             </div>
           </div>
@@ -187,47 +193,12 @@ export default function HomePage() {
         </section>
       ) : null}
 
-      {featuredExams.length === 0 && freshExams.length === 0 ? (
-        <section className="container py-14 md:py-16">
-          <div className="rounded-xl border border-dashed p-10 text-center">
-            <h2 className="text-lg font-semibold">Đề thi đang được cập nhật</h2>
-            <p className="mx-auto mt-2 max-w-md text-sm text-muted-foreground">
-              Nội dung đề sẽ sớm được bổ sung. Trong lúc chờ, bạn có thể đọc các bài phương
-              pháp để chuẩn bị nền tảng tư duy.
-            </p>
-            <Button asChild variant="outline" className="mt-5">
-              <Link href="/phuong-phap">Xem bài phương pháp</Link>
-            </Button>
-          </div>
-        </section>
-      ) : null}
-
-      <section className="container py-14 md:py-16">
-        <SectionHeading
-          title="Phương pháp & tư duy"
-          description="Học cách loại trừ đáp án, đọc dấu hiệu đề bài và phân bổ thời gian — những kỹ năng quyết định điểm số trong phòng thi."
-          href="/phuong-phap"
-          linkLabel="Tất cả bài viết"
-        />
-        {articles.length > 0 ? (
-          <div className="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
-            {articles.map((article) => (
-              <ArticleCard key={article.id} article={article} />
-            ))}
-          </div>
-        ) : (
-          <p className="mt-6 rounded-xl border border-dashed p-8 text-center text-sm text-muted-foreground">
-            Bài viết phương pháp đang được cập nhật.
-          </p>
-        )}
-      </section>
-
       <section className="border-y bg-secondary/30">
         <div className="container py-14 md:py-16">
           <h2 className="text-2xl font-bold tracking-tight">Vì sao học sinh chọn Ôn Thi THPT?</h2>
           <div className="mt-6 grid gap-5 md:grid-cols-3">
             {features.map((feature) => (
-              <div key={feature.title} className="rounded-xl border bg-background p-6">
+              <div key={feature.title} className="rounded-2xl border bg-background p-6">
                 <feature.icon className="h-6 w-6 text-accent" aria-hidden="true" />
                 <h3 className="mt-4 text-lg font-semibold">{feature.title}</h3>
                 <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
@@ -257,7 +228,7 @@ export default function HomePage() {
               variant="outline"
               className="border-primary-foreground/30 bg-transparent text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground"
             >
-              <Link href="/phuong-phap">Đọc phương pháp</Link>
+              <Link href="/luyen-tap">Vào luyện tập</Link>
             </Button>
           </div>
         </div>

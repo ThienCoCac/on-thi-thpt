@@ -1,7 +1,7 @@
 import { cn } from '@/lib/utils';
 
 function SkeletonBlock({ className }: { className?: string }) {
-  return <div className={cn('animate-pulse rounded-md bg-muted', className)} aria-hidden="true" />;
+  return <div className={cn('animate-pulse rounded-lg bg-muted', className)} aria-hidden="true" />;
 }
 
 interface PageSkeletonProps {
@@ -23,7 +23,7 @@ export function PageSkeleton({ variant = 'list', cards = 6 }: PageSkeletonProps)
       {variant === 'list' ? (
         <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {Array.from({ length: cards }).map((_, index) => (
-            <div key={index} className="rounded-xl border bg-card p-5">
+            <div key={index} className="rounded-2xl border bg-card p-5">
               <SkeletonBlock className="h-5 w-20" />
               <SkeletonBlock className="mt-4 h-6 w-full" />
               <SkeletonBlock className="mt-2 h-6 w-2/3" />

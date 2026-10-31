@@ -35,8 +35,6 @@ interface OpenGraphInput {
   description: string;
   path: string;
   imageUrl?: string | null;
-  publishedTime?: string;
-  modifiedTime?: string;
 }
 
 export function buildOpenGraph({
@@ -44,26 +42,10 @@ export function buildOpenGraph({
   description,
   path,
   imageUrl,
-  publishedTime,
-  modifiedTime,
 }: OpenGraphInput): NonNullable<Metadata['openGraph']> {
   const images = imageUrl
     ? [{ url: imageUrl, alt: title }]
     : [DEFAULT_OG_IMAGE];
-
-  if (publishedTime || modifiedTime) {
-    return {
-      type: 'article',
-      locale: SITE_LOCALE,
-      siteName: SITE_NAME,
-      title,
-      description,
-      url: absoluteUrl(path),
-      images,
-      publishedTime,
-      modifiedTime,
-    };
-  }
 
   return {
     type: 'website',
@@ -86,41 +68,6 @@ export function buildTwitter(
     title,
     description,
     images: imageUrl ? [imageUrl] : [DEFAULT_OG_IMAGE.url],
-  };
-}
-
-function toIsoDate(value: Date | null | undefined): string | undefined {
-  return value ? value.toISOString() : undefined;
-}
-
-export function articleJsonLd(input: {
-  type: 'Article' | 'BlogPosting';
-  title: string;
-  description: string;
-  path: string;
-  authorName: string;
-  publishedAt: Date | null;
-  updatedAt: Date | null;
-  imageUrl?: string | null;
-}): Record<string, unknown> {
-  return {
-    '@context': 'https://schema.org',
-    '@type': input.type,
-    headline: input.title,
-    description: input.description,
-    inLanguage: 'vi-VN',
-    mainEntityOfPage: absoluteUrl(input.path),
-    url: absoluteUrl(input.path),
-    datePublished: toIsoDate(input.publishedAt),
-    dateModified: toIsoDate(input.updatedAt ?? input.publishedAt),
-    author: { '@type': 'Person', name: input.authorName },
-    publisher: {
-      '@type': 'Organization',
-      name: SITE_NAME,
-      url: SITE_URL,
-      logo: { '@type': 'ImageObject', url: absoluteUrl('/icon.svg') },
-    },
-    ...(input.imageUrl ? { image: [input.imageUrl] } : {}),
   };
 }
 
@@ -162,7 +109,7 @@ export const organizationJsonLd: Record<string, unknown> = {
   name: SITE_NAME,
   url: SITE_URL,
   description: SITE_DESCRIPTION,
-  logo: absoluteUrl('/icon.svg'),
+  logo: absoluteUrl('/icon.png'),
 };
 
 export function examJsonLd(input: {

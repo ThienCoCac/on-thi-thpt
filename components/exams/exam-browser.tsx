@@ -1,14 +1,13 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import Link from 'next/link';
 import {
   ChevronLeft,
   ChevronRight,
-  FileSearch,
   RotateCcw,
   Search,
 } from 'lucide-react';
+import { DogMascot } from '@/components/brand/dog-mascot';
 import { ExamCard } from '@/components/exams/exam-card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -20,13 +19,13 @@ import { cn } from '@/lib/utils';
 const PAGE_SIZE = 6;
 
 const selectClassName =
-  'h-9 rounded-md border border-input bg-background px-2.5 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2';
+  'h-9 rounded-lg border border-input bg-background px-2.5 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2';
 
 const tabClassName =
   'inline-flex items-center gap-1.5 rounded-full border px-3.5 py-1.5 text-sm transition-colors';
 
 const pageItemClassName =
-  'inline-flex h-9 min-w-9 items-center justify-center rounded-md border px-3 text-sm transition-colors';
+  'inline-flex h-9 min-w-9 items-center justify-center rounded-lg border px-3 text-sm transition-colors';
 
 interface ExamBrowserProps {
   exams: ExamSummary[];
@@ -156,7 +155,7 @@ export function ExamBrowser({ exams, subjects, years }: ExamBrowserProps) {
           })}
         </div>
 
-        <div className="rounded-xl border bg-card p-4">
+        <div className="rounded-2xl border bg-card p-4">
           <div className="flex flex-col gap-3 md:flex-row md:items-center">
             <div className="relative flex-1" role="search">
               <Search
@@ -248,9 +247,12 @@ export function ExamBrowser({ exams, subjects, years }: ExamBrowserProps) {
           ))}
         </div>
       ) : (
-        <div className="mt-5 rounded-xl border border-dashed px-6 py-14 text-center">
-          <FileSearch className="mx-auto h-8 w-8 text-muted-foreground" aria-hidden="true" />
-          <h2 className="mt-3 text-lg font-semibold">
+        <div className="mt-5 rounded-2xl border border-dashed px-6 py-14 text-center">
+          <DogMascot
+            className="mx-auto h-20 w-20"
+            title={hasFilters ? 'Không tìm thấy đề phù hợp' : 'Đề thi đang được cập nhật'}
+          />
+          <h2 className="mt-4 text-lg font-semibold">
             {hasFilters ? 'Không tìm thấy đề phù hợp' : 'Đề thi đang được cập nhật'}
           </h2>
           <p className="mx-auto mt-2 max-w-md text-sm text-muted-foreground">
@@ -262,11 +264,7 @@ export function ExamBrowser({ exams, subjects, years }: ExamBrowserProps) {
             <Button type="button" variant="outline" className="mt-5" onClick={resetFilters}>
               Xóa toàn bộ bộ lọc
             </Button>
-          ) : (
-            <Button asChild variant="outline" className="mt-5">
-              <Link href="/phuong-phap">Xem bài phương pháp</Link>
-            </Button>
-          )}
+          ) : null}
         </div>
       )}
 

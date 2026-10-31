@@ -14,6 +14,7 @@ import {
   Trophy,
 } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
+import { DogMascot } from '@/components/brand/dog-mascot';
 import { Button } from '@/components/ui/button';
 import {
   Card,
@@ -131,14 +132,19 @@ export function ProgressDashboard() {
     return (
       <Card>
         <CardHeader>
-          <CardTitle className="flex items-center gap-2 text-lg">
-            <LineChart className="h-5 w-5 text-primary" aria-hidden="true" />
-            Chưa có dữ liệu tiến độ
-          </CardTitle>
-          <CardDescription>
-            Mọi lượt làm đề và luyện tập được lưu tự động trên thiết bị này, không cần đăng
-            nhập. Hãy bắt đầu bằng một đề hoặc một phiên luyện tập.
-          </CardDescription>
+          <div className="flex items-start justify-between gap-4">
+            <div className="space-y-1.5">
+              <CardTitle className="flex items-center gap-2 text-lg">
+                <LineChart className="h-5 w-5 text-primary" aria-hidden="true" />
+                Chưa có dữ liệu tiến độ
+              </CardTitle>
+              <CardDescription>
+                Mọi lượt làm đề và luyện tập được lưu tự động trên thiết bị này, không cần đăng
+                nhập. Hãy bắt đầu bằng một đề hoặc một phiên luyện tập.
+              </CardDescription>
+            </div>
+            <DogMascot className="h-20 w-20 shrink-0" />
+          </div>
         </CardHeader>
         <CardContent className="flex flex-wrap gap-3">
           <Button asChild>
@@ -158,7 +164,7 @@ export function ProgressDashboard() {
   return (
     <div className="space-y-6">
       <dl className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-        <div className="rounded-xl border bg-card p-4">
+        <div className="rounded-2xl border bg-card p-4">
           <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
             <ListChecks className="h-3.5 w-3.5" aria-hidden="true" />
             Lượt làm bài
@@ -168,7 +174,7 @@ export function ProgressDashboard() {
             {stats.distinct} đề/phiên khác nhau
           </p>
         </div>
-        <div className="rounded-xl border bg-card p-4">
+        <div className="rounded-2xl border bg-card p-4">
           <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
             <Target className="h-3.5 w-3.5" aria-hidden="true" />
             Độ chính xác trung bình
@@ -178,7 +184,7 @@ export function ProgressDashboard() {
             {stats.correct}/{stats.graded} câu đúng
           </p>
         </div>
-        <div className="rounded-xl border bg-card p-4">
+        <div className="rounded-2xl border bg-card p-4">
           <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
             <Flame className="h-3.5 w-3.5 text-accent" aria-hidden="true" />
             Chuỗi ngày học
@@ -188,7 +194,7 @@ export function ProgressDashboard() {
             Kỷ lục {stats.streak.best} ngày · {stats.streak.activeDays} ngày có làm bài
           </p>
         </div>
-        <div className="rounded-xl border bg-card p-4">
+        <div className="rounded-2xl border bg-card p-4">
           <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
             <NotebookPen className="h-3.5 w-3.5" aria-hidden="true" />
             Câu cần ôn
