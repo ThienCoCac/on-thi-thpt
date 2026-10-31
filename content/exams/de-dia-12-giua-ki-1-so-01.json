@@ -1,0 +1,3567 @@
+{
+  "id": "de-dia-12-giua-ki-1-so-01",
+  "title": "Đề ôn tập giữa kì I – Địa lí 12 (số 01)",
+  "slug": "de-dia-12-giua-ki-1-so-01",
+  "description": "Đề ôn tập giữa kì I môn Địa lí 12 gồm 54 câu trắc nghiệm, 48 nhận định đúng – sai và 18 câu trả lời ngắn về vị trí địa lí, thiên nhiên nhiệt đới ẩm gió mùa, sự phân hóa thiên nhiên, sử dụng và bảo vệ tự nhiên, kĩ năng địa lí.",
+  "subject": "dia-li",
+  "type": "FULL_EXAM",
+  "durationMinutes": 90,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-GK1-01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-10-31T09:00:00.000Z",
+  "updatedAt": "2026-10-31T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "dia-01-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta nằm hoàn toàn trong vùng nội chí tuyến của Bắc bán cầu nên có",
+      "options": [
+        {
+          "key": "A",
+          "text": "lượng mưa lớn và độ ẩm không khí rất cao."
+        },
+        {
+          "key": "B",
+          "text": "nhiệt độ trung bình năm cao và nhiều ánh nắng."
+        },
+        {
+          "key": "C",
+          "text": "chịu ảnh hưởng sâu sắc của các trận bão biển."
+        },
+        {
+          "key": "D",
+          "text": "hai mùa mưa và khô phân hóa vô cùng rõ rệt."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Nằm trong vùng nội chí tuyến nên góc chiếu sáng lớn, mỗi năm có hai lần Mặt Trời lên thiên đỉnh, cho nền nhiệt cao và nhiều ánh nắng. Hai mùa mưa – khô là do chế độ gió mùa; mưa nhiều, ẩm cao là do biển và gió mùa; bão cũng do biển.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Vị trí địa lí của Việt Nam nằm ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "trung tâm bán đảo Đông Dương, phía đông bắc khu vực Đông Nam Á."
+        },
+        {
+          "key": "B",
+          "text": "phía tây bán đảo Đông Dương, cận kề với khu vực Nam Á."
+        },
+        {
+          "key": "C",
+          "text": "rìa phía đông của bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "phía nam bán đảo Đông Dương, giáp với Ấn Độ Dương."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Việt Nam nằm ở rìa phía đông bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á, vừa tiếp giáp lục địa vừa hướng ra Biển Đông.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm cực Bắc trên đất liền của nước ta thuộc tỉnh nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hà Giang."
+        },
+        {
+          "key": "B",
+          "text": "Lạng Sơn."
+        },
+        {
+          "key": "C",
+          "text": "Cao Bằng."
+        },
+        {
+          "key": "D",
+          "text": "Lào Cai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Điểm cực Bắc của nước ta nằm ở xã Lũng Cú, huyện Đồng Văn, tỉnh Hà Giang, khoảng 23°23'B.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Vùng biển của Việt Nam gồm có các bộ phận theo thứ tự từ đất liền ra xa là",
+      "options": [
+        {
+          "key": "A",
+          "text": "thềm lục địa, nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa."
+        },
+        {
+          "key": "C",
+          "text": "lãnh hải, nội thủy, vùng tiếp giáp lãnh hải, thềm lục địa, vùng đặc quyền kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "nội thủy, vùng tiếp giáp lãnh hải, lãnh hải, vùng đặc quyền kinh tế, thềm lục địa."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Từ đất liền ra xa lần lượt là: nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội thủy là vùng biển",
+      "options": [
+        {
+          "key": "A",
+          "text": "nằm ở phía trong đường cơ sở và giáp với đất liền."
+        },
+        {
+          "key": "B",
+          "text": "hoàn toàn thuộc quyền chủ quyền kinh tế của nước ta."
+        },
+        {
+          "key": "C",
+          "text": "nằm ngoài ranh giới lãnh hải rộng 200 hải lí."
+        },
+        {
+          "key": "D",
+          "text": "có chiều rộng đúng 12 hải lí tính từ đường cơ sở."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Nội thủy là vùng nước nằm phía trong đường cơ sở, giáp với đất liền, thuộc chủ quyền hoàn toàn của nước ta. Chiều rộng 12 hải lí là lãnh hải, 200 hải lí là vùng đặc quyền kinh tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Loại gió hoạt động thường xuyên và cố định trên lãnh thổ nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "gió mùa Đông Bắc."
+        },
+        {
+          "key": "B",
+          "text": "gió mùa Tây Nam."
+        },
+        {
+          "key": "C",
+          "text": "gió phơn Tây Nam."
+        },
+        {
+          "key": "D",
+          "text": "Tín phong bán cầu Bắc."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Tín phong bán cầu Bắc hoạt động thường xuyên, cố định trên lãnh thổ nước ta; các loại gió còn lại hoạt động theo mùa hoặc theo địa hình.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Gió mùa Đông Bắc hoạt động ở nước ta trong khoảng thời gian từ",
+      "options": [
+        {
+          "key": "A",
+          "text": "tháng IX đến tháng XII hằng năm."
+        },
+        {
+          "key": "B",
+          "text": "tháng V đến tháng X hằng năm."
+        },
+        {
+          "key": "C",
+          "text": "tháng XI đến tháng IV năm sau."
+        },
+        {
+          "key": "D",
+          "text": "tháng III đến tháng VIII hằng năm."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Gió mùa Đông Bắc hoạt động từ tháng XI đến tháng IV năm sau, gây mùa đông lạnh ở miền Bắc.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Biên độ nhiệt độ trung bình năm ở nước ta có đặc điểm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng dần từ biển vào đất liền."
+        },
+        {
+          "key": "B",
+          "text": "tăng dần từ Bắc vào Nam."
+        },
+        {
+          "key": "C",
+          "text": "không thay đổi theo không gian."
+        },
+        {
+          "key": "D",
+          "text": "giảm dần từ Bắc vào Nam."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Biên độ nhiệt năm giảm dần từ Bắc vào Nam do ảnh hưởng của gió mùa Đông Bắc yếu dần về phía nam.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Hình thái sông ngòi nước ta có đặc điểm nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mạng lưới sông ngòi dày đặc, nhiều nước, giàu phù sa."
+        },
+        {
+          "key": "B",
+          "text": "chủ yếu là các sông lớn chảy theo hướng đông – tây."
+        },
+        {
+          "key": "C",
+          "text": "ít sông ngòi, sông ngắn và chảy rất chậm."
+        },
+        {
+          "key": "D",
+          "text": "lượng phù sa rất ít, nước sông trong quanh năm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Mạng lưới sông ngòi dày đặc, nhiều nước và giàu phù sa là đặc trưng của sông ngòi nhiệt đới ẩm gió mùa.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình phong hóa hóa học diễn ra mạnh mẽ ở vùng núi đá vôi nước ta tạo nên địa hình",
+      "options": [
+        {
+          "key": "A",
+          "text": "Địa hình bờ biển mài mòn."
+        },
+        {
+          "key": "B",
+          "text": "Địa hình đồng bằng châu thổ."
+        },
+        {
+          "key": "C",
+          "text": "Địa hình cacxtơ (karst)."
+        },
+        {
+          "key": "D",
+          "text": "Địa hình đồi bát úp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Nước hòa tan đá vôi tạo địa hình cacxtơ với hang động, phễu karst, thung lũng karst – kiểu địa hình đặc trưng của vùng núi đá vôi.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Đất feralit là nhóm đất chính ở vùng đồi núi nước ta có màu đỏ vàng chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "tích tụ muối cacbonat trong điều kiện khô hạn."
+        },
+        {
+          "key": "B",
+          "text": "chịu tác động rửa trôi của các bazơ sinh ra."
+        },
+        {
+          "key": "C",
+          "text": "sự tích tụ hợp chất oxit sắt và oxit nhôm."
+        },
+        {
+          "key": "D",
+          "text": "sự phân hủy mạnh mẽ của tầng thảm mục."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Quá trình feralit tích tụ oxit sắt, oxit nhôm trong điều kiện nhiệt ẩm cao, tạo màu đỏ vàng đặc trưng cho đất feralit.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Sinh vật tự nhiên của Việt Nam có tính chất nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "phần lớn là các loài động vật hoang dã vùng sa mạc."
+        },
+        {
+          "key": "B",
+          "text": "phong phú, đa dạng và mang tính chất nhiệt đới ẩm gió mùa."
+        },
+        {
+          "key": "C",
+          "text": "nghèo nàn về loài, chủ yếu là thực vật ôn đới."
+        },
+        {
+          "key": "D",
+          "text": "chỉ phát triển vào mùa mưa, mùa khô cây rụng lá hoàn toàn."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Sinh vật nước ta phong phú, đa dạng, mang tính nhiệt đới ẩm gió mùa với nhiều loài nhiệt đới và cận nhiệt.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm thiên nhiên nào sau đây đại diện cho vùng đồng bằng Bắc Bộ và Bắc Trung Bộ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt đới khô hạn, không có mùa đông lạnh."
+        },
+        {
+          "key": "B",
+          "text": "Mùa đông lạnh, mưa phùn, thiên nhiên mang tính cận nhiệt."
+        },
+        {
+          "key": "C",
+          "text": "Khí hậu ôn hòa ôn đới núi cao."
+        },
+        {
+          "key": "D",
+          "text": "Cận xích đạo gió mùa, nóng ẩm quanh năm."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Đồng bằng Bắc Bộ và Bắc Trung Bộ có mùa đông lạnh, mưa phùn, thiên nhiên mang sắc thái cận nhiệt.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Đai nhiệt đới chân núi ở miền Bắc nước ta có độ cao trung bình",
+      "options": [
+        {
+          "key": "A",
+          "text": "trên 2600m."
+        },
+        {
+          "key": "B",
+          "text": "từ 600m đến 1000m."
+        },
+        {
+          "key": "C",
+          "text": "từ 1000m đến 2600m."
+        },
+        {
+          "key": "D",
+          "text": "dưới 600 – 700m."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Đai nhiệt đới chân núi miền Bắc lên đến 600 – 700m, thấp hơn miền Nam (900 – 1000m).",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Thiên nhiên miền Nam Trung Bộ và Nam Bộ mang đặc điểm khí hậu nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khô hạn tuyệt đối, biên độ nhiệt ngày đêm rất lớn."
+        },
+        {
+          "key": "B",
+          "text": "Cận xích đạo gió mùa, nóng quanh năm, có 2 mùa mưa – khô rõ rệt."
+        },
+        {
+          "key": "C",
+          "text": "Ôn đới gió mùa, mưa bão tập trung vào mùa xuân."
+        },
+        {
+          "key": "D",
+          "text": "Nhiệt đới ẩm có mùa đông lạnh sâu sắc."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Nam Trung Bộ và Nam Bộ nằm trong đới cận xích đạo gió mùa, nóng quanh năm, hai mùa mưa – khô rõ rệt.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân chính làm cho đa dạng sinh học nước ta bị suy giảm nghiêm trọng là do",
+      "options": [
+        {
+          "key": "A",
+          "text": "sự thay đổi của thời tiết và biến đổi khí hậu."
+        },
+        {
+          "key": "B",
+          "text": "sự xuất hiện của các loài sinh vật ngoại lai."
+        },
+        {
+          "key": "C",
+          "text": "thiếu hụt dinh dưỡng trong đất rừng."
+        },
+        {
+          "key": "D",
+          "text": "khai thác quá mức và mất môi trường sống."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Khai thác quá mức và mất môi trường sống là nguyên nhân chính làm suy giảm đa dạng sinh học.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Biện pháp hàng đầu để bảo vệ tài nguyên rừng tự nhiên ở nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "giao đất giao rừng, bảo vệ rừng phòng hộ và rừng đặc dụng."
+        },
+        {
+          "key": "B",
+          "text": "mở rộng diện tích đất nông nghiệp ở vùng đồi núi."
+        },
+        {
+          "key": "C",
+          "text": "tăng cường xuất khẩu gỗ nguyên liệu ra nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "chặt phá toàn bộ rừng già để trồng rừng sản xuất."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Giao đất, giao rừng gắn với bảo vệ rừng phòng hộ và rừng đặc dụng là biện pháp hàng đầu bảo vệ rừng tự nhiên.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiện tượng suy thoái tài nguyên đất phổ biến ở vùng đồi núi nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sa mạc hóa bãi cát ven biển."
+        },
+        {
+          "key": "B",
+          "text": "xói mòn, rửa trôi và sạt lở đất."
+        },
+        {
+          "key": "C",
+          "text": "nghiêm trọng hiện tượng nhiễm mặn, nhiễm phèn."
+        },
+        {
+          "key": "D",
+          "text": "sụt lở đất do khai thác khoáng sản ngầm."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Vùng đồi núi chịu xói mòn, rửa trôi và sạt lở đất khi lớp phủ thực vật bị phá; nhiễm mặn, nhiễm phèn là đặc trưng đồng bằng.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Để chống xói mòn đất trên đất dốc ở vùng đồi núi, biện pháp kĩ thuật nông nghiệp quan trọng nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng cường tưới ngập nước thường xuyên."
+        },
+        {
+          "key": "B",
+          "text": "làm ruộng bậc thang, trồng cây theo đường đồng mức."
+        },
+        {
+          "key": "C",
+          "text": "chặt sạch cây gỗ lớn để làm đồng cỏ chăn nuôi."
+        },
+        {
+          "key": "D",
+          "text": "bón nhiều phân hóa học và thuốc bảo vệ thực vật."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Ruộng bậc thang và trồng cây theo đường đồng mức giảm tốc độ dòng chảy, hạn chế xói mòn trên đất dốc.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Ô nhiễm môi trường nước ở khu vực đô thị và khu công nghiệp nước ta nguyên nhân chính do",
+      "options": [
+        {
+          "key": "A",
+          "text": "tác động của thủy triều đỏ ven bờ."
+        },
+        {
+          "key": "B",
+          "text": "khai thác cát bừa bãi trên các dòng sông lớn."
+        },
+        {
+          "key": "C",
+          "text": "sử dụng quá nhiều phân bón trong nông nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "xả thải trực tiếp nước thải chưa qua xử lí."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Xả nước thải chưa xử lí trực tiếp là nguyên nhân chính gây ô nhiễm nước ở đô thị và khu công nghiệp.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ thống vườn quốc gia và khu bảo tồn thiên nhiên thuộc nhóm rừng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rừng nguyên liệu."
+        },
+        {
+          "key": "B",
+          "text": "Rừng đặc dụng."
+        },
+        {
+          "key": "C",
+          "text": "Rừng sản xuất."
+        },
+        {
+          "key": "D",
+          "text": "Rừng phòng hộ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Vườn quốc gia và khu bảo tồn thiên nhiên thuộc rừng đặc dụng, dùng để bảo tồn đa dạng sinh học và nghiên cứu khoa học.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Khí hậu phần lãnh thổ phía Bắc (từ dãy Bạch Mã trở ra) có đặc điểm nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cận xích đạo gió mùa nóng quanh năm."
+        },
+        {
+          "key": "B",
+          "text": "nhiệt đới ẩm gió mùa có mùa đông lạnh."
+        },
+        {
+          "key": "C",
+          "text": "ôn đới lục địa khô hạn."
+        },
+        {
+          "key": "D",
+          "text": "nhiệt đới khô quanh năm."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Phần lãnh thổ phía Bắc có khí hậu nhiệt đới ẩm gió mùa với mùa đông lạnh do ảnh hưởng gió mùa Đông Bắc.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Nơi nào sau đây ở nước ta chịu ảnh hưởng nặng nề nhất của hiện tượng cát bay, cát chảy ven biển?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng duyên hải ven biển Bắc Trung Bộ và Nam Trung Bộ."
+        },
+        {
+          "key": "B",
+          "text": "Đồng bằng sông Hồng."
+        },
+        {
+          "key": "C",
+          "text": "Đồng bằng sông Cửu Long."
+        },
+        {
+          "key": "D",
+          "text": "Vùng ven biển Đông Bắc."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Cát bay, cát chảy mạnh nhất ở dải duyên hải Bắc Trung Bộ và Nam Trung Bộ, nơi có cồn cát ven biển rộng và gió mạnh.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Loại tài nguyên nào sau đây thuộc nhóm tài nguyên không tái tạo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tài nguyên nước."
+        },
+        {
+          "key": "B",
+          "text": "Tài nguyên sinh vật."
+        },
+        {
+          "key": "C",
+          "text": "Tài nguyên khoáng sản."
+        },
+        {
+          "key": "D",
+          "text": "Tài nguyên đất."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Khoáng sản là tài nguyên không tái tạo; đất, nước, sinh vật có thể tái tạo nếu được quản lí và sử dụng hợp lí.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c25",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta không bị biến thành sa mạc hay bán sa mạc như các nước cùng vĩ độ ở Tây Á và Bắc Phi chủ yếu nhờ",
+      "options": [
+        {
+          "key": "A",
+          "text": "vị trí giáp Biển Đông rộng lớn và tác động của các luồng gió mùa."
+        },
+        {
+          "key": "B",
+          "text": "nằm hoàn toàn trong vùng nội chí tuyến Bắc bán cầu."
+        },
+        {
+          "key": "C",
+          "text": "mạng lưới sông ngòi chằng chịt phân bố khắp cả nước."
+        },
+        {
+          "key": "D",
+          "text": "địa hình nhiều đồi núi chắn gió từ đất liền thổi ra."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Biển Đông cung cấp hơi ẩm, gió mùa đưa ẩm vào lục địa gây mưa, nên nước ta không bị sa mạc hóa như các nước cùng vĩ độ.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c26",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Thiên nhiên nước ta mang tính chất nhiệt đới ẩm gió mùa là do yếu tố quyết định nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vị trí địa lí nằm hoàn toàn trong vùng nội chí tuyến và giáp Biển Đông."
+        },
+        {
+          "key": "B",
+          "text": "Địa hình hẹp ngang và kéo dài theo chiều bắc – nam."
+        },
+        {
+          "key": "C",
+          "text": "Chịu tác động của dòng biển lạnh ngoài đại dương."
+        },
+        {
+          "key": "D",
+          "text": "Nằm gần trung tâm của khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Vị trí nội chí tuyến quyết định nền nhiệt cao; giáp Biển Đông quyết định độ ẩm và mưa lớn – hai yếu tố cốt lõi của khí hậu nhiệt đới ẩm gió mùa.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c27",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Gió mùa Đông Bắc khi di chuyển xuống phía Nam bị yếu dần và dừng lại ở dãy núi",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hoàng Liên Sơn."
+        },
+        {
+          "key": "B",
+          "text": "Hoành Sơn."
+        },
+        {
+          "key": "C",
+          "text": "Trường Sơn Nam."
+        },
+        {
+          "key": "D",
+          "text": "Bạch Mã."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Gió mùa Đông Bắc suy yếu khi xuống phía nam và dừng lại ở dãy Bạch Mã, tạo ranh giới khí hậu Bắc – Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c28",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Tại sao nửa đầu mùa đông ở miền Bắc có thời tiết lạnh khô, trong khi nửa sau mùa đông lại có thời tiết lạnh ẩm mưa phùn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nửa đầu mùa đông khối khí lạnh đi qua lãnh thổ Trung Quốc rộng lớn."
+        },
+        {
+          "key": "B",
+          "text": "Nửa sau mùa đông khối khí lạnh lệch qua biển được tăng cường ẩm."
+        },
+        {
+          "key": "C",
+          "text": "Tác động của gió phơn Tây Nam tràn qua địa hình núi cao."
+        },
+        {
+          "key": "D",
+          "text": "Nửa sau mùa đông Tín phong bán cầu Bắc lấn áp hoàn toàn."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Nửa đầu mùa đông khối khí lạnh đi qua lục địa Trung Quốc nên khô; nửa sau khối khí lạnh lệch ra biển, được tăng cường ẩm nên gây mưa phùn, thời tiết lạnh ẩm.",
+      "difficulty": "HARD",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c29",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân làm cho khí hậu Nam Bộ và Tây Nguyên có hai mùa mưa và khô đối lập sâu sắc là do",
+      "options": [
+        {
+          "key": "A",
+          "text": "tác động của Tín phong bán cầu Bắc và dải hội tụ nhiệt đới."
+        },
+        {
+          "key": "B",
+          "text": "sự biến động của các dòng hải lưu trên Biển Đông."
+        },
+        {
+          "key": "C",
+          "text": "sự kết hợp của gió mùa Tây Nam và hiệu ứng phơn do dãy Trường Sơn Nam."
+        },
+        {
+          "key": "D",
+          "text": "ảnh hưởng của độ cao địa hình miền núi cao."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Gió mùa Tây Nam gây mưa ở Nam Bộ, Tây Nguyên; khi vượt Trường Sơn Nam tạo hiệu ứng phơn khô nóng ở duyên hải Nam Trung Bộ, làm hai mùa mưa – khô sâu sắc.",
+      "difficulty": "HARD",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c30",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Địa hình vùng núi Đông Bắc có hướng cánh cung nổi bật làm cho khí hậu khu vực này có đặc điểm",
+      "options": [
+        {
+          "key": "A",
+          "text": "đón trực tiếp các đợt gió mùa Đông Bắc, làm mùa đông đến sớm và lạnh nhất cả nước."
+        },
+        {
+          "key": "B",
+          "text": "chắn hoàn toàn gió mùa Đông Bắc, khiến mùa đông ấm áp."
+        },
+        {
+          "key": "C",
+          "text": "tạo ra hiện tượng gió phơn khô nóng kéo dài trong mùa hè."
+        },
+        {
+          "key": "D",
+          "text": "gây ra mưa lớn kéo dài suốt cả mùa khô."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Các cánh cung Đông Bắc mở ra phía đông bắc, đón trực tiếp gió mùa Đông Bắc nên mùa đông đến sớm và lạnh nhất cả nước.",
+      "difficulty": "HARD",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c31",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Đai cao đai nhiệt đới chân núi ở miền Bắc hạ thấp hơn miền Nam chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "miền Bắc có nền nhiệt độ trung bình năm thấp hơn và chịu tác động của gió mùa Đông Bắc."
+        },
+        {
+          "key": "B",
+          "text": "miền Bắc có địa hình cao hơn miền Nam."
+        },
+        {
+          "key": "C",
+          "text": "miền Bắc nằm gần xích đạo hơn miền Nam."
+        },
+        {
+          "key": "D",
+          "text": "miền Bắc chịu ảnh hưởng bão nhiều hơn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Nền nhiệt miền Bắc thấp hơn và có mùa đông lạnh nên đai nhiệt đới chân núi hạ thấp hơn miền Nam.",
+      "difficulty": "HARD",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c32",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự phân hóa thiên nhiên theo chiều Đông – Tây ở vùng đồi núi nước ta biểu hiện rõ nhất giữa",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hoàng Liên Sơn và vùng đồng bằng ven biển."
+        },
+        {
+          "key": "B",
+          "text": "Đồng bằng sông Hồng và Đồng bằng sông Cửu Long."
+        },
+        {
+          "key": "C",
+          "text": "Vùng núi cao Bắc Bộ và vùng đồi trung du."
+        },
+        {
+          "key": "D",
+          "text": "Đông Bắc và Tây Bắc, giữa Trường Sơn Bắc và Trường Sơn Nam."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Phân hóa đông – tây rõ nhất giữa sườn đông và sườn tây các dãy núi: Đông Bắc với Tây Bắc, Trường Sơn Bắc với Trường Sơn Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c33",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Tại sao việc sử dụng hợp lí tài nguyên đất ở vùng đồng bằng phải gắn liền với việc quản lí ô nhiễm môi trường?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Do cường độ sử dụng đất cao, bón phân hóa học và đô thị hóa nhanh."
+        },
+        {
+          "key": "B",
+          "text": "Do đồng bằng không có khả năng tự cải tạo đất."
+        },
+        {
+          "key": "C",
+          "text": "Do diện tích đất đồng bằng ngày càng bị thu hẹp hoàn toàn."
+        },
+        {
+          "key": "D",
+          "text": "Do đồng bằng bị rêu phong và xói mòn nghiêm trọng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Đồng bằng có cường độ sử dụng đất cao, bón nhiều phân hóa học, đô thị hóa nhanh nên dễ ô nhiễm; sử dụng đất phải gắn với quản lí môi trường.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c34",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân chính làm gia tăng tính thất thường của chế độ nước sông ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mở rộng diện tích đất nông nghiệp ở hạ lưu."
+        },
+        {
+          "key": "B",
+          "text": "suy giảm diện tích rừng đầu nguồn và biến đổi khí hậu cực đoan."
+        },
+        {
+          "key": "C",
+          "text": "sự gia tăng dân số ở vùng ven sông."
+        },
+        {
+          "key": "D",
+          "text": "sự phát triển của các hồ thủy điện trên sông."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Mất rừng đầu nguồn và thời tiết cực đoan làm chế độ nước sông thất thường hơn; hồ thủy điện thường có tác dụng điều tiết.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c35",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Biện pháp có ý nghĩa chiến lược quan trọng nhất để bảo vệ đa dạng sinh học ở Việt Nam là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cấm hoàn toàn việc săn bắt động vật đã ngoại."
+        },
+        {
+          "key": "B",
+          "text": "trồng rừng phủ xanh đất trống đồi núi trọc."
+        },
+        {
+          "key": "C",
+          "text": "tăng cường nhập khẩu các loài động thực vật quý hiếm."
+        },
+        {
+          "key": "D",
+          "text": "xây dựng và mở rộng hệ thống các vườn quốc gia và khu bảo tồn thiên nhiên."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Mở rộng hệ thống vườn quốc gia, khu bảo tồn thiên nhiên là biện pháp chiến lược bảo vệ đa dạng sinh học tại chỗ.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c36",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Tính chất nhạy cảm và dễ bị tổn thương của môi trường tự nhiên nước ta biểu hiện rõ nhất ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "sự phong phú của các hệ sinh thái rừng nhiệt đới."
+        },
+        {
+          "key": "B",
+          "text": "sự biến động thất thường của thời tiết và thiên tai diễn ra gia tăng."
+        },
+        {
+          "key": "C",
+          "text": "sự ổn định của lưu lượng nước sông ngòi."
+        },
+        {
+          "key": "D",
+          "text": "sự đa dạng của các loại khoáng sản trong lòng đất."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Thiên tai và thời tiết thất thường gia tăng cho thấy môi trường tự nhiên nước ta nhạy cảm, dễ bị tổn thương.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c37",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu nhiệt độ trung bình các tháng tại trạm Hà Nội (°C):**\n\n- Tháng 1: 16,4; tháng 2: 17,0; tháng 3: 20,2; tháng 4: 24,0\n- Tháng 5: 27,3; tháng 6: 28,8; tháng 7: 28,9; tháng 8: 28,2\n- Tháng 9: 27,2; tháng 10: 24,6; tháng 11: 21,4; tháng 12: 18,2\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2021.*\n\nNhận xét nào sau đây đúng với bảng số liệu nhiệt độ trạm Hà Nội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tháng có nhiệt độ cao nhất là tháng 5 và thấp nhất là tháng 12."
+        },
+        {
+          "key": "B",
+          "text": "Biên độ nhiệt năm nhỏ dưới 5°C do nằm ở khu vực cận xích đạo."
+        },
+        {
+          "key": "C",
+          "text": "Nhiệt độ tháng thấp nhất dưới 18°C và biên độ nhiệt năm đạt 12,5°C."
+        },
+        {
+          "key": "D",
+          "text": "Nhiệt độ trung bình các tháng đều vượt quá 20°C quanh năm."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Tháng 1 thấp nhất 16,4°C (dưới 18°C); tháng 7 cao nhất 28,9°C nên biên độ nhiệt năm là 28,9 − 16,4 = 12,5°C.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c38",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu lượng mưa trung bình các tháng tại Huế (mm):**\n\n- Tháng 1: 161; tháng 2: 63; tháng 3: 47; tháng 4: 52\n- Tháng 5: 82; tháng 6: 116; tháng 7: 95; tháng 8: 104\n- Tháng 9: 473; tháng 10: 796; tháng 11: 581; tháng 12: 297\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2021.*\n\nĐặc điểm chế độ mưa tại Huế phản ánh điều gì sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Huế khô hạn hoàn toàn vào các tháng cuối năm do Tín phong."
+        },
+        {
+          "key": "B",
+          "text": "Lượng mưa phân bố rất đều giữa tất cả các tháng trong năm."
+        },
+        {
+          "key": "C",
+          "text": "Mùa mưa lệch về thu đông, đỉnh mưa vào tháng 10 do tác động của dải hội tụ và bão."
+        },
+        {
+          "key": "D",
+          "text": "Mùa mưa tập trung vào mùa hè từ tháng 5 đến tháng 8."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Mưa lớn tập trung từ tháng 9 đến tháng 12, đỉnh vào tháng 10 (796 mm) do dải hội tụ nhiệt đới, bão và gió mùa Đông Bắc qua biển.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c39",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhiệt độ và lượng mưa ở Thành phố Hồ Chí Minh:**\n\n- Tháng 1: 26,0°C – 13,8 mm; tháng 2: 26,8°C – 4,1 mm; tháng 3: 28,0°C – 10,5 mm; tháng 4: 29,2°C – 50,4 mm\n- Tháng 5: 28,8°C – 218 mm; tháng 6: 28,0°C – 311 mm; tháng 7: 27,5°C – 293 mm; tháng 8: 27,4°C – 269 mm\n- Tháng 9: 27,2°C – 327 mm; tháng 10: 27,0°C – 268 mm; tháng 11: 26,7°C – 115 mm; tháng 12: 26,1°C – 28,3 mm\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2021.*\n\nBiểu đồ nào thích hợp nhất để thể hiện nhiệt độ và lượng mưa ở Thành phố Hồ Chí Minh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ cột."
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ tròn."
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ kết hợp."
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ đường."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Nhiệt độ (°C) và lượng mưa (mm) là hai đại lượng khác đơn vị nhưng cùng thể hiện theo tháng, nên dùng biểu đồ kết hợp cột – đường.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c40",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm khác biệt căn bản về thiên nhiên giữa đai nhiệt đới chân núi và đai cận nhiệt đới gió mùa trên núi là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đai nhiệt đới chân núi có tuyết rơi vào mùa đông."
+        },
+        {
+          "key": "B",
+          "text": "đai nhiệt đới chân núi có hệ sinh thái ôn đới núi cao."
+        },
+        {
+          "key": "C",
+          "text": "đai cận nhiệt đới có mùa hạ không quá nóng, xuất hiện các loài cây cận nhiệt."
+        },
+        {
+          "key": "D",
+          "text": "đai cận nhiệt đới chỉ có đất xám phù sa cổ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Đai cận nhiệt đới mát hơn, mùa hạ không quá nóng (dưới 25°C) và xuất hiện các loài cây cận nhiệt như đỗ quyên, sa mộc.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c41",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu nhiệt độ trung bình tháng 1 và tháng 7 tại một số trạm khí tượng (°C):**\n\n- Lạng Sơn: tháng 1 là 13,3; tháng 7 là 27,0; biên độ năm 13,7\n- Hà Nội: tháng 1 là 16,4; tháng 7 là 28,9; biên độ năm 12,5\n- Đà Nẵng: tháng 1 là 21,3; tháng 7 là 29,1; biên độ năm 7,8\n- TP. Hồ Chí Minh: tháng 1 là 25,8; tháng 7 là 27,1; biên độ năm 1,3\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2021.*\n\nNhận xét nào sau đây đúng với bảng số liệu trên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt độ trung bình tháng VII tăng dần từ Nam ra Bắc."
+        },
+        {
+          "key": "B",
+          "text": "Tổng lượng mưa cả năm giảm dần từ Nam ra Bắc."
+        },
+        {
+          "key": "C",
+          "text": "Nhiệt độ trung bình tháng I tăng dần từ Nam ra Bắc."
+        },
+        {
+          "key": "D",
+          "text": "Biên độ nhiệt độ năm giảm dần từ Bắc vào Nam."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Biên độ nhiệt giảm dần từ Bắc vào Nam: Lạng Sơn 13,7°C → Hà Nội 12,5°C → Đà Nẵng 7,8°C → TP. Hồ Chí Minh 1,3°C.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c42",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Để thể hiện sự biến động diện tích rừng tự nhiên và rừng trồng của nước ta giai đoạn 1990 – 2024, dạng biểu đồ thích hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ tròn."
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ miền."
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ cột."
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ cột kết hợp đường."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Hai đối tượng cùng đơn vị (nghìn ha) được thể hiện qua nhiều năm nên biểu đồ cột ghép là phù hợp nhất để so sánh và thấy xu hướng biến động.",
+      "difficulty": "HARD",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c43",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa kinh tế – xã hội quan trọng nhất của việc duy trì và nâng cao độ che phủ rừng ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "triệt tiêu hoàn toàn sự thay đổi khí hậu biến đổi toàn cầu."
+        },
+        {
+          "key": "B",
+          "text": "bảo vệ môi trường sinh thái, giảm thiểu thiên tai lũ quét, sạt lở và cung cấp lâm sản."
+        },
+        {
+          "key": "C",
+          "text": "tăng nguồn thu từ việc bán củi khô cho nhân dân."
+        },
+        {
+          "key": "D",
+          "text": "mở rộng diện tích đất thổ cư cho dân cư miền núi."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Giữ và nâng độ che phủ rừng bảo vệ môi trường sinh thái, giảm thiên tai, đồng thời cung cấp lâm sản – ý nghĩa kinh tế – xã hội quan trọng nhất.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c44",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân chính khiến miền Tây Bắc có mùa đông ngắn hơn và bớt lạnh hơn miền Đông Bắc là do",
+      "options": [
+        {
+          "key": "A",
+          "text": "bức chắn địa hình của dãy núi Hoàng Liên Sơn chắn gió mùa Đông Bắc."
+        },
+        {
+          "key": "B",
+          "text": "Tây Bắc giáp biển Đông rộng lớn hơn Đông Bắc."
+        },
+        {
+          "key": "C",
+          "text": "Tây Bắc nằm ở vị trí gần xích đạo hơn nhiều."
+        },
+        {
+          "key": "D",
+          "text": "Tây Bắc chịu tác động trực tiếp của Tín phong nửa cầu Nam."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Hoàng Liên Sơn chắn gió mùa Đông Bắc nên Tây Bắc có mùa đông ngắn và bớt lạnh hơn Đông Bắc.",
+      "difficulty": "HARD",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c45",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây thể hiện mối quan hệ giữa địa hình đồi núi và mạng lưới sông ngòi nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Địa hình không có ảnh hưởng gì tới độ dốc và tốc độ dòng chảy."
+        },
+        {
+          "key": "B",
+          "text": "Địa hình làm cho tất cả sông ngòi chảy theo hướng bắc – nam."
+        },
+        {
+          "key": "C",
+          "text": "Hướng chảy của sông ngòi tuân theo hướng nghiêng chung và hướng cấu trúc địa hình."
+        },
+        {
+          "key": "D",
+          "text": "Sông ngòi miền núi không mang theo phù sa bồi đắp đồng bằng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Sông ngòi chảy theo hướng nghiêng địa hình và các hướng cấu trúc: tây bắc – đông nam và vòng cung.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c46",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Để giảm thiểu tác hại của hiện tượng xói mòn đất đồi núi ở Tây Nguyên và Trung du miền núi Bắc Bộ, giải pháp lâu dài là",
+      "options": [
+        {
+          "key": "A",
+          "text": "xây dựng bờ kè bê tông kiên cố trên tất cả các sườn núi."
+        },
+        {
+          "key": "B",
+          "text": "mở rộng tối đa diện tích đất trồng cây hằng năm."
+        },
+        {
+          "key": "C",
+          "text": "chuyển toàn bộ đất đồi núi sang khai thác khoáng sản."
+        },
+        {
+          "key": "D",
+          "text": "trồng rừng phòng hộ đầu nguồn và phát triển mô hình nông – lâm kết hợp."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Trồng rừng đầu nguồn kết hợp nông – lâm là giải pháp lâu dài giảm xói mòn ở đồi núi.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c47",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ảnh hưởng của thiên nhiên nhiệt đới ẩm gió mùa đến hoạt động giao thông vận tải ở nước ta thể hiện ở chỗ",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ phát triển được đường sông, đường biển không thể phát triển."
+        },
+        {
+          "key": "B",
+          "text": "không cần bảo trì công trình giao thông do thời tiết khô ráo."
+        },
+        {
+          "key": "C",
+          "text": "giao thông vận tải hoạt động thuận lợi quanh năm không chịu thiên tai."
+        },
+        {
+          "key": "D",
+          "text": "mưa lớn, bão, lũ quét dễ gây sạt lở đường sá, gián đoạn giao thông trong mùa mưa."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Mưa lớn, bão, lũ quét gây sạt lở, ách tắc giao thông và tăng chi phí bảo trì công trình.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c48",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự phân hóa khí hậu thành 2 mùa mưa – khô rõ rệt ở miền Nam nước ta đã gây khó khăn lớn nhất cho sản xuất nông nghiệp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sương muối và băng giá xuất hiện diện rộng trong mùa khô."
+        },
+        {
+          "key": "B",
+          "text": "thiếu nước tưới nghiêm trọng trong mùa khô, nguy cơ cháy rừng và xâm nhập mặn."
+        },
+        {
+          "key": "C",
+          "text": "đất đai bị đóng băng không gieo trồng được."
+        },
+        {
+          "key": "D",
+          "text": "ngập lụt triệt để kéo dài quanh năm không cạnh tác được."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Mùa khô kéo dài gây thiếu nước tưới, cháy rừng và xâm nhập mặn – khó khăn lớn nhất cho nông nghiệp miền Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c49",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Giải pháp bền vững nhất để nâng cao hiệu quả sử dụng đất phèn, đất mặn ở Đồng bằng sông Cửu Long là",
+      "options": [
+        {
+          "key": "A",
+          "text": "quản lý nguồn nước, thau chua rửa mặn kết hợp chuyển đổi cơ cấu cây trồng thủy sản phù hợp."
+        },
+        {
+          "key": "B",
+          "text": "bón bùn vôi với số lượng lớn và tưới ngập nước mặn quanh năm."
+        },
+        {
+          "key": "C",
+          "text": "xây tường bê tông ngăn hoàn toàn dòng chảy của sông Tiền và sông Hậu."
+        },
+        {
+          "key": "D",
+          "text": "bỏ hoang không canh tác để tự nhiên tự phục hồi."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Thau chua, rửa mặn gắn với quản lí nguồn nước và chuyển đổi cơ cấu cây trồng, thủy sản phù hợp là giải pháp bền vững nhất.",
+      "difficulty": "HARD",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c50",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Gió Tín phong bán cầu Bắc hoạt động mạnh lên vào thời kỳ xuân hè ở miền Bắc chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "bão xuất hiện với tần suất dồn dập."
+        },
+        {
+          "key": "B",
+          "text": "khối khí lạnh suy yếu, Tín phong chiếm ưu thế ở vùng vĩ độ thấp."
+        },
+        {
+          "key": "C",
+          "text": "gió mùa Tây Nam đã hoàn toàn biến mất."
+        },
+        {
+          "key": "D",
+          "text": "ảnh hưởng của áp cao Siberia được tăng cường mạnh mẽ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Mùa xuân – hè, khối khí lạnh suy yếu, Tín phong bán cầu Bắc chiếm ưu thế ở vĩ độ thấp nên hoạt động mạnh ở miền Bắc.",
+      "difficulty": "HARD",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c51",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Thực trạng tài nguyên nước ở nước ta hiện nay đang đối mặt với nguy cơ",
+      "options": [
+        {
+          "key": "A",
+          "text": "thừa nước quanh năm không có nơi tiêu thoát."
+        },
+        {
+          "key": "B",
+          "text": "hoàn toàn cạn kiệt nguồn nước ngọt trên phạm vi cả nước."
+        },
+        {
+          "key": "C",
+          "text": "suy giảm lượng nước trong mùa khô, ô nhiễm nguồn nước sông hồ đô thị và suy thoái nước ngầm."
+        },
+        {
+          "key": "D",
+          "text": "nhiễm xạ hạt nhân trên tất cả các lưu vực sông."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Tài nguyên nước đang suy giảm vào mùa khô, ô nhiễm sông hồ đô thị và suy thoái nước ngầm.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c52",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo vệ môi trường không khí tại các thành phố lớn ở nước ta cần ưu tiên biện pháp nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Di dời toàn bộ dân cư ra khỏi khu vực nội thành."
+        },
+        {
+          "key": "B",
+          "text": "Tắt toàn bộ hệ thống điện vào ban ngày."
+        },
+        {
+          "key": "C",
+          "text": "Phát triển giao thông xanh, kiểm soát khí thải công nghiệp và tăng diện tích cây xanh."
+        },
+        {
+          "key": "D",
+          "text": "Cấm hoàn toàn tất cả các phương tiện giao thông cá nhân ngay lập tức."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Giao thông xanh, kiểm soát khí thải và tăng cây xanh là ưu tiên bảo vệ không khí đô thị.",
+      "difficulty": "EASY",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c53",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa môi trường lớn nhất của việc trồng rừng ngập mặn ven biển nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chắn sóng, bảo vệ đê biển, chống sạt lở bờ biển và bảo vệ hệ sinh thái ven bờ."
+        },
+        {
+          "key": "B",
+          "text": "cung cấp gỗ củi xuất khẩu lớn cho thương mại."
+        },
+        {
+          "key": "C",
+          "text": "tạo đất thổ cư mới cho cư dân ven biển."
+        },
+        {
+          "key": "D",
+          "text": "làm nơi chăn thả gia súc tập trung."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Rừng ngập mặn chắn sóng, bảo vệ đê biển, chống sạt lở và nuôi dưỡng hệ sinh thái ven bờ.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c54",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự phân hóa của thảm thực vật từ chân núi lên đỉnh núi cao ở Hoàng Liên Sơn biểu hiện rõ rệt sự thay đổi của",
+      "options": [
+        {
+          "key": "A",
+          "text": "áp suất khí quyển tăng liên tục theo chiều cao."
+        },
+        {
+          "key": "B",
+          "text": "thành phần hóa học trong không khí thay đổi."
+        },
+        {
+          "key": "C",
+          "text": "nhiệt độ giảm dần và độ ẩm/lượng mưa thay đổi theo độ cao địa hình."
+        },
+        {
+          "key": "D",
+          "text": "hướng gió chính thay đổi liên tục theo giờ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Từ chân lên đỉnh Hoàng Liên Sơn, nhiệt độ giảm và độ ẩm, lượng mưa thay đổi tạo nên các đai thực vật khác nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.1,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c55",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nViệt Nam nằm ở rìa phía đông của bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á. Lãnh thổ Việt Nam là một khối thống nhất và toàn vẹn, bao gồm vùng đất, vùng biển và vùng trời. Vùng biển Việt Nam có diện tích khoảng 1 triệu km² với hơn 4000 hòn đảo lớn nhỏ.\n\n**Nhận định sau đây đúng hay sai?** Nước ta có vị trí cầu nối giữa lục địa Á – Âu và lục địa Ô-xtrây-li-a.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Nước ta nằm trên đường di lưu của nhiều loài sinh vật, ở vị trí cầu nối giữa lục địa Á – Âu và lục địa Ô-xtrây-li-a.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c56",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nViệt Nam nằm ở rìa phía đông của bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á. Lãnh thổ Việt Nam là một khối thống nhất và toàn vẹn, bao gồm vùng đất, vùng biển và vùng trời. Vùng biển Việt Nam có diện tích khoảng 1 triệu km² với hơn 4000 hòn đảo lớn nhỏ.\n\n**Nhận định sau đây đúng hay sai?** Vùng biển nước ta có diện tích rộng gấp khoảng 3 lần diện tích phần đất liền.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Vùng biển khoảng 1 triệu km², gấp khoảng 3 lần diện tích đất liền (331 nghìn km²).",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c57",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nViệt Nam nằm ở rìa phía đông của bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á. Lãnh thổ Việt Nam là một khối thống nhất và toàn vẹn, bao gồm vùng đất, vùng biển và vùng trời. Vùng biển Việt Nam có diện tích khoảng 1 triệu km² với hơn 4000 hòn đảo lớn nhỏ.\n\n**Nhận định sau đây đúng hay sai?** Toàn bộ vùng biển Việt Nam nằm hoàn toàn trong vùng ngoại chí tuyến.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Vùng biển nước ta nằm trong vùng nội chí tuyến Bắc bán cầu, không phải ngoại chí tuyến.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c58",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-vi-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nViệt Nam nằm ở rìa phía đông của bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á. Lãnh thổ Việt Nam là một khối thống nhất và toàn vẹn, bao gồm vùng đất, vùng biển và vùng trời. Vùng biển Việt Nam có diện tích khoảng 1 triệu km² với hơn 4000 hòn đảo lớn nhỏ.\n\n**Nhận định sau đây đúng hay sai?** Vị trí địa lí thuận lợi giúp nước ta phát triển kinh tế biển và hội nhập quốc tế.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Vị trí ven Biển Đông, gần tuyến hàng hải quốc tế thuận lợi phát triển kinh tế biển và hội nhập.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c59",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nKhí hậu Việt Nam mang tính chất nhiệt đới ẩm gió mùa rõ rệt. Số giờ nắng đạt từ 1400 – 3000 giờ/năm, nhiệt độ trung bình năm trên toàn quốc đều vượt 20°C (trừ vùng núi cao). Lượng mưa trung bình năm lớn từ 1500 – 2000 mm/năm và độ ẩm không khí cao trên 80%.\n\n**Nhận định sau đây đúng hay sai?** Nhiệt độ trung bình năm cao là do nước ta nằm hoàn toàn trong vùng nội chí tuyến.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Nội chí tuyến cho góc chiếu sáng lớn, nền nhiệt cao quanh năm.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c60",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nKhí hậu Việt Nam mang tính chất nhiệt đới ẩm gió mùa rõ rệt. Số giờ nắng đạt từ 1400 – 3000 giờ/năm, nhiệt độ trung bình năm trên toàn quốc đều vượt 20°C (trừ vùng núi cao). Lượng mưa trung bình năm lớn từ 1500 – 2000 mm/năm và độ ẩm không khí cao trên 80%.\n\n**Nhận định sau đây đúng hay sai?** Lượng mưa lớn ở nước ta do các khối khí di chuyển qua Biển Đông được cung cấp lượng ẩm dồi dào.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Biển Đông cung cấp ẩm, gió mùa đưa ẩm vào gây mưa lớn.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c61",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nKhí hậu Việt Nam mang tính chất nhiệt đới ẩm gió mùa rõ rệt. Số giờ nắng đạt từ 1400 – 3000 giờ/năm, nhiệt độ trung bình năm trên toàn quốc đều vượt 20°C (trừ vùng núi cao). Lượng mưa trung bình năm lớn từ 1500 – 2000 mm/năm và độ ẩm không khí cao trên 80%.\n\n**Nhận định sau đây đúng hay sai?** Tất cả các địa phương ở nước ta đều có nhiệt độ trung bình tháng thấp nhất dưới 15°C.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Sai.** Miền Nam có nhiệt độ tháng thấp nhất vẫn trên 20°C; chỉ vùng núi cao mới xuống dưới 15°C.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c62",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nKhí hậu Việt Nam mang tính chất nhiệt đới ẩm gió mùa rõ rệt. Số giờ nắng đạt từ 1400 – 3000 giờ/năm, nhiệt độ trung bình năm trên toàn quốc đều vượt 20°C (trừ vùng núi cao). Lượng mưa trung bình năm lớn từ 1500 – 2000 mm/năm và độ ẩm không khí cao trên 80%.\n\n**Nhận định sau đây đúng hay sai?** Tính chất ẩm làm cho quá trình phong hóa diễn ra mạnh mẽ, hình thành lớp vỏ xói mòn dày.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Nhiệt ẩm thúc đẩy phong hóa mạnh, tạo lớp vỏ phong hóa dày trên bề mặt lãnh thổ.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c63",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐịa hình nước ta đa dạng, đồi núi chiếm 3/4 diện tích lãnh thổ nhưng chủ yếu là đồi núi thấp (dưới 1000m chiếm tới 85%). Địa hình chịu tác động mạnh mẽ của khí hậu nhiệt đới ẩm gió mùa và con người, tạo nên hình thái độc đáo.\n\n**Nhận định sau đây đúng hay sai?** Địa hình cao trên 2000m chiếm tỉ trọng lớn nhất trong cấu trúc địa hình nước ta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Đồi núi thấp dưới 1000m chiếm 85%; núi cao trên 2000m chỉ khoảng 1% diện tích.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c64",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐịa hình nước ta đa dạng, đồi núi chiếm 3/4 diện tích lãnh thổ nhưng chủ yếu là đồi núi thấp (dưới 1000m chiếm tới 85%). Địa hình chịu tác động mạnh mẽ của khí hậu nhiệt đới ẩm gió mùa và con người, tạo nên hình thái độc đáo.\n\n**Nhận định sau đây đúng hay sai?** Đồi núi thấp tạo điều kiện cho tính chất nhiệt đới ẩm xâm nhập sâu vào nội địa.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Đồi núi thấp không chắn khí hậu nóng ẩm, tạo hành lang cho khí hậu nhiệt đới ẩm vào sâu nội địa.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c65",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐịa hình nước ta đa dạng, đồi núi chiếm 3/4 diện tích lãnh thổ nhưng chủ yếu là đồi núi thấp (dưới 1000m chiếm tới 85%). Địa hình chịu tác động mạnh mẽ của khí hậu nhiệt đới ẩm gió mùa và con người, tạo nên hình thái độc đáo.\n\n**Nhận định sau đây đúng hay sai?** Quá trình xâm thực diễn ra mạnh mẽ ở đồi núi và bồi tụ nhanh ở đồng bằng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Xâm thực mạnh ở miền núi, bồi tụ nhanh ở đồng bằng là đặc điểm địa hình nhiệt đới ẩm gió mùa.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c66",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐịa hình nước ta đa dạng, đồi núi chiếm 3/4 diện tích lãnh thổ nhưng chủ yếu là đồi núi thấp (dưới 1000m chiếm tới 85%). Địa hình chịu tác động mạnh mẽ của khí hậu nhiệt đới ẩm gió mùa và con người, tạo nên hình thái độc đáo.\n\n**Nhận định sau đây đúng hay sai?** Các đợt kiến tạo làm cho địa hình nước ta trẻ lại và phân hóa thành nhiều bậc.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Vận động Tân kiến tạo làm địa hình trẻ lại, phân bậc rõ rệt giữa các dãy núi và đồng bằng.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c67",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nDo sự phân hóa địa hình và khí hậu, sông ngòi nước ta có đặc điểm mạng lưới chằng chịt với 2360 con sông dài trên 10km. Sông ngòi nhiều nước, giàu phù sa, thủy chế phân hóa theo mùa mưa – khô.\n\n**Nhận định sau đây đúng hay sai?** Sông ngòi nước ta chảy theo hai hướng chính là tây bắc – đông nam và hướng cánh cung.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Hai hướng chính là tây bắc – đông nam và vòng cung.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c68",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nDo sự phân hóa địa hình và khí hậu, sông ngòi nước ta có đặc điểm mạng lưới chằng chịt với 2360 con sông dài trên 10km. Sông ngòi nhiều nước, giàu phù sa, thủy chế phân hóa theo mùa mưa – khô.\n\n**Nhận định sau đây đúng hay sai?** Mùa lũ của sông ngòi trùng khớp hoàn toàn với mùa mưa của khí hậu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Mùa lũ không hoàn toàn trùng mùa mưa do đặc điểm lưu vực, hồ chứa và ảnh hưởng thủy triều.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c69",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nDo sự phân hóa địa hình và khí hậu, sông ngòi nước ta có đặc điểm mạng lưới chằng chịt với 2360 con sông dài trên 10km. Sông ngòi nhiều nước, giàu phù sa, thủy chế phân hóa theo mùa mưa – khô.\n\n**Nhận định sau đây đúng hay sai?** Tổng lượng nước sông ngòi nước ta chủ yếu do phần sinh ra ngoài lãnh thổ chảy vào.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Khoảng 60% lượng nước sông ngòi sinh ra ở ngoài lãnh thổ.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c70",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nDo sự phân hóa địa hình và khí hậu, sông ngòi nước ta có đặc điểm mạng lưới chằng chịt với 2360 con sông dài trên 10km. Sông ngòi nhiều nước, giàu phù sa, thủy chế phân hóa theo mùa mưa – khô.\n\n**Nhận định sau đây đúng hay sai?** Hàm lượng phù sa sông ngòi nhỏ do địa hình đồi núi được che phủ bởi rừng rậm tuyệt đối.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Sông ngòi nước ta giàu phù sa do xâm thực mạnh ở đồi núi, tổng lượng phù sa rất lớn.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c71",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐất feralit là nhóm đất chiếm diện tích lớn nhất ở vùng đồi núi nước ta (khoảng 65% diện tích đất tự nhiên). Quá trình feralit là quá trình hình thành đất đặc trưng cho vùng khí hậu nhiệt đới ẩm gió mùa.\n\n**Nhận định sau đây đúng hay sai?** Đất feralit hình thành do quá trình tích tụ oxit sắt và oxit nhôm.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Tích tụ oxit sắt, oxit nhôm tạo màu đỏ vàng của đất feralit.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c72",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐất feralit là nhóm đất chiếm diện tích lớn nhất ở vùng đồi núi nước ta (khoảng 65% diện tích đất tự nhiên). Quá trình feralit là quá trình hình thành đất đặc trưng cho vùng khí hậu nhiệt đới ẩm gió mùa.\n\n**Nhận định sau đây đúng hay sai?** Đất feralit trên đá bazan và đá vôi có độ phì cao thích hợp trồng cây công nghiệp.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Đất feralit trên đá badan, đá vôi có tầng dày, độ phì cao, thích hợp cây công nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c73",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐất feralit là nhóm đất chiếm diện tích lớn nhất ở vùng đồi núi nước ta (khoảng 65% diện tích đất tự nhiên). Quá trình feralit là quá trình hình thành đất đặc trưng cho vùng khí hậu nhiệt đới ẩm gió mùa.\n\n**Nhận định sau đây đúng hay sai?** Hiện tượng rửa trôi các chất bazơ diễn ra yếu làm đất luôn có phản ứng kiềm.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Sai.** Rửa trôi bazơ diễn ra mạnh làm đất chua, nghèo bazơ chứ không phải kiềm.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c74",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐất feralit là nhóm đất chiếm diện tích lớn nhất ở vùng đồi núi nước ta (khoảng 65% diện tích đất tự nhiên). Quá trình feralit là quá trình hình thành đất đặc trưng cho vùng khí hậu nhiệt đới ẩm gió mùa.\n\n**Nhận định sau đây đúng hay sai?** Việc bảo vệ đất feralit cần tránh xói mòn và suy thoái do xói mòn mưa lớn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Chống xói mòn, rửa trôi là yêu cầu cơ bản để bảo vệ đất feralit.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "thiên nhiên nhiệt đới ẩm gió mùa"
+      ]
+    },
+    {
+      "id": "dia-01-c75",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nThiên nhiên nước ta có sự phân hóa sâu sắc theo chiều Bắc - Nam. Phần lãnh thổ phía Bắc có mùa đông lạnh, trong khi phần lãnh thổ phía Nam mang đặc tính cận xích đạo nóng quanh năm.\n\n**Nhận định sau đây đúng hay sai?** Ranh giới tự nhiên phân chia hai miền khí hậu Bắc - Nam là dãy núi Bạch Mã.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Dãy Bạch Mã là ranh giới khí hậu giữa miền Bắc và miền Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c76",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nThiên nhiên nước ta có sự phân hóa sâu sắc theo chiều Bắc - Nam. Phần lãnh thổ phía Bắc có mùa đông lạnh, trong khi phần lãnh thổ phía Nam mang đặc tính cận xích đạo nóng quanh năm.\n\n**Nhận định sau đây đúng hay sai?** Phần lãnh thổ phía Nam không chịu ảnh hưởng của gió mùa Đông Bắc.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Từ Bạch Mã trở vào hầu như không chịu ảnh hưởng của gió mùa Đông Bắc.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c77",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nThiên nhiên nước ta có sự phân hóa sâu sắc theo chiều Bắc - Nam. Phần lãnh thổ phía Bắc có mùa đông lạnh, trong khi phần lãnh thổ phía Nam mang đặc tính cận xích đạo nóng quanh năm.\n\n**Nhận định sau đây đúng hay sai?** Biên độ nhiệt năm của phần lãnh thổ phía Bắc nhỏ hơn phần lãnh thổ phía Nam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Miền Bắc có mùa đông lạnh nên biên độ nhiệt năm lớn hơn miền Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c78",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nThiên nhiên nước ta có sự phân hóa sâu sắc theo chiều Bắc - Nam. Phần lãnh thổ phía Bắc có mùa đông lạnh, trong khi phần lãnh thổ phía Nam mang đặc tính cận xích đạo nóng quanh năm.\n\n**Nhận định sau đây đúng hay sai?** Cảnh quan tiêu biểu của phần phía Nam là rừng nhiệt đới ẩm gió mùa cận xích đạo.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Cảnh quan phía Nam là rừng cận xích đạo gió mùa.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c79",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nTổng diện tích rừng Việt Nam hiện đạt khoảng 14,8 triệu ha, độ che phủ rừng đạt gần 42%. Tuy nhiên diện tích rừng tự nhiên phục hồi chậm, đa dạng sinh học tiếp tục bị đe dọa bởi biến đổi khí hậu và hoạt động kinh tế.\n\n**Nhận định sau đây đúng hay sai?** Độ che phủ rừng nước ta đã tăng đáng kể nhờ đẩy mạnh công tác trồng rừng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Độ che phủ tăng từ khoảng 28% (1990) lên gần 42% nhờ trồng rừng.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c80",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nTổng diện tích rừng Việt Nam hiện đạt khoảng 14,8 triệu ha, độ che phủ rừng đạt gần 42%. Tuy nhiên diện tích rừng tự nhiên phục hồi chậm, đa dạng sinh học tiếp tục bị đe dọa bởi biến đổi khí hậu và hoạt động kinh tế.\n\n**Nhận định sau đây đúng hay sai?** Rừng đặc dụng đóng vai trò quan trọng nhất trong việc duy trì cân bằng sinh thái.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Sai.** Duy trì cân bằng sinh thái trên phạm vi rộng chủ yếu nhờ rừng phòng hộ; rừng đặc dụng tập trung bảo tồn đa dạng sinh học.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c81",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nTổng diện tích rừng Việt Nam hiện đạt khoảng 14,8 triệu ha, độ che phủ rừng đạt gần 42%. Tuy nhiên diện tích rừng tự nhiên phục hồi chậm, đa dạng sinh học tiếp tục bị đe dọa bởi biến đổi khí hậu và hoạt động kinh tế.\n\n**Nhận định sau đây đúng hay sai?** Chất lượng rừng tự nhiên đã khôi phục hoàn toàn nguyên vẹn như thời kì nguyên sinh.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Sai.** Rừng tự nhiên phục hồi chậm, chất lượng chưa thể bằng rừng nguyên sinh.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c82",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nTổng diện tích rừng Việt Nam hiện đạt khoảng 14,8 triệu ha, độ che phủ rừng đạt gần 42%. Tuy nhiên diện tích rừng tự nhiên phục hồi chậm, đa dạng sinh học tiếp tục bị đe dọa bởi biến đổi khí hậu và hoạt động kinh tế.\n\n**Nhận định sau đây đúng hay sai?** Suy giảm đa dạng sinh học làm tăng nguy cơ suy thoái môi trường và mất cân bằng sinh thái.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Mất đa dạng sinh học làm mất cân bằng sinh thái, tăng nguy cơ suy thoái môi trường.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c83",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\n**Diện tích rừng tự nhiên và rừng trồng ở nước ta qua các năm (nghìn ha):**\n\n- Năm 1990: rừng tự nhiên 8430; rừng trồng 960\n- Năm 2000: rừng tự nhiên 9444; rừng trồng 2050\n- Năm 2010: rừng tự nhiên 10305; rừng trồng 3080\n- Năm 2020: rừng tự nhiên 10279; rừng trồng 4398\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2021.*\n\n**Nhận định sau đây đúng hay sai?** Tổng diện tích rừng của nước ta liên tục tăng trong giai đoạn 1990 - 2020.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Tổng diện tích rừng tăng liên tục: 9390 → 11494 → 13385 → 14677 nghìn ha.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c84",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\n**Diện tích rừng tự nhiên và rừng trồng ở nước ta qua các năm (nghìn ha):**\n\n- Năm 1990: rừng tự nhiên 8430; rừng trồng 960\n- Năm 2000: rừng tự nhiên 9444; rừng trồng 2050\n- Năm 2010: rừng tự nhiên 10305; rừng trồng 3080\n- Năm 2020: rừng tự nhiên 10279; rừng trồng 4398\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2021.*\n\n**Nhận định sau đây đúng hay sai?** Diện tích rừng trồng tăng nhanh hơn diện tích rừng tự nhiên về tốc độ phát triển.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Rừng trồng tăng khoảng 4,6 lần, rừng tự nhiên chỉ tăng khoảng 1,2 lần.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c85",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\n**Diện tích rừng tự nhiên và rừng trồng ở nước ta qua các năm (nghìn ha):**\n\n- Năm 1990: rừng tự nhiên 8430; rừng trồng 960\n- Năm 2000: rừng tự nhiên 9444; rừng trồng 2050\n- Năm 2010: rừng tự nhiên 10305; rừng trồng 3080\n- Năm 2020: rừng tự nhiên 10279; rừng trồng 4398\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2021.*\n\n**Nhận định sau đây đúng hay sai?** Tỉ trọng rừng tự nhiên trong tổng diện tích rừng năm 2020 cao hơn năm 1990.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Tỉ trọng rừng tự nhiên giảm từ khoảng 89,8% (1990) xuống khoảng 70,0% (2020).",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c86",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\n**Diện tích rừng tự nhiên và rừng trồng ở nước ta qua các năm (nghìn ha):**\n\n- Năm 1990: rừng tự nhiên 8430; rừng trồng 960\n- Năm 2000: rừng tự nhiên 9444; rừng trồng 2050\n- Năm 2010: rừng tự nhiên 10305; rừng trồng 3080\n- Năm 2020: rừng tự nhiên 10279; rừng trồng 4398\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2021.*\n\n**Nhận định sau đây đúng hay sai?** Sự gia tăng diện tích rừng đóng góp lớn vào việc bảo vệ tài nguyên đất và nước.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Rừng tăng giúp bảo vệ đất, điều tiết nguồn nước và giảm xói mòn.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c87",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nỞ vùng đồng bằng nước ta, việc sử dụng phân hóa học quá mức, ô nhiễm nước thải sinh hoạt và công nghiệp đang làm suy thoái môi trường đất và nước nghiêm trọng. Ở miền núi, nạn phá rừng làm xói mòn và cuốn trôi hàng triệu tấn đất mất mỗi năm.\n\n**Nhận định sau đây đúng hay sai?** Suy thoái môi trường đất ở đồi núi chủ yếu do rửa trôi và xói mòn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Miền núi suy thoái đất chủ yếu do rửa trôi, xói mòn sau khi rừng bị phá.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c88",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nỞ vùng đồng bằng nước ta, việc sử dụng phân hóa học quá mức, ô nhiễm nước thải sinh hoạt và công nghiệp đang làm suy thoái môi trường đất và nước nghiêm trọng. Ở miền núi, nạn phá rừng làm xói mòn và cuốn trôi hàng triệu tấn đất mất mỗi năm.\n\n**Nhận định sau đây đúng hay sai?** Ô nhiễm môi trường ở đồng bằng chủ yếu do tác động của thiên tai lũ lụt.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Ô nhiễm đồng bằng chủ yếu do phân hóa học quá mức và nước thải sinh hoạt, công nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c89",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nỞ vùng đồng bằng nước ta, việc sử dụng phân hóa học quá mức, ô nhiễm nước thải sinh hoạt và công nghiệp đang làm suy thoái môi trường đất và nước nghiêm trọng. Ở miền núi, nạn phá rừng làm xói mòn và cuốn trôi hàng triệu tấn đất mất mỗi năm.\n\n**Nhận định sau đây đúng hay sai?** Bảo vệ tài nguyên đất cần áp dụng đồng bộ các giải pháp công trình và phi công trình.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Cần kết hợp giải pháp công trình với canh tác, quy hoạch và quản lí.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c90",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nỞ vùng đồng bằng nước ta, việc sử dụng phân hóa học quá mức, ô nhiễm nước thải sinh hoạt và công nghiệp đang làm suy thoái môi trường đất và nước nghiêm trọng. Ở miền núi, nạn phá rừng làm xói mòn và cuốn trôi hàng triệu tấn đất mất mỗi năm.\n\n**Nhận định sau đây đúng hay sai?** Xử lí triệt để nước thải công nghiệp là giải pháp quan trọng bảo vệ nguồn nước.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Xử lí nước thải công nghiệp giúp giảm ô nhiễm nguồn nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c91",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐai nhiệt đới chân núi miền Bắc kéo dài đến độ cao 600 - 700m, miền Nam lên đến 900 - 1000m. Trên đai này là đai cận nhiệt đới gió mùa trên núi kéo dài đến 2600m, và trên 2600m là đai ôn đới gió mùa trên núi.\n\n**Nhận định sau đây đúng hay sai?** Đai cận nhiệt đới trên núi có nhiệt độ trung bình các tháng mùa hạ dưới 25°C.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Đai cận nhiệt đới mát mẻ, nhiệt độ trung bình các tháng mùa hạ dưới 25°C.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c92",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐai nhiệt đới chân núi miền Bắc kéo dài đến độ cao 600 - 700m, miền Nam lên đến 900 - 1000m. Trên đai này là đai cận nhiệt đới gió mùa trên núi kéo dài đến 2600m, và trên 2600m là đai ôn đới gió mùa trên núi.\n\n**Nhận định sau đây đúng hay sai?** Rêu và địa y bám trên thân cây phát triển mạnh ở đai ôn đới gió mùa trên núi.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Rêu, địa y phát triển mạnh ở đai ôn đới trên núi với khí hậu lạnh ẩm.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c93",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐai nhiệt đới chân núi miền Bắc kéo dài đến độ cao 600 - 700m, miền Nam lên đến 900 - 1000m. Trên đai này là đai cận nhiệt đới gió mùa trên núi kéo dài đến 2600m, và trên 2600m là đai ôn đới gió mùa trên núi.\n\n**Nhận định sau đây đúng hay sai?** Miền Bắc có đai chân núi hạ thấp hơn miền Nam do vĩ độ cao hơn và mùa đông lạnh.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Miền Bắc vĩ độ cao hơn, có mùa đông lạnh nên đai nhiệt đới chân núi hạ thấp hơn miền Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c94",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nĐai nhiệt đới chân núi miền Bắc kéo dài đến độ cao 600 - 700m, miền Nam lên đến 900 - 1000m. Trên đai này là đai cận nhiệt đới gió mùa trên núi kéo dài đến 2600m, và trên 2600m là đai ôn đới gió mùa trên núi.\n\n**Nhận định sau đây đúng hay sai?** Đất đai chủ yếu ở đai ôn đới trên núi là đất feralit có mùn rất dày.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Sai.** Đất ở đai ôn đới trên núi chủ yếu là đất mùn thô, mùn alit, không phải feralit mùn dày.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c95",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nViệt Nam là một trong những quốc gia chịu ảnh hưởng nặng nề nhất của biến đổi khí hậu. Hiện tượng nước biển dâng, sạt lở bờ biển, hạn hán và xâm nhập mặn diễn ra gia tăng với cường độ mạnh mẽ hơn ở Đồng bằng sông Cửu Long.\n\n**Nhận định sau đây đúng hay sai?** Đồng bằng sông Cửu Long là vùng chịu ảnh hưởng nặng nề nhất của xâm nhập mặn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** ĐBSCL có địa hình thấp, giáp biển nên chịu xâm nhập mặn nặng nhất.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c96",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nViệt Nam là một trong những quốc gia chịu ảnh hưởng nặng nề nhất của biến đổi khí hậu. Hiện tượng nước biển dâng, sạt lở bờ biển, hạn hán và xâm nhập mặn diễn ra gia tăng với cường độ mạnh mẽ hơn ở Đồng bằng sông Cửu Long.\n\n**Nhận định sau đây đúng hay sai?** Nước biển dâng làm thu hẹp diện tích đất nông nghiệp ven biển.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Nước biển dâng gây ngập, nhiễm mặn và thu hẹp đất nông nghiệp ven biển.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c97",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nViệt Nam là một trong những quốc gia chịu ảnh hưởng nặng nề nhất của biến đổi khí hậu. Hiện tượng nước biển dâng, sạt lở bờ biển, hạn hán và xâm nhập mặn diễn ra gia tăng với cường độ mạnh mẽ hơn ở Đồng bằng sông Cửu Long.\n\n**Nhận định sau đây đúng hay sai?** Chế độ dòng chảy sông ngòi ổn định hơn dưới tác động của biến đổi khí hậu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Biến đổi khí hậu làm dòng chảy thất thường hơn, không ổn định hơn.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c98",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nViệt Nam là một trong những quốc gia chịu ảnh hưởng nặng nề nhất của biến đổi khí hậu. Hiện tượng nước biển dâng, sạt lở bờ biển, hạn hán và xâm nhập mặn diễn ra gia tăng với cường độ mạnh mẽ hơn ở Đồng bằng sông Cửu Long.\n\n**Nhận định sau đây đúng hay sai?** Phát triển năng lượng tái tạo là một giải pháp nhằm giảm nhẹ biến đổi khí hậu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Đúng.** Năng lượng tái tạo giảm phát thải khí nhà kính, giúp giảm nhẹ biến đổi khí hậu.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c99",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nMặc dù Việt Nam có tổng lượng nước lớn (khoảng 830 - 840 tỉ m³/năm), nhưng có tới 60% lượng nước sinh ra ở ngoài lãnh thổ. Phân bố nguồn nước không đều theo không gian và thời gian đang là thách thức lớn.\n\n**Nhận định sau đây đúng hay sai?** Nước ta hoàn toàn chủ động được 100% nguồn nước sông ngòi nội địa.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Sai.** Khoảng 60% lượng nước sinh ra ngoài lãnh thổ nên không thể chủ động hoàn toàn.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c100",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nMặc dù Việt Nam có tổng lượng nước lớn (khoảng 830 - 840 tỉ m³/năm), nhưng có tới 60% lượng nước sinh ra ở ngoài lãnh thổ. Phân bố nguồn nước không đều theo không gian và thời gian đang là thách thức lớn.\n\n**Nhận định sau đây đúng hay sai?** Sự phân bố nước không đều theo mùa gây ra lũ lụt trong mùa mưa và hạn hán mùa khô.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Phân bố không đều theo mùa gây lũ mùa mưa và hạn mùa khô.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c101",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nMặc dù Việt Nam có tổng lượng nước lớn (khoảng 830 - 840 tỉ m³/năm), nhưng có tới 60% lượng nước sinh ra ở ngoài lãnh thổ. Phân bố nguồn nước không đều theo không gian và thời gian đang là thách thức lớn.\n\n**Nhận định sau đây đúng hay sai?** Xây dựng các hồ chứa nước là giải pháp điều tiết nguồn nước hiệu quả.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Hồ chứa giúp điều tiết dòng chảy giữa mùa mưa và mùa khô.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c102",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-bao-ve",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin sau:**\n\nMặc dù Việt Nam có tổng lượng nước lớn (khoảng 830 - 840 tỉ m³/năm), nhưng có tới 60% lượng nước sinh ra ở ngoài lãnh thổ. Phân bố nguồn nước không đều theo không gian và thời gian đang là thách thức lớn.\n\n**Nhận định sau đây đúng hay sai?** Tài nguyên nước ở nước ta không bao giờ có nguy cơ bị suy thoái hay ô nhiễm.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Nguồn nước đang suy giảm và ô nhiễm, có nguy cơ suy thoái rõ rệt.",
+      "difficulty": "MEDIUM",
+      "score": 0.05,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "đúng – sai",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c103",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-vi-tri",
+      "type": "FILL_IN",
+      "content": "Biết diện tích phần đất liền nước ta là 331 212 km², chiều dài đường bờ biển là 3260 km. Tính bình quân số km² đất liền trên 1 km đường bờ biển (làm tròn đến hàng đơn vị).",
+      "options": [],
+      "correctAnswer": [
+        "102",
+        "102 km²",
+        "102 km2"
+      ],
+      "explanation": "**Đáp án: 102.** 331 212 : 3260 ≈ 101,6, làm tròn đến hàng đơn vị được **102 km²/km**.",
+      "difficulty": "EASY",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c104",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-vi-tri",
+      "type": "FILL_IN",
+      "content": "Số tỉnh và thành phố trực thuộc Trung ương của nước ta giáp biển là 28 trên tổng số 63 tỉnh/thành. Hãy tính tỉ lệ tỉnh/thành giáp biển (làm tròn đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "44,4",
+        "44.4",
+        "44,4%",
+        "44.4%"
+      ],
+      "explanation": "**Đáp án: 44,4.** 28 : 63 × 100 ≈ 44,4%.",
+      "difficulty": "EASY",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c105",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-vi-tri",
+      "type": "FILL_IN",
+      "content": "Khoảng cách từ cực Bắc (23°23'B) đến cực Nam (8°34'B) trên đất liền nước ta xấp xỉ bao nhiêu vĩ độ (làm tròn đến 1 chữ số thập phân)?",
+      "options": [],
+      "correctAnswer": [
+        "14,8",
+        "14.8",
+        "14,8 độ",
+        "14.8 độ",
+        "14,8°",
+        "14.8°"
+      ],
+      "explanation": "**Đáp án: 14,8.** 23°23' − 8°34' = 14°49' ≈ 14,8 độ vĩ.",
+      "difficulty": "MEDIUM",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c106",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "**Bảng số liệu nhiệt độ trung bình 12 tháng năm 2024 tại trạm khí tượng Đà Nẵng (°C):**\n\n- Tháng 1: 21,5; tháng 2: 22,8; tháng 3: 24,5; tháng 4: 27,2\n- Tháng 5: 29,1; tháng 6: 30,4; tháng 7: 29,8; tháng 8: 29,5\n- Tháng 9: 27,9; tháng 10: 26,1; tháng 11: 24,3; tháng 12: 22,0\n\nCăn cứ vào bảng số liệu trên, hãy tính biên độ nhiệt độ trung bình năm 2024 tại trạm Đà Nẵng (làm tròn kết quả đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "8,9",
+        "8.9"
+      ],
+      "explanation": "**Đáp án: 8,9.** Nhiệt độ cao nhất 30,4°C (tháng 6), thấp nhất 21,5°C (tháng 1): 30,4 − 21,5 = **8,9°C**.",
+      "difficulty": "MEDIUM",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c107",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Tại trạm Hà Nội, tháng có nhiệt độ cao nhất là tháng 7 (28,9°C) và tháng có nhiệt độ thấp nhất là tháng 1 (16,4°C). Biên độ nhiệt năm tại Hà Nội là bao nhiêu °C (làm tròn đến 1 chữ số thập phân)?",
+      "options": [],
+      "correctAnswer": [
+        "12,5",
+        "12.5"
+      ],
+      "explanation": "**Đáp án: 12,5.** 28,9 − 16,4 = **12,5°C**.",
+      "difficulty": "EASY",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c108",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Tổng lượng mưa cả năm tại trạm Huế là 2868 mm, tổng số ngày mưa là 158 ngày. Tính lượng mưa bình quân trong 1 ngày mưa tại Huế (mm/ngày, làm tròn đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "18,2",
+        "18.2",
+        "18,2 mm",
+        "18.2 mm"
+      ],
+      "explanation": "**Đáp án: 18,2.** 2868 : 158 ≈ 18,15, làm tròn được **18,2 mm/ngày**.",
+      "difficulty": "MEDIUM",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c109",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Trạm TP. Hồ Chí Minh có nhiệt độ trung bình tháng cao nhất là 28,9°C và thấp nhất là 25,7°C. Hãy tính biên độ nhiệt năm tại TP. Hồ Chí Minh (làm tròn đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "3,2",
+        "3.2"
+      ],
+      "explanation": "**Đáp án: 3,2.** 28,9 − 25,7 = **3,2°C**.",
+      "difficulty": "EASY",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c110",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Năm 2024, tổng lượng mưa tại Nha Trang là 1350 mm, trong đó mùa mưa (tháng 9 – 12) đạt 1080 mm. Tính tỉ trọng lượng mưa mùa mưa so với cả năm (%) (làm tròn đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "80",
+        "80,0",
+        "80.0",
+        "80%",
+        "80,0%",
+        "80.0%"
+      ],
+      "explanation": "**Đáp án: 80.** 1080 : 1350 × 100 = **80,0%**.",
+      "difficulty": "MEDIUM",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c111",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "FILL_IN",
+      "content": "Cho biết đỉnh núi Phan-xi-păng cao 3143m. Nếu ở chân núi (độ cao 100m) nhiệt độ đo được là 25,0°C thì nhiệt độ tính toán trên đỉnh Phan-xi-păng xấp xỉ bao nhiêu °C (biết nhiệt độ giảm 0,6°C khi lên cao 100m, làm tròn đến 1 chữ số thập phân)?",
+      "options": [],
+      "correctAnswer": [
+        "6,7",
+        "6.7",
+        "6,7°C",
+        "6.7°C"
+      ],
+      "explanation": "**Đáp án: 6,7.** Chênh cao 3143 − 100 = 3043 m. Nhiệt độ giảm 3043 : 100 × 0,6 ≈ 18,3°C, nên trên đỉnh còn 25,0 − 18,3 ≈ **6,7°C**.",
+      "difficulty": "HARD",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c112",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-bao-ve",
+      "type": "FILL_IN",
+      "content": "Năm 2020, tổng diện tích đất có rừng nước ta là 14 677 nghìn ha, diện tích đất tự nhiên là 33 121 nghìn ha. Tính độ che phủ rừng nước ta năm 2020 (%) (làm tròn đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "44,3",
+        "44.3",
+        "44,3%",
+        "44.3%"
+      ],
+      "explanation": "**Đáp án: 44,3.** 14 677 : 33 121 × 100 ≈ 44,31%, làm tròn được **44,3%**.",
+      "difficulty": "MEDIUM",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c113",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-bao-ve",
+      "type": "FILL_IN",
+      "content": "Diện tích rừng tự nhiên năm 1990 là 8430 nghìn ha, năm 2020 là 10 279 nghìn ha. Tính diện tích rừng tự nhiên tăng thêm bao nhiêu nghìn ha (làm tròn đến hàng đơn vị).",
+      "options": [],
+      "correctAnswer": [
+        "1849",
+        "1849 nghìn ha"
+      ],
+      "explanation": "**Đáp án: 1849.** 10 279 − 8430 = **1849 nghìn ha**.",
+      "difficulty": "EASY",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c114",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-bao-ve",
+      "type": "FILL_IN",
+      "content": "Năm 2020, diện tích rừng trồng nước ta đạt 4398 nghìn ha, tổng diện tích rừng là 14 677 nghìn ha. Tính tỉ trọng rừng trồng trong tổng diện tích rừng (%) (làm tròn đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "30",
+        "30,0",
+        "30.0",
+        "30%",
+        "30,0%",
+        "30.0%"
+      ],
+      "explanation": "**Đáp án: 30.** 4398 : 14 677 × 100 ≈ 29,97%, làm tròn được **30,0%**.",
+      "difficulty": "MEDIUM",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c115",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-bao-ve",
+      "type": "FILL_IN",
+      "content": "Năm 1990 rừng trồng đạt 960 nghìn ha, đến năm 2020 đạt 4398 nghìn ha. Diện tích rừng trồng năm 2020 tăng gấp bao nhiêu lần năm 1990 (làm tròn đến 1 chữ số thập phân)?",
+      "options": [],
+      "correctAnswer": [
+        "4,6",
+        "4.6",
+        "4,6 lần",
+        "4.6 lần"
+      ],
+      "explanation": "**Đáp án: 4,6.** 4398 : 960 ≈ 4,58, làm tròn được **4,6 lần**.",
+      "difficulty": "MEDIUM",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c116",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Biết tổng diện tích đất phù sa ở Đồng bằng sông Cửu Long là khoảng 1,2 triệu ha trên tổng diện tích tự nhiên toàn vùng là 4,0 triệu ha. Tỉ lệ % đất phù sa của vùng là bao nhiêu (%)?",
+      "options": [],
+      "correctAnswer": [
+        "30",
+        "30,0",
+        "30.0",
+        "30%",
+        "30,0%",
+        "30.0%"
+      ],
+      "explanation": "**Đáp án: 30.** 1,2 : 4,0 × 100 = **30,0%**.",
+      "difficulty": "EASY",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia-01-c117",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-phan-hoa",
+      "type": "FILL_IN",
+      "content": "Tại trạm Sa Pa (độ cao 1570m), nhiệt độ trung bình năm là 15,2°C, trong khi trạm Lào Cai (độ cao 100m) là 23,2°C. Chênh lệch nhiệt độ giữa 2 trạm là bao nhiêu °C?",
+      "options": [],
+      "correctAnswer": [
+        "8",
+        "8,0",
+        "8.0",
+        "8°C",
+        "8,0°C",
+        "8.0°C"
+      ],
+      "explanation": "**Đáp án: 8.** 23,2 − 15,2 = **8,0°C**.",
+      "difficulty": "EASY",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "phân hóa thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia-01-c118",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-bao-ve",
+      "type": "FILL_IN",
+      "content": "Năm 2024, tổng diện tích rừng bị thiệt hại do cháy và chặt phá là khoảng 1200 ha, giảm 400 ha so với năm 2023. Tính tỉ lệ % diện tích rừng bị thiệt hại giảm so với năm 2023 (làm tròn đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "25",
+        "25,0",
+        "25.0",
+        "25%",
+        "25,0%",
+        "25.0%"
+      ],
+      "explanation": "**Đáp án: 25.** Diện tích năm 2023 là 1200 + 400 = 1600 ha; mức giảm 400 : 1600 × 100 = **25,0%**.",
+      "difficulty": "MEDIUM",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c119",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-bao-ve",
+      "type": "FILL_IN",
+      "content": "Trong tổng số 830 tỉ m³ nước bề mặt nước ta hằng năm, lượng nước sinh ra nội địa đạt khoảng 310 tỉ m³. Tính tỉ trọng % lượng nước sinh ra ở ngoài lãnh thổ chảy vào nước ta (làm tròn đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "62,7",
+        "62.7",
+        "62,7%",
+        "62.7%"
+      ],
+      "explanation": "**Đáp án: 62,7.** Lượng nước sinh ra ngoài lãnh thổ là 830 − 310 = 520 tỉ m³; 520 : 830 × 100 ≈ 62,65%, làm tròn được **62,7%**.",
+      "difficulty": "HARD",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "bảo vệ tài nguyên"
+      ]
+    },
+    {
+      "id": "dia-01-c120",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-bao-ve",
+      "type": "FILL_IN",
+      "content": "Tính tốc độ tăng trưởng diện tích rừng trồng năm 2020 so với năm 1990 (xem năm 1990 = 100%), biết năm 1990 đạt 960 nghìn ha và năm 2020 đạt 4398 nghìn ha (làm tròn đến 1 chữ số thập phân).",
+      "options": [],
+      "correctAnswer": [
+        "458,1",
+        "458.1",
+        "458,1%",
+        "458.1%"
+      ],
+      "explanation": "**Đáp án: 458,1.** 4398 : 960 × 100 ≈ 458,1%, tức **458,1%** so với năm 1990.",
+      "difficulty": "MEDIUM",
+      "score": 0.1222,
+      "tags": [
+        "địa lí 12",
+        "giữa kì 1",
+        "trả lời ngắn",
+        "bảo vệ tài nguyên"
+      ]
+    }
+  ]
+}

@@ -242,6 +242,50 @@
           "order": 5
         }
       ]
+    },
+    {
+      "id": "dia-li",
+      "name": "Địa lí",
+      "slug": "dia-li",
+      "description": "Địa lí lớp 12: vị trí – phạm vi lãnh thổ, thiên nhiên nhiệt đới ẩm gió mùa, phân hóa thiên nhiên và bảo vệ tài nguyên.",
+      "order": 6,
+      "topics": [
+        {
+          "id": "topic-dia-vi-tri",
+          "name": "Vị trí địa lí và phạm vi lãnh thổ",
+          "slug": "vi-tri-dia-li-va-pham-vi-lanh-tho",
+          "description": "Vị trí, giới hạn, vùng đất, vùng biển, vùng trời và ý nghĩa của vị trí địa lí.",
+          "order": 1
+        },
+        {
+          "id": "topic-dia-thien-nhien",
+          "name": "Thiên nhiên nhiệt đới ẩm gió mùa",
+          "slug": "thien-nhien-nhiet-doi-am-gio-mua",
+          "description": "Khí hậu, sông ngòi, đất, sinh vật và các quá trình địa hình nhiệt đới ẩm gió mùa.",
+          "order": 2
+        },
+        {
+          "id": "topic-dia-phan-hoa",
+          "name": "Sự phân hóa của thiên nhiên",
+          "slug": "su-phan-hoa-cua-thien-nhien",
+          "description": "Phân hóa Bắc – Nam, Đông – Tây và theo độ cao địa hình.",
+          "order": 3
+        },
+        {
+          "id": "topic-dia-bao-ve",
+          "name": "Sử dụng và bảo vệ tự nhiên",
+          "slug": "su-dung-va-bao-ve-tu-nhien",
+          "description": "Sử dụng hợp lí đất, nước, rừng, đa dạng sinh học và bảo vệ môi trường.",
+          "order": 4
+        },
+        {
+          "id": "topic-dia-thuc-hanh",
+          "name": "Thực hành kĩ năng địa lí",
+          "slug": "thuc-hanh-ky-nang-dia-li",
+          "description": "Nhận dạng biểu đồ, nhận xét bảng số liệu và các phép tính địa lí thường gặp.",
+          "order": 5
+        }
+      ]
     }
   ]
 }
