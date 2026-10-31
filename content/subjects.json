@@ -1,0 +1,57 @@
+{
+  "subjects": [
+    {
+      "id": "toan",
+      "name": "Toán",
+      "slug": "toan",
+      "description": "Toán học lớp 12: hàm số, mũ – logarit, hình học không gian.",
+      "order": 1,
+      "topics": [
+        {
+          "id": "topic-toan-ham-so",
+          "name": "Hàm số và đồ thị",
+          "slug": "ham-so-va-do-thi",
+          "description": "Tính đơn điệu, cực trị, giá trị lớn nhất – nhỏ nhất của hàm số.",
+          "order": 1
+        },
+        {
+          "id": "topic-toan-mu-logarit",
+          "name": "Hàm số mũ và logarit",
+          "slug": "ham-so-mu-va-logarit",
+          "description": "Phương trình, bất phương trình mũ và logarit.",
+          "order": 2
+        },
+        {
+          "id": "topic-toan-hinh-khong-gian",
+          "name": "Hình học không gian",
+          "slug": "hinh-hoc-khong-gian",
+          "description": "Khối đa diện, hình nón, hình trụ, khối cầu.",
+          "order": 3
+        }
+      ]
+    },
+    {
+      "id": "tieng-anh",
+      "name": "Tiếng Anh",
+      "slug": "tieng-anh",
+      "description": "Tiếng Anh lớp 12: ngữ pháp trọng tâm và từ vựng theo chủ đề.",
+      "order": 2,
+      "topics": [
+        {
+          "id": "topic-anh-ngu-phap",
+          "name": "Ngữ pháp trọng tâm",
+          "slug": "ngu-phap-trong-tam",
+          "description": "Thì, câu điều kiện, câu bị động và cấu trúc động từ.",
+          "order": 1
+        },
+        {
+          "id": "topic-anh-tu-vung",
+          "name": "Từ vựng theo chủ đề",
+          "slug": "tu-vung-theo-chu-de",
+          "description": "Từ đồng nghĩa, collocation và từ vựng học thuật.",
+          "order": 2
+        }
+      ]
+    }
+  ]
+}

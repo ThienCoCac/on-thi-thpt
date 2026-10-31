@@ -1,0 +1,37 @@
+{
+  "name": "on-thi-thpt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "node scripts/serve-out.mjs",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.5.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "katex": "^0.16.47",
+    "lucide-react": "^0.454.0",
+    "next": "^14.2.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.5.4",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/katex": "^0.16.8",
+    "@types/node": "^20.17.6",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.15",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.14",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.6.3"
+  }
+}

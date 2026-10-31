@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 224 64% 33%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222 47% 11%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+    --accent: 25 95% 53%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 224 64% 33%;
+    --radius: 0.5rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+  }
+}
+
+@layer components {
+  .skip-link {
+    @apply absolute left-4 top-4 z-50 -translate-y-24 rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow-lg transition-transform;
+  }
+
+  .skip-link:focus-visible {
+    @apply translate-y-0;
+  }
+
+  .article-content {
+    @apply text-base leading-7 text-foreground;
+  }
+
+  .article-content > * + * {
+    @apply mt-4;
+  }
+
+  .article-content h2 {
+    @apply mt-8 text-xl font-semibold tracking-tight md:text-2xl;
+  }
+
+  .article-content h3 {
+    @apply mt-6 text-lg font-semibold;
+  }
+
+  .article-content ul {
+    @apply list-disc space-y-2 pl-6;
+  }
+
+  .article-content ol {
+    @apply list-decimal space-y-2 pl-6;
+  }
+
+  .article-content a {
+    @apply text-primary underline underline-offset-4;
+  }
+
+  .article-content img {
+    @apply h-auto max-w-full rounded-lg border;
+  }
+
+  .article-content .video-embed {
+    @apply relative aspect-video w-full overflow-hidden rounded-xl border bg-black;
+  }
+
+  .article-content .video-embed iframe {
+    @apply absolute inset-0 h-full w-full;
+  }
+
+  .article-content blockquote {
+    @apply border-l-4 border-primary/30 pl-4 italic text-muted-foreground;
+  }
+
+  .article-content strong {
+    @apply font-semibold;
+  }
+
+  .article-content .katex-display,
+  .article-content .math-display {
+    @apply overflow-x-auto overflow-y-hidden py-1;
+  }
+
+  .article-content .math-display {
+    @apply text-center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

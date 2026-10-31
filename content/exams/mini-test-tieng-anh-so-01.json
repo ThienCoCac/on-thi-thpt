@@ -1,0 +1,198 @@
+{
+  "id": "exam-anh-01",
+  "title": "Mini test Tiếng Anh - Đề số 01",
+  "slug": "mini-test-tieng-anh-so-01",
+  "description": "Mini test 10 câu về ngữ pháp và từ vựng, thời gian 30 phút, phù hợp để kiểm tra nhanh kiến thức nền.",
+  "subject": "tieng-anh",
+  "type": "MINI_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DEMO-ANH-01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-09-18T08:00:00+07:00",
+  "updatedAt": "2026-10-22T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "q-anh-01",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-ngu-phap",
+      "type": "SINGLE_CHOICE",
+      "content": "She ___ to school by bike every day.",
+      "options": [
+        { "key": "A", "text": "goes" },
+        { "key": "B", "text": "go" },
+        { "key": "C", "text": "going" },
+        { "key": "D", "text": "gone" }
+      ],
+      "correctAnswer": ["A"],
+      "explanation": "Chủ ngữ 'She' là ngôi thứ ba số ít, thì hiện tại đơn nên động từ thêm -s: goes. Các phương án còn lại sai hòa hợp chủ vị hoặc sai thì.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": ["thì hiện tại đơn", "hòa hợp chủ vị"]
+    },
+    {
+      "id": "q-anh-02",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-ngu-phap",
+      "type": "SINGLE_CHOICE",
+      "content": "If I ___ you, I would apologize to her.",
+      "options": [
+        { "key": "A", "text": "was" },
+        { "key": "B", "text": "were" },
+        { "key": "C", "text": "am" },
+        { "key": "D", "text": "be" }
+      ],
+      "correctAnswer": ["B"],
+      "explanation": "Câu điều kiện loại 2 diễn tả giả thiết không có thật ở hiện tại. Cấu trúc: If + S + V2/ed, S + would + V. Với 'I', dạng chuẩn trong câu điều kiện là were.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": ["câu điều kiện"]
+    },
+    {
+      "id": "q-anh-03",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-ngu-phap",
+      "type": "SINGLE_CHOICE",
+      "content": "The novel 'Tom Sawyer' ___ by Mark Twain.",
+      "options": [
+        { "key": "A", "text": "wrote" },
+        { "key": "B", "text": "was written" },
+        { "key": "C", "text": "has written" },
+        { "key": "D", "text": "is writing" }
+      ],
+      "correctAnswer": ["B"],
+      "explanation": "Câu bị động ở thì quá khứ đơn: was/were + V3. 'The novel' là số ít nên dùng was written. Chủ thể thực hiện hành động là Mark Twain, được nêu sau 'by'.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": ["câu bị động", "quá khứ đơn"]
+    },
+    {
+      "id": "q-anh-04",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-ngu-phap",
+      "type": "SINGLE_CHOICE",
+      "content": "He suggested ___ a short break after the meeting.",
+      "options": [
+        { "key": "A", "text": "to take" },
+        { "key": "B", "text": "taking" },
+        { "key": "C", "text": "take" },
+        { "key": "D", "text": "took" }
+      ],
+      "correctAnswer": ["B"],
+      "explanation": "Cấu trúc 'suggest + V-ing' khi không có tân ngữ chỉ người (suggest doing something). Vì vậy chọn taking. Nếu có tân ngữ, ta dùng 'suggest that someone (should) do something'.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": ["động từ theo sau", "V-ing"]
+    },
+    {
+      "id": "q-anh-05",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-ngu-phap",
+      "type": "SINGLE_CHOICE",
+      "content": "By the time we arrived, the film ___.",
+      "options": [
+        { "key": "A", "text": "starts" },
+        { "key": "B", "text": "started" },
+        { "key": "C", "text": "had started" },
+        { "key": "D", "text": "has started" }
+      ],
+      "correctAnswer": ["C"],
+      "explanation": "Hành động phim bắt đầu trước một hành động khác trong quá khứ (we arrived), nên dùng thì quá khứ hoàn thành: had started. Đây là dấu hiệu quen thuộc của cấu trúc By the time.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": ["quá khứ hoàn thành", "by the time"]
+    },
+    {
+      "id": "q-anh-06",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-tu-vung",
+      "type": "SINGLE_CHOICE",
+      "content": "The word 'significant' is closest in meaning to ___.",
+      "options": [
+        { "key": "A", "text": "important" },
+        { "key": "B", "text": "boring" },
+        { "key": "C", "text": "expensive" },
+        { "key": "D", "text": "temporary" }
+      ],
+      "correctAnswer": ["A"],
+      "explanation": "significant = important (quan trọng, đáng kể). Các phương án còn lại lần lượt là 'nhàm chán', 'đắt đỏ', 'tạm thời' — không cùng nghĩa.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": ["từ vựng", "đồng nghĩa"]
+    },
+    {
+      "id": "q-anh-07",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-tu-vung",
+      "type": "SINGLE_CHOICE",
+      "content": "Choose the word closest in meaning to 'generate'.",
+      "options": [
+        { "key": "A", "text": "produce" },
+        { "key": "B", "text": "destroy" },
+        { "key": "C", "text": "reduce" },
+        { "key": "D", "text": "borrow" }
+      ],
+      "correctAnswer": ["A"],
+      "explanation": "generate = produce (tạo ra, sản sinh). Đây là cặp đồng nghĩa thường gặp trong đề đọc hiểu về năng lượng và công nghệ.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": ["từ vựng", "đồng nghĩa"]
+    },
+    {
+      "id": "q-anh-08",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-tu-vung",
+      "type": "SINGLE_CHOICE",
+      "content": "What does 'environment' mean in Vietnamese?",
+      "options": [
+        { "key": "A", "text": "Môi trường" },
+        { "key": "B", "text": "Kinh tế" },
+        { "key": "C", "text": "Giáo dục" },
+        { "key": "D", "text": "Giao thông" }
+      ],
+      "correctAnswer": ["A"],
+      "explanation": "environment = môi trường. Đây là từ khóa xuất hiện thường xuyên trong các bài đọc về biến đổi khí hậu và phát triển bền vững.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": ["từ vựng", "chủ đề môi trường"]
+    },
+    {
+      "id": "q-anh-09",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-tu-vung",
+      "type": "SINGLE_CHOICE",
+      "content": "She has a strong ___ of responsibility.",
+      "options": [
+        { "key": "A", "text": "sense" },
+        { "key": "B", "text": "view" },
+        { "key": "C", "text": "sight" },
+        { "key": "D", "text": "look" }
+      ],
+      "correctAnswer": ["A"],
+      "explanation": "Cụm cố định 'a sense of responsibility' nghĩa là ý thức trách nhiệm. Các danh từ còn lại không kết hợp với 'of responsibility' trong ngữ cảnh này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": ["collocation", "từ vựng"]
+    },
+    {
+      "id": "q-anh-10",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-anh-tu-vung",
+      "type": "SINGLE_CHOICE",
+      "content": "The government plans to ___ new policies next year.",
+      "options": [
+        { "key": "A", "text": "implement" },
+        { "key": "B", "text": "deny" },
+        { "key": "C", "text": "ignore" },
+        { "key": "D", "text": "delay" }
+      ],
+      "correctAnswer": ["A"],
+      "explanation": "implement policies = triển khai chính sách. Các phương án 'deny' (phủ nhận), 'ignore' (bỏ qua), 'delay' (trì hoãn) không hợp nghĩa với 'plans to ... new policies'.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": ["collocation", "chính sách"]
+    }
+  ]
+}
