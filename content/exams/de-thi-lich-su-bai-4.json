@@ -1,0 +1,3747 @@
+{
+  "id": "exam-lich-su-bai-4",
+  "title": "Đề ôn tập Lịch sử 12 – Bài 4: Sự ra đời và phát triển của ASEAN",
+  "slug": "de-on-tap-lich-su-bai-4-su-ra-doi-va-phat-trien-cua-asean",
+  "description": "Bộ câu hỏi bám sát Bài 4 Lịch sử 12: hoàn cảnh thành lập, mục tiêu, nguyên tắc và các giai đoạn phát triển của ASEAN.",
+  "subject": "lich-su",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 90,
+  "totalScore": 106,
+  "examYear": 2026,
+  "examCode": "SU12-B4",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-10-31T08:00:00+07:00",
+  "updatedAt": "2026-10-31T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "q-su-bai4-001",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quốc gia nào sau đây không tham gia sáng lập tổ chức MAPHILINDO (1963)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Malaysia."
+        },
+        {
+          "key": "B",
+          "text": "Indonesia."
+        },
+        {
+          "key": "C",
+          "text": "Thái Lan."
+        },
+        {
+          "key": "D",
+          "text": "Philippines."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "MAPHILINDO thành lập tháng 8/1963 gồm Ma-lai-xi-a, Phi-líp-pin, In-đô-nê-xi-a; Thái Lan không tham gia sáng lập tổ chức này.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-002",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) không được thành lập trong bối cảnh nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các nước trong khu vực có chung một tôn giáo và tín ngưỡng cộng đồng."
+        },
+        {
+          "key": "B",
+          "text": "Xu hướng liên kết khu vực xuất hiện và ngày càng phổ biến trên thế giới."
+        },
+        {
+          "key": "C",
+          "text": "Các nước lớn đang tìm cách biến Đông Nam Á thành khu vực ảnh hưởng."
+        },
+        {
+          "key": "D",
+          "text": "Cuộc Chiến tranh lạnh tác động sâu sắc đến nhiều quốc gia trong khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đông Nam Á đa dạng tôn giáo, tín ngưỡng nên không có chuyện chung một tôn giáo; ba phương án còn lại đều đúng là bối cảnh ra đời ASEAN năm 1967.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-003",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây là một trong những hoạt động nổi bật của Hiệp hội các quốc gia Đông Nam Á (ASEAN) trong giai đoạn 2015 đến nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đề ra mục tiêu thành lập Cộng đồng ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "Bắt đầu xây dựng một khối phòng thủ chung."
+        },
+        {
+          "key": "C",
+          "text": "Đưa ra lộ trình nhất thể hóa chính trị khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Đẩy mạnh hợp tác với các đối tác ở bên ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Từ 2015, Cộng đồng ASEAN đã hình thành nên ASEAN đẩy mạnh hợp tác với các đối tác bên ngoài; mục tiêu thành lập Cộng đồng đã hoàn tất.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-004",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Ba nước Đông Dương gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN) trong bối cảnh nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xu thế toàn cầu hoá tiếp tục diễn ra mạnh mẽ."
+        },
+        {
+          "key": "B",
+          "text": "Trật tự hai cực Ianta chi phối tình hình thế giới."
+        },
+        {
+          "key": "C",
+          "text": "Hệ thống xã hội chủ nghĩa tiếp tục phát triển."
+        },
+        {
+          "key": "D",
+          "text": "Mỹ và Liên Xô tăng cường hợp tác quốc phòng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Việt Nam (1995), Lào (1997), Cam-pu-chia (1999) gia nhập khi Chiến tranh lạnh đã kết thúc, xu thế toàn cầu hoá diễn ra mạnh mẽ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-005",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Việt Nam gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN) có ý nghĩa nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đẩy nhanh quá trình nhất thể hoá chính trị giữa các quốc gia trong khu vực."
+        },
+        {
+          "key": "B",
+          "text": "Khẳng định quyết tâm xây dựng khối phòng thủ chung của các quốc gia trong khu vực."
+        },
+        {
+          "key": "C",
+          "text": "Đưa Việt Nam trở thành cường quốc đứng đầu trong khu vực Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "Đánh dấu bước phát triển trong quá trình hòa giải, hòa nhập và phát triển của khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Việc gia nhập ASEAN năm 1995 đánh dấu bước phát triển trong quá trình hoà giải, hoà nhập và phát triển của khu vực Đông Nam Á.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-006",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Việt Nam gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN) năm 1995 là dấu mốc quan trọng này vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "mở ra quá trình liên kết của ASEAN với các quốc gia ngoài khu vực."
+        },
+        {
+          "key": "B",
+          "text": "chứng tỏ quá trình hợp tác giữa các nước ASEAN đạt mức cao nhất."
+        },
+        {
+          "key": "C",
+          "text": "mở ra triển vọng mới cho quá trình liên kết nội khối ở Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "đánh dấu ASEAN chính thức trở thành liên minh chính trị khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Tháng 7/1995 Việt Nam là thành viên thứ 7, mở ra triển vọng liên kết nội khối, tiếp đó là Lào, Mi-an-ma (1997) và Cam-pu-chia (1999).",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-007",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quốc gia nào trong Hiệp hội các quốc gia Đông Nam Á (ASEAN) trở thành “con rồng” kinh tế của châu Á?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Malaysia."
+        },
+        {
+          "key": "B",
+          "text": "Singapore."
+        },
+        {
+          "key": "C",
+          "text": "Brunei."
+        },
+        {
+          "key": "D",
+          "text": "Thái Lan."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Xin-ga-po cùng Hàn Quốc, Đài Loan, Hồng Công được gọi là bốn con rồng kinh tế châu Á.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-008",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận xét nào sau đây phản ánh đúng sự thành lập của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phản ánh nỗ lực kiến tạo hòa bình của một số quốc gia trong khu vực."
+        },
+        {
+          "key": "B",
+          "text": "Là kết quả tất yếu của quá trình nhất thể hóa khu vực Đông Nam Á."
+        },
+        {
+          "key": "C",
+          "text": "Khẳng định quyết tâm xây dựng khối phòng thủ chung toàn châu Á."
+        },
+        {
+          "key": "D",
+          "text": "Đáp ứng yêu cầu hợp tác giữa một số nước trong xu thế toàn cầu hóa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "ASEAN ra đời năm 1967 từ nỗ lực của 5 nước nhằm kiến tạo hoà bình, giảm căng thẳng, không phải kết quả nhất thể hoá hay liên minh phòng thủ.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-009",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1992, Việt Nam trở thành",
+      "options": [
+        {
+          "key": "A",
+          "text": "quan sát viên của ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "thành viên chính thức của ASEAN."
+        },
+        {
+          "key": "C",
+          "text": "thành viên của Liên hợp quốc."
+        },
+        {
+          "key": "D",
+          "text": "thành viên của Liên minh châu Âu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1992 Việt Nam và Lào kí Hiệp ước Bali, trở thành quan sát viên ASEAN; Việt Nam vào Liên hợp quốc năm 1977, thành viên ASEAN năm 1995.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-010",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập trong bối cảnh",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhiều quốc gia Đông Nam Á vươn lên thành “con rồng” kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "xu thế toàn cầu hóa xuất hiện, ngày càng có ảnh hưởng mạnh mẽ."
+        },
+        {
+          "key": "C",
+          "text": "các nước có độc lập dân tộc nhưng gặp khó khăn trong phát triển."
+        },
+        {
+          "key": "D",
+          "text": "các nước trong khu vực đã hoàn thành công nghiệp hóa đất nước."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Năm 1967 các nước đã giành độc lập nhưng kinh tế còn khó khăn, cần hợp tác; toàn cầu hoá và con rồng kinh tế là đặc điểm giai đoạn sau.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-011",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Yếu tố khách quan nào dẫn đến “tình trạng xa cách, nghi kỵ thậm chí có lúc đối đầu” trong quan hệ giữa Việt Nam và ASEAN giai đoạn 1967-1975?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự xuất hiện và phát triển của chủ nghĩa khủng bố quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "Các nước Âu - Mỹ bắt đầu quay lại xâm lược Đông Nam Á."
+        },
+        {
+          "key": "C",
+          "text": "“Vấn đề Campuchia” căng thẳng, đe dọa an ninh khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Sự can thiệp của các nước lớn đối với khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Sự can thiệp của các nước lớn trong Chiến tranh lạnh là nhân tố khách quan gây xa cách; vấn đề Cam-pu-chia chỉ nổi lên từ năm 1979.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-012",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc mở rộng thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN) có ý nghĩa nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đưa ASEAN thành tổ chức hợp tác kinh tế lớn nhất hành tinh."
+        },
+        {
+          "key": "B",
+          "text": "Khẳng định quyết tâm liên kết toàn châu Á của các thành viên."
+        },
+        {
+          "key": "C",
+          "text": "Đưa ASEAN trở thành tổ chức liên minh quân sự hùng mạnh."
+        },
+        {
+          "key": "D",
+          "text": "Góp phần duy trì hòa bình, ổn định của khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Mở rộng từ ASEAN 5 lên ASEAN 10 năm 1999 góp phần duy trì hoà bình, ổn định khu vực, không phải liên minh quân sự hay khối kinh tế lớn nhất.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-013",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây là một trong những thành tựu về chính trị - an ninh của ASEAN trong giai đoạn 1976-1999?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bước đầu phát triển về cơ cấu tổ chức, nguyên tắc hoạt động."
+        },
+        {
+          "key": "B",
+          "text": "Hợp tác hiệu quả trong hoạt động chống chủ nghĩa khủng bố."
+        },
+        {
+          "key": "C",
+          "text": "Tham gia vào giải quyết vấn đề lập lại hòa bình ở Campuchia."
+        },
+        {
+          "key": "D",
+          "text": "Các nước tập trung hợp tác để giải quyết vấn đề an ninh mạng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Giai đoạn 1976-1999 ASEAN tham gia giải quyết vấn đề Cam-pu-chia, dẫn tới Hiệp định Pa-ri 1991; hoàn thiện cơ cấu tổ chức là thành tựu của 1967-1976.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-014",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình phát triển từ “ASEAN 5” đến “ASEAN 10” không chịu tác động của",
+      "options": [
+        {
+          "key": "A",
+          "text": "xu thế liên kết khu vực."
+        },
+        {
+          "key": "B",
+          "text": "cuộc Chiến tranh lạnh."
+        },
+        {
+          "key": "C",
+          "text": "chủ nghĩa khủng bố quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "xu thế toàn cầu hóa."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Quá trình ASEAN 5 lên ASEAN 10 chịu tác động của liên kết khu vực, Chiến tranh lạnh và toàn cầu hoá; chủ nghĩa khủng bố quốc tế nổi lên sau Chiến tranh lạnh.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-015",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Yếu tố quốc tế nào sau đây tác động đến sự thành lập của Hiệp hội các quốc gia Đông Nam Á (ASEAN) năm 1967?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xu thế toàn cầu hóa xuất hiện, ngày càng có ảnh hưởng lớn."
+        },
+        {
+          "key": "B",
+          "text": "Các nước Đông Nam Á muốn hạn chế hợp tác với bên ngoài."
+        },
+        {
+          "key": "C",
+          "text": "Cuộc Chiến tranh lạnh diễn ra, tác động đến nhiều quốc gia."
+        },
+        {
+          "key": "D",
+          "text": "Sự hình thành và phát triển của chủ nghĩa khủng bố quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Năm 1967 Chiến tranh lạnh đang gay gắt, tác động trực tiếp tới khu vực; toàn cầu hoá và khủng bố quốc tế là các yếu tố xuất hiện về sau.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-016",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây là điểm nổi bật trong mối quan hệ giữa ba nước Đông Dương và ASEAN từ cuối những năm 70 đến cuối những năm 80 của thế kỉ XX?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hợp tác cùng phát triển."
+        },
+        {
+          "key": "B",
+          "text": "Đồng minh chiến lược."
+        },
+        {
+          "key": "C",
+          "text": "Đối đầu, căng thẳng."
+        },
+        {
+          "key": "D",
+          "text": "Hòa bình, cùng phát triển."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Từ 1979 đến 1989, quan hệ giữa ba nước Đông Dương và ASEAN căng thẳng, đối đầu do vấn đề Cam-pu-chia.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-017",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giai đoạn 1967 - 1975, Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+      "options": [
+        {
+          "key": "A",
+          "text": "hợp tác ngày càng có hiệu quả trong lĩnh vực kinh tế, văn hóa."
+        },
+        {
+          "key": "B",
+          "text": "còn non trẻ, chưa có tiếng nói và vị thế cao trên trường quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "trở thành liên minh quân sự - chính trị hùng mạnh của khu vực."
+        },
+        {
+          "key": "D",
+          "text": "kết nạp được tất cả các quốc gia trong khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Giai đoạn 1967-1976 ASEAN còn non trẻ, hợp tác lỏng lẻo, chưa có vị thế cao; ASEAN 10 chỉ hoàn thành năm 1999.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-018",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trong những nguyên nhân thúc đẩy sự ra đời của Hiệp hội các quốc gia Đông Nam Á (ASEAN) là do các nước Đông Nam Á mong muốn",
+      "options": [
+        {
+          "key": "A",
+          "text": "thành lập liên minh quân sự."
+        },
+        {
+          "key": "B",
+          "text": "xây dựng nhà nước chung."
+        },
+        {
+          "key": "C",
+          "text": "hạn chế sự can thiệp từ bên ngoài."
+        },
+        {
+          "key": "D",
+          "text": "tổ chức lại trật tự khu vực châu Á."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Các nước Đông Nam Á muốn liên kết để hạn chế sự can thiệp của các nước lớn, bảo vệ độc lập, chủ quyền và phát triển.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-019",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự ra đời của Hiệp hội các quốc gia Đông Nam Á (ASEAN) là biểu hiện của",
+      "options": [
+        {
+          "key": "A",
+          "text": "xu thế toàn cầu hóa."
+        },
+        {
+          "key": "B",
+          "text": "xu thế đa cực, nhiều trung tâm."
+        },
+        {
+          "key": "C",
+          "text": "xu thế liên kết khu vực."
+        },
+        {
+          "key": "D",
+          "text": "xu thế hòa hoãn Đông Tây."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Sự ra đời ASEAN năm 1967 là biểu hiện của xu thế liên kết khu vực đang hình thành sau Chiến tranh thế giới thứ hai.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-020",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1997, quốc gia nào sau đây trở thành thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mi-an-ma."
+        },
+        {
+          "key": "B",
+          "text": "Phi-líp-pin."
+        },
+        {
+          "key": "C",
+          "text": "Campuchia."
+        },
+        {
+          "key": "D",
+          "text": "Brunei."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1997 Lào và Mi-an-ma gia nhập ASEAN, nâng tổ chức lên 9 thành viên.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-021",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trước khi Hiệp hội các quốc gia Đông Nam Á (ASEAN) ra đời, các tổ chức khu vực Đông Nam Á chỉ tồn tại trong thời gian ngắn là do",
+      "options": [
+        {
+          "key": "A",
+          "text": "các quốc gia tham gia sáng lập khi chưa giành được độc lập."
+        },
+        {
+          "key": "B",
+          "text": "chịu sự chi phối và ảnh hưởng sâu sắc của xu thế toàn cầu hóa."
+        },
+        {
+          "key": "C",
+          "text": "bất đồng trong quan hệ song phương giữa các nước thành viên."
+        },
+        {
+          "key": "D",
+          "text": "không đưa ra được mục tiêu hoạt động ngay từ khi thành lập."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "ASA, MAPHILINDO tan rã vì bất đồng song phương, tranh chấp lãnh thổ giữa các nước thành viên, không phải do thiếu mục tiêu hoạt động.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-022",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giai đoạn 2009 - 2015, các quốc gia thành viên Hiệp hội các quốc gia Đông Nam Á (ASEAN) triển khai nhiều biện pháp tích cực nhằm mục đích nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giải quyết triệt để “vấn đề Campuchia”."
+        },
+        {
+          "key": "B",
+          "text": "Kết nạp Đông-ti-mo vào tổ chức ASEAN."
+        },
+        {
+          "key": "C",
+          "text": "Thông qua bản Hiến chương ASEAN."
+        },
+        {
+          "key": "D",
+          "text": "Chuẩn bị thành lập Cộng đồng ASEAN."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Giai đoạn 2009-2015 ASEAN triển khai lộ trình xây dựng Cộng đồng, đưa Cộng đồng ASEAN ra đời ngày 31/12/2015.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-023",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây không phải là một trong những hoạt động của Hiệp hội các quốc gia Đông Nam Á (ASEAN) trong giai đoạn 1976-1999?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giải quyết vấn đề chính trị và an ninh tại Campuchia."
+        },
+        {
+          "key": "B",
+          "text": "Ra Tuyên bố về khu vực hòa bình, tự do và trung lập."
+        },
+        {
+          "key": "C",
+          "text": "Có sự phát triển số lượng thành viên từ 5 lên 10 nước."
+        },
+        {
+          "key": "D",
+          "text": "Thiết lập mối quan hệ chính trị ổn định trong khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "ZOPFAN được thông qua năm 1971, nằm ngoài giai đoạn 1976-1999; các phương án còn lại đều là hoạt động của giai đoạn này.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-024",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây phản ánh đúng về Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Được thành lập nhằm đối phó những thách thức về an ninh và kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Quá trình mở rộng thành viên của tổ chức diễn ra lâu dài, liên tục."
+        },
+        {
+          "key": "C",
+          "text": "Làm thất bại được mưu đồ của các nước lớn muốn gia tăng ảnh hưởng."
+        },
+        {
+          "key": "D",
+          "text": "Hợp tác kinh tế và văn hóa có hiệu quả cao ngay từ khi thành lập."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "ASEAN thành lập nhằm ứng phó thách thức về an ninh, kinh tế; quá trình mở rộng diễn ra lâu dài nhưng không liên tục (gián đoạn 1984-1995).",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-025",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Văn kiện nào sau đây nêu rõ mục đích thành lập của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên bố ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "Hiệp định Giơ-ne-vơ."
+        },
+        {
+          "key": "C",
+          "text": "Hiến chương Liên hợp quốc."
+        },
+        {
+          "key": "D",
+          "text": "Hiệp định Pari."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Tuyên bố ASEAN (Tuyên bố Băng Cốc 8/8/1967) nêu rõ mục đích thành lập; các văn kiện còn lại không liên quan tới ASEAN.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-026",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện nào sau đây thể hiện vai trò tích cực và trách nhiệm của Việt Nam đối với Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kết nạp Brunei vào ASEAN (1984)."
+        },
+        {
+          "key": "B",
+          "text": "Tuyên bố Băng cốc ra đời (1967)."
+        },
+        {
+          "key": "C",
+          "text": "Hiệp ước Bali được ký kết (1976)."
+        },
+        {
+          "key": "D",
+          "text": "Campuchia gia nhập ASEAN (1999)."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Việt Nam tích cực vận động, hỗ trợ để Cam-pu-chia gia nhập ASEAN năm 1999, hoàn thành mục tiêu ASEAN 10.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-027",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh không đúng về Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đánh dấu sự khởi sắc trong hoạt động của tổ chức này."
+        },
+        {
+          "key": "B",
+          "text": "Trở thành văn kiện pháp lý cao nhất của các quốc gia."
+        },
+        {
+          "key": "C",
+          "text": "Củng cố và tăng cường quan hệ hợp tác giữa các nước."
+        },
+        {
+          "key": "D",
+          "text": "Xây dựng được các nguyên tắc hoạt động của tổ chức."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "TAC là văn kiện quan trọng nhưng không phải văn kiện pháp lý cao nhất; vai trò đó thuộc Hiến chương ASEAN (2007).",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-028",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình mở rộng thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN) diễn ra lâu dài và đầy trở ngại vì một trong những lí do nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các nước không có nền văn hóa tương đồng."
+        },
+        {
+          "key": "B",
+          "text": "Thời gian độc lập các nước không đồng đều."
+        },
+        {
+          "key": "C",
+          "text": "Các nước không có nhu cầu liên kết khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Khả năng quốc phòng của các nước yếu kém."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Các nước giành độc lập ở thời điểm khác nhau nên điều kiện, nhận thức và mức độ sẵn sàng liên kết khu vực không đồng đều.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-029",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thời kỳ Chiến tranh lạnh, quốc gia nào sau đây gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Lào."
+        },
+        {
+          "key": "C",
+          "text": "Campuchia"
+        },
+        {
+          "key": "D",
+          "text": "Brunei."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Trong Chiến tranh lạnh, Brunei gia nhập ASEAN năm 1984; Việt Nam 1995, Lào 1997, Cam-pu-chia 1999 đều sau Chiến tranh lạnh.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-030",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trước khi Hiệp hội các quốc gia Đông Nam Á (ASEAN) ra đời, các quốc gia ở khu vực Đông Nam thành lập các tổ chức liên kết nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Liên minh châu Á và Hiệp ước Đông Nam Á."
+        },
+        {
+          "key": "B",
+          "text": "Hiệp hội Đông Nam Á và MAPHILINDO."
+        },
+        {
+          "key": "C",
+          "text": "Khối liên hiệp châu Á và Cộng đồng AEC."
+        },
+        {
+          "key": "D",
+          "text": "Khối Hiệp ước Đông Nam Á và Cộng đồng AEC."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Trước ASEAN có Hiệp hội Đông Nam Á (ASA, 1961) và MAPHILINDO (1963); AEC là cơ chế của chính ASEAN, không phải tổ chức tiền thân.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-031",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây không phải là lý do mở rộng thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN) từ đầu những năm 90 của thế kỷ XX?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chiến tranh lạnh kết thúc, xu thế toàn cầu hóa diễn ra ngày càng mạnh mẽ."
+        },
+        {
+          "key": "B",
+          "text": "Thực hiện hợp tác, phát triển có hiệu quả theo nguyên tắc Hiệp ước Ba-li."
+        },
+        {
+          "key": "C",
+          "text": "Chống lại sự hình thành trật tự đa cực, đa trung tâm sau Chiến tranh lạnh."
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ giữa ba nước Đông Dương với các nước ASEAN được cải thiện."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Mở rộng thành viên nhằm hợp tác, phát triển, không nhằm chống trật tự đa cực; đa cực là xu thế khách quan sau Chiến tranh lạnh.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-032",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giai đoạn 2015 đến nay, Hiệp hội các quốc gia Đông Nam Á (ASEAN) chủ yếu tập trung vào giải quyết vấn đề nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xây dựng và phát triển Cộng đồng ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "Kết nạp và mở rộng thành viên của tổ chức."
+        },
+        {
+          "key": "C",
+          "text": "Củng cố lòng tin và học cách cùng hòa giải."
+        },
+        {
+          "key": "D",
+          "text": "Bước đầu kết nạp các nước ở ngoài khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Từ 2015 ASEAN tập trung xây dựng, phát triển Cộng đồng trên ba trụ cột; việc kết nạp, mở rộng thành viên đã hoàn tất năm 1999.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-033",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giai đoạn 1999 - 2015, các nước thành viên ASEAN triển khai nhiều biện pháp tích cực nhằm đạt được mục đích nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thông qua bản Hiến chương ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "Nâng cao sự hợp tác trong và ngoại khối."
+        },
+        {
+          "key": "C",
+          "text": "Giải quyết triệt để “vấn đề Campuchia”."
+        },
+        {
+          "key": "D",
+          "text": "Kết nạp Đông-ti-mo vào tổ chức ASEAN."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "1999-2015 ASEAN hoàn thiện thể chế, tăng cường hợp tác nội khối và ngoại khối; vấn đề Cam-pu-chia đã giải quyết từ 1991.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-034",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong những năm 60 của thế kỉ XX, xu thế nào sau đây trên thế giới tác động tới sự ra đời của Hiệp ước các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Liên kết khu vực."
+        },
+        {
+          "key": "B",
+          "text": "Toàn cầu hóa."
+        },
+        {
+          "key": "C",
+          "text": "Hòa hoãn Đông - Tây."
+        },
+        {
+          "key": "D",
+          "text": "Đơn cực."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Những năm 60 thế kỉ XX, xu thế liên kết khu vực (EEC, ASEAN) tác động mạnh; toàn cầu hoá và hoà hoãn Đông - Tây thuộc giai đoạn sau.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-035",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trong các thành tựu của Hiệp hội các quốc gia Đông Nam Á (ASEAN) ở nửa sau thế kỉ XX là giải quyết được “vấn đề Campuchia” bằng một giải pháp về",
+      "options": [
+        {
+          "key": "A",
+          "text": "văn hóa."
+        },
+        {
+          "key": "B",
+          "text": "chính trị."
+        },
+        {
+          "key": "C",
+          "text": "kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "quân sự."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Vấn đề Cam-pu-chia được giải quyết bằng giải pháp chính trị, đỉnh cao là Hiệp định Pa-ri ngày 23/10/1991.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-036",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự ra đời và hoạt động của tổ chức hợp tác, liên kết khu vực nào đã có tác động tích cực, thúc đẩy Hiệp hội các quốc gia Đông Nam Á (ASEAN) thành lập?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Liên hợp quốc (UN)."
+        },
+        {
+          "key": "B",
+          "text": "Khối thị trường chung Châu Âu (EEC)."
+        },
+        {
+          "key": "C",
+          "text": "Hội đồng tương trợ kinh tế (SEV)."
+        },
+        {
+          "key": "D",
+          "text": "Hiệp ước thương mại tự do Bắc Mỹ (NAFTA)."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Sự ra đời và hoạt động hiệu quả của EEC (1957) là hình mẫu thúc đẩy các nước Đông Nam Á liên kết, thành lập ASEAN.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-037",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập nhằm mục đích nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xây dựng thị trường thống nhất với đồng tiền chung."
+        },
+        {
+          "key": "B",
+          "text": "Thúc đẩy phong trào giải phóng dân tộc giành thắng lợi."
+        },
+        {
+          "key": "C",
+          "text": "Thúc đẩy hòa bình và ổn định khu vực Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "Thành lập khối phòng thủ chung trên cơ sở đồng thuận."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Mục đích cốt lõi của ASEAN là thúc đẩy hoà bình, ổn định khu vực và hợp tác phát triển, không phải liên minh quân sự hay đồng tiền chung.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-038",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây không phải là nguyên nhân để Hiệp hội các quốc gia Đông Nam Á (ASEAN) quan tâm đến vấn đề an ninh - chính trị?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các cường quốc đẩy mạnh việc can thiệp."
+        },
+        {
+          "key": "B",
+          "text": "Cuộc Chiến tranh lạnh tác động mạnh mẽ."
+        },
+        {
+          "key": "C",
+          "text": "Cuộc Cách mạng công nghiệp 4.0 diễn ra."
+        },
+        {
+          "key": "D",
+          "text": "Tình hình an ninh, chính trị khu vực bất ổn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Cách mạng công nghiệp 4.0 diễn ra từ đầu thế kỉ XXI, không phải nguyên nhân khiến ASEAN quan tâm an ninh - chính trị từ năm 1967.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-039",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ những năm 90 của thế kỉ XX trở đi, Hiệp hội các quốc gia Đông Nam Á (ASEAN) đẩy mạnh hợp tác kinh tế song song với hợp tác an ninh chính trị, chứng tỏ",
+      "options": [
+        {
+          "key": "A",
+          "text": "các quốc gia trong khu vực có sự nhất thể hóa chính trị."
+        },
+        {
+          "key": "B",
+          "text": "sự thay đổi tích cực của khu vực khi Chiến tranh lạnh kết thúc."
+        },
+        {
+          "key": "C",
+          "text": "những bất đồng giữa các thành viên hoàn toàn bị xoá bỏ."
+        },
+        {
+          "key": "D",
+          "text": "các nước lớn không còn can thiệp vào khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Chiến tranh lạnh kết thúc tạo môi trường hoà bình, ASEAN đẩy mạnh đồng thời hợp tác kinh tế và an ninh - chính trị.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-040",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Mục đích thành lập của Hiệp hội các quốc gia Đông Nam Á (ASEAN) là thúc đẩy hòa bình và ổn định khu vực thông qua việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "giúp đỡ lẫn nhau về mặt kinh tế, quân sự, khoa học - kĩ thuật giữa các nước thành viên."
+        },
+        {
+          "key": "B",
+          "text": "tôn trọng công lý và nguyên tắc luật pháp trong quan hệ giữa các quốc gia thành viên."
+        },
+        {
+          "key": "C",
+          "text": "ra sức mở rộng quan hệ với các cường quốc thuộc các trung tâm quyền lực của thế giới."
+        },
+        {
+          "key": "D",
+          "text": "đề cao công tác nghiên cứu khoa học - kĩ thuật ở các nước thuộc khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Tuyên bố ASEAN nêu rõ: thúc đẩy hoà bình bằng việc tôn trọng công lí, nguyên tắc luật pháp và tuân thủ Hiến chương Liên hợp quốc.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-041",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây không phải là khó khăn của Hiệp hội các quốc gia Đông Nam Á (ASEAN) trong quá trình phát triển và mở rộng thành viên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trật tự thế giới đa cực, nhiều trung tâm xác lập."
+        },
+        {
+          "key": "B",
+          "text": "Sự can thiệp của các cường quốc đối với khu vực."
+        },
+        {
+          "key": "C",
+          "text": "Thời gian giành độc lập của các nước khác nhau."
+        },
+        {
+          "key": "D",
+          "text": "Cuộc Chiến tranh lạnh, cục diện hai cực, hai phe."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Trật tự đa cực chỉ manh nha sau Chiến tranh lạnh, không phải khó khăn của ASEAN trong quá trình phát triển, mở rộng thành viên.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-042",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trong những nguyên nhân thúc đẩy sự ra đời của Hiệp hội các quốc gia Đông Nam Á (ASEAN) vào năm 1967 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "yêu cầu hợp tác, phát triển giữa các nước trong khu vực."
+        },
+        {
+          "key": "B",
+          "text": "sự phát triển của xu thế liên kết khu vực và toàn cầu hoá."
+        },
+        {
+          "key": "C",
+          "text": "sự đe dọa của chủ nghĩa khủng bố đến an ninh khu vực."
+        },
+        {
+          "key": "D",
+          "text": "yêu cầu hợp tác để cạnh tranh với các siêu cường thế giới."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Yêu cầu hợp tác, phát triển kinh tế - xã hội của các nước trong khu vực là nguyên nhân trực tiếp thúc đẩy ASEAN ra đời năm 1967.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-043",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1976, Hiệp hội các quốc gia Đông Nam Á (ASEAN) đưa ra văn bản nào sau đây để tăng cường sự đoàn kết và quan hệ chặt chẽ hơn giữa các nước thành viên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên bố Băng Cốc."
+        },
+        {
+          "key": "B",
+          "text": "Hiến chương ASEAN."
+        },
+        {
+          "key": "C",
+          "text": "Tuyên bố Bali I."
+        },
+        {
+          "key": "D",
+          "text": "Tuyên bố Bali II."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Tháng 2/1976 tại Bali, ASEAN thông qua Tuyên bố Bali I (Tuyên bố về sự hoà hợp ASEAN) nhằm tăng cường đoàn kết, gắn bó.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-044",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình mở rộng thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN) từ “ASEAN 5” đến “ASEAN 10” diễn ra lâu dài, phức tạp vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhiều nước vẫn trong tình trạng nghèo nàn, lạc hậu."
+        },
+        {
+          "key": "B",
+          "text": "nguyên tắc đồng thuận của 5 cường quốc sáng lập."
+        },
+        {
+          "key": "C",
+          "text": "tình hình an ninh, chính trị khu vực có sự phức tạp."
+        },
+        {
+          "key": "D",
+          "text": "ngay từ khi thành lập đã không có mục tiêu rõ ràng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "An ninh, chính trị khu vực phức tạp do Chiến tranh lạnh và vấn đề Cam-pu-chia khiến mở rộng thành viên kéo dài, nhiều trở ngại.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-045",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận xét nào sau đây phản ánh đúng hoạt động của Hiệp hội các quốc gia Đông Nam Á (ASEAN) trong giai đoạn 1967 - 1976?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hợp tác kinh tế trong nội bộ tổ chức có những tiến triển mạnh mẽ."
+        },
+        {
+          "key": "B",
+          "text": "Chủ yếu tập trung vào giải quyết những vấn đề an ninh, chính trị."
+        },
+        {
+          "key": "C",
+          "text": "Đạt thành tựu chủ yếu trong hợp tác, phát triển kinh tế, văn hóa."
+        },
+        {
+          "key": "D",
+          "text": "Hoạt động hiệu quả và ngày càng có vị thế cao trên trường quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "1967-1976 ASEAN chủ yếu hợp tác chính trị - an ninh nhằm xây dựng lòng tin; hợp tác kinh tế nội khối còn hạn chế.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-046",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong mười năm đầu sau khi thành lập (1967 – 1976), hợp tác kinh tế của Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+      "options": [
+        {
+          "key": "A",
+          "text": "chưa được đề ra trong mục tiêu hợp tác giữa các nước."
+        },
+        {
+          "key": "B",
+          "text": "trở thành nội dung căn bản trong cuộc Chiến tranh lạnh."
+        },
+        {
+          "key": "C",
+          "text": "chịu những tác động sâu sắc của xu thế toàn cầu hóa."
+        },
+        {
+          "key": "D",
+          "text": "chưa đáp ứng được mục tiêu của các nước thành viên."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Trong mười năm đầu, hợp tác kinh tế ASEAN còn hình thức, chưa đáp ứng mục tiêu phát triển của các nước thành viên.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-047",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trong những đặc điểm nổi bật của Hiệp hội các quốc gia Đông Nam Á (ASEAN) giai đoạn 1999 – 2015 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "không chấp nhận sự tồn tại của nhiều chính sách kinh tế khác biệt."
+        },
+        {
+          "key": "B",
+          "text": "tích cực chuẩn bị cho sự hợp tác trong nội khối ở mức độ cao hơn."
+        },
+        {
+          "key": "C",
+          "text": "hoàn thiện về thể chế và nền tảng pháp lý của cộng đồng ASEAN."
+        },
+        {
+          "key": "D",
+          "text": "đã trở thành trung tâm của trật tự thế giới mới sau chiến tranh lạnh."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "1999-2015 ASEAN hoàn thiện thể chế, pháp lý của Cộng đồng: Hiến chương ASEAN (2007) và lộ trình xây dựng Cộng đồng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-048",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Tổ chức nào sau đây được thành lập ở Đông Nam Á vào năm 1963?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiệp ước Vác-sa-va."
+        },
+        {
+          "key": "B",
+          "text": "Quỹ Tiền tệ Quốc tế (IMF)."
+        },
+        {
+          "key": "C",
+          "text": "Liên minh châu Âu (EU)."
+        },
+        {
+          "key": "D",
+          "text": "MAPHILINDO."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "MAPHILINDO ra đời tháng 8/1963 tại Ma-ni-la; các tổ chức còn lại không thuộc Đông Nam Á hoặc sai thời gian.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-049",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1995, quốc gia nào sau đây được kết nạp, trở thành thành viên thứ 7 của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Campuchia."
+        },
+        {
+          "key": "C",
+          "text": "Mi-an-ma."
+        },
+        {
+          "key": "D",
+          "text": "In-đô-nê-xi-a."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ngày 28/7/1995 Việt Nam chính thức trở thành thành viên thứ 7 của ASEAN.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-050",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau Chiến tranh lạnh, đặc biệt là khi vấn đề Campuchia được giải quyết, Hiệp hội các quốc gia Đông Nam Á (ASEAN) đã",
+      "options": [
+        {
+          "key": "A",
+          "text": "chuyển trọng tâm sang hợp tác về an ninh, chính trị."
+        },
+        {
+          "key": "B",
+          "text": "kết nạp các nước bên ngoài khu vực Đông Nam Á."
+        },
+        {
+          "key": "C",
+          "text": "đẩy mạnh liên kết trên cơ sở nhất thể hóa chính trị."
+        },
+        {
+          "key": "D",
+          "text": "đẩy mạnh quá trình kết nạp các quốc gia thành viên."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Sau khi vấn đề Cam-pu-chia được giải quyết, ASEAN đẩy mạnh kết nạp thành viên: Việt Nam 1995, Lào và Mi-an-ma 1997, Cam-pu-chia 1999.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-051",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh đúng mục đích thành lập Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thúc đẩy tăng trưởng kinh tế, tiến bộ xã hội và phát triển văn hoá."
+        },
+        {
+          "key": "B",
+          "text": "Xây dựng cộng đồng vững mạnh để cạnh tranh với Mỹ và Tây Âu."
+        },
+        {
+          "key": "C",
+          "text": "Khắc phục hậu quả nặng nề của cuộc Chiến tranh thế giới thứ hai."
+        },
+        {
+          "key": "D",
+          "text": "Xây dựng tổ chức hợp tác quân sự để tiêu diệt chủ nghĩa phát xít."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Tuyên bố ASEAN xác định mục tiêu thúc đẩy tăng trưởng kinh tế, tiến bộ xã hội và phát triển văn hoá trong khu vực.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-052",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) thúc đẩy sự tăng trưởng kinh tế, tiến bộ xã hội và phát triển trong khu vực nhằm hướng đến việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "thúc đẩy nhanh quá trình nhất thể hoá chính trị giữa các nước thành viên."
+        },
+        {
+          "key": "B",
+          "text": "tăng cường cơ sở cho một Cộng đồng ASEAN hoà bình và thịnh vượng."
+        },
+        {
+          "key": "C",
+          "text": "xoá bỏ tình trạng chênh lệch trình độ phát triển giữa các nước thành viên."
+        },
+        {
+          "key": "D",
+          "text": "xây dựng khối phòng thủ chung hùng mạnh trên nguyên tắc đồng thuận."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Tuyên bố ASEAN nêu rõ hợp tác nhằm tăng cường cơ sở cho một Cộng đồng các quốc gia Đông Nam Á hoà bình và thịnh vượng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-053",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau Chiến tranh lạnh, Hiệp hội các quốc gia Đông Nam Á (ASEAN) không thông qua văn kiện nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên bố Bali II."
+        },
+        {
+          "key": "B",
+          "text": "Tuyên bố Băng Cốc."
+        },
+        {
+          "key": "C",
+          "text": "Hiến chương ASEAN."
+        },
+        {
+          "key": "D",
+          "text": "Tầm nhìn ASEAN 2020."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Tuyên bố Băng Cốc được thông qua năm 1967, trước khi Chiến tranh lạnh kết thúc; các văn kiện còn lại đều ra đời sau năm 1991.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-054",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1966, quốc gia nào sau đây gửi dự thảo đến một số nước trong khu vực để thành lập Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Colombia."
+        },
+        {
+          "key": "C",
+          "text": "Thái Lan."
+        },
+        {
+          "key": "D",
+          "text": "Mêhicô."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Năm 1966, Ngoại trưởng Thái Lan Thanat Khoman gửi dự thảo thành lập tổ chức khu vực tới một số nước Đông Nam Á.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-055",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quan hệ giữa Việt Nam và các nước ASEAN trong những năm 80 – 90 của thế kỉ XX chuyển từ đối đầu sang đối thoại ngay sau khi giải quyết xong vấn đề",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hoa Kiều."
+        },
+        {
+          "key": "B",
+          "text": "Biển Đông."
+        },
+        {
+          "key": "C",
+          "text": "nhân quyền."
+        },
+        {
+          "key": "D",
+          "text": "Campuchia."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Sau Hiệp định Pa-ri 1991 về Cam-pu-chia, quan hệ Việt Nam - ASEAN chuyển từ đối đầu sang đối thoại, Việt Nam vào ASEAN năm 1995.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-056",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh đúng đóng góp của Việt Nam đối với sự phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đề xuất và thiết lập liên minh quân sự vững mạnh trong nội khối ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "Tích cực tham gia và thúc đẩy quá trình mở rộng thành viên của ASEAN."
+        },
+        {
+          "key": "C",
+          "text": "Dẫn dắt ASEAN trở thành liên minh quân sự, chính trị mạnh nhất châu Á."
+        },
+        {
+          "key": "D",
+          "text": "Trở thành trụ cột chủ lực về kinh tế - tài chính của ASEAN ngay khi ra đời."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Việt Nam tích cực tham gia và thúc đẩy mở rộng thành viên (Lào, Mi-an-ma, Cam-pu-chia), góp phần xây dựng Cộng đồng ASEAN.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-057",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình mở rộng thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN) trong những năm 1984 -1999 đã",
+      "options": [
+        {
+          "key": "A",
+          "text": "hoàn thành được đồng thời quá trình xây dựng và phát triển Cộng đồng ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "xoá bỏ được hoàn toàn mọi bất đồng và mâu thuẫn giữa các quốc gia thành viên."
+        },
+        {
+          "key": "C",
+          "text": "đưa Đông Nam Á trở thành khu vực có nền văn hoá bản địa thống nhất hoàn toàn."
+        },
+        {
+          "key": "D",
+          "text": "góp phần củng cố sức mạnh nội khối và đảm bảo hoà bình, ổn định của khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Mở rộng 1984-1999 đưa ASEAN lên 10 thành viên, củng cố sức mạnh nội khối, góp phần giữ hoà bình, ổn định khu vực.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-058",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh đúng về Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là tổ chức hợp tác kinh tế, văn hóa duy nhất trên thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Mục tiêu của tổ chức được bổ sung qua quá trình phát triển."
+        },
+        {
+          "key": "C",
+          "text": "Giải quyết triệt để mâu thuẫn giữa các quốc gia thành viên."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển trọng tâm sang hợp tác quân sự sau Chiến tranh lạnh."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Mục tiêu ASEAN được bổ sung qua các mốc 1967, 1976 (Bali I), 1997 (Tầm nhìn 2020), 2003 (Bali II), 2007 (Hiến chương).",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-059",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận xét nào sau đây là đúng sự ra đời của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phản ánh kết quả tất yếu những nỗ lực can thiệp của các nước lớn bên ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Những nước thành viên sáng lập tổ chức có sự khác biệt về chế độ chính trị."
+        },
+        {
+          "key": "C",
+          "text": "Chịu ảnh hưởng của nhiều nhân tố, trong đó nhân tố khách quan quyết định."
+        },
+        {
+          "key": "D",
+          "text": "Được thành lập nhằm đối phó với những thách thức trong và ngoài khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "ASEAN ra đời nhằm đối phó thách thức an ninh (Chiến tranh lạnh, chiến tranh Việt Nam) và kinh tế trong, ngoài khu vực.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-060",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trong những văn kiện quan trọng được Hiệp hội các quốc gia Đông Nam Á (ASEAN) thông qua trong giai đoạn 1967 – 1976 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên bố về Thoả ước ASEAN II (Thoả ước Bali II)."
+        },
+        {
+          "key": "B",
+          "text": "Tuyên bố về Khu vực Hoà bình, Tự do và Trung lập (ZOPFAN)."
+        },
+        {
+          "key": "C",
+          "text": "Tuyên bố về sự hoà hợp ASEAN (Tuyên bố Bali I)."
+        },
+        {
+          "key": "D",
+          "text": "Hiệp ước Thân thiện và Hợp tác Đông Nam Á (TAC)."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Tuyên bố ZOPFAN (1971) là văn kiện quan trọng nằm trong giai đoạn 1967-1976; Thoả ước Bali II là năm 2003, ngoài giai đoạn này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-061",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình mở rộng thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN) được đẩy mạnh trong những năm 90 của thế kỉ XX do tác động của yếu tố nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xu thế chung của thế giới là hoà bình, hợp tác, cùng phát triển."
+        },
+        {
+          "key": "B",
+          "text": "Đông Nam Á đã trở thành một cực trong trật tự thế giới đa cực."
+        },
+        {
+          "key": "C",
+          "text": "Trật tự hai cực Ianta bước đầu bị xói mòn và từng bước tan rã."
+        },
+        {
+          "key": "D",
+          "text": "Các nước trong khu vực đã giải quyết được mọi vấn đề nội bộ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Những năm 90, xu thế hoà bình, hợp tác, cùng phát triển lan rộng sau Chiến tranh lạnh, tạo thuận lợi mở rộng ASEAN.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-062",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong những năm 80 của thế kỉ XX, Hiệp hội các quốc gia Đông Nam Á (ASEAN) rất khó mở rộng thành viên vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "chịu tác động và sự chi phối của trật tự thế giới đa cực."
+        },
+        {
+          "key": "B",
+          "text": "ASEAN chỉ tập trung củng cố và hoàn thiện về tổ chức."
+        },
+        {
+          "key": "C",
+          "text": "hoạt động lỏng lẻo, chưa có vị thế trên trường quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "chịu tác động của Chiến tranh lạnh, vấn đề Campuchia."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Những năm 80, Chiến tranh lạnh còn gay gắt và vấn đề Cam-pu-chia khiến ASEAN rất khó kết nạp thêm thành viên.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-063",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập năm 1967 tại",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cua-la Lăm-pơ (Ma-lai-xi-a)."
+        },
+        {
+          "key": "B",
+          "text": "Ba-li (In-đô-nê-xi-a)."
+        },
+        {
+          "key": "C",
+          "text": "Băng Cốc (Thái Lan)."
+        },
+        {
+          "key": "D",
+          "text": "Ma-ni-la (Phi-lip-pin)."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Ngày 8/8/1967, Tuyên bố Băng Cốc được kí kết tại Băng Cốc (Thái Lan), ASEAN chính thức ra đời.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-064",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quốc gia nào sau đây không phải là thành viên sáng lập Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ma-lai-xi-a."
+        },
+        {
+          "key": "B",
+          "text": "Thái Lan."
+        },
+        {
+          "key": "C",
+          "text": "Xin-ga-po."
+        },
+        {
+          "key": "D",
+          "text": "Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Năm thành viên sáng lập là Thái Lan, Ma-lai-xi-a, In-đô-nê-xi-a, Xin-ga-po, Phi-líp-pin; Việt Nam gia nhập năm 1995.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-065",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1967, quốc gia nào sau đây tham gia sáng lập Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tiệp Khắc."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Xin-ga-po."
+        },
+        {
+          "key": "D",
+          "text": "U-crai-na."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Xin-ga-po là một trong 5 nước kí Tuyên bố Băng Cốc 8/8/1967; Tiệp Khắc, U-crai-na, Việt Nam không tham gia sáng lập.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-066",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Quốc gia nào sau đây ở khu vực Đông Nam Á là thành viên ASEAN 6 (1984)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Brunei."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Campuchia."
+        },
+        {
+          "key": "D",
+          "text": "Lào."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Brunei gia nhập tháng 1/1984, trở thành thành viên thứ 6 của ASEAN (ASEAN 6).",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-067",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện nào đánh dấu Hiệp hội các quốc gia Đông Nam Á (ASEAN) trở thành “mái nhà chung” của 10 quốc gia Đông Nam Á?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam gia nhập ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "Campuchia gia nhập ASEAN."
+        },
+        {
+          "key": "C",
+          "text": "Đông Ti-mo gia nhập ASEAN."
+        },
+        {
+          "key": "D",
+          "text": "Mi-an-ma gia nhập ASEAN."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Ngày 30/4/1999 Cam-pu-chia gia nhập, ASEAN đủ 10 thành viên, trở thành mái nhà chung của Đông Nam Á.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-068",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Yếu tố nào sau đây có ý nghĩa quyết định đến quá trình mở rộng thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cuộc Chiến tranh Lạnh chấm dứt."
+        },
+        {
+          "key": "B",
+          "text": "Xu thế hòa hoãn Đông - Tây."
+        },
+        {
+          "key": "C",
+          "text": "Vấn đề Trung Đông được giải quyết."
+        },
+        {
+          "key": "D",
+          "text": "Nhu cầu hợp tác của các nước nội khối."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Chiến tranh lạnh chấm dứt năm 1991 tạo điều kiện quyết định để ASEAN kết nạp các nước Đông Dương, hoàn thành ASEAN 10.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-069",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) kết nạp Brunei trở thành thành viên thứ 6 trong bối cảnh nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một số nước trong khu vực trở thành “con rồng” kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Vấn đề Campuchia được các quốc gia giải quyết hoàn hoàn."
+        },
+        {
+          "key": "C",
+          "text": "Xu thế hòa hoãn Đông – Tây tiếp tục diễn ra mạnh mẽ."
+        },
+        {
+          "key": "D",
+          "text": "Trật tự thế giới đa cực, nhiều trung tâm xác lập và phát triển."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1984 kinh tế khu vực khởi sắc, một số nước thành con rồng, con hổ kinh tế; Brunei gia nhập khi vấn đề Cam-pu-chia chưa giải quyết.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-070",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thế kỉ XX, quốc gia nào sau đây là thành viên cuối cùng gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "In-đô-nê-xi-a."
+        },
+        {
+          "key": "C",
+          "text": "Campuchia."
+        },
+        {
+          "key": "D",
+          "text": "Miến Điện."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Năm 1999 Cam-pu-chia là thành viên thứ 10, quốc gia cuối cùng gia nhập ASEAN trong thế kỉ XX.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-071",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thể hiện sự đóng góp của Việt Nam trong Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là nhân tố quyết định đến tiến trình hợp tác của ASEAN với các nước lớn."
+        },
+        {
+          "key": "B",
+          "text": "Chủ động đưa ra sáng kiến hình thành Cộng đồng Chính trị - An ninh."
+        },
+        {
+          "key": "C",
+          "text": "Là nhân tố quan trọng thúc đẩy quan hệ hợp tác giữa các nước thành viên."
+        },
+        {
+          "key": "D",
+          "text": "Chủ động đưa ra sáng kiến hình thành Cộng đồng Văn hoá - Tư tưởng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Việt Nam là nhân tố quan trọng thúc đẩy quan hệ hợp tác giữa các nước thành viên, góp phần xây dựng Cộng đồng ASEAN.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-072",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh đúng điểm khác biệt của Hiệp hội các quốc gia Đông Nam Á (ASEAN) giai đoạn 1976 - 1999 so với giai đoạn 1967 - 1976?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đưa ra nguyên tắc hoạt động, giải quyết nhiều vấn đề chính trị lớn."
+        },
+        {
+          "key": "B",
+          "text": "Giúp đỡ lẫn nhau đào tạo và cung cấp các phương tiện nghiên cứu."
+        },
+        {
+          "key": "C",
+          "text": "Triển khai và hiện thực hóa các mục tiêu của Cộng đồng ASEAN."
+        },
+        {
+          "key": "D",
+          "text": "Thúc đẩy tăng trưởng kinh tế, tiến bộ xã hội và phát triển văn hoá."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "1976-1999 ASEAN xác lập nguyên tắc hoạt động (TAC, Bali I) và giải quyết vấn đề Cam-pu-chia; 1967-1976 mới xây dựng nền móng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-073",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây không phản ánh đúng vai trò của Hiệp hội các quốc gia Đông Nam Á (ASEAN) đối với khu vực Đông Nam Á?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thúc đẩy sự tăng trưởng kinh tế của các nước thành viên ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "Quyết định sự phát triển kinh tế - xã hội của các nước trong khu vực."
+        },
+        {
+          "key": "C",
+          "text": "Củng cố và tăng cường quan hệ hợp tác giữa các nước trong khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Là nhân tố hàng đầu đảm bảo môi trường hòa bình, ổn định khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "ASEAN chỉ hỗ trợ, thúc đẩy hợp tác, không quyết định sự phát triển kinh tế - xã hội của từng quốc gia thành viên.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-074",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1971, Hiệp hội các quốc gia Đông Nam Á (ASEAN) đưa ra Tuyên bố Khu vực hòa bình, tự do và trung lập (ZOPFAN) có ý nghĩa nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khẳng định quyết tâm ủng hộ cuộc kháng chiến chống Mỹ của ba nước Đông Dương."
+        },
+        {
+          "key": "B",
+          "text": "Ý thức tự cường, tự chủ và không chấp nhận hợp tác với các quốc gia ngoài khu vực."
+        },
+        {
+          "key": "C",
+          "text": "Cho thấy quyết tâm xây dựng một khối phòng thủ chung của khu vực Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "Góp phần giảm thiểu các căng thẳng quân sự nội khối và mở rộng không gian hợp tác."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "ZOPFAN 1971 thể hiện ý thức tự cường, góp phần giảm căng thẳng quân sự nội khối và mở rộng không gian hợp tác khu vực.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-075",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thế kỷ XXI, yếu tố nào sau đây tiếp tục tạo cơ sở cho sự phát triển bền vững của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các giá trị văn hoá truyền thống."
+        },
+        {
+          "key": "B",
+          "text": "Sự phát triển kinh tế đồng đều."
+        },
+        {
+          "key": "C",
+          "text": "Sự đồng nhất thể chế chính trị."
+        },
+        {
+          "key": "D",
+          "text": "Cùng lấy đạo Phật làm quốc giáo."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Các giá trị văn hoá truyền thống, bản sắc chung là nền tảng gắn kết và phát triển bền vững của ASEAN trong thế kỉ XXI.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-076",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh đúng nhu cầu nội tại quan trọng thúc đẩy các nước Đông Nam Á liên kết khu vực sau Chiến tranh thế giới thứ hai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thay đổi chế độ chính trị."
+        },
+        {
+          "key": "B",
+          "text": "Phát triển kinh tế, xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Xây dựng liên minh quân sự."
+        },
+        {
+          "key": "D",
+          "text": "Mở rộng lãnh thổ quốc gia."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Sau Chiến tranh thế giới thứ hai, nhu cầu phát triển kinh tế, xã hội là động lực nội tại thúc đẩy các nước Đông Nam Á liên kết.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-077",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong Chiến tranh lạnh, các quốc gia ở khu vực Đông Nam Á muốn tạo ra sức mạnh tập thể nhằm mục đích nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ủng hộ tuyệt đối phe xã hội chủ nghĩa."
+        },
+        {
+          "key": "B",
+          "text": "Tham gia vào khối quân sự NATO."
+        },
+        {
+          "key": "C",
+          "text": "Ứng phó sự tranh giành của các nước lớn."
+        },
+        {
+          "key": "D",
+          "text": "Xóa bỏ hoàn toàn ảnh hưởng của Mỹ."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Trong Chiến tranh lạnh, các nước Đông Nam Á liên kết để tạo sức mạnh tập thể ứng phó sự tranh giành ảnh hưởng của các nước lớn.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-078",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp hội Đông Nam Á (ASA) được thành lập vào năm 1961 bao gồm các quốc gia nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ma-lai-xi-a, Phi-líp-pin, Thái Lan."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam, Lào, Campuchia."
+        },
+        {
+          "key": "C",
+          "text": "Ma-lai-xi-a, Phi-líp-pin, In-đô-nê-xi-a."
+        },
+        {
+          "key": "D",
+          "text": "Thái Lan, In-đô-nê-xi-a, Xin-ga-po."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "ASA thành lập tháng 7/1961 gồm Ma-lai-xi-a, Phi-líp-pin và Thái Lan.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-079",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Tổ chức MAPHILINDO (1963) được hình thành bởi những quốc gia nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thái Lan, Ma-lai-xi-a, Phi-líp-pin."
+        },
+        {
+          "key": "B",
+          "text": "Ma-lai-xi-a, Phi-líp-pin, In-đô-nê-xi-a."
+        },
+        {
+          "key": "C",
+          "text": "In-đô-nê-xi-a, Thái Lan, Mi-an-ma."
+        },
+        {
+          "key": "D",
+          "text": "Phi-líp-pin, Xin-ga-po, Ma-lai-xi-a."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "MAPHILINDO thành lập tháng 8/1963 gồm Ma-lai-xi-a, Phi-líp-pin và In-đô-nê-xi-a.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-080",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Yếu tố nào sau đây là điều kiện thuận lợi cho việc thành lập một tổ chức khu vực ở Đông Nam Á vào nửa sau những năm 60?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quan hệ giữa các nước có sự cải thiện."
+        },
+        {
+          "key": "B",
+          "text": "Chiến tranh lạnh hoàn toàn kết thúc."
+        },
+        {
+          "key": "C",
+          "text": "Sự đồng nhất trình độ kinh tế, xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Các nước lớn chấm dứt sự cạnh tranh."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Nửa sau những năm 60, quan hệ giữa các nước trong khu vực được cải thiện là điều kiện thuận lợi để thành lập ASEAN.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-081",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây là điểm tương đồng của Hiệp ước Đông Nam Á (ASA) và MAPHILINDO?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ tồn tại trong thời gian ngắn do ảnh hưởng của xu thế toàn cầu hóa."
+        },
+        {
+          "key": "B",
+          "text": "Có sự tham gia của tất cả các quốc gia trong khu vực Đông Nam Á."
+        },
+        {
+          "key": "C",
+          "text": "Là các tổ chức liên minh quân sự được thành lập trên cơ sở đồng thuận."
+        },
+        {
+          "key": "D",
+          "text": "Phản ánh khát vọng liên kết khu vực của một số nước trong khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "ASA và MAPHILINDO đều phản ánh khát vọng liên kết khu vực của một số nước, song tồn tại ngắn do bất đồng song phương.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-082",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Tuyên bố ASEAN (1967), nỗ lực chung của các nước thành viên trong việc thúc đẩy tăng trưởng kinh tế dựa trên tinh thần nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bình đẳng và hợp tác giữa 5 nước thành viên tham gia sáng lập."
+        },
+        {
+          "key": "B",
+          "text": "Đảm bảo lợi ích quốc gia, dân tộc của các cường quốc trong khu vực."
+        },
+        {
+          "key": "C",
+          "text": "Hợp tác để tăng cường cơ sở cho Cộng đồng hòa bình và thịnh vượng."
+        },
+        {
+          "key": "D",
+          "text": "Cạnh tranh và đối đầu giữa các nước trong khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Tuyên bố ASEAN nêu tăng trưởng kinh tế thông qua nỗ lực chung trên tinh thần bình đẳng và hợp tác giữa các nước thành viên sáng lập.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-083",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Để thúc đẩy hòa bình và ổn định khu vực, Hiệp hội các quốc gia Đông Nam Á (ASEAN) cam kết tuân thủ các nguyên tắc của tổ chức quốc tế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Diễn đàn Á - Âu."
+        },
+        {
+          "key": "B",
+          "text": "Liên minh Châu Âu."
+        },
+        {
+          "key": "C",
+          "text": "Phong trào Không liên kết."
+        },
+        {
+          "key": "D",
+          "text": "Liên hợp quốc."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Tuyên bố ASEAN cam kết tuân thủ các nguyên tắc của Hiến chương Liên hợp quốc nhằm thúc đẩy hoà bình, ổn định khu vực.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-084",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây không phải là lĩnh vực được ưu tiên thúc đẩy cộng tác và giúp đỡ lẫn nhau theo Tuyên bố ASEAN (1967)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kinh tế, xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Hành chính."
+        },
+        {
+          "key": "C",
+          "text": "Liên minh quân sự."
+        },
+        {
+          "key": "D",
+          "text": "Văn hóa."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Tuyên bố ASEAN ưu tiên hợp tác kinh tế, xã hội, văn hoá, khoa học - kĩ thuật, hành chính; không có lĩnh vực liên minh quân sự.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-085",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện Việt Nam chính thức gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN) là dấu mốc quan trọng vì lý do nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giúp chấm dứt hoàn toàn các cuộc xung đột vũ trang trong khu vực."
+        },
+        {
+          "key": "B",
+          "text": "Đánh dấu sự chuyển đổi từ hợp tác kinh tế sang liên minh quân sự."
+        },
+        {
+          "key": "C",
+          "text": "Thúc đẩy tiến trình xây dựng ASEAN thành ngôi nhà chung khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Làm thay đổi hoàn toàn thể chế chính trị của các nước Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Việc Việt Nam gia nhập năm 1995 mở đường cho Lào, Mi-an-ma, Cam-pu-chia, thúc đẩy xây dựng ASEAN thành ngôi nhà chung khu vực.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-086",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây phản ánh đúng về vị trí, vai trò của Campuchia trong quá trình mở rộng thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là quốc gia hoàn thành mục tiêu đưa ASEAN 5 thành ASEAN 10."
+        },
+        {
+          "key": "B",
+          "text": "Là quốc gia cùng gia nhập một lượt với hai nước Lào và Mi-an-ma."
+        },
+        {
+          "key": "C",
+          "text": "Là quốc gia mở đầu cho giai đoạn kết nạp ba nước Đông Dương."
+        },
+        {
+          "key": "D",
+          "text": "Là quốc gia đưa ra sáng kiến xây dựng Cộng đồng Văn hóa – Xã hội."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cam-pu-chia gia nhập năm 1999, là thành viên thứ 10, hoàn thành mục tiêu đưa ASEAN 5 thành ASEAN 10.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-087",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh đúng quá trình mở rộng thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN) từ năm 1967 đến năm 1999?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phù hợp với mong muốn, lợi ích của mỗi nước và toàn khu vực."
+        },
+        {
+          "key": "B",
+          "text": "Do sự áp đặt và chi phối hoàn toàn từ các cường quốc bên ngoài."
+        },
+        {
+          "key": "C",
+          "text": "Chủ yếu nhằm tăng thành viên để đối phó với khối quân sự khác."
+        },
+        {
+          "key": "D",
+          "text": "Diễn ra nhanh chóng mà không gặp phải bất kỳ rào cản, cản trở."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Mở rộng 1967-1999 phù hợp mong muốn, lợi ích của mỗi nước và toàn khu vực, tuy diễn ra lâu dài, nhiều trở ngại.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-088",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh đúng điểm tương đồng giữa việc kết nạp Brunei (thành viên thứ 6) và Cam-pu-chia (thành viên thứ 10) vào ASEAN?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là các bước đi hiện thực hóa mục tiêu quy tụ toàn bộ khu vực."
+        },
+        {
+          "key": "B",
+          "text": "Diễn ra trong bối cảnh cuộc Chiến tranh lạnh đang căng thẳng."
+        },
+        {
+          "key": "C",
+          "text": "Trực tiếp làm suy giảm ảnh hưởng của các nước lớn ở khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Đánh dấu sự khởi sắc của Hiệp hội các quốc gia Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cả Brunei (1984) và Cam-pu-chia (1999) đều là bước đi hiện thực hoá mục tiêu quy tụ toàn bộ khu vực vào ASEAN.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-089",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giai đoạn 1967 – 1976, Hiệp hội các quốc gia Đông Nam Á (ASEAN) đặt trọng tâm hợp tác chính trị – an ninh chủ yếu nhằm hướng tới mục tiêu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xây dựng lòng tin và học cách hòa giải giữa các nước."
+        },
+        {
+          "key": "B",
+          "text": "Thành lập liên minh quân sự để chống thế lực bên ngoài."
+        },
+        {
+          "key": "C",
+          "text": "Hoàn thiện hoàn toàn cơ cấu tổ chức và bộ máy pháp lý."
+        },
+        {
+          "key": "D",
+          "text": "Xóa bỏ hoàn toàn biên giới hải quan để tự do thương mại."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "1967-1976 ASEAN đặt trọng tâm xây dựng lòng tin, học cách hoà giải vì bất đồng, nghi kỵ giữa các nước còn tồn tại.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-090",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây phản ánh đúng đặc điểm nổi bật của Hiệp hội các quốc gia Đông Nam Á (ASEAN) từ năm 2015 đến nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bắt đầu mở rộng quan hệ đối thoại với các nước ở ngoài khu vực."
+        },
+        {
+          "key": "B",
+          "text": "Tập trung tất cả nguồn lực để giải quyết các tranh chấp song phương."
+        },
+        {
+          "key": "C",
+          "text": "Xây dựng Cộng đồng ASEAN dựa trên ba trụ cột hợp tác chiến lược."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển hoàn toàn từ hợp tác kinh tế sang hợp tác an ninh quân sự."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Từ 2015, ASEAN xây dựng Cộng đồng dựa trên ba trụ cột: Chính trị - An ninh, Kinh tế, Văn hoá - Xã hội.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-091",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN) trong giai đoạn 1976 – 1999 có điểm mới nào so với giai đoạn 1967 – 1976?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rút lui hoàn toàn khỏi hoạt động đối thoại với các quốc gia bên ngoài khu vực."
+        },
+        {
+          "key": "B",
+          "text": "Bước đầu đẩy mạnh mở rộng quan hệ hợp tác và đối thoại trực tiếp với bên ngoài."
+        },
+        {
+          "key": "C",
+          "text": "Thành lập ngay lập tức Cộng đồng ASEAN với đầy đủ ba trụ cột chiến lược lớn."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ tập trung duy nhất vào an ninh nội khối mà không phát triển hợp tác kinh tế."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "1976-1999 ASEAN bước đầu mở rộng hợp tác, đối thoại trực tiếp với bên ngoài (từ 1977 với Nhật Bản, Ô-xtrây-li-a...), khác giai đoạn trước.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-092",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh đúng về ý nghĩa của việc ký kết Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (TAC) vào năm 1976?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Góp phần cải thiện quan hệ các nước và tạo điều kiện phát triển kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Thành lập một thị trường chung sử dụng đồng tiền chung trong khu vực."
+        },
+        {
+          "key": "C",
+          "text": "Xóa bỏ hoàn toàn ảnh hưởng của các cường quốc bên ngoài khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Đặt cơ sở hợp nhất hệ thống lập pháp của tất cả các nước thành viên."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "TAC 1976 tạo khuôn khổ pháp lý cho quan hệ hoà bình, hợp tác, góp phần cải thiện quan hệ và tạo điều kiện phát triển kinh tế.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-093",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Hiệp hội các quốc gia Đông Nam Á (ASEAN) xác định trọng tâm của giai đoạn 1967 – 1976 là “xây dựng lòng tin và học cách hòa giải” phản ánh điều nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữa các nước trong khu vực còn tồn tại bất đồng, nghi kỵ do lịch sử để lại."
+        },
+        {
+          "key": "B",
+          "text": "Nền kinh tế của các quốc gia thành viên phát triển ở trình độ hội nhập rất cao."
+        },
+        {
+          "key": "C",
+          "text": "Các nước trong khu vực có sự đồng nhất hoàn toàn thể chế chính trị - xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Sự can thiệp của các nước lớn hoàn toàn chấm dứt ở khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Việc phải xây dựng lòng tin và học cách hoà giải cho thấy giữa các nước còn bất đồng, nghi kỵ do lịch sử để lại.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-094",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau Chiến tranh lạnh, quốc gia nào sau đây không gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Lào."
+        },
+        {
+          "key": "C",
+          "text": "Campuchia."
+        },
+        {
+          "key": "D",
+          "text": "Thái Lan."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Thái Lan là thành viên sáng lập năm 1967; Việt Nam (1995), Lào (1997), Cam-pu-chia (1999) đều gia nhập sau Chiến tranh lạnh.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-095",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau Chiến tranh lạnh, Hiệp hội các quốc gia (ASEAN) thông qua văn kiện nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên bố Băng Cốc."
+        },
+        {
+          "key": "B",
+          "text": "Hiệp định Giơ-ne-vơ."
+        },
+        {
+          "key": "C",
+          "text": "Tuyên bố Bali II."
+        },
+        {
+          "key": "D",
+          "text": "Hiến chương Liên hợp quốc."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Tuyên bố Bali II (2003) được ASEAN thông qua sau Chiến tranh lạnh; Tuyên bố Băng Cốc (1967) và Hiệp định Giơ-ne-vơ (1954) không thuộc phạm vi này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-096",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trụ cột nào sau đây không nằm trong ba trụ cột chiến lược để xây dựng Cộng đồng ASEAN từ năm 2015 đến nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chính trị - an ninh."
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Văn hóa – xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Quân sự."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Ba trụ cột Cộng đồng ASEAN là Chính trị - An ninh, Kinh tế, Văn hoá - Xã hội; không có trụ cột quân sự.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai4-097",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: “…Trong quá trình tìm kiếm sự hợp tác, giữa các nước Đông Nam Á đã xuất hiện những tổ chức khu vực và việc kí kết các hiệp ước giữa các nước trong khu vực. Tháng 01/1959, Hiệp ước hữu nghị và kinh tế Đông Nam Á – SAFET (Southeast Asian Friendship Economic Treaty) bao gồm Malaixia và Philíppin được kí kết. Tháng 7/1961, Hội Đông Nam Á - ASA (Association of Southeast Asia) gồm Malaixia, Philíppin và Thái Lan được thành lập. Tháng 8/1963, một tổ chức gồm Malaixia, Philíppin, Inđônêxia (gọi tắt là MAPHILINDO) ra đời. Tuy nhiên, những tổ chức trên đây không tồn tại được lâu do sự bất đồng giữa các nước về một số vấn đề trong quan hệ song phương và đa phương…” (Trần Thị Vinh (Chủ biên), Lê Văn Anh: Lịch sử thế giới hiện đại, quyển 2, Nxb. Đại học Sư phạm, Hà Nội, 2016, tr. 331)",
+      "options": [
+        {
+          "key": "A",
+          "text": "SAFET, ASA, MAPHILINDO ra đời trong bối cảnh Chiến tranh lạnh bao trùm thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Sự ra đời SAFET, ASA, MAPHILINDO là biểu hiện của xu thế liên kết khu vực và toàn cầu hóa sau Chiến tranh thế giới thứ hai."
+        },
+        {
+          "key": "C",
+          "text": "Đoạn tư liệu trên đề cập đến quá trình hình thành và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)."
+        },
+        {
+          "key": "D",
+          "text": "Việc SAFET, ASA, MAPHILINDO không tồn tại được lâu chứng tỏ các nước trong khu vực Đông Nam Á chưa có nhu cầu hợp tác, phát triển."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "a) đúng: 1959-1963 Chiến tranh lạnh bao trùm; b) sai: khi đó chưa có xu thế toàn cầu hoá; c) sai: tư liệu nói về ASA, MAPHILINDO; d) sai: các nước có nhu cầu nhưng bất đồng song phương.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai4-098",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: “Tổ chức ASEAN (Hiệp hội các quốc gia Đông Nam Á – TG) ra đời trong hoàn cảnh chiến tranh nóng ở Đông Dương và chiến tranh lạnh thế giới. Điều kiện đặc biệt đó quy định thái độ của một số nước ĐNA (Đông Nam Á – TG), vừa muốn không bị lôi cuốn quá sâu vào chiến tranh Đông Dương do sự thất bại của Mỹ, vừa lo ngại ảnh hưởng của cách mạng Việt Nam lan tới. Xuất phát từ lợi ích dân tộc, họ liên kết trong tổ chức ASEAN với mục tiêu hòa bình, hợp tác và phát triển.” (Vũ Dương Ninh (Chủ biên): Một số chuyên đề lịch sử thế giới, Nxb. Đại học Quốc gia Hà Nội, Hà Nội, 2008, tr.389)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đoạn tư liệu trên đề cập đến bối cảnh và nguyên nhân ra đời của tổ chức ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "Sự ra đời của tổ chức ASEAN là phù hợp với xu thế liên kết khu vực trên thế giới."
+        },
+        {
+          "key": "C",
+          "text": "Các nước thành lập tổ chức ASEAN không có sự khác biệt về mục đích, lập trường."
+        },
+        {
+          "key": "D",
+          "text": "Tổ chức ASEAN quan tâm đến vấn đề “hòa bình, hợp tác và phát triển” vì khu vực Đông Nam Á đang có các cuộc chiến tranh nóng căng thẳng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "a) đúng: tư liệu nêu bối cảnh, nguyên nhân ra đời; b) đúng: phù hợp xu thế liên kết khu vực; c) sai: các nước có mục đích, lập trường khác nhau; d) đúng: chiến tranh nóng ở Đông Dương thúc đẩy ý chí hoà bình.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai4-099",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: “Sau khi vấn đề Cămpuchia được giải quyết, việc Việt Nam tham gia ASEAN được đặt ra từ cả hai phía. Mặc dầu còn nhiều lo ngại về sự khác biệt về ý thức hệ và chế độ chính trị, nhưng cả 2 phía đều tìm thấy lợi ích chung trong việc bảo vệ hòa bình, gìn giữ an ninh và hợp tác phát triển ở khu vực. Nhất là trong xu thế toàn cầu hóa và khu vực hóa trên phạm vi thế giới, lại cùng muốn giảm sức ép từ nhiều nước lớn, việc quy tụ và liên kết với nhau đều trở thành một nhu cầu cấp thiết.[…]từ tháng 7/1992, Việt Nam (và Lào) đã ký Hiệp ước Bali và trở thành quan sát viên của tổ chức. Ba năm tiếp theo là quá trình chuẩn bị những điều kiện cần thiết cho sự gia nhập và đến ngày 28/7/1995, Việt Nam đã chính thức là thành viên thứ 7 của ASEAN.” (Vũ Dương Ninh (Chủ biên): Một số chuyên đề lịch sử thế giới, Nxb. Đại học Quốc gia Hà Nội, Hà Nội, 2008, tr.595)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đối với Việt Nam, việc gia nhập tổ chức ASEAN năm 1995 là chiếc cầu nối cho sự hội nhập từ khu vực ra thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam gia nhập tổ chức ASEAN năm 1995 vì không có sự khác biệt về chế độ chính trị giữa các nước thành viên."
+        },
+        {
+          "key": "C",
+          "text": "Đoạn tư liệu đề cập đến ý nghĩa của sự kiện Việt Nam gia nhập tổ chức ASEAN năm 1995."
+        },
+        {
+          "key": "D",
+          "text": "Việt Nam gia nhập tổ chức ASEAN năm 1995 trong bối cảnh không còn có sự đối lập giữa hai hệ thống chính trị, xã hội."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "a) đúng: đây là bước đầu hội nhập, cầu nối ra thế giới; b) sai: vẫn còn khác biệt ý thức hệ, chế độ chính trị; c) sai: tư liệu nói về bối cảnh, quá trình gia nhập; d) sai: đối lập hệ thống chính trị vẫn tồn tại.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai4-100",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: “Đây là sự kiện rất mới, nhìn từ 2 phía. Đối với Việt Nam, đây là bước đi đầu tiên của tiến trình hội nhập, là chiếc cầu nối cho sự hội nhập từ khu vực ra thế giới. Đối với ASEAN, đây là sự phát triển chẳng những về số lượng mà việc kết nạp một thành viên có chế độ chính trị khác biệt sẽ mở ra triển vọng cho sự hình thành một tổ chức ASEAN toàn khu vực. Nó góp phần gia tăng khả năng gìn giữ hòa bình, an ninh và ổn định. Đồng thời những lợi ích kinh tế đối với một thị trường nhiều tiềm năng nhưng còn hoang sơ cũng hứa hẹn cho các nước đó nhiều cơ hội khai thác. Các nước ngoài khu vực, từ những tính toán về lợi ích chiến lược của họ, cũng có thái độ thuận lợi cho sự kiện này.” (Vũ Dương Ninh (Chủ biên): Một số chuyên đề lịch sử thế giới, Nxb. Đại học Quốc gia Hà Nội, Hà Nội, 2008, tr.596)",
+      "options": [
+        {
+          "key": "A",
+          "text": "“Sự kiện” được đề cập trong đoạn tư liệu là Hiệp định Bali (1976) giữa các quốc gia thành viên của ASEAN được chính thức ký kết."
+        },
+        {
+          "key": "B",
+          "text": "Các nước ngoài khu vực có “thái độ thuận lợi cho sự kiện này” vì sự kiện này phù hợp với tính toán về lợi ích chiến lược của họ."
+        },
+        {
+          "key": "C",
+          "text": "“Sự kiện” được đề cập trong đoạn tư liệu diễn ra trong bối cảnh cục diện hai cực, hai phe, Chiến tranh lạnh bao trùm thế giới."
+        },
+        {
+          "key": "D",
+          "text": "“Sự kiện” được đề cập trong đoạn tư liệu phù hợp với xu thế phát triển của thế giới và lợi ích của các quốc gia trong khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "a) sai: sự kiện là Việt Nam gia nhập ASEAN 1995, không phải Hiệp định Bali; b) đúng: phù hợp tính toán lợi ích chiến lược; c) sai: Chiến tranh lạnh đã kết thúc; d) đúng: phù hợp xu thế hoà bình, hợp tác.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai4-101",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: “Năm 1992, Việt Nam và Lào đã chính thức kí văn kiện tham gia Hiệp ước Bali, trở thành quan sát viên của ASEAN và bắt đầu tham gia các hoạt động quan trọng của tổ chức này. Sau một thời gian chuẩn bị, ngày 28/7/1995, Việt Nam chính thức trở thành thành viên thứ bảy của ASEAN. Việc Việt Nam gia nhập ASEAN đã đánh dấu bước phát triển mới của ASEAN. Tiếp sau Việt Nam, năm 1997 Lào và Mianma trở thành thành viên thứ tám và thứ chín của tổ chức này. Sau khi tình hình chính trị Campuchia ổn định trở lại, năm 1999, Campuchia trở thành thành viên thứ mười của ASEAN. Như vậy, từ ASEAN 5, tổ chức này đã tự tăng sức mạnh của mình bằng việc mở rộng ra các thành viên trong khu vực, biến Đông Nam Á trở thành một khu vực thống nhất, ổn định, cùng hợp tác và phát triển.” (Trần Thị Vinh (Chủ biên), Lê Văn Anh: Lịch sử thế giới hiện đại, quyển 2, Nxb. Đại học Sư phạm, Hà Nội, 2016, tr. 333)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ba nước Đông Dương gia nhập tổ chức ASEAN trong bối cảnh hòa bình, hợp tác và phát triển trở thành xu thế phát triển chính của thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Mốc đánh dấu ASEAN hoàn thành mục tiêu xây dựng “ngôi nhà chung” của các quốc gia Đông Nam Á là sự kiện Việt Nam gia nhập năm 1995."
+        },
+        {
+          "key": "C",
+          "text": "Quá trình mở rộng thành viên của ASEAN trong giai đoạn 1992 – 1999 phù hợp với mong muốn, lợi ích của các quốc gia thành viên trong tổ chức này."
+        },
+        {
+          "key": "D",
+          "text": "Với việc kết nạp Campuchia năm 1999, tổ chức ASEAN hoàn thành mục tiêu nhất thể hóa khu vực với sự đồng thuận cao độ của các quốc gia thành viên."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "a) đúng: sau Chiến tranh lạnh, hoà bình, hợp tác là xu thế chính; b) sai: mốc hoàn thành là Cam-pu-chia 1999; c) đúng: phù hợp lợi ích các thành viên; d) sai: ASEAN không nhất thể hoá.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai4-102",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: “Sau năm 1945, các quốc gia độc lập ở Đông Nam Á lần lượt ra đời, đã có những sáng kiến về việc thành lập các tổ chức khu vực như ASA (Ma-lai-xi-a, Thái Lan, Phi-líp-pin) năm 1961, MAPHILINDO (Ma-lai-xi-a, Phi-líp-pin, In-đô-nê-xi-a) năm 1963, song đều không thành công do sự tranh chấp lãnh thổ giữa các nước thành viên. Trật tự thế giới hai cực và cuộc Chiến tranh lạnh kéo dài đã ảnh hưởng đến khu vực Đông Nam Á. Tình hình càng trở nên căng thẳng hơn do sự sa lầy của Mỹ trong cuộc chiến tại Việt Nam. Năm nước Đông Nam Á là Thái Lan, In-đô-nê-xi-a, Ma-lai-xi-a, Xin-ga-po và Phi-líp-pin lo ngại có thể sẽ bị lôi cuốn vào chiến tranh và ảnh hưởng của phong trào cách mạng Đông Dương lan rộng đã quyết định thành lập một tổ chức khu vực. Ngày 08 - 08 - 1967, Hiệp hội các quốc gia Đông Nam Á - ASEAN đã chính thức ra đời”. (Bùi Hồng Hạnh: Giáo trình các tổ chức quốc tế, Nxb. Đại học Quốc gia Hà Nội, Hà Nội, 2018, tr.159).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) ra đời trong bối cảnh các nước lớn bên ngoài khu vực đang gia tăng và cạnh tranh ảnh hưởng."
+        },
+        {
+          "key": "B",
+          "text": "Sự ra đời của Hiệp hội các quốc gia Đông Nam Á (ASEAN) phù hợp với nguyện vọng cùng hợp tác, phát triển giữa các nước trong khu vực."
+        },
+        {
+          "key": "C",
+          "text": "Ma-lai-xi-a, Phi-lip-pin, Thái Lan, In-đô-nê-xi-a là các quốc gia sớm có ý tưởng về việc thành lập tổ chức liên kết khu vực ở Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "ASA, MAPHILINDO, SEATO là các tổ chức tiền thân của tổ chức Hiệp hội các quốc gia Đông Nam Á (ASEAN)."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "a) đúng: các nước lớn cạnh tranh ảnh hưởng trong Chiến tranh lạnh; b) đúng: phù hợp nguyện vọng hợp tác; c) đúng: đều có sáng kiến ASA, MAPHILINDO; d) sai: SEATO là khối quân sự do Mỹ lập.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai4-103",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho bảng thông tin sau đây: Năm Văn kiện 1967 Tuyên bố Băng Cốc (Tuyên bố ASEAN). 1971 Tuyên bố về Khu vực Hòa bình, Tự do và Trung lập (ZOPFAN). 1976 Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (TAC). 2007 Hiến chương ASEAN (2007).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Điểm chung của Tuyên bố Băng Cốc (1967) và Hiến chương ASEAN (20007) là văn kiện quan trọng, góp phần đặt nền móng cho sự ra đời của tổ chức ASEAN."
+        },
+        {
+          "key": "B",
+          "text": "Năm 1976, Hiệp ước Thân thiện và Hợp tác ở Đông Nam Á (TAC) đánh dấu sự khởi sắc của ASEAN vì xác định các nguyên tắc cơ bản trong quan hệ giữa các nước thành viên."
+        },
+        {
+          "key": "C",
+          "text": "Bảng thông tin trên đề cập đến các văn kiện quan trọng của tổ chức ASEAN."
+        },
+        {
+          "key": "D",
+          "text": "Với việc thông qua Hiến chương ASEAN (2007), ASEAN đã thiết lập khuôn khổ pháp lý và thể chế vững chắc để gắn kết 10 quốc gia thành viên trong bối cảnh Chiến tranh lạnh."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "a) sai: Hiến chương 2007 không đặt nền móng cho sự ra đời ASEAN; b) đúng: TAC xác lập nguyên tắc cơ bản; c) đúng: đều là văn kiện quan trọng; d) sai: năm 2007 Chiến tranh lạnh đã kết thúc.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai4-104",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho bảng thông tin sau đây: Năm Sự kiện 1967 ASEAN 5 (Thái Lan, Ma-lai-xi-a, In-đô-nê-xi-a, Xin-ga-po, Phi-lip-pin). 1984 ASEAN 6 (Brunei). 1995 ASEAN 7 (Việt Nam). 1997 ASEAN 9 (Lào và Mianma). 1999 ASEAN 10 (Campuchia).",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảng thông tin trên đề cập đến quá trình phát triển từ ASEAN 5 đến ASEAN 10."
+        },
+        {
+          "key": "B",
+          "text": "Brunei trở thành ASEAN 6 trong bối cảnh Chiến tranh lạnh bao trùm thế giới."
+        },
+        {
+          "key": "C",
+          "text": "Quá trình phát triển từ ASEAN 5 đến ASEAN diễn ra nhanh chóng, phù hợp với lợi ích, nguyện vọng của các quốc gia thành viên."
+        },
+        {
+          "key": "D",
+          "text": "Việc 10 quốc gia trong khu vực Đông Nam Á gia nhập ASEAN đánh dấu bước phát triển trong quá trình liên kết toàn thế giới với nhau."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "a) đúng: bảng nêu các mốc từ ASEAN 5 đến ASEAN 10; b) đúng: năm 1984 Chiến tranh lạnh còn bao trùm; c) sai: quá trình diễn ra lâu dài, nhiều trở ngại; d) sai: là liên kết khu vực.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai4-105",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho bảng thông tin sau đây: Thời gian Nội dung 1967 – 1976 ASEAN xây dựng nền móng ban đầu, tạo tiền đề cho sự hợp tác, tập trung vào hợp tác chính trị – an ninh “xây dựng lòng tin và học cách hòa giải”. 1976 - 1999 Mở rộng thành viên từ ASEAN 5 đến ASEAN 10, từng bước nâng cao thế của ASEAN trên trường quốc tế. 1999 - 2015 ASEAN hoàn thiện cơ cấu, tăng cường hợp tác nội khối và ngoại khối. 2015 - nay Cộng đồng ASEAN được xây dựng và phát triển với ba trụ cột là Cộng đồng Chính trị - An ninh, Cộng đồng Kinh tế và Cộng đồng Văn hóa - Xã hội.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trong giai đoạn 1967 – 1976, ASEAN tập trung vào “xây dựng lòng tin và học cách hòa giải” vì tình hình an ninh, chính trị của khu vực Đông Nam Á không ổn định."
+        },
+        {
+          "key": "B",
+          "text": "Quá trình mở rộng thành viên của ASEAN trong giai đoạn 1976 – 1999 không chịu ảnh hưởng của cục diện hai cực, hai phe, Chiến tranh lạnh bao trùm."
+        },
+        {
+          "key": "C",
+          "text": "Bảng thông tin trên phản ánh hành trình phát triển của ASEAN từ khi thành lập đến nay."
+        },
+        {
+          "key": "D",
+          "text": "Sau khi Cộng đồng ASEAN được thành lập, tổ chức này đã giảm cường độ hợp tác nội khối để tập trung nhiều hơn vào quan hệ với các đối tác bên ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "a) đúng: an ninh, chính trị khu vực bất ổn; b) sai: chịu ảnh hưởng nặng của hai cực, Chiến tranh lạnh; c) đúng: bảng khái quát các giai đoạn; d) sai: ASEAN tăng cường cả hợp tác nội khối.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai4-106",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: “Tuyên bố ASEAN nêu rõ mục đích thành lập của ASEAN: 1. Thúc đẩy sự tăng trưởng kinh tế, tiến bộ xã hội và phát triển văn hoá trong khu vực thông qua các nỗ lực chung trên tinh thần bình đẳng và hợp tác nhằm tăng cường cơ sở cho một Cộng đồng các quốc gia Đông Nam Á hoà bình và thịnh vượng. 2. Thúc đẩy hòa bình và ổn định khu vực bằng việc tôn trọng công lí và nguyên tắc luật pháp trong quan hệ giữa các quốc gia trong vùng và tuân thủ các nguyên tắc của Hiến chương Liên hợp quốc. 3. Thúc đẩy sự cộng tác tích cực và giúp đỡ lẫn nhau trong các vấn đề cùng quan tâm trong các lĩnh vực kinh tế, xã hội, văn hoá, khoa học – kĩ thuật và hành chính,...” (Theo Tuyên bố ASEAN, Hiệp hội các nước Đông Nam Á (ASEAN), Nxb. Chính trị quốc gia, 1998, tr. 15-16)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên bố ASEAN là văn kiện pháp lý quan trọng, thể hiện tư cách pháp nhân của Hiệp hội các quốc gia Đông Nam Á (ASEAN)."
+        },
+        {
+          "key": "B",
+          "text": "Năm 1967, ASEAN thông qua mục tiêu “thúc đẩy hòa bình và ổn định khu vực” vì vấn đề Campuchia căng thẳng, làm chia rẽ các nước trong khu vực."
+        },
+        {
+          "key": "C",
+          "text": "ASEAN thông qua Tuyên bố ASEAN năm 1967 trong bối cảnh xu thế liên kết khu vực và xu thế toàn cầu hóa phát triển mạnh mẽ."
+        },
+        {
+          "key": "D",
+          "text": "Mục tiêu “Thúc đẩy sự tăng trưởng kinh tế, tiến bộ xã hội và phát triển văn hóa” của ASEAN phù hợp với nguyện vọng hợp tác của các quốc gia thành viên."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "a) sai: tư cách pháp nhân có từ Hiến chương ASEAN 2008; b) sai: vấn đề Cam-pu-chia nổi lên từ 1979; c) sai: năm 1967 chưa có toàn cầu hoá mạnh; d) đúng: phù hợp nguyện vọng hợp tác.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    }
+  ]
+}

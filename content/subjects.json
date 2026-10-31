@@ -52,6 +52,50 @@
           "order": 2
         }
       ]
+    },
+    {
+      "id": "lich-su",
+      "name": "Lịch sử",
+      "slug": "lich-su",
+      "description": "Lịch sử lớp 12: Liên hợp quốc, trật tự thế giới và ASEAN từ sau Chiến tranh thế giới thứ hai.",
+      "order": 3,
+      "topics": [
+        {
+          "id": "topic-su-bai-1",
+          "name": "Bài 1. Liên hợp quốc",
+          "slug": "lien-hop-quoc",
+          "description": "Mục đích, nguyên tắc hoạt động và vai trò của Liên hợp quốc trong quan hệ quốc tế.",
+          "order": 1
+        },
+        {
+          "id": "topic-su-bai-2",
+          "name": "Bài 2. Trật tự thế giới trong Chiến tranh lạnh",
+          "slug": "trat-tu-the-gioi-trong-chien-tranh-lanh",
+          "description": "Trật tự hai cực Ianta, đối đầu Đông – Tây và sự sụp đổ của Chiến tranh lạnh.",
+          "order": 2
+        },
+        {
+          "id": "topic-su-bai-3",
+          "name": "Bài 3. Trật tự thế giới sau Chiến tranh lạnh",
+          "slug": "trat-tu-the-gioi-sau-chien-tranh-lanh",
+          "description": "Xu thế đa cực, đa trung tâm và quan hệ quốc tế sau năm 1991.",
+          "order": 3
+        },
+        {
+          "id": "topic-su-bai-4",
+          "name": "Bài 4. Sự ra đời và phát triển của ASEAN",
+          "slug": "su-ra-doi-va-phat-trien-cua-asean",
+          "description": "Hoàn cảnh thành lập, mục tiêu và các chặng phát triển của ASEAN từ 1967 đến nay.",
+          "order": 4
+        },
+        {
+          "id": "topic-su-bai-5",
+          "name": "Bài 5. Cộng đồng ASEAN: từ ý tưởng đến hiện thực",
+          "slug": "cong-dong-asean-tu-y-tuong-den-hien-thuc",
+          "description": "Ba trụ cột của Cộng đồng ASEAN, Cộng đồng Kinh tế ASEAN và tầm nhìn 2025.",
+          "order": 5
+        }
+      ]
     }
   ]
 }
