@@ -17,6 +17,7 @@ import {
 } from 'lucide-react';
 import { Breadcrumbs } from '@/components/layout/breadcrumbs';
 import { ExamMistakeReview } from '@/components/exams/exam-mistake-review';
+import { ExamMiniExam } from '@/components/exams/exam-mini-exam';
 import { JsonLd } from '@/components/seo/json-ld';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -396,6 +397,12 @@ export default function ExamDetailPage({ params }: ExamDetailPageProps) {
               Kết quả, đáp án đúng và lời giải theo hướng tư duy sẽ có ngay sau khi nộp bài.
             </CardFooter>
           </Card>
+
+          <ExamMiniExam
+            examSlug={exam.slug}
+            examTitle={exam.title}
+            questionCount={exam.questionCount}
+          />
 
           <ExamMistakeReview examSlug={exam.slug} examTitle={exam.title} />
         </aside>

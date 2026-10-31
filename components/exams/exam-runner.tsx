@@ -268,7 +268,13 @@ function QuestionNavigator({
 }
 
 
-export function ExamRunner({ exam }: { exam: RunnerExam }) {
+interface ExamRunnerProps {
+  exam: RunnerExam;
+  // Đề con chọn câu ngẫu nhiên mỗi lượt nên không lưu nháp: tải lại trang sẽ có bộ câu mới.
+  persistDraft?: boolean;
+}
+
+export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
   const draftKey = `onthithpt:draft:${exam.slug}`;
   const questionIds = useMemo(
     () => new Set(exam.questions.map((question) => question.id)),
@@ -339,13 +345,15 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
       );
       noteMastered(correctItems.map((item) => item.question.id));
 
-      try {
-        window.localStorage.removeItem(draftKey);
-      } catch {
-        // Trình duyệt chặn localStorage: bỏ qua, bài vẫn được chấm bình thường.
+      if (persistDraft) {
+        try {
+          window.localStorage.removeItem(draftKey);
+        } catch {
+          // Trình duyệt chặn localStorage: bỏ qua, bài vẫn được chấm bình thường.
+        }
       }
     },
-    [draftKey, exam],
+    [draftKey, exam, persistDraft],
   );
 
   useEffect(() => {
@@ -353,6 +361,10 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
   }, [submit]);
 
   useEffect(() => {
+    if (!persistDraft) {
+      return;
+    }
+
     const draft = readDraft(draftKey, questionIds);
 
     if (!draft) {
@@ -367,7 +379,7 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
     setRemainingMs(Math.max(0, draft.deadline - Date.now()));
     setPhase('doing');
     setResumed(true);
-  }, [draftKey, questionIds]);
+  }, [draftKey, persistDraft, questionIds]);
 
   useEffect(() => {
     if (phase !== 'doing' || !deadline) {
@@ -389,7 +401,7 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
   }, [phase, deadline]);
 
   useEffect(() => {
-    if (phase !== 'doing' || !deadline || !startedAt) {
+    if (!persistDraft || phase !== 'doing' || !deadline || !startedAt) {
       return;
     }
 
@@ -406,7 +418,7 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
     } catch {
       // Không lưu được nháp thì vẫn cho làm bài tiếp.
     }
-  }, [phase, deadline, startedAt, answers, flags, draftKey]);
+  }, [phase, deadline, startedAt, answers, flags, draftKey, persistDraft]);
 
   useEffect(() => {
     if (phase !== 'doing') {
@@ -474,10 +486,12 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
     setRemainingMs(durationMs);
     setPhase('doing');
 
-    try {
-      window.localStorage.removeItem(draftKey);
-    } catch {
-      // Không cần xử lý khi localStorage bị chặn.
+    if (persistDraft) {
+      try {
+        window.localStorage.removeItem(draftKey);
+      } catch {
+        // Không cần xử lý khi localStorage bị chặn.
+      }
     }
   }
 
@@ -599,8 +613,9 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
             </div>
             <CardTitle className="mt-2 text-2xl leading-tight">{exam.title}</CardTitle>
             <CardDescription className="text-sm leading-relaxed">
-              Bấm bắt đầu để chạy đồng hồ đếm ngược. Bài làm được lưu tạm trên thiết bị để bạn
-              có thể tiếp tục nếu lỡ tải lại trang.
+              {persistDraft
+                ? 'Bấm bắt đầu để chạy đồng hồ đếm ngược. Bài làm được lưu tạm trên thiết bị để bạn có thể tiếp tục nếu lỡ tải lại trang.'
+                : 'Bấm bắt đầu để chạy đồng hồ đếm ngược. Đề con không lưu nháp — tải lại trang sẽ chọn bộ câu mới.'}
             </CardDescription>
           </CardHeader>
 
@@ -711,10 +726,12 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
             {formatClock(remainingMs)}
           </div>
 
-          <span className="hidden items-center gap-1.5 text-xs text-emerald-700 sm:flex">
-            <Check className="h-3.5 w-3.5" aria-hidden="true" />
-            Tự lưu trên thiết bị
-          </span>
+          {persistDraft ? (
+            <span className="hidden items-center gap-1.5 text-xs text-emerald-700 sm:flex">
+              <Check className="h-3.5 w-3.5" aria-hidden="true" />
+              Tự lưu trên thiết bị
+            </span>
+          ) : null}
 
           <Button type="button" size="sm" onClick={() => setConfirmOpen(true)}>
             <Send aria-hidden="true" />
@@ -961,8 +978,9 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
                 </Button>
 
                 <p className="text-xs leading-relaxed text-muted-foreground">
-                  Bài làm được lưu tạm trên thiết bị. Hết giờ, hệ thống tự nộp bài và hiện kết
-                  quả.
+                  {persistDraft
+                    ? 'Bài làm được lưu tạm trên thiết bị. Hết giờ, hệ thống tự nộp bài và hiện kết quả.'
+                    : 'Hết giờ, hệ thống tự nộp bài và hiện kết quả. Đề con không lưu nháp trên thiết bị.'}
                 </p>
               </CardContent>
             </Card>
