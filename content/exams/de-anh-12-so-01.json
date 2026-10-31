@@ -1,0 +1,1344 @@
+{
+  "id": "de-anh-12-so-01",
+  "title": "Đề ôn tập Tiếng Anh 12 số 01 – Chuyên đề Mạo từ (Articles)",
+  "slug": "de-anh-12-so-01",
+  "description": "Chuyên đề mạo từ a/an/the và trường hợp không dùng mạo từ, bám sát hệ thống bài tập Articles lớp 12: địa điểm, môn học, nhạc cụ, tên riêng, so sánh nhất và các cụm cố định. Gồm 40 câu trắc nghiệm, 45 phút.",
+  "subject": "tieng-anh",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "EN12-01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-10-31T08:00:00.000Z",
+  "updatedAt": "2026-10-31T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-anh-12-so-01-c1",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "My sister often goes to ___ church every Sunday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cụm \"go to church\" diễn tả hoạt động đi lễ, không dùng mạo từ. Nếu nói \"go to the church\" là đi đến tòa nhà nhà thờ với mục đích khác.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "zero article",
+        "địa điểm"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c2",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Mel's mother is in ___ hospital, so we went to visit her last night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "\"In hospital\" nghĩa là đang nằm viện điều trị, không dùng mạo từ. \"In the hospital\" chỉ việc có mặt trong tòa nhà bệnh viện.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "zero article",
+        "địa điểm"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c3",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Rita is studying ___ English and Maths this semester.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tên ngôn ngữ và tên môn học không dùng mạo từ: English, Maths.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "zero article",
+        "môn học"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c4",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Do you know ___ man who is waiting for the bus over there?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Danh từ \"man\" được xác định bởi mệnh đề quan hệ \"who is waiting for the bus over there\" nên dùng \"the\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "mệnh đề quan hệ"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c5",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Please give me ___ cup of coffee.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"Cup\" là danh từ đếm được số ít, được nhắc lần đầu và bắt đầu bằng phụ âm nên dùng \"a\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c6",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "___ big books which are on the table are for my history class.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mệnh đề \"which are on the table\" xác định rõ những cuốn sách nào nên dùng \"the\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "mệnh đề quan hệ"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c7",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "There are only ___ few seats for tonight's musical.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"A few\" là cụm cố định nghĩa là \"một vài\", dùng với danh từ đếm được số nhiều.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a few"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c8",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "___ chair that you are sitting in is broken.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mệnh đề \"that you are sitting in\" xác định chiếc ghế cụ thể nên dùng \"the\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "mệnh đề quan hệ"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c9",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "The Civil War was fought in ___ United States between 1861 and 1865.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "the"
+        },
+        {
+          "key": "C",
+          "text": "an"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tên quốc gia dạng liên bang như \"the United States\", \"the United Kingdom\" luôn dùng \"the\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "tên riêng"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c10",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "We went by ___ train to the west of England.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cấu trúc \"by + phương tiện giao thông\" (by train, by bus, by car) không dùng mạo từ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "zero article",
+        "phương tiện"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c11",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "This house is very nice. Has it got ___ garden?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"Garden\" là danh từ đếm được số ít, nhắc lần đầu và bắt đầu bằng phụ âm nên dùng \"a\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c12",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "There is not ___ airport near where I live.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "\"Airport\" bắt đầu bằng nguyên âm /eə/ nên dùng \"an\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c13",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "___ nearest airport is 70 miles away.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trước so sánh nhất \"nearest\" luôn dùng \"the\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "so sánh nhất"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c14",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Did you have ___ nice holiday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"A nice holiday\" là cụm danh từ chung, nhắc lần đầu nên dùng \"a\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c15",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "It was ___ best holiday I've ever had.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "the"
+        },
+        {
+          "key": "C",
+          "text": "an"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trước so sánh nhất \"best\" dùng \"the\": the best holiday.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "so sánh nhất"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c16",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Mai always plays ___ piano whenever she has free time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "∅ (không dùng mạo từ)"
+        },
+        {
+          "key": "D",
+          "text": "the"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trước tên nhạc cụ (piano, guitar, violin) dùng \"the\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "nhạc cụ"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c17",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "My daughter was born on ___ fifth of January.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the"
+        },
+        {
+          "key": "B",
+          "text": "a"
+        },
+        {
+          "key": "C",
+          "text": "an"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trước số thứ tự chỉ ngày tháng dùng \"the\": the fifth of January.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "ngày tháng"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c18",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "It takes me ___ hour to finish my work.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "\"Hour\" có âm h câm, đọc là /aʊə/ bắt đầu bằng nguyên âm nên dùng \"an\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c19",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "She used to have ___ cat and a dog.",
+      "options": [
+        {
+          "key": "A",
+          "text": "an"
+        },
+        {
+          "key": "B",
+          "text": "the"
+        },
+        {
+          "key": "C",
+          "text": "a"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "\"Cat\" là danh từ đếm được số ít, nhắc lần đầu và bắt đầu bằng phụ âm nên dùng \"a\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c20",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "She used to have a cat and a dog but ___ dog died.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "∅ (không dùng mạo từ)"
+        },
+        {
+          "key": "D",
+          "text": "the"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Con chó đã được nhắc ở câu trước nên dùng \"the\" để chỉ con chó cụ thể đó.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "xác định"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c21",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "English is spoken all over ___ world.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "\"The world\" là vật thể duy nhất, luôn dùng \"the\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "duy nhất"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c22",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "___ deaf are unable to hear anything.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "the"
+        },
+        {
+          "key": "C",
+          "text": "an"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cấu trúc \"the + tính từ\" chỉ một nhóm người: the deaf, the blind, the sick.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "the + adj"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c23",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "People all over the world like ___ football.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tên môn thể thao nói chung không dùng mạo từ: football, basketball, tennis.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "zero article",
+        "thể thao"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c24",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "I wish today were ___ Sunday.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tên thứ trong tuần không dùng mạo từ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "zero article",
+        "thứ trong tuần"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c25",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "She gave me ___ apple and gave Lan two apples.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "\"Apple\" bắt đầu bằng nguyên âm nên dùng \"an\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c26",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "___ Smiths are going to Halong Bay next summer.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "\"The + họ ở số nhiều\" chỉ cả gia đình: the Smiths = gia đình Smith.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "tên riêng"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c27",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "If I won the lottery, first I would buy ___ piece of land in the country.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"A piece of land\" là cụm danh từ đếm được số ít, nhắc lần đầu nên dùng \"a\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c28",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Maria comes from ___ United States.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "∅ (không dùng mạo từ)"
+        },
+        {
+          "key": "D",
+          "text": "the"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "\"The United States\" là tên quốc gia dạng liên bang nên dùng \"the\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "tên riêng"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c29",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "She is ___ American girl.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "\"American\" bắt đầu bằng nguyên âm /ə/ nên dùng \"an\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c30",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "The boy said: \"___ Moon is bigger than the Earth.\"",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Các vật thể duy nhất như the Moon, the Earth, the Sun dùng \"the\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "duy nhất"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c31",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "I bought a car last week. ___ car is over there.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the"
+        },
+        {
+          "key": "B",
+          "text": "a"
+        },
+        {
+          "key": "C",
+          "text": "an"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chiếc xe đã được nhắc ở câu trước nên dùng \"the\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "xác định"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c32",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "I need ___ few apples and a lot of sugar.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"A few\" nghĩa là \"một vài\", dùng với danh từ đếm được số nhiều.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a few"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c33",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Where is ___ nearest shop?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "∅ (không dùng mạo từ)"
+        },
+        {
+          "key": "D",
+          "text": "the"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trước so sánh nhất \"nearest\" dùng \"the\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "so sánh nhất"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c34",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "My friends live in ___ old house in a small village.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "\"Old\" bắt đầu bằng nguyên âm /əʊ/ nên dùng \"an\".",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c35",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "There is ___ beautiful garden behind the house.",
+      "options": [
+        {
+          "key": "A",
+          "text": "an"
+        },
+        {
+          "key": "B",
+          "text": "the"
+        },
+        {
+          "key": "C",
+          "text": "∅ (không dùng mạo từ)"
+        },
+        {
+          "key": "D",
+          "text": "a"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "\"Garden\" là danh từ đếm được số ít, nhắc lần đầu và bắt đầu bằng phụ âm nên dùng \"a\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c36",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Rita plays ___ violin and her sister plays the guitar.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trước tên nhạc cụ dùng \"the\": play the violin, play the guitar.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "nhạc cụ"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c37",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "He is ___ honest person.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "\"Honest\" có âm h câm, đọc bắt đầu bằng nguyên âm /ɒ/ nên dùng \"an\".",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c38",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "He is ___ one-eyed man.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"One\" đọc là /wʌn/, bắt đầu bằng phụ âm /w/ nên dùng \"a\", dù chữ viết bắt đầu bằng nguyên âm o.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c39",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "There is ___ useful method of learning English.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "an"
+        },
+        {
+          "key": "C",
+          "text": "the"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "\"Useful\" đọc là /ˈjuːsfəl/, bắt đầu bằng phụ âm /j/ nên dùng \"a\", không dùng \"an\".",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "a/an"
+      ]
+    },
+    {
+      "id": "de-anh-12-so-01-c40",
+      "partName": "Phần I. Trắc nghiệm mạo từ",
+      "topic": "topic-anh-mao-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Her work is to take care of ___ sick.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a"
+        },
+        {
+          "key": "B",
+          "text": "the"
+        },
+        {
+          "key": "C",
+          "text": "an"
+        },
+        {
+          "key": "D",
+          "text": "∅ (không dùng mạo từ)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cấu trúc \"the + tính từ\" chỉ nhóm người: the sick = những người ốm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "mạo từ",
+        "the + adj"
+      ]
+    }
+  ]
+}

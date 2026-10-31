@@ -108,7 +108,7 @@
       "id": "tieng-anh",
       "name": "Tiếng Anh",
       "slug": "tieng-anh",
-      "description": "Tiếng Anh lớp 12: ngữ pháp trọng tâm và từ vựng theo chủ đề.",
+      "description": "Tiếng Anh lớp 12: ngữ pháp trọng tâm, mạo từ, cụm động từ, giới từ và luyện đề tổng hợp.",
       "order": 3,
       "topics": [
         {
@@ -124,6 +124,34 @@
           "slug": "tu-vung-theo-chu-de",
           "description": "Từ đồng nghĩa, collocation và từ vựng học thuật.",
           "order": 2
+        },
+        {
+          "id": "topic-anh-mao-tu",
+          "name": "Chuyên đề Mạo từ",
+          "slug": "chuyen-de-mao-tu",
+          "description": "Mạo từ a/an/the và trường hợp không dùng mạo từ (zero article).",
+          "order": 3
+        },
+        {
+          "id": "topic-anh-cum-dong-tu",
+          "name": "Chuyên đề Cụm động từ",
+          "slug": "chuyen-de-cum-dong-tu",
+          "description": "Phrasal verbs theo nhóm động từ: call, put, take, turn, break, bring…",
+          "order": 4
+        },
+        {
+          "id": "topic-anh-gioi-tu",
+          "name": "Chuyên đề Giới từ",
+          "slug": "chuyen-de-gioi-tu",
+          "description": "Giới từ đi kèm động từ, tính từ và cụm cố định thông dụng.",
+          "order": 5
+        },
+        {
+          "id": "topic-anh-luyen-de",
+          "name": "Luyện đề tổng hợp",
+          "slug": "luyen-de-tong-hop",
+          "description": "Đề tổng hợp thì, dạng động từ, mạo từ, collocation và thành ngữ.",
+          "order": 6
         }
       ]
     },
