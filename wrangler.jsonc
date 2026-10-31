@@ -1,0 +1,14 @@
+// Cấu hình deploy site tĩnh lên Cloudflare Workers: build xong, wrangler upload thẳng thư mục out/.
+// Không dùng adapter OpenNext vì dự án là static export (next.config.mjs: output: 'export').
+{
+  "name": "on-thi-thpt",
+  "compatibility_date": "2026-10-23",
+  "assets": {
+    "directory": "./out",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "observability": {
+    "enabled": true
+  }
+}
