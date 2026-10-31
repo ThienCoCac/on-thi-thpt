@@ -142,6 +142,10 @@ function ReviewCard({
                 Đáp án: {describeCorrectAnswer(question.type, question.correctAnswer, question.options)}
               </span>
             </span>
+          ) : variant === 'neutral' ? (
+            <span className="mt-1.5 block text-xs text-muted-foreground">
+              Bài mẫu và gợi ý chấm điểm ở bên dưới.
+            </span>
           ) : (
             <span className="mt-1.5 block line-clamp-1 text-xs text-muted-foreground">
               Đáp án: {describeCorrectAnswer(question.type, question.correctAnswer, question.options)}
@@ -211,6 +215,21 @@ function ReviewCard({
               );
             })}
           </ul>
+        ) : question.type === 'ESSAY' ? (
+          <div className="space-y-2">
+            <div className="rounded-lg border bg-muted/30 p-3 text-sm">
+              <p className="text-xs text-muted-foreground">Bài làm của bạn</p>
+              <p className="mt-1 max-h-72 overflow-auto whitespace-pre-wrap leading-relaxed">
+                {describeAnswer(question.type, item.selectedAnswer, question.options)}
+              </p>
+            </div>
+            <div className="rounded-lg border border-primary/20 bg-primary/5 p-3 text-sm">
+              <p className="text-xs text-muted-foreground">Gợi ý chấm điểm</p>
+              <p className="mt-1 whitespace-pre-wrap leading-relaxed">
+                {describeCorrectAnswer(question.type, question.correctAnswer, question.options)}
+              </p>
+            </div>
+          </div>
         ) : (
           <dl className="grid gap-2 rounded-lg border bg-muted/30 p-3 text-sm sm:grid-cols-2">
             <div>
@@ -231,7 +250,7 @@ function ReviewCard({
         <div className="rounded-lg border border-primary/20 bg-primary/5 p-4">
           <p className="flex items-center gap-2 text-sm font-semibold text-primary">
             <Lightbulb className="h-4 w-4" aria-hidden="true" />
-            Lời giải theo hướng tư duy
+            {item.isCorrect === null ? 'Bài mẫu và gợi ý chấm điểm' : 'Lời giải theo hướng tư duy'}
           </p>
           <div
             className="article-content mt-2 text-sm"
@@ -274,7 +293,7 @@ export function ExamResult({
     { key: 'wrong', label: 'Câu làm sai', count: groups.wrong.length },
     { key: 'correct', label: 'Câu làm đúng', count: groups.correct.length },
     ...(groups.neutral.length > 0
-      ? [{ key: 'neutral' as ResultTab, label: 'Chưa chấm', count: groups.neutral.length }]
+      ? [{ key: 'neutral' as ResultTab, label: 'Tự luận', count: groups.neutral.length }]
       : []),
   ];
   const active = groups[tab];
@@ -311,7 +330,9 @@ export function ExamResult({
                 </span>
               </p>
               <p className="mt-2 text-sm text-muted-foreground">
-                Đúng {result.correctCount}/{result.questionCount} câu
+                {result.autoGradedCount < result.questionCount
+                  ? `Đúng ${result.correctCount}/${result.autoGradedCount} câu trắc nghiệm`
+                  : `Đúng ${result.correctCount}/${result.questionCount} câu`}
               </p>
             </div>
           </div>
@@ -330,6 +351,15 @@ export function ExamResult({
                 style={{ width: `${result.accuracy}%` }}
               />
             </div>
+
+            {result.autoGradedCount < result.questionCount ? (
+              <p className="mt-2 text-xs leading-relaxed text-muted-foreground">
+                Độ chính xác chỉ tính trên {result.autoGradedCount} câu chấm tự động (
+                {formatScore(result.autoGradedScore)} điểm). {result.questionCount - result.autoGradedCount}{' '}
+                câu tự luận ({formatScore(result.maxScore - result.autoGradedScore)} điểm) được đối
+                chiếu với bài mẫu ở tab “Tự luận”.
+              </p>
+            ) : null}
           </div>
 
           <dl className="mt-6 grid gap-3 sm:grid-cols-3">
@@ -348,7 +378,9 @@ export function ExamResult({
                 Số câu đúng
               </dt>
               <dd className="mt-1 text-base font-semibold">
-                {result.correctCount}/{result.questionCount}
+                {result.autoGradedCount < result.questionCount
+                  ? `${result.correctCount}/${result.autoGradedCount} câu trắc nghiệm`
+                  : `${result.correctCount}/${result.questionCount}`}
               </dd>
             </div>
             <div className="rounded-xl border bg-muted/30 p-4">
@@ -457,6 +489,12 @@ export function ExamResult({
             className="mt-4"
             aria-live="polite"
           >
+            {tab === 'neutral' ? (
+              <p className="mb-3 rounded-xl border border-primary/20 bg-primary/5 px-4 py-3 text-sm leading-relaxed">
+                Câu tự luận không được chấm tự động. Hãy đọc lại bài làm, đối chiếu với bài mẫu và
+                thang điểm gợi ý để tự đánh giá, rồi ghi lại những ý cần bổ sung cho lần viết sau.
+              </p>
+            ) : null}
             {active.length === 0 ? (
               tab === 'wrong' ? (
                 <Card className="border-emerald-200 bg-emerald-50/60">

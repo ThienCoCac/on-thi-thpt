@@ -1,0 +1,165 @@
+{
+  "id": "de-ngu-van-12-so-07",
+  "title": "Đề thi thử Ngữ văn 12 số 07 – Chùm thơ thu Nguyễn Khuyến",
+  "slug": "de-ngu-van-12-so-07",
+  "description": "Đề luyện thi tốt nghiệp THPT môn Ngữ văn: đọc hiểu bài thơ Thu vịnh, viết đoạn cảm nhận bức tranh thu và bài cảm nhận Câu cá mùa thu của Nguyễn Khuyến. Kèm bài mẫu chi tiết.",
+  "subject": "ngu-van",
+  "type": "FULL_EXAM",
+  "durationMinutes": 120,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "NV12-07",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-10-31T08:00:00.000Z",
+  "updatedAt": "2026-10-31T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "nv12-07-c1",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Trời thu xanh ngắt mấy tầng cao,\n> Cần trúc lơ phơ gió hắt hiu.\n> Nước biếc trông như tầng khói phủ,\n> Song thưa để mặc bóng trăng vào.\n> Mấy chùm trước giậu hoa năm ngoái,\n> Một tiếng trên không ngỗng nước nào.\n> Nhân hứng cũng vừa toan cất bút,\n> Nghĩ ra lại thẹn với ông Đào.\n\n**Câu hỏi:** Bài thơ trên được viết theo thể thơ nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thơ thất ngôn bát cú Đường luật"
+        },
+        {
+          "key": "B",
+          "text": "Thơ năm chữ"
+        },
+        {
+          "key": "C",
+          "text": "Thơ lục bát"
+        },
+        {
+          "key": "D",
+          "text": "Thơ tự do"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A. Thơ thất ngôn bát cú Đường luật.**\n\nBài thơ gồm 8 câu, mỗi câu 7 chữ, gieo vần ở các câu 1, 2, 4, 6, 8 (cao – hiu – vào – nào – Đào), ngắt nhịp 4/3. Cấu trúc bài thơ theo trình tự đề – thực – luận – kết. Đây là dấu hiệu rõ ràng của thơ thất ngôn bát cú Đường luật.\n\nPhương án B sai vì mỗi dòng có 7 chữ. Phương án C sai vì lục bát có cặp câu 6 – 8. Phương án D sai vì số chữ trong các dòng bằng nhau, không phải thơ tự do.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "thể thơ"
+      ]
+    },
+    {
+      "id": "nv12-07-c2",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Nước biếc trông như tầng khói phủ\n\n**Câu hỏi:** Câu thơ trên sử dụng biện pháp tu từ nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "So sánh"
+        },
+        {
+          "key": "B",
+          "text": "Nhân hóa"
+        },
+        {
+          "key": "C",
+          "text": "Hoán dụ"
+        },
+        {
+          "key": "D",
+          "text": "Nói quá"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A. So sánh.**\n\nTừ “như” nối hai hình ảnh: “nước biếc” và “tầng khói phủ”. Mặt nước xanh biếc được so sánh với nhiều tầng khói sương chồng lên nhau, tạo nên vẻ đẹp huyền ảo, mờ ảo của cảnh thu. Phép so sánh khiến cảnh vật hiện lên vừa thực vừa mộng, đồng thời thể hiện sự quan sát tinh tế của nhà thơ.\n\nPhương án B sai vì không có sự gán hành động, tâm trạng của người cho vật. Phương án C sai vì không có sự chuyển đổi tên gọi. Phương án D sai vì không có sự phóng đại về mức độ, quy mô.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "biện pháp tu từ"
+      ]
+    },
+    {
+      "id": "nv12-07-c3",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Nhân hứng cũng vừa toan cất bút,\n> Nghĩ ra lại thẹn với ông Đào.\n\n**Câu hỏi:** Hai câu thơ trên thể hiện tâm sự gì của nhà thơ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tự hào vì mình đã làm được nhiều việc lớn cho đất nước."
+        },
+        {
+          "key": "B",
+          "text": "Muốn giữ khí tiết thanh cao, ẩn cư như Đào Tiềm nhưng lại thẹn vì chưa làm được như ông."
+        },
+        {
+          "key": "C",
+          "text": "Buồn vì không có ai cùng ngắm cảnh thu với mình."
+        },
+        {
+          "key": "D",
+          "text": "Chán nản, muốn từ bỏ việc làm thơ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.**\n\n“Ông Đào” là Đào Tiềm, nhà thơ nổi tiếng đời Tấn (Trung Quốc), từng bỏ quan về ẩn cư, giữ khí tiết thanh cao. Nguyễn Khuyến nhắc đến ông để tự so sánh: nhà thơ cũng cáo quan về ở ẩn, cũng làm thơ về mùa thu, nhưng lại “thẹn” vì cảm thấy mình chưa được như Đào Tiềm. Nỗi “thẹn” ấy vừa là sự khiêm nhường vừa là nỗi niềm của một con người luôn trăn trở về khí tiết và trách nhiệm của kẻ sĩ trước thời cuộc.\n\nPhương án A trái với nội dung. Phương án C và D không phải ý chính của hai câu thơ, tuy có yếu tố buồn nhưng nỗi niềm chính là sự tự vấn về khí tiết.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "tâm trạng trữ tình"
+      ]
+    },
+    {
+      "id": "nv12-07-c4",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "ESSAY",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Trời thu xanh ngắt mấy tầng cao,\n> Cần trúc lơ phơ gió hắt hiu.\n> Nước biếc trông như tầng khói phủ,\n> Song thưa để mặc bóng trăng vào.\n\n**Câu hỏi:** Viết đoạn văn khoảng 5 – 7 dòng nêu cảm nhận của em về bức tranh mùa thu trong bốn câu thơ trên.",
+      "options": [],
+      "correctAnswer": "Đúng hình thức đoạn 5 – 7 dòng (0,25 điểm); nêu được vẻ đẹp của bức tranh thu: cao rộng, thanh vắng, huyền ảo (0,5 điểm); có dẫn thơ, diễn đạt trong sáng (0,25 điểm).",
+      "explanation": "**Gợi ý chấm điểm**\n\n- Hình thức: một đoạn văn 5 – 7 dòng, diễn đạt mạch lạc (0,25 điểm).\n- Nội dung: cảm nhận được không gian thu cao rộng (“trời thu xanh ngắt”), nét thanh nhẹ (“cần trúc lơ phơ”), vẻ huyền ảo của mặt nước (“như tầng khói phủ”) và sự tĩnh lặng (“song thưa để mặc bóng trăng vào”) (0,5 điểm).\n- Có dẫn thơ, diễn đạt trong sáng (0,25 điểm).\n\n**Bài mẫu tham khảo**\n\nBốn câu thơ mở ra một bức tranh thu vừa khoáng đạt vừa tĩnh lặng. Câu thơ đầu “Trời thu xanh ngắt mấy tầng cao” gợi bầu trời thu xanh thăm thẳm, cao vời vợi, khiến không gian như rộng ra. Hình ảnh “cần trúc lơ phơ gió hắt hiu” thật mảnh mai, khẽ lay trong gió thu, đem đến cảm giác thanh nhẹ mà se lạnh. Hai câu sau, “Nước biếc trông như tầng khói phủ” và “Song thưa để mặc bóng trăng vào”, khép lại bức tranh bằng vẻ đẹp huyền ảo của mặt nước và sự tĩnh tại của ánh trăng. Cảnh thu ấy không ồn ào, không rực rỡ mà nhẹ nhàng, sâu lắng, cho thấy một hồn thơ tinh tế, yêu thiên nhiên tha thiết.\n\n**Lưu ý khi viết**\n\nĐoạn văn chỉ cần 5 – 7 dòng: mở đoạn khái quát bức tranh, thân đoạn phân tích từng câu, kết đoạn nêu cảm xúc. Không cần phân tích hai câu luận và hai câu kết.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "viết đoạn ngắn"
+      ]
+    },
+    {
+      "id": "nv12-07-c5",
+      "partName": "Phần II. Viết đoạn văn",
+      "topic": "topic-van-viet-doan",
+      "type": "ESSAY",
+      "content": "**Đề bài:** Viết đoạn văn (khoảng 200 chữ) trình bày cảm nhận của em về vẻ đẹp tâm hồn Nguyễn Khuyến qua bài thơ “Thu vịnh”.\n\n**Ngữ liệu:**\n\n> Trời thu xanh ngắt mấy tầng cao,\n> Cần trúc lơ phơ gió hắt hiu.\n> Nước biếc trông như tầng khói phủ,\n> Song thưa để mặc bóng trăng vào.\n> Mấy chùm trước giậu hoa năm ngoái,\n> Một tiếng trên không ngỗng nước nào.\n> Nhân hứng cũng vừa toan cất bút,\n> Nghĩ ra lại thẹn với ông Đào.\n\n**Yêu cầu:** Đảm bảo hình thức một đoạn văn; bám sát hình ảnh, biện pháp nghệ thuật; làm rõ tình yêu thiên nhiên và nỗi niềm của nhà thơ.",
+      "options": [],
+      "correctAnswer": "Đúng hình thức đoạn văn khoảng 200 chữ (0,25 điểm); phân tích được bức tranh thu và tâm trạng nhà thơ (1,0 điểm); khái quát vẻ đẹp tâm hồn Nguyễn Khuyến (0,5 điểm); diễn đạt trong sáng, đúng chính tả (0,25 điểm).",
+      "explanation": "**Gợi ý chấm điểm**\n\n- Hình thức: một đoạn văn khoảng 200 chữ, không xuống dòng chia đoạn (0,25 điểm).\n- Nội dung: phân tích bức tranh thu (trời cao, gió hắt hiu, nước như khói phủ, trăng vào song thưa, hoa năm ngoái, tiếng ngỗng) (0,75 điểm); tâm sự của nhà thơ qua hai câu kết (0,5 điểm).\n- Khái quát: tình yêu thiên nhiên, nỗi niềm về thời thế, khát vọng giữ khí tiết thanh cao (0,5 điểm).\n- Diễn đạt, chính tả, dùng từ (0,25 điểm).\n\n**Bài mẫu tham khảo**\n\nNguyễn Khuyến được mệnh danh là nhà thơ của làng cảnh Việt Nam, và “Thu vịnh” là một trong ba bài thơ thu thể hiện rõ nhất điều đó. Bức tranh thu trong bài bắt đầu từ khoảng không gian rộng lớn, cao vời: “Trời thu xanh ngắt mấy tầng cao”. Sắc xanh ấy không tươi rói mà sâu thẳm, tĩnh lặng, gợi cảm giác vừa khoáng đạt vừa hiu quạnh. Tiếp đến là “Cần trúc lơ phơ gió hắt hiu” – hình ảnh mảnh mai, khẽ lay trong gió thu, làm cho không gian thêm phần thanh nhẹ mà cũng se lạnh. Hai câu thực nối tiếp bằng mặt nước và ánh trăng: “Nước biếc trông như tầng khói phủ” là một so sánh tinh tế, khiến mặt nước như chìm trong màn sương mờ ảo; “Song thưa để mặc bóng trăng vào” mở ra một không gian tĩnh tại, nơi con người và thiên nhiên như hòa vào nhau. Hai câu luận mang đến những nét chấm phá rất riêng: “Mấy chùm trước giậu hoa năm ngoái” gợi sự tàn phai, cũ kĩ; “Một tiếng trên không ngỗng nước nào” là âm thanh duy nhất phá tan sự tĩnh lặng, nhưng lại làm nỗi vắng lặng thêm sâu. Tất cả cho thấy một hồn thơ tinh tế, yêu thiên nhiên và gửi gắm trong cảnh thu nỗi niềm của một con người luôn trăn trở về thời thế và nhân tình.\n\n**Lưu ý khi viết**\n\nDàn ý nhanh: mở đoạn giới thiệu bài thơ → phân tích bức tranh thu theo trình tự sáu câu đầu → phân tích hai câu kết → khái quát tâm hồn nhà thơ. Tránh kể lại nội dung hoặc phân tích cả chùm thơ thu.",
+      "difficulty": "MEDIUM",
+      "score": 2,
+      "tags": [
+        "viết đoạn",
+        "nghị luận văn học"
+      ]
+    },
+    {
+      "id": "nv12-07-c6",
+      "partName": "Phần III. Viết bài văn",
+      "topic": "topic-van-viet-bai",
+      "type": "ESSAY",
+      "content": "**Đề bài:** Cảm nhận của anh/chị về bài thơ “Câu cá mùa thu” (Thu điếu) của Nguyễn Khuyến.\n\n**Ngữ liệu:**\n\n> Ao thu lạnh lẽo nước trong veo,\n> Một chiếc thuyền câu bé tẻo teo.\n> Sóng biếc theo làn hơi gợn tí,\n> Lá vàng trước gió khẽ đưa vèo.\n> Tầng mây lơ lửng trời xanh ngắt,\n> Ngõ trúc quanh co khách vắng teo.\n> Tựa gối ôm cần lâu chẳng được,\n> Cá đâu đớp động dưới chân bèo.\n\n**Yêu cầu:** Bài viết có bố cục ba phần; phân tích bức tranh thu và tâm trạng nhà thơ; nêu được nét đặc sắc về nghệ thuật và giá trị của bài thơ.",
+      "options": [],
+      "correctAnswer": "Mở bài 0,5 điểm; thân bài 3,0 điểm (không gian ao thu: 0,75; sắc thu và chuyển động: 0,75; không gian làng quê: 0,5; hai câu kết và tâm trạng: 0,5; nghệ thuật, sáng tạo: 0,5); kết bài 0,5 điểm.",
+      "explanation": "**Gợi ý chấm điểm**\n\n- Mở bài: giới thiệu tác giả, bài thơ, vấn đề nghị luận (0,5 điểm).\n- Thân bài (3,0 điểm): không gian ao thu lạnh lẽo, trong veo, chiếc thuyền câu nhỏ bé (0,75); sóng gợn tí, lá đưa vèo – nghệ thuật dùng từ tinh tế (0,75); bầu trời xanh ngắt, ngõ trúc vắng vẻ (0,5); hai câu kết và tâm trạng nhà thơ (0,5); nghệ thuật thể thơ, vần “eo”, lấy động tả tĩnh (0,5).\n- Kết bài: khẳng định giá trị bài thơ, cảm xúc của người viết (0,5 điểm).\n- Trừ điểm nếu sai kiến thức, lạc đề hoặc mắc nhiều lỗi chính tả, diễn đạt.\n\n**Bài mẫu tham khảo**\n\nNguyễn Khuyến là nhà thơ trữ tình trào phúng lớn của văn học Việt Nam nửa cuối thế kỉ XIX. Ông từng đỗ đạt, làm quan nhưng sớm cáo quan về ở ẩn vì bất mãn với thời cuộc. Ba bài thơ thu – “Thu vịnh”, “Thu điếu”, “Thu ẩm” – được viết trong thời gian ông sống ở quê, và “Câu cá mùa thu” là bài thơ tiêu biểu cho hồn thơ tinh tế, sâu lắng của ông.\n\nBài thơ mở ra một không gian mùa thu đồng quê thanh vắng. Câu đầu “Ao thu lạnh lẽo nước trong veo” vừa tả cảnh vừa gợi cảm giác se lạnh của tiết thu. Hai chữ “lạnh lẽo” không chỉ nói về nhiệt độ mà còn là cái lạnh của không gian tĩnh tại, của một tâm hồn cô đơn. Mặt ao “trong veo” phản chiếu một thế giới trong trẻo, tinh khiết. Trên mặt nước ấy, “một chiếc thuyền câu bé tẻo teo” hiện lên như một chấm nhỏ, càng làm cho không gian thêm rộng lớn và con người thêm nhỏ bé.\n\nBức tranh thu tiếp tục được vẽ bằng những nét rất nhẹ: “Sóng biếc theo làn hơi gợn tí”, “Lá vàng trước gió khẽ đưa vèo”. Nhà thơ dùng những từ chỉ mức độ nhỏ, nhẹ như “tí”, “vèo” để miêu tả chuyển động. Sóng chỉ “gợn tí”, lá chỉ “khẽ đưa vèo” – tất cả đều rất khẽ, rất nhẹ, như sợ làm vỡ đi sự tĩnh lặng của không gian. Cách dùng từ ấy cho thấy sự tinh tế của một hồn thơ hòa mình vào từng chuyển động nhỏ nhất của cảnh vật.\n\nHai câu thực mở rộng không gian lên tầm cao và chiều xa: “Tầng mây lơ lửng trời xanh ngắt”, “Ngõ trúc quanh co khách vắng teo”. Bầu trời xanh thăm thẳm với những tầng mây lơ lửng gợi vẻ đẹp khoáng đạt, nhưng cũng rất tĩnh. Ngõ trúc quanh co mà vắng không một bóng khách càng làm nổi bật sự thanh vắng của làng quê. Ở đây, cảnh vật hiện lên với hai nét đối lập: cao rộng và nhỏ hẹp, xa xăm và gần gũi, tạo nên một bức tranh thu vừa nên thơ vừa man mác buồn.\n\nHai câu kết chuyển từ cảnh sang tâm trạng: “Tựa gối ôm cần lâu chẳng được / Cá đâu đớp động dưới chân bèo”. Người câu cá ngồi tựa gối, ôm cần rất lâu mà chẳng câu được gì, bỗng giật mình vì tiếng cá đớp động. Chi tiết ấy cho thấy con người không thực sự chú tâm vào việc câu cá; ông đang mải nghĩ ngợi, đang để hồn mình hòa vào cảnh thu. Tiếng cá đớp động tuy nhỏ nhưng lại phá tan sự tĩnh lặng, làm bừng tỉnh một không gian mộng mơ. Đó cũng là cách nhà thơ thể hiện nỗi niềm của một con người đang tìm sự bình yên trong thiên nhiên nhưng vẫn canh cánh những nỗi niềm về thời thế.\n\nVề nghệ thuật, bài thơ sử dụng thể thơ thất ngôn bát cú Đường luật, ngôn ngữ tinh tế, giàu hình ảnh và nhạc điệu. Nhà thơ dùng nhiều từ láy, từ chỉ mức độ nhỏ, cách gieo vần “eo” đặc biệt ở các câu 1, 2, 4, 6, 8 tạo nên âm hưởng se lạnh, khép kín, rất phù hợp với không gian ao thu. Cách lấy động tả tĩnh, lấy cảnh tả tình là nét đặc sắc trong thơ Nguyễn Khuyến.\n\n“Câu cá mùa thu” không chỉ là một bức tranh phong cảnh đẹp mà còn là tiếng lòng của một nhà nho yêu nước, yêu quê hương, muốn tìm về với cuộc sống thanh bạch, giản dị. Bài thơ cho thấy vẻ đẹp của tâm hồn Nguyễn Khuyến: tinh tế, sâu sắc, luôn gắn bó với thiên nhiên và con người nơi làng quê. Đọc bài thơ, ta thêm yêu mùa thu Hà Nội – Bắc Bộ và hiểu hơn vẻ đẹp của một hồn thơ đã đi vào lòng người bao thế hệ.\n\n**Lưu ý khi viết**\n\nKhi phân tích, cần chú ý vần “eo” xuất hiện ở hầu hết các câu – vần này vốn khó gieo nhưng lại góp phần tạo nên âm hưởng se lạnh, khép kín của bài thơ. Nên phân tích theo trình tự: không gian → sắc thu, chuyển động → không gian làng quê → tâm trạng. Tránh kể lại bài thơ.",
+      "difficulty": "HARD",
+      "score": 4,
+      "tags": [
+        "viết bài",
+        "nghị luận văn học"
+      ]
+    }
+  ]
+}

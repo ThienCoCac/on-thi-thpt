@@ -83,7 +83,7 @@ function questionInstruction(type: RunnerQuestion['type']): string {
     return 'Điền đáp án';
   }
   if (type === ESSAY) {
-    return 'Trình bày lời giải';
+    return 'Viết bài tự luận';
   }
   return 'Chọn một đáp án đúng';
 }
@@ -114,6 +114,10 @@ function gradeExam(
   const maxScore = roundScore(
     gradedQuestions.reduce((sum, item) => sum + item.question.score, 0),
   );
+  const autoGradedQuestions = gradedQuestions.filter((item) => item.isCorrect !== null);
+  const autoGradedScore = roundScore(
+    autoGradedQuestions.reduce((sum, item) => sum + item.question.score, 0),
+  );
   const score = roundScore(gradedQuestions.reduce((sum, item) => sum + item.scoreEarned, 0));
   const correctCount = gradedQuestions.filter((item) => item.isCorrect === true).length;
   const unansweredCount = gradedQuestions.filter((item) =>
@@ -130,11 +134,14 @@ function gradeExam(
     correctCount,
     questionCount: gradedQuestions.length,
     unansweredCount,
-    accuracy: maxScore > 0 ? Math.round((score / maxScore) * 100) : 0,
+    // Bỏ qua câu tự luận để độ chính xác không bị kéo xuống bởi phần chưa chấm.
+    accuracy: autoGradedScore > 0 ? Math.round((score / autoGradedScore) * 100) : 0,
+    autoGradedCount: autoGradedQuestions.length,
+    autoGradedScore,
     timeSpentSeconds,
     gradedQuestions,
     difficulties: DIFFICULTY_ORDER.map((key) => {
-      const items = gradedQuestions.filter((item) => item.question.difficulty === key);
+      const items = autoGradedQuestions.filter((item) => item.question.difficulty === key);
       return {
         key,
         total: items.length,
@@ -839,13 +846,13 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
                     <textarea
                       value={typeof currentValue === 'string' ? currentValue : ''}
                       onChange={(event) => handleTextChange(current, event.target.value)}
-                      placeholder="Trình bày lời giải của bạn"
+                      placeholder="Viết bài làm của bạn"
                       aria-label={`Bài làm cho câu ${currentIndex + 1}`}
                       className="min-h-[160px] w-full rounded-md border border-input bg-background px-3 py-2 text-sm leading-relaxed ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
                     />
                     <p className="text-xs text-muted-foreground">
-                      Câu tự luận chưa được chấm điểm tự động, bạn sẽ đối chiếu với lời giải
-                      sau khi nộp.
+                      Câu tự luận chưa được chấm tự động. Sau khi nộp, bạn đối chiếu bài làm với
+                      bài mẫu và gợi ý chấm điểm.
                     </p>
                   </div>
                 ) : current.options.length > 0 ? (

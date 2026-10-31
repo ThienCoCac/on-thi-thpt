@@ -59,7 +59,7 @@ function questionInstruction(type: RunnerQuestion['type']): string {
     return 'Điền đáp án rồi bấm Kiểm tra';
   }
   if (type === ESSAY) {
-    return 'Trình bày lời giải rồi đối chiếu đáp án';
+    return 'Viết bài làm rồi đối chiếu bài mẫu';
   }
   return 'Chọn một đáp án';
 }
@@ -243,7 +243,7 @@ export function PracticeRunner({
             {results.some((item) => item.isCorrect === null) ? (
               <p className="mt-4 text-xs text-muted-foreground">
                 {results.filter((item) => item.isCorrect === null).length} câu tự luận được đối
-                chiếu lời giải, không tính vào điểm.
+                chiếu bài mẫu, không tính vào điểm.
               </p>
             ) : null}
 
@@ -432,7 +432,7 @@ export function PracticeRunner({
                   }))
                 }
                 readOnly={checked}
-                placeholder="Trình bày lời giải của bạn"
+                placeholder="Viết bài làm của bạn"
                 aria-label={`Bài làm cho câu ${index + 1}`}
                 className="min-h-[140px] w-full rounded-md border border-input bg-background px-3 py-2 text-sm leading-relaxed ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
               />
@@ -520,7 +520,7 @@ export function PracticeRunner({
               <div className="flex items-center justify-between gap-3 pt-1">
                 <p className="text-xs text-muted-foreground">
                   {isEssay
-                    ? 'Câu tự luận không chấm tự động, bạn đối chiếu lời giải bên dưới.'
+                    ? 'Câu tự luận không chấm tự động, bạn đối chiếu bài mẫu bên dưới.'
                     : current.type === MULTIPLE_CHOICE
                       ? 'Câu nhiều đáp án: chọn đủ rồi bấm Kiểm tra.'
                       : 'Chọn đáp án để xem kết quả ngay.'}
@@ -569,7 +569,7 @@ export function PracticeRunner({
                         Bạn chọn: {describeAnswer(current.type, currentResult.selected, current.options)}
                       </p>
                     ) : null}
-                    {currentResult?.isCorrect !== true ? (
+                    {currentResult?.isCorrect !== true && current.type !== ESSAY ? (
                       <p className="mt-0.5 text-xs leading-relaxed">
                         Đáp án đúng:{' '}
                         {describeCorrectAnswer(

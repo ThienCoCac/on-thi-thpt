@@ -239,6 +239,9 @@ export interface GradeResult {
   questionCount: number;
   unansweredCount: number;
   accuracy: number;
+  // Câu tự luận không chấm tự động nên độ chính xác chỉ tính trên phần chấm được.
+  autoGradedCount: number;
+  autoGradedScore: number;
   timeSpentSeconds: number;
   gradedQuestions: GradedQuestion[];
   difficulties: DifficultyResult[];

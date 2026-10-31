@@ -1,11 +1,85 @@
 {
   "subjects": [
     {
+      "id": "ngu-van",
+      "name": "Ngữ văn",
+      "slug": "ngu-van",
+      "description": "Ngữ văn lớp 12: đọc hiểu thơ – văn xuôi – văn bản nghị luận, kỹ năng viết đoạn và viết bài.",
+      "order": 0,
+      "topics": [
+        {
+          "id": "topic-van-doc-hieu-tho",
+          "name": "Đọc hiểu thơ",
+          "slug": "doc-hieu-tho",
+          "description": "Thể thơ, chủ thể trữ tình, hình ảnh, biện pháp tu từ và mạch cảm xúc trong bài thơ.",
+          "order": 1
+        },
+        {
+          "id": "topic-van-doc-hieu-van-xuoi",
+          "name": "Đọc hiểu văn xuôi",
+          "slug": "doc-hieu-van-xuoi",
+          "description": "Ngôi kể, điểm nhìn, lời kể, nhân vật và chủ đề của truyện ngắn.",
+          "order": 2
+        },
+        {
+          "id": "topic-van-doc-hieu-nghi-luan",
+          "name": "Đọc hiểu văn bản nghị luận",
+          "slug": "doc-hieu-van-ban-nghi-luan",
+          "description": "Luận đề, luận điểm, lí lẽ, dẫn chứng, thao tác lập luận và phép liên kết.",
+          "order": 3
+        },
+        {
+          "id": "topic-van-viet-doan",
+          "name": "Kỹ năng viết đoạn văn",
+          "slug": "ky-nang-viet-doan-van",
+          "description": "Đoạn nghị luận văn học và nghị luận xã hội khoảng 200 chữ.",
+          "order": 4
+        },
+        {
+          "id": "topic-van-viet-bai",
+          "name": "Kỹ năng viết bài văn",
+          "slug": "ky-nang-viet-bai-van",
+          "description": "Bài nghị luận văn học khoảng 600 chữ: mở bài, thân bài, kết bài.",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "kinh-te-va-phap-luat",
+      "name": "Kinh tế và Pháp luật",
+      "slug": "kinh-te-va-phap-luat",
+      "description": "Giáo dục Kinh tế và Pháp luật lớp 12: tăng trưởng – phát triển kinh tế, hội nhập kinh tế quốc tế và bảo hiểm.",
+      "order": 1,
+      "topics": [
+        {
+          "id": "topic-ktpl-tang-truong",
+          "name": "Bài 1. Tăng trưởng và phát triển kinh tế",
+          "slug": "tang-truong-va-phat-trien-kinh-te",
+          "description": "GDP, GNI, các chỉ tiêu phát triển kinh tế, chuyển dịch cơ cấu kinh tế và phát triển bền vững.",
+          "order": 1
+        },
+        {
+          "id": "topic-ktpl-hoi-nhap",
+          "name": "Bài 2. Hội nhập kinh tế quốc tế",
+          "slug": "hoi-nhap-kinh-te-quoc-te",
+          "description": "Khái niệm, vai trò, các cấp độ, mức độ liên kết và đường lối hội nhập của Việt Nam.",
+          "order": 2
+        },
+        {
+          "id": "topic-ktpl-bao-hiem",
+          "name": "Bài 3. Bảo hiểm",
+          "slug": "bao-hiem",
+          "description": "Khái niệm, vai trò, các loại hình bảo hiểm và trách nhiệm của công dân.",
+          "order": 3
+        }
+      ]
+    },
+    {
       "id": "toan",
       "name": "Toán",
       "slug": "toan",
       "description": "Toán học lớp 12: hàm số, mũ – logarit, hình học không gian.",
-      "order": 1,
+      "order": 2,
       "topics": [
         {
           "id": "topic-toan-ham-so",
@@ -35,7 +109,7 @@
       "name": "Tiếng Anh",
       "slug": "tieng-anh",
       "description": "Tiếng Anh lớp 12: ngữ pháp trọng tâm và từ vựng theo chủ đề.",
-      "order": 2,
+      "order": 3,
       "topics": [
         {
           "id": "topic-anh-ngu-phap",
@@ -58,7 +132,7 @@
       "name": "Lịch sử",
       "slug": "lich-su",
       "description": "Lịch sử lớp 12: Liên hợp quốc, trật tự thế giới và ASEAN từ sau Chiến tranh thế giới thứ hai.",
-      "order": 3,
+      "order": 4,
       "topics": [
         {
           "id": "topic-su-bai-1",

@@ -1,0 +1,930 @@
+{
+  "id": "de-ktpl-12-so-03",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 số 03 – Bảo hiểm",
+  "slug": "de-ktpl-12-so-03",
+  "description": "Đề ôn tập bám sát Bài 3 Giáo dục Kinh tế và Pháp luật 12: khái niệm, sự cần thiết, các loại hình bảo hiểm, vai trò của bảo hiểm và trách nhiệm của công dân. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-03",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-10-31T08:00:00.000Z",
+  "updatedAt": "2026-10-31T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "ktpl12-03-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "hoạt động chuyển giao rủi ro giữa các bên tham gia bảo hiểm và tổ chức bảo hiểm; bên tham gia nộp phí để được bồi thường, trợ cấp hoặc chi trả khi rủi ro xảy ra trong phạm vi bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "hoạt động cho vay vốn giữa ngân hàng và doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "việc Nhà nước thu thuế để lập quỹ ngân sách."
+        },
+        {
+          "key": "D",
+          "text": "hình thức đầu tư chứng khoán của cá nhân."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm là hoạt động chuyển giao rủi ro giữa các bên tham gia bảo hiểm và tổ chức bảo hiểm; bên tham gia nộp phí để lập quỹ dự trữ và được bồi thường, trợ cấp hoặc chi trả khi rủi ro xảy ra trong phạm vi bảo hiểm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "một dịch vụ tài chính, qua đó người tham gia đóng phí để được hưởng bồi thường, chi trả khi rủi ro xảy ra."
+        },
+        {
+          "key": "B",
+          "text": "một loại thuế gián thu do Nhà nước quy định."
+        },
+        {
+          "key": "C",
+          "text": "một khoản tiết kiệm bắt buộc mà người dân không được hưởng quyền lợi."
+        },
+        {
+          "key": "D",
+          "text": "một hình thức tín dụng của ngân hàng thương mại."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm là một dịch vụ tài chính: người tham gia đóng phí cho bên cung cấp dịch vụ bảo hiểm để được bồi thường, chi trả khi rủi ro hoặc sự kiện bảo hiểm xảy ra.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm ra đời là đòi hỏi khách quan vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "rủi ro trong cuộc sống và sản xuất kinh doanh là khách quan, bất ngờ, khó lường; cá nhân, doanh nghiệp khó tự chịu đựng toàn bộ tổn thất."
+        },
+        {
+          "key": "B",
+          "text": "mọi rủi ro đều có thể dự báo chính xác trước khi xảy ra."
+        },
+        {
+          "key": "C",
+          "text": "các doanh nghiệp luôn có đủ nguồn lực để tự khắc phục tổn thất."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước bắt buộc mọi người phải mua mọi loại bảo hiểm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Rủi ro là khách quan, bất ngờ, khó lường; một cá nhân hay doanh nghiệp khó tự chịu đựng toàn bộ tổn thất nên bảo hiểm ra đời nhằm san sẻ rủi ro.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Vai trò cơ bản của bảo hiểm đối với người tham gia là",
+      "options": [
+        {
+          "key": "A",
+          "text": "san sẻ rủi ro, giảm thiểu tổn thất, giúp ổn định cuộc sống và sản xuất – kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "bảo đảm mọi rủi ro đều được chi trả toàn bộ."
+        },
+        {
+          "key": "C",
+          "text": "thay thế hoàn toàn nhu cầu tiết kiệm của cá nhân."
+        },
+        {
+          "key": "D",
+          "text": "tăng thêm rủi ro để tăng lợi nhuận cho doanh nghiệp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm san sẻ rủi ro giữa nhiều người tham gia, giảm thiểu tổn thất, giúp con người vượt qua khó khăn, ổn định cuộc sống và sản xuất – kinh doanh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm huy động được nguồn vốn nhàn rỗi trong dân cư và doanh nghiệp nhằm",
+      "options": [
+        {
+          "key": "A",
+          "text": "đầu tư trở lại nền kinh tế, góp phần ổn định ngân sách nhà nước và thực hiện an sinh xã hội."
+        },
+        {
+          "key": "B",
+          "text": "chi trả toàn bộ chi phí quản lí nhà nước."
+        },
+        {
+          "key": "C",
+          "text": "thay thế hệ thống thuế của Nhà nước."
+        },
+        {
+          "key": "D",
+          "text": "tài trợ không hoàn lại cho mọi doanh nghiệp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm huy động vốn nhàn rỗi để đầu tư trở lại nền kinh tế, góp phần ổn định ngân sách nhà nước và thực hiện an sinh xã hội.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm xã hội là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sự bảo đảm thay thế hoặc bù đắp một phần thu nhập của người lao động khi bị giảm hoặc mất thu nhập do ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp, hết tuổi lao động."
+        },
+        {
+          "key": "B",
+          "text": "hình thức bảo hiểm tài sản do doanh nghiệp kinh doanh."
+        },
+        {
+          "key": "C",
+          "text": "khoản vay ưu đãi dành cho doanh nghiệp mới thành lập."
+        },
+        {
+          "key": "D",
+          "text": "khoản trợ cấp của ngân sách cho mọi công dân khi về già."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo Luật Bảo hiểm xã hội năm 2014, bảo hiểm xã hội là sự bảo đảm thay thế hoặc bù đắp một phần thu nhập của người lao động khi bị giảm hoặc mất thu nhập do ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp, hết tuổi lao động.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm xã hội bắt buộc là loại hình do Nhà nước tổ chức mà",
+      "options": [
+        {
+          "key": "A",
+          "text": "người lao động và người sử dụng lao động đều phải tham gia."
+        },
+        {
+          "key": "B",
+          "text": "chỉ người lao động tự nguyện tham gia."
+        },
+        {
+          "key": "C",
+          "text": "chỉ người sử dụng lao động phải tham gia."
+        },
+        {
+          "key": "D",
+          "text": "mọi công dân đều có thể lựa chọn mức đóng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm xã hội bắt buộc là loại hình do Nhà nước tổ chức mà người lao động và người sử dụng lao động đều phải tham gia.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm của bảo hiểm xã hội tự nguyện là",
+      "options": [
+        {
+          "key": "A",
+          "text": "người tham gia được lựa chọn mức đóng, phương thức đóng phù hợp với thu nhập và được hưởng chế độ hưu trí, tử tuất."
+        },
+        {
+          "key": "B",
+          "text": "chỉ áp dụng bắt buộc đối với người lao động trong doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "do doanh nghiệp bảo hiểm kinh doanh vì mục tiêu lợi nhuận."
+        },
+        {
+          "key": "D",
+          "text": "không có sự hỗ trợ nào của Nhà nước."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm xã hội tự nguyện do Nhà nước tổ chức; người tham gia lựa chọn mức đóng, phương thức đóng phù hợp thu nhập, được Nhà nước hỗ trợ tiền đóng và hưởng chế độ hưu trí, tử tuất.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm y tế là loại hình bảo hiểm thuộc lĩnh vực",
+      "options": [
+        {
+          "key": "A",
+          "text": "chăm sóc sức khoẻ cộng đồng do Nhà nước thực hiện; người tham gia được chi trả một phần hoặc toàn bộ chi phí khám bệnh, điều trị, phục hồi sức khoẻ."
+        },
+        {
+          "key": "B",
+          "text": "bảo vệ tài sản của doanh nghiệp trước thiên tai."
+        },
+        {
+          "key": "C",
+          "text": "bảo đảm thu nhập khi người lao động mất việc làm."
+        },
+        {
+          "key": "D",
+          "text": "bồi thường thiệt hại do tai nạn giao thông của chủ xe."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm y tế thuộc lĩnh vực chăm sóc sức khoẻ cộng đồng do Nhà nước thực hiện; người tham gia được chi trả một phần hoặc toàn bộ chi phí khám bệnh, điều trị, phục hồi sức khoẻ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm y tế bắt buộc được áp dụng đối với",
+      "options": [
+        {
+          "key": "A",
+          "text": "các đối tượng theo quy định của Luật Bảo hiểm y tế, do Nhà nước tổ chức thực hiện, không vì mục đích lợi nhuận."
+        },
+        {
+          "key": "B",
+          "text": "những người có nhu cầu mua bảo hiểm của công ty tư nhân."
+        },
+        {
+          "key": "C",
+          "text": "chỉ cán bộ, công chức nhà nước."
+        },
+        {
+          "key": "D",
+          "text": "chỉ học sinh, sinh viên."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm y tế bắt buộc áp dụng với các đối tượng theo Luật Bảo hiểm y tế, do Nhà nước tổ chức, không vì mục đích lợi nhuận.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm y tế tự nguyện là hình thức bảo hiểm",
+      "options": [
+        {
+          "key": "A",
+          "text": "do các công ty bảo hiểm cung cấp, áp dụng với người không thuộc đối tượng tham gia bảo hiểm y tế bắt buộc."
+        },
+        {
+          "key": "B",
+          "text": "do Nhà nước tổ chức cho mọi công dân."
+        },
+        {
+          "key": "C",
+          "text": "bắt buộc đối với người lao động trong doanh nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "không cần kí kết hợp đồng bảo hiểm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm y tế tự nguyện do các công ty bảo hiểm cung cấp, áp dụng với người không thuộc đối tượng tham gia bảo hiểm y tế bắt buộc.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm thất nghiệp là sự bảo đảm",
+      "options": [
+        {
+          "key": "A",
+          "text": "bù đắp một phần thu nhập, hỗ trợ học nghề, duy trì và tìm kiếm việc làm cho người lao động khi bị mất việc làm."
+        },
+        {
+          "key": "B",
+          "text": "chi trả chi phí khám chữa bệnh cho người lao động."
+        },
+        {
+          "key": "C",
+          "text": "bồi thường thiệt hại tài sản của doanh nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "trợ cấp cho người lao động khi hết tuổi lao động."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm thất nghiệp bù đắp một phần thu nhập, hỗ trợ học nghề, duy trì và tìm kiếm việc làm cho người lao động khi bị mất việc làm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Các loại hình bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp có đặc điểm chung là",
+      "options": [
+        {
+          "key": "A",
+          "text": "do Nhà nước tổ chức, mang tính an sinh xã hội."
+        },
+        {
+          "key": "B",
+          "text": "do doanh nghiệp bảo hiểm kinh doanh vì lợi nhuận."
+        },
+        {
+          "key": "C",
+          "text": "chỉ áp dụng cho người nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "hoàn toàn tự nguyện, không có loại bắt buộc."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp do Nhà nước tổ chức, gắn với an sinh xã hội; trong đó có loại bắt buộc và tự nguyện.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm thương mại là hoạt động của tổ chức bảo hiểm",
+      "options": [
+        {
+          "key": "A",
+          "text": "chấp nhận rủi ro của người được bảo hiểm trên cơ sở bên mua đóng phí để được bồi thường, trả tiền bảo hiểm theo hợp đồng."
+        },
+        {
+          "key": "B",
+          "text": "do Nhà nước tổ chức, không vì mục đích lợi nhuận."
+        },
+        {
+          "key": "C",
+          "text": "chỉ áp dụng bắt buộc với mọi công dân."
+        },
+        {
+          "key": "D",
+          "text": "không cần kí kết hợp đồng bảo hiểm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm thương mại là hoạt động của tổ chức bảo hiểm chấp nhận rủi ro của người được bảo hiểm trên cơ sở bên mua đóng phí để được bồi thường, trả tiền bảo hiểm theo hợp đồng đã kí kết.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm tài sản là hình thức bảo hiểm có đối tượng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tài sản, nhằm bồi thường thiệt hại khi xảy ra rủi ro như mất cắp, cháy nổ, đâm va, hỏng hóc do thiên tai."
+        },
+        {
+          "key": "B",
+          "text": "sức khoẻ, thân thể và tính mạng con người."
+        },
+        {
+          "key": "C",
+          "text": "trách nhiệm bồi thường của chủ xe cơ giới."
+        },
+        {
+          "key": "D",
+          "text": "thu nhập của người lao động khi mất việc."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm tài sản có đối tượng là tài sản, nhằm bồi thường thiệt hại khi rủi ro gây tổn thất như mất cắp, cháy nổ, đâm va, hỏng hóc do thiên tai.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm con người có đối tượng bảo hiểm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sức khoẻ, thân thể và tính mạng của con người."
+        },
+        {
+          "key": "B",
+          "text": "nhà xưởng, máy móc của doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "hàng hoá vận chuyển đường biển."
+        },
+        {
+          "key": "D",
+          "text": "trách nhiệm dân sự của chủ phương tiện."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm con người có đối tượng là sức khoẻ, thân thể và tính mạng của con người như ốm đau, bệnh tật, tai nạn, thương tật, bệnh hiểm nghèo.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm trách nhiệm dân sự thường được thực hiện dưới hình thức bắt buộc như",
+      "options": [
+        {
+          "key": "A",
+          "text": "bảo hiểm xe cơ giới, bảo hiểm thân tàu, bảo hiểm hàng không, bảo hiểm cháy nổ."
+        },
+        {
+          "key": "B",
+          "text": "bảo hiểm học sinh tự nguyện."
+        },
+        {
+          "key": "C",
+          "text": "bảo hiểm nhân thọ do cá nhân lựa chọn."
+        },
+        {
+          "key": "D",
+          "text": "bảo hiểm y tế tự nguyện."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm trách nhiệm dân sự thường thực hiện dưới hình thức bắt buộc như bảo hiểm xe cơ giới, bảo hiểm thân tàu, bảo hiểm hàng hoá, bảo hiểm hàng không, bảo hiểm cháy nổ, bảo hiểm nông nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với cá nhân và gia đình, bảo hiểm giúp",
+      "options": [
+        {
+          "key": "A",
+          "text": "khắc phục khó khăn về tài chính, tránh rơi vào tình trạng kiệt quệ về tinh thần và vật chất khi gặp rủi ro."
+        },
+        {
+          "key": "B",
+          "text": "tăng thêm tổn thất khi rủi ro xảy ra."
+        },
+        {
+          "key": "C",
+          "text": "thay thế hoàn toàn thu nhập từ lao động."
+        },
+        {
+          "key": "D",
+          "text": "loại bỏ mọi rủi ro trong cuộc sống."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm giúp cá nhân, gia đình khắc phục khó khăn tài chính, tránh kiệt quệ về tinh thần và vật chất khi gặp rủi ro.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm có vai trò tập trung và điều tiết nguồn vốn vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "doanh nghiệp bảo hiểm thu phí trước, chi trả sau nên quỹ bảo hiểm phần lớn là nhàn rỗi, có thể đầu tư cho nền kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước bắt buộc doanh nghiệp bảo hiểm nộp toàn bộ phí vào ngân sách."
+        },
+        {
+          "key": "C",
+          "text": "bảo hiểm chỉ hoạt động trong lĩnh vực tín dụng ngân hàng."
+        },
+        {
+          "key": "D",
+          "text": "người tham gia bảo hiểm không cần đóng phí."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Do thu phí trước, chi trả sau nên quỹ bảo hiểm phần lớn là nhàn rỗi; doanh nghiệp bảo hiểm có thể dùng để đầu tư, tạo nguồn vốn xoay vòng cho nền kinh tế.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hội nhập kinh tế quốc tế, bảo hiểm có vai trò",
+      "options": [
+        {
+          "key": "A",
+          "text": "hỗ trợ đàm phán, thực hiện cam kết hội nhập và thúc đẩy hoạt động kinh doanh, xuất khẩu hàng hoá."
+        },
+        {
+          "key": "B",
+          "text": "hạn chế xuất khẩu hàng hoá ra nước ngoài."
+        },
+        {
+          "key": "C",
+          "text": "thay thế các cam kết quốc tế của Việt Nam."
+        },
+        {
+          "key": "D",
+          "text": "chỉ phục vụ hoạt động du lịch."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm hỗ trợ đàm phán, thực hiện cam kết hội nhập; thúc đẩy kinh doanh, thương mại và xuất khẩu hàng hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Thị trường bảo hiểm góp phần giải quyết việc làm thông qua",
+      "options": [
+        {
+          "key": "A",
+          "text": "hệ thống đại lí, chi nhánh bảo hiểm thu hút một lượng lớn lao động."
+        },
+        {
+          "key": "B",
+          "text": "tự động tạo việc làm cho mọi người thất nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "thay thế các doanh nghiệp sản xuất trong nước."
+        },
+        {
+          "key": "D",
+          "text": "giảm nhu cầu tuyển dụng lao động của nền kinh tế."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Các công ty bảo hiểm thu hút lượng lớn lao động cho hệ thống đại lí, chi nhánh, góp phần giảm thiểu thất nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo hiểm góp phần hình thành thói quen tiết kiệm vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "tạo ra mô hình tiết kiệm linh hoạt, giúp cá nhân, hộ gia đình, doanh nghiệp có ý thức dành một phần thu nhập cho tương lai."
+        },
+        {
+          "key": "B",
+          "text": "buộc mọi người phải gửi tiền vào ngân sách nhà nước."
+        },
+        {
+          "key": "C",
+          "text": "khuyến khích tiêu dùng toàn bộ thu nhập hiện có."
+        },
+        {
+          "key": "D",
+          "text": "loại bỏ nhu cầu dự trữ tài chính của cá nhân."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm tạo ra mô hình tiết kiệm linh hoạt, tác động đến tư duy của cá nhân, hộ gia đình, doanh nghiệp, hình thành ý thức tiết kiệm một phần thu nhập.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhờ có các doanh nghiệp bảo hiểm, ngân sách nhà nước",
+      "options": [
+        {
+          "key": "A",
+          "text": "giảm đáng kể chi cho các khoản trợ cấp tai nạn, thiên tai và tăng thêm thu từ thuế của doanh nghiệp bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "không còn phải chi cho an sinh xã hội."
+        },
+        {
+          "key": "C",
+          "text": "tăng chi cho trợ cấp thiên tai."
+        },
+        {
+          "key": "D",
+          "text": "mất đi nguồn thu từ thuế giá trị gia tăng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhờ doanh nghiệp bảo hiểm, ngân sách giảm chi cho trợ cấp tai nạn, thiên tai và tăng thu từ thuế thu nhập cá nhân, thuế giá trị gia tăng của doanh nghiệp bảo hiểm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "SINGLE_CHOICE",
+      "content": "Trách nhiệm của công dân về bảo hiểm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tìm hiểu, tuân thủ pháp luật về bảo hiểm; đóng phí đúng quy định, cung cấp thông tin trung thực và tham gia đầy đủ các loại bảo hiểm bắt buộc."
+        },
+        {
+          "key": "B",
+          "text": "chỉ tham gia bảo hiểm khi bị bệnh."
+        },
+        {
+          "key": "C",
+          "text": "cung cấp thông tin không trung thực để được chi trả cao hơn."
+        },
+        {
+          "key": "D",
+          "text": "trốn đóng bảo hiểm để tăng thu nhập trước mắt."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Công dân cần tìm hiểu và tuân thủ pháp luật về bảo hiểm, đóng phí đúng nghĩa vụ, cung cấp thông tin trung thực, tham gia đầy đủ bảo hiểm bắt buộc và chủ động tham gia bảo hiểm tự nguyện phù hợp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về bảo hiểm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người tham gia bảo hiểm nộp phí để tổ chức bảo hiểm lập quỹ dự trữ."
+        },
+        {
+          "key": "B",
+          "text": "Bảo hiểm là một dịch vụ tài chính."
+        },
+        {
+          "key": "C",
+          "text": "Khi xảy ra rủi ro trong phạm vi bảo hiểm, tổ chức bảo hiểm bồi thường, trợ cấp hoặc chi trả."
+        },
+        {
+          "key": "D",
+          "text": "Bảo hiểm chỉ đem lại lợi ích cho tổ chức bảo hiểm, không cho người tham gia."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bảo hiểm là dịch vụ tài chính; người tham gia nộp phí để lập quỹ dự trữ và được bồi thường, trợ cấp hoặc chi trả khi rủi ro xảy ra trong phạm vi bảo hiểm. Bảo hiểm đem lại lợi ích cho cả người tham gia.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo hiểm xã hội bắt buộc: người lao động và người sử dụng lao động đều phải tham gia."
+        },
+        {
+          "key": "B",
+          "text": "Bảo hiểm xã hội tự nguyện: người tham gia lựa chọn mức đóng, phương thức đóng phù hợp thu nhập."
+        },
+        {
+          "key": "C",
+          "text": "Bảo hiểm y tế bắt buộc do Nhà nước tổ chức, không vì mục đích lợi nhuận."
+        },
+        {
+          "key": "D",
+          "text": "Bảo hiểm thất nghiệp chỉ chi trả cho người lao động khi bị ốm đau."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bảo hiểm xã hội bắt buộc do người lao động và người sử dụng lao động cùng tham gia; bảo hiểm xã hội tự nguyện cho phép lựa chọn mức đóng; bảo hiểm y tế bắt buộc do Nhà nước tổ chức. Bảo hiểm thất nghiệp chi trả khi người lao động mất việc làm, không phải khi ốm đau.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về bảo hiểm thương mại?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Do doanh nghiệp bảo hiểm kinh doanh vì mục tiêu lợi nhuận."
+        },
+        {
+          "key": "B",
+          "text": "Khách hàng tự nguyện mua bảo hiểm theo hợp đồng."
+        },
+        {
+          "key": "C",
+          "text": "Bảo hiểm tài sản bồi thường thiệt hại tài sản do cháy nổ, thiên tai, mất cắp."
+        },
+        {
+          "key": "D",
+          "text": "Bảo hiểm con người có đối tượng là tài sản của doanh nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bảo hiểm thương mại do doanh nghiệp bảo hiểm kinh doanh vì lợi nhuận, khách hàng tự nguyện mua theo hợp đồng. Bảo hiểm tài sản bảo hiểm tài sản; bảo hiểm con người có đối tượng là sức khoẻ, thân thể, tính mạng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-03-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bao-hiem",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về vai trò của bảo hiểm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ổn định tài chính cho cá nhân, tổ chức khi gặp rủi ro."
+        },
+        {
+          "key": "B",
+          "text": "Tập trung và điều tiết nguồn vốn."
+        },
+        {
+          "key": "C",
+          "text": "Góp phần ổn định ngân sách nhà nước."
+        },
+        {
+          "key": "D",
+          "text": "Làm tăng gánh nặng trợ cấp tai nạn, thiên tai cho ngân sách nhà nước."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bảo hiểm ổn định tài chính cho cá nhân, tổ chức khi gặp rủi ro; tập trung, điều tiết nguồn vốn; góp phần ổn định ngân sách nhà nước. Nhờ bảo hiểm, chi ngân sách cho trợ cấp tai nạn, thiên tai giảm chứ không tăng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai"
+      ]
+    }
+  ]
+}

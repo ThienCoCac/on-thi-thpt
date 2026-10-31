@@ -1,0 +1,928 @@
+{
+  "id": "de-ktpl-12-so-01",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 số 01 – Tăng trưởng và phát triển kinh tế",
+  "slug": "de-ktpl-12-so-01",
+  "description": "Đề ôn tập bám sát Bài 1 Giáo dục Kinh tế và Pháp luật 12: GDP, GNI, GDP/người, HDI, hệ số Gini, chuyển dịch cơ cấu kinh tế và phát triển bền vững. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-10-31T08:00:00.000Z",
+  "updatedAt": "2026-10-31T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "ktpl12-01-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Tăng trưởng kinh tế là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự tăng lên về thu nhập hay tổng giá trị hàng hoá, dịch vụ mà nền kinh tế tạo ra trong một thời kì nhất định."
+        },
+        {
+          "key": "B",
+          "text": "Sự thay đổi cơ cấu ngành và bảo đảm công bằng xã hội trong một thời kì."
+        },
+        {
+          "key": "C",
+          "text": "Sự gia tăng dân số và số lượng lao động của một quốc gia."
+        },
+        {
+          "key": "D",
+          "text": "Sự mở rộng quan hệ thương mại giữa các quốc gia trong khu vực."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tăng trưởng kinh tế là sự tăng lên về thu nhập hay tổng giá trị hàng hoá, dịch vụ mà nền kinh tế tạo ra trong một thời kì nhất định.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Tăng trưởng kinh tế được đo bằng chỉ tiêu nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "GDP và GNI."
+        },
+        {
+          "key": "B",
+          "text": "HDI và hệ số Gini."
+        },
+        {
+          "key": "C",
+          "text": "Tuổi thọ trung bình và chỉ số giáo dục."
+        },
+        {
+          "key": "D",
+          "text": "Tỉ lệ nghèo đa chiều và chỉ số thu nhập."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tăng trưởng kinh tế được đo bằng mức tăng GDP hoặc GNI trong một thời gian nhất định, cả về quy mô và tốc độ gia tăng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "GDP là tổng giá trị bằng tiền của",
+      "options": [
+        {
+          "key": "A",
+          "text": "tất cả hàng hoá và dịch vụ cuối cùng được sản xuất ra trên lãnh thổ một nước trong một thời gian nhất định."
+        },
+        {
+          "key": "B",
+          "text": "hàng hoá và dịch vụ do công dân một nước tạo ra ở trong và ngoài lãnh thổ."
+        },
+        {
+          "key": "C",
+          "text": "hàng hoá trung gian được sử dụng để sản xuất ra sản phẩm cuối cùng."
+        },
+        {
+          "key": "D",
+          "text": "thu nhập bình quân của mỗi người dân trong một năm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "GDP tính theo lãnh thổ: mọi hàng hoá, dịch vụ cuối cùng sản xuất trên lãnh thổ một nước trong một năm, không phân biệt chủ thể trong nước hay nước ngoài.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "GNI là tổng thu nhập từ hàng hoá, dịch vụ cuối cùng do",
+      "options": [
+        {
+          "key": "A",
+          "text": "công dân một quốc gia tạo ra, gồm cả ở trong và ngoài lãnh thổ, trong một thời gian nhất định."
+        },
+        {
+          "key": "B",
+          "text": "mọi chủ thể sản xuất trên lãnh thổ quốc gia, kể cả người nước ngoài."
+        },
+        {
+          "key": "C",
+          "text": "riêng khu vực kinh tế nhà nước tạo ra trong một năm."
+        },
+        {
+          "key": "D",
+          "text": "ngân sách nhà nước thu được từ thuế và phí."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "GNI tính theo chủ thể công dân: thu nhập do công dân quốc gia đó tạo ra ở trong và ngoài lãnh thổ trong một thời gian nhất định.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Cách tính GDP/người là",
+      "options": [
+        {
+          "key": "A",
+          "text": "lấy GDP chia cho dân số trung bình của năm tương ứng."
+        },
+        {
+          "key": "B",
+          "text": "lấy GNI chia cho tổng số lao động đang làm việc."
+        },
+        {
+          "key": "C",
+          "text": "lấy GDP cộng với GNI rồi chia cho dân số."
+        },
+        {
+          "key": "D",
+          "text": "lấy GDP trừ đi GNI của năm trước."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "GDP/người bằng GDP chia cho dân số trung bình của năm tương ứng, phản ánh mức sống người dân.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "GDP/người chưa phản ánh đầy đủ chất lượng cuộc sống của người dân vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "còn phụ thuộc vào cách phân phối thu nhập và khả năng tiếp cận hàng hoá, dịch vụ."
+        },
+        {
+          "key": "B",
+          "text": "không tính đến hàng hoá và dịch vụ cuối cùng."
+        },
+        {
+          "key": "C",
+          "text": "chỉ tính hoạt động của khu vực dịch vụ."
+        },
+        {
+          "key": "D",
+          "text": "không tính dân số của quốc gia."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "GDP/người là chỉ tiêu bình quân nên chưa phản ánh đầy đủ chất lượng cuộc sống, vì còn phụ thuộc vào phân phối thu nhập và khả năng tiếp cận hàng hoá, dịch vụ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Một doanh nghiệp có vốn đầu tư nước ngoài sản xuất hàng hoá tại Việt Nam. Giá trị hàng hoá đó được tính vào",
+      "options": [
+        {
+          "key": "A",
+          "text": "GDP của Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "GNI của Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "GNI của nước chủ đầu tư."
+        },
+        {
+          "key": "D",
+          "text": "GDP của cả Việt Nam và nước chủ đầu tư."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "GDP tính theo lãnh thổ nên mọi hàng hoá, dịch vụ sản xuất trên lãnh thổ Việt Nam đều được tính vào GDP của Việt Nam, kể cả do doanh nghiệp nước ngoài sản xuất.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với kinh tế – xã hội, tăng trưởng kinh tế có vai trò nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là điều kiện cần thiết để khắc phục đói nghèo, lạc hậu, giải quyết việc làm và nâng cao phúc lợi xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Là yếu tố duy nhất bảo đảm công bằng trong phân phối thu nhập."
+        },
+        {
+          "key": "C",
+          "text": "Thay thế hoàn toàn nhu cầu phát triển văn hoá, giáo dục."
+        },
+        {
+          "key": "D",
+          "text": "Bảo đảm chắc chắn mọi người dân có mức sống như nhau."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tăng trưởng kinh tế tạo điều kiện giải quyết việc làm, tăng thu nhập, nâng cao phúc lợi xã hội và phát triển văn hoá, giáo dục, thể thao.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với quốc gia, tăng trưởng kinh tế tạo tiền đề vật chất để",
+      "options": [
+        {
+          "key": "A",
+          "text": "củng cố an ninh, quốc phòng, nâng cao vai trò quản lí của Nhà nước và vị thế quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "thay thế hệ thống pháp luật và bộ máy quản lí nhà nước."
+        },
+        {
+          "key": "C",
+          "text": "giảm bớt nhu cầu hợp tác quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "hạn chế việc mở rộng kết cấu hạ tầng kinh tế – xã hội."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tăng trưởng kinh tế là tiền đề vật chất để củng cố an ninh, quốc phòng, nâng cao vai trò quản lí của Nhà nước và vị thế của quốc gia trên trường quốc tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhìn từ bản chất, bề ngoài tăng trưởng kinh tế là sự gia tăng về lượng của GDP, GNI, còn bên trong là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sự lớn lên của các nguồn lực, tạo cơ sở vật chất cho sức mạnh và sự thịnh vượng của quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "sự thay đổi toàn diện về cơ cấu ngành và công bằng xã hội."
+        },
+        {
+          "key": "C",
+          "text": "sự gia tăng dân số và nhu cầu tiêu dùng của xã hội."
+        },
+        {
+          "key": "D",
+          "text": "sự thu hẹp vai trò của Nhà nước trong nền kinh tế."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Về bản chất, tăng trưởng kinh tế bên trong là sự lớn lên của các nguồn lực, là cơ sở vật chất cho sức mạnh, sự thịnh vượng của quốc gia.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát triển kinh tế là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sự tăng trưởng kinh tế gắn liền với chuyển dịch cơ cấu kinh tế và bảo đảm tiến bộ xã hội."
+        },
+        {
+          "key": "B",
+          "text": "sự tăng lên của GDP trong một năm mà không cần thay đổi cơ cấu kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "sự gia tăng dân số gắn với quá trình mở rộng đô thị."
+        },
+        {
+          "key": "D",
+          "text": "sự tăng trưởng của kim ngạch xuất khẩu và nhập khẩu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phát triển kinh tế là sự tăng trưởng kinh tế gắn liền với chuyển dịch cơ cấu kinh tế và bảo đảm tiến bộ xã hội.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Các chỉ tiêu đánh giá phát triển kinh tế được chia thành ba nhóm nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ tiêu tăng trưởng; chỉ tiêu chuyển dịch cơ cấu kinh tế; chỉ tiêu về tiến bộ xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ tiêu dân số; chỉ tiêu việc làm; chỉ tiêu xuất nhập khẩu."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ tiêu ngân sách; chỉ tiêu tiền tệ; chỉ tiêu đầu tư công."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ tiêu nông nghiệp; chỉ tiêu công nghiệp; chỉ tiêu dịch vụ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ba nhóm chỉ tiêu phát triển kinh tế gồm: tăng trưởng, chuyển dịch cơ cấu kinh tế và tiến bộ xã hội.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Cơ cấu kinh tế là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tổng thể các mối quan hệ giữa các ngành, các lĩnh vực, các bộ phận hợp thành của nền kinh tế quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "tỉ lệ dân số sống ở thành thị và nông thôn."
+        },
+        {
+          "key": "C",
+          "text": "tổng giá trị hàng hoá xuất khẩu của một quốc gia."
+        },
+        {
+          "key": "D",
+          "text": "số lượng doanh nghiệp thuộc các thành phần kinh tế."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cơ cấu kinh tế là tổng thể các mối quan hệ giữa các ngành, các lĩnh vực, các bộ phận hợp thành của nền kinh tế quốc gia.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong cơ cấu kinh tế, loại cơ cấu nào giữ vai trò quan trọng nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ cấu ngành (công nghiệp – nông nghiệp – dịch vụ)."
+        },
+        {
+          "key": "B",
+          "text": "Cơ cấu vùng kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Cơ cấu thành phần kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Cơ cấu lao động theo giới tính."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cơ cấu kinh tế gồm cơ cấu ngành, cơ cấu vùng kinh tế và cơ cấu thành phần kinh tế; trong đó cơ cấu ngành giữ vai trò quan trọng nhất.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Chuyển dịch cơ cấu ngành theo hướng tích cực được biểu hiện là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tỉ trọng công nghiệp, dịch vụ trong GDP tăng lên; tỉ trọng nông nghiệp giảm nhưng giá trị tuyệt đối của các ngành đều tăng."
+        },
+        {
+          "key": "B",
+          "text": "tỉ trọng nông nghiệp tăng nhanh hơn công nghiệp và dịch vụ."
+        },
+        {
+          "key": "C",
+          "text": "giá trị tuyệt đối của ngành nông nghiệp giảm dần qua các năm."
+        },
+        {
+          "key": "D",
+          "text": "công nghiệp và dịch vụ giảm tỉ trọng để tập trung cho nông nghiệp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chuyển dịch tích cực làm tỉ trọng công nghiệp, dịch vụ tăng; tỉ trọng nông nghiệp giảm nhưng giá trị tuyệt đối của các ngành đều tăng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Chỉ số phát triển con người (HDI) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "thước đo tổng hợp phản ánh sự phát triển của con người."
+        },
+        {
+          "key": "B",
+          "text": "tỉ lệ người dân có việc làm trong tổng dân số."
+        },
+        {
+          "key": "C",
+          "text": "hệ số phản ánh mức độ bất bình đẳng trong phân phối thu nhập."
+        },
+        {
+          "key": "D",
+          "text": "số năm đi học bình quân của người dân."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "HDI là thước đo tổng hợp phản ánh sự phát triển của con người, thuộc nhóm chỉ tiêu về tiến bộ xã hội.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Tuổi thọ trung bình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "số năm sống bình quân của người dân ở mỗi quốc gia từ khi sinh ra đến lúc chết."
+        },
+        {
+          "key": "B",
+          "text": "số năm đi học bình quân của một người dân."
+        },
+        {
+          "key": "C",
+          "text": "thu nhập bình quân của người dân trong một năm."
+        },
+        {
+          "key": "D",
+          "text": "số năm người dân tham gia bảo hiểm xã hội."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tuổi thọ trung bình là số năm sống bình quân của người dân ở mỗi quốc gia từ khi sinh ra đến lúc chết.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Chỉ số giáo dục được tính bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "số năm đi học bình quân và số năm đi học kì vọng."
+        },
+        {
+          "key": "B",
+          "text": "tỉ lệ dân số biết chữ và số trường học."
+        },
+        {
+          "key": "C",
+          "text": "số học sinh trên mỗi giáo viên."
+        },
+        {
+          "key": "D",
+          "text": "ngân sách nhà nước chi cho giáo dục."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chỉ số giáo dục được tính bằng số năm đi học bình quân và số năm đi học kì vọng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Tỉ lệ nghèo đa chiều phản ánh",
+      "options": [
+        {
+          "key": "A",
+          "text": "tỉ lệ người dân không được đáp ứng ở mức tối thiểu các nhu cầu cơ bản trong cuộc sống."
+        },
+        {
+          "key": "B",
+          "text": "tỉ lệ người dân có thu nhập thấp hơn mức trung bình của xã hội."
+        },
+        {
+          "key": "C",
+          "text": "số hộ gia đình không có nhà ở kiên cố."
+        },
+        {
+          "key": "D",
+          "text": "chênh lệch thu nhập giữa thành thị và nông thôn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tỉ lệ nghèo đa chiều là tỉ lệ người dân không được đáp ứng ở mức tối thiểu các nhu cầu cơ bản trong cuộc sống.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ số Gini nhận giá trị bằng 0 thể hiện",
+      "options": [
+        {
+          "key": "A",
+          "text": "bình đẳng tuyệt đối trong phân phối thu nhập."
+        },
+        {
+          "key": "B",
+          "text": "bất bình đẳng tuyệt đối trong phân phối thu nhập."
+        },
+        {
+          "key": "C",
+          "text": "mức bất bình đẳng rất cao."
+        },
+        {
+          "key": "D",
+          "text": "không có thông tin về phân phối thu nhập."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hệ số Gini nhận giá trị từ 0 đến 1; giá trị 0 thể hiện bình đẳng tuyệt đối, giá trị 1 thể hiện bất bình đẳng tuyệt đối.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phân phối thu nhập, hệ số Gini càng cao thì",
+      "options": [
+        {
+          "key": "A",
+          "text": "bất bình đẳng càng lớn."
+        },
+        {
+          "key": "B",
+          "text": "bình đẳng càng cao."
+        },
+        {
+          "key": "C",
+          "text": "mức sống người dân càng cao."
+        },
+        {
+          "key": "D",
+          "text": "tốc độ tăng trưởng càng nhanh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hệ số Gini càng cao thì mức độ bất bình đẳng trong phân phối thu nhập càng lớn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về quan hệ giữa tăng trưởng và phát triển kinh tế?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng trưởng là điều kiện, tiền đề của phát triển; phát triển tạo động lực cho tăng trưởng."
+        },
+        {
+          "key": "B",
+          "text": "Cứ có tăng trưởng kinh tế là chắc chắn có phát triển kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Phát triển kinh tế chỉ là sự gia tăng về lượng của GDP."
+        },
+        {
+          "key": "D",
+          "text": "Phạm vi của tăng trưởng rộng hơn và toàn diện hơn phát triển."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tăng trưởng là điều kiện, tiền đề của phát triển; phát triển tạo động lực cho tăng trưởng. Có tăng trưởng chưa chắc đã có phát triển; phạm vi phát triển rộng hơn, toàn diện hơn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát triển bền vững là quá trình phát triển có sự kết hợp hợp lí, hài hoà giữa",
+      "options": [
+        {
+          "key": "A",
+          "text": "phát triển kinh tế, phát triển xã hội và bảo vệ môi trường."
+        },
+        {
+          "key": "B",
+          "text": "tăng trưởng kinh tế và gia tăng dân số."
+        },
+        {
+          "key": "C",
+          "text": "công nghiệp hoá và đô thị hoá."
+        },
+        {
+          "key": "D",
+          "text": "hội nhập kinh tế và mở rộng xuất khẩu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phát triển bền vững là quá trình phát triển có sự kết hợp hợp lí, hài hoà giữa ba mặt: phát triển kinh tế – phát triển xã hội – bảo vệ môi trường.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Chủ trương của Đảng và Nhà nước ta về tăng trưởng kinh tế là",
+      "options": [
+        {
+          "key": "A",
+          "text": "duy trì tăng trưởng bền vững, không đánh đổi tăng trưởng kinh tế bằng mọi giá."
+        },
+        {
+          "key": "B",
+          "text": "ưu tiên tăng trưởng nhanh bằng mọi biện pháp, kể cả huỷ hoại môi trường."
+        },
+        {
+          "key": "C",
+          "text": "chỉ tập trung vào tăng trưởng, tạm gác các mục tiêu xã hội."
+        },
+        {
+          "key": "D",
+          "text": "hạn chế tăng trưởng để bảo vệ môi trường."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đảng và Nhà nước luôn chú trọng duy trì tăng trưởng bền vững, không đánh đổi tăng trưởng kinh tế bằng mọi giá.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trắc nghiệm"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho thông tin: GDP phản ánh giá trị hàng hoá, dịch vụ cuối cùng được sản xuất trên lãnh thổ một nước; GNI phản ánh thu nhập do công dân một nước tạo ra ở trong và ngoài lãnh thổ. Những nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "GDP tính cả phần do doanh nghiệp nước ngoài sản xuất trên lãnh thổ Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "GNI không tính thu nhập của công dân Việt Nam làm việc ở nước ngoài."
+        },
+        {
+          "key": "C",
+          "text": "GNI phản ánh đầy đủ hơn sự tăng trưởng quy mô nền kinh tế so với GDP."
+        },
+        {
+          "key": "D",
+          "text": "GDP/người phản ánh đầy đủ chất lượng cuộc sống của người dân."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "GDP tính theo lãnh thổ nên gồm cả phần do doanh nghiệp nước ngoài sản xuất tại Việt Nam. GNI tính theo công dân, gồm cả thu nhập ở nước ngoài nên phản ánh đầy đủ hơn quy mô nền kinh tế so với GDP. GDP/người chưa phản ánh đầy đủ chất lượng cuộc sống.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các chỉ tiêu đánh giá phát triển kinh tế?",
+      "options": [
+        {
+          "key": "A",
+          "text": "HDI là thước đo tổng hợp phản ánh sự phát triển của con người."
+        },
+        {
+          "key": "B",
+          "text": "Hệ số Gini nhận giá trị từ 0 đến 1."
+        },
+        {
+          "key": "C",
+          "text": "Hệ số Gini càng cao thì bất bình đẳng trong phân phối thu nhập càng lớn."
+        },
+        {
+          "key": "D",
+          "text": "Tuổi thọ trung bình được tính bằng GDP chia cho dân số trung bình."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "HDI là thước đo tổng hợp phát triển con người; hệ số Gini nhận giá trị từ 0 đến 1 và càng cao thì bất bình đẳng càng lớn. Tuổi thọ trung bình là số năm sống bình quân, không phải GDP chia dân số.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về chuyển dịch cơ cấu kinh tế?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ cấu ngành giữ vai trò quan trọng nhất trong cơ cấu kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Chuyển dịch tích cực làm tăng tỉ trọng công nghiệp và dịch vụ trong GDP."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển dịch tích cực làm giá trị tuyệt đối của ngành nông nghiệp giảm xuống."
+        },
+        {
+          "key": "D",
+          "text": "Cơ cấu kinh tế chỉ bao gồm cơ cấu ngành."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "Cơ cấu ngành giữ vai trò quan trọng nhất; chuyển dịch tích cực làm tăng tỉ trọng công nghiệp, dịch vụ. Khi chuyển dịch, giá trị tuyệt đối của nông nghiệp vẫn tăng, chỉ giảm về tỉ trọng; cơ cấu kinh tế còn gồm cơ cấu vùng và cơ cấu thành phần kinh tế.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-01-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-tang-truong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về phát triển bền vững?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là sự kết hợp hài hoà giữa phát triển kinh tế, phát triển xã hội và bảo vệ môi trường."
+        },
+        {
+          "key": "B",
+          "text": "Tăng trưởng kinh tế là điều kiện tiên quyết để thực hiện phát triển bền vững."
+        },
+        {
+          "key": "C",
+          "text": "Có thể đánh đổi môi trường để đạt tốc độ tăng trưởng cao."
+        },
+        {
+          "key": "D",
+          "text": "Năm 2015, Liên hợp quốc thông qua Chương trình nghị sự 2030 về phát triển bền vững."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Phát triển bền vững kết hợp hài hoà kinh tế – xã hội – môi trường; tăng trưởng là điều kiện tiên quyết. Năm 2015, Liên hợp quốc thông qua Chương trình nghị sự 2030. Không thể đánh đổi môi trường để tăng trưởng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai"
+      ]
+    }
+  ]
+}
