@@ -16,6 +16,7 @@ import {
   Users,
 } from 'lucide-react';
 import { Breadcrumbs } from '@/components/layout/breadcrumbs';
+import { ExamMistakeReview } from '@/components/exams/exam-mistake-review';
 import { JsonLd } from '@/components/seo/json-ld';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -321,7 +322,7 @@ export default function ExamDetailPage({ params }: ExamDetailPageProps) {
           ) : null}
         </div>
 
-        <aside className="lg:sticky lg:top-20">
+        <aside className="space-y-4 lg:sticky lg:top-20">
           <Card>
             <CardHeader>
               <CardDescription>Thời gian làm bài</CardDescription>
@@ -395,6 +396,8 @@ export default function ExamDetailPage({ params }: ExamDetailPageProps) {
               Kết quả, đáp án đúng và lời giải theo hướng tư duy sẽ có ngay sau khi nộp bài.
             </CardFooter>
           </Card>
+
+          <ExamMistakeReview examSlug={exam.slug} examTitle={exam.title} />
         </aside>
       </div>
     </div>

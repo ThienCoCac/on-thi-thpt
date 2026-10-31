@@ -22,19 +22,16 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 import type { BankQuestion, PracticeSubject, RunnerQuestion } from '@/lib/content-types';
-import { loadMistakes, recordPracticeResult } from '@/lib/progress';
+import { pickFreshQuestions } from '@/lib/practice-picker';
+import {
+  loadMistakes,
+  loadSeenCounts,
+  markQuestionsSeen,
+  recordPracticeResult,
+} from '@/lib/progress';
 import { cn } from '@/lib/utils';
 
 const COUNT_OPTIONS = [10, 20, 30, 50];
-
-function shuffle<T>(items: T[]): T[] {
-  const copy = [...items];
-  for (let index = copy.length - 1; index > 0; index -= 1) {
-    const target = Math.floor(Math.random() * (index + 1));
-    [copy[index], copy[target]] = [copy[target], copy[index]];
-  }
-  return copy;
-}
 
 interface PracticeStudioProps {
   catalog: PracticeSubject[];
@@ -135,13 +132,14 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
       const pool = bank.filter(
         (question) => question.subjectSlug === subject.slug && topicIds.has(question.topicId),
       );
-      const picked = shuffle(pool).slice(0, Math.min(count, pool.length));
+      const picked = pickFreshQuestions(pool, count, loadSeenCounts());
 
       if (picked.length === 0) {
         setError('Không tìm thấy câu hỏi phù hợp. Hãy chọn thêm chuyên đề.');
         return;
       }
 
+      markQuestionsSeen(picked.map((question) => question.id));
       setSessionTitle(`Luyện tập · ${subject.name}`);
       setSession(picked);
     } catch {
@@ -176,6 +174,7 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
                 subjectSlug: question?.subjectSlug ?? subject.slug,
                 subjectName: question?.subjectName ?? subject.name,
                 sourceTitle: question?.examTitle ?? '',
+                examSlug: question?.examSlug ?? null,
               };
             },
           })

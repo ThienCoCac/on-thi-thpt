@@ -334,6 +334,7 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
           subjectSlug: exam.subjectSlug,
           subjectName: exam.subjectName,
           sourceTitle: exam.title,
+          examSlug: exam.slug,
         })),
       );
       noteMastered(correctItems.map((item) => item.question.id));
@@ -567,6 +568,7 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
               subjectSlug: exam.subjectSlug,
               subjectName: exam.subjectName,
               sourceTitle: exam.title,
+              examSlug: exam.slug,
             }),
           })
         }

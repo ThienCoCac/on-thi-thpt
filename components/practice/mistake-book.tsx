@@ -9,7 +9,6 @@ import {
   Loader2,
   NotebookPen,
   Play,
-  RotateCcw,
   Trash2,
 } from 'lucide-react';
 import { PracticeRunner } from '@/components/practice/practice-runner';
@@ -25,14 +24,19 @@ import {
 import type { BankQuestion } from '@/lib/content-types';
 import { formatDate, toExcerpt } from '@/lib/format';
 import { getCorrectOptionKeys } from '@/lib/grading';
+import { pickFreshQuestions } from '@/lib/practice-picker';
 import {
   clearMistakes,
   loadMistakes,
+  loadSeenCounts,
+  markQuestionsSeen,
   recordPracticeResult,
   removeMistake,
 } from '@/lib/progress';
 import type { MistakeEntry } from '@/lib/progress';
 import { cn } from '@/lib/utils';
+
+const COUNT_OPTIONS = [10, 20, 50];
 
 interface JoinedMistake extends MistakeEntry {
   question: BankQuestion;
@@ -44,20 +48,12 @@ interface PracticeSession {
   subjectName: string;
 }
 
-function shuffle<T>(items: T[]): T[] {
-  const copy = [...items];
-  for (let index = copy.length - 1; index > 0; index -= 1) {
-    const target = Math.floor(Math.random() * (index + 1));
-    [copy[index], copy[target]] = [copy[target], copy[index]];
-  }
-  return copy;
-}
-
 export function MistakeBook() {
   const [status, setStatus] = useState<'loading' | 'ready' | 'error'>('loading');
   const [entries, setEntries] = useState<JoinedMistake[]>([]);
   const [filter, setFilter] = useState('');
   const [confirmClear, setConfirmClear] = useState(false);
+  const [count, setCount] = useState<number | 'all'>(10);
   const [session, setSession] = useState<PracticeSession | null>(null);
   const [reloadToken, setReloadToken] = useState(0);
   const bankRef = useRef<Map<string, BankQuestion>>(new Map());
@@ -122,13 +118,21 @@ export function MistakeBook() {
   const visible = filter
     ? entries.filter((entry) => entry.subjectSlug === filter)
     : entries;
+  const effective = count === 'all' ? visible.length : Math.min(count, visible.length);
 
-  function startSession(selected: JoinedMistake[]) {
-    if (selected.length === 0) {
+  function startSession(selected: JoinedMistake[], limit: number) {
+    const picked = pickFreshQuestions(
+      selected.map((entry) => entry.question),
+      limit,
+      loadSeenCounts(),
+    );
+
+    if (picked.length === 0) {
       return;
     }
 
-    const questions = shuffle(selected.map((entry) => entry.question));
+    markQuestionsSeen(picked.map((question) => question.id));
+
     const uniqueSubjects = new Map<string, string>();
     for (const entry of selected) {
       uniqueSubjects.set(entry.subjectSlug, entry.subjectName);
@@ -137,7 +141,7 @@ export function MistakeBook() {
       uniqueSubjects.size === 1 ? selected[0] : null;
 
     setSession({
-      questions,
+      questions: picked,
       subjectSlug: onlySubject ? onlySubject.subjectSlug : 'hon-hop',
       subjectName: onlySubject ? onlySubject.subjectName : 'Nhiều môn',
     });
@@ -175,6 +179,7 @@ export function MistakeBook() {
                 subjectSlug: question?.subjectSlug ?? session.subjectSlug,
                 subjectName: question?.subjectName ?? session.subjectName,
                 sourceTitle: question?.examTitle ?? '',
+                examSlug: question?.examSlug ?? null,
               };
             },
           })
@@ -241,25 +246,16 @@ export function MistakeBook() {
   return (
     <div className="space-y-5">
       <Card>
-        <CardContent className="flex flex-wrap items-center justify-between gap-4 p-5">
-          <div>
-            <p className="text-sm font-semibold">
-              {entries.length} câu đang cần ôn
-            </p>
-            <p className="mt-0.5 text-xs text-muted-foreground">
-              Trả lời đúng trong phiên luyện tập, câu hỏi sẽ tự động được gỡ khỏi sổ.
-            </p>
-          </div>
-          <div className="flex flex-wrap gap-2">
-            <Button type="button" onClick={() => startSession(visible)}>
-              <RotateCcw aria-hidden="true" />
-              Luyện {filter ? 'môn này' : 'tất cả'} ({visible.length})
-            </Button>
-            {visible.length > 20 ? (
-              <Button type="button" variant="outline" onClick={() => startSession(shuffle(visible).slice(0, 20))}>
-                Luyện 20 câu ngẫu nhiên
-              </Button>
-            ) : null}
+        <CardContent className="space-y-4 p-5">
+          <div className="flex flex-wrap items-start justify-between gap-3">
+            <div>
+              <p className="text-sm font-semibold">
+                {entries.length} câu đang cần ôn
+              </p>
+              <p className="mt-0.5 text-xs text-muted-foreground">
+                Trả lời đúng trong phiên luyện tập, câu hỏi sẽ tự động được gỡ khỏi sổ.
+              </p>
+            </div>
             {confirmClear ? (
               <span className="flex items-center gap-2 rounded-lg border border-destructive/40 bg-destructive/5 px-2 py-1 text-xs">
                 Xoá hết?
@@ -293,6 +289,51 @@ export function MistakeBook() {
                 Xoá tất cả
               </Button>
             )}
+          </div>
+
+          <div className="flex flex-wrap items-center gap-2">
+            <span className="text-xs font-medium text-muted-foreground">Số câu mỗi phiên</span>
+            {COUNT_OPTIONS.map((option) => (
+              <button
+                key={option}
+                type="button"
+                disabled={option > visible.length}
+                onClick={() => setCount(option)}
+                aria-pressed={count === option && option <= visible.length}
+                className={cn(
+                  'rounded-full border px-3 py-1 text-xs font-medium transition-colors',
+                  count === option && option <= visible.length
+                    ? 'border-primary bg-primary text-primary-foreground'
+                    : 'border-border text-muted-foreground hover:bg-secondary',
+                  option > visible.length && 'cursor-not-allowed opacity-40',
+                )}
+              >
+                {option} câu
+              </button>
+            ))}
+            <button
+              type="button"
+              onClick={() => setCount('all')}
+              aria-pressed={count === 'all' || count > visible.length}
+              className={cn(
+                'rounded-full border px-3 py-1 text-xs font-medium transition-colors',
+                count === 'all' || count > visible.length
+                  ? 'border-primary bg-primary text-primary-foreground'
+                  : 'border-border text-muted-foreground hover:bg-secondary',
+              )}
+            >
+              Tất cả ({visible.length})
+            </button>
+            <Button
+              type="button"
+              size="sm"
+              className="ml-auto"
+              disabled={effective === 0}
+              onClick={() => startSession(visible, effective)}
+            >
+              <Play aria-hidden="true" />
+              Ôn {effective} câu
+            </Button>
           </div>
         </CardContent>
       </Card>

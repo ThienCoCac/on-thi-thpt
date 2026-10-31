@@ -26,6 +26,7 @@ export interface MistakeMeta {
   subjectSlug: string;
   subjectName: string;
   sourceTitle: string;
+  examSlug?: string | null;
 }
 
 export interface MistakeEntry extends MistakeMeta {
@@ -35,6 +36,7 @@ export interface MistakeEntry extends MistakeMeta {
 
 const HISTORY_KEY = 'onthithpt:history:v1';
 const MISTAKES_KEY = 'onthithpt:mistakes:v1';
+const SEEN_KEY = 'onthithpt:seen:v1';
 const HISTORY_LIMIT = 100;
 const MISTAKE_LIMIT = 600;
 
@@ -141,6 +143,7 @@ export function loadMistakeMap(): Record<string, MistakeEntry> {
         subjectSlug: item.subjectSlug,
         subjectName: item.subjectName,
         sourceTitle: typeof item.sourceTitle === 'string' ? item.sourceTitle : '',
+        examSlug: typeof item.examSlug === 'string' ? item.examSlug : null,
         wrongCount: typeof item.wrongCount === 'number' ? item.wrongCount : 1,
         lastAt: item.lastAt,
       };
@@ -222,6 +225,37 @@ export function clearMistakes(): void {
   } catch {
     // Không xóa được thì thôi.
   }
+}
+
+// Đếm số lần mỗi câu đã được bốc vào phiên ngẫu nhiên, để các phiên sau
+// ưu tiên câu chưa gặp thay vì lặp lại những câu vừa làm.
+export function loadSeenCounts(): Record<string, number> {
+  const parsed = readJson<unknown>(SEEN_KEY, {});
+  if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) {
+    return {};
+  }
+
+  const counts: Record<string, number> = {};
+  for (const [id, value] of Object.entries(parsed as Record<string, unknown>)) {
+    if (typeof value === 'number' && value > 0) {
+      counts[id] = value;
+    }
+  }
+
+  return counts;
+}
+
+export function markQuestionsSeen(ids: string[]): void {
+  if (ids.length === 0) {
+    return;
+  }
+
+  const counts = loadSeenCounts();
+  for (const id of ids) {
+    counts[id] = (counts[id] ?? 0) + 1;
+  }
+
+  writeJson(SEEN_KEY, counts);
 }
 
 export interface PracticeRecordInput {
