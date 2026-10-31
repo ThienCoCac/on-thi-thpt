@@ -198,6 +198,50 @@
           "order": 5
         }
       ]
+    },
+    {
+      "id": "v-act",
+      "name": "Đánh giá năng lực (V-ACT)",
+      "slug": "danh-gia-nang-luc",
+      "description": "Đề thi thử Đánh giá năng lực V-ACT: tổng hợp Ngôn ngữ – Đọc hiểu, Tiếng Anh, Toán học, Tư duy logic – Khoa học và Khoa học xã hội.",
+      "order": 5,
+      "topics": [
+        {
+          "id": "topic-vact-ngon-ngu",
+          "name": "Ngôn ngữ – Đọc hiểu",
+          "slug": "ngon-ngu-doc-hieu",
+          "description": "Đọc hiểu văn bản văn học, văn bản thông tin, văn bản nghị luận và kiến thức tiếng Việt.",
+          "order": 1
+        },
+        {
+          "id": "topic-vact-tieng-anh",
+          "name": "Tiếng Anh",
+          "slug": "tieng-anh-vact",
+          "description": "Điền từ, tìm lỗi sai, viết lại câu và đọc hiểu các đoạn văn tiếng Anh.",
+          "order": 2
+        },
+        {
+          "id": "topic-vact-toan",
+          "name": "Toán học",
+          "slug": "toan-hoc-vact",
+          "description": "Hàm số, hình học không gian, xác suất, hình học giải tích và quy hoạch tuyến tính.",
+          "order": 3
+        },
+        {
+          "id": "topic-vact-tu-duy-khoa-hoc",
+          "name": "Tư duy logic – Khoa học",
+          "slug": "tu-duy-logic-khoa-hoc",
+          "description": "Suy luận logic, xử lí số liệu và kiến thức Hóa học – Vật lí – Sinh học.",
+          "order": 4
+        },
+        {
+          "id": "topic-vact-khoa-hoc-xa-hoi",
+          "name": "Khoa học xã hội",
+          "slug": "khoa-hoc-xa-hoi",
+          "description": "Kiến thức Lịch sử, Địa lí – du lịch và Kinh tế – Pháp luật.",
+          "order": 5
+        }
+      ]
     }
   ]
 }

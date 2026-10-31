@@ -786,7 +786,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
                     Câu {currentIndex + 1} / {total}
                   </Badge>
                   <span className="text-xs text-muted-foreground">
-                    {current.partName} · {current.score} điểm
+                    {current.partName} · {formatScore(current.score)} điểm
                   </span>
                 </div>
                 <div className="flex flex-wrap items-center justify-between gap-3">
