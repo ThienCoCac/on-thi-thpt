@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import {
   AlertTriangle,
   ArrowRight,
+  BookOpenCheck,
   CalendarDays,
   CheckCircle2,
   Clock,
@@ -358,15 +359,32 @@ export default function ExamDetailPage({ params }: ExamDetailPageProps) {
                   />
                   <span>Không cần đăng nhập, bài làm được chấm ngay trên thiết bị.</span>
                 </li>
+                <li className="flex gap-2">
+                  <BookOpenCheck
+                    className="mt-0.5 h-4 w-4 shrink-0 text-primary"
+                    aria-hidden="true"
+                  />
+                  <span>
+                    Có chế độ luyện tập hiện đáp án và lời giải ngay sau từng câu.
+                  </span>
+                </li>
               </ul>
 
               {canStart ? (
-                <Button asChild size="lg" className="w-full">
-                  <Link href={`/de-thi/${exam.slug}/lam-bai`}>
-                    <Play aria-hidden="true" />
-                    Bắt đầu làm bài
-                  </Link>
-                </Button>
+                <div className="space-y-2">
+                  <Button asChild size="lg" className="w-full">
+                    <Link href={`/de-thi/${exam.slug}/lam-bai`}>
+                      <Play aria-hidden="true" />
+                      Bắt đầu làm bài
+                    </Link>
+                  </Button>
+                  <Button asChild size="lg" variant="outline" className="w-full">
+                    <Link href={`/de-thi/${exam.slug}/luyen-tap`}>
+                      <BookOpenCheck aria-hidden="true" />
+                      Luyện tập, hiện đáp án ngay
+                    </Link>
+                  </Button>
+                </div>
               ) : (
                 <Button size="lg" className="w-full" disabled>
                   Đề chưa có câu hỏi

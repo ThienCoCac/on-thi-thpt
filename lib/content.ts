@@ -5,12 +5,14 @@ import type {
   ArticleContent,
   ArticleDetail,
   ArticleSummary,
+  BankQuestion,
   ExamContent,
   ExamDetail,
   ExamSummary,
   PostContent,
   PostDetail,
   PostSummary,
+  PracticeSubject,
   RunnerExam,
   RunnerQuestion,
   SubjectContent,
@@ -361,14 +363,11 @@ export function getExamBySlug(slug: string): ExamDetail | null {
   };
 }
 
-export function getRunnerExam(slug: string): RunnerExam | null {
-  const exam = examBySlug.get(slug);
-
-  if (!exam) {
-    return null;
-  }
-
-  const questions: RunnerQuestion[] = exam.questions.map((question, index) => ({
+function toRunnerQuestion(
+  question: ExamContent['questions'][number],
+  index: number,
+): RunnerQuestion {
+  return {
     id: question.id,
     order: index + 1,
     partName: question.partName,
@@ -386,17 +385,80 @@ export function getRunnerExam(slug: string): RunnerExam | null {
     difficulty: question.difficulty,
     topicName: topicById.get(question.topic)?.topic.name ?? null,
     tags: question.tags,
-  }));
+  };
+}
+
+export function getRunnerExam(slug: string): RunnerExam | null {
+  const exam = examBySlug.get(slug);
+
+  if (!exam) {
+    return null;
+  }
+
+  const subject = requireSubjectRef(exam.subject);
 
   return {
     id: exam.id,
     title: exam.title,
     slug: exam.slug,
-    subjectName: requireSubjectRef(exam.subject).name,
+    subjectName: subject.name,
+    subjectSlug: subject.slug,
     durationMinutes: exam.durationMinutes,
     totalScore: exam.totalScore,
-    questions,
+    questions: exam.questions.map(toRunnerQuestion),
   };
+}
+
+// Ngân hàng câu hỏi gộp toàn bộ đề, xuất thành một file JSON tĩnh để trang luyện tập
+// và sổ tay câu sai tải khi cần thay vì nhúng vào bundle của mọi trang.
+export function getPracticeBank(): BankQuestion[] {
+  const bank: BankQuestion[] = [];
+
+  for (const exam of sortedExams) {
+    const subject = requireSubjectRef(exam.subject);
+
+    exam.questions.forEach((question, index) => {
+      bank.push({
+        ...toRunnerQuestion(question, index),
+        contentText: question.content,
+        examSlug: exam.slug,
+        examTitle: exam.title,
+        subjectSlug: subject.slug,
+        subjectName: subject.name,
+        topicId: question.topic,
+      });
+    });
+  }
+
+  return bank;
+}
+
+export function getPracticeCatalog(): PracticeSubject[] {
+  return [...subjectContents]
+    .sort((a, b) => a.order - b.order)
+    .map((subject) => {
+      const exams = examContents.filter((exam) => exam.subject === subject.slug);
+      const questionCount = exams.reduce((sum, exam) => sum + exam.questions.length, 0);
+
+      return {
+        slug: subject.slug,
+        name: subject.name,
+        questionCount,
+        topics: subject.topics
+          .map((topic) => ({
+            id: topic.id,
+            name: topic.name,
+            slug: topic.slug,
+            count: exams.reduce(
+              (sum, exam) =>
+                sum + exam.questions.filter((question) => question.topic === topic.id).length,
+              0,
+            ),
+          }))
+          .filter((topic) => topic.count > 0),
+      };
+    })
+    .filter((subject) => subject.questionCount > 0);
 }
 
 export function listArticles(

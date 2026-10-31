@@ -6,23 +6,20 @@ import {
   AlertTriangle,
   ArrowLeft,
   Check,
-  CheckCircle2,
-  ChevronDown,
   ChevronLeft,
   ChevronRight,
   Clock,
   FileText,
   Flag,
-  Lightbulb,
   ListChecks,
   Play,
-  RotateCcw,
   Send,
   Target,
   Timer,
   X,
-  XCircle,
 } from 'lucide-react';
+import { ExamResult } from '@/components/exams/exam-result';
+import { PracticeRunner } from '@/components/practice/practice-runner';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import {
@@ -39,15 +36,15 @@ import type {
   RunnerExam,
   RunnerQuestion,
 } from '@/lib/content-types';
-import { formatDuration, formatScore, formatTimeSpent } from '@/lib/format';
+import { formatDuration, formatScore } from '@/lib/format';
+import { isAnswerCorrect, isAnswerEmpty } from '@/lib/grading';
+import { DIFFICULTY_ORDER } from '@/lib/labels';
 import {
-  describeAnswer,
-  describeCorrectAnswer,
-  getCorrectOptionKeys,
-  isAnswerCorrect,
-  isAnswerEmpty,
-} from '@/lib/grading';
-import { DIFFICULTY_LABELS, DIFFICULTY_ORDER } from '@/lib/labels';
+  noteMastered,
+  noteWrong,
+  recordPracticeResult,
+  saveAttempt,
+} from '@/lib/progress';
 import { cn } from '@/lib/utils';
 
 type Phase = 'intro' | 'doing' | 'result';
@@ -270,376 +267,6 @@ function QuestionNavigator({
   );
 }
 
-function chosenKeys(question: RunnerQuestion, value: AnswerValue): string[] {
-  if (Array.isArray(value)) {
-    return value.map((key) => key.toUpperCase());
-  }
-  if (typeof value === 'string' && question.options.length > 0) {
-    return [value.toUpperCase()];
-  }
-  return [];
-}
-
-function resultStatus(question: RunnerQuestion, isCorrect: boolean | null, selected: AnswerValue): string {
-  if (isCorrect === true) {
-    return 'Đúng';
-  }
-  if (isCorrect === false) {
-    return 'Sai';
-  }
-  return isAnswerEmpty(selected) ? 'Chưa trả lời' : 'Chưa chấm';
-}
-
-interface ResultViewProps {
-  exam: RunnerExam;
-  result: GradeResult;
-  autoSubmitted: boolean;
-  onRestart: () => void;
-}
-
-function ResultView({ exam, result, autoSubmitted, onRestart }: ResultViewProps) {
-  return (
-    <div className="container py-8 md:py-12">
-      <Card className="overflow-hidden">
-        <div className="h-1.5 w-full bg-primary" aria-hidden="true" />
-        <CardContent className="p-6 md:p-8">
-          <div className="flex flex-wrap items-start justify-between gap-6">
-            <div className="min-w-0">
-              <div className="flex flex-wrap items-center gap-2">
-                <Badge variant={autoSubmitted ? 'outline' : 'success'}>
-                  {autoSubmitted ? 'Hết giờ' : 'Đã nộp'}
-                </Badge>
-                <Badge variant="outline">{exam.subjectName}</Badge>
-              </div>
-              <h1 className="mt-3 text-2xl font-bold leading-tight tracking-tight md:text-3xl">
-                {exam.title}
-              </h1>
-              <p className="mt-1 text-sm text-muted-foreground">
-                Kết quả được chấm ngay trên thiết bị của bạn.
-              </p>
-            </div>
-
-            <div className="text-left sm:text-right">
-              <p className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-                Điểm của bạn
-              </p>
-              <p className="mt-1 text-4xl font-bold leading-none text-primary md:text-5xl">
-                {formatScore(result.score)}
-                <span className="text-xl font-semibold text-muted-foreground md:text-2xl">
-                  /{formatScore(result.maxScore)}
-                </span>
-              </p>
-              <p className="mt-2 text-sm text-muted-foreground">
-                Đúng {result.correctCount}/{result.questionCount} câu
-              </p>
-            </div>
-          </div>
-
-          <div className="mt-6">
-            <div className="flex items-center justify-between text-xs text-muted-foreground">
-              <span>Độ chính xác {result.accuracy}%</span>
-              <span>
-                {result.questionCount - result.correctCount} câu chưa đúng
-              </span>
-            </div>
-            <div className="mt-1.5 h-2 overflow-hidden rounded-full bg-muted">
-              <div
-                className={cn(
-                  'h-full',
-                  result.accuracy >= 50 ? 'bg-emerald-500' : 'bg-accent',
-                )}
-                style={{ width: `${result.accuracy}%` }}
-              />
-            </div>
-          </div>
-
-          <dl className="mt-6 grid gap-3 sm:grid-cols-3">
-            <div className="rounded-xl border bg-muted/30 p-4">
-              <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
-                <Clock className="h-3.5 w-3.5" aria-hidden="true" />
-                Thời gian làm bài
-              </dt>
-              <dd className="mt-1 text-base font-semibold">
-                {formatTimeSpent(result.timeSpentSeconds)}
-              </dd>
-            </div>
-            <div className="rounded-xl border bg-muted/30 p-4">
-              <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
-                <Target className="h-3.5 w-3.5" aria-hidden="true" />
-                Số câu đúng
-              </dt>
-              <dd className="mt-1 text-base font-semibold">
-                {result.correctCount}/{result.questionCount}
-              </dd>
-            </div>
-            <div className="rounded-xl border bg-muted/30 p-4">
-              <dt className="flex items-center gap-1.5 text-xs text-muted-foreground">
-                <CheckCircle2 className="h-3.5 w-3.5" aria-hidden="true" />
-                Độ chính xác
-              </dt>
-              <dd className="mt-1 text-base font-semibold">{result.accuracy}%</dd>
-            </div>
-          </dl>
-
-          {autoSubmitted ? (
-            <p className="mt-4 flex gap-2 rounded-lg border border-accent/30 bg-accent/5 px-3 py-2 text-xs leading-relaxed text-foreground">
-              <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0 text-accent" aria-hidden="true" />
-              Hết giờ làm bài, hệ thống tự nộp với các đáp án bạn đã chọn.
-            </p>
-          ) : null}
-
-          {result.unansweredCount > 0 ? (
-            <p className="mt-3 text-xs text-muted-foreground">
-              Còn {result.unansweredCount} câu chưa được trả lời.
-            </p>
-          ) : null}
-
-          <div className="mt-6 flex flex-wrap gap-3">
-            <Button type="button" onClick={onRestart}>
-              <RotateCcw aria-hidden="true" />
-              Làm lại đề này
-            </Button>
-            <Button asChild variant="outline">
-              <Link href={`/de-thi/${exam.slug}`}>
-                <ArrowLeft aria-hidden="true" />
-                Xem lại đề
-              </Link>
-            </Button>
-            <Button asChild variant="ghost">
-              <Link href="/phuong-phap">Đọc bài phương pháp</Link>
-            </Button>
-          </div>
-        </CardContent>
-      </Card>
-
-      <div className="mt-6 grid items-start gap-6 lg:grid-cols-[minmax(0,1fr)_320px]">
-        <section aria-labelledby="answer-review-title">
-          <div className="flex flex-wrap items-end justify-between gap-2">
-            <div>
-              <h2 id="answer-review-title" className="text-lg font-semibold">
-                Xem lại đáp án và lời giải
-              </h2>
-              <p className="mt-1 text-sm text-muted-foreground">
-                Câu làm sai được mở sẵn để bạn đối chiếu cách tư duy.
-              </p>
-            </div>
-          </div>
-
-          <div className="mt-4 space-y-3">
-            {result.gradedQuestions.map((item) => {
-              const { question } = item;
-              const correctKeys = getCorrectOptionKeys(question.correctAnswer);
-              const selected = chosenKeys(question, item.selectedAnswer);
-
-              return (
-                <details
-                  key={question.id}
-                  open={item.isCorrect === false}
-                  className="group rounded-xl border bg-card shadow-sm"
-                >
-                  <summary className="flex cursor-pointer list-none items-start gap-3 p-4 [&::-webkit-details-marker]:hidden">
-                    <span
-                      className={cn(
-                        'flex h-9 w-9 shrink-0 items-center justify-center rounded-lg text-sm font-semibold',
-                        item.isCorrect === true
-                          ? 'bg-emerald-100 text-emerald-800'
-                          : item.isCorrect === false
-                            ? 'bg-destructive/10 text-destructive'
-                            : 'bg-muted text-muted-foreground',
-                      )}
-                      aria-hidden="true"
-                    >
-                      {question.order}
-                    </span>
-
-                    <span className="min-w-0 flex-1">
-                      <span className="flex flex-wrap items-center gap-2">
-                        <Badge
-                          variant={
-                            item.isCorrect === true
-                              ? 'success'
-                              : item.isCorrect === false
-                                ? 'accent'
-                                : 'secondary'
-                          }
-                        >
-                          {resultStatus(question, item.isCorrect, item.selectedAnswer)}
-                        </Badge>
-                        <span className="text-xs text-muted-foreground">
-                          {question.partName} · {DIFFICULTY_LABELS[question.difficulty]} ·{' '}
-                          {question.score} điểm
-                        </span>
-                        {question.topicName ? (
-                          <span className="text-xs text-muted-foreground">
-                            · {question.topicName}
-                          </span>
-                        ) : null}
-                        {item.isFlagged ? (
-                          <Flag
-                            className="h-3.5 w-3.5 text-amber-500"
-                            aria-label="Đã đánh dấu khi làm bài"
-                          />
-                        ) : null}
-                      </span>
-                      <span className="mt-1 block truncate text-xs text-muted-foreground">
-                        Bạn trả lời: {describeAnswer(question.type, item.selectedAnswer, question.options)}
-                      </span>
-                    </span>
-
-                    <ChevronDown
-                      className="mt-1 h-4 w-4 shrink-0 text-muted-foreground transition-transform group-open:rotate-180"
-                      aria-hidden="true"
-                    />
-                  </summary>
-
-                  <div className="space-y-4 border-t px-4 py-5">
-                    <div
-                      className="article-content text-sm"
-                      dangerouslySetInnerHTML={{ __html: question.contentHtml }}
-                    />
-
-                    {question.options.length > 0 ? (
-                      <ul className="space-y-2">
-                        {question.options.map((option) => {
-                          const isCorrectOption = correctKeys.includes(option.key);
-                          const isChosen = selected.includes(option.key);
-
-                          return (
-                            <li
-                              key={option.key}
-                              className={cn(
-                                'flex items-start gap-3 rounded-lg border p-3 text-sm',
-                                isCorrectOption
-                                  ? 'border-emerald-300 bg-emerald-50'
-                                  : isChosen
-                                    ? 'border-destructive/40 bg-destructive/5'
-                                    : 'bg-card',
-                              )}
-                            >
-                              <span
-                                className={cn(
-                                  'flex h-7 w-7 shrink-0 items-center justify-center rounded-md border text-xs font-bold',
-                                  isCorrectOption
-                                    ? 'border-emerald-500 bg-emerald-500 text-white'
-                                    : isChosen
-                                      ? 'border-destructive bg-destructive text-white'
-                                      : 'bg-background text-muted-foreground',
-                                )}
-                                aria-hidden="true"
-                              >
-                                {option.key}
-                              </span>
-                              <span className="min-w-0 flex-1 leading-relaxed">
-                                {option.text}
-                              </span>
-                              <span className="flex shrink-0 flex-col items-end gap-1 text-xs">
-                                {isCorrectOption ? (
-                                  <span className="flex items-center gap-1 text-emerald-700">
-                                    <CheckCircle2 className="h-3.5 w-3.5" aria-hidden="true" />
-                                    Đáp án đúng
-                                  </span>
-                                ) : null}
-                                {isChosen && !isCorrectOption ? (
-                                  <span className="flex items-center gap-1 text-destructive">
-                                    <XCircle className="h-3.5 w-3.5" aria-hidden="true" />
-                                    Bạn chọn
-                                  </span>
-                                ) : null}
-                              </span>
-                            </li>
-                          );
-                        })}
-                      </ul>
-                    ) : (
-                      <dl className="grid gap-2 rounded-lg border bg-muted/30 p-3 text-sm sm:grid-cols-2">
-                        <div>
-                          <dt className="text-xs text-muted-foreground">Bạn trả lời</dt>
-                          <dd className="mt-0.5 font-medium">
-                            {describeAnswer(question.type, item.selectedAnswer, question.options)}
-                          </dd>
-                        </div>
-                        <div>
-                          <dt className="text-xs text-muted-foreground">Đáp án đúng</dt>
-                          <dd className="mt-0.5 font-medium text-emerald-700">
-                            {describeCorrectAnswer(
-                              question.type,
-                              question.correctAnswer,
-                              question.options,
-                            )}
-                          </dd>
-                        </div>
-                      </dl>
-                    )}
-
-                    <div className="rounded-lg border border-primary/20 bg-primary/5 p-4">
-                      <p className="flex items-center gap-2 text-sm font-semibold text-primary">
-                        <Lightbulb className="h-4 w-4" aria-hidden="true" />
-                        Lời giải theo hướng tư duy
-                      </p>
-                      <div
-                        className="article-content mt-2 text-sm"
-                        dangerouslySetInnerHTML={{ __html: question.explanationHtml }}
-                      />
-                    </div>
-                  </div>
-                </details>
-              );
-            })}
-          </div>
-        </section>
-
-        <aside className="space-y-4 lg:sticky lg:top-6">
-          <Card>
-            <CardHeader>
-              <CardTitle className="text-base">Kết quả theo độ khó</CardTitle>
-              <CardDescription>Số câu đúng trên tổng số câu ở mỗi mức độ.</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <ul className="space-y-3">
-                {result.difficulties
-                  .filter((item) => item.total > 0)
-                  .map((item) => (
-                    <li key={item.key}>
-                      <div className="flex items-center justify-between text-sm">
-                        <span>{DIFFICULTY_LABELS[item.key]}</span>
-                        <span className="text-muted-foreground">
-                          {item.correct}/{item.total} câu
-                        </span>
-                      </div>
-                      <div className="mt-1 h-1.5 overflow-hidden rounded-full bg-muted">
-                        <div
-                          className="h-full bg-primary"
-                          style={{ width: `${(item.correct / item.total) * 100}%` }}
-                        />
-                      </div>
-                    </li>
-                  ))}
-              </ul>
-            </CardContent>
-          </Card>
-
-          <Card>
-            <CardHeader>
-              <CardTitle className="text-base">Bước tiếp theo</CardTitle>
-            </CardHeader>
-            <CardContent className="space-y-3 text-sm text-muted-foreground">
-              <p>
-                Đọc lại lời giải của các câu sai, sau đó làm lại đề để kiểm tra mức độ tiến
-                bộ. Bạn có thể làm lại bao nhiêu lần tùy thích.
-              </p>
-              <Button asChild variant="outline" className="w-full">
-                <Link href="/phuong-phap">Xem bài phương pháp</Link>
-              </Button>
-              <Button asChild variant="ghost" className="w-full">
-                <Link href="/de-thi">Chọn đề khác</Link>
-              </Button>
-            </CardContent>
-          </Card>
-        </aside>
-      </div>
-    </div>
-  );
-}
 
 export function ExamRunner({ exam }: { exam: RunnerExam }) {
   const draftKey = `onthithpt:draft:${exam.slug}`;
@@ -660,6 +287,7 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
   const [result, setResult] = useState<GradeResult | null>(null);
   const [autoSubmitted, setAutoSubmitted] = useState(false);
   const [resumed, setResumed] = useState(false);
+  const [practiceQuestions, setPracticeQuestions] = useState<RunnerQuestion[] | null>(null);
 
   const questionRef = useRef<HTMLDivElement | null>(null);
   const stateRef = useRef({ answers, flags, startedAt, phase });
@@ -678,10 +306,37 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
       doneRef.current = true;
 
       const current = stateRef.current;
-      setResult(gradeExam(exam, current.answers, current.flags, current.startedAt));
+      const graded = gradeExam(exam, current.answers, current.flags, current.startedAt);
+      setResult(graded);
       setAutoSubmitted(auto);
       setConfirmOpen(false);
       setPhase('result');
+
+      const wrongItems = graded.gradedQuestions.filter((item) => item.isCorrect === false);
+      const correctItems = graded.gradedQuestions.filter((item) => item.isCorrect === true);
+
+      saveAttempt({
+        kind: 'exam',
+        title: exam.title,
+        examSlug: exam.slug,
+        subjectSlug: exam.subjectSlug,
+        subjectName: exam.subjectName,
+        score: graded.score,
+        maxScore: graded.maxScore,
+        correctCount: graded.correctCount,
+        gradedCount: graded.gradedQuestions.filter((item) => item.isCorrect !== null).length,
+        questionCount: graded.questionCount,
+        durationSeconds: graded.timeSpentSeconds,
+      });
+      noteWrong(
+        wrongItems.map((item) => ({
+          id: item.question.id,
+          subjectSlug: exam.subjectSlug,
+          subjectName: exam.subjectName,
+          sourceTitle: exam.title,
+        })),
+      );
+      noteMastered(correctItems.map((item) => item.question.id));
 
       try {
         window.localStorage.removeItem(draftKey);
@@ -812,6 +467,7 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
     setResult(null);
     setAutoSubmitted(false);
     setResumed(false);
+    setPracticeQuestions(null);
     setStartedAt(now);
     setDeadline(now + durationMs);
     setRemainingMs(durationMs);
@@ -891,13 +547,41 @@ export function ExamRunner({ exam }: { exam: RunnerExam }) {
     );
   }
 
+  if (practiceQuestions) {
+    return (
+      <PracticeRunner
+        title={`Luyện lại câu sai · ${exam.title}`}
+        subtitle={exam.subjectName}
+        questions={practiceQuestions}
+        onExit={() => setPracticeQuestions(null)}
+        onFinish={(outcome) =>
+          recordPracticeResult({
+            kind: 'practice',
+            title: `Luyện lại câu sai · ${exam.title}`,
+            examSlug: exam.slug,
+            subjectSlug: exam.subjectSlug,
+            subjectName: exam.subjectName,
+            outcome,
+            metaFor: (id) => ({
+              id,
+              subjectSlug: exam.subjectSlug,
+              subjectName: exam.subjectName,
+              sourceTitle: exam.title,
+            }),
+          })
+        }
+      />
+    );
+  }
+
   if (phase === 'result' && result) {
     return (
-      <ResultView
+      <ExamResult
         exam={exam}
         result={result}
         autoSubmitted={autoSubmitted}
         onRestart={restart}
+        onPracticeWrong={setPracticeQuestions}
       />
     );
   }

@@ -212,6 +212,7 @@ export interface RunnerExam {
   title: string;
   slug: string;
   subjectName: string;
+  subjectSlug: string;
   durationMinutes: number;
   totalScore: number;
   questions: RunnerQuestion[];
@@ -241,4 +242,40 @@ export interface GradeResult {
   timeSpentSeconds: number;
   gradedQuestions: GradedQuestion[];
   difficulties: DifficultyResult[];
+}
+
+// Câu hỏi trong ngân hàng chung, tải một lần khi cần luyện tập hoặc xem câu sai.
+export interface BankQuestion extends RunnerQuestion {
+  contentText: string;
+  examSlug: string;
+  examTitle: string;
+  subjectSlug: string;
+  subjectName: string;
+  topicId: string;
+}
+
+export interface PracticeTopic {
+  id: string;
+  name: string;
+  slug: string;
+  count: number;
+}
+
+export interface PracticeSubject {
+  slug: string;
+  name: string;
+  questionCount: number;
+  topics: PracticeTopic[];
+}
+
+export interface PracticeResultItem {
+  question: RunnerQuestion;
+  selected: AnswerValue;
+  isCorrect: boolean | null;
+}
+
+export interface PracticeOutcome {
+  items: PracticeResultItem[];
+  startedAt: number;
+  finishedAt: number;
 }

@@ -8,6 +8,8 @@ import { cn } from '@/lib/utils';
 const navItems = [
   { href: '/', label: 'Trang chủ' },
   { href: '/de-thi', label: 'Đề thi' },
+  { href: '/luyen-tap', label: 'Luyện tập' },
+  { href: '/tien-do', label: 'Tiến độ' },
   { href: '/phuong-phap', label: 'Phương pháp' },
   { href: '/bai-viet', label: 'Bài viết' },
 ];
