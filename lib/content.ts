@@ -1,11 +1,6 @@
+import fs from 'node:fs';
+import path from 'node:path';
 import { z } from 'zod';
-import subjectsJson from '@/content/subjects.json';
-import mathExamJson from '@/content/exams/de-thi-thu-toan-so-01.json';
-import englishExamJson from '@/content/exams/mini-test-tieng-anh-so-01.json';
-import loaiTruJson from '@/content/articles/loai-tru-dap-an-mon-toan.json';
-import xacDinhThiJson from '@/content/articles/xac-dinh-thi-va-dang-tu.json';
-import loTrinhJson from '@/content/posts/lo-trinh-on-thi-thpt-2027.json';
-import saiLamJson from '@/content/posts/5-sai-lam-mon-toan.json';
 import type {
   ArticleContent,
   ArticleDetail,
@@ -31,6 +26,27 @@ import { renderMarkdown } from '@/lib/markdown';
 // Sửa nội dung bằng cách sửa file JSON rồi build lại, không cần cơ sở dữ liệu.
 
 const CONTENT_AUTHOR = { fullName: 'Ban biên tập Ôn Thi THPT' };
+
+const CONTENT_DIR = path.join(process.cwd(), 'content');
+
+// Đọc mọi file JSON trong content/<thư mục>/ để thêm đề/bài viết chỉ cần tạo file,
+// không phải sửa code. Nội dung được đọc lúc build nên chạy dev cần khởi động lại sau khi sửa.
+function readJsonFolder(folder: string): { label: string; value: unknown }[] {
+  const dir = path.join(CONTENT_DIR, folder);
+
+  return fs
+    .readdirSync(dir)
+    .filter((name) => name.endsWith('.json'))
+    .sort()
+    .map((name) => ({
+      label: `content/${folder}/${name}`,
+      value: JSON.parse(fs.readFileSync(path.join(dir, name), 'utf8')) as unknown,
+    }));
+}
+
+const subjectsValue = JSON.parse(
+  fs.readFileSync(path.join(CONTENT_DIR, 'subjects.json'), 'utf8'),
+) as unknown;
 
 const isoDate = z.string().refine((value) => !Number.isNaN(Date.parse(value)), {
   message: 'Ngày không hợp lệ (cần chuỗi ISO 8601)',
@@ -138,24 +154,21 @@ function parseContent<TSchema extends z.ZodTypeAny>(
 
 const subjectContents: SubjectContent[] = parseContent(
   subjectsSchema,
-  subjectsJson,
+  subjectsValue,
   'content/subjects.json',
 ).subjects;
 
-const examContents: ExamContent[] = [
-  parseContent(examSchema, mathExamJson, 'content/exams/de-thi-thu-toan-so-01.json'),
-  parseContent(examSchema, englishExamJson, 'content/exams/mini-test-tieng-anh-so-01.json'),
-];
+const examContents: ExamContent[] = readJsonFolder('exams').map(({ label, value }) =>
+  parseContent(examSchema, value, label),
+);
 
-const articleContents: ArticleContent[] = [
-  parseContent(articleSchema, loaiTruJson, 'content/articles/loai-tru-dap-an-mon-toan.json'),
-  parseContent(articleSchema, xacDinhThiJson, 'content/articles/xac-dinh-thi-va-dang-tu.json'),
-];
+const articleContents: ArticleContent[] = readJsonFolder('articles').map(({ label, value }) =>
+  parseContent(articleSchema, value, label),
+);
 
-const postContents: PostContent[] = [
-  parseContent(postSchema, loTrinhJson, 'content/posts/lo-trinh-on-thi-thpt-2027.json'),
-  parseContent(postSchema, saiLamJson, 'content/posts/5-sai-lam-mon-toan.json'),
-];
+const postContents: PostContent[] = readJsonFolder('posts').map(({ label, value }) =>
+  parseContent(postSchema, value, label),
+);
 
 const subjectBySlug = new Map(subjectContents.map((subject) => [subject.slug, subject]));
 
