@@ -4,7 +4,7 @@
 //   node scripts/verify.mjs --scope=deploy   -> như all cộng thêm kiểm tra bản live
 // Mọi tiến trình con dùng process.execPath nên không cần thêm node vào PATH.
 import { spawn, spawnSync } from 'node:child_process';
-import { existsSync, readFileSync, readdirSync, rmSync, statSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync, mkdirSync, rmSync, statSync, writeFileSync } from 'node:fs';
 import { dirname, extname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -14,7 +14,8 @@ const SUITE_HOME = 'C:/Users/trinh/.qoder/tmp';
 const PORT = Number(process.env.VERIFY_PORT) || 4180;
 const BASE = `http://localhost:${PORT}`;
 const OUT_INDEX = join(ROOT, 'out', 'index.html');
-const PID_FILE = join(ROOT, 'out', '.serve.pid');
+// Pid đặt ngoài out/ để wrangler không upload nhầm thành tài nguyên công khai.
+const PID_FILE = join(ROOT, '.verify', 'serve.pid');
 const SUITE_TIMEOUT_MS = 300_000;
 const BUILD_TIMEOUT_MS = 900_000;
 
@@ -298,9 +299,8 @@ async function ensureServer(verbose) {
   if (!child.pid) {
     throw new Error('Không khởi động được máy chủ tĩnh ở ' + BASE);
   }
-  if (existsSync(dirname(PID_FILE))) {
-    writeFileSync(PID_FILE, String(child.pid));
-  }
+  mkdirSync(dirname(PID_FILE), { recursive: true });
+  writeFileSync(PID_FILE, String(child.pid));
 
   for (let attempt = 0; attempt < 40; attempt += 1) {
     if (await serverAlive()) {

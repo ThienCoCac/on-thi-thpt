@@ -25,7 +25,8 @@ export PATH="/c/Users/trinh/.qoder/tmp/node20/node-v20.18.1-win-x64:$PATH"
 
 - Chrome: `C:/Program Files/Google/Chrome/Application/chrome.exe`
 - puppeteer-core: `C:/Users/trinh/.qoder/tmp/shot/node_modules`
-- Máy chủ tĩnh: cổng 4180, script tự bật khi cần, tự ghi pid vào `out/.serve.pid`, tắt bằng `--stop-server`.
+- Máy chủ tĩnh: cổng 4180, script tự bật khi cần, tự ghi pid vào `.verify/serve.pid`, tắt bằng `--stop-server`.
+  Không đặt file tạm trong `out/` vì wrangler upload nguyên si những gì có trong đó.
 
 ## Ba tầng kiểm tra
 
