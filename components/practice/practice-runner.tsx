@@ -109,6 +109,10 @@ export function PracticeRunner({
   const [startedAt, setStartedAt] = useState(() => initial?.startedAt ?? Date.now());
   const [finishedAt, setFinishedAt] = useState(0);
   const finishedRef = useRef(false);
+  const headerRef = useRef<HTMLElement>(null);
+  const questionRef = useRef<HTMLDivElement>(null);
+  const feedbackRef = useRef<HTMLDivElement>(null);
+  const revealFeedbackRef = useRef(false);
 
   const current = session[index];
   const currentValue = current ? (answers[current.id] ?? null) : null;
@@ -172,6 +176,55 @@ export function PracticeRunner({
     };
   }, [resumeKey, finished, session, answers, results, index, startedAt, title, subtitle]);
 
+  // Vừa kiểm tra xong thì hé khối phản hồi bằng cách cuộn ít nhất: đang nhìn thấy là không đụng tới vị trí cuộn.
+  useEffect(() => {
+    if (!revealFeedbackRef.current) {
+      return;
+    }
+    revealFeedbackRef.current = false;
+
+    window.requestAnimationFrame(() => {
+      const block = feedbackRef.current;
+      if (!block) {
+        return;
+      }
+
+      const margin = (headerRef.current?.offsetHeight ?? 0) + 12;
+      const limit = window.innerHeight - 8;
+      const rect = block.getBoundingClientRect();
+
+      if (rect.top >= margin && rect.bottom <= limit) {
+        return;
+      }
+
+      // Khối dài hơn chỗ trống thì canh mép trên, ngắn hơn thì chọn hướng cuộn ít nhất.
+      const alignTop = rect.top - margin;
+      const alignBottom = rect.bottom - limit;
+      const delta =
+        rect.height > limit - margin
+          ? alignTop
+          : Math.abs(alignTop) <= Math.abs(alignBottom)
+            ? alignTop
+            : alignBottom;
+      window.scrollTo({ top: Math.max(0, window.scrollY + delta), behavior: 'smooth' });
+    });
+  }, [results, index]);
+
+  // Cuộn tới đúng thẻ câu hỏi ngay dưới thanh sticky, không kéo lên breadcrumb + mô tả trang.
+  function scrollToQuestion() {
+    window.requestAnimationFrame(() => {
+      const card = questionRef.current;
+      if (!card) {
+        return;
+      }
+      const offset = (headerRef.current?.offsetHeight ?? 0) + 12;
+      window.scrollTo({
+        top: Math.max(0, window.scrollY + card.getBoundingClientRect().top - offset),
+        behavior: 'smooth',
+      });
+    });
+  }
+
   if (session.length === 0) {
     return (
       <div className="container max-w-2xl py-12">
@@ -208,7 +261,8 @@ export function PracticeRunner({
 
     const isCorrect = isAnswerCorrect(question.type, question.correctAnswer, value);
     setResults((previous) => [...previous, { question, selected: value, isCorrect }]);
-    scrollTop();
+    // Chỉ hé khối phản hồi khi nó nằm ngoài màn hình; đang nhìn thấy thì giữ nguyên.
+    revealFeedbackRef.current = true;
   }
 
   function chooseOption(question: RunnerQuestion, key: string) {
@@ -240,7 +294,7 @@ export function PracticeRunner({
       return;
     }
     setIndex(target);
-    scrollTop();
+    scrollToQuestion();
   }
 
   function next() {
@@ -392,7 +446,7 @@ export function PracticeRunner({
 
   return (
     <>
-      <header className="sticky top-0 z-30 border-b bg-background/95 backdrop-blur">
+      <header ref={headerRef} className="sticky top-0 z-30 border-b bg-background/95 backdrop-blur">
         <div className="container flex flex-wrap items-center gap-x-4 gap-y-2 py-3">
           <div className="min-w-0 flex-1">
             <p className="truncate text-sm font-semibold">{title}</p>
@@ -471,7 +525,7 @@ export function PracticeRunner({
       </header>
 
       <div className="container max-w-3xl py-6">
-        <Card>
+        <Card ref={questionRef}>
           <CardHeader className="gap-3">
             <div className="flex flex-wrap items-center justify-between gap-2">
               <div className="flex flex-wrap items-center gap-1.5">
@@ -663,7 +717,7 @@ export function PracticeRunner({
                 </div>
               </div>
             ) : (
-              <div className="space-y-3">
+              <div ref={feedbackRef} className="space-y-3">
                 <div
                   className={cn(
                     'flex items-start gap-2.5 rounded-2xl border px-4 py-3 text-sm',
