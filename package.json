@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "node scripts/serve-out.mjs",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "verify": "node scripts/verify.mjs",
+    "verify:all": "node scripts/verify.mjs --scope=all",
+    "verify:deploy": "node scripts/verify.mjs --scope=deploy --build"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.5.0",

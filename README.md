@@ -67,6 +67,13 @@ Quy ước nhanh:
 | `npm run start` | Phục vụ `out/` ở local (giả lập Netlify) |
 | `npm run typecheck` | Kiểm tra TypeScript |
 | `npm run lint` | Kiểm tra ESLint |
+| `npm run verify` | Typecheck + lint + build (nếu cũ) + bộ test trình duyệt cần cho file vừa sửa |
+| `npm run verify:all` | Như trên nhưng chạy cả 9 bộ test (≈ 3 phút) |
+| `npm run verify:deploy` | Chạy hết 9 bộ cộng kiểm tra bản đã lên Cloudflare |
+
+`scripts/verify.mjs` nhận `--scope=ui|all|subjects|deploy|<tên bộ>`, `--files=...`, `--build`, `--no-build`,
+`--stop-server`, `--list`, `--help`. Các bộ test puppeteer nằm ngoài repo, trong `C:\Users\trinh\.qoder\tmp\`;
+quy ước kiểm tra chi tiết ghi ở `AGENTS.md`.
 
 ## Cấu trúc thư mục
 
