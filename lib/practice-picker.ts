@@ -1,35 +1,37 @@
-// Bốc câu ngẫu nhiên có trọng số: câu càng ít xuất hiện trong các phiên trước
-// thì càng dễ được chọn, nhờ vậy học sinh gặp nội dung mới thay vì lặp lại.
+// Bốc câu theo vòng: luôn lấy nhóm câu ít gặp nhất trước và xáo trộn trong nhóm,
+// nên không gặp lại câu cũ cho tới khi đã đi hết một vòng của pool.
+
+function shuffle<T>(items: T[]): T[] {
+  const list = [...items];
+  for (let index = list.length - 1; index > 0; index -= 1) {
+    const swap = Math.floor(Math.random() * (index + 1));
+    [list[index], list[swap]] = [list[swap], list[index]];
+  }
+  return list;
+}
 
 export function pickFreshQuestions<T extends { id: string }>(
   pool: T[],
   count: number,
   seen: Record<string, number>,
 ): T[] {
-  const remaining = [...pool];
-  const picked: T[] = [];
-  const target = Math.max(0, Math.min(Math.floor(count), remaining.length));
+  const target = Math.max(0, Math.min(Math.floor(count), pool.length));
+  const groups = new Map<number, T[]>();
 
-  while (picked.length < target && remaining.length > 0) {
-    const weights = remaining.map((item) => 1 / (1 + (seen[item.id] ?? 0)));
-    const total = weights.reduce((sum, weight) => sum + weight, 0);
-    let roll = Math.random() * total;
-    let index = 0;
-
-    for (; index < remaining.length; index += 1) {
-      roll -= weights[index];
-      if (roll <= 0) {
-        break;
-      }
+  for (const item of pool) {
+    const times = seen[item.id] ?? 0;
+    const group = groups.get(times);
+    if (group) {
+      group.push(item);
+    } else {
+      groups.set(times, [item]);
     }
-
-    if (index >= remaining.length) {
-      index = remaining.length - 1;
-    }
-
-    picked.push(remaining[index]);
-    remaining.splice(index, 1);
   }
 
-  return picked;
+  const ordered: T[] = [];
+  for (const times of [...groups.keys()].sort((a, b) => a - b)) {
+    ordered.push(...shuffle(groups.get(times) ?? []));
+  }
+
+  return ordered.slice(0, target);
 }

@@ -40,6 +40,7 @@ import { formatDuration, formatScore } from '@/lib/format';
 import { isAnswerCorrect, isAnswerEmpty } from '@/lib/grading';
 import { DIFFICULTY_ORDER } from '@/lib/labels';
 import {
+  markQuestionsSeen,
   noteMastered,
   noteWrong,
   recordPracticeResult,
@@ -279,9 +280,11 @@ interface ExamRunnerProps {
   exam: RunnerExam;
   // Đề con chọn câu ngẫu nhiên mỗi lượt nên không lưu nháp: tải lại trang sẽ có bộ câu mới.
   persistDraft?: boolean;
+  // Đề con đã ghi câu vào bộ đếm lúc bốc, nộp bài không ghi lần nữa.
+  markSeen?: boolean;
 }
 
-export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
+export function ExamRunner({ exam, persistDraft = true, markSeen = true }: ExamRunnerProps) {
   const draftKey = `onthithpt:draft:${exam.slug}`;
   const questionIds = useMemo(
     () => new Set(exam.questions.map((question) => question.id)),
@@ -352,6 +355,11 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
       );
       noteMastered(correctItems.map((item) => item.question.id));
 
+      // Làm cả đề cũng tính là đã gặp câu, để đề con và luyện ngẫu nhiên không đưa lại.
+      if (markSeen) {
+        markQuestionsSeen(exam.questions.map((question) => question.id));
+      }
+
       if (persistDraft) {
         try {
           window.localStorage.removeItem(draftKey);
@@ -360,7 +368,7 @@ export function ExamRunner({ exam, persistDraft = true }: ExamRunnerProps) {
         }
       }
     },
-    [draftKey, exam, persistDraft],
+    [draftKey, exam, persistDraft, markSeen],
   );
 
   useEffect(() => {

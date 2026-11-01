@@ -63,6 +63,7 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
   const [resumed, setResumed] = useState<PracticeSessionSnapshot | null>(null);
   const [saved, setSaved] = useState<PracticeSessionSnapshot | null>(null);
   const [mistakeCount, setMistakeCount] = useState(0);
+  const [poolExhausted, setPoolExhausted] = useState(false);
   const bankRef = useRef<BankQuestion[] | null>(null);
 
   useEffect(() => {
@@ -152,7 +153,8 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
       const pool = bank.filter(
         (question) => question.subjectSlug === subject.slug && topicIds.has(question.topicId),
       );
-      const picked = pickFreshQuestions(pool, count, loadSeenCounts());
+      const seenCounts = loadSeenCounts();
+      const picked = pickFreshQuestions(pool, count, seenCounts);
 
       if (picked.length === 0) {
         setError('Không tìm thấy câu hỏi phù hợp. Hãy chọn thêm chuyên đề.');
@@ -160,6 +162,7 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
       }
 
       markQuestionsSeen(picked.map((question) => question.id));
+      setPoolExhausted(pool.every((question) => (seenCounts[question.id] ?? 0) > 0));
       setSessionTitle(`Luyện tập · ${subject.name}`);
       setResumed(null);
       setSession(picked);
@@ -190,7 +193,12 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
     return (
       <PracticeRunner
         title={sessionTitle}
-        subtitle={resumed?.subtitle ?? subject.name}
+        subtitle={
+          resumed?.subtitle ??
+          (poolExhausted
+            ? `${subject.name} · đã ôn hết chuyên đề, phiên này ôn lại`
+            : subject.name)
+        }
         questions={session}
         resumeKey={STUDIO_RESUME_KEY}
         initial={resumed}

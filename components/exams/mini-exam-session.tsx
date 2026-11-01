@@ -44,6 +44,7 @@ export function MiniExamSession({
   const [status, setStatus] = useState<'loading' | 'ready' | 'empty' | 'error'>('loading');
   const [questions, setQuestions] = useState<RunnerQuestion[]>([]);
   const [poolSize, setPoolSize] = useState(0);
+  const [exhausted, setExhausted] = useState(false);
   const bankRef = useRef<Map<string, BankQuestion>>(new Map());
 
   useEffect(() => {
@@ -75,7 +76,9 @@ export function MiniExamSession({
         }
 
         const limit = Number.isFinite(requested) && requested > 0 ? requested : 10;
-        const picked = pickFreshQuestions(pool, limit, loadSeenCounts());
+        const seenCounts = loadSeenCounts();
+        setExhausted(pool.every((question) => (seenCounts[question.id] ?? 0) > 0));
+        const picked = pickFreshQuestions(pool, limit, seenCounts);
 
         if (picked.length === 0) {
           setStatus('empty');
@@ -115,13 +118,13 @@ export function MiniExamSession({
         questions,
       };
 
-      return <ExamRunner exam={miniExam} persistDraft={false} />;
+      return <ExamRunner exam={miniExam} persistDraft={false} markSeen={false} />;
     }
 
     return (
       <PracticeRunner
         title={title}
-        subtitle={subjectName}
+        subtitle={exhausted ? `${subjectName} · đã ôn hết đề, phiên này ôn lại` : subjectName}
         questions={questions}
         backHref={`/de-thi/${examSlug}`}
         onFinish={(outcome) =>
