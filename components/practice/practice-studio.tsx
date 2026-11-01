@@ -68,7 +68,7 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
 
   useEffect(() => {
     setMistakeCount(loadMistakes().length);
-    setSaved(loadPracticeSession());
+    setSaved(loadPracticeSession(STUDIO_RESUME_KEY));
   }, []);
 
   const subject = catalog.find((item) => item.slug === subjectSlug) ?? first;
@@ -185,7 +185,7 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
   }
 
   function discardSession() {
-    clearPracticeSession();
+    clearPracticeSession(STUDIO_RESUME_KEY);
     setSaved(null);
   }
 
@@ -205,7 +205,7 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
         onExit={() => {
           setSession(null);
           setResumed(null);
-          setSaved(loadPracticeSession());
+          setSaved(loadPracticeSession(STUDIO_RESUME_KEY));
           setMistakeCount(loadMistakes().length);
         }}
         onFinish={(outcome) =>

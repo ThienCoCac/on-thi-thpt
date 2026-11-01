@@ -141,7 +141,7 @@ export function PracticeRunner({
     }
 
     if (finished) {
-      clearPracticeSession();
+      clearPracticeSession(resumeKey);
       return;
     }
 

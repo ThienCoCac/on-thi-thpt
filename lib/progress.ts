@@ -341,75 +341,122 @@ function isAnswerValue(value: unknown): value is AnswerValue {
   );
 }
 
-// Đọc phiên luyện tập còn dang dở gần nhất, loại những câu không còn trong đề.
-export function loadPracticeSession(): PracticeSessionSnapshot | null {
-  const parsed = readJson<unknown>(SESSION_KEY, null);
-  if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) {
+// Mỗi màn luyện tập giữ một phiên riêng theo resumeKey, nên nháp ở trang đề
+// không bị phiên ngẫu nhiên ở trang Luyện tập ghi đè. Vài phiên là đủ để quay lại,
+// mỗi phiên chứa nguyên văn câu hỏi nên giữ hết sẽ nặng localStorage.
+const SESSION_STORE_LIMIT = 6;
+
+// Chuẩn hoá một bản lưu: loại bản hỏng, bản hết hạn và những đáp án không còn trong đề.
+function normalizeSession(raw: unknown): PracticeSessionSnapshot | null {
+  if (!raw || typeof raw !== 'object' || Array.isArray(raw)) {
     return null;
   }
 
-  const raw = parsed as Partial<PracticeSessionSnapshot>;
+  const stored = raw as Partial<PracticeSessionSnapshot>;
   if (
-    typeof raw.resumeKey !== 'string' ||
-    typeof raw.title !== 'string' ||
-    !Array.isArray(raw.questions) ||
-    !raw.questions.every(isRunnerQuestion) ||
-    typeof raw.startedAt !== 'number' ||
-    typeof raw.updatedAt !== 'number'
+    typeof stored.resumeKey !== 'string' ||
+    typeof stored.title !== 'string' ||
+    !Array.isArray(stored.questions) ||
+    !stored.questions.every(isRunnerQuestion) ||
+    typeof stored.startedAt !== 'number' ||
+    typeof stored.updatedAt !== 'number'
   ) {
     return null;
   }
 
-  if (Date.now() - raw.updatedAt > SESSION_TTL_MS) {
-    clearPracticeSession();
+  if (Date.now() - stored.updatedAt > SESSION_TTL_MS) {
     return null;
   }
 
-  const ids = new Set(raw.questions.map((question) => question.id));
+  const ids = new Set(stored.questions.map((question) => question.id));
   const answers: Record<string, AnswerValue> = {};
-  for (const [id, value] of Object.entries(raw.answers ?? {})) {
-    if (ids.has(id) && isAnswerValue(value)) {
-      answers[id] = value;
+  for (const [id, answer] of Object.entries(stored.answers ?? {})) {
+    if (ids.has(id) && isAnswerValue(answer)) {
+      answers[id] = answer;
     }
   }
 
-  const order = (Array.isArray(raw.order) ? raw.order : []).filter(
+  const order = (Array.isArray(stored.order) ? stored.order : []).filter(
     (id): id is string => typeof id === 'string' && ids.has(id),
   );
 
   const verdicts: Record<string, boolean | null> = {};
   for (const id of order) {
-    const verdict = raw.verdicts?.[id];
+    const verdict = stored.verdicts?.[id];
     verdicts[id] = verdict === true || verdict === false ? verdict : null;
   }
 
-  const index = Math.min(Math.max(0, Math.trunc(raw.index ?? 0) || 0), raw.questions.length - 1);
+  const index = Math.min(
+    Math.max(0, Math.trunc(stored.index ?? 0) || 0),
+    stored.questions.length - 1,
+  );
 
   return {
-    resumeKey: raw.resumeKey,
-    title: raw.title,
-    subtitle: typeof raw.subtitle === 'string' ? raw.subtitle : null,
-    questions: raw.questions,
+    resumeKey: stored.resumeKey,
+    title: stored.title,
+    subtitle: typeof stored.subtitle === 'string' ? stored.subtitle : null,
+    questions: stored.questions,
     answers,
     order,
     verdicts,
     index,
-    startedAt: raw.startedAt,
-    updatedAt: raw.updatedAt,
+    startedAt: stored.startedAt,
+    updatedAt: stored.updatedAt,
   };
 }
 
-export function savePracticeSession(snapshot: PracticeSessionSnapshot): void {
-  writeJson(SESSION_KEY, snapshot);
+function readSessionMap(): Record<string, PracticeSessionSnapshot> {
+  const parsed = readJson<unknown>(SESSION_KEY, null);
+  if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) {
+    return {};
+  }
+
+  // Bản cũ chỉ chứa một phiên ở gốc: đọc lên để không mất nháp người học đang làm dở.
+  const entries =
+    typeof (parsed as PracticeSessionSnapshot).resumeKey === 'string'
+      ? [parsed]
+      : Object.values(parsed as Record<string, unknown>);
+
+  const map: Record<string, PracticeSessionSnapshot> = {};
+  for (const entry of entries) {
+    const session = normalizeSession(entry);
+    if (session) {
+      map[session.resumeKey] = session;
+    }
+  }
+
+  return map;
 }
 
-export function clearPracticeSession(): void {
+export function loadPracticeSession(resumeKey: string): PracticeSessionSnapshot | null {
+  return readSessionMap()[resumeKey] ?? null;
+}
+
+export function savePracticeSession(snapshot: PracticeSessionSnapshot): void {
+  const map = readSessionMap();
+  map[snapshot.resumeKey] = snapshot;
+
+  const recent = Object.values(map)
+    .sort((a, b) => b.updatedAt - a.updatedAt)
+    .slice(0, SESSION_STORE_LIMIT)
+    .map((session) => [session.resumeKey, session] as const);
+
+  writeJson(SESSION_KEY, Object.fromEntries(recent));
+}
+
+export function clearPracticeSession(resumeKey: string): void {
   if (!hasStorage()) {
     return;
   }
 
   try {
-    window.localStorage.removeItem(SESSION_KEY);
+    const map = readSessionMap();
+    delete map[resumeKey];
+    if (Object.keys(map).length === 0) {
+      window.localStorage.removeItem(SESSION_KEY);
+    } else {
+      writeJson(SESSION_KEY, map);
+    }
   } catch {
     // Không xóa được thì thôi.
   }
