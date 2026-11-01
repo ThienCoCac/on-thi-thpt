@@ -1,11 +1,12 @@
 'use client';
 
-import { useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import {
   ArrowLeft,
   Check,
   CheckCircle2,
+  ChevronLeft,
   ChevronRight,
   Lightbulb,
   RotateCcw,
@@ -36,6 +37,12 @@ import {
   isAnswerEmpty,
 } from '@/lib/grading';
 import { DIFFICULTY_LABELS } from '@/lib/labels';
+import {
+  buildPracticeResults,
+  clearPracticeSession,
+  savePracticeSession,
+  type PracticeSessionSnapshot,
+} from '@/lib/progress';
 import { cn } from '@/lib/utils';
 
 const MULTIPLE_CHOICE = 'MULTIPLE_CHOICE';
@@ -47,6 +54,10 @@ interface PracticeRunnerProps {
   subtitle?: string;
   questions: RunnerQuestion[];
   backHref?: string;
+  /** Có giá trị thì phiên được tự lưu để quay lại làm tiếp. */
+  resumeKey?: string;
+  /** Phiên đã lưu đọc từ localStorage, dùng khi bấm "Tiếp tục làm". */
+  initial?: PracticeSessionSnapshot | null;
   onExit?: () => void;
   onFinish?: (outcome: PracticeOutcome) => void;
 }
@@ -79,16 +90,23 @@ export function PracticeRunner({
   subtitle,
   questions,
   backHref,
+  resumeKey,
+  initial = null,
   onExit,
   onFinish,
 }: PracticeRunnerProps) {
   const [session, setSession] = useState(questions);
-  const [answers, setAnswers] = useState<Record<string, AnswerValue>>({});
-  const [results, setResults] = useState<PracticeResultItem[]>([]);
-  const [index, setIndex] = useState(0);
-  const [checked, setChecked] = useState(false);
+  const [answers, setAnswers] = useState<Record<string, AnswerValue>>(
+    () => initial?.answers ?? {},
+  );
+  const [results, setResults] = useState<PracticeResultItem[]>(() =>
+    initial ? buildPracticeResults(initial) : [],
+  );
+  const [index, setIndex] = useState(() =>
+    Math.min(initial?.index ?? 0, Math.max(0, questions.length - 1)),
+  );
   const [finished, setFinished] = useState(false);
-  const [startedAt, setStartedAt] = useState(() => Date.now());
+  const [startedAt, setStartedAt] = useState(() => initial?.startedAt ?? Date.now());
   const [finishedAt, setFinishedAt] = useState(0);
   const finishedRef = useRef(false);
 
@@ -96,9 +114,11 @@ export function PracticeRunner({
   const currentValue = current ? (answers[current.id] ?? null) : null;
   const correctKeys = current ? getCorrectOptionKeys(current.correctAnswer) : [];
   const selectedKeys = current ? chosenKeys(current, currentValue) : [];
-  const currentResult = checked
-    ? results[results.length - 1]
+  // Kết quả tra theo id câu hỏi nên quay lại câu cũ vẫn thấy nguyên đáp án và lời giải.
+  const currentResult = current
+    ? results.find((item) => item.question.id === current.id) ?? null
     : null;
+  const checked = currentResult !== null;
 
   const graded = useMemo(
     () => results.filter((item) => item.isCorrect !== null),
@@ -109,6 +129,48 @@ export function PracticeRunner({
     () => results.filter((item) => item.isCorrect === false).map((item) => item.question),
     [results],
   );
+
+  // Tự lưu phiên đang làm: đóng tab, thoát giữa chừng hay mất mạng vẫn quay lại được.
+  useEffect(() => {
+    if (!resumeKey) {
+      return;
+    }
+
+    if (finished) {
+      clearPracticeSession();
+      return;
+    }
+
+    const key = resumeKey;
+
+    function write() {
+      // Chưa trả lời câu nào thì giữ nguyên phiên dang dở cũ, khỏi mất công lưu một phiên trống.
+      if (results.length === 0 && index === 0) {
+        return;
+      }
+
+      savePracticeSession({
+        resumeKey: key,
+        title,
+        subtitle: subtitle ?? null,
+        questions: session,
+        answers,
+        order: results.map((item) => item.question.id),
+        verdicts: Object.fromEntries(
+          results.map((item) => [item.question.id, item.isCorrect]),
+        ),
+        index,
+        startedAt,
+        updatedAt: Date.now(),
+      });
+    }
+
+    const timer = window.setTimeout(write, 500);
+    return () => {
+      window.clearTimeout(timer);
+      write();
+    };
+  }, [resumeKey, finished, session, answers, results, index, startedAt, title, subtitle]);
 
   if (session.length === 0) {
     return (
@@ -146,7 +208,6 @@ export function PracticeRunner({
 
     const isCorrect = isAnswerCorrect(question.type, question.correctAnswer, value);
     setResults((previous) => [...previous, { question, selected: value, isCorrect }]);
-    setChecked(true);
     scrollTop();
   }
 
@@ -174,11 +235,17 @@ export function PracticeRunner({
     check(question, [key]);
   }
 
+  function goToQuestion(target: number) {
+    if (target < 0 || target >= session.length || target === index) {
+      return;
+    }
+    setIndex(target);
+    scrollTop();
+  }
+
   function next() {
     if (index < session.length - 1) {
-      setIndex(index + 1);
-      setChecked(false);
-      scrollTop();
+      goToQuestion(index + 1);
       return;
     }
 
@@ -200,7 +267,6 @@ export function PracticeRunner({
     setAnswers({});
     setResults([]);
     setIndex(0);
-    setChecked(false);
     setFinished(false);
     setStartedAt(Date.now());
     setFinishedAt(0);
@@ -365,6 +431,42 @@ export function PracticeRunner({
               style={{ width: `${(results.length / session.length) * 100}%` }}
             />
           </div>
+          <div
+            role="group"
+            aria-label="Chuyển đến một câu đã làm"
+            className="mt-2 flex gap-1 overflow-x-auto pb-1 sm:flex-wrap sm:overflow-visible"
+          >
+            {session.map((question, position) => {
+              const verdict = results.find((item) => item.question.id === question.id)?.isCorrect;
+              const isCurrent = position === index;
+
+              return (
+                <button
+                  key={question.id}
+                  type="button"
+                  onClick={() => goToQuestion(position)}
+                  aria-current={isCurrent ? 'true' : undefined}
+                  aria-label={`Câu ${position + 1}${
+                    verdict === undefined ? ' chưa làm' : verdict ? ' làm đúng' : ' làm sai'
+                  }`}
+                  className={cn(
+                    'h-7 w-7 shrink-0 rounded-md border text-xs font-semibold tabular-nums transition-colors',
+                    isCurrent
+                      ? 'border-primary bg-primary text-primary-foreground'
+                      : verdict === true
+                        ? 'border-emerald-300 bg-emerald-50 text-emerald-700 hover:border-emerald-400'
+                        : verdict === false
+                          ? 'border-destructive/40 bg-destructive/10 text-destructive hover:border-destructive/60'
+                          : verdict === null
+                            ? 'border-border bg-muted text-muted-foreground'
+                            : 'border-border bg-card text-muted-foreground hover:border-primary/40',
+                  )}
+                >
+                  {position + 1}
+                </button>
+              );
+            })}
+          </div>
         </div>
       </header>
 
@@ -517,7 +619,7 @@ export function PracticeRunner({
             )}
 
             {!checked ? (
-              <div className="flex items-center justify-between gap-3 pt-1">
+              <div className="space-y-3 pt-1">
                 <p className="text-xs text-muted-foreground">
                   {isEssay
                     ? 'Câu tự luận không chấm tự động, bạn đối chiếu bài mẫu bên dưới.'
@@ -525,17 +627,40 @@ export function PracticeRunner({
                       ? 'Câu nhiều đáp án: chọn đủ rồi bấm Kiểm tra.'
                       : 'Chọn đáp án để xem kết quả ngay.'}
                 </p>
-                {isEssay ? (
-                  <Button type="button" onClick={() => check(current)}>
-                    Xem lời giải
-                    <ChevronRight aria-hidden="true" />
+                <div className="flex flex-wrap items-center justify-between gap-2">
+                  <Button
+                    type="button"
+                    variant="outline"
+                    onClick={() => goToQuestion(index - 1)}
+                    disabled={index === 0}
+                  >
+                    <ChevronLeft aria-hidden="true" />
+                    Câu trước
                   </Button>
-                ) : current.type !== 'SINGLE_CHOICE' ? (
-                  <Button type="button" onClick={() => check(current)} disabled={!canCheck}>
-                    <Check aria-hidden="true" />
-                    Kiểm tra
-                  </Button>
-                ) : null}
+                  <div className="flex flex-wrap items-center gap-2">
+                    {isEssay ? (
+                      <Button type="button" onClick={() => check(current)}>
+                        Xem lời giải
+                        <ChevronRight aria-hidden="true" />
+                      </Button>
+                    ) : current.type !== 'SINGLE_CHOICE' ? (
+                      <Button type="button" onClick={() => check(current)} disabled={!canCheck}>
+                        <Check aria-hidden="true" />
+                        Kiểm tra
+                      </Button>
+                    ) : null}
+                    {index < session.length - 1 ? (
+                      <Button
+                        type="button"
+                        variant="ghost"
+                        onClick={() => goToQuestion(index + 1)}
+                      >
+                        Câu tiếp theo
+                        <ChevronRight aria-hidden="true" />
+                      </Button>
+                    ) : null}
+                  </div>
+                </div>
               </div>
             ) : (
               <div className="space-y-3">
@@ -593,7 +718,16 @@ export function PracticeRunner({
                   />
                 </div>
 
-                <div className="flex justify-end">
+                <div className="flex flex-wrap items-center justify-between gap-2">
+                  <Button
+                    type="button"
+                    variant="outline"
+                    onClick={() => goToQuestion(index - 1)}
+                    disabled={index === 0}
+                  >
+                    <ChevronLeft aria-hidden="true" />
+                    Câu trước
+                  </Button>
                   <Button type="button" onClick={next}>
                     {index < session.length - 1 ? 'Câu tiếp theo' : 'Xem kết quả'}
                     <ChevronRight aria-hidden="true" />
@@ -606,6 +740,9 @@ export function PracticeRunner({
 
         <p className="mt-4 text-center text-xs text-muted-foreground">
           Luyện tập không tính giờ. Kết quả từng câu được lưu vào tiến độ học tập trên thiết bị.
+          {resumeKey
+            ? ' Phiên đang làm được tự lưu: bấm vào số câu ở đầu trang để xem lại, hoặc quay lại làm tiếp khi khác.'
+            : ''}
         </p>
       </div>
     </>

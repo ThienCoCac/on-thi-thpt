@@ -1,6 +1,11 @@
 // Lưu lịch sử làm bài và sổ tay câu sai ngay trên thiết bị (localStorage).
 // Site không có tài khoản nên toàn bộ tiến độ chỉ nằm trong trình duyệt của người học.
 
+import type {
+  AnswerValue,
+  PracticeResultItem,
+  RunnerQuestion,
+} from '@/lib/content-types';
 import type { PracticeOutcome } from '@/lib/content-types';
 
 export type AttemptKind = 'exam' | 'practice' | 'random' | 'mistake';
@@ -37,8 +42,11 @@ export interface MistakeEntry extends MistakeMeta {
 const HISTORY_KEY = 'onthithpt:history:v1';
 const MISTAKES_KEY = 'onthithpt:mistakes:v1';
 const SEEN_KEY = 'onthithpt:seen:v1';
+const SESSION_KEY = 'onthithpt:practice-session:v1';
 const HISTORY_LIMIT = 100;
 const MISTAKE_LIMIT = 600;
+// Phiên dang dở chỉ có giá trị ôn tập ngắn hạn, để lâu thì nội dung đề đã đổi.
+const SESSION_TTL_MS = 30 * 24 * 60 * 60 * 1000;
 
 function hasStorage(): boolean {
   return typeof window !== 'undefined' && typeof window.localStorage !== 'undefined';
@@ -295,6 +303,129 @@ export function recordPracticeResult(input: PracticeRecordInput): void {
 
   noteWrong(wrong.map((item) => input.metaFor(item.question.id)));
   noteMastered(correct.map((item) => item.question.id));
+}
+
+export interface PracticeSessionSnapshot {
+  resumeKey: string;
+  title: string;
+  subtitle: string | null;
+  questions: RunnerQuestion[];
+  answers: Record<string, AnswerValue>;
+  // Thứ tự các câu đã kiểm tra và kết quả từng câu, đủ để dựng lại đúng phiên.
+  order: string[];
+  verdicts: Record<string, boolean | null>;
+  index: number;
+  startedAt: number;
+  updatedAt: number;
+}
+
+function isRunnerQuestion(value: unknown): value is RunnerQuestion {
+  if (!value || typeof value !== 'object') {
+    return false;
+  }
+
+  const item = value as Partial<RunnerQuestion>;
+  return (
+    typeof item.id === 'string' &&
+    typeof item.type === 'string' &&
+    typeof item.contentHtml === 'string' &&
+    Array.isArray(item.options)
+  );
+}
+
+function isAnswerValue(value: unknown): value is AnswerValue {
+  return (
+    value === null ||
+    typeof value === 'string' ||
+    (Array.isArray(value) && value.every((item) => typeof item === 'string'))
+  );
+}
+
+// Đọc phiên luyện tập còn dang dở gần nhất, loại những câu không còn trong đề.
+export function loadPracticeSession(): PracticeSessionSnapshot | null {
+  const parsed = readJson<unknown>(SESSION_KEY, null);
+  if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) {
+    return null;
+  }
+
+  const raw = parsed as Partial<PracticeSessionSnapshot>;
+  if (
+    typeof raw.resumeKey !== 'string' ||
+    typeof raw.title !== 'string' ||
+    !Array.isArray(raw.questions) ||
+    !raw.questions.every(isRunnerQuestion) ||
+    typeof raw.startedAt !== 'number' ||
+    typeof raw.updatedAt !== 'number'
+  ) {
+    return null;
+  }
+
+  if (Date.now() - raw.updatedAt > SESSION_TTL_MS) {
+    clearPracticeSession();
+    return null;
+  }
+
+  const ids = new Set(raw.questions.map((question) => question.id));
+  const answers: Record<string, AnswerValue> = {};
+  for (const [id, value] of Object.entries(raw.answers ?? {})) {
+    if (ids.has(id) && isAnswerValue(value)) {
+      answers[id] = value;
+    }
+  }
+
+  const order = (Array.isArray(raw.order) ? raw.order : []).filter(
+    (id): id is string => typeof id === 'string' && ids.has(id),
+  );
+
+  const verdicts: Record<string, boolean | null> = {};
+  for (const id of order) {
+    const verdict = raw.verdicts?.[id];
+    verdicts[id] = verdict === true || verdict === false ? verdict : null;
+  }
+
+  const index = Math.min(Math.max(0, Math.trunc(raw.index ?? 0) || 0), raw.questions.length - 1);
+
+  return {
+    resumeKey: raw.resumeKey,
+    title: raw.title,
+    subtitle: typeof raw.subtitle === 'string' ? raw.subtitle : null,
+    questions: raw.questions,
+    answers,
+    order,
+    verdicts,
+    index,
+    startedAt: raw.startedAt,
+    updatedAt: raw.updatedAt,
+  };
+}
+
+export function savePracticeSession(snapshot: PracticeSessionSnapshot): void {
+  writeJson(SESSION_KEY, snapshot);
+}
+
+export function clearPracticeSession(): void {
+  if (!hasStorage()) {
+    return;
+  }
+
+  try {
+    window.localStorage.removeItem(SESSION_KEY);
+  } catch {
+    // Không xóa được thì thôi.
+  }
+}
+
+export function buildPracticeResults(snapshot: PracticeSessionSnapshot): PracticeResultItem[] {
+  const byId = new Map(snapshot.questions.map((question) => [question.id, question] as const));
+
+  return snapshot.order.reduce<PracticeResultItem[]>((items, id) => {
+    const question = byId.get(id);
+    if (!question) {
+      return items;
+    }
+    items.push({ question, selected: snapshot.answers[id] ?? null, isCorrect: snapshot.verdicts[id] ?? null });
+    return items;
+  }, []);
 }
 
 export function dayKey(value: string | Date): string {
