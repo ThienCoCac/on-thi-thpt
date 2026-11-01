@@ -1,0 +1,956 @@
+{
+  "id": "de-tin-hoc-12-so-05",
+  "title": "Đề ôn tập Tin học 12 số 05 – Định dạng văn bản, màu sắc và khung bằng CSS (Bài 14–16)",
+  "slug": "de-tin-hoc-12-so-05",
+  "description": "Đề ôn tập Bài 14, 15, 16 sách Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức): định dạng văn bản bằng CSS, tạo màu cho chữ và nền, định dạng khung. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút.",
+  "subject": "tin-hoc",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-05",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-01T08:00:00.000Z",
+  "updatedAt": "2026-11-01T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-05-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, các phông chữ trên máy tính được chia thành năm loại. Loại phông chữ có đặc điểm là chữ viết tay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "serif."
+        },
+        {
+          "key": "B",
+          "text": "sans-serif."
+        },
+        {
+          "key": "C",
+          "text": "cursive."
+        },
+        {
+          "key": "D",
+          "text": "fantasy."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách phân loại năm nhóm phông chữ: serif là chữ có chân, sans-serif là chữ không chân, monospace là các kí tự có chiều rộng đều nhau, cursive là chữ viết tay, fantasy là chữ trừu tượng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "font-family"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Muốn chọn phông ưu tiên theo thứ tự Times, Times New Roman, Tahoma, cuối cùng là một phông có chân bất kì cho thẻ h1. Mẫu CSS nào sau đây viết đúng quy tắc của sách?",
+      "options": [
+        {
+          "key": "A",
+          "text": "h1 {font-family: Times New Roman, serif;}"
+        },
+        {
+          "key": "B",
+          "text": "h1 {font-family: Times, Times New Roman, Tahoma, serif;}"
+        },
+        {
+          "key": "C",
+          "text": "h1 {font-family: Times, \"Times New Roman\", Tahoma, serif;}"
+        },
+        {
+          "key": "D",
+          "text": "h1 {font-family: \"Times, Times New Roman, Tahoma, serif\";}"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tên phông chứa dấu cách bắt buộc phải đặt trong hai dấu nháy kép hoặc nháy đơn, các tên khác viết rời nhau và phân tách bằng dấu phẩy, tên loại phông đặt cuối cùng. Mẫu đúng trong sách là h1 {font-family: Times, \"Times New Roman\", Tahoma, serif;}.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "font-family"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Loại phông chữ mà các kí tự có chiều rộng đều nhau, thường dùng khi trình bày mã nguồn, là",
+      "options": [
+        {
+          "key": "A",
+          "text": "monospace."
+        },
+        {
+          "key": "B",
+          "text": "serif."
+        },
+        {
+          "key": "C",
+          "text": "sans-serif."
+        },
+        {
+          "key": "D",
+          "text": "fantasy."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong năm loại phông chữ của CSS, monospace là loại có các kí tự chiều rộng đều nhau; serif là chữ có chân, sans-serif là chữ không chân, fantasy là chữ trừu tượng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "font-family"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong danh sách giá trị của font-family, vì sao tên loại phông như serif hoặc sans-serif thường được đặt ở vị trí cuối cùng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì trình duyệt tìm lần lượt các phông trong danh sách từ trái sang phải, nếu không thấy phông nào thì sẽ chọn một phông cùng loại bất kì."
+        },
+        {
+          "key": "B",
+          "text": "Vì tên loại phông là phông dự phòng luôn được cài đặt sẵn trong mọi máy tính."
+        },
+        {
+          "key": "C",
+          "text": "Vì CSS không cho phép viết tên loại phông ở vị trí đầu của danh sách."
+        },
+        {
+          "key": "D",
+          "text": "Vì giá trị ở vị trí cuối danh sách luôn có mức ưu tiên cao nhất trong mẫu CSS."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách giải thích danh sách các phông thường cùng loại và tên của loại phông để ở vị trí cuối cùng: trình duyệt tìm lần lượt từ trái sang phải, nếu không tìm thấy phông chữ nào trong danh sách thì sẽ chọn phông cùng loại bất kì.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "font-family"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi đặt cỡ chữ bằng thuộc tính font-size, đơn vị nào sau đây là đơn vị đo chính xác tuyệt đối?",
+      "options": [
+        {
+          "key": "A",
+          "text": "em."
+        },
+        {
+          "key": "B",
+          "text": "rem."
+        },
+        {
+          "key": "C",
+          "text": "px."
+        },
+        {
+          "key": "D",
+          "text": "%."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách xếp cm, mm, in, px và pt vào nhóm đơn vị đo chính xác tuyệt đối; em, ex, rem và tỉ lệ phần trăm thuộc nhóm đơn vị tương đối.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "font-size"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách, đơn vị rem dùng để xác định cỡ chữ so với",
+      "options": [
+        {
+          "key": "A",
+          "text": "cỡ chữ hiện thời của trình duyệt."
+        },
+        {
+          "key": "B",
+          "text": "cỡ chữ của phần tử cha."
+        },
+        {
+          "key": "C",
+          "text": "chiều cao chữ x của cỡ chữ hiện thời."
+        },
+        {
+          "key": "D",
+          "text": "cỡ chữ của phần tử gốc html của tệp HTML."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách định nghĩa em so với cỡ chữ hiện thời của trình duyệt, ex so với chiều cao chữ x của cỡ chữ hiện thời, còn rem so với cỡ chữ của phần tử gốc html của tệp HTML; giá trị phần trăm tính theo cỡ chữ của phần tử cha.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "font-size"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo các đơn vị đo cỡ chữ trong sách giáo khoa, một point (pt) có độ lớn bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "1/96 inch."
+        },
+        {
+          "key": "B",
+          "text": "1/72 inch."
+        },
+        {
+          "key": "C",
+          "text": "2,54 inch."
+        },
+        {
+          "key": "D",
+          "text": "1/72 cm."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu 1 inch bằng 2,54 cm, 1 pixel bằng 1/96 inch và 1 point bằng 1/72 inch.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "font-size"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu định dạng p {line-height: 200%;} được sách giải thích với ý nghĩa là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chiều cao dòng đặt bằng 200 pixel."
+        },
+        {
+          "key": "B",
+          "text": "chiều cao dòng gấp 200 lần cỡ chữ hiện thời của trình duyệt."
+        },
+        {
+          "key": "C",
+          "text": "chiều cao dòng bằng 200% chiều cao của vùng nội dung."
+        },
+        {
+          "key": "D",
+          "text": "chiều cao dòng bằng 200% chiều cao dòng của phần tử cha mà phần tử hiện thời được kế thừa."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách đối chiếu ba cách viết: p {line-height: 3;} là gấp 3 lần cỡ chữ hiện thời, p {line-height: 2em;} là gấp 2 lần chiều cao dòng hiện thời, còn p {line-height: 200%;} là bằng 200% chiều cao dòng của phần tử cha mà phần tử hiện thời được kế thừa.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "line-height"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu định dạng p {text-indent: -2em;} tạo ra tác dụng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dòng đầu tiên lùi ra ngoài một khoảng 2 đơn vị em so với các dòng còn lại, gọi là thụt lề treo."
+        },
+        {
+          "key": "B",
+          "text": "Dòng đầu tiên thụt vào trong một khoảng 2 đơn vị em."
+        },
+        {
+          "key": "C",
+          "text": "Toàn bộ đoạn văn bản thụt vào trong 2 đơn vị em."
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các dòng trừ dòng đầu tiên lùi ra ngoài 2 đơn vị em."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "text-indent định dạng thụt lề cho dòng đầu tiên: giá trị lớn hơn 0 làm dòng đầu thụt vào, giá trị nhỏ hơn 0 làm dòng đầu lùi ra ngoài và được gọi là thụt lề treo (hanging indent).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "text-indent"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các giá trị của thuộc tính text-decoration, giá trị tạo ra đường kẻ phía trên chữ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "underline."
+        },
+        {
+          "key": "B",
+          "text": "overline."
+        },
+        {
+          "key": "C",
+          "text": "line-through."
+        },
+        {
+          "key": "D",
+          "text": "none."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách liệt kê bốn giá trị thường dùng của text-decoration: none là mặc định không trang trí, underline kẻ dưới chữ, overline kẻ phía trên chữ, line-through kẻ giữa dòng chữ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "text-decoration"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-mau-chu-va-nen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hệ màu RGB được HTML và CSS hỗ trợ, mỗi giá trị r, g, b của một màu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "số nguyên nằm trong khoảng từ 0 đến 255."
+        },
+        {
+          "key": "B",
+          "text": "số nguyên nằm trong khoảng từ 0 đến 100."
+        },
+        {
+          "key": "C",
+          "text": "số thực nằm trong khoảng từ 0 đến 1."
+        },
+        {
+          "key": "D",
+          "text": "số nguyên nằm trong khoảng từ 0 đến 360."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi màu là tổ hợp ba giá trị r, g, b và mỗi giá trị này là số nguyên từ 0 đến 255, tức một số 8 bit; khoảng 0 đến 360 là của tham số Hue trong hệ HSL.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "hệ màu RGB"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-mau-chu-va-nen",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách, tổng số màu cho phép của hệ màu RGB trong HTML và CSS là",
+      "options": [
+        {
+          "key": "A",
+          "text": "256 màu."
+        },
+        {
+          "key": "B",
+          "text": "16 777 216 màu."
+        },
+        {
+          "key": "C",
+          "text": "65 536 màu."
+        },
+        {
+          "key": "D",
+          "text": "1 677 216 màu."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mỗi thành phần màu là một số 8 bit nên tổng số màu cho phép là 2 mũ 8 nhân 2 mũ 8 nhân 2 mũ 8 bằng 2 mũ 24 tức 16 777 216 màu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "hệ màu RGB"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-mau-chu-va-nen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các mẫu sau, mẫu nào đặt màu chữ xám cho các phần tử p theo đúng Hình 15.1 của sách?",
+      "options": [
+        {
+          "key": "A",
+          "text": "p {color: #ffffff;}"
+        },
+        {
+          "key": "B",
+          "text": "p {color: #000000;}"
+        },
+        {
+          "key": "C",
+          "text": "p {color: #800080;}"
+        },
+        {
+          "key": "D",
+          "text": "p {color: #808080;}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hình 15.1 ghi màu xám là rgb(128,128,128) tương đương rgb(50%,50%,50%) và #808080. Các mã còn lại: #ffffff là màu trắng, #000000 là màu đen, #800080 là màu tím purple.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "màu chữ"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-mau-chu-va-nen",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng tên màu cơ bản của CSS trong Bài 16, màu có mã thập lục phân #FFA500 và bộ ba rgb(255,165,0) là màu",
+      "options": [
+        {
+          "key": "A",
+          "text": "olive."
+        },
+        {
+          "key": "B",
+          "text": "orange."
+        },
+        {
+          "key": "C",
+          "text": "yellow."
+        },
+        {
+          "key": "D",
+          "text": "maroon."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng tên màu CSS ghi orange là #FFA500 tức rgb(255,165,0). Các màu khác: olive là #808000, yellow là #FFFF00, maroon là #800000.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "tên màu"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-mau-chu-va-nen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hệ màu HSL, theo vòng tròn màu của sách, giá trị Hue bằng 120 độ ứng với màu",
+      "options": [
+        {
+          "key": "A",
+          "text": "xanh lá cây."
+        },
+        {
+          "key": "B",
+          "text": "đỏ."
+        },
+        {
+          "key": "C",
+          "text": "xanh dương."
+        },
+        {
+          "key": "D",
+          "text": "vàng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vòng tròn màu HSL trong sách lấy giá trị từ 0 độ đến 360 độ với 0 độ là đỏ, 120 độ là xanh lá cây, 240 độ là xanh dương và 360 độ cũng là đỏ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "hệ màu HSL"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-mau-chu-va-nen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hệ màu HSL, khi tham số saturation (độ bão hoà) bằng 0% thì màu thu được sẽ",
+      "options": [
+        {
+          "key": "A",
+          "text": "luôn là màu trắng."
+        },
+        {
+          "key": "B",
+          "text": "là màu đầy đủ nhất."
+        },
+        {
+          "key": "C",
+          "text": "luôn là màu đen."
+        },
+        {
+          "key": "D",
+          "text": "biến mất chỉ còn màu xám."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách giải thích saturation có giá trị từ 0% đến 100%, màu sẽ biến mất chỉ còn xám khi độ bão hoà bằng 0% và màu đầy đủ khi độ bão hoà bằng 100%; mức sáng mới do lightness quyết định.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "hệ màu HSL"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-mau-chu-va-nen",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách, trong hệ màu HSL để có màu đúng thì nên đặt tham số lightness bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "0%."
+        },
+        {
+          "key": "B",
+          "text": "100%."
+        },
+        {
+          "key": "C",
+          "text": "50%."
+        },
+        {
+          "key": "D",
+          "text": "25%."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Lightness là độ sáng từ 0% đến 100%, trong đó 0% là mức sáng thấp nhất tức màu đen và 100% là mức sáng lớn nhất tức màu trắng, vì vậy sách kết luận đặt lightness bằng 50% để có màu đúng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "hệ màu HSL"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-khung",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bảng 16.1 về phân loại phần tử CSS, thẻ nào sau đây thuộc loại phần tử khối (block level)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "span."
+        },
+        {
+          "key": "B",
+          "text": "a."
+        },
+        {
+          "key": "C",
+          "text": "div."
+        },
+        {
+          "key": "D",
+          "text": "img."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảng 16.1 xếp h1 đến h6, p, div, address, nav, article, section, aside, form, header, footer, table, hr, ol, ul, li, canvas vào nhóm phần tử khối; các thẻ span, a, img đều thuộc nhóm phần tử nội tuyến.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "phần tử khối"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-khung",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo lưu ý của sách về Bảng 16.2, phát biểu nào đúng với các thuộc tính liên quan đến khung của một phần tử HTML?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ có thuộc tính border là không có tính kế thừa, các thuộc tính còn lại đều kế thừa."
+        },
+        {
+          "key": "B",
+          "text": "padding và margin có tính kế thừa nên phần tử con tự nhận được vùng đệm và lề khung."
+        },
+        {
+          "key": "C",
+          "text": "width và height được kế thừa từ phần tử cha theo mô hình cây HTML."
+        },
+        {
+          "key": "D",
+          "text": "Các thuộc tính width, height, padding, margin, border-color, border-width, border-style và border đều không có tính kế thừa."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách ghi rõ lưu ý: các thuộc tính liên quan đến khung trong Bảng 16.2 đều không có tính kế thừa.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "kế thừa"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-khung",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bảng 16.2, thuộc tính padding có ý nghĩa là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khoảng cách từ đường viền ngoài của khung đến văn bản xung quanh."
+        },
+        {
+          "key": "B",
+          "text": "vùng đệm, khoảng cách từ vùng text đến đường viền ngoài của khung."
+        },
+        {
+          "key": "C",
+          "text": "độ dày của đường viền khung."
+        },
+        {
+          "key": "D",
+          "text": "chiều rộng của phần tử dạng khối."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng 16.2 định nghĩa padding là vùng đệm, khoảng cách từ vùng text đến đường viền ngoài của khung; khoảng cách từ đường viền ngoài đến văn bản xung quanh là margin, độ dày đường viền là border-width.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "khung"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-khung",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bảng 16.2, thuộc tính margin có ý nghĩa là",
+      "options": [
+        {
+          "key": "A",
+          "text": "lề khung, khoảng cách từ đường viền ngoài của khung đến văn bản xung quanh nếu có."
+        },
+        {
+          "key": "B",
+          "text": "vùng đệm nằm giữa nội dung và đường viền trong của khung."
+        },
+        {
+          "key": "C",
+          "text": "khoảng cách giữa các đường cơ sở của các dòng trong cùng một đoạn."
+        },
+        {
+          "key": "D",
+          "text": "màu của viền khung."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảng 16.2 ghi margin là lề khung, khoảng cách từ đường viền ngoài của khung đến văn bản xung quanh nếu có; vùng đệm là padding, khoảng cách giữa các đường cơ sở là line-height, màu viền là border-color.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "khung"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-khung",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo ví dụ trong Bảng 16.2, mẫu CSS nào sau đây gán đồng thời giá trị cho border-width, border-style và border-color?",
+      "options": [
+        {
+          "key": "A",
+          "text": "h1 {border: solid 2px red;}"
+        },
+        {
+          "key": "B",
+          "text": "h1 {border: 2px solid red;}"
+        },
+        {
+          "key": "C",
+          "text": "h1 {border: red 2px solid;}"
+        },
+        {
+          "key": "D",
+          "text": "h1 {border: 2px red solid;}"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách minh hoạ thuộc tính border có thể gán cùng lúc giá trị của border-width, border-style và border-color theo ví dụ {border: 2px solid red;}.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "border"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-khung",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bảng 16.3 về một số định dạng hay gặp với bộ chọn lớp, bộ chọn .test.warning áp dụng cho",
+      "options": [
+        {
+          "key": "A",
+          "text": "tất cả các phần tử có lớp test hoặc có lớp warning."
+        },
+        {
+          "key": "B",
+          "text": "các phần tử p có lớp test và các phần tử p có lớp warning."
+        },
+        {
+          "key": "C",
+          "text": "các phần tử có tên lớp đồng thời là test và warning, ví dụ <p class=\"test warning\">."
+        },
+        {
+          "key": "D",
+          "text": "phần tử có mã định danh id là test warning."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảng 16.3 ghi .test áp dụng cho mọi phần tử có lớp tên là test, .test.warning áp dụng cho các phần tử có tên lớp đồng thời là test và warning, còn p.test chỉ áp dụng cho phần tử p có gắn lớp test.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "bộ chọn lớp"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-khung",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách, khi thiết lập bộ chọn riêng cho từng phần tử bằng mã định danh id thì",
+      "options": [
+        {
+          "key": "A",
+          "text": "mã id phải viết kèm dấu chấm phía trước trong tệp CSS."
+        },
+        {
+          "key": "B",
+          "text": "một mã id có thể dùng chung cho nhiều phần tử trong cùng một trang web."
+        },
+        {
+          "key": "C",
+          "text": "mã id chỉ được dùng cho các phần tử nội tuyến."
+        },
+        {
+          "key": "D",
+          "text": "mỗi phần tử chỉ có một mã định danh id duy nhất trong một trang web."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu mỗi phần tử chỉ có một mã định danh id duy nhất trong một trang web và bộ chọn id viết theo cấu trúc #idname {thuộc tính : giá trị;}, dấu chấm dùng cho bộ chọn lớp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS",
+        "bộ chọn id"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về tính kế thừa và thứ tự ưu tiên khi áp dụng mẫu CSS?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một mẫu CSS áp dụng cho một phần tử HTML bất kì sẽ tự động áp dụng cho tất cả các phần tử là con, cháu của nó, trừ các phần tử đã có mẫu định dạng riêng."
+        },
+        {
+          "key": "B",
+          "text": "Khi nhiều mẫu cùng được thiết lập cho một phần tử, trình duyệt thực hiện mẫu được viết cuối cùng, đó là tính chất cascading của CSS."
+        },
+        {
+          "key": "C",
+          "text": "Thuộc tính text-decoration có tính kế thừa nên phần tử con tự động được gạch chân theo phần tử cha."
+        },
+        {
+          "key": "D",
+          "text": "Ki hiệu !important cần viết ngay sau thuộc tính cần đánh dấu ưu tiên và mang lại mức ưu tiên cao nhất cho thuộc tính đó."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A, B, D đều đúng theo mục 2 của Bài 14. C sai vì sách ghi rõ lưu ý thuộc tính text-decoration không có tính kế thừa, muốn các phần tử con cũng gạch chân phải đặt mẫu riêng cho chúng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "kế thừa CSS"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-mau-chu-va-nen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về cách biểu diễn màu trong HTML và CSS?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mỗi màu là tổ hợp ba giá trị r, g, b với mỗi giá trị là một số 8 bit, nên tổng số màu cho phép là 16 777 216."
+        },
+        {
+          "key": "B",
+          "text": "Trong cách viết rgb(x%,y%,z%), các tham số phần trăm được tính trên cơ sở 100."
+        },
+        {
+          "key": "C",
+          "text": "Các màu xám hay đen trắng có thể thiết lập bằng rgb(x,x,x) với ba tham số bằng nhau hoặc hsl(h,0%,x%) với độ bão hoà bằng 0%."
+        },
+        {
+          "key": "D",
+          "text": "Trong hệ HSL, lightness bằng 0% cho màu trắng và bằng 100% cho màu đen."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A và C đúng theo hệ màu RGB và lưu ý của Bài 15. B sai vì các tham số phần trăm trong rgb(x%,y%,z%) là phần trăm của 255, chẳng hạn rgb(50%,50%,50%) cho màu xám như rgb(128,128,128). D sai vì sách nói 0% là mức sáng thấp nhất tức màu đen, 100% là mức sáng lớn nhất tức màu trắng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "hệ màu RGB và HSL"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-mau-chu-va-nen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về bộ chọn là tổ hợp các phần tử và tính kế thừa của các thuộc tính màu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bộ chọn E F áp dụng cho các phần tử F là con trực tiếp của E."
+        },
+        {
+          "key": "B",
+          "text": "Bộ chọn E + F áp dụng cho các phần tử F là phần tử liền kề ngay sau E và E, F phải có cùng phần tử cha."
+        },
+        {
+          "key": "C",
+          "text": "Cả ba thuộc tính color, background-color và border đều có tính kế thừa."
+        },
+        {
+          "key": "D",
+          "text": "Bộ chọn E ~ F áp dụng cho các phần tử F đứng sau E, không cần liên tục với E và E, F phải có cùng phần tử cha."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "B và D đúng theo Bảng 15.1. A sai vì E F là quan hệ con cháu, F chỉ cần là con hoặc cháu của E, muốn buộc quan hệ cha con trực tiếp phải dùng E > F. C sai vì sách lưu ý các thuộc tính định dạng màu chữ và màu nền có tính kế thừa, riêng border không có tính kế thừa.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "bộ chọn tổ hợp phần tử"
+      ]
+    },
+    {
+      "id": "tinhoc12-05-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-dinh-dang-khung",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về bộ chọn lớp, bộ chọn id và bộ chọn thuộc tính?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai phần tử khác nhau trong cùng một trang web không được dùng trùng một mã định danh id."
+        },
+        {
+          "key": "B",
+          "text": "Tên đặt cho id và class phân biệt chữ in hoa với chữ in thường, phải có ít nhất một kí tự không là số, không bắt đầu bằng số và không chứa dấu cách hay kí tự đặc biệt."
+        },
+        {
+          "key": "C",
+          "text": "Bộ chọn p.test áp dụng cho tất cả các phần tử p có gắn lớp tên test."
+        },
+        {
+          "key": "D",
+          "text": "Bộ chọn [href] {border: 1px solid blue;} chỉ áp dụng cho các phần tử a."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, C đúng theo mục 3 của Bài 16. D sai vì bộ chọn thuộc tính [href] áp dụng cho tất cả các phần tử có thuộc tính href, thẻ a chỉ là một ví dụ; muốn giới hạn thẻ a phải viết a[href].",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "bộ chọn đặc biệt"
+      ]
+    }
+  ]
+}

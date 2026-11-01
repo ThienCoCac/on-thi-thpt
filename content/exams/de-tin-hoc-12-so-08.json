@@ -1,0 +1,932 @@
+{
+  "id": "de-tin-hoc-12-so-08",
+  "title": "Đề ôn tập Tin học 12 số 08 – Liên kết, biểu mẫu và thực hành tổng hợp với Google Sites (Bài 26–28)",
+  "slug": "de-tin-hoc-12-so-08",
+  "description": "Đề ôn tập Chủ đề 7 Ứng dụng tin học, sách Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức), gồm Bài 26–28: trang con và thanh điều hướng, biểu mẫu Google Forms nhúng vào trang web, thực hành tổng hợp và mẫu giao diện của Google Sites. Đề gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút.",
+  "subject": "tin-hoc",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-08",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-01T08:00:00.000Z",
+  "updatedAt": "2026-11-01T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-08-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, các trang con của trang chủ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "các trang được tạo ở cuối trang chủ, chứa thông tin bản quyền của website."
+        },
+        {
+          "key": "B",
+          "text": "các trang web được mở từ bảng chọn của trang chủ."
+        },
+        {
+          "key": "C",
+          "text": "các trang không xuất hiện trên bảng chọn, chỉ truy cập được bằng địa chỉ URL."
+        },
+        {
+          "key": "D",
+          "text": "các trang chứa toàn bộ tư liệu đa phương tiện của website."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu định nghĩa nguyên văn: các trang web được mở từ bảng chọn của trang chủ được gọi là trang con của trang chủ; các trang con này cũng có thể có các trang con của mình.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trang con"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì các trang con của trang chủ cũng có thể có các trang con của mình nên các trang web có thể được tổ chức, sắp xếp theo cấu trúc tương tự",
+      "options": [
+        {
+          "key": "A",
+          "text": "một bảng gồm nhiều hàng và cột."
+        },
+        {
+          "key": "B",
+          "text": "một dãy liên tiếp các trang tính."
+        },
+        {
+          "key": "C",
+          "text": "cây thư mục."
+        },
+        {
+          "key": "D",
+          "text": "một băng ngang cuộn theo chiều dọc."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhiệm vụ 1 mô hình hoá các trang web liên kết với nhau theo cấu trúc hình cây; sách kết luận các trang web có thể được tổ chức, sắp xếp theo cấu trúc tương tự cây thư mục.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "cấu trúc cây"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bảng chọn Trang ở khung bên phải của cửa sổ thiết kế Google Sites, nháy chuột vào dấu ba chấm dọc cạnh Trang chủ xuất hiện menu gồm ba mục",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sao chép trang, Thuộc tính, Thêm trang con."
+        },
+        {
+          "key": "B",
+          "text": "Xoá trang, Đổi tên trang, Công bố trang."
+        },
+        {
+          "key": "C",
+          "text": "Trang mới, Nhúng toàn bộ trang, Đường liên kết mới."
+        },
+        {
+          "key": "D",
+          "text": "Mục trình đơn mới, Nhân bản trang, Di chuyển trang."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hình 26.3 cho thấy menu bật ra từ dấu ba chấm cạnh Trang chủ gồm ba mục: Sao chép trang, Thuộc tính và Thêm trang con; muốn tạo trang con em chọn Thêm trang con.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tạo trang con"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hộp thoại Trang con mới của Bài 26, sau khi nhập tên trang vào ô Tên, em nháy nút nào để hoàn thành việc tạo trang con?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Áp dụng."
+        },
+        {
+          "key": "B",
+          "text": "Chèn."
+        },
+        {
+          "key": "C",
+          "text": "Lưu."
+        },
+        {
+          "key": "D",
+          "text": "Xong."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bước 1 của Bài 26: nháy dấu ba chấm cạnh Trang chủ, chọn Thêm trang con, nhập tên trang con vào ô Tên của hộp thoại Trang con mới (có kèm mục Nâng cao) rồi chọn Xong.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "tạo trang con"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bước 2 của Bài 26, muốn truy cập một trang con từ thanh điều hướng, em thực hiện như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nháy chuột phải vào Trang chủ rồi chọn Mở trang con."
+        },
+        {
+          "key": "B",
+          "text": "Đưa con trỏ chuột đến Trang chủ để bảng chọn mở ra, nháy biểu tượng mở rộng bên trái tên trang cha để hiện các trang con, rồi nháy vào tên trang con cần mở."
+        },
+        {
+          "key": "C",
+          "text": "Gõ trực tiếp tên trang con vào thanh địa chỉ của trình duyệt."
+        },
+        {
+          "key": "D",
+          "text": "Cuộn trang chủ xuống cuối trang và nháy vào liên kết ở chân trang."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách hướng dẫn: đưa con trỏ chuột đến Trang chủ thì bảng chọn mở ra; nháy biểu tượng bên trái tên trang (ví dụ Tây Bắc – Đông Bắc) sẽ thấy lựa chọn trang con (Mù Cang Chải); muốn truy cập một trang con thì nháy chuột vào tên trang đó ở bảng chọn được mở ra từ Trang chủ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "thanh điều hướng"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi người dùng truy cập bằng điện thoại, Google Sites tự động xử lý bảng chọn trên thanh điều hướng như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ nguyên vị trí bảng chọn như trên máy tính nhưng phóng to chữ."
+        },
+        {
+          "key": "B",
+          "text": "Loại bỏ bảng chọn và thay bằng ô tìm kiếm."
+        },
+        {
+          "key": "C",
+          "text": "Tự động chuyển bảng chọn sang phía phải, ngay trước logo của trang và có dạng biểu tượng ba gạch nằm ngang."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển bảng chọn xuống phía dưới chân trang."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách giải thích Google Sites tự động điều chỉnh giao diện cho điện thoại: bảng chọn trên thanh điều hướng được tự động chuyển sang phía phải, ngay trước logo của trang và có dạng biểu tượng ba gạch nằm ngang.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thiết bị di động"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "type": "SINGLE_CHOICE",
+      "content": "Muốn hiển thị bảng chọn trên máy tính giống như trên điện thoại, em thực hiện thiết lập nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cài đặt, Điều hướng, Phần tử xuất hiện nhiều nhất, chọn Bên."
+        },
+        {
+          "key": "B",
+          "text": "Cài đặt, Điều hướng, Phần tử xuất hiện nhiều nhất, chọn Trên cùng."
+        },
+        {
+          "key": "C",
+          "text": "Chèn, Bảng chọn, Kiểu hiển thị, chọn Ngang."
+        },
+        {
+          "key": "D",
+          "text": "Giao diện, Mẫu, Bảng màu, chọn tông đậm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu: nếu muốn bảng chọn hiển thị trên máy tính giống như trên điện thoại thì chọn Cài đặt, Điều hướng, Phần tử xuất hiện nhiều nhất, Bên. Phương án B sai vì Trên cùng là tuỳ chọn khác, không phải cách bố trí như trên điện thoại.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "thanh điều hướng"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 26, phần đầu của các trang con vừa được khởi tạo trong Google Sites có đặc điểm gì và nên chỉnh sửa ra sao?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Được giữ nguyên hoàn toàn như trang chủ và không thể thay đổi."
+        },
+        {
+          "key": "B",
+          "text": "Được tạo tự động với nền xám mặc định và không có tiêu đề."
+        },
+        {
+          "key": "C",
+          "text": "Phải tạo thủ công từ đầu vì Google Sites không hỗ trợ phần đầu trang con."
+        },
+        {
+          "key": "D",
+          "text": "Được tạo tự động với hình nền của trang chủ và tiêu đề tương ứng; vì là trang con nên cần giảm chiều cao phần đầu và thay hình nền để phân biệt với trang chủ."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bước 3 của Bài 26: phần đầu của các trang mới được tạo tự động với hình nền của trang chủ và tiêu đề tương ứng; tiếp theo cần chỉnh sửa phần đầu, cụ thể là giảm chiều cao của phần đầu trang và thay hình nền để phân biệt.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "phần đầu trang"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-bieu-mau-google-forms",
+      "type": "SINGLE_CHOICE",
+      "content": "Bản chất việc tạo biểu mẫu (form) trên trang web để lấy ý kiến phản hồi của người dùng theo Bài 27 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tạo biểu mẫu ngay trong cửa sổ chỉnh sửa của Google Sites."
+        },
+        {
+          "key": "B",
+          "text": "tạo biểu mẫu bằng ứng dụng Forms của Google rồi nhúng vào trang web được thiết kế bằng Google Sites."
+        },
+        {
+          "key": "C",
+          "text": "viết biểu mẫu bằng ngôn ngữ HTML rồi dán vào trang."
+        },
+        {
+          "key": "D",
+          "text": "sử dụng một ứng dụng khảo sát của bên thứ ba không thuộc Google."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách khẳng định bản chất của việc tạo biểu mẫu trên trang web là tạo biểu mẫu bằng ứng dụng Forms của Google rồi nhúng vào trang web được thiết kế bằng Google Sites; đây cũng là điều dễ nhầm vì không thể tạo biểu mẫu ngay trong Google Sites.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Google Forms"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-bieu-mau-google-forms",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bước 1 của Bài 27, bộ câu hỏi chuẩn bị cho biểu mẫu",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ gồm các câu hỏi trắc nghiệm với đúng bốn lựa chọn."
+        },
+        {
+          "key": "B",
+          "text": "chỉ gồm các câu trả lời ngắn."
+        },
+        {
+          "key": "C",
+          "text": "có thể là các câu hỏi trắc nghiệm hoặc là câu trả lời ngắn."
+        },
+        {
+          "key": "D",
+          "text": "chỉ gồm các câu hỏi chấm điểm kèm đáp án."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu: trước hết phải chuẩn bị biểu mẫu là một bộ câu hỏi, có thể là các câu hỏi trắc nghiệm hoặc là câu trả lời ngắn; ví dụ trong sách là một câu hỏi trắc nghiệm bốn lựa chọn A, B, C, D.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "bộ câu hỏi"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-bieu-mau-google-forms",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giao diện ứng dụng Forms của Bài 27, ba tab hiển thị trên một biểu mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Câu hỏi, Câu trả lời, Cài đặt."
+        },
+        {
+          "key": "B",
+          "text": "Nội dung, Thiết kế, Phản hồi."
+        },
+        {
+          "key": "C",
+          "text": "Tệp, Chỉnh sửa, Xem."
+        },
+        {
+          "key": "D",
+          "text": "Câu hỏi, Chủ đề, Trả lời."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hình 27.4 và Hình 27.8 cho thấy biểu mẫu có ba tab: Câu hỏi để soạn thảo, Câu trả lời để xem thống kê phản hồi và Cài đặt để thiết lập các tuỳ chọn của biểu mẫu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "giao diện Forms"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-bieu-mau-google-forms",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bước 3 của Bài 27, để người trả lời bắt buộc phải trả lời một câu hỏi, em",
+      "options": [
+        {
+          "key": "A",
+          "text": "đặt câu hỏi đó ở vị trí đầu tiên của biểu mẫu."
+        },
+        {
+          "key": "B",
+          "text": "thêm tuỳ chọn Câu trả lời khác cho câu hỏi đó."
+        },
+        {
+          "key": "C",
+          "text": "nhập câu hỏi bằng chữ in hoa."
+        },
+        {
+          "key": "D",
+          "text": "chọn kiểu câu hỏi là Trắc nghiệm và bật tuỳ chọn Bắt buộc."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách hướng dẫn tạo câu hỏi: chọn câu hỏi Trắc nghiệm, bật kiểu câu hỏi là Bắt buộc, sau đó nhập nội dung câu hỏi và lần lượt nhập nội dung cho các tuỳ chọn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tạo câu hỏi"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-bieu-mau-google-forms",
+      "type": "SINGLE_CHOICE",
+      "content": "Để nhúng biểu mẫu đã tạo vào trang chủ, trong bảng chọn Chèn của Google Sites em nháy vào nút lệnh nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phần giữ chỗ."
+        },
+        {
+          "key": "B",
+          "text": "Biểu mẫu."
+        },
+        {
+          "key": "C",
+          "text": "Tài liệu."
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhiệm vụ 2: mở trang chủ, nháy chuột vào nút lệnh Biểu mẫu trong bảng chọn Chèn, chọn biểu mẫu cần nhúng rồi nháy nút Chèn ở góc dưới bên phải của hộp chọn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "nhúng biểu mẫu"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-bieu-mau-google-forms",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo các bước nhúng trong Bài 27, sau khi được thêm vào trang chủ theo hướng dẫn của sách, biểu mẫu nằm ở vị trí nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngay trên cùng, thay thế phần đầu trang."
+        },
+        {
+          "key": "B",
+          "text": "Trong bảng chọn của thanh điều hướng."
+        },
+        {
+          "key": "C",
+          "text": "Ở cuối trang chủ."
+        },
+        {
+          "key": "D",
+          "text": "Trong một cửa sổ riêng do Google Sites tự tạo."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách viết: để nhúng biểu mẫu đã tạo vào cuối trang chủ, ta thực hiện các bước đã học; Hình 27.7 minh hoạ biểu mẫu Ý kiến phản hồi của bạn xuất hiện trong trang web.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "nhúng biểu mẫu"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-bieu-mau-google-forms",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Nhiệm vụ 3 của Bài 27, trong tab Câu trả lời, muốn xem thông tin chi tiết về câu trả lời của từng người, em chọn",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cá nhân."
+        },
+        {
+          "key": "B",
+          "text": "Bản tóm tắt."
+        },
+        {
+          "key": "C",
+          "text": "Câu hỏi."
+        },
+        {
+          "key": "D",
+          "text": "Gửi."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách mô tả: Bản tóm tắt thống kê câu trả lời dạng biểu đồ, Câu hỏi cho biết thông tin chi tiết cho từng câu hỏi, Cá nhân cho biết thông tin chi tiết về câu trả lời của từng người, còn Xem trong Trang tính cho thấy toàn bộ dữ liệu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "thống kê phản hồi"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-bieu-mau-google-forms",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bảng tính chứa dữ liệu trả lời của biểu mẫu (Hình 27.10), cột A là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tên người trả lời."
+        },
+        {
+          "key": "B",
+          "text": "câu hỏi đầu tiên của biểu mẫu."
+        },
+        {
+          "key": "C",
+          "text": "tiêu đề của biểu mẫu."
+        },
+        {
+          "key": "D",
+          "text": "Dấu thời gian."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dữ liệu trả lời được tập hợp vào bảng tính với cột A là Dấu thời gian, các cột tiếp theo tương ứng với các câu hỏi của biểu mẫu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Trang tính"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo phần khái quát nhiệm vụ của Bài 28, yêu cầu về nội dung của sản phẩm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "bao gồm ít nhất 10 bài viết dài."
+        },
+        {
+          "key": "B",
+          "text": "bao gồm các tư liệu đa phương tiện với ít nhất 3 đến 4 bài viết ngắn gọn."
+        },
+        {
+          "key": "C",
+          "text": "chỉ cần một hệ thống câu hỏi trắc nghiệm."
+        },
+        {
+          "key": "D",
+          "text": "chỉ cần hình ảnh và âm nhạc, không cần bài viết."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Yêu cầu Nội dung của Bài 28 ghi rõ: bao gồm các tư liệu đa phương tiện với ít nhất 3 đến 4 bài viết ngắn gọn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "yêu cầu sản phẩm"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Nhiệm vụ 1 của Bài 28, hình thức làm việc và thời gian thực hiện được quy định như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ làm việc cá nhân, hoàn thành tại nhà trong một tuần."
+        },
+        {
+          "key": "B",
+          "text": "Làm việc nhóm tối thiểu 5 người, thời gian 5 tiết trên lớp."
+        },
+        {
+          "key": "C",
+          "text": "Có thể làm việc cá nhân hoặc nhóm không quá 3 người, với chủ đề vừa phải để thực hiện được trong khoảng thời gian 3 tiết thực hành trên lớp."
+        },
+        {
+          "key": "D",
+          "text": "Làm việc nhóm không quá 3 người và phải hoàn thành ngoài giờ học."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách hướng dẫn: có thể làm việc cá nhân hoặc nhóm (không quá 3 người); chủ đề không nên quá rộng, bảo đảm có thể nhanh chóng chuẩn bị tư liệu và dùng Google Sites thực hiện được trong khoảng thời gian 3 tiết thực hành trên lớp.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "chọn chủ đề"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong ví dụ website Địa lí Việt Nam ở Nhiệm vụ 2 của Bài 28, bảng chọn trên thanh điều hướng gồm các mục",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trang chủ, Địa lí Tự nhiên, Địa lí Kinh tế – Xã hội, Trắc nghiệm."
+        },
+        {
+          "key": "B",
+          "text": "Trang chủ, Trang con, Biểu mẫu, Bảng tính."
+        },
+        {
+          "key": "C",
+          "text": "Lí thuyết, Thực hành, Hệ thống, Phản hồi."
+        },
+        {
+          "key": "D",
+          "text": "Tự nhiên, Kinh tế, Lịch sử, Địa lí."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phần bố cục của ví dụ nêu: trên thanh điều hướng có bảng chọn Trang chủ, Địa lí Tự nhiên, Địa lí Kinh tế – Xã hội, Trắc nghiệm; mỗi lựa chọn sẽ dẫn đến những trang với nội dung tương ứng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thanh điều hướng"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "SINGLE_CHOICE",
+      "content": "Về màu sắc và phông chữ cho website Địa lí Việt Nam, Bài 28 lựa chọn",
+      "options": [
+        {
+          "key": "A",
+          "text": "phông chữ Serif, các kích thước 11, 13, 16."
+        },
+        {
+          "key": "B",
+          "text": "phông chữ đơn cách, các kích thước 10, 12, 14."
+        },
+        {
+          "key": "C",
+          "text": "phông chữ thảo, các kích thước 12, 16, 20."
+        },
+        {
+          "key": "D",
+          "text": "phông chữ Sans Serif, các kích thước 10, 12, 18."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu: chọn bảng màu nhẹ nhàng và tươi tắn, sử dụng phông chữ Sans Serif với các kích thước 10, 12, 18; kích thước và màu sắc của tiêu đề trên ảnh nền có thể thay đổi cho phù hợp.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "phông chữ"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong Bước 1 của Nhiệm vụ 3 (Bài 28), nháy vào dấu cộng trong bảng chọn Trang xuất hiện danh sách bốn lựa chọn là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trang mới, Sao chép trang, Di chuyển trang, Xoá trang."
+        },
+        {
+          "key": "B",
+          "text": "Mục trình đơn mới, Nhúng toàn bộ trang, Đường liên kết mới, Trang mới."
+        },
+        {
+          "key": "C",
+          "text": "Thêm trang con, Thuộc tính, Sao chép trang, Mục trình đơn mới."
+        },
+        {
+          "key": "D",
+          "text": "Phần giữ chỗ, YouTube, Lịch, Bản đồ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hình 28.2 minh hoạ thao tác tạo trang mới: danh sách bật ra từ dấu cộng trong bảng chọn Trang gồm bốn lựa chọn: Mục trình đơn mới, Nhúng toàn bộ trang, Đường liên kết mới và Trang mới; em chọn Trang mới, nhập tên rồi nháy Xong.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tạo trang mới"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo lưu ý in nghiêng trong Bài 28, trong giao diện bảng chọn Trang em có thể",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ thay đổi được tên trang, không thay đổi được trình tự."
+        },
+        {
+          "key": "B",
+          "text": "thay đổi hình nền cho tất cả các trang cùng một lúc."
+        },
+        {
+          "key": "C",
+          "text": "thực hiện thao tác kéo thả để di chuyển, thay đổi trình tự và mức hiển thị trang trong cấu trúc cây các trang như di chuyển thư mục trong cây thư mục."
+        },
+        {
+          "key": "D",
+          "text": "xoá Trang chủ để thay bằng trang khác."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Lưu ý của sách ghi rõ: trong giao diện bảng chọn Trang, em có thể thực hiện thao tác kéo thả để di chuyển, thay đổi trình tự và mức hiển thị trang trong cấu trúc cây các trang như di chuyển thư mục trong cây thư mục.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "cấu trúc cây"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 28, mẫu giao diện của Google Sites là",
+      "options": [
+        {
+          "key": "A",
+          "text": "một tập hợp các quy định về bảng màu, phông chữ, thiết kế đầu trang; khi đã chọn một mẫu thì toàn bộ giao diện sẽ được điều khiển hiển thị mặc định, thống nhất theo các quy định của mẫu đó."
+        },
+        {
+          "key": "B",
+          "text": "một bài viết mẫu để sao chép nguyên văn vào trang chủ."
+        },
+        {
+          "key": "C",
+          "text": "bộ logo và favicon mà Google Sites cấp cho mỗi website."
+        },
+        {
+          "key": "D",
+          "text": "một biểu mẫu được tạo sẵn trong ứng dụng Forms."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách định nghĩa: mẫu giao diện là một tập hợp các quy định về bảng màu, phông chữ, thiết kế đầu trang; khi đã chọn một mẫu thì toàn bộ giao diện sẽ được điều khiển hiển thị mặc định, thống nhất theo các quy định của mẫu đó.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "mẫu giao diện"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào đúng về các mẫu giao diện có sẵn của Google Sites theo Bài 28?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mỗi mẫu có bảng màu gồm 3 màu đều cố định, không thể điều chỉnh."
+        },
+        {
+          "key": "B",
+          "text": "Mỗi mẫu cho phép tự do thay đổi toàn bộ phông chữ."
+        },
+        {
+          "key": "C",
+          "text": "Sau khi chọn mẫu không còn thay đổi được màu sắc hay phông chữ của bất kỳ phần nào."
+        },
+        {
+          "key": "D",
+          "text": "Mỗi mẫu có bảng màu gồm 3 màu, trong đó 2 màu cố định (tông nhẹ) và 1 màu (tông đậm) có thể điều chỉnh, cùng phông chữ với 3 phông và kiểu cố định; tuy nhiên vẫn có thể thay đổi riêng về màu sắc, phông chữ của một phần nào đó trong quá trình thiết lập."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách mô tả mỗi mẫu có định dạng cụ thể: bảng màu có 3 màu trong đó 2 màu cố định (tông nhẹ) và 1 màu (tông đậm) có thể điều chỉnh, phông chữ với 3 phông và kiểu cố định; tuy nhiên vẫn có thể thay đổi riêng về màu sắc, phông chữ của một phần nào đó.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "mẫu giao diện"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Chọn các nhận định đúng về trang con và thanh điều hướng trong Google Sites theo Bài 26.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các trang web có thể được tổ chức, sắp xếp theo cấu trúc tương tự cây thư mục."
+        },
+        {
+          "key": "B",
+          "text": "Các trang con của trang chủ cũng có thể có các trang con của mình."
+        },
+        {
+          "key": "C",
+          "text": "Muốn tạo trang con phải sao chép toàn bộ trang chủ rồi đổi tên trang vừa sao chép."
+        },
+        {
+          "key": "D",
+          "text": "Muốn truy cập một trang con nhất thiết phải nhập địa chỉ URL của trang đó trên thanh địa chỉ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A và B đúng theo định nghĩa trang con và mô hình cấu trúc hình cây của Bài 26. C sai vì tạo trang con bằng cách nháy dấu ba chấm cạnh Trang chủ trong bảng chọn Trang rồi chọn Thêm trang con, không cần sao chép trang chủ. D sai vì muốn truy cập một trang con thì nháy chuột vào tên trang đó ở bảng chọn được mở ra từ Trang chủ.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "trang con"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-bieu-mau-google-forms",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Chọn các nhận định đúng về tạo và sử dụng biểu mẫu theo Bài 27.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bản chất của tạo biểu mẫu trên trang web là tạo biểu mẫu bằng ứng dụng Forms của Google rồi nhúng vào trang web được thiết kế bằng Google Sites."
+        },
+        {
+          "key": "B",
+          "text": "Một biểu mẫu chỉ có thể chứa duy nhất một câu hỏi trắc nghiệm bốn lựa chọn."
+        },
+        {
+          "key": "C",
+          "text": "Bộ câu hỏi của biểu mẫu có thể là các câu hỏi trắc nghiệm hoặc là câu trả lời ngắn."
+        },
+        {
+          "key": "D",
+          "text": "Để tạo biểu mẫu mới, nháy vào biểu tượng dấu cộng rồi nháy vào Mẫu không có tiêu đề để nhập tiêu đề cho biểu mẫu."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A, C, D đều đúng theo nội dung Nhiệm vụ 1 của Bài 27. B sai vì sau câu hỏi đầu tiên, nháy nút dấu cộng ở bảng chọn bên phải để tiếp tục nhập thêm các câu hỏi khác; ví dụ một câu hỏi trắc nghiệm bốn lựa chọn A đến D trong sách chỉ là minh hoạ cho bộ câu hỏi chuẩn bị.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "Google Forms"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Chọn các nhận định đúng về yêu cầu sản phẩm của thực hành tổng hợp theo Bài 28.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nội dung của website bao gồm các tư liệu đa phương tiện với ít nhất 3 đến 4 bài viết ngắn gọn."
+        },
+        {
+          "key": "B",
+          "text": "Các trang của website được phép là trang văn bản thuần chữ nếu nội dung đã hay."
+        },
+        {
+          "key": "C",
+          "text": "Website cần có bảng chọn ở thanh điều hướng để đi tới các trang con và có biểu mẫu với nội dung hợp lí."
+        },
+        {
+          "key": "D",
+          "text": "Sản phẩm kèm theo thuyết minh sản phẩm dưới dạng một bài giới thiệu ngắn gọn về mục đích, ý nghĩa của sản phẩm cùng các yêu cầu đã đạt được."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A, C, D đúng theo phần khái quát nhiệm vụ và yêu cầu của Bài 28. B sai vì sách yêu cầu tất cả các trang web đều có dữ liệu đa phương tiện, không phải trang văn bản thuần chữ.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "yêu cầu sản phẩm"
+      ]
+    },
+    {
+      "id": "tinhoc12-08-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Dựa vào Bảng giải thích thuật ngữ của sách giáo khoa, chọn các nhận định đúng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Favicon là viết tắt của Favorite Icon, biểu tượng của website, hiển thị trên tab của cửa sổ trình duyệt."
+        },
+        {
+          "key": "B",
+          "text": "Sans Serif Font là phông chữ có chân."
+        },
+        {
+          "key": "C",
+          "text": "Cây HTML là cấu trúc hình cây, quan hệ phân tầng cha – con của các phần tử html."
+        },
+        {
+          "key": "D",
+          "text": "Trọng số của định dạng CSS là số lần xuất hiện của một định dạng trong tệp style."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A và C đúng theo định nghĩa trong Bảng giải thích thuật ngữ. B sai vì Sans Serif Font là phông chữ không có chân, phông chữ có chân là Serif Font. D sai vì trọng số của định dạng CSS là thứ tự ưu tiên từ cao xuống thấp khi được chọn mẫu định dạng của CSS.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "thuật ngữ"
+      ]
+    }
+  ]
+}

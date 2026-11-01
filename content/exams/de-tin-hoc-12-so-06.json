@@ -1,0 +1,959 @@
+{
+  "id": "de-tin-hoc-12-so-06",
+  "title": "Đề ôn tập Tin học 12 số 06 – Ưu tiên của bộ chọn, hướng nghiệp và thiết bị số (Bài 17–22)",
+  "slug": "de-tin-hoc-12-so-06",
+  "description": "Đề ôn tập sách Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức): Bài 17–18 thuộc Chủ đề 4 về các mức ưu tiên của bộ chọn và thực hành tổng hợp thiết kế trang web, Bài 19–21 thuộc Chủ đề 5 về hướng nghiệp với tin học và Bài 22 thuộc Chủ đề 6 về thực hành kết nối các thiết bị số. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, 45 phút.",
+  "subject": "tin-hoc",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-06",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-01T08:00:00.000Z",
+  "updatedAt": "2026-11-01T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-06-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong CSS, pseudo-class (lớp giả) là khái niệm chỉ",
+      "options": [
+        {
+          "key": "A",
+          "text": "các trạng thái đặc biệt của phần tử HTML, các trạng thái này không cần định nghĩa và mặc định được coi như các lớp có sẵn của CSS."
+        },
+        {
+          "key": "B",
+          "text": "một phần hoặc một thành phần nhỏ hơn của các phần tử bình thường."
+        },
+        {
+          "key": "C",
+          "text": "các thông tin định dạng mà phần tử nhận được từ phần tử cha."
+        },
+        {
+          "key": "D",
+          "text": "mẫu định dạng nằm ngay trong phần tử HTML với thuộc tính style."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách định nghĩa pseudo-class chỉ các trạng thái đặc biệt của phần tử HTML, không cần định nghĩa và mặc định được coi như các lớp có sẵn của CSS. Đáp án B là khái niệm pseudo-element (phần tử giả).",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "lớp giả",
+        "pseudo-class"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu định dạng a:visited {color: gray;} quy định điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "tất cả các liên kết khi chưa được kích hoạt sẽ có màu xám."
+        },
+        {
+          "key": "B",
+          "text": "tất cả các liên kết sau khi đã được kích hoạt một lần chuyển sang màu xám."
+        },
+        {
+          "key": "C",
+          "text": "liên kết đang được người dùng di con trỏ chuột qua sẽ có màu xám."
+        },
+        {
+          "key": "D",
+          "text": "dòng đầu tiên của mọi liên kết có màu xám."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo Bảng 17.1, :visited áp dụng cho tất cả các liên kết sau khi đã được kích hoạt một lần; :link mới là trạng thái chưa được kích hoạt còn :hover là trạng thái di con trỏ chuột lên đối tượng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "lớp giả",
+        "lien ket"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về dòng đầu tiên được định dạng bằng bộ chọn ::first-line?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Luôn là dòng đầu tiên của văn bản nên không thay đổi khi thay đổi độ rộng cửa sổ trình duyệt."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ gồm đúng một kí tự đầu tiên của đối tượng."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ được xác định khi người dùng kéo thả chuột để chọn vùng văn bản trên màn hình."
+        },
+        {
+          "key": "D",
+          "text": "Không phụ thuộc vào văn bản mà chỉ phụ thuộc vào độ rộng của cửa sổ trình duyệt."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Khi minh hoạ bộ chọn pseudo-element, sách lưu ý dòng đầu tiên này không phụ thuộc vào văn bản mà chỉ phụ thuộc vào độ rộng của cửa sổ trình duyệt. Đáp án B mô tả ::first-letter, đáp án C mô tả ::selection.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "phần tử giả",
+        "first-line"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các mức ưu tiên: (1) CSS trực tiếp (inline CSS), (2) !important, (3) CSS liên quan đến kích thước thiết bị (Media type), (4) Trọng số CSS. Xếp nào sau đây đúng thứ tự từ ưu tiên cao xuống ưu tiên thấp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(2), (1), (3), (4)."
+        },
+        {
+          "key": "B",
+          "text": "(1), (2), (3), (4)."
+        },
+        {
+          "key": "C",
+          "text": "(2), (3), (1), (4)."
+        },
+        {
+          "key": "D",
+          "text": "(4), (3), (2), (1)."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảng 17.3 xếp thứ tự ưu tiên từ cao xuống thấp là: !important, CSS trực tiếp (inline CSS), CSS liên quan đến kích thước thiết bị (Media type), trọng số CSS, nguyên tắc thứ tự cuối cùng, kế thừa từ CSS cha và mặc định theo trình duyệt.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "thứ tự ưu tiên",
+        "important"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hai mẫu định dạng .test {color: green;} và p {color: red;} cùng áp dụng cho phần tử p có lớp là test với nội dung Tin học 12. Cụm từ Tin học 12 sẽ có màu gì và vì sao?",
+      "options": [
+        {
+          "key": "A",
+          "text": "màu đỏ, vì bộ chọn p tác động trực tiếp vào phần tử chứa văn bản."
+        },
+        {
+          "key": "B",
+          "text": "màu đỏ, vì hai mẫu có cùng trọng số nên trình duyệt lấy mẫu cuối cùng."
+        },
+        {
+          "key": "C",
+          "text": "màu xanh lá cây, vì mẫu .test có trọng số 10 lớn hơn trọng số 1 của mẫu p."
+        },
+        {
+          "key": "D",
+          "text": "màu xanh lá cây, vì mẫu .test được đặt ở vị trí cuối cùng trong khối style."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo Bảng 17.4, lớp đóng góp 10 còn phần tử đóng góp 1, nên định dạng .test có trọng số 10 lớn hơn trọng số 1 của định dạng p và được áp dụng: cụm từ có màu xanh lá cây.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "trọng số CSS",
+        "specificity"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở mức đơn giản, dự án website giới thiệu các câu lạc bộ ngoại khoá của trường trong Bài 18 gồm ba trang nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "trang chủ, trang giới thiệu các câu lạc bộ thể thao và trang giới thiệu các câu lạc bộ nghệ thuật."
+        },
+        {
+          "key": "B",
+          "text": "trang chủ, trang đăng kí và trang liên hệ."
+        },
+        {
+          "key": "C",
+          "text": "trang tin tức, trang hình ảnh và trang video."
+        },
+        {
+          "key": "D",
+          "text": "trang giới thiệu, trang lịch hoạt động và trang thành tích."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách thiết kế website gồm ba thành viên trang tương ứng với trang chủ, trang giới thiệu các câu lạc bộ thể thao và các câu lạc bộ nghệ thuật; trang dang_ki.html chứa biểu mẫu đăng kí là trang tạo thêm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "dự án website",
+        "cấu trúc trang"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao các trang của website trong dự án Bài 18 nên liên kết tới cùng một tệp tin CSS?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Để giảm số lượng tệp html cần tạo cho website."
+        },
+        {
+          "key": "B",
+          "text": "Để các trang tuân theo phong cách trình bày chung, bảo đảm thống nhất."
+        },
+        {
+          "key": "C",
+          "text": "Để không phải sử dụng ảnh và video trong các trang."
+        },
+        {
+          "key": "D",
+          "text": "Để không cần dùng thẻ div khi xây dựng bố cục."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu rõ các trang nên tuân theo phong cách trình bày chung bằng cách sử dụng liên kết tới cùng một tệp tin CSS; tệp này được lưu dưới tên style.css.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "style.css",
+        "thống nhất trình bày"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Khối slogan gồm ba ô trên hàng ngang có định dạng giống nhau, mỗi ô rộng bằng 1/3 độ rộng trang và đã được định nghĩa bằng lớp block_3. Vì sao vẫn phải tạo thêm lớp Row?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì lớp block_3 không quy định được độ rộng cho các ô."
+        },
+        {
+          "key": "B",
+          "text": "Vì khi sử dụng thẻ div các ô sẽ xếp theo chiều dọc, cần một lớp có độ rộng bằng độ rộng trang chứa ba ô để hiển thị theo hàng ngang."
+        },
+        {
+          "key": "C",
+          "text": "Vì ba ô chỉ hiển thị được khi đặt trong một bảng."
+        },
+        {
+          "key": "D",
+          "text": "Vì block_3 chỉ dùng cho phần nội dung chính, không dùng cho slogan."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách giải thích: tuy các ô giống nhau nên chỉ cần tạo một lớp CSS tên là block_3, nhưng khi sử dụng thẻ div các ô sẽ được xếp theo chiều dọc, vì vậy phải tạo ra một lớp Row có độ rộng bằng độ rộng trang để chứa ba ô nằm ngang.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "bố cục",
+        "flex"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-sua-chua-bao-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 19, nội dung của nghề sửa chữa và bảo trì máy tính được hiểu như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ gồm các công việc can thiệp trực tiếp vào linh kiện phần cứng của máy tính."
+        },
+        {
+          "key": "B",
+          "text": "Là việc cài đặt hệ điều hành và các ứng dụng văn phòng cho người dùng."
+        },
+        {
+          "key": "C",
+          "text": "Là việc hướng dẫn người dùng sử dụng máy tính và thiết bị công nghệ thông tin."
+        },
+        {
+          "key": "D",
+          "text": "Là tất cả các công việc để đảm bảo máy tính hoạt động một cách ổn định, hiệu quả."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách khẳng định tất cả các công việc để đảm bảo máy tính hoạt động một cách ổn định, hiệu quả đều nằm trong nội dung sửa chữa và bảo trì máy tính; sửa chữa, bảo trì phần cứng không tách rời việc duy trì phần mềm đi kèm và đảm bảo môi trường hoạt động cho cả hệ thống.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ sửa chữa",
+        "bảo trì"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-sua-chua-bao-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Công việc nào sau đây thuộc nhóm công việc liên quan tới phần mềm của nghề sửa chữa và bảo trì máy tính?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nâng cấp hoặc bổ sung thiết bị như thay ổ cứng, RAM có dung lượng lớn hơn."
+        },
+        {
+          "key": "B",
+          "text": "Phát hiện nguyên nhân hỏng thiết bị để biết có thể sửa, thay thế hay cấu hình lại."
+        },
+        {
+          "key": "C",
+          "text": "Rà soát an toàn của hệ thống bằng cách quét mã độc và cấu hình phần mềm phòng chống virus."
+        },
+        {
+          "key": "D",
+          "text": "Thay màn hình có độ phân giải cao hơn theo yêu cầu của tổ chức."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách xếp việc quét mã độc và cấu hình phần mềm phòng chống virus vào nhóm công việc liên quan tới phần mềm; các việc ở A, B, D thuộc nhóm liên quan tới phần cứng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "phần mềm",
+        "an toàn hệ thống"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-sua-chua-bao-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng khi so sánh đào tạo ở bậc Cao đẳng và bậc Đại học đối với nghề sửa chữa, bảo trì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trường dạy nghề ở bậc Cao đẳng thường có nhiều điều kiện đảm bảo mức độ thành thạo hơn; ở bậc Đại học kĩ năng sửa chữa thiết bị cụ thể ít được chú ý hơn nhưng sinh viên được đào tạo tốt về nguyên lí hoạt động."
+        },
+        {
+          "key": "B",
+          "text": "Bậc Đại học chú trọng kĩ năng sửa chữa thiết bị cụ thể nhiều hơn bậc Cao đẳng."
+        },
+        {
+          "key": "C",
+          "text": "Hai bậc đào tạo như nhau vì mức độ thành thạo không phải là yếu tố quan trọng."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ người học ở bậc Cao đẳng mới giải quyết được các vấn đề phức tạp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nhấn mạnh mức độ thành thạo trong công việc là yếu tố quan trọng nhất: trường dạy nghề ở bậc Cao đẳng thường có điều kiện nhiều hơn để đảm bảo điều này; ở bậc Đại học, kĩ năng sửa chữa thiết bị cụ thể ít được chú ý hơn nhưng sinh viên được đào tạo tốt về nguyên lí hoạt động nên giải quyết được các vấn đề phức tạp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hướng nghiệp",
+        "đào tạo"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-sua-chua-bao-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Kĩ năng mềm nào được sách mô tả là khả năng hoàn thành dự án sửa chữa, bảo trì trong thời gian quy định và đáp ứng yêu cầu của khách hàng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kĩ năng học hỏi, cập nhật kiến thức."
+        },
+        {
+          "key": "B",
+          "text": "Kĩ năng giải quyết vấn đề."
+        },
+        {
+          "key": "C",
+          "text": "Kĩ năng giao tiếp."
+        },
+        {
+          "key": "D",
+          "text": "Kĩ năng quản lí thời gian."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách liệt kê bốn kĩ năng mềm cần có, trong đó kĩ năng quản lí thời gian là có khả năng quản lí thời gian để hoàn thành dự án sửa chữa, bảo trì trong thời gian quy định và đáp ứng yêu cầu của khách hàng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng mềm",
+        "quản lí thời gian"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "type": "SINGLE_CHOICE",
+      "content": "Nghề nào trong nhóm nghề quản trị ở Bài 20 có nhiệm vụ quản lí và duy trì toàn bộ hệ thống thông tin của tổ chức, bao gồm cả phần cứng và phần mềm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quản trị mạng."
+        },
+        {
+          "key": "B",
+          "text": "Bảo mật hệ thống thông tin."
+        },
+        {
+          "key": "C",
+          "text": "Quản trị và bảo trì hệ thống."
+        },
+        {
+          "key": "D",
+          "text": "Quản trị cơ sở dữ liệu."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách mô tả nghề quản trị và bảo trì hệ thống quản lí và duy trì toàn bộ hệ thống thông tin của tổ chức, bao gồm cả phần cứng và phần mềm. Bài 20 chỉ liệt kê ba nghề, không có mục quản trị cơ sở dữ liệu.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "nghề quản trị",
+        "hệ thống thông tin"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "type": "SINGLE_CHOICE",
+      "content": "Chi tiết nào sau đây đúng với WannaCry theo nội dung mở đầu Bài 20?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là một trong những phần mềm độc hại đáng chú ý nhất trong lịch sử máy tính, tấn công vào tháng 5 năm 2017."
+        },
+        {
+          "key": "B",
+          "text": "Là hệ thống phát hiện xâm nhập được một hãng hàng không ở Anh triển khai."
+        },
+        {
+          "key": "C",
+          "text": "Là cuộc tấn công vào hệ thống máy tính của một hãng điện tử lâu đời của Nhật Bản năm 2014."
+        },
+        {
+          "key": "D",
+          "text": "Là phần mềm phòng chống virus được dùng để quét mã độc cho hệ thống."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách giới thiệu WannaCry là một trong những phần mềm độc hại và đáng chú ý nhất trong lịch sử máy tính với cuộc tấn công xảy ra vào tháng 5 năm 2017. Sự cố của hãng hàng không ở Anh xảy ra cùng thời điểm với WannaCry, còn vụ năm 2014 là của một hãng điện tử lâu đời của Nhật Bản.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "an ninh mạng",
+        "WannaCry"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong khối kiến thức về bảo mật thông tin ở Bài 20, viết tắt IDS tương ứng với thuật ngữ nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hệ thống phòng thủ tường lửa."
+        },
+        {
+          "key": "B",
+          "text": "Hệ thống phát hiện xâm nhập."
+        },
+        {
+          "key": "C",
+          "text": "Tấn công từ chối dịch vụ."
+        },
+        {
+          "key": "D",
+          "text": "Tấn công dò lỗ hổng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách liệt kê các phương thức tấn công mạng như tấn công từ chối dịch vụ (DoS) và tấn công dò lỗ hổng (Vulnerability scanning), đồng thời yêu cầu biết triển khai và quản lí hệ thống phát hiện xâm nhập (Intrusion Detection System – IDS) và hệ thống phòng thủ tường lửa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "bảo mật thông tin",
+        "IDS"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên nào sau đây KHÔNG nằm trong danh mục ngành học liên quan tới nhóm nghề quản trị thuộc ngành Công nghệ thông tin ở Bài 20?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An ninh mạng."
+        },
+        {
+          "key": "B",
+          "text": "Hệ thống thông tin."
+        },
+        {
+          "key": "C",
+          "text": "Quản trị cơ sở dữ liệu."
+        },
+        {
+          "key": "D",
+          "text": "Mạng máy tính và truyền thông dữ liệu."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách liệt kê năm ngành học liên quan: Quản trị mạng máy tính, Quản trị hệ thống, An ninh mạng, Hệ thống thông tin, Mạng máy tính và truyền thông dữ liệu; không có ngành Quản trị cơ sở dữ liệu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "ngành học",
+        "hướng nghiệp"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo chương trình hội thảo gợi ý ở Bài 21, thời lượng của mỗi bài trình bày theo lĩnh vực và tổng thời lượng chương trình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mỗi bài 5 phút, tổng chương trình 40 phút."
+        },
+        {
+          "key": "B",
+          "text": "mỗi bài 10 phút, tổng chương trình 45 phút."
+        },
+        {
+          "key": "C",
+          "text": "mỗi bài 8 phút, tổng chương trình 60 phút."
+        },
+        {
+          "key": "D",
+          "text": "mỗi bài 8 phút, tổng chương trình 45 phút."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bảng chương trình có bốn bài trình bày của Nhóm 1 đến Nhóm 4 mỗi bài 8 phút, hai phiên thảo luận mỗi phiên 5 phút và phần kết luận 3 phút, tổng cộng đúng 45 phút phù hợp thời lượng 1 tiết đã nêu trong kế hoạch.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "hội thảo hướng nghiệp",
+        "thời lượng"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo quy định đánh giá ở Bài 21, điểm cá nhân bằng điểm nhóm nhân với hệ số cá nhân. Hệ số cá nhân được xác định bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "điểm nhóm chia cho số thành viên của nhóm."
+        },
+        {
+          "key": "B",
+          "text": "tổng điểm cá nhân chia cho số tiêu chí đánh giá của nhóm."
+        },
+        {
+          "key": "C",
+          "text": "điểm do giáo viên cho trừ đi điểm tự đánh giá."
+        },
+        {
+          "key": "D",
+          "text": "tổng điểm cá nhân chia cho 100%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách ghi rõ hệ số cá nhân được xác định bằng tổng điểm cá nhân chia cho 100%; điểm của cá nhân do các thành viên trong nhóm đánh giá theo bảng năm tiêu chí có tổng tối đa 100 điểm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đánh giá",
+        "hệ số cá nhân"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bảng tiêu chí đánh giá nhóm ở Bài 21, tiêu chí Hình thức đạt mức Trung bình (1 điểm) khi nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trình bày khoa học, bố cục hợp lí, định dạng nhất quán và không có lỗi chính tả."
+        },
+        {
+          "key": "B",
+          "text": "Bố cục hợp lí, có định dạng nhất quán, thông tin được trình bày dưới dạng bảng, sơ đồ nhưng chưa rõ ràng."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ có thông tin dạng văn bản, có ít lỗi chính tả (dưới 5 lỗi)."
+        },
+        {
+          "key": "D",
+          "text": "Trình bày sơ sài, có nhiều lỗi chính tả (trên 5 lỗi)."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảng mức đánh giá quy định tiêu chí Hình thức với bốn mức: Giỏi 2 điểm, Khá 1,5 điểm, Trung bình 1 điểm khi chỉ có thông tin dạng văn bản và có ít lỗi chính tả (dưới 5 lỗi), Chưa đạt 0,5 điểm khi trình bày sơ sài với nhiều lỗi chính tả (trên 5 lỗi).",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "tiêu chí đánh giá",
+        "hình thức"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài 22 định nghĩa thiết bị hiển thị là",
+      "options": [
+        {
+          "key": "A",
+          "text": "các thiết bị điện tử được sử dụng để hiển thị hình ảnh, văn bản hoặc thông tin trực quan trên màn hình cho người dùng quan sát."
+        },
+        {
+          "key": "B",
+          "text": "các thiết bị chỉ có nhiệm vụ kết nối máy tính với mạng Internet."
+        },
+        {
+          "key": "C",
+          "text": "các thiết bị số chỉ kết nối được với máy tính bằng cáp VGA."
+        },
+        {
+          "key": "D",
+          "text": "các ứng dụng hiển thị thông tin trên điện thoại thông minh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách định nghĩa thiết bị hiển thị là các thiết bị điện tử được sử dụng để hiển thị hình ảnh, văn bản hoặc thông tin trực quan trên màn hình cho người dùng quan sát, ví dụ ti vi, máy chiếu, bảng cảm ứng, bảng LED.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thiết bị hiển thị"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 22, cổng HDMI là viết tắt của cụm từ nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "HyperText Markup Language."
+        },
+        {
+          "key": "B",
+          "text": "Home Device Management Internet."
+        },
+        {
+          "key": "C",
+          "text": "High-Digital Media Input."
+        },
+        {
+          "key": "D",
+          "text": "High-Definition Multimedia Interface."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu phần lớn các thiết bị hiển thị có nhiều loại cổng kết nối như cổng VGA (Vector Graphic Arrays) và cổng HDMI (High-Definition Multimedia Interface), sử dụng với các loại cáp kết nối tương ứng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "HDMI",
+        "cổng kết nối"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về công nghệ Bluetooth theo Bài 22?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là công nghệ kết nối có dây tốc độ cao dùng để nối máy tính với máy chiếu."
+        },
+        {
+          "key": "B",
+          "text": "Là công nghệ kết nối không dây qua sóng vô tuyến điện để truyền dữ liệu giữa các thiết bị số, bao gồm cả âm thanh và hình ảnh, trong phạm vi gần."
+        },
+        {
+          "key": "C",
+          "text": "Là công nghệ chỉ truyền được dữ liệu dạng văn bản, không truyền được âm thanh."
+        },
+        {
+          "key": "D",
+          "text": "Là công nghệ bắt buộc phải có router của mạng cục bộ mới sử dụng được."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách mô tả Bluetooth là công nghệ kết nối không dây qua sóng vô tuyến điện, được sử dụng để truyền tải dữ liệu giữa các thiết bị số, bao gồm cả âm thanh và hình ảnh, trong phạm vi gần.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bluetooth",
+        "kết nối không dây"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhấn tổ hợp phím Windows + P, chế độ nào biến ti vi hoặc máy chiếu thành phần mở rộng của màn hình máy tính, cho phép con trỏ chuột chạy tiếp giữa hai màn hình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "PC screen only."
+        },
+        {
+          "key": "B",
+          "text": "Duplicate."
+        },
+        {
+          "key": "C",
+          "text": "Extend."
+        },
+        {
+          "key": "D",
+          "text": "Second Only."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách giải thích: PC screen only chỉ dùng màn hình máy tính và tắt màn hình mở rộng; Duplicate tạo bản sao màn hình máy tính với kích thước lớn hơn; Extend dùng ti vi hay máy chiếu như phần mở rộng, con trỏ chuột chạy tiếp giữa hai màn hình; Second Only chỉ dùng màn hình mở rộng và tắt màn hình máy tính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Windows + P",
+        "màn hình mở rộng"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi kết nối một thiết bị thông minh lần đầu, thứ tự các việc được mô tả trong Bài 22 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đăng kí thiết bị vào cơ sở dữ liệu trên đám mây, sau đó kết nối gần qua Bluetooth, cuối cùng dùng phần mềm trên điện thoại thiết lập kết nối với mạng cục bộ."
+        },
+        {
+          "key": "B",
+          "text": "kết nối gần qua Bluetooth hay sóng Wi-Fi, dùng phần mềm điều khiển trên điện thoại thiết lập kết nối với mạng cục bộ qua router, rồi đăng kí thiết bị vào cơ sở dữ liệu trên đám mây của nhà cung cấp."
+        },
+        {
+          "key": "C",
+          "text": "kết nối trực tiếp thiết bị với Internet bằng cáp tín hiệu, sau đó cài ứng dụng và đăng kí tài khoản."
+        },
+        {
+          "key": "D",
+          "text": "chọn điểm truy cập Wi-Fi trên ứng dụng trước, rồi mới kết nối gần bằng Bluetooth để cấp nguồn cho thiết bị."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách trình bày: lần đầu lắp đặt, phải dùng phần mềm điều khiển đã cài trên điện thoại để kết nối với thiết bị thông minh mà không dùng Internet bằng một kết nối gần qua Bluetooth hay sóng Wi-Fi; khi kết nối được thì dùng giao diện phần mềm trên điện thoại để thiết lập kết nối giữa thiết bị với mạng cục bộ qua router của mạng cục bộ; cùng với việc kết nối này, phần mềm tiến hành đăng kí thiết bị vào cơ sở dữ liệu trên đám mây của nhà cung cấp dịch vụ nhà thông minh.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "nhà thông minh",
+        "kết nối lần đầu"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về thứ tự ưu tiên và trọng số của bộ chọn CSS?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tính kế thừa từ CSS cha và nguyên tắc thứ tự cuối cùng được xếp dưới trọng số CSS, tức là khi có nhiều mẫu cùng áp dụng thì mẫu có trọng số lớn hơn được ưu tiên."
+        },
+        {
+          "key": "B",
+          "text": "Theo Bảng 17.4, mã định danh (ID) có giá trị đóng góp 100, còn lớp, lớp giả và bộ chọn kiểu thuộc tính có giá trị 10, bộ chọn * có giá trị 0."
+        },
+        {
+          "key": "C",
+          "text": "Nếu nhiều mẫu định dạng có cùng trọng số thì mẫu ở vị trí đầu tiên được áp dụng."
+        },
+        {
+          "key": "D",
+          "text": "Bộ chọn p.test em.more có trọng số 22 vì gồm hai phần tử p, em và hai lớp test, more."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A, B, D đều khớp Bảng 17.3, 17.4 và 17.5. C sai vì nguyên tắc thứ tự cuối cùng (Rule order) quy định khi nhiều mẫu có cùng trọng số thì định dạng ở vị trí cuối cùng mới được áp dụng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "trọng số CSS",
+        "thứ tự ưu tiên"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về việc thực hiện dự án website ở Bài 18?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các trang nên liên kết tới cùng một tệp tin CSS và tệp này được lưu dưới tên style.css."
+        },
+        {
+          "key": "B",
+          "text": "Lớp block_3 có độ rộng 33.33333333% nên các thẻ div con tự xếp thành hàng ngang mà không cần khối chứa nào khác."
+        },
+        {
+          "key": "C",
+          "text": "Mẫu .banner dùng thuộc tính background với giá trị no-repeat center center kết hợp background-size: cover để ảnh nền không lặp và phủ kín khối."
+        },
+        {
+          "key": "D",
+          "text": "Trang dang_ki.html chứa biểu mẫu đăng kí và liên kết tới trang này chỉ được đặt ở phần cuối của trang chủ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A và C đúng theo hướng dẫn tạo tệp CSS và mẫu .banner của sách. B sai vì khi sử dụng thẻ div các ô sẽ xếp theo chiều dọc, phải tạo thêm lớp Row có độ rộng bằng độ rộng trang chứa ba ô. D sai vì liên kết tới dang_ki phải được bổ sung trong phần cuối trang của tất cả các trang.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "bố cục trang",
+        "style.css"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-sua-chua-bao-tri",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về nhóm nghề dịch vụ sửa chữa và bảo trì máy tính?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sửa chữa, bảo trì phần cứng không tách rời khỏi việc duy trì phần mềm đi kèm và đảm bảo môi trường hoạt động cho cả hệ thống."
+        },
+        {
+          "key": "B",
+          "text": "Người làm nghề chỉ cần kiến thức về phần cứng và phần mềm, không cần kĩ năng mềm."
+        },
+        {
+          "key": "C",
+          "text": "Vì không ai có khả năng sửa chữa và bảo trì tất cả các thiết bị công nghệ thông tin nên các đơn vị thường phân công chuyên trách, mỗi chuyên viên phụ trách chuyên sâu một số mảng thiết bị và phần mềm cụ thể."
+        },
+        {
+          "key": "D",
+          "text": "Báo cáo vận dụng của Bài 19 được trình bày ngắn gọn trong tối đa 1 trang A4."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A, C, D đúng theo nội dung sách. B sai vì ngoài bốn khối kiến thức về phần cứng, phần mềm, mạng, sách còn yêu cầu bốn kĩ năng mềm: học hỏi cập nhật kiến thức, giải quyết vấn đề, giao tiếp và quản lí thời gian.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "sửa chữa bảo trì",
+        "kĩ năng mềm"
+      ]
+    },
+    {
+      "id": "tinhoc12-06-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về kết nối các thiết bị số?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các thiết bị số có thể kết nối với nhau bằng kết nối có dây qua cáp tín hiệu, kết nối không dây ở khoảng cách gần qua Bluetooth hay Wi-Fi hoặc kết nối xa qua Internet."
+        },
+        {
+          "key": "B",
+          "text": "Chế độ Duplicate của tổ hợp phím Windows + P biến ti vi thành phần mở rộng của màn hình máy tính và cho phép chuột chạy tiếp giữa hai màn hình."
+        },
+        {
+          "key": "C",
+          "text": "Máy tính để bàn thường có sẵn Bluetooth nên chỉ cần nháy biểu tượng Bluetooth trên thanh công việc là ghép đôi được ngay."
+        },
+        {
+          "key": "D",
+          "text": "Khi ghép đôi, máy tính tạo ra một mã ngẫu nhiên, người dùng chọn Connect trên máy tính rồi chọn Ghép đôi trên điện thoại để chấp nhận."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A và D đúng. B sai vì mô tả đó là chế độ Extend, còn Duplicate chỉ tạo bản sao màn hình máy tính với kích thước lớn hơn và hiển thị đồng thời ở cả hai màn hình. C sai vì máy tính xách tay thường có sẵn kết nối Bluetooth, còn máy để bàn thường không có nên phải cắm thêm bảng mạch mở rộng có chức năng đó.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "kết nối thiết bị số",
+        "ghép đôi Bluetooth"
+      ]
+    }
+  ]
+}

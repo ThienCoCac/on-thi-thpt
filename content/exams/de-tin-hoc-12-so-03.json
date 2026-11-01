@@ -1,0 +1,961 @@
+{
+  "id": "de-tin-hoc-12-so-03",
+  "title": "Đề ôn tập Tin học 12 số 03 – Ứng xử trong không gian mạng và HTML cơ bản (Bài 6–9)",
+  "slug": "de-tin-hoc-12-so-03",
+  "description": "Đề ôn tập môn Tin học 12 bộ sách Định hướng Tin học ứng dụng (Kết nối tri thức), gồm Bài 6 – Giao tiếp và ứng xử trong không gian mạng (Chủ đề 3) và Bài 7, 8, 9 – HTML và cấu trúc trang web, định dạng văn bản, tạo danh sách và bảng (Chủ đề 4). Đề có 28 câu: 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút.",
+  "subject": "tin-hoc",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-03",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-01T08:00:00.000Z",
+  "updatedAt": "2026-11-01T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-03-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Không gian mạng (còn được gọi là thế giới ảo) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "một phần mềm ứng dụng chạy trên nền tảng đám mây dùng để quản trị trang web."
+        },
+        {
+          "key": "B",
+          "text": "môi trường được tạo ra nhờ sử dụng mạng máy tính, trong đó Internet có thể được coi là không gian mạng lớn nhất."
+        },
+        {
+          "key": "C",
+          "text": "khu vực lắp đặt tập trung các thiết bị mạng của một cơ quan có kết nối Internet."
+        },
+        {
+          "key": "D",
+          "text": "tên gọi khác của hệ thống các máy chủ tìm kiếm trên Internet."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách giáo khoa định nghĩa không gian mạng (thế giới ảo) là môi trường được tạo ra nhờ sử dụng mạng máy tính, trong đó Internet có thể được coi là không gian mạng lớn nhất; không gian mạng cho phép con người giao tiếp với nhau qua các phần mềm và dịch vụ trực tuyến.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Không gian mạng",
+        "Bài 6"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Hoạt động 1 của Bài 6, trường hợp nào sau đây KHÔNG phải là sử dụng giao tiếp trong không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giao tiếp với một trợ lí ảo (chatbot) trên trang web tuyển sinh của một trường đại học."
+        },
+        {
+          "key": "B",
+          "text": "Tham gia một lớp học trực tuyến."
+        },
+        {
+          "key": "C",
+          "text": "Hai người bạn gọi điện thoại video (FaceTime)."
+        },
+        {
+          "key": "D",
+          "text": "Hẹn gặp bạn tại một quán cà phê để nói chuyện trực tiếp."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hẹn gặp bạn tại quán cà phê là giao tiếp trực tiếp, không diễn ra trong môi trường mạng. Ba trường hợp còn lại đều sử dụng phần mềm hoặc dịch vụ giao tiếp trực tuyến nên là giao tiếp trong không gian mạng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Không gian mạng",
+        "Bài 6"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Phương tiện nào sau đây được sách liệt kê là phương tiện hỗ trợ giao tiếp trong không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mạng xã hội, thư điện tử, ứng dụng nhắn tin, gọi điện thoại video, diễn đàn trực tuyến, nhật kí web (blog), trang web cá nhân và trang thương mại điện tử."
+        },
+        {
+          "key": "B",
+          "text": "Bảng trắng, phấn viết và máy chiếu vật thể trong lớp học."
+        },
+        {
+          "key": "C",
+          "text": "Tổng đài điện thoại cố định dùng đường truyền mặt đất."
+        },
+        {
+          "key": "D",
+          "text": "Máy fax và thư giấy chuyển phát nhanh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu không gian mạng cho phép con người giao tiếp qua các phần mềm và dịch vụ trực tuyến như mạng xã hội, thư điện tử, ứng dụng nhắn tin, gọi điện thoại video, diễn đàn trực tuyến, nhật kí web (blog), trang web cá nhân, các trang thương mại điện tử.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Không gian mạng",
+        "Bài 6"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Đâu KHÔNG phải một trong bốn ưu điểm của giao tiếp trong không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuận tiện."
+        },
+        {
+          "key": "B",
+          "text": "Tiết kiệm thời gian và chi phí."
+        },
+        {
+          "key": "C",
+          "text": "Ẩn chứa nhiều nguy cơ về bảo mật và quyền riêng tư."
+        },
+        {
+          "key": "D",
+          "text": "Công cụ giao tiếp đa dạng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bốn ưu điểm là Thuận tiện, Tiết kiệm thời gian và chi phí, Mở rộng kết nối xã hội, Công cụ giao tiếp đa dạng. “Ẩn chứa nhiều nguy cơ về bảo mật và quyền riêng tư” là một trong bốn nhược điểm của giao tiếp trong không gian mạng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Ưu nhược điểm",
+        "Bài 6"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhược điểm “Thiếu tín hiệu phi ngôn ngữ” của giao tiếp trong không gian mạng được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "người dùng dễ bị lộ mật khẩu truy cập hoặc bị tấn công mạng."
+        },
+        {
+          "key": "B",
+          "text": "giao tiếp bị gián đoạn khi mất kết nối mạng hoặc phần mềm không tương thích."
+        },
+        {
+          "key": "C",
+          "text": "thông tin cá nhân trên mạng xã hội có thể là thông tin bịa đặt, giả mạo."
+        },
+        {
+          "key": "D",
+          "text": "thư điện tử hay tin nhắn có thể thiếu nét mặt, ngôn ngữ cơ thể và biểu cảm giọng nói, gây khó khăn trong truyền đạt cảm xúc."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo sách, một số phương thức giao tiếp trong không gian mạng như thư điện tử hay tin nhắn thiếu các tín hiệu phi ngôn ngữ như nét mặt, ngôn ngữ cơ thể và biểu cảm giọng nói, nên dễ dẫn đến hiểu lầm không đáng có. Các phương án còn lại là ba nhược điểm khác trong danh sách của sách.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Ưu nhược điểm",
+        "Bài 6"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Tính nhân văn trong ứng xử ở không gian mạng được thể hiện qua bốn khía cạnh nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo mật, Tốc độ, Tiện lợi, Tiết kiệm."
+        },
+        {
+          "key": "B",
+          "text": "Tôn trọng, Lịch sự, Thấu hiểu, Hỗ trợ."
+        },
+        {
+          "key": "C",
+          "text": "Trung thực, Dũng cảm, Kỉ luật, Trách nhiệm."
+        },
+        {
+          "key": "D",
+          "text": "Tôn trọng, Khiêm tốn, Sáng tạo, Cạnh tranh."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hình 6.3 của sách liệt kê bốn khía cạnh quan trọng nhất của ứng xử nhân văn trong không gian mạng là Tôn trọng, Lịch sự, Thấu hiểu và Hỗ trợ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Ứng xử nhân văn",
+        "Bài 6"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-html-cau-truc",
+      "type": "SINGLE_CHOICE",
+      "content": "HTML là viết tắt của cụm từ nào và được hiểu là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hypertext Markup Language (ngôn ngữ đánh dấu siêu văn bản), là một bộ quy tắc dùng để thiết lập cấu trúc và hiển thị nội dung trang web."
+        },
+        {
+          "key": "B",
+          "text": "Hyperlink Text Modeling Language, là ngôn ngữ lập trình dùng để viết ứng dụng di động."
+        },
+        {
+          "key": "C",
+          "text": "High Tech Modern Language, là ngôn ngữ kịch bản chạy trên máy chủ."
+        },
+        {
+          "key": "D",
+          "text": "Hypertext Machine Learning, là chuẩn định dạng tệp ảnh dùng trên trang web."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách ghi rõ HTML là viết tắt của cụm từ Hypertext Markup Language (ngôn ngữ đánh dấu siêu văn bản), là một bộ quy tắc dùng để thiết lập cấu trúc và hiển thị nội dung trang web.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "HTML",
+        "Bài 7"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-html-cau-truc",
+      "type": "SINGLE_CHOICE",
+      "content": "Trang web được thiết lập từ các tệp văn bản thường có phần mở rộng là",
+      "options": [
+        {
+          "key": "A",
+          "text": ".docx hoặc .pdf."
+        },
+        {
+          "key": "B",
+          "text": ".css hoặc .js."
+        },
+        {
+          "key": "C",
+          "text": ".html hoặc .htm."
+        },
+        {
+          "key": "D",
+          "text": ".exe hoặc .bat."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu trang web được thiết lập từ các tệp văn bản thường có phần mở rộng là .html hoặc .htm và được gọi là trang html.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "HTML",
+        "Bài 7"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-html-cau-truc",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong HTML, một phần tử (element) được xác định bởi",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ thẻ bắt đầu của thẻ đó."
+        },
+        {
+          "key": "B",
+          "text": "chỉ phần nội dung nằm giữa thẻ bắt đầu và thẻ kết thúc."
+        },
+        {
+          "key": "C",
+          "text": "thẻ kết thúc có thêm dấu gạch chéo."
+        },
+        {
+          "key": "D",
+          "text": "thẻ bắt đầu, thẻ kết thúc và phần nội dung nằm giữa cặp thẻ này."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo Bài 7, thông thường một phần tử được định nghĩa bởi thẻ bắt đầu, thẻ kết thúc và phần nội dung nằm giữa cặp thẻ này; có thể hiểu phần tử HTML là toàn bộ phần thẻ và nội dung của thẻ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Phần tử HTML",
+        "Bài 7"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-html-cau-truc",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong HTML, thẻ đơn (ví dụ <hr/> hoặc <br/>) là thẻ",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ được phép xuất hiện bên trong phần tử <head>."
+        },
+        {
+          "key": "B",
+          "text": "chỉ có thẻ bắt đầu, không có thẻ kết thúc, thường có dạng <tên thẻ> hoặc <tên thẻ/>."
+        },
+        {
+          "key": "C",
+          "text": "bắt buộc phải có thuộc tính style đi kèm."
+        },
+        {
+          "key": "D",
+          "text": "phải viết bằng chữ in hoa."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phần lớn các thẻ là thẻ đôi, song một số loại thẻ đơn chỉ có thẻ bắt đầu, dạng <tên thẻ> hoặc <tên thẻ/>, ví dụ <hr/> là đường kẻ ngang và <br/> là ngắt xuống dòng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Thẻ HTML",
+        "Bài 7"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-html-cau-truc",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về cách HTML và trình duyệt nhận biết dấu cách và xuống dòng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mỗi dấu cách và mỗi lần nhấn Enter trong tệp HTML đều được trình duyệt hiển thị tương ứng."
+        },
+        {
+          "key": "B",
+          "text": "Trình duyệt chỉ nhận biết dấu cách, còn xuống dòng thì bỏ qua hoàn toàn."
+        },
+        {
+          "key": "C",
+          "text": "Nhiều dấu cách liên tiếp được hiểu là một dấu cách và trình duyệt không nhận biết dấu xuống dòng khi người dùng nhấn phím Enter."
+        },
+        {
+          "key": "D",
+          "text": "HTML bắt buộc mỗi thẻ phải viết trên một dòng riêng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách lưu ý HTML và trình duyệt không nhận biết được nhiều dấu cách, nếu gõ nhiều dấu cách máy sẽ hiểu là chỉ có một dấu cách; trình duyệt cũng không nhận biết dấu xuống dòng khi nhấn phím Enter, cần chú ý điều này khi soạn thảo HTML.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thẻ HTML",
+        "Bài 7"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-html-cau-truc",
+      "type": "SINGLE_CHOICE",
+      "content": "Dòng <!DOCTYPE html> ở đầu tệp HTML có ý nghĩa gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thông báo kiểu của tệp là html, mang ý nghĩa đặc biệt và KHÔNG được xem là một phần tử HTML."
+        },
+        {
+          "key": "B",
+          "text": "Là phần tử gốc của cây thông tin trang web."
+        },
+        {
+          "key": "C",
+          "text": "Là thẻ bắt đầu của phần tử <head>."
+        },
+        {
+          "key": "D",
+          "text": "Là một dòng chú thích nên trình duyệt bỏ qua."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo Bài 7, dòng đầu tiên của mỗi tệp HTML có dạng <!DOCTYPE html> có vai trò thông báo kiểu của tệp là html và không được xem là phần tử HTML. Phần tử gốc của cây HTML là <html>, còn chú thích có dạng <!-- ... -->.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Cấu trúc trang web",
+        "Bài 7"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-html-cau-truc",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các phần mềm sau, phần mềm nào là phần mềm soạn thảo HTML chuyên nghiệp, miễn phí và mã nguồn mở?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chrome."
+        },
+        {
+          "key": "B",
+          "text": "Cốc Cốc."
+        },
+        {
+          "key": "C",
+          "text": "Microsoft Edge."
+        },
+        {
+          "key": "D",
+          "text": "Notepad++."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Notepad++ là phần mềm soạn thảo chương trình đa năng, miễn phí, mã nguồn mở, hỗ trợ ngôn ngữ HTML; để hỗ trợ soạn thảo đúng HTML cần thực hiện lệnh Language → H → HTML. Chrome, Cốc Cốc và Microsoft Edge là trình duyệt web, không phải phần mềm soạn thảo.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Phần mềm soạn thảo",
+        "Bài 7"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban",
+      "type": "SINGLE_CHOICE",
+      "content": "Cú pháp xác định thuộc tính của một thẻ HTML là",
+      "options": [
+        {
+          "key": "A",
+          "text": "giá_trị(tên_thuộc_tính), đặt trước tên thẻ."
+        },
+        {
+          "key": "B",
+          "text": "tên_thuộc_tính=\"giá trị\", viết trong thẻ bắt đầu và sau tên thẻ; nếu có nhiều thuộc tính thì ngăn cách bởi dấu cách."
+        },
+        {
+          "key": "C",
+          "text": "tên_thuộc_tính : giá trị, viết trong thẻ kết thúc."
+        },
+        {
+          "key": "D",
+          "text": "\"tên_thuộc_tính\" = giá trị, viết trên một dòng riêng ngay sau thẻ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 8 nêu cú pháp xác định thuộc tính là tên_thuộc_tính=\"giá trị\", trừ các trường hợp đặc biệt chỉ cần tên thuộc tính để xác định giá trị Có hoặc Không. Thuộc tính nằm trong thẻ bắt đầu, không nằm trong thẻ kết thúc, và các thuộc tính được ngăn cách bởi dấu cách.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thuộc tính",
+        "Bài 8"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các thẻ tiêu đề dạng <hx>, thẻ nào nên được dùng cho tiêu đề chính (hay tiêu đề chung) của cả văn bản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "<h6>."
+        },
+        {
+          "key": "B",
+          "text": "<p>."
+        },
+        {
+          "key": "C",
+          "text": "<h1>."
+        },
+        {
+          "key": "D",
+          "text": "<span>."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thẻ <h1> nên được sử dụng cho tiêu đề chính hay tiêu đề chung của cả văn bản; các tiêu đề ở mức thấp hơn dùng thẻ <h2> và tiếp tục với các mức tiếp theo, độ quan trọng giảm dần từ 1 đến 6.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Tiêu đề",
+        "Bài 8"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng khi so sánh phần tử <div> và thẻ <span>?",
+      "options": [
+        {
+          "key": "A",
+          "text": "<div> là một khối, bắt đầu trên dòng mới; <span> có tác dụng tương tự nhưng quy mô nhỏ hơn và nội dung hiển thị trên cùng dòng đang viết."
+        },
+        {
+          "key": "B",
+          "text": "<span> tạo khối mới bắt đầu trên dòng còn <div> chỉ tác động trên cùng một dòng."
+        },
+        {
+          "key": "C",
+          "text": "Cả hai thẻ đều chỉ được phép đặt bên trong phần tử <head>."
+        },
+        {
+          "key": "D",
+          "text": "<div> và <span> là hai thẻ đơn, không có thẻ kết thúc."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách giải thích cặp thẻ <div>...</div> hay <span>...</span> tạo một khối chứa nội dung bất kì; phần tử <div> là một khối bắt đầu trên dòng mới, còn <span> có tác dụng tương tự nhưng dùng cho quy mô nhỏ hơn, nội dung hiển thị trên cùng dòng đang viết.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Khối và đoạn",
+        "Bài 8"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 8, nội dung đặt trong cặp thẻ <p>...</p> KHÔNG được phép chứa",
+      "options": [
+        {
+          "key": "A",
+          "text": "văn bản thường."
+        },
+        {
+          "key": "B",
+          "text": "hình ảnh."
+        },
+        {
+          "key": "C",
+          "text": "các thẻ định dạng kiểu chữ như <b>, <i>."
+        },
+        {
+          "key": "D",
+          "text": "tiêu đề, danh sách, phần tử phân đoạn hoặc các phần tử dạng khối khác."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu nội dung đoạn có thể chứa văn bản, hình ảnh và cả các phần tử khác nhưng không được chứa tiêu đề, danh sách, phần tử phân đoạn hoặc các phần tử dạng khối khác. Khi gặp cặp thẻ <p>...</p>, trình duyệt hiển thị nội dung đoạn trên dòng mới kèm khoảng trống nhỏ trước và sau đoạn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Đoạn văn bản",
+        "Bài 8"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo lưu ý của sách, HTML5 không hỗ trợ thẻ <big> và <u>; để điều khiển tương ứng ta thay bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "thuộc tính class với giá trị big và underline."
+        },
+        {
+          "key": "B",
+          "text": "giá trị font-size và giá trị text-decoration trong thuộc tính style."
+        },
+        {
+          "key": "C",
+          "text": "thẻ <strong> và thẻ <em>."
+        },
+        {
+          "key": "D",
+          "text": "thuộc tính border của thẻ <p>."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lưu ý trong Bài 8 ghi rõ HTML5 không hỗ trợ thẻ <big> và <u>, để điều khiển nên thay bằng giá trị font-size và text-decoration trong thuộc tính style. Thẻ <strong> và <em> dùng cho chữ đậm và chữ nghiêng nhấn mạnh ngữ nghĩa, không phải cách thay thế cho <big> và <u>.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Định dạng phông chữ",
+        "Bài 8"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dinh-dang-van-ban",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã <p style=\"color:red;font-size:15px\">Tin học 12</p>. Phát biểu nào sau đây mô tả đúng kết quả hiển thị trên trình duyệt?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dòng chữ \"Tin học 12\" màu đỏ, cỡ 15 px và được in đậm."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ trang web có màu đỏ và cỡ chữ 15 px."
+        },
+        {
+          "key": "C",
+          "text": "Dòng chữ \"Tin học 12\" hiển thị màu đỏ với cỡ chữ 15 px, chỉ áp dụng cho đoạn này."
+        },
+        {
+          "key": "D",
+          "text": "Trình duyệt báo lỗi vì không thể đặt hai định dạng trong cùng một thuộc tính."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đoạn mã chỉ định dạng cho phần tử <p> chứa nó nên cỡ chữ 15 px và màu đỏ chỉ áp dụng cho dòng \"Tin học 12\". Khi muốn thực hiện nhiều định dạng đồng thời, ta đặt các cặp tên:giá trị trong phần giá trị của thuộc tính style, ngăn cách nhau bởi dấu \";\", và không có khai báo nào tạo chữ đậm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "style",
+        "Bài 8"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "type": "SINGLE_CHOICE",
+      "content": "Để tạo danh sách có thứ tự trong HTML, em dùng cặp thẻ",
+      "options": [
+        {
+          "key": "A",
+          "text": "<ol></ol>."
+        },
+        {
+          "key": "B",
+          "text": "<ul></ul>."
+        },
+        {
+          "key": "C",
+          "text": "<dl> cùng các thẻ <dt>, <dd>."
+        },
+        {
+          "key": "D",
+          "text": "<table> cùng thẻ <tr>."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 9 quy định: để tạo danh sách có thứ tự dùng cặp thẻ <ol></ol>; cặp thẻ <ul></ul> tạo danh sách không có thứ tự; ba thẻ <dl>, <dt>, <dd> tạo danh sách mô tả.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Danh sách",
+        "Bài 9"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuộc tính type của thẻ <ol> KHÔNG nhận giá trị nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "\"A\"."
+        },
+        {
+          "key": "B",
+          "text": "\"i\"."
+        },
+        {
+          "key": "C",
+          "text": "\"a1\"."
+        },
+        {
+          "key": "D",
+          "text": "\"1\"."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách liệt kê các kiểu đánh số của thuộc tính type là \"1\", \"A\", \"a\", \"I\" và \"i\"; giá trị \"a1\" không hợp lệ. Thuộc tính start dùng để xác định giá trị bắt đầu đánh số và nhận giá trị là các số thực.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Danh sách có thứ tự",
+        "Bài 9"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "type": "SINGLE_CHOICE",
+      "content": "Kí tự đầu dòng của danh sách không có thứ tự được xác định bằng cách",
+      "options": [
+        {
+          "key": "A",
+          "text": "gán giá trị cho thuộc tính type của thẻ <ul>."
+        },
+        {
+          "key": "B",
+          "text": "viết thêm kí tự đầu dòng vào trước nội dung của mỗi mục <li>."
+        },
+        {
+          "key": "C",
+          "text": "dùng thuộc tính start của thẻ <ul>."
+        },
+        {
+          "key": "D",
+          "text": "thiết lập giá trị của đặc tính list-style-type trong thuộc tính style, một trong bốn giá trị disc, circle, square và none."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Với danh sách không có thứ tự, để chọn kí tự đầu dòng ta thiết lập giá trị của đặc tính list-style-type trong thuộc tính style bằng một trong bốn giá trị disc, circle, square và none, ví dụ <ul style=\"list-style-type:square\">. Thuộc tính type và start dùng cho danh sách có thứ tự <ol>.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Danh sách không thứ tự",
+        "Bài 9"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bảng HTML, thẻ <caption> được đặt ở vị trí nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngay sau thẻ <tr> đầu tiên."
+        },
+        {
+          "key": "B",
+          "text": "Ngay sau thẻ <table> và trước thẻ <tr> đầu tiên."
+        },
+        {
+          "key": "C",
+          "text": "Ở cuối bảng, ngay trước thẻ </table>."
+        },
+        {
+          "key": "D",
+          "text": "Bên trong thẻ <td> của ô dữ liệu đầu tiên."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 9 hướng dẫn thêm tiêu đề cho bảng bằng thẻ <caption>, đặt ngay sau thẻ <table> và trước thẻ <tr> đầu tiên, ví dụ <table border=\"1\"><caption>Lịch hoạt động CLB Thể thao</caption>.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bảng",
+        "Bài 9"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã <tr><th rowspan=\"2\">Họ và tên</th><th colspan=\"3\">Điểm thi</th></tr> lấy từ Ví dụ Hình 9.6. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ô \"Họ và tên\" được mở rộng theo hai hàng, ô \"Điểm thi\" được mở rộng theo ba cột; ở hàng tiếp theo phải bỏ qua cặp thẻ <th> hoặc <td> tại vị trí đã bị ghép."
+        },
+        {
+          "key": "B",
+          "text": "Ô \"Họ và tên\" được mở rộng theo ba cột, ô \"Điểm thi\" được mở rộng theo hai hàng."
+        },
+        {
+          "key": "C",
+          "text": "Hai ô nằm trên cùng một hàng nên bảng chỉ có đúng hai cột."
+        },
+        {
+          "key": "D",
+          "text": "Phải viết lại thẻ <th> \"Họ và tên\" ở hàng tiếp theo thì bảng mới hiển thị đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thuộc tính rowspan dùng để gộp ô theo hàng, colspan dùng để gộp ô theo cột. Quy trình gồm hai bước: thêm rowspan=\"số hàng muốn ghép\" cho <th> hoặc <td> thuộc hàng đầu tiên cần ghép, rồi bỏ qua cặp thẻ <th>/<td> tại vị trí tương ứng ở các hàng tiếp theo; vì vậy không được viết lại ô đã bị ghép.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Gộp ô",
+        "Bài 9"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Chọn các nhận định ĐÚNG về ứng xử nhân văn trong không gian mạng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một trong các cách hình thành thói quen ứng xử nhân văn là đối xử với người khác theo cách mà mình muốn được đối xử."
+        },
+        {
+          "key": "B",
+          "text": "Khi không đồng ý với ý kiến của người khác trên diễn đàn, nên lắng nghe và đưa ra lí do phản bác một cách lịch sự."
+        },
+        {
+          "key": "C",
+          "text": "Có thể chia sẻ thông tin trao đổi riêng giữa hai người với bên thứ ba nếu thông tin đó thú vị."
+        },
+        {
+          "key": "D",
+          "text": "Khi tham gia thảo luận trên mạng xã hội, cần đọc kĩ bài viết của người khác trước khi đưa ra ý kiến của mình."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A, B, D đúng theo năm cách hình thành thói quen ứng xử nhân văn và các ví dụ trong Bài 6. C sai vì sách yêu cầu luôn tôn trọng quyền riêng tư của người nhận, không chia sẻ thông tin trao đổi riêng giữa hai người với một bên thứ ba khi chưa được phép.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "Ứng xử nhân văn",
+        "Bài 6"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-html-cau-truc",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Chọn các nhận định ĐÚNG về cấu trúc cơ bản của một tệp HTML.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phần tử <meta> dùng để mô tả các thông tin bổ sung của trang web như cách mã hoá Unicode, từ khoá dùng để tìm kiếm trang, tên tác giả trang web."
+        },
+        {
+          "key": "B",
+          "text": "Tên thẻ HTML phân biệt chữ hoa với chữ thường nên bắt buộc phải viết tên thẻ bằng chữ thường."
+        },
+        {
+          "key": "C",
+          "text": "Các phần tử HTML có thể độc lập, rời nhau hoặc lồng nhau; quan hệ lồng nhau có thể hình dung như quan hệ cha – con của các nút trong một cây, với nút gốc là phần tử <html>."
+        },
+        {
+          "key": "D",
+          "text": "Phần tử <title> phải là văn bản thường và không được phép chứa các phần tử con."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A, C, D đúng. B sai vì tên thẻ HTML KHÔNG phân biệt chữ hoa, chữ thường; viết chữ thường chỉ là quy ước mặc định được khuyến nghị.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "Cấu trúc trang web",
+        "Bài 7"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-dinh-dang-van-ban",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Chọn các nhận định ĐÚNG về các thẻ định dạng kiểu chữ trong Bảng 8.1.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thẻ <small> dùng để đánh dấu xoá một đoạn văn bản bằng nét gạch giữa chữ."
+        },
+        {
+          "key": "B",
+          "text": "Thẻ <sup> và <sub> lần lượt dùng để viết chỉ số trên và chỉ số dưới."
+        },
+        {
+          "key": "C",
+          "text": "Thẻ <strong> và thẻ <b> hoàn toàn tương đương về ý nghĩa nên sách không khuyến khích dùng thẻ nào nhiều hơn."
+        },
+        {
+          "key": "D",
+          "text": "Thẻ <mark> dùng để đánh dấu (highlight) đoạn văn bản, thẻ <u> dùng để gạch chân."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "B, D đúng theo Bảng 8.1. A sai vì <small> là thẻ giảm cỡ chữ, còn đánh dấu xoá bằng nét gạch giữa chữ là tác dụng của thẻ <del>. C sai vì <strong> và <em> có cùng tác dụng đậm, nghiêng như <b> và <i> nhưng nhấn mạnh vào ngữ nghĩa của nội dung nên được khuyến khích sử dụng nhiều hơn.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "Định dạng kiểu chữ",
+        "Bài 8"
+      ]
+    },
+    {
+      "id": "tinhoc12-03-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-danh-sach-bang",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Chọn các nhận định ĐÚNG về cách trình bày bảng trong HTML.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trong HTML5, độ dày khung của bảng hoặc của từng ô được thiết lập bằng thuộc tính con border của style, giá trị là bộ ba \"độ_dày_theo_px kiểu_viền [màu_viền]\" với hai thành phần đầu bắt buộc."
+        },
+        {
+          "key": "B",
+          "text": "Kích thước có thể đặt bằng đặc tính con width và height của style, theo tỉ lệ phần trăm với khối bao ngoài hoặc theo số điểm ảnh."
+        },
+        {
+          "key": "C",
+          "text": "Kiểu viền nhận một trong các giá trị solid, dotted, double, none; màu viền mặc định là màu đen và có thể bỏ qua."
+        },
+        {
+          "key": "D",
+          "text": "Nên dùng đơn vị px cho kích thước bảng vì mọi thiết bị hiển thị đều cho cùng một kết quả."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, C đúng. D sai vì lưu ý của sách nêu không nên sử dụng kích thước theo px do các thiết bị hiển thị có sự khác nhau về kích thước và số điểm ảnh, có thể dẫn tới bảng không hiển thị đúng như mong đợi.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "Bảng",
+        "Bài 9"
+      ]
+    }
+  ]
+}

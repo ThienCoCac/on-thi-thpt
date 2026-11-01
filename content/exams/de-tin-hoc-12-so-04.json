@@ -1,0 +1,945 @@
+{
+  "id": "de-tin-hoc-12-so-04",
+  "title": "Đề ôn tập Tin học 12 số 04 – Liên kết, đa phương tiện, biểu mẫu và khái niệm CSS (Bài 10–13)",
+  "slug": "de-tin-hoc-12-so-04",
+  "description": "Đề ôn tập Bài 10, 11, 12 về HTML (tạo liên kết, chèn tệp tin đa phương tiện và khung nội tuyến, tạo biểu mẫu) và Bài 13 về khái niệm, vai trò của CSS trong sách Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức). Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút.",
+  "subject": "tin-hoc",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-04",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-01T08:00:00.000Z",
+  "updatedAt": "2026-11-01T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-04-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-lien-ket",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, siêu văn bản (hypertext) là loại văn bản như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "có nội dung không chỉ chứa văn bản mà còn có thể chứa nhiều dạng dữ liệu khác như âm thanh, hình ảnh và đặc biệt là các siêu liên kết."
+        },
+        {
+          "key": "B",
+          "text": "chỉ chứa văn bản dạng chữ nhưng được trình bày với nhiều cỡ chữ và màu chữ khác nhau."
+        },
+        {
+          "key": "C",
+          "text": "là văn bản bắt buộc phải xem tuần tự từ đầu đến cuối để không bỏ sót nội dung."
+        },
+        {
+          "key": "D",
+          "text": "là văn bản chỉ chứa hình ảnh và video, không có thành phần chữ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách định nghĩa siêu văn bản là loại văn bản mà nội dung của nó không chỉ chứa văn bản mà còn có thể chứa nhiều dạng dữ liệu khác như âm thanh, hình ảnh và đặc biệt là chứa các siêu liên kết tới siêu văn bản khác. Khi xem siêu văn bản, không cần xem tuần tự từ đầu đến cuối.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "siêu văn bản"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-lien-ket",
+      "type": "SINGLE_CHOICE",
+      "content": "Cấu trúc chung của thẻ liên kết trong HTML có dạng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "<a src=\"URL\">Nội dung hiển thị tại vị trí đặt liên kết</a>"
+        },
+        {
+          "key": "B",
+          "text": "<a href=\"URL\">Nội dung hiển thị tại vị trí đặt liên kết</a>"
+        },
+        {
+          "key": "C",
+          "text": "<link a=\"URL\">Nội dung hiển thị tại vị trí đặt liên kết</link>"
+        },
+        {
+          "key": "D",
+          "text": "<a link=\"URL\">Nội dung hiển thị tại vị trí đặt liên kết</a>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu cấu trúc chung của thẻ a là <a href=\"URL\">Nội dung hiển thị tại vị trí đặt liên kết</a>, trong đó href cung cấp địa chỉ của trang web hay tài nguyên được liên kết và đường dẫn URL phải nằm trong cặp dấu nháy kép.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thẻ liên kết"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-lien-ket",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi tạo liên kết tới một tài liệu không nằm trên máy chủ của mình, ta cần dùng loại đường dẫn nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đường dẫn tương đối, vì đường dẫn tương đối luôn ngắn và dễ nhìn hơn."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ cần tên tệp tin, vì trình duyệt sẽ tự tìm đúng máy chủ lưu trữ tài liệu."
+        },
+        {
+          "key": "C",
+          "text": "Đường dẫn tuyệt đối, vì đường dẫn này cung cấp đầy đủ giao thức, tên miền và tên đường dẫn chi tiết nếu cần."
+        },
+        {
+          "key": "D",
+          "text": "Mã định danh đoạn của tài liệu đó."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách ghi rõ khi sử dụng liên kết trên mạng Internet mà tài liệu không nằm trên máy chủ của mình thì bắt buộc phải dùng đường dẫn tuyệt đối, tức là địa chỉ đầy đủ gồm cả giao thức http:// hoặc https://, tên miền và tên đường dẫn chi tiết nếu cần.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "đường dẫn tuyệt đối"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-lien-ket",
+      "type": "SINGLE_CHOICE",
+      "content": "Một website có cấu trúc như Hình 10.1: thư mục web chứa tệp index.html, tệp thong_tin.html, thư mục images và thư mục bai_tap; trong thư mục bai_tap có các tệp bai_tap_1.html, bai_tap_2.html và thư mục on_tap chứa tệp bai_tap_on_tap.html. Từ trang index.html, liên kết tới trang bai_tap_on_tap.html viết đúng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "<a href=\"bai_tap_on_tap/bai_tap.html\">Bài tập ôn tập</a>"
+        },
+        {
+          "key": "B",
+          "text": "<a href=\"on_tap/bai_tap_on_tap.html\">Bài tập ôn tập</a>"
+        },
+        {
+          "key": "C",
+          "text": "<a href=\"../bai_tap/on_tap/bai_tap_on_tap.html\">Bài tập ôn tập</a>"
+        },
+        {
+          "key": "D",
+          "text": "<a href=\"bai_tap/on_tap/bai_tap_on_tap.html\">Bài tập ôn tập</a>"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đường dẫn tương đối gồm tên các thư mục và tên tệp cần liên kết theo thứ tự từ trên xuống, mỗi cấp phân cách bởi dấu /. Từ index.html trong thư mục web phải đi qua bai_tap rồi tới on_tap nên đường dẫn đúng là bai_tap/on_tap/bai_tap_on_tap.html.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đường dẫn tương đối",
+        "cấu trúc website"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-lien-ket",
+      "type": "SINGLE_CHOICE",
+      "content": "Với cấu trúc website ở câu trên, từ trang bai_tap/bai_tap_1.html muốn tạo liên kết quay lại trang index.html trong thư mục web thì đoạn mã viết đúng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "<a href=\"../../index.html\">Quay lại trang chủ</a>"
+        },
+        {
+          "key": "B",
+          "text": "<a href=\"../index.html\">Quay lại trang chủ</a>"
+        },
+        {
+          "key": "C",
+          "text": "<a href=\"./index.html\">Quay lại trang chủ</a>"
+        },
+        {
+          "key": "D",
+          "text": "<a href=\"#index.html\">Quay lại trang chủ</a>"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kí hiệu ../ trong đường dẫn chỉ định trở lại thư mục trên một mức so với thư mục chứa tệp có liên kết, số cụm ../ tương ứng với số mức quay trở lại. Trang bai_tap_1.html nằm trong bai_tap là con trực tiếp của web nên chỉ cần một cụm ../ để về web, tiếp đó là tên tệp index.html.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đường dẫn tương đối"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-lien-ket",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong một trang web có bảng mở đầu bằng <table id=\"CLBTT\"> và cần đặt liên kết ở đầu trang để khi nháy chuột thì chuyển ngay tới bảng đó. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tạo liên kết bằng <a href=\"#CLBTT\">Theo dõi lịch hoạt động các CLB Thể thao</a>, trong đó CLBTT là mã định danh đoạn và phải chỉ xuất hiện một lần trong toàn bộ trang web."
+        },
+        {
+          "key": "B",
+          "text": "Tạo liên kết bằng <a href=\"CLBTT\">…, vì mã định danh đoạn luôn được viết mà không cần dấu thăng ở đầu."
+        },
+        {
+          "key": "C",
+          "text": "Tạo liên kết bằng <a id=\"#CLBTT\">…, vì liên kết trong cùng trang được khai báo bằng thuộc tính id của thẻ a."
+        },
+        {
+          "key": "D",
+          "text": "Không thể liên kết tới một bảng, vì liên kết trong cùng trang chỉ trỏ tới các tiêu đề."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách hướng dẫn tạo liên kết tới vị trí khác trong cùng trang gồm hai bước: tạo phần tử HTML có thuộc tính id tại vị trí cần liên kết tới, sau đó tạo liên kết với href=\"#mã_định_danh_đoạn\". Thuộc tính id phải được đặt tên duy nhất, chỉ xuất hiện một lần trong toàn bộ trang web và được gọi là mã định danh đoạn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "liên kết trong cùng trang",
+        "mã định danh đoạn"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về thẻ <img> trong HTML?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là thẻ kép, luôn cần thẻ kết thúc để đóng khung hình ảnh."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ chèn được ảnh khi ảnh đặt ở một dòng riêng, không chèn được trong dòng văn bản."
+        },
+        {
+          "key": "C",
+          "text": "Là thẻ đơn, khi gặp thẻ trình duyệt hiểu là cần đặt một hình ảnh vào đây; hình ảnh có thể được chen ngay trong dòng văn bản mà không tạo ra ngắt dòng."
+        },
+        {
+          "key": "D",
+          "text": "Là thẻ đơn nhưng bắt buộc phải kèm thẻ kết thúc khi đặt trong đoạn văn."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu thẻ img là thẻ đơn dùng để thêm ảnh vào trang web, khi gặp thẻ trình duyệt hiểu là cần đặt một hình ảnh vào đây và hình ảnh có thể được chen ngay trong dòng văn bản mà không tạo ra ngắt dòng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thẻ img"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thẻ <img>, thuộc tính alt có tác dụng gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ định đường dẫn tới tệp ảnh cần hiển thị."
+        },
+        {
+          "key": "B",
+          "text": "Quy định chiều rộng hiển thị của ảnh tính theo pixel."
+        },
+        {
+          "key": "C",
+          "text": "Quyết định ảnh được chèn bằng đường dẫn tuyệt đối hay tương đối."
+        },
+        {
+          "key": "D",
+          "text": "Cung cấp văn bản thay thế khi việc hiển thị ảnh bị lỗi, văn bản này cần giúp người đọc hình dung ra nội dung bức ảnh."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo sách, với thẻ img thì thuộc tính src là bắt buộc để chỉ đường dẫn tới tệp ảnh, còn alt là thuộc tính quan trọng nên dùng kèm để cung cấp văn bản thay thế khi việc hiển thị ảnh bị lỗi; văn bản thay thế cần có tác dụng giúp người đọc hình dung ra nội dung bức ảnh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thuộc tính alt"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một ảnh có kích thước gốc 720 × 450 pixel được chèn vào trang web bằng câu lệnh <img src=\"images/1.png\" alt=\"chiếc lá\" width=\"600\">. Ảnh trong trang web có kích thước hiển thị là",
+      "options": [
+        {
+          "key": "A",
+          "text": "600 × 450 pixel."
+        },
+        {
+          "key": "B",
+          "text": "600 × 375 pixel."
+        },
+        {
+          "key": "C",
+          "text": "600 × 300 pixel."
+        },
+        {
+          "key": "D",
+          "text": "600 × 600 pixel."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu nếu chỉ sử dụng một trong hai thuộc tính width hoặc height thì chiều còn lại sẽ được tính toán để hiển thị theo tỉ lệ của ảnh gốc. Tỉ lệ 600 chia 720 bằng 5 chia 6, nên chiều cao hiển thị là 450 nhân 5 chia 6 bằng 375 pixel.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "kích thước ảnh",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về thuộc tính autoplay của thẻ <video>?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là thuộc tính boolean, không cần có giá trị, cho phép trình duyệt chạy video ngay khi hiển thị; tuy nhiên một số trình duyệt như Google Chrome thường không cho chạy ngay hoặc chỉ chạy ngay nếu có thêm thuộc tính muted."
+        },
+        {
+          "key": "B",
+          "text": "Là thuộc tính bắt buộc phải gán giá trị là số giây rồi video mới tự động chạy."
+        },
+        {
+          "key": "C",
+          "text": "Là thuộc tính dùng để chỉ đường dẫn tới tệp ảnh hiển thị khi chưa chạy video."
+        },
+        {
+          "key": "D",
+          "text": "Là thuộc tính chỉ có tác dụng với thẻ <audio>, không có tác dụng với thẻ <video>."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách mô tả autoplay là thuộc tính boolean, không cần có giá trị, cho phép trình duyệt chạy video ngay khi hiển thị; tuy nhiên một số trình duyệt như Google Chrome thường không cho video chạy ngay hoặc chỉ chạy ngay khi hiển thị nếu có thuộc tính muted, tức là không phát tiếng. Ý C mô tả thuộc tính poster.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "thẻ video",
+        "thuộc tính boolean"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã <video width=\"320\" height=\"240\" controls><source src=\"movie.mp4\" type=\"video/mp4\"/><source src=\"movie.ogg\" type=\"video/ogg\"/>Trình duyệt của bạn không hỗ trợ HTML video</video>. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trình duyệt sẽ lần lượt tải và phát cả hai tệp movie.mp4 và movie.ogg."
+        },
+        {
+          "key": "B",
+          "text": "Dòng chữ Trình duyệt của bạn không hỗ trợ HTML video luôn được hiển thị cùng với video."
+        },
+        {
+          "key": "C",
+          "text": "Thẻ <source> phải đặt ngoài cặp thẻ <video> thì trình duyệt mới nhận biết được."
+        },
+        {
+          "key": "D",
+          "text": "Trình duyệt sẽ tự động tìm và hiển thị tệp tin với định dạng mà nó hỗ trợ trong số các định dạng do thẻ <source> chỉ định."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách dùng thẻ source đặt trong cặp thẻ video hoặc audio để chỉ định các loại định dạng khác nhau; trình duyệt sẽ tự động tìm và hiển thị tệp tin với định dạng mà nó hỗ trợ chứ không phát lần lượt mọi tệp. Dòng chữ phía trong chỉ xuất hiện khi trình duyệt không hỗ trợ HTML video.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "thẻ source",
+        "đọc mã HTML"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Đoạn mã <iframe src=\"CLB.html\" width=\"600\" height=\"400\"></iframe> đặt trong một trang web có ý nghĩa gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở trang CLB.html trong một cửa sổ trình duyệt mới."
+        },
+        {
+          "key": "B",
+          "text": "Tạo một liên kết tới trang CLB.html có kích thước 600 × 400 pixel."
+        },
+        {
+          "key": "C",
+          "text": "Tạo một khung nội tuyến kích thước 600 × 400 pixel để hiển thị nội dung trang CLB.html ngay trong trang web hiện tại."
+        },
+        {
+          "key": "D",
+          "text": "Nhúng tệp CLB.html dưới dạng một tệp ảnh kích thước 600 × 400 pixel."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thẻ iframe là viết tắt của inline frame, khung nội tuyến, tức là một khung nhìn chứa tài nguyên web khác trong trang web hiện tại. Các thuộc tính thường dùng là src chỉ đường dẫn tới nội dung hiển thị trong khung, width và height là chiều rộng và chiều cao của khung nội tuyến.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "khung nội tuyến",
+        "đọc mã HTML"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-bieu-mau",
+      "type": "SINGLE_CHOICE",
+      "content": "Biểu mẫu web hay phần tử form của HTML là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một công cụ chỉ dùng để hiển thị hình ảnh và video của trang web."
+        },
+        {
+          "key": "B",
+          "text": "Một công cụ dùng để thu thập dữ liệu; dữ liệu được người dùng nhập vào form và xử lí tại chỗ hoặc gửi về máy chủ."
+        },
+        {
+          "key": "C",
+          "text": "Một bảng màu định nghĩa trước dùng để trình bày trang web."
+        },
+        {
+          "key": "D",
+          "text": "Một khung nhìn chứa tài nguyên web khác trong trang web hiện tại."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách định nghĩa biểu mẫu web hay phần tử form của HTML là một công cụ dùng để thu thập dữ liệu, dữ liệu được người dùng nhập vào form và xử lí tại chỗ hoặc gửi về máy chủ. Ta thường xuyên gặp biểu mẫu khi đăng kí tài khoản, mua hàng, tìm kiếm thông tin.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "biểu mẫu web"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-bieu-mau",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về hai thành phần của một biểu mẫu web đầy đủ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gồm biểu mẫu hiển thị trên web được tạo thành bởi các đoạn mã HTML và các ứng dụng hoặc script xử lí dữ liệu thường nằm trên máy chủ; thành phần thứ hai không thuộc phạm vi ngôn ngữ HTML."
+        },
+        {
+          "key": "B",
+          "text": "Gồm biểu mẫu hiển thị trên web và dữ liệu lưu trong cơ sở dữ liệu, cả hai thành phần đều do ngôn ngữ HTML quy định."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ gồm một thành phần duy nhất là mã HTML của biểu mẫu, việc xử lí dữ liệu do người dùng tự thực hiện."
+        },
+        {
+          "key": "D",
+          "text": "Gồm thẻ <form> và thẻ <table>, trong đó thẻ <table> đảm nhiệm việc xử lí dữ liệu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu biểu mẫu web đầy đủ có hai thành phần: thành phần thứ nhất là biểu mẫu hiển thị trên web được tạo thành bởi các đoạn mã HTML, thành phần thứ hai là các ứng dụng hoặc script xử lí dữ liệu thường nằm trên máy chủ. Thành phần thứ hai không thuộc phạm vi ngôn ngữ HTML nên sách không đề cập.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "cấu trúc biểu mẫu"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-bieu-mau",
+      "type": "SINGLE_CHOICE",
+      "content": "Phần tử label có cấu trúc <label for=\"mã_định_danh_của_input_tương_ứng\">Tên_nhãn</label>. Phát biểu nào sau đây đúng về tác dụng của nhãn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giới hạn số kí tự mà người dùng được nhập vào vùng input."
+        },
+        {
+          "key": "B",
+          "text": "Quy định loại dữ liệu mà phần tử input chứa."
+        },
+        {
+          "key": "C",
+          "text": "Vẽ khung hình chữ nhật bao quanh vùng nhập dữ liệu."
+        },
+        {
+          "key": "D",
+          "text": "Về hiển thị không có gì đặc biệt, nhưng khi nháy chuột vào Tên_nhãn thì con trỏ chuột được đưa vào vùng của phần tử input được xác định bởi thuộc tính for tương ứng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách giải thích về mặt hiển thị của nhãn không có gì đặc biệt, tuy nhiên khi nháy chuột vào Tên_nhãn thì con trỏ chuột sẽ được đưa vào vùng của phần tử input được xác định bởi thuộc tính for tương ứng. Vì phần tử input chỉ dùng để nhập dữ liệu nên muốn có thông tin về nội dung nhập phải tạo kèm label.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "phần tử label"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-bieu-mau",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bảng 12.1, phần tử input với type=\"radio\" khác phần tử input với type=\"checkbox\" ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "type=\"radio\" dùng để nhập mật khẩu, type=\"checkbox\" dùng để nhập văn bản."
+        },
+        {
+          "key": "B",
+          "text": "type=\"radio\" chọn được nhiều giá trị, type=\"checkbox\" chỉ chọn được một giá trị duy nhất."
+        },
+        {
+          "key": "C",
+          "text": "type=\"radio\" tạo ra ô chọn một giá trị duy nhất trong các phần tử cùng tên, còn type=\"checkbox\" tạo ra ô lựa chọn giá trị có hoặc không."
+        },
+        {
+          "key": "D",
+          "text": "Hai loại này hoàn toàn giống nhau, chỉ khác nhau ở cách viết tên thuộc tính."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảng 12.1 của sách mô tả radio tạo ra ô chọn một giá trị duy nhất trong các phần tử cùng tên, còn checkbox tạo ra ô lựa chọn giá trị có hoặc không. Mỗi ô radio và ô checkbox đều cần thêm thuộc tính value để ghi nhận giá trị.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "radio",
+        "checkbox"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-bieu-mau",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã <textarea id=\"ghichu\" name=\"ghichu\" rows=\"4\" cols=\"30\">Hãy viết cảm nhận của em</textarea>. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đây là vùng nhập văn bản gồm 4 dòng và 30 cột, nội dung Hãy viết cảm nhận của em được hiển thị trong vùng nhập."
+        },
+        {
+          "key": "B",
+          "text": "Đây là vùng nhập văn bản gồm 30 dòng và 4 cột, vùng nhập là vùng trắng vì người dùng chưa nhập dữ liệu."
+        },
+        {
+          "key": "C",
+          "text": "Đây là trường nhập văn bản một dòng vì thẻ textarea là thẻ đơn."
+        },
+        {
+          "key": "D",
+          "text": "Đây là danh sách thả xuống có 4 lựa chọn, mỗi lựa chọn rộng 30 kí tự."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phần tử textarea xác định một vùng nhập văn bản có nhiều dòng và cột, với rows là số dòng và cols là số cột. Phần Nội_dung đặt trong cặp thẻ sẽ được hiển thị trong vùng nhập; nếu không để Nội_dung trong thẻ thì vùng nhập văn bản là vùng trắng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "textarea",
+        "đọc mã HTML"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-tao-bieu-mau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong biểu mẫu web, phần tử fieldset được dùng để làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xác định vùng nhập dữ liệu một dòng cho người dùng."
+        },
+        {
+          "key": "B",
+          "text": "Nhóm các phần tử có liên quan trong biểu mẫu bằng cách vẽ một hình chữ nhật bao quanh các phần tử đặt trong cặp thẻ của nó, có thể thêm tên nhóm bằng phần tử legend."
+        },
+        {
+          "key": "C",
+          "text": "Tạo danh sách thả xuống chứa nhiều phần tử option."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ định vùng nhập mật khẩu bị che thông tin khi hiển thị."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách mô tả phần tử fieldset được dùng để nhóm các phần tử có liên quan trong biểu mẫu bằng cách vẽ một hình chữ nhật bao quanh các phần tử đặt trong cặp thẻ fieldset; ta có thể thêm tên cho nhóm phần tử bằng cách đặt phần tử legend trong phần tử fieldset tương ứng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "fieldset",
+        "legend"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-css-khai-niem",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, CSS là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một ngôn ngữ lập trình chạy trên máy chủ để xử lí dữ liệu của biểu mẫu."
+        },
+        {
+          "key": "B",
+          "text": "Một chuẩn tệp dùng để lưu hình ảnh và âm thanh của trang web."
+        },
+        {
+          "key": "C",
+          "text": "Một định dạng độc lập với chuẩn HTML, được dùng để thiết lập các mẫu định dạng dùng trong trang web."
+        },
+        {
+          "key": "D",
+          "text": "Một tập hợp thẻ HTML mới thay thế hoàn toàn các thẻ HTML cũ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách định nghĩa CSS là định dạng độc lập với chuẩn HTML, được dùng để thiết lập các mẫu định dạng dùng trong trang web; CSS là viết tắt của Cascading Style Sheet.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "khái niệm CSS"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-css-khai-niem",
+      "type": "SINGLE_CHOICE",
+      "content": "Cấu trúc tổng quát của một mẫu định dạng CSS gồm những thành phần nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một thẻ HTML và một thuộc tính của thẻ đó."
+        },
+        {
+          "key": "B",
+          "text": "Một đường dẫn tuyệt đối và một đường dẫn tương đối."
+        },
+        {
+          "key": "C",
+          "text": "Một biểu mẫu và các phần tử nhập dữ liệu bên trong."
+        },
+        {
+          "key": "D",
+          "text": "Bộ chọn (selector) và vùng mô tả (declaration block), trong đó vùng mô tả chứa một hay nhiều quy định dạng có dạng {thuộc tính : giá trị ;}, các quy định cách nhau bởi dấu chấm phẩy."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu cấu trúc tổng quát của một mẫu định dạng CSS có hai phần là bộ chọn (selector) và vùng mô tả (declaration block). Vùng mô tả bao gồm một hay nhiều quy định có dạng {thuộc tính : giá trị ;} viết cách nhau bởi dấu chấm phẩy; bộ chọn quy định những thẻ HTML nào được chọn để áp dụng định dạng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "cấu trúc CSS"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-css-khai-niem",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu định dạng h1, h2, h3 {color: red;} có ý nghĩa gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Định dạng chữ màu đỏ áp dụng đồng thời cho tất cả các thẻ h1, h2 và h3."
+        },
+        {
+          "key": "B",
+          "text": "Định dạng chữ màu đỏ chỉ áp dụng cho thẻ h3, vì các thẻ viết trước bị bỏ qua."
+        },
+        {
+          "key": "C",
+          "text": "Định dạng chữ màu đỏ áp dụng cho thẻ h1 nằm trong thẻ h2 và thẻ h2 nằm trong thẻ h3."
+        },
+        {
+          "key": "D",
+          "text": "Ba mẫu định dạng riêng biệt, mỗi loại thẻ nhận một màu khác nhau theo thứ tự viết."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bộ chọn có thể là một thẻ hoặc đồng thời nhiều thẻ, các thẻ viết cách nhau bởi dấu phẩy. Ở mẫu này bộ chọn gồm ba thẻ h1, h2, h3 nên cả ba loại thẻ đều được định dạng chữ màu đỏ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "bộ chọn",
+        "đọc mã CSS"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-css-khai-niem",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu định dạng p {text-indent: 15px; color: blue;} được hiểu như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thụt đầu dòng 15 pixel cho thẻ p và đổi màu chữ thành xanh, nhưng chỉ với đoạn đầu tiên trong trang."
+        },
+        {
+          "key": "B",
+          "text": "Hai quy định dạng cùng áp dụng cho tất cả các phần tử p: thụt đầu dòng 15 pixel và chữ màu xanh."
+        },
+        {
+          "key": "C",
+          "text": "Một quy định dạng duy nhất với thuộc tính tên là text-indent và giá trị là 15px color blue."
+        },
+        {
+          "key": "D",
+          "text": "Thụt đầu dòng 15 pixel cho mọi thẻ trong trang web, không liên quan tới thẻ p."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vùng mô tả có thể chứa nhiều quy định dạng cách nhau bởi dấu chấm phẩy và tất cả đều áp dụng cho bộ chọn. Mẫu này thụt đầu dòng 15 pixel và đặt chữ màu xanh cho tất cả các phần tử p.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "vùng mô tả",
+        "đọc mã CSS"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-css-khai-niem",
+      "type": "SINGLE_CHOICE",
+      "content": "Cách thiết lập CSS đưa toàn bộ mẫu định dạng vào bên trong thẻ <style> đặt trong phần head của tệp HTML, và các mẫu định dạng chỉ được áp dụng cho tệp HTML hiện thời, được gọi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "CSS ngoài (external CSS)."
+        },
+        {
+          "key": "B",
+          "text": "CSS nội tuyến (inline CSS)."
+        },
+        {
+          "key": "C",
+          "text": "CSS máy chủ."
+        },
+        {
+          "key": "D",
+          "text": "CSS trong (internal CSS)."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách phân biệt ba cách thiết lập CSS là CSS trong, CSS ngoài và CSS nội tuyến. Cách thiết lập CSS trong đưa toàn bộ các mẫu định dạng vào bên trong thẻ style và đặt trong phần head của tệp HTML, khi đó các mẫu chỉ được áp dụng cho tệp HTML hiện thời.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "CSS trong"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-css-khai-niem",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã <head><link href=\"styles.css\" rel=\"stylesheet\" type=\"text/css\"></head>. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đây là cách thiết lập CSS nội tuyến vì định dạng được khai báo ngay trong phần head."
+        },
+        {
+          "key": "B",
+          "text": "Đây là cách thiết lập CSS trong vì các mẫu định dạng nằm trong thẻ style ở phần head."
+        },
+        {
+          "key": "C",
+          "text": "Đây là một cách thiết lập CSS ngoài: các mẫu định dạng viết trong tệp styles.css bên ngoài tệp HTML, trang web liên kết với tệp định dạng nhờ thẻ link đặt trong vùng head."
+        },
+        {
+          "key": "D",
+          "text": "Đoạn mã này tạo một liên kết tới trang web styles.css để mở trong khung nội tuyến."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu hai cách kết nối tệp HTML với tệp CSS ngoài: cách thứ nhất dùng thẻ link đặt trong vùng head với href chỉ tên tệp css, rel=\"stylesheet\" và type=\"text/css\"; cách thứ hai dùng lệnh @import đặt trong phần tử style nằm trong head. CSS nội tuyến là chỉ ra các thuộc tính và giá trị cho thuộc tính style của chính phần tử HTML.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "CSS ngoài",
+        "đọc mã HTML"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-tao-lien-ket",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng khi nói về liên kết trong trang web?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khi liên kết tới tài liệu không nằm trên máy chủ của mình thì bắt buộc phải dùng đường dẫn tuyệt đối."
+        },
+        {
+          "key": "B",
+          "text": "Thuộc tính id dùng làm mã định danh đoạn được phép trùng nhau giữa các trang trong cùng một website."
+        },
+        {
+          "key": "C",
+          "text": "Số cụm ../ trong đường dẫn tương ứng với số mức quay trở lại thư mục ở mức trên."
+        },
+        {
+          "key": "D",
+          "text": "Có thể tạo liên kết cho một hình ảnh bằng cách đặt thẻ <img> bên trong cặp thẻ <a>…</a>."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A, C và D đúng theo sách: liên kết tới tài liệu ngoài máy chủ của mình phải dùng đường dẫn tuyệt đối, mỗi cụm ../ chỉ định trở lại thư mục trên một mức, và để tạo liên kết cho hình ảnh ta hiển thị ảnh bằng thẻ img rồi đặt trong cặp thẻ a. B sai vì thuộc tính id tại vị trí cần liên kết phải được đặt tên duy nhất, chỉ xuất hiện duy nhất một lần trong toàn bộ trang web.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "liên kết"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về chèn tệp tin đa phương tiện và khung nội tuyến vào trang web?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai thẻ <video> và <audio> được hỗ trợ trong hầu hết trình duyệt, nhưng định dạng của các tệp tin đa phương tiện có sử dụng được hay không vẫn phụ thuộc vào trình duyệt."
+        },
+        {
+          "key": "B",
+          "text": "Nếu chỉ sử dụng một trong hai thuộc tính width hoặc height của thẻ <img>, chiều còn lại sẽ được tính toán để hiển thị theo tỉ lệ của ảnh gốc."
+        },
+        {
+          "key": "C",
+          "text": "Ba định dạng tệp âm thanh phổ biến được hầu hết trình duyệt hiện nay hỗ trợ là mp3, wav và ogg."
+        },
+        {
+          "key": "D",
+          "text": "Thẻ <audio> cũng có các thuộc tính width, height và poster giống như thẻ <video>."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B và C đều là nội dung sách đã nêu; với video, hai định dạng phổ biến nhất là mp4 và webm, trong đó Mp4 chạy được trực tiếp trên hầu hết các trình duyệt. D sai vì sách ghi rõ thẻ <audio> không có thuộc tính width, height và poster.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "đa phương tiện"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-tao-bieu-mau",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về biểu mẫu và các phần tử của biểu mẫu trong HTML?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu mẫu web đầy đủ gồm hai thành phần, trong đó thành phần ứng dụng hoặc script xử lí dữ liệu nằm trên máy chủ không thuộc phạm vi ngôn ngữ HTML."
+        },
+        {
+          "key": "B",
+          "text": "Phần tử input là thẻ đơn nên luôn cần thẻ kết thúc để trình duyệt xác định hết vùng nhập."
+        },
+        {
+          "key": "C",
+          "text": "Mỗi ô radio và ô checkbox cần thêm thuộc tính value để ghi nhận giá trị được chọn."
+        },
+        {
+          "key": "D",
+          "text": "Phần tử label chỉ có tác dụng hiển thị tên nhãn, không ảnh hưởng tới vị trí con trỏ chuột."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A và C đúng. B sai vì sách nêu phần tử input xác định bởi thẻ đơn, không cần thẻ kết thúc. D sai vì khi nháy chuột vào Tên_nhãn thì con trỏ chuột sẽ được đưa vào vùng của phần tử input được xác định bởi thuộc tính for tương ứng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "biểu mẫu"
+      ]
+    },
+    {
+      "id": "tinhoc12-04-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-css-khai-niem",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về mẫu định dạng CSS?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mẫu định dạng CSS giúp định dạng nội dung trang web nhanh hơn, thuận tiện hơn bằng cách định nghĩa một lần và sử dụng nhiều lần."
+        },
+        {
+          "key": "B",
+          "text": "Ngôn ngữ định dạng CSS chính là ngôn ngữ HTML."
+        },
+        {
+          "key": "C",
+          "text": "Trong vùng mô tả của một mẫu, các quy định dạng được viết cách nhau bởi dấu chấm phẩy và bộ chọn quy định những thẻ HTML nào được chọn để áp dụng định dạng."
+        },
+        {
+          "key": "D",
+          "text": "Một tệp CSS có thể được thiết lập để đồng thời áp dụng cho nhiều trang web, thậm chí cả một website."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A, C và D đúng theo sách. B sai vì CSS sử dụng ngôn ngữ mô tả riêng, độc lập với HTML; đây chính là khẳng định sai mà bài học yêu cầu phản bác. Với ý D, khi cần chỉnh sửa định dạng ta chỉ cần sửa một lần trong tệp định dạng css nên có thể thay đổi định dạng của nhiều trang web, thậm chí cả một website.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "CSS"
+      ]
+    }
+  ]
+}

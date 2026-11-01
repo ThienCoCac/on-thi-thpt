@@ -286,6 +286,211 @@
           "order": 5
         }
       ]
+    },
+    {
+      "id": "tin-hoc",
+      "name": "Tin học",
+      "slug": "tin-hoc",
+      "description": "Tin học 12 – Định hướng Tin học ứng dụng (Kết nối tri thức): Trí tuệ nhân tạo, mạng máy tính và Internet, giao tiếp trong không gian mạng, HTML và CSS, hướng nghiệp với tin học và xây dựng trang web bằng Google Sites.",
+      "order": 7,
+      "topics": [
+        {
+          "id": "topic-th-ai-lam-quen",
+          "name": "Bài 1. Làm quen với Trí tuệ nhân tạo",
+          "slug": "bai-1-lam-quen-voi-tri-tue-nhan-tao",
+          "description": "Khái niệm Trí tuệ nhân tạo, năm đặc trưng trí tuệ, trí tuệ nhân tạo hẹp và tổng quát cùng các mốc lịch sử của AI.",
+          "order": 1
+        },
+        {
+          "id": "topic-th-ai-khoa-hoc-doi-song",
+          "name": "Bài 2. Trí tuệ nhân tạo trong khoa học và đời sống",
+          "slug": "bai-2-tri-tue-nhan-tao-trong-khoa-hoc-va-doi-song",
+          "description": "Hệ chuyên gia, AI tạo sinh, ứng dụng AI trong y học, giao thông, tài chính, sản xuất, giáo dục và bốn cảnh báo về AI.",
+          "order": 2
+        },
+        {
+          "id": "topic-th-thiet-bi-mang",
+          "name": "Bài 3. Một số thiết bị mạng thông dụng",
+          "slug": "bai-3-mot-so-thiet-bi-mang-thong-dung",
+          "description": "Chức năng của hub, switch, điểm truy cập không dây, router và modem; cách kết nối máy tính vào mạng.",
+          "order": 3
+        },
+        {
+          "id": "topic-th-giao-thuc-mang",
+          "name": "Bài 4. Giao thức mạng",
+          "slug": "bai-4-giao-thuc-mang",
+          "description": "Định nghĩa giao thức mạng, địa chỉ MAC và IP, định tuyến, cổng ứng dụng cùng các giao thức TCP/IP, SMTP, POP3, IMAP, HTTP, DNS, ICMP.",
+          "order": 4
+        },
+        {
+          "id": "topic-th-chia-se-tai-nguyen",
+          "name": "Bài 5. Thực hành chia sẻ tài nguyên trên mạng",
+          "slug": "bai-5-thuc-hanh-chia-se-tai-nguyen-tren-mang",
+          "description": "Chia sẻ thư mục, tệp và máy in trong mạng cục bộ Windows: mạng riêng, Network discovery, quyền Read và Read/Write, Print Server.",
+          "order": 5
+        },
+        {
+          "id": "topic-th-ung-xu-khong-gian-mang",
+          "name": "Bài 6. Giao tiếp và ứng xử trong không gian mạng",
+          "slug": "bai-6-giao-tiep-va-ung-xu-trong-khong-gian-mang",
+          "description": "Không gian mạng, bốn ưu điểm và bốn nhược điểm của giao tiếp trực tuyến, ứng xử nhân văn trong môi trường số.",
+          "order": 6
+        },
+        {
+          "id": "topic-th-html-cau-truc",
+          "name": "Bài 7. HTML và cấu trúc trang web",
+          "slug": "bai-7-html-va-cau-truc-trang-web",
+          "description": "Thẻ và phần tử HTML, cấu trúc tệp .html với html, head, body, khai báo DOCTYPE, chú thích và phần mềm soạn thảo.",
+          "order": 7
+        },
+        {
+          "id": "topic-th-dinh-dang-van-ban",
+          "name": "Bài 8. Định dạng văn bản",
+          "slug": "bai-8-dinh-dang-van-ban",
+          "description": "Thuộc tính trong thẻ HTML, thẻ tiêu đề, đoạn văn, khối div và span, các thẻ định dạng kiểu chữ và style cho phông chữ.",
+          "order": 8
+        },
+        {
+          "id": "topic-th-danh-sach-bang",
+          "name": "Bài 9. Tạo danh sách, bảng",
+          "slug": "bai-9-tao-danh-sach-bang",
+          "description": "Danh sách ol, ul, dl; bảng table, tr, th, td; caption, viền khung, kích thước và gộp ô bằng rowspan, colspan.",
+          "order": 9
+        },
+        {
+          "id": "topic-th-tao-lien-ket",
+          "name": "Bài 10. Tạo liên kết",
+          "slug": "bai-10-tao-lien-ket",
+          "description": "Siêu văn bản và siêu liên kết, thẻ a với href, đường dẫn tuyệt đối và tương đối, liên kết tới vị trí khác bằng id.",
+          "order": 10
+        },
+        {
+          "id": "topic-th-da-phuong-tien",
+          "name": "Bài 11. Chèn tệp tin đa phương tiện và khung nội tuyến",
+          "slug": "bai-11-chen-tep-tin-da-phuong-tien-va-khung-noi-tuyen",
+          "description": "Chèn ảnh bằng thẻ img, âm thanh và video bằng audio, video, source và khung nội tuyến iframe.",
+          "order": 11
+        },
+        {
+          "id": "topic-th-tao-bieu-mau",
+          "name": "Bài 12. Tạo biểu mẫu",
+          "slug": "bai-12-tao-bieu-mau",
+          "description": "Biểu mẫu HTML với form, các loại input, label, select, textarea, fieldset và legend.",
+          "order": 12
+        },
+        {
+          "id": "topic-th-css-khai-niem",
+          "name": "Bài 13. Khái niệm, vai trò của CSS",
+          "slug": "bai-13-khai-niem-vai-tro-cua-css",
+          "description": "Khái niệm và vai trò CSS, cấu trúc bộ chọn cùng vùng mô tả, ba cách thiết lập CSS trong, CSS ngoài và CSS nội tuyến.",
+          "order": 13
+        },
+        {
+          "id": "topic-th-dinh-dang-van-ban-css",
+          "name": "Bài 14. Định dạng văn bản bằng CSS",
+          "slug": "bai-14-dinh-dang-van-ban-bang-css",
+          "description": "Thuộc tính font-family, font-size, font-style, font-weight, color, line-height, text-align, text-decoration, text-indent, tính kế thừa và !important.",
+          "order": 14
+        },
+        {
+          "id": "topic-th-mau-chu-va-nen",
+          "name": "Bài 15. Tạo màu cho chữ và nền",
+          "slug": "bai-15-tao-mau-cho-chu-va-nen",
+          "description": "Mã hoá màu RGB và HSL, tên màu CSS, thuộc tính color, background-color, border và các bộ chọn tổ hợp phần tử.",
+          "order": 15
+        },
+        {
+          "id": "topic-th-dinh-dang-khung",
+          "name": "Bài 16. Định dạng khung",
+          "slug": "bai-16-dinh-dang-khung",
+          "description": "Phần tử khối và nội tuyến, display, width, height, padding, margin, border; bộ chọn lớp, id và thuộc tính.",
+          "order": 16
+        },
+        {
+          "id": "topic-th-muc-uu-tien-bo-chon",
+          "name": "Bài 17. Các mức ưu tiên của bộ chọn",
+          "slug": "bai-17-cac-muc-uu-tien-cua-bo-chon",
+          "description": "Lớp giả và phần tử giả, bảng thứ tự ưu tiên bảy mức và cách tính trọng số của bộ chọn CSS.",
+          "order": 17
+        },
+        {
+          "id": "topic-th-thuc-hanh-thiet-ke-web",
+          "name": "Bài 18. Thực hành tổng hợp thiết kế trang web",
+          "slug": "bai-18-thuc-hanh-tong-hop-thiet-ke-trang-web",
+          "description": "Thực hành thiết kế website câu lạc bộ ngoại khoá: bố cục đầu trang, khẩu hiệu, nội dung chính, chân trang và tệp style.css dùng chung.",
+          "order": 18
+        },
+        {
+          "id": "topic-th-sua-chua-bao-tri",
+          "name": "Bài 19. Dịch vụ sửa chữa và bảo trì máy tính",
+          "slug": "bai-19-dich-vu-sua-chua-va-bao-tri-may-tinh",
+          "description": "Ba nhóm công việc sửa chữa, bảo trì máy tính, yêu cầu kiến thức, kĩ năng mềm và nhu cầu nhân lực.",
+          "order": 19
+        },
+        {
+          "id": "topic-th-nghe-quan-tri-cn",
+          "name": "Bài 20. Nhóm nghề quản trị thuộc ngành Công nghệ thông tin",
+          "slug": "bai-20-nhom-nghe-quan-tri-thuoc-nganh-cong-nghe-thong-tin",
+          "description": "Ba nhóm nghề quản trị: quản trị mạng, bảo mật hệ thống thông tin, quản trị và bảo trì hệ thống cùng kiến thức cần có.",
+          "order": 20
+        },
+        {
+          "id": "topic-th-hoi-thao-huong-nghiep",
+          "name": "Bài 21. Hội thảo hướng nghiệp",
+          "slug": "bai-21-hoi-thao-huong-nghiep",
+          "description": "Kế hoạch, chương trình 45 phút, cách xây dựng bài trình bày và bảng đánh giá hội thảo hướng nghiệp nhân lực công nghệ thông tin.",
+          "order": 21
+        },
+        {
+          "id": "topic-th-ket-noi-thiet-bi-so",
+          "name": "Bài 22. Thực hành kết nối các thiết bị số",
+          "slug": "bai-22-thuc-hanh-ket-noi-cac-thiet-bi-so",
+          "description": "Kết nối thiết bị hiển thị qua cáp VGA, HDMI, tổ hợp phím Windows + P, truyền tệp bằng Bluetooth và kết nối thiết bị nhà thông minh.",
+          "order": 22
+        },
+        {
+          "id": "topic-th-chuan-bi-web",
+          "name": "Bài 23. Chuẩn bị xây dựng trang web",
+          "slug": "bai-23-chuan-bi-xay-dung-trang-web",
+          "description": "Cấu trúc ba phần của trang web và ba bước chuẩn bị trước khi xây dựng trang web.",
+          "order": 23
+        },
+        {
+          "id": "topic-th-dau-trang-web",
+          "name": "Bài 24. Xây dựng phần đầu trang web",
+          "slug": "bai-24-xay-dung-phan-dau-trang-web",
+          "description": "Giao diện Google Sites, logo, favicon, ảnh nền, tiêu đề và xuất bản trang.",
+          "order": 24
+        },
+        {
+          "id": "topic-th-than-chan-trang-web",
+          "name": "Bài 25. Xây dựng phần thân và chân trang web",
+          "slug": "bai-25-xay-dung-phan-than-va-chan-trang-web",
+          "description": "Bảng chọn Chèn, khối nội dung, nhúng bản đồ, chỉnh sửa đối tượng và chân trang.",
+          "order": 25
+        },
+        {
+          "id": "topic-th-lien-ket-dieu-huong",
+          "name": "Bài 26. Liên kết và thanh điều hướng",
+          "slug": "bai-26-lien-ket-va-thanh-dieu-huong",
+          "description": "Trang con và thanh điều hướng trong Google Sites: thêm trang con, bảng chọn trên thiết bị di động và liên kết trong bài giới thiệu.",
+          "order": 26
+        },
+        {
+          "id": "topic-th-bieu-mau-google-forms",
+          "name": "Bài 27. Biểu mẫu trên trang web",
+          "slug": "bai-27-bieu-mau-tren-trang-web",
+          "description": "Tạo biểu mẫu bằng Google Forms, nhúng vào trang Google Sites và xem thống kê kết quả ở tab Câu trả lời hoặc Trang tính.",
+          "order": 27
+        },
+        {
+          "id": "topic-th-thuc-hanh-tong-hop",
+          "name": "Bài 28. Thực hành tổng hợp",
+          "slug": "bai-28-thuc-hanh-tong-hop",
+          "description": "Yêu cầu sản phẩm website hoàn chỉnh, mẫu giao diện, bảng màu, phông chữ và bảng chọn chiều ngang trong Google Sites.",
+          "order": 28
+        }
+      ]
     }
   ]
 }

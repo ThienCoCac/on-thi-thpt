@@ -1,0 +1,956 @@
+{
+  "id": "de-tin-hoc-12-so-02",
+  "title": "Đề ôn tập Tin học 12 số 02 – Mạng máy tính và Internet (Bài 3–5)",
+  "slug": "de-tin-hoc-12-so-02",
+  "description": "Đề ôn tập Chủ đề 2 Mạng máy tính và Internet, bám sát Bài 3, Bài 4 và Bài 5 của SGK Tin học 12 bộ Kết nối tri thức. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút.",
+  "subject": "tin-hoc",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-02",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-01T08:00:00.000Z",
+  "updatedAt": "2026-11-01T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-02-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thiet-bi-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi một máy tính gửi dữ liệu qua một cổng của bộ chia tín hiệu (hub), hub sẽ xử lí tín hiệu như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ chuyển tín hiệu đến đúng cổng có máy nhận."
+        },
+        {
+          "key": "B",
+          "text": "gửi tín hiệu đến tất cả các cổng còn lại của hub."
+        },
+        {
+          "key": "C",
+          "text": "lưu tín hiệu lại và chỉ truyền khi tuyến truyền rảnh."
+        },
+        {
+          "key": "D",
+          "text": "chuyển đổi tín hiệu số thành tín hiệu tương tự rồi mới phát đi."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu khi máy tính gửi dữ liệu qua một cổng của hub thì tín hiệu sẽ được gửi đến tất cả các cổng còn lại; đây chính là điểm khác biệt về cách thức hoạt động so với switch.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "hub",
+        "thiết bị mạng"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thiet-bi-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây mô tả đúng cách hoạt động của bộ chuyển mạch (switch)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "phát tán tín hiệu ra mọi cổng giống hệt hub."
+        },
+        {
+          "key": "B",
+          "text": "chuyển đổi tín hiệu số sang tín hiệu quang để truyền đi xa."
+        },
+        {
+          "key": "C",
+          "text": "luôn chọn cổng mặc định khi địa chỉ máy nhận không có trong bảng."
+        },
+        {
+          "key": "D",
+          "text": "xác định cổng của máy gửi và máy nhận, thiết lập tạm thời kênh truyền giữa hai cổng rồi huỷ sau khi truyền xong."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Switch xác định cổng kết nối giữa thiết bị gửi và thiết bị nhận, thiết lập tạm thời kênh truyền giữa hai cổng để truyền dữ liệu và huỷ kết nối sau khi hoàn thành việc truyền, nhờ đó không gây xung đột với các cuộc truyền ở cổng khác.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "switch",
+        "thiết bị mạng"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thiet-bi-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiện tượng xung đột (collision) tín hiệu trong mạng LAN xảy ra khi nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhiều máy đồng thời gửi dữ liệu lên đường truyền chung làm tín hiệu bị hỏng và phải truyền lại."
+        },
+        {
+          "key": "B",
+          "text": "một máy gửi dữ liệu đến máy nhận đang tắt nguồn."
+        },
+        {
+          "key": "C",
+          "text": "router chọn sai cổng WAN khi có nhiều cổng WAN."
+        },
+        {
+          "key": "D",
+          "text": "hai máy tính được gán trùng nhau một địa chỉ MAC."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo Hoạt động 1, khi nhiều máy đồng thời gửi dữ liệu lên đường truyền chung thì tín hiệu bị hỏng khiến các máy tính không nhận biết được dữ liệu; hiện tượng đó gọi là xung đột và dẫn đến phải truyền lại, làm giảm hiệu quả của mạng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xung đột",
+        "hub"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thiet-bi-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, Wi-Fi bản chất là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "một loại cáp mạng không dây dùng cho mạng cục bộ."
+        },
+        {
+          "key": "B",
+          "text": "một thiết bị phần cứng do một hãng sản xuất cụ thể bán ra."
+        },
+        {
+          "key": "C",
+          "text": "một bộ tiêu chuẩn kĩ thuật truyền dữ liệu bằng sóng vô tuyến điện được dùng rộng rãi trong các mạng cục bộ."
+        },
+        {
+          "key": "D",
+          "text": "một dạng địa chỉ IP dành riêng cho các thiết bị di động."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Wi-Fi là chữ viết tắt của Wireless Fidelity; thực ra Wi-Fi là một bộ tiêu chuẩn kĩ thuật truyền dữ liệu bằng sóng vô tuyến điện được sử dụng rộng rãi trong các mạng cục bộ, không phải tên một thiết bị.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Wi-Fi",
+        "thuật ngữ"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thiet-bi-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về bộ định tuyến (router)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Router chỉ có duy nhất loại cổng dùng để kết nối vào mạng cục bộ."
+        },
+        {
+          "key": "B",
+          "text": "Router có chức năng chính là chuyển đổi tín hiệu số sang tín hiệu tương tự."
+        },
+        {
+          "key": "C",
+          "text": "Router phát tán tín hiệu đến tất cả các cổng như một hub."
+        },
+        {
+          "key": "D",
+          "text": "Router có cổng LAN để kết nối trực tiếp vào mạng cục bộ và cổng WAN để kết nối với router khác; định tuyến là việc chọn cổng thích hợp để gửi dữ liệu tới đích."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mỗi router có một số cổng kết nối trực tiếp vào LAN gọi là cổng LAN và một số cổng kết nối với router khác gọi là cổng WAN; thuật ngữ định tuyến (chọn đường) hàm ý router phải chọn một cổng thích hợp để gửi dữ liệu sao cho tới được LAN của máy nhận.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "router",
+        "định tuyến"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thiet-bi-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Chức năng chính của modem trong kết nối Internet là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "chuyển đổi tín hiệu số thành tín hiệu tương tự và ngược lại, chỉ thay đổi tín hiệu mà không làm thay đổi dữ liệu được mang bởi tín hiệu."
+        },
+        {
+          "key": "B",
+          "text": "chọn cổng thích hợp để định tuyến dữ liệu đi tới đích trên mạng diện rộng."
+        },
+        {
+          "key": "C",
+          "text": "phát tán tín hiệu ra tất cả các cổng để mở rộng phạm vi mạng cục bộ."
+        },
+        {
+          "key": "D",
+          "text": "gán địa chỉ IP cho từng thiết bị trong mạng cục bộ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Modem là thiết bị có chức năng chuyển đổi tín hiệu số thành tín hiệu tương tự và ngược lại; modem chỉ thay đổi tín hiệu mà không làm thay đổi dữ liệu được mang bởi tín hiệu. Router mới là thiết bị chỉ hướng luồng dữ liệu nhưng không chuyển đổi tín hiệu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "modem",
+        "chuyển đổi tín hiệu"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thiet-bi-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Loại modem nào có khe cắm SIM để truy cập Internet qua hệ thống thông tin di động và có thể phát lại qua sóng Wi-Fi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "modem quay số."
+        },
+        {
+          "key": "B",
+          "text": "modem ADSL."
+        },
+        {
+          "key": "C",
+          "text": "modem GSM 3G, 4G, 5G."
+        },
+        {
+          "key": "D",
+          "text": "modem quang."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách liệt kê modem GSM 3G, 4G, 5G có khe SIM để truy cập Internet qua hệ thống thông tin di động và phát lại qua sóng Wi-Fi hoặc nối vào mạng có dây; modem quay số dùng mạng điện thoại công cộng, modem ADSL dùng cáp điện thoại, modem quang chuyển đổi tín hiệu số sang tín hiệu quang.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "modem",
+        "phân loại modem"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-thiet-bi-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong Nhiệm vụ 1, loại cáp mạng thường dùng để kết nối các thiết bị qua cổng RJ45 là loại nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "cáp đồng trục với giắc BNC."
+        },
+        {
+          "key": "B",
+          "text": "cáp mạng UTP có bốn đôi dây xoắn với giắc cắm RJ45."
+        },
+        {
+          "key": "C",
+          "text": "cáp quang hai sợi với đầu nối LC."
+        },
+        {
+          "key": "D",
+          "text": "cáp điện thoại RJ11 bốn lõi."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Các LAN thường dùng cáp mạng UTP có bốn đôi dây xoắn với giắc cắm RJ45 để kết nối; chỉ cần cắm một đầu giắc vào cổng RJ45 của máy tính, đầu còn lại vào cổng RJ45 của switch, hub hoặc cổng LAN của router.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "cáp mạng",
+        "RJ45"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Giao thức mạng (giao thức truyền thông) được hiểu là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "tập hợp các quy định về cách thức giao tiếp để truyền dữ liệu giữa các đối tượng tham gia mạng."
+        },
+        {
+          "key": "B",
+          "text": "một thiết bị phần cứng đặt giữa các mạng để chuyển tiếp dữ liệu."
+        },
+        {
+          "key": "C",
+          "text": "đường truyền vật lí nối hai máy tính trong cùng mạng cục bộ."
+        },
+        {
+          "key": "D",
+          "text": "phần mềm soạn thảo văn bản dùng để gửi thư điện tử."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tập hợp các quy định cách thức giao tiếp giữa các đối tượng tham gia truyền nhận dữ liệu qua mạng được gọi là giao thức mạng hay giao thức truyền thông; các quy định này liên quan tới định dạng, ý nghĩa và cách xử lí dữ liệu để việc gửi và nhận được chính xác, tin cậy và hiệu quả.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "giao thức mạng",
+        "khái niệm"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo giao thức Ethernet trong mạng cục bộ, căn cứ nào được dùng để xác định nơi nhận dữ liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "dựa vào tên miền của máy nhận."
+        },
+        {
+          "key": "B",
+          "text": "dựa vào cổng ứng dụng của máy nhận."
+        },
+        {
+          "key": "C",
+          "text": "dựa vào địa chỉ MAC, một địa chỉ bằng số gắn với phần cứng của mỗi thiết bị tham gia mạng."
+        },
+        {
+          "key": "D",
+          "text": "dựa vào mật khẩu chia sẻ của máy nhận."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Quy định về địa chỉ của Ethernet nêu mỗi thiết bị tham gia mạng đều có một địa chỉ bằng số khác nhau gắn theo phần cứng gọi là địa chỉ MAC; truyền dữ liệu trong mạng cục bộ sẽ căn cứ vào địa chỉ MAC.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Ethernet",
+        "địa chỉ MAC"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào so sánh đúng địa chỉ MAC và địa chỉ IP?",
+      "options": [
+        {
+          "key": "A",
+          "text": "MAC và IP đều là địa chỉ phần cứng không thể thay đổi."
+        },
+        {
+          "key": "B",
+          "text": "MAC có 4 byte còn IP có 6 byte."
+        },
+        {
+          "key": "C",
+          "text": "IP gắn với phần cứng không thay đổi được còn MAC có thể gán lại."
+        },
+        {
+          "key": "D",
+          "text": "MAC là địa chỉ 6 byte gắn với phần cứng không thay đổi được, còn IP là địa chỉ 4 byte được gán cho thiết bị và có thể thay đổi nếu ta gán lại."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu địa chỉ IP khác với địa chỉ MAC: MAC là địa chỉ 6 byte gắn với phần cứng không thay đổi được, còn IP là địa chỉ 4 byte được gán cho thiết bị và có thể thay đổi nếu ta gán lại.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa chỉ IP",
+        "địa chỉ MAC"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Địa chỉ IP gồm bốn byte nhị phân 11000000 10101000 00000001 00000011, khi viết theo kiểu dot decimal sẽ là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "10.25.0.255"
+        },
+        {
+          "key": "B",
+          "text": "192.168.1.3"
+        },
+        {
+          "key": "C",
+          "text": "192.168.13.210"
+        },
+        {
+          "key": "D",
+          "text": "131.214.23.16"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo kiểu dot decimal, mỗi byte được viết ở hệ thập phân và các byte phân tách nhau bởi dấu chấm; bốn byte 11000000, 10101000, 00000001, 00000011 lần lượt là 192, 168, 1, 3 nên địa chỉ là 192.168.1.3.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa chỉ IP",
+        "dot decimal"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng định tuyến ở Bảng 4.1 với phương pháp định tuyến tĩnh, một gói dữ liệu có địa chỉ đến 172.18.5.9 sẽ được gửi theo cổng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "cổng 1."
+        },
+        {
+          "key": "B",
+          "text": "cổng 3."
+        },
+        {
+          "key": "C",
+          "text": "cổng 2."
+        },
+        {
+          "key": "D",
+          "text": "cổng mặc định."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảng 4.1 quy định nhóm địa chỉ 172.18.*.* được gửi theo cổng 2 (Hồng Kông); vì 172.18.5.9 khớp mẫu 172.18.*.* nên gói dữ liệu đi theo cổng 2. Chỉ những địa chỉ không khớp dòng nào mới được gửi theo cổng mặc định.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "định tuyến",
+        "bảng định tuyến"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào đúng về vai trò của giao thức IP?",
+      "options": [
+        {
+          "key": "A",
+          "text": "IP đảm bảo chuyển dữ liệu từ mạng này đến mạng kia nhưng không đảm bảo chuyển dữ liệu tới một ứng dụng cụ thể trên một máy cụ thể."
+        },
+        {
+          "key": "B",
+          "text": "IP vừa định tuyến vừa đảm bảo độ tin cậy bằng cách đánh số và xác nhận từng gói dữ liệu."
+        },
+        {
+          "key": "C",
+          "text": "IP quy định cách biểu diễn và mã hoá nội dung các trang web."
+        },
+        {
+          "key": "D",
+          "text": "IP cấp phát cổng ứng dụng cho từng phần mềm chạy trên máy."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giao thức IP có hai nội dung chính là cách đánh địa chỉ và định tuyến để dẫn dữ liệu từ LAN của máy gửi đến LAN của máy nhận; IP chỉ đảm bảo chuyển dữ liệu từ mạng này đến mạng kia mà không đảm bảo chuyển dữ liệu tới một ứng dụng cụ thể trên một máy cụ thể, việc đó do TCP đảm nhiệm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "giao thức IP",
+        "TCP/IP"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giao thức TCP, cổng ứng dụng được dùng để làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng tốc độ đường truyền vật lí giữa hai máy tính."
+        },
+        {
+          "key": "B",
+          "text": "gán cho mỗi ứng dụng một số hiệu để các gói dữ liệu không bị lẫn giữa các ứng dụng."
+        },
+        {
+          "key": "C",
+          "text": "chuyển đổi tín hiệu số sang tín hiệu tương tự."
+        },
+        {
+          "key": "D",
+          "text": "xác định địa chỉ MAC của máy gửi."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo TCP, mỗi ứng dụng sẽ được cấp phát một số hiệu gọi là cổng ứng dụng và các gói dữ liệu chuyển đi được gắn nhãn cổng ứng dụng để không lẫn giữa các ứng dụng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "giao thức TCP",
+        "cổng ứng dụng"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "SINGLE_CHOICE",
+      "content": "Giao thức nào cho phép dùng hệ thống tên bằng chữ để thay thế cho địa chỉ IP vốn khó nhớ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "HTTP."
+        },
+        {
+          "key": "B",
+          "text": "SMTP."
+        },
+        {
+          "key": "C",
+          "text": "ICMP."
+        },
+        {
+          "key": "D",
+          "text": "DNS."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Giao thức DNS (Domain Name System) cho phép dùng hệ thống tên bằng chữ thay thế cho địa chỉ IP, ví dụ dùng moet.edu.vn thay cho địa chỉ máy chủ của Bộ Giáo dục và Đào tạo; HTTP quy định cách biểu diễn trang web, SMTP dùng gửi thư, ICMP dùng gửi yêu cầu lấy thông tin phản hồi như lệnh ping.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "DNS",
+        "giao thức Internet"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong Bài 5, tài nguyên của một máy tính trên mạng có thể là những gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ là dữ liệu chứa trong các tệp văn bản."
+        },
+        {
+          "key": "B",
+          "text": "chỉ là phần mềm ứng dụng đã cài đặt."
+        },
+        {
+          "key": "C",
+          "text": "chỉ là các thiết bị ngoại vi như máy in."
+        },
+        {
+          "key": "D",
+          "text": "dữ liệu, phần mềm hoặc thiết bị."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu tài nguyên của một máy tính trên mạng có thể là dữ liệu, phần mềm hay thiết bị; chia sẻ tài nguyên trên mạng cục bộ là cho phép một người từ một máy tính có thể nhìn thấy và sử dụng tài nguyên trên một máy tính khác trong mạng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "chia sẻ tài nguyên",
+        "khái niệm"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao ở những nơi công cộng như nhà ga, sân bay, quán cà phê, Windows khuyến nghị đặt mạng ở chế độ công cộng (Public)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhằm hạn chế nguy cơ lộ thông tin vì đây là mạng của những người dùng không đáng tin cậy."
+        },
+        {
+          "key": "B",
+          "text": "vì chế độ công cộng cho tốc độ truyền dữ liệu nhanh hơn chế độ riêng."
+        },
+        {
+          "key": "C",
+          "text": "vì chỉ chế độ công cộng mới cho phép chia sẻ tệp và máy in."
+        },
+        {
+          "key": "D",
+          "text": "vì chế độ riêng làm máy tính không kết nối được Internet."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Windows từ phiên bản 10 cho phép đặt mạng riêng (Private) hoặc mạng công cộng (Public); mạng công cộng thường đặt ở nơi công cộng như nhà ga, sân bay, quán cà phê với mục đích hạn chế nguy cơ lộ thông tin, còn mạng riêng là mạng của nhóm người dùng tin cậy và có thể chia sẻ tài nguyên.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mạng riêng",
+        "mạng công cộng"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường dẫn nào sau đây đúng để mở hộp thoại Advanced Sharing Settings trong Windows?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Control Panel, System and Security, Advanced Sharing Settings."
+        },
+        {
+          "key": "B",
+          "text": "Control Panel, Network and Internet, Network and Sharing Center, Advanced Sharing Settings."
+        },
+        {
+          "key": "C",
+          "text": "Settings, Privacy and Security, Windows Security, Advanced Sharing Settings."
+        },
+        {
+          "key": "D",
+          "text": "File Explorer, Network, Properties, Advanced Sharing Settings."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo Hướng dẫn Bước 1, để mở chức năng thiết lập chia sẻ nâng cao ta truy cập Control Panel rồi Network and Internet, Network and Sharing Center, Advanced Sharing Settings, sau đó kéo con trượt Network discovery và File and printer sharing sang On ở mục Private networks.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "chia sẻ tệp",
+        "cài đặt"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào đúng về thư mục Public và tuỳ chọn Public folder sharing?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dữ liệu trong thư mục Public luôn được chia sẻ cho mọi máy mà không cần bật tuỳ chọn nào."
+        },
+        {
+          "key": "B",
+          "text": "Bật Public folder sharing sẽ vô hiệu hoá hoàn toàn tường lửa của Windows."
+        },
+        {
+          "key": "C",
+          "text": "Dữ liệu trong thư mục Public mặc định không được chia sẻ; chỉ khi bật Public folder sharing sang On thì mọi người dùng trên mạng mới nhìn thấy toàn bộ nội dung trong thư mục Public."
+        },
+        {
+          "key": "D",
+          "text": "Thư mục Public nằm trong ổ đĩa riêng và không thể truy cập từ This PC."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Windows thiết lập sẵn thư mục Public theo đường dẫn This PC, System (C:), Users, Public với các thư mục con; dữ liệu trong thư mục Public được mặc định là không chia sẻ, nhưng nếu bật Public folder sharing (On) thì mọi người dùng trên mạng có thể nhìn thấy toàn bộ những gì có trong thư mục Public.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "thư mục Public",
+        "chia sẻ tệp"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi chia sẻ thư mục, quyền Read/Write cấp cho người dùng có ý nghĩa gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ cho phép xem nội dung mà không được sửa."
+        },
+        {
+          "key": "B",
+          "text": "huỷ bỏ việc chia sẻ thư mục đối với người dùng đó."
+        },
+        {
+          "key": "C",
+          "text": "cho phép cả đọc và sửa các tệp trong thư mục được chia sẻ."
+        },
+        {
+          "key": "D",
+          "text": "cho phép đổi tên máy tính của người chia sẻ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Everyone được thêm vào mặc định có quyền Read là chỉ được đọc dữ liệu, không được sửa; nếu muốn người dùng có quyền sửa thì chọn Read/Write để chỉ định quyền cả đọc và sửa, còn chọn Remove để huỷ chia sẻ đối với người dùng đó.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "quyền chia sẻ",
+        "thư mục"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi cần tắt tạm thời tường lửa để phục vụ chia sẻ tài nguyên, thao tác đúng trong Windows là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "kéo con trượt Microsoft Defender Firewall về Off rồi chọn No trong hộp thoại xác nhận."
+        },
+        {
+          "key": "B",
+          "text": "nhập mật khẩu quản trị rồi chọn Cancel trong hộp thoại."
+        },
+        {
+          "key": "C",
+          "text": "chọn Yes ngay ở bước bật Network discovery mà không cần vào Windows Security."
+        },
+        {
+          "key": "D",
+          "text": "kéo con trượt Microsoft Defender Firewall về Off rồi chọn Yes trong hộp thoại xác nhận, biết rằng mặc định của hộp thoại là No."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Để tắt tường lửa, vào Privacy and Security rồi Windows Security, Firewall Network Protection, Private Network, kéo con trượt Microsoft Defender Firewall về Off; khi có hộp thoại xác nhận cho phép thay đổi (mặc định là No) thì chọn Yes để cho phép.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "tường lửa",
+        "chia sẻ tài nguyên"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Bản chất của việc chia sẻ máy in trong mạng cục bộ là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "biến máy tính có máy in thành máy chủ cung cấp dịch vụ in (Print Server), xếp các yêu cầu in thành hàng đợi và điều khiển máy in in lần lượt."
+        },
+        {
+          "key": "B",
+          "text": "sao chép tệp cần in sang từng máy tính có kết nối máy in."
+        },
+        {
+          "key": "C",
+          "text": "gán cho máy in một địa chỉ IP riêng để in qua Internet."
+        },
+        {
+          "key": "D",
+          "text": "tắt tường lửa để mọi máy đều in được mà không cần cài đặt."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Máy tính cung cấp dịch vụ in sẽ nhận yêu cầu gửi đến từ các máy khác trong mạng, xếp thành hàng đợi và khi máy in sẵn sàng thì điều khiển máy in in lần lượt các tài liệu; như vậy việc chia sẻ máy in thực chất là biến máy tính có máy in đó thành một máy chủ cung cấp dịch vụ in (Print Server).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "máy in",
+        "Print Server"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách, để kết nối một thiết bị vào mạng Wi-Fi trên Windows 11, sau khi nháy biểu tượng sóng người dùng cần làm gì tiếp theo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "nháy biểu tượng sóng là danh sách các mạng Wi-Fi xuất hiện ngay."
+        },
+        {
+          "key": "B",
+          "text": "nháy tiếp vào dấu > cạnh biểu tượng Wi-Fi vì bảng chọn ban đầu chỉ hiện các loại kết nối không dây."
+        },
+        {
+          "key": "C",
+          "text": "vuốt màn hình từ trên xuống để mở bảng điều khiển."
+        },
+        {
+          "key": "D",
+          "text": "mở Control Panel rồi chọn Network and Sharing Center."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với Windows 10 chỉ cần nháy biểu tượng sóng ở phía phải thanh công việc; còn với Windows 11, sau khi nháy biểu tượng sóng mới chỉ làm xuất hiện bảng chọn các loại kết nối không dây như Wi-Fi và bluetooth, nên cần nháy chuột tiếp vào dấu > cạnh biểu tượng sóng Wi-Fi. Chỉ khi gõ đúng mật khẩu mới kết nối được.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "kết nối Wi-Fi",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-thiet-bi-mang",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về hub, switch và thiết bị thu phát Wi-Fi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Switch thiết lập tạm thời kênh truyền giữa cổng của máy gửi và máy nhận rồi huỷ sau khi truyền xong nên hạn chế được xung đột."
+        },
+        {
+          "key": "B",
+          "text": "Wi-Fi về bản chất là một thiết bị phần cứng do một hãng sản xuất ra để phát sóng vô tuyến."
+        },
+        {
+          "key": "C",
+          "text": "Router vừa định tuyến luồng dữ liệu vừa có chức năng chuyển đổi tín hiệu số sang tín hiệu tương tự."
+        },
+        {
+          "key": "D",
+          "text": "Mỗi trạm thu phát Wi-Fi nằm trong hoặc tạo ra một LAN, còn máy tính để bàn thường phải lắp thêm bảng mạch mở rộng mới kết nối Wi-Fi được."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A và D đúng. B sai vì Wi-Fi là bộ tiêu chuẩn kĩ thuật truyền dữ liệu bằng sóng vô tuyến chứ không phải tên một thiết bị. C sai vì router chỉ hướng luồng dữ liệu tới đích chứ không chuyển đổi tín hiệu; việc chuyển đổi tín hiệu số sang tương tự và ngược lại là chức năng của modem.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "thiết bị mạng"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về giao thức mạng, địa chỉ và giao thức TCP/IP?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giao thức IP đảm bảo chuyển dữ liệu tới một ứng dụng cụ thể trên một máy cụ thể."
+        },
+        {
+          "key": "B",
+          "text": "Trong giao thức Ethernet, mỗi thiết bị tham gia có một địa chỉ MAC gồm 6 byte gắn với phần cứng và không thay đổi được."
+        },
+        {
+          "key": "C",
+          "text": "Giao thức TCP cắt dữ liệu thành nhiều gói có độ dài xác định, đánh số để ráp đúng thứ tự và có cơ chế xác nhận để yêu cầu gửi lại khi gói sai hoặc thất lạc."
+        },
+        {
+          "key": "D",
+          "text": "Địa chỉ IP có 4 byte và có thể gán lại, khác với địa chỉ MAC gắn cứng ở thiết bị."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "B, C và D đúng. A sai vì giao thức IP chỉ đảm bảo chuyển dữ liệu từ mạng này đến mạng kia, còn việc đảm bảo tới đúng ứng dụng cụ thể trên một máy cụ thể là vai trò của TCP thông qua cổng ứng dụng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "giao thức TCP/IP"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về điều kiện chia sẻ tài nguyên trên mạng cục bộ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dữ liệu đặt trong thư mục Public được mặc định chia sẻ cho mọi máy trong mạng mà không cần bật tuỳ chọn nào."
+        },
+        {
+          "key": "B",
+          "text": "Muốn hai máy chia sẻ tài nguyên qua mạng thì cần kết nối chúng với nhau và người chia sẻ phải cấp quyền truy cập tài nguyên."
+        },
+        {
+          "key": "C",
+          "text": "Người được chia sẻ bắt buộc phải kết bạn với người chia sẻ và trả phí truy cập tài nguyên."
+        },
+        {
+          "key": "D",
+          "text": "Đặt mạng ở chế độ riêng (Private) và bật Network discovery cùng File and printer sharing là các điều kiện môi trường thuận lợi để chia sẻ."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "B và D đúng. A sai vì dữ liệu trong thư mục Public mặc định không được chia sẻ, phải bật Public folder sharing thì mọi người dùng mới nhìn thấy. C sai vì chia sẻ tài nguyên trong LAN là công việc mang tính kĩ thuật nội bộ, không có yêu cầu kết bạn hay trả phí như trên mạng xã hội.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "chia sẻ tài nguyên"
+      ]
+    },
+    {
+      "id": "tinhoc12-02-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-giao-thuc-mang",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Trong các nhận định sau đây về mạng máy tính, giao thức và chia sẻ tài nguyên, những nhận định nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Modem có chức năng chuyển đổi tín hiệu số sang tín hiệu tương tự và ngược lại, chỉ thay đổi tín hiệu chứ không làm thay đổi dữ liệu được mang bởi tín hiệu."
+        },
+        {
+          "key": "B",
+          "text": "Theo Ethernet, khi hai máy ở cùng một mạng LAN thì dữ liệu vẫn bắt buộc phải đi qua router và dùng địa chỉ IP."
+        },
+        {
+          "key": "C",
+          "text": "Máy tính cung cấp dịch vụ in biến thành máy chủ Print Server và xếp các yêu cầu in thành hàng đợi để in lần lượt."
+        },
+        {
+          "key": "D",
+          "text": "Giao thức DNS dùng hệ thống tên bằng chữ để thay thế cho địa chỉ IP vốn khó nhớ, ví dụ tên miền máy chủ của Bộ Giáo dục và Đào tạo."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A, C và D đúng. B sai vì khi hai máy tính nằm trong cùng một mạng cục bộ thì chỉ cần địa chỉ MAC, dữ liệu không phải đi qua router và không cần định tuyến theo địa chỉ IP.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "tổng hợp chủ đề 2"
+      ]
+    }
+  ]
+}

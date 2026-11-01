@@ -30,6 +30,7 @@ const SUITES = [
   { id: 'mini', file: 'su/verify-mini-exam.js', title: 'Phiên đề con (10/20/30 câu)', lane: 'subject' },
   { id: 'vact', file: 'vact/verify-vact.js', title: 'Đề Đánh giá năng lực V-ACT', lane: 'subject' },
   { id: 'dia', file: 'dia/verify-dia.js', title: 'Đề Địa lí 12', lane: 'subject' },
+  { id: 'tinhoc', file: 'tinhoc/verify-tinhoc.js', title: 'Đề Tin học 12', lane: 'subject' },
   { id: 'live', file: 'shot/verify-live.js', title: 'Bản đã deploy trên Cloudflare', lane: 'live' },
 ];
 
@@ -61,6 +62,7 @@ const EXAM_PATTERNS = [
   [/^content\/exams\/de-thi-lich-su-/, ['su', 'mini']],
   [/^content\/exams\/de-v-act-/, ['vact']],
   [/^content\/exams\/de-thi-thu-toan/, ['static']],
+  [/^content\/exams\/de-tin-hoc-/, ['tinhoc']],
 ];
 
 // Tài liệu, script nội bộ: không cần mở trình duyệt.

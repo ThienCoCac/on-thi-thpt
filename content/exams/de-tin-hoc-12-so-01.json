@@ -1,0 +1,522 @@
+{
+  "id": "de-tin-hoc-12-so-01",
+  "title": "Đề ôn tập Tin học 12 số 01 – Trí tuệ nhân tạo (Bài 1–2)",
+  "slug": "de-tin-hoc-12-so-01",
+  "description": "Đề ôn Chủ đề 1 Máy tính và xã hội tri thức, bám sát Bài 1 Làm quen với Trí tuệ nhân tạo và Bài 2 Trí tuệ nhân tạo trong khoa học và đời sống của sách giáo khoa Tin học 12 định hướng Tin học ứng dụng. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, làm trong 45 phút, mỗi câu đều có lời giải dẫn lại đúng nội dung sách.",
+  "subject": "tin-hoc",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-01T08:00:00.000Z",
+  "updatedAt": "2026-11-01T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-01-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo cách hiểu thông thường được nêu trong sách giáo khoa, trí tuệ nhân tạo (AI) là gì?",
+      "options": [
+        { "key": "A", "text": "là khả năng của máy tính có thể làm những công việc mang tính trí tuệ của con người như đọc chữ, hiểu tiếng nói, dịch thuật, lái xe hay khả năng học và ra quyết định." },
+        { "key": "B", "text": "là mọi hệ thống tự động hoá có khả năng thực hiện lặp đi lặp lại một vài thao tác cố định với hiệu suất cao." },
+        { "key": "C", "text": "là phần cứng chuyên dụng giúp máy tính tăng tốc độ tính toán và mở rộng dung lượng bộ nhớ." },
+        { "key": "D", "text": "là chương trình quản lí cơ sở dữ liệu tự động thu thập thông tin từ các cảm biến gắn trên máy tính." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách giáo khoa định nghĩa AI là khả năng của máy tính có thể làm những công việc mang tính trí tuệ của con người như đọc chữ, hiểu tiếng nói, dịch thuật, lái xe hay khả năng học và ra quyết định. Phương án B sai vì không phải bất kì hệ thống tự động hoá nào cũng được coi là AI.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["Trí tuệ nhân tạo", "khái niệm AI"]
+    },
+    {
+      "id": "tinhoc12-01-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong định nghĩa về AI, cụm từ “công việc mang tính trí tuệ” được sách giáo khoa hiểu như thế nào?",
+      "options": [
+        { "key": "A", "text": "công việc đòi hỏi tốc độ tính toán lớn mà con người khó thực hiện chính xác bằng tay." },
+        { "key": "B", "text": "công việc mà con người phải lập trình sẵn mọi tình huống có thể xảy ra cho máy tính." },
+        { "key": "C", "text": "công việc khi thực hiện đòi hỏi quá trình trí tuệ đặc trưng của con người, như khả năng suy luận, khái quát hoá, ra quyết định." },
+        { "key": "D", "text": "công việc liên quan tới việc thu thập và lưu trữ lượng lớn dữ liệu của con người." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách giải thích “công việc mang tính trí tuệ” là công việc khi thực hiện đòi hỏi quá trình trí tuệ đặc trưng của con người, như khả năng suy luận, khái quát hoá, ra quyết định.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["Trí tuệ nhân tạo", "khái niệm AI"]
+    },
+    {
+      "id": "tinhoc12-01-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Đâu là năm đặc trưng cơ bản của AI thường được nhắc tới nhiều nhất trong sách giáo khoa?",
+      "options": [
+        { "key": "A", "text": "ghi nhớ, tính toán, giao tiếp, sáng tạo và tự động hoá." },
+        { "key": "B", "text": "cảm xúc, tưởng tượng, khái quát hoá, truyền thông và lưu trữ." },
+        { "key": "C", "text": "nhận dạng ảnh, xử lí ngôn ngữ, mã hoá dữ liệu, truyền dữ liệu và bảo mật." },
+        { "key": "D", "text": "học, suy luận, nhận thức, hiểu ngôn ngữ và giải quyết vấn đề." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu một số đặc trưng cơ bản của AI thường được nói tới nhiều nhất là các khả năng học, suy luận, nhận thức, hiểu ngôn ngữ và giải quyết vấn đề.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["Trí tuệ nhân tạo", "đặc trưng AI"]
+    },
+    {
+      "id": "tinhoc12-01-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ thống khuyến nghị tích hợp trên YouTube học từ lịch sử xem video ca nhạc để đề xuất các video mới dựa trên sở thích của từng người dùng cụ thể. Đây là biểu hiện của đặc trưng nào?",
+      "options": [
+        { "key": "A", "text": "khả năng nhận thức." },
+        { "key": "B", "text": "khả năng học." },
+        { "key": "C", "text": "khả năng suy luận." },
+        { "key": "D", "text": "khả năng hiểu ngôn ngữ." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khả năng học là khả năng nắm bắt thông tin từ dữ liệu và điều chỉnh hành vi dựa trên thông tin mới; sách dùng chính ví dụ hệ thống khuyến nghị tích hợp trên YouTube để minh hoạ cho đặc trưng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["đặc trưng AI", "khả năng học"]
+    },
+    {
+      "id": "tinhoc12-01-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Máy tính điều khiển xe tự lái sử dụng cảm biến radar và camera để phát hiện và nhận biết xe xung quanh, các chướng ngại vật, biển báo giao thông và người đi bộ trên đường. Đây là biểu hiện của đặc trưng nào?",
+      "options": [
+        { "key": "A", "text": "khả năng nhận thức." },
+        { "key": "B", "text": "khả năng học." },
+        { "key": "C", "text": "khả năng giải quyết vấn đề." },
+        { "key": "D", "text": "khả năng hiểu ngôn ngữ." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khả năng nhận thức là khả năng cảm nhận và hiểu biết môi trường xung quanh thông qua các cảm biến và dữ liệu đầu vào; xe tự lái dùng radar và camera là ví dụ sách nêu cho đặc trưng này.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["đặc trưng AI", "khả năng nhận thức"]
+    },
+    {
+      "id": "tinhoc12-01-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, phát biểu nào sau đây về các đặc trưng trí tuệ của AI là đúng?",
+      "options": [
+        { "key": "A", "text": "Khả năng hiểu ngôn ngữ chỉ giới hạn ở việc đọc và xử lí văn bản, không bao gồm tiếng nói." },
+        { "key": "B", "text": "Khả năng nhận thức là khả năng vận dụng logic và tri thức để đưa ra quyết định hoặc kết luận." },
+        { "key": "C", "text": "Khả năng giải quyết vấn đề là khả năng nắm bắt thông tin từ dữ liệu và điều chỉnh hành vi theo thông tin mới." },
+        { "key": "D", "text": "Khả năng suy luận là khả năng vận dụng logic và tri thức để đưa ra quyết định hoặc kết luận." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách định nghĩa khả năng suy luận là khả năng vận dụng logic và tri thức để đưa ra quyết định hoặc kết luận, ví dụ hệ thống chẩn đoán y tế dựa trên AI. Phương án A sai vì hiểu ngôn ngữ gồm cả văn bản lẫn tiếng nói; B và C là định nghĩa bị đổi nhầm cho nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["đặc trưng AI", "khả năng suy luận"]
+    },
+    {
+      "id": "tinhoc12-01-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo phần nội dung cần ghi nhớ của Bài 1, mối quan hệ giữa ứng dụng AI trong thực tế và các đặc trưng trí tuệ là gì?",
+      "options": [
+        { "key": "A", "text": "Một ứng dụng AI chỉ cần thể hiện một đặc trưng trí tuệ duy nhất ở mức độ thật cao." },
+        { "key": "B", "text": "Mọi ứng dụng AI trong thực tế đều cần có sự kết hợp ở các mức độ khác nhau của những đặc trưng trí tuệ đã nêu." },
+        { "key": "C", "text": "Chỉ những hệ thống hội tụ đủ cả năm đặc trưng ở cùng một mức độ mới được coi là AI." },
+        { "key": "D", "text": "Các đặc trưng trí tuệ chỉ áp dụng cho trí tuệ nhân tạo tổng quát, không áp dụng cho trí tuệ nhân tạo hẹp." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khung vàng của Bài 1 ghi rõ mọi ứng dụng AI trong thực tế đều cần có sự kết hợp ở các mức độ khác nhau của những đặc trưng trí tuệ nêu trên; chính điều đó tạo nên khác biệt giữa AI và tự động hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["đặc trưng AI", "ghi nhớ Bài 1"]
+    },
+    {
+      "id": "tinhoc12-01-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trường hợp nào sau đây KHÔNG được coi là ứng dụng AI theo sách giáo khoa?",
+      "options": [
+        { "key": "A", "text": "Hệ thống chẩn đoán y tế dựa trên AI dùng tri thức về các triệu chứng và bệnh lí để đưa ra chuẩn đoán tình trạng sức khoẻ người bệnh." },
+        { "key": "B", "text": "Trợ lí ảo trên điện thoại nhận yêu cầu bằng chính tiếng nói của người dùng để tìm kiếm thông tin, gọi điện thoại, đọc tin nhắn." },
+        { "key": "C", "text": "Dây chuyền lắp ráp và các robot cơ giới hoá chỉ thực hiện lặp đi lặp lại một vài thao tác cố định và đơn điệu." },
+        { "key": "D", "text": "Máy tìm kiếm thông tin trên Internet hiểu yêu cầu tra cứu của người dùng được đưa vào bằng văn bản hay bằng tiếng nói." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách khẳng định không phải bất kì hệ thống tự động hoá nào cũng được coi là AI: các dây chuyền lắp ráp, robot cơ giới hoá lặp lại vài thao tác cố định dù đạt hiệu suất cao vẫn không được coi là hệ thống có ứng dụng AI.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["Trí tuệ nhân tạo", "tự động hoá"]
+    },
+    {
+      "id": "tinhoc12-01-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về trí tuệ nhân tạo hẹp (còn gọi là trí tuệ nhân tạo yếu)?",
+      "options": [
+        { "key": "A", "text": "Được thiết kế để thực hiện một nhiệm vụ cụ thể, ví dụ chương trình máy tính chơi cờ, nhận dạng khuôn mặt hoặc thực hiện dự báo thời tiết." },
+        { "key": "B", "text": "Có khả năng tự học, tự thích nghi và thực hiện được nhiều công việc giống như con người." },
+        { "key": "C", "text": "Là tên gọi khác của các hệ thống tự động hoá trên dây chuyền sản xuất công nghiệp." },
+        { "key": "D", "text": "Là loại AI đã không còn được các nghiên cứu hiện nay quan tâm." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo chức năng, trí tuệ nhân tạo hẹp hay trí tuệ nhân tạo yếu được thiết kế để thực hiện một nhiệm vụ cụ thể, ví dụ chơi cờ, nhận dạng khuôn mặt hay dự báo thời tiết. Phương án B là định nghĩa của trí tuệ nhân tạo tổng quát.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["Trí tuệ nhân tạo", "AI hẹp"]
+    },
+    {
+      "id": "tinhoc12-01-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, trí tuệ nhân tạo tổng quát (trí tuệ nhân tạo mạnh) hiện đang ở trạng thái nào?",
+      "options": [
+        { "key": "A", "text": "Đã được hiện thực hoá trong các hệ thống nhận dạng khuôn mặt và trợ lí ảo." },
+        { "key": "B", "text": "Đã đạt được từ khi các hệ chuyên gia có hàng trăm luật suy diễn ra đời." },
+        { "key": "C", "text": "Không còn được xem là mục tiêu nghiên cứu của lĩnh vực AI." },
+        { "key": "D", "text": "Đang là mục tiêu dài hạn của các nghiên cứu về AI, trong thực tế hiện vẫn chưa đạt được." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu trí tuệ nhân tạo tổng quát có khả năng tự học, tự thích nghi và thực hiện nhiều công việc giống con người, nhưng đây đang là mục tiêu dài hạn và thực tế hiện vẫn chưa đạt được; các thành tựu hiện tại của AI đều thuộc phạm vi trí tuệ nhân tạo hẹp/yếu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["Trí tuệ nhân tạo", "AI tổng quát"]
+    },
+    {
+      "id": "tinhoc12-01-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Phép thử Turing được sách giáo khoa giải thích như thế nào?",
+      "options": [
+        { "key": "A", "text": "Là phép đo tốc độ xử lí của máy tính so với con người trong một trò chơi cờ cụ thể." },
+        { "key": "B", "text": "Là bài kiểm tra xác định khả năng của máy tính trong việc tương tác ngôn ngữ tự nhiên với con người và đánh lừa người chơi rằng nó là con người; nếu người chơi không nhận ra đang trò chuyện với máy tính thì máy tính được coi là vượt qua phép thử." },
+        { "key": "C", "text": "Là tập hợp các luật suy diễn dùng để kiểm tra tính đúng đắn của một hệ chuyên gia." },
+        { "key": "D", "text": "Là quy trình huấn luyện mô hình máy học trên lượng lớn dữ liệu văn bản lấy từ Internet." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng giải thích thuật ngữ và Bài 1 đều nêu phép thử Turing do Alan Turing đưa ra năm 1950 là bài kiểm tra khả năng tương tác ngôn ngữ tự nhiên với con người; người chơi không nhận ra đang trò chuyện với máy tính nghĩa là máy tính vượt qua phép thử.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["Trí tuệ nhân tạo", "Phép thử Turing"]
+    },
+    {
+      "id": "tinhoc12-01-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện nào được sách giáo khoa coi là điểm mốc ghi nhận sự ra đời của thuật ngữ Trí tuệ nhân tạo?",
+      "options": [
+        { "key": "A", "text": "Nhà khoa học Alan Turing đưa ra phép thử đánh giá hành vi thông minh của máy tính năm 1950." },
+        { "key": "B", "text": "Hệ chuyên gia MYCIN được bắt đầu phát triển tại Đại học Stanford từ năm 1972." },
+        { "key": "C", "text": "Hội thảo tổ chức tại Đại học Dartmouth, bang New Hampshire, Mỹ năm 1956 với chủ đề trung tâm là phát triển máy tính có khả năng thực hiện các tác vụ thông minh." },
+        { "key": "D", "text": "Google phát triển dịch vụ Google dịch vào tháng 4 năm 2006." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu Hội thảo Dartmouth năm 1956 tại Đại học Dartmouth, bang New Hampshire, Mỹ được coi là điểm mốc ghi nhận sự ra đời của thuật ngữ AI, đánh dấu sự khởi đầu của lĩnh vực AI. Năm 1950 là mốc Alan Turing đưa ra phép thử.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["lịch sử AI", "Hội thảo Dartmouth"]
+    },
+    {
+      "id": "tinhoc12-01-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về hệ chuyên gia MYCIN được giới thiệu trong Bài 1?",
+      "options": [
+        { "key": "A", "text": "Được bắt đầu phát triển tại Đại học Stanford (Mỹ) từ năm 1972, có khoảng 600 luật suy diễn, người dùng trả lời các câu hỏi dạng có hoặc không và hệ không sử dụng các kĩ thuật Học máy." },
+        { "key": "B", "text": "Là robot hình người đầu tiên trên thế giới có khả năng di chuyển bằng hai chân." },
+        { "key": "C", "text": "Tự động học từ dữ liệu lớn trên Internet để tự hình thành các luật suy diễn của mình." },
+        { "key": "D", "text": "Là trợ lí ảo do Apple phát triển chuyên dùng trong lĩnh vực y tế và chẩn đoán bệnh." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu MYCIN bắt đầu phát triển tại Đại học Stanford từ 1972 với khoảng 600 luật suy diễn dạng nếu có các triệu chứng A1, A2 thì có kết luận B; người dùng nhập câu trả lời dạng có hoặc không. Dù không sử dụng các kĩ thuật Học máy, MYCIN vẫn được coi là một bước quan trọng của AI trong y học và chẩn đoán bệnh.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["hệ chuyên gia", "MYCIN"]
+    },
+    {
+      "id": "tinhoc12-01-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "SINGLE_CHOICE",
+      "content": "Robot Asimo của hãng Honda được sách giáo khoa nhắc tới với chuỗi sự kiện nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Mở cửa Sàn giao dịch chứng khoán New York năm 2008 và làm nhạc trưởng dàn nhạc giao hưởng Detroit năm 2002." },
+        { "key": "B", "text": "Xuất hiện lần đầu năm 2002 và chơi bóng cùng cựu Tổng thống Mỹ Obama năm 2008." },
+        { "key": "C", "text": "Trở thành nhạc trưởng dàn nhạc giao hưởng Detroit năm 2014 và mở cửa Sàn giao dịch chứng khoán New York năm 1986." },
+        { "key": "D", "text": "Xuất hiện lần đầu năm 1986, tham gia mở cửa Sàn giao dịch chứng khoán New York năm 2002, làm nhạc trưởng dàn nhạc giao hưởng Detroit năm 2008 và chơi bóng cùng cựu Tổng thống Mỹ Obama năm 2014." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu Asimo là robot hình người đầu tiên trên thế giới tích hợp một loạt ứng dụng AI, xuất hiện lần đầu năm 1986, mở cửa Sàn giao dịch chứng khoán New York năm 2002, làm nhạc trưởng dàn nhạc giao hưởng Detroit năm 2008 và chơi bóng cùng cựu Tổng thống Mỹ Obama năm 2014.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["robot", "Asimo"]
+    },
+    {
+      "id": "tinhoc12-01-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ chuyên gia (còn được gọi là hệ thống dựa trên tri thức) được sách giáo khoa định nghĩa như thế nào?",
+      "options": [
+        { "key": "A", "text": "Là chương trình máy tính mô phỏng khả năng hiểu tiếng nói của con người trong mọi lĩnh vực." },
+        { "key": "B", "text": "Là chương trình máy tính mô phỏng khả năng ra quyết định của một hoặc nhiều chuyên gia trong một lĩnh vực cụ thể." },
+        { "key": "C", "text": "Là robot có hình dạng tương tự con người, được tạo ra để chứng minh khả năng của kĩ thuật robot." },
+        { "key": "D", "text": "Là thuật toán tạo nội dung hình ảnh, âm thanh và văn bản một cách tự động." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 2 định nghĩa hệ chuyên gia, còn gọi là hệ thống dựa trên tri thức, là chương trình máy tính mô phỏng khả năng ra quyết định của một hoặc nhiều chuyên gia trong một lĩnh vực cụ thể.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["hệ chuyên gia", "Bài 2"]
+    },
+    {
+      "id": "tinhoc12-01-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "So với ban đầu, các hệ chuyên gia hiện nay có điểm gì mới theo nội dung Bài 2?",
+      "options": [
+        { "key": "A", "text": "Hoàn toàn không còn dùng luật suy diễn mà chỉ dùng dữ liệu từ cảm biến." },
+        { "key": "B", "text": "Chỉ còn được xây dựng cho một lĩnh vực duy nhất là y học." },
+        { "key": "C", "text": "Nhiều hệ chuyên gia đã có khả năng tự học từ dữ liệu để tự hình thành các luật và tri thức dựa trên dữ liệu." },
+        { "key": "D", "text": "Lúc nào cũng cần chuyên gia nhập lại toàn bộ tri thức mỗi lần chạy chương trình." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu ban đầu hệ chuyên gia được thiết kế dựa trên các luật suy diễn và tri thức của chuyên gia; với sự phát triển của AI, đặc biệt là Học máy, nhiều hệ chuyên gia đã có khả năng tự học từ dữ liệu để tự hình thành các luật và tri thức.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["hệ chuyên gia", "Học máy"]
+    },
+    {
+      "id": "tinhoc12-01-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong lĩnh vực y học và chăm sóc sức khoẻ, sách giáo khoa khẳng định phần mềm nào đã góp phần nâng cao hiệu quả điều trị ung thư?",
+      "options": [
+        { "key": "A", "text": "IBM Watson for Oncology." },
+        { "key": "B", "text": "Google Assistant." },
+        { "key": "C", "text": "Bixby." },
+        { "key": "D", "text": "Google dịch." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu các chuyên gia y tế khẳng định phần mềm IBM Watson for Oncology đã góp phần nâng cao hiệu quả điều trị ung thư; AI còn được dùng để cải thiện chất lượng hình ảnh y tế, làm nổi bật cấu trúc bất thường và đo đạc các chỉ số lâm sàng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["ứng dụng AI", "y học"]
+    },
+    {
+      "id": "tinhoc12-01-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thuộc ứng dụng AI trong lĩnh vực giao thông vận tải theo Bài 2?",
+      "options": [
+        { "key": "A", "text": "Phát hiện và ngăn chặn gian lận, hỗ trợ quyết định đầu tư." },
+        { "key": "B", "text": "Tự động hoá quá trình chế tạo, lắp ráp và quản lí chuỗi cung ứng." },
+        { "key": "C", "text": "Phát triển các nền tảng học tập được cá nhân hoá cho người học." },
+        { "key": "D", "text": "Phát triển các phương tiện tự lái, quản lí giao thông thông minh và định tuyến phương tiện vận tải." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 2 nêu AI được sử dụng để phát triển các phương tiện tự lái, quản lí giao thông thông minh và định tuyến phương tiện vận tải; sự phát triển của ô tô tự lái, máy bay không người lái không thể có được nếu không có AI.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["ứng dụng AI", "giao thông vận tải"]
+    },
+    {
+      "id": "tinhoc12-01-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 2, trong tài chính và ngân hàng AI mang lại những lợi ích nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ hỗ trợ tự động hoá cập nhật chứng từ, hoá đơn vào cơ sở dữ liệu." },
+        { "key": "B", "text": "Không chỉ hỗ trợ tự động hoá cập nhật chứng từ, hoá đơn vào cơ sở dữ liệu mà còn giúp phân tích, xử lí dữ liệu để hỗ trợ quyết định đầu tư, phát hiện và ngăn chặn gian lận, nâng cao trải nghiệm khách hàng." },
+        { "key": "C", "text": "Thay thế hoàn toàn nhân viên ngân hàng trong mọi giao dịch với khách hàng." },
+        { "key": "D", "text": "Thiết kế các trò chơi điện tử mô phỏng hoạt động của thị trường tài chính." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nhấn mạnh AI không chỉ hỗ trợ tự động hoá cập nhật chứng từ, hoá đơn vào cơ sở dữ liệu mà còn giúp phân tích, xử lí dữ liệu hiệu quả để hỗ trợ quyết định đầu tư, phát hiện và ngăn chặn gian lận, nâng cao trải nghiệm khách hàng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["ứng dụng AI", "tài chính ngân hàng"]
+    },
+    {
+      "id": "tinhoc12-01-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong sản xuất, sách giáo khoa mô tả ứng dụng AI qua những hoạt động nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ được dùng để kiểm tra chất lượng sản phẩm ở công đoạn cuối của dây chuyền." },
+        { "key": "B", "text": "Thay thế con người trong toàn bộ việc ra quyết định về giá bán sản phẩm." },
+        { "key": "C", "text": "Giúp tự động hoá nhiều quá trình từ chế tạo, lắp ráp, kiểm tra chất lượng đến quản lí chuỗi cung ứng; trong nông nghiệp, AI được dùng ở các trang trại thông minh để theo dõi những yếu tố ảnh hưởng trực tiếp tới hiệu quả nuôi trồng." },
+        { "key": "D", "text": "Được dùng chủ yếu để thiết kế mẫu mã sản phẩm mới cho công nghiệp." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 2 nêu trong công nghiệp AI giúp tự động hoá nhiều quá trình từ chế tạo, lắp ráp, kiểm tra chất lượng đến quản lí chuỗi cung ứng; trong nông nghiệp, AI được sử dụng trong các trang trại thông minh để theo dõi các yếu tố như điều kiện thời tiết, đất đai, sức đề kháng với dịch bệnh của vật nuôi, cây trồng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["ứng dụng AI", "sản xuất"]
+    },
+    {
+      "id": "tinhoc12-01-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 2, vai trò nổi bật của AI trong giáo dục là gì?",
+      "options": [
+        { "key": "A", "text": "Thay thế giáo viên trong việc đánh giá kết quả học tập của học sinh." },
+        { "key": "B", "text": "Chỉ được dùng để điểm danh và quản lí hồ sơ của người học." },
+        { "key": "C", "text": "Hạn chế người học truy cập các nguồn tài liệu trên Internet." },
+        { "key": "D", "text": "Phát triển các nền tảng học tập được cá nhân hoá và hỗ trợ đánh giá kết quả học tập, theo dõi tiến trình học, đề xuất nội dung phù hợp và cung cấp phản hồi tức thì cho từng cá nhân người học." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu AI được sử dụng để phát triển các nền tảng học tập được cá nhân hoá và hỗ trợ đánh giá kết quả học tập; các trợ lí học tập ảo dựa trên AI hỗ trợ học sinh và giáo viên bằng cách trả lời câu hỏi, cung cấp hướng dẫn và tài liệu học tập.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["ứng dụng AI", "giáo dục"]
+    },
+    {
+      "id": "tinhoc12-01-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "Trí tuệ nhân tạo tạo sinh (Generative AI) được sách giáo khoa hiểu là gì?",
+      "options": [
+        { "key": "A", "text": "Là loại AI tập trung vào khả năng tạo ra dữ liệu, hình ảnh, văn bản, âm nhạc và các nội dung sáng tạo khác một cách tự động, sử dụng các mô hình máy học để sinh dữ liệu mới dựa trên các mẫu và thông tin học được từ dữ liệu huấn luyện." },
+        { "key": "B", "text": "Là loại AI chỉ có khả năng phân loại ảnh và nhận dạng tiếng nói của người dùng." },
+        { "key": "C", "text": "Là thiết bị phần cứng dùng để thu thập dữ liệu huấn luyện cho các mô hình máy học." },
+        { "key": "D", "text": "Là hệ thống chỉ tạo ra dữ liệu dạng số, không tạo được văn bản hay âm thanh." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảng giải thích thuật ngữ và Bài 2 đều nêu AI tạo sinh tập trung vào việc xây dựng các thuật toán và mô hình có thể tạo nội dung như hình ảnh, âm thanh, văn bản một cách tự động, dùng mô hình máy học sinh dữ liệu mới dựa trên các mẫu học được từ dữ liệu huấn luyện.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["AI tạo sinh", "Generative AI"]
+    },
+    {
+      "id": "tinhoc12-01-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, ChatGPT là hệ thống như thế nào?",
+      "options": [
+        { "key": "A", "text": "Là hệ chuyên gia y tế gồm khoảng 600 luật suy diễn do Stanford phát triển." },
+        { "key": "B", "text": "Là trợ lí ảo của Microsoft có khả năng gọi điện thoại theo giọng nói." },
+        { "key": "C", "text": "Là hệ thống xử lí ngôn ngữ tự nhiên tiên tiến do OpenAI phát triển, được nhiều chuyên gia coi là bước đột phá trong lĩnh vực AI của năm 2022." },
+        { "key": "D", "text": "Là robot hình người có thị giác máy tính do Honda chế tạo." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu ChatGPT là hệ thống xử lí ngôn ngữ tự nhiên tiên tiến do OpenAI, tổ chức nghiên cứu AI thành lập năm 2015, phát triển; nhiều chuyên gia đánh giá ChatGPT là minh chứng cho sức mạnh của AI và coi đó là bước đột phá trong lĩnh vực AI của năm 2022.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["ChatGPT", "OpenAI"]
+    },
+    {
+      "id": "tinhoc12-01-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 2, vì sao khả năng thiếu minh bạch được nêu thành một trong những cảnh báo về AI?",
+      "options": [
+        { "key": "A", "text": "Vì các ứng dụng AI luôn yêu cầu người dùng trả phí mới được giải thích kết quả." },
+        { "key": "B", "text": "Vì phần lớn các ứng dụng AI hiện nay đều là các hộp đen, gây khó khăn cho việc hiểu các quyết định được đưa ra như thế nào, dẫn tới thiếu trách nhiệm giải trình để bảo đảm tính minh bạch." },
+        { "key": "C", "text": "Vì AI không thể tiếp nhận dữ liệu đầu vào từ cảm biến và camera." },
+        { "key": "D", "text": "Vì các hệ chuyên gia chỉ hoạt động được khi có kết nối Internet ổn định." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách giải thích khả năng thiếu minh bạch bắt nguồn từ việc phần lớn các ứng dụng AI hiện nay đều là các hộp đen, gây khó khăn cho việc hiểu các quyết định được đưa ra như thế nào và dẫn tới thiếu trách nhiệm giải trình.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["cảnh báo về AI", "minh bạch"]
+    },
+    {
+      "id": "tinhoc12-01-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các đặc trưng trí tuệ và cách phân loại AI theo Bài 1?",
+      "options": [
+        { "key": "A", "text": "Không phải bất kì hệ thống tự động hoá nào cũng được coi là AI; dây chuyền lắp ráp và robot cơ giới hoá chỉ lặp lại vài thao tác cố định không được coi là ứng dụng AI." },
+        { "key": "B", "text": "Trí tuệ nhân tạo tổng quát đã được hiện thực hoá thông qua các chương trình máy tính chơi cờ và nhận dạng khuôn mặt." },
+        { "key": "C", "text": "Khả năng học của AI là khả năng nắm bắt thông tin từ dữ liệu và điều chỉnh hành vi dựa trên thông tin mới." },
+        { "key": "D", "text": "Một ứng dụng AI chỉ cần thể hiện duy nhất một đặc trưng trí tuệ là đã được coi là ứng dụng AI." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng theo nội dung Bài 1. B sai vì chơi cờ và nhận dạng khuôn mặt là ví dụ của trí tuệ nhân tạo hẹp, còn trí tuệ nhân tạo tổng quát đang là mục tiêu dài hạn và thực tế vẫn chưa đạt được. D sai vì sách nêu mọi ứng dụng AI trong thực tế đều cần sự kết hợp ở các mức độ khác nhau của những đặc trưng trí tuệ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": ["nhận định đúng sai", "đặc trưng AI"]
+    },
+    {
+      "id": "tinhoc12-01-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-ai-lam-quen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các ứng dụng AI được giới thiệu ở phần Một số ứng dụng của AI trong Bài 1?",
+      "options": [
+        { "key": "A", "text": "Google dịch là dịch vụ dịch thuật miễn phí do Google phát triển vào tháng 4 năm 2006, bản phổ biến hiện nay cho phép dịch nhiều dạng văn bản như từ, cụm từ, tệp văn bản và trang web." },
+        { "key": "B", "text": "Hệ chuyên gia MYCIN tự tạo ra khoảng 600 luật suy diễn nhờ các kĩ thuật Học máy." },
+        { "key": "C", "text": "Trong các trợ lí ảo, Siri là sản phẩm của Microsoft còn Cortana là sản phẩm của Apple." },
+        { "key": "D", "text": "Nhận dạng chữ viết tay giúp chuyển đổi hình ảnh chữ viết tay thành dữ liệu văn bản có thể xử lí được và được dùng rộng rãi trong quá trình xử lí hoá đơn, giao dịch thương mại điện tử." }
+      ],
+      "correctAnswer": ["A", "D"],
+      "explanation": "A và D đúng. B sai vì sách khẳng định rõ MYCIN không sử dụng các kĩ thuật Học máy mà dựa trên các luật suy diễn do con người đưa ra. C sai vì sách nêu Google Assistant của Google, Siri của Apple, Bixby của Samsung, Cortana của Microsoft.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": ["nhận định đúng sai", "ứng dụng AI"]
+    },
+    {
+      "id": "tinhoc12-01-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về hệ chuyên gia và trí tuệ nhân tạo tạo sinh?",
+      "options": [
+        { "key": "A", "text": "Trí tuệ nhân tạo tạo sinh chỉ tạo được văn bản, không tạo được hình ảnh hay âm thanh." },
+        { "key": "B", "text": "Hệ chuyên gia còn được gọi là hệ thống dựa trên tri thức, mô phỏng khả năng ra quyết định của một hoặc nhiều chuyên gia trong một lĩnh vực cụ thể." },
+        { "key": "C", "text": "ChatGPT được huấn luyện trên dữ liệu hình ảnh và video, không sử dụng dữ liệu văn bản." },
+        { "key": "D", "text": "Ban đầu hệ chuyên gia được thiết kế dựa trên các luật suy diễn và tri thức của chuyên gia, nay nhiều hệ chuyên gia đã có khả năng tự học từ dữ liệu." }
+      ],
+      "correctAnswer": ["B", "D"],
+      "explanation": "B và D đúng. A sai vì AI tạo sinh có thể tạo nội dung gồm hình ảnh, âm thanh, văn bản một cách tự động và được dùng trong nghệ thuật, giải trí, quảng cáo, trò chơi. C sai vì ChatGPT được huấn luyện trên lượng lớn dữ liệu văn bản, ví dụ phiên bản GPT-3 huấn luyện trên hàng vạn văn bản thuộc nhiều lĩnh vực trên Internet.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": ["nhận định đúng sai", "hệ chuyên gia"]
+    },
+    {
+      "id": "tinhoc12-01-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về tác động của AI đối với khoa học, đời sống và xã hội theo Bài 2?",
+      "options": [
+        { "key": "A", "text": "Sự kết hợp IoT và AI (AIoT) cho phép các nhà khoa học giám sát môi trường tự nhiên và theo dõi tình hình biến đổi khí hậu." },
+        { "key": "B", "text": "Sách giáo khoa nêu ví dụ về việc cần ngăn cấm giao toàn quyền quyết định cho AI điều khiển vũ khí sát thương." },
+        { "key": "C", "text": "Các thử nghiệm kết hợp bộ não con người và bộ não robot trong một chỉnh thể hợp nhất hiện không còn gây tranh cãi vì chỉ mang lại lợi ích." },
+        { "key": "D", "text": "Bốn cảnh báo về AI được nêu trong bài gồm áp lực thất nghiệp, ảnh hưởng quyền riêng tư, khả năng thiếu minh bạch và rủi ro về an ninh, an toàn." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng theo nội dung Bài 2. C sai vì sách nêu những thử nghiệm liên kết sinh học và công nghệ theo cách kết hợp bộ não con người và bộ não robot trong một chỉnh thể hợp nhất đang là vấn đề gây nhiều tranh cãi và mang tính rủi ro cao, do công nghệ có thể được dùng để kiểm soát hoặc thay đổi ý thức, hành vi của con người.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": ["nhận định đúng sai", "cảnh báo về AI"]
+    }
+  ]
+}

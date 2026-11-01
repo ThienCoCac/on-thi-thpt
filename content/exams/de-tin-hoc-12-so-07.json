@@ -1,0 +1,1031 @@
+{
+  "id": "de-tin-hoc-12-so-07",
+  "title": "Đề ôn tập Tin học 12 số 07 – Ứng dụng tin học: xây dựng trang web với Google Sites (Bài 23–25)",
+  "slug": "de-tin-hoc-12-so-07",
+  "description": "Đề ôn tập Chủ đề 7 – Ứng dụng tin học, sách Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức), gồm Bài 23, 24, 25: cấu trúc trang web và các bước chuẩn bị, xây dựng phần đầu trang, xây dựng phần thân và chân trang bằng Google Sites. Gồm 28 câu trắc nghiệm và 3 câu chọn nhận định đúng, 60 phút.",
+  "subject": "tin-hoc",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-07",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-01T08:00:00.000Z",
+  "updatedAt": "2026-11-01T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-07-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trang web đầy đủ thường gồm ba phần chính theo thứ tự là",
+      "options": [
+        {
+          "key": "A",
+          "text": "phần thông báo, phần thân trang và phần chân trang."
+        },
+        {
+          "key": "B",
+          "text": "phần đầu trang (header), phần thân trang (body) và phần chân trang (footer)."
+        },
+        {
+          "key": "C",
+          "text": "thanh điều hướng, khối nội dung và bảng chọn."
+        },
+        {
+          "key": "D",
+          "text": "logo, tiêu đề trang và liên kết mạng xã hội."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách phân tích trang web thành ba phần chính: đầu trang chứa thông tin chung nhất, thân trang chứa nội dung của trang, chân trang chứa thông tin ngắn gọn về chủ thể và bản quyền.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "cấu trúc trang web"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Favicon là",
+      "options": [
+        {
+          "key": "A",
+          "text": "logo lớn hiển thị ở góc trên bên trái của phần đầu trang."
+        },
+        {
+          "key": "B",
+          "text": "biểu tượng đại diện cho tất cả các trang web trong một website, hiển thị ở tiêu đề tab trình duyệt."
+        },
+        {
+          "key": "C",
+          "text": "ảnh nền của phần đầu trang web."
+        },
+        {
+          "key": "D",
+          "text": "biểu tượng của chức năng tìm kiếm trên thanh điều hướng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Favicon (viết tắt của favorite icon) là logo nhỏ hiển thị ở tiêu đề tab trình duyệt, phía trước tên trang; nó đại diện cho tất cả các trang trong một website và có thể thiết kế riêng, không nhất thiết thu gọn từ logo.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "favicon"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong ngữ cảnh trang web, URL là viết tắt của cụm từ tiếng Anh nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Universal Reference Link"
+        },
+        {
+          "key": "B",
+          "text": "Uniform Resource Locator"
+        },
+        {
+          "key": "C",
+          "text": "Unified Web Location"
+        },
+        {
+          "key": "D",
+          "text": "User Resource Listing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "URL – Uniform Resource Locator – là địa chỉ truy cập của mỗi trang web hay website trên Internet, đọc được qua trình duyệt như Firefox, Chrome, Edge, Safari.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "URL"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Thông tin về thương hiệu, bản quyền, bảo mật, thông tin liên hệ và liên kết tới các trang mạng xã hội thường đặt ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "phần đầu trang."
+        },
+        {
+          "key": "B",
+          "text": "phần thân trang."
+        },
+        {
+          "key": "C",
+          "text": "phần chân trang."
+        },
+        {
+          "key": "D",
+          "text": "phần thông báo."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phần chân trang dành cho thông tin về thương hiệu, bản quyền, bảo mật, tóm tắt thông tin cần nhấn mạnh thêm, thông tin liên hệ và liên kết tới các trang mạng xã hội liên quan.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "chân trang"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Vài dòng thông báo quan trọng kiểu 'trang đang được xây dựng hay bảo trì' được gọi là phần thông báo và thường đặt ở vị trí nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngay trước phần đầu trang."
+        },
+        {
+          "key": "B",
+          "text": "Ngay sau phần chân trang."
+        },
+        {
+          "key": "C",
+          "text": "Bên trong khối nội dung đầu tiên."
+        },
+        {
+          "key": "D",
+          "text": "Thay thế cho thanh điều hướng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu: đôi khi có vài dòng đặt trước phần đầu trang để đưa thông báo quan trọng, được gọi là phần thông báo.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "phần thông báo"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Ba bước chuẩn bị để xây dựng trang web, theo đúng trình tự trong sách, là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Định hình ý tưởng → Xây dựng thiết kế → Chuẩn bị tư liệu, lựa chọn phần mềm."
+        },
+        {
+          "key": "B",
+          "text": "Chọn bảng màu → Viết bài → Xuất bản."
+        },
+        {
+          "key": "C",
+          "text": "Thiết kế logo → Tạo favicon → Công bố trang web."
+        },
+        {
+          "key": "D",
+          "text": "Chuẩn bị tư liệu → Định hình ý tưởng → Xây dựng thiết kế."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sơ đồ ba bước: Định hình ý tưởng (xác định mục đích, đối tượng, yêu cầu) → Xây dựng thiết kế (dàn ý, kiến trúc nội dung, mĩ thuật, bảng màu, phông chữ) → Chuẩn bị tư liệu, lựa chọn phần mềm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "các bước chuẩn bị"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách, phông chữ nên dùng cho bảng chọn trên thanh điều hướng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "phông có chân, cỡ nhỏ, chẳng hạn Times New Roman."
+        },
+        {
+          "key": "B",
+          "text": "phông không chân, hẹp ngang, dễ đọc, chẳng hạn Arial Condensed."
+        },
+        {
+          "key": "C",
+          "text": "phông chữ viết tay để tạo ấn tượng mạnh."
+        },
+        {
+          "key": "D",
+          "text": "phông chữ in hoa toàn bộ, cỡ rất lớn."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng chọn trên thanh điều hướng nên dùng phông Sans Serif (không chân) hẹp ngang để dễ đọc và tiết kiệm diện tích, ví dụ Arial Condensed. Phông có chân như Times New Roman khó nhận diện trên màn hình nên chỉ dùng ở cỡ lớn như tiêu đề.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "định dạng chữ"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Về cỡ chữ, sách quy định một trang web cần có tối thiểu bao nhiêu cỡ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai cỡ."
+        },
+        {
+          "key": "B",
+          "text": "Ba cỡ."
+        },
+        {
+          "key": "C",
+          "text": "Bốn cỡ."
+        },
+        {
+          "key": "D",
+          "text": "Năm cỡ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách quy định tối thiểu bốn cỡ: cỡ nhỏ nhất cho chú thích không cần nhấn mạnh, cỡ thường cho nội dung bài viết, cỡ lớn cho tiêu đề và cỡ rất lớn cho tiêu đề nổi bật.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "cỡ chữ"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách, mỗi bảng màu của trang web thường có bao nhiêu màu, chưa kể hai màu trắng và đen?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ba màu."
+        },
+        {
+          "key": "B",
+          "text": "Bốn màu."
+        },
+        {
+          "key": "C",
+          "text": "Năm màu."
+        },
+        {
+          "key": "D",
+          "text": "Sáu màu."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mỗi bảng màu thường có 5 màu pha trộn giữa gam ấm, lạnh và trung tính, chưa kể hai màu trắng và đen; các màu cần tương phản nhẹ nhàng, hài hoà.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "bảng màu"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về phần mềm làm trang web của Google được giới thiệu trong sách?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là phần mềm thương mại phải mua bản quyền."
+        },
+        {
+          "key": "B",
+          "text": "Là công cụ miễn phí, giao diện hoàn toàn trực quan, trang web tạo ra lưu trên Google Drive và người dùng cần có tài khoản Google Mail."
+        },
+        {
+          "key": "C",
+          "text": "Đòi hỏi người dùng phải biết lập trình HTML và CSS."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cho phép tạo một trang web duy nhất cho mỗi tài khoản."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Google cung cấp miễn phí phần mềm làm trang web có giao diện hoàn toàn trực quan, kết nối dễ với Docs, Sheets, Slides, Maps, Photos, YouTube; trang web lưu trên Google Drive và yêu cầu duy nhất là có tài khoản Google Mail.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Google Sites"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Giao diện đầu tiên của Google Sites gồm mấy phần?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai phần."
+        },
+        {
+          "key": "B",
+          "text": "Ba phần."
+        },
+        {
+          "key": "C",
+          "text": "Bốn phần."
+        },
+        {
+          "key": "D",
+          "text": "Năm phần."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ba phần gồm: ô tìm kiếm cùng biểu tượng truy cập các ứng dụng Google; các lựa chọn tạo trang web mới (trang trắng hoặc theo mẫu); danh sách các trang người dùng mới mở trước đó.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "giao diện Google Sites"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Bốn tuỳ chọn 'Loại tiêu đề' trong Google Sites là Bia, Biểu ngữ lớn, Biểu ngữ và Chỉ có tiêu đề. Điểm khác nhau giữa chúng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khác nhau về chiều cao của phần đầu trang."
+        },
+        {
+          "key": "B",
+          "text": "khác nhau về số lượng khối nội dung trong thân trang."
+        },
+        {
+          "key": "C",
+          "text": "khác nhau về định dạng tệp ảnh được phép tải lên."
+        },
+        {
+          "key": "D",
+          "text": "khác nhau về quyền chỉnh sửa của các thành viên."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bốn kiểu đầu trang chỉ khác nhau về chiều cao. Kiểu Bia tương tự bìa sách, cao nhất và chiếm toàn bộ màn hình.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "loại tiêu đề"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Kiểu đầu trang nào không có ảnh nền?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bia."
+        },
+        {
+          "key": "B",
+          "text": "Biểu ngữ lớn."
+        },
+        {
+          "key": "C",
+          "text": "Biểu ngữ."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ có tiêu đề."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách ghi rõ 'Chỉ có tiêu đề' là kiểu không có ảnh nền; ngược lại, 'Bia' là kiểu cao nhất, chiếm toàn bộ màn hình.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "loại tiêu đề"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Yêu cầu về tệp ảnh logo và favicon khi thiết lập phần đầu trang trong Google Sites là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cả hai đều phải là ảnh hình vuông, định dạng .bmp."
+        },
+        {
+          "key": "B",
+          "text": "định dạng png, jpg hay gif; logo có thể hình chữ nhật, favicon dạng hình vuông với kích thước 16×16, 32×32 hoặc 48×48 pixels."
+        },
+        {
+          "key": "C",
+          "text": "định dạng .svg, kích thước tối thiểu 1024×1024 pixels."
+        },
+        {
+          "key": "D",
+          "text": "định dạng .pdf và chỉ được lấy từ Google Drive."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu: tệp ảnh logo và favicon có định dạng png, jpg hay gif; logo có thể là hình chữ nhật, còn favicon là hình vuông kích thước 16×16, 32×32 hay 48×48 pixels.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "logo",
+        "favicon"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong cửa sổ Cài đặt của Google Sites, thiết lập logo và favicon nằm ở mục nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Điều hướng."
+        },
+        {
+          "key": "B",
+          "text": "Hình ảnh thương hiệu."
+        },
+        {
+          "key": "C",
+          "text": "Phân tích."
+        },
+        {
+          "key": "D",
+          "text": "Miền tuỳ chỉnh."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nháy 'Thêm biểu tượng' để mở cửa sổ Cài đặt, chọn 'Hình ảnh thương hiệu' ở khung trái; khung phải hiển thị 'Biểu trưng (logo)' và 'Biểu tượng trang web (favicon)' với hai nút Tải lên và Chọn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "cửa sổ Cài đặt"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Muốn hiển thị dòng 'Trang web đang được xây dựng' ở đầu trang, thao tác trong Google Sites là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhập vào ô 'Tiêu đề trang' rồi đổi cỡ chữ thật nhỏ."
+        },
+        {
+          "key": "B",
+          "text": "Chọn mục 'Phần thông báo', nhập nội dung vào ô 'Lời nhắn', chọn màu và bật 'Hiện thị phần thông báo'."
+        },
+        {
+          "key": "C",
+          "text": "Dán nội dung vào ô 'Tên tệp lưu trữ trang web'."
+        },
+        {
+          "key": "D",
+          "text": "Chèn một khối văn bản vào phần thân trang."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phần thông báo được thiết lập trong cửa sổ Cài đặt: nhập nội dung vào ô Lời nhắn, chọn màu của phần thông báo và bật công tắc 'Hiện thị phần thông báo'. Khi cần đổi hay tắt thì chỉnh lại ở bảng chọn này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "phần thông báo"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi thiết lập ảnh nền cho phần đầu trang, Google Sites mặc định",
+      "options": [
+        {
+          "key": "A",
+          "text": "tự động điều chỉnh độ sáng của ảnh để chữ trên nền vẫn đọc được; muốn giữ nguyên độ sáng thì nháy biểu tượng ở góc dưới bên phải để huỷ chế độ tự động."
+        },
+        {
+          "key": "B",
+          "text": "cắt ảnh thành hình tròn ở giữa đầu trang."
+        },
+        {
+          "key": "C",
+          "text": "tự động đổi ảnh nền thành màu đen."
+        },
+        {
+          "key": "D",
+          "text": "chỉ nhận ảnh có cùng kích thước với khung tiêu đề."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Độ sáng ảnh nền được tự động điều chỉnh để chữ vẫn đọc được. Muốn giữ nguyên độ sáng, nháy biểu tượng ở góc dưới bên phải để huỷ chế độ tự động; muốn chỉnh vị trí ảnh trong khung thì nháy biểu tượng neo rồi chọn các mũi tên điều hướng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "ảnh nền"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong ô 'Tiêu đề trang', để ngắt dòng mà không tạo một đoạn văn bản mới khi tiêu đề quá dài, ta nhấn",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ctrl + Enter."
+        },
+        {
+          "key": "B",
+          "text": "Alt + Enter."
+        },
+        {
+          "key": "C",
+          "text": "Shift + Enter."
+        },
+        {
+          "key": "D",
+          "text": "Tab."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách hướng dẫn: tiêu đề dài thì đổi kích thước khung văn bản hoặc nhấn Shift + Enter để ngắt xuống dòng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tiêu đề trang",
+        "phím tắt"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Nút nào dùng để xuất bản trang web đã tạo trên Google Sites?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nút 'Công bố'."
+        },
+        {
+          "key": "B",
+          "text": "Nút 'Xem trước'."
+        },
+        {
+          "key": "C",
+          "text": "Nút 'Thêm chân trang'."
+        },
+        {
+          "key": "D",
+          "text": "Nút 'Chọn'."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nháy nút 'Công bố' để xuất bản; biểu tượng 'Xem trước' chỉ cho xem thử trên điện thoại, máy tính bảng hay máy tính, còn biểu tượng liên kết dùng để sao chép địa chỉ URL.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "xuất bản",
+        "Công bố"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-dau-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Sách lưu ý tên trang web nên ngắn gọn vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "favicon chỉ hiển thị được tối đa bốn kí tự."
+        },
+        {
+          "key": "B",
+          "text": "tên trang được gán vào địa chỉ URL của trang."
+        },
+        {
+          "key": "C",
+          "text": "Google Drive không lưu được tên có dấu cách."
+        },
+        {
+          "key": "D",
+          "text": "tên dài sẽ làm trang tải chậm hơn."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tên trang web nên ngắn gọn vì nó được gán vào địa chỉ URL của trang. Lưu ý tên ở dòng 'Trang web không có tiêu đề' là tên tệp lưu trữ trên Google Drive, khác với tên trang.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "URL",
+        "tên trang"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-than-chan-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở khung bên phải của cửa sổ thiết kế Google Sites có ba bảng chọn là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chèn, Trang, Giao diện."
+        },
+        {
+          "key": "B",
+          "text": "Tệp, Chỉnh sửa, Xem."
+        },
+        {
+          "key": "C",
+          "text": "Đầu trang, Thân trang, Chân trang."
+        },
+        {
+          "key": "D",
+          "text": "Văn bản, Hình ảnh, Bản đồ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ba bảng chọn ở khung bên phải là Chèn, Trang và Giao diện; Bài 25 chỉ làm việc với bảng chọn Chèn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "bảng chọn Chèn"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-than-chan-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhóm lệnh đầu tiên của bảng chọn Chèn gồm",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hộp văn bản, Hình ảnh, Nhúng, Drive."
+        },
+        {
+          "key": "B",
+          "text": "Phần giữ chỗ, YouTube, Lịch, Bản đồ."
+        },
+        {
+          "key": "C",
+          "text": "Nhóm có thể thu gọn, Mục lục, Bảng chuyển hình ảnh."
+        },
+        {
+          "key": "D",
+          "text": "Bản đồ, Tài liệu, Trang trình bày, Trang tính."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảng chọn Chèn có ba nhóm: nhóm một là Hộp văn bản, Hình ảnh, Nhúng, Drive; nhóm hai là các thành phần nội dung (mẫu bố cục khối); nhóm ba là các đối tượng khác.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "bảng chọn Chèn"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-than-chan-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Để chèn nhanh một bản đồ Google Maps vào phần thân trang, lệnh cần dùng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hộp văn bản ở nhóm lệnh thứ nhất."
+        },
+        {
+          "key": "B",
+          "text": "Drive ở nhóm lệnh thứ nhất."
+        },
+        {
+          "key": "C",
+          "text": "Bản đồ ở nhóm lệnh thứ ba."
+        },
+        {
+          "key": "D",
+          "text": "Một biểu tượng bất kì trong mục Thành phần nội dung."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chèn bản đồ thực chất là nhúng ứng dụng bản đồ; có thể dùng lệnh Nhúng, nhưng để nhúng Google Maps thì chỉ cần chọn lệnh Bản đồ ở nhóm thứ ba của bảng chọn Chèn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "bản đồ",
+        "nhúng"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-than-chan-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Lệnh 'Drive' trong bảng chọn Chèn dùng để",
+      "options": [
+        {
+          "key": "A",
+          "text": "chèn văn bản, hình ảnh, video hay tư liệu tạo bằng ứng dụng Google đang lưu trên Google Drive."
+        },
+        {
+          "key": "B",
+          "text": "chèn dữ liệu nhúng từ ứng dụng Internet khác như thời tiết, âm nhạc."
+        },
+        {
+          "key": "C",
+          "text": "xuất bản trang web lên Google Drive."
+        },
+        {
+          "key": "D",
+          "text": "tạo thư mục mới trong Google Drive."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lệnh Drive chèn thông tin từ Google Drive; còn lệnh Nhúng mới dùng để chèn dữ liệu nhúng từ ứng dụng Internet khác như thời tiết, âm nhạc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Drive",
+        "Nhúng"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c25",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-than-chan-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Để sao chép hoặc xoá một đối tượng đã chèn vào trang web, thao tác theo sách là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chọn đối tượng rồi dùng các nút trong bảng chọn tắt hiện ra."
+        },
+        {
+          "key": "B",
+          "text": "nhấn giữ phím Ctrl và kéo thả đối tượng."
+        },
+        {
+          "key": "C",
+          "text": "mở cửa sổ Cài đặt, mục Điều hướng."
+        },
+        {
+          "key": "D",
+          "text": "nháy nút Công bố rồi chọn lại đối tượng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chọn đối tượng, quan sát bảng chọn tắt tương ứng có nút sao chép và nút xoá rồi nháy nút cần dùng. Việc đổi kích thước và di chuyển đối tượng thực hiện bằng cách kéo thả.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "chỉnh sửa đối tượng"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c26",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-than-chan-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung phổ biến nhất của phần chân trang là",
+      "options": [
+        {
+          "key": "A",
+          "text": "thanh điều hướng và chức năng tìm kiếm."
+        },
+        {
+          "key": "B",
+          "text": "tuyên bố về bản quyền và thông tin liên lạc như địa chỉ email, số điện thoại."
+        },
+        {
+          "key": "C",
+          "text": "ảnh nền và logo của trang web."
+        },
+        {
+          "key": "D",
+          "text": "danh sách các khối nội dung của trang."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu nội dung phổ biến nhất của chân trang là tuyên bố về bản quyền và thông tin liên lạc; ngoài ra có thể chèn liên kết đến mạng xã hội của chủ thể.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "chân trang"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c27",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-than-chan-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Không gian dành cho phần chân trang trong Google Sites được mở bằng cách",
+      "options": [
+        {
+          "key": "A",
+          "text": "nháy nút 'Thêm chân trang' xuất hiện khi di chuyển xuống cuối trang."
+        },
+        {
+          "key": "B",
+          "text": "chọn lệnh 'Bản đồ' ở nhóm lệnh thứ ba."
+        },
+        {
+          "key": "C",
+          "text": "nháy nút 'Công bố'."
+        },
+        {
+          "key": "D",
+          "text": "chọn 'Chỉ có tiêu đề' trong Loại tiêu đề."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Di chuyển xuống cuối trang sẽ thấy nút 'Thêm chân trang'; nháy vào đó để xuất hiện không gian chân trang, sau đó chèn các khối văn bản và sắp xếp theo ý muốn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Thêm chân trang"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c28",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-than-chan-trang-web",
+      "type": "SINGLE_CHOICE",
+      "content": "Vừa lỡ tay xoá một khối nội dung quan trọng. Khẳng định nào sau đây đúng theo sách?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không thể lấy lại, phải chèn và nhập lại từ đầu."
+        },
+        {
+          "key": "B",
+          "text": "Có thể huỷ bỏ lệnh vừa thực hiện bằng undo, rồi làm lại bằng redo nếu cần."
+        },
+        {
+          "key": "C",
+          "text": "Phải xuất bản trang rồi mở lại tệp trong Google Drive."
+        },
+        {
+          "key": "D",
+          "text": "Phải quay lại Bài 24 để tạo lại phần đầu trang."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách lưu ý có thể huỷ bỏ một lệnh vừa thực hiện (undo) hay thực hiện lại một lệnh trước đó (redo) nhờ hai biểu tượng trên thanh trên cùng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "undo",
+        "redo"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c29",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-chuan-bi-web",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về cấu trúc trang web và việc chuẩn bị xây dựng trang web?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Favicon có thể thiết kế riêng và dùng chung cho tất cả các trang trong một website."
+        },
+        {
+          "key": "B",
+          "text": "Phần thân trang thường được bố cục thành các khối hình chữ nhật, mỗi khối trình bày một nội dung với tiêu đề riêng."
+        },
+        {
+          "key": "C",
+          "text": "Phông có chân như Times New Roman được khuyên dùng cho nội dung bài viết vì dễ nhận diện trên màn hình."
+        },
+        {
+          "key": "D",
+          "text": "Xây dựng một website chỉ cần đúng ba bước như xây dựng một trang web đơn giản."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A và B đúng. C sai vì phông có chân khó nhận diện trên màn hình, sách khuyên nội dung bài viết dùng phông không chân như Calibri, Arial, Verdana, Tahoma. D sai vì sách lưu ý xây dựng website có thể đòi hỏi thêm bước, đặc biệt là tổ chức vận hành và quản trị website.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "cấu trúc trang web"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c30",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-dau-trang-web",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về việc xây dựng phần đầu trang trong Google Sites?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bốn tuỳ chọn Bia, Biểu ngữ lớn, Biểu ngữ, Chỉ có tiêu đề chỉ khác nhau về chiều cao của phần đầu trang."
+        },
+        {
+          "key": "B",
+          "text": "Kiểu Bia là kiểu cao nhất, chiếm toàn bộ màn hình."
+        },
+        {
+          "key": "C",
+          "text": "Ảnh logo và favicon đều bắt buộc phải là hình vuông."
+        },
+        {
+          "key": "D",
+          "text": "Google Sites tự động lưu trang web đang tạo vào Google Drive."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A, B, D đúng. C sai vì logo có thể là hình chữ nhật, chỉ favicon mới là hình vuông với kích thước 16×16, 32×32 hoặc 48×48 pixels.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "phần đầu trang"
+      ]
+    },
+    {
+      "id": "tinhoc12-07-c31",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-than-chan-trang-web",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về phần thân và chân trang web trong Google Sites?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chèn bản đồ vào trang web thực chất là nhúng ứng dụng bản đồ."
+        },
+        {
+          "key": "B",
+          "text": "Ở nhóm lệnh thứ ba của bảng chọn Chèn có các đối tượng như khối văn bản có thể thu gọn, mục lục, bảng chuyển hình ảnh, bản đồ, video từ YouTube, liên kết."
+        },
+        {
+          "key": "C",
+          "text": "Có thể đổi kích thước và di chuyển đối tượng đã chèn bằng cách chọn đối tượng rồi kéo thả."
+        },
+        {
+          "key": "D",
+          "text": "Trong cửa sổ 'Chọn bản đồ', chỉ có thể xác định địa điểm bằng cách gõ vào ô 'Nhập vị trí'."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, C đúng. D sai vì ngoài ô 'Nhập vị trí', cửa sổ 'Chọn bản đồ' còn có nút 'Đặt dấu vị trí' để xác định địa điểm bằng cách nháy chuột, và có thể chuyển giữa chế độ Bản đồ và Vệ tinh.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "nhận định đúng sai",
+        "phần thân trang"
+      ]
+    }
+  ]
+}

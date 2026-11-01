@@ -49,6 +49,12 @@ const SUBJECT_THEMES: Record<string, SubjectTheme> = {
     hoverBorder: 'hover:border-teal-300',
     glow: 'bg-teal-500/10',
   },
+  'tin-hoc': {
+    chip: 'border-transparent bg-emerald-100 text-emerald-800',
+    bar: 'bg-gradient-to-r from-emerald-400 to-emerald-600',
+    hoverBorder: 'hover:border-emerald-300',
+    glow: 'bg-emerald-500/10',
+  },
 };
 
 const FALLBACK_THEME: SubjectTheme = {
