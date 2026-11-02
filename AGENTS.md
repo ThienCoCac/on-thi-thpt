@@ -54,12 +54,12 @@ Script ánh xạ tự động, nắm quy tắc để đoán thời gian:
 - `docs/**`, `scripts/**`, `README.md`, `AGENTS.md` → không cần mở trình duyệt (`--scope=none`).
 
 Mười bộ test puppeteer và số kiểm tra hiện tại: `static` 37, `features` 92, `van` 44, `ktpl` 24,
-`anh` 26, `mini` 27, `su` 19, `vact` 18, `dia` 46, `tinhoc` 49; bộ `live` 37 kiểm tra trên bản Cloudflare.
+`anh` 40, `mini` 27, `su` 19, `vact` 18, `dia` 46, `tinhoc` 49; bộ `live` 37 kiểm tra trên bản Cloudflare.
 File đặt ngoài repo, trong `C:/Users/trinh/.qoder/tmp/` (`shot/`, `su/`, `ktpl/`, `english/`, `vact/`, `dia/`, `tinhoc/`).
 Nếu mất file, verify.mjs in `THIẾU FILE` và tính là lỗi — tuyệt đối không xóa kiểm tra để "cho qua".
 
 Thêm tính năng mới thì thêm `check(...)` vào bộ test liên quan; đổi nội dung đề thì cập nhật các con số
-đang hard-code trong bộ test (38 đề, 1.398 câu, số câu mỗi đề).
+đang hard-code trong bộ test (41 đề, 1.548 câu, số câu mỗi đề).
 
 ## Giữ tốc độ
 
