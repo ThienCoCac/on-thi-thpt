@@ -1,0 +1,1523 @@
+{
+  "id": "de-dia-12-ky-nang-atlat-va-bieu-do",
+  "title": "Đề ôn tập kĩ năng Atlat và biểu đồ – Địa lí 12",
+  "slug": "de-dia-12-ky-nang-atlat-va-bieu-do",
+  "description": "Đề chuyên kĩ năng Địa lí 12 gồm 30 câu trắc nghiệm, 10 câu đúng – sai và 10 câu trả lời ngắn: chọn loại biểu đồ phù hợp với bảng số liệu (tròn, miền, đường, cột, cột chồng, kết hợp), cách xử lí số liệu và các công thức thường dùng như mật độ dân số, tốc độ tăng trưởng, cơ cấu, bình quân đầu người, tỉ lệ che phủ rừng, cán cân xuất nhập khẩu.",
+  "subject": "dia-li",
+  "type": "FULL_EXAM",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-KN-01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-02T14:00:00.000Z",
+  "updatedAt": "2026-11-02T14:00:00.000Z",
+  "questions": [
+    {
+      "id": "dia-kn-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu cơ cấu giá trị sản xuất nông nghiệp nước ta, năm 2010 và năm 2020 (%):**\n\n- Trồng trọt: 74,2; Chăn nuôi: 22,1; Dịch vụ nông nghiệp: 3,7\n- Trồng trọt: 69,5; Chăn nuôi: 26,8; Dịch vụ nông nghiệp: 3,7\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2021.*\n\nVới bảng số liệu trên, loại biểu đồ thích hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ cột ghép theo từng nhóm ngành."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ tròn, vì bảng chỉ có hai năm và thể hiện cơ cấu."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ miền, vì có sự chuyển dịch cơ cấu qua các năm."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ đường, vì cần thấy tốc độ tăng trưởng của mỗi ngành."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Quy tắc chọn biểu đồ: bảng **cơ cấu** có **từ 3 năm trở xuống** thì dùng biểu đồ **tròn**. Bảng đã cho sẵn % nên không phải xử lí thêm, chỉ cần vẽ hai đường tròn và thể hiện quy mô nếu tổng số khác nhau.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ tròn"
+      ]
+    },
+    {
+      "id": "dia-kn-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng số liệu cơ cấu tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng phân theo thành phần kinh tế của nước ta, giai đoạn 2015 – 2024 (%), gồm năm dòng số liệu. Loại biểu đồ thích hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ tròn, vì mỗi năm là một cơ cấu hoàn chỉnh."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ cột chồng, vì vừa thấy tổng vừa thấy thành phần."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ miền, vì bảng có từ 3 năm trở lên và thể hiện sự chuyển dịch cơ cấu."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ đường thể hiện tốc độ tăng trưởng của từng thành phần kinh tế."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Bảng **cơ cấu từ 3 năm trở lên** (hoặc cần thấy rõ **chuyển dịch cơ cấu**) thì dùng **biểu đồ miền**: trục hoành là năm, trục tung là 100%, mỗi thành phần là một dải diện tích.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ miền"
+      ]
+    },
+    {
+      "id": "dia-kn-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng sản lượng than, dầu mỏ và điện của nước ta qua 6 năm, đơn vị triệu tấn và triệu kWh. Yêu cầu của đề là \"thể hiện tốc độ tăng trưởng\" của các sản lượng trên. Loại biểu đồ thích hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ cột ghép, mỗi năm một nhóm cột."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ đường, sau khi chuyển số liệu về dạng chỉ số phát triển."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ miền vì có nhiều đối tượng qua nhiều năm."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ tròn vì cần so sánh cơ cấu sản lượng giữa các năm."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Muốn thấy **tốc độ tăng trưởng, tốc độ phát triển** thì dùng **biểu đồ đường**. Vì các đối tượng có đơn vị và giá trị chênh lệch lớn, phải chuyển về **chỉ số phát triển** (lấy năm gốc = 100%) rồi mới vẽ.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ đường",
+        "xử lí số liệu"
+      ]
+    },
+    {
+      "id": "dia-kn-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu diện tích gieo trồng cây hằng năm của nước ta qua 5 năm (nghìn ha):**\n\n- Cây lương thực: 9012; 8981; 9050; 9104; 9180\n- Cây công nghiệp: 1662; 1701; 1738; 1772; 1810\n- Cây ăn quả: 1120; 1154; 1188; 1221; 1260\n\nYêu cầu: thể hiện **diện tích (sản lượng) tuyệt đối** của mỗi nhóm cây qua các năm. Loại biểu đồ thích hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ cột ghép."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ tròn."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ miền."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ đường biểu diễn tốc độ tăng trưởng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Bảng số liệu **tuyệt đối** theo các năm, cần thấy **quy mô và diễn biến** thì dùng **biểu đồ cột** (cột ghép). Nếu đề yêu cầu \"tốc độ tăng trưởng\" thì mới chuyển sang biểu đồ đường.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ cột"
+      ]
+    },
+    {
+      "id": "dia-kn-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng giá trị xuất khẩu và nhập khẩu của nước ta, giai đoạn 2016 – 2024 (tỷ USD), mỗi năm gồm hai dòng số liệu tuyệt đối. Để thể hiện **đồng thời tổng giá trị xuất nhập khẩu và cơ cấu** của nó qua các năm, loại biểu đồ thích hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ đường với hai đường thể hiện xuất khẩu và nhập khẩu."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ cột chồng, mỗi năm một cột gồm hai đoạn xuất khẩu và nhập khẩu."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ tròn với ba đường tròn tương ứng ba năm."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ cột ghép, mỗi năm hai cột cạnh nhau."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Khi bảng cho **tổng giá trị (tổng số lượng)** và cần thấy cả **cơ cấu** các thành phần qua các năm thì **cột chồng** là thích hợp: chiều cao cột là tổng, các đoạn trong cột là từng thành phần.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ cột chồng"
+      ]
+    },
+    {
+      "id": "dia-kn-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng số liệu gồm hai đại lượng của nước ta qua các năm: diện tích rừng (triệu ha) và sản lượng gỗ khai thác (nghìn m³). Muốn thể hiện hai đại lượng này trên cùng một biểu đồ vì chúng **khác nhau về đơn vị**, ta dùng",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ miền vì có nhiều năm."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ tròn vì mỗi đại lượng là một cơ cấu."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ kết hợp cột – đường với hai trục tung, mỗi trục một đơn vị."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ cột chồng vì hai đại lượng cộng được với nhau thành một tổng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** **Biểu đồ kết hợp** dùng khi bảng có **hai đại lượng khác đơn vị** cần so sánh chung về thời gian: đại lượng tuyệt đối vẽ cột, đại lượng % hoặc tốc độ vẽ đường, tương ứng hai trục tung.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ kết hợp"
+      ]
+    },
+    {
+      "id": "dia-kn-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng GDP của ba khu vực kinh tế nước ta qua 7 năm, đơn vị tỷ đồng, giá trị chênh lệch nhau rất lớn. Trước khi vẽ biểu đồ đường thể hiện tốc độ tăng trưởng, phép xử lí số liệu bắt buộc là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cộng các giá trị của mỗi năm để có tổng số."
+        },
+        {
+          "key": "B",
+          "text": "lấy từng giá trị chia cho giá trị năm gốc rồi nhân 100 để được chỉ số phát triển."
+        },
+        {
+          "key": "C",
+          "text": "nhân mỗi giá trị với số năm để rút bình quân mỗi năm."
+        },
+        {
+          "key": "D",
+          "text": "làm tròn tất cả các giá trị về hàng nghìn tỷ đồng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Biểu đồ đường so sánh **tốc độ** phải dùng **số tương đối**: lấy năm sau (hoặc mỗi năm) **chia cho năm gốc rồi nhân 100**, tức quy ước năm gốc = 100%. Nếu để số tuyệt đối chênh lệch lớn, các đường sẽ chồng lên nhau và không đọc được.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "xử lí số liệu",
+        "tốc độ tăng trưởng"
+      ]
+    },
+    {
+      "id": "dia-kn-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức nào sau đây đúng với cách tính **mật độ dân số**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lấy tổng dân số chia cho diện tích lãnh thổ."
+        },
+        {
+          "key": "B",
+          "text": "Lấy diện tích lãnh thổ chia cho tổng dân số."
+        },
+        {
+          "key": "C",
+          "text": "Lấy dân số thành thị chia cho diện tích nội thành."
+        },
+        {
+          "key": "D",
+          "text": "Lấy tổng dân số nhân với diện tích lãnh thổ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** **Mật độ dân số = dân số : diện tích**, đơn vị người/km². Đây là công thức trong phần \"Mật độ dân số = dân số / diện tích\" của sổ tay.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "mật độ dân số"
+      ]
+    },
+    {
+      "id": "dia-kn-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Đơn vị thường dùng của mật độ dân số trong các bảng số liệu Địa lí 12 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "người/ha."
+        },
+        {
+          "key": "B",
+          "text": "người/km²."
+        },
+        {
+          "key": "C",
+          "text": "người/lao động."
+        },
+        {
+          "key": "D",
+          "text": "km²/người."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Vì mật độ dân số = dân số : diện tích (đơn vị diện tích là km²) nên đơn vị là **người/km²**.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "mật độ dân số"
+      ]
+    },
+    {
+      "id": "dia-kn-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu:** năm 2023, vùng Đồng bằng sông Hồng có diện tích tự nhiên 21 111 km² và dân số 11 671 nghìn người.\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2023.*\n\nMật độ dân số của vùng (làm tròn đến hàng đơn vị) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "55 người/km²."
+        },
+        {
+          "key": "B",
+          "text": "180 người/km²."
+        },
+        {
+          "key": "C",
+          "text": "553 người/km²."
+        },
+        {
+          "key": "D",
+          "text": "1 803 người/km²."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** 11 671 nghìn người = 11 671 000 người; 11 671 000 : 21 111 ≈ 552,8 → **553 người/km²**.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "mật độ dân số",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức \"A / dân số\" (với A là GDP, sản lượng lương thực, số giường bệnh, số lao động…) dùng để tính đại lượng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mật độ dân số."
+        },
+        {
+          "key": "B",
+          "text": "Tốc độ tăng trưởng."
+        },
+        {
+          "key": "C",
+          "text": "Bình quân đầu người."
+        },
+        {
+          "key": "D",
+          "text": "Tỉ trọng theo thành phần."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** **Bình quân đầu người = giá trị A : dân số**, ví dụ GDP bình quân đầu người (USD/người), bình quân lương thực đầu người (kg/người).",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "bình quân đầu người"
+      ]
+    },
+    {
+      "id": "dia-kn-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu:** năm 2022 cả nước có diện tích có rừng 14 899 nghìn ha, diện tích tự nhiên 33 121 nghìn ha.\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2022.*\n\nTỉ lệ che phủ rừng của cả nước năm 2022 (làm tròn đến hàng phần mười) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "22,1%."
+        },
+        {
+          "key": "B",
+          "text": "34,3%."
+        },
+        {
+          "key": "C",
+          "text": "45,0%."
+        },
+        {
+          "key": "D",
+          "text": "56,7%."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** **Tỉ lệ che phủ rừng = (diện tích có rừng : diện tích tự nhiên) × 100** = (14 899 : 33 121) × 100 ≈ 44,98 → **45,0%**.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tỉ lệ che phủ rừng",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức tính **cán cân xuất nhập khẩu** nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cán cân = xuất khẩu + nhập khẩu."
+        },
+        {
+          "key": "B",
+          "text": "Cán cân = xuất khẩu − nhập khẩu."
+        },
+        {
+          "key": "C",
+          "text": "Cán cân = (xuất khẩu : nhập khẩu) × 100."
+        },
+        {
+          "key": "D",
+          "text": "Cán cân = (xuất khẩu + nhập khẩu) : 2."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** **Cán cân xuất nhập khẩu = xuất khẩu − nhập khẩu**. Kết quả dương là xuất siêu, âm là nhập siêu; kết quả bằng 0 là cân bằng.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "cán cân xuất nhập khẩu"
+      ]
+    },
+    {
+      "id": "dia-kn-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Nếu cán cân xuất nhập khẩu của một năm có giá trị **âm**, kết luận nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giá trị xuất khẩu lớn hơn giá trị nhập khẩu."
+        },
+        {
+          "key": "B",
+          "text": "Năm đó nước ta nhập siêu."
+        },
+        {
+          "key": "C",
+          "text": "Tổng kim ngạch xuất nhập khẩu bằng không."
+        },
+        {
+          "key": "D",
+          "text": "Tốc độ tăng trưởng xuất khẩu giảm so với năm trước."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Cán cân = xuất khẩu − nhập khẩu, nên giá trị **âm** nghĩa là nhập khẩu lớn hơn xuất khẩu, tức **nhập siêu**.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "cán cân xuất nhập khẩu"
+      ]
+    },
+    {
+      "id": "dia-kn-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu:** năm 2021, tổng kim ngạch xuất nhập khẩu của một quốc gia đạt 610 tỷ USD và cán cân xuất nhập khẩu là +30 tỷ USD.\n\nGiá trị **xuất khẩu** của quốc gia đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "290 tỷ USD."
+        },
+        {
+          "key": "B",
+          "text": "305 tỷ USD."
+        },
+        {
+          "key": "C",
+          "text": "320 tỷ USD."
+        },
+        {
+          "key": "D",
+          "text": "640 tỷ USD."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Theo công thức sổ tay: **xuất khẩu = (tổng xuất nhập khẩu + cán cân) : 2** = (610 + 30) : 2 = **320 tỷ USD**; nhập khẩu = (610 − 30) : 2 = 290 tỷ USD.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "cán cân xuất nhập khẩu",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức tính **tỉ lệ gia tăng dân số tự nhiên** (đơn vị %) khi biết tỉ suất sinh và tỉ suất tử theo phần nghìn là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(tỉ suất sinh + tỉ suất tử) : 10."
+        },
+        {
+          "key": "B",
+          "text": "(tỉ suất sinh − tỉ suất tử) : 10."
+        },
+        {
+          "key": "C",
+          "text": "(tỉ suất sinh : tỉ suất tử) × 10."
+        },
+        {
+          "key": "D",
+          "text": "(tỉ suất sinh − tỉ suất tử) × 10."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** **Tỉ lệ gia tăng tự nhiên = (tỉ suất sinh − tỉ suất tử) : 10**, vì hai tỉ suất đang tính theo ‰ (phần nghìn) mà kết quả cần theo % (phần trăm).",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "dân số",
+        "tỉ lệ gia tăng tự nhiên"
+      ]
+    },
+    {
+      "id": "dia-kn-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu:** năm 2023, khu vực nông nghiệp chiếm 16% trong tổng GDP của một vùng, biết tổng GDP của vùng là 600 tỷ USD.\n\nGiá trị sản xuất nông nghiệp của vùng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "60 tỷ USD."
+        },
+        {
+          "key": "B",
+          "text": "96 tỷ USD."
+        },
+        {
+          "key": "C",
+          "text": "160 tỷ USD."
+        },
+        {
+          "key": "D",
+          "text": "375 tỷ USD."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Đây là phép tính **ngược từ tỉ trọng sang giá trị**: 16% × 600 = **96 tỷ USD**. Đúng ví dụ ghi trong sổ tay: \"nông nghiệp chiếm 16% trong tổng GDP, tổng GDP 600 tỷ USD → giá trị NN = 96\".",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "thành phần",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức tính **tỉ trọng (cơ cấu)** của một thành phần trong bảng số liệu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(tổng : thành phần) × 100."
+        },
+        {
+          "key": "B",
+          "text": "(thành phần : tổng) × 100."
+        },
+        {
+          "key": "C",
+          "text": "thành phần × tổng."
+        },
+        {
+          "key": "D",
+          "text": "(thành phần − tổng) : tổng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** **Cơ cấu (tỉ trọng) = (thành phần : tổng) × 100**, đơn vị %. Khi bảng đã cho % sẵn thì không cần xử lí, khi bảng cho số tuyệt đối phải tính % trước khi vẽ biểu đồ tròn hoặc miền.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "cơ cấu",
+        "xử lí số liệu"
+      ]
+    },
+    {
+      "id": "dia-kn-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu:** tổng mức bán lẻ và doanh thu dịch vụ tiêu dùng của nước ta năm 2019 chia theo thành phần kinh tế (tỷ đồng):\n\n- Nhà nước: 1 050; Ngoài nhà nước: 2 350; Khu vực có vốn đầu tư nước ngoài: 400\n\nTỉ trọng của thành phần kinh tế ngoài nhà nước (làm tròn đến hàng đơn vị) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%."
+        },
+        {
+          "key": "B",
+          "text": "28%."
+        },
+        {
+          "key": "C",
+          "text": "44%."
+        },
+        {
+          "key": "D",
+          "text": "62%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.** Tổng = 1 050 + 2 350 + 400 = 3 800 tỷ đồng. Tỉ trọng ngoài nhà nước = (2 350 : 3 800) × 100 ≈ 61,8 → **62%**. Các phương án còn lại là kết quả của những phép tính nhầm: khu vực nhà nước ≈ 28%, khu vực có vốn đầu tư nước ngoài ≈ 10%, và 44% là lấy 2 350 : 5 350.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "cơ cấu",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong biểu đồ tròn, góc ở tâm của một phần được tính bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "tỉ trọng (%) × 1,8."
+        },
+        {
+          "key": "B",
+          "text": "tỉ trọng (%) × 3,6."
+        },
+        {
+          "key": "C",
+          "text": "giá trị tuyệt đối : tổng số."
+        },
+        {
+          "key": "D",
+          "text": "tỉ trọng (%) : 360."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Một vòng tròn là 360° ứng với 100%, nên mỗi 1% tương ứng **3,6°**. Vì vậy góc của phần = tỉ trọng (%) × 3,6.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ tròn"
+      ]
+    },
+    {
+      "id": "dia-kn-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Vẽ biểu đồ tròn cho hai năm có tổng số khác nhau và đề yêu cầu thể hiện **quy mô**, cách xác định bán kính đường tròn đúng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "hai đường tròn có cùng bán kính để dễ so sánh."
+        },
+        {
+          "key": "B",
+          "text": "bán kính đường tròn năm sau dài gấp đôi năm trước."
+        },
+        {
+          "key": "C",
+          "text": "bán kính hai đường tròn tỉ lệ với căn bậc hai của hai tổng số."
+        },
+        {
+          "key": "D",
+          "text": "bán kính hai đường tròn tỉ lệ thuận với hai tổng số."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** Diện tích hình tròn tỉ lệ với bình phương bán kính, nên để diện tích phản ánh đúng quy mô thì **bán kính tỉ lệ với căn bậc hai của tổng số**. Nếu quy mô như nhau thì vẽ hai đường tròn bằng nhau.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ tròn",
+        "quy mô"
+      ]
+    },
+    {
+      "id": "dia-kn-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi vẽ **biểu đồ miền** thể hiện cơ cấu, quy định về trục tung và trục hoành đúng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "trục tung biểu hiện các năm, trục hoành biểu hiện 100%."
+        },
+        {
+          "key": "B",
+          "text": "trục hoành biểu hiện các năm, trục tung biểu hiện 100%."
+        },
+        {
+          "key": "C",
+          "text": "cả hai trục đều biểu hiện các năm."
+        },
+        {
+          "key": "D",
+          "text": "trục tung biểu hiện giá trị tuyệt đối, trục hoành biểu hiện tốc độ tăng trưởng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Biểu đồ miền (đồ thị diện tích) có **trục hoành là năm, trục tung là 100%**; miền đầu tiên tô sát trục tung, miền cuối cùng chạm mép trên 100%. Khoảng cách năm trên trục hoành phải tương ứng với số năm.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ miền"
+      ]
+    },
+    {
+      "id": "dia-kn-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Một học sinh vẽ biểu đồ đường biểu diễn tốc độ tăng trưởng của ba ngành kinh tế trên trục hoành có các năm 2015, 2016, 2020 nhưng khoảng cách giữa các năm vẽ bằng nhau. Lỗi của bạn học sinh này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đã lấy năm gốc bằng 100%."
+        },
+        {
+          "key": "B",
+          "text": "khoảng cách năm trên trục hoành không tương ứng với số năm thực tế."
+        },
+        {
+          "key": "C",
+          "text": "dùng đơn vị % cho trục tung."
+        },
+        {
+          "key": "D",
+          "text": "vẽ ba đường thay vì cộng lại thành một đường."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Với biểu đồ đường, **khoảng cách năm phải tương ứng**: 2015 – 2016 là 1 năm, 2016 – 2020 là 4 năm nên đoạn sau phải dài gấp 4 lần đoạn trước, nếu vẽ bằng nhau thì diễn biến bị sai lệch.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "biểu đồ đường"
+      ]
+    },
+    {
+      "id": "dia-kn-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi khai thác **Atlat Địa lí Việt Nam**, việc đầu tiên cần làm để đọc đúng một bản đồ chuyên đề là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cộng các giá trị trong bảng số liệu của trang."
+        },
+        {
+          "key": "B",
+          "text": "xem bảng chú giải để biết ký hiệu, màu sắc và thang chia giá trị."
+        },
+        {
+          "key": "C",
+          "text": "vẽ lại biểu đồ tròn của đối tượng được thể hiện."
+        },
+        {
+          "key": "D",
+          "text": "tính mật độ dân số của các tỉnh trong trang."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Mọi bản đồ trong Atlat đều có **bảng chú giải**: ký hiệu thể hiện đối tượng, màu hoặc thang giá trị quy định mức độ. Đọc chú giải trước mới suy ra được quy mô và sự phân bố.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "atlat"
+      ]
+    },
+    {
+      "id": "dia-kn-c25",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong Atlat Địa lí Việt Nam, các đối tượng có giá trị thống kê (dân số, diện tích, sản lượng) thường được thể hiện bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ một màu nền duy nhất trên toàn bản đồ."
+        },
+        {
+          "key": "B",
+          "text": "hệ thống ký hiệu kèm bảng chú giải và thang chia giá trị."
+        },
+        {
+          "key": "C",
+          "text": "đường đồng mức không kèm đơn vị."
+        },
+        {
+          "key": "D",
+          "text": "ảnh vệ tinh không có chú dẫn."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Atlat dùng **ký hiệu** (điểm, vùng, đường) kết hợp **thang chia giá trị** và **bảng chú giải** để người đọc so sánh được quy mô của các đối tượng.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "atlat"
+      ]
+    },
+    {
+      "id": "dia-kn-c26",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng số liệu cho giá trị xuất khẩu và nhập khẩu qua 4 năm (tỷ USD), yêu cầu \"thể hiện **cán cân xuất nhập khẩu** qua các năm\". Xử lí số liệu cần làm trước khi vẽ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "lấy xuất khẩu trừ nhập khẩu cho từng năm để có chuỗi số liệu mới."
+        },
+        {
+          "key": "B",
+          "text": "cộng xuất khẩu với nhập khẩu để có tổng kim ngạch."
+        },
+        {
+          "key": "C",
+          "text": "chia xuất khẩu cho nhập khẩu để được hệ số."
+        },
+        {
+          "key": "D",
+          "text": "lấy bình quân của xuất khẩu và nhập khẩu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.** Đề hỏi **cán cân** nên phải tính **xuất khẩu − nhập khẩu** cho từng năm, sau đó vẽ biểu đồ cột (hoặc đường) với các giá trị dương/âm. Đây là dạng \"đề yêu cầu đại lượng chưa có trong bảng\".",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "cán cân xuất nhập khẩu",
+        "xử lí số liệu"
+      ]
+    },
+    {
+      "id": "dia-kn-c27",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng sản lượng cà phê nhân của nước ta qua 8 năm (nghìn tấn). Học sinh chọn biểu đồ tròn để thể hiện. Nhận xét nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chọn đúng, vì biểu đồ tròn thể hiện tốt diễn biến qua nhiều năm."
+        },
+        {
+          "key": "B",
+          "text": "Chọn sai, vì bảng là số liệu tuyệt đối theo thời gian, nên dùng biểu đồ cột hoặc đường."
+        },
+        {
+          "key": "C",
+          "text": "Chọn đúng, vì sản lượng là một cơ cấu ngành hàng."
+        },
+        {
+          "key": "D",
+          "text": "Chọn sai, vì biểu đồ tròn chỉ vẽ được cho sản lượng từ 10 năm trở lên."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Biểu đồ tròn chỉ dùng cho **cơ cấu** (tối đa 3 năm). Bảng **sản lượng tuyệt đối qua các năm** phải dùng **cột** (thể hiện quy mô, diễn biến) hoặc **đường** (thể hiện tốc độ tăng trưởng).",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "nhận dạng biểu đồ"
+      ]
+    },
+    {
+      "id": "dia-kn-c28",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm khác nhau cơ bản giữa **biểu đồ cột** và **biểu đồ miền** là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ cột dùng cho số tương đối, biểu đồ miền dùng cho số tuyệt đối."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ cột thể hiện quy mô và diễn biến của các đại lượng, biểu đồ miền thể hiện cơ cấu và sự chuyển dịch cơ cấu qua nhiều năm."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ miền bắt buộc phải có hai trục tung."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ cột chỉ vẽ được một đại lượng, biểu đồ miền vẽ được mọi đại lượng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Cột dành cho **số tuyệt đối** (quy mô, diễn biến); miền dành cho **cơ cấu từ 3 năm trở lên** để thấy sự thay đổi tỉ trọng giữa các thành phần.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "nhận dạng biểu đồ"
+      ]
+    },
+    {
+      "id": "dia-kn-c29",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Bảng số liệu:** GDP nước ta năm 2015 là 6 398 nghìn tỷ đồng, năm 2020 là 9 597 nghìn tỷ đồng.\n\n*Nguồn: Niên giám thống kê Việt Nam, năm 2020.*\n\nTốc độ tăng trưởng GDP năm 2020 so với năm 2015 (lấy năm 2015 = 100%) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "105%."
+        },
+        {
+          "key": "B",
+          "text": "125%."
+        },
+        {
+          "key": "C",
+          "text": "150%."
+        },
+        {
+          "key": "D",
+          "text": "160%."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.** (9 597 : 6 398) × 100 = **150%**, tức GDP năm 2020 gấp rưỡi năm 2015. Đây đúng là ví dụ xử lí số liệu trong sổ tay: lấy giá trị năm sau **chia** giá trị năm gốc rồi nhân 100.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tốc độ tăng trưởng",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c30",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "Đề bài cho bảng cơ cấu GDP theo thành phần kinh tế của **hai** năm và yêu cầu \"thể hiện quy mô và cơ cấu\". Cách làm thích hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "vẽ biểu đồ miền và làm tròn số liệu về hàng nghìn."
+        },
+        {
+          "key": "B",
+          "text": "vẽ hai biểu đồ tròn có bán kính khác nhau, kèm bảng số liệu % đã tính."
+        },
+        {
+          "key": "C",
+          "text": "vẽ biểu đồ đường cho từng thành phần kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "vẽ biểu đồ cột ghép, mỗi thành phần một cột."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.** Cơ cấu **hai năm** → biểu đồ **tròn**; để thấy **quy mô** thì hai đường tròn phải có **bán kính khác nhau** (tỉ lệ với căn bậc hai của tổng số). Cần tính % cho từng thành phần nếu bảng đang cho số tuyệt đối.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "nhận dạng biểu đồ",
+        "cơ cấu"
+      ]
+    },
+    {
+      "id": "dia-kn-c31",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Bảng số liệu thể hiện cơ cấu của một ngành trong 4 năm luôn thích hợp nhất với biểu đồ tròn.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Biểu đồ **tròn** chỉ thích hợp với cơ cấu **từ 3 năm trở xuống**. Từ 3 năm trở lên, hoặc cần thấy **chuyển dịch cơ cấu**, phải dùng biểu đồ **miền**.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c32",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Khi vẽ biểu đồ đường thể hiện tốc độ tăng trưởng của nhiều đối tượng có giá trị chênh lệch lớn, cần chuyển số liệu về dạng chỉ số phát triển với năm gốc bằng 100%.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Nếu giữ số tuyệt đối, các đối tượng lớn sẽ đè lên các đối tượng nhỏ và không so sánh được tốc độ. Chuyển về **chỉ số phát triển (năm gốc = 100%)** giúp các đường cùng xuất phát tại một điểm.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c33",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Biểu đồ miền thể hiện cơ cấu được xây dựng bằng cách chuyển các đại lượng tuyệt đối sang đơn vị phần trăm, trục tung có giá trị lớn nhất là 100%.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Với biểu đồ miền thể hiện **cơ cấu**, mỗi năm phải cộng để có tổng rồi tính tỉ trọng (%); trục tung biểu hiện 100%, trục hoành biểu hiện các năm.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c34",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Cán cân xuất nhập khẩu có giá trị âm chứng tỏ năm đó nước ta xuất siêu.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Cán cân = xuất khẩu − nhập khẩu. Giá trị **âm** nghĩa là nhập khẩu lớn hơn xuất khẩu, tức **nhập siêu**; giá trị dương mới là xuất siêu.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c35",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Biết tổng kim ngạch xuất nhập khẩu và cán cân, giá trị xuất khẩu được tính bằng (tổng kim ngạch + cán cân) : 2.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Từ hệ thức tổng = xuất khẩu + nhập khẩu và cán cân = xuất khẩu − nhập khẩu, suy ra **xuất khẩu = (tổng + cán cân) : 2**, nhập khẩu = (tổng − cán cân) : 2.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c36",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Tỉ lệ che phủ rừng được tính bằng diện tích có rừng chia cho diện tích đất nông nghiệp rồi nhân 100.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** Mẫu số phải là **diện tích tự nhiên** của vùng hoặc cả nước: **tỉ lệ che phủ rừng = (diện tích có rừng : diện tích tự nhiên) × 100**.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c37",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Biểu đồ kết hợp cột – đường thường được chọn khi bảng số liệu có hai đại lượng khác nhau về đơn vị đo.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Biểu đồ kết hợp dùng khi cần thể hiện **hai đại lượng khác đơn vị** trên cùng một hệ trục thời gian: đại lượng tuyệt đối biểu diễn bằng cột, đại lượng % hoặc tốc độ biểu diễn bằng đường, mỗi loại một trục tung.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c38",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Trong biểu đồ cột chồng, chiều cao của mỗi cột biểu hiện tổng giá trị và các đoạn bên trong cột biểu hiện các thành phần của tổng đó.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Đó chính là ưu điểm của **cột chồng**: cùng lúc cho thấy **tổng số** (chiều cao cột) và **cơ cấu** (tỉ lệ các đoạn trong cột).",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c39",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Muốn tính bình quân lương thực đầu người, ta lấy diện tích đất nông nghiệp chia cho dân số.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: Sai.** **Bình quân đầu người = đại lượng A : dân số**. Với bình quân lương thực, A là **sản lượng lương thực** (tấn hoặc kg), không phải diện tích đất nông nghiệp.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c40",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "SINGLE_CHOICE",
+      "content": "**Nhận định sau đây đúng hay sai?** Khi vẽ hai biểu đồ tròn của hai năm có tổng số khác nhau, bán kính hai đường tròn được lấy tỉ lệ với căn bậc hai của hai tổng số.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: Đúng.** Vì diện tích hình tròn tỉ lệ với bình phương bán kính, muốn diện tích phản ánh đúng quy mô thì **bán kính tỉ lệ với căn bậc hai của tổng số**.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "đúng – sai"
+      ]
+    },
+    {
+      "id": "dia-kn-c41",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Một tỉnh có diện tích tự nhiên 1 200 km² và dân số 1,8 triệu người. Tính mật độ dân số của tỉnh (người/km², làm tròn đến hàng đơn vị).",
+      "options": [],
+      "correctAnswer": [
+        "1500",
+        "1500 người/km²",
+        "1500 người/km2"
+      ],
+      "explanation": "**Đáp án: 1500.** 1,8 triệu người = 1 800 000 người; 1 800 000 : 1 200 = **1 500 người/km²**.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c42",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Giá trị sản xuất công nghiệp của một vùng năm 2018 là 400 nghìn tỷ đồng, năm 2023 là 560 nghìn tỷ đồng. Tính tốc độ tăng trưởng năm 2023 so với năm 2018, lấy năm 2018 = 100% (đơn vị %, làm tròn đến hàng đơn vị).",
+      "options": [],
+      "correctAnswer": [
+        "140",
+        "140%",
+        "140 %"
+      ],
+      "explanation": "**Đáp án: 140.** (560 : 400) × 100 = **140%**, tức giá trị sản xuất công nghiệp tăng 40% so với năm gốc.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c43",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Trong tổng chi tiêu hộ gia đình 800 nghìn tỷ đồng, nhóm hàng lương thực – thực phẩm chiếm 280 nghìn tỷ đồng. Tính tỉ trọng của nhóm hàng này (% , làm tròn đến hàng đơn vị).",
+      "options": [],
+      "correctAnswer": [
+        "35",
+        "35%",
+        "35 %"
+      ],
+      "explanation": "**Đáp án: 35.** Tỉ trọng = (280 : 800) × 100 = **35%**.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c44",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Năm 2023, cả nước đạt sản lượng lương thực có hạt 48 triệu tấn, dân số 98 triệu người. Tính bình quân lương thực đầu người (kg/người, làm tròn đến hàng đơn vị).",
+      "options": [],
+      "correctAnswer": [
+        "490",
+        "490 kg",
+        "490 kg/người"
+      ],
+      "explanation": "**Đáp án: 490.** 48 triệu tấn = 48 000 000 000 kg; chia cho 98 000 000 người ≈ **490 kg/người/năm**.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c45",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Một vùng có diện tích tự nhiên 9 000 nghìn ha, diện tích có rừng 3 600 nghìn ha. Tính tỉ lệ che phủ rừng của vùng (% , làm tròn đến hàng đơn vị).",
+      "options": [],
+      "correctAnswer": [
+        "40",
+        "40%",
+        "40 %"
+      ],
+      "explanation": "**Đáp án: 40.** (3 600 : 9 000) × 100 = **40%**.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c46",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Năm 2022, một quốc gia có giá trị xuất khẩu 340 tỷ USD và giá trị nhập khẩu 305 tỷ USD. Tính cán cân xuất nhập khẩu (tỷ USD).",
+      "options": [],
+      "correctAnswer": [
+        "35",
+        "35 tỷ",
+        "35 tỷ usd",
+        "+35"
+      ],
+      "explanation": "**Đáp án: 35.** Cán cân = 340 − 305 = **+35 tỷ USD** (dương nên là xuất siêu).",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c47",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Tổng kim ngạch xuất nhập khẩu của một nước đạt 720 tỷ USD, cán cân xuất nhập khẩu là −40 tỷ USD. Tính giá trị xuất khẩu (tỷ USD).",
+      "options": [],
+      "correctAnswer": [
+        "340",
+        "340 tỷ",
+        "340 tỷ usd"
+      ],
+      "explanation": "**Đáp án: 340.** Xuất khẩu = (tổng + cán cân) : 2 = (720 − 40) : 2 = **340 tỷ USD**; nhập khẩu = 380 tỷ USD.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c48",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Tỉ suất sinh của một vùng là 21‰ và tỉ suất tử là 6‰. Tính tỉ lệ gia tăng dân số tự nhiên của vùng (%, làm tròn đến hàng phần mười).",
+      "options": [],
+      "correctAnswer": [
+        "1,5",
+        "1.5",
+        "1,5%",
+        "1.5%"
+      ],
+      "explanation": "**Đáp án: 1,5.** Tỉ lệ gia tăng tự nhiên = (21 − 6) : 10 = **1,5%**.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c49",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Năm 2023, khu vực dịch vụ chiếm 42% trong tổng GDP của một tỉnh, biết GDP của tỉnh là 250 nghìn tỷ đồng. Tính giá trị GDP khu vực dịch vụ (nghìn tỷ đồng).",
+      "options": [],
+      "correctAnswer": [
+        "105",
+        "105 nghìn tỷ",
+        "105000 tỷ"
+      ],
+      "explanation": "**Đáp án: 105.** 42% × 250 = **105 nghìn tỷ đồng**.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia-kn-c50",
+      "partName": "Phần III. Trả lời ngắn",
+      "topic": "topic-dia-thuc-hanh",
+      "type": "FILL_IN",
+      "content": "Diện tích gieo trồng cây công nghiệp lâu năm của một vùng tăng từ 650 nghìn ha (năm 2010) lên 975 nghìn ha (năm 2022). Tính tốc độ tăng trưởng, lấy năm 2010 = 100% (đơn vị %, làm tròn đến hàng đơn vị).",
+      "options": [],
+      "correctAnswer": [
+        "150",
+        "150%",
+        "150 %"
+      ],
+      "explanation": "**Đáp án: 150.** (975 : 650) × 100 = **150%**, tức diện tích tăng 50% sau 12 năm.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "địa lí 12",
+        "kĩ năng địa lí",
+        "tính toán"
+      ]
+    }
+  ]
+}
