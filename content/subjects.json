@@ -108,7 +108,7 @@
       "id": "tieng-anh",
       "name": "Tiếng Anh",
       "slug": "tieng-anh",
-      "description": "Tiếng Anh lớp 12: ngữ pháp trọng tâm, mạo từ, cụm động từ, giới từ và luyện đề tổng hợp.",
+      "description": "Tiếng Anh lớp 12: ngữ pháp trọng tâm, mạo từ, cụm động từ, giới từ, luyện đề tổng hợp và đề thi giữa kì 1 của trường.",
       "order": 3,
       "topics": [
         {
@@ -152,6 +152,13 @@
           "slug": "luyen-de-tong-hop",
           "description": "Đề tổng hợp thì, dạng động từ, mạo từ, collocation và thành ngữ.",
           "order": 6
+        },
+        {
+          "id": "topic-anh-gk1",
+          "name": "Ôn thi giữa kì 1",
+          "slug": "on-thi-giua-ki-1",
+          "description": "Đề giữa kì 1 của trường: điền vào chỗ trống trong bài viết, đọc hiểu, sắp xếp đoạn văn và từ vựng chủ đề môi trường – đa dạng văn hoá.",
+          "order": 7
         }
       ]
     },
