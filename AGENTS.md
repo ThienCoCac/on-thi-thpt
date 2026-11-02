@@ -48,18 +48,18 @@ Một bộ test in ra `0/0 kiểm tra` hoặc "không đọc được dòng tổ
 
 Script ánh xạ tự động, nắm quy tắc để đoán thời gian:
 
-- `lib/**`, `content/subjects.json`, `app/globals.css`, `tailwind.config.ts`, `next.config.mjs`, `package.json`, `components/ui/**` → chạy hết 10 bộ (lõi dữ liệu/chấm điểm/style toàn site).
+- `lib/**`, `content/subjects.json`, `app/globals.css`, `tailwind.config.ts`, `next.config.mjs`, `package.json`, `components/ui/**` → chạy hết 11 bộ (lõi dữ liệu/chấm điểm/style toàn site).
 - `app/**`, `components/**`, `public/**` → `static` + `features`.
 - `content/exams/de-<môn>.json` → bộ test của môn đó + `static` + `features` (đổi số câu làm đổi tổng ở trang danh sách).
 - `docs/**`, `scripts/**`, `README.md`, `AGENTS.md` → không cần mở trình duyệt (`--scope=none`).
 
-Mười bộ test puppeteer và số kiểm tra hiện tại: `static` 37, `features` 92, `van` 44, `ktpl` 24,
-`anh` 40, `mini` 27, `su` 19, `vact` 18, `dia` 46, `tinhoc` 49; bộ `live` 37 kiểm tra trên bản Cloudflare.
-File đặt ngoài repo, trong `C:/Users/trinh/.qoder/tmp/` (`shot/`, `su/`, `ktpl/`, `english/`, `vact/`, `dia/`, `tinhoc/`).
+Mười một bộ test puppeteer và số kiểm tra hiện tại: `static` 37, `features` 92, `van` 44, `ktpl` 24,
+`anh` 40, `mini` 27, `su` 19, `vact` 18, `dia` 46, `tinhoc` 49, `toan` 88; bộ `live` 37 kiểm tra trên bản Cloudflare.
+File đặt ngoài repo, trong `C:/Users/trinh/.qoder/tmp/` (`shot/`, `su/`, `ktpl/`, `english/`, `vact/`, `dia/`, `tinhoc/`, `toan/`).
 Nếu mất file, verify.mjs in `THIẾU FILE` và tính là lỗi — tuyệt đối không xóa kiểm tra để "cho qua".
 
 Thêm tính năng mới thì thêm `check(...)` vào bộ test liên quan; đổi nội dung đề thì cập nhật các con số
-đang hard-code trong bộ test (41 đề, 1.548 câu, số câu mỗi đề).
+đang hard-code trong bộ test (49 đề, 1.884 câu, số câu mỗi đề).
 
 ## Giữ tốc độ
 
