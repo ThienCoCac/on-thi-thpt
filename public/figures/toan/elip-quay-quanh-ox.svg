@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 256" width="352" height="256" font-family="'Times New Roman','Segoe UI',serif">
+<rect width="352" height="256" fill="#ffffff"/>
+<line x1="30" y1="132" x2="326" y2="132" stroke="#6b7280" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<path d="M 326 132 l -9 -4.5 l 0 9 z" stroke="none" stroke-width="1.6" fill="#6b7280" stroke-linecap="round"/>
+<line x1="176" y1="30" x2="176" y2="226" stroke="#6b7280" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<path d="M 176 30 l -4.5 9 l 9 0 z" stroke="none" stroke-width="1.6" fill="#6b7280" stroke-linecap="round"/>
+<ellipse cx="176" cy="132" rx="120" ry="80" stroke="#1f2937" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+<path d="M 56 132 A 120 80 0 0 1 296 132 Z" stroke="none" stroke-width="1.6" fill="rgba(37,99,235,.12)" stroke-linecap="round"/>
+<line x1="56" y1="116" x2="296" y2="116" stroke="#dc2626" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-dasharray="5 4"/>
+<line x1="56" y1="148" x2="296" y2="148" stroke="#dc2626" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-dasharray="5 4"/>
+<text x="322" y="120" font-size="14" fill="#6b7280" text-anchor="middle" font-style="italic">x</text>
+<text x="162" y="150" font-size="14" fill="#111827" text-anchor="middle">O</text>
+<text x="182" y="26" font-size="14" fill="#6b7280" text-anchor="middle" font-style="italic">y</text>
+<text x="52" y="152" font-size="12" fill="#111827" text-anchor="middle">-1,5</text>
+<text x="300" y="152" font-size="12" fill="#111827" text-anchor="middle">1,5</text>
+<text x="184" y="48" font-size="12" fill="#111827" text-anchor="middle">1</text>
+<text x="290" y="108" font-size="12" fill="#dc2626" text-anchor="end">0,2 cm</text>
+<text x="176" y="240" font-size="12" fill="#4b5563" text-anchor="middle">Nửa trên elip quay quanh trục Ox; khoan lỗ dọc theo trục</text>
+</svg>

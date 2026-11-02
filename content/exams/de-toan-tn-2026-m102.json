@@ -1,0 +1,938 @@
+{
+  "id": "exam-toan-tn-2026-m102",
+  "title": "Đề thi tốt nghiệp THPT môn Toán 2026 – mã đề 102",
+  "slug": "de-toan-tn-2026-m102",
+  "description": "Đề chính thức tốt nghiệp THPT môn Toán năm 2026, mã đề 102 theo Chương trình 2018: 12 câu trắc nghiệm bốn lựa chọn, 4 câu đúng – sai (tách thành 16 nhận định) và 6 câu trả lời ngắn, làm trong 90 phút, kèm lời giải tự viết.",
+  "subject": "toan",
+  "type": "FULL_EXAM",
+  "durationMinutes": 90,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TN-TOAN-2026-102",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-02T00:00:00.000Z",
+  "updatedAt": "2026-11-02T14:30:13.636Z",
+  "questions": [
+    {
+      "id": "de-toan-tn-2026-m102-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình lập phương $ABCD.A'B'C'D'$. Vectơ nào sau đây bằng vectơ $\\overrightarrow{AD}$?",
+      "imageUrl": "/figures/toan/kh-lap-phuong-abcd.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{AB}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{AA'}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{CD}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{B'C'}$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trong hình vuông $ABCD$ thì $AD \\parallel BC$ và hai vectơ cùng hướng, nên $\\overrightarrow{AD} = \\overrightarrow{BC}$. Mặt bên $BCC'B'$ là hình bình hành nên $\\overrightarrow{BC} = \\overrightarrow{B'C'}$. Vì vậy $\\overrightarrow{AD} = \\overrightarrow{B'C'}$. Hai vectơ $\\overrightarrow{AB}$ và $\\overrightarrow{AA'}$ có giá vuông góc với $AD$, còn $\\overrightarrow{CD} = -\\overrightarrow{AB}$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "vectơ trong không gian",
+        "hình lập phương"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các hàm số $y = f(x)$ và $y = g(x)$ có đạo hàm trên $\\mathbb{R}$ thỏa mãn $f'(x) = 2x$ và $g'(x) = x^2$. Đạo hàm của hàm số $y = f(x) + g(x)$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4x$"
+        },
+        {
+          "key": "B",
+          "text": "$2x + x^2$"
+        },
+        {
+          "key": "C",
+          "text": "$2 + 2x$"
+        },
+        {
+          "key": "D",
+          "text": "$2 + x^2$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo quy tắc cộng đạo hàm, với mọi $x \\in \\mathbb{R}$ ta có $(f(x) + g(x))' = f'(x) + g'(x) = 2x + x^2$. Phương án $4x$ sinh ra từ việc nhầm với $2 \\cdot 2x$, còn $2 + 2x$ và $2 + x^2$ trộn lẫn đạo hàm của $2x$ với chính $x^2$ chứ không cộng đúng hai đạo hàm đã cho.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "đạo hàm",
+        "quy tắc tính đạo hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho hai điểm $A(2;3;1)$ và $B(4;1;1)$. Vectơ $\\overrightarrow{AB}$ có tọa độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(3;2;1)$"
+        },
+        {
+          "key": "B",
+          "text": "$(-2;2;0)$"
+        },
+        {
+          "key": "C",
+          "text": "$(6;4;2)$"
+        },
+        {
+          "key": "D",
+          "text": "$(2;-2;0)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "$\\overrightarrow{AB} = (x_B - x_A;\\, y_B - y_A;\\, z_B - z_A) = (4 - 2;\\, 1 - 3;\\, 1 - 1) = (2;-2;0)$. Phương án $(-2;2;0)$ là tọa độ của $\\overrightarrow{BA}$, phương án $(6;4;2)$ là $\\overrightarrow{OA} + \\overrightarrow{OB}$ còn $(3;2;1)$ là trung điểm của $AB$ bị viết nhầm thành tọa độ vectơ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "hệ tọa độ Oxyz",
+        "vectơ trong không gian"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $\\int f(x)\\,dx = \\sin x + C$. Phát biểu nào sau đây là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\int (2 + f(x))\\,dx = 2x - \\sin x + C$"
+        },
+        {
+          "key": "B",
+          "text": "$\\int (2 + f(x))\\,dx = 2x + \\sin x + C$"
+        },
+        {
+          "key": "C",
+          "text": "$\\int (2 + f(x))\\,dx = 2x + \\cos x + C$"
+        },
+        {
+          "key": "D",
+          "text": "$\\int (2 + f(x))\\,dx = 2x - \\cos x + C$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nguyên hàm của một tổng bằng tổng các nguyên hàm và $\\int 2\\,dx = 2x$, nên $\\int (2 + f(x))\\,dx = 2x + \\sin x + C$. Kiểm tra lại: từ giả thiết $\\int f(x)\\,dx = \\sin x + C$ suy ra $f(x) = \\cos x$, mà $(2x + \\sin x)' = 2 + \\cos x$, đúng bằng biểu thức cần nguyên hàm. Phương án chứa $+\\cos x$ là nguyên hàm của $2 - \\sin x$, còn phương án chứa $-\\cos x$ là nguyên hàm của $2 + \\sin x$, tức đã nhầm $f(x) = \\sin x$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "nguyên hàm",
+        "tính chất tuyến tính"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cấp số nhân $(u_n)$ có số hạng đầu $u_1$ và công bội $q$ với $u_1 \\neq 0$, $q > 1$. Số hạng $u_3$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$u_3 = u_1 \\cdot q^3$"
+        },
+        {
+          "key": "B",
+          "text": "$u_3 = u_1 + 2q$"
+        },
+        {
+          "key": "C",
+          "text": "$u_3 = u_1 \\cdot q^2$"
+        },
+        {
+          "key": "D",
+          "text": "$u_3 = u_1 + 3q$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Số hạng tổng quát của cấp số nhân là $u_n = u_1 \\cdot q^{n-1}$, do đó $u_3 = u_1 \\cdot q^{3-1} = u_1 \\cdot q^2$. Hai công thức chứa tổng $u_1 + 2q$, $u_1 + 3q$ là của cấp số cộng; còn $u_1 \\cdot q^3$ là số hạng $u_4$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "cấp số nhân"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Nghiệm của phương trình $\\log_3(3x) = 2$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x = 2$"
+        },
+        {
+          "key": "B",
+          "text": "$x = 3$"
+        },
+        {
+          "key": "C",
+          "text": "$x = \\dfrac{8}{3}$"
+        },
+        {
+          "key": "D",
+          "text": "$x = \\dfrac{2}{3}$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Điều kiện của phương trình là $3x > 0$, tức $x > 0$. Chuyển sang dạng mũ: $\\log_3(3x) = 2 \\iff 3x = 3^2 = 9 \\iff x = 3$, giá trị này thỏa mãn điều kiện. Thử lại $\\log_3(3 \\cdot 3) = \\log_3 9 = 2$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "phương trình logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cấp số cộng $(u_n)$ có $u_1 = -2$ và công sai $d = 3$. Giá trị của $u_2$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$1$"
+        },
+        {
+          "key": "B",
+          "text": "$-1$"
+        },
+        {
+          "key": "C",
+          "text": "$-6$"
+        },
+        {
+          "key": "D",
+          "text": "$-5$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Muốn thu được số hạng kế tiếp của cấp số cộng ta cộng thêm một công sai: $u_2 = u_1 + d = -2 + 3 = 1$. Phương án $-6$ là tích $u_1 \\cdot d$, còn $-5$ ứng với $u_1 - d$, tức số hạng $u_0$ đứng trước $u_1$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "cấp số cộng"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số $F(x) = 5x^3$ là một nguyên hàm của hàm số nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$f_2(x) = 5x^2$"
+        },
+        {
+          "key": "B",
+          "text": "$f_4(x) = 5x^4$"
+        },
+        {
+          "key": "C",
+          "text": "$f_3(x) = 15x^2$"
+        },
+        {
+          "key": "D",
+          "text": "$f_1(x) = \\dfrac{5x^4}{4}$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "$F(x)$ là một nguyên hàm của $f(x)$ khi và chỉ khi $F'(x) = f(x)$. Ở đây $F'(x) = (5x^3)' = 15x^2$, vậy hàm số cần tìm là $f(x) = 15x^2$. Phương án $\\dfrac{5x^4}{4}$ là một nguyên hàm của $5x^3$ (nguyên hàm cấp hai), không phải đạo hàm của nó.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "nguyên hàm",
+        "đạo hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hai biến cố độc lập $A$ và $B$ có xác suất thỏa mãn $P(A) = 0{,}3$ và $P(B) = 0{,}6$. Giá trị của $P(AB)$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$0{,}9$"
+        },
+        {
+          "key": "B",
+          "text": "$0{,}3$"
+        },
+        {
+          "key": "C",
+          "text": "$0{,}18$"
+        },
+        {
+          "key": "D",
+          "text": "$0{,}5$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vì $A$ và $B$ độc lập nên $P(AB) = P(A) \\cdot P(B) = 0{,}3 \\cdot 0{,}6 = 0{,}18$. Giá trị $0{,}9$ là tổng $P(A) + P(B)$, chỉ xuất hiện khi xét hợp của hai biến cố xung khắc; hiệu $0{,}6 - 0{,}3 = 0{,}3$ và $0{,}5$ không có ý nghĩa với tích xác suất.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "xác suất",
+        "biến cố độc lập"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cặp số nào sau đây là nghiệm của hệ bất phương trình $\\begin{cases}x + y - 2 < 0 \\\\ x - y + 2 > 0\\end{cases}$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(1;0)$"
+        },
+        {
+          "key": "B",
+          "text": "$(0;3)$"
+        },
+        {
+          "key": "C",
+          "text": "$(-3;0)$"
+        },
+        {
+          "key": "D",
+          "text": "$(1;2)$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thử trực tiếp từng cặp vào cả hai bất phương trình. Với $(1;0)$: $1 + 0 - 2 = -1 < 0$ và $1 - 0 + 2 = 3 > 0$, thỏa mãn. Với $(0;3)$ và $(1;2)$ thì $x + y - 2$ lần lượt bằng $1$ và $1$, không nhỏ hơn $0$. Với $(-3;0)$ thì $x - y + 2 = -1$, không lớn hơn $0$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "hệ bất phương trình bậc nhất hai ẩn"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Khảo sát thời gian (đơn vị: phút) học trực tuyến trong một ngày của 42 học sinh, người ta thu được mẫu số liệu ghép nhóm như bảng. Trung vị của mẫu số liệu trên thuộc nhóm nào sau đây?",
+      "imageUrl": "/figures/toan/bts-nhom-42-hoc-sinh.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$[40;\\,50)$"
+        },
+        {
+          "key": "B",
+          "text": "$[20;\\,30)$"
+        },
+        {
+          "key": "C",
+          "text": "$[30;\\,40)$"
+        },
+        {
+          "key": "D",
+          "text": "$[50;\\,60)$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cỡ mẫu là $n = 4 + 10 + 16 + 12 = 42$, nên trung vị là giá trị đứng ở chính giữa, tức sau $\\frac{n}{2} = 21$ quan sát đầu tiên. Tần số tích lũy đến hết nhóm $[20;30)$ là $4 + 10 = 14 < 21$, đến hết nhóm $[30;40)$ là $14 + 16 = 30 \\ge 21$, vậy trung vị nằm trong nhóm $[30;40)$. Tính cụ thể: $M = 30 + \\frac{21 - 14}{16} \\cdot 10 = 34{,}375$ phút.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "trung vị",
+        "mẫu số liệu ghép nhóm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = \\dfrac{ax + b}{cx + d}$ $(c \\neq 0,\\ ad - bc \\neq 0)$ có bảng biến thiên như hình. Đường tiệm cận đứng của đồ thị hàm số đã cho có phương trình là",
+      "imageUrl": "/figures/toan/bbt-ham-phan-thuc.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x = -2$"
+        },
+        {
+          "key": "B",
+          "text": "$y = 1$"
+        },
+        {
+          "key": "C",
+          "text": "$y = -2$"
+        },
+        {
+          "key": "D",
+          "text": "$x = 1$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tiệm cận đứng là đường thẳng đứng đi qua hoành độ tại đó hàm số không xác định và có giới hạn một phía bằng vô cực. Bảng biến thiên dừng lại ở $x = 1$ với giới hạn hai phía là vô cực, nên tiệm cận đứng là $x = 1$; giá trị này đúng bằng nghiệm của $cx + d = 0$. Các phương án viết dưới dạng $y = m$ là tiệm cận ngang, với $m = \\frac{a}{c}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tiệm cận",
+        "hàm phân thức bậc nhất"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c13",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 13, ý a.** Một hệ thống pin năng lượng mặt trời gồm các tấm pin được kết nối với một bộ lưu trữ điện. Gọi $F(t)$ là năng lượng điện (kWh) lưu trữ được từ thời điểm hệ thống bắt đầu hoạt động đến thời điểm $t$, trong đó $t$ là thời gian tính theo giờ ($0\\le t\\le12$) và thời điểm bắt đầu hoạt động ứng với $t=0$. Biết $F(0)=0$. Tốc độ lưu trữ năng lượng điện (kW) của hệ thống là hàm số $f(t)=F'(t)$ với $0\\le t\\le12$, cho thấy $f(t)=-0{,}15t^2+1{,}8t$ với $0\\le t\\le12$. Nhận định: “$F(t)=-0{,}05t^3+0{,}9t^2$ với $0\\le t\\le12$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lấy nguyên hàm hai vế: $F(t) = \\int (-0{,}15t^2 + 1{,}8t)\\,dt = -0{,}05t^3 + 0{,}9t^2 + C$. Điều kiện $F(0) = 0$ buộc $C = 0$, nên công thức trong nhận định là chính xác. Thử lại: $(-0{,}05t^3 + 0{,}9t^2)' = -0{,}15t^2 + 1{,}8t = f(t)$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "nguyên hàm",
+        "toán thực tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c14",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 13, ý b.** Một hệ thống pin năng lượng mặt trời gồm các tấm pin được kết nối với một bộ lưu trữ điện. Gọi $F(t)$ là năng lượng điện (kWh) lưu trữ được từ thời điểm hệ thống bắt đầu hoạt động đến thời điểm $t$, trong đó $t$ là thời gian tính theo giờ ($0\\le t\\le12$) và thời điểm bắt đầu hoạt động ứng với $t=0$. Biết $F(0)=0$. Tốc độ lưu trữ năng lượng điện (kW) của hệ thống là hàm số $f(t)=F'(t)$ với $0\\le t\\le12$, cho thấy $f(t)=-0{,}15t^2+1{,}8t$ với $0\\le t\\le12$. Nhận định: “Năng lượng điện (kWh) lưu trữ được từ thời điểm $t=a$ đến thời điểm $t=b$ ($0\\le a<b\\le12$) là $\\int_a^b f(t)\\,dt$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vì $f = F'$ nên theo định lý cơ bản của giải tích, $\\int_a^b f(t)\\,dt = F(b) - F(a)$, đúng bằng lượng điện tăng thêm từ thời điểm $a$ đến thời điểm $b$. Đơn vị cũng khớp: tốc độ tính bằng kW nhân với thời gian tính bằng giờ cho năng lượng tính bằng kWh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "tích phân",
+        "toán thực tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c15",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 13, ý c.** Một hệ thống pin năng lượng mặt trời gồm các tấm pin được kết nối với một bộ lưu trữ điện. Gọi $F(t)$ là năng lượng điện (kWh) lưu trữ được từ thời điểm hệ thống bắt đầu hoạt động đến thời điểm $t$, trong đó $t$ là thời gian tính theo giờ ($0\\le t\\le12$) và thời điểm bắt đầu hoạt động ứng với $t=0$. Biết $F(0)=0$. Tốc độ lưu trữ năng lượng điện (kW) của hệ thống là hàm số $f(t)=F'(t)$ với $0\\le t\\le12$, cho thấy $f(t)=-0{,}15t^2+1{,}8t$ với $0\\le t\\le12$. Nhận định: “Năng lượng điện lưu trữ được từ $t=1$ đến $t=5$ nhỏ hơn 15,3 kWh.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "$F(5) = -0{,}05 \\cdot 125 + 0{,}9 \\cdot 25 = -6{,}25 + 22{,}5 = 16{,}25$ và $F(1) = -0{,}05 + 0{,}9 = 0{,}85$. Lượng điện tích lũy từ $t = 1$ đến $t = 5$ bằng $16{,}25 - 0{,}85 = 15{,}4$ kWh. Vì $15{,}4 > 15{,}3$ nên phát biểu \"nhỏ hơn $15{,}3$ kWh\" là sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tích phân",
+        "toán thực tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c16",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 13, ý d.** Một hệ thống pin năng lượng mặt trời gồm các tấm pin được kết nối với một bộ lưu trữ điện. Gọi $F(t)$ là năng lượng điện (kWh) lưu trữ được từ thời điểm hệ thống bắt đầu hoạt động đến thời điểm $t$, trong đó $t$ là thời gian tính theo giờ ($0\\le t\\le12$) và thời điểm bắt đầu hoạt động ứng với $t=0$. Biết $F(0)=0$. Tốc độ lưu trữ năng lượng điện (kW) của hệ thống là hàm số $f(t)=F'(t)$ với $0\\le t\\le12$, cho thấy $f(t)=-0{,}15t^2+1{,}8t$ với $0\\le t\\le12$. Nhận định: “Năng lượng điện lưu trữ được từ $t=1$ đến $t=9$ gấp hai lần năng lượng điện lưu trữ được từ $t=1$ đến $t=5$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "$F(9) = -0{,}05 \\cdot 729 + 0{,}9 \\cdot 81 = -36{,}45 + 72{,}9 = 36{,}45$, nên lượng điện từ $t = 1$ đến $t = 9$ là $36{,}45 - 0{,}85 = 35{,}6$ kWh. Lượng điện từ $t = 1$ đến $t = 5$ bằng $15{,}4$ kWh và hai lần nó là $30{,}8$ kWh. Vì $35{,}6 \\ne 30{,}8$ nên nhận định sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tích phân",
+        "toán thực tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c17",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 14, ý a.** Cho hàm số $f(x)=\\dfrac{1}{3}x^3-2x^2+3x+8$. Nhận định: “Đạo hàm của hàm số đã cho là $f'(x)=x^2-4x+3$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tính từng số hạng: $\\left(\\frac{1}{3}x^3\\right)' = x^2$, $(-2x^2)' = -4x$, $(3x)' = 3$ và đạo hàm của hằng số $8$ bằng $0$. Cộng lại thu được $f'(x) = x^2 - 4x + 3$, đúng như nhận định.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "đạo hàm",
+        "hàm số bậc ba"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c18",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 14, ý b.** Cho hàm số $f(x)=\\dfrac{1}{3}x^3-2x^2+3x+8$. Nhận định: “Phương trình $f'(x)=0$ có tập nghiệm là $S=\\{1;\\,3\\}$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "$f'(x) = 0 \\iff x^2 - 4x + 3 = 0 \\iff (x - 1)(x - 3) = 0 \\iff x = 1$ hoặc $x = 3$. Tam thức bậc hai này có hai nghiệm phân biệt nên tập nghiệm đầy đủ là $S = \\{1; 3\\}$, nhận định đúng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "đạo hàm",
+        "phương trình bậc hai"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c19",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 14, ý c.** Cho hàm số $f(x)=\\dfrac{1}{3}x^3-2x^2+3x+8$. Nhận định: “Hàm số đã cho nghịch biến trên khoảng $(1;\\,3)$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với $x \\in (1;3)$ ta có $x - 1 > 0$ và $x - 3 < 0$, vì thế $f'(x) = (x - 1)(x - 3) < 0$ trên cả khoảng. Đạo hàm âm nên hàm số nghịch biến trên $(1;3)$, nhận định đúng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "chiều biến thiên",
+        "đạo hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c20",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 14, ý d.** Cho hàm số $f(x)=\\dfrac{1}{3}x^3-2x^2+3x+8$. Nhận định: “Giá trị cực tiểu của hàm số đã cho bằng $\\dfrac{28}{3}$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm đổi dấu từ dương sang âm tại $x = 1$ (cực đại) và từ âm sang dương tại $x = 3$ (cực tiểu). Giá trị cực tiểu là $f(3) = 9 - 18 + 9 + 8 = 8$, còn $\\dfrac{28}{3} = 9{,}333\\ldots$ chính là $f(1)$, tức giá trị cực đại. Nhận định đã nhầm giữa cực đại và cực tiểu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "cực trị",
+        "hàm số bậc ba"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c21",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 15, ý a.** Nhằm đưa ra cảnh báo sớm về tình trạng sức khỏe của cư dân, người ta sử dụng một ứng dụng trí tuệ nhân tạo để sàng lọc nguy cơ mắc bệnh dựa trên hồ sơ y tế được lưu trữ. Khi phát hiện nguy cơ mắc bệnh, ứng dụng này sẽ gửi cảnh báo để giúp người dân đi khám bệnh kịp thời. Người ta dùng ứng dụng này để tầm soát nguy cơ mắc một loại bệnh. Kết quả thu được khi quét thử nghiệm hồ sơ y tế của 10000 người như sau: Có 1000 người nhận được cảnh báo và 9000 người còn lại không nhận được cảnh báo. Trong số 1000 người nhận được cảnh báo thì có 600 người có bệnh và 400 người không có bệnh. Trong số 9000 người không nhận được cảnh báo thì có 200 người có bệnh và 8800 người không có bệnh. Chọn ngẫu nhiên một người trong số 10000 người nói trên. Nhận định: “Xác suất để người đó không nhận được cảnh báo từ ứng dụng bằng 0,9.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Có đúng $9000$ người không nhận cảnh báo trong tổng số $10000$ người, nên theo định nghĩa cổ điển của xác suất, biến cố này có xác suất $\\frac{9000}{10000} = 0{,}9$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "xác suất",
+        "biến cố"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c22",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 15, ý b.** Nhằm đưa ra cảnh báo sớm về tình trạng sức khỏe của cư dân, người ta sử dụng một ứng dụng trí tuệ nhân tạo để sàng lọc nguy cơ mắc bệnh dựa trên hồ sơ y tế được lưu trữ. Khi phát hiện nguy cơ mắc bệnh, ứng dụng này sẽ gửi cảnh báo để giúp người dân đi khám bệnh kịp thời. Người ta dùng ứng dụng này để tầm soát nguy cơ mắc một loại bệnh. Kết quả thu được khi quét thử nghiệm hồ sơ y tế của 10000 người như sau: Có 1000 người nhận được cảnh báo và 9000 người còn lại không nhận được cảnh báo. Trong số 1000 người nhận được cảnh báo thì có 600 người có bệnh và 400 người không có bệnh. Trong số 9000 người không nhận được cảnh báo thì có 200 người có bệnh và 8800 người không có bệnh. Chọn ngẫu nhiên một người trong số 10000 người nói trên. Nhận định: “Xác suất để người đó không có bệnh, biết rằng người đó không nhận được cảnh báo từ ứng dụng, lớn hơn 0,97.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đây là xác suất có điều kiện, chỉ tính trong nhóm 9000 người không nhận cảnh báo. Trong nhóm đó có 8800 người không có bệnh, vậy xác suất bằng $\\frac{8800}{9000} = \\frac{44}{45} \\approx 0{,}978$, lớn hơn $0{,}97$.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xác suất có điều kiện"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c23",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 15, ý c.** Nhằm đưa ra cảnh báo sớm về tình trạng sức khỏe của cư dân, người ta sử dụng một ứng dụng trí tuệ nhân tạo để sàng lọc nguy cơ mắc bệnh dựa trên hồ sơ y tế được lưu trữ. Khi phát hiện nguy cơ mắc bệnh, ứng dụng này sẽ gửi cảnh báo để giúp người dân đi khám bệnh kịp thời. Người ta dùng ứng dụng này để tầm soát nguy cơ mắc một loại bệnh. Kết quả thu được khi quét thử nghiệm hồ sơ y tế của 10000 người như sau: Có 1000 người nhận được cảnh báo và 9000 người còn lại không nhận được cảnh báo. Trong số 1000 người nhận được cảnh báo thì có 600 người có bệnh và 400 người không có bệnh. Trong số 9000 người không nhận được cảnh báo thì có 200 người có bệnh và 8800 người không có bệnh. Chọn ngẫu nhiên một người trong số 10000 người nói trên. Nhận định: “Xác suất để người đó không có bệnh bằng 0,9.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Số người không có bệnh gồm hai nhóm: $400$ người nhận cảnh báo nhưng không có bệnh và $8800$ người không nhận cảnh báo, không có bệnh; tổng cộng $9200$ người. Xác suất cần tìm là $\\frac{9200}{10000} = 0{,}92$, khác $0{,}9$. Giá trị $0{,}9$ là xác suất của biến cố \"không nhận được cảnh báo\".",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xác suất",
+        "công thức xác suất toàn phần"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c24",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 15, ý d.** Nhằm đưa ra cảnh báo sớm về tình trạng sức khỏe của cư dân, người ta sử dụng một ứng dụng trí tuệ nhân tạo để sàng lọc nguy cơ mắc bệnh dựa trên hồ sơ y tế được lưu trữ. Khi phát hiện nguy cơ mắc bệnh, ứng dụng này sẽ gửi cảnh báo để giúp người dân đi khám bệnh kịp thời. Người ta dùng ứng dụng này để tầm soát nguy cơ mắc một loại bệnh. Kết quả thu được khi quét thử nghiệm hồ sơ y tế của 10000 người như sau: Có 1000 người nhận được cảnh báo và 9000 người còn lại không nhận được cảnh báo. Trong số 1000 người nhận được cảnh báo thì có 600 người có bệnh và 400 người không có bệnh. Trong số 9000 người không nhận được cảnh báo thì có 200 người có bệnh và 8800 người không có bệnh. Chọn ngẫu nhiên một người trong số 10000 người nói trên. Nhận định: “Xác suất để người đó không nhận được cảnh báo từ ứng dụng, biết rằng người đó không có bệnh, lớn hơn 0,95.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Xét trong nhóm $9200$ người không có bệnh, số người không nhận cảnh báo là $8800$, nên xác suất có điều kiện bằng $\\frac{8800}{9200} = \\frac{22}{23} \\approx 0{,}9565$, đúng là lớn hơn $0{,}95$.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "xác suất có điều kiện",
+        "công thức Bayes"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c25",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 16, ý a.** Trong không gian xét hệ tọa độ $Oxyz$ có một đơn vị dài trên các trục tương ứng với $10$ mét trên thực tế. Một mục tiêu cần được bảo vệ ở vị trí gốc tọa độ $O$. Người ta thiết lập một vành đai bảo vệ quanh mục tiêu theo đường tròn tâm $O$ bán kính bằng $6$ đơn vị (tương ứng $60$ mét) nằm trong mặt phẳng $(Oxy)$. Một máy bay không người lái (được coi như một hạt) bay theo đường thẳng từ vị trí $M(2;11;3)$ đến vị trí $N(14;2;3)$. Tại mỗi vị trí của máy bay, khoảng cách từ máy bay đến vành đai bảo vệ là độ dài ngắn nhất của các đoạn thẳng nối từ vị trí đó đến một điểm bất kỳ trên vành đai. Nhận định: “$\\overrightarrow{MN}=(12;-9;0)$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "$\\overrightarrow{MN} = (14 - 2;\\, 2 - 11;\\, 3 - 3) = (12; -9; 0)$. Hoành độ và tung độ thay đổi đúng như đã tính, còn cao độ bằng nhau nên thành phần theo trục $Oz$ bằng $0$: máy bay bay trên mặt phẳng $z = 3$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "hệ tọa độ Oxyz",
+        "vectơ trong không gian"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c26",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 16, ý b.** Trong không gian xét hệ tọa độ $Oxyz$ có một đơn vị dài trên các trục tương ứng với $10$ mét trên thực tế. Một mục tiêu cần được bảo vệ ở vị trí gốc tọa độ $O$. Người ta thiết lập một vành đai bảo vệ quanh mục tiêu theo đường tròn tâm $O$ bán kính bằng $6$ đơn vị (tương ứng $60$ mét) nằm trong mặt phẳng $(Oxy)$. Một máy bay không người lái (được coi như một hạt) bay theo đường thẳng từ vị trí $M(2;11;3)$ đến vị trí $N(14;2;3)$. Tại mỗi vị trí của máy bay, khoảng cách từ máy bay đến vành đai bảo vệ là độ dài ngắn nhất của các đoạn thẳng nối từ vị trí đó đến một điểm bất kỳ trên vành đai. Nhận định: “Phương trình tham số của đường thẳng $MN$ là $\\begin{cases}x=2+4t\\\\ y=11-3t\\\\ z=0\\end{cases}$ với $t\\in\\mathbb{R}$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vectơ chỉ phương $(4;-3;0)$ cùng phương với $\\overrightarrow{MN} = (12;-9;0)$ là hợp lý, nhưng mọi điểm của đường thẳng $MN$ đều có cao độ bằng $3$ (do $M$ và $N$ cùng có $z = 3$). Phương trình đúng phải là $x = 2 + 4t$, $y = 11 - 3t$, $z = 3$. Dòng $z = 0$ bị sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đường thẳng trong không gian",
+        "phương trình tham số"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c27",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 16, ý c.** Trong không gian xét hệ tọa độ $Oxyz$ có một đơn vị dài trên các trục tương ứng với $10$ mét trên thực tế. Một mục tiêu cần được bảo vệ ở vị trí gốc tọa độ $O$. Người ta thiết lập một vành đai bảo vệ quanh mục tiêu theo đường tròn tâm $O$ bán kính bằng $6$ đơn vị (tương ứng $60$ mét) nằm trong mặt phẳng $(Oxy)$. Một máy bay không người lái (được coi như một hạt) bay theo đường thẳng từ vị trí $M(2;11;3)$ đến vị trí $N(14;2;3)$. Tại mỗi vị trí của máy bay, khoảng cách từ máy bay đến vành đai bảo vệ là độ dài ngắn nhất của các đoạn thẳng nối từ vị trí đó đến một điểm bất kỳ trên vành đai. Nhận định: “Trong quá trình bay từ $M$ đến $N$, khoảng cách ngắn nhất từ máy bay đến vành đai bảo vệ là 100 mét.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Điểm chạy trên đoạn $MN$ có dạng $P(t) = (2 + 12t;\\, 11 - 9t;\\, 3)$ với $0 \\le t \\le 1$. Gọi $\\rho$ là khoảng cách từ hình chiếu vuông góc của $P(t)$ trên $(Oxy)$ đến $O$ thì $\\rho^2 = (2 + 12t)^2 + (11 - 9t)^2 = 225t^2 - 150t + 125$, đạt giá trị nhỏ nhất $100$ tại $t = \\frac{1}{3}$, tức $\\rho_{\\min} = 10$ đơn vị. Vì $\\rho \\ge 10 > 6$, khoảng cách từ $P(t)$ đến đường tròn bằng $\\sqrt{(\\rho - 6)^2 + 3^2}$, nhỏ nhất bằng $\\sqrt{16 + 9} = 5$ đơn vị, tức $50$ mét chứ không phải $100$ mét.",
+      "difficulty": "VERY_HARD",
+      "score": 0.25,
+      "tags": [
+        "hệ tọa độ Oxyz",
+        "khoảng cách",
+        "toán thực tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c28",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 16, ý d.** Trong không gian xét hệ tọa độ $Oxyz$ có một đơn vị dài trên các trục tương ứng với $10$ mét trên thực tế. Một mục tiêu cần được bảo vệ ở vị trí gốc tọa độ $O$. Người ta thiết lập một vành đai bảo vệ quanh mục tiêu theo đường tròn tâm $O$ bán kính bằng $6$ đơn vị (tương ứng $60$ mét) nằm trong mặt phẳng $(Oxy)$. Một máy bay không người lái (được coi như một hạt) bay theo đường thẳng từ vị trí $M(2;11;3)$ đến vị trí $N(14;2;3)$. Tại mỗi vị trí của máy bay, khoảng cách từ máy bay đến vành đai bảo vệ là độ dài ngắn nhất của các đoạn thẳng nối từ vị trí đó đến một điểm bất kỳ trên vành đai. Nhận định: “Trong quá trình bay từ $M$ đến $N$, khoảng cách từ máy bay đến vành đai bảo vệ là ngắn nhất khi máy bay ở vị trí có tọa độ là $(6;8;3)$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ta có $\\rho^2 = 225t^2 - 150t + 125$, một tam thức bậc hai đạt giá trị nhỏ nhất tại $t = \\frac{150}{2 \\cdot 225} = \\frac{1}{3}$, khi đó $\\rho^2 = 100$. Trên đoạn bay thì $\\rho \\ge 10 > 6$, nên $(\\rho - 6)^2 + 9$ nhỏ nhất đúng khi $\\rho$ nhỏ nhất. Vị trí tương ứng là $P\\left(\\frac{1}{3}\\right) = (2 + 4;\\, 11 - 3;\\, 3) = (6;8;3)$, khoảng cách nhỏ nhất bằng $5$ đơn vị, tức $50$ mét.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "hệ tọa độ Oxyz",
+        "giá trị nhỏ nhất",
+        "toán thực tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c29",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Để chế tác một hạt cườm, người ta lấy một khối vật thể có dạng một khối tròn xoay được tạo thành khi quay hình phẳng giới hạn bởi trục $Ox$ và nửa trên của elip $\\dfrac{x^2}{1{,}5^2} + \\dfrac{y^2}{1^2} = 1$ (một đơn vị dài trên mỗi trục tọa độ tương ứng với một cm trong thực tế) quanh trục $Ox$; sau đó khoan dọc theo trục xoay. Lỗ khoan có dạng hình trụ với bán kính $0{,}1$ cm và có trục nằm trên trục xoay. Phần còn lại sau khi khoan là hạt cườm, có dạng một khối tròn xoay. Thể tích của hạt cườm đó bằng bao nhiêu cm khối (chỉ làm tròn kết quả cuối cùng đến hàng phần trăm)?",
+      "imageUrl": "/figures/toan/elip-quay-quanh-ox.svg",
+      "options": [],
+      "correctAnswer": [
+        "6,19",
+        "6.19"
+      ],
+      "explanation": "Cắt khối tròn xoay bởi mặt phẳng vuông góc với trục $Ox$ tại hoành độ $x$ ta được hình vành khăn có bán kính lớn $y = \\sqrt{1 - \\frac{x^2}{2{,}25}}$ và bán kính nhỏ $0{,}1$. Lỗ khoan chỉ xuyên qua phần elip có $y \\ge 0{,}1$, tức $|x| \\le x_0$ với $x_0 = 1{,}5\\sqrt{0{,}99} \\approx 1{,}49248$. Do đó $$V = \\pi \\int_{-x_0}^{x_0} \\left(1 - \\frac{x^2}{2{,}25} - 0{,}01\\right) dx = \\pi \\left(1{,}98 x_0 - \\frac{2x_0^3}{6{,}75}\\right) \\approx \\pi \\cdot 1{,}97001 \\approx 6{,}1892,$$ làm tròn đến hàng phần trăm được $6{,}19$ cm khối.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "khối tròn xoay",
+        "tích phân",
+        "thể tích"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c30",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Cho hình lập phương $ABCD.MNPQ$ có cạnh bằng $14$. Gọi $E$ là trung điểm của đoạn thẳng $AB$. Khoảng cách từ điểm $P$ đến mặt phẳng $(MED)$ bằng bao nhiêu (không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần mười)?",
+      "imageUrl": "/figures/toan/kh-lap-phuong-abcd-mnpq.svg",
+      "options": [],
+      "correctAnswer": [
+        "17,1",
+        "17.1"
+      ],
+      "explanation": "Gắn hệ trục với $A(0;0;0)$, $B(14;0;0)$, $D(0;14;0)$, $M(0;0;14)$, khi đó $C(14;14;0)$, $P(14;14;14)$ và $E(7;0;0)$. Từ $\\overrightarrow{EM} = (-7;0;14)$ và $\\overrightarrow{ED} = (-7;14;0)$, tích có hướng cho một vectơ pháp tuyến tỉ lệ với $(2;1;1)$, nên $(MED)$ có phương trình $2x + y + z - 14 = 0$. Thay tọa độ $P$ vào công thức khoảng cách: $$d = \\frac{|2 \\cdot 14 + 14 + 14 - 14|}{\\sqrt{2^2 + 1^2 + 1^2}} = \\frac{42}{\\sqrt{6}} = 7\\sqrt{6} \\approx 17{,}146,$$ làm tròn đến hàng phần mười được $17{,}1$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "khoảng cách",
+        "hình lập phương",
+        "hệ tọa độ Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c31",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Trong một trò chơi, bạn Bình cần điền tất cả 15 số thuộc tập hợp $\\{1;2;3;4;5;6;7;8;9;11;12;13;16;17;21\\}$ vào 15 ô vuông xếp như hình bên, thỏa mãn đồng thời ba điều kiện: (i) mỗi ô điền đúng một số và mỗi số chỉ được dùng một lần; (ii) hiệu của hai số ở hai ô bất kỳ khác nhau trong cùng một hàng không chia hết cho 5; (iii) hiệu của hai số ở hai ô bất kỳ khác nhau trong cùng một cột không chia hết cho 5. Gọi $H$ là số cách điền khác nhau để Bình vượt qua được thử thách. Giá trị của $\\dfrac{H}{10}$ bằng bao nhiêu?",
+      "imageUrl": "/figures/toan/luoi-15-o-bac-thang.svg",
+      "options": [],
+      "correctAnswer": [
+        "3456",
+        "3 456"
+      ],
+      "explanation": "Xét các số theo số dư khi chia cho 5: nhóm dư 1 có 5 số $\\{1;6;11;16;21\\}$, dư 2 có 4 số $\\{2;7;12;17\\}$, dư 3 có 3 số $\\{3;8;13\\}$, dư 4 có 2 số $\\{4;9\\}$ và dư 0 có 1 số $\\{5\\}$. Điều kiện (ii) và (iii) nói rằng hai ô cùng số dư phải khác hàng và khác cột. Bảng có 5 hàng với số ô lần lượt $5,4,3,2,1$; hàng cuối chỉ có một ô nên nhóm 5 số bắt buộc chiếm năm ô khác hàng, khác cột, và cách chọn đó là duy nhất (chéo ngoài cùng). Bỏ năm ô ấy đi, phần còn lại là một bảng bậc thang nhỏ hơn có số ô $4,3,2,1$, nên nhóm 4 số lại chiếm chéo ngoài cùng của nó, và tiếp tục như vậy. Do đó mỗi nhóm số dư được ấn định đúng một đường chéo, các ô trong cùng một đường chéo đôi một khác hàng và khác cột nên việc hoán vị các số trong nhóm là hoàn toàn tự do. Vì vậy $H = 5! \\cdot 4! \\cdot 3! \\cdot 2! \\cdot 1! = 34560$, suy ra $\\dfrac{H}{10} = 3456$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "tổ hợp",
+        "phép chia hết cho 5",
+        "đếm có điều kiện"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c32",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Một công ty nông sản có công suất chế biến không quá $180$ tấn nguyên liệu một tháng. Nếu công ty chế biến $x$ tấn nguyên liệu trong một tháng $(1 \\le x \\le 180)$ thì chi phí sản xuất và doanh thu lần lượt là $C(x) = 0{,}002x^3 + 30x + 20$ (triệu đồng) và $R(x) = 90x$ (triệu đồng). Lợi nhuận lớn nhất mà công ty đạt được trong một tháng là bao nhiêu triệu đồng?",
+      "options": [],
+      "correctAnswer": [
+        "3980",
+        "3 980"
+      ],
+      "explanation": "Lợi nhuận là $L(x) = R(x) - C(x) = -0{,}002x^3 + 60x - 20$ trên đoạn $[1;180]$. Đạo hàm $L'(x) = -0{,}006x^2 + 60$ triệt tiêu khi $x^2 = 10000$, tức $x = 100$; $L'$ dương trước và âm sau điểm này nên $L$ đạt giá trị lớn nhất tại $x = 100$. So sánh với hai đầu mút: $L(1) = 39{,}998$, $L(180) = -884$, còn $L(100) = -0{,}002 \\cdot 10^6 + 6000 - 20 = -2000 + 5980 = 3980$ triệu đồng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "giá trị lớn nhất",
+        "đạo hàm",
+        "toán kinh tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c33",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Một nông trại cung cấp rau quả cho siêu thị A với số liệu bán hàng của bốn ngày trong tuần được ghi lại trong bảng. Biết rằng đơn giá theo kg của mỗi loại rau quả trong bảng là không đổi. Tổng số tiền nông trại thu được ở ngày thứ Bảy từ ba loại rau quả trên khi cung cấp cho siêu thị A là bao nhiêu nghìn đồng?",
+      "imageUrl": "/figures/toan/bang-so-lieu-rau-qua-ngay-102.svg",
+      "options": [],
+      "correctAnswer": [
+        "1350",
+        "1 350"
+      ],
+      "explanation": "Gọi $a, b, c$ lần lượt là đơn giá (nghìn đồng mỗi kg) của rau muống, bí xanh và cà chua. Ba ngày đầu cho hệ phương trình $$\\begin{cases}4a + 3b + 5c = 770 \\\\ 6a + 2b + 4c = 880 \\\\ 5a + 7b + 6c = 1080\\end{cases}$$ Chia phương trình thứ hai cho $2$ rồi rút $b = 440 - 3a - 2c$. Thế vào phương trình thứ nhất: $4a + 1320 - 9a - 6c + 5c = 770$, tức $5a + c = 550$. Thế vào phương trình thứ ba: $5a + 3080 - 21a - 14c + 6c = 1080$, tức $2a + c = 250$. Trừ hai phương trình này được $3a = 300$, nên $a = 100$, $c = 50$ và $b = 440 - 300 - 100 = 40$. Kiểm tra lại hệ: $400 + 120 + 250 = 770$, $600 + 80 + 200 = 880$, $500 + 280 + 300 = 1080$ (đúng). Ngày thứ Bảy bán $8$ kg rau muống, $5$ kg bí xanh và $7$ kg cà chua, nên tổng số tiền là $8 \\cdot 100 + 5 \\cdot 40 + 7 \\cdot 50 = 800 + 200 + 350 = 1350$ nghìn đồng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "hệ phương trình bậc nhất",
+        "toán thực tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2026-m102-c34",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Một khung hình trang trí có dạng một đa giác đều 12 cạnh $A_1A_2 \\ldots A_{12}$ được gắn cố định trên trần nhà. Bạn Dung có 12 bóng đèn gồm bốn bóng màu đỏ và tám bóng màu xanh, có công suất đôi một khác nhau. Bạn Dung lắp ngẫu nhiên 12 bóng đèn vào 12 đỉnh sao cho mỗi đỉnh có đúng một bóng đèn. Gọi $P$ là xác suất để mỗi hình vuông (có bốn đỉnh là các đỉnh của đa giác đã cho) đều có ít nhất một bóng đèn màu đỏ. Giá trị của $4565P$ bằng bao nhiêu?",
+      "imageUrl": "/figures/toan/kh-giac-12-deu.svg",
+      "options": [],
+      "correctAnswer": [
+        "2656",
+        "2 656"
+      ],
+      "explanation": "Đa giác đều 12 cạnh chỉ có ba hình vuông nội tiếp là $A_1A_4A_7A_{10}$, $A_2A_5A_8A_{11}$ và $A_3A_6A_9A_{12}$; ba tập đỉnh này đôi một rời nhau và phủ kín 12 đỉnh. Vì công suất đôi một khác nhau chỉ quyết định cách gắn nhãn trong cùng một màu, xác suất chỉ phụ thuộc vào việc chọn 4 đỉnh mang đèn đỏ: không gian mẫu có $\\binom{12}{4} = 495$ cách. Biến cố bất lợi là một hình vuông nào đó không có đèn đỏ, tức bốn đèn đỏ nằm ngoài nó, có $\\binom{8}{4} = 70$ cách cho mỗi hình; hai hình cùng không có đèn đỏ nghĩa là bốn đèn đỏ nằm trọn ở hình còn lại, chỉ $1$ cách cho mỗi cặp; ba hình cùng không có đèn đỏ là không thể. Số cách bất lợi là $3 \\cdot 70 - 3 \\cdot 1 = 207$, số cách thuận lợi là $495 - 207 = 288$. Vậy $P = \\frac{288}{495} = \\frac{32}{55}$ và $4565P = 4565 \\cdot \\frac{32}{55} = 83 \\cdot 32 = 2656$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "xác suất",
+        "tổ hợp",
+        "đa giác đều"
+      ]
+    }
+  ]
+}

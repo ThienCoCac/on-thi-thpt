@@ -1,0 +1,935 @@
+{
+  "id": "exam-toan-tn-2025-m101",
+  "title": "Đề thi tốt nghiệp THPT môn Toán 2025 – mã đề 101",
+  "slug": "de-toan-tn-2025-m101",
+  "description": "Đề chính thức tốt nghiệp THPT môn Toán năm 2025, mã đề 101 theo Chương trình 2018: 12 câu trắc nghiệm bốn lựa chọn, 4 câu đúng – sai (tách thành 16 nhận định) và 6 câu trả lời ngắn, làm trong 90 phút, kèm lời giải tự viết.",
+  "subject": "toan",
+  "type": "FULL_EXAM",
+  "durationMinutes": 90,
+  "totalScore": 10,
+  "examYear": 2025,
+  "examCode": "TN-TOAN-2025-101",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-02T00:00:00.000Z",
+  "updatedAt": "2026-11-02T14:11:08.229Z",
+  "questions": [
+    {
+      "id": "de-toan-tn-2025-m101-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình lăng trụ $ABC.A'B'C'$ (xem hình dưới). Phát biểu nào sau đây là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BC'}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{C'B'}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BC}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{A'A}$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong hình lăng trụ, hai đáy là ảnh của nhau qua phép tịnh tiến theo vectơ cạnh bên nên $\\overrightarrow{A'C'} = \\overrightarrow{AC}$. Vì vậy $\\overrightarrow{BA} + \\overrightarrow{A'C'} = \\overrightarrow{BA} + \\overrightarrow{AC} = \\overrightarrow{BC}$ theo quy tắc ba điểm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "vectơ trong không gian",
+        "hình lăng trụ"
+      ],
+      "imageUrl": "/figures/toan/kh-lang-tru-tam-giac.svg"
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$ (xem hình dưới). Đường thẳng $AB$ song song với mặt phẳng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(CC'A'A)$"
+        },
+        {
+          "key": "B",
+          "text": "$(BB'C'C)$"
+        },
+        {
+          "key": "C",
+          "text": "$(A'B'C'D')$"
+        },
+        {
+          "key": "D",
+          "text": "$(AA'D'D)$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đường thẳng $AB$ nằm trong mặt phẳng $(ABCD)$ mà $(ABCD) \\parallel (A'B'C'D')$, do đó $AB \\parallel (A'B'C'D')$. Ba mặt phẳng còn lại đều chứa một trong hai điểm $A$, $B$ của đường thẳng $AB$ nên chúng cắt $AB$, không thể song song.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "quan hệ song song",
+        "hình hộp"
+      ],
+      "imageUrl": "/figures/toan/kh-hop-abcd.svg"
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Một người chia thời lượng (đơn vị: giây) thực hiện các cuộc gọi điện thoại của mình trong một tuần thành sáu nhóm và lập bảng tần số ghép nhóm như sau: $$\\begin{array}{|c|c|c|c|c|c|}\\hline [0;40) & [40;80) & [80;120) & [120;160) & [160;200) & [200;240) \\\\ \\hline 11 & 10 & 6 & 8 & 4 & 1 \\\\ \\hline\\end{array}$$ Tứ phân vị thứ ba $Q_3$ (đơn vị: giây) của mẫu số liệu ghép nhóm trên bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$145$."
+        },
+        {
+          "key": "B",
+          "text": "$140$."
+        },
+        {
+          "key": "C",
+          "text": "$135$."
+        },
+        {
+          "key": "D",
+          "text": "$130$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cỡ mẫu là $n = 11 + 10 + 6 + 8 + 4 + 1 = 40$, suy ra $\\frac{3n}{4} = 30$. Tần số tích luỹ đến hết nhóm $[80;120)$ là $27 < 30$ và đến hết nhóm $[120;160)$ là $35 \\ge 30$, nên $Q_3$ thuộc nhóm $[120;160)$. Khi đó $Q_3 = 120 + \\frac{30 - 27}{8} \\cdot 40 = 135$.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tứ phân vị",
+        "mẫu số liệu ghép nhóm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, cho đường thẳng $(d): \\frac{x-3}{4} = \\frac{y+2}{-5} = \\frac{z-1}{2}$. Vectơ nào sau đây là một vectơ chỉ phương của đường thẳng $(d)$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{v_3} = (4;5;2)$"
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{v_1} = (3;-2;1)$"
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{v_4} = (3;2;1)$"
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{v_2} = (4;-5;2)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phương trình chính tả của đường thẳng có dạng $\\frac{x-x_0}{a} = \\frac{y-y_0}{b} = \\frac{z-z_0}{c}$ với vectơ chỉ phương $\\overrightarrow{u} = (a;b;c)$. Đọc các mẫu số theo thứ tự trục $Ox$, $Oy$, $Oz$ ta thu được $\\overrightarrow{v_2} = (4;-5;2)$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "đường thẳng trong không gian",
+        "vectơ chỉ phương"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = x^2$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\frac{1}{3}x^3 + C$"
+        },
+        {
+          "key": "B",
+          "text": "$2x^3 + C$"
+        },
+        {
+          "key": "C",
+          "text": "$3x^3 + C$"
+        },
+        {
+          "key": "D",
+          "text": "$\\frac{1}{2}x^3 + C$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo công thức nguyên hàm của lũy thừa, với $\\alpha \\neq -1$ ta có $\\int x^{\\alpha} dx = \\frac{x^{\\alpha+1}}{\\alpha+1} + C$. Áp dụng với $\\alpha = 2$ được $\\int x^2 dx = \\frac{x^3}{3} + C$. Thử lại: đạo hàm của $\\frac{x^3}{3}$ đúng bằng $x^2$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "nguyên hàm",
+        "tích phân"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cấp số cộng $(u_n)$ có $u_1 = 4$ và công sai $d = -3$. Giá trị của $u_5$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$16$."
+        },
+        {
+          "key": "B",
+          "text": "$19$."
+        },
+        {
+          "key": "C",
+          "text": "$-8$."
+        },
+        {
+          "key": "D",
+          "text": "$-11$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Số hạng tổng quát của cấp số cộng là $u_n = u_1 + (n-1)d$. Với $n = 5$ ta có $u_5 = 4 + 4 \\cdot (-3) = 4 - 12 = -8$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "cấp số cộng"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Tập nghiệm của phương trình $\\sin x = 0$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$S = \\left\\{ \\frac{\\pi}{2} + k\\pi \\mid k \\in \\mathbb{Z} \\right\\}$"
+        },
+        {
+          "key": "B",
+          "text": "$S = \\left\\{ k2\\pi \\mid k \\in \\mathbb{Z} \\right\\}$"
+        },
+        {
+          "key": "C",
+          "text": "$S = \\left\\{ \\frac{\\pi}{2} + k2\\pi \\mid k \\in \\mathbb{Z} \\right\\}$"
+        },
+        {
+          "key": "D",
+          "text": "$S = \\left\\{ k\\pi \\mid k \\in \\mathbb{Z} \\right\\}$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trên đường tròn lượng giác, $\\sin x$ là tung độ của điểm mút cung, bằng $0$ tại hai giao điểm với trục hoành, ứng với các góc $0$ và $\\pi$; hai họ này gộp lại thành $x = k\\pi$ với $k \\in \\mathbb{Z}$. Các phương án chứa $\\frac{\\pi}{2}$ là nghiệm của $\\cos x = 0$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "phương trình lượng giác"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong mặt phẳng với hệ tọa độ $Oxy$, diện tích $S$ của hình phẳng giới hạn bởi đồ thị của hàm số $y = 2x - 3$, trục hoành và hai đường thẳng $x = 1, x = 2$ được xác định bằng công thức",
+      "options": [
+        {
+          "key": "A",
+          "text": "$S = \\pi \\int_1^2 |2x-3| \\, dx$"
+        },
+        {
+          "key": "B",
+          "text": "$S = \\int_1^2 |2x-3| \\, dx$"
+        },
+        {
+          "key": "C",
+          "text": "$S = \\pi \\int_1^2 (2x-3)^2 \\, dx$"
+        },
+        {
+          "key": "D",
+          "text": "$S = \\left| \\int_1^2 (2x-3) \\, dx \\right|$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Diện tích hình phẳng giới hạn bởi $y = f(x)$, trục hoành và hai đường $x = a$, $x = b$ là $S = \\int_a^b |f(x)| dx$; dấu giá trị tuyệt đối nằm trong dấu tích phân vì đồ thị đổi dấu tại $x = \\frac{3}{2}$. Hai công thức có thừa số $\\pi$ là công thức tính thể tích tròn xoay, còn $\\left| \\int_a^b f(x) dx \\right|$ chỉ đúng khi $f$ không đổi dấu.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "tích phân",
+        "diện tích hình phẳng"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian với hệ tọa độ $Oxyz$, mặt phẳng đi qua điểm $A(2;1;-4)$ nhận $\\overrightarrow{n} = (3;2;-1)$ làm một vectơ pháp tuyến có phương trình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$3(x-2) + 2(y-1) - (z+4) = 0$"
+        },
+        {
+          "key": "B",
+          "text": "$2(x+3) + (y+2) - 4(z-1) = 0$"
+        },
+        {
+          "key": "C",
+          "text": "$3(x+2) + 2(y+1) - (z-4) = 0$"
+        },
+        {
+          "key": "D",
+          "text": "$2(x-3) + (y-2) - 4(z+1) = 0$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mặt phẳng qua $M_0(x_0;y_0;z_0)$ với vectơ pháp tuyến $\\overrightarrow{n} = (a;b;c)$ có phương trình $a(x-x_0) + b(y-y_0) + c(z-z_0) = 0$. Thay $a = 3$, $b = 2$, $c = -1$ và tọa độ điểm $A(2;1;-4)$ ta được $3(x-2) + 2(y-1) - (z+4) = 0$, tức $3x + 2y - z - 12 = 0$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "mặt phẳng trong không gian",
+        "vectơ pháp tuyến"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Nghiệm của phương trình $\\log_3(2x-1) = 2$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x = \\frac{7}{2}$"
+        },
+        {
+          "key": "B",
+          "text": "$x = \\frac{5}{2}$"
+        },
+        {
+          "key": "C",
+          "text": "$x = 5$"
+        },
+        {
+          "key": "D",
+          "text": "$x = 4$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chuyển sang dạng mũ: $\\log_3(2x-1) = 2$ khi và chỉ khi $2x - 1 = 3^2 = 9$, suy ra $x = 5$. Điều kiện $2x - 1 > 0$ tức $x > \\frac{1}{2}$ được nghiệm này thỏa mãn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "phương trình logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = \\frac{ax+b}{cx+d}$ $(ac \\neq 0, ad-bc \\neq 0)$ có đồ thị như hình dưới. Đường tiệm cận đứng của đồ thị hàm số đã cho có phương trình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$y = 2$"
+        },
+        {
+          "key": "B",
+          "text": "$x = -1$"
+        },
+        {
+          "key": "C",
+          "text": "$y = -1$"
+        },
+        {
+          "key": "D",
+          "text": "$x = 2$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tiệm cận đứng là đường thẳng đứng mà đồ thị tiến sát khi hàm số bộc lộ vô cực, ở đây chính là đường nét đứt đứng đi qua $x = -1$; giá trị này bằng nghiệm của $cx + d = 0$. Đường $y = 2$ đóng vai trò tiệm cận ngang vì $\\lim_{x \\to \\infty} \\frac{ax+b}{cx+d} = \\frac{a}{c} = 2$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "tiệm cận",
+        "hàm phân thức"
+      ],
+      "imageUrl": "/figures/toan/phan-thuc-tc-xm1-y2.svg"
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình chóp $S.ABC$ có $SA$ vuông góc với mặt phẳng $(ABC)$, tam giác $ABC$ vuông tại $A$ và $SA = 3, AB = 4, AC = 5$. Thể tích của khối chóp $S.ABC$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$30$."
+        },
+        {
+          "key": "B",
+          "text": "$20$."
+        },
+        {
+          "key": "C",
+          "text": "$60$."
+        },
+        {
+          "key": "D",
+          "text": "$10$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Vì tam giác $ABC$ vuông tại $A$ nên diện tích đáy $S_{ABC} = \\frac{1}{2} \\cdot AB \\cdot AC = \\frac{1}{2} \\cdot 4 \\cdot 5 = 10$. Chiều cao là $SA = 3$, do đó $V = \\frac{1}{3} \\cdot 10 \\cdot 3 = 10$.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thể tích khối chóp",
+        "hình chóp"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c13",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 13, ý a.** Cho hàm số $f(x) = x^3 - 12x - 8$. Nhận định: “Hàm số đã cho có đạo hàm là $f'(x) = 3x^2 - 12$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đạo hàm của $x^3$ là $3x^2$, đạo hàm của $-12x$ là $-12$ và hằng số $-8$ có đạo hàm bằng $0$. Cộng lại ta được $f'(x) = 3x^2 - 12$, đúng như nhận định.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "đạo hàm",
+        "hàm số bậc ba"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c14",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 13, ý b.** Cho hàm số $f(x) = x^3 - 12x - 8$. Nhận định: “Phương trình $f'(x) = 0$ có tập nghiệm là $S = \\{2\\}$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "$f'(x) = 0 \\Leftrightarrow 3x^2 - 12 = 0 \\Leftrightarrow x^2 = 4 \\Leftrightarrow x = \\pm 2$. Tập nghiệm đầy đủ là $S = \\{-2; 2\\}$, thiếu $-2$ nếu chỉ viết $S = \\{2\\}$, vì thế nhận định sai.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "đạo hàm",
+        "phương trình"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c15",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 13, ý c.** Cho hàm số $f(x) = x^3 - 12x - 8$. Nhận định: “$f(2) = 24$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thay trực tiếp $x = 2$ vào công thức: $f(2) = 2^3 - 12 \\cdot 2 - 8 = 8 - 24 - 8 = -24$. Giá trị đúng là $-24$, còn nhận định nêu $24$ nên nhận định sai ở dấu.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "giá trị hàm số",
+        "hàm số bậc ba"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c16",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 13, ý d.** Cho hàm số $f(x) = x^3 - 12x - 8$. Nhận định: “Giá trị lớn nhất của hàm số $f(x)$ trên đoạn $[-3;3]$ bằng 24.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trên đoạn $[-3;3]$ chỉ có hai điểm mà đạo hàm bằng $0$ là $x = -2$ và $x = 2$. So sánh bốn giá trị $f(-3) = 1$, $f(-2) = 8$, $f(2) = -24$, $f(3) = -17$ cho thấy giá trị lớn nhất bằng $8$, nhỏ hơn $24$ rất nhiều, vì vậy nhận định sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "giá trị lớn nhất",
+        "hàm số bậc ba"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c17",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 14, ý a.** Đối với ngành nuôi trồng thủy sản, việc kiểm soát lượng thuốc tồn dư trong nước là một nhiệm vụ quan trọng nhằm đáp ứng các tiêu chuẩn an toàn về môi trường. Khi nghiên cứu một loại thuốc trị bệnh trong nuôi trồng thủy sản, người ta sử dụng thuốc đó một lần và theo dõi nồng độ thuốc tồn dư trong nước kể từ lúc sử dụng thuốc. Kết quả cho thấy nồng độ thuốc $y(t)$ (đơn vị: mg/lít) tồn dư trong nước tại thời điểm $t$ ngày $(t \\geq 0)$ kể từ lúc sử dụng thuốc, thỏa mãn $y(t) > 0$ và $y'(t) = k \\cdot y(t)$ $(t \\geq 0)$, trong đó $k$ là hằng số khác không. Đo nồng độ thuốc tồn dư trong nước tại các thời điểm $t = 6$ (ngày); $t = 12$ (ngày) nhận được kết quả lần lượt là $2$ mg/lít; $1$ mg/lít. Cho biết $y(t) = e^{g(t)}$ $(t \\geq 0)$. Nhận định: “$g(t) = kt + C$ $(t \\geq 0)$ với $C$ là một hằng số xác định.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Từ $y(t) = e^{g(t)}$ suy ra $y'(t) = g'(t) e^{g(t)} = g'(t) y(t)$. Mà $y'(t) = k y(t)$ và $y(t) > 0$ nên $g'(t) = k$ với mọi $t \\geq 0$. Nguyên hàm của một hằng số là hàm bậc nhất, vậy $g(t) = kt + C$ với $C$ xác định; nhận định đúng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hàm mũ",
+        "phương trình vi phân"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c18",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 14, ý b.** Đối với ngành nuôi trồng thủy sản, việc kiểm soát lượng thuốc tồn dư trong nước là một nhiệm vụ quan trọng nhằm đáp ứng các tiêu chuẩn an toàn về môi trường. Khi nghiên cứu một loại thuốc trị bệnh trong nuôi trồng thủy sản, người ta sử dụng thuốc đó một lần và theo dõi nồng độ thuốc tồn dư trong nước kể từ lúc sử dụng thuốc. Kết quả cho thấy nồng độ thuốc $y(t)$ (đơn vị: mg/lít) tồn dư trong nước tại thời điểm $t$ ngày $(t \\geq 0)$ kể từ lúc sử dụng thuốc, thỏa mãn $y(t) > 0$ và $y'(t) = k \\cdot y(t)$ $(t \\geq 0)$, trong đó $k$ là hằng số khác không. Đo nồng độ thuốc tồn dư trong nước tại các thời điểm $t = 6$ (ngày); $t = 12$ (ngày) nhận được kết quả lần lượt là $2$ mg/lít; $1$ mg/lít. Cho biết $y(t) = e^{g(t)}$ $(t \\geq 0)$. Nhận định: “$k = \\frac{\\ln 2}{6}$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lập tỉ số hai lần đo: $\\frac{y(12)}{y(6)} = \\frac{e^{12k + C}}{e^{6k + C}} = e^{6k} = \\frac{1}{2}$, suy ra $6k = -\\ln 2$ hay $k = -\\frac{\\ln 2}{6}$. Nồng độ giảm theo thời gian nên $k$ phải âm; nhận định bỏ mất dấu trừ nên sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hàm mũ",
+        "logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c19",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 14, ý c.** Đối với ngành nuôi trồng thủy sản, việc kiểm soát lượng thuốc tồn dư trong nước là một nhiệm vụ quan trọng nhằm đáp ứng các tiêu chuẩn an toàn về môi trường. Khi nghiên cứu một loại thuốc trị bệnh trong nuôi trồng thủy sản, người ta sử dụng thuốc đó một lần và theo dõi nồng độ thuốc tồn dư trong nước kể từ lúc sử dụng thuốc. Kết quả cho thấy nồng độ thuốc $y(t)$ (đơn vị: mg/lít) tồn dư trong nước tại thời điểm $t$ ngày $(t \\geq 0)$ kể từ lúc sử dụng thuốc, thỏa mãn $y(t) > 0$ và $y'(t) = k \\cdot y(t)$ $(t \\geq 0)$, trong đó $k$ là hằng số khác không. Đo nồng độ thuốc tồn dư trong nước tại các thời điểm $t = 6$ (ngày); $t = 12$ (ngày) nhận được kết quả lần lượt là $2$ mg/lít; $1$ mg/lít. Cho biết $y(t) = e^{g(t)}$ $(t \\geq 0)$. Nhận định: “$C = 2\\ln 2$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Từ hai số liệu $y(6) = 2$ và $y(12) = 1$ có $e^{6k} = \\frac{1}{2}$, tức $k = -\\frac{\\ln 2}{6}$. Mặt khác $y(6) = 2$ cho $6k + C = \\ln 2$, thay $k$ vào được $-\\ln 2 + C = \\ln 2$, hay $C = 2\\ln 2$; nhận định đúng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hàm mũ",
+        "logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c20",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 14, ý d.** Đối với ngành nuôi trồng thủy sản, việc kiểm soát lượng thuốc tồn dư trong nước là một nhiệm vụ quan trọng nhằm đáp ứng các tiêu chuẩn an toàn về môi trường. Khi nghiên cứu một loại thuốc trị bệnh trong nuôi trồng thủy sản, người ta sử dụng thuốc đó một lần và theo dõi nồng độ thuốc tồn dư trong nước kể từ lúc sử dụng thuốc. Kết quả cho thấy nồng độ thuốc $y(t)$ (đơn vị: mg/lít) tồn dư trong nước tại thời điểm $t$ ngày $(t \\geq 0)$ kể từ lúc sử dụng thuốc, thỏa mãn $y(t) > 0$ và $y'(t) = k \\cdot y(t)$ $(t \\geq 0)$, trong đó $k$ là hằng số khác không. Đo nồng độ thuốc tồn dư trong nước tại các thời điểm $t = 6$ (ngày); $t = 12$ (ngày) nhận được kết quả lần lượt là $2$ mg/lít; $1$ mg/lít. Cho biết $y(t) = e^{g(t)}$ $(t \\geq 0)$. Nhận định: “Nồng độ thuốc tồn dư trong nước tại thời điểm $t = 25$ (ngày) kể từ lúc sử dụng thuốc lớn hơn $0,25$ mg/lít.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Với $k = -\\frac{\\ln 2}{6}$ và $C = 2\\ln 2$ thì $y(t) = e^{2\\ln 2 - \\frac{t \\ln 2}{6}} = 4 \\cdot 2^{-t/6}$. Do đó $y(25) = \\frac{4}{2^{25/6}}$; vì $2^{25/6} = 16 \\cdot 2^{1/6} \\approx 17{,}96$ nên $y(25) \\approx 0{,}223$ mg/lít, nhỏ hơn $0{,}25$ mg/lít, vì vậy nhận định sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hàm mũ",
+        "toán thực tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c21",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 15, ý a.** Mô hình toán học sau đây được sử dụng trong quan sát chuyển động của một vật. Trong không gian cho hệ tọa độ $Oxyz$ có $\\overrightarrow{i}, \\overrightarrow{j}, \\overrightarrow{k}$ lần lượt là các vectơ đơn vị trên các trục $Ox, Oy, Oz$ và độ dài của mỗi vectơ đơn vị đó bằng 1 mét. Cho hai điểm $A$ và $B$, trong đó điểm $A$ có tọa độ là $(5;5;0)$. Một vật (coi như là một hạt) chuyển động thẳng với tốc độ phụ thuộc thời gian $t$ (giây) theo công thức $v(t) = \\beta t + 300$ (m/giây), trong đó $\\beta$ là hằng số dương và $0 \\leq t \\leq 6$. Ở thời điểm ban đầu $(t = 0)$, vật đi qua $A$ với tốc độ $300$ m/giây và hướng tới $B$. Sau 2 giây kể từ thời điểm ban đầu, vật đi được quãng đường $604$ m. Gọi $\\overrightarrow{u} = (a;b;c)$ là vectơ cùng hướng với vectơ $\\overrightarrow{AB}$. Biết rằng $|\\overrightarrow{u}| = 1$ và góc giữa vectơ $\\overrightarrow{u}$ lần lượt với các vectơ $\\overrightarrow{i}, \\overrightarrow{j}, \\overrightarrow{k}$ có số đo tương ứng bằng $60^\\circ, 60^\\circ, 45^\\circ$. Nhận định: “$a = \\cos 60^\\circ$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với vectơ đơn vị $\\overrightarrow{u} = (a;b;c)$, tích vô hướng $\\overrightarrow{u} \\cdot \\overrightarrow{i} = a$ cũng bằng $|\\overrightarrow{u}| \\cdot |\\overrightarrow{i}| \\cdot \\cos 60^\\circ = \\cos 60^\\circ$. Vậy $a = \\cos 60^\\circ = \\frac{1}{2}$, nhận định đúng; hai thành phần còn lại là $b = \\frac{1}{2}$ và $c = \\frac{\\sqrt{2}}{2}$ từ các góc với $\\overrightarrow{j}$ và $\\overrightarrow{k}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tích vô hướng",
+        "hệ tọa độ Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c22",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 15, ý b.** Mô hình toán học sau đây được sử dụng trong quan sát chuyển động của một vật. Trong không gian cho hệ tọa độ $Oxyz$ có $\\overrightarrow{i}, \\overrightarrow{j}, \\overrightarrow{k}$ lần lượt là các vectơ đơn vị trên các trục $Ox, Oy, Oz$ và độ dài của mỗi vectơ đơn vị đó bằng 1 mét. Cho hai điểm $A$ và $B$, trong đó điểm $A$ có tọa độ là $(5;5;0)$. Một vật (coi như là một hạt) chuyển động thẳng với tốc độ phụ thuộc thời gian $t$ (giây) theo công thức $v(t) = \\beta t + 300$ (m/giây), trong đó $\\beta$ là hằng số dương và $0 \\leq t \\leq 6$. Ở thời điểm ban đầu $(t = 0)$, vật đi qua $A$ với tốc độ $300$ m/giây và hướng tới $B$. Sau 2 giây kể từ thời điểm ban đầu, vật đi được quãng đường $604$ m. Gọi $\\overrightarrow{u} = (a;b;c)$ là vectơ cùng hướng với vectơ $\\overrightarrow{AB}$. Biết rằng $|\\overrightarrow{u}| = 1$ và góc giữa vectơ $\\overrightarrow{u}$ lần lượt với các vectơ $\\overrightarrow{i}, \\overrightarrow{j}, \\overrightarrow{k}$ có số đo tương ứng bằng $60^\\circ, 60^\\circ, 45^\\circ$. Nhận định: “Phương trình đường thẳng $AB$ là $\\frac{x-5}{1} = \\frac{y-5}{1} = \\frac{z}{2}$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Từ ba góc với các vectơ đơn vị, vectơ chỉ phương đơn vị của $AB$ là $\\overrightarrow{u} = (\\cos 60^\\circ; \\cos 60^\\circ; \\cos 45^\\circ) = \\left(\\frac{1}{2}; \\frac{1}{2}; \\frac{\\sqrt{2}}{2}\\right)$, tỉ lệ với $(1; 1; \\sqrt{2})$ chứ không phải $(1; 1; 2)$. Đường thẳng đi qua $A(5;5;0)$ đúng phải là $\\frac{x-5}{1} = \\frac{y-5}{1} = \\frac{z}{\\sqrt{2}}$, vì thế nhận định sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đường thẳng trong không gian",
+        "vectơ chỉ phương"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c23",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 15, ý c.** Mô hình toán học sau đây được sử dụng trong quan sát chuyển động của một vật. Trong không gian cho hệ tọa độ $Oxyz$ có $\\overrightarrow{i}, \\overrightarrow{j}, \\overrightarrow{k}$ lần lượt là các vectơ đơn vị trên các trục $Ox, Oy, Oz$ và độ dài của mỗi vectơ đơn vị đó bằng 1 mét. Cho hai điểm $A$ và $B$, trong đó điểm $A$ có tọa độ là $(5;5;0)$. Một vật (coi như là một hạt) chuyển động thẳng với tốc độ phụ thuộc thời gian $t$ (giây) theo công thức $v(t) = \\beta t + 300$ (m/giây), trong đó $\\beta$ là hằng số dương và $0 \\leq t \\leq 6$. Ở thời điểm ban đầu $(t = 0)$, vật đi qua $A$ với tốc độ $300$ m/giây và hướng tới $B$. Sau 2 giây kể từ thời điểm ban đầu, vật đi được quãng đường $604$ m. Gọi $\\overrightarrow{u} = (a;b;c)$ là vectơ cùng hướng với vectơ $\\overrightarrow{AB}$. Biết rằng $|\\overrightarrow{u}| = 1$ và góc giữa vectơ $\\overrightarrow{u}$ lần lượt với các vectơ $\\overrightarrow{i}, \\overrightarrow{j}, \\overrightarrow{k}$ có số đo tương ứng bằng $60^\\circ, 60^\\circ, 45^\\circ$. Nhận định: “$\\beta = 2$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Quãng đường bằng tích phân của tốc độ: $\\int_0^2 (\\beta t + 300)\\, dt = \\frac{\\beta t^2}{2}\\Big|_0^2 + 300 \\cdot 2 = 2\\beta + 600$. Cho $2\\beta + 600 = 604$ ta nhận được $\\beta = 2$, khớp với nhận định.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tích phân",
+        "toán chuyển động"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c24",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 15, ý d.** Mô hình toán học sau đây được sử dụng trong quan sát chuyển động của một vật. Trong không gian cho hệ tọa độ $Oxyz$ có $\\overrightarrow{i}, \\overrightarrow{j}, \\overrightarrow{k}$ lần lượt là các vectơ đơn vị trên các trục $Ox, Oy, Oz$ và độ dài của mỗi vectơ đơn vị đó bằng 1 mét. Cho hai điểm $A$ và $B$, trong đó điểm $A$ có tọa độ là $(5;5;0)$. Một vật (coi như là một hạt) chuyển động thẳng với tốc độ phụ thuộc thời gian $t$ (giây) theo công thức $v(t) = \\beta t + 300$ (m/giây), trong đó $\\beta$ là hằng số dương và $0 \\leq t \\leq 6$. Ở thời điểm ban đầu $(t = 0)$, vật đi qua $A$ với tốc độ $300$ m/giây và hướng tới $B$. Sau 2 giây kể từ thời điểm ban đầu, vật đi được quãng đường $604$ m. Gọi $\\overrightarrow{u} = (a;b;c)$ là vectơ cùng hướng với vectơ $\\overrightarrow{AB}$. Biết rằng $|\\overrightarrow{u}| = 1$ và góc giữa vectơ $\\overrightarrow{u}$ lần lượt với các vectơ $\\overrightarrow{i}, \\overrightarrow{j}, \\overrightarrow{k}$ có số đo tương ứng bằng $60^\\circ, 60^\\circ, 45^\\circ$. Nhận định: “Giả sử sau 5 giây kể từ thời điểm ban đầu, vật đến điểm $B(x_B; y_B; z_B)$. Khi đó $x_B > 768$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quãng đường sau $5$ giây là $\\int_0^5 (2t + 300)\\, dt = 25 + 1500 = 1525$ m. Thành phần theo trục $Ox$ bằng $1525 \\cdot \\frac{1}{2} = 762{,}5$, nên $x_B = 5 + 762{,}5 = 767{,}5 < 768$, vì vậy nhận định sai.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "tích phân",
+        "hệ tọa độ Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c25",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 16, ý a.** Một phần mềm nhận dạng tin nhắn quảng cáo trên điện thoại bằng cách dựa theo từ khóa để đánh dấu một số tin nhắn được gửi đến. Qua một thời gian dài sử dụng, người ta thấy rằng trong số tất cả các tin nhắn gửi đến, có $15\\%$ số tin nhắn bị đánh dấu. Trong số các tin nhắn bị đánh dấu, có $10\\%$ số tin nhắn không phải là quảng cáo. Trong số các tin nhắn không bị đánh dấu, có $5\\%$ số tin nhắn là quảng cáo. Chọn ngẫu nhiên một tin nhắn được gửi đến điện thoại. Nhận định: “Xác suất để tin nhắn đó không bị đánh dấu bằng $0,85$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Biến cố không bị đánh dấu là biến cố đối của biến cố bị đánh dấu, mà tỉ tin bị đánh dấu là $15\\%$ nên xác suất cần tìm bằng $1 - 0{,}15 = 0{,}85$; nhận định đúng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "xác suất",
+        "biến cố đối"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c26",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 16, ý b.** Một phần mềm nhận dạng tin nhắn quảng cáo trên điện thoại bằng cách dựa theo từ khóa để đánh dấu một số tin nhắn được gửi đến. Qua một thời gian dài sử dụng, người ta thấy rằng trong số tất cả các tin nhắn gửi đến, có $15\\%$ số tin nhắn bị đánh dấu. Trong số các tin nhắn bị đánh dấu, có $10\\%$ số tin nhắn không phải là quảng cáo. Trong số các tin nhắn không bị đánh dấu, có $5\\%$ số tin nhắn là quảng cáo. Chọn ngẫu nhiên một tin nhắn được gửi đến điện thoại. Nhận định: “Xác suất để tin nhắn đó không phải là quảng cáo, biết rằng nó không bị đánh dấu, bằng $0,95$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đây là xác suất có điều kiện tính trong nhóm tin không bị đánh dấu: nhóm này có $5\\%$ là tin quảng cáo nên $100\\% - 5\\% = 95\\%$ còn lại không phải quảng cáo, tức xác suất bằng $0{,}95$; nhận định đúng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "xác suất có điều kiện"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c27",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 16, ý c.** Một phần mềm nhận dạng tin nhắn quảng cáo trên điện thoại bằng cách dựa theo từ khóa để đánh dấu một số tin nhắn được gửi đến. Qua một thời gian dài sử dụng, người ta thấy rằng trong số tất cả các tin nhắn gửi đến, có $15\\%$ số tin nhắn bị đánh dấu. Trong số các tin nhắn bị đánh dấu, có $10\\%$ số tin nhắn không phải là quảng cáo. Trong số các tin nhắn không bị đánh dấu, có $5\\%$ số tin nhắn là quảng cáo. Chọn ngẫu nhiên một tin nhắn được gửi đến điện thoại. Nhận định: “Xác suất để tin nhắn đó không phải là quảng cáo bằng $0,85$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Xét $100$ tin nhắn: nhóm bị đánh dấu $15$ tin có $1{,}5$ tin không quảng cáo; nhóm không bị đánh dấu $85$ tin có $85 \\cdot 0{,}95 = 80{,}75$ tin không quảng cáo. Tổng là $82{,}25$ tin, suy ra xác suất $\\frac{82{,}25}{100} = 0{,}8225$, khác $0{,}85$ nên nhận định sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xác suất",
+        "công thức xác suất toàn phần"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c28",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 16, ý d.** Một phần mềm nhận dạng tin nhắn quảng cáo trên điện thoại bằng cách dựa theo từ khóa để đánh dấu một số tin nhắn được gửi đến. Qua một thời gian dài sử dụng, người ta thấy rằng trong số tất cả các tin nhắn gửi đến, có $15\\%$ số tin nhắn bị đánh dấu. Trong số các tin nhắn bị đánh dấu, có $10\\%$ số tin nhắn không phải là quảng cáo. Trong số các tin nhắn không bị đánh dấu, có $5\\%$ số tin nhắn là quảng cáo. Chọn ngẫu nhiên một tin nhắn được gửi đến điện thoại. Nhận định: “Xác suất để tin nhắn đó không bị đánh dấu, biết rằng nó không phải là quảng cáo, lớn hơn $0,95$.” Nhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo công thức Bayes, trong $100$ tin nhắn có $82{,}25$ tin không phải quảng cáo, trong đó $80{,}75$ tin không bị đánh dấu. Vậy xác suất cần tìm là $\\frac{80{,}75}{82{,}25} \\approx 0{,}982$, lớn hơn $0{,}95$ nên nhận định đúng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "xác suất có điều kiện",
+        "công thức Bayes"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c29",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Bạn Nam tham gia cuộc thi giải một mật thư. Theo quy tắc của cuộc thi, người chơi cần chọn ra sáu số từ tập $S = \\{11;12;13;14;15;16;17;18;19\\}$ và xếp mỗi số vào đúng một vị trí trong sáu vị trí $A, B, C, M, N, P$ như hình bên sao cho mỗi vị trí chỉ được xếp một số. Mật thư sẽ được giải nếu các bộ ba số xuất hiện ở những bộ ba vị trí $(A,M,B); (B,N,C); (C,P,A)$ tạo thành các cấp số cộng theo thứ tự đó. Bạn Nam chọn ngẫu nhiên sáu số trong tập $S$ và xếp ngẫu nhiên vào các vị trí được yêu cầu. Gọi xác suất để bạn Nam giải được mật thư ở lần chọn và xếp đó là $a$. Giá trị của $\\frac{1}{a}$ bằng bao nhiêu?",
+      "options": [],
+      "correctAnswer": [
+        "1260",
+        "1 260"
+      ],
+      "explanation": "Ba bộ ba là cấp số cộng tương đương với $M = \\frac{A+B}{2}$, $N = \\frac{B+C}{2}$, $P = \\frac{C+A}{2}$; do đó ba số ở đỉnh $A$, $B$, $C$ phải cùng tính chẵn lẻ và ba số ở vị trí giữa bị chốt chặt. Liệt kê trên tập $S$ (năm số lẻ, bốn số chẵn) chỉ có $48$ cách xếp thỏa mãn, còn không gian mẫu là $A_9^6 = 9 \\cdot 8 \\cdot 7 \\cdot 6 \\cdot 5 \\cdot 4 = 60480$. Vậy $a = \\frac{48}{60480} = \\frac{1}{1260}$, suy ra $\\frac{1}{a} = 1260$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "xác suất",
+        "cấp số cộng",
+        "chỉnh hợp"
+      ],
+      "imageUrl": "/figures/toan/kh-so-do-6-dinh.svg"
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c30",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Nếu một doanh nghiệp sản xuất $x$ sản phẩm trong một tháng $\\left(x \\in \\mathbb{N}^*; 1 \\leq x \\leq 4500\\right)$ thì doanh thu nhận được khi bán hết số sản phẩm đó là $F(x) = -0{,}01x^2 + 300x$ (nghìn đồng), trong khi chi phí sản xuất bình quân cho mỗi sản phẩm là $G(x) = \\frac{30000}{x} + 200$ (nghìn đồng). Giả sử số sản phẩm sản xuất ra luôn được bán hết. Trong một tháng, doanh nghiệp đó cần sản xuất ít nhất bao nhiêu sản phẩm để lợi nhuận thu được lớn hơn 100 triệu đồng?",
+      "options": [],
+      "correctAnswer": [
+        "1536",
+        "1 536"
+      ],
+      "explanation": "Tổng chi phí là $x G(x) = 30000 + 200x$, nên lợi nhuận (nghìn đồng) bằng $L(x) = -0{,}01x^2 + 100x - 30000$. Yêu cầu $L(x) > 100000$ dẫn tới $x^2 - 10000x + 13000000 < 0$. Phương trình $x^2 - 10000x + 13000000 = 0$ có hai nghiệm xấp xỉ $1535{,}9$ và $8464{,}1$, bất phương trình nghiệm đúng với $1535{,}9 < x < 8464{,}1$. Số nguyên dương nhỏ nhất trong khoảng này là $1536$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "bất phương trình",
+        "hàm số bậc hai",
+        "toán kinh tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c31",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Để gây quỹ từ thiện, câu lạc bộ thiện nguyện của một trường THPT tổ chức hoạt động bán hàng với hai mặt hàng là nước chanh và khoai chiên. Câu lạc bộ thiết kế hai thực đơn. Thực đơn 1 có giá 30 nghìn đồng, bao gồm hai cốc nước chanh và một túi khoai chiên. Thực đơn 2 có giá 50 nghìn đồng, bao gồm ba cốc nước chanh và hai túi khoai chiên. Biết rằng câu lạc bộ chỉ làm được không quá 165 cốc nước chanh và 100 túi khoai chiên. Số tiền lớn nhất mà câu lạc bộ có thể nhận được sau khi bán hết hàng bằng bao nhiêu nghìn đồng?",
+      "options": [],
+      "correctAnswer": [
+        "2650",
+        "2 650"
+      ],
+      "explanation": "Gọi $x$, $y$ lần lượt là số phần ăn thực đơn 1 và thực đơn 2. Ta cực đại $T = 30x + 50y$ với ràng buộc $2x + 3y \\leq 165$, $x + 2y \\leq 100$, $x \\geq 0$, $y \\geq 0$ và $x$, $y$ nguyên. Hai đường thẳng ràng buộc cắt nhau tại $(30;35)$. So sánh các đỉnh nguyên $(0;50)$, $(30;35)$, $(82;0)$ cho $T$ lần lượt $2500$, $2650$, $2460$; giá trị lớn nhất là $2650$ nghìn đồng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "phương án tuyến tính",
+        "bất phương trình",
+        "toán thực tế"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c32",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình thoi với $\\widehat{ABC} = 60^\\circ$ và $AB = 2$. Biết rằng hình chiếu vuông góc của $S$ trên mặt phẳng $(ABCD)$ là trọng tâm $H$ của tam giác $ABC$ và $SH = \\sqrt{3}$. Khoảng cách giữa hai đường thẳng $AC$ và $SD$ bằng bao nhiêu (không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần trăm)?",
+      "options": [],
+      "correctAnswer": [
+        "1,04",
+        "1.04"
+      ],
+      "explanation": "Chọn hệ trục sao cho $A(-1;0;0)$, $C(1;0;0)$, $B(0;\\sqrt{3};0)$, $D(0;-\\sqrt{3};0)$ (khi đó tam giác $ABC$ đều cạnh $2$). Trọng tâm $H\\left(0;\\frac{\\sqrt{3}}{3};0\\right)$ nên $S\\left(0;\\frac{\\sqrt{3}}{3};\\sqrt{3}\\right)$. Đường thẳng $AC$ là trục hoành, còn $SD$ có vectơ chỉ phương $\\left(0;-\\frac{4\\sqrt{3}}{3};-\\sqrt{3}\\right)$ vuông góc với $AC$, vì vậy khoảng cách cần tìm bằng khoảng cách từ gốc $O$ đến $SD$ đo trong mặt phẳng $(Oyz)$: $d = \\frac{3}{\\sqrt{25/3}} = \\frac{3\\sqrt{3}}{5} \\approx 1{,}04$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "khoảng cách",
+        "hình chóp",
+        "hệ tọa độ Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c33",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Có bốn ngăn (trong một giá để sách) được đánh số thứ tự $1, 2, 3, 4$ và bảy quyển sách khác nhau. Bạn An xếp hết bảy quyển sách nói trên vào bốn ngăn đó sao cho mỗi ngăn có ít nhất một quyển sách và các quyển sách được xếp thẳng đứng thành một hàng ngang với gáy sách quay ra ngoài ở mỗi ngăn. Khi đã xếp xong bảy quyển sách, hai cách xếp của bạn An được gọi là giống nhau nếu chúng thỏa mãn đồng thời hai điều kiện sau đây:\\n\\n- Với từng ngăn, số lượng quyển sách ở ngăn đó là như nhau trong cả hai cách xếp;\\n- Với từng ngăn, thứ tự từ trái sang phải của các quyển sách được xếp là như nhau trong cả hai cách xếp.\\n\\nGọi $T$ là số cách xếp đôi một khác nhau của bạn An. Giá trị của $\\frac{T}{100}$ bằng bao nhiêu?",
+      "options": [],
+      "correctAnswer": [
+        "1008",
+        "1 008"
+      ],
+      "explanation": "Mỗi cách xếp ứng với việc xếp hàng $7$ quyển sách khác nhau rồi cắt hàng đó thành $4$ đoạn không rỗng. Xếp hàng có $7! = 5040$ cách; đặt $3$ vách ngăn vào $6$ khe giữa các quyển sách có $\\binom{6}{3} = 20$ cách. Do đó $T = 5040 \\cdot 20 = 100800$ và $\\frac{T}{100} = 1008$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "tổ hợp",
+        "hoán vị",
+        "chỉnh hợp"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2025-m101-c34",
+      "partName": "Phần III. Trắc nghiệm trả lời ngắn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "FILL_IN",
+      "content": "Để đặt được một vật trang trí trên mặt bàn, người ta thiết kế một chân đế như sau. Lấy một khối gỗ có dạng khối chóp cụt tứ giác đều với độ dài hai cạnh đáy lần lượt bằng $7{,}4$ cm và $10{,}4$ cm, bề dày của khối gỗ bằng $1{,}5$ cm. Sau đó khoét bỏ đi một phần của khối gỗ sao cho phần đó có dạng vật thể $H$, ở đó $H$ nhận được bằng cách cắt khối cầu bán kính $5{,}8$ cm bởi một mặt phẳng cắt mà mặt cắt là hình tròn bán kính $3{,}5$ cm (xem hình dưới). Thể tích của khối chân đế bằng bao nhiêu centimét khối (không làm tròn kết quả các phép tính trung gian, chỉ làm tròn kết quả cuối cùng đến hàng phần mười)?",
+      "options": [],
+      "correctAnswer": [
+        "96,5",
+        "96.5"
+      ],
+      "explanation": "Thể tích khối chóp cụt: $V_1 = \\frac{1{,}5}{3}\\left(7{,}4^2 + 10{,}4^2 + 7{,}4 \\cdot 10{,}4\\right) = 0{,}5 \\cdot 239{,}88 = 119{,}94$. Mặt phẳng cắt cách tâm một khoảng $\\sqrt{5{,}8^2 - 3{,}5^2} = \\sqrt{21{,}39} \\approx 4{,}625$, nên chiều cao chỏm cầu là $h = 5{,}8 - 4{,}625 \\approx 1{,}175$. Thể tích chỏm: $V_2 = \\frac{\\pi h^2}{3}(3 \\cdot 5{,}8 - h) \\approx 23{,}46$. Vậy $V = V_1 - V_2 \\approx 96{,}5$ cm³.\n\n![Phần cầu bị khoét bỏ](/figures/toan/mat-cau-cat-chom.svg)",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "thể tích khối tròn xoay",
+        "chỏm cầu",
+        "hình chóp cụt"
+      ],
+      "imageUrl": "/figures/toan/chop-cut-tu-giac-deu.svg"
+    }
+  ]
+}

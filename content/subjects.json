@@ -78,7 +78,7 @@
       "id": "toan",
       "name": "Toán",
       "slug": "toan",
-      "description": "Toán học lớp 12: hàm số, mũ – logarit, hình học không gian.",
+      "description": "Toán lớp 12: hàm số, mũ – logarit, hình học không gian và đề thi tốt nghiệp THPT các năm.",
       "order": 2,
       "topics": [
         {
@@ -101,6 +101,13 @@
           "slug": "hinh-hoc-khong-gian",
           "description": "Khối đa diện, hình nón, hình trụ, khối cầu.",
           "order": 3
+        },
+        {
+          "id": "topic-toan-de-thi-that",
+          "name": "Đề thi tốt nghiệp THPT các năm",
+          "slug": "de-thi-tot-nghiep-thpt-cac-nam",
+          "description": "Câu hỏi lấy từ đề chính thức kỳ thi tốt nghiệp THPT các năm, gồm cả dạng đúng – sai và trả lời ngắn của cấu trúc mới.",
+          "order": 4
         }
       ]
     },

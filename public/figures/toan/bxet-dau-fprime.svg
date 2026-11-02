@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 438 96" width="438" height="96" font-family="'Times New Roman','Segoe UI',serif">
+<rect width="438" height="96" fill="#ffffff"/>
+<line x1="52" y1="8" x2="52" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="71" y="33" font-size="14" fill="#111827" text-anchor="middle">−∞</text>
+<line x1="90" y1="8" x2="90" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="118" y="33" font-size="14" fill="#111827" text-anchor="middle"></text>
+<line x1="146" y1="8" x2="146" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="161" y="33" font-size="14" fill="#111827" text-anchor="middle">−1</text>
+<line x1="176" y1="8" x2="176" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="201" y="33" font-size="14" fill="#111827" text-anchor="middle"></text>
+<line x1="226" y1="8" x2="226" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="241" y="33" font-size="14" fill="#111827" text-anchor="middle">0</text>
+<line x1="256" y1="8" x2="256" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="281" y="33" font-size="14" fill="#111827" text-anchor="middle"></text>
+<line x1="306" y1="8" x2="306" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="321" y="33" font-size="14" fill="#111827" text-anchor="middle">2</text>
+<line x1="336" y1="8" x2="336" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="364" y="33" font-size="14" fill="#111827" text-anchor="middle"></text>
+<line x1="392" y1="8" x2="392" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="411" y="33" font-size="14" fill="#111827" text-anchor="middle">+∞</text>
+<line x1="430" y1="8" x2="430" y2="48" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<line x1="8" y1="8" x2="430" y2="8" stroke="#1f2937" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+<text x="30" y="33" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">x</text>
+<line x1="52" y1="48" x2="52" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="71" y="73" font-size="14" fill="#111827" text-anchor="middle"></text>
+<line x1="90" y1="48" x2="90" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="118" y="73" font-size="14" fill="#166534" text-anchor="middle" font-weight="bold">+</text>
+<line x1="146" y1="48" x2="146" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="161" y="73" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold">0</text>
+<line x1="176" y1="48" x2="176" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="201" y="73" font-size="14" fill="#dc2626" text-anchor="middle" font-weight="bold">−</text>
+<line x1="226" y1="48" x2="226" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="241" y="73" font-size="14" fill="#6b7280" text-anchor="middle">||</text>
+<line x1="256" y1="48" x2="256" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="281" y="73" font-size="14" fill="#dc2626" text-anchor="middle" font-weight="bold">−</text>
+<line x1="306" y1="48" x2="306" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="321" y="73" font-size="14" fill="#111827" text-anchor="middle" font-weight="bold">0</text>
+<line x1="336" y1="48" x2="336" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="364" y="73" font-size="14" fill="#166534" text-anchor="middle" font-weight="bold">+</text>
+<line x1="392" y1="48" x2="392" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="411" y="73" font-size="14" fill="#111827" text-anchor="middle"></text>
+<line x1="430" y1="48" x2="430" y2="88" stroke="#1f2937" stroke-width="1" fill="none" stroke-linecap="round"/>
+<line x1="8" y1="48" x2="430" y2="48" stroke="#1f2937" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+<text x="30" y="73" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">f′(x)</text>
+<line x1="8" y1="88" x2="430" y2="88" stroke="#1f2937" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+<line x1="8" y1="8" x2="8" y2="88" stroke="#1f2937" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+<line x1="52" y1="8" x2="52" y2="88" stroke="#1f2937" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+</svg>

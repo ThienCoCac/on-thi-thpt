@@ -1,0 +1,1679 @@
+{
+  "id": "exam-toan-tn-2024-m114",
+  "title": "Đề thi tốt nghiệp THPT môn Toán 2024 – mã đề 114",
+  "slug": "de-toan-tn-2024-m114",
+  "description": "Đề chính thức tốt nghiệp THPT môn Toán năm 2024, mã đề 114 theo Chương trình 2018: 50 câu trắc nghiệm bốn phương án, làm trong 90 phút, mỗi câu 0,2 điểm, kèm lời giải tự viết.",
+  "subject": "toan",
+  "type": "FULL_EXAM",
+  "durationMinutes": 90,
+  "totalScore": 10,
+  "examYear": 2024,
+  "examCode": "TN-TOAN-2024-114",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-02T00:00:00.000Z",
+  "updatedAt": "2026-11-02T14:27:17.120Z",
+  "questions": [
+    {
+      "id": "de-toan-tn-2024-m114-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Nếu $\\int_1^3 f(x)\\,dx = -2$ thì $\\int_3^1 f(x)\\,dx$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$-\\dfrac{1}{2}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{1}{2}$"
+        },
+        {
+          "key": "C",
+          "text": "$2$"
+        },
+        {
+          "key": "D",
+          "text": "$-2$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đổi vị trí hai cận của tích phân thì tích phân đổi dấu, do đó $\\int_3^1 f(x)\\,dx = -\\int_1^3 f(x)\\,dx = -(-2) = 2$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "tích phân",
+        "tính chất tích phân"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Với $a,b$ là các số thực dương tuỳ ý, $\\log_2(ab)$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\log_2 a - \\log_2 b$"
+        },
+        {
+          "key": "B",
+          "text": "$b\\log_2 a$"
+        },
+        {
+          "key": "C",
+          "text": "$\\log_2 a + \\log_2 b$"
+        },
+        {
+          "key": "D",
+          "text": "$\\log_2 a.\\log_2 b$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với cơ số dương khác 1, logarit của một tích bằng tổng các logarit: $\\log_2(ab) = \\log_2 a + \\log_2 b$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "logarit",
+        "công thức tính"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho khối nón có diện tích đáy $B=8$ và chiều cao $h=9$. Thể tích của khối nón đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$192$"
+        },
+        {
+          "key": "B",
+          "text": "$216$"
+        },
+        {
+          "key": "C",
+          "text": "$24$"
+        },
+        {
+          "key": "D",
+          "text": "$72$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thể tích khối nón bằng một phần ba tích diện tích đáy nhân chiều cao: $V = \\dfrac{1}{3}Bh = \\dfrac{1}{3}\\cdot 8 \\cdot 9 = 24$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "khối nón",
+        "thể tích khối nón"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ một đội văn nghệ gồm 6 nam và 5 nữ, có bao nhiêu cách chọn một nam và một nữ để hát song ca với nhau?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$55$"
+        },
+        {
+          "key": "B",
+          "text": "$11$"
+        },
+        {
+          "key": "C",
+          "text": "$110$"
+        },
+        {
+          "key": "D",
+          "text": "$30$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Có 6 cách chọn một bạn nam và 5 cách chọn một bạn nữ. Theo quy tắc nhân, số cách chọn cặp song ca là $6 \\cdot 5 = 30$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "quy tắc nhân",
+        "đếm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, điểm nào dưới đây thuộc mặt phẳng $(Oxy)$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Điểm $M(2;3;0)$"
+        },
+        {
+          "key": "B",
+          "text": "Điểm $P(2;0;5)$"
+        },
+        {
+          "key": "C",
+          "text": "Điểm $N(-1;0;5)$"
+        },
+        {
+          "key": "D",
+          "text": "Điểm $Q(0;3;1)$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mặt phẳng $(Oxy)$ có phương trình $z=0$, nên một điểm thuộc nó khi và chỉ khi hoành độ thứ ba (cao độ) bằng 0. Chỉ có $M(2;3;0)$ thoả mãn.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "Oxyz",
+        "mặt phẳng tọa độ"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trên mặt phẳng tọa độ, điểm biểu diễn của số phức $z=3+5i$ có tọa độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(5;-3)$"
+        },
+        {
+          "key": "B",
+          "text": "$(5;3)$"
+        },
+        {
+          "key": "C",
+          "text": "$(3;-5)$"
+        },
+        {
+          "key": "D",
+          "text": "$(3;5)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Số phức $z=a+bi$ được biểu diễn bởi điểm có hoành độ là phần thực và tung độ là phần ảo, tức $M(a;b)$. Với $z=3+5i$ ta được điểm $(3;5)$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "số phức",
+        "điểm biểu diễn"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho đường thẳng $d:\\dfrac{x-2}{-1}=\\dfrac{y-5}{2}=\\dfrac{z+1}{3}$. Điểm nào dưới đây thuộc $d$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Điểm $P(-2;-5;1)$"
+        },
+        {
+          "key": "B",
+          "text": "Điểm $Q(1;3;2)$"
+        },
+        {
+          "key": "C",
+          "text": "Điểm $N(2;5;-1)$"
+        },
+        {
+          "key": "D",
+          "text": "Điểm $M(-1;2;3)$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phương trình chính tắc cho biết $d$ đi qua điểm $(2;5;-1)$ và nhận $(-1;2;3)$ làm vectơ chỉ phương. Thay toạ độ $N(2;5;-1)$ vào ta được $0=0=0$, vậy $N$ thuộc $d$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "đường thẳng",
+        "Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như sau: Giá trị cực đại của hàm số đã cho bằng",
+      "imageUrl": "/figures/toan/bbt-cubic-cd-2-ct-m2.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$-1$"
+        },
+        {
+          "key": "B",
+          "text": "$-2$"
+        },
+        {
+          "key": "C",
+          "text": "$1$"
+        },
+        {
+          "key": "D",
+          "text": "$2$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trên bảng biến thiên, $f'(x)$ đổi dấu từ dương sang âm khi qua $x=-1$, nên hàm số đạt cực đại tại $x=-1$ và giá trị cực đại là $f(-1)=2$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "cực trị",
+        "bảng biến thiên"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Đồ thị của hàm số nào dưới đây có dạng như đường cong trong hình bên?",
+      "imageUrl": "/figures/toan/trung-phuong-a-am-cd-tru-mot-ct-goc-to.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$y=\\dfrac{3x-1}{x+2}$"
+        },
+        {
+          "key": "B",
+          "text": "$y=-x^4+2x^2$"
+        },
+        {
+          "key": "C",
+          "text": "$y=2x^3+x^2$"
+        },
+        {
+          "key": "D",
+          "text": "$y=x^2-2x$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với $y=-x^4+2x^2$ ta có $y'=-4x^3+4x=-4x(x^2-1)$, đạo hàm đổi dấu từ dương sang âm tại $x=-1$ và $x=1$ (hai cực đại), đổi từ âm sang dương tại $x=0$ (cực tiểu $y=0$). Hệ số $a=-1$ nên hai cánh đi xuống, đúng như hình bên.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "hàm trùng phương",
+        "nhận dạng đồ thị"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình trụ có bán kính đáy $r=3$ và chiều cao $h=5$. Diện tích xung quanh của hình trụ đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$15\\pi$"
+        },
+        {
+          "key": "B",
+          "text": "$20\\pi$"
+        },
+        {
+          "key": "C",
+          "text": "$30\\pi$"
+        },
+        {
+          "key": "D",
+          "text": "$9\\pi$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Diện tích xung quanh hình trụ là $S_{xq} = 2\\pi r h = 2\\pi \\cdot 3 \\cdot 5 = 30\\pi$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "hình trụ",
+        "diện tích xung quanh"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y=f(x)$ có đồ thị là đường cong trong hình bên. Điểm cực tiểu của hàm số đã cho là",
+      "imageUrl": "/figures/toan/cubic-cd-khong-ba-ct-hai-tru-mot.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x=3$"
+        },
+        {
+          "key": "B",
+          "text": "$x=-1$"
+        },
+        {
+          "key": "C",
+          "text": "$x=0$"
+        },
+        {
+          "key": "D",
+          "text": "$x=2$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Điểm cực tiểu là hoành độ nơi hàm số chuyển từ nghịch biến sang đồng biến. Nhìn đồ thị, hàm số giảm trên $(0;2)$ và tăng trên $(2;+\\infty)$ nên điểm cực tiểu là $x=2$, còn $3$ và $-1$ chỉ là các giá trị của hàm số chứ không phải hoành độ cực trị.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "cực trị",
+        "nhận dạng đồ thị"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Tập xác định của hàm số $y=(x-1)^{\\frac{3}{2}}$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(-\\infty;+\\infty)$"
+        },
+        {
+          "key": "B",
+          "text": "$(-\\infty;1)$"
+        },
+        {
+          "key": "C",
+          "text": "$(0;+\\infty)$"
+        },
+        {
+          "key": "D",
+          "text": "$(1;+\\infty)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hàm số lũy thừa với số mũ $\\frac{3}{2}$ được xét khi cơ số dương, tức $x-1>0$, suy ra $x>1$. Vậy tập xác định là khoảng $(1;+\\infty)$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "hàm số lũy thừa",
+        "tập xác định"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(1;2;-4)$ và $B(3;-2;0)$. Vectơ $\\overrightarrow{AB}$ có tọa độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(2;0;-2)$"
+        },
+        {
+          "key": "B",
+          "text": "$(4;0;-4)$"
+        },
+        {
+          "key": "C",
+          "text": "$(-2;4;-4)$"
+        },
+        {
+          "key": "D",
+          "text": "$(2;-4;4)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Toạ độ vectơ $\\overrightarrow{AB}$ hiệu toạ độ điểm cuối trừ điểm đầu: $(3-1;-2-2;0-(-4)) = (2;-4;4)$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "vectơ trong không gian",
+        "Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y=f(x)$ có bảng biến thiên như sau: Tiệm cận đứng của đồ thị hàm số đã cho có phương trình là",
+      "imageUrl": "/figures/toan/bbt-phan-thuc-tc-dung-x1-ngang-3.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x=1$"
+        },
+        {
+          "key": "B",
+          "text": "$x=3$"
+        },
+        {
+          "key": "C",
+          "text": "$y=3$"
+        },
+        {
+          "key": "D",
+          "text": "$y=1$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tại $x=1$ hàm số không xác định và có một phía tiến ra $+\\infty$, phía kia tiến ra $-\\infty$, nên đường thẳng $x=1$ là tiệm cận đứng. Giá trị $3$ ở hai đầu bảng là giới hạn khi $x$ tiến ra vô cực, tương ứng tiệm cận ngang $y=3$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "tiệm cận",
+        "bảng biến thiên"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho mặt cầu $(S):x^2+y^2+z^2-2x+4y-2z-3=0$. Tâm của $(S)$ có tọa độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(-1;2;-1)$"
+        },
+        {
+          "key": "B",
+          "text": "$(1;-2;1)$"
+        },
+        {
+          "key": "C",
+          "text": "$(-2;4;-2)$"
+        },
+        {
+          "key": "D",
+          "text": "$(2;-4;2)$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mặt cầu dạng $x^2+y^2+z^2-2ax-2by-2cz+d=0$ có tâm $I(a;b;c)$. Ở đây $-2a=-2$, $-2b=4$, $-2c=-2$ nên $I(1;-2;1)$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "mặt cầu",
+        "Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho số phức $z=1+2i$. Số phức $2z$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$3+2i$"
+        },
+        {
+          "key": "B",
+          "text": "$2+4i$"
+        },
+        {
+          "key": "C",
+          "text": "$-3+4i$"
+        },
+        {
+          "key": "D",
+          "text": "$3+4i$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhân một số phức với số thực là nhân cả phần thực lẫn phần ảo với số đó: $2z = 2(1+2i) = 2+4i$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "số phức",
+        "phép nhân"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho khối chóp tứ giác có diện tích đáy $B=3$ và chiều cao $h=6$. Thể tích của khối chóp đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$24$"
+        },
+        {
+          "key": "B",
+          "text": "$18$"
+        },
+        {
+          "key": "C",
+          "text": "$6$"
+        },
+        {
+          "key": "D",
+          "text": "$12$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Công thức thể tích khối chóp là $V=\\dfrac{1}{3}Bh = \\dfrac{1}{3}\\cdot 3 \\cdot 6 = 6$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "khối chóp",
+        "thể tích"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho khối lăng trụ tam giác có thể tích $V=36a^3$ và diện tích đáy $B=4a^2$. Chiều cao của khối lăng trụ đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$6a$"
+        },
+        {
+          "key": "B",
+          "text": "$3a$"
+        },
+        {
+          "key": "C",
+          "text": "$9a$"
+        },
+        {
+          "key": "D",
+          "text": "$27a$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thể tích khối lăng trụ là $V=Bh$, nên chiều cao $h = \\dfrac{V}{B} = \\dfrac{36a^3}{4a^2} = 9a$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "lăng trụ",
+        "thể tích"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Tập nghiệm của bất phương trình $\\log_{\\frac{1}{2}}(x+1) > -1$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(1;+\\infty)$"
+        },
+        {
+          "key": "B",
+          "text": "$(-\\infty;1)$"
+        },
+        {
+          "key": "C",
+          "text": "$(0;1)$"
+        },
+        {
+          "key": "D",
+          "text": "$(-1;1)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Điều kiện $x+1>0$. Vì cơ số $\\frac{1}{2}$ nhỏ hơn 1 nên hàm logarit nghịch biến và $-1 = \\log_{\\frac{1}{2}}2$, do đó $x+1<2$. Kết hợp điều kiện ta được $-1<x<1$, tập nghiệm $(-1;1)$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "logarit",
+        "bất phương trình"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Khẳng định nào dưới đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\int \\cos 2x\\,dx = \\dfrac{1}{2}\\sin 2x + C$"
+        },
+        {
+          "key": "B",
+          "text": "$\\int \\cos 2x\\,dx = -\\dfrac{1}{2}\\sin 2x + C$"
+        },
+        {
+          "key": "C",
+          "text": "$\\int \\cos 2x\\,dx = -2\\cos 2x + C$"
+        },
+        {
+          "key": "D",
+          "text": "$\\int \\cos 2x\\,dx = \\dfrac{1}{2}\\cos 2x + C$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vì $(\\sin 2x)' = 2\\cos 2x$ nên nguyên hàm của $\\cos 2x$ là $\\dfrac{1}{2}\\sin 2x + C$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "nguyên hàm",
+        "lượng giác"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cấp số cộng $(u_n)$ với $u_1=3$ và công sai $d=6$. Giá trị của $u_2$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$3$"
+        },
+        {
+          "key": "B",
+          "text": "$-3$"
+        },
+        {
+          "key": "C",
+          "text": "$18$"
+        },
+        {
+          "key": "D",
+          "text": "$9$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hai số hạng liên tiếp của cấp số cộng hơn kém nhau đúng một công sai: $u_2 = u_1 + d = 3 + 6 = 9$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "cấp số cộng"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $f(x)$ có đạo hàm liên tục trên $\\mathbb{R}$ và $f(-2)=-5$, $f(3)=7$. Giá trị của $\\int_{-2}^{3} f'(x)\\,dx$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$-12$"
+        },
+        {
+          "key": "B",
+          "text": "$2$"
+        },
+        {
+          "key": "C",
+          "text": "$-35$"
+        },
+        {
+          "key": "D",
+          "text": "$12$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tích phân của đạo hàm bằng hiệu các giá trị của hàm số tại hai cận: $\\int_{-2}^{3} f'(x)\\,dx = f(3) - f(-2) = 7 - (-5) = 12$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "tích phân",
+        "đạo hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trên khoảng $(-\\infty;+\\infty)$, đạo hàm của hàm số $y=4^x$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$y'=\\dfrac{4^{x+1}}{x+1}$"
+        },
+        {
+          "key": "B",
+          "text": "$y'=x4^{x-1}$"
+        },
+        {
+          "key": "C",
+          "text": "$y'=4^x\\ln 4$"
+        },
+        {
+          "key": "D",
+          "text": "$y'=\\dfrac{4^x}{\\ln 4}$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Công thức đạo hàm của hàm số mũ là $(a^x)' = a^x \\ln a$ với $a>0$ và $a\\ne 1$. Với $a=4$ ta được $y' = 4^x \\ln 4$; các biểu thức khác nhầm sang công thức của hàm lũy thừa.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "đạo hàm",
+        "hàm số mũ"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số bậc ba $y=f(x)$ có đồ thị là đường cong trong hình bên. Số nghiệm thực của phương trình $f(x)=2$ là",
+      "imageUrl": "/figures/toan/cubic-cd-tru-mot-ba-ct-mot-tru-mot-cat-y2.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$0$"
+        },
+        {
+          "key": "B",
+          "text": "$2$"
+        },
+        {
+          "key": "C",
+          "text": "$1$"
+        },
+        {
+          "key": "D",
+          "text": "$3$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Số nghiệm của $f(x)=2$ đúng bằng số giao điểm của đồ thị với đường thẳng $y=2$. Vì $-1 < 2 < 3$, đường thẳng này cắt cả ba nhánh của đồ thị hàm số bậc ba, nên có ba nghiệm thực phân biệt.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "đồ thị hàm số",
+        "phương trình"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c25",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y=f(x)$ có đạo hàm $f'(x)=2-x,\\ \\forall x\\in\\mathbb{R}$. Hàm số đã cho đồng biến trên khoảng nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(-\\infty;+\\infty)$"
+        },
+        {
+          "key": "B",
+          "text": "$(-\\infty;2)$"
+        },
+        {
+          "key": "C",
+          "text": "$(2;+\\infty)$"
+        },
+        {
+          "key": "D",
+          "text": "$(0;5)$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hàm số đồng biến tại những khoảng mà $f'(x)=2-x>0$, tức $x<2$. Vậy hàm số đồng biến trên $(-\\infty;2)$ và nghịch biến trên $(2;+\\infty)$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "chiều biến thiên",
+        "đạo hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c26",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Nghiệm của phương trình $2^{2x+1}=\\dfrac{1}{8}$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x=-1$"
+        },
+        {
+          "key": "B",
+          "text": "$x=1$"
+        },
+        {
+          "key": "C",
+          "text": "$x=-2$"
+        },
+        {
+          "key": "D",
+          "text": "$x=2$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Viết $\\dfrac{1}{8} = 2^{-3}$; hai lũy thừa cùng cơ số $2$ cho $2x+1=-3$, suy ra $x=-2$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "phương trình mũ"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c27",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho số phức $z=2024-2i$. Số phức liên hợp của $z$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$-2024+2i$"
+        },
+        {
+          "key": "B",
+          "text": "$2024+2i$"
+        },
+        {
+          "key": "C",
+          "text": "$2+2024i$"
+        },
+        {
+          "key": "D",
+          "text": "$-2+2024i$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Số phức liên hợp giữ nguyên phần thực và đổi dấu phần ảo, nên $\\overline{z} = 2024+2i$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "số phức liên hợp"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c28",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Khẳng định nào dưới đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\int 5^x\\,dx = 5^x\\ln 5 + C$"
+        },
+        {
+          "key": "B",
+          "text": "$\\int 5^x\\,dx = \\dfrac{5^x}{\\ln 5} + C$"
+        },
+        {
+          "key": "C",
+          "text": "$\\int 5^x\\,dx = \\dfrac{5^{x+1}}{\\ln 5} + C$"
+        },
+        {
+          "key": "D",
+          "text": "$\\int 5^x\\,dx = 5^x + C$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nguyên hàm của hàm mũ là $\\int a^x\\,dx = \\dfrac{a^x}{\\ln a} + C$ với $a>0$, $a\\ne 1$. Thử lại: $\\left(\\dfrac{5^x}{\\ln 5}\\right)' = \\dfrac{5^x\\ln 5}{\\ln 5} = 5^x$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "nguyên hàm",
+        "hàm số mũ"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c29",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trên hai tia $Ox,Oy$ của góc nhọn $xOy$ lần lượt cho 5 điểm và 8 điểm phân biệt khác $O$. Chọn ngẫu nhiên 3 điểm từ 14 điểm (gồm điểm $O$ và 13 điểm đã cho), xác suất để 3 điểm chọn được là ba đỉnh của một tam giác bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{55}{91}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{149}{182}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{5}{7}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{75}{91}$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Không gian mẫu có $C_{14}^{3} = 364$ cách chọn. Ba điểm không tạo thành tam giác khi chúng thẳng hàng, chỉ xảy ra trên hai đường chứa tia $Ox$ và $Oy$ (mỗi đường có thêm điểm $O$): $C_6^3 + C_9^3 = 20 + 84 = 104$. Số bộ ba là đỉnh tam giác bằng $364-104 = 260$, xác suất $\\dfrac{260}{364} = \\dfrac{5}{7}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "xác suất",
+        "tổ hợp"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c30",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị nhỏ nhất của hàm số $f(x)=6x^3-21x^2+20x+1$ trên đoạn $[1;4]$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{34}{9}$"
+        },
+        {
+          "key": "B",
+          "text": "$6$"
+        },
+        {
+          "key": "C",
+          "text": "$129$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{61}{9}$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ta có $f'(x)=18x^2-42x+20 = 2(3x-2)(3x-5)$; trên đoạn $[1;4]$ chỉ có $x=\\dfrac{5}{3}$. Tính $f(1)=6$, $f\\left(\\dfrac{5}{3}\\right) = \\dfrac{34}{9}$, $f(4)=129$. So sánh ba giá trị thu được giá trị nhỏ nhất là $\\dfrac{34}{9}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "giá trị nhỏ nhất",
+        "đạo hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c31",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, mặt phẳng đi qua hai điểm $M(3;1;-1)$, $N(2;-1;4)$ và vuông góc với mặt phẳng $(P):2x-y+3z-1=0$ có phương trình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x-13y-5z+5=0$"
+        },
+        {
+          "key": "B",
+          "text": "$x+2y+z-4=0$"
+        },
+        {
+          "key": "C",
+          "text": "$x-13y-5z-5=0$"
+        },
+        {
+          "key": "D",
+          "text": "$2x-11y-5z=0$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Có $\\overrightarrow{MN}=(-1;-2;5)$ và $\\overrightarrow{n_P}=(2;-1;3)$. Vectơ pháp tuyến của mặt phẳng cần tìm là tích có hướng $[\\overrightarrow{MN},\\overrightarrow{n_P}] = (-1;13;5)$, đổi dấu thành $(1;-13;-5)$. Phương trình đi qua $M$: $(x-3)-13(y-1)-5(z+1)=0$, tức $x-13y-5z+5=0$; kiểm tra $M$ và $N$ đều thuộc, còn $(1;-13;-5)\\cdot(2;-1;3)=2+13-15=0$ bảo đảm vuông góc với $(P)$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "mặt phẳng",
+        "tích có hướng"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c32",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình chóp $S.ABCD$ có đáy là hình vuông, $BD=2a$, cạnh bên $SA$ vuông góc với mặt phẳng đáy và $SA=a$. Góc giữa hai mặt phẳng $(SBD)$ và $(ABCD)$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$45^\\circ$"
+        },
+        {
+          "key": "B",
+          "text": "$30^\\circ$"
+        },
+        {
+          "key": "C",
+          "text": "$90^\\circ$"
+        },
+        {
+          "key": "D",
+          "text": "$60^\\circ$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gọi $O$ là tâm hình vuông, khi đó $AO=\\dfrac{AC}{2}=a$. Vì $BD\\perp AC$ và $BD\\perp SA$ nên $BD\\perp(SAC)$, do đó $BD\\perp SO$. Hai mặt phẳng cùng cắt nhau theo $BD$ và lần lượt chứa $OA$, $OS$ nên góc cần tìm là $\\widehat{SOA}$. Tam giác $SAO$ vuông tại $A$ có $SA=AO=a$, vậy $\\widehat{SOA}=45^\\circ$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "góc giữa hai mặt phẳng",
+        "hình chóp"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c33",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho số phức $z$ thỏa mãn $z.\\overline{z}=4$. Môđun của $z$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4$"
+        },
+        {
+          "key": "B",
+          "text": "$2$"
+        },
+        {
+          "key": "C",
+          "text": "$2\\sqrt{2}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\sqrt{2}$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với mọi số phức ta có $z.\\overline{z} = |z|^2$, nên $|z|^2 = 4$. Vì môđun không âm nên $|z| = 2$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "số phức",
+        "môđun"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c34",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số $f(x)=\\sqrt{x^2-4}$ đồng biến trên khoảng nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(2;+\\infty)$"
+        },
+        {
+          "key": "B",
+          "text": "$(-2;2)$"
+        },
+        {
+          "key": "C",
+          "text": "$(0;+\\infty)$"
+        },
+        {
+          "key": "D",
+          "text": "$(-\\infty;-2)$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tập xác định của hàm số là $|x|\\ge 2$, nên khoảng $(-2;2)$ và một phần của $(0;+\\infty)$ không thuộc tập xác định. Với $x>2$ thì $f'(x) = \\dfrac{x}{\\sqrt{x^2-4}} > 0$, do đó hàm số đồng biến trên $(2;+\\infty)$; với $x<-2$ thì $f'(x)<0$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "chiều biến thiên",
+        "hàm chứa căn"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c35",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Với $a,b$ là hai số thực lớn hơn 1, $\\log_{ab} a$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$1-\\log_a b$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{1}{1+\\log_a b}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{1}{\\log_a b}$"
+        },
+        {
+          "key": "D",
+          "text": "$1+\\log_a b$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đổi cơ số về cơ số $a$: $\\log_{ab} a = \\dfrac{\\log_a a}{\\log_a(ab)} = \\dfrac{1}{1+\\log_a b}$, vì $\\log_a(ab) = \\log_a a + \\log_a b = 1 + \\log_a b$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "logarit",
+        "đổi cơ số"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c36",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Một ô tô đang chuyển động với vận tốc $24$ m/s thì người lái xe đạp phanh. Từ thời điểm đó, ô tô chuyển động thẳng, chậm dần đều với vận tốc biến thiên theo thời gian được xác định bởi quy luật $v(t)=-4t+24$ (m/s) trong đó $t$ là khoảng thời gian tính bằng giây kể từ lúc người lái xe bắt đầu đạp phanh. Quãng đường ô tô đi được từ lúc người lái xe bắt đầu đạp phanh đến khi xe dừng hẳn bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$50$ m"
+        },
+        {
+          "key": "B",
+          "text": "$72$ m"
+        },
+        {
+          "key": "C",
+          "text": "$42$ m"
+        },
+        {
+          "key": "D",
+          "text": "$64$ m"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Xe dừng hẳn khi $v(t)=0$, tức $-4t+24=0$ nên $t=6$. Quãng đường là $S = \\int_0^6 (24-4t)\\,dt = 24\\cdot 6 - 2\\cdot 6^2 = 144 - 72 = 72$ mét.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "ứng dụng tích phân",
+        "chuyển động"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c37",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho điểm $M(1;-2;1)$ và đường thẳng $d:\\begin{cases} x=1+2t \\\\ y=2+2t \\\\ z=1-t \\end{cases}$. Đường thẳng đi qua $M$ và song song với $d$ có phương trình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{x-1}{2}=\\dfrac{y+2}{2}=\\dfrac{z-1}{-1}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{x-2}{1}=\\dfrac{y-2}{2}=\\dfrac{z+1}{1}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{x+1}{2}=\\dfrac{y-2}{2}=\\dfrac{z+1}{-1}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{x-1}{1}=\\dfrac{y+2}{2}=\\dfrac{z-1}{1}$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đường thẳng $d$ có vectơ chỉ phương $(2;2;-1)$. Đường thẳng cần tìm đi qua $M(1;-2;1)$ và song song với $d$ nên nhận cùng vectơ chỉ phương, phương trình chính tắc là $\\dfrac{x-1}{2} = \\dfrac{y+2}{2} = \\dfrac{z-1}{-1}$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "đường thẳng",
+        "song song"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c38",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình chóp tứ giác đều $S.ABCD$ có tất cả các cạnh bằng $2a$. Khoảng cách từ $A$ đến mặt phẳng $(SCD)$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{\\sqrt{3}}{4}a$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{\\sqrt{3}}{2}a$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{2\\sqrt{6}}{3}a$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{\\sqrt{6}}{3}a$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chọn hệ trục với $A(0;0;0)$, $B(2a;0;0)$, $C(2a;2a;0)$, $D(0;2a;0)$. Đáy có tâm $O(a;a;0)$ và $AO=a\\sqrt{2}$, nên chiều cao $SO = \\sqrt{(2a)^2 - (a\\sqrt{2})^2} = a\\sqrt{2}$, tức $S(a;a;a\\sqrt{2})$. Từ $\\overrightarrow{DC}=(2a;0;0)$ và $\\overrightarrow{DS}=(a;-a;a\\sqrt{2})$ thu được mặt phẳng $(SCD)$: $\\sqrt{2}\\,y + z - 2\\sqrt{2}a = 0$. Khoảng cách từ $A$ là $\\dfrac{2\\sqrt{2}a}{\\sqrt{2+1}} = \\dfrac{2\\sqrt{6}}{3}a$.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "khoảng cách",
+        "hình chóp tứ giác đều"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c39",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y=f(x)$ có $f(e)=\\dfrac{1}{5}$ và $f'(x)=\\dfrac{1}{3}\\ln x,\\ \\forall x\\in(0;+\\infty)$. Biết $\\int_e^{e^3}\\dfrac{f(x)}{x^2}\\,dx = ae^{-3}+be^{-1}+c$, với $a,b,c$ là các số hữu tỉ, giá trị của $a-b+c$ thuộc khoảng nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\left(0;\\dfrac{1}{4}\\right)$"
+        },
+        {
+          "key": "B",
+          "text": "$\\left(\\dfrac{1}{4};\\dfrac{1}{2}\\right)$"
+        },
+        {
+          "key": "C",
+          "text": "$\\left(\\dfrac{1}{2};\\dfrac{3}{4}\\right)$"
+        },
+        {
+          "key": "D",
+          "text": "$\\left(\\dfrac{3}{4};1\\right)$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Từ $f'(x) = \\dfrac{1}{3}\\ln x$ và $f(e)=\\dfrac{1}{5}$ có $f(x) = \\dfrac{1}{3}(x\\ln x - x) + \\dfrac{1}{5}$. Suy ra $\\dfrac{f(x)}{x^2} = \\dfrac{\\ln x - 1}{3x} + \\dfrac{1}{5x^2}$, nên $\\int_e^{e^3}\\dfrac{f(x)}{x^2}\\,dx = \\dfrac{1}{3}\\cdot\\dfrac{(\\ln x - 1)^2}{2} - \\dfrac{1}{5x}$ tính từ $e$ đến $e^3$, bằng $\\dfrac{2}{3} - \\dfrac{1}{5}e^{-3} + \\dfrac{1}{5}e^{-1}$. Vậy $a=-\\dfrac{1}{5}$, $b=\\dfrac{1}{5}$, $c=\\dfrac{2}{3}$ và $a-b+c = -\\dfrac{2}{5} + \\dfrac{2}{3} = \\dfrac{4}{15} \\in \\left(\\dfrac{1}{4};\\dfrac{1}{2}\\right)$.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "tích phân",
+        "nguyên hàm",
+        "logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c40",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số bậc bốn $y=f(x)$ có ba điểm cực trị là $-\\dfrac{3}{2}$; $2$; $\\dfrac{11}{2}$ và đạt giá trị nhỏ nhất trên $\\mathbb{R}$. Bất phương trình $f(x)\\le m$ có nghiệm thuộc đoạn $[0;3]$ khi và chỉ khi",
+      "options": [
+        {
+          "key": "A",
+          "text": "$f(2)\\ge m\\ge f(3)$"
+        },
+        {
+          "key": "B",
+          "text": "$m\\ge f(2)$"
+        },
+        {
+          "key": "C",
+          "text": "$m\\ge f(3)$"
+        },
+        {
+          "key": "D",
+          "text": "$m\\ge f(0)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hàm số bậc bốn đạt giá trị nhỏ nhất trên $\\mathbb{R}$ nên hệ số cao nhất dương; bảng biến thiên cho thấy hàm số đồng biến trên $\\left(-\\dfrac{3}{2};2\\right)$ và nghịch biến trên $\\left(2;\\dfrac{11}{2}\\right)$. Trên $[0;3]$ hàm tăng đến $x=2$ rồi giảm, nên giá trị nhỏ nhất là $\\min(f(0);f(3))$. Vì $f(3)-f(0) = \\int_0^3 f'(x)\\,dx$ và tích phân này dương nên $f(0) < f(3)$, do đó bất phương trình có nghiệm trên $[0;3]$ khi và chỉ khi $m \\ge f(0)$.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "cực trị",
+        "bất phương trình",
+        "giá trị nhỏ nhất"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c41",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Có bao nhiêu số nguyên $a$ lớn hơn 1 sao cho ứng với mỗi số $a$ tồn tại không quá 4 số nguyên $b$ thỏa mãn $5^{b^2} < 25^{-b}.a^{b+2}$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$124$"
+        },
+        {
+          "key": "B",
+          "text": "$125$"
+        },
+        {
+          "key": "C",
+          "text": "$99$"
+        },
+        {
+          "key": "D",
+          "text": "$100$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bất phương trình tương đương $5^{b^2+2b} < a^{b+2}$, lấy logarit cơ số $5$ được $(b+2)(b - \\log_5 a) < 0$. Với $a>1$ thì $\\log_5 a > 0$, nên $b<-2$ vô nghiệm và $b=-2$ bị loại; các nghiệm nguyên là $-1 \\le b < \\log_5 a$, có $\\lceil \\log_5 a \\rceil + 1$ giá trị. Yêu cầu không quá $4$ nghiệm cho $\\log_5 a \\le 3$, tức $a \\le 125$. Kết hợp $a$ nguyên lớn hơn $1$ được $a \\in \\{2;3;\\ldots;125\\}$, tức $124$ giá trị.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "bất phương trình mũ",
+        "đếm số nguyên"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c42",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho hai đường thẳng $d_1:\\dfrac{x-2}{1}=\\dfrac{y-4}{3}=\\dfrac{z+3}{-5}$ và $d_2:\\dfrac{x+2}{1}=\\dfrac{y+2}{-1}=\\dfrac{z+1}{-1}$. Trong các mặt cầu tiếp xúc với cả hai đường thẳng $d_1$ và $d_2$, gọi $(S)$ là mặt cầu có bán kính nhỏ nhất, phương trình của $(S)$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(x-1)^2+(y+2)^2+(z+1)^2=6$"
+        },
+        {
+          "key": "B",
+          "text": "$(x+1)^2+y^2+(z-1)^2=6$"
+        },
+        {
+          "key": "C",
+          "text": "$x^2+(y-3)^2+(z+4)^2=6$"
+        },
+        {
+          "key": "D",
+          "text": "$x^2+(y+1)^2+z^2=6$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bán kính mặt cầu tiếp xúc hai đường thẳng chéo nhau luôn không nhỏ hơn nửa khoảng cách giữa chúng; dấu bằng xảy ra khi mặt cầu tiếp xúc tại hai chân đường vuông góc chung. Giải điều kiện vuông góc chung cho $P(1;1;2)$ trên $d_1$ và $Q(-3;-1;0)$ trên $d_2$, nên $R = \\dfrac{PQ}{2} = \\dfrac{2\\sqrt{6}}{2} = \\sqrt{6}$ và tâm là trung điểm $I(-1;0;1)$. Phương trình mặt cầu là $(x+1)^2 + y^2 + (z-1)^2 = 6$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "mặt cầu",
+        "đường thẳng chéo nhau"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c43",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $f(x)=\\dfrac{2}{x^3}+\\ln\\dfrac{x+3}{x-3}$. Có bao nhiêu số nguyên $a\\in(-\\infty;2100)$ thỏa mãn $f(a-2024)+f(6a-27)\\ge 0$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$288$"
+        },
+        {
+          "key": "B",
+          "text": "$1807$"
+        },
+        {
+          "key": "C",
+          "text": "$360$"
+        },
+        {
+          "key": "D",
+          "text": "$2096$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hàm số xác định khi $|x|>3$, là hàm lẻ và có $f'(x) = -\\dfrac{6}{x^4} - \\dfrac{6}{x^2-9} < 0$ trên từng khoảng; hơn nữa $f(x)>0$ với $x>3$ và $f(x)<0$ với $x<-3$. Đặt $u=a-2024$, $v=6a-27$; điều kiện xác định đòi $a\\le 2020$ hoặc $a\\ge 2028$, đồng thời $a\\le 3$ hoặc $a\\ge 6$. Nếu $a\\ge 2028$ thì $u>3$ và $v>3$, tổng hai số hạng đều dương, lấy $72$ giá trị từ $2028$ đến $2099$. Nếu $u<-3<v$ thì $f(u)+f(v)\\ge 0$ tương đương $f(v)\\ge f(-u)$; vì $f$ nghịch biến trên $(3;+\\infty)$ nên $v\\le -u$, tức $7a\\le 2051$, cho $a\\le 293$; kết hợp $a\\ge 6$ được $288$ giá trị. Nếu $a\\le 3$ thì cả $u$ và $v$ đều nhỏ hơn $-3$, tổng âm nên loại. Vậy có $288+72 = 360$ số nguyên.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "hàm số lẻ",
+        "đạo hàm",
+        "bất phương trình"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c44",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình chóp $S.ABC$ có đáy là tam giác vuông cân tại $A$, $AB=2a$, mặt bên $SAB$ là tam giác đều nằm trong mặt phẳng vuông góc với mặt phẳng đáy. Diện tích của mặt cầu ngoại tiếp hình chóp đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{28\\pi}{3}a^2$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{25\\pi}{9}a^2$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{25\\pi}{3}a^2$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{28\\pi}{9}a^2$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chọn $A(0;0;0)$, $B(2a;0;0)$, $C(0;2a;0)$. Vì $(SAB)\\perp(ABC)$ và tam giác $SAB$ đều cạnh $2a$ nên $S(a;0;a\\sqrt{3})$. Gọi $O(x;y;z)$ là tâm mặt cầu ngoại tiếp; từ $OA=OB=OC$ có $x=y=a$. Từ $OA=OS$ suy ra $a^2+a^2+z^2 = a^2+(z-a\\sqrt{3})^2$, tức $z = \\dfrac{a}{\\sqrt{3}}$ và $R^2 = OA^2 = 2a^2 + \\dfrac{a^2}{3} = \\dfrac{7a^2}{3}$. Diện tích mặt cầu $S = 4\\pi R^2 = \\dfrac{28\\pi a^2}{3}$.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "mặt cầu ngoại tiếp",
+        "hình chóp"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c45",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Có bao nhiêu giá trị nguyên của tham số $m$ sao cho ứng với mỗi $m$ tồn tại đúng hai số phức $z$ thỏa mãn $|z-1-5i|+|z-1+5i|=10$ và $|z-2-i|=m$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$2$"
+        },
+        {
+          "key": "B",
+          "text": "$3$"
+        },
+        {
+          "key": "C",
+          "text": "$5$"
+        },
+        {
+          "key": "D",
+          "text": "$4$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đặt $A(1;5)$, $B(1;-5)$ thì $AB=10$ đúng bằng tổng hai khoảng cách, nên quỹ tích điểm biểu diễn $z$ là đoạn $AB$ nằm trên đường thẳng $x=1$. Điều kiện thứ hai là đường tròn tâm $C(2;1)$ bán kính $m$. Khoảng cách từ $C$ đến đường thẳng $x=1$ bằng $1$ với hình chiếu $(1;1)$ thuộc đoạn $AB$, còn $CA=\\sqrt{17}$ và $CB=\\sqrt{37}$. Đường tròn cắt đoạn tại đúng hai điểm khi $1 < m \\le \\sqrt{17}$, tức $m \\in \\{2;3;4\\}$: có $3$ giá trị nguyên.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "số phức",
+        "quỹ tích",
+        "đường tròn"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c46",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét hàm số $f(x)=ax^3+bx^2+cx+d$ $(a,b,c,d\\in\\mathbb{R},\\ a>0)$ có hai điểm cực trị $x_1$, $x_2$ (với $x_1<x_2$) thỏa mãn $x_1+x_2=0$. Hình phẳng giới hạn bởi đường $y=f'(x)f''(x)$ và trục hoành có diện tích bằng $\\dfrac{9}{4}$. Biết $\\int_{x_1}^{x_2}\\dfrac{f'(x)}{3^x+1}\\,dx = -\\dfrac{7}{2}$, giá trị của $\\int_0^{x_2}(x+2)f''(x)\\,dx$ thuộc khoảng nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(-7;-6)$"
+        },
+        {
+          "key": "B",
+          "text": "$(0;1)$"
+        },
+        {
+          "key": "C",
+          "text": "$(-1;0)$"
+        },
+        {
+          "key": "D",
+          "text": "$(6;7)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hai cực trị đối nhau nên $b=0$, khi đó $f'(x)=3ax^2+c$ là hàm chẵn và $f''(x)=6ax$. Đặt $x_2=t$, viết $f'(x)=3a(x^2-t^2)$, suy ra $f'(x)f''(x)=18a^2x(x^2-t^2)$; diện tích hai phần hình phẳng bằng $9a^2t^4 = \\dfrac{9}{4}$, tức $at^2 = \\dfrac{1}{2}$ và $c = -3at^2$. Đổi biến $x\\to -x$ trong tích phân đã cho rồi cộng hai biểu thức thu được $2I = \\int_{-t}^{t} f'(x)\\,dx = -7$, nên $\\int_0^t f'(x)\\,dx = at^3 + ct = -\\dfrac{7}{2}$; thay $c=-3at^2$ được $-2at^3 = -\\dfrac{7}{2}$, tức $at^3 = \\dfrac{7}{4}$. Cuối cùng $\\int_0^t (x+2)f''(x)\\,dx = \\int_0^t (6ax^2 + 12ax)\\,dx = 2at^3 + 6at^2 = \\dfrac{7}{2} + 3 = \\dfrac{13}{2}$, thuộc khoảng $(6;7)$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "hàm số bậc ba",
+        "tích phân",
+        "diện tích hình phẳng"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c47",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét phương trình bậc hai $az^2+bz+c=0$ $(a,b,c\\in\\mathbb{R},\\ a\\ne 0)$ có hai nghiệm phức $z_1,z_2$ có phần ảo khác 0 và $\\left|2z_1-\\dfrac{1}{9}\\right|=|z_1-z_2|$. Giả sử $|z_1|=\\dfrac{1}{\\sqrt{k}}$ và $w$ là số phức thỏa mãn $cw^2+bw+a=0$, có bao nhiêu số nguyên dương $k$ sao cho ứng với mỗi $k$ tồn tại đúng 9 số phức $z_3$ có phần ảo nguyên, $z_3-w$ là số thuần ảo và $|z_3|\\le |w|$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$22$"
+        },
+        {
+          "key": "B",
+          "text": "$12$"
+        },
+        {
+          "key": "C",
+          "text": "$11$"
+        },
+        {
+          "key": "D",
+          "text": "$23$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vì $a,b,c$ thực và phần ảo khác $0$ nên $z_2 = \\overline{z_1}$; đặt $z_1 = p + qi$ với $q \\ne 0$. Từ $z_1 z_2 = \\dfrac{c}{a} = p^2 + q^2 = \\dfrac{1}{k}$ và $|z_1 - z_2| = 2|q|$, điều kiện $\\left|2z_1 - \\dfrac{1}{9}\\right| = |z_1 - z_2|$ cho $\\left(2p - \\dfrac{1}{9}\\right)^2 + 4q^2 = 4q^2$, tức $p = \\dfrac{1}{18}$. Phương trình $cw^2 + bw + a = 0$ có nghiệm là nghịch đảo của $z_1$ và $z_2$, nên lấy $w = \\dfrac{1}{z_1}$ thì $|w| = \\sqrt{k}$ và phần thực của $w$ là $\\dfrac{p}{p^2+q^2} = \\dfrac{k}{18}$. Điều kiện $z_3 - w$ là số thuần ảo nghĩa là $\\mathrm{Re}\\,z_3 = \\dfrac{k}{18}$; kết hợp $|z_3| \\le |w|$ cho phần ảo $y$ thỏa $y^2 \\le k - \\dfrac{k^2}{324}$, tức $|y| \\le R = \\dfrac{\\sqrt{k(324-k)}}{18}$. Số giá trị nguyên của $y$ bằng $2\\lfloor R \\rfloor + 1$, nên đúng $9$ khi $4 \\le R < 5$, tức $5184 \\le k(324-k) < 8100$. Bất đẳng thức thứ nhất cho $17 \\le k \\le 307$, bất đẳng thức thứ hai loại các $k$ từ $28$ đến $296$; vậy $k \\in \\{17;18;\\ldots;27\\} \\cup \\{297;298;\\ldots;307\\}$, mỗi nhóm $11$ giá trị, tất cả $22$ số nguyên dương.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "số phức",
+        "phương trình bậc hai",
+        "đếm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c48",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho khối lăng trụ đứng $ABC.A'B'C'$ có đáy $ABC$ là tam giác vuông cân tại $A$, $AB=a$. Biết góc giữa hai mặt phẳng $(A'BC)$ và $(ABC)$ bằng $30^\\circ$, thể tích của khối lăng trụ đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{3\\sqrt{6}}{4}a^3$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{\\sqrt{6}}{12}a^3$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{\\sqrt{6}}{4}a^3$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{\\sqrt{6}}{36}a^3$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gọi $M$ là trung điểm $BC$. Vì $ABC$ vuông cân tại $A$ nên $AM\\perp BC$ và $AM = \\dfrac{BC}{2} = \\dfrac{a\\sqrt{2}}{2}$; lăng trụ đứng cho $A'A\\perp(ABC)$, nên $A'M\\perp BC$ và góc giữa hai mặt phẳng chính là $\\widehat{A'MA} = 30^\\circ$. Chiều cao $AA' = AM\\tan 30^\\circ = \\dfrac{a\\sqrt{2}}{2}\\cdot\\dfrac{\\sqrt{3}}{3} = \\dfrac{a\\sqrt{6}}{6}$. Diện tích đáy $B = \\dfrac{a^2}{2}$, suy ra $V = \\dfrac{a^2}{2}\\cdot\\dfrac{a\\sqrt{6}}{6} = \\dfrac{\\sqrt{6}}{12}a^3$.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "lăng trụ đứng",
+        "góc giữa hai mặt phẳng",
+        "thể tích"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c49",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét hàm số bậc bốn $y=f(x)$ có $f(-1)=-5$. Hàm số $y=f'(x)$ đồng biến trên khoảng $(-\\infty;+\\infty)$, $f'(4)=0$ và $f'(-1)=a$. Có bao nhiêu số nguyên $a\\in(-100;0)$ sao cho ứng với mỗi $a$, hàm số $y=\\left|f(x)+\\dfrac{5}{x^2}\\right|$ có đúng 3 điểm cực trị thuộc khoảng $(-1;+\\infty)$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$9$"
+        },
+        {
+          "key": "B",
+          "text": "$10$"
+        },
+        {
+          "key": "C",
+          "text": "$90$"
+        },
+        {
+          "key": "D",
+          "text": "$89$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đặt $g(x) = f(x) + \\dfrac{5}{x^2}$, khi đó $g'(x) = f'(x) - \\dfrac{10}{x^3}$ là hàm đồng biến trên từng khoảng $(-1;0)$ và $(0;+\\infty)$ (vì $f'$ đồng biến và $-\\dfrac{10}{x^3}$ đồng biến). Trên $(0;+\\infty)$: $g'(4) = -\\dfrac{10}{64} < 0$ nên $g'$ có đúng một nghiệm $x_0 > 4$, tức $g$ giảm rồi tăng; hơn nữa $f$ nghịch biến trên $(-\\infty;4)$ nên $f(4) < f(-1) = -5$, do đó $g(x_0) < g(4) < -5 + \\dfrac{5}{16} < 0$. Vì $g(0^+) = g(+\\infty) = +\\infty$, đồ thị $g$ cắt hoành trục tại hai điểm, nên $y=|g(x)|$ có đúng ba điểm cực trị trên $(0;+\\infty)$. Trên $(-1;0)$: $g(-1) = -5 + 5 = 0$ và $g'(0^-) = +\\infty$, nên để $|g|$ không có thêm cực trị thì $g'(-1) = a + 10 \\ge 0$, tức $a \\ge -10$ (nếu $a < -10$ thì $g'$ có nghiệm $x_1 \\in (-1;0)$, $g(x_1) < 0$ và ta được thêm hai cực trị). Kết hợp $a$ nguyên thuộc $(-100;0)$ thu được $a \\in \\{-10; -9; \\ldots; -1\\}$, đúng $10$ giá trị.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "đạo hàm",
+        "giá trị tuyệt đối",
+        "cực trị"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2024-m114-c50",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(1;6;-1)$, $B(2;-4;-1)$ và mặt cầu $(S)$ tâm $I(1;2;-1)$ đi qua $A$. Điểm $M(a;b;c)$ (với $c>0$) thuộc $(S)$ sao cho $IAM$ là tam giác tù, có diện tích bằng $2\\sqrt{7}$ và khoảng cách giữa hai đường thẳng $BM$ và $IA$ lớn nhất. Giá trị của $a+b+c$ thuộc khoảng nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\left(\\dfrac{3}{2};2\\right)$"
+        },
+        {
+          "key": "B",
+          "text": "$\\left(1;\\dfrac{3}{2}\\right)$"
+        },
+        {
+          "key": "C",
+          "text": "$\\left(\\dfrac{5}{2};3\\right)$"
+        },
+        {
+          "key": "D",
+          "text": "$\\left(2;\\dfrac{5}{2}\\right)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bán kính mặt cầu là $R = IA = 4$. Coi $IA$ là đáy của tam giác $IAM$ thì diện tích $2\\sqrt{7}$ cho khoảng cách từ $M$ đến đường thẳng $IA$ bằng $\\sqrt{7}$; đường thẳng $IA$ có dạng $x=1,\\ z=-1$, nên $(a-1)^2 + (c+1)^2 = 7$. Vì $M$ thuộc $(S)$: $(a-1)^2 + (b-2)^2 + (c+1)^2 = 16$, suy ra $(b-2)^2 = 9$, tức $b=5$ hoặc $b=-1$. Với $b=5$ thì $MA^2 = 8$, $MI^2 = 16$, $IA^2 = 16$ (tam giác nhọn), loại; với $b=-1$ thì $MA^2 = 56 > MI^2 + IA^2 = 32$, tam giác tù, nhận. Lấy vectơ chỉ phương của $IA$ là $(0;1;0)$ và $\\overrightarrow{BM} = (a-2;3;c+1)$, khoảng cách giữa $BM$ và $IA$ bằng $\\dfrac{c+1}{\\sqrt{(c+1)^2 + (a-2)^2}}$, đạt lớn nhất khi $a=2$ (khi hai đường thẳng cùng nằm trong hai mặt phẳng song song cách nhau $1$ đơn vị). Khi đó $(c+1)^2 = 6$ và $c>0$ nên $c = \\sqrt{6} - 1$. Vậy $a+b+c = 2 - 1 + \\sqrt{6} - 1 = \\sqrt{6} \\approx 2{,}45$, thuộc khoảng $\\left(2;\\dfrac{5}{2}\\right)$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "mặt cầu",
+        "khoảng cách",
+        "Oxyz"
+      ]
+    }
+  ]
+}

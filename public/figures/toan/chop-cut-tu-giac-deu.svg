@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 252" width="300" height="252" font-family="'Times New Roman','Segoe UI',serif">
+<rect width="300" height="252" fill="#ffffff"/>
+<path d="M 52 210 L 198 210 L 242 174 L 96 174 Z" stroke="none" stroke-width="1.6" fill="rgba(37,99,235,.08)" stroke-linecap="round"/>
+<line x1="52" y1="210" x2="198" y2="210" stroke="#1f2937" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+<line x1="198" y1="210" x2="242" y2="174" stroke="#1f2937" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+<line x1="242" y1="174" x2="96" y2="174" stroke="#9ca3af" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-dasharray="5 4"/>
+<line x1="96" y1="174" x2="52" y2="210" stroke="#9ca3af" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-dasharray="5 4"/>
+<line x1="104" y1="106" x2="182" y2="106" stroke="#1f2937" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+<line x1="182" y1="106" x2="208" y2="88" stroke="#1f2937" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+<line x1="208" y1="88" x2="130" y2="88" stroke="#1f2937" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+<line x1="130" y1="88" x2="104" y2="106" stroke="#1f2937" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+<line x1="52" y1="210" x2="104" y2="106" stroke="#1f2937" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+<line x1="198" y1="210" x2="182" y2="106" stroke="#1f2937" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+<line x1="242" y1="174" x2="208" y2="88" stroke="#1f2937" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+<line x1="96" y1="174" x2="130" y2="88" stroke="#9ca3af" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-dasharray="5 4"/>
+<text x="38" y="225" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">A</text>
+<text x="212" y="225" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">B</text>
+<text x="256" y="189" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">C</text>
+<text x="82" y="189" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">D</text>
+<text x="90" y="98" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">A'</text>
+<text x="196" y="98" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">B'</text>
+<text x="222" y="80" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">C'</text>
+<text x="116" y="80" font-size="14" fill="#111827" text-anchor="middle" font-style="italic">D'</text>
+<line x1="150" y1="106" x2="150" y2="210" stroke="#dc2626" stroke-width="1.3" fill="none" stroke-linecap="round" stroke-dasharray="5 4"/>
+<text x="158" y="162" font-size="13" fill="#dc2626" text-anchor="start">1,5 cm</text>
+<text x="125" y="236" font-size="13" fill="#111827" text-anchor="middle">10,4 cm</text>
+<text x="156" y="74" font-size="13" fill="#111827" text-anchor="middle">7,4 cm</text>
+</svg>

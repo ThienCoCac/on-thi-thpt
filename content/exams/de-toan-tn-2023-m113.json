@@ -1,0 +1,1675 @@
+{
+  "id": "exam-toan-tn-2023-m113",
+  "title": "Đề thi tốt nghiệp THPT môn Toán 2023 – mã đề 113",
+  "slug": "de-toan-tn-2023-m113",
+  "description": "Đề chính thức tốt nghiệp THPT môn Toán năm 2023, mã đề 113 theo Chương trình 2006: 50 câu trắc nghiệm bốn phương án, làm trong 90 phút, mỗi câu 0,2 điểm, kèm lời giải tự viết.",
+  "subject": "toan",
+  "type": "FULL_EXAM",
+  "durationMinutes": 90,
+  "totalScore": 10,
+  "examYear": 2023,
+  "examCode": "TN-TOAN-2023-113",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-02T00:00:00.000Z",
+  "updatedAt": "2026-11-02T14:29:46.399Z",
+  "questions": [
+    {
+      "id": "de-toan-tn-2023-m113-c1",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, mặt phẳng $(P): \\dfrac{x}{3} + \\dfrac{y}{5} + \\dfrac{z}{2} = 1$ cắt trục $Oy$ tại điểm có tọa độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(0;2;0)$"
+        },
+        {
+          "key": "B",
+          "text": "$(0;3;0)$"
+        },
+        {
+          "key": "C",
+          "text": "$(0;5;0)$"
+        },
+        {
+          "key": "D",
+          "text": "$(0;-1;0)$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Điểm thuộc trục $Oy$ có $x = 0$ và $z = 0$, thay vào phương trình mặt phẳng còn $\\dfrac{y}{5} = 1$, suy ra $y = 5$. Vậy giao điểm cần tìm là $(0;5;0)$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "phương trình mặt phẳng",
+        "không gian Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c2",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Với $a$ là số thực dương tùy ý, $\\log_7 (7a)$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$a$"
+        },
+        {
+          "key": "B",
+          "text": "$1 + a$"
+        },
+        {
+          "key": "C",
+          "text": "$1 + \\log_7 a$"
+        },
+        {
+          "key": "D",
+          "text": "$1 - \\log_7 a$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vì $a > 0$ nên áp dụng công thức logarit của một tích: $\\log_7(7a) = \\log_7 7 + \\log_7 a = 1 + \\log_7 a$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c3",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, phương trình đường thẳng $d$ đi qua điểm $M(-3;-1;2)$ và có một vectơ chỉ phương $\\vec{u} = (4;3;-2)$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{x+3}{4} = \\dfrac{y+1}{3} = \\dfrac{z-2}{-2}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{x-4}{-3} = \\dfrac{y-3}{-1} = \\dfrac{z+2}{2}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{x-3}{4} = \\dfrac{y-1}{3} = \\dfrac{z+2}{-2}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{x+4}{-3} = \\dfrac{y+3}{-1} = \\dfrac{z-2}{2}$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phương trình chính tắc của đường thẳng đi qua $M(x_0;y_0;z_0)$ với vectơ chỉ phương $(a;b;c)$ là $\\dfrac{x-x_0}{a} = \\dfrac{y-y_0}{b} = \\dfrac{z-z_0}{c}$. Với $M(-3;-1;2)$ và $\\vec{u} = (4;3;-2)$, các tử số phải là $x+3$, $y+1$, $z-2$ còn các mẫu số là $4;3;-2$, nên phương trình cần tìm là $\\dfrac{x+3}{4} = \\dfrac{y+1}{3} = \\dfrac{z-2}{-2}$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "phương trình đường thẳng",
+        "không gian Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c4",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Với $a$ là số thực dương tùy ý, biểu thức $a^{\\frac{5}{3}} \\cdot a^{\\frac{1}{3}}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$a^{\\frac{4}{3}}$"
+        },
+        {
+          "key": "B",
+          "text": "$a^5$"
+        },
+        {
+          "key": "C",
+          "text": "$a^{\\frac{5}{9}}$"
+        },
+        {
+          "key": "D",
+          "text": "$a^2$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cùng cơ số thì nhân lũy thừa cộng số mũ: $a^{\\frac{5}{3}} \\cdot a^{\\frac{1}{3}} = a^{\\frac{5}{3} + \\frac{1}{3}} = a^{\\frac{6}{3}} = a^2$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "lũy thừa"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c5",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Số phức nào dưới đây là số thuần ảo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$1 + i$"
+        },
+        {
+          "key": "B",
+          "text": "$1 - i$"
+        },
+        {
+          "key": "C",
+          "text": "$2$"
+        },
+        {
+          "key": "D",
+          "text": "$-i$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Số thuần ảo là số có phần thực bằng $0$. Các số $1+i$, $1-i$ có phần thực bằng $1$, số $2$ có phần ảo bằng $0$; chỉ $-i = 0 - 1i$ là số thuần ảo.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "số phức"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c6",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số nào dưới đây có đồ thị như đường cong trong hình bên?",
+      "imageUrl": "/figures/toan/trung-phuong-a-am-cd-tru-mot-ct-goc-to.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$y = -x^3 + 3x^2 + 1$"
+        },
+        {
+          "key": "B",
+          "text": "$y = -x^4 + 2x^2$"
+        },
+        {
+          "key": "C",
+          "text": "$y = x^4 - 2x^2 + 1$"
+        },
+        {
+          "key": "D",
+          "text": "$y = x^3 - 3x^2$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đồ thị đối xứng qua trục $Oy$ nên hàm số phải là hàm trùng phương, loại hai hàm bậc ba ở đáp án A và D. Hai nhánh cụp xuống dưới nghĩa là khi $x \\to \\pm\\infty$ thì $y \\to -\\infty$, tức hệ số cao nhất âm; chỉ còn $y = -x^4 + 2x^2$. Kiểm lại: $y' = -4x^3 + 4x = -4x(x-1)(x+1)$ đổi dấu tại $x = -1$, $x = 0$, $x = 1$ nên đồ thị có ba cực trị $(-1;1)$, $(0;0)$, $(1;1)$ đúng như hình.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "hàm trùng phương",
+        "đồ thị hàm số"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c7",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = f(x)$ có đạo hàm $f'(x) = x^3, \\forall x \\in \\mathbb{R}$. Hàm số đã cho nghịch biến trên khoảng nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(-\\infty;0)$"
+        },
+        {
+          "key": "B",
+          "text": "$(-\\infty;1)$"
+        },
+        {
+          "key": "C",
+          "text": "$(0;+\\infty)$"
+        },
+        {
+          "key": "D",
+          "text": "$(-\\infty;+\\infty)$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "$f'(x) = x^3 < 0 \\Leftrightarrow x < 0$, nên hàm số nghịch biến trên $(-\\infty;0)$ và đồng biến trên $(0;+\\infty)$. Khoảng $(-\\infty;1)$ ở đáp án B không thỏa vì chứa phần $(0;1)$ mà đạo hàm dương.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "sự đồng biến nghịch biến",
+        "đạo hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c8",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = f(x)$ có bảng biến thiên như sau: Tiệm cận đứng của đồ thị hàm số đã cho có phương trình là",
+      "imageUrl": "/figures/toan/bbt-tc-dung-x1-hai-ngang-m3-3.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x = 1$"
+        },
+        {
+          "key": "B",
+          "text": "$x = -3$"
+        },
+        {
+          "key": "C",
+          "text": "$x = 3$"
+        },
+        {
+          "key": "D",
+          "text": "$x = -1$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Từ bảng biến thiên, khi $x \\to 1^-$ thì $y \\to +\\infty$ và khi $x \\to 1^+$ thì $y \\to -\\infty$; dấu $\\parallel$ tại $x = 1$ cho thấy hàm số không xác định tại đó. Vậy $x = 1$ là tiệm cận đứng, còn $y = -3$ và $y = 3$ là hai tiệm cận ngang.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "tiệm cận",
+        "bảng biến thiên"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c9",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = f(x)$ có đạo hàm $f'(x) = (x+2)(x-1), \\forall x \\in \\mathbb{R}$. Số điểm cực trị của hàm số đã cho là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$2$"
+        },
+        {
+          "key": "B",
+          "text": "$3$"
+        },
+        {
+          "key": "C",
+          "text": "$1$"
+        },
+        {
+          "key": "D",
+          "text": "$0$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "$f'(x) = 0$ tại $x = -2$ và $x = 1$; đây là hai nghiệm đơn nên $f'(x)$ đổi dấu khi qua mỗi nghiệm (dương, âm, dương theo thứ tự các khoảng). Hàm số vì thế có đúng hai điểm cực trị.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "cực trị hàm số",
+        "đạo hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c10",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Tập nghiệm của bất phương trình $\\log_2 (3x) > \\log_2 5$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\left(0;\\dfrac{3}{5}\\right)$"
+        },
+        {
+          "key": "B",
+          "text": "$\\left(\\dfrac{3}{5};+\\infty\\right)$"
+        },
+        {
+          "key": "C",
+          "text": "$\\left(0;\\dfrac{5}{3}\\right)$"
+        },
+        {
+          "key": "D",
+          "text": "$\\left(\\dfrac{5}{3};+\\infty\\right)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cơ số $2 > 1$ nên bất phương trình tương đương với hệ $\\begin{cases} 3x > 0 \\\\ 3x > 5 \\end{cases}$, tức $x > \\dfrac{5}{3}$. Tập nghiệm là $\\left(\\dfrac{5}{3};+\\infty\\right)$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "phương trình và bất phương trình logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c11",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = ax^3 + bx^2 + cx + d$ $(a, b, c, d \\in \\mathbb{R})$ có đồ thị là đường cong trong hình bên. Điểm cực tiểu của hàm số đã cho là",
+      "imageUrl": "/figures/toan/cubic-cd-mot-hai-ct-mot-tru-hai.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x = 2$"
+        },
+        {
+          "key": "B",
+          "text": "$x = -1$"
+        },
+        {
+          "key": "C",
+          "text": "$x = 1$"
+        },
+        {
+          "key": "D",
+          "text": "$x = -2$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Điểm cực tiểu là hoành độ tại đó đồ thị chuyển từ xuống sang lên, tức $x = 1$ (còn $-2$ chỉ là giá trị cực tiểu $y(1)$). Tương tự điểm cực đại là $x = -1$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "cực trị hàm số",
+        "đồ thị hàm số"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c12",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Khẳng định nào dưới đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\int x^5 dx = \\dfrac{x^5}{\\ln 5} + C$"
+        },
+        {
+          "key": "B",
+          "text": "$\\int x^5 dx = 5x^4 + C$"
+        },
+        {
+          "key": "C",
+          "text": "$\\int x^5 dx = \\dfrac{1}{6} x^6 + C$"
+        },
+        {
+          "key": "D",
+          "text": "$\\int x^5 dx = x^6 + C$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với $\\alpha \\ne -1$ ta có $\\int x^{\\alpha} dx = \\dfrac{x^{\\alpha+1}}{\\alpha+1} + C$. Lấy $\\alpha = 5$ được $\\int x^5 dx = \\dfrac{x^6}{6} + C$; đáp án A là công thức nguyên hàm của $a^x$, đáp án B là đạo hàm chứ không phải nguyên hàm.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "nguyên hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c13",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $f(x) = 1 + 2\\cos 2x$. Khẳng định nào dưới đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\int f(x) dx = x + 2\\sin 2x + C$"
+        },
+        {
+          "key": "B",
+          "text": "$\\int f(x) dx = x - \\sin 2x + C$"
+        },
+        {
+          "key": "C",
+          "text": "$\\int f(x) dx = x - 2\\sin 2x + C$"
+        },
+        {
+          "key": "D",
+          "text": "$\\int f(x) dx = x + \\sin 2x + C$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "$\\int 1\\,dx = x$ và $\\int 2\\cos 2x\\,dx = \\sin 2x$ vì $\\dfrac{d}{dx}(\\sin 2x) = 2\\cos 2x$. Cộng lại được $\\int f(x)dx = x + \\sin 2x + C$; đáp án A quên chia cho hệ số $2$ của biến.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "nguyên hàm",
+        "hàm số lượng giác"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c14",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Số giao điểm của đồ thị hàm số $y = x^2 + 2x$ và trục hoành là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$2$"
+        },
+        {
+          "key": "B",
+          "text": "$3$"
+        },
+        {
+          "key": "C",
+          "text": "$0$"
+        },
+        {
+          "key": "D",
+          "text": "$1$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hoành độ giao điểm với trục hoành là nghiệm của $x^2 + 2x = 0 \\Leftrightarrow x(x+2) = 0$, cho hai nghiệm phân biệt $x = 0$ và $x = -2$. Đồ thị cắt trục hoành tại hai điểm.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "parabol",
+        "phương trình bậc hai"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c15",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho khối chóp có diện tích đáy $B = 9a^2$ và chiều cao $h = 2a$. Thể tích của khối chóp đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$6a^3$"
+        },
+        {
+          "key": "B",
+          "text": "$18a^3$"
+        },
+        {
+          "key": "C",
+          "text": "$3a^3$"
+        },
+        {
+          "key": "D",
+          "text": "$24a^3$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Công thức thể tích khối chóp $V = \\dfrac{1}{3}Bh = \\dfrac{1}{3} \\cdot 9a^2 \\cdot 2a = 6a^3$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "thể tích khối chóp"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c16",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Nếu $\\int_1^4 f(x) dx = 6$ thì $\\int_1^4 2f(x) dx$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$3$"
+        },
+        {
+          "key": "B",
+          "text": "$4$"
+        },
+        {
+          "key": "C",
+          "text": "$8$"
+        },
+        {
+          "key": "D",
+          "text": "$12$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tích phân là ánh xạ tuyến tính nên hằng số đưa ra ngoài được: $\\int_1^4 2f(x)dx = 2\\int_1^4 f(x)dx = 2 \\cdot 6 = 12$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "tích phân",
+        "tính chất tích phân"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c17",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Có bao nhiêu số tự nhiên gồm ba chữ số đôi một khác nhau mà các chữ số được lấy từ tập hợp $\\{1;2;3;4;5;6\\}$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$18$"
+        },
+        {
+          "key": "B",
+          "text": "$216$"
+        },
+        {
+          "key": "C",
+          "text": "$120$"
+        },
+        {
+          "key": "D",
+          "text": "$20$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chọn có thứ tự ba chữ số khác nhau từ $6$ chữ số, tức chỉnh hợp chập $3$ của $6$: $A_6^3 = 6 \\cdot 5 \\cdot 4 = 120$. Cả $6$ chữ số đều khác $0$ nên không phải trừ trường hợp chữ số đầu bằng $0$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "chỉnh hợp",
+        "đếm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c18",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các số phức $z_1 = 2 + 3i$ và $z_2 = i$. Số phức $z_1 z_2$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$-3 + 2i$"
+        },
+        {
+          "key": "B",
+          "text": "$2 + 4i$"
+        },
+        {
+          "key": "C",
+          "text": "$3 - 2i$"
+        },
+        {
+          "key": "D",
+          "text": "$2 - 3i$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khai triển tích: $(2+3i)\\cdot i = 2i + 3i^2 = 2i - 3$ vì $i^2 = -1$; sắp lại theo thứ tự phần thực rồi phần ảo ta có đáp án là $-3 + 2i$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "phép toán số phức"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c19",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cấp số nhân $(u_n)$ với $u_1 = 2$ và $u_2 = 8$. Công bội của cấp số nhân đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4$"
+        },
+        {
+          "key": "B",
+          "text": "$6$"
+        },
+        {
+          "key": "C",
+          "text": "$-6$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{1}{4}$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Công bội $q = \\dfrac{u_2}{u_1} = \\dfrac{8}{2} = 4$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "cấp số nhân"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c20",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho mặt cầu $(S)$ có tâm $I(1;0;-1)$ và bán kính $R = \\sqrt{2}$. Phương trình của $(S)$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(x-1)^2 + y^2 + (z+1)^2 = \\sqrt{2}$"
+        },
+        {
+          "key": "B",
+          "text": "$(x-1)^2 + y^2 + (z+1)^2 = 2$"
+        },
+        {
+          "key": "C",
+          "text": "$(x+1)^2 + y^2 + (z-1)^2 = \\sqrt{2}$"
+        },
+        {
+          "key": "D",
+          "text": "$(x+1)^2 + y^2 + (z-1)^2 = 2$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mặt cầu tâm $I(a;b;c)$ bán kính $R$ có phương trình $(x-a)^2 + (y-b)^2 + (z-c)^2 = R^2$. Thay $a = 1$, $b = 0$, $c = -1$ và $R^2 = 2$ ta được $(x-1)^2 + y^2 + (z+1)^2 = 2$; về phải phải là $R^2$ chứ không phải $R$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "phương trình mặt cầu",
+        "không gian Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c21",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, hình chiếu vuông góc của điểm $M(-2;3;1)$ trên trục $Ox$ có tọa độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(-2;0;0)$"
+        },
+        {
+          "key": "B",
+          "text": "$(0;3;1)$"
+        },
+        {
+          "key": "C",
+          "text": "$(0;0;1)$"
+        },
+        {
+          "key": "D",
+          "text": "$(0;3;0)$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hình chiếu lên trục $Ox$ giữ nguyên hoành độ và cho tung độ, cao độ bằng $0$, nên điểm cần tìm là $(-2;0;0)$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "tọa độ không gian",
+        "không gian Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c22",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Tập nghiệm của bất phương trình $2^x \\ge 8$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$[-3;+\\infty)$"
+        },
+        {
+          "key": "B",
+          "text": "$(-3;+\\infty)$"
+        },
+        {
+          "key": "C",
+          "text": "$(3;+\\infty)$"
+        },
+        {
+          "key": "D",
+          "text": "$[3;+\\infty)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Viết $8 = 2^3$; vì cơ số $2 > 1$ nên hàm lũy thừa cơ số $2$ đồng biến, do đó $2^x \\ge 2^3 \\Leftrightarrow x \\ge 3$. Tập nghiệm là $[3;+\\infty)$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "phương trình và bất phương trình mũ"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c23",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình nón có bán kính đáy bằng $a$ và chiều cao bằng $\\sqrt{3}a$. Độ dài đường sinh của hình nón đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\sqrt{2}a$"
+        },
+        {
+          "key": "B",
+          "text": "$2a$"
+        },
+        {
+          "key": "C",
+          "text": "$\\sqrt{10}a$"
+        },
+        {
+          "key": "D",
+          "text": "$4a$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đường sinh, chiều cao và bán kính đáy lập thành tam giác vuông nên $l = \\sqrt{h^2 + r^2} = \\sqrt{3a^2 + a^2} = \\sqrt{4a^2} = 2a$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "hình nón"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c24",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Đạo hàm của hàm số $y = \\log_3 (x+1)$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$y' = \\dfrac{1}{\\ln 3}$"
+        },
+        {
+          "key": "B",
+          "text": "$y' = \\dfrac{1}{(x+1)\\ln 3}$"
+        },
+        {
+          "key": "C",
+          "text": "$y' = \\dfrac{1}{x+1}$"
+        },
+        {
+          "key": "D",
+          "text": "$y' = \\dfrac{x+1}{\\ln 3}$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Công thức $(\\log_a u)' = \\dfrac{u'}{u \\ln a}$. Với $u = x+1$, $u' = 1$ nên $y' = \\dfrac{1}{(x+1)\\ln 3}$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "đạo hàm",
+        "hàm logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c25",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích đáy của khối lăng trụ có thể tích $V$ và chiều cao $h$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{V}{3h}$"
+        },
+        {
+          "key": "B",
+          "text": "$Vh$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{V}{h}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{3V}{h}$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thể tích khối lăng trụ là $V = Bh$ (không có hệ số $\\dfrac{1}{3}$ như khối chóp), suy ra diện tích đáy $B = \\dfrac{V}{h}$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "thể tích khối lăng trụ"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c26",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $f(x)$ liên tục trên $\\mathbb{R}$. Biết hàm số $F(x)$ là một nguyên hàm của $f(x)$ trên $\\mathbb{R}$ và $F(1) = 3, F(3) = 6$. Tích phân $\\int_1^3 f(x) dx$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$2$"
+        },
+        {
+          "key": "B",
+          "text": "$-3$"
+        },
+        {
+          "key": "C",
+          "text": "$9$"
+        },
+        {
+          "key": "D",
+          "text": "$3$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo công thức Newton–Leibniz, $\\int_1^3 f(x)dx = F(3) - F(1) = 6 - 3 = 3$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "tích phân",
+        "nguyên hàm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c27",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trên mặt phẳng tọa độ, điểm $M(-2;2)$ là điểm biểu diễn của số phức nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$2i$"
+        },
+        {
+          "key": "B",
+          "text": "$-2 + 2i$"
+        },
+        {
+          "key": "C",
+          "text": "$2 - 2i$"
+        },
+        {
+          "key": "D",
+          "text": "$2 + 2i$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Điểm biểu diễn số phức $z = a + bi$ là $M(a;b)$, hoành độ là phần thực, tung độ là phần ảo. Với $M(-2;2)$ ta có $z = -2 + 2i$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "số phức",
+        "mặt phẳng tọa độ"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c28",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình trụ có bán kính đáy bằng $a$ và chiều cao bằng $3a$. Diện tích xung quanh của hình trụ đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$7\\pi a^2$"
+        },
+        {
+          "key": "B",
+          "text": "$14\\pi a^2$"
+        },
+        {
+          "key": "C",
+          "text": "$8\\pi a^2$"
+        },
+        {
+          "key": "D",
+          "text": "$6\\pi a^2$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "$S_{xq} = 2\\pi r h = 2\\pi \\cdot a \\cdot 3a = 6\\pi a^2$. Diện tích toàn phần (thêm hai đáy) mới là $8\\pi a^2$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "hình trụ",
+        "diện tích xung quanh"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c29",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(1;2;3)$ và $B(-1;0;5)$. Phương trình của mặt cầu đường kính $AB$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x^2 + (y+1)^2 + (z+4)^2 = 12$"
+        },
+        {
+          "key": "B",
+          "text": "$x^2 + (y+1)^2 + (z+4)^2 = 3$"
+        },
+        {
+          "key": "C",
+          "text": "$x^2 + (y-1)^2 + (z-4)^2 = 12$"
+        },
+        {
+          "key": "D",
+          "text": "$x^2 + (y-1)^2 + (z-4)^2 = 3$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tâm mặt cầu là trung điểm $I(0;1;4)$ của $AB$; $\\overrightarrow{AB} = (-2;-2;2)$ nên $AB = \\sqrt{12}$ và bán kính $R = \\dfrac{AB}{2} = \\sqrt{3}$, tức $R^2 = 3$. Phương trình: $x^2 + (y-1)^2 + (z-4)^2 = 3$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "phương trình mặt cầu",
+        "không gian Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c30",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Tập xác định của hàm số $f(x) = \\log_5\\left(30 - x^2\\right)$ chứa bao nhiêu số nguyên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$5$"
+        },
+        {
+          "key": "B",
+          "text": "$6$"
+        },
+        {
+          "key": "C",
+          "text": "$11$"
+        },
+        {
+          "key": "D",
+          "text": "$10$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Điều kiện $30 - x^2 > 0 \\Leftrightarrow -\\sqrt{30} < x < \\sqrt{30}$. Vì $5 < \\sqrt{30} < 6$ nên các số nguyên thuộc tập xác định là $-5; -4; \\dots; 4; 5$, tất cả $11$ số.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "hàm logarit",
+        "tập xác định"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c31",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình hộp chữ nhật $ABCD.A'B'C'D'$ có $AB = 1$, $BC = 2$, $AA' = 3$ (tham khảo hình bên). Khoảng cách giữa hai đường thẳng $AB'$ và $BC'$ bằng",
+      "imageUrl": "/figures/toan/kh-hop-abcd.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{3\\sqrt{10}}{10}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{6}{7}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{6\\sqrt{13}}{13}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{7}{6}$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chọn hệ trục với $A(0;0;0)$, $B(1;0;0)$, $C(1;2;0)$, $B'(1;0;3)$, $C'(1;2;3)$. Ta có $\\overrightarrow{AB'} = (1;0;3)$, $\\overrightarrow{BC'} = (0;2;3)$ và $\\left[\\overrightarrow{AB'}, \\overrightarrow{BC'}\\right] = (-6;-3;2)$ có độ dài bằng $7$. Do $\\overrightarrow{AB} = (1;0;0)$ nối một điểm của mỗi đường thẳng nên $d(AB'; BC') = \\dfrac{|\\left[\\overrightarrow{AB'}, \\overrightarrow{BC'}\\right] \\cdot \\overrightarrow{AB}|}{\\left|\\left[\\overrightarrow{AB'}, \\overrightarrow{BC'}\\right]\\right|} = \\dfrac{6}{7}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "khoảng cách",
+        "hình hộp chữ nhật",
+        "không gian Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c32",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường gấp khúc $ABC$ trong hình bên là đồ thị của hàm số $y = f(x)$ trên đoạn $[-1;4]$. Tích phân $\\int_{-1}^4 f(x) dx$ bằng",
+      "imageUrl": "/figures/toan/duong-gap-khuc-abc-a-m1-b-2-c-4.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{9}{2}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{7}{2}$"
+        },
+        {
+          "key": "C",
+          "text": "$4$"
+        },
+        {
+          "key": "D",
+          "text": "$3$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trên $[-1;2]$ ta có $f(x) = 1$ nên $\\int_{-1}^2 f(x)dx = 3$. Trên $[2;4]$ ta có $f(x) = 3 - x$ nên $\\int_2^4 (3-x)dx = \\left[3x - \\dfrac{x^2}{2}\\right]_2^4 = 4 - 4 = 0$ (phần tam giác phía trên trục hoành và phần phía dưới triệt tiêu nhau). Cộng lại được $\\int_{-1}^4 f(x)dx = 3$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "tích phân",
+        "đồ thị hàm số"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c33",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số $y = x^4 - 2x^2$ nghịch biến trên khoảng nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(1;+\\infty)$"
+        },
+        {
+          "key": "B",
+          "text": "$(-1;0)$"
+        },
+        {
+          "key": "C",
+          "text": "$(-\\infty;-1)$"
+        },
+        {
+          "key": "D",
+          "text": "$(-\\infty;1)$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "$y' = 4x^3 - 4x = 4x(x-1)(x+1)$. Hàm số nghịch biến trên $(-\\infty;-1)$ và $(0;1)$, đồng biến trên $(-1;0)$ và $(1;+\\infty)$. Đáp án D sai vì trên $(-\\infty;1)$ hàm đổi chiều, còn A và B là các khoảng đồng biến.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "sự đồng biến nghịch biến",
+        "hàm trùng phương"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c34",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số bậc bốn $y = f(x)$ có đồ thị là đường cong trong hình bên. Có bao nhiêu giá trị nguyên của tham số $m$ sao cho ứng với mỗi $m$, phương trình $2f(x) = m$ có $4$ nghiệm thực phân biệt?",
+      "imageUrl": "/figures/toan/trung-phuong-w-cd-khong-5-ct-tru-can-3.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$17$"
+        },
+        {
+          "key": "B",
+          "text": "$16$"
+        },
+        {
+          "key": "C",
+          "text": "$8$"
+        },
+        {
+          "key": "D",
+          "text": "$4$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phương trình tương đương $f(x) = \\dfrac{m}{2}$, nên số nghiệm bằng số giao điểm của đồ thị với đường thẳng $y = \\dfrac{m}{2}$. Có bốn giao điểm khi và chỉ khi $-4 < \\dfrac{m}{2} < 5$ (tại biên $\\dfrac{m}{2} = -4$ chỉ có hai nghiệm, tại $\\dfrac{m}{2} = 5$ chỉ có ba nghiệm). Suy ra $-8 < m < 10$, các số nguyên từ $-7$ đến $9$, tất cả $17$ giá trị.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "biện luận phương trình",
+        "đồ thị hàm số",
+        "hàm trùng phương"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c35",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình chóp đều $S.ABCD$ có độ dài tất cả các cạnh bằng $a$. Góc giữa hai đường thẳng $SB$ và $CD$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$60^\\circ$"
+        },
+        {
+          "key": "B",
+          "text": "$90^\\circ$"
+        },
+        {
+          "key": "C",
+          "text": "$45^\\circ$"
+        },
+        {
+          "key": "D",
+          "text": "$30^\\circ$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáy là hình bình hành nên $CD \\parallel AB$, do đó góc giữa $SB$ và $CD$ bằng góc giữa $SB$ và $AB$, tức là góc $\\angle SBA$ của tam giác $SBA$. Tam giác này có ba cạnh đều bằng $a$ nên là tam giác đều, suy ra góc cần tìm bằng $60^\\circ$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "góc giữa hai đường thẳng",
+        "hình chóp đều"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c36",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Gọi $S$ là tập hợp tất cả các số tự nhiên có hai chữ số khác nhau. Chọn ngẫu nhiên một số từ $S$, xác suất để chọn được số có tổng hai chữ số bằng $8$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{7}{81}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{1}{9}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{4}{81}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{8}{81}$"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Không gian mẫu: chữ số hàng chục có $9$ cách ($1$ đến $9$), hàng đơn vị có $9$ cách khác chữ số đã dùng, nên $|S| = 81$. Các số có tổng hai chữ số bằng $8$ và hai chữ số khác nhau là $17; 26; 35; 53; 62; 71; 80$ (loại $44$), tức $7$ số thuận lợi. Xác suất bằng $\\dfrac{7}{81}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "xác suất",
+        "đếm"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c37",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho điểm $A(1;-1;1)$ và mặt phẳng $(P): 2x + 3y + z - 5 = 0$. Đường thẳng đi qua $A$ và vuông góc với $(P)$ có phương trình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\begin{cases} x = 2 + t \\\\ y = 3 - t \\\\ z = 1 + t \\end{cases}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\begin{cases} x = 1 + 2t \\\\ y = -1 - 3t \\\\ z = 1 + t \\end{cases}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\begin{cases} x = 1 + 2t \\\\ y = -1 + 3t \\\\ z = 1 + t \\end{cases}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\begin{cases} x = 1 + 2t \\\\ y = -1 + 3t \\\\ z = -1 + t \\end{cases}$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đường thẳng vuông góc với $(P)$ nhận vectơ pháp tuyến $\\overrightarrow{n} = (2;3;1)$ của $(P)$ làm vectơ chỉ phương và đi qua $A(1;-1;1)$, nên có phương trình $x = 1 + 2t$, $y = -1 + 3t$, $z = 1 + t$.",
+      "difficulty": "EASY",
+      "score": 0.2,
+      "tags": [
+        "đường thẳng vuông góc mặt phẳng",
+        "không gian Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c38",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho số phức $z$ thỏa mãn $z - 2\\overline{z} = 1 + 6i$. Môđun của $z$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$3$"
+        },
+        {
+          "key": "B",
+          "text": "$\\sqrt{5}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\sqrt{3}$"
+        },
+        {
+          "key": "D",
+          "text": "$5$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đặt $z = a + bi$ thì $\\overline{z} = a - bi$, do đó $z - 2\\overline{z} = -a + 3bi = 1 + 6i$, cho $a = -1$ và $b = 2$. Vậy $|z| = \\sqrt{(-1)^2 + 2^2} = \\sqrt{5}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "số phức",
+        "môđun số phức"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c39",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Có bao nhiêu giá trị nguyên của tham số $m$ sao cho ứng với mỗi $m$, hàm số $y = -\\dfrac{1}{3}x^3 + 2x^2 + mx - \\dfrac{4}{3}$ có đúng một điểm cực trị thuộc khoảng $(-1;8)$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$26$"
+        },
+        {
+          "key": "B",
+          "text": "$27$"
+        },
+        {
+          "key": "C",
+          "text": "$36$"
+        },
+        {
+          "key": "D",
+          "text": "$35$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "$y' = -x^2 + 4x + m$. Với $m \\le -4$ thì $y'$ không đổi dấu, hàm không có cực trị. Với $m > -4$, hai nghiệm $x_1 = 2 - \\sqrt{m+4}$, $x_2 = 2 + \\sqrt{m+4}$ đều là điểm cực trị. Đặt $t = \\sqrt{m+4} > 0$: $x_1 \\in (-1;8) \\Leftrightarrow t < 3$, còn $x_2 \\in (-1;8) \\Leftrightarrow t < 6$. Có đúng một cực trị trong khoảng khi $3 \\le t < 6$, tức $9 \\le m+4 < 36$ hay $5 \\le m \\le 31$: được $27$ giá trị nguyên.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "cực trị hàm số",
+        "biện luận tham số"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c40",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số bậc hai $y = f(x)$ có đồ thị $(P)$ và đường thẳng $d$ cắt $(P)$ tại hai điểm như trong hình bên. Biết rằng hình phẳng giới hạn bởi $(P)$ và $d$ có diện tích $S = \\dfrac{9}{2}$. Tích phân $\\int_3^6 (2x-3) f'(x) dx$ bằng",
+      "imageUrl": "/figures/toan/parabol-cat-duong-thang-vung-to.svg",
+      "options": [
+        {
+          "key": "A",
+          "text": "$51$"
+        },
+        {
+          "key": "B",
+          "text": "$27$"
+        },
+        {
+          "key": "C",
+          "text": "$33$"
+        },
+        {
+          "key": "D",
+          "text": "$39$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vì $(P)$ đi qua hai điểm chung với $d$ tại $x = 3$ và $x = 6$ nên viết được $f(x) = x - 1 + a(x-3)(x-6)$ với $a > 0$. Diện tích $S = a\\int_3^6 (x-3)(6-x)dx = a \\cdot \\dfrac{(6-3)^3}{6} = \\dfrac{9a}{2} = \\dfrac{9}{2}$, suy ra $a = 1$ và $f(x) = x^2 - 8x + 17$, tức $f'(x) = 2x - 8$. Do đó $\\int_3^6 (2x-3)(2x-8)dx = \\int_3^6 (4x^2 - 22x + 24)dx = \\left[\\dfrac{4x^3}{3} - 11x^2 + 24x\\right]_3^6 = 36 - 9 = 27$.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "tích phân",
+        "diện tích hình phẳng",
+        "hàm bậc hai"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c41",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Có bao nhiêu số nguyên $x$ thỏa mãn $\\left(2^x - 16\\right)\\left(\\log_3^2 x - 9\\log_3 x + 18\\right) < 0$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$707$"
+        },
+        {
+          "key": "B",
+          "text": "$728$"
+        },
+        {
+          "key": "C",
+          "text": "$701$"
+        },
+        {
+          "key": "D",
+          "text": "$704$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Điều kiện $x > 0$. Đặt $u = \\log_3 x$, nhân tử thứ hai bằng $(u-3)(u-6)$, nên nó âm khi $3 < u < 6 \\Leftrightarrow 27 < x < 729$ và dương khi $x < 27$ hoặc $x > 729$. Nhân tử thứ nhất $2^x - 16$ âm khi $x < 4$, dương khi $x > 4$. Hai nhân tử trái dấu trong hai trường hợp: $x < 4$ và $x < 27$ cho $x \\in \\{1;2;3\\}$ ($3$ giá trị); $x > 4$ và $27 < x < 729$ cho $x \\in \\{28; 29; \\dots; 728\\}$ ($701$ giá trị). Tổng cộng $704$ số nguyên.",
+      "difficulty": "MEDIUM",
+      "score": 0.2,
+      "tags": [
+        "bất phương trình mũ",
+        "bất phương trình logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c42",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét khối nón $(\\mathcal{N})$ có đỉnh và đường tròn đáy cùng nằm trên một mặt cầu bán kính bằng $2\\sqrt{3}$. Khi $(\\mathcal{N})$ có độ dài đường sinh bằng $6$, thể tích của nó bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$18\\pi$"
+        },
+        {
+          "key": "B",
+          "text": "$9\\sqrt{3}\\pi$"
+        },
+        {
+          "key": "C",
+          "text": "$54\\pi$"
+        },
+        {
+          "key": "D",
+          "text": "$27\\sqrt{3}\\pi$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tâm mặt cầu cách đều mọi điểm của đường tròn đáy nên nằm trên trục của hình nón; thiết diện qua trục là tam giác cân nội tiếp đường tròn lớn bán kính $R = 2\\sqrt{3}$. Với cạnh bên $l = 6$ và chiều cao $h$, bán kính đường tròn ngoại tiếp là $R = \\dfrac{l^2}{2h}$, nên $2\\sqrt{3} = \\dfrac{36}{2h}$, suy ra $h = 3\\sqrt{3}$ và $r^2 = l^2 - h^2 = 36 - 27 = 9$. Thể tích $V = \\dfrac{1}{3}\\pi r^2 h = \\dfrac{1}{3}\\pi \\cdot 9 \\cdot 3\\sqrt{3} = 9\\sqrt{3}\\pi$.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "khối nón",
+        "mặt cầu ngoại tiếp"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c43",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho mặt cầu $(S): (x-1)^2 + (y+2)^2 + (z+1)^2 = 4$ và đường thẳng $d$ đi qua điểm $A(1;0;-2)$, nhận $\\vec{u} = (1;a;2-a)$ (với $a \\in \\mathbb{R}$) làm vectơ chỉ phương. Biết rằng $d$ cắt $(S)$ tại hai điểm phân biệt mà các tiếp diện của $(S)$ tại hai điểm đó vuông góc với nhau. Hỏi $a^2$ thuộc khoảng nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\left(2;\\dfrac{5}{2}\\right)$"
+        },
+        {
+          "key": "B",
+          "text": "$\\left(\\dfrac{19}{2};10\\right)$"
+        },
+        {
+          "key": "C",
+          "text": "$\\left(\\dfrac{2}{5};\\dfrac{2}{3}\\right)$"
+        },
+        {
+          "key": "D",
+          "text": "$\\left(\\dfrac{7}{2};4\\right)$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mặt cầu có tâm $I(1;-2;-1)$, bán kính $R = 2$. Gọi $M, N$ là hai giao điểm; tiếp diện tại $M$ vuông góc tiếp diện tại $N$ khi và chỉ khi $IM \\perp IN$. Đặt $H$ là chân đường cao hạ từ $I$ xuống $MN$: tam giác $IMN$ vuông cân tại $I$ nên $IH = HM$ và $IH^2 + HM^2 = R^2 = 4$, suy ra $d(I, d) = IH = \\sqrt{2}$. Với $\\overrightarrow{IA} = (0;2;-1)$ ta có $\\left[\\overrightarrow{IA}, \\overrightarrow{u}\\right] = (4-a;-1;-2)$, nên $\\dfrac{(4-a)^2 + 5}{2a^2 - 4a + 5} = 2$, tương đương $a^2 - 8a + 21 = 4a^2 - 8a + 10$, tức $a^2 = \\dfrac{11}{3} \\approx 3{,}67 \\in \\left(\\dfrac{7}{2}; 4\\right)$.",
+      "difficulty": "HARD",
+      "score": 0.2,
+      "tags": [
+        "mặt cầu",
+        "đường thẳng và mặt cầu",
+        "không gian Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c44",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Gọi $S$ là tập hợp các số phức $z = a + bi$ $(a, b \\in \\mathbb{R})$ thỏa mãn $\\left|z + \\overline{z}\\right| + \\left|z - \\overline{z}\\right| = 2$ và $ab \\le 0$. Xét $z_1$ và $z_2$ thuộc $S$ sao cho $\\dfrac{z_1 - z_2}{-1 + i}$ là số thực dương. Giá trị nhỏ nhất của biểu thức $\\left|z_1\\right| + \\left|z_2 - i\\right|$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\sqrt{2}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\sqrt{5}$"
+        },
+        {
+          "key": "C",
+          "text": "$1 + \\sqrt{2}$"
+        },
+        {
+          "key": "D",
+          "text": "$1$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Điều kiện đã cho tương đương $2|a| + 2|b| = 2$, tức $|a| + |b| = 1$ kèm $ab \\le 0$: tập $S$ là hai đoạn thẳng $z_2 = (t; t-1)$ với $t \\in [0;1]$ (góc phần tư IV) và $z_1 = (s; 1+s)$ với $s \\in [-1;0]$ (góc phần tư II). Từ $\\dfrac{z_1 - z_2}{-1+i} = k > 0$ suy ra $z_1 - z_2 = (-k; k)$; thế tọa độ được $t - s = k$ và $2 + s - t = k$, nên $k = 1$ và $t = s + 1$. Khi đó $\\left|z_1\\right| = \\left|z_2 - (1-i)\\right|$, biểu thức cần tìm là tổng khoảng cách từ $z_2(t; t-1)$ đến $P(1;-1)$ và đến $Q(0;1)$. Hai điểm này nằm khác phía so với đường thẳng $y = x - 1$ chứa đoạn $S$ ở góc phần tư IV, nên tổng nhỏ nhất bằng $PQ = \\sqrt{1 + 4} = \\sqrt{5}$, đạt tại $z_2\\left(\\dfrac{2}{3}; -\\dfrac{1}{3}\\right)$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "số phức",
+        "giá trị nhỏ nhất",
+        "hình học phẳng"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c45",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Gọi $S$ là tập hợp các giá trị nguyên của $y$ sao cho ứng với mỗi $y$, tồn tại duy nhất một giá trị $x \\in \\left[\\dfrac{5}{2};\\dfrac{11}{2}\\right]$ thỏa mãn $\\log_3\\left(x^3 - 9x^2 + 24x + y\\right) = \\log_2\\left(-x^2 + 8x - 12\\right)$. Số phần tử của $S$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$7$"
+        },
+        {
+          "key": "B",
+          "text": "$1$"
+        },
+        {
+          "key": "C",
+          "text": "$8$"
+        },
+        {
+          "key": "D",
+          "text": "$3$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đặt $t = x - 4 \\in \\left[-\\dfrac{3}{2}; \\dfrac{3}{2}\\right]$ thì $x^3 - 9x^2 + 24x + y = t^3 + 3t^2 + 16 + y$ và $-x^2 + 8x - 12 = 4 - t^2 > 0$. Xét $F(t) = \\log_3(t^3 + 3t^2 + 16 + y) - \\log_2(4 - t^2)$; vì $F'(t) = \\dfrac{3t(t+2)}{(t^3+3t^2+16+y)\\ln 3} + \\dfrac{2t}{(4-t^2)\\ln 2}$ nên $F$ nghịch biến ở phần xác định ứng với $t < 0$ và đồng biến ở phần ứng với $t > 0$. Với $y > -16$ thì $t = 0$ thuộc tập xác định và $F$ đạt nhỏ nhất tại đó: có nghiệm duy nhất khi $F(0) = 0$, tức $\\log_3(16+y) = 2 \\Leftrightarrow y = -7$ (nếu $-15 \\le y \\le -8$ thì $F(0) < 0$ nên có hai nghiệm; nếu $y \\ge -6$ thì $F(0) > 0$ nên vô nghiệm; riêng $y = -16$ thì $t = 0$ bị loại vì $\\log_3 0$ không xác định, nhưng mỗi nhánh vẫn cho một nghiệm nên vẫn có hai nghiệm). Với $y \\le -17$ thì $t = 0$ bị loại, phương trình có đúng một nghiệm khi và chỉ khi $F\\left(-\\dfrac{3}{2}\\right) \\le 0 < F\\left(\\dfrac{3}{2}\\right)$, tức $19{,}375 + y \\le 3^{\\log_2 1{,}75} \\approx 2{,}43 < 26{,}125 + y$, cho $-23 \\le y \\le -17$. Vậy $S = \\{-23; -22; -21; -20; -19; -18; -17; -7\\}$ có $8$ phần tử.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "phương trình logarit",
+        "khảo sát hàm số",
+        "bài toán tham số"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c46",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $f(x)$ nhận giá trị dương trên khoảng $(0;+\\infty)$, có đạo hàm trên khoảng đó và thỏa mãn $f(x)\\ln f(x) = x\\left(2f(x) - f'(x)\\right), \\forall x \\in (0;+\\infty)$. Biết $f(1) = f(3)$, giá trị $f(2)$ thuộc khoảng nào dưới đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(1;3)$"
+        },
+        {
+          "key": "B",
+          "text": "$(3;5)$"
+        },
+        {
+          "key": "C",
+          "text": "$(32;34)$"
+        },
+        {
+          "key": "D",
+          "text": "$(40;42)$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chia hai vế cho $x f(x) > 0$ được $\\dfrac{\\ln f(x)}{x} = 2 - \\dfrac{f'(x)}{f(x)} = 2 - (\\ln f(x))'$. Đặt $g(x) = \\ln f(x)$ thì $g' + \\dfrac{g}{x} = 2$, nhân với $x$ cho $xg' + g = 2x$, tức $(xg)' = 2x$, suy ra $xg = x^2 + C$ hay $g(x) = x + \\dfrac{C}{x}$. Từ $f(1) = f(3)$ được $1 + C = 3 + \\dfrac{C}{3}$, nên $C = 3$. Vậy $\\ln f(2) = 2 + \\dfrac{3}{2} = 3{,}5$, tức $f(2) = e^{3{,}5} \\approx 33{,}12 \\in (32;34)$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "hàm số và đạo hàm",
+        "phương trình hàm",
+        "logarit"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c47",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho khối chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành, $SA = SB = SC = AC = a$, $SB$ tạo với mặt phẳng $(SAC)$ một góc $60^\\circ$. Thể tích của khối chóp đã cho bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{a^3}{8}$"
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{\\sqrt{3}a^3}{24}$"
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{\\sqrt{3}a^3}{12}$"
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{a^3}{4}$"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chọn hệ trục trong không gian với $M$ (trung điểm $AC$) là gốc, $AC$ nằm trên trục hoành: $A\\left(-\\dfrac{a}{2};0;0\\right)$, $C\\left(\\dfrac{a}{2};0;0\\right)$, $B(p;q;0)$ và $S(0;m;h)$ (vì $SA = SC$ nên hình chiếu của $S$ nằm trên mặt phẳng trung trực của $AC$; $h$ chính là chiều cao khối chóp). Từ $SA = a$ được $m^2 + h^2 = \\dfrac{3a^2}{4}$; từ $SB = a$ được $p^2 + q^2 - 2qm = \\dfrac{a^2}{4}$. Mặt phẳng $(SAC)$ có vectơ pháp tuyến $\\overrightarrow{n} = (0;-h;m)$ với $|\\overrightarrow{n}| = \\dfrac{\\sqrt{3}a}{2}$, nên khoảng cách từ $B$ đến $(SAC)$ bằng $\\dfrac{|qh|}{\\sqrt{h^2+m^2}} = \\dfrac{2|qh|}{\\sqrt{3}a}$. Vì $S \\in (SAC)$ và $SB = a$ nên $\\sin 60^\\circ = \\dfrac{d\\left(B, (SAC)\\right)}{SB} = \\dfrac{2|qh|}{\\sqrt{3}a^2}$, suy ra $|qh| = \\dfrac{3a^2}{4}$. Diện tích hình bình hành $ABCD$ bằng $2S_{ABC} = AC \\cdot |q| = a|q|$, do đó $V = \\dfrac{1}{3} \\cdot a|q| \\cdot h = \\dfrac{a}{3}|qh| = \\dfrac{a}{3} \\cdot \\dfrac{3a^2}{4} = \\dfrac{a^3}{4}$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "thể tích khối chóp",
+        "góc giữa đường thẳng và mặt phẳng",
+        "hình bình hành"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c48",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trên tập số phức, xét phương trình $z^2 + az + b = 0$ $(a, b \\in \\mathbb{R})$. Có bao nhiêu cặp số $(a,b)$ để phương trình đó có hai nghiệm phân biệt $z_1, z_2$ thỏa mãn $\\left|z_1 - 1\\right| = 2$ và $\\left|z_2 - 3 - 2i\\right| = 3$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4$"
+        },
+        {
+          "key": "B",
+          "text": "$6$"
+        },
+        {
+          "key": "C",
+          "text": "$5$"
+        },
+        {
+          "key": "D",
+          "text": "$2$"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vì $a, b$ thực nên hai hoặc đều thực hoặc đối phức. Trường hợp 1: $z_1, z_2 \\in \\mathbb{R}$ khi đó $|z_1 - 1| = 2$ cho $z_1 \\in \\{3;-1\\}$; $|z_2 - 3 - 2i| = 3$ cho $(z_2-3)^2 + 4 = 9$ tức $z_2 = 3 \\pm \\sqrt{5}$. Bốn cách chọn $(z_1;z_2)$ cho bốn tổng $z_1+z_2$ khác nhau nên được $4$ cặp $(a;b)$. Trường hợp 2: $z_2 = \\overline{z_1}$ với $z_1$ không thực; khi đó $z_1$ vừa thuộc đường tròn tâm $(1;0)$ bán kính $2$ vừa thuộc đường tròn tâm $(3;-2)$ bán kính $3$ (vì $|\\overline{z_1} - 3 - 2i| = |z_1 - 3 + 2i|$). Khoảng giữa hai tâm bằng $2\\sqrt{2}$, nằm giữa $|3-2| = 1$ và $3+2 = 5$, nên hai đường tròn cắt nhau tại $2$ điểm; mỗi điểm cho một cặp $(a;b) = (-2\\text{Re}\\,z_1; |z_1|^2)$ và hai cặp này khác nhau. Tổng cộng $4 + 2 = 6$ cặp.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "số phức",
+        "phương trình bậc hai",
+        "đếm trường hợp"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c49",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, xét mặt cầu $(S)$ có tâm $I(5;6;12)$ và bán kính $R$ thay đổi. Có bao nhiêu giá trị nguyên của $R$ sao cho ứng với mỗi giá trị đó, tồn tại hai tiếp tuyến của $(S)$ trong mặt phẳng $(Oyz)$ mà hai tiếp tuyến đó cùng đi qua $O$ và góc giữa chúng không nhỏ hơn $60^\\circ$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$6$"
+        },
+        {
+          "key": "B",
+          "text": "$2$"
+        },
+        {
+          "key": "C",
+          "text": "$4$"
+        },
+        {
+          "key": "D",
+          "text": "$9$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mặt phẳng $(Oyz)$ cắt $(S)$ theo đường tròn $(C)$ có tâm $H(0;6;12)$ (hình chiếu vuông góc của $I$ lên $(Oyz)$) và bán kính $\\rho = \\sqrt{R^2 - 25}$, cần $R > 5$. Tiếp tuyến của $(S)$ nằm trong $(Oyz)$ chính là tiếp tuyến của $(C)$, và từ $O$ kẻ được hai tiếp tuyến khi $O$ nằm ngoài $(C)$. Với $OH = \\sqrt{6^2 + 12^2} = 6\\sqrt{5}$, nửa góc giữa hai tiếp tuyến thỏa $\\sin\\varphi = \\dfrac{\\rho}{OH}$. Vì góc giữa hai đường thẳng không vượt quá $90^\\circ$ nên yêu cầu $60^\\circ \\le 2\\varphi \\le 120^\\circ$, tức $\\dfrac{1}{2} \\le \\sin\\varphi \\le \\dfrac{\\sqrt{3}}{2}$, cho $3\\sqrt{5} \\le \\rho \\le 3\\sqrt{15}$ hay $45 \\le R^2 - 25 \\le 135 \\Leftrightarrow 70 \\le R^2 \\le 160$. Các số nguyên $R$ thỏa mãn là $9; 10; 11; 12$, được $4$ giá trị.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "mặt cầu",
+        "tiếp tuyến",
+        "không gian Oxyz"
+      ]
+    },
+    {
+      "id": "de-toan-tn-2023-m113-c50",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-toan-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $f(x) = x^4 - 32x^2 + 4$. Có bao nhiêu giá trị nguyên của tham số $m$ sao cho ứng với mỗi $m$, tổng giá trị các nghiệm phân biệt thuộc khoảng $(-4;1)$ của phương trình $f\\left(x^2 + 4x + 5\\right) = m$ bằng $-8$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$79$"
+        },
+        {
+          "key": "B",
+          "text": "$81$"
+        },
+        {
+          "key": "C",
+          "text": "$80$"
+        },
+        {
+          "key": "D",
+          "text": "$82$"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đặt $t = x^2 + 4x + 5 = (x+2)^2 + 1$. Với $x \\in (-4;1)$ thì $t \\in [1;10)$; ngược lại mỗi $t \\in (1;5)$ cho đúng hai nghiệm $x = -2 \\pm \\sqrt{t-1}$ đều thuộc $(-4;1)$ với tổng bằng $-4$, còn mỗi $t \\in [5;10)$ chỉ cho một nghiệm $x = -2 + \\sqrt{t-1}$ trong khoảng đã cho. Trên $[1;10)$, hàm $f(t) = t^4 - 32t^2 + 4$ có $f(1) = -27$, $f(4) = -252$, $f(5) = -171$, nghịch biến trên $[1;4]$ và đồng biến trên $[4;10)$. Để tổng các nghiệm bằng $-8$ thì phương trình $f(t) = m$ phải cho đúng hai nghiệm $t$ nằm trong $(1;5)$, điều này xảy ra khi $-252 < m < -171$ (khi đó một nghiệm thuộc $(1;4)$, nghiệm kia thuộc $(4;5)$). Các giá trị nguyên $m$ từ $-251$ đến $-172$, tất cả $80$ giá trị.",
+      "difficulty": "VERY_HARD",
+      "score": 0.2,
+      "tags": [
+        "phương trình trùng phương",
+        "định lý Viète",
+        "bài toán tham số"
+      ]
+    }
+  ]
+}

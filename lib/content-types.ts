@@ -38,6 +38,7 @@ export interface ExamQuestionContent {
   topic: string;
   type: QuestionType;
   content: string;
+  imageUrl?: string | null;
   options: ContentOption[];
   correctAnswer: string | string[];
   explanation: string;

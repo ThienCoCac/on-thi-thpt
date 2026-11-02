@@ -58,6 +58,7 @@ const questionSchema = z.object({
   topic: z.string().trim().min(1),
   type: z.enum(['SINGLE_CHOICE', 'MULTIPLE_CHOICE', 'TRUE_FALSE', 'FILL_IN', 'ESSAY']),
   content: z.string().trim().min(1),
+  imageUrl: z.string().nullish(),
   options: z.array(optionSchema).default([]),
   correctAnswer: z.union([z.string().trim().min(1), z.array(z.string().trim().min(1)).min(1)]),
   explanation: z.string().trim().min(1),
@@ -317,7 +318,7 @@ function toRunnerQuestion(
     partName: question.partName,
     type: question.type,
     contentHtml: renderMarkdown(question.content),
-    imageUrl: null,
+    imageUrl: question.imageUrl ?? null,
     score: question.score,
     options: question.options.map((option) => ({
       key: option.key.toUpperCase(),
