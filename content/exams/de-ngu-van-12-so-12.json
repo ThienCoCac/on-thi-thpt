@@ -1,0 +1,174 @@
+{
+  "id": "de-ngu-van-12-so-12",
+  "title": "Đề thi thử Ngữ văn 12 số 12 – So sánh Tương tư (Nguyễn Bính) và Tương tư chiều (Xuân Diệu)",
+  "slug": "de-ngu-van-12-so-12",
+  "description": "Đề thi thử Ngữ văn 12 theo cấu trúc ba phần: Đọc hiểu hai đoạn thơ về nỗi tương tư, Viết đoạn văn cảm nhận chi tiết thơ và nghị luận xã hội, Viết bài văn so sánh nỗi tương tư trong “Tương tư” (Nguyễn Bính) với “Tương tư chiều” (Xuân Diệu). Mỗi câu đều có giải thích hoặc gợi ý làm bài chi tiết, câu nghị luận chính kèm bài mẫu.",
+  "subject": "ngu-van",
+  "type": "FULL_EXAM",
+  "durationMinutes": 120,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "NV12-12",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-02T15:00:00.000Z",
+  "updatedAt": "2026-11-02T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "nv12-12-c1",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Tương tư thức mấy đêm rồi,\n> Biết cho ai, hỏi ai người biết cho!\n> Bao giờ bến mới gặp đò?\n> Hoa khuê các, bướm giang hồ gặp nhau?\n>\n> Nhà em có một giàn giầu,\n> Nhà anh có một hàng cau liên phòng.\n> Thôn Đoài thì nhớ thôn Đông,\n> Cau thôn Đoài nhớ giầu không thôn nào?\n\n*Tương tư, Nguyễn Bính*\n\n**Câu hỏi:** Đoạn trích trên được viết theo thể thơ nào? Căn cứ nào sau đây giúp em nhận ra thể thơ ấy?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thơ bảy chữ, dòng nào cũng bảy tiếng và ngắt nhịp 4/3."
+        },
+        {
+          "key": "B",
+          "text": "Thơ lục bát: từng cặp dòng sáu tiếng – tám tiếng, tiếng thứ sáu của dòng sáu vần với tiếng thứ sáu của dòng tám."
+        },
+        {
+          "key": "C",
+          "text": "Thơ tám chữ, các dòng hiệp vần liền ở tiếng cuối."
+        },
+        {
+          "key": "D",
+          "text": "Thơ tự do, số tiếng trong mỗi dòng không hạn định."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "**Đáp án: B.**\n\nĐoạn trích gồm bốn cặp dòng 6 – 8: “Tương tư thức mấy đêm rồi” (6 tiếng) đi cùng “Biết cho ai, hỏi ai người biết cho” (8 tiếng); “Nhà em có một giàn giầu” (6 tiếng) đi cùng “Nhà anh có một hàng cau liên phòng” (8 tiếng); “Thôn Đoài thì nhớ thôn Đông” (6 tiếng) đi cùng “Cau thôn Đoài nhớ giầu không thôn nào” (8 tiếng).\n\nLuật vần cũng đúng lục bát: “rồi” (tiếng thứ sáu dòng sáu) vần với “người” (tiếng thứ sáu dòng tám); “đò” vần với “hồ”; “nhau” vần với “giầu”; “Đông” vần với “không”. Tiếng cuối của các dòng tám đều mang thanh bằng, tạo nhịp điệu mềm mại, dễ đi vào lòng người.\n\nLục bát là thể thơ của ca dao, nên giọng thơ Nguyễn Bính thủ thỉ như lời kể chuyện làng quê. Phương án A, C, D sai vì chỉ cần đếm số tiếng trong mỗi dòng là thấy các dòng không đều bảy tiếng, không đều tám tiếng và cũng không tự do.\n\n**Cách nhận diện thể thơ:** đếm số tiếng ở từng dòng, xét cặp dòng và tìm tiếng hiệp vần; lục bát luôn là cặp 6 – 8, vần bằng ở tiếng thứ sáu.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "thể thơ",
+        "Nguyễn Bính"
+      ]
+    },
+    {
+      "id": "nv12-12-c2",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc hai câu thơ sau (trích ngữ liệu ở câu 1) và trả lời câu hỏi:**\n\n> Bao giờ bến mới gặp đò?\n> Hoa khuê các, bướm giang hồ gặp nhau?\n\n**Câu hỏi:** Hai câu thơ sử dụng chủ yếu những biện pháp tu từ nào, và tác dụng của chúng là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nói quá và tương phản, nhấn mạnh độ dài của những đêm mất ngủ."
+        },
+        {
+          "key": "B",
+          "text": "Nhân hóa và so sánh, khiến cảnh vật làng quê biết hành động như con người."
+        },
+        {
+          "key": "C",
+          "text": "Liệt kê và chơi chữ, tạo không khí hóm hỉnh, vui tươi cho đoạn thơ."
+        },
+        {
+          "key": "D",
+          "text": "Ẩn dụ (bến – đò, hoa khuê các – bướm giang hồ) kết hợp câu hỏi tu từ, diễn tả nỗi khắc khoải mong ngày gặp gỡ của người đang yêu."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.**\n\n“Bến” và “đò” là cặp hình ảnh ẩn dụ quen thuộc của ca dao, chỉ người đợi chờ và người sẽ tới; “hoa khuê các” (kẻ mến tài) và “bướm giang hồ” (người phiêu bạt) là ẩn dụ cho đôi trai gái xứng đôi nhưng còn cách trở. Hai câu thơ đều kết thúc bằng dấu hỏi song không cần lời đáp: “Bao giờ bến mới gặp đò?” là câu hỏi tu từ, biến niềm mong đợi thành nỗi khắc khoải có hình hài.\n\nVề nội dung, bộ đôi biện pháp này nói hộ tâm trạng của một người yêu tha thiết nhưng chưa biết duyên mình có thành: hy vọng và thấp thỏm hòa làm một. Về nghệ thuật, cách nói bằng hình ảnh dân gian khiến nỗi nhớ của cá nhân mang hơi thở của cộng đồng, rất “chân quê” Nguyễn Bính.\n\nPhương án A sai vì không có phóng đại hay đối lập gay gắt; B sai vì bến, đò, hoa, bướm được dùng để ẩn dụ chứ không được gán hành động, tâm trạng của người; C sai vì không có chuỗi liệt kê cũng không có chơi chữ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "biện pháp tu từ",
+        "ẩn dụ"
+      ]
+    },
+    {
+      "id": "nv12-12-c3",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Anh nhớ tiếng. Anh nhớ hình. Anh nhớ ảnh.\n> Anh nhớ em, anh nhớ lắm! em ơi!\n> Anh nhớ anh của ngày tháng xa khơi,\n> Nhớ đôi môi đang cười ở phương trời.\n> Nhớ đôi mắt đang nhìn anh đăm đắm.\n> Em! xích lại! và đưa tay anh nắm!\n\n*Tương tư chiều, Xuân Diệu*\n\n**Câu hỏi:** Điệp từ “nhớ” đặt ở đầu liên tiếp các câu thơ, kết hợp với nhịp ngắn và dấu chấm ngắt giữa dòng, có tác dụng nổi bật nhất là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tạo cảm giác nỗi nhớ dâng lên từng đợt, dồn dập, tràn ra ngoài mọi sự kìm nén của cái tôi trữ tình."
+        },
+        {
+          "key": "B",
+          "text": "Liệt kê đầy đủ chân dung ngoại hình của một cô gái cụ thể ngoài phố."
+        },
+        {
+          "key": "C",
+          "text": "Làm nhịp thơ đều đặn, chậm rãi, mô phỏng giọng kể của ca dao."
+        },
+        {
+          "key": "D",
+          "text": "Thể hiện thái độ bình thản, tỉnh táo, đứng ngoài cuộc của chủ thể trữ tình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.**\n\nBa câu “Anh nhớ tiếng. / Anh nhớ hình. / Anh nhớ ảnh.” bị chặt thành những nhịp ba tiếng ngắn, lặp lại nguyên cấu trúc “Anh nhớ”, khiến câu thơ như những con sóng nối tiếp nhau, đợt sau đẩy đợt trước. Đối tượng của nỗi nhớ cũng đi từ trừu tượng đến cụ thể: “tiếng” (âm thanh) → “hình” (dáng vẻ) → “ảnh” (hình ảnh đọng lại) → “em” → và cuối cùng là “anh của ngày tháng xa khơi”. Nỗi nhớ vì thế không còn được kể mà được sống, được gọi thành tiếng gọi “em ơi!” rồi thành mệnh lệnh “Em! xích lại! và đưa tay anh nắm!”.\n\nĐây là dấu ấn hiện đại của Thơ mới: cái tôi xưng “Anh”, đối thoại trực tiếp với “em”, bộc lộ cảm xúc đến tận cùng thay vì gửi gắm kín đáo qua cảnh vật như thơ dân dã.\n\nB sai vì các từ “tiếng”, “hình”, “ảnh” không miêu tả ngoại hình đầy đủ; C sai vì nhịp thơ không đều, không phải lục bát; D sai vì giọng điệu hoàn toàn trái ngược: cuồng nhiệt, không tỉnh táo.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "điệp ngữ",
+        "Xuân Diệu",
+        "Thơ mới"
+      ]
+    },
+    {
+      "id": "nv12-12-c4",
+      "partName": "Phần II. Viết đoạn văn",
+      "topic": "topic-van-viet-doan",
+      "type": "ESSAY",
+      "content": "**Câu hỏi:** Từ ngữ liệu ở Phần I, hãy viết đoạn văn (5 – 7 dòng) nêu cảm nhận của em về hai câu thơ kết thúc đoạn trích:\n\n> Thôn Đoài thì nhớ thôn Đông,\n> Cau thôn Đoài nhớ giầu không thôn nào?\n\n**Yêu cầu:** Bám sát hình ảnh “cau”, “giầu” và lối hỏi; làm rõ tâm trạng của nhân vật trữ tình; có câu mở đoạn khái quát.",
+      "options": [],
+      "correctAnswer": "Đúng hình thức đoạn 5 – 7 dòng (0,25); chỉ ra được nỗi nhớ kín đáo, duyên dáng kèm băn khoăn liệu tình có được đáp đền, có giải thích hình ảnh cau – giầu và cách hỏi (0,5); dẫn thơ, diễn đạt mạch lạc, ít lỗi (0,25).",
+      "explanation": "**Gợi ý làm bài**\n\n- Mở đoạn bằng một câu khái quát: hai câu thơ là “nốt lặng” đọng lại của cả đoạn trích, nơi nỗi nhớ được nói mà vẫn chưa dám nói thẳng.\n- Giải thích hình ảnh: “Thôn Đoài thì nhớ thôn Đông” – lấy không gian làng quê để nói chuyện lòng người, hai địa danh thay cho hai con người đang tương tư.\n- Phân tích cặp ẩn dụ “cau – giầu”: cau và trầu là tục ăn trầu – cau của tình duyên, của lễ hỏi; để “cau thôn Đoài nhớ giầu không” tức là để nỗi nhớ của chàng trai hiện lên qua vật.\n- Chỉ ra câu hỏi tu từ “thôn nào?”: lời tự vấn đầy phấp phỏng, như hỏi cau trầu mà thực ra hỏi người, hỏi liệu tình mình có được hồi đáp.\n- Chốt lại: vẻ đẹp của nỗi tương tư Nguyễn Bính là duyên dáng, thiệt thà, kín đáo mà tha thiết; nhờ đó tình yêu riêng tư mang hơi thở của hồn quê.\n\n**Lưu ý khi viết**\n\nĐoạn chỉ có 5 – 7 dòng: một câu mở – hai đến ba câu phân tích hình ảnh và câu hỏi – một câu kết về cảm xúc của người viết. Không phân tích lại cả đoạn trích, không liệt kê lí thuyết về thể thơ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "viết đoạn",
+        "cảm nhận chi tiết thơ",
+        "Nguyễn Bính"
+      ]
+    },
+    {
+      "id": "nv12-12-c5",
+      "partName": "Phần II. Viết đoạn văn",
+      "topic": "topic-van-viet-bai",
+      "type": "ESSAY",
+      "content": "**Đề bài:** Từ nỗi tương tư trong “Tương tư” (Nguyễn Bính) và “Tương tư chiều” (Xuân Diệu), hãy viết đoạn văn (khoảng 200 chữ) bàn về **giá trị của những cảm xúc chân thành trong tình yêu đối với người trẻ hôm nay**.\n\n**Gợi ý ngữ liệu:** Nỗi nhớ “thức mấy đêm rồi” của chàng trai thôn quê; tiếng “nhớ” không giấu nổi của cái tôi Xuân Diệu; khát khao được giao cảm, được đáp lời ở cả hai bài thơ.\n\n**Yêu cầu:** Đoạn văn (không chia dòng); có câu mở nêu vấn đề; triển khai ít nhất hai lí lẽ kèm dẫn chứng từ thơ; có phản đề và bài học nhận thức, hành động.",
+      "options": [],
+      "correctAnswer": "Đúng hình thức đoạn khoảng 200 chữ (0,25); nêu và lí giải được ít nhất hai giá trị của cảm xúc chân thành trong tình yêu (0,75); có dẫn chứng từ hai bài thơ và có phản đề (0,5); diễn đạt trong sáng, có bài học nhận thức (0,5).",
+      "explanation": "**Gợi ý làm bài**\n\n- Câu mở đoạn: giới thiệu vấn đề – cảm xúc chân thành là nền tảng của một tình yêu đẹp và là cách người trẻ học cách sống tử tế hơn.\n- Lí giải 1: tình yêu chân thành khiến con người biết nghĩ cho người khác, biết chờ đợi và biết giữ gìn; nỗi nhớ khắc khoải trong thơ chính là bằng chứng cho một trái tim biết rung động thật sự.\n- Lí giải 2: cảm xúc chân thành thúc đẩy người ta hoàn thiện bản thân, chịu trách nhiệm với tình cảm của người khác, biết biến nhớ thương thành động lực sống tốt.\n- Dẫn chứng văn học: Nguyễn Bính để nỗi nhớ “thức mấy đêm rồi” và gửi vào hình ảnh “cau thôn Đoài nhớ giầu không” – tình yêu đi liền với sự nhẫn nại, thủy chung, tôn trọng phong tục và danh dự của người mình yêu. Xuân Diệu dám gọi tên cảm xúc “Anh nhớ em, anh nhớ lắm! em ơi!” – tình yêu chân thành cần sự dũng cảm bày tỏ, không ích kỷ, không toan tính.\n- Phản đề: phê phán thứ “tình yêu” vội vàng, nông nổi, chỉ dừng ở cảm giác, hoặc sự thực dụng, vô cảm, biến tình cảm thành phương tiện; đồng thời nhấn mạnh chân thành không đồng nghĩa với buông mình, vẫn cần lí trí và giới hạn.\n- Câu kết đoạn: người trẻ hôm nay có thể học từ thơ cách yêu có văn hóa, yêu một người bằng cả tử tế và khát vọng hoàn thiện bản thân.\n\n**Lưu ý khi viết**\n\nNghị luận xã hội không phân tích thơ: dẫn chứng thơ chỉ dùng để minh họa cho lí lẽ, mỗi dẫn chứng khoảng một đến hai câu. Giữ độ dài khoảng 200 chữ, diễn đạt mạch lạc, tránh lên giọng.",
+      "difficulty": "MEDIUM",
+      "score": 2,
+      "tags": [
+        "viết đoạn",
+        "nghị luận xã hội",
+        "tình yêu",
+        "tương tư"
+      ]
+    },
+    {
+      "id": "nv12-12-c6",
+      "partName": "Phần III. Viết bài văn",
+      "topic": "topic-van-viet-bai",
+      "type": "ESSAY",
+      "content": "**Đề bài:** Phân tích, so sánh nỗi tương tư trong «Tương tư» của Nguyễn Bính và «Tương tư chiều» của Xuân Diệu. Từ đó nhận xét điểm chung và riêng của hai hồn thơ.\n\n**Ngữ liệu 1.** *Tương tư (Nguyễn Bính) – đoạn trích:*\n\n> Tương tư thức mấy đêm rồi,\n> Biết cho ai, hỏi ai người biết cho!\n> Bao giờ bến mới gặp đò?\n> Hoa khuê các, bướm giang hồ gặp nhau?\n>\n> Nhà em có một giàn giầu,\n> Nhà anh có một hàng cau liên phòng.\n> Thôn Đoài thì nhớ thôn Đông,\n> Cau thôn Đoài nhớ giầu không thôn nào?\n\n**Ngữ liệu 2.** *Tương tư chiều (Xuân Diệu) – đoạn trích:*\n\n> Anh nhớ tiếng. Anh nhớ hình. Anh nhớ ảnh.\n> Anh nhớ em, anh nhớ lắm! em ơi!\n> Anh nhớ anh của ngày tháng xa khơi,\n> Nhớ đôi môi đang cười ở phương trời.\n> Nhớ đôi mắt đang nhìn anh đăm đắm.\n> Em! xích lại! và đưa tay anh nắm!\n\n**Yêu cầu:** Bài viết có bố cục ba phần; vận dụng kết hợp thao tác phân tích và so sánh; mỗi luận điểm phải gắn hình ảnh, từ ngữ, biện pháp tu từ với dẫn chứng thơ; thể hiện được điểm chung và nét riêng trong hồn thơ Nguyễn Bính, Xuân Diệu. Thí sinh có thể dẫn thêm câu thơ ngoài đoạn trích nếu nhớ chính xác.",
+      "options": [],
+      "correctAnswer": "Mở bài 0,5; thân bài 3,0 (khái quát 0,5 / tương đồng 1,0 / khác biệt 1,0 / nguyên nhân 0,25 / nghệ thuật 0,25); Kết bài 0,5",
+      "explanation": "**Gợi ý chấm điểm**\n\n- Mở bài (0,5): dẫn dắt bằng một ý kiến hoặc nhận định về thơ tình, giới thiệu được hai tác giả, hai tác phẩm và vấn đề so sánh (nỗi tương tư).\n- Khái quát (0,5): vị trí, hoàn cảnh ra đời và cảm hứng chủ đạo của từng bài; không kể lại nội dung.\n- Tương đồng (1,0): cùng nỗi nhớ khắc khoải của tình yêu chưa được đáp lời; cùng khát khao giao cảm; cùng dùng phép lặp, câu hỏi và hình ảnh để cụ thể hóa nỗi nhớ. Mỗi ý cần đủ: luận điểm – tên tác phẩm, tác giả – nhận xét hình ảnh/từ ngữ/biện pháp tu từ – cái được làm nổi bật – dẫn chứng – kết luận.\n- Khác biệt (1,0): sắc thái nỗi nhớ (kín đáo, bẽn lẽn “chân quê” so với trực tiếp, cuồng nhiệt); thi liệu và không gian nghệ thuật (làng quê, bến – đò, cau – giầu so với buổi chiều lạnh, ánh sáng đang tàn); hướng vận động mạch cảm xúc (từ lòng người ra cảnh vật rồi quay về câu hỏi ngỏ so với nhớ người và nhớ cả chính mình, mang cảm thức thời gian).\n- Nguyên nhân (0,25): cá tính sáng tạo, nền tảng thẩm mĩ, quan niệm thơ và hoàn cảnh cảm xúc của mỗi thi sĩ.\n- Nghệ thuật (0,25): lục bát với vần lưng và giọng kể dân dã so với dòng tám chữ tự do, nhịp dồn dập, cảm thán, mệnh lệnh.\n- Kết bài (0,5): khẳng định đóng góp của hai bài thơ với thơ tình Việt Nam và cảm nhận của người viết.\n- Trừ điểm nếu lạc sang phân tích từng bài riêng lẻ, liệt kê lí thuyết, dẫn sai câu thơ hoặc mắc nhiều lỗi diễn đạt.\n\n**Bài mẫu tham khảo**\n\nHoài Thanh từng cho rằng văn chương “gây cho ta những tình cảm ta không có, luyện những tình cảm ta sẵn có”. Điều ấy rất hợp với thơ tình: ta thường phải gặp một bài thơ mới gọi được tên nỗi nhớ. “Tương tư” của Nguyễn Bính (rút trong tập “Lỡ bước sang ngang”, 1940) và “Tương tư chiều” của Xuân Diệu (in trong tập “Thơ thơ”, 1938) cùng ra đời giữa phong trào Thơ mới, cùng lấy nỗi nhớ người yêu làm mạch cảm xúc. Đặt cạnh nhau, hai thi phẩm chung một nỗi nhớ muôn thuở mà riêng một cách cảm, cách nói.\n\nVề cảm hứng chủ đạo, “Tương tư” là lời tự bạch của một chàng trai làng vừa biết yêu: từ cảnh “Thôn Đoài ngồi nhớ thôn Đông, / Một người chín nhớ mười mong một người”, nỗi nhớ tích lại thành những đêm mất ngủ – “Tương tư thức mấy đêm rồi” – được chở bằng lục bát và hình ảnh bến – đò ca dao. “Tương tư chiều” mở bằng một chi tiết rất mới: “Bữa nay lạnh, mặt trời đi ngủ sớm”; cái lạnh chiều tắt nắng là cớ để “Anh nhớ em, em hỡi!”. Một người kể lại nỗi nhớ như chuyện đã rồi, một người sống nỗi nhớ trong đúng khoảnh khắc.\n\nTương đồng trước hết ở nội dung: cả hai khắc họa nỗi nhớ khắc khoải của một tình cảm chưa được đáp lời. Nguyễn Bính nối tiếp các câu hỏi – “Biết cho ai, hỏi ai người biết cho!”, “Bao giờ bến mới gặp đò?” – nhưng thực chất là lời tự vấn: người tương tư thiếu một nơi để gửi tâm tình. Xuân Diệu cũng đi từ trống vắng (“Không gì buồn bằng những buổi chiều êm”) để rồi tiếng “nhớ” vang lên không dứt. Cả hai cho thấy tình yêu khiến con người nhạy cảm hơn trước sự vắng mặt của người mình thương và khát khao được giao cảm.\n\nTương đồng còn ở nghệ thuật biểu hiện. Hai thi sĩ đều dùng phép lặp để cảm xúc vô hình có hình hài, có âm vang: Nguyễn Bính lặp cấu trúc hỏi cùng các cặp đối “bến – đò”, “hoa khuê các – bướm giang hồ”, “cau – giầu”; Xuân Diệu đẩy điệp từ “nhớ” đứng đầu liên tiếp ba câu (“Anh nhớ tiếng. Anh nhớ hình. Anh nhớ ảnh.”) với nhịp ngắn dồn dập. Cả hai cùng cụ thể hóa nỗi nhớ: “cau thôn Đoài nhớ giầu không” thì nhớ đã thành cây, thành lá; “nhớ đôi môi đang cười” thì nhớ đã có hình, có sắc.\n\nKhác biệt trước hết ở sắc thái nỗi nhớ và chân dung nhân vật trữ tình. Ở Nguyễn Bính, nỗi nhớ bẽn lẽn, chân chất, phải mượn cảnh làng để nói lòng mình: “Thôn Đoài thì nhớ thôn Đông” lấy hai địa danh thay cho hai con người, còn câu kết bỏ ngỏ “Cau thôn Đoài nhớ giầu không thôn nào?” là lời trách yêu, là phấp phỏng liệu tình có được hồi đáp; nhân vật trữ tình vì thế thiệt thà, mang vẻ “chân quê”. Ở Xuân Diệu, cái tôi không che giấu: xưng “Anh”, gọi “em” ngay đầu câu, rồi bạo dạn ra lệnh “Em! xích lại! và đưa tay anh nắm!”. Một bên bâng khuâng e ấp, một bên cuồng nhiệt, táo bạo.\n\nKhác biệt thứ hai ở thi liệu, không gian nghệ thuật và hướng vận động của mạch cảm xúc. Nguyễn Bính dùng chất liệu ca dao và phong tục dân tộc, với không gian làng quê gần gũi và những đêm dài không xác định; nỗi nhớ lan từ lòng người ra cảnh vật rồi quay về một câu hỏi ngỏ. Xuân Diệu đưa vào thơ một buổi chiều có nhiệt độ, có ánh sáng đang tàn, và nỗi nhớ có hai chiều: “Anh nhớ anh của ngày tháng xa khơi” – nhớ người và nhớ cả chính mình – khép bằng tiếng than “Mà kỷ niệm, ôi, còn gọi ta chi…”. Một bên là chờ mong e ngại, một bên là khát khao chiếm giữ khoảnh khắc cùng ý thức về thời gian đã mất.\n\nVề nghệ thuật, Nguyễn Bính chọn lục bát với vần lưng đều (“rồi” vần “người”, “đò” vần “hồ”), giọng kể thủ thỉ khiến cảnh vật mang tâm trạng; Xuân Diệu viết những dòng tám chữ tự do, câu dài ngắn theo nhịp cảm xúc, dùng ngắt nhịp đột ngột, tiếng cảm thán, mệnh lệnh và lời gọi đối thoại. Khác biệt ấy bắt nguồn từ cá tính sáng tạo và quan niệm thơ: Nguyễn Bính tự nguyện gắn bó với văn hóa làng quê nên thơ mộc mạc mà duyên dáng; Xuân Diệu – gương mặt tiêu biểu bậc nhất của Thơ mới – đề cao cái tôi và nhu cầu bộc lộ cảm xúc tới tận cùng.\n\nTựu chung, “Tương tư” và “Tương tư chiều” là hai cách khám phá cùng một chiều sâu tâm hồn: một bài đưa tình yêu trở về với vẻ đẹp dân dã, một bài mang tiếng nói nồng nhiệt của cái tôi hiện đại. Giá trị của chúng không chỉ ở việc gọi tên cảm xúc mà còn ở khả năng khiến người đọc nhận ra chính mình – đúng lời Hoài Thanh mở đầu: văn chương luyện những tình cảm ta sẵn có.\n\n**Lưu ý khi viết**\n\n- Luôn đối chiếu: sau mỗi ý về Nguyễn Bính phải có câu nối (“trái lại”, “cùng cảnh ngộ ấy nhưng…”) hướng về Xuân Diệu, tránh biến bài so sánh thành hai bài phân tích ghép lại.\n- Theo đúng trình tự phân tích một đoạn thơ: câu luận điểm → tên tác phẩm, tác giả → nhận xét hình ảnh, từ ngữ, biện pháp tu từ → điều được làm nổi bật → dẫn chứng thơ → kết luận.\n- Chép thơ phải chính xác, đặt trong ngoặc kép, không bịa câu; dẫn vừa đủ (một đến hai câu cho mỗi luận điểm) để dành dung lượng cho phần so sánh và nguyên nhân.",
+      "difficulty": "HARD",
+      "score": 4,
+      "tags": [
+        "viết bài",
+        "nghị luận văn học",
+        "so sánh thơ",
+        "tương tư"
+      ]
+    }
+  ]
+}

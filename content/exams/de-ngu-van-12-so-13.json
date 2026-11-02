@@ -1,0 +1,171 @@
+{
+  "id": "de-ngu-van-12-so-13",
+  "title": "Đề thi thử Ngữ văn 12 số 13 – So sánh Cuối thu (Hàn Mặc Tử) và Đây mùa thu tới (Xuân Diệu)",
+  "slug": "de-ngu-van-12-so-13",
+  "description": "Đề luyện thi tốt nghiệp THPT môn Ngữ văn theo cấu trúc đọc hiểu – viết đoạn – viết bài, ngữ liệu là hai bức tranh mùa thu trong “Cuối thu” của Hàn Mặc Tử và “Đây mùa thu tới” của Xuân Diệu. Phần Đọc hiểu và Viết đoạn văn có gợi ý làm bài chi tiết; câu nghị luận so sánh hai bức tranh thu kèm bài mẫu",
+  "subject": "ngu-van",
+  "type": "FULL_EXAM",
+  "durationMinutes": 120,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "NV12-13",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-02T15:00:00.000Z",
+  "updatedAt": "2026-11-02T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "nv12-13-c1",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Lụa trời ai dệt với ai căng,\n> Ai thả chim bay đến Quảng Hàn,\n> Và ai gánh máu đi trên tuyết,\n> Mảnh áo da cừu ngắm nở nang.\n\n(trích “Cuối thu”, Hàn Mặc Tử)\n\n**Câu hỏi:** Câu hỏi tu từ và điệp từ “ai” trong bốn câu thơ trên gợi ấn tượng gì về bức tranh mùa thu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không gian thu hiện lên đẹp mà bí ẩn, xa vắng; cảnh vật như được tạo tác bởi bàn tay vô hình, gợi nỗi buồn không lời đáp của chủ thể trữ tình."
+        },
+        {
+          "key": "B",
+          "text": "Khung cảnh sinh hoạt đông vui, rộn rã của làng quê trong những ngày thu hoạch lúa mới."
+        },
+        {
+          "key": "C",
+          "text": "Khí thế mạnh mẽ, quyết liệt của con người đang chinh phục thiên nhiên giữa mùa thu."
+        },
+        {
+          "key": "D",
+          "text": "Lời kể khách quan, lạnh lùng về các loài chim di cư và thời tiết cuối thu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.**\n\nBốn câu thơ mở đầu “Cuối thu” là một chuỗi câu hỏi không có lời đáp: “Lụa trời ai dệt với ai căng”, “Ai thả chim bay đến Quảng Hàn”, “Và ai gánh máu đi trên tuyết”. Điệp từ “ai” vang lên liên tiếp, biến bầu trời thành tấm “lụa” căng mỏng, biến cánh chim thành cánh chim lạc vào cõi Quảng Hàn xa thẳm. Nguồn gốc của cảnh vật vì thế trở nên mơ hồ, không gian thu vừa đẹp vừa bí ẩn, hiu hắt.\n\nChính nhịp truy vấn ấy cho thấy nỗi buồn của một cái tôi cô đơn trước vũ trụ: nhà thơ nhìn mùa thu mà không thể lý giải mùa thu, nên cảnh vật nhuốm sắc li biệt.\n\nCác phương án B, C, D sai vì đoạn trích không có hơi thở sinh hoạt, không có khí thế chinh phục, cũng không phải lời kể khách quan; giọng thơ ở đây là giọng hoài cảm, hướng nội.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "câu hỏi tu từ",
+        "Hàn Mặc Tử"
+      ]
+    },
+    {
+      "id": "nv12-13-c2",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Rặng liễu đìu hiu đứng chịu tang,\n> Tóc buồn buông xuống lệ ngàn hàng;\n> Đây mùa thu tới - mùa thu tới\n> Với áo mơ phai dệt lá vàng.\n\n(“Đây mùa thu tới”, Xuân Diệu)\n\n**Câu hỏi:** Dòng nào nhận xét đúng nhất về từ ngữ và hình ảnh trong đoạn thơ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phép phóng đại nhằm nhấn mạnh sức sống mãnh liệt, xanh tốt của rặng liễu giữa vườn thu."
+        },
+        {
+          "key": "B",
+          "text": "Phép liệt kê miêu tả tỉ mỉ từng loài cây, từng sắc hoa trong khu vườn mùa thu."
+        },
+        {
+          "key": "C",
+          "text": "Từ láy “đìu hiu” cùng phép nhân hóa “đứng chịu tang”, “Tóc buồn buông xuống lệ ngàn hàng” khiến rặng liễu mang dáng hình con người nhuốm nỗi buồn tang tóc, báo hiệu một mùa thu của chia lìa."
+        },
+        {
+          "key": "D",
+          "text": "Cụm từ “lệ ngàn hàng” tạo giọng điệu vui tươi, hóm hỉnh cho đoạn thơ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "**Đáp án: C.**\n\nXuân Diệu không tả liễu bằng đường nét khách quan mà bằng tâm trạng. Từ láy “đìu hiu” gợi không gian vắng lặng, lạnh lẽo. Phép nhân hóa cho liễu biết “đứng chịu tang”, biết “buông tóc” và rơi “lệ ngàn hàng”: cây liễu mềm mại hóa thành người phụ nữ đội tang, tóc xõa xuống như những dòng lệ.\n\nTrên nền cảnh ấy, câu thơ “Đây mùa thu tới - mùa thu tới” với điệp ngữ và dấu gạch ngang khiến bước chân mùa thu như vọng đến tận nơi, còn “áo mơ phai dệt lá vàng” phủ lên tất cả một sắc vàng nhạt nhòa, hư ảo. Mùa thu vì thế mở ra như một cuộc chia lìa.\n\nCác phương án A, B, D không phù hợp: đoạn thơ không ca ngợi sức sống xanh tốt, không liệt kê loài cây, và giọng thơ là giọng buồn, không hề vui tươi.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "nhân hóa",
+        "Xuân Diệu"
+      ]
+    },
+    {
+      "id": "nv12-13-c3",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Hơn một loài hoa đã rụng cành,\n> Trong vườn sắc đỏ rũa màu xanh;\n> Những luồng run rẩy rung rinh lá...\n> Đôi nhánh khô gầy xương mỏng manh.\n\n(“Đây mùa thu tới”, Xuân Diệu)\n\n**Câu hỏi:** Các từ láy “run rẩy”, “rung rinh” và hình ảnh “sắc đỏ rũa màu xanh” trong đoạn thơ có tác dụng gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Diễn tả không khí lao động khẩn trương của người nông dân trong vụ thu."
+        },
+        {
+          "key": "B",
+          "text": "Gợi không gian mùa thu rực rỡ, dồi dào sức sống của một khu vườn đang độ nở rộ."
+        },
+        {
+          "key": "C",
+          "text": "Tạo giọng điệu mạnh mẽ, gân guốc, thể hiện khát vọng vươn tới tự do."
+        },
+        {
+          "key": "D",
+          "text": "Khắc họa mùa thu đang vận động theo chiều tàn phai: lá run lên trong luồng gió lạnh, sắc đỏ úa như đang ăn mòn, gặm nhấm màu xanh của sự sống."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "**Đáp án: D.**\n\nCác từ láy “run rẩy”, “rung rinh” gợi cái run bần bật của lá trong “những luồng” gió thu, một chuyển động rất nhỏ nhưng đủ làm cảnh vật tiều tụy. Hình ảnh “Trong vườn sắc đỏ rũa màu xanh” dùng động từ “rũa” rất đắt: sắc đỏ của hoa trái, của lá úa không đứng cạnh màu xanh mà đang ăn mòn, xâm chiếm màu xanh. Câu mở đầu “Hơn một loài hoa đã rụng cành” lại là một cách đếm rất thơ – sự rụng mới bắt đầu nhưng đã lan ra nhiều loài.\n\nBa chi tiết ấy hợp lại thành bức thu trong sự vận động của thời gian, kết ở “Đôi nhánh khô gầy xương mỏng manh” – cành cây được nhân hóa như một thân hình gầy guộc, mong manh.\n\nCác phương án A, B, C sai vì đoạn thơ không nói chuyện lao động, không tả vườn thu rực rỡ và không mang giọng điệu gân guốc; âm hưởng chung là trầm lắng, bâng khuâng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "từ láy",
+        "cảm thức thời gian"
+      ]
+    },
+    {
+      "id": "nv12-13-c4",
+      "partName": "Phần II. Viết đoạn văn",
+      "topic": "topic-van-viet-doan",
+      "type": "ESSAY",
+      "content": "**Câu hỏi:** Từ ngữ liệu phần Đọc hiểu, hãy viết đoạn văn (5 – 7 dòng) nêu cảm nhận của em về một hình ảnh mùa thu em ấn tượng nhất (ví dụ: rặng liễu “đứng chịu tang”, sắc “đỏ rũa màu xanh” của Xuân Diệu, hoặc áng mây “hằng hà sa số lệ” trong “Cuối thu” của Hàn Mặc Tử).\n\n**Yêu cầu:** Đoạn văn liền mạch, có câu mở đoạn và câu kết đoạn; bám sát từ ngữ, hình ảnh, biện pháp tu từ của câu thơ được chọn; nêu được cảm xúc của người viết.",
+      "options": [],
+      "correctAnswer": "Đúng hình thức đoạn 5 – 7 dòng (0,25 điểm); chọn được một hình ảnh thu cụ thể và chỉ ra biện pháp tu từ, từ ngữ đặc sắc của hình ảnh ấy (0,5 điểm); nêu đúng cảm xúc, liên hệ được tâm trạng chủ thể trữ tình, có dẫn thơ, diễn đạt trong sáng (0,25 điểm).",
+      "explanation": "**Gợi ý làm bài**\n\n- Chọn một hình ảnh duy nhất, không tả lại cả bài thơ. Gợi ý: “Rặng liễu đìu hiu đứng chịu tang” (Xuân Diệu) hoặc “Mây vẽ hằng hà sa số lệ” (Hàn Mặc Tử).\n- Câu mở đoạn: giới thiệu hình ảnh và cảm xúc khái quát mà nó gợi ra.\n- Các câu thân đoạn: gọi tên biện pháp tu từ (nhân hóa, phóng đại, từ láy), trích lại từ ngữ đắt (“đìu hiu”, “chịu tang”, “lệ ngàn hàng”, “rũa”, “mỏng manh”, “ly biệt”, “cô đơn”) rồi chỉ ra tác dụng: biến cảnh vật thành con người đang buồn, đang mang tang tóc.\n- Liên hệ tâm trạng thi sĩ: nỗi nhạy cảm trước sự tàn phai, khát khao giao cảm với cuộc đời.\n- Câu kết đoạn: khẳng định hình ảnh ấy để lại trong em điều gì (thêm yêu mùa thu, thêm trân trọng cái đẹp mong manh).",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "viết đoạn",
+        "hình ảnh thơ",
+        "mùa thu"
+      ]
+    },
+    {
+      "id": "nv12-13-c5",
+      "partName": "Phần II. Viết đoạn văn",
+      "topic": "topic-van-viet-bai",
+      "type": "ESSAY",
+      "content": "**Đề bài:** Mùa thu trong thơ Hàn Mặc Tử và Xuân Diệu đều đẹp nhưng thấm buồn, bởi các thi sĩ rất nhạy cảm trước sự trôi đi của thời gian. Hãy viết đoạn văn (khoảng 200 chữ) trình bày suy nghĩ của em về tình yêu thiên nhiên và cảm thức của con người trước sự trôi chảy của thời gian trong cuộc sống hôm nay.\n\n**Yêu cầu:** Đoạn văn nghị luận xã hội; có câu chủ đề; triển khai bằng lí lẽ và dẫn chứng cụ thể; kết thúc bằng một bài học nhận thức và hành động.",
+      "options": [],
+      "correctAnswer": "Đúng hình thức đoạn văn khoảng 200 chữ (0,25 điểm); làm rõ mối liên hệ giữa tình yêu thiên nhiên và cảm thức thời gian, có lí lẽ và dẫn chứng (1,25 điểm); rút ra bài học nhận thức, hành động cho người trẻ, diễn đạt trong sáng (0,5 điểm).",
+      "explanation": "**Gợi ý làm bài**\n\n- Câu mở đoạn: nêu vấn đề – người biết yêu thiên nhiên thường là người biết đau trước thời gian; mùa thu đi qua trong lòng người để lại nỗi bâng khuâng.\n- Giải thích: “tình yêu thiên nhiên” là sự rung động trước cảnh vật; “cảm thức trước sự trôi của thời gian” là ý thức rằng tuổi trẻ, cái đẹp và những khoảnh khắc quý giá đều hữu hạn.\n- Vì sao hai điều ấy gắn liền: thiên nhiên là chiếc đồng hồ dễ thấy nhất của thời gian – một chiếc lá rụng, một sắc hoa phai đều nhắc ta về sự trôi; người vô cảm với cảnh vật cũng dễ hờ hững với đời mình.\n- Biểu hiện hôm nay: nhịp sống đô thị khiến con người ít còn thời gian ngắm một buổi chiều thu; một bộ phận bạn trẻ sống vội, lãng phí tuổi trẻ, thờ ơ với môi trường.\n- Dẫn chứng: nhịp thơ “Đây mùa thu tới - mùa thu tới” nhắc ta nghe thấy bước chân của thời gian; các dự án trồng cây, dọn bãi biển của bạn trẻ là cách yêu thiên nhiên bằng hành động.\n- Phản đề: yêu thiên nhiên không phải trốn tránh thực tế, cũng không phải cảm thương hời hợt trên mạng xã hội.\n- Bài học: sống chậm lại để biết rung động, trân trọng từng ngày, dùng tuổi trẻ vào những việc có ý nghĩa, giữ gìn môi trường sống quanh mình.",
+      "difficulty": "MEDIUM",
+      "score": 2,
+      "tags": [
+        "nghị luận xã hội",
+        "viết đoạn 200 chữ",
+        "thời gian"
+      ]
+    },
+    {
+      "id": "nv12-13-c6",
+      "partName": "Phần III. Viết bài văn",
+      "topic": "topic-van-viet-bai",
+      "type": "ESSAY",
+      "content": "**Đề bài:** Phân tích, so sánh bức tranh mùa thu trong «Cuối thu» của Hàn Mặc Tử và «Đây mùa thu tới» của Xuân Diệu. Từ đó nhận xét điểm chung và riêng của hai hồn thơ.\n\n**Ngữ liệu:**\n\n“Cuối thu” (Hàn Mặc Tử):\n\n> Lụa trời ai dệt với ai căng,\n> Ai thả chim bay đến Quảng Hàn,\n> Và ai gánh máu đi trên tuyết,\n> Mảnh áo da cừu ngắm nở nang.\n> Mây vẽ hằng hà sa số lệ,\n> Là nguồn ly biệt giữa cô đơn.\n> Sao không tô điểm nên sương khói,\n> Trong cõi lòng tôi buổi chập chờn.\n\n“Đây mùa thu tới” (Xuân Diệu):\n\n> Rặng liễu đìu hiu đứng chịu tang,\n> Tóc buồn buông xuống lệ ngàn hàng;\n> Đây mùa thu tới - mùa thu tới\n> Với áo mơ phai dệt lá vàng.\n> Hơn một loài hoa đã rụng cành,\n> Trong vườn sắc đỏ rũa màu xanh;\n> Những luồng run rẩy rung rinh lá...\n> Đôi nhánh khô gầy xương mỏng manh.\n\n**Yêu cầu:** Bài viết có bố cục ba phần; phân tích – so sánh theo từng bình diện (bức tranh thiên nhiên, tâm trạng chủ thể trữ tình, bút pháp nghệ thuật); làm rõ nguyên nhân của sự tương đồng và khác biệt.",
+      "options": [],
+      "correctAnswer": "Mở bài 0,5; thân bài 3,0 (khái quát 0,5 / tương đồng 1,0 / khác biệt 1,0 / nguyên nhân 0,25 / nghệ thuật 0,25); Kết bài 0,5",
+      "explanation": "**Gợi ý chấm điểm**\n\n- Mở bài (0,5 điểm): dẫn dắt bằng một ý kiến (có thể mượn nhận định của Hoài Thanh về khả năng “gây” và “luyện” tình cảm của văn chương), giới thiệu hai tác giả, hai bài thơ và vấn đề so sánh.\n\n- Thân bài (3,0 điểm): khái quát vị trí từng bài và cảm hứng mùa thu (0,5); tương đồng – cùng bức thu nhuốm buồn, cùng mượn nước mắt, nhạc điệu, màu sắc để nói nội tâm (1,0); khác biệt – “Cuối thu” huyền ảo, siêu thực, ám ảnh li biệt; “Đây mùa thu tới” hữu hình, tinh tế, thấm cảm thức thời gian (1,0); nguyên nhân khác biệt – cá tính sáng tạo, hoàn cảnh, quan niệm về thời gian và tuổi trẻ (0,25); đánh giá nghệ thuật – thể thơ bảy chữ, từ láy, nhân hóa, điệp, nhịp (0,25).\n\n- Kết bài (0,5 điểm): khẳng định đóng góp của hai thi phẩm vào đề tài mùa thu của thơ hiện đại.\n\n- Trừ điểm nếu biến bài so sánh thành hai bài phân tích tách rời, không đối chiếu; sai kiến thức; mắc nhiều lỗi diễn đạt, chính tả.\n\n**Bài mẫu tham khảo**\n\nHoài Thanh từng nói văn chương “gây cho ta những tình cảm ta không có, luyện những tình cảm ta sẵn có”; hai bức tranh thu của Hàn Mặc Tử và Xuân Diệu đã luyện cho người đọc một nỗi buồn thu. Cùng lấy thu làm thi liệu, nhưng nếu “Cuối thu” mở ra không gian huyền ảo thấm nỗi đau li biệt thì “Đây mùa thu tới” ghi khoảnh khắc giao mùa bằng con mắt tinh đời và ám ảnh thời gian. Đặt cạnh nhau, hai thi phẩm vừa cho thấy mạch ngầm chung của hồn Thơ mới, vừa làm rõ dấu ấn riêng của mỗi thi sĩ.\n\nTrước hết cần khái quát vị trí từng bài. “Đây mùa thu tới” in trong tập “Thơ thơ” (1938), tiêu biểu cho Xuân Diệu – người được Hoài Thanh gọi là “mới nhất trong các nhà thơ mới”, luôn nhạy cảm với biến thái nhỏ nhất của tạo vật. “Cuối thu” thuộc mạch thơ của Hàn Mặc Tử, hồn thơ nhiều chấn động, quen với chia lìa, nên cảnh thu thường hóa thành nỗi đau. Một bài viết về mùa thu đang tới, một bài về mùa thu sắp tắt; cả hai coi thiên nhiên là gương soi của nội tâm.\n\nĐiểm tương đồng là cả hai bức thu đều đẹp mà nhuốm buồn, cảnh vật mang hình hài của nước mắt. Hàn Mặc Tử không vẽ mây bằng đường nét mà vẽ bằng lệ: “Mây vẽ hằng hà sa số lệ, / Là nguồn ly biệt giữa cô đơn”. Nhân hóa khiến mây biết “vẽ”, phóng đại “hằng hà sa số” biến bầu trời thành dòng nước mắt vô tận; “ly biệt”, “cô đơn” gọi thẳng tên trạng thái tinh thần. Xuân Diệu cũng mượn nước mắt nói cảnh: “Rặng liễu đìu hiu đứng chịu tang, / Tóc buồn buông xuống lệ ngàn hàng”. Từ láy “đìu hiu” gợi sự vắng lạnh, nhân hóa biến rặng liễu thành người phụ nữ đội tang, tóc xõa thành dòng lệ. Lệ của tầng mây hay lệ trên cành liễu đều biến mùa thu thành một cuộc chia lìa, mất mát.\n\nHai tác phẩm còn gặp nhau ở nhạc điệu và màu sắc. Điệp từ “ai” trong “Lụa trời ai dệt với ai căng”, “Ai thả chim bay đến Quảng Hàn” tạo chuỗi truy vấn không lời đáp, khiến nguồn gốc cảnh vật thêm mơ hồ. Điệp ngữ “Đây mùa thu tới - mùa thu tới” làm bước chân mùa thu vọng đến tận hiện tại, rồi phủ lên cảnh sắc gam nhạt nhòa của “áo mơ phai dệt lá vàng”. Cả hai đều không sao chép thiên nhiên khách quan mà tái tạo cảnh vật qua lăng kính cảm xúc.\n\nKhác biệt ở chiều sâu cảm xúc. Ở Hàn Mặc Tử, thu là thu tàn, không gian vắng lạnh. “Và ai gánh máu đi trên tuyết” đặt cạnh sắc đỏ của thương tổn và sắc trắng buốt của giá băng, như thể vẻ đẹp luôn tiềm ẩn một vết thương. Nỗi buồn lan vào miền vô thức, thành tâm trạng li biệt của một cái tôi cô đơn: “Sao không tô điểm nên sương khói, / Trong cõi lòng tôi buổi chập chờn” – khát khao biến nỗi niềm thành vẻ đẹp nhưng vẫn bị vây hãm bởi chính lòng mình; ngôn ngữ giản dị mà ám ảnh. Trái lại, Xuân Diệu khiến mùa thu hiện ra hữu hình: “Hơn một loài hoa đã rụng cành” là cách đếm rất thơ, động từ “rũa” gợi cái úa tàn đang ăn mòn màu xanh, còn “run rẩy”, “rung rinh”, “khô gầy”, “mỏng manh” làm cành cây tiều tụy như thân hình gầy guộc. Nỗi buồn của ông là cảm thức vội vàng trước thời gian, khát khao giao cảm: nếu Hàn Mặc Tử đưa người đọc vào miền nội tâm chập chờn thì Xuân Diệu khiến ta chứng kiến sự tàn phai ngay trước mắt.\n\nKhác biệt ấy bắt nguồn từ cá tính sáng tạo và hoàn cảnh mỗi nhà thơ. Hàn Mặc Tử ưa liên tưởng vượt khỏi logic thông thường, nên nỗi buồn thu mang màu huyền nhiệm. Xuân Diệu ám ảnh sự hữu hạn của thời gian và tuổi trẻ, nên nhìn thiên nhiên bằng cái nhìn vừa say mê vừa lo âu. Cùng đi ra từ cái tôi Thơ mới đã được giải phóng, nhưng mỗi người tìm được tiếng nói riêng.\n\nVề nghệ thuật, hai bài cùng dùng thể thơ bảy chữ với nhạc điệu trầm lắng; Hàn Mặc Tử thiên về câu hỏi tu từ, điệp từ và hình ảnh tượng trưng, còn Xuân Diệu thiên về nhân hóa, từ láy và nghệ thuật tạo hình, với hệ từ ngữ “đìu hiu”, “rụng”, “khô gầy”, “mỏng manh”.\n\nTóm lại, hai bài thơ đều là tiếng lòng giàu sức gợi về nỗi buồn, sự chia lìa và tính mong manh của vẻ đẹp: một bên khiến nỗi buồn thành miền bí ẩn của tâm hồn, một bên khiến sự tàn phai hiện lên trong dáng hình cỏ cây; cả hai cùng làm đề tài mùa thu của thơ Việt thêm phong phú. Cảnh sắc rồi đổi thay, nhưng rung động chân thành của hai thi sĩ vẫn còn ngân vang, đúng như lời Hoài Thanh: văn chương luyện cho ta những tình cảm ta sẵn có.\n\n**Lưu ý khi viết**\n\n- Không biến bài so sánh thành hai bài phân tích đặt cạnh nhau: sau mỗi ý tương đồng hoặc khác biệt phải có câu đối chiếu (“nếu Hàn Mặc Tử… thì Xuân Diệu…”).\n\n- Luôn phân tích theo trình tự: câu luận điểm → tên tác phẩm, tác giả → nhận xét hình ảnh, từ ngữ, biện pháp tu từ → chỉ ra điều được làm nổi bật → dẫn chứng thơ → kết luận ý.\n\n- Dẫn thơ chính xác, ngắn gọn, đúng nguyên văn; không bịa câu thơ ngoài văn bản và không diễn xuôi cả bài thơ.",
+      "difficulty": "HARD",
+      "score": 4,
+      "tags": [
+        "nghị luận văn học",
+        "so sánh hai tác phẩm",
+        "mùa thu"
+      ]
+    }
+  ]
+}

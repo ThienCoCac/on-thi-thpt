@@ -1,0 +1,165 @@
+{
+  "id": "de-ngu-van-12-so-09",
+  "title": "Đề thi thử Ngữ văn 12 số 09 – Hình tượng người lính: Tây Tiến và Đồng chí",
+  "slug": "de-ngu-van-12-so-09",
+  "description": "Đề thi thử Ngữ văn 12 chuyên về nghị luận so sánh hình tượng người lính trong “Tây Tiến” (Quang Dũng) và “Đồng chí” (Chính Hữu). Phần đọc hiểu khảo sát thể thơ, hình ảnh ngoại hình, biện pháp tu từ và giọng điệu; phần viết yêu cầu cảm nhận vẻ đẹp người lính và so sánh hai hình tượng. Đề kèm gợi ý chấm điểm chi tiết và bài mẫu.",
+  "subject": "ngu-van",
+  "type": "FULL_EXAM",
+  "durationMinutes": 120,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "NV12-09",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-02T15:00:00.000Z",
+  "updatedAt": "2026-11-02T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "nv12-09-c1",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Tây Tiến đoàn binh không mọc tóc\n> Quân xanh màu lá dữ oai hùm\n> Mắt trừng gửi mộng qua biên giới\n> Đêm mơ Hà Nội dáng kiều thơm\n> Rải rác biên cương mồ viễn xứ\n> Chiến trường đi chẳng tiếc đời xanh\n> Áo bào thay chiếu anh về đất\n> Sông Mã gầm lên khúc độc hành\n> \n> Áo anh rách vai\n> Quần tôi có vài mảnh vá\n> Miệng cười buốt giá\n> Chân không giày\n> Thương nhau tay nắm lấy bàn tay!\n\n**Câu hỏi:** Hai đoạn trích trên được viết theo những thể thơ nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đoạn trích “Tây Tiến” viết theo thể thơ bảy chữ, đoạn trích “Đồng chí” viết theo thể thơ tự do với những câu ngắn dài thất thường."
+        },
+        {
+          "key": "B",
+          "text": "Cả hai đoạn trích đều được viết theo thể thơ lục bát, gieo vần bằng ở cuối mỗi cặp câu."
+        },
+        {
+          "key": "C",
+          "text": "Đoạn trích “Tây Tiến” viết theo thể thơ tự do, đoạn trích “Đồng chí” viết theo thể thơ năm chữ."
+        },
+        {
+          "key": "D",
+          "text": "Cả hai đoạn trích đều theo thể thơ bảy chữ, chỉ khác nhau ở cách ngắt nhịp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.**\n\nMỗi dòng trong đoạn trích “Tây Tiến” đều có đúng bảy chữ (“Tây Tiến đoàn binh không mọc tóc”, “Quân xanh màu lá dữ oai hùm”…), nhịp thơ linh hoạt, thường ngắt 4/3 – đặc trưng của thơ bảy chữ hiện đại. Đoạn trích “Đồng chí” lại có số chữ không đều: “Áo anh rách vai” (2 chữ), “Chân không giày” (3 chữ), “Quần tôi có vài mảnh vá” (6 chữ) – đó là thơ tự do, câu thơ co giãn theo nhịp cảm xúc.\n\nPhương án B sai vì không có cặp câu sáu – tám gieo vần lục bát ở cả hai đoạn. Phương án C sai vì đã đảo lộn thể thơ của hai tác phẩm: “Tây Tiến” mới là thơ bảy chữ. Phương án D sai vì các câu thơ “Đồng chí” ngắn dài rất khác nhau, tuyệt đối không đủ bảy chữ.\n\n**Cách nhận diện:** đếm số chữ mỗi dòng, xét cách ngắt nhịp; số chữ bằng nhau ở mọi dòng ta gọi thơ theo số chữ đó, số chữ không đều ta gọi là thơ tự do.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "thể thơ"
+      ]
+    },
+    {
+      "id": "nv12-09-c2",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Tây Tiến đoàn binh không mọc tóc\n> Quân xanh màu lá dữ oai hùm\n\n**Câu hỏi:** Hình ảnh “đoàn binh không mọc tóc” và “quân xanh màu lá” khắc họa điều gì về người lính Tây Tiến?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dáng vẻ tiều tụy, dị thường do sốt rét rừng và thiếu thốn gây ra, đặt cạnh “dữ oai hùm” vẫn lẫm liệt, hiên ngang."
+        },
+        {
+          "key": "B",
+          "text": "Diện mạo xấu xí, kém cỏi của những người lính không quen rèn luyện thể lực."
+        },
+        {
+          "key": "C",
+          "text": "Trang phục và mái tóc được cố tình làm khác lạ để tạo ấn tượng với đồng bào các dân tộc."
+        },
+        {
+          "key": "D",
+          "text": "Cuộc sống sung túc, thoải mái của đoàn quân khi đóng quân giữa núi rừng Tây Bắc."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.**\n\n“Không mọc tóc” và “quân xanh màu lá” là dấu ấn hiện thực khốc liệt: những cơn sốt rét rừng, chế độ sinh hoạt thiếu thốn đã bào mòn thân thể người lính, khiến tóc rụng, da xanh sắc lá. Nhưng Quang Dũng không dừng ở cái tiều tụy: đặt ngay bên cạnh là “dữ oai hùm” – oai phong của chúa tể rừng xanh. Nghịch lí nghệ thuật nằm ở chỗ, càng bị hiện thực tàn phá, khí phách của đoàn binh càng nổi bật; vẻ đẹp tinh thần chiến thắng sự tàn phá của thể xác.\n\nPhương án B sai vì đây không phải sự “xấu xí, kém cỏi”: ngòi bút Quang Dũng nhìn hiện thực ấy với niềm cảm phục. Phương án C sai vì mái tóc và màu da là hậu quả của bệnh tật, không phải sự trưng bày có chủ ý. Phương án D trái ngược hoàn toàn với hiện thực gian khổ mà hai câu thơ nói tới.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "hình tượng người lính"
+      ]
+    },
+    {
+      "id": "nv12-09-c3",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Áo bào thay chiếu anh về đất\n> Sông Mã gầm lên khúc độc hành\n\n**Câu hỏi:** Hai câu thơ sử dụng những biện pháp tu từ chủ yếu nào và đem lại tác dụng gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ẩn dụ (“áo bào”), nói giảm (“về đất”), nhân hóa (“Sông Mã gầm lên”) – trang trọng và bi tráng hóa sự hi sinh của người lính."
+        },
+        {
+          "key": "B",
+          "text": "So sánh và điệp ngữ – nhấn mạnh lại những chặng đường hành quân gian khổ."
+        },
+        {
+          "key": "C",
+          "text": "Liệt kê và chơi chữ – tạo giọng điệu hài hước, nhẹ nhàng trước cái chết."
+        },
+        {
+          "key": "D",
+          "text": "Nhân hóa và nói quá – cường điệu sức mạnh của kẻ thù trên chiến trường."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "**Đáp án: A.**\n\n“Áo bào” là ẩn dụ nâng niu: manh áo lính bạc màu được gọi bằng chiến bào của các tráng sĩ thuở trước, khiến người lính hi sinh mang tầm vóc sử thi. “Về đất” là nói giảm: cái chết được gọi thành sự trở về với đất mẹ, giảm bớt nỗi đau thương nhưng vẫn đầy xót xa. “Sông Mã gầm lên khúc độc hành” là nhân hóa: dòng sông biết “gầm”, biến thành khúc nhạc tiễn đưa độc hành hùng tráng, đưa sự ra đi thành một hiến dâng bất tử. Giọng điệu hai câu thơ vì thế vừa trang trọng, vừa bi tráng – chất bi (mất mát) đặt trong chất tráng (âm hưởng sông núi).\n\nPhương án B sai vì không có từ so sánh nào và cũng không có điệp ngữ. Phương án C sai vì không có liệt kê, chơi chữ; giọng điệu ở đây rất đỗi trang nghiêm, không hề hài hước. Phương án D sai vì đối tượng được nhân hóa là dòng sông, không phải kẻ thù, và “nói quá” nhằm phô trương sức mạnh địch là hoàn toàn lạc hướng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "biện pháp tu từ"
+      ]
+    },
+    {
+      "id": "nv12-09-c4",
+      "partName": "Phần I. Đọc hiểu",
+      "topic": "topic-van-doc-hieu-tho",
+      "type": "ESSAY",
+      "content": "**Đọc ngữ liệu sau và trả lời câu hỏi:**\n\n> Áo anh rách vai\n> Quần tôi có vài mảnh vá\n> Miệng cười buốt giá\n> Chân không giày\n> Thương nhau tay nắm lấy bàn tay!\n\n**Câu hỏi:** Từ đoạn trích, hãy viết đoạn văn khoảng 5 – 7 dòng nêu cảm nhận của em về vẻ đẹp của người lính trong buổi đầu kháng chiến chống Pháp.",
+      "options": [],
+      "correctAnswer": "Đúng hình thức đoạn 5 – 7 dòng (0,25 điểm); nêu được hiện thực gian khổ và sức mạnh của tình đồng đội qua các chi tiết thơ (0,5 điểm); có dẫn thơ, diễn đạt trong sáng, mạch lạc (0,25 điểm).",
+      "explanation": "**Gợi ý chấm điểm**\n\n- Hình thức: một đoạn văn 5 – 7 dòng, diễn đạt mạch lạc (0,25 điểm).\n- Nội dung: chỉ ra hiện thực thiếu thốn (áo rách vai, quần mảnh vá, chân không giày, “miệng cười buốt giá”) và vẻ đẹp của tình đồng đội, của sự gắn bó sẻ chia (0,5 điểm).\n- Có dẫn thơ hoặc hình ảnh thơ để làm rõ ý; diễn đạt trong sáng, ít lỗi chính tả (0,25 điểm).\n\n**Bài mẫu tham khảo**\n\nĐoạn thơ trong “Đồng chí” cho em thấy vẻ đẹp giản dị mà phi thường của người lính buổi đầu kháng chiến. Áo rách vai, quần mảnh vá, chân không giày giữa cái “buốt giá” của rừng đông, vậy mà trên môi họ vẫn nở nụ cười. Câu thơ “Thương nhau tay nắm lấy bàn tay!” khép lại đoạn trích bằng một hình ảnh thật đắt: chẳng cần lời thề lớn lao, chỉ một cái nắm tay truyền hơi ấm đã nói trọn tình đồng đội sâu nặng. Chính sự gắn bó ấy giúp người lính chiến thắng mọi thiếu thốn, gian nguy.\n\n**Lưu ý khi viết**\n\nĐoạn văn chỉ cần 5 – 7 dòng: mở đoạn bằng một câu khái quát vẻ đẹp người lính, thân đoạn phân tích các chi tiết thơ (rách vai, mảnh vá, chân không giày, nụ cười, cái nắm tay), kết đoạn khẳng định lại cảm xúc của em. Tránh kể lể dài dòng hoặc phân tích toàn bộ bài thơ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "đọc hiểu thơ",
+        "viết đoạn ngắn"
+      ]
+    },
+    {
+      "id": "nv12-09-c5",
+      "partName": "Phần II. Viết đoạn văn",
+      "topic": "topic-van-viet-doan",
+      "type": "ESSAY",
+      "content": "**Đề bài:** Viết đoạn văn (khoảng 200 chữ) trình bày cảm nhận của em về vẻ đẹp của người lính trong một đoạn trích (Tây Tiến HOẶC Đồng chí).\n\n**Ngữ liệu:**\n\n> Tây Tiến đoàn binh không mọc tóc\n> Quân xanh màu lá dữ oai hùm\n> Mắt trừng gửi mộng qua biên giới\n> Đêm mơ Hà Nội dáng kiều thơm\n> Rải rác biên cương mồ viễn xứ\n> Chiến trường đi chẳng tiếc đời xanh\n> Áo bào thay chiếu anh về đất\n> Sông Mã gầm lên khúc độc hành\n(Tây Tiến – Quang Dũng)\n\n> Áo anh rách vai\n> Quần tôi có vài mảnh vá\n> Miệng cười buốt giá\n> Chân không giày\n> Thương nhau tay nắm lấy bàn tay!\n> Đêm nay rừng hoang sương muối\n> Đứng cạnh bên nhau chờ giặc tới\n> Đầu súng trăng treo.\n(Đồng chí – Chính Hữu)\n\n**Yêu cầu:** Đảm bảo hình thức một đoạn văn; chỉ chọn một trong hai đoạn trích; bám sát hình ảnh, ngôn ngữ, biện pháp tu từ; nêu được vẻ đẹp người lính và khái quát nghệ thuật của tác giả.",
+      "options": [],
+      "correctAnswer": "Đúng hình thức đoạn văn khoảng 200 chữ (0,25 điểm); phân tích được các chi tiết thơ nổi bật và vẻ đẹp của người lính (1,0 điểm); khái quát được nghệ thuật và cảm hứng của tác giả (0,5 điểm); diễn đạt trong sáng, đúng chính tả (0,25 điểm).",
+      "explanation": "**Gợi ý chấm điểm**\n\n- Hình thức: một đoạn văn khoảng 200 chữ, không xuống dòng chia đoạn (0,25 điểm).\n- Nội dung: chọn một trong hai đoạn trích; phân tích hình ảnh khắc họa ngoại hình, đời sống tâm hồn, lí tưởng và tình đồng đội; chỉ ra biện pháp tu từ cùng tác dụng (1,0 điểm).\n- Khái quát: đặc sắc nghệ thuật (thể thơ, nhịp, ngôn ngữ, hình ảnh) và cảm hứng của tác giả; thông điệp về người lính thời kháng chiến (0,5 điểm).\n- Diễn đạt, chính tả, dùng từ (0,25 điểm).\n\n**Bài mẫu tham khảo**\n\nĐoạn trích “Tây Tiến” của Quang Dũng đã dựng nên bức tượng đài người lính vừa hào hùng vừa hào hoa giữa núi rừng Tây Bắc. Hiện thực khốc liệt của sốt rét rừng in dấu trên ngoại hình “không mọc tóc”, “quân xanh màu lá”, đặt cạnh “dữ oai hùm” tạo nên thế đối lập giữa thân thể tiều tụy và khí phách phi thường. Tâm hồn họ phong phú lạ thường: “Mắt trừng gửi mộng qua biên giới” là ý chí quyết chiến, còn “Đêm mơ Hà Nội dáng kiều thơm” là nỗi nhớ dịu dàng, lãng mạn của những thanh niên trí thức. Xúc động nhất là lúc họ đối diện cái chết: “Chiến trường đi chẳng tiếc đời xanh” khẳng định lí tưởng hiến dâng tự nguyện; “áo bào”, “về đất” và tiếng “Sông Mã gầm lên khúc độc hành” đã bi tráng hóa sự ra đi, biến mất mát thành khúc tráng ca bất tử. Bằng thể thơ bảy chữ nhịp nhàng, ngôn ngữ tạo hình giàu chất họa, giọng điệu khi hào hùng khi lắng đọng, Quang Dũng để hình tượng người lính Tây Tiến sống mãi trong lòng người đọc như một vẻ đẹp của một thời không thể nào quên.\n\n**Lưu ý khi viết**\n\nDàn ý nhanh: câu mở đoạn giới thiệu đoạn trích và vẻ đẹp khái quát → phân tích ngoại hình trong hiện thực gian khổ → phân tích tâm hồn, lí tưởng → phân tích sự hi sinh và âm hưởng sử thi → câu kết khái quát nghệ thuật, cảm hứng tác giả. Nếu chọn “Đồng chí”, hãy đi từ các chi tiết “rách vai”, “mảnh vá”, “chân không giày” đến nụ cười, cái nắm tay và hình ảnh “Đầu súng trăng treo”. Không phân tích cả hai đoạn trích trong cùng một đoạn văn.",
+      "difficulty": "MEDIUM",
+      "score": 2,
+      "tags": [
+        "viết đoạn",
+        "nghị luận văn học"
+      ]
+    },
+    {
+      "id": "nv12-09-c6",
+      "partName": "Phần III. Viết bài văn",
+      "topic": "topic-van-viet-bai",
+      "type": "ESSAY",
+      "content": "**Đề bài:** Viết bài văn (khoảng 600 chữ) so sánh hình tượng người lính trong hai đoạn trích sau, từ đó chỉ ra nét riêng trong cảm hứng lãng mạn và bút pháp bi tráng của Quang Dũng so với thơ Chính Hữu.\n\n**Ngữ liệu 1 (Tây Tiến – Quang Dũng):**\n\n> Tây Tiến đoàn binh không mọc tóc\n> Quân xanh màu lá dữ oai hùm\n> Mắt trừng gửi mộng qua biên giới\n> Đêm mơ Hà Nội dáng kiều thơm\n> Rải rác biên cương mồ viễn xứ\n> Chiến trường đi chẳng tiếc đời xanh\n> Áo bào thay chiếu anh về đất\n> Sông Mã gầm lên khúc độc hành\n> Tây Tiến người đi không hẹn ước\n> Đường lên thăm thẳm một chia phôi\n> Ai lên Tây Tiến mùa xuân ấy\n> Hồn về Sầm Nứa chẳng về xuôi.\n\n**Ngữ liệu 2 (Đồng chí – Chính Hữu):**\n\n> Áo anh rách vai\n> Quần tôi có vài mảnh vá\n> Miệng cười buốt giá\n> Chân không giày\n> Thương nhau tay nắm lấy bàn tay!\n> Đêm nay rừng hoang sương muối\n> Đứng cạnh bên nhau chờ giặc tới\n> Đầu súng trăng treo.\n\n**Yêu cầu:** Thân bài làm theo trình tự: khái quát hai tác phẩm → điểm tương đồng (nội dung, nghệ thuật, nguyên nhân) → điểm khác biệt (nội dung, nghệ thuật, nguyên nhân) → đánh giá; dẫn chứng thơ trích dẫn trong ngoặc kép; kết bài khẳng định giá trị hai hình tượng.",
+      "options": [],
+      "correctAnswer": "Mở bài 0,5 điểm; thân bài 3,0 điểm (khái quát hai tác phẩm 0,5; tương đồng 1,0; khác biệt 1,0; nguyên nhân 0,25; nghệ thuật 0,25); kết bài 0,5 điểm.",
+      "explanation": "**Gợi ý chấm điểm**\n\n- Mở bài: mượn một ý kiến nhận định về văn chương, giới thiệu hai tác phẩm, hai đoạn trích và vấn đề so sánh (0,5 điểm).\n- Thân bài (3,0 điểm): khái quát hai tác phẩm và xuất xứ đoạn trích (0,5); tương đồng về nội dung và nghệ thuật, kèm nguyên nhân tương đồng (1,0); khác biệt về nội dung và nghệ thuật, kèm nguyên nhân khác biệt (1,0); chỉ ra nét riêng trong cảm hứng lãng mạn, bút pháp bi tráng của Quang Dũng so với Chính Hữu (0,25); tổng kết, đánh giá hai hình tượng (0,25).\n- Kết bài: khẳng định giá trị hai hình tượng người lính và cảm nghĩ của người viết (0,5 điểm).\n- Trừ điểm nếu sai kiến thức, lạc đề, không có dẫn chứng thơ hoặc mắc nhiều lỗi diễn đạt.\n\n**Bài mẫu tham khảo**\n\nNhà phê bình Hoài Thanh từng khẳng định: “Văn chương gây cho ta những tình cảm ta không có, luyện những tình cảm ta sẵn có”. Cùng viết về người lính kháng chiến chống Pháp, Quang Dũng và Chính Hữu gặp nhau ở cảm hứng ngợi ca vẻ đẹp bình dị mà phi thường, còn mỗi thi phẩm lại mở ra một thế giới nghệ thuật riêng. So sánh hai hình tượng, ta thấy vừa điểm hẹn chung của thơ thời trận mạc, vừa dấu ấn phong cách mỗi thi nhân.\n\n“Tây Tiến” (1948) được Quang Dũng viết tại Phù Lưu Chanh khi đã rời đơn vị cũ, từ nỗi nhớ da diết về đoàn quân và núi rừng Tây Bắc; đoạn trích cuối bài phác họa người lính từ ngoại hình, tâm hồn đến sự hi sinh. “Đồng chí” (1948) của Chính Hữu viết từ trải nghiệm bên các chiến sĩ trong chiến dịch Việt Bắc; phần cuối bài kết tinh tình đồng chí. Hai tác phẩm cùng ra đời ở buổi đầu kháng chiến chống Pháp, cùng bắt nguồn từ hiện thực gian khổ của đời lính.\n\n**Điểm tương đồng trước hết là cảm hứng ngợi ca phẩm chất người lính.** Họ đều đối diện thiếu thốn, bệnh tật, hiểm nguy mà không mất ý chí chiến đấu. “Tây Tiến đoàn binh không mọc tóc / Quân xanh màu lá dữ oai hùm”: sốt rét rừng tàn phá ngoại hình, nhưng “dữ oai hùm” tạo thế đối lập giữa thân thể tiều tụy và khí phách lẫm liệt. “Áo anh rách vai / Quần tôi có vài mảnh vá / Miệng cười buốt giá / Chân không giày”: hiện thực không tô vẽ, giữa giá rét người lính vẫn cười, vẫn nắm tay nhau. Cả hai cùng khẳng định: chiến tranh tổn thương thể xác nhưng không khuất phục được tinh thần.\n\n**Hai đoạn trích còn tương đồng về nghệ thuật**: bút pháp hiện thực kết hợp lãng mạn; phẩm chất người lính tự bộc lộ qua ngoại hình, hành động, hoàn cảnh chiến đấu; “rách vai”, “chân không giày” là chi tiết thực, còn “áo bào”, “Đầu súng trăng treo” nâng hình tượng lên tầm biểu tượng. **Sự gặp gỡ ấy bắt nguồn từ hoàn cảnh lịch sử chung**: cùng thế hệ rời cuộc sống riêng chiến đấu cho độc lập dân tộc, cùng những nhà thơ từng sống giữa đồng đội, nên thơ được viết từ kí ức và trải nghiệm.\n\n**Khác biệt nổi bật nằm ở chiều sâu riêng của mỗi hình tượng.** Lính Tây Tiến là thanh niên trí thức hào hùng, hào hoa, mang tầm vóc bi tráng: “Mắt trừng gửi mộng qua biên giới / Đêm mơ Hà Nội dáng kiều thơm” gợi hai chiều tâm hồn: ý chí quyết chiến và nỗi nhớ lãng mạn; “Chiến trường đi chẳng tiếc đời xanh” là lựa chọn hiến dâng đầy ý thức; “Áo bào thay chiếu anh về đất / Sông Mã gầm lên khúc độc hành” bi tráng hóa cái chết; lời thề “Hồn về Sầm Nứa chẳng về xuôi” khắc tên cả một thế hệ. Lính “Đồng chí” là những người nông dân mặc áo lính, đẹp ở sự bền bỉ chịu đựng và tình đồng đội: “Thương nhau tay nắm lấy bàn tay!” — một cái nắm tay truyền hơi ấm nói trọn mọi lời thề; “Đứng cạnh bên nhau chờ giặc tới” vững chãi giữa rừng hoang sương muối; “Đầu súng trăng treo” vừa thực vừa mộng — súng là chiến đấu, trăng là hòa bình.\n\n**Về nghệ thuật**, “Tây Tiến” đậm âm hưởng sử thi: thơ bảy chữ nhịp linh hoạt, từ ngữ cổ kính, trang trọng (“dữ oai hùm”, “mồ viễn xứ”, “áo bào”), thủ pháp đối lập, nói giảm, nhân hóa tạo chất bi tráng riêng. “Đồng chí” là thơ tự do với câu tối giản (“Chân không giày”), ngôn ngữ giản dị, giọng thủ thỉ tâm tình; phép sóng đôi “Áo anh rách vai / Quần tôi có vài mảnh vá” gợi cảnh ngộ đồng điệu, đại từ “anh – tôi” hòa thành “nhau”. Nguyên nhân khác biệt nằm ở cá tính sáng tạo: Quang Dũng — nghệ sĩ tài hoa, lãng mạn, ưa cái phi thường; Chính Hữu — trữ tình chính luận, tìm vẻ đẹp ở điều bình dị.\n\n**Đặt cạnh nhau, hai hình tượng không đối lập mà bổ sung cho nhau**, hoàn thiện chân dung người lính kháng chiến: một bên khiến ta cảm phục khí phách hiến dâng tuổi trẻ, một bên làm ta xúc động trước sức mạnh tình đồng đội. Cả hai cho thấy tài năng nghệ thuật không ở việc tô vẽ hiện thực mà ở khả năng khám phá vẻ đẹp ẩn sâu trong hiện thực.\n\nTựu chung lại, “Tây Tiến” và “Đồng chí” là hai tượng đài nghệ thuật khác biệt mà cùng tỏa sáng trong một lí tưởng chung: một bên là khúc độc hành bi tráng giữa núi rừng Tây Bắc, một bên là vầng trăng lặng lẽ treo trên đầu súng. Thời gian có thể phủ bụi chiến hào, phai màu áo lính, nhưng không xóa nổi vẻ đẹp của thế hệ lấy tuổi trẻ làm lời thề với đất nước — hòa bình được viết bằng máu xương và những tình cảm cao đẹp của bao người đã hiến dâng cho Tổ quốc.\n\n**Lưu ý khi viết**\n\nTrình tự bắt buộc của thân bài: khái quát hai tác phẩm → tương đồng (nội dung rồi nghệ thuật, kèm nguyên nhân) → khác biệt (nội dung rồi nghệ thuật, kèm nguyên nhân) → đánh giá. Mỗi luận điểm nên mở đầu bằng một câu in đậm khái quát, dẫn thơ trong ngoặc kép rồi mới bình, tuyệt đối không kể lại nội dung bài thơ. Điểm sáng tạo nằm ở phần nguyên nhân: gắn khác biệt với trải nghiệm và phong cách của mỗi nhà thơ (Quang Dũng – nghệ sĩ tài hoa, lãng mạn; Chính Hữu – trữ tình chính luận, hướng về cái bình dị).",
+      "difficulty": "HARD",
+      "score": 4,
+      "tags": [
+        "viết bài",
+        "nghị luận văn học"
+      ]
+    }
+  ]
+}
