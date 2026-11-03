@@ -1,15 +1,7 @@
 // Render Markdown tối giản, escape toàn bộ HTML đầu vào để tránh XSS.
 // Hỗ trợ tiêu đề, danh sách, trích dẫn, ảnh, liên kết nội bộ/http(s) và công thức toán KaTeX ($...$, $$...$$).
 import { renderToString } from 'katex';
-
-function escapeHtml(value: string): string {
-  return value
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#39;');
-}
+import { escapeHtml } from '@/lib/format';
 
 // Chỉ cho phép đường dẫn nội bộ hoặc http(s); chặn javascript:, data: và URL lạ.
 function safeUrl(raw: string): string | null {
@@ -69,12 +61,32 @@ function extractMath(value: string, sink: string[]): string {
     });
 }
 
+// KaTeX và escape chạy trên máy người dùng, mỗi lần hiện câu hỏi là render lại toàn bộ
+// lời đề + bốn phương án, nên cache theo chuỗi đầu vào có giá trị: hàng nghìn cụm ngắn
+// trùng nhau (phương án, dẫn đề) giúp một phiên luyện tập chỉ render mỗi chuỗi một lần.
+const inlineCache = new Map<string, string>();
+const blockCache = new Map<string, string>();
+
 function renderInline(value: string): string {
+  const key = value.trim();
+  const cached = inlineCache.get(key);
+
+  if (cached !== undefined) {
+    return cached;
+  }
+
+  const html = renderInlineRaw(key);
+  inlineCache.set(key, html);
+
+  return html;
+}
+
+function renderInlineRaw(value: string): string {
   const codes: string[] = [];
   const maths: string[] = [];
 
   // Tách code trước để `$...$` bên trong code không bị render thành công thức.
-  const source = value.trim().replace(/`([^`]+)`/g, (_match, code: string) => {
+  const source = value.replace(/`([^`]+)`/g, (_match, code: string) => {
     codes.push(`<code>${escapeHtml(code)}</code>`);
     return `\u0000${codes.length - 1}\u0000`;
   });
@@ -146,7 +158,25 @@ function youtubeEmbedUrl(raw: string): string | null {
   return `https://www.youtube-nocookie.com/embed/${videoId}`;
 }
 
+// Render một dòng (dùng cho phương án A/B/C/D): không bọc <p>, vẫn render công thức KaTeX.
+export function renderInlineMarkdown(markdown: string): string {
+  return renderInline(markdown);
+}
+
 export function renderMarkdown(markdown: string): string {
+  const cached = blockCache.get(markdown);
+
+  if (cached !== undefined) {
+    return cached;
+  }
+
+  const html = renderMarkdownBlocks(markdown);
+  blockCache.set(markdown, html);
+
+  return html;
+}
+
+function renderMarkdownBlocks(markdown: string): string {
   const normalized = markdown.trim();
 
   if (!normalized) {

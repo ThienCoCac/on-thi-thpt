@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { ExamPractice } from '@/components/practice/exam-practice';
-import { getRunnerExam, listExams } from '@/lib/content';
+import { ExamPracticeSession } from '@/components/data/exam-loader';
+import { hasExam, listExams } from '@/lib/content';
 
 export const dynamicParams = false;
 
@@ -19,11 +19,9 @@ export function generateStaticParams(): { slug: string }[] {
 }
 
 export default function PracticeExamPage({ params }: PracticeExamPageProps) {
-  const exam = getRunnerExam(params.slug);
-
-  if (!exam) {
+  if (!hasExam(params.slug)) {
     notFound();
   }
 
-  return <ExamPractice exam={exam} />;
+  return <ExamPracticeSession slug={params.slug} />;
 }

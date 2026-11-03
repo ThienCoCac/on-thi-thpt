@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { ExamRunner } from '@/components/exams/exam-runner';
-import { getRunnerExam, listExams } from '@/lib/content';
+import { ExamTakeSession } from '@/components/data/exam-loader';
+import { hasExam, listExams } from '@/lib/content';
 
 export const dynamicParams = false;
 
@@ -19,11 +19,9 @@ export function generateStaticParams(): { slug: string }[] {
 }
 
 export default function TakeExamPage({ params }: TakeExamPageProps) {
-  const exam = getRunnerExam(params.slug);
-
-  if (!exam) {
+  if (!hasExam(params.slug)) {
     notFound();
   }
 
-  return <ExamRunner exam={exam} />;
+  return <ExamTakeSession slug={params.slug} />;
 }

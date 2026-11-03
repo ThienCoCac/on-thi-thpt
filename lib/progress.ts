@@ -328,7 +328,7 @@ function isRunnerQuestion(value: unknown): value is RunnerQuestion {
   return (
     typeof item.id === 'string' &&
     typeof item.type === 'string' &&
-    typeof item.contentHtml === 'string' &&
+    typeof item.content === 'string' &&
     Array.isArray(item.options)
   );
 }

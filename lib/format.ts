@@ -76,7 +76,19 @@ export function formatScore(value: number | null | undefined): string {
   return Number.isInteger(value) ? String(value) : value.toFixed(2);
 }
 
-// Tạo tóm tắt thuần văn bản từ nội dung Markdown để hiển thị ở thẻ câu hỏi.
+// Escape cho mọi nội dung chèn vào HTML dựng sẵn. Đặt ở file thuần tiện ích này
+// vì cả trình duyệt (lib/grading.ts) lẫn bước build (lib/markdown.ts) đều cần,
+// còn lib/markdown.ts thì kéo theo KaTeX nặng đầu bundle.
+export function escapeHtml(value: string): string {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+// Tạo tóm tắt thuần văn bản từ Markdown hoặc HTML đã render để hiển thị ở thẻ câu hỏi.
 export function toExcerpt(markdown: string, maxLength = 160): string {
   const plain = markdown
     .replace(/```[\s\S]*?```/g, ' ')
@@ -84,6 +96,12 @@ export function toExcerpt(markdown: string, maxLength = 160): string {
     .replace(/!\[[^\]]*]\([^)]*\)/g, ' ')
     .replace(/\[([^\]]+)]\([^)]*\)/g, '$1')
     .replace(/[#>*_`~]/g, ' ')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
     .replace(/\s+/g, ' ')
     .trim();
 

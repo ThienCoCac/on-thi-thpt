@@ -40,6 +40,7 @@ import {
   recordPracticeResult,
   type PracticeSessionSnapshot,
 } from '@/lib/progress';
+import { fetchBank } from '@/lib/use-static-data';
 import { cn } from '@/lib/utils';
 
 const COUNT_OPTIONS = [10, 20, 30, 50];
@@ -64,7 +65,7 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
   const [saved, setSaved] = useState<PracticeSessionSnapshot | null>(null);
   const [mistakeCount, setMistakeCount] = useState(0);
   const [poolExhausted, setPoolExhausted] = useState(false);
-  const bankRef = useRef<BankQuestion[] | null>(null);
+  const bankRef = useRef<{ subjectSlug: string; questions: BankQuestion[] } | null>(null);
 
   useEffect(() => {
     setMistakeCount(loadMistakes().length);
@@ -125,19 +126,15 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
     });
   }
 
-  async function getBank(): Promise<BankQuestion[]> {
-    if (bankRef.current) {
-      return bankRef.current;
+  async function getBank(subjectSlug: string): Promise<BankQuestion[]> {
+    if (bankRef.current?.subjectSlug === subjectSlug) {
+      return bankRef.current.questions;
     }
 
-    const response = await fetch('/data/question-bank.json');
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
-    }
+    const questions = await fetchBank(subjectSlug);
+    bankRef.current = { subjectSlug, questions };
 
-    const data = (await response.json()) as BankQuestion[];
-    bankRef.current = data;
-    return data;
+    return questions;
   }
 
   async function start() {
@@ -149,10 +146,8 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
     setError(null);
 
     try {
-      const bank = await getBank();
-      const pool = bank.filter(
-        (question) => question.subjectSlug === subject.slug && topicIds.has(question.topicId),
-      );
+      const bank = await getBank(subject.slug);
+      const pool = bank.filter((question) => topicIds.has(question.topicId));
       const seenCounts = loadSeenCounts();
       const picked = pickFreshQuestions(pool, count, seenCounts);
 
@@ -217,7 +212,7 @@ export function PracticeStudio({ catalog }: PracticeStudioProps) {
             subjectName: subject.name,
             outcome,
             metaFor: (id) => {
-              const question = bankRef.current?.find((item) => item.id === id);
+              const question = bankRef.current?.questions.find((item) => item.id === id);
               return {
                 id,
                 subjectSlug: question?.subjectSlug ?? subject.slug,

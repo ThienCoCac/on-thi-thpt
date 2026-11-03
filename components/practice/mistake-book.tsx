@@ -22,6 +22,7 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card';
+import { Markup } from '@/components/ui/markup';
 import type { BankQuestion } from '@/lib/content-types';
 import { formatDate, toExcerpt } from '@/lib/format';
 import { getCorrectOptionKeys } from '@/lib/grading';
@@ -35,6 +36,7 @@ import {
   removeMistake,
 } from '@/lib/progress';
 import type { MistakeEntry } from '@/lib/progress';
+import { fetchBank } from '@/lib/use-static-data';
 import { cn } from '@/lib/utils';
 
 const COUNT_OPTIONS = [10, 20, 50];
@@ -73,13 +75,11 @@ export function MistakeBook() {
 
     setStatus('loading');
 
-    fetch('/data/question-bank.json')
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
-        }
-        return response.json() as Promise<BankQuestion[]>;
-      })
+    // Chỉ tải ngân hàng của những môn thực sự có câu sai trong sổ tay.
+    const slugs = Array.from(new Set(mistakes.map((entry) => entry.subjectSlug)));
+
+    Promise.all(slugs.map((slug) => fetchBank(slug)))
+      .then((parts) => parts.flat())
       .then((bank) => {
         if (cancelled) {
           return;
@@ -402,7 +402,7 @@ export function MistakeBook() {
                     </span>
                   </span>
                   <span className="mt-1.5 block text-sm leading-relaxed">
-                    {toExcerpt(question.contentText, 190)}
+                    {toExcerpt(question.content, 190)}
                   </span>
                 </span>
                 <ChevronDown
@@ -412,10 +412,11 @@ export function MistakeBook() {
               </summary>
 
               <div className="space-y-4 border-t px-4 py-5">
-                <div
+                <Markup
+                  block
                   className="article-content text-sm"
-                  dangerouslySetInnerHTML={{ __html: question.contentHtml }}
-                />
+                  source={question.content}
+                  />
 
                 {question.options.length > 0 ? (
                   <ul className="space-y-2">
@@ -443,7 +444,7 @@ export function MistakeBook() {
                           >
                             {option.key}
                           </span>
-                          <span className="min-w-0 flex-1 leading-relaxed">{option.text}</span>
+                          <Markup className="min-w-0 flex-1 leading-relaxed" source={option.text} />
                         </li>
                       );
                     })}
@@ -455,10 +456,11 @@ export function MistakeBook() {
                     <Lightbulb className="h-4 w-4" aria-hidden="true" />
                     Lời giải
                   </p>
-                  <div
+                  <Markup
+                    block
                     className="article-content mt-2 text-sm"
-                    dangerouslySetInnerHTML={{ __html: question.explanationHtml }}
-                  />
+                    source={question.explanation}
+                    />
                 </div>
 
                 <div className="flex flex-wrap items-center justify-between gap-2">

@@ -41,6 +41,7 @@ import {
 } from '@/lib/grading';
 import { DIFFICULTY_LABELS } from '@/lib/labels';
 import { cn } from '@/lib/utils';
+import { Markup } from '@/components/ui/markup';
 
 type ResultTab = 'wrong' | 'correct' | 'neutral';
 
@@ -136,10 +137,20 @@ function ReviewCard({
           {variant === 'wrong' ? (
             <span className="mt-1.5 grid gap-0.5 text-xs">
               <span className="line-clamp-1 text-destructive">
-                Bạn chọn: {describeAnswer(question.type, item.selectedAnswer, question.options)}
+                Bạn chọn:{' '}
+                <Markup
+                  source={describeAnswer(question.type, item.selectedAnswer, question.options)}
+                />
               </span>
               <span className="line-clamp-1 text-emerald-700">
-                Đáp án: {describeCorrectAnswer(question.type, question.correctAnswer, question.options)}
+                Đáp án:{' '}
+                <Markup
+                  source={describeCorrectAnswer(
+                    question.type,
+                    question.correctAnswer,
+                    question.options,
+                  )}
+                />
               </span>
             </span>
           ) : variant === 'neutral' ? (
@@ -148,7 +159,14 @@ function ReviewCard({
             </span>
           ) : (
             <span className="mt-1.5 block line-clamp-1 text-xs text-muted-foreground">
-              Đáp án: {describeCorrectAnswer(question.type, question.correctAnswer, question.options)}
+              Đáp án:{' '}
+              <Markup
+                source={describeCorrectAnswer(
+                  question.type,
+                  question.correctAnswer,
+                  question.options,
+                )}
+              />
             </span>
           )}
         </span>
@@ -160,10 +178,11 @@ function ReviewCard({
       </summary>
 
       <div className="space-y-4 border-t px-4 py-5">
-        <div
+        <Markup
+          block
           className="article-content text-sm"
-          dangerouslySetInnerHTML={{ __html: question.contentHtml }}
-        />
+          source={question.content}
+          />
 
         {question.options.length > 0 ? (
           <ul className="space-y-2">
@@ -196,7 +215,7 @@ function ReviewCard({
                   >
                     {option.key}
                   </span>
-                  <span className="min-w-0 flex-1 leading-relaxed">{option.text}</span>
+                  <Markup className="min-w-0 flex-1 leading-relaxed" source={option.text} />
                   <span className="flex shrink-0 flex-col items-end gap-1 text-xs">
                     {isCorrectOption ? (
                       <span className="flex items-center gap-1 text-emerald-700">
@@ -219,15 +238,21 @@ function ReviewCard({
           <div className="space-y-2">
             <div className="rounded-lg border bg-muted/30 p-3 text-sm">
               <p className="text-xs text-muted-foreground">Bài làm của bạn</p>
-              <p className="mt-1 max-h-72 overflow-auto whitespace-pre-wrap leading-relaxed">
-                {describeAnswer(question.type, item.selectedAnswer, question.options)}
-              </p>
+              <Markup
+                className="mt-1 block max-h-72 overflow-auto leading-relaxed"
+                source={describeAnswer(question.type, item.selectedAnswer, question.options)}
+              />
             </div>
             <div className="rounded-lg border border-primary/20 bg-primary/5 p-3 text-sm">
               <p className="text-xs text-muted-foreground">Gợi ý chấm điểm</p>
-              <p className="mt-1 whitespace-pre-wrap leading-relaxed">
-                {describeCorrectAnswer(question.type, question.correctAnswer, question.options)}
-              </p>
+              <Markup
+                className="mt-1 block leading-relaxed"
+                source={describeCorrectAnswer(
+                  question.type,
+                  question.correctAnswer,
+                  question.options,
+                )}
+              />
             </div>
           </div>
         ) : (
@@ -235,13 +260,21 @@ function ReviewCard({
             <div>
               <dt className="text-xs text-muted-foreground">Bạn trả lời</dt>
               <dd className="mt-0.5 font-medium">
-                {describeAnswer(question.type, item.selectedAnswer, question.options)}
+                <Markup
+                  source={describeAnswer(question.type, item.selectedAnswer, question.options)}
+                />
               </dd>
             </div>
             <div>
               <dt className="text-xs text-muted-foreground">Đáp án đúng</dt>
               <dd className="mt-0.5 font-medium text-emerald-700">
-                {describeCorrectAnswer(question.type, question.correctAnswer, question.options)}
+                <Markup
+                  source={describeCorrectAnswer(
+                    question.type,
+                    question.correctAnswer,
+                    question.options,
+                  )}
+                />
               </dd>
             </div>
           </dl>
@@ -252,10 +285,11 @@ function ReviewCard({
             <Lightbulb className="h-4 w-4" aria-hidden="true" />
             {item.isCorrect === null ? 'Bài mẫu và gợi ý chấm điểm' : 'Lời giải theo hướng tư duy'}
           </p>
-          <div
+          <Markup
+            block
             className="article-content mt-2 text-sm"
-            dangerouslySetInnerHTML={{ __html: question.explanationHtml }}
-          />
+            source={question.explanation}
+            />
         </div>
       </div>
     </details>

@@ -30,6 +30,7 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
+import { Markup } from '@/components/ui/markup';
 import type {
   AnswerValue,
   GradeResult,
@@ -819,10 +820,11 @@ export function ExamRunner({ exam, persistDraft = true, markSeen = true }: ExamR
               </CardHeader>
 
               <CardContent className="space-y-5">
-                <div
+                <Markup
+                  block
                   className="article-content"
-                  dangerouslySetInnerHTML={{ __html: current.contentHtml }}
-                />
+                  source={current.content}
+                  />
 
                 {current.imageUrl ? (
                   // eslint-disable-next-line @next/next/no-img-element
@@ -906,9 +908,7 @@ export function ExamRunner({ exam, persistDraft = true, markSeen = true }: ExamR
                             {option.key}
                           </span>
                           <span className="min-w-0 flex-1 space-y-2">
-                            <span className="block text-sm leading-relaxed">
-                              {option.text}
-                            </span>
+                            <Markup className="block text-sm leading-relaxed" source={option.text} />
                             {option.imageUrl ? (
                               // eslint-disable-next-line @next/next/no-img-element
                               <img

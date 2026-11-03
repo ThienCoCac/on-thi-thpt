@@ -895,7 +895,7 @@
       "partName": "Phần III. Trắc nghiệm trả lời ngắn",
       "topic": "topic-toan-de-thi-that",
       "type": "FILL_IN",
-      "content": "Có bốn ngăn (trong một giá để sách) được đánh số thứ tự $1, 2, 3, 4$ và bảy quyển sách khác nhau. Bạn An xếp hết bảy quyển sách nói trên vào bốn ngăn đó sao cho mỗi ngăn có ít nhất một quyển sách và các quyển sách được xếp thẳng đứng thành một hàng ngang với gáy sách quay ra ngoài ở mỗi ngăn. Khi đã xếp xong bảy quyển sách, hai cách xếp của bạn An được gọi là giống nhau nếu chúng thỏa mãn đồng thời hai điều kiện sau đây:\\n\\n- Với từng ngăn, số lượng quyển sách ở ngăn đó là như nhau trong cả hai cách xếp;\\n- Với từng ngăn, thứ tự từ trái sang phải của các quyển sách được xếp là như nhau trong cả hai cách xếp.\\n\\nGọi $T$ là số cách xếp đôi một khác nhau của bạn An. Giá trị của $\\frac{T}{100}$ bằng bao nhiêu?",
+      "content": "Có bốn ngăn (trong một giá để sách) được đánh số thứ tự $1, 2, 3, 4$ và bảy quyển sách khác nhau. Bạn An xếp hết bảy quyển sách nói trên vào bốn ngăn đó sao cho mỗi ngăn có ít nhất một quyển sách và các quyển sách được xếp thẳng đứng thành một hàng ngang với gáy sách quay ra ngoài ở mỗi ngăn. Khi đã xếp xong bảy quyển sách, hai cách xếp của bạn An được gọi là giống nhau nếu chúng thỏa mãn đồng thời hai điều kiện sau đây:\n\n- Với từng ngăn, số lượng quyển sách ở ngăn đó là như nhau trong cả hai cách xếp;\n- Với từng ngăn, thứ tự từ trái sang phải của các quyển sách được xếp là như nhau trong cả hai cách xếp.\n\nGọi $T$ là số cách xếp đôi một khác nhau của bạn An. Giá trị của $\\frac{T}{100}$ bằng bao nhiêu?",
       "options": [],
       "correctAnswer": [
         "1008",

@@ -1,7 +1,8 @@
 // Một lệnh duy nhất cho toàn bộ vòng kiểm tra của repo này.
 //   node scripts/verify.mjs                  -> tự chọn bộ test theo file vừa sửa
-//   node scripts/verify.mjs --scope=all      -> typecheck + lint + build + 9 bộ test
+//   node scripts/verify.mjs --scope=all      -> typecheck + lint + build + 11 bộ test (chạy song song)
 //   node scripts/verify.mjs --scope=deploy   -> như all cộng thêm kiểm tra bản live
+//   node scripts/verify.mjs --scope=toan --jobs=1  -> một bộ, chạy tuần tự cho dễ đọc log
 // Mọi tiến trình con dùng process.execPath nên không cần thêm node vào PATH.
 import { spawn, spawnSync } from 'node:child_process';
 import { existsSync, readFileSync, readdirSync, mkdirSync, rmSync, statSync, writeFileSync } from 'node:fs';
@@ -84,6 +85,7 @@ function parseArgs(argv) {
     scope: 'auto',
     build: 'auto',
     lint: true,
+    jobs: Number(process.env.VERIFY_JOBS) || 4,
     files: null,
     list: false,
     stopServer: false,
@@ -93,6 +95,12 @@ function parseArgs(argv) {
   for (const arg of argv) {
     if (arg.startsWith('--scope=')) {
       options.scope = arg.slice('--scope='.length).trim();
+    } else if (arg.startsWith('--jobs=')) {
+      const value = Number(arg.slice('--jobs='.length).trim());
+      if (!Number.isInteger(value) || value < 1) {
+        throw new Error(`--jobs phải là số nguyên dương, nhận được: ${arg}`);
+      }
+      options.jobs = value;
     } else if (arg === '--build') {
       options.build = 'force';
     } else if (arg === '--no-build') {
@@ -196,6 +204,10 @@ function selectSuites(scope, files) {
     if (CORE_PATTERNS.some((pattern) => pattern.test(file))) {
       return { ids: LOCAL_SUITES, reason: `${file} thuộc phần lõi, phải chạy hết` };
     }
+    // Route sinh file dữ liệu: mọi môn đọc từ đây nên không đoán riêng từng môn được.
+    if (/^app\/data\//.test(file)) {
+      return { ids: LOCAL_SUITES, reason: `${file} là route dữ liệu của mọi môn, phải chạy hết` };
+    }
     if (!DOCS_PATTERNS.some((pattern) => pattern.test(file))) {
       onlyDocs = false;
     }
@@ -271,6 +283,42 @@ function runNode(args, { cwd = ROOT, timeout, label }) {
     output: `${result.stdout ?? ''}${result.stderr ?? ''}`,
     ms: Date.now() - started,
   };
+}
+
+// Bản chạy bất đồng bộ: nhiều bộ test mở Chrome cùng lúc nên phải dùng spawn + pipe,
+// spawnSync sẽ chặn và chỉ chạy được từng bộ một.
+function runNodeAsync(args, { cwd = ROOT, timeout, label }) {
+  return new Promise((done) => {
+    const started = Date.now();
+    const child = spawn(NODE, args, { cwd, windowsHide: true });
+    let output = '';
+
+    child.stdout.setEncoding('utf8');
+    child.stderr.setEncoding('utf8');
+    child.stdout.on('data', (chunk) => {
+      output += chunk;
+    });
+    child.stderr.on('data', (chunk) => {
+      output += chunk;
+    });
+
+    const timer = setTimeout(() => {
+      child.kill();
+    }, timeout);
+
+    child.on('error', (error) => {
+      clearTimeout(timer);
+      done({ ok: false, output: `${label}: ${error.message}`, ms: Date.now() - started });
+    });
+    child.on('close', (code, signal) => {
+      clearTimeout(timer);
+      done({
+        ok: code === 0 && !signal,
+        output: signal ? `${output}\n${label}: quá thời gian ${Math.round(timeout / 1000)}s` : output,
+        ms: Date.now() - started,
+      });
+    });
+  });
 }
 
 async function serverAlive() {
@@ -379,6 +427,7 @@ function printHelp() {
   log(`Dùng: node scripts/verify.mjs [tùy chọn]
 
   --scope=<auto|all|ui|subjects|deploy|id,id>  chọn bộ test (mặc định: auto theo git diff)
+  --jobs=<n>                                   số bộ test chạy cùng lúc (mặc định 4, để 1 là chạy tuần tự)
   --files=a.ts,b.ts                            gợi ý phạm vi thủ công
   --build                                      build lại dù out/ còn mới
   --no-build                                   không build (chỉ khi chắc out/ đã cập nhật)
@@ -471,36 +520,61 @@ async function main() {
     log(`[${next()}] máy chủ tĩnh ${BASE} ${server.started ? '(vừa bật)' : '(đang chạy sẵn)'}`);
   }
 
-  const results = [];
-  for (const id of plan.ids) {
-    const suite = SUITES.find((item) => item.id === id);
-    const path = join(SUITE_HOME, suite.file);
+  const suitesStarted = Date.now();
+  const jobs = Math.max(1, Math.min(options.jobs, plan.ids.length));
+  const queue = plan.ids.slice();
+  const results = new Map();
+  let finished = 0;
 
-    if (!existsSync(path)) {
-      log(`[${next()}] ${id} … THIẾU FILE: ${path}`);
-      results.push({ id, ok: false, note: 'thiếu file' });
-      continue;
+  log(`  chạy song song ${jobs} bộ một lúc (thời gian đo thực tế của từng bộ vẫn hiện)`);
+
+  // Mỗi công nhân lấy bộ kế tiếp trong hàng đợi khi rảnh; kết quả lưu theo id để
+  // dòng tổng kết cuối vẫn liệt kê đúng thứ tự phạm vi đã chọn.
+  const worker = async () => {
+    while (queue.length > 0) {
+      const id = queue.shift();
+      const suite = SUITES.find((item) => item.id === id);
+      const path = join(SUITE_HOME, suite.file);
+
+      if (!existsSync(path)) {
+        finished += 1;
+        log(`[${finished}/${plan.ids.length}] ${suite.title} … LỖI: THIẾU FILE ${path}`);
+        results.set(id, { id, ok: false });
+        continue;
+      }
+
+      const run = await runNodeAsync([path], {
+        cwd: dirname(path),
+        timeout: SUITE_TIMEOUT_MS,
+        label: id,
+      });
+      const summary = parseSummary(run.output);
+      const ok = run.ok && summary !== null && summary.failed === 0;
+
+      finished += 1;
+      log(
+        `[${finished}/${plan.ids.length}] ${suite.title} … ${ok ? 'OK' : 'LỖI'} ` +
+          `${summary ? `${summary.checks - summary.failed}/${summary.checks} kiểm tra` : 'không đọc được dòng tổng kết'} ` +
+          `(${seconds(run.ms)})`,
+      );
+
+      if (!ok || options.verbose) {
+        printFailures(run.output);
+      }
+      results.set(id, { id, ok, summary });
     }
+  };
 
-    const run = runNode([path], { cwd: dirname(path), timeout: SUITE_TIMEOUT_MS, label: id });
-    const summary = parseSummary(run.output);
-    const ok = run.ok && summary !== null && summary.failed === 0;
+  await Promise.all(Array.from({ length: jobs }, worker));
 
-    log(
-      `[${next()}] ${suite.title} … ${ok ? 'OK' : 'LỖI'} ` +
-        `${summary ? `${summary.checks - summary.failed}/${summary.checks} kiểm tra` : 'không đọc được dòng tổng kết'} ` +
-        `(${seconds(run.ms)})`,
-    );
-
-    if (!ok || options.verbose) {
-      printFailures(run.output);
-    }
-    results.push({ id, ok, summary });
-  }
-
-  const bad = results.filter((item) => !item.ok);
+  const ordered = plan.ids.map((id) => results.get(id));
+  const bad = ordered.filter((item) => !item.ok);
+  const totalChecks = ordered.reduce((sum, item) => sum + (item.summary?.checks ?? 0), 0);
   log('');
-  log(bad.length === 0 ? `Tất cả ${results.length} bộ test đều xanh.` : `Cần sửa: ${bad.map((item) => item.id).join(', ')}`);
+  log(bad.length === 0 ? `Tất cả ${ordered.length} bộ test đều xanh.` : `Cần sửa: ${bad.map((item) => item.id).join(', ')}`);
+  if (bad.length === 0) {
+    log(`Tổng ${totalChecks} kiểm tra, thời gian cả loạt ${seconds(Date.now() - suitesStarted)}.`);
+  }
   return bad.length === 0 ? 0 : 1;
 }
 

@@ -22,6 +22,7 @@ import {
   CardTitle,
 } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
+import { Markup } from '@/components/ui/markup';
 import type {
   AnswerValue,
   PracticeOutcome,
@@ -413,15 +414,17 @@ export function PracticeRunner({
                     </span>
                     <span className="min-w-0">
                       <span className="block text-sm">
-                        {toExcerpt(item.question.contentHtml, 170)}
+                        {toExcerpt(item.question.content, 170)}
                       </span>
                       <span className="mt-0.5 block text-xs text-muted-foreground">
                         {item.question.topicName ?? item.question.partName} · Đáp án đúng:{' '}
-                        {describeCorrectAnswer(
-                          item.question.type,
-                          item.question.correctAnswer,
-                          item.question.options,
-                        )}
+                        <Markup
+                          source={describeCorrectAnswer(
+                            item.question.type,
+                            item.question.correctAnswer,
+                            item.question.options,
+                          )}
+                        />
                       </span>
                     </span>
                   </li>
@@ -543,10 +546,11 @@ export function PracticeRunner({
           </CardHeader>
 
           <CardContent className="space-y-5">
-            <div
+            <Markup
+              block
               className="article-content"
-              dangerouslySetInnerHTML={{ __html: current.contentHtml }}
-            />
+              source={current.content}
+              />
 
             {current.imageUrl ? (
               // eslint-disable-next-line @next/next/no-img-element
@@ -639,7 +643,7 @@ export function PracticeRunner({
                         {option.key}
                       </span>
                       <span className="min-w-0 flex-1 space-y-2">
-                        <span className="block text-sm leading-relaxed">{option.text}</span>
+                        <Markup className="block text-sm leading-relaxed" source={option.text} />
                         {option.imageUrl ? (
                           // eslint-disable-next-line @next/next/no-img-element
                           <img
@@ -745,17 +749,26 @@ export function PracticeRunner({
                     </p>
                     {currentResult?.isCorrect === false ? (
                       <p className="mt-0.5 text-xs leading-relaxed">
-                        Bạn chọn: {describeAnswer(current.type, currentResult.selected, current.options)}
+                        Bạn chọn:{' '}
+                        <Markup
+                          source={describeAnswer(
+                            current.type,
+                            currentResult.selected,
+                            current.options,
+                          )}
+                        />
                       </p>
                     ) : null}
                     {currentResult?.isCorrect !== true && current.type !== ESSAY ? (
                       <p className="mt-0.5 text-xs leading-relaxed">
                         Đáp án đúng:{' '}
-                        {describeCorrectAnswer(
-                          current.type,
-                          current.correctAnswer,
-                          current.options,
-                        )}
+                        <Markup
+                          source={describeCorrectAnswer(
+                            current.type,
+                            current.correctAnswer,
+                            current.options,
+                          )}
+                        />
                       </p>
                     ) : null}
                   </div>
@@ -766,10 +779,11 @@ export function PracticeRunner({
                     <Lightbulb className="h-4 w-4" aria-hidden="true" />
                     Lời giải
                   </p>
-                  <div
+                  <Markup
+                    block
                     className="article-content mt-2 text-sm"
-                    dangerouslySetInnerHTML={{ __html: current.explanationHtml }}
-                  />
+                    source={current.explanation}
+                    />
                 </div>
 
                 <div className="flex flex-wrap items-center justify-between gap-2">

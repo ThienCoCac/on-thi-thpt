@@ -21,6 +21,7 @@ import {
   markQuestionsSeen,
   recordPracticeResult,
 } from '@/lib/progress';
+import { fetchBank } from '@/lib/use-static-data';
 
 interface ExamMistakeSessionProps {
   examSlug: string;
@@ -57,13 +58,7 @@ export function ExamMistakeSession({
 
     setStatus('loading');
 
-    fetch('/data/question-bank.json')
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
-        }
-        return response.json() as Promise<BankQuestion[]>;
-      })
+    fetchBank(subjectSlug)
       .then((bank) => {
         if (cancelled) {
           return;
@@ -97,7 +92,7 @@ export function ExamMistakeSession({
     return () => {
       cancelled = true;
     };
-  }, [examSlug, examTitle, requested]);
+  }, [examSlug, examTitle, requested, subjectSlug]);
 
   if (status === 'ready') {
     const title = `Ôn câu sai · ${examTitle}`;

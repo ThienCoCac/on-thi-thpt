@@ -4,7 +4,6 @@ import type { AnswerValue, QuestionType } from '@/lib/content-types';
 export interface QuestionOption {
   key: string;
   text: string;
-  imageUrl?: string | null;
 }
 
 export function isAnswerEmpty(value: AnswerValue): boolean {
@@ -69,6 +68,8 @@ export function isAnswerCorrect(
   );
 }
 
+// Các hàm describe trả về Markdown thô cho <Markup> render: phương án giữ nguyên công thức,
+// chữ học sinh nhập được escape và giữ xuống dòng trong lúc render.
 export function describeAnswer(
   type: QuestionType,
   value: AnswerValue,

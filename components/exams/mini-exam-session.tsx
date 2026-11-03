@@ -17,6 +17,7 @@ import {
 import type { BankQuestion, RunnerExam, RunnerQuestion } from '@/lib/content-types';
 import { pickFreshQuestions } from '@/lib/practice-picker';
 import { loadSeenCounts, markQuestionsSeen, recordPracticeResult } from '@/lib/progress';
+import { fetchBank } from '@/lib/use-static-data';
 
 interface MiniExamSessionProps {
   examSlug: string;
@@ -52,13 +53,7 @@ export function MiniExamSession({
 
     setStatus('loading');
 
-    fetch('/data/question-bank.json')
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
-        }
-        return response.json() as Promise<BankQuestion[]>;
-      })
+    fetchBank(subjectSlug)
       .then((bank) => {
         if (cancelled) {
           return;
@@ -98,7 +93,7 @@ export function MiniExamSession({
     return () => {
       cancelled = true;
     };
-  }, [examSlug, requested]);
+  }, [examSlug, requested, subjectSlug]);
 
   if (status === 'ready') {
     const title = `Đề con · ${examTitle}`;

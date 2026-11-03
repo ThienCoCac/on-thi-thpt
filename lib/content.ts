@@ -16,7 +16,6 @@ import type {
   TopicContent,
 } from '@/lib/content-types';
 import { DIFFICULTY_ORDER } from '@/lib/labels';
-import { renderMarkdown } from '@/lib/markdown';
 
 // Toàn bộ nội dung nằm trong thư mục content/ và được kiểm tra kiểu khi build.
 // Sửa nội dung bằng cách sửa file JSON rồi build lại, không cần cơ sở dữ liệu.
@@ -251,6 +250,10 @@ export function listExamYears(): number[] {
   return Array.from(years).sort((a, b) => b - a);
 }
 
+export function hasExam(slug: string): boolean {
+  return examBySlug.has(slug);
+}
+
 export function getExamBySlug(slug: string): ExamDetail | null {
   const exam = examBySlug.get(slug);
 
@@ -317,7 +320,7 @@ function toRunnerQuestion(
     order: index + 1,
     partName: question.partName,
     type: question.type,
-    contentHtml: renderMarkdown(question.content),
+    content: question.content,
     imageUrl: question.imageUrl ?? null,
     score: question.score,
     options: question.options.map((option) => ({
@@ -326,7 +329,7 @@ function toRunnerQuestion(
       imageUrl: option.imageUrl ?? null,
     })),
     correctAnswer: question.correctAnswer,
-    explanationHtml: renderMarkdown(question.explanation),
+    explanation: question.explanation,
     difficulty: question.difficulty,
     topicName: topicById.get(question.topic)?.topic.name ?? null,
     tags: question.tags,
@@ -354,18 +357,26 @@ export function getRunnerExam(slug: string): RunnerExam | null {
   };
 }
 
-// Ngân hàng câu hỏi gộp toàn bộ đề, xuất thành một file JSON tĩnh để trang luyện tập
-// và sổ tay câu sai tải khi cần thay vì nhúng vào bundle của mọi trang.
-export function getPracticeBank(): BankQuestion[] {
+// Ngân hàng câu hỏi của một môn, xuất thành file JSON riêng lúc build để trang luyện tập
+// chỉ tải đúng môn đang học thay vì toàn bộ câu hỏi của mọi môn.
+export function listBankSubjects(): string[] {
+  return subjectContents
+    .map((subject) => subject.slug)
+    .filter((slug) => examContents.some((exam) => exam.subject === slug));
+}
+
+export function getPracticeBank(subjectSlug: string): BankQuestion[] {
+  const subject = requireSubjectRef(subjectSlug);
   const bank: BankQuestion[] = [];
 
   for (const exam of sortedExams) {
-    const subject = requireSubjectRef(exam.subject);
+    if (exam.subject !== subject.slug) {
+      continue;
+    }
 
     exam.questions.forEach((question, index) => {
       bank.push({
         ...toRunnerQuestion(question, index),
-        contentText: question.content,
         examSlug: exam.slug,
         examTitle: exam.title,
         subjectSlug: subject.slug,

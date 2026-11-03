@@ -126,18 +126,26 @@ export interface ContentStats {
   questions: number;
 }
 
+// Nội dung mang Markdown/LaTeX thô: công thức render trên máy người dùng, nhờ đó file dữ liệu
+// nhẹ hơn khoảng 20 lần so với gửi HTML của KaTeX và một đề mới không làm phình mọi trang.
+export interface RunnerOption {
+  key: string;
+  text: string;
+  imageUrl: string | null;
+}
+
 // Dữ liệu chuyển sang trình duyệt cho luồng làm bài và chấm điểm tại máy.
 export interface RunnerQuestion {
   id: string;
   order: number;
   partName: string;
   type: QuestionType;
-  contentHtml: string;
+  content: string;
   imageUrl: string | null;
   score: number;
-  options: ContentOption[];
+  options: RunnerOption[];
   correctAnswer: string | string[];
-  explanationHtml: string;
+  explanation: string;
   difficulty: Difficulty;
   topicName: string | null;
   tags: string[];
@@ -183,9 +191,8 @@ export interface GradeResult {
   difficulties: DifficultyResult[];
 }
 
-// Câu hỏi trong ngân hàng chung, tải một lần khi cần luyện tập hoặc xem câu sai.
+// Câu hỏi trong ngân hàng của một môn, tải theo file /data/bank/<môn>.json khi cần luyện tập.
 export interface BankQuestion extends RunnerQuestion {
-  contentText: string;
   examSlug: string;
   examTitle: string;
   subjectSlug: string;
