@@ -115,7 +115,7 @@
       "id": "tieng-anh",
       "name": "Tiếng Anh",
       "slug": "tieng-anh",
-      "description": "Tiếng Anh lớp 12: ngữ pháp trọng tâm, mạo từ, cụm động từ, giới từ, luyện đề tổng hợp và đề thi giữa kì 1 của trường.",
+      "description": "Tiếng Anh lớp 11–12: đề ôn theo unit sách Tiếng Anh 11, ngữ pháp trọng tâm, mạo từ, cụm động từ, giới từ, luyện đề tổng hợp và đề thi giữa kì 1 của trường.",
       "order": 3,
       "topics": [
         {
@@ -173,6 +173,27 @@
           "slug": "phat-am-duoi-ed",
           "description": "Ba cách đọc đuôi -ed (/t/, /d/, /ɪd/), nhận diện theo phụ âm đứng trước, dạng tính từ và các trường hợp ngoại lệ.",
           "order": 8
+        },
+        {
+          "id": "topic-anh-11-unit1",
+          "name": "Tiếng Anh 11 – Unit 1: A Long and Healthy Life",
+          "slug": "ta11-unit-1-a-long-and-healthy-life",
+          "description": "Đề ôn Unit 1 sách Tiếng Anh 11: phát âm, trọng âm, từ vựng – ngữ pháp về sức khoẻ, tìm lỗi sai, sắp xếp đoạn, cloze và đọc hiểu.",
+          "order": 9
+        },
+        {
+          "id": "topic-anh-11-unit2",
+          "name": "Tiếng Anh 11 – Unit 2: The Generation Gap",
+          "slug": "ta11-unit-2-the-generation-gap",
+          "description": "Đề ôn Unit 2 sách Tiếng Anh 11: phát âm, trọng âm, modal verbs should/ought to/must/have to, tìm lỗi sai, sắp xếp đoạn, cloze và đọc hiểu về khoảng cách thế hệ.",
+          "order": 10
+        },
+        {
+          "id": "topic-anh-11-unit3",
+          "name": "Tiếng Anh 11 – Unit 3: Cities of the Future",
+          "slug": "ta11-unit-3-cities-of-the-future",
+          "description": "Đề ôn Unit 3 sách Tiếng Anh 11: phát âm, trọng âm, stative và linking verbs, tìm lỗi sai, sắp xếp đoạn, cloze và đọc hiểu về thành phố thông minh.",
+          "order": 11
         }
       ]
     },
