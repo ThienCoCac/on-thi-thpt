@@ -1,0 +1,738 @@
+{
+  "id": "de-anh-12-so-05",
+  "title": "Đề ôn tập Tiếng Anh 12 số 05 – Chuyên đề Phát âm đuôi -ed (Pronunciation)",
+  "slug": "de-anh-12-so-05",
+  "description": "Chuyên đề phát âm đuôi -ed theo ba cách đọc /t/, /d/ và /ɪd/: nhận diện phụ âm đứng trước, tìm từ đọc khác, đếm âm tiết, dạng tính từ giữ âm /ɪd/ và các cặp từ dễ lẫn. Gồm 40 câu trắc nghiệm, làm trong 45 phút, thang điểm 10.",
+  "subject": "tieng-anh",
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "EN12-05",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-03T08:00:00.000Z",
+  "updatedAt": "2026-11-03T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-anh-12-so-05-c1",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Đuôi **-ed** trong từ **worked** được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "work kết thúc bằng /k/, một phụ âm vô thanh, nên đuôi -ed đọc là /t/ và từ vẫn chỉ có một âm tiết: /wɜːkt/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["quy tắc /t/", "phụ âm vô thanh"]
+    },
+    {
+      "id": "de-anh-12-so-05-c2",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Đuôi **-ed** trong từ **played** được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "play kết thúc bằng nguyên âm /eɪ/ (hữu thanh) nên -ed đọc là /d/: /pleɪd/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["quy tắc /d/", "kết thúc bằng nguyên âm"]
+    },
+    {
+      "id": "de-anh-12-so-05-c3",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Đuôi **-ed** trong từ **wanted** được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "want kết thúc bằng /t/ nên -ed đọc là /ɪd/ và tạo thêm một âm tiết: /ˈwɒn.tɪd/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["quy tắc /ɪd/", "thêm âm tiết"]
+    },
+    {
+      "id": "de-anh-12-so-05-c4",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Đuôi **-ed** trong từ **washed** được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "wash kết thúc bằng /ʃ/ (vô thanh) nên -ed đọc là /t/: /wɒʃt/. Chú ý cả cụm /ʃt/ đều vô thanh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["quy tắc /t/", "phụ âm vô thanh"]
+    },
+    {
+      "id": "de-anh-12-so-05-c5",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "She **listened** to her favourite song twice. Đuôi **-ed** trong từ in đậm được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "listen kết thúc bằng /n/ (hữu thanh) nên -ed đọc là /d/: /ˈlɪs.ənd/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["quy tắc /d/", "phụ âm hữu thanh"]
+    },
+    {
+      "id": "de-anh-12-so-05-c6",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "We **needed** more time to finish the project. Đuôi **-ed** trong từ in đậm được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "need kết thúc bằng /d/ nên -ed đọc là /ɪd/: /ˈniː.dɪd/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["quy tắc /ɪd/", "kết thúc bằng /d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c7",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Everyone in the hall **laughed** at his joke. Đuôi **-ed** trong từ in đậm được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "laugh có phát âm kết thúc bằng /f/ (vô thanh), dù chữ cái cuối là 'gh', nên -ed đọc là /t/: /lɑːft/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["quy tắc /t/", "chính tả khác phát âm"]
+    },
+    {
+      "id": "de-anh-12-so-05-c8",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "He **opened** the window before the lesson started. Đuôi **-ed** trong từ in đậm được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "open kết thúc bằng /n/ (hữu thanh) nên -ed đọc là /d/: /ˈəʊ.pənd/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["quy tắc /d/", "phụ âm hữu thanh"]
+    },
+    {
+      "id": "de-anh-12-so-05-c9",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Last summer our class **visited** a craft village in Huế. Đuôi **-ed** trong từ in đậm được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "visit kết thúc bằng /t/ nên -ed đọc là /ɪd/: /ˈvɪz.ɪ.tɪd/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["quy tắc /ɪd/", "kết thúc bằng /t/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c10",
+      "partName": "Phần I. Ba cách đọc đuôi -ed",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "A kind stranger **helped** me carry the heavy box. Đuôi **-ed** trong từ in đậm được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "help kết thúc bằng /p/ (vô thanh) nên -ed đọc là /t/: /helpt/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["quy tắc /t/", "phụ âm vô thanh"]
+    },
+    {
+      "id": "de-anh-12-so-05-c11",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "played" },
+        { "key": "B", "text": "watched" },
+        { "key": "C", "text": "washed" },
+        { "key": "D", "text": "stopped" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "played đọc là /pleɪd/ (/d/) vì play kết thúc bằng nguyên âm; watched, washed, stopped đều kết thúc bằng phụ âm vô thanh nên -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c12",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "wanted" },
+        { "key": "B", "text": "needed" },
+        { "key": "C", "text": "walked" },
+        { "key": "D", "text": "started" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "walked đọc là /wɔːkt/ (/t/); wanted, needed, started đều có từ gốc kết thúc bằng /t/ hoặc /d/ nên -ed đọc là /ɪd/ và thêm một âm tiết.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/t/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c13",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "lived" },
+        { "key": "B", "text": "loved" },
+        { "key": "C", "text": "laughed" },
+        { "key": "D", "text": "listened" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "laughed đọc là /lɑːft/ (/t/) vì kết thúc bằng /f/; lived, loved, listened đều kết thúc bằng âm hữu thanh nên -ed đọc là /d/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/t/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c14",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "visited" },
+        { "key": "B", "text": "decided" },
+        { "key": "C", "text": "hated" },
+        { "key": "D", "text": "changed" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "changed đọc là /tʃeɪndʒd/ (/d/) vì change kết thúc bằng /dʒ/ hữu thanh; ba từ còn lại kết thúc bằng /t/ hoặc /d/ nên -ed đọc là /ɪd/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c15",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "asked" },
+        { "key": "B", "text": "arrived" },
+        { "key": "C", "text": "danced" },
+        { "key": "D", "text": "finished" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "arrived đọc là /əˈraɪvd/ (/d/) vì arrive kết thúc bằng /v/ hữu thanh; asked, danced, finished đều kết thúc bằng phụ âm vô thanh nên -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c16",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "carried" },
+        { "key": "B", "text": "painted" },
+        { "key": "C", "text": "studied" },
+        { "key": "D", "text": "cried" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "painted đọc là /ˈpeɪn.tɪd/ (/ɪd/) vì paint kết thúc bằng /t/; carry /ˈkæri/, study /ˈstʌdi/, cry /kraɪ/ đều kết thúc bằng nguyên âm hữu thanh nên -ed đọc là /d/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/ɪd/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c17",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "kicked" },
+        { "key": "B", "text": "jumped" },
+        { "key": "C", "text": "passed" },
+        { "key": "D", "text": "climbed" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "climbed đọc là /klaɪmd/ (/d/) vì climb kết thúc bằng /m/ hữu thanh (chữ 'b' câm); kicked, jumped, passed đều đi sau phụ âm vô thanh nên -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/d/", "chữ câm"]
+    },
+    {
+      "id": "de-anh-12-so-05-c18",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "cleaned" },
+        { "key": "B", "text": "checked" },
+        { "key": "C", "text": "closed" },
+        { "key": "D", "text": "called" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "checked đọc là /tʃekt/ (/t/) vì check kết thúc bằng /k/ vô thanh; cleaned, closed, called đi sau âm hữu thanh nên -ed đọc là /d/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/t/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c19",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "reported" },
+        { "key": "B", "text": "landed" },
+        { "key": "C", "text": "counted" },
+        { "key": "D", "text": "enjoyed" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "enjoyed đọc là /ɪnˈdʒɔɪd/ (/d/) vì enjoy kết thúc bằng nguyên âm /ɔɪ/; reported, landed, counted đi sau /t/ hoặc /d/ nên -ed đọc là /ɪd/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c20",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "reduced" },
+        { "key": "B", "text": "stopped" },
+        { "key": "C", "text": "laughed" },
+        { "key": "D", "text": "moved" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "moved đọc là /muːvd/ (/d/) vì move kết thúc bằng /v/ hữu thanh; reduce /s/, stop /p/, laugh /f/ đều vô thanh nên reduced, stopped, laughed có -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c21",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "moved" },
+        { "key": "B", "text": "proved" },
+        { "key": "C", "text": "stopped" },
+        { "key": "D", "text": "removed" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "stopped đọc là /stɒpt/ (/t/) vì stop kết thúc bằng /p/ vô thanh; moved, proved, removed đi sau âm hữu thanh nên -ed đọc là /d/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "/t/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c22",
+      "partName": "Phần II. Tìm từ có đuôi -ed đọc khác",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "naked" },
+        { "key": "B", "text": "wicked" },
+        { "key": "C", "text": "walked" },
+        { "key": "D", "text": "blessed" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "walked đọc là /wɔːkt/ (/t/); naked, wicked, blessed ở đây là tính từ (a naked baby, a wicked story, a blessed child) nên giữ cách đọc /ɪd/: /ˈneɪ.kɪd/, /ˈwɪk.ɪd/, /ˈbles.ɪd/. Cùng là blessed nhưng ở thể bị động của động từ (He was blessed with talent) lại đọc /blest/.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["dạng bài tìm từ khác", "tính từ đuôi -ed"]
+    },
+    {
+      "id": "de-anh-12-so-05-c23",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/ɪd/**?",
+      "options": [
+        { "key": "A", "text": "watched" },
+        { "key": "B", "text": "wanted" },
+        { "key": "C", "text": "walked" },
+        { "key": "D", "text": "worked" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "want kết thúc bằng /t/ nên wanted = /ˈwɒn.tɪd/; ba từ còn lại kết thúc bằng phụ âm vô thanh nên -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/ɪd/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c24",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/t/**?",
+      "options": [
+        { "key": "A", "text": "played" },
+        { "key": "B", "text": "lived" },
+        { "key": "C", "text": "liked" },
+        { "key": "D", "text": "opened" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "like kết thúc bằng /k/ vô thanh nên liked = /laɪkt/; played, lived, opened đều đi sau âm hữu thanh nên -ed đọc là /d/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/t/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c25",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/d/**?",
+      "options": [
+        { "key": "A", "text": "enjoyed" },
+        { "key": "B", "text": "kissed" },
+        { "key": "C", "text": "laughed" },
+        { "key": "D", "text": "passed" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "enjoy kết thúc bằng nguyên âm /ɔɪ/ hữu thanh nên enjoyed = /ɪnˈdʒɔɪd/; kissed, laughed, passed đều kết thúc bằng phụ âm vô thanh nên -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c26",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/ɪd/**?",
+      "options": [
+        { "key": "A", "text": "decided" },
+        { "key": "B", "text": "reduced" },
+        { "key": "C", "text": "danced" },
+        { "key": "D", "text": "washed" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "decide kết thúc bằng /d/ nên decided = /dɪˈsaɪ.dɪd/; reduce /s/, dance /s/ và wash /ʃ/ đều vô thanh nên reduced, danced, washed có -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/ɪd/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c27",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/t/**?",
+      "options": [
+        { "key": "A", "text": "checked" },
+        { "key": "B", "text": "planned" },
+        { "key": "C", "text": "lived" },
+        { "key": "D", "text": "listened" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "check kết thúc bằng /k/ vô thanh nên checked = /tʃekt/; plan, live, listen kết thúc bằng âm hữu thanh nên -ed đọc là /d/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/t/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c28",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/d/**?",
+      "options": [
+        { "key": "A", "text": "helped" },
+        { "key": "B", "text": "arrived" },
+        { "key": "C", "text": "asked" },
+        { "key": "D", "text": "jumped" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "arrive kết thúc bằng /v/ hữu thanh nên arrived = /əˈraɪvd/; help, ask, jump kết thúc bằng phụ âm vô thanh nên -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c29",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/ɪd/**?",
+      "options": [
+        { "key": "A", "text": "finished" },
+        { "key": "B", "text": "washed" },
+        { "key": "C", "text": "needed" },
+        { "key": "D", "text": "looked" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "need kết thúc bằng /d/ nên needed = /ˈniː.dɪd/; finish /ʃ/, wash /ʃ/, look /k/ đều vô thanh nên -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/ɪd/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c30",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/t/**?",
+      "options": [
+        { "key": "A", "text": "showed" },
+        { "key": "B", "text": "missed" },
+        { "key": "C", "text": "played" },
+        { "key": "D", "text": "moved" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "miss kết thúc bằng /s/ vô thanh nên missed = /mɪst/; show, play, move kết thúc bằng âm hữu thanh nên -ed đọc là /d/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/t/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c31",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/d/**?",
+      "options": [
+        { "key": "A", "text": "hugged" },
+        { "key": "B", "text": "stopped" },
+        { "key": "C", "text": "talked" },
+        { "key": "D", "text": "laughed" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "hug kết thúc bằng /ɡ/ hữu thanh nên hugged = /hʌɡd/; stop, talk, laugh kết thúc bằng phụ âm vô thanh nên -ed đọc là /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c32",
+      "partName": "Phần III. Chọn từ có cách đọc cho trước",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có đuôi **-ed** được phát âm là **/ɪd/**?",
+      "options": [
+        { "key": "A", "text": "refused" },
+        { "key": "B", "text": "decided" },
+        { "key": "C", "text": "passed" },
+        { "key": "D", "text": "studied" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "decide kết thúc bằng /d/ nên decided = /dɪˈsaɪ.dɪd/; refuse /z/, study /i/, pass /s/ nên refused, studied đọc /d/ còn passed đọc /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["chọn theo âm cho trước", "/ɪd/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c33",
+      "partName": "Phần IV. Vận dụng cao",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Đuôi **-ed** được phát âm là **/ɪd/** khi động từ kết thúc bằng",
+      "options": [
+        { "key": "A", "text": "một phụ âm vô thanh bất kì." },
+        { "key": "B", "text": "âm /t/ hoặc âm /d/." },
+        { "key": "C", "text": "một phụ âm hữu thanh bất kì." },
+        { "key": "D", "text": "một nguyên âm." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chỉ khi động từ kết thúc bằng /t/ hoặc /d/ ta mới đọc thêm âm /ɪd/ để hai phụ âm giống nhau không bị dính vào nhau; wanted, needed, started là những ví dụ điển hình.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["ghi nhớ quy tắc", "/ɪd/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c34",
+      "partName": "Phần IV. Vận dụng cao",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ nào dưới đây có **nhiều âm tiết hơn** ba từ còn lại nhờ cách đọc đuôi -ed?",
+      "options": [
+        { "key": "A", "text": "wanted" },
+        { "key": "B", "text": "walked" },
+        { "key": "C", "text": "helped" },
+        { "key": "D", "text": "laughed" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "wanted gồm hai âm tiết /ˈwɒn.tɪd/ vì đuôi -ed đọc là /ɪd/; walked, helped, laughed đều một âm tiết vì -ed chỉ là phụ âm /t/ gắn vào cuối.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["âm tiết", "/ɪd/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c35",
+      "partName": "Phần IV. Vận dụng cao",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong cụm **a learned man**, đuôi **-ed** của từ **learned** được phát âm là:",
+      "options": [
+        { "key": "A", "text": "/t/" },
+        { "key": "B", "text": "/d/" },
+        { "key": "C", "text": "/ɪd/" },
+        { "key": "D", "text": "không được phát âm" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khi làm tính từ đứng trước danh từ, learned đọc là /ˈlɜː.nɪd/ và giữ âm /ɪd/; chỉ khi là động từ ở quá khứ đơn (She learned French) nó mới đọc là /lɜːnd/ — bản Anh-Anh còn hay viết learnt /lɜːnt/, cũng không thêm âm tiết.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["tính từ đuôi -ed", "ngoại lệ"]
+    },
+    {
+      "id": "de-anh-12-so-05-c36",
+      "partName": "Phần IV. Vận dụng cao",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ có đuôi **-ed** được phát âm khác với ba từ còn lại.",
+      "options": [
+        { "key": "A", "text": "blessed" },
+        { "key": "B", "text": "naked" },
+        { "key": "C", "text": "developed" },
+        { "key": "D", "text": "wicked" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "develop kết thúc bằng /p/ vô thanh nên developed đọc là /dɪˈvel.əpt/ (/t/) dù mang nghĩa tính từ; blessed, naked, wicked là các tính từ giữ âm /ɪd/.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["tính từ đuôi -ed", "ngoại lệ"]
+    },
+    {
+      "id": "de-anh-12-so-05-c37",
+      "partName": "Phần IV. Vận dụng cao",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn từ phù hợp nhất điền vào chỗ trống:\n\nThe police ___ the suspect last night after finding new evidence.",
+      "options": [
+        { "key": "A", "text": "arrested" },
+        { "key": "B", "text": "arrived" },
+        { "key": "C", "text": "admired" },
+        { "key": "D", "text": "assisted" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "arrest somebody = bắt giữ ai, nên 'The police arrested the suspect' là nghĩa đúng; arrive đi với giới từ at/in, admire và assist không hợp với nghi phạm. Từ được chọn có đuôi -ed đọc là /ɪd/: /əˈres.tɪd/, vì arrest kết thúc bằng /t/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["điền từ", "collocation", "/ɪd/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c38",
+      "partName": "Phần IV. Vận dụng cao",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Cặp từ nào dưới đây có hai cách đọc đuôi **-ed** khác nhau?",
+      "options": [
+        { "key": "A", "text": "walked – talked" },
+        { "key": "B", "text": "wanted – needed" },
+        { "key": "C", "text": "reduced – refused" },
+        { "key": "D", "text": "played – planned" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "reduce kết thúc bằng /s/ vô thanh nên reduced đọc là /rɪˈdjuːst/ (/t/), còn refuse kết thúc bằng /z/ hữu thanh nên refused đọc là /rɪˈfjuːzd/ (/d/) – hai phụ âm chỉ khác nhau ở tính vô thanh/hữu thanh nên rất dễ lẫn. Ba cặp còn lại cùng cách đọc: A đều /t/, B đều /ɪd/, D đều /d/.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["cặp tối thiểu", "vô thanh và hữu thanh"]
+    },
+    {
+      "id": "de-anh-12-so-05-c39",
+      "partName": "Phần IV. Vận dụng cao",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Câu nào dưới đây có từ đuôi **-ed** được phát âm là **/d/**?",
+      "options": [
+        { "key": "A", "text": "He opened the shop at nine yesterday morning." },
+        { "key": "B", "text": "She finished the report before lunch." },
+        { "key": "C", "text": "They watched the match on TV." },
+        { "key": "D", "text": "We wanted a quieter room." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "opened đọc là /ˈəʊ.pənd/ (/d/) vì open kết thúc bằng /n/ hữu thanh; finished /t/, watched /t/, wanted /ɪd/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["nhận diện trong câu", "/d/"]
+    },
+    {
+      "id": "de-anh-12-so-05-c40",
+      "partName": "Phần IV. Vận dụng cao",
+      "topic": "topic-anh-phat-am-ed",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào dưới đây về đuôi **-ed** là đúng?",
+      "options": [
+        { "key": "A", "text": "Đuôi -ed luôn tạo thêm một âm tiết vào từ." },
+        { "key": "B", "text": "Đuôi -ed chỉ tạo thêm một âm tiết khi động từ kết thúc bằng /t/ hoặc /d/." },
+        { "key": "C", "text": "Sau phụ âm vô thanh, đuôi -ed được đọc là /d/." },
+        { "key": "D", "text": "Trong động từ có quy tắc, đuôi -ed không bao giờ được phát âm." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chỉ sau /t/ và /d/, -ed mới đọc là /ɪd/ và tách thành âm tiết riêng; sau phụ âm vô thanh nó đọc /t/ (C sai), sau âm hữu thanh đọc /d/, và chưa bao giờ bị lược bỏ (A, D sai).",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["tổng kết quy tắc", "phát biểu đúng"]
+    }
+  ]
+}

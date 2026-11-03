@@ -166,6 +166,13 @@
           "slug": "on-thi-giua-ki-1",
           "description": "Đề giữa kì 1 của trường: điền vào chỗ trống trong bài viết, đọc hiểu, sắp xếp đoạn văn và từ vựng chủ đề môi trường – đa dạng văn hoá.",
           "order": 7
+        },
+        {
+          "id": "topic-anh-phat-am-ed",
+          "name": "Chuyên đề Phát âm đuôi -ed",
+          "slug": "phat-am-duoi-ed",
+          "description": "Ba cách đọc đuôi -ed (/t/, /d/, /ɪd/), nhận diện theo phụ âm đứng trước, dạng tính từ và các trường hợp ngoại lệ.",
+          "order": 8
         }
       ]
     },
