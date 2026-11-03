@@ -35,9 +35,9 @@ export PATH="/c/Users/trinh/.qoder/tmp/node20/node-v20.18.1-win-x64:$PATH"
 ## Bốn tầng kiểm tra
 
 - Soạn đề (nhanh nhất, không mở trình duyệt): `node scripts/check-exam.mjs content/exams/de-<môn>-....json`
-  hoặc `--all` cho cả 49 đề, không tham số thì tự lấy file đề vừa sửa theo `git diff`. Script soi Zod,
+  hoặc `--all` cho cả 53 đề, không tham số thì tự lấy file đề vừa sửa theo `git diff`. Script soi Zod,
   đáp án có trong phương án, chuyên đề thuộc môn, ảnh tồn tại trong `public/`, công thức KaTeX lỗi,
-  marker TODO, chuỗi `\n` thô — chạy hết 49 đề trong khoảng 0,6 giây. `WARN` chỉ để soát nội dung, `LỖI` mới tính.
+  marker TODO, chuỗi `\n` thô — chạy hết 53 đề trong khoảng 0,6 giây. `WARN` chỉ để soát nội dung, `LỖI` mới tính.
 - Nhanh (giữa các bước sửa): `node scripts/verify.mjs --scope=ui`, hoặc `--scope=<môn>`, hoặc `--files=<vừa sửa>`.
 - Đủ (trước khi báo hoàn thành / trước khi commit): `node scripts/verify.mjs --scope=all`.
 - Deploy (trước khi push + `wrangler deploy`): `node scripts/verify.mjs --scope=deploy --build`.
@@ -46,8 +46,8 @@ Mặc định `node scripts/verify.mjs` tự chọn phạm vi từ `git diff`. X
 `--help` để xem tùy chọn. Có alias npm: `verify`, `verify:all`, `verify:deploy`.
 
 Các bộ test chạy **song song**, mặc định 4 bộ một lúc (`--jobs=<n>`; `--jobs=1` để tuần tự cho dễ đọc log).
-Thời gian thực đo: một bộ test môn 9–40 giây khi chạy riêng, `--scope=all` (11 bộ, 494 kiểm tra) hết
-khoảng 1 phút 20 giây đến 1 phút 45 giây thay vì 3 phút 10 giây như trước, `--scope=live` ≈ 30 giây;
+Thời gian thực đo: một bộ test môn 10–40 giây khi chạy riêng, `--scope=all` (11 bộ, 526 kiểm tra) hết
+khoảng 2 phút 50 giây vì bộ Tiếng Anh phải làm trọn ba đề 50 câu (~2 phút 30 một mình), `--scope=live` ≈ 50 giây;
 build toàn site khoảng 30 giây (trước khi chuyển sang LaTeX thô là 90–120 giây) và `out/` còn 28 MB thay vì 74 MB,
 nên `wrangler deploy` cũng nhẹ đi tương ứng.
 Typecheck chỉ khoảng 2 giây nên luôn nên chạy; `--no-lint` chỉ dùng khi vừa lint xong vài giây trước đó.
@@ -66,11 +66,15 @@ Script ánh xạ tự động, nắm quy tắc để đoán thời gian:
 - `docs/**`, `scripts/**`, `README.md`, `AGENTS.md` → không cần mở trình duyệt (`--scope=none`).
 
 Mười một bộ test puppeteer và số kiểm tra hiện tại: `static` 37, `features` 92, `van` 45, `ktpl` 24,
-`anh` 40, `mini` 27, `su` 19, `vact` 18, `dia` 46, `tinhoc` 49, `toan` 97 (tổng 494). Hai suite live
+`anh` 72, `mini` 27, `su` 19, `vact` 18, `dia` 46, `tinhoc` 49, `toan` 97 (tổng 526). Hai suite live
 (`shot/verify-live.js`, `su/verify-live.js`) chỉ chạy với `--scope=live` hoặc `--scope=deploy`, kiểm tra
 bản trên Cloudflare gồm cả việc file `/data/...` mới tải được và trang làm bài hết hiện "Đang tải nội dung".
 File đặt ngoài repo, trong `C:/Users/trinh/.qoder/tmp/` (`shot/`, `su/`, `ktpl/`, `english/`, `vact/`, `dia/`, `tinhoc/`, `toan/`).
 Nếu mất file, verify.mjs in `THIẾU FILE` và tính là lỗi — tuyệt đối không xóa kiểm tra để "cho qua".
+
+Bẫy khi viết suite: phòng thi chặn `beforeunload` (`components/exams/exam-runner.tsx`), nên sau khi bấm
+"Bắt đầu làm bài" thì `page.goto` trên đúng tab đó sẽ treo 30 giây không lỗi mạng nào. Muốn đo tiếp trang khác
+hãy mở `browser.newPage()` riêng cho phòng thi rồi `close()`, đừng điều hướng đi.
 
 Thêm tính năng mới thì thêm `check(...)` vào bộ test liên quan. Tổng số đề và tổng số câu hỏi
 **không còn ghi tay** trong suite nữa: `C:/Users/trinh/.qoder/tmp/verify-source.cjs` đọc thẳng `content/exams/`
