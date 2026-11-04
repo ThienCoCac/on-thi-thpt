@@ -35,9 +35,9 @@ export PATH="/c/Users/trinh/.qoder/tmp/node20/node-v20.18.1-win-x64:$PATH"
 ## Bốn tầng kiểm tra
 
 - Soạn đề (nhanh nhất, không mở trình duyệt): `node scripts/check-exam.mjs content/exams/de-<môn>-....json`
-  hoặc `--all` cho cả 53 đề, không tham số thì tự lấy file đề vừa sửa theo `git diff`. Script soi Zod,
+  hoặc `--all` cho cả 54 đề, không tham số thì tự lấy file đề vừa sửa theo `git diff`. Script soi Zod,
   đáp án có trong phương án, chuyên đề thuộc môn, ảnh tồn tại trong `public/`, công thức KaTeX lỗi,
-  marker TODO, chuỗi `\n` thô — chạy hết 53 đề trong khoảng 0,6 giây. `WARN` chỉ để soát nội dung, `LỖI` mới tính.
+  marker TODO, chuỗi `\n` thô — chạy hết 54 đề trong khoảng 0,6 giây. `WARN` chỉ để soát nội dung, `LỖI` mới tính.
 - Nhanh (giữa các bước sửa): `node scripts/verify.mjs --scope=ui`, hoặc `--scope=<môn>`, hoặc `--files=<vừa sửa>`.
 - Đủ (trước khi báo hoàn thành / trước khi commit): `node scripts/verify.mjs --scope=all`.
 - Deploy (trước khi push + `wrangler deploy`): `node scripts/verify.mjs --scope=deploy --build`.
@@ -46,7 +46,7 @@ Mặc định `node scripts/verify.mjs` tự chọn phạm vi từ `git diff`. X
 `--help` để xem tùy chọn. Có alias npm: `verify`, `verify:all`, `verify:deploy`.
 
 Các bộ test chạy **song song**, mặc định 4 bộ một lúc (`--jobs=<n>`; `--jobs=1` để tuần tự cho dễ đọc log).
-Thời gian thực đo: một bộ test môn 10–40 giây khi chạy riêng, `--scope=all` (11 bộ, 526 kiểm tra) hết
+Thời gian thực đo: một bộ test môn 10–48 giây khi chạy riêng, `--scope=all` (11 bộ, 529 kiểm tra) hết
 khoảng 2 phút 50 giây vì bộ Tiếng Anh phải làm trọn ba đề 50 câu (~2 phút 30 một mình), `--scope=live` ≈ 50 giây;
 build toàn site khoảng 30 giây (trước khi chuyển sang LaTeX thô là 90–120 giây) và `out/` còn 28 MB thay vì 74 MB,
 nên `wrangler deploy` cũng nhẹ đi tương ứng.
@@ -66,7 +66,7 @@ Script ánh xạ tự động, nắm quy tắc để đoán thời gian:
 - `docs/**`, `scripts/**`, `README.md`, `AGENTS.md` → không cần mở trình duyệt (`--scope=none`).
 
 Mười một bộ test puppeteer và số kiểm tra hiện tại: `static` 37, `features` 92, `van` 45, `ktpl` 24,
-`anh` 72, `mini` 27, `su` 19, `vact` 18, `dia` 46, `tinhoc` 49, `toan` 97 (tổng 526). Hai suite live
+`anh` 72, `mini` 27, `su` 19, `vact` 18, `dia` 46, `tinhoc` 52, `toan` 97 (tổng 529). Hai suite live
 (`shot/verify-live.js`, `su/verify-live.js`) chỉ chạy với `--scope=live` hoặc `--scope=deploy`, kiểm tra
 bản trên Cloudflare gồm cả việc file `/data/...` mới tải được và trang làm bài hết hiện "Đang tải nội dung".
 File đặt ngoài repo, trong `C:/Users/trinh/.qoder/tmp/` (`shot/`, `su/`, `ktpl/`, `english/`, `vact/`, `dia/`, `tinhoc/`, `toan/`).

@@ -1,0 +1,968 @@
+{
+  "id": "de-tin-hoc-12-giua-ki-1-so-01",
+  "slug": "de-tin-hoc-12-giua-ki-1-so-01",
+  "title": "Đề kiểm tra giữa kì 1 Tin học 12 năm học 2026-2027 (mã đề 0001, 28 câu)",
+  "description": "Đề kiểm tra giữa kì 1 môn Tin học 12, sách Kết nối tri thức, mã đề 0001 của trường THPT Bến Cát, thời gian làm bài 45 phút. Đề gồm 24 câu trắc nghiệm nhiều lựa chọn phủ các bài Trí tuệ nhân tạo, thiết bị mạng, giao thức mạng, chia sẻ tài nguyên, ứng xử trong không gian mạng, quy trình xây dựng trang web và Google Sites, cùng 4 câu chọn các nhận định đúng theo dạng tự luận ngắn của đề gốc. Đáp án và giải thích cho từng câu được viết lại theo sách giáo khoa vì bản giấy không kèm đáp án.",
+  "subject": "tin-hoc",
+  "type": "FULL_EXAM",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "0001",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-gk1-c1",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Bạn A nhận được một video call từ tài khoản mạng xã hội của người thân yêu cầu chuyển gấp một khoản tiền để cấp cứu. Quan sát thấy hình ảnh trong video hơi mờ, chuyển động khẩu hình miệng không tự nhiên và giọng nói có tiếng giật. A nghi ngờ đây là hành vi lừa đảo sử dụng công nghệ Deepfake. A nên xử lý tình huống này như thế nào là an toàn nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lập tức chuyển tiền ngay theo yêu cầu để tránh làm lỡ việc cấp cứu."
+        },
+        {
+          "key": "B",
+          "text": "Chụp màn hình video và đăng tải lên mạng xã hội nhờ cộng đồng mạng chuyển tiền hộ."
+        },
+        {
+          "key": "C",
+          "text": "Bình tĩnh dừng giao dịch, gọi điện trực tiếp bằng số điện thoại di động thông thường cho người thân để xác minh lại thông tin."
+        },
+        {
+          "key": "D",
+          "text": "Nhắn tin cung cấp mật khẩu tài khoản ngân hàng cá nhân cho tài khoản đó."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dấu hiệu hình ảnh mờ, khẩu hình không tự nhiên và giọng nói giật là đặc trưng của video deepfake giả mạo danh tính. Cách an toàn nhất là dừng giao dịch và xác minh qua một kênh độc lập khác, ở đây là gọi thẳng vào số điện thoại đã lưu của người thân. Chuyển tiền ngay hoặc gửi mật khẩu đều gây thiệt hại, còn đăng video lên mạng xã hội vừa không xác minh được gì vừa có thể vi phạm quyền riêng tư.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "deepfake",
+        "lừa đảo trực tuyến",
+        "ứng xử an toàn"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c2",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Biểu hiện nào sau đây thể hiện tính nhân văn và ứng xử văn minh khi tham gia giao tiếp trên các diễn đàn mạng xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đăng tải hình ảnh nhạy cảm của bạn bè khi chưa được sự đồng ý nhằm mục đích trêu chọc."
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng ngôn từ lịch sự, tôn trọng quyền riêng tư và quan điểm cá nhân của người khác, không lan truyền thông tin sai sự thật."
+        },
+        {
+          "key": "C",
+          "text": "Sử dụng các từ ngữ thô tục, công kích cá nhân khi bất đồng ý kiến trong bài viết."
+        },
+        {
+          "key": "D",
+          "text": "Tự ý chia sẻ số điện thoại và địa chỉ nhà riêng của người khác lên trang công cộng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giao tiếp văn minh trên không gian mạng là tôn trọng người khác, tôn trọng quyền riêng tư và không phát tán tin sai sự thật — đúng với đáp án B. Ba phương án còn lại đều là hành vi xâm phạm danh dự, đời tư của người khác và bị pháp luật nghiêm cấm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "ứng xử văn minh",
+        "quyền riêng tư"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c3",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao việc đặt tên gợi nhớ cho máy in khi thực hiện chia sẻ qua mạng LAN (ví dụ: MayIn_PhongKetoan) lại là một thao tác kĩ thuật cần thiết?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giúp máy in tự động phân bổ hàng đợi in theo mức độ ưu tiên của từng người dùng trong mạng LAN."
+        },
+        {
+          "key": "B",
+          "text": "Giúp hệ điều hành tự động cài đặt trình điều khiển máy in phù hợp mà không cần kiểm tra model thiết bị."
+        },
+        {
+          "key": "C",
+          "text": "Giúp máy chủ chia sẻ tự động giới hạn số lượng máy tính được phép gửi lệnh in đến thiết bị."
+        },
+        {
+          "key": "D",
+          "text": "Giúp người dùng trên các máy tính khác trong mạng LAN dễ dàng nhận diện, phân biệt và lựa chọn đúng máy in cần kết nối."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tên chia sẻ là nhãn để người dùng khác nhìn vào danh sách máy in trong mạng và chọn đúng thiết bị, vì vậy một tên gợi nhớ như MayIn_PhongKetoan có ý nghĩa nhận diện. Tên này không đổi được thứ tự hàng đợi, không tự cài driver và cũng không giới hạn số máy gửi lệnh in.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "chia sẻ máy in",
+        "tên máy in"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c4",
+      "topic": "topic-th-dau-trang-web",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trang web hoàn chỉnh thông thường được tổ chức gồm 3 phần chính nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tệp đính kèm (Attachment), Thư rác (Spam) và Hộp thư (Inbox)."
+        },
+        {
+          "key": "B",
+          "text": "Tiêu đề (Title), Mã nguồn (Code) và Cơ sở dữ liệu (Database)."
+        },
+        {
+          "key": "C",
+          "text": "Thanh công cụ (Taskbar), Màn hình (Screen) và Con chuột (Mouse)."
+        },
+        {
+          "key": "D",
+          "text": "Đầu trang (Header), Thân trang (Body) và Chân trang (Footer)."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ba phần của một trang web là phần đầu trang (Header) chứa thông tin nhận diện, phần thân trang (Body) chứa nội dung chính và phần chân trang (Footer) chứa thông tin bản quyền, liên hệ. Các phương án còn lại lẫn lộn với thư điện tử, thành phần kỹ thuật của website hoặc thiết bị của máy tính.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "cấu trúc trang web",
+        "header",
+        "footer"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c5",
+      "topic": "topic-th-ai-lam-quen",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Một chiếc xe ô tô tự lái sử dụng hệ thống camera và cảm biến radar để quét xung quanh, tự động nhận biết biển báo giao thông, phát hiện người đi bộ cắt ngang đường và đưa ra quyết định phanh gấp. Tình huống này là sự kết hợp của những đặc trưng AI nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khả năng học hỏi từ dữ liệu kết hợp với khả năng xử lí ngôn ngữ tự nhiên để phân tích các tình huống giao thông."
+        },
+        {
+          "key": "B",
+          "text": "Khả năng nhận dạng hình ảnh kết hợp với khả năng tạo nội dung để mô phỏng các tình huống giao thông."
+        },
+        {
+          "key": "C",
+          "text": "Khả năng nhận thức kết hợp với khả năng suy luận và giải quyết vấn đề."
+        },
+        {
+          "key": "D",
+          "text": "Khả năng lập kế hoạch kết hợp với khả năng xử lí dữ liệu để tối ưu hóa lộ trình di chuyển."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Camera và radar thu nhận thông tin môi trường là khả năng nhận thức; từ đó xác định biển báo, người đi bộ rồi quyết định phanh gấp là suy luận và giải quyết vấn đề. Tình huống không nhắc tới việc học từ dữ liệu mới, không xử lí ngôn ngữ tự nhiên và cũng không tạo ra nội dung mới.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đặc trưng AI",
+        "nhận thức",
+        "suy luận"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c6",
+      "topic": "topic-th-than-chan-trang-web",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Khối chức năng nào trong bảng công cụ của Google Sites cho phép chèn nhiều hình ảnh hiển thị dạng băng chuyền trượt xoay vòng tự động trên phần thân trang web?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Băng chuyền hình ảnh (Image Carousel)."
+        },
+        {
+          "key": "B",
+          "text": "Nút liên kết (Button)."
+        },
+        {
+          "key": "C",
+          "text": "Chân trang (Footer)."
+        },
+        {
+          "key": "D",
+          "text": "Khung nội tuyến (Embed/iframe)."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Image Carousel (Băng chuyền hình ảnh) là khối dành riêng cho việc trình chiếu nhiều ảnh luân phiên tự động trong phần thân trang. Button chỉ tạo nút liên kết, Footer là chân trang, còn Embed/iframe dùng để nhúng nội dung từ dịch vụ khác.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "image carousel",
+        "thân trang"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c7",
+      "topic": "topic-th-dau-trang-web",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Bạn H đang thiết kế trang web bằng Google Sites. Để tải biểu tượng Logo và Favicon cho trang web từ máy tính cá nhân lên hệ thống, H cần thực hiện các bước thao tác nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kéo thả trực tiếp hình ảnh từ ổ đĩa C vào thanh điều hướng."
+        },
+        {
+          "key": "B",
+          "text": "Nháy chuột vào biểu tượng Cài đặt (bánh răng) -> chọn mục Hình ảnh thương hiệu (Brand images) -> nháy nút Tải lên (Upload) tại mục Logo và Favicon."
+        },
+        {
+          "key": "C",
+          "text": "Mở ứng dụng Gmail và gửi tệp ảnh đính kèm cho Google."
+        },
+        {
+          "key": "D",
+          "text": "Nháy chuột vào nút Thêm chân trang (Add footer) ở cuối màn hình."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Logo và Favicon là ảnh thương hiệu của toàn bộ trang web nên được cấu hình trong mục Hình ảnh thương hiệu (Brand images) mở từ biểu tượng Cài đặt, tại đó có nút Tải lên cho từng mục. Kéo thả vào thanh điều hướng chỉ chèn ảnh thường của một trang, còn Gmail và Add footer không liên quan tới việc này.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "logo",
+        "favicon",
+        "brand images"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c8",
+      "topic": "topic-th-chuan-bi-web",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Để bắt đầu tạo một trang web mới bằng ứng dụng Google Sites, người dùng nhập địa chỉ nào vào thanh địa chỉ của trình duyệt web?",
+      "options": [
+        {
+          "key": "A",
+          "text": "mail.google.com"
+        },
+        {
+          "key": "B",
+          "text": "drive.google.com"
+        },
+        {
+          "key": "C",
+          "text": "sites.google.com/new"
+        },
+        {
+          "key": "D",
+          "text": "docs.google.com"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "sites.google.com/new là địa chỉ mở thẳng giao diện tạo trang web mới của Google Sites. mail.google.com vào Gmail, drive.google.com vào Google Drive và docs.google.com vào Google Docs, đều không phải công cụ tạo website.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "google sites",
+        "tạo trang web"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c9",
+      "topic": "topic-th-ai-lam-quen",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm khác biệt căn bản giữa Trí tuệ nhân tạo hẹp (Narrow AI) và Trí tuệ nhân tạo tổng quát (General AI) là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "AI hẹp được thiết kế để thực hiện một hoặc một nhóm nhiệm vụ cụ thể trong phạm vi xác định, còn AI tổng quát hướng đến khả năng học hỏi, suy luận và vận dụng tri thức linh hoạt trên nhiều lĩnh vực như con người."
+        },
+        {
+          "key": "B",
+          "text": "AI hẹp hoạt động dựa trên dữ liệu huấn luyện có sẵn, còn AI tổng quát có thể tự tạo dữ liệu mới mà không cần học hỏi hoặc tiếp nhận dữ liệu đầu vào."
+        },
+        {
+          "key": "C",
+          "text": "AI hẹp chỉ xử lí dữ liệu có cấu trúc, còn AI tổng quát có thể xử lí cả dữ liệu có cấu trúc và dữ liệu phi cấu trúc trong các ứng dụng thực tế."
+        },
+        {
+          "key": "D",
+          "text": "AI hẹp chủ yếu sử dụng thuật toán học máy để xử lí dữ liệu, còn AI tổng quát chỉ sử dụng hệ thống luật và tri thức được lập trình sẵn để giải quyết vấn đề."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tiêu chí phân biệt là phạm vi năng lực: AI hẹp giỏi trong một nhiệm vụ cụ thể đã định, AI tổng quát hướng tới sự linh hoạt trên nhiều lĩnh vực như trí tuệ con người — đúng như phương án A. Các phương án còn lại đặt ra tiêu chí sai: mọi AI đều cần dữ liệu đầu vào, AI hẹp không chỉ xử lí dữ liệu có cấu trúc, và hệ luật tri thức là cách làm của hệ chuyên gia chứ không phải định nghĩa của AI tổng quát.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "narrow ai",
+        "general ai"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c10",
+      "topic": "topic-th-ai-lam-quen",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Khái niệm Trí tuệ nhân tạo (AI - Artificial Intelligence) được hiểu là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khả năng của hệ thống máy tính tự động sao lưu, phân loại và khôi phục dữ liệu dựa trên dung lượng lưu trữ và các quy tắc quản lí tệp."
+        },
+        {
+          "key": "B",
+          "text": "Khả năng của hệ thống máy tính kết nối các bộ xử lí, trao đổi dữ liệu và phối hợp thực hiện các tác vụ thông qua mạng truyền thông tốc độ cao."
+        },
+        {
+          "key": "C",
+          "text": "Khả năng của máy tính tự động xử lí dữ liệu, lưu trữ thông tin, quản lí tệp và tối ưu hóa tài nguyên hệ thống theo các quy tắc được lập trình sẵn."
+        },
+        {
+          "key": "D",
+          "text": "Khả năng của máy tính thực hiện các nhiệm vụ thường đòi hỏi trí tuệ con người như nhận dạng chữ viết, hiểu ngôn ngữ, học hỏi, suy luận và ra quyết định."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bản chất của AI là làm được những việc vốn đòi hỏi trí tuệ con người: nhận dạng, hiểu ngôn ngữ, học hỏi, suy luận, ra quyết định. Ba phương án còn lại mô tả công việc của hệ điều hành, của quản lí tệp hoặc của hệ thống mạng — những việc tự động theo luật đã lập trình sẵn chứ không phải trí tuệ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "khái niệm ai"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c11",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Điều kiện kĩ thuật cần thiết đầu tiên để hai máy tính cá nhân trong cùng một văn phòng có thể chia sẻ tệp tin và máy in cho nhau là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai máy tính phải sử dụng cùng một hệ điều hành và cùng phiên bản phần mềm quản lí tệp tin."
+        },
+        {
+          "key": "B",
+          "text": "Hai máy tính phải được thiết lập cùng địa chỉ IP và sử dụng chung một địa chỉ MAC để nhận diện thiết bị."
+        },
+        {
+          "key": "C",
+          "text": "Hai máy tính phải được kết nối vào cùng một mạng cục bộ (LAN) và có cấu hình mạng phù hợp để trao đổi dữ liệu."
+        },
+        {
+          "key": "D",
+          "text": "Hai máy tính phải cài đặt cùng một phần mềm chia sẻ dữ liệu và sử dụng chung một tài khoản người dùng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Muốn giao tiếp được với nhau thì trước hết hai máy phải thuộc cùng một mạng và có cấu hình phù hợp (cùng dải mạng, phát hiện mạng và quyền chia sẻ được bật). Hai máy dùng hệ điều hành khác nhau vẫn chia sẻ được; địa chỉ IP phải khác nhau còn địa chỉ MAC là duy nhất cho từng card mạng nên không thể dùng chung; cũng không bắt buộc chung một tài khoản người dùng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "chia sẻ tài nguyên",
+        "điều kiện kết nối"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c12",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ thống AI tạo sinh (Generative AI) nổi tiếng do tập đoàn OpenAI phát triển, có khả năng hiểu và tạo ra văn bản tự nhiên như con người được gọi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Google Maps."
+        },
+        {
+          "key": "B",
+          "text": "Mycin."
+        },
+        {
+          "key": "C",
+          "text": "IBM Watson."
+        },
+        {
+          "key": "D",
+          "text": "ChatGPT."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "ChatGPT là hệ AI tạo sinh do OpenAI phát triển, nổi bật ở khả năng hiểu và sinh văn bản tự nhiên. Google Maps là bản đồ số, Mycin là hệ chuyên gia y tế đời cũ, còn IBM Watson là nền tảng AI trong doanh nghiệp của IBM.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "ai tạo sinh",
+        "openai"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c13",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Phòng làm việc của công ty X có 5 máy tính kết nối mạng LAN nhưng chỉ có 1 máy in Laser nối qua cổng USB với máy tính MAY_CHUNG. Để 4 máy tính còn lại có thể gửi lệnh in trực tiếp tới máy in này qua mạng, người quản trị cần thực hiện quy trình thao tác nào trên MAY_CHUNG?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở phần cài đặt mạng, bật tính năng Network Discovery và đặt máy tính MAY_CHUNG làm máy chủ DHCP để các máy khác nhận diện máy in."
+        },
+        {
+          "key": "B",
+          "text": "Mở phần quản lý thiết bị và máy in, chọn thuộc tính máy in (Printer Properties), bật tính năng chia sẻ (Share this printer) và đặt tên máy in dùng chung."
+        },
+        {
+          "key": "C",
+          "text": "Mở phần quản lý máy in, đặt máy in làm thiết bị mặc định (Default Printer) và bật tính năng tự động cập nhật trình điều khiển (driver)."
+        },
+        {
+          "key": "D",
+          "text": "Mở phần cài đặt hệ thống, bật tính năng Remote Desktop và cấp quyền quản trị cho các máy tính còn lại để gửi lệnh in."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Để máy in cắm USB vào một máy tính dùng được chung cho cả mạng, thao tác chuẩn là mở Printer Properties trên máy chủ in, bật Share this printer rồi đặt tên chia sẻ. Đặt máy làm DHCP server không liên quan tới máy in, Default Printer chỉ ảnh hưởng trên chính máy đó, còn Remote Desktop cho điều khiển máy từ xa chứ không định tuyến lệnh in.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "chia sẻ máy in",
+        "printer properties"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c14",
+      "topic": "topic-th-dau-trang-web",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Biểu tượng nhỏ đại diện cho website xuất hiện ở góc trái trên tab của cửa sổ trình duyệt web được gọi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Logo."
+        },
+        {
+          "key": "B",
+          "text": "Banner."
+        },
+        {
+          "key": "C",
+          "text": "Favicon."
+        },
+        {
+          "key": "D",
+          "text": "Navigation bar."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Favicon là biểu tượng nhỏ hiển thị cạnh tiêu đề trang trên tab và trong danh sách yêu thích, lịch sử. Logo là hình nhận diện trong phần đầu trang, Banner là ảnh nền biểu ngữ, Navigation bar là thanh điều hướng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "favicon"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c15",
+      "topic": "topic-th-ai-lam-quen",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ chuyên gia MYCIN nhận thông tin về các triệu chứng bệnh nhiễm trùng huyết từ bác sĩ, đối chiếu với tập luật tri thức để đưa ra chẩn đoán và đề xuất kháng sinh phù hợp. Hoạt động này thể hiện rõ nhất đặc trưng nào của AI?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khả năng học máy, tự động cập nhật tri thức từ dữ liệu mới mà không cần sử dụng các luật suy luận được xây dựng trước."
+        },
+        {
+          "key": "B",
+          "text": "Khả năng suy luận, vận dụng các luật tri thức để phân tích thông tin và đưa ra kết luận phù hợp."
+        },
+        {
+          "key": "C",
+          "text": "Khả năng xử lí ngôn ngữ tự nhiên, phân tích ngữ nghĩa câu nói của bác sĩ để tự động chuyển đổi thành dữ liệu chẩn đoán."
+        },
+        {
+          "key": "D",
+          "text": "Khả năng nhận thức, trực tiếp thu nhận và nhận dạng các triệu chứng bệnh thông qua hình ảnh và âm thanh từ môi trường."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "MYCIN là hệ chuyên gia: tri thức của chuyên gia được biểu diễn thành tập luật, máy suy luận từ các luật đó trên dữ liệu đầu vào để kết luận. Vì vậy đặc trưng nổi bật là suy luận, không phải học máy (hệ không tự cập nhật từ dữ liệu mới), không phải xử lí ngôn ngữ tự nhiên hay nhận thức từ hình ảnh, âm thanh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hệ chuyên gia",
+        "mycin",
+        "suy luận"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c16",
+      "topic": "topic-th-thiet-bi-mang",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Thiết bị mạng nào dùng để kết nối các máy tính trong cùng một mạng cục bộ (LAN), hoạt động dựa trên địa chỉ MAC và giúp giảm thiểu tối đa hiện tượng xung đột tín hiệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hub."
+        },
+        {
+          "key": "B",
+          "text": "Switch."
+        },
+        {
+          "key": "C",
+          "text": "Router."
+        },
+        {
+          "key": "D",
+          "text": "Modem."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Switch chuyển mạch dựa trên địa chỉ MAC của từng cổng, mỗi cổng là một miền xung đột riêng, nhờ đó hạn chế xung đột và tối ưu băng thông trong LAN. Hub chỉ phát tán tín hiệu ra mọi cổng nên rất dễ xung đột, Router nối các mạng với nhau còn Modem biến đổi tín hiệu để truyền trên đường truyền.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "switch",
+        "địa chỉ mac",
+        "xung đột"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c17",
+      "topic": "topic-th-chuan-bi-web",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Quy trình chuẩn bị khoa học khi bắt đầu xây dựng một trang web gồm 3 bước theo thứ tự nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(1) Thiết kế dàn ý -> (2) Định hình ý tưởng -> (3) Xoá bỏ tài nguyên."
+        },
+        {
+          "key": "B",
+          "text": "(1) Định hình ý tưởng -> (2) Thiết kế dàn ý và bố cục -> (3) Lựa chọn phần mềm và chuẩn bị tư liệu."
+        },
+        {
+          "key": "C",
+          "text": "(1) Lựa chọn phần mềm -> (2) Công bố trang web -> (3) Viết mã lập trình."
+        },
+        {
+          "key": "D",
+          "text": "(1) Mua tên miền -> (2) In trang web ra giấy -> (3) Định hình ý tưởng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ba bước chuẩn bị theo sách giáo khoa là định hình ý tưởng (xác định mục đích, đối tượng, yêu cầu), thiết kế dàn ý và bố cục, sau đó mới lựa chọn công cụ và chuẩn bị tư liệu. Phương án A đảo ngược hai bước đầu và thêm bước vô nghĩa, C bỏ qua giai đoạn chuẩn bị, D có bước in trang web ra giấy không thuộc quy trình.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "quy trình",
+        "chuẩn bị trang web"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c18",
+      "topic": "topic-th-giao-thuc-mang",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Tập hợp các quy tắc định dạng, truyền và nhận dữ liệu giữa các thiết bị tham gia kết nối mạng được gọi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giao thức mạng."
+        },
+        {
+          "key": "B",
+          "text": "Hệ thống phân giải tên miền (DNS)."
+        },
+        {
+          "key": "C",
+          "text": "Địa chỉ IP logic."
+        },
+        {
+          "key": "D",
+          "text": "Địa chỉ MAC vật lý."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Định nghĩa này là giao thức mạng: bộ quy tắc về định dạng, thứ tự và cách truyền, nhận dữ liệu để các thiết bị hiểu được nhau. DNS là dịch vụ phân giải tên miền, còn địa chỉ IP và địa chỉ MAC là hai loại địa chỉ dùng để định danh thiết bị, không phải tập quy tắc.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "giao thức mạng",
+        "định nghĩa"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c19",
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi bạn thực hiện chia sẻ một thư mục dữ liệu trên hệ điều hành Windows và cấp quyền Read (Đọc) cho tài khoản người dùng khác trong mạng LAN, người đó có thể thực hiện các thao tác nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở xem nội dung thư mục và thay đổi quyền truy cập của các tài khoản khác, nhưng không được phép sao chép tệp về máy mình."
+        },
+        {
+          "key": "B",
+          "text": "Mở xem, sao chép và chỉnh sửa nội dung tệp tin trực tiếp trong thư mục chia sẻ, nhưng không được phép thêm tệp mới hoặc xoá tệp hiện có."
+        },
+        {
+          "key": "C",
+          "text": "Mở xem nội dung và sao chép tệp tin về máy mình, nhưng không được phép sửa đổi hoặc xoá tệp trong thư mục chia sẻ theo quyền Read."
+        },
+        {
+          "key": "D",
+          "text": "Xem danh sách tệp tin và thay đổi tên các tệp trong thư mục chia sẻ, nhưng không được phép mở hoặc sao chép nội dung tệp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Quyền Read cho phép xem và sao chép về máy, nhưng không cho sửa, xoá hay đổi tên tệp trong thư mục chia sẻ; đổi quyền là việc của chủ sở hữu hoặc quản trị. Vì vậy B (được chỉnh sửa) và D (được đổi tên) sai, A cũng sai vì quyền đọc không bao gồm việc thay đổi quyền của người khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "chia sẻ thư mục",
+        "quyền read"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c20",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Môi trường được tạo ra nhờ sự kết nối của hệ thống mạng máy tính, trong đó Internet là thành phần lớn nhất cho phép con người giao tiếp, chia sẻ và làm việc trực tuyến được gọi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không gian mạng."
+        },
+        {
+          "key": "B",
+          "text": "Hạ tầng mạng viễn thông."
+        },
+        {
+          "key": "C",
+          "text": "Hệ thống thông tin."
+        },
+        {
+          "key": "D",
+          "text": "Mạng Internet."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Định nghĩa ứng với không gian mạng: môi trường được tạo bởi hệ thống mạng máy tính, có Internet là thành phần lớn nhất, nơi diễn ra các hoạt động giao tiếp, chia sẻ và làm việc trực tuyến. Hạ tầng mạng viễn thông chỉ nói phần kỹ thuật, còn Internet là mạng cụ thể chứ không phải tên gọi của môi trường hoạt động.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "không gian mạng",
+        "internet"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c21",
+      "topic": "topic-th-chuan-bi-web",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong quy trình xây dựng trang web, nội dung chính của bước \"Định hình ý tưởng\" bao gồm những công việc nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xác định mục đích xây dựng trang web, đối tượng người dùng hướng tới và các yêu cầu về nội dung, kiến trúc thông tin, giao diện mĩ thuật."
+        },
+        {
+          "key": "B",
+          "text": "Lựa chọn nền tảng lưu trữ, cấu hình tên miền và thiết lập máy chủ để đưa trang web lên Internet."
+        },
+        {
+          "key": "C",
+          "text": "Xác định cấu trúc các trang HTML, lựa chọn thuộc tính CSS và viết mã nguồn để triển khai các thành phần giao diện."
+        },
+        {
+          "key": "D",
+          "text": "Thu thập, biên tập hình ảnh, tối ưu dung lượng tư liệu và thiết lập các hiệu ứng hiển thị cho trang web."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Định hình ý tưởng là bước trả lời các câu hỏi \"làm trang web để làm gì, cho ai, cần những nội dung và hình thức gì\", tức xác định mục đích, đối tượng và yêu cầu về nội dung, kiến trúc thông tin, giao diện. Cấu hình máy chủ và tên miền thuộc bước công bố, viết mã thuộc bước triển khai, còn thu thập và tối ưu tư liệu thuộc bước chuẩn bị tư liệu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "định hình ý tưởng",
+        "mục đích",
+        "đối tượng"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c22",
+      "topic": "topic-th-dau-trang-web",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phần mềm Google Sites, phần đầu trang (Header) thông thường chứa các thành phần nhận diện cơ bản nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đoạn văn bản nội dung bài viết và các bình luận của độc giả."
+        },
+        {
+          "key": "B",
+          "text": "Các ô nhập liệu biểu mẫu đăng ký tài khoản."
+        },
+        {
+          "key": "C",
+          "text": "Thông tin bản quyền, địa chỉ liên hệ và liên kết mạng xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Logo, tên trang web, tiêu đề trang, Favicon và hình nền biểu ngữ (Banner)."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phần đầu trang mang chức năng nhận diện nên gồm logo, tên trang web, tiêu đề trang, favicon và ảnh nền biểu ngữ. Nội dung bài viết và bình luận thuộc thân trang, biểu mẫu đăng ký cũng là khối của thân trang, còn thông tin bản quyền và liên hệ là nội dung điển hình của chân trang.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "header",
+        "thành phần nhận diện"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c23",
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Lợi ích nổi bật nhất của việc giao tiếp trong không gian mạng (qua email, video call, mạng xã hội) so với giao tiếp trực tiếp truyền thống là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhanh chóng, thuận tiện, hỗ trợ trao đổi thông tin theo thời gian thực hoặc không đồng bộ, đồng thời giảm sự phụ thuộc vào khoảng cách địa lí."
+        },
+        {
+          "key": "B",
+          "text": "Đảm bảo mọi nội dung trao đổi được mã hóa và bảo mật tuyệt đối mà không cần thiết lập quyền riêng tư hay biện pháp bảo vệ tài khoản."
+        },
+        {
+          "key": "C",
+          "text": "Cho phép trao đổi thông tin mà không cần thiết bị kết nối mạng hoặc các nền tảng hỗ trợ giao tiếp trực tuyến."
+        },
+        {
+          "key": "D",
+          "text": "Giúp truyền tải đầy đủ mọi sắc thái cảm xúc và ngôn ngữ cơ thể, nhờ đó hạn chế tối đa những hiểu nhầm trong giao tiếp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ưu thế lớn nhất của giao tiếp trực tuyến là tốc độ, tính thuận tiện, khả năng trao đổi đồng bộ hoặc không đồng bộ và xóa rào cản địa lí. Bảo mật không mặc nhiên tuyệt đối mà vẫn cần thiết lập quyền riêng tư, muốn giao tiếp trực tuyến bắt buộc phải có thiết bị kết nối mạng, còn sắc thái cảm xúc và ngôn ngữ cơ thể thường bị giảm đi so với gặp trực tiếp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "giao tiếp trực tuyến",
+        "lợi ích"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c24",
+      "topic": "topic-th-dau-trang-web",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong Google Sites, khi tùy chỉnh chế độ hiển thị phần đầu trang (Header type), lựa chọn \"Title only\" (Chỉ tiêu đề) có đặc điểm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chèn một video phát tự động làm hình nền."
+        },
+        {
+          "key": "B",
+          "text": "Hiển thị hình ảnh nền biểu ngữ chiếm toàn bộ chiều cao màn hình trang chủ."
+        },
+        {
+          "key": "C",
+          "text": "Tự động ẩn toàn bộ phần tên trang web và logo."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ hiển thị tiêu đề dạng chữ trên nền màu đơn sắc mà không sử dụng hình ảnh nền biểu ngữ (Banner)."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Header type gồm các chế độ như Banner, Video, Only banner image và Title only; trong đó Title only chỉ hiện tiêu đề bằng chữ trên nền màu, không dùng ảnh nền biểu ngữ. Video làm nền là chế độ khác, ảnh nền chiếm chiều cao màn hình là Banner, còn tên trang web và logo vẫn hiển thị nên phương án \"ẩn toàn bộ\" là sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "header type",
+        "title only"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c25",
+      "topic": "topic-th-thiet-bi-mang",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Trường THPT nâng cấp hạ tầng mạng cho phòng máy tính. Hệ thống gồm: 1 Modem cáp quang nối với nhà cung cấp dịch vụ Internet (ISP); 1 Router quản lý trung tâm; 2 bộ chuyển mạch Switch 24 cổng để nối cáp UTP tới 40 máy tính để bàn; và 1 điểm truy cập không dây (WAP) phủ sóng Wi-Fi. Chọn các phát biểu ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Modem cáp quang đóng vai trò chuyển đổi tín hiệu quang truyền trên đường cáp thành tín hiệu số (digital) để các thiết bị trong trường sử dụng."
+        },
+        {
+          "key": "B",
+          "text": "Việc sử dụng hai bộ chuyển mạch Switch giúp hạn chế hiện tượng xung đột tín hiệu và tối ưu băng thông truyền dữ liệu giữa các máy tính trong phòng máy."
+        },
+        {
+          "key": "C",
+          "text": "Để 40 máy tính để bàn kết nối vào mạng nội bộ LAN, kĩ thuật viên cần cắm đầu giắc RJ45 của dây cáp UTP vào cổng WAN trên thiết bị Router."
+        },
+        {
+          "key": "D",
+          "text": "Điểm truy cập không dây (WAP) có chức năng chuyển đổi toàn bộ tệp tin văn bản trong máy tính thành các đoạn video MP4 tự động."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A đúng: modem điều biến và giải điều biến, ở đây chuyển tín hiệu quang trên cáp thành tín hiệu số cho thiết bị. B đúng: switch chuyển mạch theo địa chỉ MAC nên mỗi cổng là một miền xung đột riêng, hạn chế xung đột và dùng hiệu quả băng thông. C sai: cáp UTP từ máy tính được cắm vào cổng LAN của Switch, cổng WAN của Router chỉ dùng để nối tới mạng phía trên. D sai: WAP phát sóng Wi-Fi cho phép thiết bị không dây vào mạng, không có chức năng biến tệp văn bản thành video MP4.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "modem",
+        "switch",
+        "wap",
+        "cổng wan"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c26",
+      "topic": "topic-th-giao-thuc-mang",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Bạn M mở trình duyệt web trên máy tính và nhập địa chỉ https://moet.edu.vn để truy cập Cổng thông tin điện tử Bộ Giáo dục và Đào tạo. Chọn các phát biểu ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trong quá trình gói dữ liệu di chuyển qua các Router trên Internet, địa chỉ IP nguồn và IP đích trong gói tin sẽ tự động thay đổi liên tục sau mỗi chặng."
+        },
+        {
+          "key": "B",
+          "text": "Giao thức TCP chịu trách nhiệm cắt khối dữ liệu thành các gói tin nhỏ, đánh số thứ tự và sử dụng mã xác nhận (ACK) để gửi lại nếu gói tin bị thất lạc."
+        },
+        {
+          "key": "C",
+          "text": "Giao thức HTTPS đảm bảo an toàn cho dữ liệu nhờ tích hợp thêm tầng mã hóa bảo mật thông tin giữa trình duyệt và máy chủ."
+        },
+        {
+          "key": "D",
+          "text": "Dịch vụ tên miền DNS đóng vai trò truy vấn và chuyển đổi tên miền moet.edu.vn thành địa chỉ IP dạng số tương ứng của máy chủ."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "B đúng: TCP chia khối dữ liệu thành các gói nhỏ có đánh số thứ tự, bên nhận gửi thông báo xác nhận ACK và những gói chưa được xác nhận sẽ truyền lại — cách diễn đạt \"dùng ACK để gửi lại\" của đề được hiểu theo nghĩa này. C đúng: HTTPS là HTTP chạy trên lớp mã hóa SSL/TLS nên dữ liệu giữa trình duyệt và máy chủ được bảo mật. D đúng: DNS phân giải tên miền thành địa chỉ IP của máy chủ. A sai: địa chỉ IP nguồn và IP đích được giữ nguyên suốt hành trình; thứ thay đổi ở mỗi chặng là địa chỉ MAC của thiết bị gửi và nhận kế tiếp.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "tcp",
+        "https",
+        "dns",
+        "ip"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c27",
+      "topic": "topic-th-than-chan-trang-web",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Nhóm học sinh sử dụng Google Sites để xây dựng trang web giới thiệu Câu lạc bộ Truyền thông của trường. Trang web bao gồm trang chủ, phần thân chứa danh sách thành viên, video hoạt động và phần chân trang (Footer). Chọn các phát biểu ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các thành viên có thể sử dụng khối chức năng \"Băng chuyền hình ảnh\" (Image Carousel) trong phần thân trang để hiển thị các ảnh hoạt động nổi bật trượt xoay vòng."
+        },
+        {
+          "key": "B",
+          "text": "Khi chỉnh sửa phần chân trang (Footer) trên một trang bất kỳ, nội dung chân trang này sẽ tự động xuất hiện thống nhất ở cuối tất cả các trang con trong website."
+        },
+        {
+          "key": "C",
+          "text": "Thông tin bản quyền, email liên hệ và các biểu tượng liên kết tới trang Facebook/YouTube của câu lạc bộ nên được đặt ở phần đầu trang (Header) thay vì phần chân trang (Footer)."
+        },
+        {
+          "key": "D",
+          "text": "Nhúng một video từ YouTube vào phần thân trang web bằng công cụ Google Sites sẽ sử dụng thẻ khung nội tuyến (Embed/iframe)."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A đúng: Image Carousel là khối dành cho nhiều ảnh trình chiếu luân phiên trong phần thân trang. B đúng: chân trang là thành phần chung của toàn bộ website, khi chỉnh sửa và chọn áp dụng cho tất cả các trang thì nội dung đó xuất hiện thống nhất ở cuối mọi trang con. D đúng: video nhúng từ YouTube được đặt trong khung nội tuyến (Embed/iframe). C sai: thông tin bản quyền, email liên hệ và liên kết mạng xã hội là nội dung điển hình của chân trang, không phải đầu trang.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "image carousel",
+        "footer",
+        "iframe"
+      ]
+    },
+    {
+      "id": "tinhoc12-gk1-c28",
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Bệnh viện đa khoa Y triển khai hệ thống AI hỗ trợ y tế. Hệ thống này bao gồm: mô hình AI học sâu phân tích ảnh X-quang phổi để phát hiện sớm tổn thương; trợ lý ảo AI hỗ trợ tự động trả lời thắc mắc của bệnh nhân 24/7; và hệ thống lưu trữ hồ sơ bệnh án trên đám mây. Chọn các phát biểu ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mô hình AI phân tích ảnh X-quang phổi thuộc loại Trí tuệ nhân tạo tổng quát (General AI) vì nó có cảm xúc và tư duy toàn diện như một bác sĩ thực thụ."
+        },
+        {
+          "key": "B",
+          "text": "Trợ lý ảo AI tự động trả lời thắc mắc bệnh nhân vận dụng đặc trưng \"Khả năng hiểu ngôn ngữ tự nhiên\" của Trí tuệ nhân tạo."
+        },
+        {
+          "key": "C",
+          "text": "Việc chẩn đoán của AI dựa trên cơ chế học máy (Machine Learning) từ tập dữ liệu hàng triệu hình ảnh bệnh lý được huấn luyện trước đó."
+        },
+        {
+          "key": "D",
+          "text": "Do AI có độ chính xác cao, Ban giám đốc bệnh viện có thể giao toàn bộ quyền ra quyết định phẫu thuật và chịu trách nhiệm pháp lý cho AI mà không cần bác sĩ phê duyệt."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "B đúng: trợ lý ảo hiểu và trả lời bằng ngôn ngữ người dùng, thể hiện khả năng xử lí ngôn ngữ tự nhiên. C đúng: mô hình học sâu rút ra quy luật từ lượng lớn ảnh bệnh lý đã được gán nhãn để phục vụ chẩn đoán. A sai: AI phân tích ảnh X-quang là AI hẹp, chuyên một nhiệm vụ và không có cảm xúc hay tư duy toàn diện. D sai: AI chỉ hỗ trợ ra quyết định, người chịu trách nhiệm chuyên môn và pháp lý vẫn là con người, nên không thể giao quyền phẫu thuật cho AI.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "ai hẹp",
+        "machine learning",
+        "xử lí ngôn ngữ tự nhiên",
+        "trách nhiệm pháp lý"
+      ]
+    }
+  ]
+}
