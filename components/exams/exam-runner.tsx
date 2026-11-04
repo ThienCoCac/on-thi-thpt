@@ -210,43 +210,45 @@ function QuestionNavigator({
 }: QuestionNavigatorProps) {
   return (
     <div className="space-y-4">
-      {groups.map((group) => (
-        <div key={group.name}>
-          <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
-            {group.name}
-          </p>
-          <div className="flex flex-wrap gap-2">
-            {group.items.map(({ index, question }) => {
-              const answered = !isAnswerEmpty(answers[question.id] ?? null);
-              const flagged = flags.has(question.id);
-              const active = index === currentIndex;
+      <div className="max-h-[40vh] space-y-4 overflow-y-auto pr-1">
+        {groups.map((group) => (
+          <div key={group.name}>
+            <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+              {group.name}
+            </p>
+            <div className="grid grid-cols-5 gap-2">
+              {group.items.map(({ index, question }) => {
+                const answered = !isAnswerEmpty(answers[question.id] ?? null);
+                const flagged = flags.has(question.id);
+                const active = index === currentIndex;
 
-              return (
-                <button
-                  key={question.id}
-                  type="button"
-                  onClick={() => onSelect(index)}
-                  aria-current={active ? 'step' : undefined}
-                  aria-label={`Câu ${index + 1}${answered ? ', đã trả lời' : ', chưa trả lời'}${
-                    flagged ? ', đã đánh dấu' : ''
-                  }`}
-                  className={cn(
-                    'flex h-9 w-9 items-center justify-center rounded-lg border text-sm font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2',
-                    flagged
-                      ? 'border-amber-500 bg-amber-400 text-amber-950'
-                      : answered
-                        ? 'border-primary bg-primary text-primary-foreground'
-                        : 'border-border bg-muted text-muted-foreground hover:bg-secondary',
-                    active && 'ring-2 ring-purple-500 ring-offset-2',
-                  )}
-                >
-                  {index + 1}
-                </button>
-              );
-            })}
+                return (
+                  <button
+                    key={question.id}
+                    type="button"
+                    onClick={() => onSelect(index)}
+                    aria-current={active ? 'step' : undefined}
+                    aria-label={`Câu ${index + 1}${answered ? ', đã trả lời' : ', chưa trả lời'}${
+                      flagged ? ', đã đánh dấu' : ''
+                    }`}
+                    className={cn(
+                      'flex h-9 w-full items-center justify-center rounded-lg border text-sm font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2',
+                      flagged
+                        ? 'border-amber-500 bg-amber-400 text-amber-950'
+                        : answered
+                          ? 'border-primary bg-primary text-primary-foreground'
+                          : 'border-border bg-muted text-muted-foreground hover:bg-secondary',
+                      active && 'ring-2 ring-purple-500 ring-offset-2',
+                    )}
+                  >
+                    {index + 1}
+                  </button>
+                );
+              })}
+            </div>
           </div>
-        </div>
-      ))}
+        ))}
+      </div>
 
       <ul className="flex flex-wrap gap-x-4 gap-y-1.5 border-t pt-3 text-xs text-muted-foreground">
         <li className="flex items-center gap-1.5">
@@ -962,16 +964,19 @@ export function ExamRunner({ exam, persistDraft = true, markSeen = true }: ExamR
         </main>
 
         <aside className="hidden lg:block">
-          <div className="sticky top-24 space-y-4">
+          <div className="sticky top-24">
             <Card>
               <CardHeader>
-                <CardTitle className="text-base">Danh sách câu hỏi</CardTitle>
+                <div className="flex items-center justify-between gap-3">
+                  <CardTitle className="text-base">Bản đồ câu hỏi</CardTitle>
+                  <span className="text-xs text-muted-foreground">
+                    Đã làm: {answeredCount}/{total}
+                  </span>
+                </div>
               </CardHeader>
-              <CardContent>{navigator}</CardContent>
-            </Card>
+              <CardContent className="space-y-4">
+                {navigator}
 
-            <Card>
-              <CardContent className="space-y-3 p-5">
                 <dl className="grid grid-cols-3 gap-2 text-center text-xs">
                   <div className="rounded-lg border bg-muted/40 p-2">
                     <dt className="text-muted-foreground">Đã làm</dt>
