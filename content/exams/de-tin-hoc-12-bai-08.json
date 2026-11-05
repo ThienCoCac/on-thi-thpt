@@ -1,0 +1,961 @@
+{
+  "id": "de-tin-hoc-12-bai-08",
+  "title": "Đề ôn tập Tin học 12 – Bài 8: Định dạng văn bản",
+  "slug": "de-tin-hoc-12-bai-08",
+  "description": "Đề ôn tập riêng Bài 8 – Định dạng văn bản (môn Tin học 12, bộ sách Định hướng Tin học ứng dụng, Kết nối tri thức), bao gồm thuộc tính của thẻ, thẻ tiêu đề, khối và đoạn, các thẻ định dạng kiểu chữ và thuộc tính style. Đề có 28 câu: 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, kèm lời giải cho từng câu.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B08",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "updatedAt": "2026-11-05T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b08-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Thuộc tính",
+        "Bài 8"
+      ],
+      "content": "Trong HTML, thuộc tính của một thẻ được xác định bằng cú pháp nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`giá_trị(tên_thuộc_tính)`, đặt ngay trước tên thẻ."
+        },
+        {
+          "key": "B",
+          "text": "`tên_thuộc_tính=\"giá trị\"`, viết trong thẻ bắt đầu và sau tên thẻ; nhiều thuộc tính thì ngăn cách bởi dấu cách."
+        },
+        {
+          "key": "C",
+          "text": "`tên_thuộc_tính : giá trị`, viết trong thẻ kết thúc."
+        },
+        {
+          "key": "D",
+          "text": "`\"tên_thuộc_tính\" = giá trị`, viết trên một dòng riêng ngay sau thẻ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 8 quy định cú pháp xác định thuộc tính là tên_thuộc_tính=\"giá trị\", nằm trong thẻ bắt đầu và viết sau tên thẻ; các thuộc tính ngăn cách nhau bằng dấu cách. Giá trị đặt trong cặp dấu nháy kép, không phải đặt trước tên thẻ hay trong thẻ kết thúc."
+    },
+    {
+      "id": "tinhoc12-b08-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Tiêu đề",
+        "Bài 8"
+      ],
+      "content": "Trong dải các thẻ tiêu đề từ `<h1>` đến `<h6>`, thẻ nào thể hiện tiêu đề có mức quan trọng thấp nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<h1>`."
+        },
+        {
+          "key": "B",
+          "text": "`<h2>`."
+        },
+        {
+          "key": "C",
+          "text": "`<h6>`."
+        },
+        {
+          "key": "D",
+          "text": "`<p>`."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thẻ tiêu đề có sáu mức và độ quan trọng giảm dần từ 1 đến 6, nên `<h6>` là mức thấp nhất, `<h1>` là mức cao nhất. `<p>` không phải thẻ tiêu đề mà là thẻ đoạn văn bản."
+    },
+    {
+      "id": "tinhoc12-b08-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Khối và đoạn",
+        "Bài 8"
+      ],
+      "content": "Đặc điểm nào sau đây đúng khi sử dụng cặp thẻ `<span>...</span>`?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tạo một khối chứa nội dung bất kì với quy mô nhỏ, nội dung hiển thị ngay trên cùng dòng đang viết."
+        },
+        {
+          "key": "B",
+          "text": "Luôn bắt đầu một dòng mới và tạo khối lớn hơn phần tử `<div>`."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ được phép đặt bên trong phần tử `<head>`."
+        },
+        {
+          "key": "D",
+          "text": "Là thẻ đơn, không có thẻ kết thúc."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "`<span>` tạo một khối chứa nội dung bất kì nhưng dùng cho quy mô nhỏ, hiển thị trên cùng dòng đang viết; phần tử `<div>` mới là khối bắt đầu trên dòng mới. Cả `<span>` và `<div>` đều là thẻ đôi có thẻ kết thúc."
+    },
+    {
+      "id": "tinhoc12-b08-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Đoạn văn bản",
+        "Bài 8"
+      ],
+      "content": "Theo Bài 8, nội dung đặt trong cặp thẻ `<p>...</p>` KHÔNG được phép chứa",
+      "options": [
+        {
+          "key": "A",
+          "text": "văn bản thường."
+        },
+        {
+          "key": "B",
+          "text": "hình ảnh."
+        },
+        {
+          "key": "C",
+          "text": "các thẻ định dạng kiểu chữ như `<b>`, `<i>`."
+        },
+        {
+          "key": "D",
+          "text": "tiêu đề, danh sách, phần tử phân đoạn hoặc các phần tử dạng khối khác."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu đoạn văn có thể chứa văn bản, hình ảnh và các phần tử inline, nhưng không được chứa tiêu đề, danh sách, phần tử phân đoạn hay phần tử dạng khối khác. Các phương án A, B, C đều là nội dung hợp lệ bên trong `<p>`."
+    },
+    {
+      "id": "tinhoc12-b08-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Định dạng kiểu chữ",
+        "HTML5"
+      ],
+      "content": "Theo lưu ý của Bài 8, HTML5 không còn hỗ trợ hai thẻ nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<big>` và `<u>`."
+        },
+        {
+          "key": "B",
+          "text": "`<b>` và `<i>`."
+        },
+        {
+          "key": "C",
+          "text": "`<sup>` và `<sub>`."
+        },
+        {
+          "key": "D",
+          "text": "`<mark>` và `<del>`."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lưu ý trong Bài 8 ghi rõ HTML5 không hỗ trợ thẻ `<big>` và `<u>`; để điều khiển ta thay bằng giá trị font-size và text-decoration trong thuộc tính style. Các thẻ `<b>`, `<i>`, `<sup>`, `<sub>`, `<mark>`, `<del>` vẫn được hỗ trợ."
+    },
+    {
+      "id": "tinhoc12-b08-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "style",
+        "Định dạng phông chữ"
+      ],
+      "content": "Để thay thế cho thẻ `<big>` bị HTML5 bỏ hỗ trợ, theo Bài 8 ta nên dùng cách nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thẻ `<strong>`."
+        },
+        {
+          "key": "B",
+          "text": "Thuộc tính `class=\"big\"`."
+        },
+        {
+          "key": "C",
+          "text": "Giá trị `font-size` trong thuộc tính `style`."
+        },
+        {
+          "key": "D",
+          "text": "Thẻ `<small>`."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "`<big>` có tác dụng tăng cỡ chữ, nên sách khuyến nghị thay bằng giá trị `font-size` trong thuộc tính `style`. `<small>` lại làm giảm cỡ chữ, còn `<strong>` dùng để in đậm nhấn mạnh ngữ nghĩa, không thay thế được `<big>`."
+    },
+    {
+      "id": "tinhoc12-b08-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Định dạng kiểu chữ",
+        "Bài 8"
+      ],
+      "content": "Văn bản đặt trong cặp thẻ `<del>...</del>` sẽ được hiển thị như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "In đậm."
+        },
+        {
+          "key": "B",
+          "text": "Có nét gạch chạy giữa chữ."
+        },
+        {
+          "key": "C",
+          "text": "In nghiêng."
+        },
+        {
+          "key": "D",
+          "text": "Tô nổi bật (highlight)."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thẻ `<del>` dùng để đánh dấu đoạn văn bản bị xoá bằng nét gạch giữa chữ. Tô nổi bật là tác dụng của `<mark>`, in đậm là `<b>`/`<strong>`, còn in nghiêng là `<i>`/`<em>`."
+    },
+    {
+      "id": "tinhoc12-b08-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Định dạng kiểu chữ",
+        "Bài 8"
+      ],
+      "content": "Tác dụng của thẻ `<mark>` trong Bảng 8.1 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "viết chỉ số dưới."
+        },
+        {
+          "key": "B",
+          "text": "giảm cỡ chữ."
+        },
+        {
+          "key": "C",
+          "text": "gạch chân đoạn văn bản."
+        },
+        {
+          "key": "D",
+          "text": "đánh dấu (highlight) một đoạn văn bản."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "`<mark>` dùng để đánh dấu (highlight) đoạn văn bản cho nổi bật. Chỉ số dưới do `<sub>` tạo ra, giảm cỡ chữ là `<small>`, còn gạch chân trước đây là `<u>` (nay thay bằng `text-decoration`)."
+    },
+    {
+      "id": "tinhoc12-b08-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Định dạng kiểu chữ",
+        "Bài 8"
+      ],
+      "content": "Cặp thẻ nào sau đây được dùng để viết chỉ số trên và chỉ số dưới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<small>` và `<big>`."
+        },
+        {
+          "key": "B",
+          "text": "`<b>` và `<i>`."
+        },
+        {
+          "key": "C",
+          "text": "`<sup>` và `<sub>`."
+        },
+        {
+          "key": "D",
+          "text": "`<mark>` và `<del>`."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "`<sup>` viết chỉ số trên, `<sub>` viết chỉ số dưới. `<small>`/`<big>` liên quan cỡ chữ, `<b>`/`<i>` là đậm/nghiêng, còn `<mark>`/`<del>` là đánh dấu highlight/gạch xoá."
+    },
+    {
+      "id": "tinhoc12-b08-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Định dạng kiểu chữ",
+        "Bài 8"
+      ],
+      "content": "Thẻ `<small>` trong Bảng 8.1 có tác dụng gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm cỡ chữ của đoạn văn bản."
+        },
+        {
+          "key": "B",
+          "text": "In đậm đoạn văn bản."
+        },
+        {
+          "key": "C",
+          "text": "Đánh dấu đoạn bị xoá."
+        },
+        {
+          "key": "D",
+          "text": "Viết chữ nghiêng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "`<small>` là thẻ giảm cỡ chữ của đoạn văn bản. In đậm là `<b>`, đánh dấu đoạn bị xoá là `<del>`, còn chữ nghiêng là `<i>`."
+    },
+    {
+      "id": "tinhoc12-b08-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "style",
+        "Bài 8"
+      ],
+      "content": "Khi muốn thực hiện nhiều định dạng đồng thời trong thuộc tính `style`, các cặp tên:giá trị được ngăn cách bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "dấu phẩy."
+        },
+        {
+          "key": "B",
+          "text": "dấu chấm."
+        },
+        {
+          "key": "C",
+          "text": "dấu hai chấm."
+        },
+        {
+          "key": "D",
+          "text": "dấu chấm phẩy."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách hướng dẫn khi đặt nhiều định dạng trong `style`, các cặp tên:giá trị được viết ngăn cách nhau bởi dấu chấm phẩy, ví dụ `color:red;font-size:15px`. Dấu hai chấm dùng để tách tên và giá trị trong từng cặp."
+    },
+    {
+      "id": "tinhoc12-b08-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "style",
+        "Đọc mã HTML"
+      ],
+      "content": "Cho đoạn mã `<p style=\"font-size:18px;color:blue\">Xin chào</p>`. Kết quả hiển thị trên trình duyệt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toàn bộ trang web chuyển sang cỡ 18 px và màu xanh."
+        },
+        {
+          "key": "B",
+          "text": "Dòng chữ \"Xin chào\" cỡ 18 px, màu xanh, chỉ áp dụng cho đoạn chứa nó."
+        },
+        {
+          "key": "C",
+          "text": "Trình duyệt báo lỗi vì gộp hai định dạng trong một `style`."
+        },
+        {
+          "key": "D",
+          "text": "Dòng chữ \"Xin chào\" in đậm, cỡ 18 px, màu xanh."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "`style` đặt trên phần tử `<p>` nên hai định dạng chỉ áp dụng cho chính đoạn đó, không lan ra toàn trang. Nhiều cặp tên:giá trị cách nhau bởi dấu chấm phẩy là hợp lệ và không có khai báo nào tạo chữ đậm."
+    },
+    {
+      "id": "tinhoc12-b08-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Tiêu đề",
+        "Bài 8"
+      ],
+      "content": "Cho đoạn mã `<h3>Chương 1</h3>`. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đây là tiêu đề mức 3, nằm trong dải mức quan trọng giảm dần từ 1 đến 6."
+        },
+        {
+          "key": "B",
+          "text": "Đây là tiêu đề chính của văn bản vì mọi thẻ tiêu đề đều như nhau."
+        },
+        {
+          "key": "C",
+          "text": "Đây là thẻ đơn nên không có thẻ kết thúc."
+        },
+        {
+          "key": "D",
+          "text": "Thẻ `<h3>` dùng để đánh dấu đoạn văn bản bị xoá."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "`<h3>` là thẻ tiêu đề mức 3; sáu mức `<h1>` đến `<h6>` có độ quan trọng giảm dần từ 1 đến 6. `<h3>` là thẻ đôi và không dùng để đánh dấu xoá."
+    },
+    {
+      "id": "tinhoc12-b08-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Thuộc tính",
+        "Bài 8"
+      ],
+      "content": "Theo Bài 8, trong trường hợp đặc biệt nào thì thuộc tính chỉ cần viết tên mà không cần gán giá trị?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khi thuộc tính chỉ nhận giá trị là số."
+        },
+        {
+          "key": "B",
+          "text": "Với các thuộc tính màu sắc như `color`."
+        },
+        {
+          "key": "C",
+          "text": "Với các thuộc tính mang giá trị logic Có hoặc Không."
+        },
+        {
+          "key": "D",
+          "text": "Với thuộc tính `style`."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu quy tắc chung là tên_thuộc_tính=\"giá trị\", trừ các trường hợp đặc biệt mà chỉ cần tên thuộc tính để xác định giá trị Có hoặc Không. Các thuộc tính màu hay `style` đều phải có giá trị cụ thể."
+    },
+    {
+      "id": "tinhoc12-b08-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Định dạng kiểu chữ",
+        "Ngữ nghĩa"
+      ],
+      "content": "Thẻ `<i>` và thẻ `<em>` cho hiển thị giống nhau nhưng khác nhau ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<i>` tạo chỉ số dưới, `<em>` tạo chỉ số trên."
+        },
+        {
+          "key": "B",
+          "text": "`<i>` in đậm, `<em>` in nghiêng."
+        },
+        {
+          "key": "C",
+          "text": "`<em>` tăng cỡ chữ, `<i>` giảm cỡ chữ."
+        },
+        {
+          "key": "D",
+          "text": "`<em>` nhấn mạnh vào ngữ nghĩa của nội dung nên được sách khuyến khích dùng hơn."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "`<em>` và `<i>` cùng cho chữ nghiêng, nhưng `<em>` nhấn mạnh ngữ nghĩa của nội dung nên được khuyến khích sử dụng nhiều hơn. Điều này tương tự cặp `<strong>` và `<b>` cho chữ đậm."
+    },
+    {
+      "id": "tinhoc12-b08-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Khối và đoạn",
+        "Bài 8"
+      ],
+      "content": "Phần tử nào sau đây tạo một khối chứa nội dung bất kì và bắt đầu trên một dòng mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<span>`."
+        },
+        {
+          "key": "B",
+          "text": "`<div>`."
+        },
+        {
+          "key": "C",
+          "text": "`<i>`."
+        },
+        {
+          "key": "D",
+          "text": "`<mark>`."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "`<div>` là phần tử dạng khối, bắt đầu trên dòng mới và chứa nội dung bất kì. `<span>` có tác dụng tương tự nhưng ở quy mô nhỏ và nằm trên cùng dòng, còn `<i>` và `<mark>` là thẻ định dạng kiểu chữ."
+    },
+    {
+      "id": "tinhoc12-b08-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Định dạng kiểu chữ",
+        "Đọc mã HTML"
+      ],
+      "content": "Cho đoạn mã `<p>Nước H<sub>2</sub>O</p>`. Kí tự \"2\" trong công thức được hiển thị là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chữ in đậm."
+        },
+        {
+          "key": "B",
+          "text": "chỉ số trên."
+        },
+        {
+          "key": "C",
+          "text": "chỉ số dưới."
+        },
+        {
+          "key": "D",
+          "text": "chữ gạch giữa."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kí tự \"2\" nằm trong cặp `<sub>...</sub>` nên được hiển thị là chỉ số dưới, cho kết quả H₂O. Nếu muốn chỉ số trên thì phải dùng `<sup>`."
+    },
+    {
+      "id": "tinhoc12-b08-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "HTML5",
+        "style"
+      ],
+      "content": "Theo lưu ý của Bài 8, để thay thế thẻ `<u>` bị HTML5 bỏ hỗ trợ, ta đặt giá trị nào trong thuộc tính `style`?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`font-weight`."
+        },
+        {
+          "key": "B",
+          "text": "`list-style-type`."
+        },
+        {
+          "key": "C",
+          "text": "`background-color`."
+        },
+        {
+          "key": "D",
+          "text": "`text-decoration`."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thẻ `<u>` gạch chân văn bản, nên sách khuyến nghị thay bằng giá trị `text-decoration` trong thuộc tính `style`. `font-weight` liên quan độ đậm, `list-style-type` dùng cho danh sách, `background-color` là màu nền."
+    },
+    {
+      "id": "tinhoc12-b08-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Tiêu đề",
+        "Bài 8"
+      ],
+      "content": "Phát biểu nào sau đây đúng về thẻ `<h1>`?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nên dùng cho tiêu đề có mức quan trọng thấp nhất."
+        },
+        {
+          "key": "B",
+          "text": "Nên dùng cho tiêu đề chính (tiêu đề chung) của cả văn bản."
+        },
+        {
+          "key": "C",
+          "text": "Là thẻ đơn không có thẻ kết thúc."
+        },
+        {
+          "key": "D",
+          "text": "Dùng để đánh dấu đoạn văn bản được chèn thêm."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "`<h1>` là mức cao nhất nên được dùng cho tiêu đề chính hay tiêu đề chung của văn bản; các tiêu đề mức thấp hơn dùng `<h2>`, `<h3>`... `<h1>` là thẻ đôi và không dùng để đánh dấu chèn thêm."
+    },
+    {
+      "id": "tinhoc12-b08-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Thuộc tính",
+        "Bài 8"
+      ],
+      "content": "Trong một phần tử HTML, thuộc tính `style` được viết ở vị trí nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trong thẻ kết thúc của phần tử."
+        },
+        {
+          "key": "B",
+          "text": "Trên một dòng riêng ngay sau phần tử."
+        },
+        {
+          "key": "C",
+          "text": "Bên trong phần tử `<head>`."
+        },
+        {
+          "key": "D",
+          "text": "Trong thẻ bắt đầu, ngay sau tên thẻ, dưới dạng `tên_thuộc_tính=\"giá trị\"`."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mọi thuộc tính, kể cả `style`, đều nằm trong thẻ bắt đầu và viết sau tên thẻ theo cú pháp tên_thuộc_tính=\"giá trị\". Thuộc tính không đặt trong thẻ kết thúc hay trên dòng riêng."
+    },
+    {
+      "id": "tinhoc12-b08-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "style",
+        "Đọc mã HTML"
+      ],
+      "content": "Cho đoạn mã `<p style=\"color:green;font-size:20px\">Bài 8</p>`. Nội dung \"Bài 8\" được hiển thị là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chữ màu xanh lá, cỡ 20 px, chỉ áp dụng cho đoạn chứa nó."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ trang web màu xanh lá, cỡ 20 px."
+        },
+        {
+          "key": "C",
+          "text": "trình duyệt báo lỗi vì có hai định dạng trong một `style`."
+        },
+        {
+          "key": "D",
+          "text": "chữ in đậm màu xanh lá, cỡ 20 px."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "`style` chỉ tác động lên phần tử `<p>` chứa nó, nên \"Bài 8\" hiển thị màu xanh lá cỡ 20 px trong phạm vi đoạn này. Hai cặp tên:giá trị cách nhau bởi dấu chấm phẩy là hợp lệ và không có khai báo tạo chữ đậm."
+    },
+    {
+      "id": "tinhoc12-b08-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Định dạng kiểu chữ",
+        "Ngữ nghĩa"
+      ],
+      "content": "Phát biểu nào sau đây đúng khi so sánh thẻ `<b>` và thẻ `<strong>`?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<b>` tạo chỉ số trên, `<strong>` tạo chỉ số dưới."
+        },
+        {
+          "key": "B",
+          "text": "`<strong>` giảm cỡ chữ, `<b>` tăng cỡ chữ."
+        },
+        {
+          "key": "C",
+          "text": "Cả hai đều cho chữ in đậm, nhưng `<strong>` nhấn mạnh ngữ nghĩa nên được khuyến khích dùng hơn."
+        },
+        {
+          "key": "D",
+          "text": "HTML5 bỏ hỗ trợ `<b>` nên chỉ còn dùng `<strong>`."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "`<strong>` và `<b>` cùng cho chữ đậm, nhưng `<strong>` nhấn mạnh vào ngữ nghĩa của nội dung nên được sách khuyến khích dùng nhiều hơn. HTML5 vẫn hỗ trợ `<b>`; thẻ bị bỏ hỗ trợ là `<big>` và `<u>`."
+    },
+    {
+      "id": "tinhoc12-b08-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Thuộc tính",
+        "Bài 8"
+      ],
+      "content": "Theo cú pháp xác định thuộc tính, giá trị của thuộc tính được đặt trong cặp",
+      "options": [
+        {
+          "key": "A",
+          "text": "ngoặc đơn."
+        },
+        {
+          "key": "B",
+          "text": "dấu nháy kép."
+        },
+        {
+          "key": "C",
+          "text": "ngoặc vuông."
+        },
+        {
+          "key": "D",
+          "text": "thẻ `<style>...</style>`."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cú pháp là tên_thuộc_tính=\"giá trị\", tức giá trị luôn nằm trong cặp dấu nháy kép. Đây cũng là quy tắc áp dụng cho giá trị của thuộc tính `style`."
+    },
+    {
+      "id": "tinhoc12-b08-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "Định dạng kiểu chữ",
+        "Bài 8"
+      ],
+      "content": "Nhận định nào sau đây đúng về các thẻ định dạng kiểu chữ trong Bài 8?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<sup>` dùng để đánh dấu đoạn bị xoá."
+        },
+        {
+          "key": "B",
+          "text": "`<mark>` dùng để viết chỉ số dưới."
+        },
+        {
+          "key": "C",
+          "text": "`<small>` dùng để in đậm văn bản."
+        },
+        {
+          "key": "D",
+          "text": "`<sub>` dùng để viết chỉ số dưới của văn bản."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "`<sub>` viết chỉ số dưới là nhận định đúng. `<sup>` viết chỉ số trên (không phải đánh dấu xoá), `<mark>` là highlight (không phải chỉ số dưới), còn `<small>` giảm cỡ chữ (không phải in đậm)."
+    },
+    {
+      "id": "tinhoc12-b08-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "nhận định đúng sai",
+        "Định dạng kiểu chữ",
+        "Bài 8"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về các thẻ định dạng kiểu chữ trong Bảng 8.1.",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<sup>` và `<sub>` lần lượt dùng để viết chỉ số trên và chỉ số dưới."
+        },
+        {
+          "key": "B",
+          "text": "`<mark>` dùng để đánh dấu (highlight) một đoạn văn bản."
+        },
+        {
+          "key": "C",
+          "text": "`<strong>` và `<b>` hoàn toàn tương đương về ý nghĩa nên sách không khuyến khích dùng thẻ nào nhiều hơn."
+        },
+        {
+          "key": "D",
+          "text": "`<del>` đánh dấu đoạn văn bản bị xoá bằng nét gạch giữa chữ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A, B, D đúng theo Bảng 8.1. C sai vì `<strong>` và `<b>` tuy cùng cho chữ đậm nhưng `<strong>` nhấn mạnh ngữ nghĩa của nội dung nên được khuyến khích sử dụng nhiều hơn."
+    },
+    {
+      "id": "tinhoc12-b08-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "nhận định đúng sai",
+        "Khối và đoạn",
+        "Bài 8"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về phần tử khối và phần tử inline trong Bài 8.",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<div>` là một khối và bắt đầu trên dòng mới."
+        },
+        {
+          "key": "B",
+          "text": "`<span>` luôn bắt đầu một dòng mới và có quy mô lớn hơn `<div>`."
+        },
+        {
+          "key": "C",
+          "text": "Khi gặp cặp thẻ `<p>...</p>`, trình duyệt hiển thị nội dung đoạn trên dòng mới kèm khoảng trống nhỏ trước và sau đoạn."
+        },
+        {
+          "key": "D",
+          "text": "`<div>` và `<span>` là hai thẻ đơn, không có thẻ kết thúc."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A và C đúng theo Bài 8. B sai vì `<span>` hiển thị trên cùng dòng đang viết và có quy mô nhỏ hơn `<div>`. D sai vì cả `<div>` và `<span>` đều là thẻ đôi có thẻ kết thúc."
+    },
+    {
+      "id": "tinhoc12-b08-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "nhận định đúng sai",
+        "Thuộc tính",
+        "Bài 8"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về thuộc tính và định dạng trong Bài 8.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuộc tính được viết trong thẻ kết thúc của phần tử."
+        },
+        {
+          "key": "B",
+          "text": "Cú pháp xác định thuộc tính là `tên_thuộc_tính=\"giá trị\"`."
+        },
+        {
+          "key": "C",
+          "text": "Khi đặt nhiều định dạng trong `style`, các cặp tên:giá trị được ngăn cách nhau bởi dấu chấm phẩy."
+        },
+        {
+          "key": "D",
+          "text": "HTML5 không hỗ trợ thẻ `<big>` và `<u>`; có thể thay bằng giá trị `font-size` và `text-decoration` trong `style`."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "B, C, D đều đúng theo Bài 8. A sai vì thuộc tính nằm trong thẻ bắt đầu, viết sau tên thẻ, không phải trong thẻ kết thúc."
+    },
+    {
+      "id": "tinhoc12-b08-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-van-ban",
+      "tags": [
+        "nhận định đúng sai",
+        "Tiêu đề",
+        "Bài 8"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về thẻ tiêu đề trong HTML.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có sáu mức tiêu đề từ `<h1>` đến `<h6>`, độ quan trọng giảm dần từ 1 đến 6."
+        },
+        {
+          "key": "B",
+          "text": "`<h1>` nên dùng cho tiêu đề có mức quan trọng thấp nhất."
+        },
+        {
+          "key": "C",
+          "text": "`<h6>` là thẻ đơn, không có thẻ kết thúc."
+        },
+        {
+          "key": "D",
+          "text": "`<h1>` nên dùng cho tiêu đề chính (tiêu đề chung) của cả văn bản."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A và D đúng. B sai vì `<h1>` là mức cao nhất, dành cho tiêu đề chính; mức thấp nhất là `<h6>`. C sai vì `<h6>` là thẻ đôi có dạng `<h6>...</h6>`, không phải thẻ đơn."
+    }
+  ]
+}

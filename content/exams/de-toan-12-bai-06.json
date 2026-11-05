@@ -1,0 +1,679 @@
+{
+  "id": "de-toan-12-bai-06",
+  "title": "Đề ôn Toán 12 Bài 6: Vectơ trong không gian (20 câu)",
+  "slug": "de-toan-12-bai-06",
+  "description": "Đề bám sát Bài 6 sách Toán 12 Kết nối tri thức: khái niệm vectơ trong không gian, các phép toán vectơ với quy tắc ba điểm, hình bình hành, trung điểm, trọng tâm và sự đồng phẳng của ba vectơ. 20 câu trắc nghiệm bốn lựa chọn làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B06",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b06-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình bình hành $ABCD$. Vectơ nào sau đây bằng vectơ $\\overrightarrow{AB}$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{CD}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{DC}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{AD}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{CA}$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong hình bình hành $ABCD$, hai cạnh $AB$ và $DC$ song song và có cùng độ dài, hơn nữa hướng từ $A$ đến $B$ trùng hướng từ $D$ đến $C$, nên $\\overrightarrow{AB} = \\overrightarrow{DC}$. Phương án $\\overrightarrow{CD}$ sai vì ngược hướng, còn $\\overrightarrow{AD}$ và $\\overrightarrow{CA}$ là hai cạnh (đường chéo) khác của hình bình hành.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "hai vectơ bằng nhau",
+        "hình bình hành"
+      ]
+    },
+    {
+      "id": "toan12-b06-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hai điểm phân biệt $A$ và $B$. Khẳng định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai vectơ $\\overrightarrow{AB}$ và $\\overrightarrow{BA}$ không cùng phương."
+        },
+        {
+          "key": "B",
+          "text": "Giá của vectơ $\\overrightarrow{AB}$ là đoạn thẳng $AB$."
+        },
+        {
+          "key": "C",
+          "text": "Vectơ $\\overrightarrow{AB}$ có giá là đường thẳng $AB$ và có độ dài bằng $AB$."
+        },
+        {
+          "key": "D",
+          "text": "Vectơ $\\overrightarrow{AB}$ có điểm đầu là $B$ và điểm cuối là $A$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vectơ $\\overrightarrow{AB}$ có điểm đầu $A$, điểm cuối $B$, giá là đường thẳng đi qua hai điểm $A$ và $B$ và độ dài chính là độ dài đoạn thẳng $AB$. Vì vậy chỉ có khẳng định C đúng: giá là đường thẳng chứ không phải đoạn thẳng (B sai), $\\overrightarrow{AB}$ và $\\overrightarrow{BA}$ nằm trên cùng một giá nên cùng phương, chỉ ngược hướng (A sai), và D nhầm điểm đầu với điểm cuối.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "khái niệm vectơ",
+        "giá của vectơ"
+      ]
+    },
+    {
+      "id": "toan12-b06-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Với ba điểm bất kì $A$, $M$, $B$ trong không gian, đẳng thức vectơ nào sau đây luôn đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{AM} + \\overrightarrow{MB} = \\overrightarrow{AB}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{AM} + \\overrightarrow{BM} = \\overrightarrow{AB}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{MA} + \\overrightarrow{MB} = \\overrightarrow{AB}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{AM} - \\overrightarrow{MB} = \\overrightarrow{AB}$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo quy tắc ba điểm, với mọi ba điểm $A$, $M$, $B$ ta luôn có $\\overrightarrow{AM} + \\overrightarrow{MB} = \\overrightarrow{AB}$ (đi từ $A$ đến $M$ rồi từ $M$ đến $B$ cũng như đi thẳng từ $A$ đến $B$). Các phương án còn lại đều đổi hướng của một vectơ thành phần: chẳng hạn $\\overrightarrow{BM} = -\\overrightarrow{MB}$ nên $\\overrightarrow{AM} + \\overrightarrow{BM} = \\overrightarrow{AM} - \\overrightarrow{MB} \\ne \\overrightarrow{AB}$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "quy tắc ba điểm",
+        "cộng vectơ"
+      ]
+    },
+    {
+      "id": "toan12-b06-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn thẳng $AB$ có trung điểm $M$. Khẳng định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{MA} = \\overrightarrow{MB}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{MA} - \\overrightarrow{MB} = \\overrightarrow{0}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{MA} + \\overrightarrow{MB} = \\overrightarrow{AB}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{MA} + \\overrightarrow{MB} = \\overrightarrow{0}$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hai vectơ $\\overrightarrow{MA}$ và $\\overrightarrow{MB}$ có cùng độ dài nhưng ngược hướng, tức là chúng đối nhau: $\\overrightarrow{MA} = -\\overrightarrow{MB}$, do đó $\\overrightarrow{MA} + \\overrightarrow{MB} = \\overrightarrow{0}$. Phương án A và B sai vì nhầm 'cùng độ dài' với 'bằng nhau', thật ra $\\overrightarrow{MA} - \\overrightarrow{MB} = \\overrightarrow{BA} \\ne \\overrightarrow{0}$. Phương án C sai vì tổng của hai vectơ đối nhau là vectơ-không chứ không phải $\\overrightarrow{AB}$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "trung điểm",
+        "vectơ đối nhau"
+      ]
+    },
+    {
+      "id": "toan12-b06-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tam giác $ABC$ có trọng tâm $G$ và điểm $O$ bất kì trong không gian. Vectơ $\\overrightarrow{OG}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{1}{3}\\left( \\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} \\right)$."
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{1}{2}\\left( \\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} \\right)$."
+        },
+        {
+          "key": "D",
+          "text": "$- \\dfrac{1}{3}\\left( \\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} \\right)$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trọng tâm thỏa mãn $\\overrightarrow{GA} + \\overrightarrow{GB} + \\overrightarrow{GC} = \\overrightarrow{0}$. Viết $\\overrightarrow{GA} = \\overrightarrow{OA} - \\overrightarrow{OG}$ và tương tự cho $\\overrightarrow{GB}$, $\\overrightarrow{GC}$, ta được $\\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} - 3\\overrightarrow{OG} = \\overrightarrow{0}$, suy ra $\\overrightarrow{OG} = \\dfrac{1}{3}\\left( \\overrightarrow{OA} + \\overrightarrow{OB} + \\overrightarrow{OC} \\right)$. Phương án A quên hệ số $\\dfrac{1}{3}$, C nhầm hệ số của quy tắc trung điểm, D nhầm dấu.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "trọng tâm",
+        "nhân vectơ với một số"
+      ]
+    },
+    {
+      "id": "toan12-b06-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$. Vectơ nào sau đây không cùng phương với vectơ $\\overrightarrow{AB}$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{A'B'}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{DC}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{AA'}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{D'C'}$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong hình hộp, các cạnh $AB$, $A'B'$, $DC$, $D'C'$ đôi một song song nên giá của bốn vectơ $\\overrightarrow{AB}$, $\\overrightarrow{A'B'}$, $\\overrightarrow{DC}$, $\\overrightarrow{D'C'}$ là các đường thẳng song song, do đó cùng phương với $\\overrightarrow{AB}$. Còn $\\overrightarrow{AA'}$ có giá là cạnh bên $AA'$, là đường thẳng không song song với $AB$, nên không cùng phương với $\\overrightarrow{AB}$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "hai vectơ cùng phương",
+        "hình hộp"
+      ]
+    },
+    {
+      "id": "toan12-b06-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bốn điểm $A$, $B$, $C$, $D$ với $A \\ne B$ và $C \\ne D$. Hai vectơ $\\overrightarrow{AB}$ và $\\overrightarrow{CD}$ cùng phương khi và chỉ khi",
+      "options": [
+        {
+          "key": "A",
+          "text": "hai đường thẳng $AB$ và $CD$ song song với nhau hoặc trùng nhau."
+        },
+        {
+          "key": "B",
+          "text": "bốn điểm $A$, $B$, $C$, $D$ cùng thuộc một mặt phẳng."
+        },
+        {
+          "key": "C",
+          "text": "$AB = CD$."
+        },
+        {
+          "key": "D",
+          "text": "hai đường thẳng $AB$ và $CD$ cắt nhau."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giá của $\\overrightarrow{AB}$ là đường thẳng $AB$, giá của $\\overrightarrow{CD}$ là đường thẳng $CD$; hai vectơ cùng phương nghĩa là hai giá của chúng song song hoặc trùng nhau, nên A đúng. B và D là các lỗi điển hình: bốn điểm đồng phẳng hoặc hai đường thẳng cắt nhau vẫn cho hai vectơ khác phương. C chỉ nói độ dài, còn phương là yếu tố về hướng của giá, không liên quan tới độ dài.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "hai vectơ cùng phương",
+        "giá của vectơ"
+      ]
+    },
+    {
+      "id": "toan12-b06-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Rút gọn biểu thức $\\overrightarrow{AB} - \\overrightarrow{AC}$ ta được vectơ nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{BC}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{CA}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{BA}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{CB}$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo quy tắc hiệu với hai vectơ có chung điểm đầu: $\\overrightarrow{AB} - \\overrightarrow{AC} = \\overrightarrow{CB}$ (thử lại: $\\overrightarrow{AC} + \\overrightarrow{CB} = \\overrightarrow{AB}$). Phương án A là lỗi quen thuộc do quên đảo hướng khi lấy hiệu; B và C là nhầm thứ tự điểm cuối trong quy tắc ba điểm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "quy tắc hiệu",
+        "trừ vectơ"
+      ]
+    },
+    {
+      "id": "toan12-b06-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tứ diện $ABCD$ có $G$ là trọng tâm của tam giác $BCD$. Tổng $\\overrightarrow{AB} + \\overrightarrow{AC} + \\overrightarrow{AD}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{AG}$."
+        },
+        {
+          "key": "B",
+          "text": "$3\\overrightarrow{AG}$."
+        },
+        {
+          "key": "C",
+          "text": "$2\\overrightarrow{AG}$."
+        },
+        {
+          "key": "D",
+          "text": "$3\\overrightarrow{GA}$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ghép $\\overrightarrow{AG}$ vào mỗi vectơ: $\\overrightarrow{AB} = \\overrightarrow{AG} + \\overrightarrow{GB}$, $\\overrightarrow{AC} = \\overrightarrow{AG} + \\overrightarrow{GC}$, $\\overrightarrow{AD} = \\overrightarrow{AG} + \\overrightarrow{GD}$. Cộng lại được $3\\overrightarrow{AG} + \\left( \\overrightarrow{GB} + \\overrightarrow{GC} + \\overrightarrow{GD} \\right)$, mà $G$ là trọng tâm tam giác $BCD$ nên ngoặc đơn bằng $\\overrightarrow{0}$. Vậy tổng bằng $3\\overrightarrow{AG}$; phương án D sai vì đổi hướng vectơ, A và C sai hệ số.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "trọng tâm",
+        "quy tắc ba điểm"
+      ]
+    },
+    {
+      "id": "toan12-b06-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình hộp $ABCD.A'B'C'D'$. Tổng $\\overrightarrow{AB} + \\overrightarrow{AD} + \\overrightarrow{AA'}$ bằng vectơ nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{A'C}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{C'A}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{AC'}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{C'A'}$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Áp dụng quy tắc hình bình hành cho đáy $ABCD$: $\\overrightarrow{AB} + \\overrightarrow{AD} = \\overrightarrow{AC}$. Vì $\\overrightarrow{AA'} = \\overrightarrow{CC'}$ nên $\\overrightarrow{AC} + \\overrightarrow{AA'} = \\overrightarrow{AC} + \\overrightarrow{CC'} = \\overrightarrow{AC'}$ (quy tắc ba điểm). Đây chính là quy tắc hình hộp: tổng ba vectơ xuất phát từ một đỉnh bằng vectơ đường chéo xuất phát từ đỉnh đó. Các phương án A, B, D chỉ cùng giá nhưng sai hướng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "quy tắc hình hộp",
+        "cộng vectơ"
+      ]
+    },
+    {
+      "id": "toan12-b06-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tứ diện $ABCD$ (bốn đỉnh không đồng phẳng). Bộ ba vectơ nào sau đây không đồng phẳng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\overrightarrow{AB}$, $\\overrightarrow{AC}$, $\\overrightarrow{AD}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\overrightarrow{AB}$, $\\overrightarrow{AC}$, $\\overrightarrow{BC}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{AB}$, $\\overrightarrow{AD}$, $\\overrightarrow{BD}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{AC}$, $\\overrightarrow{AD}$, $\\overrightarrow{CD}$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Các bộ ở B, C, D gồm những vectơ có giá nằm trên ba cạnh của cùng một mặt tam giác ($ABC$, $ABD$, $ACD$), nên đưa chúng về chung một điểm đầu thì ba giá đều nằm trong một mặt phẳng, tức là đồng phẳng. Bộ $\\overrightarrow{AB}$, $\\overrightarrow{AC}$, $\\overrightarrow{AD}$ có chung điểm đầu $A$ và ba điểm $B$, $C$, $D$ không thẳng hàng; nếu ba vectơ này đồng phẳng thì $A$, $B$, $C$, $D$ cùng thuộc một mặt phẳng, trái với giả thiết $ABCD$ là tứ diện.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "sự đồng phẳng",
+        "tứ diện"
+      ]
+    },
+    {
+      "id": "toan12-b06-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tứ diện $ABCD$. Đặt $\\overrightarrow{AB} = \\vec a$, $\\overrightarrow{AC} = \\vec b$, $\\overrightarrow{AD} = \\vec c$. Gọi $M$ là trung điểm của cạnh $CD$. Vectơ $\\overrightarrow{AM}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{1}{2}\\left( \\vec a + \\vec b \\right)$."
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{1}{2}\\left( \\vec b - \\vec c \\right)$."
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{1}{2}\\left( \\vec a + \\vec c \\right)$."
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{1}{2}\\left( \\vec b + \\vec c \\right)$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Vì $M$ là trung điểm của $CD$ nên với mọi điểm $A$ ta có $\\overrightarrow{AM} = \\dfrac{1}{2}\\left( \\overrightarrow{AC} + \\overrightarrow{AD} \\right) = \\dfrac{1}{2}\\left( \\vec b + \\vec c \\right)$. Phương án A và C nhầm cặp cạnh: chúng lần lượt là vectơ tới trung điểm của $BC$ và của $BD$. Phương án B là lỗi dùng hiệu thay vì tổng (thực chất $\\dfrac{1}{2}(\\vec b - \\vec c) = \\dfrac{1}{2}\\overrightarrow{CD}$).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "biểu diễn vectơ",
+        "trung điểm"
+      ]
+    },
+    {
+      "id": "toan12-b06-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tứ diện $ABCD$. Đặt $\\overrightarrow{AB} = \\vec a$, $\\overrightarrow{AC} = \\vec b$, $\\overrightarrow{AD} = \\vec c$. Gọi $I$, $J$ lần lượt là trung điểm của $AB$ và $CD$. Vectơ $\\overrightarrow{IJ}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{1}{2}\\left( - \\vec a + \\vec b + \\vec c \\right)$."
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{1}{2}\\left( \\vec a - \\vec b + \\vec c \\right)$."
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{1}{2}\\left( \\vec a + \\vec b - \\vec c \\right)$."
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{1}{2}\\left( \\vec a + \\vec b + \\vec c \\right)$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đi theo đường $I \\to A \\to C \\to J$: $\\overrightarrow{IJ} = \\overrightarrow{IA} + \\overrightarrow{AC} + \\overrightarrow{CJ} = -\\dfrac{1}{2}\\vec a + \\vec b + \\dfrac{1}{2}\\overrightarrow{CD}$, mà $\\overrightarrow{CD} = \\vec c - \\vec b$, do đó $\\overrightarrow{IJ} = -\\dfrac{1}{2}\\vec a + \\vec b + \\dfrac{1}{2}(\\vec c - \\vec b) = \\dfrac{1}{2}(- \\vec a + \\vec b + \\vec c)$. Kiểm tra lại bằng đường $I \\to B \\to D \\to J$ cũng cho cùng kết quả. Các phương án B, C, D là lỗi giữ nguyên dấu $\\vec a$ (quên $\\overrightarrow{IA}$ ngược hướng $\\overrightarrow{AB}$) hoặc nhầm dấu khi khai triển $\\overrightarrow{CD}$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "biểu diễn vectơ",
+        "tứ diện"
+      ]
+    },
+    {
+      "id": "toan12-b06-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình chóp tứ giác $S.ABCD$ có đáy $ABCD$ là hình bình hành tâm $O$. Tổng $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$2\\overrightarrow{SO}$."
+        },
+        {
+          "key": "B",
+          "text": "$4\\overrightarrow{SO}$."
+        },
+        {
+          "key": "C",
+          "text": "$4\\overrightarrow{OS}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\overrightarrow{SO}$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tâm $O$ của hình bình hành là trung điểm của cả $AC$ và $BD$. Áp dụng quy tắc trung điểm với điểm $S$: $\\overrightarrow{SA} + \\overrightarrow{SC} = 2\\overrightarrow{SO}$ và $\\overrightarrow{SB} + \\overrightarrow{SD} = 2\\overrightarrow{SO}$. Cộng hai đẳng thức được $\\overrightarrow{SA} + \\overrightarrow{SB} + \\overrightarrow{SC} + \\overrightarrow{SD} = 4\\overrightarrow{SO}$. Phương án A chỉ cộng một cặp, C sai hướng, D sai hệ số.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "hình chóp",
+        "quy tắc trung điểm"
+      ]
+    },
+    {
+      "id": "toan12-b06-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hình chóp $S.ABCD$ có đáy $ABCD$ là hình bình hành. Đặt $\\overrightarrow{SA} = \\vec a$, $\\overrightarrow{SB} = \\vec b$, $\\overrightarrow{SC} = \\vec c$. Vectơ $\\overrightarrow{SD}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\vec a + \\vec b + \\vec c$."
+        },
+        {
+          "key": "B",
+          "text": "$\\vec a + \\vec b - \\vec c$."
+        },
+        {
+          "key": "C",
+          "text": "$\\vec a - \\vec b + \\vec c$."
+        },
+        {
+          "key": "D",
+          "text": "$- \\vec a + \\vec b + \\vec c$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong hình bình hành $ABCD$ ta có $\\overrightarrow{AD} = \\overrightarrow{BC}$. Mà $\\overrightarrow{BC} = \\overrightarrow{SC} - \\overrightarrow{SB} = \\vec c - \\vec b$. Vậy $\\overrightarrow{SD} = \\overrightarrow{SA} + \\overrightarrow{AD} = \\vec a + \\vec c - \\vec b = \\vec a - \\vec b + \\vec c$. Phương án B là lỗi lấy $\\vec b - \\vec c$ (nhầm hướng của $\\overrightarrow{BC}$), A và D là lỗi coi $D$ đối xứng với $B$ hay nhầm cặp cạnh $\\overrightarrow{AB} = \\overrightarrow{DC}$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "hình bình hành",
+        "biểu diễn vectơ"
+      ]
+    },
+    {
+      "id": "toan12-b06-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tứ diện $ABCD$. Đặt $\\overrightarrow{AB} = \\vec a$, $\\overrightarrow{AC} = \\vec b$, $\\overrightarrow{AD} = \\vec c$. Điểm $K$ nằm trên cạnh $CD$ sao cho $KC = 2KD$. Vectơ $\\overrightarrow{AK}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{1}{2}\\vec b + \\dfrac{1}{2}\\vec c$."
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{2}{3}\\vec b + \\dfrac{1}{3}\\vec c$."
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{2}{3}\\vec b - \\dfrac{1}{3}\\vec c$."
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{1}{3}\\vec b + \\dfrac{2}{3}\\vec c$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Từ $KC = 2KD$ và $K$ nằm giữa $C$, $D$ ta có $KD = \\dfrac{1}{3}CD$, tức $\\overrightarrow{CK} = \\dfrac{2}{3}\\overrightarrow{CD} = \\dfrac{2}{3}(\\vec c - \\vec b)$. Do đó $\\overrightarrow{AK} = \\vec b + \\dfrac{2}{3}(\\vec c - \\vec b) = \\dfrac{1}{3}\\vec b + \\dfrac{2}{3}\\vec c$. Nhận xét: hệ số đi kèm $\\vec c$ lớn hơn vì $K$ gần $D$. Phương án A là lỗi coi $K$ là trung điểm của $CD$, B là lỗi đảo vị trí hai hệ số $\\dfrac{2}{3}$ và $\\dfrac{1}{3}$, C là lỗi dùng hiệu $\\vec b - \\vec c$ thay vì tổng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "tỉ số trên cạnh",
+        "biểu diễn vectơ"
+      ]
+    },
+    {
+      "id": "toan12-b06-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tứ diện $ABCD$. Gọi $M$, $N$ lần lượt là các điểm trên cạnh $AB$, $AC$ sao cho $MB = 2MA$ và $NC = 2NA$. Khẳng định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ba vectơ $\\overrightarrow{MN}$, $\\overrightarrow{BC}$, $\\overrightarrow{AD}$ đồng phẳng vì $\\overrightarrow{MN} = \\dfrac{1}{3}\\overrightarrow{BC}$."
+        },
+        {
+          "key": "B",
+          "text": "Ba vectơ $\\overrightarrow{MN}$, $\\overrightarrow{BC}$, $\\overrightarrow{AD}$ không đồng phẳng vì $D$ nằm ngoài mặt phẳng $(ABC)$."
+        },
+        {
+          "key": "C",
+          "text": "$\\overrightarrow{MN} = \\dfrac{1}{3}\\overrightarrow{CB}$ nên ba vectơ $\\overrightarrow{MN}$, $\\overrightarrow{BC}$, $\\overrightarrow{AD}$ không đồng phẳng."
+        },
+        {
+          "key": "D",
+          "text": "Ba vectơ $\\overrightarrow{MN}$, $\\overrightarrow{BC}$, $\\overrightarrow{AD}$ đồng phẳng vì $\\overrightarrow{MN} = \\dfrac{2}{3}\\overrightarrow{BC}$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Từ $MB = 2MA$ suy ra $\\overrightarrow{AM} = \\dfrac{1}{3}\\overrightarrow{AB}$, từ $NC = 2NA$ suy ra $\\overrightarrow{AN} = \\dfrac{1}{3}\\overrightarrow{AC}$. Vì vậy $\\overrightarrow{MN} = \\overrightarrow{AN} - \\overrightarrow{AM} = \\dfrac{1}{3}\\left( \\overrightarrow{AC} - \\overrightarrow{AB} \\right) = \\dfrac{1}{3}\\overrightarrow{BC}$. Khi đó $\\overrightarrow{MN}$ cùng phương với $\\overrightarrow{BC}$; đưa ba vectơ về cùng điểm đầu $A$, hai vectơ $\\overrightarrow{BC}$ và $\\overrightarrow{AD}$ xác định một mặt phẳng và vectơ $\\overrightarrow{MN}$ nằm trong mặt phẳng ấy, nên ba vectơ đồng phẳng. B và C hiểu sai định nghĩa (đồng phẳng không đòi hỏi giá của $\\overrightarrow{AD}$ đi qua $M, N$), D sai hệ số.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "sự đồng phẳng",
+        "tỉ số trên cạnh"
+      ]
+    },
+    {
+      "id": "toan12-b06-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tứ diện $ABCD$. Gọi $G_1$ là trọng tâm của tam giác $BCD$ và $G_2$ là trọng tâm của tam giác $ACD$. Vectơ $\\overrightarrow{G_1G_2}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{1}{3}\\overrightarrow{AB}$."
+        },
+        {
+          "key": "B",
+          "text": "$- \\dfrac{1}{3}\\overrightarrow{AB}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{2}{3}\\overrightarrow{AB}$."
+        },
+        {
+          "key": "D",
+          "text": "$- \\dfrac{1}{2}\\overrightarrow{AB}$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lấy điểm $C$ làm gốc, ta có $\\overrightarrow{CG_1} = \\dfrac{1}{3}\\left( \\overrightarrow{CB} + \\overrightarrow{CD} \\right)$ và $\\overrightarrow{CG_2} = \\dfrac{1}{3}\\left( \\overrightarrow{CA} + \\overrightarrow{CD} \\right)$. Trừ đi: $\\overrightarrow{G_1G_2} = \\overrightarrow{CG_2} - \\overrightarrow{CG_1} = \\dfrac{1}{3}\\left( \\overrightarrow{CA} - \\overrightarrow{CB} \\right) = \\dfrac{1}{3}\\overrightarrow{BA} = -\\dfrac{1}{3}\\overrightarrow{AB}$. Hệ số $\\dfrac{1}{3}$ đến từ công thức trọng tâm, dấu trừ đến từ việc $G_1$ thuộc tam giác $BCD$ còn $G_2$ thuộc tam giác $ACD$: $G_1G_2$ song song với $AB$ và ngược hướng. Hai vectơ này cùng phương nên bộ ba $\\overrightarrow{G_1G_2}$, $\\overrightarrow{AB}$, $\\overrightarrow{CD}$ đồng phẳng.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "trọng tâm",
+        "hai vectơ cùng phương"
+      ]
+    },
+    {
+      "id": "toan12-b06-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tứ diện $ABCD$. Điểm $M$ nằm trên cạnh $AB$ sao cho $MA = 2MB$, điểm $N$ nằm trên cạnh $CD$ sao cho $NC = 2ND$ và $I$ là trung điểm của đoạn $MN$. Vectơ $\\overrightarrow{DI}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{1}{3}\\overrightarrow{DA} + \\dfrac{1}{6}\\overrightarrow{DB} + \\dfrac{1}{3}\\overrightarrow{DC}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{1}{6}\\left( \\overrightarrow{DA} + \\overrightarrow{DB} + \\overrightarrow{DC} \\right)$."
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{1}{6}\\overrightarrow{DA} + \\dfrac{1}{3}\\overrightarrow{DB} + \\dfrac{1}{6}\\overrightarrow{DC}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{1}{3}\\overrightarrow{DA} + \\dfrac{2}{3}\\overrightarrow{DB} + \\dfrac{1}{6}\\overrightarrow{DC}$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vì $MA = 2MB$ nên $\\overrightarrow{AM} = \\dfrac{2}{3}\\overrightarrow{AB}$, suy ra $\\overrightarrow{DM} = \\dfrac{1}{3}\\overrightarrow{DA} + \\dfrac{2}{3}\\overrightarrow{DB}$. Vì $NC = 2ND$ nên $\\overrightarrow{DN} = \\dfrac{1}{3}\\overrightarrow{DC}$. Trung điểm $I$ của $MN$ cho $\\overrightarrow{DI} = \\dfrac{1}{2}\\left( \\overrightarrow{DM} + \\overrightarrow{DN} \\right) = \\dfrac{1}{6}\\overrightarrow{DA} + \\dfrac{1}{3}\\overrightarrow{DB} + \\dfrac{1}{6}\\overrightarrow{DC}$. Phương án A là lỗi đảo chiều chia đoạn (coi $MB = 2MA$ và $ND = 2NC$), B là lỗi chia đều ba hệ số, D là lỗi quên nhân hệ số $\\dfrac{1}{2}$ với $\\overrightarrow{DM}$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "biểu diễn vectơ",
+        "tứ diện"
+      ]
+    },
+    {
+      "id": "toan12-b06-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b06-vecto-trong-khong-gian",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho tứ diện $ABCD$. Điểm $M$ thỏa mãn $\\overrightarrow{MA} + 2\\overrightarrow{MB} + 3\\overrightarrow{MC} + 4\\overrightarrow{MD} = \\overrightarrow{0}$. Vectơ $\\overrightarrow{AM}$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{1}{4}\\overrightarrow{AB} + \\dfrac{1}{4}\\overrightarrow{AC} + \\dfrac{1}{4}\\overrightarrow{AD}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{2}{5}\\overrightarrow{AB} + \\dfrac{3}{10}\\overrightarrow{AC} + \\dfrac{1}{5}\\overrightarrow{AD}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{2}{5}\\overrightarrow{AB} + \\dfrac{3}{5}\\overrightarrow{AC} + \\dfrac{4}{5}\\overrightarrow{AD}$."
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{1}{5}\\overrightarrow{AB} + \\dfrac{3}{10}\\overrightarrow{AC} + \\dfrac{2}{5}\\overrightarrow{AD}$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chuyển gốc về $A$: $\\overrightarrow{MA} = -\\overrightarrow{AM}$, $\\overrightarrow{MB} = \\overrightarrow{AB} - \\overrightarrow{AM}$, $\\overrightarrow{MC} = \\overrightarrow{AC} - \\overrightarrow{AM}$, $\\overrightarrow{MD} = \\overrightarrow{AD} - \\overrightarrow{AM}$. Thay vào giả thiết được $2\\overrightarrow{AB} + 3\\overrightarrow{AC} + 4\\overrightarrow{AD} - 10\\overrightarrow{AM} = \\overrightarrow{0}$ (vì $1 + 2 + 3 + 4 = 10$), nên $\\overrightarrow{AM} = \\dfrac{1}{5}\\overrightarrow{AB} + \\dfrac{3}{10}\\overrightarrow{AC} + \\dfrac{2}{5}\\overrightarrow{AD}$. Tổng các hệ số bằng $\\dfrac{9}{10} \\ne 1$, chứng tỏ $M$ không nằm trong mặt phẳng $(BCD)$. Phương án A là lỗi chia đều cho bốn đỉnh mà quên các hệ số $1, 2, 3, 4$; B là lỗi đảo vị trí hai hệ số $\\dfrac{2}{10}$ và $\\dfrac{4}{10}$; C là lỗi chỉ chia cho $5$ thay vì chia cho tổng $10$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "điểm thỏa hệ thức vectơ",
+        "biểu diễn vectơ"
+      ]
+    }
+  ]
+}

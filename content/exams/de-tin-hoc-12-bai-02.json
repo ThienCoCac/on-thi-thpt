@@ -1,0 +1,929 @@
+{
+  "id": "de-tin-hoc-12-bai-02",
+  "title": "Đề ôn tập Tin học 12 – Bài 2: Trí tuệ nhân tạo trong khoa học và đời sống",
+  "slug": "de-tin-hoc-12-bai-02",
+  "description": "Đề ôn Bài 2 Trí tuệ nhân tạo trong khoa học và đời sống của sách giáo khoa Tin học 12 định hướng Tin học ứng dụng, gồm hệ chuyên gia, ứng dụng AI theo từng lĩnh vực, AI tạo sinh và những cảnh báo về AI. Đề có 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, làm trong 45 phút. Mỗi câu đều có lời giải dẫn lại đúng nội dung sách.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B02",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "updatedAt": "2026-11-05T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b02-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "hệ chuyên gia",
+        "Bài 2"
+      ],
+      "content": "Theo sách giáo khoa, hệ chuyên gia là loại chương trình máy tính như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "chương trình mô phỏng khả năng ra quyết định của một hoặc nhiều chuyên gia trong một lĩnh vực cụ thể."
+        },
+        {
+          "key": "B",
+          "text": "chương trình tự động thu thập dữ liệu từ cảm biến để điều khiển robot thực hiện các thao tác lặp lại."
+        },
+        {
+          "key": "C",
+          "text": "chương trình dịch văn bản từ ngôn ngữ này sang ngôn ngữ khác dựa trên kho dữ liệu song ngữ."
+        },
+        {
+          "key": "D",
+          "text": "chương trình tạo ra hình ảnh, âm thanh mới dựa trên các mẫu học được từ dữ liệu huấn luyện."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách giáo khoa định nghĩa hệ chuyên gia là chương trình máy tính mô phỏng khả năng ra quyết định của một hoặc nhiều chuyên gia trong một lĩnh vực cụ thể. Phương án B là mô tả hệ thống tự động hoá có cảm biến, C là máy dịch, D là trí tuệ nhân tạo tạo sinh; không phương án nào mô phỏng việc ra quyết định của chuyên gia."    },
+    {
+      "id": "tinhoc12-b02-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "hệ chuyên gia",
+        "thuật ngữ AI"
+      ],
+      "content": "Trong Bài 2, hệ chuyên gia còn được sách giáo khoa gọi bằng tên nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "hệ thống học sâu."
+        },
+        {
+          "key": "B",
+          "text": "hệ thống thông tin quản lí."
+        },
+        {
+          "key": "C",
+          "text": "hệ thống dựa trên tri thức."
+        },
+        {
+          "key": "D",
+          "text": "mô hình ngôn ngữ lớn."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu hệ chuyên gia còn được gọi là hệ thống dựa trên tri thức, vì hoạt động của nó dựa trên tri thức và các luật suy diễn của chuyên gia trong lĩnh vực đang xét. Học sâu, hệ thống thông tin quản lí và mô hình ngôn ngữ lớn là những thuật ngữ chỉ đối tượng khác."    },
+    {
+      "id": "tinhoc12-b02-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "hệ chuyên gia",
+        "Học máy"
+      ],
+      "content": "So với thiết kế ban đầu, Bài 2 cho biết điểm mới của nhiều hệ chuyên gia hiện nay là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ còn hoạt động được khi có kết nối Internet ổn định."
+        },
+        {
+          "key": "B",
+          "text": "Đã có khả năng tự học từ dữ liệu để tự hình thành các luật và tri thức."
+        },
+        {
+          "key": "C",
+          "text": "Đã bỏ hẳn các luật suy diễn, chỉ còn dùng dữ liệu lấy từ cảm biến."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ còn được xây dựng cho một lĩnh vực duy nhất là y học."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ban đầu hệ chuyên gia được thiết kế dựa trên các luật suy diễn và tri thức của chuyên gia; với sự phát triển của AI, đặc biệt là Học máy, nhiều hệ chuyên gia đã có khả năng tự học từ dữ liệu để tự hình thành các luật và tri thức. Phương án C và A là những phát biểu sách không nêu, D thu hẹp sai phạm vi ứng dụng của hệ chuyên gia."    },
+    {
+      "id": "tinhoc12-b02-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ứng dụng AI",
+        "y học"
+      ],
+      "content": "Phần mềm nào được sách giáo khoa nêu là đã góp phần nâng cao hiệu quả điều trị ung thư?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bixby."
+        },
+        {
+          "key": "B",
+          "text": "Google dịch."
+        },
+        {
+          "key": "C",
+          "text": "Cortana."
+        },
+        {
+          "key": "D",
+          "text": "IBM Watson for Oncology."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách khẳng định các chuyên gia y tế đánh giá phần mềm IBM Watson for Oncology đã góp phần nâng cao hiệu quả điều trị ung thư. Ba phương án còn lại là trợ lí ảo hoặc dịch vụ dịch thuật, không phải phần mềm hỗ trợ điều trị ung thư."    },
+    {
+      "id": "tinhoc12-b02-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ứng dụng AI",
+        "chẩn đoán hình ảnh"
+      ],
+      "content": "Theo Bài 2, trong lĩnh vực y tế AI được dùng để làm gì với hình ảnh và số liệu của người bệnh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cải thiện chất lượng hình ảnh y tế, làm nổi bật các cấu trúc bất thường và đo đạc các chỉ số lâm sàng."
+        },
+        {
+          "key": "B",
+          "text": "Xoá bỏ hoàn toàn nhu cầu chụp chiếu trong chẩn đoán bệnh."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ lưu trữ ảnh chụp trên máy chủ mà không phân tích nội dung."
+        },
+        {
+          "key": "D",
+          "text": "Thay thế bác sĩ trong mọi ca phẫu thuật."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 2 nêu AI được dùng để cải thiện chất lượng hình ảnh y tế, làm nổi bật các cấu trúc bất thường và đo đạc các chỉ số lâm sàng. Phương án B và D là những khẳng định quá mức mà sách không nói tới; C phủ nhận khả năng phân tích của AI."    },
+    {
+      "id": "tinhoc12-b02-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ứng dụng AI",
+        "giao thông vận tải"
+      ],
+      "content": "Nhận định nào sau đây nêu đúng ứng dụng AI trong giao thông vận tải theo Bài 2?",
+      "options": [
+        {
+          "key": "A",
+          "text": "AI chỉ được dùng để tính phí cầu đường tự động."
+        },
+        {
+          "key": "B",
+          "text": "AI được dùng để phát triển các phương tiện tự lái, quản lí giao thông thông minh và định tuyến phương tiện vận tải."
+        },
+        {
+          "key": "C",
+          "text": "AI thay thế hoàn toàn hệ thống đèn tín hiệu giao thông."
+        },
+        {
+          "key": "D",
+          "text": "AI chỉ phục vụ việc bán vé trực tuyến."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 2 nêu ba hướng ứng dụng AI trong giao thông vận tải: phát triển phương tiện tự lái, quản lí giao thông thông minh và định tuyến phương tiện vận tải. Các phương án A, C, D đều thu hẹp hoặc thêm nội dung mà sách không đề cập."    },
+    {
+      "id": "tinhoc12-b02-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ứng dụng AI",
+        "phương tiện tự lái"
+      ],
+      "content": "Theo sách giáo khoa, sự phát triển của ô tô tự lái và máy bay không người lái gắn với điều kiện nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ cần phần cứng cảm biến đủ tốt, không cần đến AI."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ thực hiện được trong lĩnh vực giải trí."
+        },
+        {
+          "key": "C",
+          "text": "Sẽ không thể có được nếu không có AI."
+        },
+        {
+          "key": "D",
+          "text": "Không liên quan gì đến AI."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 2 khẳng định sự phát triển của ô tô tự lái và máy bay không người lái không thể có được nếu không có AI, vì các phương tiện này phải nhận biết môi trường và ra quyết định trong tình huống thực tế. Phương án A, B, D đều trái với khẳng định của sách."    },
+    {
+      "id": "tinhoc12-b02-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ứng dụng AI",
+        "tài chính ngân hàng"
+      ],
+      "content": "Trong tài chính và ngân hàng, Bài 2 mô tả lợi ích của AI như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không chỉ hỗ trợ tự động hoá cập nhật chứng từ, hoá đơn vào cơ sở dữ liệu mà còn giúp phân tích, xử lí dữ liệu để hỗ trợ quyết định đầu tư, phát hiện và ngăn chặn gian lận, nâng cao trải nghiệm khách hàng."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ giới hạn ở việc tự động hoá cập nhật chứng từ, hoá đơn vào cơ sở dữ liệu."
+        },
+        {
+          "key": "C",
+          "text": "Thay thế hoàn toàn nhân viên ngân hàng trong mọi giao dịch với khách hàng."
+        },
+        {
+          "key": "D",
+          "text": "Được dùng chủ yếu để thiết kế trò chơi mô phỏng hoạt động của thị trường tài chính."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nhấn mạnh AI không chỉ hỗ trợ tự động hoá cập nhật chứng từ, hoá đơn vào cơ sở dữ liệu mà còn giúp phân tích, xử lí dữ liệu hiệu quả để hỗ trợ quyết định đầu tư, phát hiện và ngăn chặn gian lận, nâng cao trải nghiệm khách hàng. Phương án B sai vì bỏ nửa sau quan trọng; C và D là nội dung sách không nêu."    },
+    {
+      "id": "tinhoc12-b02-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ứng dụng AI",
+        "sản xuất công nghiệp"
+      ],
+      "content": "Theo Bài 2, trong công nghiệp AI giúp con người những việc nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ kiểm tra chất lượng sản phẩm ở công đoạn cuối của dây chuyền."
+        },
+        {
+          "key": "B",
+          "text": "Thay thế hoàn toàn con người trong việc quyết định giá bán sản phẩm."
+        },
+        {
+          "key": "C",
+          "text": "Chủ yếu thiết kế mẫu mã sản phẩm mới cho công nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "Giúp tự động hoá nhiều quá trình từ chế tạo, lắp ráp, kiểm tra chất lượng đến quản lí chuỗi cung ứng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 2 liệt kê chuỗi quá trình mà AI giúp tự động hoá trong công nghiệp: chế tạo, lắp ráp, kiểm tra chất lượng và quản lí chuỗi cung ứng. Phương án A thu hẹp sai phạm vi; B và C là những khẳng định sách không đề cập."    },
+    {
+      "id": "tinhoc12-b02-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ứng dụng AI",
+        "nông nghiệp"
+      ],
+      "content": "Ở các trang trại thông minh, Bài 2 cho biết AI được dùng để theo dõi những yếu tố nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhân sự của các công ti cung cấp thiết bị văn phòng."
+        },
+        {
+          "key": "B",
+          "text": "Điều kiện thời tiết, đất đai và sức đề kháng với dịch bệnh của vật nuôi, cây trồng."
+        },
+        {
+          "key": "C",
+          "text": "Biến động giá cổ phiếu của ngành nông nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ lượng nước tưới, không theo dõi các yếu tố khác."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 2 nêu trong nông nghiệp AI được sử dụng ở các trang trại thông minh để theo dõi những yếu tố ảnh hưởng trực tiếp tới hiệu quả nuôi trồng như điều kiện thời tiết, đất đai và sức đề kháng với dịch bệnh của vật nuôi, cây trồng. Phương án A và C là dữ kiện không liên quan; D thu hẹp quá mức danh sách yếu tố mà sách liệt kê."    },
+    {
+      "id": "tinhoc12-b02-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ứng dụng AI",
+        "giáo dục"
+      ],
+      "content": "Ứng dụng nổi bật của AI trong giáo dục được nêu ở Bài 2 là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thay thế giáo viên trong việc đánh giá kết quả học tập của học sinh."
+        },
+        {
+          "key": "B",
+          "text": "Hạn chế người học truy cập các nguồn tài liệu trên Internet."
+        },
+        {
+          "key": "C",
+          "text": "Phát triển các nền tảng học tập được cá nhân hoá và hỗ trợ đánh giá kết quả học tập."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ được dùng để điểm danh và quản lí hồ sơ của người học."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu AI được sử dụng để phát triển các nền tảng học tập được cá nhân hoá và hỗ trợ đánh giá kết quả học tập. Phương án A sai vì sách chỉ nói AI hỗ trợ, không nói thay thế giáo viên; B và D không phải nội dung của bài."    },
+    {
+      "id": "tinhoc12-b02-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ứng dụng AI",
+        "trợ lí học tập ảo"
+      ],
+      "content": "Theo Bài 2, các trợ lí học tập ảo dựa trên AI hỗ trợ học sinh và giáo viên bằng cách nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trả lời câu hỏi, cung cấp hướng dẫn và tài liệu học tập."
+        },
+        {
+          "key": "B",
+          "text": "Làm bài kiểm tra thay cho người học."
+        },
+        {
+          "key": "C",
+          "text": "Tắt kết nối Internet của lớp học."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ gửi thông báo lịch thi cho lớp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 2 nêu các trợ lí học tập ảo dựa trên AI hỗ trợ học sinh và giáo viên bằng cách trả lời câu hỏi, cung cấp hướng dẫn và tài liệu học tập. Phương án B trái với mục đích hỗ trợ học tập; C và D là nội dung sách không đề cập."    },
+    {
+      "id": "tinhoc12-b02-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "AI tạo sinh",
+        "Generative AI"
+      ],
+      "content": "Trí tuệ nhân tạo tạo sinh (Generative AI) được sách giáo khoa hiểu là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Loại AI chỉ có khả năng phân loại ảnh và nhận dạng tiếng nói của người dùng."
+        },
+        {
+          "key": "B",
+          "text": "Thiết bị phần cứng dùng để thu thập dữ liệu huấn luyện cho các mô hình máy học."
+        },
+        {
+          "key": "C",
+          "text": "Loại AI chỉ tạo ra dữ liệu dạng số, không tạo được văn bản hay âm thanh."
+        },
+        {
+          "key": "D",
+          "text": "Loại AI tập trung xây dựng các thuật toán và mô hình có thể tạo nội dung như hình ảnh, âm thanh, văn bản một cách tự động, sinh dữ liệu mới dựa trên các mẫu học được từ dữ liệu huấn luyện."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách định nghĩa trí tuệ nhân tạo tạo sinh tập trung vào việc xây dựng các thuật toán và mô hình có thể tạo nội dung như hình ảnh, âm thanh, văn bản một cách tự động, dùng mô hình máy học sinh dữ liệu mới dựa trên các mẫu học được từ dữ liệu huấn luyện. Phương án A là mô tả hướng nhận dạng, B là thiết bị thu dữ liệu, C trái với sách vì AI tạo sinh tạo được cả văn bản và âm thanh."    },
+    {
+      "id": "tinhoc12-b02-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "AI tạo sinh",
+        "ứng dụng AI"
+      ],
+      "content": "Theo Bài 2, trí tuệ nhân tạo tạo sinh được sử dụng rộng rãi trong những lĩnh vực nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quản lí giao thông và định tuyến phương tiện vận tải."
+        },
+        {
+          "key": "B",
+          "text": "Nghệ thuật, giải trí, quảng cáo và trò chơi."
+        },
+        {
+          "key": "C",
+          "text": "Chẩn đoán và điều trị ung thư."
+        },
+        {
+          "key": "D",
+          "text": "Nông nghiệp công nghệ cao ở các trang trại thông minh."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu trí tuệ nhân tạo tạo sinh được dùng trong nghệ thuật, giải trí, quảng cáo và trò chơi nhờ khả năng sinh ra nội dung mới. Phương án A thuộc lĩnh vực giao thông vận tải, C thuộc y học, D thuộc nông nghiệp; đó là các ứng dụng AI khác chứ không phải ví dụ về AI tạo sinh."    },
+    {
+      "id": "tinhoc12-b02-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ChatGPT",
+        "dữ liệu huấn luyện"
+      ],
+      "content": "Theo sách giáo khoa, ChatGPT được huấn luyện chủ yếu trên loại dữ liệu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dữ liệu hình ảnh và video lấy từ camera của xe tự lái."
+        },
+        {
+          "key": "B",
+          "text": "Các luật suy diễn do chuyên gia y tế nhập vào thủ công."
+        },
+        {
+          "key": "C",
+          "text": "Lượng lớn dữ liệu văn bản, ví dụ phiên bản GPT-3 được huấn luyện trên hàng vạn văn bản thuộc nhiều lĩnh vực trên Internet."
+        },
+        {
+          "key": "D",
+          "text": "Dữ liệu đo được từ các cảm biến môi trường trong nông nghiệp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu ChatGPT được huấn luyện trên lượng lớn dữ liệu văn bản, chẳng hạn phiên bản GPT-3 được huấn luyện trên hàng vạn văn bản thuộc nhiều lĩnh vực lấy từ Internet. Phương án A và D là dữ liệu cảm biến của các bài toán khác; B là cách xây dựng hệ chuyên gia kiểu cũ."    },
+    {
+      "id": "tinhoc12-b02-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "content": "Phát biểu nào sau đây đúng về ChatGPT theo nội dung Bài 2?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là hệ thống xử lí ngôn ngữ tự nhiên tiên tiến do OpenAI phát triển, được nhiều chuyên gia coi là bước đột phá trong lĩnh vực AI của năm 2022."
+        },
+        {
+          "key": "B",
+          "text": "Là hệ chuyên gia y tế gồm khoảng 600 luật suy diễn."
+        },
+        {
+          "key": "C",
+          "text": "Là trợ lí ảo của Microsoft chạy trên điện thoại."
+        },
+        {
+          "key": "D",
+          "text": "Là robot hình người do hãng Honda chế tạo."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 2 nêu ChatGPT là hệ thống xử lí ngôn ngữ tự nhiên tiên tiến do OpenAI phát triển; nhiều chuyên gia đánh giá đây là minh chứng cho sức mạnh của AI và coi đó là bước đột phá của lĩnh vực AI trong năm 2022. Phương án B là mô tả hệ chuyên gia MYCIN ở Bài 1, C là trợ lí ảo Cortana, D là robot Asimo."    },
+    {
+      "id": "tinhoc12-b02-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "OpenAI",
+        "lịch sử AI"
+      ],
+      "content": "Theo sách giáo khoa, OpenAI là tổ chức nghiên cứu AI được thành lập vào năm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1950."
+        },
+        {
+          "key": "B",
+          "text": "1956."
+        },
+        {
+          "key": "C",
+          "text": "1972."
+        },
+        {
+          "key": "D",
+          "text": "2015."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu OpenAI là tổ chức nghiên cứu AI được thành lập năm 2015 và là đơn vị phát triển ChatGPT. Các mốc còn lại thuộc những sự kiện khác: 1950 là năm Alan Turing đề xuất phép thử, 1956 là Hội thảo Dartmouth, 1972 là năm hệ chuyên gia MYCIN được bắt đầu phát triển."    },
+    {
+      "id": "tinhoc12-b02-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "cảnh báo về AI",
+        "minh bạch"
+      ],
+      "content": "Vì sao khả năng thiếu minh bạch được Bài 2 nêu thành một trong những cảnh báo về AI?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì các ứng dụng AI luôn yêu cầu người dùng trả phí thì mới được giải thích kết quả."
+        },
+        {
+          "key": "B",
+          "text": "Vì phần lớn các ứng dụng AI hiện nay là những hộp đen, gây khó khăn cho việc hiểu các quyết định được đưa ra như thế nào, dẫn tới thiếu trách nhiệm giải trình."
+        },
+        {
+          "key": "C",
+          "text": "Vì AI không thể tiếp nhận dữ liệu đầu vào từ camera và cảm biến."
+        },
+        {
+          "key": "D",
+          "text": "Vì các hệ chuyên gia chỉ hoạt động được khi có kết nối Internet ổn định."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách giải thích khả năng thiếu minh bạch bắt nguồn từ việc phần lớn ứng dụng AI hiện nay là các hộp đen, khiến người dùng khó hiểu quyết định được đưa ra như thế nào và dẫn tới thiếu trách nhiệm giải trình. Phương án A, C, D là những phát biểu sách không nêu hoặc trái với nội dung bài."    },
+    {
+      "id": "tinhoc12-b02-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "cảnh báo về AI",
+        "tác động xã hội"
+      ],
+      "content": "Bốn cảnh báo về AI được nêu trong Bài 2 gồm những nội dung nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nóng lên toàn cầu, ô nhiễm nguồn nước, cạn kiệt khoáng sản, mất rừng."
+        },
+        {
+          "key": "B",
+          "text": "Chi phí phần cứng, tốc độ đường truyền, dung lượng bộ nhớ, tuổi thọ pin."
+        },
+        {
+          "key": "C",
+          "text": "Áp lực thất nghiệp, ảnh hưởng quyền riêng tư, khả năng thiếu minh bạch, rủi ro về an ninh và an toàn."
+        },
+        {
+          "key": "D",
+          "text": "Thiếu ngôn ngữ lập trình, thiếu dữ liệu, thiếu nhân lực, thiếu điện."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 2 liệt kê bốn cảnh báo về AI: áp lực thất nghiệp, ảnh hưởng quyền riêng tư, khả năng thiếu minh bạch và rủi ro về an ninh, an toàn. Phương án A là các vấn đề môi trường, B và D là ràng buộc về kĩ thuật, thiết bị, không phải cảnh báo về AI mà bài nêu."    },
+    {
+      "id": "tinhoc12-b02-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "cảnh báo về AI",
+        "thất nghiệp"
+      ],
+      "content": "Nhận định nào sau đây KHÔNG thuộc bốn cảnh báo về AI được nêu trong Bài 2?",
+      "options": [
+        {
+          "key": "A",
+          "text": "AI làm tăng chi phí sử dụng điện của từng hộ gia đình."
+        },
+        {
+          "key": "B",
+          "text": "AI tạo ra áp lực thất nghiệp đối với người lao động."
+        },
+        {
+          "key": "C",
+          "text": "AI ảnh hưởng tới quyền riêng tư của người dùng."
+        },
+        {
+          "key": "D",
+          "text": "AI tiềm ẩn rủi ro về an ninh, an toàn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phương án A không nằm trong danh sách cảnh báo của bài. Ba phương án còn lại là ba trong bốn cảnh báo mà Bài 2 nêu, cảnh báo thứ tư còn lại là khả năng thiếu minh bạch của các ứng dụng AI."    },
+    {
+      "id": "tinhoc12-b02-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "AIoT",
+        "môi trường"
+      ],
+      "content": "Theo Bài 2, việc kết hợp IoT với AI (AIoT) giúp các nhà khoa học làm được điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chơi cờ và tạo nội dung giải trí."
+        },
+        {
+          "key": "B",
+          "text": "Giám sát môi trường tự nhiên và theo dõi tình hình biến đổi khí hậu."
+        },
+        {
+          "key": "C",
+          "text": "Thay thế hoàn toàn các trạm quan trắc thủ công."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ dùng để điều khiển thiết bị trong gia đình."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 2 nêu sự kết hợp IoT và AI cho phép các nhà khoa học giám sát môi trường tự nhiên và theo dõi tình hình biến đổi khí hậu. Phương án C là khẳng định quá mức sách không nói; A và D không phải nội dung được nêu cho AIoT."    },
+    {
+      "id": "tinhoc12-b02-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "cảnh báo về AI",
+        "an toàn"
+      ],
+      "content": "Bài 2 dùng ví dụ nào để minh hoạ cho việc cần kiểm soát quyền quyết định giao cho AI?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số hoá chứng từ, hoá đơn trong ngân hàng."
+        },
+        {
+          "key": "B",
+          "text": "Nền tảng học tập được cá nhân hoá."
+        },
+        {
+          "key": "C",
+          "text": "Hệ thống khuyến nghị video trực tuyến."
+        },
+        {
+          "key": "D",
+          "text": "Việc cần ngăn cấm giao toàn quyền quyết định cho AI điều khiển vũ khí sát thương."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 2 nêu ví dụ về việc cần ngăn cấm giao toàn quyền quyết định cho AI điều khiển vũ khí sát thương, minh hoạ cho rủi ro về an ninh, an toàn. Ba phương án còn lại là ứng dụng dân dụng được nêu ở phần ứng dụng của bài, không phải ví dụ về giới hạn quyền quyết định của AI."    },
+    {
+      "id": "tinhoc12-b02-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "cảnh báo về AI",
+        "đạo đức"
+      ],
+      "content": "Theo Bài 2, các thử nghiệm kết hợp bộ não con người và bộ não robot trong một chỉnh thể hợp nhất có đặc điểm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ mang lại lợi ích nên không còn gây tranh cãi."
+        },
+        {
+          "key": "B",
+          "text": "Đã được hoàn thành và ứng dụng rộng rãi trong y tế."
+        },
+        {
+          "key": "C",
+          "text": "Đang là vấn đề gây nhiều tranh cãi và mang tính rủi ro cao, vì công nghệ có thể bị dùng để kiểm soát hoặc thay đổi ý thức, hành vi của con người."
+        },
+        {
+          "key": "D",
+          "text": "Không liên quan tới vấn đề đạo đức hay an toàn."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu những thử nghiệm liên kết sinh học và công nghệ theo cách kết hợp bộ não con người và bộ não robot trong một chỉnh thể hợp nhất đang gây nhiều tranh cãi và mang tính rủi ro cao, do công nghệ có thể được dùng để kiểm soát hoặc thay đổi ý thức, hành vi của con người. Phương án A, B, D đều trái với nhận định của bài."    },
+    {
+      "id": "tinhoc12-b02-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "hộp đen",
+        "thuật ngữ AI"
+      ],
+      "content": "Khi nói phần lớn các ứng dụng AI hiện nay là những “hộp đen”, Bài 2 muốn nói điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các thiết bị AI có vỏ màu đen nên khó quan sát linh kiện bên trong."
+        },
+        {
+          "key": "B",
+          "text": "Các hệ thống AI chỉ chạy được trong môi trường không có ánh sáng."
+        },
+        {
+          "key": "C",
+          "text": "Các chương trình AI không lưu dữ liệu đầu vào nên không thể kiểm tra lại."
+        },
+        {
+          "key": "D",
+          "text": "Người dùng khó hiểu được các quyết định của AI được đưa ra như thế nào, vì vậy AI thiếu trách nhiệm giải trình để bảo đảm tính minh bạch."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách dùng hình ảnh hộp đen để chỉ các ứng dụng AI mà con người khó hiểu được quá trình đưa ra quyết định, dẫn tới thiếu trách nhiệm giải trình và tính minh bạch. Phương án A và B hiểu thuật ngữ theo nghĩa đen, C là phát biểu sách không nêu."    },
+    {
+      "id": "tinhoc12-b02-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "nhận định đúng sai",
+        "hệ chuyên gia"
+      ],
+      "content": "Những nhận định nào sau đây đúng về hệ chuyên gia theo nội dung Bài 2?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hệ chuyên gia còn được gọi là hệ thống dựa trên tri thức, mô phỏng khả năng ra quyết định của một hoặc nhiều chuyên gia trong một lĩnh vực cụ thể."
+        },
+        {
+          "key": "B",
+          "text": "Ban đầu hệ chuyên gia tự học từ dữ liệu lớn, sau này mới chuyển sang dùng các luật suy diễn do con người nhập vào."
+        },
+        {
+          "key": "C",
+          "text": "Hệ chuyên gia chỉ được thiết kế cho lĩnh vực giải trí và trò chơi điện tử."
+        },
+        {
+          "key": "D",
+          "text": "Nhờ sự phát triển của AI và Học máy, nhiều hệ chuyên gia hiện nay đã có khả năng tự học từ dữ liệu để tự hình thành các luật và tri thức."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A và D đúng theo nội dung bài. B sai vì trình tự bị đảo ngược: ban đầu hệ chuyên gia được thiết kế dựa trên các luật suy diễn và tri thức của chuyên gia, về sau mới có khả năng tự học từ dữ liệu. C sai vì sách nêu hệ chuyên gia được dùng trong các lĩnh vực cụ thể như y tế, không giới hạn ở giải trí."    },
+    {
+      "id": "tinhoc12-b02-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "nhận định đúng sai",
+        "ứng dụng AI"
+      ],
+      "content": "Những nhận định nào sau đây đúng về ứng dụng AI trong các lĩnh vực của khoa học và đời sống theo Bài 2?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trong giao thông vận tải, AI được dùng để phát triển các phương tiện tự lái, quản lí giao thông thông minh và định tuyến phương tiện vận tải."
+        },
+        {
+          "key": "B",
+          "text": "Trong nông nghiệp, AI được sử dụng ở các trang trại thông minh để theo dõi điều kiện thời tiết, đất đai và sức đề kháng với dịch bệnh của vật nuôi, cây trồng."
+        },
+        {
+          "key": "C",
+          "text": "Trong giáo dục, AI thay thế hoàn toàn giáo viên trong việc đánh giá kết quả học tập của người học."
+        },
+        {
+          "key": "D",
+          "text": "Trong tài chính và ngân hàng, AI không chỉ hỗ trợ tự động hoá cập nhật chứng từ, hoá đơn vào cơ sở dữ liệu mà còn giúp phát hiện và ngăn chặn gian lận, nâng cao trải nghiệm khách hàng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A, B và D đều là những nội dung bài đã nêu cho từng lĩnh vực. C sai vì sách chỉ nói AI hỗ trợ đánh giá kết quả học tập và phát triển các nền tảng học tập được cá nhân hoá, không khẳng định AI thay thế hoàn toàn giáo viên."    },
+    {
+      "id": "tinhoc12-b02-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "nhận định đúng sai",
+        "AI tạo sinh"
+      ],
+      "content": "Những nhận định nào sau đây đúng về trí tuệ nhân tạo tạo sinh và ChatGPT?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trí tuệ nhân tạo tạo sinh chỉ tạo được dữ liệu dạng số, không tạo được văn bản hay âm thanh."
+        },
+        {
+          "key": "B",
+          "text": "ChatGPT là hệ thống xử lí ngôn ngữ tự nhiên tiên tiến do OpenAI phát triển và được nhiều chuyên gia coi là bước đột phá trong lĩnh vực AI của năm 2022."
+        },
+        {
+          "key": "C",
+          "text": "Trí tuệ nhân tạo tạo sinh sử dụng các mô hình máy học để sinh dữ liệu mới dựa trên các mẫu và thông tin học được từ dữ liệu huấn luyện."
+        },
+        {
+          "key": "D",
+          "text": "OpenAI là tổ chức nghiên cứu AI của hãng Honda, chuyên chế tạo robot hình người."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "B và C đúng theo sách. A sai vì trí tuệ nhân tạo tạo sinh tạo được nội dung gồm hình ảnh, âm thanh và văn bản một cách tự động, được dùng trong nghệ thuật, giải trí, quảng cáo, trò chơi. D sai vì OpenAI là tổ chức nghiên cứu AI thành lập năm 2015, còn Honda là hãng chế tạo robot Asimo được nhắc tới ở Bài 1."    },
+    {
+      "id": "tinhoc12-b02-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-ai-khoa-hoc-doi-song",
+      "tags": [
+        "nhận định đúng sai",
+        "cảnh báo về AI"
+      ],
+      "content": "Những nhận định nào sau đây đúng về các cảnh báo và vấn đề xã hội đặt ra cho AI trong Bài 2?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bốn cảnh báo về AI được nêu trong bài gồm áp lực thất nghiệp, ảnh hưởng quyền riêng tư, khả năng thiếu minh bạch và rủi ro về an ninh, an toàn."
+        },
+        {
+          "key": "B",
+          "text": "Bài 2 nêu ví dụ về việc cần ngăn cấm giao toàn quyền quyết định cho AI điều khiển vũ khí sát thương."
+        },
+        {
+          "key": "C",
+          "text": "Sự kết hợp IoT và AI cho phép các nhà khoa học giám sát môi trường tự nhiên và theo dõi tình hình biến đổi khí hậu."
+        },
+        {
+          "key": "D",
+          "text": "Vì các ứng dụng AI đều dễ giải thích nên khả năng thiếu minh bạch không còn được coi là vấn đề của AI."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B và C đều đúng theo nội dung Bài 2. D sai vì sách khẳng định phần lớn các ứng dụng AI hiện nay là những hộp đen, gây khó khăn cho việc hiểu các quyết định được đưa ra như thế nào và dẫn tới thiếu trách nhiệm giải trình, nên khả năng thiếu minh bạch vẫn là một cảnh báo."    }
+  ]
+}

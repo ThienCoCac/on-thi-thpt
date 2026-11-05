@@ -44,6 +44,7 @@ const examSchema = z.object({
   slug: z.string().trim().min(1),
   description: z.string(),
   subject: z.string().trim().min(1),
+  grade: z.number().int().min(10).max(12),
   type: z.enum(['FULL_EXAM', 'TOPIC_TEST', 'MINI_TEST']),
   durationMinutes: z.number().int().positive(),
   totalScore: z.number().positive(),
@@ -134,6 +135,12 @@ function checkExam(file, subjects) {
     const keys = keysOf(question);
     if (new Set(keys).size !== keys.length) {
       fail(where, `phương án trùng khoá: ${keys.join(',')}`);
+    }
+    // Hai phương án chép giống nhau thì câu đó có hai đáp án, chấm trên máy sẽ mắng oan học sinh.
+    const textOptions = question.options.map((option) => option.text.trim().replace(/\s+/g, ' '));
+    const trungText = textOptions.filter((text, i) => text && textOptions.indexOf(text) !== i);
+    if (trungText.length > 0) {
+      fail(where, `hai phương án trùng nội dung: ${trungText[0].slice(0, 40)}`);
     }
 
     const answers = Array.isArray(question.correctAnswer) ? question.correctAnswer : [question.correctAnswer];

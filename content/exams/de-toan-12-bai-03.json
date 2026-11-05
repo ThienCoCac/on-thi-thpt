@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-03",
+  "title": "Đề ôn Toán 12 Bài 3: Đường tiệm cận của đồ thị hàm số (20 câu)",
+  "slug": "de-toan-12-bai-03",
+  "description": "Bám sát Bài 3 sách Toán 12 Kết nối tri thức: tiệm cận đứng, tiệm cận ngang, tiệm cận xiên của đồ thị hàm số hữu tỉ và hàm chứa căn thức. 20 câu trắc nghiệm bốn lựa chọn, làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B03",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b03-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường tiệm cận ngang của đồ thị hàm số $y=\\dfrac{3x+2}{x-1}$ là",
+      "options": [
+        { "key": "A", "text": "$x=1$." },
+        { "key": "B", "text": "$y=3$." },
+        { "key": "C", "text": "$y=-3$." },
+        { "key": "D", "text": "$y=\\dfrac{2}{3}$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khi $x\\to\\pm\\infty$ thì $y=\\dfrac{3+\\frac{2}{x}}{1-\\frac{1}{x}}\\to 3$, nên đồ thị có tiệm cận ngang $y=3$. Học sinh dễ chọn $x=1$ vì nhầm với tiệm cận đứng, hoặc chọn $y=-3$ vì nhầm dấu.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tiệm cận ngang", "hàm phân thức"]
+    },
+    {
+      "id": "toan12-b03-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường tiệm cận đứng của đồ thị hàm số $y=\\dfrac{x+1}{x-2}$ là",
+      "options": [
+        { "key": "A", "text": "$x=2$." },
+        { "key": "B", "text": "$x=-2$." },
+        { "key": "C", "text": "$x=-1$." },
+        { "key": "D", "text": "$x=1$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mẫu số bằng $0$ tại $x=2$ còn tử số bằng $3\\ne 0$, do đó $\\lim\\limits_{x\\to 2^{+}} y=+\\infty$ và $\\lim\\limits_{x\\to 2^{-}} y=-\\infty$: đường thẳng $x=2$ là tiệm cận đứng. Giá trị $x=-1$ là nghiệm của tử số nên không phải tiệm cận.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tiệm cận đứng", "hàm phân thức"]
+    },
+    {
+      "id": "toan12-b03-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường thẳng $x=x_0$ là tiệm cận đứng của đồ thị hàm số $y=f(x)$ nếu",
+      "options": [
+        { "key": "A", "text": "$\\lim\\limits_{x\\to +\\infty} f(x)=x_0$." },
+        { "key": "B", "text": "$\\lim\\limits_{x\\to x_0} f(x)=0$." },
+        { "key": "C", "text": "$\\lim\\limits_{x\\to x_0^{+}} f(x)=+\\infty$ hoặc $\\lim\\limits_{x\\to x_0^{-}} f(x)=-\\infty$." },
+        { "key": "D", "text": "$\\lim\\limits_{x\\to +\\infty}(f(x)-x_0)=0$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo định nghĩa, $x=x_0$ là tiệm cận đứng khi một trong các giới hạn một bên tại $x_0$ bằng $\\pm\\infty$. Các phương án còn lại mô tả giới hạn ở vô cực, vốn liên quan tới tiệm cận ngang.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["định nghĩa", "giới hạn một bên"]
+    },
+    {
+      "id": "toan12-b03-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đường tiệm cận đứng của đồ thị hàm số $y=\\dfrac{x^2+1}{x^2-4}$ là",
+      "options": [
+        { "key": "A", "text": "2." },
+        { "key": "B", "text": "1." },
+        { "key": "C", "text": "0." },
+        { "key": "D", "text": "3." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mẫu số $x^2-4$ có hai nghiệm $x=\\pm 2$; với mọi $x$ ta có $x^2+1\\ge 1>0$ nên tử số không triệt tiêu tại hai điểm này. Vậy đồ thị có hai tiệm cận đứng $x=2$ và $x=-2$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tiệm cận đứng", "số đường tiệm cận"]
+    },
+    {
+      "id": "toan12-b03-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số nào sau đây có tiệm cận ngang?",
+      "options": [
+        { "key": "A", "text": "$y=2x-3$." },
+        { "key": "B", "text": "$y=x^2-3x+1$." },
+        { "key": "C", "text": "$y=\\dfrac{x+2}{2x-1}$." },
+        { "key": "D", "text": "$y=\\sqrt{2x+1}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với $y=\\dfrac{x+2}{2x-1}$, khi $x\\to\\pm\\infty$ thì $y\\to\\dfrac{1}{2}$ nên đồ thị có tiệm cận ngang $y=\\dfrac{1}{2}$. Ba hàm số còn lại đều tăng vô hạn khi $x\\to+\\infty$ nên không có tiệm cận ngang.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tiệm cận ngang", "nhận biết"]
+    },
+    {
+      "id": "toan12-b03-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường tiệm cận ngang của đồ thị hàm số $y=\\dfrac{3}{\\sqrt{x}+1}$ là",
+      "options": [
+        { "key": "A", "text": "$y=3$." },
+        { "key": "B", "text": "$y=0$." },
+        { "key": "C", "text": "$x=0$." },
+        { "key": "D", "text": "Đồ thị không có tiệm cận ngang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tập xác định của hàm số là $[0;+\\infty)$. Khi $x\\to+\\infty$ thì $\\sqrt{x}+1\\to+\\infty$ nên $y\\to 0$, do đó $y=0$ là tiệm cận ngang. Giá trị $y=3$ chỉ là tung độ tại $x=0$, không phải tiệm cận.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tiệm cận ngang", "hàm chứa căn"]
+    },
+    {
+      "id": "toan12-b03-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Khẳng định nào sau đây đúng với đồ thị hàm số $y=\\dfrac{x-1}{x+2}$?",
+      "options": [
+        { "key": "A", "text": "Có tiệm cận đứng $x=2$ và tiệm cận ngang $y=-1$." },
+        { "key": "B", "text": "Có tiệm cận đứng $x=-2$ và tiệm cận ngang $y=-1$." },
+        { "key": "C", "text": "Có tiệm cận đứng $x=1$ và tiệm cận ngang $y=2$." },
+        { "key": "D", "text": "Có tiệm cận đứng $x=-2$ và tiệm cận ngang $y=1$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mẫu số triệt tiêu tại $x=-2$ còn tử số bằng $-3\\ne 0$, nên $x=-2$ là tiệm cận đứng. Khi $x\\to\\pm\\infty$ thì $y\\to 1$ nên $y=1$ là tiệm cận ngang. Nhầm dấu ở cả hai đường (phương án A) và chỉ nhầm dấu tiệm cận ngang (phương án B) là hai lỗi hay gặp.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tiệm cận đứng", "tiệm cận ngang", "dấu"]
+    },
+    {
+      "id": "toan12-b03-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đường tiệm cận của đồ thị hàm số $y=\\dfrac{x-3}{x^2-9}$ là",
+      "options": [
+        { "key": "A", "text": "0." },
+        { "key": "B", "text": "1." },
+        { "key": "C", "text": "2." },
+        { "key": "D", "text": "3." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Điều kiện $x\\ne\\pm 3$. Khi đó $y=\\dfrac{1}{x+3}$. Có $\\lim\\limits_{x\\to -3}\\dfrac{1}{x+3}=\\infty$ nên $x=-3$ là tiệm cận đứng; khi $x\\to\\pm\\infty$ thì $y\\to 0$ nên $y=0$ là tiệm cận ngang. Còn $\\lim\\limits_{x\\to 3}\\dfrac{1}{x+3}=\\dfrac{1}{6}$ hữu hạn nên $x=3$ không phải tiệm cận. Đồ thị có đúng hai tiệm cận; đếm ba là lỗi lấy cả nghiệm mẫu số mà quên kiểm tra tử số.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["số đường tiệm cận", "nghiệm mẫu số"]
+    },
+    {
+      "id": "toan12-b03-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đường tiệm cận ngang của đồ thị hàm số $y=\\dfrac{2x+1}{\\sqrt{x^2+3}}$ là",
+      "options": [
+        { "key": "A", "text": "2." },
+        { "key": "B", "text": "1." },
+        { "key": "C", "text": "0." },
+        { "key": "D", "text": "3." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khi $x\\to+\\infty$ thì $y=\\dfrac{2+\\frac{1}{x}}{\\sqrt{1+\\frac{3}{x^2}}}\\to 2$. Khi $x\\to-\\infty$, vì $\\sqrt{x^2}=|x|=-x$ nên $y=\\dfrac{2+\\frac{1}{x}}{-\\sqrt{1+\\frac{3}{x^2}}}\\to -2$. Vậy có hai tiệm cận ngang $y=2$ và $y=-2$; chỉ kể một đường là lỗi bỏ sót dấu khi $x\\to-\\infty$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tiệm cận ngang", "hàm chứa căn", "giá trị tuyệt đối"]
+    },
+    {
+      "id": "toan12-b03-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường tiệm cận xiên của đồ thị hàm số $y=\\dfrac{x^2+1}{x-2}$ là",
+      "options": [
+        { "key": "A", "text": "$y=x-2$." },
+        { "key": "B", "text": "$y=x+2$." },
+        { "key": "C", "text": "$y=x+5$." },
+        { "key": "D", "text": "Đồ thị không có tiệm cận xiên." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chia tử số cho mẫu số: $x^2+1=(x-2)(x+2)+5$, suy ra $y=x+2+\\dfrac{5}{x-2}$. Khi $x\\to\\pm\\infty$ thì $\\dfrac{5}{x-2}\\to 0$ nên $y=x+2$ là tiệm cận xiên, bên cạnh tiệm cận đứng $x=2$. Chọn $y=x-2$ là lỗi nhầm dấu của thương.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tiệm cận xiên", "hàm phân thức"]
+    },
+    {
+      "id": "toan12-b03-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đường tiệm cận của đồ thị hàm số $y=\\dfrac{\\sqrt{x+1}}{x-1}$ là",
+      "options": [
+        { "key": "A", "text": "0." },
+        { "key": "B", "text": "1." },
+        { "key": "C", "text": "2." },
+        { "key": "D", "text": "3." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hàm xác định với $x\\ge -1$ và $x\\ne 1$. Tại $x=1$ tử số tiến tới $\\sqrt{2}\\ne 0$ nên $x=1$ là tiệm cận đứng; khi $x\\to+\\infty$ thì $y\\to 0$ nên $y=0$ là tiệm cận ngang. Biên $x=-1$ của tập xác định không cho giới hạn vô hạn nên không phải tiệm cận; tổng cộng hai tiệm cận.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["số đường tiệm cận", "hàm chứa căn", "tập xác định"]
+    },
+    {
+      "id": "toan12-b03-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Khẳng định nào sau đây đúng với đồ thị hàm số $y=\\dfrac{2x^2-3x+2}{x-1}$?",
+      "options": [
+        { "key": "A", "text": "Có tiệm cận đứng $x=2$." },
+        { "key": "B", "text": "Có tiệm cận xiên $y=2x-1$." },
+        { "key": "C", "text": "Có tiệm cận ngang $y=2$." },
+        { "key": "D", "text": "Không có bất kì đường tiệm cận nào." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chia tử số cho mẫu số: $\\dfrac{2x^2-3x+2}{x-1}=2x-1+\\dfrac{1}{x-1}$. Vì $\\lim\\limits_{x\\to 1^{\\pm}}y=\\pm\\infty$ nên đồ thị có tiệm cận đứng $x=1$ (phương án A ghi $x=2$ là sai). Vì $\\lim\\limits_{x\\to\\pm\\infty}\\left[y-(2x-1)\\right]=\\lim\\limits_{x\\to\\pm\\infty}\\dfrac{1}{x-1}=0$ nên đồ thị có tiệm cận xiên $y=2x-1$. Tử số bậc hai hơn mẫu số một bậc nên không có tiệm cận ngang, phương án C và D đều sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tiệm cận xiên", "rút gọn phân thức"]
+    },
+    {
+      "id": "toan12-b03-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $a$ và $b$ là hai số thực sao cho đồ thị hàm số $y=\\dfrac{ax+1}{x+b}$ có tiệm cận đứng $x=2$ và tiệm cận ngang $y=-6$. Giá trị $a+b$ bằng",
+      "options": [
+        { "key": "A", "text": "$-8$." },
+        { "key": "B", "text": "$8$." },
+        { "key": "C", "text": "$4$." },
+        { "key": "D", "text": "$-4$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hàm số có tiệm cận ngang $y=a$, suy ra $a=-6$; tiệm cận đứng là $x=-b$, nên $-b=2$ tức $b=-2$ (khi đó tử số tại $x=2$ bằng $-11\\ne 0$, điều kiện thoả mãn). Vậy $a+b=-6+(-2)=-8$. Quên dấu của nghiệm mẫu số, lấy $b=2$, sẽ cho $-4$; nhầm dấu cả hai sẽ cho $8$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tham số", "tiệm cận đứng", "tiệm cận ngang"]
+    },
+    {
+      "id": "toan12-b03-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Tổng số đường tiệm cận đứng và tiệm cận ngang của đồ thị hàm số $y=\\dfrac{x+1}{\\sqrt{x^2-4}}$ là",
+      "options": [
+        { "key": "A", "text": "2." },
+        { "key": "B", "text": "3." },
+        { "key": "C", "text": "1." },
+        { "key": "D", "text": "4." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hàm xác định khi $x<-2$ hoặc $x>2$. Khi $x\\to 2^{+}$ thì $y\\to+\\infty$; khi $x\\to -2^{-}$ thì tử số tiến tới $-1$ nên $y\\to-\\infty$: có hai tiệm cận đứng $x=2$ và $x=-2$. Khi $x\\to+\\infty$ thì $y\\to 1$; khi $x\\to-\\infty$ thì $\\sqrt{x^2}=|x|=-x$ nên $y\\to -1$: có thêm hai tiệm cận ngang. Tổng cộng bốn đường tiệm cận.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["số đường tiệm cận", "hàm chứa căn", "giới hạn một bên"]
+    },
+    {
+      "id": "toan12-b03-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Đồ thị hàm số $y=\\dfrac{x^2-x+1}{x+1}$ có tiệm cận xiên dạng $y=ax+b$. Giá trị $a+2b$ bằng",
+      "options": [
+        { "key": "A", "text": "$-3$." },
+        { "key": "B", "text": "$1$." },
+        { "key": "C", "text": "$3$." },
+        { "key": "D", "text": "$5$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chia tử số cho mẫu số: $x^2-x+1=(x+1)(x-2)+3$, suy ra $y=x-2+\\dfrac{3}{x+1}$. Tiệm cận xiên là $y=x-2$, tức $a=1$ và $b=-2$. Do đó $a+2b=1+2(-2)=-3$. Nhầm dấu của thương thành $y=x+2$ sẽ cho $5$; lấy $a+b$ thay vì $a+2b$ sẽ cho $-1$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tiệm cận xiên", "tính hệ số"]
+    },
+    {
+      "id": "toan12-b03-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đường tiệm cận của đồ thị hàm số $y=\\dfrac{\\sqrt{x}-1}{x-1}$ là",
+      "options": [
+        { "key": "A", "text": "0." },
+        { "key": "B", "text": "1." },
+        { "key": "C", "text": "2." },
+        { "key": "D", "text": "3." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Điều kiện $x\\ge 0$ và $x\\ne 1$. Với $x\\ne 1$, $y=\\dfrac{\\sqrt{x}-1}{(\\sqrt{x}-1)(\\sqrt{x}+1)}=\\dfrac{1}{\\sqrt{x}+1}$. Khi $x\\to 1$ thì $y\\to\\dfrac{1}{2}$ hữu hạn nên $x=1$ chỉ là điểm bị loại, không phải tiệm cận đứng; khi $x\\to+\\infty$ thì $y\\to 0$ nên $y=0$ là tiệm cận ngang. Đồ thị có đúng một tiệm cận; lấy nghiệm mẫu số $x=1$ mà quên kiểm tra tử số cũng tiến tới $0$ là lỗi kinh điển.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["số đường tiệm cận", "hàm chứa căn", "rút gọn"]
+    },
+    {
+      "id": "toan12-b03-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Gọi $I$ là giao điểm của hai đường tiệm cận của đồ thị hàm số $y=\\dfrac{2x+1}{x-3}$. Độ dài đoạn $OI$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\sqrt{10}$." },
+        { "key": "B", "text": "$5$." },
+        { "key": "C", "text": "$2\\sqrt{13}$." },
+        { "key": "D", "text": "$\\sqrt{13}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tiệm cận đứng là $x=3$, tiệm cận ngang là $y=2$, suy ra $I(3;2)$. Do đó $OI=\\sqrt{3^2+2^2}=\\sqrt{13}$. Lấy nhầm tung độ của $I$ bằng $1$ (hệ số tự do của tử số) sẽ cho $\\sqrt{10}$; cộng hai hoành độ và tung độ thay vì dùng định lý Pythagoras sẽ cho $5$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["giao điểm tiệm cận", "khoảng cách"]
+    },
+    {
+      "id": "toan12-b03-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm tất cả các giá trị thực của tham số $m$ để đồ thị hàm số $y=\\dfrac{(m+1)x^2-2x+3}{x-1}$ có tiệm cận xiên song song với đường thẳng $y=3x-5$.",
+      "options": [
+        { "key": "A", "text": "$m=1$." },
+        { "key": "B", "text": "$m=2$." },
+        { "key": "C", "text": "$m=-2$." },
+        { "key": "D", "text": "$m=4$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cần $m\\ne -1$ để tử số bậc hai. Chia: $(m+1)x^2-2x+3=(x-1)((m+1)x+m-1)+m+2$. Khi $m\\ne -2$ ta có tiệm cận xiên $y=(m+1)x+m-1$. Song song với $y=3x-5$ khi $m+1=3$ và $m-1\\ne -5$, tức $m=2$ (thoả mãn $m\\ne -2$). Giá trị $m=-2$ làm phần dư bằng $0$, khi đó $y=\\dfrac{-(x-1)(x+3)}{x-1}=-x-3$ với $x\\ne 1$: đồ thị là một đường thẳng thiếu một điểm nên không còn tiệm cận xiên.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tham số", "tiệm cận xiên", "song song"]
+    },
+    {
+      "id": "toan12-b03-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Có bao nhiêu giá trị nguyên của tham số $m$ để đồ thị hàm số $y=\\dfrac{1}{\\sqrt{x^2-mx+4}}$ có đúng một đường tiệm cận đứng?",
+      "options": [
+        { "key": "A", "text": "0." },
+        { "key": "B", "text": "1." },
+        { "key": "C", "text": "2." },
+        { "key": "D", "text": "4." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hàm xác định khi $x^2-mx+4>0$; tại nghiệm của tam thức (nếu có) thì $y\\to+\\infty$ vì tử số luôn bằng $1$, nên mỗi nghiệm là một tiệm cận đứng. Để có đúng một nghiệm, biệt thức phải bằng $0$: $m^2-16=0$, tức $m=\\pm 4$ (mẫu khi đó là căn của $(x-2)^2$ hoặc $(x+2)^2$). Với $|m|<4$ tam thức vô nghiệm, với $|m|>4$ có hai tiệm cận đứng. Vậy có đúng hai giá trị nguyên cần tìm.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tham số", "tiệm cận đứng", "hàm chứa căn"]
+    },
+    {
+      "id": "toan12-b03-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b03-duong-tiem-can",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm tất cả các giá trị thực của tham số $m$ để đồ thị hàm số $y=\\dfrac{x^2+mx+1}{x^2-1}$ có đúng hai đường tiệm cận đứng.",
+      "options": [
+        { "key": "A", "text": "Mọi $m$." },
+        { "key": "B", "text": "$m\\ne 2$." },
+        { "key": "C", "text": "$m\\ne -2$." },
+        { "key": "D", "text": "$m\\ne\\pm 2$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mẫu số triệt tiêu tại $x=1$ và $x=-1$. Tử số tại $x=1$ bằng $m+2$ nên $x=1$ là tiệm cận đứng khi $m\\ne -2$; tử số tại $x=-1$ bằng $2-m$ nên $x=-1$ là tiệm cận đứng khi $m\\ne 2$. Khi $m=2$ hoặc $m=-2$ đồ thị chỉ còn một tiệm cận đứng. Vậy điều kiện cần tìm là $m\\ne\\pm 2$; chọn B hoặc C là lỗi kiểm tra thiếu một trong hai nghiệm của mẫu số.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tham số", "tiệm cận đứng", "nghiệm mẫu số"]
+    }
+  ]
+}

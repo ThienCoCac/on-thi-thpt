@@ -1,0 +1,1490 @@
+{
+  "id": "de-dia-12-bai-04",
+  "title": "Đề ôn tập Địa lí 12 – Bài 4: Thực hành – Viết báo cáo về sự phân hoá tự nhiên Việt Nam",
+  "slug": "de-dia-12-bai-04",
+  "description": "Đề ôn tập 45 phút theo Bài 4 Địa lí 12 – Thực hành: viết báo cáo về sự phân hoá tự nhiên Việt Nam, kiểm tra kĩ năng làm việc địa lí thay vì ghi nhớ: cấu trúc bốn phần của báo cáo, trình tự các bước thực hiện, chọn và trình bày số liệu kèm đơn vị, năm, nguồn, đọc bảng số liệu, chọn loại biểu đồ phù hợp, tách nhận xét khỏi giải thích, diễn đạt quan hệ nguyên nhân – kết quả, trích dẫn nguồn và các lỗi thường gặp; mỗi câu tính tỉ trọng, chỉ số phát triển, giá trị trung bình, làm tròn hay góc biểu đồ đều tự nêu đủ dữ kiện bằng lời. Đề gồm 35 câu trắc nghiệm bốn phương án và 5 câu chọn các phát biểu đúng, mỗi câu 0,25 điểm.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B04",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b04-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một báo cáo địa lí thực hành thường được cấu trúc theo trình tự nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở đầu – Nội dung – Kết luận – Tài liệu tham khảo."
+        },
+        {
+          "key": "B",
+          "text": "Nội dung – Mở đầu – Tài liệu tham khảo – Kết luận."
+        },
+        {
+          "key": "C",
+          "text": "Tài liệu tham khảo – Mở đầu – Nội dung – Kết luận."
+        },
+        {
+          "key": "D",
+          "text": "Mở đầu – Kết luận – Nội dung – Tài liệu tham khảo."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Trật tự chuẩn là mở đầu (đặt vấn đề, mục tiêu, phạm vi), nội dung (giải quyết vấn đề bằng dẫn chứng), kết luận (khái quát kết quả) và cuối cùng là danh mục tài liệu tham khảo. B và C đặt tài liệu tham khảo trước khi người đọc biết báo cáo nói gì; D sai vì kết luận xuất hiện trước khi nội dung được trình bày.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "cấu trúc báo cáo"
+      ]
+    },
+    {
+      "id": "dia12-b04-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thuộc phần Mở đầu của một báo cáo địa lí?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảng số liệu đầy đủ về nhiệt độ và lượng mưa của vùng được chọn."
+        },
+        {
+          "key": "B",
+          "text": "Danh sách các sách, tạp chí và trang thông tin điện tử đã sử dụng."
+        },
+        {
+          "key": "C",
+          "text": "Lí do chọn đề tài, mục tiêu cần tìm hiểu và phạm vi không gian, thời gian của báo cáo."
+        },
+        {
+          "key": "D",
+          "text": "Các đề xuất, kiến nghị rút ra từ kết quả nghiên cứu."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Phần mở đầu trả lời câu hỏi viết về cái gì, vì sao chọn và giới hạn ở đâu, khi nào; vì vậy nó nêu lí do, mục tiêu và phạm vi. A là dẫn chứng thuộc phần nội dung; B là danh mục tài liệu tham khảo ở cuối báo cáo; D thuộc phần kết luận.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "phần mở đầu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phần Nội dung của báo cáo, cách tổ chức nào sau đây là phù hợp nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đặt liên tiếp các bảng số liệu rồi dừng lại, không viết lời phân tích."
+        },
+        {
+          "key": "B",
+          "text": "Kể lại toàn bộ những gì nhóm quan sát được theo đúng thứ tự thời gian của buổi thực địa."
+        },
+        {
+          "key": "C",
+          "text": "Viết một đoạn văn duy nhất thật dài, không tách đề mục để bài viết liền mạch."
+        },
+        {
+          "key": "D",
+          "text": "Chia thành các đề mục theo từng luận điểm, mỗi luận điểm có dẫn chứng bằng số liệu hoặc ví dụ cụ thể."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Phần nội dung phải triển khai theo hệ thống đề mục tương ứng với mục tiêu đã nêu, mỗi ý lớn có dẫn chứng đi kèm. A sai vì bảng số liệu không tự nói lên nhận xét; B là kể nhật kí thực địa, không phải trình bày theo luận điểm; C khiến người đọc không định vị được ý chính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "phần nội dung",
+        "lập luận"
+      ]
+    },
+    {
+      "id": "dia12-b04-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây **đúng** về phần Kết luận của báo cáo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kết luận đưa thêm những số liệu mới chưa từng xuất hiện ở phần Nội dung."
+        },
+        {
+          "key": "B",
+          "text": "Kết luận chép lại toàn bộ các bảng số liệu để tăng tính thuyết phục."
+        },
+        {
+          "key": "C",
+          "text": "Kết luận chỉ cần vài dòng cảm ơn nhóm và người hướng dẫn."
+        },
+        {
+          "key": "D",
+          "text": "Kết luận khái quát hoá những kết quả chính, trả lời đúng mục tiêu đã nêu ở phần Mở đầu và không bổ sung số liệu mới."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Kết luận là phần tổng hợp, người đọc chỉ tìm thấy ở đó những gì đã được chứng minh trong phần nội dung. A và B là lỗi thường gặp: số liệu mới và bảng biểu phải nằm ở phần nội dung; C biến kết luận thành lời cảm ơn, không nêu kết quả.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "phần kết luận"
+      ]
+    },
+    {
+      "id": "dia12-b04-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Danh mục Tài liệu tham khảo của một báo cáo địa lí được trình bày như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đặt ngay sau phần Mở đầu để người đọc biết nguồn trước khi đọc nội dung."
+        },
+        {
+          "key": "B",
+          "text": "Đặt ở cuối báo cáo; mỗi nguồn ghi theo một mẫu thống nhất gồm tác giả hoặc cơ quan, năm, tên tài liệu và nơi phát hành hoặc địa chỉ truy cập."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ cần ghi tên tắt của cuốn sách, bỏ tên tác giả và năm xuất bản cho gọn."
+        },
+        {
+          "key": "D",
+          "text": "Liệt kê tất cả sách nhóm đang có, kể cả những tài liệu không hề sử dụng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Tài liệu tham khảo nằm ở cuối báo cáo và phải đủ dấu vết để người khác tìm lại được nguồn, kèm cách trình bày nhất quán. A sai về vị trí; C thiếu các yếu tố định danh nguồn; D vi phạm nguyên tắc chỉ liệt kê tài liệu đã thực sự dùng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "trích dẫn nguồn"
+      ]
+    },
+    {
+      "id": "dia12-b04-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi bắt đầu viết một báo cáo thực hành về sự phân hoá tự nhiên Việt Nam, việc cần làm **trước tiên** là",
+      "options": [
+        {
+          "key": "A",
+          "text": "xác định rõ đề tài và nhiệm vụ cần giải quyết, sau đó lập đề cương dự kiến."
+        },
+        {
+          "key": "B",
+          "text": "vẽ biểu đồ và kẻ bảng số liệu cho đủ số trang theo yêu cầu."
+        },
+        {
+          "key": "C",
+          "text": "viết ngay phần kết luận để biết mình sẽ hướng tới điều gì."
+        },
+        {
+          "key": "D",
+          "text": "sưu tập thật nhiều ảnh phong cảnh các vùng thiên nhiên."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Xác định đề tài và lập đề cương là bước định hướng, quyết định sẽ tìm số liệu gì và trình bày ra sao. B là sản phẩm của bước xử lí số liệu, làm trước sẽ không biết vẽ cái gì; C trái trật tự vì kết luận phải rút ra từ nội dung; D không phải bước nghiệp vụ, đề này cũng không dùng ảnh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "các bước lập báo cáo"
+      ]
+    },
+    {
+      "id": "dia12-b04-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các công việc: (1) thu thập tài liệu và số liệu; (2) lập đề cương; (3) hoàn thiện báo cáo, kiểm tra lại số liệu, nguồn và lỗi diễn đạt; (4) xử lí số liệu, chọn hình thức trình bày bằng bảng, sơ đồ hoặc biểu đồ; (5) viết báo cáo theo đề cương. Trình tự hợp lí nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(2), (1), (4), (5), (3)."
+        },
+        {
+          "key": "B",
+          "text": "(1), (2), (5), (4), (3)."
+        },
+        {
+          "key": "C",
+          "text": "(2), (4), (1), (5), (3)."
+        },
+        {
+          "key": "D",
+          "text": "(1), (5), (2), (3), (4)."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Phải có đề cương rồi mới biết cần thu thập gì; sau thu thập là xử lí số liệu và chọn cách trình bày; viết báo cáo dựa trên số liệu đã xử lí; cuối cùng hoàn thiện. B đặt thu thập trước đề cương nên dễ lấy thừa, lấy thiếu; C xử lí số liệu trước khi có số liệu; D viết báo cáo trước khi có đề cương và xử lí số liệu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "các bước lập báo cáo",
+        "sắp xếp trình tự"
+      ]
+    },
+    {
+      "id": "dia12-b04-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giai đoạn xử lí số liệu của một báo cáo về sự phân hoá tự nhiên, thao tác nào sau đây **không** thuộc giai đoạn đó?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tính tỉ trọng của từng thành phần trong tổng số."
+        },
+        {
+          "key": "B",
+          "text": "Quy các giá trị về chỉ số phát triển, lấy giá trị mốc bằng 100%."
+        },
+        {
+          "key": "C",
+          "text": "Làm tròn số liệu và thống nhất đơn vị tính, số chữ số thập phân."
+        },
+        {
+          "key": "D",
+          "text": "Đặt tên cho báo cáo và viết phần Mở đầu."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Đặt tên và viết mở đầu là việc của giai đoạn hình thành đề cương và viết báo cáo, không phải thao tác trên số liệu. A, B, C đều là các phép biến đổi số liệu quen thuộc nhằm làm lộ ra cấu trúc và xu hướng của dữ liệu (tuy nhiên riêng D là hoạt động soạn thảo văn bản).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "xử lí số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Yêu cầu quan trọng nhất đối với số liệu được đưa vào báo cáo địa lí là",
+      "options": [
+        {
+          "key": "A",
+          "text": "số liệu phải thật lớn để gây ấn tượng với người đọc."
+        },
+        {
+          "key": "B",
+          "text": "số liệu phải có nguồn rõ ràng, kèm đơn vị tính và năm, đồng thời thống nhất giữa các bảng và biểu đồ."
+        },
+        {
+          "key": "C",
+          "text": "số liệu càng nhiều càng tốt, chưa cần quan tâm đến đơn vị tính."
+        },
+        {
+          "key": "D",
+          "text": "chỉ được dùng số liệu do nhóm tự đo, không dùng số liệu của cơ quan thống kê."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Giá trị của một con số nằm ở chỗ nó đo cái gì, theo đơn vị nào, vào năm nào và lấy từ đâu; sự thống nhất giúp so sánh được giữa các bảng. A và C là lỗi lấy nhiều nhưng không kiểm chứng được; D sai vì báo cáo thực hành vẫn dùng tài liệu thống kê chính thức, chỉ cần ghi rõ nguồn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "yêu cầu với số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bảng số liệu trong báo cáo cần có những yếu tố nào để người đọc tự hiểu được mà không phải hỏi lại người viết?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ cần các con số; tên bảng và đơn vị tính không bắt buộc."
+        },
+        {
+          "key": "B",
+          "text": "Viết tắt đơn vị tính tuỳ tiện ở từng dòng cho sinh động."
+        },
+        {
+          "key": "C",
+          "text": "Tên bảng đặt phía trên bảng, ghi rõ đơn vị tính và năm, các dòng và cột được đặt tên, có dòng hoặc cột tổng số và ghi rõ nguồn số liệu."
+        },
+        {
+          "key": "D",
+          "text": "Gộp các chỉ tiêu có đơn vị khác nhau vào cùng một cột cho gọn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Bảng tự đứng được khi nó trả lời đủ bốn câu hỏi: bảng về gì, đo bằng đơn vị nào, số liệu của năm nào, lấy từ đâu. A và B bỏ mất đơn vị và tên bảng; D trộn độ cao đo bằng mét với lượng mưa đo bằng milimét trong cùng một cột nên số liệu trở nên vô nghĩa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "trình bày bảng số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi dẫn một số liệu lấy từ trang thông tin điện tử của cơ quan thống kê, cách làm nào sau đây là **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ghi rõ tên cơ quan, năm phát hành, tên ấn phẩm hoặc chuyên mục, địa chỉ truy cập và ngày truy cập ở danh mục tài liệu tham khảo; chỉ dùng lại những dữ kiện cần thiết."
+        },
+        {
+          "key": "B",
+          "text": "Chép nguyên văn cả đoạn văn của trang thông tin điện tử vào báo cáo vì số liệu là khách quan nên không cần ghi nguồn."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ cần viết chung chung ở cuối bài là theo số liệu thống kê."
+        },
+        {
+          "key": "D",
+          "text": "Xoá năm phát hành của số liệu để báo cáo trông cập nhật hơn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Trích dẫn đầy đủ cho phép kiểm chứng và tránh sao chép trái phép; chọn lọc dữ kiện giúp báo cáo gọn. B là lỗi đạo văn; C không đủ dấu vết để tìm lại nguồn; D xoá thông tin về mốc thời gian, che giấu số liệu cũ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "trích dẫn nguồn"
+      ]
+    },
+    {
+      "id": "dia12-b04-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc bảng số liệu trong báo cáo:** tổng diện tích tự nhiên của một vùng là 5,00 triệu ha, gồm ba nhóm: nhóm đất nông nghiệp 1,75 triệu ha, nhóm đất lâm nghiệp 2,25 triệu ha, nhóm đất chưa sử dụng 1,00 triệu ha. Tỉ trọng của nhóm đất lâm nghiệp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "35%."
+        },
+        {
+          "key": "B",
+          "text": "45%."
+        },
+        {
+          "key": "C",
+          "text": "20%."
+        },
+        {
+          "key": "D",
+          "text": "50%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Tỉ trọng = 2,25 : 5,00 × 100 = 45%. A (35%) là tỉ trọng của nhóm đất nông nghiệp, C (20%) là của nhóm đất chưa sử dụng; D (50%) tương ứng với 2,50 triệu ha, lớn hơn con số 2,25 triệu ha đã cho.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "tính tỉ trọng",
+        "kĩ năng xử lí số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc dữ kiện:** Một nhóm vẽ biểu đồ tròn thể hiện cơ cấu diện tích tự nhiên của một vùng, trong đó nhóm A chiếm 30%; biết cả đường tròn ứng với 360°. Góc ở tâm của hình quạt biểu diễn nhóm A là",
+      "options": [
+        {
+          "key": "A",
+          "text": "108°."
+        },
+        {
+          "key": "B",
+          "text": "90°."
+        },
+        {
+          "key": "C",
+          "text": "120°."
+        },
+        {
+          "key": "D",
+          "text": "60°."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Mỗi 1% ứng với 3,6°, nên 30% ứng với 360 × 30 : 100 = 108°. B (90°) tương ứng 25%, C (120°) tương ứng khoảng 33%, D (60°) tương ứng khoảng 17%; các số này chỉ dùng được khi tính đúng theo li số phần trăm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "vẽ biểu đồ tròn",
+        "kĩ năng tính góc"
+      ]
+    },
+    {
+      "id": "dia12-b04-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong một bảng cơ cấu chỉ có ba thành phần, hai thành phần đầu có tỉ trọng 25% và 45%. Thành phần còn lại có tỉ trọng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "20%."
+        },
+        {
+          "key": "B",
+          "text": "35%."
+        },
+        {
+          "key": "C",
+          "text": "30%."
+        },
+        {
+          "key": "D",
+          "text": "70%."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Tổng tỉ trọng của mọi bảng cơ cấu phải bằng 100%, nên thành phần thứ ba = 100 − (25 + 45) = 30%. A và B là kết quả trừ nhầm; D (70%) chính là 100 − 30, tức là tổng của hai thành phần đầu chứ không phải phần còn lại.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "tính tỉ trọng",
+        "kiểm tra số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc bảng số liệu:** diện tích rừng của một vùng trong báo cáo là 200 nghìn ha vào năm 2010 và 250 nghìn ha vào năm 2020. Nếu lấy năm 2010 làm gốc (bằng 100%) thì chỉ số phát triển của diện tích rừng năm 2020 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "120%."
+        },
+        {
+          "key": "B",
+          "text": "125%."
+        },
+        {
+          "key": "C",
+          "text": "25%."
+        },
+        {
+          "key": "D",
+          "text": "150%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Chỉ số phát triển = 250 : 200 × 100 = 125%. C (25%) là **tốc độ tăng thêm** so với gốc, dễ nhầm với chỉ số phát triển; A (120%) và D (150%) là các giá trị không khớp với phép chia 250 cho 200.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "chỉ số phát triển",
+        "kĩ năng xử lí số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc dữ kiện:** Để chứng minh sự phân hoá thiên nhiên theo độ cao, một nhóm dùng số liệu nhiệt độ ở chân núi (độ cao 0 m) là 25,4 °C và quy luật cứ lên cao 100 m thì nhiệt độ giảm 0,6 °C. Nhiệt độ dự tính ở độ cao 1000 m là",
+      "options": [
+        {
+          "key": "A",
+          "text": "19,4 °C."
+        },
+        {
+          "key": "B",
+          "text": "24,8 °C."
+        },
+        {
+          "key": "C",
+          "text": "20,0 °C."
+        },
+        {
+          "key": "D",
+          "text": "18,8 °C."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** 1000 m tương ứng 10 lần mức giảm 0,6 °C, tức giảm 6,0 °C; nhiệt độ ở 1000 m = 25,4 − 6,0 = 19,4 °C. B chỉ giảm 0,6 °C một lần; C là số tròn hay được ước lượng; D giảm 6,6 °C (tính thừa một lần 0,6 °C).",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "tính toán theo độ cao",
+        "dẫn chứng cho báo cáo"
+      ]
+    },
+    {
+      "id": "dia12-b04-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc bảng số liệu:** nhiệt độ trung bình của một trạm khí tượng được trích trong báo cáo: tháng I 18,4 °C, tháng IV 26,5 °C, tháng VII 30,1 °C, tháng X 25,0 °C. Biên độ nhiệt độ của trạm này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "3,6 °C."
+        },
+        {
+          "key": "B",
+          "text": "6,6 °C."
+        },
+        {
+          "key": "C",
+          "text": "5,1 °C."
+        },
+        {
+          "key": "D",
+          "text": "11,7 °C."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Biên độ nhiệt = giá trị lớn nhất trừ giá trị nhỏ nhất = 30,1 − 18,4 = 11,7 °C. B là phép tính 25,0 − 18,4, tức lấy tháng cuối trừ tháng đầu; A và C là hiệu của các cặp tháng liền kề, không phải cặp tháng nóng nhất và lạnh nhất.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "đọc bảng số liệu",
+        "biên độ nhiệt"
+      ]
+    },
+    {
+      "id": "dia12-b04-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong báo cáo, thay một đoạn mô tả dài bằng một sơ đồ thể hiện mối liên hệ giữa các nhân tố khí hậu, địa hình, đất và sinh vật. Tác dụng **chủ yếu** của sơ đồ đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm tăng số trang của báo cáo."
+        },
+        {
+          "key": "B",
+          "text": "Chứng minh báo cáo có sử dụng tài liệu nước ngoài."
+        },
+        {
+          "key": "C",
+          "text": "Thể hiện gọn gàng mối quan hệ nhân quả, làm nội dung trừu tượng trở nên trực quan và dễ nhớ."
+        },
+        {
+          "key": "D",
+          "text": "Thay thế hoàn toàn phần lời nhận xét và giải thích."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Sơ đồ cô đọng hoá quan hệ giữa các yếu tố, giúp người đọc nắm cấu trúc lập luận nhanh hơn hàng chục dòng mô tả. A và B không phải mục đích khoa học; D sai vì sơ đồ chỉ minh hoạ, vẫn cần lời nhận xét và giải thích đi kèm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "ưu điểm của sơ đồ"
+      ]
+    },
+    {
+      "id": "dia12-b04-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc dữ kiện:** Một bảng trong báo cáo có 4 dòng ứng với 4 năm (2015, 2017, 2019, 2021) và 3 cột ứng với 3 nhóm chỉ tiêu. Số ô cần điền giá trị số liệu (không tính ô tiêu đề) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "7 ô."
+        },
+        {
+          "key": "B",
+          "text": "12 ô."
+        },
+        {
+          "key": "C",
+          "text": "9 ô."
+        },
+        {
+          "key": "D",
+          "text": "24 ô."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Mỗi giao điểm của một dòng năm với một cột chỉ tiêu là một ô số liệu, nên 4 × 3 = 12 ô. A là 4 + 3, tức nhầm số dòng cộng số cột; C là kết quả của bảng 3 năm hoặc 3 nhân 3; D nhân thêm một cột tổng số không có trong dữ kiện.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "đọc bảng số liệu",
+        "kĩ năng đếm dữ liệu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc dữ kiện:** Một bảng trong báo cáo chỉ ghi ba dòng: lượng mưa 1800, nhiệt độ 25, độ cao 1500; không có tên bảng, không có năm và không có nguồn. Lỗi nghiêm trọng **nhất** của bảng này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiếu đơn vị tính, thiếu tên bảng, thiếu năm và nguồn nên không ai kiểm chứng được con số nói gì."
+        },
+        {
+          "key": "B",
+          "text": "Các con số đều tròn nên trông không tự nhiên."
+        },
+        {
+          "key": "C",
+          "text": "Số chỉ tiêu quá ít, một bảng bắt buộc phải có từ mười dòng trở lên."
+        },
+        {
+          "key": "D",
+          "text": "Độ cao phải viết bằng xăng ti mét, lượng mưa phải tính bằng lít."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Cùng một con số có thể là milimét, độ C hay mét; không có đơn vị, tên bảng, năm và nguồn thì bảng mất hoàn toàn giá trị khoa học. B là nhận xét thẩm mĩ, không phải lỗi nghiệp vụ; C đặt ra quy định không tồn tại; D đề xuất đổi đơn vị một cách máy móc, trái với nguyên tắc chọn đơn vị phù hợp với độ lớn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "lỗi trình bày số liệu",
+        "đơn vị tính"
+      ]
+    },
+    {
+      "id": "dia12-b04-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong báo cáo, phần **nhận xét** một biểu đồ cần nêu những nội dung nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ cần chép lại tên biểu đồ và đơn vị của các đại lượng."
+        },
+        {
+          "key": "B",
+          "text": "Các giá trị nổi bật (lớn nhất, nhỏ nhất), mức tăng hay giảm qua từng mốc thời gian và khoảng cách chênh lệch giữa các đối tượng được so sánh."
+        },
+        {
+          "key": "C",
+          "text": "Nguyên nhân khiến số liệu thay đổi giữa hai mốc thời gian."
+        },
+        {
+          "key": "D",
+          "text": "Các thao tác khi vẽ: dựng trục, chia khoảng cách trên trục, ghi số vào đầu cột."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nhận xét là trả lời câu hỏi số liệu nói gì: giá trị đặc trưng, xu hướng biến động và mức độ chênh lệch. C thuộc phần giải thích, không phải nhận xét; A mới chỉ dừng ở hình thức của biểu đồ; D là mô tả kĩ thuật vẽ, người đọc báo cáo không cần.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "nhận xét biểu đồ"
+      ]
+    },
+    {
+      "id": "dia12-b04-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Phần **giải thích** của một báo cáo địa lí có nhiệm vụ nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trình bày lại các số liệu theo đúng thứ tự đã xuất hiện trong bảng."
+        },
+        {
+          "key": "B",
+          "text": "Liệt kê tên sách và trang thông tin đã dùng, xếp theo thứ tự chữ cái của tên tác giả."
+        },
+        {
+          "key": "C",
+          "text": "Kể chi tiết thời tiết và phương tiện di chuyển của nhóm trong các buổi đi thực địa."
+        },
+        {
+          "key": "D",
+          "text": "Phân tích mối quan hệ nhân quả để làm rõ vì sao số liệu lại biến động như đã nhận xét, đồng thời chỉ ra những vấn đề đặt ra."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Giải thích chuyển từ mô tả sang phân tích: chỉ ra nguyên nhân của các biến động và ý nghĩa của chúng. A là phần trình bày số liệu; B là danh mục tài liệu tham khảo; C là tư liệu về quá trình làm việc, thường để ở phần phụ lục hoặc lời nói đầu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "phần giải thích"
+      ]
+    },
+    {
+      "id": "dia12-b04-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Đoạn văn nào sau đây diễn đạt **đúng và rõ** quan hệ nguyên nhân – kết quả trong một báo cáo về sự phân hoá tự nhiên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiên nhiên nước ta phân hoá theo độ cao. Nhiệt độ giảm dần theo cao độ."
+        },
+        {
+          "key": "B",
+          "text": "Nhiệt độ giảm theo cao độ. Thiên nhiên phân hoá theo độ cao."
+        },
+        {
+          "key": "C",
+          "text": "Sự giảm nhiệt theo cao độ và sự phân hoá theo độ cao diễn ra song song."
+        },
+        {
+          "key": "D",
+          "text": "Do cứ lên cao 100 m nhiệt độ lại giảm khoảng 0,6 °C, nên từ chân núi lên đỉnh núi hình thành các đai khí hậu khác nhau; kéo theo đó, đất và thảm thực vật cũng thay đổi theo."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Cặp từ do nên xác nhận hướng tác động, vế sau chỉ rõ kết quả dây chuyền (nhiệt độ, rồi đất và thực vật). A và B chỉ đặt hai nhận định cạnh nhau mà không nói cái nào là nguyên nhân; C dùng quan hệ song song, trung tính về hướng nhân quả, nên chưa giải thích được gì.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "diễn đạt nguyên nhân – kết quả"
+      ]
+    },
+    {
+      "id": "dia12-b04-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi viết một đoạn giải thích trong báo cáo, cách mở đầu nào sau đây **phù hợp nhất**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguyên nhân chủ yếu của hiện tượng trên là..., bên cạnh đó còn có..."
+        },
+        {
+          "key": "B",
+          "text": "Theo em thì hiện tượng đó khá thú vị và gây ấn tượng."
+        },
+        {
+          "key": "C",
+          "text": "Số liệu nói trên đã được trình bày ở bảng 1."
+        },
+        {
+          "key": "D",
+          "text": "Báo cáo của nhóm gồm ba phần như phần mở đầu đã nêu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Cách mở đầu này vào thẳng quan hệ nhân quả và biết xếp hạng nhân tố (chủ yếu, thứ yếu), đúng yêu cầu của phần giải thích. B là cảm nhận cá nhân, thiếu tính khách quan; C chỉ dẫn lại bảng, thuộc phần trình bày số liệu; D là thông tin về hình thức của báo cáo.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "viết đoạn giải thích"
+      ]
+    },
+    {
+      "id": "dia12-b04-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một báo cáo cần thể hiện **cơ cấu** diện tích tự nhiên của một vùng gồm 4 nhóm đất, chỉ trong một năm. Loại biểu đồ **phù hợp nhất** là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ đường."
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ cột đơn."
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ tròn."
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ kết hợp cột và đường."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Biểu đồ tròn thể hiện tốt nhất cấu trúc của một tổng thể tại một thời điểm, vì mỗi hình quạt cho thấy tỉ trọng trong 100%. A và D dùng khi cần thấy xu hướng biến động theo thời gian; B phù hợp để so sánh độ lớn của các đại lượng hơn là thể hiện quan hệ với tổng số.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "chọn loại biểu đồ"
+      ]
+    },
+    {
+      "id": "dia12-b04-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng số liệu trong báo cáo cho nhiệt độ trung bình năm của cùng một trạm khí tượng qua 6 năm liên tiếp; mục đích là làm nổi bật **tốc độ tăng giảm**. Loại biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ tròn."
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ đường."
+        },
+        {
+          "key": "C",
+          "text": "Một biểu đồ tròn cho mỗi năm."
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ cột đơn chỉ vẽ năm đầu và năm cuối."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Chuỗi số liệu của cùng một đối tượng qua nhiều mốc thời gian được thể hiện bằng biểu đồ đường, vì độ dốc của đường cho thấy tốc độ biến động. A và C sai vì biểu đồ tròn dùng cho cơ cấu của một tổng thể; D làm mất các mốc trung gian nên không thấy được xu hướng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "chọn loại biểu đồ"
+      ]
+    },
+    {
+      "id": "dia12-b04-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây **đúng** khi so sánh ưu điểm của bảng số liệu và biểu đồ trong báo cáo địa lí?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảng số liệu cho thấy xu hướng biến đổi nhanh hơn biểu đồ."
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ giúp người đọc tra lại từng giá trị chính xác đến hết các chữ số thập phân."
+        },
+        {
+          "key": "C",
+          "text": "Bảng và biểu đồ có ưu điểm giống nhau nên chỉ cần dùng một trong hai loại."
+        },
+        {
+          "key": "D",
+          "text": "Bảng số liệu giữ được giá trị chính xác của từng con số, còn biểu đồ làm nổi bật cơ cấu, sự so sánh và xu hướng một cách trực quan."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Hai hình thức bổ sung cho nhau: bảng để tra chính xác, biểu đồ để nhìn thấy quy luật; vì thế báo cáo tốt thường kèm cả hai. A và B đảo ngược ưu điểm của nhau; C phủ nhận tính bổ sung, dẫn tới hoặc mất chi tiết hoặc mất trực quan.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "bảng số liệu và biểu đồ"
+      ]
+    },
+    {
+      "id": "dia12-b04-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc sử dụng bảng số liệu, biểu đồ và sơ đồ trong báo cáo địa lí có ưu điểm **nổi bật** nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cô đọng được nhiều số liệu và nhiều mối quan hệ, giúp so sánh nhanh và tiết kiệm lời mô tả."
+        },
+        {
+          "key": "B",
+          "text": "Làm báo cáo dài thêm và không còn phải viết phần nhận xét."
+        },
+        {
+          "key": "C",
+          "text": "Bảo đảm số liệu luôn mới nên không cần ghi nguồn."
+        },
+        {
+          "key": "D",
+          "text": "Thay thế được phần kết luận của báo cáo."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Hình thức biểu đạt cô đọng cho phép một trang bảng hoặc sơ đồ truyền tải lượng thông tin mà phần lời phải viết rất dài, đồng thời dễ so sánh. B sai vì bảng biểu luôn cần lời nhận xét; C sai vì dù trình bày cách nào vẫn phải ghi nguồn và năm; D sai vì kết luận là khái quát kết quả nghiên cứu.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "ưu điểm của bảng biểu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong một báo cáo có ba đoạn được chép nguyên văn từ sách tham khảo, không đặt trong ngoặc kép và không ghi tên tác giả. Đây là lỗi nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lỗi dùng số liệu chưa được làm tròn."
+        },
+        {
+          "key": "B",
+          "text": "Lỗi trình bày tên bảng ở phía dưới bảng."
+        },
+        {
+          "key": "C",
+          "text": "Lỗi sao chép nguyên văn mà không trích dẫn, tức không tôn trọng tài liệu của người khác."
+        },
+        {
+          "key": "D",
+          "text": "Lỗi dùng các đơn vị tính không thống nhất."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Muốn dùng nguyên văn lời của người khác phải đặt trong ngoặc kép và ghi rõ tác giả, năm, trang; nếu không thì coi như lấy công trình của người khác làm của mình. A, B, D đều là lỗi thuộc nhóm khác (xử lí số liệu, trình bày bảng, đơn vị tính), không liên quan tới việc chép văn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "trích dẫn nguồn",
+        "lỗi thường gặp"
+      ]
+    },
+    {
+      "id": "dia12-b04-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc tình huống:** Trong bản nháp báo cáo, nhóm viết phần kết luận trước rồi mới viết phần nội dung; tên bảng được đặt ở phía dưới bảng; chỗ ghi diện tích theo kilômét vuông, chỗ khác theo ha. Phát biểu nào sau đây **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cả ba cách làm đều chấp nhận được vì người đọc sẽ tự hiểu."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ cần đổi ha thành kilômét vuông, còn thứ tự viết các phần không quan trọng."
+        },
+        {
+          "key": "C",
+          "text": "Đặt tên bảng ở phía dưới là quy định bắt buộc của báo cáo địa lí."
+        },
+        {
+          "key": "D",
+          "text": "Bản nháp mắc ba lỗi: kết luận không thể có trước khi nội dung được chứng minh, tên bảng phải đặt ở phía trên và một bảng chỉ nên dùng một đơn vị diện tích thống nhất."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Kết luận phải được rút ra từ nội dung; tên bảng đặt phía trên để người đọc biết bảng nói gì trước khi xem số; trộn kilômét vuông với ha trong cùng một cột khiến các con số không so sánh được. A và B coi nhẹ lỗi cấu trúc và đơn vị; C ngược quy ước trình bày.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "lỗi thường gặp",
+        "đơn vị tính"
+      ]
+    },
+    {
+      "id": "dia12-b04-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc bảng số liệu:** nhiệt độ trung bình của một trạm được trích trong báo cáo: tháng I 18,4 °C, tháng IV 26,5 °C, tháng VII 30,1 °C, tháng X 25,0 °C. Giá trị trung bình của bốn tháng này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "24,5 °C."
+        },
+        {
+          "key": "B",
+          "text": "25,0 °C."
+        },
+        {
+          "key": "C",
+          "text": "26,0 °C."
+        },
+        {
+          "key": "D",
+          "text": "100,0 °C."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Tổng bốn giá trị là 18,4 + 26,5 + 30,1 + 25,0 = 100,0 °C; chia cho 4 tháng được 25,0 °C. D là tổng chưa chia cho số tháng; A và C là kết quả tính nhầm hoặc lấy trung bình của hai tháng giữa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "tính giá trị trung bình",
+        "đọc bảng số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc dữ kiện:** Để tính tổng nhiệt của một tháng, một nhóm dùng công thức: lấy nhiệt độ trung bình tháng trừ đi ngưỡng 5 °C, rồi nhân với số ngày của tháng. Tháng đó có nhiệt độ trung bình 20,0 °C và dài 30 ngày. Giá trị cần ghi vào bảng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "450."
+        },
+        {
+          "key": "B",
+          "text": "600."
+        },
+        {
+          "key": "C",
+          "text": "300."
+        },
+        {
+          "key": "D",
+          "text": "150."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** (20,0 − 5) × 30 = 15 × 30 = 450, kèm đơn vị là độ nhân với ngày. B là 20 × 30, tức quên trừ ngưỡng 5 °C; C là 15 × 20, nhầm số ngày; D là 5 × 30, lấy ngược lại phần bị trừ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "tính toán từ dữ kiện",
+        "dẫn chứng cho báo cáo"
+      ]
+    },
+    {
+      "id": "dia12-b04-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng nháp của một báo cáo ghi diện tích rừng là 24,356 triệu ha. Khi trình bày, nhóm thống nhất giữ **một** chữ số thập phân. Giá trị làm tròn đúng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "24,3 triệu ha."
+        },
+        {
+          "key": "B",
+          "text": "24,35 triệu ha."
+        },
+        {
+          "key": "C",
+          "text": "24,4 triệu ha."
+        },
+        {
+          "key": "D",
+          "text": "24,0 triệu ha."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Lấy một chữ số thập phân thì xét chữ số thứ hai là 5, nên chữ số thứ nhất tăng từ 3 lên 4: 24,356 thành 24,4 triệu ha. A là cắt bỏ đơn thuần, không làm tròn; B giữ hai chữ số, trái quy định đã thống nhất; D làm tròn mất chính xác không cần thiết.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "làm tròn số liệu",
+        "trình bày bảng"
+      ]
+    },
+    {
+      "id": "dia12-b04-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một báo cáo viết về đai cận nhiệt trên núi ở khu vực Tây Nguyên. Khi xác định phạm vi lãnh thổ theo cách chia hiện hành (bản chỉnh sửa 2026), cách viết nào sau đây là **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xếp khu vực Tây Nguyên vào vùng Trung du và miền núi phía Bắc."
+        },
+        {
+          "key": "B",
+          "text": "Dùng tên vùng Duyên hải Nam Trung Bộ và Tây Nguyên, vì cả nước hiện có 34 tỉnh, thành phố và 6 vùng kinh tế – xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Dùng cách chia cũ với 63 tỉnh, thành phố và 7 vùng kinh tế – xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Tách Tây Nguyên thành một vùng riêng đứng ngoài 6 vùng hiện có."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Theo bản chỉnh sửa 2026, cả nước có 34 tỉnh, thành phố và 6 vùng kinh tế – xã hội, trong đó Tây Nguyên được tổ chức chung với Duyên hải Nam Trung Bộ thành một vùng. A sai vì Tây Nguyên không thuộc miền bắc; C dùng cách chia cũ, lỗi thường gặp khi số liệu không được cập nhật; D tạo ra cách chia không tồn tại.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "phạm vi lãnh thổ",
+        "cập nhật số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b04-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc bảng số liệu:** hai địa điểm A và B nằm gần nhau. Nhiệt độ trung bình tháng I: A 13,7 °C, B 25,9 °C. Nhiệt độ trung bình tháng VII: A 18,4 °C, B 27,5 °C. Phát biểu nào sau đây **chỉ dựa vào bảng số liệu đã cho** là chắc chắn đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Địa điểm A nằm ở độ cao lớn hơn địa điểm B."
+        },
+        {
+          "key": "B",
+          "text": "Địa điểm A có mùa mưa kéo dài hơn địa điểm B."
+        },
+        {
+          "key": "C",
+          "text": "Biên độ nhiệt độ của A lớn hơn biên độ nhiệt độ của B là 3,1 °C."
+        },
+        {
+          "key": "D",
+          "text": "Địa điểm A thuộc phần lãnh thổ phía Bắc, địa điểm B thuộc phần lãnh thổ phía Nam."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Từ bảng: biên độ của A là 18,4 − 13,7 = 4,7 °C, của B là 27,5 − 25,9 = 1,6 °C, chênh lệch 3,1 °C; đây là kết quả tính trực tiếp trên số liệu đã cho. A và D là suy diễn, vì bảng không có số liệu về độ cao, vĩ độ hay vị trí; B nói về lượng mưa, hoàn toàn không xuất hiện trong bảng. Đây chính là lỗi lẫn lộn giữa điều số liệu chứng minh được và điều người viết tự đoán.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "đọc bảng số liệu",
+        "phân biệt dẫn chứng và suy diễn"
+      ]
+    },
+    {
+      "id": "dia12-b04-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** khi sử dụng và trình bày số liệu trong một báo cáo địa lí?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mỗi số liệu đều phải kèm đơn vị tính, năm và nguồn được lấy số liệu."
+        },
+        {
+          "key": "B",
+          "text": "Có thể để số liệu không ghi nguồn, chỉ cần cuối báo cáo có danh mục tài liệu tham khảo là đủ."
+        },
+        {
+          "key": "C",
+          "text": "Nên thống nhất một đơn vị tính và cùng số chữ số thập phân trong toàn bộ bảng."
+        },
+        {
+          "key": "D",
+          "text": "Cần kiểm tra xem tổng tỉ trọng của các thành phần trong một bảng cơ cấu có bằng 100% hay không."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, C, D.** Ba yêu cầu này bảo đảm số liệu tra lại được, so sánh được và tự kiểm chứng được về mặt số học. B sai vì danh mục tài liệu tham khảo chỉ liệt kê nguồn nói chung; từng bảng, từng con số vẫn phải ghi rõ nguồn và năm ở ngay chỗ dẫn số liệu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "sử dụng số liệu",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b04-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về phần Nội dung của báo cáo thực hành?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hệ thống đề mục của phần nội dung phải bám sát mục tiêu đã nêu ở phần mở đầu."
+        },
+        {
+          "key": "B",
+          "text": "Mỗi luận điểm cần có dẫn chứng bằng số liệu, bảng số liệu hoặc ví dụ cụ thể."
+        },
+        {
+          "key": "C",
+          "text": "Nên đưa toàn bộ tài liệu thu thập được vào báo cáo để chứng minh nhóm đã làm việc nhiều."
+        },
+        {
+          "key": "D",
+          "text": "Lời nhận xét và giải thích phải đi kèm bảng số liệu hoặc biểu đồ, không nên chỉ trình bày bảng biểu đơn thuần."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, B, D.** Phần nội dung có logic mở đầu – thân bài – dẫn chứng – giải thích, và bảng biểu chỉ có ý nghĩa khi được lời văn phân tích. C sai vì báo cáo chỉ chọn lọc những tài liệu phục vụ trực tiếp cho đề mục; nhồi toàn bộ tư liệu là lỗi lan man, làm mờ luận điểm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "phần nội dung",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b04-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về việc lựa chọn và trình bày biểu đồ trong báo cáo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ miền thích hợp để thể hiện sự thay đổi cơ cấu của các đối tượng qua nhiều mốc thời gian."
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ tròn được dùng khi cần so sánh giá trị tuyệt đối của các đối tượng mà không cần biết tổng số."
+        },
+        {
+          "key": "C",
+          "text": "Khi vẽ biểu đồ phải ghi tên biểu đồ, đơn vị tính và chú thích đầy đủ cho từng đối tượng."
+        },
+        {
+          "key": "D",
+          "text": "Mỗi bảng số liệu chỉ có thể được vẽ bằng một loại biểu đồ duy nhất."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, C.** Biểu đồ miền cho thấy cả quy mô lẫn sự chuyển dịch cơ cấu theo thời gian; tên biểu đồ, đơn vị và chú thích là điều kiện để biểu đồ tự giải thích được. B sai vì biểu đồ tròn thể hiện **cơ cấu** trong tổng số, muốn vẽ phải biết tổng; D sai vì cùng một bảng có thể chọn cột, đường, tròn hay miền tuỳ mục đích phân tích.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "biểu đồ",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b04-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** khi diễn đạt mối quan hệ nguyên nhân – kết quả trong báo cáo về sự phân hoá tự nhiên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nên dùng các cặp quan hệ từ như do... nên..., vì... nên..., nhờ... mà... để chỉ rõ hướng tác động."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ cần thấy hai hiện tượng xuất hiện cùng thời điểm là kết luận hiện tượng này là nguyên nhân của hiện tượng kia."
+        },
+        {
+          "key": "C",
+          "text": "Cần phân biệt nhân tố chủ yếu với nhân tố thứ yếu và tránh tuyệt đối hoá một nguyên nhân duy nhất."
+        },
+        {
+          "key": "D",
+          "text": "Mỗi quan hệ nhân quả nêu ra nên được đỡ bằng một dẫn chứng cụ thể lấy từ bảng số liệu hoặc sơ đồ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, C, D.** Ba yêu cầu này làm cho lập luận rõ hướng, có trọng tâm và có bằng chứng. B là lỗi ngụy biện lấy sự trùng hợp thời gian làm quan hệ nhân quả; ví dụ hai vùng cùng mưa vào một tháng chưa chắc đã có quan hệ nhân quả với nhau.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "nguyên nhân – kết quả",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b04-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b04-thuc-hanh-phan-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về các lỗi thường gặp khi viết báo cáo thực hành địa lí?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Diễn giải sự phân hoá bằng cảm tính, thiếu số liệu dẫn chứng nên người đọc không kiểm chứng được."
+        },
+        {
+          "key": "B",
+          "text": "Đưa thêm số liệu mới ở phần kết luận, tức là nêu thông tin mà phần nội dung chưa từng chứng minh."
+        },
+        {
+          "key": "C",
+          "text": "Dùng số liệu của các năm khác nhau trong cùng một bảng so sánh mà không ghi rõ năm, dẫn tới nhận xét sai lệch."
+        },
+        {
+          "key": "D",
+          "text": "Đặt tên bảng ở phía trên bảng và ghi rõ nguồn số liệu ở cuối bảng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, B, C.** Ba trường hợp đều là lỗi phổ biến: thiếu dẫn chứng, kết luận chứa thông tin mới và trộn mốc thời gian trong bảng so sánh. D không phải lỗi mà là yêu cầu đúng về trình bày bảng, nên không được chọn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 4",
+        "lỗi thường gặp",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

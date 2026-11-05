@@ -1,0 +1,960 @@
+{
+  "id": "de-ktpl-12-bai-09",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 – Bài 9: Quyền và nghĩa vụ của công dân về sở hữu tài sản và tôn trọng tài sản của người khác",
+  "slug": "de-ktpl-12-bai-09",
+  "description": "Đề ôn tập bám sát Bài 9 Giáo dục Kinh tế và Pháp luật 12: quyền sở hữu và ba quyền năng chiếm hữu, sử dụng, định đoạt; căn cứ xác lập quyền sở hữu hợp pháp; quyền thừa kế; nghĩa vụ của công dân về tôn trọng tài sản của người khác. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-B9",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "ktpl12-b09-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Quyền sở hữu đối với tài sản của công dân là",
+      "options": [
+        {
+          "key": "A",
+          "text": "quyền được giao quản lí tài sản công để sử dụng lâu dài cho mục đích riêng của gia đình mình."
+        },
+        {
+          "key": "B",
+          "text": "quyền chiếm giữ tài sản của người khác trong thời gian dài cho tới khi có người đến nhận lại."
+        },
+        {
+          "key": "C",
+          "text": "quyền tự do sử dụng mọi tài sản đang có trong đời sống khi chưa thấy ai đứng tên chủ sở hữu."
+        },
+        {
+          "key": "D",
+          "text": "quyền của công dân đối với tài sản thuộc sở hữu hợp pháp của mình, gồm chiếm hữu, sử dụng và định đoạt."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Quyền sở hữu là quyền của chủ sở hữu đối với tài sản thuộc sở hữu hợp pháp của mình và bao gồm ba quyền năng: chiếm hữu, sử dụng, định đoạt (D đúng). A sai vì tài sản công không đương nhiên trở thành sở hữu cá nhân; B nhầm việc chiếm giữ tài sản đánh rơi, bỏ quên với xác lập quyền sở hữu; C trái nguyên tắc vì mọi quyền sở hữu đều phải có căn cứ pháp luật.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Quyền sở hữu",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Ba quyền năng của chủ sở hữu đối với tài sản là",
+      "options": [
+        {
+          "key": "A",
+          "text": "quyền mua tài sản, quyền bán tài sản và quyền cho thuê tài sản."
+        },
+        {
+          "key": "B",
+          "text": "quyền chiếm hữu, quyền sử dụng và quyền định đoạt tài sản."
+        },
+        {
+          "key": "C",
+          "text": "quyền tạo lập tài sản, quyền kê khai tài sản và quyền bảo quản tài sản."
+        },
+        {
+          "key": "D",
+          "text": "quyền sử dụng, quyền tặng cho và quyền hưởng hoa lợi, lợi tức."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nội dung quyền sở hữu gồm ba quyền năng: chiếm hữu, sử dụng và định đoạt. A và D mới liệt kê một vài hình thức cụ thể của quyền sử dụng, quyền định đoạt; C là các việc thuộc nghĩa vụ quản lí, kê khai chứ không phải ba quyền năng của chủ sở hữu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Quyền sở hữu",
+        "Ba quyền năng"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Quyền chiếm hữu tài sản là",
+      "options": [
+        {
+          "key": "A",
+          "text": "quyền nắm giữ, quản lí tài sản thuộc sở hữu hợp pháp của mình hoặc tài sản được chủ sở hữu giao quản lí theo thoả thuận."
+        },
+        {
+          "key": "B",
+          "text": "quyền khai thác công dụng của tài sản và hưởng hoa lợi, lợi tức từ tài sản đó."
+        },
+        {
+          "key": "C",
+          "text": "quyền quyết định việc bán, tặng cho, để thừa kế tài sản thuộc sở hữu của mình."
+        },
+        {
+          "key": "D",
+          "text": "quyền lấy tài sản của người khác đang cất giữ ở nơi không có người trông coi."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chiếm hữu là quyền nắm giữ, quản lí tài sản; quyền này có thể thuộc chủ sở hữu hoặc thuộc người được chủ sở hữu giao quản lí theo hợp đồng, thoả thuận. B là quyền sử dụng, C là quyền định đoạt, D là hành vi xâm phạm tài sản của người khác nên đều sai.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Quyền chiếm hữu",
+        "Khái niệm"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Tiền lãi mà anh M nhận được từ khoản gửi tiết kiệm và số trứng gia đình cô E thu được từ đàn gà do nhà nuôi là kết quả của việc khai thác công dụng tài sản. Chúng được gọi là",
+      "options": [
+        {
+          "key": "A",
+          "text": "di sản mà chủ sở hữu để lại cho người thân khi không còn nhu cầu sử dụng tài sản."
+        },
+        {
+          "key": "B",
+          "text": "tài sản chung của các thành viên trong gia đình vì mọi người đều tham gia cất giữ nó."
+        },
+        {
+          "key": "C",
+          "text": "hoa lợi, lợi tức, kết quả của việc thực hiện quyền sử dụng tài sản."
+        },
+        {
+          "key": "D",
+          "text": "phần tài sản thuộc sở hữu của bên nhận giữ hộ vì đã bỏ công bảo quản."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Quyền sử dụng là quyền khai thác công dụng của tài sản và hưởng hoa lợi, lợi tức từ tài sản; trứng thu được là hoa lợi, tiền lãi là lợi tức. A nhầm với di sản thừa kế, B nhầm với tài sản chung gia đình, D nhầm với thù lao giữ hộ, đều không phải nội dung quyền sử dụng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Quyền sử dụng",
+        "Hoa lợi, lợi tức"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các hành vi sau đây của anh K đối với chiếc xe máy thuộc sở hữu của mình, hành vi nào thể hiện quyền định đoạt?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cho người thân xem chiếc xe và giải thích nguồn gốc hợp pháp của nó."
+        },
+        {
+          "key": "B",
+          "text": "Kí hợp đồng bán chiếc xe cho người có nhu cầu và giao xe cho người mua."
+        },
+        {
+          "key": "C",
+          "text": "Đem chiếc xe đi bảo dưỡng định kì tại một cửa hàng có uy tín."
+        },
+        {
+          "key": "D",
+          "text": "Cất chiếc xe trong garage và khoá cổng để giữ gìn hằng đêm."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Định đoạt là quyền quyết định số phận pháp lí hoặc thực tế của tài sản như bán, tặng cho, để thừa kế, bỏ; việc kí hợp đồng bán và giao xe là định đoạt. A chỉ là giới thiệu tài sản, C và D là việc giữ gìn, bảo quản thuộc chiếm hữu và sử dụng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Quyền định đoạt",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Người không phải chủ sở hữu vẫn được coi là chiếm hữu tài sản hợp pháp khi",
+      "options": [
+        {
+          "key": "A",
+          "text": "đã giữ tài sản đó một cách liên tục, công khai qua nhiều năm mà chưa thấy ai đòi lại."
+        },
+        {
+          "key": "B",
+          "text": "tài sản ấy đang được bày ra ở cửa hàng nhưng chưa có ai kí hợp đồng mua."
+        },
+        {
+          "key": "C",
+          "text": "người quản lí cửa hàng thấy tài sản để lâu không ai dùng nên tự ý lấy dùng cho việc riêng."
+        },
+        {
+          "key": "D",
+          "text": "chủ sở hữu cho thuê, cho mượn hoặc giao giữ hộ tài sản theo hợp đồng, thoả thuận."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chủ sở hữu có thể chuyển quyền chiếm hữu cho người khác bằng hợp đồng cho thuê, cho mượn, gửi giữ; người nhận khi đó chiếm hữu có căn cứ pháp luật. A sai vì thời gian chiếm giữ không đương nhiên tạo ra quyền sở hữu hợp pháp; B sai vì bày bán chưa làm chuyển dịch quyền sở hữu; C là hành vi tự ý sử dụng, xâm phạm tài sản.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Chiếm hữu hợp pháp",
+        "Căn cứ pháp luật"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Trường hợp nào sau đây là căn cứ xác lập quyền sở hữu tài sản hợp pháp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ông K nhận chuyển nhượng căn nhà từ chủ sở hữu theo hợp đồng mua bán hợp pháp và đã thanh toán đủ."
+        },
+        {
+          "key": "B",
+          "text": "Một người tự ý lấy xe máy để trong sân nhà người khác với lí do hai bên là họ hàng."
+        },
+        {
+          "key": "C",
+          "text": "Chị T nhặt được chiếc điện thoại đánh rơi trên đường nên mang về dùng làm tài sản của mình."
+        },
+        {
+          "key": "D",
+          "text": "Anh P giữ lại món hàng mà khách đã trả tiền nhưng chuyển nhầm tới nhà anh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận tài sản do được chuyển quyền sở hữu từ người khác theo hợp đồng hợp pháp là căn cứ xác lập quyền sở hữu. B là hành vi chiếm đoạt; C và D là chiếm giữ tài sản của người khác, người nhặt được, người nhận nhầm phải trả lại hoặc thông báo cho cơ quan có thẩm quyền.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Căn cứ xác lập quyền sở hữu",
+        "Hợp đồng chuyển nhượng"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về việc hạn chế quyền sở hữu hợp pháp của công dân?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ sở kinh doanh được huy động tài sản đang để không của các hộ trong vùng khi cần thêm vốn."
+        },
+        {
+          "key": "B",
+          "text": "Gia đình có thể điều chuyển tài sản đã đứng tên một người sang người khác nếu đa số đồng ý."
+        },
+        {
+          "key": "C",
+          "text": "Quyền sở hữu chỉ bị xử lí trong các trường hợp do pháp luật quy định, vì lí do quốc phòng, an ninh, lợi ích công cộng hoặc do chủ sở hữu vi phạm nghĩa vụ tài sản của mình."
+        },
+        {
+          "key": "D",
+          "text": "Tài sản chưa được ghi trong danh mục khảo sát của địa phương thì không được pháp luật bảo hộ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Pháp luật bảo hộ quyền sở hữu hợp pháp; việc trưng mua, trưng dụng, tịch thu, xử phạt… chỉ xảy ra trong các trường hợp luật định, đúng thẩm quyền và phải thanh toán, bồi thường theo quy định. A, B là sự áp đặt của tập thể, gia đình, không phải căn cứ theo luật; D sai vì thiếu kê khai là vi phạm nghĩa vụ hành chính, không xoá bỏ quyền sở hữu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bảo hộ quyền sở hữu",
+        "Trường hợp luật định"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thể hiện nghĩa vụ của công dân về tôn trọng tài sản của người khác?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Được dùng tài sản của người khác trong thời gian ngắn nếu chủ sở hữu đang vắng mặt."
+        },
+        {
+          "key": "B",
+          "text": "Không xâm phạm tài sản của người khác bằng các hành vi trộm cắp, lừa đảo, cưỡng đoạt, huỷ hoại."
+        },
+        {
+          "key": "C",
+          "text": "Không nói ra khi trông thấy người khác làm hư hỏng tài sản của mình hoặc của tập thể."
+        },
+        {
+          "key": "D",
+          "text": "Yêu cầu chủ sở hữu phải cho mình mượn tài sản khi bản thân đang thiếu đồ dùng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nghĩa vụ cơ bản là tôn trọng tài sản của người khác, tức không được xâm phạm dưới mọi hình thức. A là chiếm hữu, sử dụng không có căn cứ pháp luật; C là thái độ bao che, chưa phải tôn trọng tài sản; D biến quyền của người khác thành nghĩa vụ của họ, trái pháp luật.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Tôn trọng tài sản người khác",
+        "Nghĩa vụ công dân"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Bạn H nhặt được một chiếc ví có giấy tờ và tiền trong sân trường. Việc làm nào sau đây phù hợp với pháp luật và nội dung bài học?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ lại giấy tờ, lấy tiền trong ví cất vào ngăn kéo của mình."
+        },
+        {
+          "key": "B",
+          "text": "Đăng ảnh chiếc ví lên mạng tìm người nhận nhưng giữ toàn bộ tiền mặt."
+        },
+        {
+          "key": "C",
+          "text": "Đợi người mất tự tìm đến hỏi thì mới trả và đòi một khoản tiền công."
+        },
+        {
+          "key": "D",
+          "text": "Giao nộp cho nhà trường hoặc cơ quan công an, chính quyền nơi gần nhất để tìm chủ sở hữu."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhặt được tài sản do người khác đánh rơi, bỏ quên thì phải trả lại cho chủ sở hữu hoặc thông báo, giao nộp cho cơ quan có thẩm quyền để tìm người mất. A và B là chiếm giữ một phần tài sản, C là đòi điều kiện trái với nghĩa vụ trả lại nên đều vi phạm quyền sở hữu của người khác.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Nhặt được của rơi",
+        "Trả lại tài sản"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Anh V mượn xe máy của chị B để đi công việc trong hai ngày. Theo đúng nghĩa vụ tôn trọng tài sản của người khác, anh V phải",
+      "options": [
+        {
+          "key": "A",
+          "text": "giữ gìn, dùng đúng mục đích đã thoả thuận, trả xe đúng hạn và bồi thường nếu làm mất, làm hỏng."
+        },
+        {
+          "key": "B",
+          "text": "cho người khác thuê lại chiếc xe trong thời gian mình chưa dùng đến."
+        },
+        {
+          "key": "C",
+          "text": "đem chiếc xe đi cầm cố lấy tiền mặt lo việc riêng, hứa sẽ chuộc lại trước hạn."
+        },
+        {
+          "key": "D",
+          "text": "độ lại dàn áo của xe cho đẹp theo sở thích rồi mới mang trả chị B."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Người mượn chỉ được chiếm hữu, sử dụng trong phạm vi thoả thuận, phải trả lại đúng hạn và chịu trách nhiệm khi làm mất, hư hỏng. B, C là tự ý cho thuê lại và cầm cố, xâm phạm quyền định đoạt của chủ sở hữu; D là làm thay đổi tài sản mượn, cũng là xâm phạm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Mượn tài sản",
+        "Nghĩa vụ trả lại"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Chị N nhận được một khoản tiền khá lớn chuyển vào tài khoản của mình do người khác chuyển nhầm. Cách xử lí nào sau đây là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chuyển khoản tiền ấy cho người thân để trả bớt món nợ đang tới hạn."
+        },
+        {
+          "key": "B",
+          "text": "Giữ lại vì tiền đã vào tài khoản của mình thì đương nhiên là của mình."
+        },
+        {
+          "key": "C",
+          "text": "Liên hệ ngân hàng hoặc cơ quan có thẩm quyền để trả lại, không chi tiêu khoản tiền đó."
+        },
+        {
+          "key": "D",
+          "text": "Rút hết tiền mặt cho khỏi bị phong toả tài khoản rồi nói là mình không nhận được."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tiền chuyển nhầm không làm phát sinh quyền sở hữu, nên người nhận phải hoàn trả hoặc nhờ cơ quan có thẩm quyền tìm chủ sở hữu. A, B, D đều là chiếm giữ, sử dụng tài sản không có căn cứ pháp luật, xâm phạm quyền sở hữu của người chuyển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chuyển khoản nhầm",
+        "Trả lại tài sản"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Biết rõ chiếc laptop là tài sản do trộm cắp mà có, anh T vẫn mua với giá rẻ rồi bán lại cho người khác. Nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anh T đã trả tiền nên có quyền sở hữu hợp pháp đối với chiếc laptop."
+        },
+        {
+          "key": "B",
+          "text": "Anh T không xác lập được quyền sở hữu và còn vi phạm quy định về mua bán, tiêu thụ tài sản do người khác phạm tội mà có."
+        },
+        {
+          "key": "C",
+          "text": "Chủ chiếc laptop mất quyền sở hữu vì tài sản đã chuyển sang tay người khác."
+        },
+        {
+          "key": "D",
+          "text": "Người mua lại của anh T được pháp luật bảo hộ tuyệt đối dù biết hay không biết nguồn gốc."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tài sản bị chiếm đoạt bất hợp pháp không tạo lập quyền sở hữu hợp pháp cho người mua biết rõ nguồn gốc; hành vi mua bán, tiêu thụ như vậy là trái pháp luật. A sai vì trả tiền không đồng nghĩa với căn cứ hợp pháp; C sai vì chủ sở hữu không mất quyền do tài sản bị chiếm đoạt; D sai vì được bảo hộ hay không còn tuỳ điều kiện luật định.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Tiêu thụ tài sản bất hợp pháp",
+        "Bảo hộ quyền sở hữu"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong lúc tức giận vì mâu thuẫn với hàng xóm, anh C phá hỏng chiếc cổng sắt và vài chậu cây cảnh của gia đình họ. Về mặt pháp lí, anh C",
+      "options": [
+        {
+          "key": "A",
+          "text": "không phải chịu trách nhiệm vì phần cổng nằm trên khu vực hai bên đang tranh chấp."
+        },
+        {
+          "key": "B",
+          "text": "chỉ bị dư luận phê bình vì mâu thuẫn hàng xóm thuộc quan hệ tình cảm."
+        },
+        {
+          "key": "C",
+          "text": "được quyền tự xử vì người hàng xóm đã có lỗi trước trong câu chuyện."
+        },
+        {
+          "key": "D",
+          "text": "đã xâm phạm tài sản của người khác, phải bồi thường thiệt hại và tuỳ tính chất còn bị xử lí theo quy định của pháp luật."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cố ý huỷ hoại, làm hư hỏng tài sản của người khác là hành vi bị pháp luật nghiêm cấm; người vi phạm phải bồi thường và có thể bị xử lí theo quy định. A, C lấy lí do tranh chấp hay lỗi của người khác để hợp thức hoá hành vi xâm phạm; B hạ thấp nghĩa vụ pháp lí thành quan hệ tình cảm nên đều sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Huỷ hoại tài sản",
+        "Bồi thường thiệt hại"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Quyền thừa kế của công dân được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "quyền để lại tài sản của mình cho người khác sau khi chết và quyền được nhận di sản theo di chúc hoặc theo pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "quyền chuyển toàn bộ tài sản cho người thân khi còn sống và không được thay đổi quyết định đó."
+        },
+        {
+          "key": "C",
+          "text": "quyền của Nhà nước trong việc quản lí mọi tài sản chưa có người đứng tên trong sổ hộ tịch."
+        },
+        {
+          "key": "D",
+          "text": "quyền đòi người thân đang sống cùng mình phải chia tài sản cho mình trước khi họ mất."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quyền thừa kế gồm cả quyền để lại di sản của người có tài sản và quyền nhận di sản của người thừa kế, thực hiện theo di chúc hoặc theo pháp luật. B phủ nhận quyền định đoạt lúc sinh thời và quyền sửa, huỷ di chúc; C và D không phải nội dung quyền thừa kế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Quyền thừa kế",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Ông L muốn định đoạt căn nhà của mình sau khi ông mất. Ý nào sau đây phù hợp với quy định của pháp luật về quyền lập di chúc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ông L chỉ được để lại tài sản cho con ruột, không được để cho người khác hay tổ chức."
+        },
+        {
+          "key": "B",
+          "text": "Di chúc của ông L có giá trị dù ông bị người khác ép viết theo nội dung họ chuẩn bị sẵn."
+        },
+        {
+          "key": "C",
+          "text": "Ông L có quyền tự nguyện để lại tài sản theo ý chí của mình, bảo đảm các điều kiện luật định về chủ thể và hình thức di chúc."
+        },
+        {
+          "key": "D",
+          "text": "Con cái trong gia đình được quyền mở và sửa nội dung di chúc của ông L sau khi ông mất."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Quyền lập di chúc là một biểu hiện của quyền định đoạt: người lập di chúc phải minh mẫn, tự nguyện và tuân thủ điều kiện pháp luật về chủ thể, hình thức. A thu hẹp sai đối tượng được nhận di sản; B vi phạm nguyên tắc tự nguyện; D là hành vi xâm phạm quyền sở hữu, quyền thừa kế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Lập di chúc",
+        "Quyền thừa kế"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Một người qua đời mà không để lại di chúc, di sản được chia theo pháp luật. Nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toàn bộ di sản đương nhiên thuộc về người đang sống cùng ngôi nhà với người đã mất."
+        },
+        {
+          "key": "B",
+          "text": "Những người thừa kế ở cùng một hàng thừa kế được hưởng phần di sản bằng nhau theo quy định của pháp luật."
+        },
+        {
+          "key": "C",
+          "text": "Người con cả trong gia đình được hưởng trọn di sản bất kể số anh, chị, em khác."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước thu toàn bộ di sản của người chết mà không để lại di chúc."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khi chia thừa kế theo pháp luật, những người cùng hàng thừa kế được hưởng phần di sản bằng nhau. A và C đặt ra căn cứ không có trong pháp luật là chỗ ở hay thứ bậc sinh con; D sai vì chỉ khi không còn ai thừa kế theo luật thì di sản mới được xử lí theo quy định của pháp luật.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thừa kế theo pháp luật",
+        "Hàng thừa kế"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Bà S qua đời để lại di sản, đồng thời còn một khoản nợ chưa trả cho người thân. Các con bà là người thừa kế. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người thừa kế không cần quan tâm đến khoản nợ vì nợ của ai thì người đó tự trả."
+        },
+        {
+          "key": "B",
+          "text": "Người thừa kế phải trả toàn bộ khoản nợ kể cả khi số nợ lớn hơn giá trị di sản được nhận."
+        },
+        {
+          "key": "C",
+          "text": "Khoản nợ chỉ còn giá trị nếu những người thừa kế tự nguyện viết giấy nhận nợ."
+        },
+        {
+          "key": "D",
+          "text": "Trong phạm vi di sản nhận được, những người thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản mà bà S để lại theo quy định của pháp luật."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhận di sản gắn với trách nhiệm thực hiện nghĩa vụ tài sản do người chết để lại, trong phạm vi di sản mình nhận được theo quy định pháp luật. A tách quyền lợi khỏi nghĩa vụ; B bắt trả vượt quá di sản, không đúng giới hạn luật định; C biến nghĩa vụ pháp lí thành sự tự nguyện tuỳ tiện.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ tài sản do người chết để lại",
+        "Quyền thừa kế"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc pháp luật tôn trọng và bảo hộ quyền sở hữu hợp pháp của công dân có ý nghĩa",
+      "options": [
+        {
+          "key": "A",
+          "text": "tạo động lực để mọi người lao động, tích luỹ, đầu tư mở rộng sản xuất, kinh doanh và ổn định đời sống."
+        },
+        {
+          "key": "B",
+          "text": "bảo đảm cho người đã có nhiều tài sản luôn giữ nguyên được mức giàu có của mình."
+        },
+        {
+          "key": "C",
+          "text": "xoá bỏ hoàn toàn khoảng cách giàu nghèo và mọi tranh chấp về tài sản trong xã hội."
+        },
+        {
+          "key": "D",
+          "text": "giúp công dân không phải thực hiện nghĩa vụ tài sản đối với Nhà nước và xã hội."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hộ quyền sở hữu giúp người dân yên tâm tạo lập, sử dụng tài sản hợp pháp, từ đó thúc đẩy lao động, đầu tư và phát triển kinh tế. B và C tuyệt đối hoá tác dụng của bảo hộ; D sai vì bảo hộ quyền sở hữu không miễn trừ nghĩa vụ của chủ sở hữu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Ý nghĩa bảo hộ quyền sở hữu",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc làm nào sau đây của học sinh thể hiện sự tôn trọng tài sản của người khác?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mượn sách của bạn rồi tự ý bán cho cửa hàng đồ cũ vì đang để không."
+        },
+        {
+          "key": "B",
+          "text": "Cất quả bóng nhặt được ở sân trường vào tủ đồ cá nhân để dùng dần."
+        },
+        {
+          "key": "C",
+          "text": "Giữ gìn đồ mượn và trả đúng hẹn; nhặt được của rơi thì trình báo để trả lại người mất."
+        },
+        {
+          "key": "D",
+          "text": "Tự ý xoá dữ liệu trong điện thoại của bạn khi mượn máy chưa được phép."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tôn trọng tài sản người khác biểu hiện ở việc không chiếm đoạt, giữ gìn nguyên vẹn tài sản mượn, hoàn trả đúng hẹn và trình báo khi nhặt được của rơi. A xâm phạm quyền định đoạt của chủ sở hữu, B chiếm giữ tài sản nhặt được, D làm hư hỏng, mất mát tài sản của bạn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Học sinh tôn trọng tài sản",
+        "Vận dụng"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Trường hợp nào sau đây khiến chủ sở hữu mất quyền sở hữu đối với tài sản của mình một cách hợp pháp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ xe gửi chiếc xe tại bãi giữ xe của khu chung cư trong một đêm."
+        },
+        {
+          "key": "B",
+          "text": "Chủ nhà cho người họ hàng mượn phòng để ở trong thời gian sửa nhà."
+        },
+        {
+          "key": "C",
+          "text": "Chiếc điện thoại bị kẻ gian lấy cắp và đang bị cất giấu ở nơi chưa xác định được."
+        },
+        {
+          "key": "D",
+          "text": "Chủ sở hữu đã kí hợp đồng mua bán, giao tài sản và nhận đủ tiền theo thoả thuận với người mua."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bán tài sản theo hợp đồng hợp pháp và đã giao nhận xong là định đoạt, làm quyền sở hữu chuyển sang người mua. A và B chỉ chuyển quyền chiếm hữu, sử dụng trong thời hạn thoả thuận; C là bị chiếm đoạt bất hợp pháp nên chủ cũ không mất quyền sở hữu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chấm dứt quyền sở hữu",
+        "Hợp đồng mua bán"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng khi phân biệt người chiếm hữu tài sản với chủ sở hữu tài sản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người đang nắm giữ tài sản luôn luôn là người có quyền sở hữu tài sản đó."
+        },
+        {
+          "key": "B",
+          "text": "Người chiếm hữu là chủ sở hữu khi việc chiếm hữu có căn cứ pháp luật, tức tài sản thuộc sở hữu hợp pháp của họ hoặc được chủ sở hữu giao theo thoả thuận."
+        },
+        {
+          "key": "C",
+          "text": "Tài sản chỉ thuộc sở hữu của người nào chứng minh được mình bỏ tiền ra mua gần nhất."
+        },
+        {
+          "key": "D",
+          "text": "Người nhận quản lí tài sản hộ đương nhiên có quyền định đoạt tài sản đó như của mình."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chiếm hữu là một quyền năng, có thể tách khỏi chủ sở hữu; chỉ khi việc chiếm giữ dựa trên căn cứ pháp luật thì người chiếm hữu mới có quyền sở hữu hoặc quyền được bảo vệ. A đánh đồng chiếm hữu với sở hữu; C lấy thời điểm trả tiền làm căn cứ tuyệt đối; D mở rộng quá mức quyền của người giữ hộ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chiếm hữu và sở hữu",
+        "Phân biệt khái niệm"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Hành vi nào sau đây không xâm phạm quyền sở hữu tài sản của người khác?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mua một chiếc xe với giá thấp dù biết rõ đó là tài sản do trộm cắp mà có."
+        },
+        {
+          "key": "B",
+          "text": "Giữ lại và chi tiêu khoản tiền mà người khác chuyển nhầm vào tài khoản của mình."
+        },
+        {
+          "key": "C",
+          "text": "Nhân viên kho tiến hành kiểm đếm lô hàng mà công ty mình đang nhận giữ hộ theo hợp đồng đã kí."
+        },
+        {
+          "key": "D",
+          "text": "Tự ý lấy thức ăn của bạn để trong tủ lạnh dùng chung khi bạn không cho phép."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kiểm đếm hàng giữ hộ theo hợp đồng là việc thực hiện đúng phạm vi quyền chiếm hữu, sử dụng được chủ sở hữu giao, không phải xâm phạm. A là tiêu thụ tài sản do vi phạm pháp luật mà có, B là chiếm giữ tiền chuyển nhầm, D là lấy tài sản của người khác, đều vi phạm nghĩa vụ tôn trọng tài sản.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Hành vi tôn trọng tài sản",
+        "Vận dụng phân biệt"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-9",
+      "type": "SINGLE_CHOICE",
+      "content": "Bên cạnh việc được pháp luật bảo hộ, chủ sở hữu tài sản còn có nghĩa vụ",
+      "options": [
+        {
+          "key": "A",
+          "text": "sử dụng tài sản đúng mục đích, thực hiện việc đăng kí, kê khai và các nghĩa vụ tài chính liên quan đến tài sản theo quy định của pháp luật, không gây phương hại đến lợi ích công cộng và quyền hợp pháp của người khác."
+        },
+        {
+          "key": "B",
+          "text": "giữ bí mật tuyệt đối về tài sản của mình, không cho bất kì ai tiếp cận dưới mọi hình thức."
+        },
+        {
+          "key": "C",
+          "text": "chia hết tài sản cho các thành viên gia đình trước khi làm nghĩa vụ với chủ nợ."
+        },
+        {
+          "key": "D",
+          "text": "báo cáo hằng tháng với cơ quan có thẩm quyền về mọi biến động nhỏ của tài sản trong nhà."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quyền sở hữu đi đôi với nghĩa vụ: dùng tài sản hợp pháp, đúng mục đích, thực hiện đăng kí, kê khai và nghĩa vụ tài chính theo luật, đồng thời không xâm phạm lợi ích công cộng, quyền của người khác. B là quan niệm tuyệt đối hoá quyền riêng; C là tẩu tán tài sản để trốn nghĩa vụ; D đặt ra yêu cầu không có cơ sở pháp luật.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ của chủ sở hữu",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-9",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về ba quyền năng của chủ sở hữu tài sản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quyền chiếm hữu là quyền nắm giữ, quản lí tài sản thuộc sở hữu hợp pháp của mình."
+        },
+        {
+          "key": "B",
+          "text": "Quyền sử dụng là quyền khai thác công dụng của tài sản và hưởng hoa lợi, lợi tức từ tài sản."
+        },
+        {
+          "key": "C",
+          "text": "Quyền định đoạt chỉ thuộc về cơ quan nhà nước có thẩm quyền đối với mọi loại tài sản."
+        },
+        {
+          "key": "D",
+          "text": "Chủ sở hữu có thể chuyển quyền chiếm hữu, quyền sử dụng tài sản cho người khác theo hợp đồng hoặc thoả thuận."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Ba quyền năng của chủ sở hữu là chiếm hữu, sử dụng và định đoạt; trong đó chiếm hữu, sử dụng có thể chuyển cho người khác theo ý chí của chủ sở hữu. C sai vì định đoạt trước hết là quyền của chủ sở hữu, cơ quan nhà nước chỉ xử lí đối với tài sản trong các trường hợp do pháp luật quy định.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Ba quyền năng",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-9",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về nghĩa vụ của công dân trong việc tôn trọng tài sản của người khác?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhặt được tài sản do người khác đánh rơi, bỏ quên thì phải trả lại hoặc thông báo, giao nộp cho cơ quan có thẩm quyền."
+        },
+        {
+          "key": "B",
+          "text": "Được sử dụng tài sản của người khác trong thời gian ngắn nếu chủ sở hữu không phát hiện."
+        },
+        {
+          "key": "C",
+          "text": "Không được chiếm đoạt, huỷ hoại hoặc làm hư hỏng tài sản của người khác dưới mọi hình thức."
+        },
+        {
+          "key": "D",
+          "text": "Muốn mượn, thuê tài sản của người khác phải được chủ sở hữu đồng ý và phải hoàn trả đúng thoả thuận."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "Tôn trọng tài sản người khác thể hiện ở nghĩa vụ không xâm phạm, trả lại tài sản nhặt được hoặc nhận nhầm, mượn thuê phải có sự đồng ý và hoàn trả đúng hẹn. B sai vì chủ sở hữu có biết hay không thì việc tự ý sử dụng đó vẫn không trở thành hợp pháp.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tôn trọng tài sản người khác",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-9",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về căn cứ xác lập quyền sở hữu tài sản hợp pháp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người chiếm giữ tài sản của người khác trong thời gian dài sẽ đương nhiên trở thành chủ sở hữu tài sản đó."
+        },
+        {
+          "key": "B",
+          "text": "Tạo lập tài sản do lao động, sản xuất, kinh doanh hợp pháp của chính mình là một căn cứ xác lập quyền sở hữu."
+        },
+        {
+          "key": "C",
+          "text": "Nhận tài sản do được chuyển quyền sở hữu từ người khác theo hợp đồng mua bán, tặng cho hoặc theo di chúc hợp pháp."
+        },
+        {
+          "key": "D",
+          "text": "Hưởng hoa lợi, lợi tức từ tài sản của mình và các trường hợp khác do pháp luật quy định cũng là căn cứ xác lập quyền sở hữu."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "Các căn cứ hợp pháp gồm tự tạo lập tài sản bằng lao động hợp pháp, được chuyển quyền sở hữu theo hợp đồng hoặc thừa kế, hưởng hoa lợi lợi tức và các trường hợp khác luật định. A sai vì thời gian chiếm giữ không phải căn cứ xác lập sở hữu hợp pháp đối với tài sản của người khác.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Căn cứ xác lập quyền sở hữu",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b09-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-9",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Gia đình chị T chuyển nhượng căn nhà của mình cho anh P theo hợp đồng hợp pháp, đã nhận đủ tiền và bàn giao nhà. Một người họ hàng của chị T cho rằng giao dịch chưa ổn nên tự ý vào ở trong căn nhà đã bán và lấy một số đồ đạc. Những nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anh P là chủ sở hữu căn nhà vì nhận chuyển nhượng theo hợp đồng hợp pháp, nên có quyền chiếm hữu, sử dụng và định đoạt."
+        },
+        {
+          "key": "B",
+          "text": "Người họ hàng đã xâm phạm quyền sở hữu tài sản của anh P khi tự ý chiếm giữ nhà và lấy đồ đạc."
+        },
+        {
+          "key": "C",
+          "text": "Anh P chưa có quyền sở hữu vì chưa được dòng họ công nhận trong buổi họp gia đình."
+        },
+        {
+          "key": "D",
+          "text": "Anh P có quyền yêu cầu người đó hoàn trả tài sản và yêu cầu cơ quan có thẩm quyền bảo vệ quyền sở hữu hợp pháp của mình."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Quyền sở hữu xác lập qua hợp đồng hợp pháp, kèm việc thực hiện theo thoả thuận, nên anh P có đầy đủ ba quyền năng và được pháp luật bảo hộ; hành vi tự ý chiếm giữ nhà, lấy đồ của người khác họ hàng là xâm phạm tài sản. C sai vì sự công nhận của dòng họ không phải căn cứ xác lập quyền sở hữu theo pháp luật.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bảo hộ quyền sở hữu",
+        "Vận dụng cao",
+        "Nhận định đúng"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1469 @@
+{
+  "id": "de-dia-12-bai-17",
+  "title": "Đề ôn tập Địa lí 12 – Bài 17: Một số ngành công nghiệp",
+  "slug": "de-dia-12-bai-17",
+  "description": "Đề ôn tập Bài 17: Một số ngành công nghiệp (Địa lí 12, sách Kết nối tri thức, bản chỉnh sửa 2026 với 34 tỉnh, thành phố và 6 vùng kinh tế - xã hội). Nội dung gồm công nghiệp năng lượng (điện, dầu khí, năng lượng tái tạo), luyện kim và cơ khí, hoá chất, vật liệu xây dựng, sản xuất hàng tiêu dùng và công nghiệp thực phẩm. Phần I có 35 câu bốn phương án, Phần II có 5 câu chọn các phát biểu đúng. Thời gian làm bài 45 phút, mỗi câu 0,25 điểm, tổng điểm 10.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B17",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b17-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiện nay, hai loại nhiên liệu được sử dụng chủ yếu để phát điện ở nước ta là:",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "công nghiệp năng lượng",
+        "nhiệt điện",
+        "nhiên liệu"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Dầu mazut và diesel"
+        },
+        {
+          "key": "B",
+          "text": "Sức gió và ánh sáng mặt trời"
+        },
+        {
+          "key": "C",
+          "text": "Cồn sinh học và phụ phẩm rừng"
+        },
+        {
+          "key": "D",
+          "text": "Than và khí tự nhiên"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đúng là D: nhiệt điện than và nhiệt điện khí chiếm tỉ trọng lớn nhất trong sản lượng điện, nên than và khí tự nhiên là hai nhiên liệu chính cho phát điện. A sai: dầu chỉ dùng rất hạn chế vào giờ cao điểm vì giá cao và phải nhập. B sai: gió và mặt trời là năng lượng tái tạo đang được mở rộng nhưng chưa phải nguồn chủ yếu. C sai: nhiên liệu sinh khối chỉ chiếm phần nhỏ, mang tính cục bộ."
+    },
+    {
+      "id": "dia12-b17-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc xây dựng liên tiếp nhiều nhà máy thuỷ điện trên lưu vực sông Đà là ví dụ điển hình về:",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thuỷ điện",
+        "sông Đà",
+        "khai thác tổng hợp"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Khai thác tổng hợp tiềm năng thuỷ điện của một lưu vực sông"
+        },
+        {
+          "key": "B",
+          "text": "Phát triển nhiệt điện chạy than ngay gần mỏ than"
+        },
+        {
+          "key": "C",
+          "text": "Liên kết vùng trong phát triển công nghiệp nhẹ"
+        },
+        {
+          "key": "D",
+          "text": "Định hướng xuất khẩu điện là mục tiêu chủ yếu"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đúng là A: trên sông Đà và các phụ lưu hình thành chuỗi thuỷ điện với nhiều nhà máy công suất lớn, kèm hiệu quả tổng hợp như chống lũ, cấp nước, du lịch. B sai: đây là thuỷ điện, không phải nhiệt điện than. C sai: thuỷ điện thuộc công nghiệp năng lượng, không phải công nghiệp nhẹ. D sai: điện sản xuất ra chủ yếu phục vụ nhu cầu trong nước."
+    },
+    {
+      "id": "dia12-b17-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các nhà máy thuỷ điện sau, nhà máy có công suất lớn nhất là:",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thuỷ điện",
+        "công suất",
+        "nhà máy"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Yaly"
+        },
+        {
+          "key": "B",
+          "text": "Hòa Bình"
+        },
+        {
+          "key": "C",
+          "text": "Hủa Nâm"
+        },
+        {
+          "key": "D",
+          "text": "Thác Bà"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đúng là B: Hoà Bình trên sông Đà là một trong những nhà máy thuỷ điện lớn nhất cả nước, cùng với Sơn La. A sai: Ialy thuộc nhóm công suất vừa và nhỏ hơn. C sai: Hủa Nâm là nhà máy cỡ trung bình trên sông Mã. D sai: Thác Bà là nhà máy thuỷ điện đời đầu, công suất khiêm tốn."
+    },
+    {
+      "id": "dia12-b17-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai nguồn năng lượng tái tạo có tiềm năng lớn nhất để phát điện ở nước ta hiện nay là:",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "năng lượng tái tạo",
+        "tiềm năng",
+        "điện gió"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuỷ triều và địa nhiệt"
+        },
+        {
+          "key": "B",
+          "text": "Sóng biển và khí sinh học"
+        },
+        {
+          "key": "C",
+          "text": "Cồn sinh học và củi đốt"
+        },
+        {
+          "key": "D",
+          "text": "Gió và năng lượng mặt trời"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đúng là D: đường bờ biển dài, chế độ gió mùa và quỹ bức xạ mặt trời cao khiến điện gió và điện mặt trời được đầu tư mạnh nhất. A, B, C sai: thuỷ triều, địa nhiệt, sóng, khí sinh học và sinh khối rắn chỉ là tiềm năng nhỏ, chưa được khai thác ở quy mô công nghiệp đáng kể."
+    },
+    {
+      "id": "dia12-b17-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngành công nghiệp nào sau đây thuộc nhóm công nghiệp năng lượng?",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "công nghiệp năng lượng",
+        "cơ cấu ngành",
+        "dầu khí"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Chế biến gỗ và lâm sản"
+        },
+        {
+          "key": "B",
+          "text": "Sản xuất vật liệu xây dựng"
+        },
+        {
+          "key": "C",
+          "text": "Công nghiệp dầu khí"
+        },
+        {
+          "key": "D",
+          "text": "Công nghiệp thực phẩm"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đúng là C: công nghiệp năng lượng gồm điện, than, dầu khí và năng lượng tái tạo. A và D sai: chế biến lâm sản, thực phẩm thuộc nhóm chế biến và sản xuất hàng tiêu dùng. B sai: vật liệu xây dựng là ngành sản xuất tư liệu sản xuất, không tạo ra năng lượng."
+    },
+    {
+      "id": "dia12-b17-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Cụm nhiệt điện chạy than lớn nhất ở miền Bắc nước ta tập trung chủ yếu ở:",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "nhiệt điện",
+        "phân bố",
+        "than"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Khu vực Quảng Ninh và ven biển Hải Phòng"
+        },
+        {
+          "key": "B",
+          "text": "Khu vực Việt Trì và Lào Cai"
+        },
+        {
+          "key": "C",
+          "text": "Khu vực Thái Nguyên và Bắc Ninh"
+        },
+        {
+          "key": "D",
+          "text": "Khu vực Đồng Hới và Đông Hà"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đúng là A: bể than Đông Bắc cùng hệ thống cảng tiếp nhận than tạo nên cụm nhiệt điện lớn nhất miền Bắc ở Quảng Ninh – Hải Phòng. B sai: Việt Trì, Lào Cai mạnh về hoá chất, vật liệu xây dựng và một số nhà máy điện nhỏ. C sai: Thái Nguyên – Bắc Ninh là trung tâm luyện kim, điện tử, không phải nhiệt điện than. D sai: phía Bắc Trung Bộ có vài nhà máy nhiệt điện nhưng quy mô nhỏ hơn nhiều."
+    },
+    {
+      "id": "dia12-b17-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Cơ cấu các khâu chủ yếu của ngành dầu khí nước ta hiện nay là:",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "dầu khí",
+        "khâu sản xuất",
+        "ngành công nghiệp"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ thăm dò, tìm kiếm mỏ dầu và khí"
+        },
+        {
+          "key": "B",
+          "text": "Chỉ sản xuất sản phẩm hoá dầu tiêu dùng"
+        },
+        {
+          "key": "C",
+          "text": "Khai thác dầu thô và khí, lọc – hoá dầu, công nghiệp khí và dịch vụ kỹ thuật dầu khí"
+        },
+        {
+          "key": "D",
+          "text": "Xuất khẩu dầu thô là chủ yếu, chưa chế biến trong nước"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đúng là C: ngành đã phát triển đồng bộ từ thượng nguồn (tìm kiếm – khai thác) đến trung nguồn (lọc dầu, hoá dầu, công nghiệp khí) và hạ nguồn (dịch vụ kỹ thuật). A và B sai vì thu hẹp ngành vào một khâu. D sai: phần lớn dầu thô khai thác được chế biến tại các nhà máy lọc dầu trong nước."
+    },
+    {
+      "id": "dia12-b17-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhà máy lọc – hoá dầu Dung Quất nằm ở địa bàn nào sau đây?",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "lọc dầu",
+        "phân bố",
+        "công nghiệp năng lượng"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Đồng Nai và Bà Rịa – Vũng Tàu"
+        },
+        {
+          "key": "B",
+          "text": "Khánh Hoà và Ninh Thuận"
+        },
+        {
+          "key": "C",
+          "text": "Thanh Hoá và Nghệ An"
+        },
+        {
+          "key": "D",
+          "text": "Quảng Ngãi"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đúng là D: Dung Quất thuộc khu kinh tế ven biển Quảng Ngãi, gắn với mỏ khí ở thềm lục địa và cảng nước sâu. A sai: Đông Nam Bộ là địa bàn của cụm khí – điện – đạm và nhà máy lọc dầu thứ hai. B sai: Nam Trung Bộ mạnh về điện tái tạo, không có lọc dầu. C sai: Thanh Hoá có nhà máy lọc dầu Nghi Sơn, còn Nghệ An không có."
+    },
+    {
+      "id": "dia12-b17-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho biết cả nước chế biến được khoảng 3,0 triệu tấn gạo thành phẩm trong một năm, trong đó vùng Đồng bằng sông Cửu Long đạt khoảng 2,1 triệu tấn. Tỉ trọng của vùng này trong tổng sản lượng là:",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "công nghiệp thực phẩm",
+        "tỉ trọng",
+        "tính toán"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "70%"
+        },
+        {
+          "key": "B",
+          "text": "35%"
+        },
+        {
+          "key": "C",
+          "text": "50%"
+        },
+        {
+          "key": "D",
+          "text": "21%"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đúng là A: 2,1 chia 3,0 nhân 100 = 70%. B sai: 35% là một nửa kết quả đúng, nhầm vì nhân thêm 0,5. C sai: 50% tương ứng với 1,5 triệu tấn, nhỏ hơn số liệu đã cho. D sai: 21% là lấy 2,1 x 10 mà quên chia cho tổng số."
+    },
+    {
+      "id": "dia12-b17-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng với ngành công nghiệp cơ khí nước ta?",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "cơ khí",
+        "định hướng",
+        "công nghệ cao"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Sản phẩm chủ yếu là thiết bị tự động hoá và robot"
+        },
+        {
+          "key": "B",
+          "text": "Chỉ phát triển ở các đô thị cũ, chưa mở rộng ra vùng khác"
+        },
+        {
+          "key": "C",
+          "text": "Cơ cấu đa dạng, nhiều sản phẩm xuất khẩu nhưng còn phụ thuộc thiết kế, linh kiện nhập khẩu"
+        },
+        {
+          "key": "D",
+          "text": "Phân bố đều khắp, không tập trung ở các trung tâm công nghiệp"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đúng là C: cơ khí có nhiều phân ngành (chế tạo thiết bị, ô tô, đóng tàu, điện tử – tin học, cơ khí chính xác), một phần lớn sản phẩm để xuất khẩu nhưng năng lực thiết kế và linh kiện còn phụ thuộc nước ngoài. A sai: robot, thiết bị tự động hoá mới ở bước đầu. B sai: cơ khí đã mở rộng ra nhiều tỉnh, khu công nghiệp mới. D sai: ngành phân bố tập trung nhất ở các trung tâm công nghiệp lớn."
+    },
+    {
+      "id": "dia12-b17-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Sản phẩm hoá chất nào sau đây được sản xuất với quy mô lớn nhất ở nước ta, chủ yếu phục vụ nông nghiệp?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hoá chất",
+        "phân bón",
+        "nông nghiệp"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuốc bảo vệ thực vật"
+        },
+        {
+          "key": "B",
+          "text": "Phân bón"
+        },
+        {
+          "key": "C",
+          "text": "Sơn và mực in"
+        },
+        {
+          "key": "D",
+          "text": "Chất dẻo nguyên sinh"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đúng là B: phân đạm, phân lân, phân compound có nhiều nhà máy quy mô lớn để cung cấp cho nông nghiệp. A sai: thuốc bảo vệ thực vật sản xuất với khối lượng nhỏ hơn nhiều. C sai: sơn, mực in thuộc nhóm hoá chất tiêu dùng, quy mô vừa. D sai: chất dẻo phần lớn phải nhập khẩu."
+    },
+    {
+      "id": "dia12-b17-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo cơ cấu 6 vùng kinh tế – xã hội bản chỉnh sửa 2026 (Tây Nguyên xếp chung với Duyên hải Nam Trung Bộ), phần lớn công suất điện gió và điện mặt trời tập trung ở vùng:",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "điện mặt trời",
+        "điện gió",
+        "vùng kinh tế"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Đồng bằng sông Cửu Long"
+        },
+        {
+          "key": "B",
+          "text": "Đông Nam Bộ"
+        },
+        {
+          "key": "C",
+          "text": "Đồng bằng sông Hồng"
+        },
+        {
+          "key": "D",
+          "text": "Duyên hải Nam Trung Bộ và Tây Nguyên"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đúng là D: sau khi hai vùng được xếp chung, đây là vùng có quỹ bức xạ mặt trời và tiềm năng gió lớn nhất cả nước nên dẫn đầu về điện gió, điện mặt trời. A sai: đồng bằng có điện gió nhưng quy mô nhỏ hơn. B sai: Đông Nam Bộ mạnh về nhiệt điện khí, công nghiệp chế biến. C sai: đồng bằng sông Hồng đất chật, chủ yếu là nhiệt điện và cơ khí."
+    },
+    {
+      "id": "dia12-b17-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Các nhà máy nhiệt điện chạy khí ở Nam Bộ thường phân bố gần:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "nhiệt điện khí",
+        "phân bố",
+        "đông nam bộ"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguồn khí tự nhiên và phụ tải điện lớn"
+        },
+        {
+          "key": "B",
+          "text": "Cửa sông, ven biển có nhiều gió"
+        },
+        {
+          "key": "C",
+          "text": "Vùng mỏ than ở Đông Bắc"
+        },
+        {
+          "key": "D",
+          "text": "Vùng chuyên canh cây công nghiệp"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đúng là A: nhiệt điện khí cần gần điểm tiếp nhận khí (mỏ khí, cảng nhập khí) và gần trung tâm tiêu thụ điện lớn. B sai: tiêu chí gió liên quan tới điện gió. C sai: gần mỏ than là tiêu chí của nhiệt điện than. D sai: cây công nghiệp liên quan tới công nghiệp thực phẩm."
+    },
+    {
+      "id": "dia12-b17-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Các nhà máy lọc – hoá dầu ở nước ta được xây dựng chủ yếu ở:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hoá dầu",
+        "vị trí",
+        "nguyên liệu"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng nguyên liệu nông sản"
+        },
+        {
+          "key": "B",
+          "text": "Vùng ven biển, gần nguồn khí và có cảng nước sâu"
+        },
+        {
+          "key": "C",
+          "text": "Trung tâm các đô thị lớn"
+        },
+        {
+          "key": "D",
+          "text": "Vùng cao nguyên gần nguồn thuỷ điện"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đúng là B: lọc – hoá dầu cần cảng nước sâu để nhận dầu thô, gần nguồn khí và có điều kiện xử lý môi trường. A, D sai: nguyên liệu là dầu khí chứ không phải nông sản hay điện nước. C sai: nội đô không đủ mặt bằng và không thuận lợi cho kho xăng dầu."
+    },
+    {
+      "id": "dia12-b17-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngành sản xuất xi măng nước ta phân bố rộng khắp chủ yếu vì:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xi măng",
+        "nguyên liệu",
+        "vật liệu xây dựng"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguồn nhân công dồi dào, rẻ"
+        },
+        {
+          "key": "B",
+          "text": "Thị trường tiêu thụ tập trung ở nông thôn"
+        },
+        {
+          "key": "C",
+          "text": "Nguyên liệu đá vôi, sét có ở nhiều nơi và sản phẩm cồng kềnh, khó vận chuyển xa"
+        },
+        {
+          "key": "D",
+          "text": "Cần gần các nhà máy nhiệt điện lớn"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đúng là C: đá vôi, sét, phụ gia có ở nhiều vùng nên nhà máy đặt gần mỏ để giảm chi phí vận chuyển nguyên liệu và sản phẩm nặng. A sai: xi măng là ngành kỹ thuật, vốn lớn, không dùng nhiều lao động. B sai: thị trường gồm cả đô thị và xuất khẩu. D sai: nhiệt điện chỉ liên quan gián tiếp qua nguồn điện và tro bay."
+    },
+    {
+      "id": "dia12-b17-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao các ngành sản xuất hàng tiêu dùng ở nước ta thu hút nhiều lao động?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hàng tiêu dùng",
+        "lao động",
+        "đặc điểm"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Sản phẩm có giá rất cao, không cạnh tranh về chi phí"
+        },
+        {
+          "key": "B",
+          "text": "Đây là ngành chỉ cần vốn lớn, gần như không dùng lao động"
+        },
+        {
+          "key": "C",
+          "text": "Quy trình cần nhiều lao động, yêu cầu đào tạo không quá cao, đầu tư thiết bị linh hoạt"
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ nguyên liệu và máy móc đều phải nhập khẩu"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đúng là C: dệt, may, da giày, chế biến thực phẩm có nhiều công đoạn thủ công nên cần số lao động lớn, có thể tuyển lao động phổ thông và dùng thiết bị từ nhỏ đến hiện đại. A sai: lợi thế của ngành là giá thành thấp nhờ lao động. B sai: trái ngược hoàn toàn với đặc điểm sử dụng nhiều lao động. D sai: vẫn có nguồn nguyên liệu trong nước (bông không đáng kể nhưng da, thực phẩm, sợi tổng hợp đang phát triển)."
+    },
+    {
+      "id": "dia12-b17-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Công nghiệp thực phẩm nước ta phân bố rộng khắp cả nước chủ yếu do:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "công nghiệp thực phẩm",
+        "phân bố",
+        "nguyên liệu"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Cần gần các cảng nhập khẩu nguyên liệu"
+        },
+        {
+          "key": "B",
+          "text": "Nguồn nguyên liệu tại chỗ đa dạng và thị trường tiêu thụ ở khắp nơi"
+        },
+        {
+          "key": "C",
+          "text": "Phụ thuộc hoàn toàn vào nguồn điện thuỷ điện"
+        },
+        {
+          "key": "D",
+          "text": "Chỉ sản xuất cho khách du lịch"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đúng là B: nguyên liệu là nông, lâm, thuỷ sản có ở mọi vùng và sản phẩm phải đến gần người tiêu dùng để bảo đảm tươi sống. A sai: nhập khẩu không phải căn cứ phân bố chủ yếu. C sai: nhu cầu điện của ngành không lớn đến mức chi phối vị trí. D sai: thị trường chính là dân cư trong nước và xuất khẩu."
+    },
+    {
+      "id": "dia12-b17-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Các nhà máy sản xuất phân lân từ quặng apatit của nước ta đặt ở:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hoá chất",
+        "phân lân",
+        "apatit"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Lào Cai và một số cơ sở ở đồng bằng sông Hồng"
+        },
+        {
+          "key": "B",
+          "text": "Vùng chuyên canh cà phê ở Tây Nguyên"
+        },
+        {
+          "key": "C",
+          "text": "Các tỉnh đồng bằng sông Cửu Long"
+        },
+        {
+          "key": "D",
+          "text": "Duyên hải Nam Trung Bộ"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đúng là A: mỏ apatit ở Lào Cai là nguồn quặng chính nên nhà máy phân lân đặt gần mỏ, kết hợp các cơ sở truyền thống ở đồng bằng sông Hồng. B, C, D sai: các vùng này có thị trường tiêu thụ phân bón lớn nhưng không có quặng apatit để làm phân lân."
+    },
+    {
+      "id": "dia12-b17-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Gần đây, ngành luyện kim đen nước ta phát triển mạnh theo hướng nào sau đây?",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "luyện kim đen",
+        "thép",
+        "phân bố"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhập khẩu toàn bộ thép thành phẩm, không luyện trong nước"
+        },
+        {
+          "key": "B",
+          "text": "Chỉ mở rộng các lò luyện quy mô nhỏ ở làng nghề"
+        },
+        {
+          "key": "C",
+          "text": "Xây dựng khu liên hợp luyện thép khép kín ở ven biển, gần cảng và thị trường lớn"
+        },
+        {
+          "key": "D",
+          "text": "Dịch toàn bộ nhà máy luyện gang, thép vào vùng nguyên liệu nông sản"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đúng là C: các khu liên hợp luyện thép đồng bộ (từ gang thô đến thép thành phẩm) được xây dựng ở ven biển để thuận lợi nhập quặng, than coke và xuất sản phẩm. A sai: nước ta có công suất luyện thép lớn và xuất khẩu phôi, thép xây dựng. B sai: hướng phát triển là hiện đại hoá, tăng quy mô, không dựa vào làng nghề. D sai: luyện kim không gắn với nguyên liệu nông sản."
+    },
+    {
+      "id": "dia12-b17-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây đúng với ngành dệt – may và da – giày ở nước ta?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dệt may",
+        "da giày",
+        "xuất khẩu"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ phục vụ nhu cầu trong nước, không xuất khẩu"
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng rất ít lao động, chủ yếu tự động hoá"
+        },
+        {
+          "key": "C",
+          "text": "Nguyên liệu trong nước đáp ứng đủ nên không phải nhập"
+        },
+        {
+          "key": "D",
+          "text": "Là mặt hàng xuất khẩu chủ lực nhưng còn phụ thuộc nguyên liệu và thiết bị nhập khẩu"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đúng là D: dệt may, da giày thuộc nhóm hàng xuất khẩu lớn nhất, song vải, da, phụ liệu và máy móc phần lớn phải nhập nên giá trị gia tăng còn thấp. A sai: xuất khẩu là thị trường quan trọng nhất. B sai: đây là ngành sử dụng nhiều lao động. C sai: nguồn bông và da thuộc trong nước chỉ đáp ứng một phần."
+    },
+    {
+      "id": "dia12-b17-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Mỏ than anthracite cung cấp chủ yếu cho công nghiệp nhiệt điện và luyện kim của nước ta tập trung ở:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "công nghiệp than",
+        "nguyên liệu",
+        "đông bắc"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng núi Tây Bắc"
+        },
+        {
+          "key": "B",
+          "text": "Bể than Đông Bắc và vùng phụ cận"
+        },
+        {
+          "key": "C",
+          "text": "Khu vực Tây Nguyên"
+        },
+        {
+          "key": "D",
+          "text": "Đồng bằng sông Cửu Long"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đúng là B: bể than Đông Bắc (Quảng Ninh và vùng phụ cận) là nguồn than chất lượng cao lớn nhất, cung cấp cho nhiệt điện và một phần xuất khẩu, luyện kim. A sai: Tây Bắc có một số mỏ nhưng quy mô nhỏ. C sai: Tây Nguyên không có mỏ than công nghiệp. D sai: đồng bằng sông Cửu Long không có than đá."
+    },
+    {
+      "id": "dia12-b17-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Các nhà máy lắp ráp, sản xuất ô tô và xe máy của nước ta tập trung chủ yếu ở:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "cơ khí",
+        "ô tô",
+        "phân bố"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Thành phố Hồ Chí Minh, Hà Nội và các tỉnh phụ cận"
+        },
+        {
+          "key": "B",
+          "text": "Các tỉnh vùng cao Tây Nguyên"
+        },
+        {
+          "key": "C",
+          "text": "Các huyện đảo ven Nam Trung Bộ"
+        },
+        {
+          "key": "D",
+          "text": "Vùng sâu của đồng bằng sông Cửu Long"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đúng là A: đây là nơi có thị trường tiêu thụ lớn, lao động kỹ năng, mạng xưởng phụ tùng và hệ thống hạ tầng công nghiệp hoàn chỉnh. B, D sai: thị trường và chuỗi cung ứng phụ tùng ở các vùng này còn mỏng. C sai: điều kiện mặt bằng, logistics và lao động không thuận lợi cho lắp ráp ô tô."
+    },
+    {
+      "id": "dia12-b17-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Công nghiệp chế biến thuỷ sản xuất khẩu phát triển mạnh nhất ở:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "công nghiệp thực phẩm",
+        "thuỷ sản",
+        "phân bố"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Trung du và miền núi Bắc Bộ"
+        },
+        {
+          "key": "B",
+          "text": "Tây Nguyên"
+        },
+        {
+          "key": "C",
+          "text": "Đồng bằng sông Cửu Long và Duyên hải Nam Trung Bộ"
+        },
+        {
+          "key": "D",
+          "text": "Đồng bằng sông Hồng"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đúng là C: hai vùng có nguồn nguyên liệu lớn nhất (nuôi trồng và khai thác biển) cùng hệ thống cảng, khu chế biến. A sai: nguồn thuỷ sản ít, chủ yếu là chế biến nhỏ lẻ. B sai: Tây Nguyên không có thế mạnh thuỷ sản. D sai: đồng bằng sông Hồng có chế biến nhưng quy mô nhỏ hơn nhiều."
+    },
+    {
+      "id": "dia12-b17-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Một dây chuyền xi măng có công suất thiết kế 3,0 triệu tấn mỗi năm, trong một năm sản xuất được 2,4 triệu tấn. Tỉ lệ sử dụng công suất là:",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "xi măng",
+        "công suất",
+        "tính toán"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "20%"
+        },
+        {
+          "key": "B",
+          "text": "60%"
+        },
+        {
+          "key": "C",
+          "text": "125%"
+        },
+        {
+          "key": "D",
+          "text": "80%"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đúng là D: 2,4 chia 3,0 nhân 100 = 80%. A sai: 20% là phần công suất chưa sử dụng, nhầm hiệu số với tỉ lệ. B sai: 60% không tương ứng với cặp số liệu đã cho. C sai: 125% là lấy 3,0 chia 2,4, tức đảo ngược công thức."
+    },
+    {
+      "id": "dia12-b17-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng với ngành công nghiệp hoá chất nước ta?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hoá chất",
+        "đặc điểm",
+        "cơ cấu"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ sản xuất phân bón và thuốc bảo vệ thực vật"
+        },
+        {
+          "key": "B",
+          "text": "Cơ cấu đa dạng nhưng một số hoá chất tinh, phụ liệu vẫn phải nhập khẩu"
+        },
+        {
+          "key": "C",
+          "text": "Phân bố đều khắp ở nông thôn, không gắn với dầu khí"
+        },
+        {
+          "key": "D",
+          "text": "Sản phẩm hoàn toàn không tham gia xuất khẩu"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đúng là B: hoá chất có nhiều nhóm (phân bón, hoá chất cơ bản, sơn – mực in, dược – mỹ phẩm, cao su tổng hợp, chất dẻo), song một số hoá chất đặc chủng và phụ liệu còn phải mua của nước ngoài. A sai: thu hẹp cơ cấu ngành. C sai: ngành tập trung gần nguồn dầu khí, cảng và đô thị lớn. D sai: nhiều sản phẩm như săm lốp, phân bón, mỹ phẩm đã xuất khẩu."
+    },
+    {
+      "id": "dia12-b17-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Các cơ sở sản xuất gạch ốp lát, sứ vệ sinh của nước ta tập trung nhiều nhất ở:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "vật liệu xây dựng",
+        "gạch ốp lát",
+        "phân bố"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Đồng bằng sông Hồng và Đông Nam Bộ"
+        },
+        {
+          "key": "B",
+          "text": "Vùng cao nguyên và trung du"
+        },
+        {
+          "key": "C",
+          "text": "Các huyện đảo"
+        },
+        {
+          "key": "D",
+          "text": "Chỉ ở đồng bằng sông Cửu Long"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đúng là A: hai vùng này có nguồn đất sét chịu lửa, kaolin, vốn đầu tư, lao động kỹ thuật và thị trường xây dựng lớn. B sai: vùng cao nguyên thị trường nhỏ, xa nguồn phụ gia. C sai: thiếu mặt bằng và nguồn nguyên liệu. D sai: đồng bằng sông Cửu Long có sản xuất nhưng không phải nơi tập trung nhất."
+    },
+    {
+      "id": "dia12-b17-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng nhất về cơ cấu sản lượng điện của nước ta theo nguồn hiện nay?",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "cơ cấu điện",
+        "nhiệt điện",
+        "nhận định"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuỷ điện luôn chiếm quá nửa sản lượng của cả nước"
+        },
+        {
+          "key": "B",
+          "text": "Điện gió và điện mặt trời đã chiếm trên 50% sản lượng"
+        },
+        {
+          "key": "C",
+          "text": "Điện hạt nhân đang đóng góp tỉ trọng lớn trong cơ cấu"
+        },
+        {
+          "key": "D",
+          "text": "Nhiệt điện (than và khí) chiếm tỉ trọng lớn nhất, thuỷ điện cùng năng lượng tái tạo là các nhóm còn lại"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đúng là D: nhiệt điện than và khí giữ vai trò chủ đạo về sản lượng, thuỷ điện và năng lượng tái tạo bổ sung phần còn lại. A sai: từ nhiều năm nay nhiệt điện đã vượt thuỷ điện. B sai: điện gió, mặt trời tăng nhanh nhưng tỉ trọng vẫn còn khiêm tốn so với nhiệt điện. C sai: nước ta chưa có nhà máy điện hạt nhân vận hành."
+    },
+    {
+      "id": "dia12-b17-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các ngành sau, ngành nào thuộc công nghiệp sản xuất hàng tiêu dùng?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hàng tiêu dùng",
+        "dệt lụa",
+        "cơ cấu ngành"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Sản xuất xi măng và vôi"
+        },
+        {
+          "key": "B",
+          "text": "Dệt, may và da – giày"
+        },
+        {
+          "key": "C",
+          "text": "Luyện gang, thép"
+        },
+        {
+          "key": "D",
+          "text": "Khai thác dầu thô"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đúng là B: dệt – may, da – giày tạo ra sản phẩm trực tiếp phục vụ nhu cầu mặc, mang của người dân. A sai: vật liệu xây dựng là tư liệu sản xuất cho ngành xây dựng. C sai: luyện kim thuộc công nghiệp nặng. D sai: khai thác dầu thô thuộc công nghiệp năng lượng."
+    },
+    {
+      "id": "dia12-b17-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao ngành cơ khí chế tạo nước ta tập trung chủ yếu ở các đô thị lớn và vùng phụ cận?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "cơ khí",
+        "đô thị lớn",
+        "giải thích"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì cần gần các mỏ quặng sắt"
+        },
+        {
+          "key": "B",
+          "text": "Vì cần quỹ đất rộng với giá rất rẻ"
+        },
+        {
+          "key": "C",
+          "text": "Vì cần lao động kỹ thuật, thị trường lớn và mạng cung ứng phụ tùng đồng bộ"
+        },
+        {
+          "key": "D",
+          "text": "Vì chỉ hoạt động nhờ điện thuỷ điện"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đúng là C: cơ khí phụ thuộc vào lao động có tay nghề, nhà cung ứng linh kiện và khách hàng, nên tìm đến các trung tâm công nghiệp. A sai: thép có thể vận chuyển từ các khu liên hợp ven biển. B sai: đô thị lớn đất đắt, ngành cơ khí cần ít mặt bằng hơn so với khai khoáng. D sai: nguồn điện không phân biệt thuỷ điện hay nhiệt điện."
+    },
+    {
+      "id": "dia12-b17-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nổi bật của công nghiệp sản xuất hàng tiêu dùng ở nước ta là:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hàng tiêu dùng",
+        "làng nghề",
+        "đặc điểm"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ cấu ngành đa dạng, nhiều nghề truyền thống được hiện đại hoá, lợi thế về chi phí lao động"
+        },
+        {
+          "key": "B",
+          "text": "Đòi hỏi vốn và công nghệ cao nhất trong các ngành công nghiệp"
+        },
+        {
+          "key": "C",
+          "text": "Chỉ sản xuất cho xuất khẩu, bỏ qua thị trường trong nước"
+        },
+        {
+          "key": "D",
+          "text": "Phân bố duy nhất ở một vùng, không lan rộng"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đúng là A: hàng tiêu dùng gồm dệt may, da giày, nhựa, sứ, gỗ gia dụng, dệt lụa…, nhiều làng nghề được đầu tư thiết bị mới và cạnh tranh chủ yếu nhờ chi phí lao động. B sai: đây là nhóm ngành có thể bắt đầu với vốn nhỏ. C sai: thị trường trong nước khoảng 100 triệu dân rất quan trọng. D sai: ngành phân bố rộng nhờ nguồn lao động và thị trường ở nhiều vùng."
+    },
+    {
+      "id": "dia12-b17-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nhà máy nhiệt điện có công suất 1.200 MW, chạy đầy tải 6.000 giờ trong năm. Sản lượng điện của nhà máy là:",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "nhiệt điện",
+        "sản lượng",
+        "tính toán"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "0,72 tỉ kWh"
+        },
+        {
+          "key": "B",
+          "text": "7,2 tỉ kWh"
+        },
+        {
+          "key": "C",
+          "text": "72 tỉ kWh"
+        },
+        {
+          "key": "D",
+          "text": "720 triệu kWh"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đúng là B: 1.200 MW x 6.000 h = 7.200.000 MWh, mà 1 MWh = 1.000 kWh nên sản lượng là 7,2 tỉ kWh. A và D sai: nhầm đơn vị, thiếu một chữ số không (0,72 tỉ kWh và 720 triệu kWh thực chất bằng nhau và chỉ bằng một phần mười kết quả). C sai: nhân thêm 10 lần do nhầm từ MWh sang kWh hai bậc."
+    },
+    {
+      "id": "dia12-b17-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Hướng chuyển dịch chủ yếu của ngành công nghiệp năng lượng nước ta hiện nay là:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "năng lượng",
+        "xu hướng",
+        "bền vững"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở rộng khai thác than lộ thiên và nhiệt điện than"
+        },
+        {
+          "key": "B",
+          "text": "Tập trung xây thêm các nhà máy thuỷ điện lớn trên sông chính"
+        },
+        {
+          "key": "C",
+          "text": "Giảm dần nhiệt điện than, tăng nhiệt điện khí, điện gió, điện mặt trời và hiện đại hoá lưới điện"
+        },
+        {
+          "key": "D",
+          "text": "Nhập khẩu điện là chủ yếu, giảm đầu tư trong nước"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đúng là C: định hướng là giảm phụ thuộc than, phát triển khí và năng lượng tái tạo kèm lưới điện thông minh, tích hợp để giảm phát thải. A sai: ngược với cam kết phát triển bền vững. B sai: tiềm năng sông lớn đã khai thác gần hết, thuỷ điện lớn không còn dư địa. D sai: nhập khẩu điện chỉ là giải pháp bổ sung ở một số thời điểm."
+    },
+    {
+      "id": "dia12-b17-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhóm sản phẩm nào sau đây của công nghiệp chế biến lương thực, thực phẩm nước ta có vị trí cao trên thị trường thế giới?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "thực phẩm",
+        "xuất khẩu",
+        "nông sản"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Sữa bột và sản phẩm từ sữa"
+        },
+        {
+          "key": "B",
+          "text": "Gạo xát và cà phê rang xay, hoà tan"
+        },
+        {
+          "key": "C",
+          "text": "Đường kính trắng"
+        },
+        {
+          "key": "D",
+          "text": "Bột cá nhập khẩu"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đúng là B: gạo và cà phê chế biến là hai mặt hàng xuất khẩu nông sản hàng đầu của nước ta. A sai: phần lớn sữa bột vẫn phải nhập khẩu. C sai: đường sản xuất chủ yếu tiêu thụ trong nước, chưa phải mặt hàng xuất khẩu mạnh. D sai: bột cá được chế biến từ nguyên liệu trong nước nhưng khối lượng và giá trị nhỏ hơn."
+    },
+    {
+      "id": "dia12-b17-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao công nghiệp dầu khí được xem là một ngành kinh tế mũi nhọn của nước ta?",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "dầu khí",
+        "vai trò",
+        "kinh tế mũi nhọn"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì sử dụng rất nhiều lao động phổ thông ở nông thôn"
+        },
+        {
+          "key": "B",
+          "text": "Vì không cần vốn đầu tư và công nghệ"
+        },
+        {
+          "key": "C",
+          "text": "Vì chỉ phục vụ nhu cầu nội địa, không liên quan xuất khẩu"
+        },
+        {
+          "key": "D",
+          "text": "Vì tạo nguồn thu lớn cho ngân sách, cung cấp nhiên liệu – nguyên liệu cho nhiều ngành và tham gia xuất khẩu"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đúng là D: dầu khí cung cấp xăng dầu, khí, nguyên liệu cho hoá dầu, đồng thời đóng góp quan trọng cho ngân sách và xuất khẩu. A sai: đây là ngành kỹ thuật – vốn cao, dùng ít lao động phổ thông. B sai: ngược lại, dầu khí cần vốn và công nghệ lớn nhất. C sai: các sản phẩm lọc dầu và sản phẩm khí vừa thay thế nhập khẩu vừa xuất khẩu."
+    },
+    {
+      "id": "dia12-b17-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Những năm gần đây, tốc độ tăng công suất thuỷ điện ở nước ta chậm lại chủ yếu vì:",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "thuỷ điện",
+        "tiềm năng",
+        "hạn chế"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Phần lớn tiềm năng của các hệ thống sông lớn đã được khai thác, các vị trí còn lại quy mô nhỏ và ảnh hưởng môi trường ngày càng được cân nhắc kỹ"
+        },
+        {
+          "key": "B",
+          "text": "Các sông ở nước ta đã cạn hoàn toàn, không còn khả năng làm thuỷ điện"
+        },
+        {
+          "key": "C",
+          "text": "Chi phí sản xuất điện từ thuỷ điện cao hơn nhiệt điện than"
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước dừng mọi dự án thuỷ điện từ nhiều năm nay"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đúng là A: dư địa của thuỷ điện lớn đã gần hết, thuỷ điện nhỏ phân tán, hiệu quả thấp và tác động tới rừng, dòng chảy nên được thẩm định chặt. B sai: vẫn còn tiềm năng thuỷ điện nhỏ, tích năng nhưng không lớn. C sai: giá thành điện thuỷ điện thường thấp, vấn đề là thiếu vị trí. D sai: vẫn có dự án mới, thuỷ điện tích năng được quy hoạch."
+    },
+    {
+      "id": "dia12-b17-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho các phát biểu sau về công nghiệp năng lượng nước ta. Những phát biểu nào sau đây là đúng?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "công nghiệp năng lượng",
+        "điện",
+        "phát biểu đúng"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt điện ở nước ta hiện nay chạy hoàn toàn bằng dầu nhập khẩu."
+        },
+        {
+          "key": "B",
+          "text": "Thuỷ điện được khai thác tổng hợp: phát điện, chống lũ, cấp nước cho sản xuất và du lịch."
+        },
+        {
+          "key": "C",
+          "text": "Điện gió và điện mặt trời tăng trưởng nhanh nhưng chưa chiếm tỉ trọng lớn nhất trong sản lượng điện."
+        },
+        {
+          "key": "D",
+          "text": "Định hướng của ngành là giảm dần nhiệt điện than, tăng nhiệt điện khí, năng lượng tái tạo và hiện đại hoá lưới điện."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "A sai: nhiên liệu chủ yếu của nhiệt điện là than và khí tự nhiên trong nước, dầu chỉ dùng hạn chế. B đúng: các hồ thuỷ điện gắn với phòng chống lũ, cấp nước, tạo cảnh quan du lịch. C đúng: điện gió, mặt trời được đầu tư mạnh nhưng nhiệt than và khí vẫn giữ sản lượng lớn nhất. D đúng: đây là hướng chuyển dịch năng lượng đã được nêu trong định hướng phát triển ngành."
+    },
+    {
+      "id": "dia12-b17-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho các phát biểu sau về công nghiệp dầu khí và hoá chất nước ta. Những phát biểu nào sau đây là đúng?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dầu khí",
+        "hoá chất",
+        "phát biểu đúng"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngành dầu khí phát triển đồng bộ từ khai thác dầu thô, khí tự nhiên đến lọc – hoá dầu, công nghiệp khí và dịch vụ kỹ thuật."
+        },
+        {
+          "key": "B",
+          "text": "Công nghiệp hoá chất có cơ cấu đa dạng, từ phân bón, hoá chất cơ bản đến sơn, dược phẩm, mỹ phẩm, song một số phụ liệu còn phải nhập khẩu."
+        },
+        {
+          "key": "C",
+          "text": "Các nhà máy lọc – hoá dầu của nước ta được đặt ở nội địa, xa biển để bảo đảm an toàn."
+        },
+        {
+          "key": "D",
+          "text": "Nhà máy lọc – hoá dầu thường nằm ở vùng ven biển, gần cảng nước sâu để tiếp nhận dầu thô và phân phối sản phẩm."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A đúng: cấu trúc thượng – trung – hạ nguồn đã hình thành và vận hành. B đúng: hoá chất đa dạng nhưng hoá chất tinh, phụ liệu cho dệt, nhựa, dược còn phải mua từ nước ngoài. C sai: thực tế các nhà máy lọc dầu đều ở ven biển miền Trung và phía Nam. D đúng: vị trí ven biển giúp giảm chi phí vận chuyển nguyên liệu, sản phẩm và thuận lợi cho kho ngoại quan."
+    },
+    {
+      "id": "dia12-b17-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho các phát biểu sau về công nghiệp luyện kim, cơ khí và vật liệu xây dựng. Những phát biểu nào sau đây là đúng?",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "luyện kim",
+        "cơ khí",
+        "vật liệu xây dựng"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Xi măng, gạch ốp lát, sứ vệ sinh và thuỷ tinh xây dựng đều thuộc nhóm công nghiệp vật liệu xây dựng."
+        },
+        {
+          "key": "B",
+          "text": "Nước ta không sản xuất được xi măng nên phải nhập khẩu phần lớn cho xây dựng."
+        },
+        {
+          "key": "C",
+          "text": "Các khu liên hợp luyện thép phân bố ở ven biển, gần cảng để thuận lợi nhập quặng, than coke và đưa sản phẩm đi tiêu thụ."
+        },
+        {
+          "key": "D",
+          "text": "Công nghiệp cơ khí có cơ cấu đa dạng, tập trung ở các trung tâm công nghiệp lớn nhưng năng lực thiết kế, chế tạo còn hạn chế."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A đúng: tất cả đều là vật liệu xây dựng, phục vụ ngành xây dựng. B sai: nước ta có công suất xi măng lớn, đáp ứng nhu cầu trong nước và xuất khẩu. C đúng: ưu thế của vị trí ven biển là logistics cho nguyên liệu nặng và sản phẩm. D đúng: cơ khí phủ nhiều phân ngành nhưng năng lực thiết kế, công nghệ lõi và một phần linh kiện vẫn phụ thuộc nhập khẩu."
+    },
+    {
+      "id": "dia12-b17-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho các phát biểu sau về công nghiệp sản xuất hàng tiêu dùng và công nghiệp thực phẩm. Những phát biểu nào sau đây là đúng?",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "hàng tiêu dùng",
+        "công nghiệp thực phẩm",
+        "phát biểu đúng"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Dệt – may và da – giày là hai trong những nhóm hàng xuất khẩu lớn, sử dụng nhiều lao động."
+        },
+        {
+          "key": "B",
+          "text": "Công nghiệp thực phẩm gắn với nguồn nguyên liệu nông, lâm, thuỷ sản tại chỗ nên phân bố rộng khắp."
+        },
+        {
+          "key": "C",
+          "text": "Toàn bộ thiết bị của ngành hàng tiêu dùng trong nước do các nhà máy trong nước chế tạo, không phải nhập."
+        },
+        {
+          "key": "D",
+          "text": "Chế biến lương thực, thực phẩm có nhiều mặt hàng xuất khẩu giá trị cao như gạo, cà phê, thuỷ sản, nhân điều."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A đúng: hai ngành này đứng trong nhóm kim ngạch xuất khẩu lớn nhất và thu hút hàng triệu lao động. B đúng: nguyên liệu nông sản rải rác ở mọi vùng, sản phẩm lại cần đến gần thị trường tiêu thụ. C sai: phần lớn máy móc, dây chuyền dệt, may, chế biến vẫn được nhập khẩu. D đúng: đây là các mặt hàng chế biến nông sản xuất khẩu truyền thống, có vị trí cao trên thế giới."
+    },
+    {
+      "id": "dia12-b17-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho các phát biểu sau về nhân tố ảnh hưởng tới phân bố các ngành công nghiệp. Những phát biểu nào sau đây là đúng?",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "phân bố công nghiệp",
+        "giải thích",
+        "nguyên nhân"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "Khai thác dầu khí của nước ta phân bố chủ yếu ở các vùng có diện tích trồng lúa lớn nhất cả nước."
+        },
+        {
+          "key": "B",
+          "text": "Nhiệt điện than phân bố gần mỏ than và cảng biển nhằm giảm chi phí vận chuyển nhiên liệu."
+        },
+        {
+          "key": "C",
+          "text": "Công nghiệp cơ khí tập trung ở các đô thị lớn vì cần lao động kỹ thuật, thị trường tiêu thụ và mạng cung ứng phụ tùng."
+        },
+        {
+          "key": "D",
+          "text": "Công nghiệp thực phẩm phân bố rộng khắp do nguồn nguyên liệu và thị trường tiêu thụ rải rác ở nhiều vùng."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "A sai: dầu khí phân bố ở thềm lục địa, tiêu biểu là các bể ở vùng biển Nam Trung Bộ và phía Nam, không liên quan tới đất lúa. B đúng: than là nhiên liệu nặng, chi phí vận chuyển lớn nên nhà máy đặt gần mỏ hoặc cảng nhập than. C đúng: cơ khí cần tổng hợp lao động có tay nghề, nhà cung ứng linh kiện và khách hàng. D đúng: đặc điểm nguyên liệu tươi, phân tán và thị trường tại chỗ khiến ngành thực phẩm có mặt ở hầu hết các tỉnh."
+    }
+  ]
+}

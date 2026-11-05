@@ -1,0 +1,3539 @@
+{
+  "id": "exam-lich-su-bai-15",
+  "title": "Đề ôn tập Lịch sử 12 – Bài 15. Khái quát cuộc đời và sự nghiệp của Hồ Chí Minh",
+  "slug": "de-lich-su-12-bai-15",
+  "description": "100 câu hỏi bám sát Bài 15 Lịch sử 12 (Kết nối tri thức): khái quát cuộc đời và sự nghiệp của Hồ Chí Minh, từ quê hương và gia đình ở Kim Liên – Nam Đàn – Nghệ An, hành trình ra đi tìm đường cứu nước năm 1911, bước ngoặt 1920, hoạt động ở Pháp và Liên Xô, về Quảng Châu năm 1925, chủ trì Hội nghị thành lập Đảng năm 1930, những năm bị bắt giam, về nước năm 1941 trực tiếp lãnh đạo, đọc Tuyên ngôn Độc lập năm 1945 tới khi qua đời năm 1969.",
+  "subject": "lich-su",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 90,
+  "totalScore": 100,
+  "examYear": 2026,
+  "examCode": "SU12-B15",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "q-su-bai15-001",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Hồ Chí Minh sinh năm nào và nơi sinh của Người ở đâu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Năm 1890, ở làng Sen, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An."
+        },
+        {
+          "key": "B",
+          "text": "Năm 1890, ở làng Hoàng Trù, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An."
+        },
+        {
+          "key": "C",
+          "text": "Năm 1892, ở làng Hoàng Trù, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An."
+        },
+        {
+          "key": "D",
+          "text": "Năm 1894, ở thành phố Vinh, tỉnh Nghệ An, nơi Người lớn lên và học chữ Hán."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Người sinh năm 1890 tại làng Hoàng Trù, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An; làng Sen là quê nội nên phương án A dễ gây nhầm lẫn. Các năm 1892 và 1894 trong phương án C, D đều không đúng mốc sinh của Người.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Quê hương và gia đình Nguyễn Sinh Cung",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-002",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên khai sinh của Hồ Chí Minh là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguyễn Sinh Cung."
+        },
+        {
+          "key": "B",
+          "text": "Nguyễn Tất Thành."
+        },
+        {
+          "key": "C",
+          "text": "Nguyễn Ái Quốc."
+        },
+        {
+          "key": "D",
+          "text": "Hồ Chí Minh."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Tên khai sinh của Người là Nguyễn Sinh Cung. Tên Nguyễn Tất Thành được dùng ở giai đoạn sau thời thơ ấu, còn Nguyễn Ái Quốc và Hồ Chí Minh là những tên gọi gắn với các chặng hoạt động cách mạng ở nước ngoài và sau này.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Quê hương và gia đình Nguyễn Sinh Cung",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-003",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Thân sinh của Hồ Chí Minh là ai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cụ Nguyễn Sinh Sắc, một nhà nho yêu nước từng đỗ phó bảng."
+        },
+        {
+          "key": "B",
+          "text": "Cụ Phan Sinh Sắc, một nhà nho từng lãnh đạo phong trào Cần Vương ở Nghệ An."
+        },
+        {
+          "key": "C",
+          "text": "Cụ Nguyễn Sinh Khiêm, một sĩ phu từng tham gia Duy Tân hội."
+        },
+        {
+          "key": "D",
+          "text": "Cụ Hoàng Trù, một địa chủ có uy tín ở huyện Nam Đàn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cha của Người là cụ Nguyễn Sinh Sắc (tên huý là Nguyễn Sinh Huy), nhà nho yêu nước, đỗ phó bảng. Các tên nêu ở phương án B, C, D không phải thân sinh của Người; Nguyễn Sinh Khiêm là tên anh trai của Người.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Quê hương và gia đình Nguyễn Sinh Cung",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-004",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Thân mẫu của Hồ Chí Minh là ai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bà Hoàng Thị Loan."
+        },
+        {
+          "key": "B",
+          "text": "Bà Nguyễn Thị Thanh."
+        },
+        {
+          "key": "C",
+          "text": "Bà Tăng Bíu Sảng."
+        },
+        {
+          "key": "D",
+          "text": "Bà Chu Thị Ngân."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Mẹ của Người là bà Hoàng Thị Loan, người phụ nữ đảm đang, chịu nhiều gian lao và mất sớm khi Người còn nhỏ. Nguyễn Thị Thanh là chị gái của Người, nên phương án B không đúng.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Quê hương và gia đình Nguyễn Sinh Cung",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-005",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cụ Nguyễn Sinh Sắc đỗ học vị phó bảng trong khoa thi nào và vào năm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khoa thi Hội năm 1901."
+        },
+        {
+          "key": "B",
+          "text": "Khoa thi Hương năm 1885."
+        },
+        {
+          "key": "C",
+          "text": "Khoa thi Đình năm 1911."
+        },
+        {
+          "key": "D",
+          "text": "Khoa thi Hội năm 1919."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cụ Nguyễn Sinh Sắc đỗ phó bảng ở khoa thi Hội năm 1901, học vị cao nhất dành cho người đỗ đạt của khoa cử Nho giáo thời Nguyễn. Các mốc 1885, 1911, 1919 ở những phương án còn lại không gắn với việc cụ đỗ phó bảng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Quê hương và gia đình Nguyễn Sinh Cung",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-006",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau khi đỗ phó bảng, cụ Nguyễn Sinh Sắc từng được triều đình nhà Nguyễn bổ nhiệm làm tri phủ ở đâu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phủ Đức Thọ, tỉnh Hà Tĩnh."
+        },
+        {
+          "key": "B",
+          "text": "Phủ Nam Đàn, tỉnh Nghệ An."
+        },
+        {
+          "key": "C",
+          "text": "Phủ Thi Nai, tỉnh Bình Định."
+        },
+        {
+          "key": "D",
+          "text": "Phủ Tuy Lý, tỉnh Bình Thuận."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cụ Nguyễn Sinh Sắc từng giữ chức tri phủ Đức Thọ (Hà Tĩnh) và bị cách chức không qua xét xử vào đầu thập niên 1910. Sau đó cụ vào miền Nam hoạt động, nên các địa danh ở phương án B, C, D không phải nơi cụ làm tri phủ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Quê hương và gia đình Nguyễn Sinh Cung",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-007",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cụ Nguyễn Sinh Sắc qua đời năm 1929 và được an táng ở khu vực nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kim Liên, Nam Đàn, Nghệ An, quê hương của Hồ Chí Minh."
+        },
+        {
+          "key": "B",
+          "text": "Hương Sơn, Hà Tĩnh, nơi cụ từng làm quan võ."
+        },
+        {
+          "key": "C",
+          "text": "Vùng Cao Lãnh ở Nam Bộ, nơi Người đã gửi thư chia buồn khi hay tin."
+        },
+        {
+          "key": "D",
+          "text": "Phan Thiết, Bình Thuận, nơi Người từng dạy học năm 1910."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Cụ mất năm 1929 ở vùng Cao Lãnh (Nam Bộ ngày nay); Nguyễn Ái Quốc hay tin đã viết thư chia buồn. Kim Liên là quê hương của Người, Phan Thiết gắn với thời gian dạy học, còn Hương Sơn không phải nơi an táng cụ.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Quê hương và gia đình Nguyễn Sinh Cung",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-008",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Nghệ An, Hà Tĩnh cuối thế kỉ XIX là địa phương hưởng ứng mạnh mẽ phong trào yêu nước nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phong trào Cần Vương chống thực dân Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Phong trào Đông Du do xuất dương du học."
+        },
+        {
+          "key": "C",
+          "text": "Phong trào Duy Tân theo hướng cải lương."
+        },
+        {
+          "key": "D",
+          "text": "Phong trào Văn thân kinh kỳ phản đối tân học."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Nghệ Tĩnh là một trong những địa phương hưởng ứng mạnh mẽ phong trào Cần Vương cuối thế kỉ XIX, để lại nhiều tấm gương yêu nước trong đó có gia đình Nguyễn Sinh Cung. Đông Du và Duy Tân là các phong trào đầu thế kỉ XX, còn phương án D không phải phong trào yêu nước tiến bộ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Quê hương và gia đình Nguyễn Sinh Cung",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-009",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo nội dung bài học về quê hương, gia đình, truyền thống yêu nước ở Nghệ An đã ảnh hưởng đến Nguyễn Sinh Cung như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giúp Người sớm hình thành lòng yêu nước và ý chí đánh đuổi thực dân."
+        },
+        {
+          "key": "B",
+          "text": "Đưa Người sớm gia nhập bộ máy quan lại của triều đình nhà Nguyễn."
+        },
+        {
+          "key": "C",
+          "text": "Khiến Người chủ trương dựa vào Pháp để cải thiện đời sống dân nghèo."
+        },
+        {
+          "key": "D",
+          "text": "Làm Người mất liên hệ với phong trào yêu nước trong nước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Quê hương Nghệ An giàu truyền thống đấu tranh cùng gia đình nhà nho yêu nước đã nuôi dưỡng ở Người lòng yêu nước và sớm nảy sinh mong muốn tìm con đường mới để cứu nước. Người không làm quan cho triều đình bù nhìn, cũng không chủ trương dựa vào Pháp.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Quê hương và gia đình Nguyễn Sinh Cung",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-010",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyễn Sinh Cung theo học trường tiểu học Pháp – Đông bản xứ ở Vinh vào khoảng thời gian nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khoảng các năm 1898 – 1905."
+        },
+        {
+          "key": "B",
+          "text": "Khoảng các năm 1906 – 1908."
+        },
+        {
+          "key": "C",
+          "text": "Khoảng các năm 1908 – 1910."
+        },
+        {
+          "key": "D",
+          "text": "Khoảng các năm 1911 – 1913."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người học ở Vinh trong khoảng các năm cuối thập niên 1890 đến trước khi ra Huế, tức trước năm 1906. Giai đoạn 1906 – 1908 là thời gian học ở Quốc học Huế, còn 1908 – 1910 là quãng rời trường và vào dạy học ở Bình Thuận.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thuở thiếu thời và con đường học vấn",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-011",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ năm 1906, Nguyễn Sinh Cung chuyển ra Huế học ở trường nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trường Quốc học Huế."
+        },
+        {
+          "key": "B",
+          "text": "Trường Dục Thanh."
+        },
+        {
+          "key": "C",
+          "text": "Trường Bảo Chính."
+        },
+        {
+          "key": "D",
+          "text": "Trường Colliner."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1906, Nguyễn Tất Thành theo học Trường Quốc học Huế, nơi Người được tiếp xúc với quốc ngữ, chữ Pháp và các tư tưởng mới. Trường Dục Thanh ở Phan Thiết là nơi Người dạy học sau này, còn hai tên trường ở phương án C, D không liên quan.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thuở thiếu thời và con đường học vấn",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-012",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1908, Nguyễn Tất Thành rời trường Quốc học Huế sau khi tham gia sự kiện nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cuộc mít tinh của nhân dân Thừa Thiên – Huế chống thuế, chống đi dịch của người Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Cuộc khởi nghĩa Thái Nguyên do ông Đội Cấn lãnh đạo."
+        },
+        {
+          "key": "C",
+          "text": "Phong trào Đông Du đưa thanh niên sang Nhật Bản du học."
+        },
+        {
+          "key": "D",
+          "text": "Cuộc bãi khóa đòi nhà trường bỏ phép kiểm duyệt thư từ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1908, phong trào chống thuế của nhân dân Trung Kỳ lan tới Huế; Nguyễn Tất Thành tham gia cuộc mít tinh và sau đó rời trường Quốc học. Khởi nghĩa Thái Nguyên nổ ra năm 1917, Đông Du không diễn ra ở Huế, nên phương án B, C không đúng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thuở thiếu thời và con đường học vấn",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-013",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bài học rút ra từ buổi đầu hoạt động yêu nước, sự kiện năm 1908 ở Huế để lại dấu ấn gì đối với Nguyễn Tất Thành?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khẳng định con đường duy nhất là học hết chương trình quốc học rồi xin việc làm ở Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Giúp người thanh niên sớm thấy rõ sức mạnh của quần chúng và thực tế áp bức ở trong nước."
+        },
+        {
+          "key": "C",
+          "text": "Thuyết phục ông tin vào khả năng Pháp tự giác trao quyền tự trị cho người An Nam."
+        },
+        {
+          "key": "D",
+          "text": "Gợi cho ông chủ trương cầu viện một nước phương Tây khác để chống Pháp."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Lần đầu chứng kiến phong trào của đông đảo dân chúng, Nguyễn Tất Thành nhận rõ nỗi đau mất nước và sức mạnh tiềm tàng của quần chúng, điều thôi thúc Người đi tìm con đường mới. Sự kiện không củng cố niềm tin vào nhà trường Pháp hay vào việc cầu viện nước khác.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thuở thiếu thời và con đường học vấn",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-014",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1910, Nguyễn Tất Thành vào Bình Thuận làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dạy học ở trường Dục Thanh."
+        },
+        {
+          "key": "B",
+          "text": "Đi làm thuê trên các đồn điền cao su."
+        },
+        {
+          "key": "C",
+          "text": "Học nghề ở trường bách nghệ."
+        },
+        {
+          "key": "D",
+          "text": "Dự một lớp huấn luyện bí mật của phong trào Đông Du."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1910, Nguyễn Tất Thành dạy học tại trường Dục Thanh ở Phan Thiết, Bình Thuận, trước khi vào Sài Gòn. Người làm nghề dạy học chứ không đi làm đồn điền hay học nghề, và phong trào Đông Du đã tan rã nên phương án D không có cơ sở.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Ra đi tìm đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-015",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyễn Tất Thành rời Sài Gòn ra đi tìm đường cứu nước vào ngày nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngày 5-6-1911."
+        },
+        {
+          "key": "B",
+          "text": "Ngày 3-2-1930."
+        },
+        {
+          "key": "C",
+          "text": "Ngày 19-5-1890."
+        },
+        {
+          "key": "D",
+          "text": "Ngày 2-9-1945."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ngày 5-6-1911, Nguyễn Tất Thành từ bến Nhà Rồng (Sài Gòn) xuống một con tàu buôn của Pháp, bắt đầu hành trình ra nước ngoài. Ngày 19-5-1890 là ngày sinh, còn 3-2-1930 và 2-9-1945 là hai mốc sau này của cách mạng Việt Nam.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Ra đi tìm đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-016",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trên con tàu đầu tiên rời Tổ quốc, Nguyễn Tất Thành làm nghề gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phụ bếp, vừa lao động kiếm sống vừa tranh thủ tìm hiểu thực tế."
+        },
+        {
+          "key": "B",
+          "text": "Thủy thủ trưởng điều hành tuyến hàng hải Sài Gòn – Marseille."
+        },
+        {
+          "key": "C",
+          "text": "Thư ký riêng của toàn quyền Đông Dương đi công tác."
+        },
+        {
+          "key": "D",
+          "text": "Học sinh được học bổng theo học nghề ở nhà máy tàu thủy."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người nhận làm phụ bếp để có phương tiện ra nước ngoài, tự nuôi sống bản thân bằng lao động và quan sát đời sống các nước. Người không có chức danh chính thức nào trên tàu, không đi cùng toàn quyền và không phải diện được học bổng.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Ra đi tìm đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-017",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Mục đích chủ yếu của Nguyễn Tất Thành khi ra nước ngoài năm 1911 là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tìm hiểu thực tế các nước, khảo sát xem ai bạn ai thù rồi về nước cứu dân."
+        },
+        {
+          "key": "B",
+          "text": "Ở lại châu Âu định cư để tránh sự truy nã của chính quyền thuộc địa."
+        },
+        {
+          "key": "C",
+          "text": "Xin việc làm lâu dài trong ngành hàng hải để cải thiện đời sống gia đình."
+        },
+        {
+          "key": "D",
+          "text": "Thay mặt một tổ chức trong nước đi tìm viện trợ quân sự của nước ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Mục đích của chuyến đi là khảo sát thực tế các nước để tìm con đường cứu nước rồi trở về giúp đồng bào, không phải di cư hay kiếm việc làm. Năm 1911 Người ra đi với tư cách cá nhân, chưa đại diện cho tổ chức chính trị nào.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Ra đi tìm đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-018",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Hướng đi của Nguyễn Tất Thành khác cơ bản so với các bậc tiền bối như Phan Bội Châu ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đi sang phương Tây, đến ngay nước đang đô hộ nước mình để tự tìm hiểu và tìm lối thoát cho dân tộc."
+        },
+        {
+          "key": "B",
+          "text": "Dùng phong trào yêu nước trong nước để tìm sự giúp đỡ của Nhật Bản."
+        },
+        {
+          "key": "C",
+          "text": "Duy trì sinh hoạt của các hội nhóm để chờ thời cơ."
+        },
+        {
+          "key": "D",
+          "text": "Dựa vào nhà nước Pháp để cải tạo xã hội Việt Nam theo hướng tiến bộ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người đi về phương Tây, vào ngay nước Pháp và các nước khác để khảo sát thực tế, không cầu viện một nước tư bản khác. Cách làm này khác với chủ trương dựa vào Nhật của Phan Bội Châu và với con đường hợp tác với Pháp của xu hướng cải lương.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Ra đi tìm đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-019",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Con đường cứu nước mà Nguyễn Tất Thành hướng tới sau này được xác định theo hướng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách mạng vô sản, gắn độc lập dân tộc với chủ nghĩa xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Xin cải cách dân chủ dưới quyền mẫu quốc Pháp."
+        },
+        {
+          "key": "C",
+          "text": "Khôi phục chế độ quân chủ theo kiểu Cần Vương."
+        },
+        {
+          "key": "D",
+          "text": "Cầu viện một cường quốc khác chống lại thực dân Pháp."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Sau hành trình khảo sát và tiếp thu chủ nghĩa Lênin, Người chọn con đường cách mạng vô sản. Các phương án còn lại ứng với những lối thoát cũ đã thất bại hoặc đi ngược lại cách Người đã lựa chọn.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Ra đi tìm đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-020",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ năm 1911 đến năm 1917, Nguyễn Tất Thành đã sống và lao động ở những khu vực nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiều cảng ở châu Phi, rồi các nước châu Âu và Bắc Mỹ."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ đi lại giữa các cảng của Đông Dương và Trung Quốc."
+        },
+        {
+          "key": "C",
+          "text": "Liên tục hoạt động ở Xiêm và Đông Dương trong giai đoạn này."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ đến một thành phố ở Pháp và trở về nước ngay năm sau."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Giai đoạn 1911 – 1917, Người đi qua nhiều bến cảng, có thời gian ở các nước thuộc địa châu Phi, sang Mĩ và Anh rồi quay trở lại Pháp. Người không bó hẹp hoạt động ở châu Á, cũng không quay về nước ngay.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hành trình 1911 – 1917",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-021",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thời gian sống ở nước Anh (1913 – 1917), Nguyễn Tất Thành làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vừa lao động kiếm sống, vừa tự học và tìm hiểu phong trào công nhân Anh."
+        },
+        {
+          "key": "B",
+          "text": "Học hết chương trình đại học ở Luân Đôn rồi về nước hoạt động."
+        },
+        {
+          "key": "C",
+          "text": "Dựng một tổ chức cách mạng đầu tiên của Việt kiều tại Luân Đôn."
+        },
+        {
+          "key": "D",
+          "text": "Nhận chức dịch của một cơ quan của chính phủ Anh tại thuộc địa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ở Anh, Người làm thuê để tự nuôi thân, dành thời gian học tập và quan sát đời sống, phong trào của giai cấp công nhân. Người chưa học xong đại học, cũng chưa lập tổ chức hay nhận chức dịch nào của chính quyền.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hành trình 1911 – 1917",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-022",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Qua khảo sát nhiều nước trong hành trình 1911 – 1917, Nguyễn Tất Thành rút ra nhận xét quan trọng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ở đâu cũng có hai hạng người: kẻ áp bức bóc lột và người lao động bị áp bức, bóc lột."
+        },
+        {
+          "key": "B",
+          "text": "Nhân dân các nước thuộc địa chưa đủ điều kiện để đòi quyền dân tộc."
+        },
+        {
+          "key": "C",
+          "text": "Các nước tư bản sẽ thực hiện lời hứa khai hóa, giúp thuộc địa phát triển."
+        },
+        {
+          "key": "D",
+          "text": "Phải dựa vào giai cấp tư sản bản xứ mới làm cách mạng thành công."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người thấy ở chính quốc cũng như ở các thuộc địa đều có kẻ bóc lột và người bị bóc lột, từ đó xác định bạn – thù và nhận ra sức mạnh của nhân dân lao động quốc tế. Nhận định này hoàn toàn trái ngược với các phương án B, C, D vốn đề cao sự khai hóa của tư bản.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hành trình 1911 – 1917",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-023",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1917, Nguyễn Tất Thành làm gì để tiếp tục hoạt động?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quay trở lại nước Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Trở về nước tham gia dạy học."
+        },
+        {
+          "key": "C",
+          "text": "Sang Liên Xô học tại Trường Đại học Phương Đông."
+        },
+        {
+          "key": "D",
+          "text": "Ở lại Anh và trở thành phóng viên chính thức của một tờ báo ở Luân Đôn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cuối năm 1917, Người từ Anh quay lại Pháp, bắt đầu thời kỳ hoạt động trực tiếp trên đất Pháp. Sang Liên Xô là việc của năm 1923, còn hai phương án về nước không đúng với tiểu sử giai đoạn này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hành trình 1911 – 1917",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-024",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Đầu năm 1919, Nguyễn Ái Quốc gửi tới Hội nghị Vécxây văn kiện nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bản yêu sách của nhân dân An Nam đòi các quyền tự do, dân chủ cho dân tộc An Nam."
+        },
+        {
+          "key": "B",
+          "text": "Tuyên ngôn độc lập của nước Việt Nam Dân chủ Cộng hòa."
+        },
+        {
+          "key": "C",
+          "text": "Đường kách mệnh, sách huấn luyện cách mạng."
+        },
+        {
+          "key": "D",
+          "text": "Bản án chế độ thực dân Pháp."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1919, thay mặt những người Việt Nam yêu nước ở Pháp, Nguyễn Ái Quốc gửi Bản yêu sách của nhân dân An Nam tới Hội nghị Vécxây. Tuyên ngôn độc lập thuộc năm 1945, Đường kách mệnh in năm 1927 còn Bản án chế độ thực dân Pháp xuất bản năm 1925.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Pháp 1917 – 1923",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-025",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Bản yêu sách của nhân dân An Nam không được các nước lớn tại Hội nghị Vécxây chấp nhận để lại bài học gì cho Nguyễn Ái Quốc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Muốn giải phóng dân tộc phải dựa vào lực lượng của chính dân tộc mình, không thể trông chờ vào các cường quốc."
+        },
+        {
+          "key": "B",
+          "text": "Cần tiếp tục gửi nhiều bản yêu sách hơn nữa cho tới khi các nước lớn trả lời."
+        },
+        {
+          "key": "C",
+          "text": "Phải xin lập lại chế độ quân chủ để được triều đình bảo trợ cho các quyền dân tộc."
+        },
+        {
+          "key": "D",
+          "text": "Phải chuyển hoạt động về trong nước rồi chấm dứt việc đấu tranh hợp pháp."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Thất bại của bản yêu sách cho thấy không thể trông chờ vào 'lòng thương xót' hay công lý của các nước đế quốc; sự nghiệp giải phóng phải do chính nhân dân Việt Nam đảm nhiệm. Các phương án còn lại đều không phải kết luận mà Người rút ra.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Pháp 1917 – 1923",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-026",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1920, Nguyễn Ái Quốc được tiếp cận văn kiện nào của V.I. Lênin nói về phong trào giải phóng dân tộc ở các nước thuộc địa?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa."
+        },
+        {
+          "key": "B",
+          "text": "Tuyên ngôn của Đảng Cộng sản do C. Mác và Ph. Ăngghen soạn thảo."
+        },
+        {
+          "key": "C",
+          "text": "Báo cáo về phong trào nông dân ở các nước phương Đông tại Đại hội II của Quốc tế Cộng sản."
+        },
+        {
+          "key": "D",
+          "text": "Luận cương về vấn đề dân chủ ở Nga do Lênin trình bày đầu thế kỉ XX."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Chính sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin đã trả lời câu hỏi lớn mà Nguyễn Ái Quốc đang tìm kiếm. Tuyên ngôn của Đảng Cộng sản và các luận cương về nước Nga không trực tiếp bàn về con đường giải phóng các dân tộc thuộc địa.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bước ngoặt 1920",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-027",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Luận cương của Lênin về vấn đề dân tộc và vấn đề thuộc địa có ý nghĩa gì đối với Nguyễn Ái Quốc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giúp Người tin rằng có thể cải tạo chủ nghĩa tư bản bằng thương lượng hòa bình."
+        },
+        {
+          "key": "B",
+          "text": "Đánh dấu bước quyết định để Người đi tới con đường cách mạng vô sản cho dân tộc Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Thuyết phục Người trở về hoạt động trong khuôn khổ triều đình nhà Nguyễn."
+        },
+        {
+          "key": "D",
+          "text": "Khiến Người cho rằng nông dân Việt Nam tự nó sẽ đem lại độc lập dân tộc."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Luận cương cho Người thấy sự nghiệp giải phóng các dân tộc thuộc địa gắn liền với cách mạng vô sản và với Quốc tế Cộng sản, nên đây là bước quyết định trong lựa chọn con đường cứu nước. Các phương án còn lại đều trái với chiều vận động nhận thức của Người.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bước ngoặt 1920",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-028",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tại Đại hội của Đảng Xã hội Pháp họp ở thành phố Tours (tháng 12-1920), Nguyễn Ái Quốc đã làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bỏ phiếu tán thành gia nhập Quốc tế thứ ba và tham gia sáng lập Đảng Cộng sản Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Được bầu làm người đứng đầu của Đảng Xã hội Pháp."
+        },
+        {
+          "key": "C",
+          "text": "Trình bày bản yêu sách của nhân dân An Nam trước Hội nghị Vécxây."
+        },
+        {
+          "key": "D",
+          "text": "Tuyên bố giải tán Hội Việt Nam Cách mạng Thanh niên."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ở Đại hội Tours, Người bỏ phiếu tán thành việc gia nhập Quốc tế thứ ba và cùng những người cộng sản Pháp sáng lập Đảng Cộng sản Pháp. Bản yêu sách gửi Hội nghị Vécxây thuộc năm 1919, còn Hội Việt Nam Cách mạng Thanh niên được lập năm 1925 ở Quảng Châu.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Bước ngoặt 1920",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-029",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong tiểu sử của Hồ Chí Minh, những sự kiện năm 1920 được xem là bước ngoặt vì lý do nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đánh dấu việc Người được chính quyền thuộc địa công nhận tư cách hoạt động hợp pháp."
+        },
+        {
+          "key": "B",
+          "text": "Đánh dấu việc Người xác định được con đường cứu nước theo chủ nghĩa Mác – Lênin."
+        },
+        {
+          "key": "C",
+          "text": "Đánh dấu việc Người lần đầu tiên đặt chân tới nước Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Đánh dấu việc Người trực tiếp lãnh đạo Tổng khởi nghĩa trong cả nước."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Việc tiếp thu luận cương của Lênin và tham gia sáng lập Đảng Cộng sản Pháp năm 1920 cho thấy Người đã tìm thấy lối thoát cho dân tộc theo con đường cách mạng vô sản. Người đến Pháp trước đó, chưa từng được chính quyền thuộc địa thừa nhận hoạt động hợp pháp, còn Tổng khởi nghĩa là việc của năm 1945.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bước ngoặt 1920",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-030",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Bút danh Nguyễn Ái Quốc gắn với chặng hoạt động nào của Hồ Chí Minh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chặng Người hoạt động, viết báo và đấu tranh ở Pháp trong những năm 1919 – 1923."
+        },
+        {
+          "key": "B",
+          "text": "Chặng Người dạy học ở trường Dục Thanh, Phan Thiết."
+        },
+        {
+          "key": "C",
+          "text": "Chặng Người làm phụ bếp trên con tàu rời bến Nhà Rồng năm 1911."
+        },
+        {
+          "key": "D",
+          "text": "Chặng Người giữ cương vị Chủ tịch nước Việt Nam Dân chủ Cộng hòa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Tên Nguyễn Ái Quốc xuất hiện và được dùng chủ yếu trong thời gian Người hoạt động ở Pháp, gắn với các bài tố cáo chủ nghĩa thực dân. Khi dạy học ở Phan Thiết hay khi ra đi năm 1911, Người còn mang tên Nguyễn Tất Thành; tên Hồ Chí Minh dùng ở chặng sau này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tên gọi theo từng chặng hoạt động",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-031",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1921, Nguyễn Ái Quốc tham gia sáng lập tổ chức nào của những người yêu nước ở các thuộc địa của Pháp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phong trào Phục Việt."
+        },
+        {
+          "key": "B",
+          "text": "Hội Liên hiệp thuộc địa."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam Quang phục hội."
+        },
+        {
+          "key": "D",
+          "text": "Tân Việt Nam Cách mạng Đồng chí hội."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hội Liên hiệp thuộc địa được Nguyễn Ái Quốc cùng những người yêu nước ở các thuộc địa của Pháp lập ra năm 1921 để tập hợp lực lượng chống chủ nghĩa thực dân. Việt Nam Quang phục hội là tổ chức do Phan Bội Châu lập ở Trung Quốc, hai tổ chức còn lại hoạt động trong nước.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Pháp 1919 – 1923",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-032",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tờ báo nào do Nguyễn Ái Quốc làm chủ nhiệm, đồng thời là cơ quan ngôn luận của Hội Liên hiệp thuộc địa?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Báo Người cùng khổ."
+        },
+        {
+          "key": "B",
+          "text": "Báo Thanh niên."
+        },
+        {
+          "key": "C",
+          "text": "Báo Bônsơvich."
+        },
+        {
+          "key": "D",
+          "text": "Báo Nhân dân."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Báo Người cùng khổ ra đời năm 1922, là cơ quan ngôn luận của Hội Liên hiệp thuộc địa, nơi Nguyễn Ái Quốc viết phần lớn bài. Báo Thanh niên là cơ quan của Hội Việt Nam Cách mạng Thanh niên lập ở Quảng Châu năm 1925.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Pháp 1919 – 1923",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-033",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngoài báo Người cùng khổ, trong thời gian ở Pháp Nguyễn Ái Quốc còn cộng tác viết bài cho những tờ báo tiến bộ nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Báo Nhân đạo và báo Đời sống công nhân."
+        },
+        {
+          "key": "B",
+          "text": "Báo của các đảng xã hội ủng hộ chính sách thuộc địa của Pháp."
+        },
+        {
+          "key": "C",
+          "text": "Báo chí công khai do chính quyền thuộc địa Đông Dương xuất bản."
+        },
+        {
+          "key": "D",
+          "text": "Tờ báo bí mật của Việt Nam Quốc dân đảng ở Yên Bái."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người cộng tác với báo Nhân đạo, cơ quan của Đảng Cộng sản Pháp, và báo Đời sống công nhân, cùng một số tờ báo tiến bộ khác, để tố cáo chủ nghĩa thực dân. Nội dung các bài viết của Người chống lại chính sách thuộc địa nên không thể đăng trên báo do chính quyền thuộc địa kiểm soát.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Pháp 1919 – 1923",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-034",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Mục đích chủ yếu trong hoạt động báo chí của Nguyễn Ái Quốc ở Pháp những năm 1919 – 1923 là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kiếm sống bằng nghề báo và mở rộng quan hệ ngoại giao của triều đình Huế."
+        },
+        {
+          "key": "B",
+          "text": "Tố cáo tội ác của chủ nghĩa thực dân, thức tỉnh nhân dân thuộc địa và công nhân Pháp."
+        },
+        {
+          "key": "C",
+          "text": "Thuyết phục Chính phủ Pháp trao quyền tự trị cho các xứ ở Đông Dương."
+        },
+        {
+          "key": "D",
+          "text": "Tuyên truyền cho việc đưa lao động Việt Nam sang làm việc ở Pháp."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Các bài viết của Người nêu cụ thể tội ác của chế độ thực dân, đánh thức những người bị áp bức ở thuộc địa và lôi kéo công nhân Pháp ủng hộ cuộc đấu tranh của nhân dân Đông Dương. Người không hoạt động cho triều đình, cũng không hy vọng Chính phủ Pháp tự trao quyền tự trị.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Pháp 1919 – 1923",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-035",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tác phẩm Bản án chế độ thực dân Pháp của Nguyễn Ái Quốc có giá trị như thế nào đối với chặng hoạt động ở Pháp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là văn kiện yêu sách đầu tiên của nhân dân An Nam gửi các nước lớn."
+        },
+        {
+          "key": "B",
+          "text": "Là bản cáo trạng toàn diện chủ nghĩa thực dân, chứng minh bằng chính những điều Người đã chứng kiến."
+        },
+        {
+          "key": "C",
+          "text": "Là cẩm nang huấn luyện cách mạng dùng trong các lớp mở ở Quảng Châu."
+        },
+        {
+          "key": "D",
+          "text": "Là bản Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Bản án chế độ thực dân Pháp tập hợp những tư liệu về chế độ thuộc địa mà Người thu thập và trực tiếp trải qua, tạo thành bản cáo trạng đanh thép chống chủ nghĩa thực dân. Văn kiện gửi Hội nghị Vécxây là Bản yêu sách, cẩm nang huấn luyện là Đường kách mệnh, Cương lĩnh đầu tiên thuộc năm 1930.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Pháp 1919 – 1923",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-036",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1923, Nguyễn Ái Quốc rời nước Pháp để đi đâu và làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trở về Đông Dương để trực tiếp lãnh đạo phong trào trong nước."
+        },
+        {
+          "key": "B",
+          "text": "Sang Liên Xô học tập và hoạt động, tiếp tục nghiên cứu chủ nghĩa Lênin."
+        },
+        {
+          "key": "C",
+          "text": "Sang Trung Quốc mở lớp huấn luyện cán bộ cho Hội Việt Nam Cách mạng Thanh niên."
+        },
+        {
+          "key": "D",
+          "text": "Sang Anh để hoàn thành chương trình đại học ở Luân Đôn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Năm 1923, Nguyễn Ái Quốc rời Pháp sang Liên Xô, nơi Người học tập, nghiên cứu và tham gia hoạt động trong phong trào cộng sản quốc tế. Chuyến đi Quảng Châu mở lớp huấn luyện là việc của năm 1925, còn Người chưa trở về Đông Dương ở thời điểm này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Liên Xô 1923 – 1924",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-037",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thời gian ở Liên Xô (1923 – 1924), hoạt động chủ yếu của Nguyễn Ái Quốc là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Học tập, nghiên cứu và tham gia các công việc của Quốc tế Cộng sản về vấn đề thuộc địa."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ đạo trực tiếp mọi hoạt động của Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Thành lập Mặt trận Việt Minh và phát động phong trào bình dân học vụ."
+        },
+        {
+          "key": "D",
+          "text": "Dạy học ở trường Dục Thanh và viết báo công khai ở Mátxcơva."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ở Liên Xô, Người vừa học tập, nghiên cứu vừa tham gia các hoạt động của Quốc tế Cộng sản, đóng góp ý kiến về phong trào giải phóng dân tộc ở phương Đông. Năm 1923 – 1924 chưa có Đảng Cộng sản Việt Nam, Việt Minh ra đời năm 1941, trường Dục Thanh thuộc giai đoạn 1910.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Liên Xô 1923 – 1924",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-038",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1925, Nguyễn Ái Quốc từ Liên Xô về Quảng Châu (Trung Quốc) để làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trực tiếp chuẩn bị những điều kiện cho việc thành lập một chính đảng kiểu mới ở Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Ở lại học hết chương trình đại học ở Quảng Châu rồi mới về nước."
+        },
+        {
+          "key": "C",
+          "text": "Nhận chức vụ do chính quyền Trung Hoa dân quốc bổ nhiệm."
+        },
+        {
+          "key": "D",
+          "text": "Xin viện trợ quân sự để mở một cuộc khởi nghĩa vũ trang ngay lập tức."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Về Quảng Châu, Người tập hợp những người Việt Nam yêu nước trong tổ chức Thanh niên Cách đồng chí hội, mở lớp huấn luyện chính trị, chuẩn bị về tư tưởng, tổ chức và cán bộ cho việc lập Đảng. Người không đi học đại học, không nhận chức vụ của chính quyền Trung Hoa dân quốc.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Về Quảng Châu 1925",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-039",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tổ chức cách mạng do Nguyễn Ái Quốc thành lập ở Quảng Châu năm 1925 có tên gọi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam Quốc dân đảng."
+        },
+        {
+          "key": "B",
+          "text": "Hội Việt Nam Cách mạng Thanh niên."
+        },
+        {
+          "key": "C",
+          "text": "Đông Dương Cộng sản đảng."
+        },
+        {
+          "key": "D",
+          "text": "An Nam Cộng sản đảng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hội Việt Nam Cách mạng Thanh niên được Nguyễn Ái Quốc thành lập ở Quảng Châu năm 1925, tổ chức tiền thân quan trọng của Đảng. Đông Dương Cộng sản đảng và An Nam Cộng sản đảng ra đời năm 1929, còn Việt Nam Quốc dân đảng thuộc hệ phái quốc gia và không do Người lập.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Về Quảng Châu 1925",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-040",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên là tờ báo nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Báo Người cùng khổ."
+        },
+        {
+          "key": "B",
+          "text": "Báo Thanh niên."
+        },
+        {
+          "key": "C",
+          "text": "Báo Bônsơvich."
+        },
+        {
+          "key": "D",
+          "text": "Báo Cứu quốc."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Báo Thanh niên do Nguyễn Ái Quốc sáng lập là cơ quan ngôn luận của Hội Việt Nam Cách mạng Thanh niên, phổ biến lý luận cách mạng tới hội viên. Người cùng khổ là báo của Hội Liên hiệp thuộc địa ở Pháp, Bônsơvich và Cứu quốc thuộc những giai đoạn sau.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Về Quảng Châu 1925",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-041",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyễn Ái Quốc mở các lớp huấn luyện chính trị ở Quảng Châu nhằm mục đích gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đào tạo một đội ngũ cán bộ biết truyền bá chủ nghĩa Mác – Lênin về trong nước."
+        },
+        {
+          "key": "B",
+          "text": "Dạy ngoại ngữ cho con em Việt kiều để tìm việc làm ở Trung Quốc."
+        },
+        {
+          "key": "C",
+          "text": "Bồi dưỡng nghiệp vụ cho quan lại của triều đình bù nhìn."
+        },
+        {
+          "key": "D",
+          "text": "Đào tạo phi công và thủy thủ cho lực lượng hải quân của Mặt trận Việt Minh."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Các lớp huấn luyện nhằm đào tạo cán bộ cách mạng, những người sau đó mang lý luận và kinh nghiệm hoạt động về nước tuyên truyền, vận động quần chúng. Mục đích của lớp học hoàn toàn không phải dạy ngoại ngữ tìm việc hay bồi dưỡng quan lại.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Truyền bá chủ nghĩa Mác – Lênin",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-042",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tác phẩm Đường kách mệnh của Nguyễn Ái Quốc có nguồn gốc và nội dung chủ yếu như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là tập hợp các bài báo viết ở Pháp, chuyên tố cáo chế độ thuế khóa ở Đông Dương."
+        },
+        {
+          "key": "B",
+          "text": "Là các bài giảng của Người trong lớp huấn luyện ở Quảng Châu, nêu hướng đi và cách làm cách mạng."
+        },
+        {
+          "key": "C",
+          "text": "Lời kêu gọi toàn quốc kháng chiến gửi đồng bào cả nước."
+        },
+        {
+          "key": "D",
+          "text": "Là bản Cương lĩnh được thông qua tại Hội nghị thành lập Đảng đầu năm 1930."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đường kách mệnh được hình thành từ những bài giảng của Nguyễn Ái Quốc tại các lớp huấn luyện ở Quảng Châu, chỉ rõ muốn cứu nước phải theo con đường cách mạng vô sản và cần có đảng lãnh đạo. Tố cáo chế độ thực dân bằng tư liệu là nội dung Bản án chế độ thực dân Pháp.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Truyền bá chủ nghĩa Mác – Lênin",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-043",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Phong trào vô sản hóa được Hội Việt Nam Cách mạng Thanh niên đẩy mạnh vào cuối thập niên 1920 có tác dụng gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đưa hội viên thâm nhập vào nhà máy, hầm mỏ, đời sống công nhân để truyền bá lý luận cách mạng."
+        },
+        {
+          "key": "B",
+          "text": "Chấm dứt mọi hoạt động của tổ chức ở trong nước."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển hướng sang dựa hoàn toàn vào quan lại tiến bộ trong bộ máy Nam triều."
+        },
+        {
+          "key": "D",
+          "text": "Xóa bỏ hoàn toàn phong trào nông dân ở các vùng nông thôn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Vô sản hóa là chủ trương đưa hội viên của tổ chức cách mạng sống và làm việc cùng công nhân, qua đó truyền bá chủ nghĩa Mác – Lênin và nâng cao ý thức giai cấp của công nhân. Phong trào không chấm dứt hoạt động, không dựa vào quan lại và cũng không xóa bỏ phong trào nông dân.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Truyền bá chủ nghĩa Mác – Lênin",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-044",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1929, ở Việt Nam đã xuất hiện những tổ chức cộng sản nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đông Dương Cộng sản đảng và An Nam Cộng sản đảng."
+        },
+        {
+          "key": "B",
+          "text": "Đảng Cộng sản Việt Nam và Đảng Dân chủ Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam Quốc dân đảng và Việt Nam Phục quốc đồng minh hội."
+        },
+        {
+          "key": "D",
+          "text": "Hội Phản đế và Hội Nông dân cứu quốc."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1929, từ phong trào cách mạng và sự phân hóa của Hội Việt Nam Cách mạng Thanh niên, Đông Dương Cộng sản đảng ra đời ở Bắc Kỳ rồi An Nam Cộng sản đảng ở Nam Kỳ, tiếp đó có Đông Dương Cộng sản liên đoàn. Đảng Cộng sản Việt Nam được thành lập năm 1930, các tổ chức ở phương án C không phải đảng cộng sản.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tiến tới Hội nghị thành lập Đảng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-045",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Yêu cầu cấp thiết đặt ra đối với phong trào cách mạng Việt Nam cuối năm 1929, thúc đẩy Nguyễn Ái Quốc triệu tập hội nghị hợp nhất, là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các tổ chức cộng sản hoạt động riêng rẽ, chia rẽ lực lượng, cần được thống nhất thành một đảng."
+        },
+        {
+          "key": "B",
+          "text": "Phong trào yêu nước đã hoàn toàn tắt, cần tổ chức lại từ đầu."
+        },
+        {
+          "key": "C",
+          "text": "Triều đình nhà Nguyễn bãi bỏ khoa cử, cần lập một trường học mới."
+        },
+        {
+          "key": "D",
+          "text": "Cần đổi tên nước và chọn quốc kỳ cho nhà nước vừa thành lập."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ba tổ chức cộng sản cùng tồn tại và cạnh tranh ảnh hưởng với nhau, làm giảm sức mạnh của phong trào, vì vậy việc hợp nhất thành một chính đảng thống nhất là yêu cầu sống còn. Phong trào cách mạng những năm 1929 – 1930 đang phát triển mạnh chứ không tắt.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tiến tới Hội nghị thành lập Đảng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-046",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930 do Nguyễn Ái Quốc triệu tập và chủ trì diễn ra ở đâu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quảng Châu, Trung Quốc."
+        },
+        {
+          "key": "B",
+          "text": "Cửu Long, Hương Cảng, Trung Quốc."
+        },
+        {
+          "key": "C",
+          "text": "Mátxcơva, Liên Xô."
+        },
+        {
+          "key": "D",
+          "text": "Pác Pó, Cao Bằng, Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hội nghị hợp nhất được tiến hành ở Cửu Long, thuộc Hương Cảng (Trung Quốc) dưới sự chủ trì của Nguyễn Ái Quốc. Pác Pó là nơi Người về nước năm 1941, còn Mátxcơva là nơi Người làm việc trước khi về Quảng Châu.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hội nghị thành lập Đảng 1930",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-047",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Ai giữ vai trò chủ trì Hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cụ Phan Bội Châu, với tư cách bậc tiền bối của phong trào yêu nước."
+        },
+        {
+          "key": "B",
+          "text": "Nguyễn Ái Quốc, người được Quốc tế Cộng sản gửi thư triệu tập đại biểu."
+        },
+        {
+          "key": "C",
+          "text": "Đại diện của Đông Dương Cộng sản liên đoàn."
+        },
+        {
+          "key": "D",
+          "text": "Một cán bộ của Đảng Cộng sản Pháp được cử sang Đông Dương."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Nguyễn Ái Quốc là người chủ trì hội nghị hợp nhất, thống nhất các tổ chức cộng sản thành Đảng Cộng sản Việt Nam. Vai trò này thuộc về Người chứ không thuộc về Phan Bội Châu hay một đại diện của Đảng Cộng sản Pháp.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hội nghị thành lập Đảng 1930",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-048",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Hội nghị hợp nhất đầu năm 1930 đã thông qua những văn kiện quan trọng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên ngôn độc lập và Lời kêu gọi toàn quốc kháng chiến."
+        },
+        {
+          "key": "B",
+          "text": "Chính cương vắn tắt và Sách lược vắn tắt của Đảng."
+        },
+        {
+          "key": "C",
+          "text": "Bản yêu sách của nhân dân An Nam và đường lối kháng chiến kiến quốc."
+        },
+        {
+          "key": "D",
+          "text": "Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hòa."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hội nghị thông qua Chính cương vắn tắt và Sách lược vắn tắt, hợp thành Cương lĩnh chính trị đầu tiên của Đảng. Tuyên ngôn độc lập thuộc năm 1945, Hiến pháp đầu tiên cũng thuộc giai đoạn sau khi có chính quyền cách mạng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hội nghị thành lập Đảng 1930",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-049",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cương lĩnh chính trị đầu tiên của Đảng do Nguyễn Ái Quốc soạn thảo thể hiện quan điểm chiến lược nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm cách mạng tư sản rồi chờ chủ nghĩa tư bản phát triển đầy đủ mới nói tới chủ nghĩa xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội, đưa cách mạng Việt Nam đi vào quỹ đạo cách mạng vô sản."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ đấu tranh cho quyền lợi kinh tế của công nhân, chưa đặt vấn đề dân tộc."
+        },
+        {
+          "key": "D",
+          "text": "Dựa vào các nước đế quốc khác để chống lại thực dân Pháp."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Cương lĩnh xác định cách mạng Việt Nam là cuộc giải phóng dân tộc theo lập trường vô sản, độc lập dân tộc gắn với chủ nghĩa xã hội, do đảng của giai cấp công nhân lãnh đạo và có liên minh công – nông. Các phương án còn lại hoặc cắt bỏ vấn đề dân tộc, hoặc trở lại những lối thoát cũ đã thất bại.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Cương lĩnh chính trị đầu tiên",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-050",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Qua các hoạt động từ năm 1925 đến năm 1930, Hồ Chí Minh được khẳng định là gì đối với cách mạng Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người khởi xướng và lãnh đạo công cuộc Đổi mới đất nước."
+        },
+        {
+          "key": "B",
+          "text": "Người sáng lập và rèn luyện Đảng Cộng sản Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam."
+        },
+        {
+          "key": "D",
+          "text": "Người chỉ đạo trực tiếp chiến dịch Điện Biên Phủ."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Từ việc chuẩn bị tư tưởng, tổ chức, cán bộ đến chủ trì Hội nghị hợp nhất, Nguyễn Ái Quốc là người sáng lập và rèn luyện Đảng ta. Công cuộc Đổi mới do Đảng khởi xướng thuộc giai đoạn sau năm 1986; Người cũng không giữ cương vị Tổng Bí thư đầu tiên của Đảng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Người sáng lập Đảng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-051",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngay sau khi Đảng Cộng sản Việt Nam ra đời, phong trào cách mạng nào trong nước được xem là cuộc tổng diễn tập đầu tiên dưới sự lãnh đạo của Đảng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phong trào cách mạng 1930 – 1931 với đỉnh cao là Xô viết Nghệ Tĩnh."
+        },
+        {
+          "key": "B",
+          "text": "Phong trào Đông Du đầu thế kỉ XX."
+        },
+        {
+          "key": "C",
+          "text": "Phong trào Cần Vương cuối thế kỉ XIX."
+        },
+        {
+          "key": "D",
+          "text": "Phong trào dân chủ, cải thiện đời sống giai đoạn 1936 – 1939."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Phong trào 1930 – 1931, mà đỉnh cao là Xô viết Nghệ Tĩnh, là cuộc diễn tập đầu tiên chứng minh năng lực lãnh đạo của chính đảng mới do Nguyễn Ái Quốc sáng lập. Cần Vương và Đông Du thuộc giai đoạn trước khi có Đảng; phong trào dân chủ 1936 – 1939 diễn ra sau đó.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Giai đoạn 1930 – 1931",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-052",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1931, Nguyễn Ái Quốc bị chính quyền bản địa bắt và giam giữ ở đâu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ở Hương Cảng, vùng bờ biển Trung Quốc dưới quyền kiểm soát của Anh."
+        },
+        {
+          "key": "B",
+          "text": "Ở nhà tù Hỏa Lò, Hà Nội, do chính quyền Đông Dương quản lý."
+        },
+        {
+          "key": "C",
+          "text": "Ở Côn Đảo, nơi thực dân Pháp dùng để đày những người yêu nước."
+        },
+        {
+          "key": "D",
+          "text": "Ở Quảng Châu, trong lúc Người mở lớp huấn luyện cán bộ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1931, khi đang hoạt động ở Hương Cảng, Nguyễn Ái Quốc bị cảnh sát Anh bắt và giam giữ tại đây, sau đó còn bị chuyển giam ở một số nhà tù tại Trung Quốc. Hỏa Lò và Côn Đảo là nhà tù do thực dân Pháp lập ở Đông Dương, không phải nơi Người bị giam trong vụ này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bị bắt và giam cầm 1931 – 1933",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-053",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thời gian bị chính quyền Hương Cảng bắt và xét xử, Nguyễn Ái Quốc bị giam giữ dưới tên gọi nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguyễn Tất Thành."
+        },
+        {
+          "key": "B",
+          "text": "Tống Văn Sơ."
+        },
+        {
+          "key": "C",
+          "text": "Trần Dân Tiên."
+        },
+        {
+          "key": "D",
+          "text": "Xuân Thu Thủy."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Người bị giam và xét xử dưới tên Tống Văn Sơ, một trong những bí danh dùng để đối phó với mật thám. Trần Dân Tiên và Xuân Thu Thủy là bút danh trong hoạt động viết văn, làm báo; tên Nguyễn Tất Thành thuộc thời kỳ còn đi học.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bị bắt và giam cầm 1931 – 1933",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-054",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm nổi bật trong cách đấu tranh của Nguyễn Ái Quốc khi bị tòa án Hương Cảng xét xử là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chối bỏ mọi hoạt động cũ để được khoan hồng và sớm ra tù."
+        },
+        {
+          "key": "B",
+          "text": "Tự bào chữa, dùng pháp lí để tố cáo chính sách đàn áp và bác bỏ tính hợp pháp của việc bắt giữ."
+        },
+        {
+          "key": "C",
+          "text": "Nhờ triều đình nhà Nguyễn đứng ra xin bảo lãnh cho Người."
+        },
+        {
+          "key": "D",
+          "text": "Tuyệt thực tới khi Chính phủ Pháp phải trao trả độc lập cho Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Người lợi dụng chính kênh pháp lý của phiên tòa để tự bào chữa, vạch rõ việc bắt giữ là trái phép, kết hợp với cuộc vận động đấu tranh ngoài xã hội nhằm đòi tự do. Người không chối bỏ hoạt động, không cầu viện triều đình và cũng không tuyệt thực tới mức cực đoan như phương án D.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bị bắt và giam cầm 1931 – 1933",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-055",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Kết cục của vụ bắt giữ Nguyễn Ái Quốc ở Hương Cảng đầu thập niên 1930 là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người bị trục xuất về Đông Dương và bị quản thúc tại Nghệ An."
+        },
+        {
+          "key": "B",
+          "text": "Sau gần hai năm bị giam và xét xử, Người được trả tự do nhờ sức ép đấu tranh."
+        },
+        {
+          "key": "C",
+          "text": "Người bị tòa án kết án tù chung thân và mất trong nhà tù."
+        },
+        {
+          "key": "D",
+          "text": "Người vượt ngục ngay trong năm bị bắt rồi về nước."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Cuộc đấu tranh của Người cùng sự ủng hộ của bạn bè quốc tế khiến chính quyền Hương Cảng không kết tội được và phải trả tự do cho Người vào đầu năm 1933. Người không bị kết án chung thân, không bị trục xuất về Đông Dương và cũng không vượt ngục.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bị bắt và giam cầm 1931 – 1933",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-056",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau khi được trả tự do ở Trung Quốc, trong những năm 1934 – 1938, Hồ Chí Minh hoạt động chủ yếu ở đâu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trở lại nước Pháp, tiếp tục làm báo Người cùng khổ."
+        },
+        {
+          "key": "B",
+          "text": "Về Liên Xô, tiếp tục học tập, nghiên cứu và hoạt động trong phong trào cộng sản quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Về Cao Bằng, trực tiếp chủ trì Hội nghị Ban Chấp hành Trung ương."
+        },
+        {
+          "key": "D",
+          "text": "Ở lại Hương Cảng mở trường dạy học cho con em Việt kiều."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Khỏi vòng lao lý, Người về Liên Xô và có quãng thời gian dài học tập, nghiên cứu, tham gia các hoạt động của Quốc tế Cộng sản. Người về Cao Bằng là sự kiện năm 1941; việc làm báo ở Pháp thuộc giai đoạn 1919 – 1923.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Ở Liên Xô 1934 – 1938",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-057",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong những năm ở Liên Xô giai đoạn 1934 – 1938, Nguyễn Ái Quốc đã tham gia sự kiện quan trọng nào của phong trào cộng sản quốc tế?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đại hội thành lập Quốc tế Cộng sản."
+        },
+        {
+          "key": "B",
+          "text": "Đại hội lần thứ VII của Quốc tế Cộng sản."
+        },
+        {
+          "key": "C",
+          "text": "Hội nghị thành lập Đảng Cộng sản Việt Nam."
+        },
+        {
+          "key": "D",
+          "text": "Hội nghị quốc tế về vấn đề Đông Dương sau Chiến tranh thế giới thứ nhất."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Giữa thập niên 1930, Người dự và đóng góp vào Đại hội lần thứ VII của Quốc tế Cộng sản, tiếp tục nghiên cứu lý luận và tổng kết kinh nghiệm cách mạng thuộc địa. Quốc tế Cộng sản được thành lập năm 1919, còn Hội nghị hợp nhất các tổ chức cộng sản diễn ra ở Hương Cảng năm 1930.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Ở Liên Xô 1934 – 1938",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-058",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuối thập niên 1930, theo yêu cầu của phong trào cách mạng, Nguyễn Ái Quốc rời Liên Xô để làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sang Trung Quốc, tham gia hoạt động cùng các lực lượng chống phát xít, chuẩn bị điều kiện về nước."
+        },
+        {
+          "key": "B",
+          "text": "Về thẳng Sài Gòn để lập lại Xứ ủy Nam Kỳ."
+        },
+        {
+          "key": "C",
+          "text": "Quay lại Pháp vận động Mặt trận nhân dân Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Sang châu Âu dự lễ kí hiệp ước công nhận độc lập của Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Năm 1938, Người rời Liên Xô sang Trung Quốc, hoạt động trong vùng giải phóng của cách mạng Trung Quốc và tìm cách bắt liên lạc với trong nước, tạo tiền đề cho việc về nước năm 1941. Ở thời điểm này Người chưa thể về Đông Dương hoạt động công khai.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Từ Liên Xô về nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-059",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Đầu năm 1941, sự kiện nào mở ra chặng Hồ Chí Minh trực tiếp lãnh đạo cách mạng Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người được cử làm đại diện của Việt Nam Dân chủ Cộng hòa ở Trung Quốc."
+        },
+        {
+          "key": "B",
+          "text": "Người về nước, đóng ở khu vực Pác Pó, Cao Bằng, sau hơn ba mươi năm hoạt động ở nước ngoài."
+        },
+        {
+          "key": "C",
+          "text": "Người đọc Tuyên ngôn Độc lập tại Hà Nội."
+        },
+        {
+          "key": "D",
+          "text": "Người sang Nhật Bản thương lượng về việc chấm dứt chiến tranh."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đầu năm 1941, Nguyễn Ái Quốc về nước, chọn Pác Pó (Cao Bằng) làm nơi trực tiếp chỉ đạo phong trào, kết thúc hơn ba mươi năm hoạt động ở nước ngoài. Tuyên ngôn Độc lập thuộc năm 1945; các phương án còn lại không có thật.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Về nước 1941",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-060",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Hồ Chí Minh về nước năm 1941 có ý nghĩa như thế nào đối với cách mạng Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chấm dứt vai trò của mặt trận dân tộc thống nhất trong cuộc đấu tranh."
+        },
+        {
+          "key": "B",
+          "text": "Đưa đường lối của Đảng vào tổ chức thực hiện trực tiếp, chuẩn bị cho Tổng khởi nghĩa."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển cách mạng Việt Nam sang hoàn toàn phụ thuộc vào sự giúp đỡ của Đồng minh."
+        },
+        {
+          "key": "D",
+          "text": "Làm tan rã tổ chức Việt Minh ngay sau khi thành lập."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Người về nước trực tiếp bắt liên lạc, chỉ đạo xây dựng lực lượng, thí điểm các hội cứu quốc và chuẩn bị cho khởi nghĩa giành chính quyền khi thời cơ đến. Sự kiện này củng cố khối đại đoàn kết toàn dân chứ không làm tan rã mặt trận.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Về nước 1941",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-061",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tại Hội nghị Ban Chấp hành Trung ương Đảng tháng 5-1941 do Hồ Chí Minh chủ trì, nhiệm vụ nào được đặt lên hàng đầu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giải phóng các dân tộc Đông Dương khỏi ách phát xít Pháp – Nhật."
+        },
+        {
+          "key": "B",
+          "text": "Đánh đổ phong kiến, hoàn thành cách mạng ruộng đất ngay trước khi giành độc lập."
+        },
+        {
+          "key": "C",
+          "text": "Xây dựng nền kinh tế xã hội chủ nghĩa ở vùng tự do."
+        },
+        {
+          "key": "D",
+          "text": "Phát động phong trào thi đua yêu nước trong phạm vi cả nước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Hội nghị xác định giải phóng dân tộc là nhiệm vụ cấp bách hàng đầu, tạm gác khẩu hiệu cách mạng ruộng đất để tập trung lực lượng chống Pháp – Nhật. Chống phong kiến, xây dựng chủ nghĩa xã hội hay phát động thi đua là nội dung của giai đoạn sau.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hội nghị Trung ương năm 1941",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-062",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt trận dân tộc thống nhất được thành lập theo quyết định của Hội nghị Trung ương tháng 5-1941 mang tên là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mặt trận Liên Việt."
+        },
+        {
+          "key": "B",
+          "text": "Mặt trận Việt Minh."
+        },
+        {
+          "key": "C",
+          "text": "Mặt trận Tổ quốc Việt Nam."
+        },
+        {
+          "key": "D",
+          "text": "Hội Phản đế liên minh."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hội nghị tháng 5-1941 quyết định thành lập Mặt trận Việt Minh để đoàn kết mọi tầng lớp đánh Pháp, đuổi Nhật. Mặt trận Liên Việt ra đời trong thời kỳ kháng chiến chống Pháp, Mặt trận Tổ quốc Việt Nam là tên gọi về sau.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Mặt trận Việt Minh năm 1941",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-063",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong những năm hoạt động ở khu vực Pác Pó (1941 – 1942), Hồ Chí Minh đã dùng những hình thức nào để tuyên truyền, tổ chức quần chúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở lớp huấn luyện, viết báo, ra truyền đơn và tổ chức các hội cứu quốc của Mặt trận Việt Minh."
+        },
+        {
+          "key": "B",
+          "text": "Thành lập chính phủ cách mạng lâm thời và tổ chức tổng tuyển cử trong cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Mở trường đại học công khai ngay tại thị xã Cao Bằng."
+        },
+        {
+          "key": "D",
+          "text": "Đăng ký hoạt động hợp pháp với chính quyền Đông Dương."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người mở lớp huấn luyện cán bộ, viết bài cho báo chí của mặt trận, tổ chức các hội cứu quốc và thí điểm xây dựng lực lượng tại chỗ. Tổng tuyển cử và việc lập chính phủ là chuyện của năm 1945 – 1946; hoạt động của Người hoàn toàn bí mật.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Cao Bằng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-064",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1942, Hồ Chí Minh sang Trung Quốc với mục đích chủ yếu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tranh thủ sự đồng tình, giúp đỡ của các lực lượng Đồng minh và tìm bắt liên lạc với các tổ chức cách mạng của người Việt ở ngoài nước."
+        },
+        {
+          "key": "B",
+          "text": "Ở lại Trung Quốc để học tiếp đại học vì điều kiện trong nước không cho phép."
+        },
+        {
+          "key": "C",
+          "text": "Nhận chức vụ do chính quyền Trung Hoa dân quốc bổ nhiệm."
+        },
+        {
+          "key": "D",
+          "text": "Thay mặt Chính phủ Việt Nam Dân chủ Cộng hòa kí hiệp ước đồng minh."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Chuyến đi nhằm mở rộng quan hệ với các lực lượng chống phát xít và liên lạc với Việt kiều, các tổ chức cách mạng ở Trung Quốc, phục vụ sự nghiệp giải phóng dân tộc. Việt Nam Dân chủ Cộng hòa khi đó chưa ra đời, nên các phương án về chức vụ và hiệp ước không đúng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bị giam ở Trung Quốc 1942 – 1943",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-065",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thời gian ở Trung Quốc năm 1942 – 1943, Hồ Chí Minh gặp phải tình huống nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bị chính quyền địa phương bắt và giam giữ suốt hơn một năm ở Quảng Tây."
+        },
+        {
+          "key": "B",
+          "text": "Được chính quyền Trung Hoa dân quốc bảo trợ và cho hoạt động công khai."
+        },
+        {
+          "key": "C",
+          "text": "Bị trục xuất sang Singapore rồi bị thực dân Anh giam giữ."
+        },
+        {
+          "key": "D",
+          "text": "Tình nguyện nhập ngũ vào quân đội Trung Quốc để tập luyện quân sự."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người bị chính quyền Trung Hoa dân quốc ở Quảng Tây bắt giam và trải qua hơn một năm lao tù, di chuyển qua nhiều nhà tù, trước khi được trả tự do. Đây là giai đoạn khó khăn, không phải thời gian Người được bảo trợ hay hoạt động công khai.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bị giam ở Trung Quốc 1942 – 1943",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-066",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tác phẩm nào của Hồ Chí Minh được viết trong thời gian Người bị giam giữ ở Trung Quốc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bản án chế độ thực dân Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Nhật kí trong tù."
+        },
+        {
+          "key": "C",
+          "text": "Đường kách mệnh."
+        },
+        {
+          "key": "D",
+          "text": "Lịch sử nước ta."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Nhật kí trong tù là tập thơ chữ Hán được Người viết khi bị giam ở Quảng Tây, thể hiện bản lĩnh và tinh thần lạc quan cách mạng. Bản án chế độ thực dân Pháp viết ở chặng hoạt động tại Pháp, Đường kách mệnh gắn với các lớp huấn luyện ở Quảng Châu.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bị giam ở Trung Quốc 1942 – 1943",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-067",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Hồ Chí Minh được trả tự do ở Trung Quốc năm 1943 có ý nghĩa gì đối với phong trào cách mạng trong nước?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ được nhân tố lãnh đạo chủ chốt để tiếp tục chỉ đạo phong trào, chuẩn bị khởi nghĩa."
+        },
+        {
+          "key": "B",
+          "text": "Chấm dứt ngay việc xây dựng lực lượng ở Cao Bằng."
+        },
+        {
+          "key": "C",
+          "text": "Mở đường cho việc kí hiệp định đình chiến với quân đội Nhật."
+        },
+        {
+          "key": "D",
+          "text": "Đưa Người sang làm việc tại cơ quan của Liên hợp quốc."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Trở lại hoạt động sau hơn một năm lao tù, Người tiếp tục tham gia chỉ đạo phong trào ở trong nước, góp phần chuẩn bị cho Tổng khởi nghĩa năm 1945. Hiệp định đình chiến và Liên hợp quốc là những chuyện thuộc giai đoạn sau này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Giai đoạn 1943 – 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-068",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuối năm 1944, theo chỉ thị của Hồ Chí Minh, đội vũ trang đầu tiên của cách mạng Việt Nam được thành lập với tên gọi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đội Việt Nam tuyên truyền giải phóng quân."
+        },
+        {
+          "key": "B",
+          "text": "Trung đoàn Thủ đô."
+        },
+        {
+          "key": "C",
+          "text": "Đại đoàn Quân tiên phong."
+        },
+        {
+          "key": "D",
+          "text": "Lực lượng tự vệ thành thị ở Hà Nội."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Chỉ thị của Người dẫn tới việc thành lập Đội Việt Nam tuyên truyền giải phóng quân, lực lượng vũ trang tập trung đầu tiên, lấy tên do chính Người đặt. Trung đoàn Thủ đô và Đại đoàn Quân tiên phong là những đơn vị hình thành trong thời kỳ kháng chiến chống Pháp.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Chuẩn bị Tổng khởi nghĩa",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-069",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Đội Việt Nam tuyên truyền giải phóng quân được xem là tiền thân của lực lượng nào sau này?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quân giải phóng nhân dân Trung Quốc."
+        },
+        {
+          "key": "B",
+          "text": "Quân đội nhân dân Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Lực lượng cảnh sát biển Việt Nam."
+        },
+        {
+          "key": "D",
+          "text": "Dân quân tự vệ ở các xã, phường."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đội Việt Nam tuyên truyền giải phóng quân là tổ chức vũ trang tập trung đầu tiên, mở đầu cho quá trình hình thành Quân đội nhân dân Việt Nam. Dân quân tự vệ và cảnh sát biển là những lực lượng khác, còn phương án A gắn với lịch sử Trung Quốc.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Chuẩn bị Tổng khởi nghĩa",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-070",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tại Đại hội đại biểu quốc dân họp ở Tân Trào giữa tháng 8-1945, Hồ Chí Minh được cử giữ cương vị nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ tịch Ủy ban dân tộc giải phóng, tức Chính phủ lâm thời."
+        },
+        {
+          "key": "B",
+          "text": "Tổng Bí thư Ban Chấp hành Trung ương Đảng."
+        },
+        {
+          "key": "C",
+          "text": "Bộ trưởng Bộ Quốc phòng."
+        },
+        {
+          "key": "D",
+          "text": "Trưởng ban Thường trực Quốc hội."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đại hội Tân Trào cử ra cơ quan lãnh đạo lâm thời của toàn quốc và bầu Hồ Chí Minh làm Chủ tịch Ủy ban dân tộc giải phóng. Chức Tổng Bí thư là của Ban Chấp hành Trung ương Đảng, còn các cương vị bộ trưởng và quốc hội được xác định sau khi có chính quyền.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tổng khởi nghĩa 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-071",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngày 2-9-1945, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập ở địa điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà hát lớn Hà Nội."
+        },
+        {
+          "key": "B",
+          "text": "Quảng trường Ba Đình, Hà Nội."
+        },
+        {
+          "key": "C",
+          "text": "Từ đường họ Hồ ở Kim Liên, Nghệ An."
+        },
+        {
+          "key": "D",
+          "text": "Bến Nhà Rồng ở thành phố Sài Gòn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Bản Tuyên ngôn Độc lập do Chủ tịch Hồ Chí Minh đọc trước quốc dân tại quảng trường Ba Đình, Hà Nội, khai sinh ra nước Việt Nam Dân chủ Cộng hòa. Nhà hát lớn là nơi diễn ra nhiều sự kiện chính trị khác của thủ đô.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Tuyên ngôn Độc lập 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-072",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bản Tuyên ngôn Độc lập năm 1945, Hồ Chí Minh mở đầu bằng việc viện dẫn những nguồn tư liệu nào để làm chỗ dựa cho quyền dân tộc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên ngôn Độc lập của nước Mĩ năm 1776 và Tuyên ngôn Nhân quyền và Dân quyền của Pháp năm 1791."
+        },
+        {
+          "key": "B",
+          "text": "Hiến chương của Liên hợp quốc và Công ước quốc tế về các quyền dân tộc."
+        },
+        {
+          "key": "C",
+          "text": "Các luận cương của Lênin về vấn đề dân tộc và vấn đề thuộc địa."
+        },
+        {
+          "key": "D",
+          "text": "Hiệp ước Bát Quốc và bản Tuyên ngôn của Mặt trận Đồng minh."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người trích hai bản tuyên ngôn kinh điển của tư sản để khẳng định quyền con người, rồi suy rộng ra quyền dân tộc, biến chính thành tựu tư tưởng của phương Tây thành chỗ dựa pháp lý cho Việt Nam. Liên hợp quốc và Hiệp ước Bát Quốc chưa tồn tại ở thời điểm Người đọc bản tuyên ngôn.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tuyên ngôn Độc lập 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-073",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bản Tuyên ngôn Độc lập đọc ngày 2-9-1945, Hồ Chí Minh long trọng tuyên bố sự ra đời của nhà nước nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước Việt Nam Dân chủ Cộng hòa."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước Cộng hòa Xã hội chủ nghĩa Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Quốc gia Việt Nam thuộc Liên hiệp Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Đế quốc Việt Nam theo thể chế quân chủ lập hiến."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ngày 2-9-1945, nước Việt Nam Dân chủ Cộng hòa, nhà nước dân chủ nhân dân đầu tiên ở Đông Nam Á, được tuyên bố thành lập. Tên Cộng hòa Xã hội chủ nghĩa Việt Nam xuất hiện sau khi đất nước thống nhất năm 1976.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tuyên ngôn Độc lập 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-074",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1946, Quốc hội khóa I của nước Việt Nam Dân chủ Cộng hòa đã quyết định điều gì liên quan đến Hồ Chí Minh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bầu Người làm Chủ tịch nước Việt Nam Dân chủ Cộng hòa."
+        },
+        {
+          "key": "B",
+          "text": "Bầu Người làm Tổng Bí thư Ban Chấp hành Trung ương Đảng."
+        },
+        {
+          "key": "C",
+          "text": "Bổ nhiệm Người làm Tổng chỉ huy các lực lượng vũ trang."
+        },
+        {
+          "key": "D",
+          "text": "Cử Người làm Trưởng ban Thường trực Quốc hội khóa I."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Tại kỳ họp năm 1946, Quốc hội khóa I đã bầu Hồ Chí Minh làm Chủ tịch nước Việt Nam Dân chủ Cộng hòa, xác lập tính hợp pháp của vị trí nguyên thủ quốc gia. Chức Tổng Bí thư là của Đảng, do Đại hội hoặc Ban Chấp hành Trung ương quyết định, không do Quốc hội bầu.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Cương vị của Hồ Chí Minh sau 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-075",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuối năm 1946, khi cuộc kháng chiến toàn quốc bùng nổ, Hồ Chí Minh với cương vị Chủ tịch nước đã làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kí hiệp định tạm hoãn binh để giữ toàn vẹn lãnh thổ miền Bắc."
+        },
+        {
+          "key": "B",
+          "text": "Ra Lời kêu gọi toàn quốc kháng chiến, cổ vũ đồng bào và chiến sĩ đứng lên chiến đấu."
+        },
+        {
+          "key": "C",
+          "text": "Sang Pari trực tiếp thương lượng với Chính phủ Pháp về quyền tự trị."
+        },
+        {
+          "key": "D",
+          "text": "Giải tán các lực lượng vũ trang để tránh tổn thất cho dân chúng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Trước việc thực dân Pháp bội ước và nổ súng xâm lược trở lại, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến, khẳng định thà hy sinh tất cả chứ nhất định không chịu mất nước. Lời kêu gọi là của giai đoạn 1946, không phải hiệp định hay việc giải tán lực lượng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Toàn quốc kháng chiến 1946",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-076",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong những năm đầu của cuộc kháng chiến toàn quốc, Hồ Chí Minh cùng Trung ương Đảng chọn khu vực nào làm căn cứ địa của cách mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Bắc, nơi có cơ sở quần chúng vững và địa hình thuận lợi cho việc chỉ đạo lâu dài."
+        },
+        {
+          "key": "B",
+          "text": "Đồng bằng sông Hồng, nơi tập trung đông đảo công nhân và trí thức."
+        },
+        {
+          "key": "C",
+          "text": "Duyên hải miền Trung, nơi tiếp giáp với các tuyến đường biển."
+        },
+        {
+          "key": "D",
+          "text": "Nam Bộ, vùng đất mới giải phóng sau ngày Toàn quốc kháng chiến."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cơ quan đầu não của Đảng và Chính phủ được đặt ở Việt Bắc, vùng căn cứ cũ của thời kỳ chuẩn bị khởi nghĩa, có địa hình rừng núi hiểm trở và dân chúng tin cách mạng. Các phương án còn lại không phải nơi đặt thủ đô kháng chiến trong giai đoạn này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-077",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuối năm 1947, thực dân Pháp mở cuộc tấn công quy mô lớn lên căn cứ địa Việt Bắc nhằm thực hiện âm mưu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tiêu diệt cơ quan đầu não và bộ đội chủ lực, nhanh chóng kết thúc chiến tranh."
+        },
+        {
+          "key": "B",
+          "text": "Thiết lập lại hệ thống đồn bốt dọc biên giới Việt – Trung để ngăn liên lạc với quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Buộc Chính phủ Việt Nam Dân chủ Cộng hòa phải rời sang Trung Quốc."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển toàn lực lượng vào Nam Bộ để bình định vùng đồng bằng sông Cửu Long."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cuộc tiến công lên Việt Bắc hướng vào mục tiêu tiêu diệt cơ quan đầu não kháng chiến và bộ đội chủ lực để kết thúc chiến tranh nhanh. Âm mưu này thất bại, cơ quan đầu não của ta vẫn được bảo vệ an toàn.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-078",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong chiến dịch Biên giới thu – đông năm 1950, Chủ tịch Hồ Chí Minh có dấu ấn hoạt động nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trực tiếp ra mặt trận, cùng Bộ Chỉ huy theo dõi và chỉ huy chiến dịch."
+        },
+        {
+          "key": "B",
+          "text": "Thay mặt Chính phủ kí văn kiện xin viện trợ của Liên hợp quốc."
+        },
+        {
+          "key": "C",
+          "text": "Ở hậu phương soạn thảo bản Tuyên ngôn Độc lập lần thứ hai."
+        },
+        {
+          "key": "D",
+          "text": "Dẫn đầu đoàn đại biểu quân sự sang dự hội nghị quốc tế về Đông Dương."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ở chiến dịch Biên giới, Người ra trực tiếp mặt trận để động viên bộ đội và cùng Bộ Chỉ huy chỉ huy chiến dịch, thể hiện phong cách làm việc trực tiếp, sát thực tế. Các phương án về hội nghị quốc tế và văn kiện Liên hợp quốc không gắn với sự kiện này.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-079",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1948, để động viên toàn dân đưa kháng chiến tới thắng lợi, Hồ Chí Minh phát động phong trào nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phong trào thi đua ái quốc."
+        },
+        {
+          "key": "B",
+          "text": "Phong trào bình dân học vụ."
+        },
+        {
+          "key": "C",
+          "text": "Phong trào xóa đói giảm nghèo ở vùng tự do."
+        },
+        {
+          "key": "D",
+          "text": "Cuộc vận động xây dựng con người mới xã hội chủ nghĩa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Lời kêu gọi thi đua ái quốc ngày 11-6-1948 kêu gọi mọi ngành, mọi giới đẩy mạnh sản xuất và chiến đấu, biến thi đua thành hành động yêu nước. Bình dân học vụ được phát động ngay sau năm 1945, còn các nội dung khác gắn với giai đoạn xây dựng miền Bắc.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-080",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tại Đại hội đại biểu toàn quốc lần thứ II của Đảng (năm 1951), Hồ Chí Minh đảm nhiệm công việc nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đọc Bản Chính cương và Sách lược vắn tắt của Đảng."
+        },
+        {
+          "key": "B",
+          "text": "Trình bày Báo cáo chính trị và được bầu giữ cương vị đứng đầu Đảng."
+        },
+        {
+          "key": "C",
+          "text": "Kí lời kêu gọi toàn quốc kháng chiến trước toàn thể đại hội."
+        },
+        {
+          "key": "D",
+          "text": "Điều hành phiên họp đầu tiên của Quốc hội khóa II."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Ở Đại hội II, Hồ Chí Minh trình bày Báo cáo chính trị và được bầu làm Chủ tịch Đảng; Đại hội cũng quyết định Đảng ra hoạt động công khai với tên Đảng Lao động Việt Nam. Chính cương và Sách lược vắn tắt là văn kiện của Hội nghị thành lập Đảng năm 1930.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Giai đoạn 1946 – 1954",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-081",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Dưới sự lãnh đạo của Trung ương Đảng đứng đầu là Chủ tịch Hồ Chí Minh, thắng lợi nào của quân dân Việt Nam năm 1954 đã kết thúc cuộc kháng chiến chống thực dân Pháp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chiến thắng Điện Biên Phủ, cùng với việc kí Hiệp định Giơnevơ."
+        },
+        {
+          "key": "B",
+          "text": "Chiến thắng Việt Bắc thu – đông."
+        },
+        {
+          "key": "C",
+          "text": "Chiến thắng Biên giới thu – đông."
+        },
+        {
+          "key": "D",
+          "text": "Chiến thắng Hà Nội – Hải Phòng – Nam Định."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Chiến thắng Điện Biên Phủ năm 1954 kết hợp với Hiệp định Giơnevơ đã chấm dứt chiến tranh, lập lại hòa bình ở Đông Dương, mở ra giai đoạn xây dựng miền Bắc. Việt Bắc thuộc năm 1947, Biên giới thuộc năm 1950.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Giai đoạn 1946 – 1954",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-082",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuối năm 1954, sau khi miền Bắc hoàn toàn giải phóng, hoạt động nổi bật của Hồ Chí Minh cùng Trung ương Đảng và Chính phủ là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rời căn cứ địa Việt Bắc, trở về tiếp quản và làm việc ở Thủ đô Hà Nội."
+        },
+        {
+          "key": "B",
+          "text": "Tiến hành tổng tuyển cử thống nhất hai miền theo đúng kế hoạch đã định."
+        },
+        {
+          "key": "C",
+          "text": "Sang Pháp dự hội nghị nhằm khôi phục quan hệ ngoại giao với Chính phủ Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Công bố bản Di chúc trước toàn thể quốc dân đồng bào."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đầu năm 1955, Chủ tịch Hồ Chí Minh cùng Trung ương Đảng và Chính phủ từ Việt Bắc về Hà Nội, đưa Thủ đô trở thành trung tâm lãnh đạo cách mạng cả nước. Tổng tuyển cử thống nhất không được thực hiện; bản Di chúc được viết sau này và không công bố khi Người còn sống.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Xây dựng miền Bắc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-083",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giai đoạn 1954 – 1969, theo quan điểm của Hồ Chí Minh, hai nhiệm vụ chiến lược của cách mạng Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh thực hiện thống nhất nước nhà ở miền Nam."
+        },
+        {
+          "key": "B",
+          "text": "Hoàn thành cách mạng ruộng đất trong cả nước và ưu tiên phát triển công nghiệp nặng."
+        },
+        {
+          "key": "C",
+          "text": "Kiến thiết miền Nam thành khu công nghiệp hiện đại và trung lập hóa miền Bắc."
+        },
+        {
+          "key": "D",
+          "text": "Đàm phán để lập một liên bang hai miền với thể chế chính trị giống nhau."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Miền Bắc được xác định là hậu thuẫn lớn, tiến lên chủ nghĩa xã hội, còn nhân dân miền Nam tiếp tục đấu tranh để giải phóng và thống nhất đất nước; hai nhiệm vụ cùng phục vụ mục tiêu chung. Khẩu hiệu ruộng đất được thực hiện có bước đi phù hợp ở miền Bắc chứ không đặt thành nhiệm vụ chung của cả nước, và phương án C, D trái với thực tế lịch sử.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hai nhiệm vụ chiến lược",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-084",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ sau Đại hội đại biểu toàn quốc lần thứ III của Đảng (năm 1960), Hồ Chí Minh giữ những cương vị nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ tịch Ban Chấp hành Trung ương Đảng đồng thời là Chủ tịch nước Việt Nam Dân chủ Cộng hòa."
+        },
+        {
+          "key": "B",
+          "text": "Tổng Bí thư Ban Chấp hành Trung ương Đảng và Chủ tịch Ủy ban Thường vụ Quốc hội."
+        },
+        {
+          "key": "C",
+          "text": "Thủ tướng Chính phủ và Bộ trưởng Bộ Quốc phòng."
+        },
+        {
+          "key": "D",
+          "text": "Trưởng ban Dân vận Trung ương và Chủ tịch Mặt trận Tổ quốc Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ở Đại hội III, Người tiếp tục được bầu làm Chủ tịch Đảng và vẫn giữ cương vị Chủ tịch nước, kết hợp vai trò đứng đầu Đảng với vị trí nguyên thủ quốc gia. Các cương vị Tổng Bí thư, Thủ tướng trong phương án khác do người khác đảm nhiệm trong giai đoạn này.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Cương vị của Hồ Chí Minh sau 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-085",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Câu nói nổi tiếng của Hồ Chí Minh: \"Không có gì quý hơn độc lập, tự do\" ra đời trong hoàn cảnh nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khi thực dân Pháp vừa nổ súng chiếm Sài Gòn, mở đầu cuộc chiến tranh xâm lược trở lại."
+        },
+        {
+          "key": "B",
+          "text": "Khi đế quốc Mĩ tiến hành chiến tranh phá hoại miền Bắc, cả nước bước vào chống Mĩ cứu nước."
+        },
+        {
+          "key": "C",
+          "text": "Ngay sau Hội nghị thành lập Đảng, khi phong trào cách mạng còn trứng nước."
+        },
+        {
+          "key": "D",
+          "text": "Trong thời gian Người bị giam giữ ở Quảng Tây, Trung Quốc."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Câu nói được Người đưa ra trong lời kêu gọi chống Mĩ cứu nước, khi miền Bắc chịu tổn thất của chiến tranh phá hoại, trở thành chân lí và khẩu hiệu hành động của toàn dân. Các mốc còn lại không gắn với hoàn cảnh ra đời của câu nói.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Chống Mĩ cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-086",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Bản Di chúc của Chủ tịch Hồ Chí Minh có quá trình ra đời như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Được Người viết một lần duy nhất vào ngày cuối cùng của đời mình."
+        },
+        {
+          "key": "B",
+          "text": "Được Người khởi viết từ giữa thập niên 1960 và nhiều lần bổ sung, chỉnh lí cho tới trước khi mất."
+        },
+        {
+          "key": "C",
+          "text": "Do Ban Chấp hành Trung ương Đảng soạn thảo rồi trình Người kí xác nhận."
+        },
+        {
+          "key": "D",
+          "text": "Được công bố toàn văn ngay trong Đại hội đại biểu toàn quốc lần thứ III của Đảng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Người viết bản Di chúc vào giữa thập niên 1960 và tiếp tục bổ sung, hoàn thiện trong các năm sau, thể hiện suy ngẫm nhiều năm về Đảng, về dân, về tương lai đất nước. Văn kiện chỉ được công bố sau khi Người qua đời, không do người khác soạn thay.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Di chúc của Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-087",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong Di chúc, điều gì được Chủ tịch Hồ Chí Minh nhấn mạnh hàng đầu đối với Đảng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ gìn đoàn kết nhất trí trong Đảng, phát huy dân chủ, thường xuyên tự phê bình và phê bình."
+        },
+        {
+          "key": "B",
+          "text": "Tăng nhanh số lượng đảng viên để đủ sức quản lý mọi mặt đời sống xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển toàn bộ hoạt động của Đảng sang làm công tác chuyên môn ở các nhà máy."
+        },
+        {
+          "key": "D",
+          "text": "Thu hẹp khối đại đoàn kết toàn dân để tập trung vào lợi ích giai cấp công nhân."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người căn dặn Đảng phải đoàn kết nhất trí, giữ kỷ luật, nghiêm chỉnh tự phê bình và phê bình, đồng thời chăm lo đời sống nhân dân và bồi dưỡng thế hệ cách mạng cho đời sau. Các phương án còn lại đều trái với nội dung Người dặn.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Di chúc của Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-088",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Chủ tịch Hồ Chí Minh qua đời vào thời gian nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngày 2-9-1969, tại Hà Nội."
+        },
+        {
+          "key": "B",
+          "text": "Ngày 2-9-1945, tại Hà Nội."
+        },
+        {
+          "key": "C",
+          "text": "Ngày 19-5-1946, tại Việt Bắc."
+        },
+        {
+          "key": "D",
+          "text": "Ngày 7-5-1954, sau chiến thắng Điện Biên Phủ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người mất ngày 2-9-1969 tại Hà Nội, đúng dịp kỷ niệm 24 năm Tuyên ngôn Độc lập. Ngày 2-9-1945 là ngày Người đọc Tuyên ngôn Độc lập, còn 7-5-1954 là ngày kết thúc chiến dịch Điện Biên Phủ.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Năm 1969",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-089",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện Hồ Chí Minh qua đời để lại khó khăn lớn nào đối với cách mạng Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đất nước mất người lãnh đạo tối cao khi cuộc kháng chiến chống Mĩ còn diễn ra gay go và hai miền vẫn bị chia cắt."
+        },
+        {
+          "key": "B",
+          "text": "Miền Bắc buộc phải ngừng công cuộc xây dựng chủ nghĩa xã hội để chờ sự giúp đỡ của quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ với các nước xã hội chủ nghĩa bị cắt đứt hoàn toàn."
+        },
+        {
+          "key": "D",
+          "text": "Nhân dân miền Nam phải từ bỏ đấu tranh vũ trang để chuyển sang phương pháp hòa bình."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người ra đi khi cuộc chống Mĩ cứu nước bước vào giai đoạn ác liệt, song tư tưởng và con đường Người để lại vẫn soi đường cho toàn Đảng, toàn dân tiếp tục sự nghiệp thống nhất đất nước. Các phương án còn lại không đúng thực tế những năm sau 1969.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Năm 1969",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-090",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo nội dung khái quát về cuộc đời và sự nghiệp của Hồ Chí Minh, bài học xuyên suốt nào được rút ra từ chặng đường hoạt động của Người?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách mạng muốn thành công phải dựa trước hết vào viện trợ của các nước lớn."
+        },
+        {
+          "key": "B",
+          "text": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội, phát huy sức mạnh tự lực của dân tộc kết hợp với sức mạnh thời đại."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ cần đấu tranh ngoại giao là đủ để giành và giữ nền độc lập."
+        },
+        {
+          "key": "D",
+          "text": "Lấy cải thiện đời sống kinh tế làm con đường duy nhất để xóa bỏ ách ngoại bang."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Xuyên suốt hành trình từ tìm đường cứu nước đến lãnh đạo cách mạng, Người kiên định mục tiêu độc lập dân tộc gắn với chủ nghĩa xã hội, dựa vào sức mình là chính đồng thời biết tranh thủ sự ủng hộ quốc tế. Ba phương án còn lại đều ngược lại tinh thần tự lực cánh sinh của Người.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bài học từ sự nghiệp Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-091",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Nguyễn Tất Thành mong muốn được đi ra ngoài, xem nước Pháp và các nước khác để biết họ làm thế nào, rồi sẽ trở về giúp đồng bào.\" (Nguồn: lời tâm sự của Nguyễn Ái Quốc với một nhà báo phương Tây, dẫn theo SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đoạn tư liệu cho thấy mục đích ra nước ngoài là khảo sát thực tế để tìm con đường cứu nước, sau đó trở về giúp đồng bào."
+        },
+        {
+          "key": "B",
+          "text": "Theo tư liệu, Nguyễn Tất Thành ra nước ngoài với dự định định cư lâu dài để thoát khỏi sự truy xét của chính quyền thuộc địa."
+        },
+        {
+          "key": "C",
+          "text": "Tư liệu khẳng định Người chỉ quan tâm đến nước Pháp, không có ý định tìm hiểu các nước khác."
+        },
+        {
+          "key": "D",
+          "text": "Việc muốn xem \"họ làm thế nào\" cho thấy Người chủ trương tìm chân lí từ thực tiễn chứ không dựa vào lời hứa của người Pháp."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A) và D) đúng: tư liệu nêu mục đích khảo sát thực tế nhiều nước rồi trở về cứu dân, thể hiện cách tìm đường từ thực tiễn. B) sai vì tư liệu nói rõ ý định trở về. C) sai vì tư liệu nhắc tới nước Pháp và các nước khác.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Ra đi tìm đường cứu nước",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-092",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Đầu năm 1919, Nguyễn Ái Quốc gửi Bản yêu sách của nhân dân An Nam tới Hội nghị Vécxây; cuối năm 1920, Người bỏ phiếu tán thành gia nhập Quốc tế thứ ba và tham gia sáng lập Đảng Cộng sản Pháp.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai sự kiện trong tư liệu đánh dấu bước chuyển từ đấu tranh đòi các quyền dân chủ sang đứng về phía Quốc tế Cộng sản."
+        },
+        {
+          "key": "B",
+          "text": "Tư liệu cho thấy bản yêu sách đã được các nước lớn tham dự hội nghị chấp nhận."
+        },
+        {
+          "key": "C",
+          "text": "Các mốc 1919 và 1920 trong tư liệu phản ánh quá trình Người xác lập con đường cứu nước mới."
+        },
+        {
+          "key": "D",
+          "text": "Theo tư liệu, tới năm 1920 Nguyễn Ái Quốc vẫn hoạt động trong khuôn khổ của triều đình nhà Nguyễn."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A) và C) đúng: tư liệu nối hai mốc cho thấy nhận thức chính trị của Người chuyển sang lập trường vô sản. B) sai vì thực tế bản yêu sách không được các nước lớn đáp ứng. D) sai vì hoạt động của Người ở Pháp hoàn toàn ngoài khuôn khổ triều đình.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bước ngoặt 1920",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-093",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Những năm hoạt động ở Pháp, Nguyễn Ái Quốc tham gia sáng lập Hội Liên hiệp thuộc địa, làm chủ nhiệm báo Người cùng khổ, cộng tác với nhiều tờ báo tiến bộ và viết tác phẩm tố cáo chế độ thực dân.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toàn bộ hoạt động nêu trong tư liệu nhằm đánh thức những người bị áp bức ở các thuộc địa và lôi kéo dư luận tiến bộ ở chính quốc."
+        },
+        {
+          "key": "B",
+          "text": "Tư liệu chứng tỏ sau khi sang Pháp, Người đã rút khỏi mọi sinh hoạt chính trị."
+        },
+        {
+          "key": "C",
+          "text": "Việc thành lập hội và làm báo cho thấy Người đặc biệt coi trọng công tác tư tưởng và tập hợp lực lượng."
+        },
+        {
+          "key": "D",
+          "text": "Theo tư liệu, Hội Liên hiệp thuộc địa là tổ chức do Chính phủ Pháp lập ra để quản lí Việt kiều."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A) và C) đúng: lập hội, ra báo, viết bài tố cáo đều là hoạt động tư tưởng và tập hợp lực lượng chống chủ nghĩa thực dân. B) sai vì tư liệu liệt kê hàng loạt hoạt động chính trị. D) sai vì đây là tổ chức của những người yêu nước ở thuộc địa.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hoạt động ở Pháp 1919 – 1923",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-094",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Năm 1925, tại Quảng Châu, Nguyễn Ái Quốc lập Hội Việt Nam Cách mạng Thanh niên, mở các lớp huấn luyện chính trị và xuất bản báo Thanh niên.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tư liệu khẳng định năm 1925 Nguyễn Ái Quốc đã trực tiếp thành lập Đảng Cộng sản Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Hoạt động ở Quảng Châu được tư liệu mô tả là bước chuẩn bị về tổ chức và cán bộ cho việc thành lập chính đảng của giai cấp công nhân."
+        },
+        {
+          "key": "C",
+          "text": "Theo tư liệu, lớp huấn luyện chính trị và tờ báo là phương tiện truyền bá lí luận cách mạng tới hội viên."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu cho rằng Hội Việt Nam Cách mạng Thanh niên là tổ chức hợp pháp được toàn quyền Đông Dương cấp phép."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "B) và C) đúng: hội, lớp huấn luyện và tờ báo ở Quảng Châu chuẩn bị những điều kiện cho việc lập Đảng sau này. A) sai vì Đảng Cộng sản Việt Nam ra đời năm 1930. D) sai vì tổ chức này hoạt động bí mật và ở ngoài nước.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Về Quảng Châu 1925",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-095",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930 thông qua Chính cương vắn tắt và Sách lược vắn tắt, xác định cách mạng Việt Nam do đảng của giai cấp công nhân lãnh đạo.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tư liệu nhấn mạnh vai trò lãnh đạo của Đảng như điều kiện bảo đảm thắng lợi của cách mạng."
+        },
+        {
+          "key": "B",
+          "text": "Theo tư liệu, cương lĩnh được thông qua chủ trương duy trì chế độ thuộc địa của Pháp ở Đông Dương."
+        },
+        {
+          "key": "C",
+          "text": "Tư liệu cho biết hội nghị hợp nhất được triệu tập tại Pác Pó, Cao Bằng."
+        },
+        {
+          "key": "D",
+          "text": "Hội nghị hợp nhất và văn kiện được thông qua đánh dấu sự ra đời của một chính đảng thống nhất trong cả nước."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A) và D) đúng: tư liệu nói tới vai trò lãnh đạo của đảng vô sản và tới văn kiện của hội nghị hợp nhất. B) sai vì cương lĩnh đấu tranh chống chủ nghĩa thực dân. C) sai vì hội nghị họp ở Cửu Long, Hương Cảng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hội nghị thành lập Đảng 1930",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-096",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Năm 1931, Nguyễn Ái Quốc bị chính quyền Hương Cảng bắt giữ; tại phiên tòa Người tự bào chữa và đến đầu năm 1933 thì được trả tự do.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tư liệu cho thấy Người biết dùng kênh pháp lí của phiên tòa như một hình thức đấu tranh."
+        },
+        {
+          "key": "B",
+          "text": "Theo tư liệu, phiên tòa đã tuyên án tử hình đối với Nguyễn Ái Quốc."
+        },
+        {
+          "key": "C",
+          "text": "Tư liệu khẳng định Người được tha nhờ triều đình nhà Nguyễn đứng ra bảo lãnh."
+        },
+        {
+          "key": "D",
+          "text": "Việc bị bắt giam không làm gián đoạn hoạt động cách mạng, vì sau khi ra tù Người tiếp tục công việc của mình."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A) và D) đúng: tự bào chữa trước tòa là một cách đấu tranh, và sau khi được trả tự do Người vẫn tiếp tục hoạt động. B) sai vì không có án tử hình. C) sai vì tư liệu không nói tới sự can thiệp nào của triều đình.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bị bắt và giam cầm 1931 – 1933",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-097",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Các đồng chí từ Trung ương đến các chi bộ cần giữ gìn sự đoàn kết nhất trí của Đảng như giữ gìn con ngươi của mắt mình.\" (Nguồn: Di chúc của Chủ tịch Hồ Chí Minh, dẫn theo SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lời dặn đề cao đoàn kết, thống nhất trong Đảng như nhân tố quyết định sức mạnh lãnh đạo của Đảng."
+        },
+        {
+          "key": "B",
+          "text": "Theo tư liệu, đoàn kết chỉ cần ở cấp Trung ương còn các chi bộ thì không nhất thiết."
+        },
+        {
+          "key": "C",
+          "text": "Tư liệu khuyên giảm kỉ luật của Đảng để tạo không khí thoải mái trong nội bộ."
+        },
+        {
+          "key": "D",
+          "text": "Cách so sánh \"như giữ gìn con ngươi của mắt mình\" cho thấy tầm quan trọng đặc biệt mà Người dành cho sự đoàn kết."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A) và D) đúng: hình ảnh so sánh khẳng định đoàn kết thống nhất là yêu cầu sống còn, từ Trung ương tới chi bộ. B) sai vì tư liệu nêu cả Trung ương lẫn chi bộ. C) sai vì giữ đoàn kết không đồng nghĩa với buông lỏng kỉ luật.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Di chúc của Hồ Chí Minh",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-098",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Năm 1941, sau hơn ba mươi năm hoạt động ở nước ngoài, Nguyễn Ái Quốc về nước trực tiếp lãnh đạo cách mạng; Mặt trận Việt Minh được thành lập để đoàn kết toàn dân đánh Pháp, đuổi Nhật.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tư liệu gắn việc Người về nước với công cuộc xây dựng lực lượng toàn dân qua mặt trận dân tộc thống nhất."
+        },
+        {
+          "key": "B",
+          "text": "Theo tư liệu, năm 1941 Người vẫn ở nước ngoài và ủy quyền cho người khác lãnh đạo."
+        },
+        {
+          "key": "C",
+          "text": "Tư liệu cho rằng Mặt trận Việt Minh chỉ tập hợp công nhân và viên chức."
+        },
+        {
+          "key": "D",
+          "text": "Nhiệm vụ được tư liệu nêu lên hàng đầu là giải phóng dân tộc khỏi ách thống trị của Pháp – Nhật."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A) và D) đúng: tư liệu nói Người về nước trực tiếp lãnh đạo và nêu mục tiêu đánh Pháp, đuổi Nhật của Mặt trận Việt Minh. B) sai vì tư liệu khẳng định Người đã về nước. C) sai vì mặt trận đoàn kết toàn dân, không chỉ một giai cấp.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Về nước 1941",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-099",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã trở thành một nước tự do, độc lập.\" (Nguồn: Tuyên ngôn Độc lập ngày 2-9-1945, dẫn theo SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Câu văn kết hợp giữa cơ sở pháp lí về quyền dân tộc và thực tế nhân dân Việt Nam đã giành được chính quyền."
+        },
+        {
+          "key": "B",
+          "text": "Câu văn cho thấy Việt Nam còn phải xin các nước lớn ban cho quyền độc lập."
+        },
+        {
+          "key": "C",
+          "text": "Tuyên ngôn khẳng định nền độc lập của Việt Nam là thành quả đấu tranh, không phải ân huệ của một nước khác."
+        },
+        {
+          "key": "D",
+          "text": "Theo câu văn, đến thời điểm đó nhà nước Việt Nam vẫn chưa tồn tại trên thực tế."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A) và C) đúng: tư liệu vừa nói tới quyền được hưởng tự do, vừa nhấn mạnh sự thật đã có nền độc lập do đấu tranh mà có. B) và D) sai vì trái hẳn tinh thần tự khẳng định của bản tuyên ngôn.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tuyên ngôn Độc lập 1945",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai15-100",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-15",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Cuộc đời và sự nghiệp của Hồ Chí Minh gắn liền với sự nghiệp giải phóng dân tộc Việt Nam; Người là người sáng lập và rèn luyện Đảng ta, là biểu tượng của khối đại đoàn kết toàn dân tộc.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 15) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tư liệu khẳng định vai trò của Hồ Chí Minh đối với việc thành lập và xây dựng Đảng."
+        },
+        {
+          "key": "B",
+          "text": "Theo tư liệu, sự nghiệp của Người chủ yếu gắn với các hoạt động từ thiện xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Tư liệu cho rằng Người chỉ hoạt động trong phạm vi trong nước, chưa từng ra nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu coi Hồ Chí Minh là hiện thân của tinh thần đại đoàn kết toàn dân tộc."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A) và D) đúng: tư liệu nêu hai nội dung là Người sáng lập, rèn luyện Đảng và là biểu tượng của khối đại đoàn kết. B) thu hẹp sự nghiệp của Người vào hoạt động từ thiện. C) sai vì cả cuộc đời hoạt động của Người chủ yếu gắn với chặng đường ở nước ngoài.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bài học từ sự nghiệp Hồ Chí Minh",
+        "Đúng – sai",
+        "Lịch sử 12"
+      ]
+    }
+  ]
+}

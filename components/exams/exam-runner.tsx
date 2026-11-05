@@ -20,6 +20,7 @@ import {
 } from 'lucide-react';
 import { ExamResult } from '@/components/exams/exam-result';
 import { PracticeRunner } from '@/components/practice/practice-runner';
+import { EXAM_LEGEND, QuestionMap } from '@/components/exams/question-map';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import {
@@ -191,91 +192,6 @@ function readDraft(key: string, questionIds: Set<string>): Draft | null {
   } catch {
     return null;
   }
-}
-
-interface QuestionNavigatorProps {
-  groups: QuestionGroup[];
-  currentIndex: number;
-  answers: Record<string, AnswerValue>;
-  flags: Set<string>;
-  onSelect: (index: number) => void;
-}
-
-function QuestionNavigator({
-  groups,
-  currentIndex,
-  answers,
-  flags,
-  onSelect,
-}: QuestionNavigatorProps) {
-  return (
-    <div className="space-y-4">
-      <div className="max-h-[40vh] space-y-4 overflow-y-auto pr-1">
-        {groups.map((group) => (
-          <div key={group.name}>
-            <p className="mb-2 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
-              {group.name}
-            </p>
-            <div className="grid grid-cols-5 gap-2">
-              {group.items.map(({ index, question }) => {
-                const answered = !isAnswerEmpty(answers[question.id] ?? null);
-                const flagged = flags.has(question.id);
-                const active = index === currentIndex;
-
-                return (
-                  <button
-                    key={question.id}
-                    type="button"
-                    onClick={() => onSelect(index)}
-                    aria-current={active ? 'step' : undefined}
-                    aria-label={`Câu ${index + 1}${answered ? ', đã trả lời' : ', chưa trả lời'}${
-                      flagged ? ', đã đánh dấu' : ''
-                    }`}
-                    className={cn(
-                      'flex h-9 w-full items-center justify-center rounded-lg border text-sm font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2',
-                      flagged
-                        ? 'border-amber-500 bg-amber-400 text-amber-950'
-                        : answered
-                          ? 'border-primary bg-primary text-primary-foreground'
-                          : 'border-border bg-muted text-muted-foreground hover:bg-secondary',
-                      active && 'ring-2 ring-purple-500 ring-offset-2',
-                    )}
-                  >
-                    {index + 1}
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-        ))}
-      </div>
-
-      <ul className="flex flex-wrap gap-x-4 gap-y-1.5 border-t pt-3 text-xs text-muted-foreground">
-        <li className="flex items-center gap-1.5">
-          <span className="h-3 w-3 rounded border bg-muted" aria-hidden="true" />
-          Chưa trả lời
-        </li>
-        <li className="flex items-center gap-1.5">
-          <span className="h-3 w-3 rounded border border-primary bg-primary" aria-hidden="true" />
-          Đã trả lời
-        </li>
-        <li className="flex items-center gap-1.5">
-          <span
-            className="h-3 w-3 rounded border border-amber-500 bg-amber-400"
-            aria-hidden="true"
-          />
-          Đánh dấu
-        </li>
-        <li className="flex items-center gap-1.5">
-          <span
-            className="h-3 w-3 rounded border ring-2 ring-purple-500 ring-offset-1"
-            aria-hidden="true"
-          />
-          Đang xem
-        </li>
-      </ul>
-    </div>
-  );
 }
 
 
@@ -708,12 +624,32 @@ export function ExamRunner({ exam, persistDraft = true, markSeen = true }: ExamR
     return null;
   }
 
+  const mapGroups = groups.map((group) => ({
+    name: group.name,
+    items: group.items.map(({ index, question }) => {
+      const answered = !isAnswerEmpty(answers[question.id] ?? null);
+      const flagged = flags.has(question.id);
+
+      return {
+        index,
+        tone: flagged
+          ? ('flagged' as const)
+          : answered
+            ? ('answered' as const)
+            : ('idle' as const),
+        current: index === currentIndex,
+        label: `Câu ${index + 1}${answered ? ', đã trả lời' : ', chưa trả lời'}${
+          flagged ? ', đã đánh dấu' : ''
+        }`,
+      };
+    }),
+  }));
+
   const navigator = (
-    <QuestionNavigator
-      groups={groups}
-      currentIndex={currentIndex}
-      answers={answers}
-      flags={flags}
+    <QuestionMap
+      groups={mapGroups}
+      legend={EXAM_LEGEND}
+      groupLabel="Chuyển đến một câu hỏi"
       onSelect={goToQuestion}
     />
   );
@@ -778,7 +714,7 @@ export function ExamRunner({ exam, persistDraft = true, markSeen = true }: ExamR
         </div>
       </header>
 
-      <div className="container grid max-w-6xl items-start gap-6 py-6 lg:grid-cols-[minmax(0,1fr)_320px]">
+      <div className="container grid max-w-6xl gap-6 py-6 lg:grid-cols-[minmax(0,1fr)_320px]">
         <main className="min-w-0">
           <div className="mb-4 lg:hidden">
             <details className="rounded-2xl border bg-card p-4">
@@ -965,7 +901,7 @@ export function ExamRunner({ exam, persistDraft = true, markSeen = true }: ExamR
 
         <aside className="hidden lg:block">
           <div className="sticky top-24">
-            <Card>
+            <Card className="flex max-h-[calc(100vh-12rem)] flex-col">
               <CardHeader>
                 <div className="flex items-center justify-between gap-3">
                   <CardTitle className="text-base">Bản đồ câu hỏi</CardTitle>
@@ -974,34 +910,17 @@ export function ExamRunner({ exam, persistDraft = true, markSeen = true }: ExamR
                   </span>
                 </div>
               </CardHeader>
-              <CardContent className="space-y-4">
+              <CardContent className="flex min-h-0 flex-1 flex-col gap-4">
                 {navigator}
 
-                <dl className="grid grid-cols-3 gap-2 text-center text-xs">
-                  <div className="rounded-lg border bg-muted/40 p-2">
-                    <dt className="text-muted-foreground">Đã làm</dt>
-                    <dd className="mt-0.5 text-base font-semibold">{answeredCount}</dd>
-                  </div>
-                  <div className="rounded-lg border bg-muted/40 p-2">
-                    <dt className="text-muted-foreground">Chưa làm</dt>
-                    <dd className="mt-0.5 text-base font-semibold">{unansweredCount}</dd>
-                  </div>
-                  <div className="rounded-lg border bg-muted/40 p-2">
-                    <dt className="text-muted-foreground">Đánh dấu</dt>
-                    <dd className="mt-0.5 text-base font-semibold">{flaggedCount}</dd>
-                  </div>
-                </dl>
+                <p className="text-xs text-muted-foreground">
+                  Chưa làm {unansweredCount} · Đánh dấu {flaggedCount}
+                </p>
 
                 <Button type="button" className="w-full" onClick={() => setConfirmOpen(true)}>
                   <Send aria-hidden="true" />
                   Nộp bài
                 </Button>
-
-                <p className="text-xs leading-relaxed text-muted-foreground">
-                  {persistDraft
-                    ? 'Bài làm được lưu tạm trên thiết bị. Hết giờ, hệ thống tự nộp bài và hiện kết quả.'
-                    : 'Hết giờ, hệ thống tự nộp bài và hiện kết quả. Đề con không lưu nháp trên thiết bị.'}
-                </p>
               </CardContent>
             </Card>
           </div>

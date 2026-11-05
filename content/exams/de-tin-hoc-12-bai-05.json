@@ -1,0 +1,831 @@
+{
+  "id": "de-tin-hoc-12-bai-05",
+  "title": "Đề ôn tập Tin học 12 – Bài 5: Thực hành chia sẻ tài nguyên trên mạng",
+  "slug": "de-tin-hoc-12-bai-05",
+  "description": "Đề ôn tập Bài 5 SGK Tin học 12 bộ Kết nối tri thức, gồm 28 câu về khái niệm tài nguyên, chế độ mạng riêng và công cộng, các thiết lập chia sẻ nâng cao trong Windows, thư mục Public, quyền truy cập và chia sẻ máy in. Thời gian làm bài 45 phút, tổng điểm 10; mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B05",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "updatedAt": "2026-11-05T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b05-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["chia sẻ tài nguyên", "khái niệm"],
+      "content": "Theo sách giáo khoa, chia sẻ tài nguyên trên mạng cục bộ có nghĩa là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "cho phép một người từ một máy tính có thể nhìn thấy và sử dụng tài nguyên trên một máy tính khác trong mạng."
+        },
+        {
+          "key": "B",
+          "text": "tăng băng thông của đường truyền Internet cho tất cả các máy trong mạng."
+        },
+        {
+          "key": "C",
+          "text": "sao lưu tự động toàn bộ dữ liệu của mọi máy tính trong mạng ra một ổ đĩa chung."
+        },
+        {
+          "key": "D",
+          "text": "gán lại địa chỉ IP cho từng thiết bị để chúng không xung đột nhau."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách định nghĩa chia sẻ tài nguyên trên mạng cục bộ là việc cho phép một người từ một máy tính nhìn thấy và sử dụng tài nguyên trên một máy tính khác trong mạng. Các phương án còn lại nói về băng thông, sao lưu hay địa chỉ IP, không phải nội dung của định nghĩa này."    },
+    {
+      "id": "tinhoc12-b05-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["máy in", "tài nguyên mạng"],
+      "content": "Một máy in nối với máy tính A được các máy tính khác trong mạng cùng sử dụng. Theo sách, tài nguyên được chia sẻ trong tình huống này thuộc loại nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "dữ liệu."
+        },
+        {
+          "key": "B",
+          "text": "phần mềm."
+        },
+        {
+          "key": "C",
+          "text": "thiết bị."
+        },
+        {
+          "key": "D",
+          "text": "giao thức."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu tài nguyên của một máy tính trên mạng có thể là dữ liệu, phần mềm hoặc thiết bị. Máy in là một thiết bị ngoại vi nối vào máy tính, nên việc cho các máy khác dùng chung máy in là chia sẻ tài nguyên loại thiết bị."    },
+    {
+      "id": "tinhoc12-b05-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["tài nguyên mạng", "phân loại"],
+      "content": "Yếu tố nào sau đây không được sách kể đến như một loại tài nguyên của máy tính trên mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "dữ liệu."
+        },
+        {
+          "key": "B",
+          "text": "địa chỉ IP."
+        },
+        {
+          "key": "C",
+          "text": "phần mềm."
+        },
+        {
+          "key": "D",
+          "text": "thiết bị."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ba loại tài nguyên được sách liệt kê là dữ liệu, phần mềm và thiết bị, nên A, C, D đều là tài nguyên. Địa chỉ IP chỉ là địa chỉ dùng để định tuyến dữ liệu trong mạng, không nằm trong danh sách tài nguyên được chia sẻ ở Bài 5."    },
+    {
+      "id": "tinhoc12-b05-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["mạng riêng", "hệ điều hành"],
+      "content": "Theo sách, từ phiên bản Windows nào trở đi người dùng có thể đặt mạng ở chế độ riêng (Private) hoặc công cộng (Public)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Windows 7."
+        },
+        {
+          "key": "B",
+          "text": "Windows 8."
+        },
+        {
+          "key": "C",
+          "text": "Windows XP."
+        },
+        {
+          "key": "D",
+          "text": "Windows 10."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách ghi rõ Windows từ phiên bản 10 cho phép đặt mạng riêng (Private) hoặc mạng công cộng (Public). Vì thế các phương án Windows 7, Windows 8 và Windows XP không đúng với nội dung sách."    },
+    {
+      "id": "tinhoc12-b05-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["mạng công cộng", "an toàn"],
+      "content": "Ở những nơi như nhà ga, sân bay hay quán cà phê, sách khuyến nghị đặt mạng ở chế độ công cộng nhằm mục đích gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "hạn chế nguy cơ lộ thông tin."
+        },
+        {
+          "key": "B",
+          "text": "tăng tốc độ truyền dữ liệu của mạng."
+        },
+        {
+          "key": "C",
+          "text": "để máy tính dễ được các thiết bị khác tìm thấy hơn."
+        },
+        {
+          "key": "D",
+          "text": "để được chia sẻ tài nguyên nhanh nhất."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo sách, mạng công cộng thường được đặt ở những nơi công cộng vì đó là mạng của những người dùng không đáng tin cậy, mục đích là hạn chế nguy cơ lộ thông tin. Chế độ công cộng không làm tăng tốc độ truyền và cũng không phải chế độ dùng để mở chia sẻ."    },
+    {
+      "id": "tinhoc12-b05-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["mạng riêng", "chia sẻ tài nguyên"],
+      "content": "Theo sách, mạng riêng (Private) được mô tả như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "mạng chỉ gồm các máy tính ở cách xa nhau về địa lí."
+        },
+        {
+          "key": "B",
+          "text": "mạng bắt buộc phải có modem quang mới hoạt động được."
+        },
+        {
+          "key": "C",
+          "text": "mạng mà máy tính không nhận địa chỉ IP."
+        },
+        {
+          "key": "D",
+          "text": "mạng của nhóm người dùng tin cậy và có thể chia sẻ tài nguyên."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách đối chiếu mạng riêng là mạng của nhóm người dùng tin cậy, vì vậy có thể chia sẻ tài nguyên, còn mạng công cộng được dùng để hạn chế nguy cơ lộ thông tin. Các phương án còn lại nói về khoảng cách địa lí, modem quang hay địa chỉ IP, không phải cách sách mô tả mạng riêng."    },
+    {
+      "id": "tinhoc12-b05-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["cài đặt", "trình tự thao tác"],
+      "content": "Trong hướng dẫn mở hộp thoại Advanced Sharing Settings, sau khi vào Control Panel người dùng chọn mục nào tiếp theo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "System and Security."
+        },
+        {
+          "key": "B",
+          "text": "Network and Internet."
+        },
+        {
+          "key": "C",
+          "text": "Programs."
+        },
+        {
+          "key": "D",
+          "text": "User Accounts."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đường dẫn sách nêu là Control Panel, Network and Internet, Network and Sharing Center, Advanced Sharing Settings, nên bước ngay sau Control Panel là Network and Internet. System and Security là nơi dẫn vào Windows Security khi cần tắt tường lửa, không phải đường dẫn tới thiết lập chia sẻ nâng cao."    },
+    {
+      "id": "tinhoc12-b05-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["chia sẻ tệp", "cài đặt"],
+      "content": "Theo hướng dẫn, các con trượt của thiết lập chia sẻ được kéo sang On trong nhóm nào của hộp thoại Advanced Sharing Settings?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Public networks."
+        },
+        {
+          "key": "B",
+          "text": "All networks."
+        },
+        {
+          "key": "C",
+          "text": "Private networks."
+        },
+        {
+          "key": "D",
+          "text": "Guest networks."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hướng dẫn yêu cầu kéo con trượt Network discovery và File and printer sharing sang On ở mục Private networks, tức là nhóm thiết lập áp dụng cho mạng riêng. Các nhóm còn lại không phải nơi sách chỉ định khi bật hai tuỳ chọn này."    },
+    {
+      "id": "tinhoc12-b05-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["chia sẻ tệp", "máy in"],
+      "content": "Hai tuỳ chọn nào được hướng dẫn của Bài 5 yêu cầu bật sang On trước khi chia sẻ tài nguyên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Network discovery và File and printer sharing."
+        },
+        {
+          "key": "B",
+          "text": "Public folder sharing và Microsoft Defender Firewall."
+        },
+        {
+          "key": "C",
+          "text": "Bluetooth và Wi-Fi."
+        },
+        {
+          "key": "D",
+          "text": "Control Panel và File Explorer."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách hướng dẫn kéo hai con trượt Network discovery và File and printer sharing sang On ở mục Private networks; tuỳ chọn thứ hai đúng ra là tắt tường lửa chứ không phải bật Microsoft Defender Firewall. Control Panel và File Explorer là các phần mềm, không phải tuỳ chọn chia sẻ."    },
+    {
+      "id": "tinhoc12-b05-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["thư mục Public", "đường dẫn"],
+      "content": "Windows thiết lập sẵn thư mục Public theo đường dẫn nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "This PC, System (C:), Program Files, Public."
+        },
+        {
+          "key": "B",
+          "text": "This PC, System (C:), Users, Public."
+        },
+        {
+          "key": "C",
+          "text": "This PC, Data (D:), Users, Public."
+        },
+        {
+          "key": "D",
+          "text": "This PC, System (C:), Windows, Public."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu thư mục Public có sẵn theo đường dẫn This PC, System (C:), Users, Public và bên trong có các thư mục con. Các phương án còn lại đặt thư mục Public trong Program Files, ở ổ Data (D:) hoặc trong Windows nên sai đường dẫn."    },
+    {
+      "id": "tinhoc12-b05-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["thư mục Public", "chia sẻ tệp"],
+      "content": "Phát biểu nào sau đây đúng về dữ liệu đặt trong thư mục Public?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Luôn được chia sẻ cho mọi máy trong mạng mà không cần bật tuỳ chọn nào."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ người quản trị máy tính đó mới có thể nhìn thấy."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ được chia sẻ khi máy tính đổi sang hệ điều hành Windows 11."
+        },
+        {
+          "key": "D",
+          "text": "Mặc định là không chia sẻ; bật Public folder sharing sang On thì mọi người dùng trên mạng mới nhìn thấy toàn bộ nội dung trong thư mục."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo sách, dữ liệu trong thư mục Public được mặc định là không chia sẻ, nhưng nếu bật Public folder sharing sang On thì mọi người dùng trên mạng có thể nhìn thấy toàn bộ những gì có trong thư mục này. Vì vậy A sai, và việc chia sẻ không phụ thuộc vào việc đổi sang Windows 11."    },
+    {
+      "id": "tinhoc12-b05-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["quyền chia sẻ", "thư mục"],
+      "content": "Khi chia sẻ thư mục, nhóm Everyone được thêm vào danh sách với quyền nào theo mặc định?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Read/Write."
+        },
+        {
+          "key": "B",
+          "text": "Remove."
+        },
+        {
+          "key": "C",
+          "text": "Read, tức là chỉ được đọc dữ liệu, không được sửa."
+        },
+        {
+          "key": "D",
+          "text": "Full control dành cho quản trị viên."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách ghi Everyone được thêm vào mặc định với quyền Read, nghĩa là chỉ đọc dữ liệu chứ không sửa được. Read/Write là quyền phải chủ động chọn khi muốn cho phép sửa, còn Remove là lệnh huỷ chia sẻ chứ không phải một quyền."    },
+    {
+      "id": "tinhoc12-b05-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["quyền chia sẻ", "thư mục"],
+      "content": "Nếu muốn người được chia sẻ vừa đọc được vừa sửa các tệp trong thư mục, người chia sẻ phải chọn quyền nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Read."
+        },
+        {
+          "key": "B",
+          "text": "Read/Write."
+        },
+        {
+          "key": "C",
+          "text": "Remove."
+        },
+        {
+          "key": "D",
+          "text": "Public folder sharing."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách hướng dẫn muốn người dùng có quyền sửa thì chọn Read/Write để chỉ định quyền cả đọc và sửa. Read chỉ cho đọc, Remove dùng để huỷ chia sẻ với người dùng đó, còn Public folder sharing là tuỳ chọn trong thiết lập chia sẻ nâng cao chứ không phải quyền cấp cho một người dùng."    },
+    {
+      "id": "tinhoc12-b05-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["quyền chia sẻ", "hủy chia sẻ"],
+      "content": "Muốn ngừng cho một người dùng đã có trong danh sách truy cập thư mục được chia sẻ, thao tác đúng là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chọn Remove đối với người dùng đó."
+        },
+        {
+          "key": "B",
+          "text": "Chọn Read cho người dùng đó."
+        },
+        {
+          "key": "C",
+          "text": "Đổi tên thư mục đang chia sẻ."
+        },
+        {
+          "key": "D",
+          "text": "Gán lại địa chỉ IP cho máy tính của mình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo sách, chọn Remove để huỷ chia sẻ đối với người dùng đó trong danh sách. Read chỉ thu hẹp quyền xuống còn đọc chứ không ngừng chia sẻ, còn đổi tên thư mục hay gán lại địa chỉ IP không phải thao tác quản lí quyền chia sẻ."    },
+    {
+      "id": "tinhoc12-b05-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["tường lửa", "chia sẻ tài nguyên"],
+      "content": "Theo hướng dẫn của Bài 5, việc tắt tạm thời Microsoft Defender Firewall được nêu ra nhằm phục vụ mục đích gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng tuổi thọ của máy in trong mạng."
+        },
+        {
+          "key": "B",
+          "text": "Để máy tính tự động đổi địa chỉ IP."
+        },
+        {
+          "key": "C",
+          "text": "Để xoá sạch nội dung thư mục Public."
+        },
+        {
+          "key": "D",
+          "text": "Phục vụ việc chia sẻ tài nguyên trên mạng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách xếp bước tắt tường lửa vào các thao tác cần làm khi cần tắt tạm thời tường lửa để phục vụ chia sẻ tài nguyên, và chỉ áp dụng cho mạng riêng. Thao tác này không liên quan tới tuổi thọ máy in, việc đổi địa chỉ IP hay xoá nội dung thư mục Public."    },
+    {
+      "id": "tinhoc12-b05-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["tường lửa", "xác nhận"],
+      "content": "Trong bước tắt tường lửa, khi hộp thoại xác nhận cho phép thay đổi xuất hiện thì thao tác đúng là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chọn No vì hộp thoại đã mặc định là No."
+        },
+        {
+          "key": "B",
+          "text": "Tắt ngay máy tính để tránh bị thay đổi cài đặt."
+        },
+        {
+          "key": "C",
+          "text": "Chọn Yes để cho phép thay đổi, dù mặc định của hộp thoại là No."
+        },
+        {
+          "key": "D",
+          "text": "Nhập lại mật khẩu của mạng Wi-Fi."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hướng dẫn nêu sau khi kéo con trượt Microsoft Defender Firewall về Off, hộp thoại xác nhận cho phép thay đổi hiện ra với mặc định là No, người dùng phải chọn Yes để cho phép. Chọn No sẽ giữ nguyên tường lửa và việc tắt tường lửa không liên quan tới mật khẩu Wi-Fi."    },
+    {
+      "id": "tinhoc12-b05-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["máy in", "máy chủ in"],
+      "content": "Khi máy in nối với một máy tính được chia sẻ cho cả mạng, máy tính đó đóng vai trò gì theo sách?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bộ định tuyến của mạng cục bộ."
+        },
+        {
+          "key": "B",
+          "text": "Máy chủ cung cấp dịch vụ in (Print Server)."
+        },
+        {
+          "key": "C",
+          "text": "Bộ chuyển mạch của phân đoạn mạng có máy in."
+        },
+        {
+          "key": "D",
+          "text": "Máy khách chỉ gửi yêu cầu in."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách kết luận việc chia sẻ máy in thực chất là biến máy tính có máy in đó thành một máy chủ cung cấp dịch vụ in, tức Print Server. Router và switch là thiết bị mạng ở Bài 3, còn máy tính này không chỉ là máy khách vì nó nhận và xử lí yêu cầu in của các máy khác."    },
+    {
+      "id": "tinhoc12-b05-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["máy in", "hàng đợi in"],
+      "content": "Các yêu cầu in gửi từ nhiều máy tính tới máy chủ dịch vụ in được xử lí như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Được xếp thành hàng đợi và máy in in lần lượt khi máy in sẵn sàng."
+        },
+        {
+          "key": "B",
+          "text": "Được in đồng thời trên tất cả các máy để không phải chờ."
+        },
+        {
+          "key": "C",
+          "text": "Bị từ bỏ hết nếu có hai yêu cầu đến cùng lúc."
+        },
+        {
+          "key": "D",
+          "text": "Được sao chép thành các tệp riêng trên từng máy tính gửi yêu cầu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách mô tả máy tính cung cấp dịch vụ in nhận các yêu cầu gửi đến từ những máy khác trong mạng, xếp thành hàng đợi, và khi máy in sẵn sàng thì điều khiển máy in in lần lượt các tài liệu. Vì một máy in chỉ in được từng tài liệu một nên các phương án in đồng thời hay bỏ yêu cầu đều sai."    },
+    {
+      "id": "tinhoc12-b05-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["kết nối Wi-Fi", "Windows 11"],
+      "content": "Trên Windows 11, sau khi nháy biểu tượng sóng ở phía phải thanh công việc thì điều gì xuất hiện?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Danh sách các mạng Wi-Fi trong phạm vi phủ sóng."
+        },
+        {
+          "key": "B",
+          "text": "Hộp thoại yêu cầu nhập mật khẩu của mạng."
+        },
+        {
+          "key": "C",
+          "text": "Bảng chọn các loại kết nối không dây, cần nháy tiếp vào dấu cạnh biểu tượng Wi-Fi."
+        },
+        {
+          "key": "D",
+          "text": "Hộp thoại Advanced Sharing Settings."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo sách, với Windows 11 việc nháy biểu tượng sóng mới chỉ làm xuất hiện bảng chọn các loại kết nối không dây như Wi-Fi và bluetooth, nên phải nháy chuột tiếp vào dấu mở rộng cạnh biểu tượng sóng Wi-Fi. Danh sách mạng chỉ hiện ra sau bước này; ở Windows 10 thì nháy biểu tượng sóng là danh sách hiện ngay."    },
+    {
+      "id": "tinhoc12-b05-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["kết nối Wi-Fi", "mật khẩu"],
+      "content": "Theo sách, máy tính chỉ kết nối được vào một mạng Wi-Fi khi nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khi máy tính được đổi tên."
+        },
+        {
+          "key": "B",
+          "text": "Khi máy tính được gán lại địa chỉ IP tĩnh."
+        },
+        {
+          "key": "C",
+          "text": "Khi tắt hoàn toàn modem của gia đình."
+        },
+        {
+          "key": "D",
+          "text": "Khi người dùng gõ đúng mật khẩu của mạng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách khẳng định chỉ khi gõ đúng mật khẩu thì máy tính mới kết nối được vào mạng Wi-Fi. Đổi tên máy, gán địa chỉ IP tĩnh hay tắt modem đều không phải điều kiện kết nối được sách nêu."    },
+    {
+      "id": "tinhoc12-b05-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["điều kiện chia sẻ", "quyền truy cập"],
+      "content": "Để hai máy tính chia sẻ được tài nguyên cho nhau, theo sách cần những điều kiện nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai máy phải được kết nối với nhau và người chia sẻ phải cấp quyền truy cập tài nguyên."
+        },
+        {
+          "key": "B",
+          "text": "Hai máy phải dùng cùng một hãng phần cứng."
+        },
+        {
+          "key": "C",
+          "text": "Người được chia sẻ phải kết bạn với người chia sẻ."
+        },
+        {
+          "key": "D",
+          "text": "Người được chia sẻ phải trả phí truy cập tài nguyên."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu hai điều kiện: kết nối các máy tính với nhau và người chia sẻ cấp quyền truy cập tài nguyên cho người dùng. Việc kết bạn hay trả phí là khái niệm của mạng xã hội, không có trong chia sẻ tài nguyên nội bộ, và sách cũng không yêu cầu trùng hãng phần cứng."    },
+    {
+      "id": "tinhoc12-b05-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["trình tự thao tác", "chia sẻ tài nguyên"],
+      "content": "Trình tự nào sau đây mô tả đúng các bước thực hành chia sẻ tài nguyên ở Bài 5?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cấp quyền cho người dùng, sau đó bật Network discovery, cuối cùng mới kết nối máy vào mạng."
+        },
+        {
+          "key": "B",
+          "text": "Kết nối các máy vào cùng mạng, bật Network discovery và File and printer sharing ở nhóm mạng riêng, rồi chia sẻ tài nguyên và cấp quyền cho người dùng."
+        },
+        {
+          "key": "C",
+          "text": "Tắt Network discovery, bật tường lửa rồi chia sẻ thư mục."
+        },
+        {
+          "key": "D",
+          "text": "Đặt mật khẩu Wi-Fi, đổi địa chỉ MAC của máy in rồi cấp quyền Read."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài thực hành đi từ kết nối mạng, đến bật các thiết lập chia sẻ nâng cao ở nhóm Private networks, rồi mới chia sẻ tài nguyên và cấp quyền, nên B đúng thứ tự. A đảo ngược bước cấp quyền lên trước khi kết nối, còn C tắt đúng thứ tự các tuỳ chọn cần bật. D bịa việc đổi địa chỉ MAC của máy in."    },
+    {
+      "id": "tinhoc12-b05-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["mạng riêng", "an toàn"],
+      "content": "Vì sao trong mạng gia đình, sách coi mạng riêng là mạng có thể chia sẻ tài nguyên còn mạng công cộng thì không?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì mạng riêng có tốc độ truyền lớn hơn mạng công cộng."
+        },
+        {
+          "key": "B",
+          "text": "Vì chỉ mạng riêng mới được cấp địa chỉ IP."
+        },
+        {
+          "key": "C",
+          "text": "Vì mạng riêng là mạng của nhóm người dùng tin cậy, còn mạng công cộng là mạng của những người dùng không đáng tin cậy, đặt để hạn chế nguy cơ lộ thông tin."
+        },
+        {
+          "key": "D",
+          "text": "Vì mạng công cộng khiến máy tính không còn kết nối được Internet."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách phân biệt mạng riêng là mạng của nhóm người dùng tin cậy nên có thể chia sẻ tài nguyên, còn mạng công cộng đặt ở nơi công cộng để hạn chế nguy cơ lộ thông tin. Chế độ mạng không ảnh hưởng tới tốc độ truyền hay việc được cấp địa chỉ IP, và cũng không làm mất kết nối Internet."    },
+    {
+      "id": "tinhoc12-b05-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["thư mục Public", "quyền chia sẻ"],
+      "content": "So sánh việc bật Public folder sharing với việc chia sẻ một thư mục kèm cấp quyền, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai cách này hoàn toàn như nhau về phạm vi người nhìn thấy dữ liệu."
+        },
+        {
+          "key": "B",
+          "text": "Public folder sharing chỉ cho quyền đọc, còn chia sẻ thư mục chỉ cho quyền sửa."
+        },
+        {
+          "key": "C",
+          "text": " Muốn dùng Public folder sharing thì phải xoá hết các thư mục con trong Public."
+        },
+        {
+          "key": "D",
+          "text": "Bật Public folder sharing làm mọi người dùng trên mạng nhìn thấy toàn bộ nội dung thư mục Public, còn chia sẻ thư mục thì người chia sẻ chỉ định được người dùng và quyền đọc hay đọc kèm sửa."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách mô tả Public folder sharing cho phép mọi người dùng trên mạng nhìn thấy toàn bộ những gì có trong thư mục Public, trong khi khi chia sẻ một thư mục thì người dùng được thêm vào danh sách với quyền Read hoặc Read/Write và có thể bị Remove. Vì thế phạm vi hai cách khác nhau, không có quy định phải xoá thư mục con, và chia sẻ thư mục vẫn cho phép chỉ đọc."    },
+    {
+      "id": "tinhoc12-b05-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["nhận định đúng sai", "mạng riêng"],
+      "content": "Những nhận định nào sau đây đúng về chế độ mạng riêng và mạng công cộng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Từ Windows 10 trở đi, người dùng có thể đặt mạng ở chế độ riêng hoặc công cộng."
+        },
+        {
+          "key": "B",
+          "text": "Mạng công cộng thường được đặt ở nhà ga, sân bay, quán cà phê nhằm hạn chế nguy cơ lộ thông tin."
+        },
+        {
+          "key": "C",
+          "text": "Mạng riêng là mạng của nhóm người dùng tin cậy và có thể chia sẻ tài nguyên."
+        },
+        {
+          "key": "D",
+          "text": "Các con trượt Network discovery và File and printer sharing được bật sang On ở nhóm Public networks."
+        }
+      ],
+      "correctAnswer": ["A", "B", "C"],
+      "explanation": "A, B và C đều là nội dung sách nêu về hai chế độ mạng. D sai vì hướng dẫn yêu cầu bật hai con trượt đó ở nhóm Private networks, tức nhóm thiết lập cho mạng riêng."    },
+    {
+      "id": "tinhoc12-b05-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["nhận định đúng sai", "thư mục Public"],
+      "content": "Những nhận định nào sau đây đúng về thư mục Public?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dữ liệu trong thư mục Public mặc định đã được chia sẻ cho mọi máy trong mạng."
+        },
+        {
+          "key": "B",
+          "text": "Thư mục Public có sẵn theo đường dẫn This PC, System (C:), Users, Public và chứa các thư mục con."
+        },
+        {
+          "key": "C",
+          "text": "Khi bật Public folder sharing sang On, mọi người dùng trên mạng có thể nhìn thấy toàn bộ nội dung trong thư mục Public."
+        },
+        {
+          "key": "D",
+          "text": "Thư mục Public chỉ nằm trên một ổ đĩa riêng nên không thể truy cập từ This PC."
+        }
+      ],
+      "correctAnswer": ["B", "C"],
+      "explanation": "B và C đúng vì sách nêu đường dẫn của thư mục Public kèm các thư mục con và tác dụng của tuỳ chọn Public folder sharing. A sai vì dữ liệu trong Public mặc định không được chia sẻ; D sai vì thư mục này nằm trong System (C:) và truy cập được từ This PC."    },
+    {
+      "id": "tinhoc12-b05-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["nhận định đúng sai", "quyền chia sẻ"],
+      "content": "Những nhận định nào sau đây đúng về quyền chia sẻ thư mục và dịch vụ in?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quyền Read cho phép người được chia sẻ sửa các tệp trong thư mục."
+        },
+        {
+          "key": "B",
+          "text": "Everyone được thêm vào mặc định với quyền Read, tức là chỉ đọc, không sửa."
+        },
+        {
+          "key": "C",
+          "text": "Chọn Remove đối với một người dùng trong danh sách nghĩa là huỷ chia sẻ với người dùng đó."
+        },
+        {
+          "key": "D",
+          "text": "Máy tính có máy in được chia sẻ đóng vai trò máy chủ dịch vụ in, xếp các yêu cầu in thành hàng đợi và điều khiển máy in in lần lượt."
+        }
+      ],
+      "correctAnswer": ["B", "C", "D"],
+      "explanation": "B, C và D đúng theo mô tả của sách về quyền Read, lệnh Remove và bản chất chia sẻ máy in. A sai vì Read chỉ cho đọc dữ liệu, muốn cho sửa thì người chia sẻ phải chọn Read/Write."    },
+    {
+      "id": "tinhoc12-b05-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-chia-se-tai-nguyen",
+      "tags": ["nhận định đúng sai", "thực hành"],
+      "content": "Những nhận định nào sau đây đúng về các thao tác thực hành trong Bài 5?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Để mở thiết lập chia sẻ nâng cao, ta đi theo đường dẫn Control Panel, Network and Internet, Network and Sharing Center, Advanced Sharing Settings."
+        },
+        {
+          "key": "B",
+          "text": "Trên Windows 11, nháy biểu tượng sóng là danh sách các mạng Wi-Fi xuất hiện ngay."
+        },
+        {
+          "key": "C",
+          "text": "Máy tính chỉ kết nối được vào mạng Wi-Fi khi người dùng gõ đúng mật khẩu."
+        },
+        {
+          "key": "D",
+          "text": "Hộp thoại xác nhận cho phép tắt tường lửa mặc định là Yes nên không cần thao tác thêm."
+        }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C khớp với đường dẫn thiết lập chia sẻ và điều kiện kết nối Wi-Fi mà sách nêu. B sai vì ở Windows 11 nháy biểu tượng sóng chỉ hiện bảng chọn các loại kết nối không dây, còn phải nháy tiếp vào dấu mở rộng cạnh Wi-Fi. D sai vì mặc định của hộp thoại là No và người dùng phải chọn Yes."    }
+  ]
+}

@@ -1,0 +1,1557 @@
+{
+  "id": "de-dia-12-bai-14",
+  "title": "Đề ôn tập Địa lí 12 – Bài 14: Tổ chức lãnh thổ nông nghiệp",
+  "slug": "de-dia-12-bai-14",
+  "description": "Đề ôn tập 40 câu theo Bài 14 Tổ chức lãnh thổ nông nghiệp (SGK Địa lí 12 bản chỉnh sửa 2026): sáu vùng nông nghiệp tập trung, thế mạnh - hạn chế - hướng chuyên môn hoá của từng vùng, sản phẩm chủ lực hàng hoá, căn cứ hình thành vùng, chuyển dịch cơ cấu theo lãnh thổ, nông nghiệp sinh thái - tuần hoàn và thích ứng biến đổi khí hậu.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B14",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b14-c1",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Căn cứ quan trọng nhất để hình thành các vùng nông nghiệp tập trung ở nước ta là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tập quán sản xuất và kinh nghiệm của người dân địa phương qua nhiều thế hệ."
+        },
+        {
+          "key": "B",
+          "text": "Sự kết hợp giữa điều kiện tự nhiên và tài nguyên thiên nhiên với các điều kiện kinh tế - xã hội và thị trường tiêu thụ."
+        },
+        {
+          "key": "C",
+          "text": "Quy hoạch hành chính của tỉnh và số lượng dân cư sinh sống ở nông thôn."
+        },
+        {
+          "key": "D",
+          "text": "Mật độ hệ thống giao thông vận tải và số lượng cơ sở chế biến hiện có."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Vùng nông nghiệp tập trung được hình thành trên cơ sở thống nhất giữa tự nhiên (đất, khí hậu, nước, sinh vật) và kinh tế - xã hội (lao động, thị trường, cơ sở vật chất - kỹ thuật, tập đoàn cây con), trong đó tự nhiên là nền tảng còn thị trường quyết định hướng chuyên môn hoá.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "chuyen-mon-hoa",
+        "vung-nong-nghiep",
+        "thi-truong-che-bien",
+        "khoa-hoc-cong-nghe",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c2",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "EASY",
+      "content": "Theo cách phân chia được trình bày trong SGK Địa lí 12 bản chỉnh sửa 2026, cả nước được tổ chức thành bao nhiêu vùng nông nghiệp tập trung?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bốn vùng."
+        },
+        {
+          "key": "B",
+          "text": "Bảy vùng."
+        },
+        {
+          "key": "C",
+          "text": "Sáu vùng."
+        },
+        {
+          "key": "D",
+          "text": "Năm vùng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Bản chỉnh sửa 2026 gộp Tây Nguyên vào Duyên hải Nam Trung Bộ, nên cả nước có sáu vùng nông nghiệp tập trung: Trung du và miền núi phía Bắc, Đồng bằng sông Hồng, Bắc Trung Bộ, Duyên hải Nam Trung Bộ và Tây Nguyên, Đông Nam Bộ, Đồng bằng sông Cửu Long.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "vung-mien-nui-phia-bac",
+        "dong-bang-song-hong",
+        "bac-trung-bo",
+        "dhntb-va-tay-nguyen",
+        "dong-nam-bo",
+        "dong-bang-song-cuu-long",
+        "vung-nong-nghiep",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c3",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "EASY",
+      "content": "Thế mạnh nổi bật nhất được khai thác ở vùng Trung du và miền núi phía Bắc là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thâm canh lúa nước và nuôi trồng thuỷ sản nước mặn."
+        },
+        {
+          "key": "B",
+          "text": "Trồng cây lương thực theo hướng quảng canh trên các cánh đồng lớn."
+        },
+        {
+          "key": "C",
+          "text": "Phát triển nghề cá và kinh tế rừng ngập mặn ven biển."
+        },
+        {
+          "key": "D",
+          "text": "Phát triển cây công nghiệp lâu năm, cây ăn quả và chăn nuôi gia súc lớn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Vùng có đất feralit trên đá phiến, đá vôi và nhiều loại đá mẹ, khí hậu cận nhiệt và ôn đới núi cao, đồng cỏ tương đối lớn nên thế mạnh nổi bật là cây công nghiệp lâu năm (chè, cây ăn quả ôn đới và cận nhiệt), chăn nuôi trâu, bò sữa.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "vung-mien-nui-phia-bac",
+        "cay-cong-nghiep",
+        "chan-nuoi",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c4",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Hạn chế lớn nhất ảnh hưởng tới tổ chức lãnh thổ nông nghiệp ở Trung du và miền núi phía Bắc là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Địa hình chia cắt mạnh, thời tiết diễn biến thất thường với rét đậm, rét hại, thiếu nước về mùa đông."
+        },
+        {
+          "key": "B",
+          "text": "Dân số quá đông nên bình quân đất nông nghiệp rất thấp."
+        },
+        {
+          "key": "C",
+          "text": "Không có khoáng sản và nguồn nước mặt phục vụ sản xuất."
+        },
+        {
+          "key": "D",
+          "text": "Hoàn toàn không có thị trường tiêu thụ nông sản trong và ngoài nước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Địa hình núi cao chia cắt khiến giao thông khó khăn, canh tác dễ xói mòn; đợt rét đậm rét hại và khô hanh mùa đông làm chậm sinh trưởng cây trồng, vật nuôi, hạn chế việc hình thành các vùng sản xuất hàng hoá tập trung quy mô lớn.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "vung-mien-nui-phia-bac",
+        "to-chuc-ruong-dat",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c5",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Hướng chuyên môn hoá chủ yếu của vùng Đồng bằng sông Hồng trong tổ chức lãnh thổ nông nghiệp là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trồng cà phê, hồ tiêu và cao su trên đất ba zan."
+        },
+        {
+          "key": "B",
+          "text": "Khai thác thuỷ sản xa bờ và làm muối quy mô lớn."
+        },
+        {
+          "key": "C",
+          "text": "Thâm canh lúa nước kết hợp cây rau màu ngắn ngày, chăn nuôi lợn, gia cầm và nuôi trồng thuỷ sản."
+        },
+        {
+          "key": "D",
+          "text": "Phát triển đồng cỏ để chăn nuôi trâu, bò thịt theo hướng quảng canh."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đồng bằng sông Hồng có đất phù sa màu mỡ được khai thác lâu đời, nguồn nước dồi dào nhưng bình quân đất nông nghiệp thấp nên phải đi theo hướng thâm canh tăng vụ, nâng cao năng suất với lúa, rau màu và các ngành chăn nuôi, thuỷ sản có giá trị.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-bang-song-hong",
+        "chuyen-mon-hoa",
+        "cay-luong-thuc",
+        "thuy-san",
+        "chan-nuoi",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c6",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Khó khăn tự nhiên nổi bật nhất của vùng Đồng bằng sông Hồng đối với sản xuất nông nghiệp là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiễm mặn và nhiễm phèn trên diện rất rộng ở toàn bộ đồng bằng."
+        },
+        {
+          "key": "B",
+          "text": "Quỹ đất nông nghiệp bình quân đầu người thấp, thời tiết mùa đông lạnh và nhiều thiên tai như bão, lụt."
+        },
+        {
+          "key": "C",
+          "text": "Không có hệ thống sông lớn cung cấp phù sa và nước tưới."
+        },
+        {
+          "key": "D",
+          "text": "Địa hình núi cao hiểm trở chiếm phần lớn diện tích tự nhiên."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đồng bằng có mật độ dân số cao nhất cả nước nên đất nông nghiệp bình quân rất ít; khí hậu có mùa đông lạnh với nhiều đợt rét, lại chịu ảnh hưởng trực tiếp của bão, mưa lũ và triều cường, gây khó cho bố trí thời vụ và ổn định sản xuất.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-bang-song-hong",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c7",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Trong các thế mạnh sau, thế mạnh nào nổi bật nhất của vùng Bắc Trung Bộ về tổ chức lãnh thổ nông nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chăn nuôi bò sữa tập trung quy mô công nghiệp trên đồng cỏ lớn."
+        },
+        {
+          "key": "B",
+          "text": "Trồng lúa nước thâm canh với hệ số sử dụng đất cao nhất cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Nuôi trồng thuỷ sản nước ngọt ở các hồ ao và trồng cây ăn quả ôn đới."
+        },
+        {
+          "key": "D",
+          "text": "Trồng cây công nghiệp hàng năm và lâu năm, phát triển lâm nghiệp và khai thác thuỷ sản ven biển."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Bắc Trung Bộ có dải đồng bằng hẹp ven biển, phần lớn diện tích là đồi núi với đất feralit, rừng tự nhiên khá lớn và đường bờ biển dài với nhiều ngư trường, vì vậy hướng chuyên môn hoá là cây công nghiệp, lâm nghiệp và kinh tế biển.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "bac-trung-bo",
+        "chuyen-mon-hoa",
+        "cay-cong-nghiep",
+        "lam-nghiep",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c8",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Yếu tố nào sau đây là hạn chế lớn nhất đối với phát triển nông nghiệp hàng hoá ở vùng Bắc Trung Bộ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiên tai thường xuyên: bão, lũ lụt, hạn hán, gió Tây khô nóng và hiện tượng cát bay, cát chảy."
+        },
+        {
+          "key": "B",
+          "text": "Người dân hoàn toàn không có kinh nghiệm sản xuất nông nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Không có đất feralit để trồng cây công nghiệp lâu năm."
+        },
+        {
+          "key": "D",
+          "text": "Dân số quá ít nên không có lao động cho sản xuất nông nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Bắc Trung Bộ nằm trong khu vực chịu ảnh hưởng nặng nề của bão, lũ quét, hạn hán và gió phơn khô nóng, cộng với quá trình hoang mạc hoá ở ven biển khiến sản xuất nông nghiệp kém ổn định, khó tích tụ ruộng đất để hình thành vùng hàng hoá lớn.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "bac-trung-bo",
+        "to-chuc-ruong-dat",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c9",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "EASY",
+      "content": "Trong vùng Duyên hải Nam Trung Bộ và Tây Nguyên, sản phẩm cây công nghiệp lâu năm nào được xem là chủ lực hàng hoá và có giá trị xuất khẩu cao nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cà phê."
+        },
+        {
+          "key": "B",
+          "text": "Củ cải đường."
+        },
+        {
+          "key": "C",
+          "text": "Lúa mì."
+        },
+        {
+          "key": "D",
+          "text": "Lúa nước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Tây Nguyên có đất bazan rộng lớn và khí hậu cận xích đạo, hội tụ đủ điều kiện cho cà phê phát triển thành cây chủ lực; đây là mặt hàng xuất khẩu quan trọng, chiếm tỉ lệ lớn trong tổng sản lượng cà phê của cả nước.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dhntb-va-tay-nguyen",
+        "cay-cong-nghiep",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Thế mạnh nổi bật của phần Duyên hải Nam Trung Bộ (không tính Tây Nguyên) trong tổ chức lãnh thổ nông nghiệp là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trồng lúa mì và củ cải đường theo hướng chuyên canh lớn."
+        },
+        {
+          "key": "B",
+          "text": "Khai thác thuỷ sản, nuôi trồng thuỷ và hải sản, trồng cây ăn quả và một số cây công nghiệp hàng năm."
+        },
+        {
+          "key": "C",
+          "text": "Chăn nuôi bò sữa quy mô lớn ở vùng núi cao trên 2000 m."
+        },
+        {
+          "key": "D",
+          "text": "Phát triển rừng ngập mặn và trồng cói trên diện tích rất lớn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Duyên hải Nam Trung Bộ có bờ biển dài, nhiều vũng vịnh, ngư trường rộng và các đảo ven bờ nên kinh tế thuỷ sản là thế mạnh; đồng bằng nhỏ hẹp với đất cát pha phù hợp cây công nghiệp hàng năm như lạc, mía, thuốc lá và cây ăn quả.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dhntb-va-tay-nguyen",
+        "cay-cong-nghiep",
+        "thuy-san",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c11",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Hạn chế tự nhiên lớn nhất của vùng Duyên hải Nam Trung Bộ và Tây Nguyên đối với sản xuất nông nghiệp là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không có đất feralit hay đất ba zan cho cây công nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "Dân số quá đông so với diện tích đồng bằng."
+        },
+        {
+          "key": "C",
+          "text": "Khô hạn kéo dài, thiếu nước cho sản xuất, đặc biệt vào mùa khô, cùng với bão, lũ và xói lở bờ biển."
+        },
+        {
+          "key": "D",
+          "text": "Thời tiết quá lạnh nên không trồng được cây nhiệt đới."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Phần duyên hải có mùa khô sâu sắc, nhiều sông ngắn nhỏ nên lượng nước dự trữ ít; Tây Nguyên tuy có ba zan nhưng mùa khô kéo dài khiến nguy cơ thiếu nước tưới và suy giảm mực nước ngầm trở thành vấn đề nghiêm trọng.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dhntb-va-tay-nguyen",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c12",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "EASY",
+      "content": "Trong tổ chức lãnh thổ nông nghiệp, thế mạnh nổi bật của vùng Đông Nam Bộ là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trồng lúa nước thâm canh với diện tích lớn nhất cả nước."
+        },
+        {
+          "key": "B",
+          "text": "Chăn nuôi dê và cừu theo hướng hàng hoá trên thảo nguyên."
+        },
+        {
+          "key": "C",
+          "text": "Nuôi trồng thuỷ sản nước lạnh và trồng rau ôn đới."
+        },
+        {
+          "key": "D",
+          "text": "Phát triển cây công nghiệp lâu năm, cây ăn quả, rau hoa và chăn nuôi gia súc, gia cầm theo hướng trang trại."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đông Nam Bộ có đất ba zan và đất xám, khí hậu cận xích đạo ổn định, lại gần thị trường lớn và hệ thống công nghiệp chế biến, nên là vùng chuyên canh cao su, cà phê, tiêu, điều, rau hoa và các trang trại chăn nuôi gia cầm, gia súc.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-nam-bo",
+        "chuyen-mon-hoa",
+        "cay-cong-nghiep",
+        "chan-nuoi",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c13",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Yếu tố nào sau đây tạo nên sự khác biệt về hướng chuyên môn hoá giữa Đông Nam Bộ và Đồng bằng sông Cửu Long?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đông Nam Bộ không có bất kỳ diện tích đất nông nghiệp nào."
+        },
+        {
+          "key": "B",
+          "text": "Sự khác biệt về điều kiện tự nhiên, lịch định cư và trình độ thâm canh kết hợp với quy mô thị trường, công nghiệp chế biến."
+        },
+        {
+          "key": "C",
+          "text": "Đồng bằng sông Cửu Long không có thế mạnh về thuỷ sản."
+        },
+        {
+          "key": "D",
+          "text": "Hai vùng giống nhau hoàn toàn về điều kiện tự nhiên nhưng khác tên gọi."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Tuy cùng nằm ở phía nam, Đông Nam Bộ có nhiều đất ba zan và đất xám phù hợp cây lâu năm cùng hệ thống đô thị, công nghiệp chế biến phát triển; trong khi đó Đồng bằng sông Cửu Long có đất phù sa rộng và hệ thống sông ngòi, kênh rạch chằng chịt, thuận lợi cho lúa và thuỷ sản nước ngọt.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-nam-bo",
+        "dong-bang-song-cuu-long",
+        "chuyen-mon-hoa",
+        "cay-luong-thuc",
+        "thuy-san",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c14",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "EASY",
+      "content": "Sản phẩm chủ lực hàng hoá nào sau đây là lợi thế cạnh tranh nổi bật nhất của vùng Đồng bằng sông Cửu Long?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lúa, thuỷ sản nước ngọt và cây ăn quả nhiệt đới."
+        },
+        {
+          "key": "B",
+          "text": "Cà phê và hồ tiêu."
+        },
+        {
+          "key": "C",
+          "text": "Chè và cây ăn quả ôn đới."
+        },
+        {
+          "key": "D",
+          "text": "Bò sữa và khoai tây."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đồng bằng sông Cửu Long có đất phù sa màu mỡ, mạng lưới sông ngòi dày đặc và khí hậu nóng ẩm quanh năm nên dành phần lớn diện tích cho lúa, nuôi trồng thuỷ sản và cây ăn quả, đóng góp chính cho xuất khẩu gạo và thuỷ sản của cả nước.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-bang-song-cuu-long",
+        "cay-luong-thuc",
+        "thuy-san",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c15",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Đâu là hạn chế lớn nhất đối với sản xuất nông nghiệp hàng hoá ở Đồng bằng sông Cửu Long trong bối cảnh hiện nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không còn diện tích đất nông nghiệp có thể sử dụng."
+        },
+        {
+          "key": "B",
+          "text": "Người dân không có kinh nghiệm trồng lúa và nuôi thuỷ sản."
+        },
+        {
+          "key": "C",
+          "text": "Không có hệ thống sông, kênh rạch để cung cấp nước."
+        },
+        {
+          "key": "D",
+          "text": "Biến đổi khí hậu gây xâm nhập mặn, hạn hán vào mùa khô và ngập lụt vào mùa lũ, kèm theo suy giảm phù sa và sụt lún đất."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đồng bằng sông Cửu Long là một trong những vùng chịu tác động mạnh nhất của biến đổi khí hậu: nước biển dâng làm mặn xâm nhập sâu, mùa khô đến sớm hơn, lũ giảm nhưng ngập vẫn xảy ra, cùng với khai thác nước thượng nguồn gây thiếu phù sa và sụt lún.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-bang-song-cuu-long",
+        "bien-doi-khi-hau",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c16",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "EASY",
+      "content": "Nông nghiệp sinh thái được hiểu là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nền nông nghiệp vận hành theo nguyên tắc hài hoà với tự nhiên, sử dụng hiệu quả tài nguyên, giảm đầu vào hoá học và gắn sản xuất với bảo vệ hệ sinh thái."
+        },
+        {
+          "key": "B",
+          "text": "Nền nông nghiệp chỉ sử dụng giống biến đổi gen cho năng suất cao."
+        },
+        {
+          "key": "C",
+          "text": "Nền nông nghiệp dựa hoàn toàn vào nhập khẩu nguyên liệu từ nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "Nền nông nghiệp mở rộng diện tích bằng cách phá rừng đầu nguồn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Nông nghiệp sinh thái coi hệ sinh thái là nền tảng của sản xuất, hướng tới giảm phân bón vô cơ và thuốc bảo vệ thực vật, tăng tuần hoàn vật chất, vừa bảo tồn đa dạng sinh học vừa nâng cao giá trị nông sản.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "nong-nghiep-sinh-thai",
+        "nong-nghiep-tuan-hoan",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c17",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Mô hình nào sau đây thể hiện rõ nhất nguyên tắc của nông nghiệp tuần hoàn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Canh tác ba vụ lúa liên tục trên cùng một chân ruộng, không nghỉ vụ."
+        },
+        {
+          "key": "B",
+          "text": "Tăng diện tích độc canh cây công nghiệp lâu năm."
+        },
+        {
+          "key": "C",
+          "text": "Sử dụng phụ phẩm trồng trọt làm thức ăn chăn nuôi, ủ phân hữu cơ và khí sinh học rồi bón lại cho cây trồng."
+        },
+        {
+          "key": "D",
+          "text": "Khai thác nước ngầm để tưới cho toàn bộ diện tích."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Nông nghiệp tuần hoàn khép kín vòng vật chất: phụ phẩm cây trồng trở thành thức ăn cho vật nuôi, chất thải chăn nuôi được ủ thành phân hữu cơ hoặc khí sinh học rồi quay lại bón cho đồng ruộng, nhờ đó giảm chất thải và tiết kiệm đầu vào.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "nong-nghiep-tuan-hoan",
+        "chan-nuoi",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c18",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Để thích ứng với biến đổi khí hậu, hướng tổ chức lãnh thổ nông nghiệp nào sau đây được xem là phù hợp nhất ở vùng ven biển Đồng bằng sông Cửu Long?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Duy trì độc canh lúa ba vụ bất kể diễn biến mặn nhạt."
+        },
+        {
+          "key": "B",
+          "text": "Chuyển toàn bộ đất nông nghiệp sang đất khu công nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Mở rộng thêm diện tích trồng rau màu ngắn ngày bằng tưới nước ngầm."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển đổi cơ cấu sang mô hình lúa - tôm, nuôi trồng thuỷ sản và rừng ngập mặn theo hướng thuận thiên, linh hoạt theo mùa mặn - nhạt."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Thuận thiên là chủ trương được áp dụng ở Đồng bằng sông Cửu Long: ở khu vực bị mặn thì nuôi tôm và trồng rừng ngập mặn, vùng nước ngọt giữ lúa, vùng chuyển tiếp áp dụng mô hình lúa - tôm, vừa thích ứng với biến đổi khí hậu vừa duy trì sinh kế.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-bang-song-cuu-long",
+        "bien-doi-khi-hau",
+        "cay-luong-thuc",
+        "lam-nghiep",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c19",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Chuyển dịch cơ cấu nông nghiệp theo lãnh thổ ở nước ta hiện nay có xu hướng nổi bật nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thu hẹp toàn bộ diện tích cây công nghiệp để dành cho lương thực."
+        },
+        {
+          "key": "B",
+          "text": "Hình thành các vùng chuyên canh hàng hoá gắn với công nghiệp chế biến và thị trường, đồng thời phát triển sản phẩm OCOP và nông nghiệp sinh thái."
+        },
+        {
+          "key": "C",
+          "text": "Phân tán sản xuất nông nghiệp về đồng đều ở tất cả các địa phương."
+        },
+        {
+          "key": "D",
+          "text": "Tập trung vào độc canh một loại cây trồng duy nhất trên cả nước."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Xu hướng hiện nay là tiếp tục tích tụ đất đai, hình thành các vùng chuyên canh quy mô lớn gắn với chế biến, truy xuất nguồn gốc và thương hiệu, kết hợp với nông nghiệp sinh thái, tuần hoàn và chương trình OCOP nhằm nâng cao giá trị gia tăng.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "nong-nghiep-sinh-thai",
+        "nong-nghiep-tuan-hoan",
+        "chuyen-mon-hoa",
+        "thi-truong-che-bien",
+        "to-chuc-ruong-dat",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c20",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Trong các điều kiện sau, điều kiện kinh tế - xã hội nào có vai trò quyết định nhất đến việc mở rộng và ổn định một vùng chuyên canh cây công nghiệp lâu năm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số lượng lễ hội truyền thống ở địa phương."
+        },
+        {
+          "key": "B",
+          "text": "Truyền thống ẩm thực của cộng đồng cư dân."
+        },
+        {
+          "key": "C",
+          "text": "Thị trường tiêu thụ trong và ngoài nước, cơ sở chế biến và hệ thống giao thông vận tải."
+        },
+        {
+          "key": "D",
+          "text": "Tên gọi hành chính của vùng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Cây công nghiệp lâu năm gắn chặt với thị trường và công nghiệp chế biến; nếu không có nhà máy chế biến, đường vận tải và đầu ra ổn định, vùng chuyên canh sẽ khó hình thành hoặc dễ mất thị trường, dẫn tới phá bỏ vườn cây.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "chuyen-mon-hoa",
+        "cay-cong-nghiep",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c21",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "EASY",
+      "content": "Ở vùng Trung du và miền núi phía Bắc, hướng khai thác thế mạnh về chăn nuôi được tổ chức chủ yếu theo mô hình nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chăn nuôi trâu, bò thịt, bò sữa và lợn theo hướng trang trại kết hợp với đồng cỏ và dịch vụ giống, thú y."
+        },
+        {
+          "key": "B",
+          "text": "Nuôi cá nước ngọt trong hệ thống ruộng lúa thâm canh."
+        },
+        {
+          "key": "C",
+          "text": "Nuôi tôm sú thâm canh trên các bãi triều ven biển."
+        },
+        {
+          "key": "D",
+          "text": "Chăn nuôi cừu lấy thịt và lấy len với quy mô lớn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Vùng có nhiều đồng cỏ tự nhiên và truyền thống nuôi trâu, bò, lại gần thị trường tiêu thụ sữa ở vùng động lực phía Bắc nên tổ chức lãnh thổ theo hướng trang trại kết hợp đồng cỏ, dịch vụ giống và thú y, hình thành các vùng chăn nuôi bò sữa ở những cao nguyên khí hậu mát.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "vung-mien-nui-phia-bac",
+        "chan-nuoi",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c22",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Vì sao Đồng bằng sông Hồng khó mở rộng thêm diện tích canh tác lúa dù điều kiện tự nhiên rất thuận lợi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khí hậu lạnh nên mỗi năm chỉ gieo trồng được một vụ lúa."
+        },
+        {
+          "key": "B",
+          "text": "Người dân không còn quan tâm tới sản xuất lương thực."
+        },
+        {
+          "key": "C",
+          "text": "Quỹ đất nông nghiệp đã được sử dụng gần như tối đa, lại bị thu hẹp do đô thị hoá và chuyển đổi sang các ngành kinh tế khác."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ diện tích đồng bằng đã bị nhiễm mặn nên không thể trồng lúa."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đồng bằng sông Hồng là nơi đất chật người đông, phần lớn diện tích đã được khai thác tới mức tối đa; quá trình đô thị hoá, phát triển khu công nghiệp và hạ tầng làm giảm mạnh quỹ đất lúa, nên hướng chủ yếu phải là thâm canh tăng năng suất thay vì mở rộng diện tích.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-bang-song-hong",
+        "cay-cong-nghiep",
+        "cay-luong-thuc",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c23",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Yếu tố nào sau đây giải thích vì sao Đồng bằng sông Hồng có trình độ thâm canh cao hơn nhiều vùng khác?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Diện tích tự nhiên lớn nhất cả nước cho phép cơ giới hoá toàn bộ."
+        },
+        {
+          "key": "B",
+          "text": "Bình quân đất nông nghiệp thấp buộc phải tăng vụ, tăng năng suất, đồng thời có truyền thống canh tác lâu đời và hạ tầng thuỷ lợi hoàn chỉnh."
+        },
+        {
+          "key": "C",
+          "text": "Không chịu ảnh hưởng của thiên tai nên ổn định quanh năm."
+        },
+        {
+          "key": "D",
+          "text": "Hoàn toàn không phụ thuộc vào thị trường tiêu thụ."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Áp lực dân số khiến diện tích đất trên mỗi lao động rất nhỏ, buộc nông hộ phải thâm canh tăng vụ để bảo đảm sản lượng; kết hợp với lịch sử khai phá lâu đời và mạng lưới đê điều, thuỷ lợi hoàn chỉnh đã tạo nên trình độ thâm canh cao của vùng.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-bang-song-hong",
+        "cay-cong-nghiep",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c24",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "EASY",
+      "content": "Trong cơ cấu sản phẩm hàng hoá của vùng Duyên hải Nam Trung Bộ, nhóm sản phẩm nào đóng vai trò quan trọng nhất về giá trị và tạo việc làm cho cư dân ven biển?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Củ cải đường và lúa mì."
+        },
+        {
+          "key": "B",
+          "text": "Chè và các loại cây ôn đới."
+        },
+        {
+          "key": "C",
+          "text": "Bò sữa và khoai tây."
+        },
+        {
+          "key": "D",
+          "text": "Thủy sản khai thác và nuôi trồng, cùng với các cây công nghiệp hàng năm như mía, lạc, thuốc lá."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Dải ven biển Duyên hải Nam Trung Bộ có nhiều ngư trường, vũng vịnh làm nơi neo đậu và nuôi trồng thuỷ sản; phần đồng bằng nhỏ hẹp lại thích hợp với các cây hàng năm, nên cơ cấu sản phẩm hàng hoá của vùng xoay quanh thuỷ sản và cây công nghiệp ngắn ngày.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dhntb-va-tay-nguyen",
+        "cay-cong-nghiep",
+        "thuy-san",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c25",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Vì sao việc phát triển thuỷ lợi được coi là điều kiện tiên quyết để ổn định các vùng chuyên canh cây công nghiệp lâu năm ở Tây Nguyên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cây công nghiệp ở Tây Nguyên chỉ sinh trưởng được trong môi trường nước ngập."
+        },
+        {
+          "key": "B",
+          "text": "Người dân ở đây không sử dụng nước mặt mà chỉ dùng nước máy."
+        },
+        {
+          "key": "C",
+          "text": "Mùa khô ở đây kéo dài, lượng mưa tập trung vào mùa mưa, trong khi cây công nghiệp lâu năm cần nước tưới ổn định quanh năm."
+        },
+        {
+          "key": "D",
+          "text": "Địa hình Tây Nguyên quá thấp nên luôn úng ngập."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Tây Nguyên có sự phân mùa mưa - khô sâu sắc, mùa khô có thể kéo dài tới năm tháng và lượng nước mặt hạn chế vì sông dốc, ngắn; cây cà phê, hồ tiêu, cao su đều cần nước tưới vào mùa khô nên thuỷ lợi quyết định sự ổn định của vùng chuyên canh.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dhntb-va-tay-nguyen",
+        "chuyen-mon-hoa",
+        "cay-cong-nghiep",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c26",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Nguyên nhân quan trọng nhất dẫn đến tình trạng được mùa mất giá ở nhiều vùng chuyên canh nông sản nước ta là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sản xuất phụ thuộc vào một số thị trường, thiếu liên kết chuỗi và năng lực chế biến, dự trữ còn hạn chế."
+        },
+        {
+          "key": "B",
+          "text": "Nông dân không có kinh nghiệm canh tác."
+        },
+        {
+          "key": "C",
+          "text": "Nông sản của nước ta hoàn toàn không được thị trường thế giới chấp nhận."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước bao tiêu toàn bộ nông sản nên giá không phản ánh cung cầu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Khi nông sản phụ thuộc vào một vài thị trường xuất khẩu và thiếu liên kết bốn nhà, mỗi biến động về nhu cầu hay rào cản kỹ thuật đều đẩy giá trong nước giảm mạnh; công nghiệp chế biến và kho dự trữ nhỏ càng làm tăng tính bấp bênh.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "chuyen-mon-hoa",
+        "thi-truong-che-bien",
+        "khoa-hoc-cong-nghe",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c27",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Mối quan hệ giữa lâm nghiệp và nông nghiệp trong tổ chức lãnh thổ ở các vùng Trung du và miền núi phía Bắc, Bắc Trung Bộ và Tây Nguyên thể hiện rõ nhất ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lâm nghiệp và nông nghiệp hoàn toàn tách biệt, không ảnh hưởng lẫn nhau."
+        },
+        {
+          "key": "B",
+          "text": "Bảo vệ và phát triển rừng đầu nguồn giúp giữ nguồn nước, chống xói mòn, tạo điều kiện cho canh tác và các vùng chuyên canh cây công nghiệp ổn định."
+        },
+        {
+          "key": "C",
+          "text": "Trồng rừng luôn làm giảm năng suất cây nông nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế rừng chỉ có ý nghĩa về mặt du lịch."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Rừng đầu nguồn điều tiết dòng chảy, hạn chế lũ quét, giữ độ ẩm và chống xói mòn cho đất dốc; vì vậy nông nghiệp vùng núi muốn bền vững phải gắn với lâm nghiệp, coi bảo vệ rừng là điều kiện để canh tác các vùng chuyên môn hoá.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "vung-mien-nui-phia-bac",
+        "bac-trung-bo",
+        "dhntb-va-tay-nguyen",
+        "chuyen-mon-hoa",
+        "cay-cong-nghiep",
+        "lam-nghiep",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c28",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Vì sao việc hình thành các vùng chuyên canh nông sản hàng hoá quy mô lớn ở Bắc Trung Bộ còn gặp nhiều khó khăn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toàn vùng không có đất feralit đồi núi."
+        },
+        {
+          "key": "B",
+          "text": "Người dân không tham gia sản xuất nông nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Bắc Trung Bộ không có đường bờ biển nên thiếu động lực phát triển."
+        },
+        {
+          "key": "D",
+          "text": "Địa hình bị chia cắt, đồng bằng ven biển hẹp và bị cắt xẻ, thường xuyên chịu thiên tai, cơ sở chế biến và hạ tầng giao thông còn chưa đồng bộ."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đồng bằng Bắc Trung Bộ nhỏ hẹp, bị chia cắt bởi các dải đồi núi lan ra sát biển, lại chịu nhiều bão lũ và gió phơn khô nóng nên khó tích tụ ruộng đất; công nghiệp chế biến và logistics còn mỏng nên vùng chuyên canh lớn khó hình thành.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "bac-trung-bo",
+        "chuyen-mon-hoa",
+        "thi-truong-che-bien",
+        "to-chuc-ruong-dat",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c29",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Vai trò quan trọng nhất của công nghiệp chế biến đối với việc tổ chức các vùng chuyên canh nông sản hàng hoá là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nâng cao giá trị gia tăng, giảm tổn thất sau thu hoạch, ổn định đầu ra và mở rộng thị trường cho nông sản."
+        },
+        {
+          "key": "B",
+          "text": "Thay thế hoàn toàn lao động nông nghiệp bằng máy móc."
+        },
+        {
+          "key": "C",
+          "text": "Làm cho khí hậu của vùng trở nên thuận lợi hơn."
+        },
+        {
+          "key": "D",
+          "text": "Xoá bỏ vai trò của thị trường xuất khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Công nghiệp chế biến giữ cho nông sản không bị hư hỏng sau thu hoạch, tạo ra sản phẩm có thể lưu kho và vận chuyển xa, nhờ đó nông dân yên tâm mở rộng vùng chuyên canh và nhà quản lý có thể thương hiệu hoá sản phẩm của vùng.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "chuyen-mon-hoa",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c30",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Chương trình Mỗi xã một sản phẩm (OCOP) góp phần như thế nào vào tổ chức lãnh thổ nông nghiệp ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xoá bỏ khác biệt giữa các vùng nông nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "Buộc mỗi xã phải sản xuất giống hệt nhau."
+        },
+        {
+          "key": "C",
+          "text": "Khai thác lợi thế riêng của từng địa phương, tạo sản phẩm đặc trưng có thương hiệu và thúc đẩy liên kết làng - vùng - thị trường."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ tập trung vào xuất khẩu nông sản thô."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "OCOP dựa trên đặc sản và tri thức bản địa của từng nơi, từ đó định vị sản phẩm theo lợi thế riêng, gắn với xây dựng thương hiệu, truy xuất nguồn gốc và kết nối thị trường, giúp mỗi vùng phát huy thế mạnh riêng trong bản đồ nông nghiệp quốc gia.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c31",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Xu hướng ứng dụng khoa học và công nghệ trong tổ chức lãnh thổ nông nghiệp ở nước ta hiện nay thể hiện rõ nhất ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trở lại các giống địa phương có năng suất thấp để giữ truyền thống."
+        },
+        {
+          "key": "B",
+          "text": "Tăng cường sử dụng phân bón hoá học và thuốc bảo vệ thực vật thế hệ cũ."
+        },
+        {
+          "key": "C",
+          "text": "Bỏ hẳn các khâu kiểm định và chứng nhận chất lượng."
+        },
+        {
+          "key": "D",
+          "text": "Áp dụng nông nghiệp chính xác, giống chất lượng cao, cơ giới hoá, tự động hoá và chuyển đổi số trong truy xuất nguồn gốc."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Nông nghiệp chính xác, cảm biến, drone, giống mới chống chịu tốt và hệ thống truy xuất nguồn gốc số là những ứng dụng đang được phổ cập, giúp nâng năng suất, giảm chi phí đầu vào và đáp ứng yêu cầu khắt khe của thị trường xuất khẩu.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "thi-truong-che-bien",
+        "khoa-hoc-cong-nghe",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c32",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Tích tụ đất đai trong nông nghiệp được coi là giải pháp quan trọng để phát triển vùng chuyên canh vì lý do nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm tăng số lượng chủ sử dụng đất trên mỗi hecta canh tác."
+        },
+        {
+          "key": "B",
+          "text": "Hình thành những thửa ruộng và trang trại đủ lớn, tạo điều kiện cơ giới hoá, ứng dụng công nghệ và xây dựng thương hiệu nông sản."
+        },
+        {
+          "key": "C",
+          "text": "Loại bỏ hoàn toàn lao động nông nghiệp khỏi sản xuất."
+        },
+        {
+          "key": "D",
+          "text": "Giảm quy mô diện tích trung bình của mỗi cơ sở sản xuất."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Canh tác trên mảnh đất nhỏ manh mún khiến cơ giới hoá kém hiệu quả, chi phí cao và khó kiểm soát chất lượng đồng nhất. Tích tụ ruộng đất tạo ra các vùng sản xuất quy mô lớn, đủ điều kiện áp dụng khoa học công nghệ, chế biến và marketing hiện đại.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "chuyen-mon-hoa",
+        "cay-cong-nghiep",
+        "thi-truong-che-bien",
+        "to-chuc-ruong-dat",
+        "khoa-hoc-cong-nghe",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c33",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Trong bối cảnh biến đổi khí hậu, giải pháp nào sau đây phù hợp nhất với tổ chức nông nghiệp ở vùng Duyên hải Nam Trung Bộ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chuyển dịch cơ cấu sang cây chịu hạn, áp dụng tưới tiên tiến, tiết kiệm nước và đa dạng hoá mô hình nuôi trồng thuỷ sản."
+        },
+        {
+          "key": "B",
+          "text": "Giữ nguyên cơ cấu cây trồng, vật nuôi và chỉ tăng lượng nước tưới."
+        },
+        {
+          "key": "C",
+          "text": "Phá bỏ toàn bộ ao hồ nuôi trồng thuỷ sản hiện có."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển toàn bộ đất sang trồng lúa ba vụ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Vùng chịu hạn hán gay gắt và thiếu nước, nên thích ứng phải là chọn cây, con chịu hạn, áp dụng tưới nhỏ giọt, tưới phun, che phủ đất, kết hợp đa dạng hoá nuôi trồng thuỷ sản và dịch vụ để giảm rủi ro mùa khô.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dhntb-va-tay-nguyen",
+        "bien-doi-khi-hau",
+        "thuy-san",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c34",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Vì sao Đồng bằng sông Cửu Long được đánh giá là một trong những vùng đồng bằng chịu rủi ro biến đổi khí hậu lớn nhất cả nước?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì vùng nằm ở vĩ độ cao, mùa đông rất lạnh."
+        },
+        {
+          "key": "B",
+          "text": "Vì vùng không có bất kỳ hệ thống sông ngòi nào."
+        },
+        {
+          "key": "C",
+          "text": "Vì đồng bằng thấp, chịu tác động đồng thời của nước biển dâng, triều cường, xâm nhập mặn, suy giảm phù sa và sụt lún do khai thác nước ngầm."
+        },
+        {
+          "key": "D",
+          "text": "Vì vùng quá nhiều rừng núi nên dễ xảy ra lũ quét."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Địa hình đồng bằng thấp và bằng phẳng, phần lớn chỉ cao trên mực nước biển vài mét, nên khi nước biển dâng và mùa khô kéo dài thì mặn xâm nhập sâu; đồng thời việc khai thác nước ngầm và thiếu phù sa do các đập thượng nguồn gây ra sụt lún và xói lở bờ sông, bờ biển.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-bang-song-cuu-long",
+        "bien-doi-khi-hau",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c35",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Nhân tố nào sau đây giữ vai trò quyết định nhất trong việc duy trì và mở rộng các vùng chuyên canh nông sản hàng hoá?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tên gọi và địa giới hành chính của vùng."
+        },
+        {
+          "key": "B",
+          "text": "Thị trường tiêu thụ ổn định, hệ thống giao thông và chế biến đồng bộ, cùng với giống cây con chất lượng và tiến bộ khoa học."
+        },
+        {
+          "key": "C",
+          "text": "Số lượng nhà máy nhiệt điện trên địa bàn."
+        },
+        {
+          "key": "D",
+          "text": "Số lượng di tích lịch sử của vùng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Vùng chuyên canh chỉ có thể đứng vững khi đầu ra ổn định, sản phẩm được chế biến và vận chuyển tới thị trường với chi phí hợp lý; giống tốt và khoa học công nghệ giúp nâng năng suất, chất lượng, còn các yếu tố hành chính, văn hoá chỉ đóng vai trò phụ trợ.",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "chuyen-mon-hoa",
+        "thi-truong-che-bien",
+        "khoa-hoc-cong-nghe",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c36",
+      "type": "MULTIPLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Đọc bốn phát ngôn sau về căn cứ hình thành và bản chất của các vùng nông nghiệp tập trung ở nước ta. Chọn hai phát ngôn ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng nông nghiệp tập trung được hình thành trên sự thống nhất giữa điều kiện tự nhiên, tài nguyên thiên nhiên với các điều kiện kinh tế - xã hội và thị trường tiêu thụ."
+        },
+        {
+          "key": "B",
+          "text": "Thị trường, khoa học - công nghiệp chế biến và hạ tầng có ảnh hưởng mạnh tới hướng chuyên môn hoá của vùng."
+        },
+        {
+          "key": "C",
+          "text": "Mỗi vùng nông nghiệp chỉ phụ thuộc vào điều kiện tự nhiên, không liên quan tới yếu tố con người."
+        },
+        {
+          "key": "D",
+          "text": "Địa giới hành chính cấp tỉnh là căn cứ duy nhất quyết định ranh giới của vùng nông nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A và B phản ánh đúng cơ sở kép (tự nhiên và kinh tế - xã hội, thị trường). C sai vì phủ nhận vai trò của con người và thị trường. D sai vì ranh giới vùng nông nghiệp dựa trên sự đồng nhất tương đối về điều kiện sản xuất và sản phẩm chủ lực, có thể cắt ngang nhiều tỉnh hoặc nằm gọn trong một phần tỉnh.",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "vung-nong-nghiep",
+        "cay-cong-nghiep",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c37",
+      "type": "MULTIPLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Về tổ chức lãnh thổ nông nghiệp ở vùng Trung du và miền núi phía Bắc, trong bốn phát ngôn sau hãy chọn hai phát ngôn ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng này chuyên canh lúa nước với quy mô lớn nhất cả nước."
+        },
+        {
+          "key": "B",
+          "text": "Hướng chuyên môn hoá nổi bật là cây công nghiệp lâu năm, cây ăn quả và chăn nuôi gia súc lớn."
+        },
+        {
+          "key": "C",
+          "text": "Rét đậm, rét hại và địa hình chia cắt là những hạn chế quan trọng đối với sản xuất của vùng."
+        },
+        {
+          "key": "D",
+          "text": "Vùng không có tiềm năng về lâm nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "B và C đúng với đặc điểm của Trung du và miền núi phía Bắc, nơi có đồng cỏ, đất feralit và khí hậu có mùa đông lạnh. A sai vì vùng lúa nước lớn nhất cả nước là Đồng bằng sông Cửu Long. D sai vì rừng và lâm nghiệp là một phần quan trọng của cơ cấu kinh tế vùng.",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "vung-mien-nui-phia-bac",
+        "dong-bang-song-cuu-long",
+        "cay-luong-thuc",
+        "lam-nghiep",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c38",
+      "type": "MULTIPLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "MEDIUM",
+      "content": "Trong tổ chức lãnh thổ nông nghiệp ở vùng Đồng bằng sông Hồng, bốn phát ngôn sau gồm hai phát ngôn ĐÚNG và hai phát ngôn SAI. Chọn hai phát ngôn ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quỹ đất nông nghiệp hạn chế nên vùng đi sâu vào thâm canh, tăng vụ và nâng cao chất lượng nông sản."
+        },
+        {
+          "key": "B",
+          "text": "Đồng bằng sông Hồng là vùng có trình độ thâm canh lúa thấp nhất cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Nuôi trồng thuỷ sản nước lợ, nước mặn và sản xuất rau vụ đông là những hướng được đẩy mạnh ở vùng."
+        },
+        {
+          "key": "D",
+          "text": "Vùng không phát triển chăn nuôi gia súc, gia cầm do thiếu thị trường tiêu thụ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A và C phản ánh đúng hướng tổ chức lãnh thổ của Đồng bằng sông Hồng: thâm canh và phát triển các ngành có giá trị cao như thuỷ sản, rau vụ đông. B sai vì đây là một trong những vùng thâm canh nhất cả nước. D sai vì vùng có đàn lợn và gia cầm lớn, cung cấp cho thị trường Hà Nội và các đô thị lân cận.",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dong-bang-song-hong",
+        "thuy-san",
+        "chan-nuoi",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c39",
+      "type": "MULTIPLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Về vùng Duyên hải Nam Trung Bộ và Tây Nguyên, bốn phát ngôn sau gồm hai phát ngôn ĐÚNG. Chọn hai phát ngôn ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng không phát triển kinh tế rừng vì không còn diện tích rừng đáng kể."
+        },
+        {
+          "key": "B",
+          "text": "Phần duyên hải nổi bật về kinh tế thuỷ sản và cây công nghiệp hàng năm; phần Tây Nguyên nổi bật về cây công nghiệp lâu năm trên đất bazan."
+        },
+        {
+          "key": "C",
+          "text": "Thiếu nước về mùa khô và rủi ro bão, lũ là những vấn đề trọng yếu cần giải quyết để ổn định vùng chuyên canh."
+        },
+        {
+          "key": "D",
+          "text": "Cả vùng chỉ tập trung vào cây lương thực, không phát triển sản phẩm xuất khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "B và C phản ánh đúng cách tổ chức lãnh thổ: dải duyên hải ưu tiên thuỷ sản và cây hàng năm, Tây Nguyên ưu tiên cây lâu năm như cà phê, hồ tiêu, điều; đồng thời cả hai khu vực đều gặp vấn đề nước và thiên tai. A sai vì vùng còn diện tích rừng khá lớn và kinh tế rừng là một bộ phận quan trọng. D sai vì cà phê, hồ tiêu là các mặt hàng xuất khẩu chủ lực.",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "dhntb-va-tay-nguyen",
+        "cay-cong-nghiep",
+        "thuy-san",
+        "lam-nghiep",
+        "thi-truong-che-bien",
+        "dia-li-12",
+        "bai-14"
+      ]
+    },
+    {
+      "id": "dia12-b14-c40",
+      "type": "MULTIPLE_CHOICE",
+      "score": 0.25,
+      "difficulty": "HARD",
+      "content": "Về tổ chức lãnh thổ nông nghiệp trong bối cảnh chuyển dịch cơ cấu và thích ứng biến đổi khí hậu, bốn phát ngôn sau có hai phát ngôn ĐÚNG. Chọn hai phát ngôn ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chuyển dịch cơ cấu theo lãnh thổ hiện nay là xoá bỏ các vùng chuyên canh đã có và phân tán sản xuất về đều các xã."
+        },
+        {
+          "key": "B",
+          "text": "Nông nghiệp sinh thái và nông nghiệp tuần hoàn chỉ là khẩu hiệu, không tác động đến cơ cấu sản xuất của các vùng."
+        },
+        {
+          "key": "C",
+          "text": "Hình thành các vùng chuyên canh hàng hoá lớn gắn với công nghiệp chế biến, logistics và chứng nhận nguồn gốc là xu hướng chủ đạo."
+        },
+        {
+          "key": "D",
+          "text": "Ở những vùng chịu ảnh hưởng nặng của biến đổi khí hậu như Đồng bằng sông Cửu Long, hướng tổ chức lãnh thổ là chuyển đổi cơ cấu thuận thiên, ví dụ mô hình lúa - tôm, nuôi trồng thuỷ sản và rừng ngập mặn."
+        }
+      ],
+      "correctAnswer": [
+        "C",
+        "D"
+      ],
+      "explanation": "C và D phản ánh đúng định hướng chuyển dịch cơ cấu nông nghiệp theo lãnh thổ và cách thích ứng biến đổi khí hậu đang được triển khai ở nước ta. A sai vì xu hướng hiện nay là tiếp tục mở rộng, hoàn thiện vùng chuyên canh chứ không xoá bỏ. B sai vì nông nghiệp sinh thái và tuần hoàn đã đi vào mô hình cụ thể, ảnh hưởng tới lựa chọn cây con, quy trình và liên kết chuỗi.",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+      "tags": [
+        "bien-doi-khi-hau",
+        "nong-nghiep-sinh-thai",
+        "nong-nghiep-tuan-hoan",
+        "chuyen-mon-hoa",
+        "dia-li-12",
+        "bai-14"
+      ]
+    }
+  ]
+}

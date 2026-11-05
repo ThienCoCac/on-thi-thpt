@@ -1,0 +1,960 @@
+{
+  "id": "de-ktpl-12-bai-07",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 – Bài 7: Quản lí thu, chi trong gia đình",
+  "slug": "de-ktpl-12-bai-07",
+  "description": "Đề ôn tập bám sát Bài 7 Giáo dục Kinh tế và Pháp luật 12: các nguồn thu nhập, các khoản chi tiêu thiết yếu và không thiết yếu, nguyên tắc cân đối thu – chi, các bước quản lí thu, chi trong gia đình, vai trò của tiết kiệm và gửi tiền an toàn. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-B7",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "ktpl12-b07-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Thu nhập của gia đình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tổng các khoản thu bằng tiền và bằng hiện vật mà các thành viên trong gia đình có được trong một khoảng thời gian nhất định."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ tài sản mà gia đình tích luỹ được qua nhiều thế hệ và để lại cho con cháu."
+        },
+        {
+          "key": "C",
+          "text": "số tiền mà gia đình đã chi cho các nhu cầu thiết yếu trong một tháng."
+        },
+        {
+          "key": "D",
+          "text": "khoản tiền mà Nhà nước hỗ trợ cho mọi gia đình khi gặp khó khăn trong cuộc sống."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thu nhập của gia đình là tổng các khoản thu bằng tiền và bằng hiện vật mà các thành viên có được trong một khoảng thời gian nhất định. Tài sản để lại là của tích luỹ, còn tiền chi ra là chi tiêu, tiền hỗ trợ của Nhà nước chỉ là một nguồn thu không thường xuyên, nên B, C, D đều không định nghĩa đúng khái niệm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Thu nhập gia đình",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Thu nhập chính của gia đình thường có nguồn gốc từ",
+      "options": [
+        {
+          "key": "A",
+          "text": "tiền lương, tiền công và kết quả của hoạt động sản xuất, kinh doanh, dịch vụ của các thành viên."
+        },
+        {
+          "key": "B",
+          "text": "tiền trúng thưởng, quà biếu, quà tặng mà gia đình nhận được của người thân."
+        },
+        {
+          "key": "C",
+          "text": "tiền lãi gửi tiết kiệm, tiền cho thuê nhà và các khoản trợ cấp xã hội."
+        },
+        {
+          "key": "D",
+          "text": "tiền vay mượn của bạn bè, họ hàng mỗi khi gia đình thiếu hụt chi tiêu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thu nhập chính là khoản thu thường xuyên, ổn định, trực tiếp từ lao động của các thành viên: tiền lương, tiền công, thu từ sản xuất – kinh doanh, dịch vụ. Các khoản ở B và C là thu nhập từ nguồn khác, còn tiền vay ở D làm tăng chi phí trả nợ chứ không phải thu nhập.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thu nhập gia đình",
+        "Nguồn thu nhập chính"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Khoản nào sau đây là thu nhập từ nguồn khác của gia đình, không phải thu nhập chính?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tiền lãi từ khoản tiết kiệm và tiền cho thuê ngôi nhà thuộc sở hữu của gia đình."
+        },
+        {
+          "key": "B",
+          "text": "Tiền lương hằng tháng mà bố mẹ nhận được khi làm việc tại công ty."
+        },
+        {
+          "key": "C",
+          "text": "Tiền công mà các thành viên nhận được từ việc làm thuê theo mùa vụ."
+        },
+        {
+          "key": "D",
+          "text": "Lợi nhuận mà gia đình thu được từ cửa hàng ăn uống do mình kinh doanh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tiền lãi tiết kiệm và tiền cho thuê tài sản là thu nhập từ nguồn khác, không gắn trực tiếp với lao động thường xuyên của các thành viên. Ba phương án B, C, D đều là tiền lương, tiền công, lợi nhuận kinh doanh – thuộc nhóm thu nhập chính.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Thu nhập gia đình",
+        "Nguồn thu khác"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Chi tiêu thiết yếu của gia đình là những khoản chi",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhằm đáp ứng các nhu cầu không thể thiếu như ăn, ở, mặc, đi lại, học tập và chăm sóc sức khoẻ."
+        },
+        {
+          "key": "B",
+          "text": "dành cho giải trí, du lịch, nghỉ dưỡng và mua sắm những đồ dùng cao cấp."
+        },
+        {
+          "key": "C",
+          "text": "dùng để mua thêm tài sản với mục đích chủ yếu là thu lợi nhuận cho gia đình."
+        },
+        {
+          "key": "D",
+          "text": "dành cho biếu, tặng, từ thiện theo mong muốn của các thành viên trong gia đình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chi thiết yếu là khoản chi cho những nhu cầu cần có để duy trì và phát triển bình thường của các thành viên: ăn, ở, mặc, đi lại, học tập, chăm sóc sức khoẻ. B là chi không thiết yếu, C là chi cho đầu tư, D là chi cho nhu cầu xã hội, đều không thuộc nhóm thiết yếu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chi tiêu gia đình",
+        "Nhu cầu thiết yếu"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Khoản chi nào sau đây thuộc nhóm chi tiêu không thiết yếu của gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chi cho xem phim, du lịch và mua sắm đồ dùng theo sở thích của các thành viên."
+        },
+        {
+          "key": "B",
+          "text": "Chi cho tiền ăn, tiền điện, tiền nước và tiền thuê nhà hằng tháng."
+        },
+        {
+          "key": "C",
+          "text": "Chi cho học phí, sách vở và đồ dùng học tập của con trong gia đình."
+        },
+        {
+          "key": "D",
+          "text": "Chi cho thuốc men, khám bệnh khi có thành viên trong gia đình bị ốm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giải trí, du lịch, mua sắm theo sở thích là những nhu cầu có thể chờ, có thể cắt giảm nên thuộc chi không thiết yếu. Các khoản ăn ở, điện nước, học tập, thuốc men ở B, C, D đều là nhu cầu cần thiết, thuộc chi thiết yếu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chi tiêu gia đình",
+        "Nhu cầu không thiết yếu"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Thu nhập của gia đình không chỉ tính bằng tiền mà còn bằng hiện vật, nghĩa là",
+      "options": [
+        {
+          "key": "A",
+          "text": "các sản phẩm gia đình tự làm ra để dùng như lúa, rau, thực phẩm cũng được tính vào thu nhập."
+        },
+        {
+          "key": "B",
+          "text": "chỉ những khoản tiền mặt nhận được hằng tháng mới được tính vào thu nhập của gia đình."
+        },
+        {
+          "key": "C",
+          "text": "mọi tài sản sẵn có trong nhà như bàn ghế, xe cộ đều được ghi nhận là thu nhập của gia đình."
+        },
+        {
+          "key": "D",
+          "text": "các khoản đi vay, đi mượn của người thân cũng được coi là thu nhập bằng hiện vật."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thu nhập bằng hiện vật là sản phẩm do gia đình tự tạo ra và dùng cho đời sống, ví dụ lúa, rau, trứng, thịt ở gia đình làm nông nghiệp. B thu hẹp khái niệm chỉ còn tiền mặt, C nhầm tài sản tích luỹ với thu nhập, D nhầm khoản vay với khoản thu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thu nhập gia đình",
+        "Thu nhập bằng hiện vật"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Quản lí thu, chi trong gia đình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "việc gia đình chủ động lập kế hoạch, tổ chức thực hiện và kiểm soát các khoản thu, chi nhằm cân đối tài chính và hướng tới mục tiêu đã định."
+        },
+        {
+          "key": "B",
+          "text": "việc một thành viên nắm giữ toàn bộ tiền bạc và tự quyết định mọi khoản chi của gia đình."
+        },
+        {
+          "key": "C",
+          "text": "việc gia đình vay thêm tiền để mở rộng mọi khoản chi tiêu vượt quá khả năng thu nhập."
+        },
+        {
+          "key": "D",
+          "text": "việc các thành viên tự do chi tiêu theo ý mình và chỉ tổng kết lại vào cuối mỗi năm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quản lí thu, chi là quá trình lập kế hoạch, tổ chức thực hiện và kiểm soát các khoản thu, chi để cân đối tài chính, bảo đảm đời sống và tích luỹ. B mất tính dân chủ, tập thể của gia đình, C phá vỡ nguyên tắc cân đối thu – chi, D không có kiểm soát nên không phải quản lí.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Quản lí thu chi",
+        "Khái niệm"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc lập kế hoạch thu, chi của gia đình nên bắt đầu từ bước nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xác định rõ mục tiêu tài chính và những nhu cầu chi tiêu của gia đình trong thời gian tới."
+        },
+        {
+          "key": "B",
+          "text": "Cắt giảm ngay mọi khoản chi cho học tập và chăm sóc sức khoẻ của các thành viên."
+        },
+        {
+          "key": "C",
+          "text": "Mang toàn bộ thu nhập đi gửi tiết kiệm để lấy tiền lãi phục vụ chi tiêu hằng tháng."
+        },
+        {
+          "key": "D",
+          "text": "Vay thêm tiền của người thân để bảo đảm mức sống của gia đình không giảm xuống."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Xác định mục tiêu tài chính và nhu cầu chi tiêu là bước mở đầu, vì các bước sau đều dựa vào mục tiêu đã chọn. B cắt nhầm cả nhu cầu thiết yếu, C và D là những quyết định chỉ có thể cân nhắc sau khi đã biết rõ thu – chi, không phải bước khởi đầu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Kế hoạch thu chi",
+        "Các bước lập kế hoạch"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Các bước lập kế hoạch thu, chi gồm: (1) theo dõi, điều chỉnh việc chi tiêu; (2) xác định mục tiêu chi tiêu; (3) ước tính các khoản thu nhập; (4) cân đối thu, chi và dành một phần cho tích luỹ; (5) xác định các khoản chi theo mức độ thiết yếu. Trình tự đúng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "(2), (3), (5), (4), (1)."
+        },
+        {
+          "key": "B",
+          "text": "(3), (5), (2), (1), (4)."
+        },
+        {
+          "key": "C",
+          "text": "(5), (2), (4), (3), (1)."
+        },
+        {
+          "key": "D",
+          "text": "(2), (5), (3), (1), (4)."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trình tự hợp lí là xác định mục tiêu, ước tính thu nhập, liệt kê và phân loại khoản chi theo mức thiết yếu, cân đối thu – chi rồi mới tổ chức thực hiện, theo dõi và điều chỉnh. Các phương án còn lại đặt bước kiểm tra, điều chỉnh (1) trước bước cân đối (4) hoặc xếp mục tiêu sau khi đã tính toán, nên đều sai thứ tự.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Kế hoạch thu chi",
+        "Trình tự các bước"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thể hiện đúng nguyên tắc cân đối thu, chi trong gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng các khoản chi không vượt quá tổng thu nhập, dành một phần cho tích luỹ và dự phòng."
+        },
+        {
+          "key": "B",
+          "text": "Chi tiêu hết toàn bộ thu nhập trong tháng để bảo đảm chất lượng cuộc sống của gia đình."
+        },
+        {
+          "key": "C",
+          "text": "Ưu tiên tối đa khoản chi không thiết yếu, để dồn khoản chi thiết yếu sang tháng sau."
+        },
+        {
+          "key": "D",
+          "text": "Vay bên ngoài để duy trì mức chi tiêu cao hơn thu nhập, trả dần vào năm sau."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nguyên tắc cân đối thu – chi là chi trong giới hạn thu, đồng thời dành phần cho tích luỹ và dự phòng. B khiến gia đình không có dự phòng, C đảo lộn thứ tự ưu tiên nhu cầu, D tạo thâm hụt và nợ nần, đều trái nguyên tắc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Cân đối thu chi",
+        "Nguyên tắc quản lí"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Tiết kiệm của gia đình là việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "dành ra một phần thu nhập chưa dùng đến để tích luỹ nhằm dự phòng hoặc đầu tư cho tương lai."
+        },
+        {
+          "key": "B",
+          "text": "dùng toàn bộ thu nhập cho những nhu cầu thiết yếu của gia đình trong tháng."
+        },
+        {
+          "key": "C",
+          "text": "vay tiền của người khác rồi mang đi đầu tư để mong sinh lời nhanh cho gia đình."
+        },
+        {
+          "key": "D",
+          "text": "ngừng mọi khoản chi tiêu, kể cả chi cho ăn ở và học tập của các thành viên."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tiết kiệm là dành một phần thu nhập chưa chi dùng để tạo lập khoản tích luỹ cho dự phòng và các mục tiêu tương lai. B là chi hết thu nhập, không còn gì để tiết kiệm, C là vay để đầu tư chứ không phải tiết kiệm, D là cắt cả nhu cầu thiết yếu, thuộc biểu hiện hà tiện cực đoan.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Tiết kiệm",
+        "Tích luỹ gia đình"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Hình thức nào sau đây an toàn và phù hợp nhất để gia đình gửi khoản tiền nhàn rỗi chưa dùng tới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gửi tiết kiệm có kì hạn tại ngân hàng được cấp phép, có giấy tờ rõ ràng về kì hạn và lãi."
+        },
+        {
+          "key": "B",
+          "text": "Đưa tiền cho người quen chạy dịch vụ hứa trả lãi rất cao và rút được bất cứ lúc nào."
+        },
+        {
+          "key": "C",
+          "text": "Cất toàn bộ tiền mặt trong nhà nhiều tháng liền để tiện sử dụng khi cần."
+        },
+        {
+          "key": "D",
+          "text": "Dùng hết khoản tiền để mua theo tâm lí đám đông những mặt hàng đang được đẩy giá."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gửi tiết kiệm có kì hạn tại ngân hàng được cấp phép là hình thức an toàn, có hợp đồng và thông tin rõ ràng về kì hạn, lãi. B là lời hứa lãi cao bất thường, tiềm ẩn nguy cơ mất trắng và thường gắn với giao dịch trái pháp luật; C dễ mất mát, hư hỏng và mất giá; D là lối mua sắm chạy theo tâm lí đám đông, nguy cơ mất vốn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Tiết kiệm",
+        "Gửi tiền an toàn"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong gia đình, khoản chi cho nhu cầu riêng của từng thành viên như quần áo, đồ dùng, sở thích cá nhân là chi tiêu cá nhân. Cách quản lí khoản chi này phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đưa vào kế hoạch chung, bàn bạc mức chi hợp lí cho từng thành viên và theo dõi việc thực hiện."
+        },
+        {
+          "key": "B",
+          "text": "mặc cho mỗi người tự chi bao nhiêu cũng được, không cần giới hạn hay theo dõi."
+        },
+        {
+          "key": "C",
+          "text": "cắt bỏ toàn bộ khoản chi cá nhân để dồn tiền cho tiết kiệm của gia đình."
+        },
+        {
+          "key": "D",
+          "text": "chỉ đáp ứng yêu cầu của con nhỏ, còn người lớn phải tự lo bằng tiền vay bên ngoài."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chi tiêu cá nhân vẫn nằm trong tổng chi của gia đình nên cần được đưa vào kế hoạch, bàn bạc mức hợp lí và theo dõi. B dễ phát sinh chi ngoài kế hoạch, C phủ nhận nhu cầu chính đáng của các thành viên, D bất công và đẩy người thân vào cảnh vay nợ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chi tiêu cá nhân",
+        "Quản lí thu chi"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc ghi chép lại các khoản thu, chi hằng tháng của gia đình giúp",
+      "options": [
+        {
+          "key": "A",
+          "text": "biết tiền đã chi vào việc gì, phát hiện khoản chi chưa hợp lí để điều chỉnh kịp thời."
+        },
+        {
+          "key": "B",
+          "text": "tăng thêm thu nhập chính của gia đình mà không cần thay đổi việc làm."
+        },
+        {
+          "key": "C",
+          "text": "xoá bỏ mọi khoản chi không thiết yếu mà không cần bàn bạc với các thành viên."
+        },
+        {
+          "key": "D",
+          "text": "giữ bí mật về tài chính của gia đình với tất cả các thành viên còn lại."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ghi chép thu, chi là công cụ kiểm soát tài chính, giúp nhìn rõ dòng tiền và điều chỉnh những khoản chi chưa hợp lí. Việc ghi chép không tự tạo ra thu nhập nên B sai; C và D biến ghi chép thành công cụ ép buộc hoặc bí mật, trái với nguyên tắc công khai, thống nhất trong gia đình.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Kiểm soát chi tiêu",
+        "Quản lí thu chi"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nào sau đây nói đúng vai trò của quản lí thu, chi trong gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giúp gia đình chủ động cân đối tài chính, hạn chế nợ nần và có điều kiện tích luỹ cho mục tiêu lâu dài."
+        },
+        {
+          "key": "B",
+          "text": "Bảo đảm cho mọi gia đình đều trở nên giàu có chỉ trong một thời gian ngắn."
+        },
+        {
+          "key": "C",
+          "text": "Khiến các thành viên phải tuân theo quyết định của một người, không cần bày tỏ ý kiến."
+        },
+        {
+          "key": "D",
+          "text": "Làm giảm mức sống của gia đình vì phải cắt giảm mọi khoản chi tiêu hằng ngày."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quản lí thu, chi giúp cân đối tài chính, giảm nguy cơ nợ nần, tạo khoản tích luỹ và dự phòng cho các mục tiêu dài hạn. B tuyệt đối hoá tác dụng của kế hoạch, C trái tính dân chủ của quản lí gia đình, D sai vì quản lí hợp lí là sắp xếp thứ tự ưu tiên chi tiêu, không phải cắt bỏ mọi khoản chi.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Vai trò quản lí thu chi",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây phân biệt đúng nhu cầu và mong muốn trong chi tiêu gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhu cầu là cái cần có để duy trì đời sống, mong muốn là cái muốn có thêm, nên chi tiêu hợp lí là ưu tiên nhu cầu trước."
+        },
+        {
+          "key": "B",
+          "text": "Nhu cầu và mong muốn như nhau, gia đình nên đáp ứng cả hai cùng lúc để không ai thiệt thòi."
+        },
+        {
+          "key": "C",
+          "text": "Mong muốn của các thành viên đều chính đáng nên phải được đáp ứng trước nhu cầu thiết yếu."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ nhu cầu của người tạo ra thu nhập chính là đáng kể, còn lại đều là mong muốn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhu cầu là những thứ cần cho đời sống bình thường, mong muốn là những thứ muốn có thêm và có thể chờ, kế hoạch chi tiêu vì thế ưu tiên nhu cầu, hạn chế dần mong muốn. B xoá nhoà sự khác biệt hai khái niệm, C đảo ngược thứ tự ưu tiên, D phân biệt đối xử giữa các thành viên, trái nội dung bài học.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nhu cầu và mong muốn",
+        "Chi tiêu gia đình"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Tháng trước, tổng thu nhập của gia đình anh A là 18 000 000 đồng. Gia đình chi 11 500 000 đồng cho nhu cầu thiết yếu, 2 500 000 đồng cho nhu cầu không thiết yếu và gửi tiết kiệm 2 000 000 đồng. Số tiền chưa phân bổ của tháng đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 000 000 đồng."
+        },
+        {
+          "key": "B",
+          "text": "2 500 000 đồng."
+        },
+        {
+          "key": "C",
+          "text": "3 000 000 đồng."
+        },
+        {
+          "key": "D",
+          "text": "1 500 000 đồng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tổng đã phân bổ là 11 500 000 + 2 500 000 + 2 000 000 = 16 000 000 đồng, số còn lại là 18 000 000 − 16 000 000 = 2 000 000 đồng. Các phương án còn lại tính thiếu hoặc tính thừa một khoản chi nên cho kết quả khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Cân đối thu chi",
+        "Vận dụng tính toán"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Gia đình cô E có thu nhập 14 000 000 đồng mỗi tháng, dự kiến chi 8 500 000 đồng cho nhu cầu thiết yếu và muốn gửi tiết kiệm 2 500 000 đồng. Mức chi tối đa còn lại cho nhu cầu không thiết yếu để bảo đảm cân đối thu, chi là",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 000 000 đồng."
+        },
+        {
+          "key": "B",
+          "text": "5 500 000 đồng."
+        },
+        {
+          "key": "C",
+          "text": "8 500 000 đồng."
+        },
+        {
+          "key": "D",
+          "text": "1 500 000 đồng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "14 000 000 − 8 500 000 − 2 500 000 = 3 000 000 đồng, đó là mức chi không thiết yếu tối đa. B chỉ trừ khoản thiết yếu, C lấy lại chính khoản thiết yếu, D là hiệu số tính sai nên không phải mức tối đa của kế hoạch cân đối.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Cân đối thu chi",
+        "Kế hoạch chi tiêu"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Tổng thu nhập của gia đình bác G trong tháng là 16 000 000 đồng, trong đó riêng chi cho nhu cầu thiết yếu hết 12 000 000 đồng. Tỉ lệ chi thiết yếu so với tổng thu nhập của tháng đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "75 phần trăm."
+        },
+        {
+          "key": "B",
+          "text": "60 phần trăm."
+        },
+        {
+          "key": "C",
+          "text": "25 phần trăm."
+        },
+        {
+          "key": "D",
+          "text": "40 phần trăm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "12 000 000 : 16 000 000 × 100 phần trăm = 75 phần trăm. C là tỉ lệ của phần còn lại (4 000 000 đồng), B và D là kết quả của việc đặt sai số bị chia với số chia nên không đúng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Cân đối thu chi",
+        "Vận dụng tính toán"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bạn học sinh nhận được khoản tiền thưởng 1 200 000 đồng. Cách sử dụng khoản tiền nào sau đây là phù hợp nhất với nội dung đã học?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chia khoản tiền thành phần cho việc học tập, phần tiết kiệm, phần dự phòng và báo với cha mẹ."
+        },
+        {
+          "key": "B",
+          "text": "Mua ngay chiếc tai nghe đang được bạn bè quảng cáo rầm rộ trên mạng."
+        },
+        {
+          "key": "C",
+          "text": "Cho bạn mượn cả khoản tiền để lấy lại sau mà không nói với cha mẹ."
+        },
+        {
+          "key": "D",
+          "text": "Tiêu hết trong vài ngày cho các buổi liên hoan rồi vay lại của người khác."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chia khoản tiền theo mục đích, có phần tiết kiệm và dự phòng, đồng thời minh bạch với cha mẹ là cách quản lí tiền hợp lí. B chi theo tâm lí đám đông, C cho vay toàn bộ không còn dự phòng và thiếu minh bạch, D tiêu hết rồi vay thêm, tạo thâm hụt.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Học sinh quản lí tiền",
+        "Vận dụng"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Học sinh lớp 12 đi làm thêm để có thêm thu nhập. Hành vi nào sau đây phù hợp với pháp luật và nội dung bài học?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chọn việc làm hợp pháp, nhẹ nhàng, không ảnh hưởng việc học, cho cha mẹ biết và giữ giấy tờ về tiền công."
+        },
+        {
+          "key": "B",
+          "text": "Làm ở nơi không có địa chỉ rõ ràng, nhận tiền mặt và giấu gia đình để tự do sử dụng."
+        },
+        {
+          "key": "C",
+          "text": "Bỏ học vài tuần để tăng ca, cho rằng việc học có thể bù đắp sau kỳ nghỉ."
+        },
+        {
+          "key": "D",
+          "text": "Vay tiền của người môi giới để đóng phí xin việc làm thêm, hứa trả sau khi có lương."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Pháp luật bảo vệ người lao động chưa thành niên và nghiêm cấm sử dụng họ làm công việc nặng nhọc, độc hại; vì vậy việc làm thêm phải hợp pháp, phù hợp sức khoẻ, không trở thành cản trở việc học và có sự giám sát của gia đình. B dễ bị bóc lột, lừa đảo; C vi phạm nghĩa vụ học tập; D là bẫy chiếm đoạt tiền qua môi giới việc làm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Học sinh làm thêm",
+        "Thu nhập gia đình"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Về trách nhiệm của các thành viên trong quản lí thu, chi gia đình, ý nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các thành viên cùng bàn bạc công khai, thống nhất kế hoạch và giám sát lẫn nhau khi thực hiện."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ cha hoặc mẹ có quyền biết và quyết định toàn bộ các khoản thu, chi của gia đình."
+        },
+        {
+          "key": "C",
+          "text": "Con cái không cần tham gia vì tài chính là công việc riêng của người lớn."
+        },
+        {
+          "key": "D",
+          "text": "Mỗi thành viên chi tiêu riêng theo ý mình, cuối tháng không cần tổng hợp lại."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quản lí thu, chi là việc chung, cần dân chủ, công khai và sự thống nhất của các thành viên; mỗi người có trách nhiệm thực hiện và giám sát kế hoạch. B và C phủ nhận vai trò của các thành viên khác, D làm kế hoạch mất hiệu lực vì không có kiểm soát.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm thành viên",
+        "Quản lí thu chi"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng khi bàn về sự cần thiết của quản lí thu, chi trong gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gia đình có thu nhập cao hay thấp đều cần quản lí thu, chi để dùng tiền hiệu quả và hạn chế rủi ro."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ những gia đình đang thiếu thốn, khó khăn mới cần quan tâm tới quản lí thu, chi."
+        },
+        {
+          "key": "C",
+          "text": "Quản lí thu, chi chỉ trở nên cần thiết khi gia đình đã bắt đầu vay nợ người khác."
+        },
+        {
+          "key": "D",
+          "text": "Người có thu nhập cao thì đương nhiên biết quản lí tài chính, không cần lập kế hoạch."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quản lí thu, chi là nhu cầu chung của mọi gia đình, không phụ thuộc mức thu nhập cao hay thấp. B và C coi quản lí là biện pháp chữa cháy sau khi đã mất cân đối, D nhầm thu nhập cao với năng lực quản lí tài chính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Sự cần thiết",
+        "Quản lí thu chi"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-7",
+      "type": "SINGLE_CHOICE",
+      "content": "Một thành viên phải nghỉ việc không lương nên cuối tháng gia đình chị M bị hụt tiền. Cách xử lí nào sau đây phù hợp nhất với nguyên tắc quản lí thu, chi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rà soát để tạm cắt chi không thiết yếu, dùng quỹ dự phòng và bàn bạc công khai với các thành viên."
+        },
+        {
+          "key": "B",
+          "text": "Vay của dịch vụ cho vay nặng lãi để duy trì mọi khoản chi tiêu như trước khi hụt thu."
+        },
+        {
+          "key": "C",
+          "text": "Rút hết khoản tiết kiệm dành cho việc học của con rồi chi tiêu tiếp mà không tính lại."
+        },
+        {
+          "key": "D",
+          "text": "Giấu các thành viên, tự vay người thân rồi giảm hẳn khẩu phần ăn của cả nhà."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khi hụt thu, cách đúng là giảm chi không thiết yếu, sử dụng quỹ dự phòng và cùng bàn bạc để điều chỉnh kế hoạch. B đẩy gia đình vào nợ xấu, C hy sinh mục tiêu dài hạn đã định, D thiếu minh bạch và ảnh hưởng sức khoẻ, đều trái nguyên tắc quản lí.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Xử lí thâm hụt",
+        "Vận dụng cao"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-7",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về thu nhập và chi tiêu của gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thu nhập của gia đình gồm cả các khoản thu bằng tiền và bằng hiện vật."
+        },
+        {
+          "key": "B",
+          "text": "Tiền lương, tiền công và thu từ sản xuất, kinh doanh là thu nhập chính của gia đình."
+        },
+        {
+          "key": "C",
+          "text": "Tiền ăn, tiền ở, học tập và chăm sóc sức khoẻ thuộc nhóm chi tiêu thiết yếu."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ khoản chi cho giải trí, du lịch đều được coi là chi tiêu thiết yếu."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Thu nhập gia đình gồm cả tiền và hiện vật; thu nhập chính gắn với lao động thường xuyên của các thành viên; chi thiết yếu là ăn, ở, đi lại, học tập, sức khoẻ. Giải trí, du lịch là nhu cầu có thể chờ nên thuộc chi không thiết yếu, vì vậy D sai.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thu nhập gia đình",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-7",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về vai trò của quản lí thu, chi trong gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giúp gia đình chủ động cân đối thu, chi, hạn chế rơi vào cảnh nợ nần."
+        },
+        {
+          "key": "B",
+          "text": "Giúp gia đình có khoản dự phòng để ứng phó khi gặp biến cố, ốm đau, mất việc."
+        },
+        {
+          "key": "C",
+          "text": "Tạo điều kiện tích luỹ để đầu tư cho học tập và các mục tiêu dài hạn của các thành viên."
+        },
+        {
+          "key": "D",
+          "text": "Bảo đảm mọi gia đình đều trở nên giàu có trong thời gian ngắn."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Quản lí thu, chi giúp cân đối tài chính, tạo quỹ dự phòng và tích luỹ cho các mục tiêu dài hạn, nhờ đó nâng cao chất lượng cuộc sống. D tuyệt đối hoá tác dụng của kế hoạch chi tiêu nên là nhận định sai.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Vai trò quản lí thu chi",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-7",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các hình thức tiết kiệm và gửi tiền của gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gửi tiết kiệm có kì hạn tại ngân hàng được cấp phép là hình thức an toàn, có thông tin rõ về kì hạn và lãi."
+        },
+        {
+          "key": "B",
+          "text": "Gửi tiết kiệm không kì hạn phù hợp với khoản tiền gia đình có thể phải dùng gấp."
+        },
+        {
+          "key": "C",
+          "text": "Gửi tiền ở nơi hứa trả lãi cao bất thường là cách tiết kiệm an toàn và sinh lời nhất."
+        },
+        {
+          "key": "D",
+          "text": "Mua vàng hay bảo hiểm nhân thọ là kênh tích luỹ song đều có rủi ro riêng, không bảo đảm sinh lời."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Gửi tiết kiệm tại ngân hàng được cấp phép có hợp đồng rõ ràng; loại không kì hạn linh hoạt cho khoản cần dùng gấp; các kênh khác như vàng, bảo hiểm nhân thọ vừa tích luỹ vừa tiềm ẩn rủi ro nên phải tìm hiểu trước khi chọn. C sai vì lãi cao bất thường thường đi kèm rủi ro mất trắng và có thể liên quan đến vi phạm pháp luật.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hình thức tiết kiệm",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b07-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-7",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Gia đình anh P có thu nhập 15 000 000 đồng mỗi tháng. Anh dự kiến chi 9 500 000 đồng cho nhu cầu thiết yếu, 2 000 000 đồng cho nhu cầu không thiết yếu, gửi tiết kiệm 2 000 000 đồng và dành 1 500 000 đồng cho quỹ dự phòng. Những nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng chi và tích luỹ đúng bằng thu nhập, kế hoạch của anh P bảo đảm cân đối thu, chi."
+        },
+        {
+          "key": "B",
+          "text": "Nếu tăng chi không thiết yếu thêm 1 000 000 đồng mà không giảm khoản khác, gia đình sẽ chi vượt thu nhập."
+        },
+        {
+          "key": "C",
+          "text": "Khoản 1 500 000 đồng dành cho quỹ dự phòng thể hiện sự chủ động ứng phó biến cố."
+        },
+        {
+          "key": "D",
+          "text": "Để tăng tiết kiệm, cách hợp lí nhất là cắt bỏ toàn bộ 9 500 000 đồng chi thiết yếu."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "9 500 000 + 2 000 000 + 2 000 000 + 1 500 000 = 15 000 000 đồng, đúng bằng thu nhập nên kế hoạch cân đối; thêm 1 000 000 đồng chi không thiết yếu sẽ thành 16 000 000 đồng, vượt thu 1 000 000 đồng. D sai vì cắt bỏ chi thiết yếu ảnh hưởng trực tiếp đến đời sống và việc học của các thành viên.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Cân đối thu chi",
+        "Vận dụng cao",
+        "Nhận định đúng"
+      ]
+    }
+  ]
+}

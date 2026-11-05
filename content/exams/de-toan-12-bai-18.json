@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-18",
+  "title": "Đề ôn Toán 12 Bài 18: Xác suất có điều kiện (20 câu)",
+  "slug": "de-toan-12-bai-18",
+  "description": "Bám sát Bài 18 sách Toán 12 Kết nối tri thức: định nghĩa xác suất có điều kiện, công thức nhân xác suất, tính độc lập của hai biến cố và bài toán chọn mẫu có hoàn lại, không hoàn lại. 20 câu trắc nghiệm bốn lựa chọn, làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B18",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b18-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Với hai biến cố $A$, $B$ và $P(B)>0$, công thức nào sau đây là định nghĩa của xác suất có điều kiện $P(A\\mid B)$?",
+      "options": [
+        { "key": "A", "text": "$P(A\\mid B)=\\dfrac{P(B)}{P(A\\cap B)}$." },
+        { "key": "B", "text": "$P(A\\mid B)=\\dfrac{P(A)}{P(B)}$." },
+        { "key": "C", "text": "$P(A\\cap B)=P(A\\mid B)\\cdot P(A)$." },
+        { "key": "D", "text": "$P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo định nghĩa, xác suất của $A$ khi biết $B$ xảy ra bằng xác suất của giao $A\\cap B$ chia cho xác suất của $B$, tức $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}$. Phương án A đảo nhầm tử số và mẫu số, phương án B thiếu giao ở tử số. Phương án C sai vì công thức nhân đúng phải là $P(A\\cap B)=P(A\\mid B)\\cdot P(B)$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["định nghĩa", "xác suất có điều kiện"]
+    },
+    {
+      "id": "toan12-b18-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hai biến cố $A$, $B$ với $P(A\\cap B)=0{,}2$ và $P(B)=0{,}5$. Khi đó $P(A\\mid B)$ bằng",
+      "options": [
+        { "key": "A", "text": "$0{,}4$." },
+        { "key": "B", "text": "$0{,}1$." },
+        { "key": "C", "text": "$2{,}5$." },
+        { "key": "D", "text": "$0{,}7$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Áp dụng định nghĩa: $P(A\\mid B)=\\dfrac{P(A\\cap B)}{P(B)}=\\dfrac{0{,}2}{0{,}5}=0{,}4$. Phương án B là lỗi nhân hai số thay vì chia, phương án C là lỗi đảo ngược thương.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["định nghĩa", "tính trực tiếp"]
+    },
+    {
+      "id": "toan12-b18-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $P(A\\mid B)=\\dfrac{1}{3}$ và $P(B)=\\dfrac{3}{4}$. Khi đó $P(A\\cap B)$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{4}{9}$." },
+        { "key": "B", "text": "$\\dfrac{1}{3}$." },
+        { "key": "C", "text": "$\\dfrac{1}{4}$." },
+        { "key": "D", "text": "$\\dfrac{5}{12}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Từ công thức nhân $P(A\\cap B)=P(A\\mid B)\\cdot P(B)$, ta có $P(A\\cap B)=\\dfrac{1}{3}\\cdot\\dfrac{3}{4}=\\dfrac{1}{4}$. Phương án B là lỗi lấy $P(A\\mid B)$ thay cho $P(A\\cap B)$, phương án A là lỗi chia ngược.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["công thức nhân", "giao của hai biến cố"]
+    },
+    {
+      "id": "toan12-b18-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hai biến cố $A$, $B$ có $P(A)=0{,}5$, $P(B)=0{,}4$ và $P(A\\cap B)=0{,}2$. Khẳng định nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Hai biến cố $A$ và $B$ không độc lập với nhau." },
+        { "key": "B", "text": "Hai biến cố $A$ và $B$ độc lập và $P(A\\mid B)=0{,}5$." },
+        { "key": "C", "text": "Hai biến cố $A$ và $B$ độc lập và $P(A\\mid B)=0{,}4$." },
+        { "key": "D", "text": "Chưa đủ dữ kiện để kết luận $A$ và $B$ độc lập hay không." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ta có $P(A)\\cdot P(B)=0{,}5\\cdot 0{,}4=0{,}2=P(A\\cap B)$ nên $A$ và $B$ độc lập, do đó $P(A\\mid B)=P(A)=0{,}5$. Tính trực tiếp cũng cho $P(A\\mid B)=\\dfrac{0{,}2}{0{,}4}=0{,}5$. Giá trị $0{,}4$ ở phương án C là $P(B\\mid A)$, tức nhầm chiều của xác suất có điều kiện.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tính độc lập", "tiêu chuẩn độc lập"]
+    },
+    {
+      "id": "toan12-b18-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hai biến cố $A$, $B$ độc lập với $P(A)=0{,}3$ và $P(B)=0{,}6$. Khi đó $P(A\\cap B)$ bằng",
+      "options": [
+        { "key": "A", "text": "$0{,}18$." },
+        { "key": "B", "text": "$0{,}72$." },
+        { "key": "C", "text": "$0{,}9$." },
+        { "key": "D", "text": "$0{,}3$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vì $A$ và $B$ độc lập nên $P(A\\cap B)=P(A)\\cdot P(B)=0{,}3\\cdot 0{,}6=0{,}18$. Phương án C là lỗi cộng hai xác suất, phương án B là lỗi nhầm giao với hợp ($0{,}3+0{,}6-0{,}18=0{,}72$).",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["biến cố độc lập", "công thức nhân"]
+    },
+    {
+      "id": "toan12-b18-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hai biến cố $A$ và $B$ độc lập với nhau và $P(B)>0$. Khi đó $P(A\\mid B)$ bằng",
+      "options": [
+        { "key": "A", "text": "$P(A\\cap B)$." },
+        { "key": "B", "text": "$P(A)$." },
+        { "key": "C", "text": "$P(B)$." },
+        { "key": "D", "text": "$1-P(A)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hai biến cố độc lập nghĩa là thông tin \"$B$ xảy ra\" không làm thay đổi khả năng xảy ra của $A$. Thật vậy $P(A\\mid B)=\\dfrac{P(A)P(B)}{P(B)}=P(A)$. Phương án A sai vì $P(A\\cap B)=P(A)P(B)$ luôn nhỏ hơn hoặc bằng $P(A)$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["biến cố độc lập", "ý nghĩa hình"]
+    },
+    {
+      "id": "toan12-b18-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hộp có 5 quả bóng đỏ và 3 quả bóng xanh. Rút ngẫu nhiên lần lượt 2 quả, mỗi lần xem xong trả lại hộp (có hoàn lại). Xác suất để cả hai quả rút được đều màu đỏ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{5}{14}$." },
+        { "key": "B", "text": "$\\dfrac{5}{8}$." },
+        { "key": "C", "text": "$\\dfrac{9}{64}$." },
+        { "key": "D", "text": "$\\dfrac{25}{64}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Vì rút có hoàn lại nên hai lần rút độc lập và mỗi lần xác suất được quả đỏ là $\\dfrac{5}{8}$. Do đó $P=\\dfrac{5}{8}\\cdot\\dfrac{5}{8}=\\dfrac{25}{64}$. Phương án A là lỗi dùng công thức của rút không hoàn lại $\\dfrac{5}{8}\\cdot\\dfrac{4}{7}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["rút có hoàn lại", "biến cố độc lập"]
+    },
+    {
+      "id": "toan12-b18-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một lớp có 40 học sinh, trong đó 20 nữ và 20 nam; có 9 nữ thích Toán và 12 nam thích Toán. Chọn ngẫu nhiên một học sinh của lớp. Tính xác suất để học sinh đó thích Toán với điều kiện học sinh đó là nữ.",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{9}{40}$." },
+        { "key": "B", "text": "$\\dfrac{1}{2}$." },
+        { "key": "C", "text": "$\\dfrac{9}{20}$." },
+        { "key": "D", "text": "$\\dfrac{3}{5}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khi biết học sinh được chọn là nữ, không gian mẫu rút gọn còn 20 nữ và có 9 nữ thích Toán, vậy $P=\\dfrac{9}{20}$. Phương án A là lỗi lấy $P(A\\cap B)=\\dfrac{9}{40}$ (chia cho tổng số học sinh) thay vì $P(A\\mid B)$, phương án B là lỗi chỉ lấy tỉ số giữa hai tần số thuần $\\dfrac{20}{40}=\\dfrac{1}{2}$ (số nữ trên tổng số) nên bỏ hẳn số liệu 'thích Toán' và không dùng công thức điều kiện.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["xác suất có điều kiện", "số liệu hai chiều"]
+    },
+    {
+      "id": "toan12-b18-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hộp có 20 thẻ đánh số từ 1 đến 20. Rút ngẫu nhiên một thẻ. Gọi $B$ là biến cố \"số trên thẻ chia hết cho 5\" và $A$ là biến cố \"số trên thẻ chia hết cho 4\". Khi đó $P(A\\mid B)$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{1}{4}$." },
+        { "key": "B", "text": "$\\dfrac{1}{20}$." },
+        { "key": "C", "text": "$\\dfrac{1}{5}$." },
+        { "key": "D", "text": "$\\dfrac{1}{8}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Các thẻ chia hết cho 5 là 5, 10, 15, 20 nên $n(B)=4$; trong đó chỉ có thẻ 20 chia hết cho 4, nên $n(A\\cap B)=1$. Vì các kết quả đồng khả năng, $P(A\\mid B)=\\dfrac{1}{4}$. Phương án B là lỗi lấy $\\dfrac{1}{20}=P(A\\cap B)$, phương án C là lỗi nhầm chiều $P(B\\mid A)=\\dfrac{1}{5}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["thẻ số", "xác suất có điều kiện"]
+    },
+    {
+      "id": "toan12-b18-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một tổ có 6 học sinh nam và 4 học sinh nữ. Giáo viên gọi ngẫu nhiên liên tiếp hai bạn (không gọi lại bạn đã gọi). Biết rằng bạn đầu tiên được gọi là nữ, tính xác suất để bạn thứ hai là nam.",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{3}{5}$." },
+        { "key": "B", "text": "$\\dfrac{2}{3}$." },
+        { "key": "C", "text": "$\\dfrac{4}{9}$." },
+        { "key": "D", "text": "$\\dfrac{1}{3}$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khi bạn đầu đã là nữ thì tổ còn 9 bạn, trong đó vẫn còn đủ 6 bạn nam, nên $P=\\dfrac{6}{9}=\\dfrac{2}{3}$. Phương án A là lỗi coi như có hoàn lại và chia cho 10 bạn ban đầu, phương án D là lỗi tính cho biến cố \"bạn thứ hai là nữ\".",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["không hoàn lại", "xác suất có điều kiện"]
+    },
+    {
+      "id": "toan12-b18-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hộp có 3 quả đỏ và 2 quả xanh. Rút ngẫu nhiên lần lượt 2 quả không hoàn lại. Gọi $A$ là biến cố \"quả thứ nhất đỏ\", $B$ là biến cố \"quả thứ hai đỏ\". Khẳng định nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "$A$ và $B$ độc lập vì $P(A)=P(B)=\\dfrac{3}{5}$." },
+        { "key": "B", "text": "$P(A\\cap B)=\\dfrac{9}{25}$." },
+        { "key": "C", "text": "$A$ và $B$ không độc lập và $P(B\\mid A)=\\dfrac{1}{2}$." },
+        { "key": "D", "text": "$P(B\\mid A)=\\dfrac{3}{5}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rút không hoàn lại nên $P(A)=\\dfrac{3}{5}$, $P(B\\mid A)=\\dfrac{2}{4}=\\dfrac{1}{2}$ và $P(A\\cap B)=\\dfrac{3}{5}\\cdot\\dfrac{1}{2}=\\dfrac{3}{10}$. Vì $P(A)P(B)=\\dfrac{9}{25}\\ne\\dfrac{3}{10}=P(A\\cap B)$ nên hai biến cố không độc lập; $P(B\\mid A)\\ne P(B)$ chính là điều này. Phương án A sai vì hai biến cố có cùng xác suất vẫn có thể phụ thuộc nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tính độc lập", "không hoàn lại"]
+    },
+    {
+      "id": "toan12-b18-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Gieo một đồng xu cân đối và gieo một xúc xắc cân đối (hai thí nghiệm độc lập). Xác suất để đồng xu xuất hiện mặt sấp và xúc xắc xuất hiện mặt 6 chấm bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{1}{12}$." },
+        { "key": "B", "text": "$\\dfrac{7}{12}$." },
+        { "key": "C", "text": "$\\dfrac{2}{3}$." },
+        { "key": "D", "text": "$\\dfrac{1}{6}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gọi $A$ là \"đồng xu sấp\" với $P(A)=\\dfrac{1}{2}$, $B$ là \"xúc xắc 6 chấm\" với $P(B)=\\dfrac{1}{6}$. Hai biến cố độc lập nên $P(A\\cap B)=\\dfrac{1}{2}\\cdot\\dfrac{1}{6}=\\dfrac{1}{12}$. Phương án B là lỗi nhầm giao với hợp, phương án C là lỗi cộng hai xác suất.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["biến cố độc lập", "đồng xu và xúc xắc"]
+    },
+    {
+      "id": "toan12-b18-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hộp có 5 quả đỏ và 3 quả xanh. Rút ngẫu nhiên đồng thời 2 quả. Biết rằng trong hai quả rút ra có ít nhất một quả đỏ, tính xác suất để cả hai quả đều đỏ.",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{5}{14}$." },
+        { "key": "B", "text": "$\\dfrac{5}{8}$." },
+        { "key": "C", "text": "$\\dfrac{3}{25}$." },
+        { "key": "D", "text": "$\\dfrac{2}{5}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Không gian mẫu có $C_8^2=28$ cặp. Số cặp có ít nhất một quả đỏ là $28-C_3^2=28-3=25$, số cặp toàn đỏ là $C_5^2=10$. Vậy $P=\\dfrac{10}{25}=\\dfrac{2}{5}$. Phương án A là lỗi dùng $\\dfrac{10}{28}=P(A\\cap B)$ mà quên chia cho $P(B)$ của điều kiện.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tổ hợp", "biến cố \"ít nhất một\""]
+    },
+    {
+      "id": "toan12-b18-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Gieo một lúc hai xúc xắc cân đối. Biết rằng tổng số chấm của hai mặt bằng 8, tính xác suất để hai xúc xắc cho số chấm khác nhau.",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{1}{9}$." },
+        { "key": "B", "text": "$\\dfrac{4}{5}$." },
+        { "key": "C", "text": "$\\dfrac{5}{36}$." },
+        { "key": "D", "text": "$\\dfrac{5}{6}$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Các kết quả có tổng bằng 8 là $(2;6)$, $(3;5)$, $(4;4)$, $(5;3)$, $(6;2)$, tức 5 kết quả. Trong đó 4 kết quả có hai mặt khác nhau, nên $P=\\dfrac{4}{5}$. Phương án A là lỗi chia 4 cho 36 thay vì chia cho 5, phương án C là lỗi lấy $P(A\\cap B)=\\dfrac{5}{36}$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["xúc xắc", "rút gọn không gian mẫu"]
+    },
+    {
+      "id": "toan12-b18-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hộp có 4 quả đỏ, 3 quả trắng và 2 quả xanh. Rút ngẫu nhiên lần lượt 3 quả không hoàn lại. Áp dụng công thức nhân cho ba biến cố, xác suất để cả ba quả rút được đều màu đỏ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{64}{729}$." },
+        { "key": "B", "text": "$\\dfrac{1}{6}$." },
+        { "key": "C", "text": "$\\dfrac{1}{21}$." },
+        { "key": "D", "text": "$\\dfrac{3}{28}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Gọi $D_1,D_2,D_3$ là các biến cố \"quả thứ $i$ đỏ\". Khi đó $P(D_1)=\\dfrac{4}{9}$, $P(D_2\\mid D_1)=\\dfrac{3}{8}$, $P(D_3\\mid D_1\\cap D_2)=\\dfrac{2}{7}$, nên $P=\\dfrac{4}{9}\\cdot\\dfrac{3}{8}\\cdot\\dfrac{2}{7}=\\dfrac{1}{21}$. Phương án A là lỗi coi ba lần rút độc lập như có hoàn lại $\\left(\\dfrac{4}{9}\\right)^3$, phương án D là kết quả khi đã biết chắc quả đầu tiên đỏ.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["công thức nhân", "nhiều giai đoạn"]
+    },
+    {
+      "id": "toan12-b18-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Khối 12 của một trường có 300 học sinh, trong đó 160 nữ và 140 nam; có 60 nữ học giỏi và 40 nam học giỏi. Chọn ngẫu nhiên một học sinh khối 12. Biết học sinh đó học giỏi, tính xác suất để học sinh đó là nam.",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{2}{5}$." },
+        { "key": "B", "text": "$\\dfrac{2}{7}$." },
+        { "key": "C", "text": "$\\dfrac{2}{15}$." },
+        { "key": "D", "text": "$\\dfrac{1}{3}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tổng số học sinh giỏi là $60+40=100$, trong đó có 40 nam, nên khi rút gọn không gian mẫu xuống tập 100 học sinh giỏi ta được $P=\\dfrac{40}{100}=\\dfrac{2}{5}$. Gọi $G$ là biến cố \"học giỏi\" và $N$ là biến cố \"là nam\" thì phương án B chính là $P(G\\mid N)=\\dfrac{40}{140}$, tức nhầm chiều của xác suất có điều kiện. Phương án C là lỗi lấy $\\dfrac{40}{300}=P(G\\cap N)$ và phương án D là lỗi lấy tỉ số $\\dfrac{100}{300}$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["số liệu hai chiều", "xác suất có điều kiện"]
+    },
+    {
+      "id": "toan12-b18-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một đề thi có hai câu. Xác suất để một học sinh làm đúng câu 1 là $0{,}8$ và xác suất để bạn đó làm đúng cả hai câu là $0{,}6$. Tính xác suất để bạn đó làm đúng câu 2 với điều kiện đã làm đúng câu 1.",
+      "options": [
+        { "key": "A", "text": "$0{,}6$." },
+        { "key": "B", "text": "$0{,}48$." },
+        { "key": "C", "text": "$\\dfrac{4}{3}$." },
+        { "key": "D", "text": "$\\dfrac{3}{4}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Gọi $C_1$, $C_2$ là biến cố làm đúng câu 1 và câu 2. Ta có $P(C_1)=0{,}8$ và $P(C_1\\cap C_2)=0{,}6$, nên $P(C_2\\mid C_1)=\\dfrac{0{,}6}{0{,}8}=\\dfrac{3}{4}$. Phương án A là lỗi giữ nguyên $P(C_1\\cap C_2)$, phương án B là lỗi coi hai câu độc lập và nhân $0{,}8\\cdot 0{,}6$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["định nghĩa", "bài toán nhiều giai đoạn"]
+    },
+    {
+      "id": "toan12-b18-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hộp có 4 quả đỏ và 6 quả xanh. Rút ngẫu nhiên đồng thời 3 quả. Biết rằng trong ba quả rút ra có ít nhất một quả đỏ, tính xác suất để có đúng hai quả đỏ.",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{3}{10}$." },
+        { "key": "B", "text": "$\\dfrac{9}{25}$." },
+        { "key": "C", "text": "$\\dfrac{3}{5}$." },
+        { "key": "D", "text": "$\\dfrac{5}{6}$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tổng số cách rút là $C_{10}^3=120$. Số cách rút có đúng 2 đỏ là $C_4^2\\cdot C_6^1=6\\cdot 6=36$. Số cách rút không có quả đỏ nào là $C_6^3=20$, nên số cách có ít nhất một quả đỏ là $120-20=100$. Vậy $P=\\dfrac{36}{100}=\\dfrac{9}{25}$; phương án C là đáp số của biến cố \"có đúng một quả đỏ\" còn phương án A là $\\dfrac{36}{120}$ chưa chia cho điều kiện.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tổ hợp", "biến cố \"ít nhất một\""]
+    },
+    {
+      "id": "toan12-b18-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Bạn An làm được một bài toán với xác suất $\\dfrac{1}{2}$, bạn Bình làm được bài đó với xác suất $\\dfrac{2}{3}$, và hai bạn làm việc độc lập. Biết rằng có ít nhất một trong hai bạn làm được bài toán, tính xác suất để bạn An làm được.",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{3}{5}$." },
+        { "key": "B", "text": "$\\dfrac{1}{2}$." },
+        { "key": "C", "text": "$\\dfrac{2}{3}$." },
+        { "key": "D", "text": "$\\dfrac{5}{6}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Xác suất không bạn nào làm được là $\\left(1-\\dfrac{1}{2}\\right)\\left(1-\\dfrac{2}{3}\\right)=\\dfrac{1}{6}$, nên xác suất có ít nhất một bạn làm được là $P(B)=\\dfrac{5}{6}$. Biến cố $A$ \"An làm được\" luôn nằm trong biến cố $B$, do đó $P(A\\cap B)=P(A)=\\dfrac{1}{2}$ và $P(A\\mid B)=\\dfrac{1/2}{5/6}=\\dfrac{3}{5}$. Phương án B là lỗi coi điều kiện \"có ít nhất một bạn làm được\" không ảnh hưởng tới An, tức coi hai biến cố này độc lập.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["biến cố độc lập", "xác suất có điều kiện"]
+    },
+    {
+      "id": "toan12-b18-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b18-xac-suat-co-dieu-kien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hộp có 2 quả đỏ và 3 quả xanh. Rút ngẫu nhiên lần lượt 2 quả có hoàn lại. Biết rằng có ít nhất một quả đỏ được rút ra, tính xác suất để quả rút ở lần thứ hai là quả đỏ.",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{2}{5}$." },
+        { "key": "B", "text": "$\\dfrac{4}{25}$." },
+        { "key": "C", "text": "$\\dfrac{5}{8}$." },
+        { "key": "D", "text": "$\\dfrac{1}{4}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Không gian mẫu có $5\\cdot 5=25$ kết quả. Số kết quả có ít nhất một quả đỏ là $25-3\\cdot 3=16$; số kết quả mà lần hai đỏ (tự động thỏa điều kiện) là $5\\cdot 2=10$. Vậy $P=\\dfrac{10}{16}=\\dfrac{5}{8}$. Phương án A là lỗi $P=\\dfrac{2}{5}$ do coi biến cố \"ít nhất một quả đỏ\" không ảnh hưởng tới lần rút thứ hai, phương án D là đáp số của biến cố \"cả hai quả đều đỏ\".",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["có hoàn lại", "nhiều giai đoạn"]
+    }
+  ]
+}

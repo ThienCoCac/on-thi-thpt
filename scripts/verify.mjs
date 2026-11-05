@@ -26,7 +26,7 @@ const SUITES = [
   { id: 'features', file: 'su/verify-features.js', title: 'Luyện tập, tiến độ, sổ tay câu sai', lane: 'shared' },
   { id: 'van', file: 'su/verify-van.js', title: 'Đề Ngữ văn 12', lane: 'subject' },
   { id: 'ktpl', file: 'ktpl/verify-ktpl.js', title: 'Đề Kinh tế và Pháp luật 12', lane: 'subject' },
-  { id: 'anh', file: 'english/verify-anh.js', title: 'Đề Tiếng Anh 12', lane: 'subject' },
+  { id: 'anh', file: 'english/verify-anh.js', title: 'Đề Tiếng Anh 11–12', lane: 'subject' },
   { id: 'su', file: 'su/verify-su.js', title: 'Đề Lịch sử 12', lane: 'subject' },
   { id: 'mini', file: 'su/verify-mini-exam.js', title: 'Phiên đề con (10/20/30 câu)', lane: 'subject' },
   { id: 'vact', file: 'vact/verify-vact.js', title: 'Đề Đánh giá năng lực V-ACT', lane: 'subject' },

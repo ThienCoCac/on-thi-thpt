@@ -53,6 +53,7 @@ export interface ExamContent {
   slug: string;
   description: string;
   subject: string;
+  grade: number;
   type: ExamType;
   durationMinutes: number;
   totalScore: number;
@@ -85,6 +86,7 @@ export interface ExamSummary {
   publishedAt: Date;
   updatedAt: Date;
   subject: SubjectRef;
+  grade: number;
   questionCount: number;
   difficulty: Difficulty;
 }
@@ -124,6 +126,7 @@ export interface SubjectSummary {
 export interface ContentStats {
   exams: number;
   questions: number;
+  grades: { grade: number; exams: number }[];
 }
 
 // Nội dung mang Markdown/LaTeX thô: công thức render trên máy người dùng, nhờ đó file dữ liệu

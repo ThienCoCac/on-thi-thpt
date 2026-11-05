@@ -1,13 +1,13 @@
 # Ôn Thi THPT
 
-Website tĩnh luyện thi tốt nghiệp THPT cho học sinh lớp 12: đề thi theo cấu trúc thật, lời giải theo hướng tư duy, làm bài và chấm điểm ngay trên trình duyệt.
+Website tĩnh luyện thi tốt nghiệp THPT cho học sinh cấp 3: đề thi theo cấu trúc thật, lời giải theo hướng tư duy, làm bài và chấm điểm ngay trên trình duyệt.
 
 **Không có backend.** Toàn bộ đề thi và câu hỏi nằm trong thư mục `content/`. Site được build thành HTML tĩnh (`out/`) và deploy thẳng lên Cloudflare Workers — không cần database, không cần đăng nhập, không cần biến môi trường bí mật.
 
 ## Tính năng
 
 - **Trang chủ**: đề nổi bật, đề mới cập nhật và số liệu nội dung.
-- **Danh sách đề** (`/de-thi`): lọc theo môn, loại đề, năm và từ khóa; phân trang — tất cả xử lý ở trình duyệt.
+- **Danh sách đề** (`/de-thi`): lọc theo lớp, môn, loại đề, năm và từ khóa; phân trang — tất cả xử lý ở trình duyệt.
 - **Chi tiết đề**: cấu trúc từng phần thi, phân bố độ khó, chuyên đề.
 - **Làm bài** (`/de-thi/[slug]/lam-bai`): đồng hồ đếm ngược chạy tại máy, tự nộp khi hết giờ, tự lưu bản nháp vào `localStorage`, nộp bài là chấm điểm ngay và hiện lời giải từng câu.
 - **SEO**: canonical, Open Graph, Twitter Card, JSON-LD (WebSite, EducationalOrganization, BreadcrumbList, LearningResource), `sitemap.xml`, `robots.txt`, Web App Manifest.

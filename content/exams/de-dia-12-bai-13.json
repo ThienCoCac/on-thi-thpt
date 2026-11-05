@@ -1,0 +1,1504 @@
+{
+  "id": "de-dia-12-bai-13",
+  "title": "Đề ôn tập Địa lí 12 – Bài 13: Vấn đề phát triển ngành lâm nghiệp và ngành thuỷ sản",
+  "slug": "de-dia-12-bai-13",
+  "description": "Đề ôn tập 40 câu theo Bài 13, giúp học sinh củng cố tài nguyên rừng, các biện pháp bảo vệ và phát triển rừng cùng điều kiện, chuyển dịch cơ cấu và định hướng phát triển bền vững ngành thuỷ sản. Phần I gồm 35 câu trắc nghiệm bốn phương án, Phần II gồm 5 câu chọn các phát biểu đúng.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B13",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b13-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Loại rừng nào ở nước ta có chức năng chủ yếu là chắn gió, chắn cát bay, chống xói mòn và bảo vệ môi trường sinh thái?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rừng đặc dụng"
+        },
+        {
+          "key": "B",
+          "text": "Rừng phòng hộ"
+        },
+        {
+          "key": "C",
+          "text": "Rừng sản xuất"
+        },
+        {
+          "key": "D",
+          "text": "Rừng trồng tập trung"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Rừng phòng hộ có chức năng chính là chắn gió, chắn cát bay, chắn sóng, chống xói mòn và bảo vệ môi trường sinh thái. Rừng đặc dụng (A) nhằm bảo tồn thiên nhiên và cảnh quan; rừng sản xuất (C) để khai thác gỗ, lâm sản; rừng trồng tập trung (D) là hình thức gây trồng, không phải cách phân loại theo công dụng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "các loại rừng",
+        "rừng phòng hộ"
+      ]
+    },
+    {
+      "id": "dia12-b13-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Vườn quốc gia và khu bảo tồn thiên nhiên ở nước ta được xếp vào loại rừng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rừng đặc dụng"
+        },
+        {
+          "key": "B",
+          "text": "Rừng phòng hộ"
+        },
+        {
+          "key": "C",
+          "text": "Rừng sản xuất"
+        },
+        {
+          "key": "D",
+          "text": "Rừng trồng lấy gỗ"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Vườn quốc gia và khu bảo tồn thiên nhiên thuộc rừng đặc dụng, dùng để bảo tồn nguồn gen, hệ sinh thái và giá trị cảnh quan, khoa học. Rừng phòng hộ (B) bảo vệ môi trường, chắn gió, chắn cát; rừng sản xuất (C) cung cấp gỗ; rừng trồng (D) chỉ phân theo cách hình thành.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "rừng đặc dụng",
+        "bảo tồn thiên nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b13-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Rừng sản xuất ở nước ta có nhiệm vụ chủ yếu nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo vệ cảnh quan và các di tích lịch sử – văn hoá"
+        },
+        {
+          "key": "B",
+          "text": "Chắn gió, chắn cát, phòng chống thiên tai"
+        },
+        {
+          "key": "C",
+          "text": "Nghiên cứu khoa học và bảo tồn nguồn gen"
+        },
+        {
+          "key": "D",
+          "text": "Cung cấp gỗ và lâm sản nguyên liệu cho sản xuất và đời sống"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Rừng sản xuất được khai thác, gây trồng để cung cấp gỗ và lâm sản nguyên liệu cho sản xuất và đời sống. Các nhiệm vụ bảo vệ cảnh quan, di tích (A), chắn gió chắn cát (B), nghiên cứu khoa học và bảo tồn nguồn gen (C) là của rừng đặc dụng và rừng phòng hộ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "rừng sản xuất",
+        "lâm nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b13-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo mục đích sử dụng, tài nguyên rừng ở nước ta được chia thành ba loại nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rừng tự nhiên và rừng trồng"
+        },
+        {
+          "key": "B",
+          "text": "Rừng lá rộng, rừng lá kim và rừng hỗn giao"
+        },
+        {
+          "key": "C",
+          "text": "Rừng phòng hộ, rừng đặc dụng và rừng sản xuất"
+        },
+        {
+          "key": "D",
+          "text": "Rừng đầu nguồn, rừng ven biển và rừng trên đảo"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Theo mục đích sử dụng, rừng nước ta gồm rừng phòng hộ, rừng đặc dụng và rừng sản xuất. Cách chia tự nhiên/rừng trồng (A) hay lá rộng/lá kim (B) phân theo nguồn gốc và thành phần loài; đầu nguồn/ven biển/trên đảo (D) phân theo vị trí.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "phân loại rừng",
+        "tài nguyên rừng"
+      ]
+    },
+    {
+      "id": "dia12-b13-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Rừng được coi là “lá phổi xanh” của Trái Đất vì lí do nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hấp thụ khí cacbônic và thải khí ôxi, giúp điều hoà khí hậu"
+        },
+        {
+          "key": "B",
+          "text": "Cung cấp một lượng gỗ rất lớn cho ngành xây dựng"
+        },
+        {
+          "key": "C",
+          "text": "Ngăn chặn hoàn toàn mọi thảm hoạ thiên nhiên"
+        },
+        {
+          "key": "D",
+          "text": "Tạo ra phần lớn việc làm cho dân cư thành thị"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Rừng được ví là “lá phổi xanh” vì quá trình quang hợp hấp thụ khí cacbônic và thải khí ôxi, giúp điều hoà khí hậu. Rừng không cung cấp ôxi cho thành thị (D), không ngăn chặn hoàn toàn thiên tai (C), và giá trị gỗ (B) không phải lí do gọi rừng là lá phổi xanh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "vai trò của rừng",
+        "giá trị sinh thái"
+      ]
+    },
+    {
+      "id": "dia12-b13-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoạt động nào sau đây KHÔNG phải là nguyên nhân làm suy giảm tài nguyên rừng ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đốt phá rừng làm nương rẫy"
+        },
+        {
+          "key": "B",
+          "text": "Khai thác rừng quá mức, thiếu kiểm soát"
+        },
+        {
+          "key": "C",
+          "text": "Cháy rừng và hậu quả của chiến tranh huỷ diệt"
+        },
+        {
+          "key": "D",
+          "text": "Trồng rừng phủ xanh đất trống, đồi trọc"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Trồng rừng phủ xanh đất trống, đồi trọc là biện pháp phục hồi, làm tăng diện tích rừng nên không phải nguyên nhân suy giảm. Đốt phá làm nương rẫy (A), khai thác quá mức (B), cháy rừng và chiến tranh huỷ diệt (C) đều làm giảm diện tích và chất lượng rừng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "suy giảm rừng",
+        "bảo vệ rừng"
+      ]
+    },
+    {
+      "id": "dia12-b13-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Chính sách giao đất, giao rừng cho các tổ chức và hộ dân ở nước ta nhằm mục đích chủ yếu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đẩy mạnh khai thác gỗ để xuất khẩu trước mắt"
+        },
+        {
+          "key": "B",
+          "text": "Tạo “rừng có chủ”, gắn trách nhiệm người dân với bảo vệ và phát triển rừng"
+        },
+        {
+          "key": "C",
+          "text": "Chuyển toàn bộ diện tích rừng sang trồng cây nông nghiệp"
+        },
+        {
+          "key": "D",
+          "text": "Xoá bỏ các vườn quốc gia và khu bảo tồn thiên nhiên"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Giao đất, giao rừng trao quyền quản lí và sử dụng rừng cho tổ chức, hộ dân, tạo “rừng có chủ” để người dân gắn trách nhiệm bảo vệ và phát triển rừng. Chính sách này không nhằm đẩy mạnh khai thác gỗ (A), không chuyển rừng sang đất nông nghiệp (C) và không xoá vườn quốc gia (D).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "giao đất giao rừng",
+        "bảo vệ rừng"
+      ]
+    },
+    {
+      "id": "dia12-b13-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo vệ rừng đầu nguồn có ý nghĩa quan trọng nhất trong việc nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở rộng nhanh diện tích cây công nghiệp lâu năm"
+        },
+        {
+          "key": "B",
+          "text": "Phát triển nuôi trồng thuỷ sản nước mặn"
+        },
+        {
+          "key": "C",
+          "text": "Giữ nguồn nước, hạn chế lũ quét và chống xói mòn đất"
+        },
+        {
+          "key": "D",
+          "text": "Tăng nhanh đàn gia súc ăn cỏ"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Rừng đầu nguồn giữ đất, giữ nước, hạn chế lũ quét, lũ ống, chống xói mòn và điều tiết dòng chảy cho sông suối. Ý nghĩa này không nằm ở mở rộng cây công nghiệp (A), nuôi thuỷ sản nước mặn (B) hay tăng đàn gia súc (D).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "rừng đầu nguồn",
+        "phòng chống thiên tai"
+      ]
+    },
+    {
+      "id": "dia12-b13-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Rừng ngập mặn ven biển nước ta có giá trị sinh thái nổi bật vì lí do nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chắn sóng, chống xói lở bờ biển và là nơi sinh sản của nhiều loài thuỷ, hải sản"
+        },
+        {
+          "key": "B",
+          "text": "Cung cấp gỗ quý nhóm I cho ngành đóng tàu"
+        },
+        {
+          "key": "C",
+          "text": "Có thể trồng được ở mọi vùng khí hậu trong cả nước"
+        },
+        {
+          "key": "D",
+          "text": "Chỉ có tác dụng cung cấp củi cho dân cư"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Rừng ngập mặn chắn sóng, giữ phù sa, chống xói lở bờ biển và là nơi sinh sản, ươm con của nhiều loài tôm, cua, cá. Rừng ngập mặn không cho gỗ nhóm I quý (B), không trồng được ở mọi nơi (C) và không chỉ để lấy củi (D).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "rừng ngập mặn",
+        "giá trị sinh thái"
+      ]
+    },
+    {
+      "id": "dia12-b13-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Các lâm sản ngoài gỗ như tre, nứa, nấm, quế, song mây chủ yếu mang lại giá trị nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguyên liệu cho công nghiệp luyện kim"
+        },
+        {
+          "key": "B",
+          "text": "Nhiên liệu hoá thạch để phát điện"
+        },
+        {
+          "key": "C",
+          "text": "Nguồn gen quý để thành lập vườn quốc gia"
+        },
+        {
+          "key": "D",
+          "text": "Nguồn thu nhập, cải thiện đời sống cho cư dân vùng rừng"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Tre, nứa, nấm, quế, song mây là lâm sản ngoài gỗ, tạo nguồn thu và cải thiện đời sống cho cư dân vùng rừng, góp phần giảm áp lực khai thác gỗ. Chúng không phải nguyên liệu luyện kim (A), nhiên liệu hoá thạch (B) hay đối tượng để lập vườn quốc gia (C).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "lâm sản ngoài gỗ",
+        "giá trị kinh tế"
+      ]
+    },
+    {
+      "id": "dia12-b13-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngành thuỷ sản nước ta có điều kiện phát triển thuận lợi trước hết nhờ yếu tố nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Địa hình phần lớn là đồng bằng phù sa"
+        },
+        {
+          "key": "B",
+          "text": "Đường bờ biển dài, nhiều ngư trường và trữ lượng hải sản dồi dào"
+        },
+        {
+          "key": "C",
+          "text": "Dân cư phân bố thưa thớt ở nông thôn"
+        },
+        {
+          "key": "D",
+          "text": "Khí hậu mang tính chất ôn đới mát mẻ quanh năm"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Bờ biển dài cùng trữ lượng hải sản dồi dào và nhiều ngư trường lớn là lợi thế tự nhiên hàng đầu cho khai thác thuỷ sản. Địa hình đồng bằng (A), dân cư thưa (C) và khí hậu ôn đới (D) đều không đúng với thực tế nước ta.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "ngành thuỷ sản",
+        "điều kiện phát triển"
+      ]
+    },
+    {
+      "id": "dia12-b13-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong ngành thuỷ sản, “ngư trường” được hiểu là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng rừng đầu nguồn có nhiều động vật quý hiếm"
+        },
+        {
+          "key": "B",
+          "text": "Khu vực chuyên ươm giống thuỷ sản nước ngọt"
+        },
+        {
+          "key": "C",
+          "text": "Vùng biển tập trung nhiều tôm, cá, thuận lợi cho đánh bắt"
+        },
+        {
+          "key": "D",
+          "text": "Hệ thống cảng cá dùng để tiêu thụ thuỷ sản"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Ngư trường là vùng biển có mật độ tôm, cá tập trung cao, thuận lợi cho tàu cá đánh bắt; chẳng hạn các ngư trường lớn ở vùng biển phía Nam và giữa Biển Đông. Không phải vùng rừng đầu nguồn (A), khu ươm giống nước ngọt (B) hay cảng tiêu thụ (D).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "ngư trường",
+        "khai thác thuỷ sản"
+      ]
+    },
+    {
+      "id": "dia12-b13-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Yếu tố nào sau đây thuộc nhóm điều kiện tự nhiên – tài nguyên thiên nhiên ảnh hưởng tới ngành thuỷ sản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trữ lượng hải sản và hệ thống ngư trường"
+        },
+        {
+          "key": "B",
+          "text": "Cơ sở dịch vụ hậu cần nghề cá"
+        },
+        {
+          "key": "C",
+          "text": "Thị trường tiêu thụ trong và ngoài nước"
+        },
+        {
+          "key": "D",
+          "text": "Chính sách phát triển ngành thuỷ sản"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Trữ lượng hải sản và hệ thống ngư trường thuộc nhóm điều kiện tự nhiên – tài nguyên. Cơ sở hậu cần (B), thị trường (C) và chính sách (D) là các điều kiện kinh tế – xã hội.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "điều kiện phát triển",
+        "ngành thuỷ sản"
+      ]
+    },
+    {
+      "id": "dia12-b13-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "So với khai thác, việc đẩy mạnh nuôi trồng thuỷ sản KHÔNG mang lại ý nghĩa nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ động được nguồn nguyên liệu thuỷ sản"
+        },
+        {
+          "key": "B",
+          "text": "Giảm áp lực khai thác quá mức ở vùng biển gần bờ"
+        },
+        {
+          "key": "C",
+          "text": "Tạo hàng hoá xuất khẩu có giá trị"
+        },
+        {
+          "key": "D",
+          "text": "Làm tăng nhanh trữ lượng hải sản tự nhiên ngoài biển"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Nuôi trồng thuỷ sản giúp chủ động nguyên liệu (A), giảm áp lực khai thác ven bờ (B) và tạo hàng xuất khẩu (C), nhưng không thể làm tăng trữ lượng hải sản tự nhiên ngoài biển, vốn thuộc nguồn lợi khai thác. Vì vậy D là ý sai.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "nuôi trồng thuỷ sản",
+        "chuyển dịch cơ cấu"
+      ]
+    },
+    {
+      "id": "dia12-b13-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta có thể nuôi trồng thuỷ sản đa dạng ở cả môi trường nước mặn, nước lợ và nước ngọt chủ yếu nhờ",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hệ thống giao thông thuận lợi tới mọi vùng"
+        },
+        {
+          "key": "B",
+          "text": "Người dân có nhiều kinh nghiệm làm nông nghiệp"
+        },
+        {
+          "key": "C",
+          "text": "Mạng lưới sông ngòi, ao hồ dày đặc cùng vùng ven biển, bãi triều rộng"
+        },
+        {
+          "key": "D",
+          "text": "Nền công nghiệp chế biến đã hiện đại đồng đều ở các vùng"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Nước ta có nhiều sông, suối, ao, hồ và vùng ven biển, bãi triều, đầm phá rộng nên nuôi được thuỷ sản ở cả ba môi trường nước mặn, lợ và ngọt. Giao thông (A), kinh nghiệm (B), công nghiệp chế biến (D) không phải căn cứ chính cho sự đa dạng môi trường nuôi.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "nuôi trồng thuỷ sản",
+        "điều kiện tự nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b13-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Vùng nào sau đây dẫn đầu cả nước về nuôi trồng và khai thác thuỷ sản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trung du và miền núi phía Bắc"
+        },
+        {
+          "key": "B",
+          "text": "Đồng bằng sông Cửu Long"
+        },
+        {
+          "key": "C",
+          "text": "Đồng bằng sông Hồng"
+        },
+        {
+          "key": "D",
+          "text": "Bắc Trung Bộ"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Đồng bằng sông Cửu Long có mạng lưới sông ngòi, kênh rạch chằng chịt, diện tích mặt nước và bãi triều lớn nhất cả nước nên dẫn đầu về nuôi trồng và khai thác thuỷ sản. Các vùng Trung du và miền núi phía Bắc (A), Đồng bằng sông Hồng (C), Bắc Trung Bộ (D) có quy mô nhỏ hơn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "thuỷ sản",
+        "đồng bằng sông cửu long"
+      ]
+    },
+    {
+      "id": "dia12-b13-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Khai thác thuỷ sản xa bờ ở nước ta mang lại lợi ích chủ yếu nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nâng cao sản lượng, giảm áp lực khai thác ven bờ và góp phần khẳng định chủ quyền biển, đảo"
+        },
+        {
+          "key": "B",
+          "text": "Thay thế hoàn toàn hoạt động nuôi trồng thuỷ sản"
+        },
+        {
+          "key": "C",
+          "text": "Làm giảm kim ngạch xuất khẩu nông sản của cả nước"
+        },
+        {
+          "key": "D",
+          "text": "Giúp mở rộng diện tích rừng ngập mặn"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Khai thác xa bờ cho phép đánh bắt ở vùng nước sâu, tăng sản lượng, đồng thời giảm áp lực khai thác ven bờ và góp phần khẳng định sự hiện diện kinh tế trên vùng biển, đảo của Tổ quốc. Không thể thay thế nuôi trồng (B), không làm giảm xuất khẩu nông sản (C) và không mở rộng rừng ngập mặn (D).",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "khai thác xa bờ",
+        "chủ quyền biển đảo"
+      ]
+    },
+    {
+      "id": "dia12-b13-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Dịch vụ hậu cần nghề cá (cảng cá, chợ đầu mối, cơ sở chế biến, cung ứng nhiên liệu) có vai trò chủ yếu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm giảm giá trị thuỷ sản sau thu hoạch"
+        },
+        {
+          "key": "B",
+          "text": "Thay thế hoàn toàn hoạt động đánh bắt trên biển"
+        },
+        {
+          "key": "C",
+          "text": "Thu hẹp thị trường xuất khẩu thuỷ sản"
+        },
+        {
+          "key": "D",
+          "text": "Gắn khai thác với bảo quản, chế biến và tiêu thụ, nâng cao hiệu quả, giảm thất thoát sau thu hoạch"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Hậu cần nghề cá nối khai thác với bảo quản, chế biến và tiêu thụ, nhờ đó nâng cao giá trị và giảm thất thoát sau thu hoạch. Nó không làm giảm giá trị (A), không thay thế đánh bắt (B), không thu hẹp thị trường (C).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "hậu cần nghề cá",
+        "ngành thuỷ sản"
+      ]
+    },
+    {
+      "id": "dia12-b13-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Yêu cầu chống khai thác hải sản bất hợp pháp, không báo cáo và không theo quy định (IUU) đặt ra nhiệm vụ chủ yếu nào đối với ngành thuỷ sản Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đóng mới thêm thật nhiều tàu công suất lớn"
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng diện tích ao, hồ nuôi trồng thuỷ sản nước ngọt"
+        },
+        {
+          "key": "C",
+          "text": "Quản lí, giám sát hoạt động khai thác, chống khai thác bất hợp pháp để phát triển bền vững"
+        },
+        {
+          "key": "D",
+          "text": "Chuyển toàn bộ lao động thuỷ sản sang ngành nghề khác"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Yêu cầu chống khai thác bất hợp pháp, không báo cáo và không theo quy định (IUU) buộc ngành thuỷ sản phải quản lí, giám sát đội tàu và hoạt động khai thác để phát triển bền vững. Đóng thêm tàu (A), mở rộng ao nuôi (B) hay chuyển hết lao động sang ngành khác (D) không giải quyết yêu cầu này.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "iuu",
+        "phát triển bền vững"
+      ]
+    },
+    {
+      "id": "dia12-b13-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Định hướng nào sau đây thể hiện rõ nhất việc phát triển ngành thuỷ sản theo hướng bền vững?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng cường khai thác bằng mọi hình thức để đạt sản lượng cao nhất"
+        },
+        {
+          "key": "B",
+          "text": "Kết hợp khai thác hợp lí với bảo vệ, tái tạo nguồn lợi và đẩy mạnh nuôi trồng, chế biến"
+        },
+        {
+          "key": "C",
+          "text": "Chỉ tập trung xuất khẩu thô, bỏ qua thị trường trong nước"
+        },
+        {
+          "key": "D",
+          "text": "Mở rộng đánh bắt ở vùng biển gần bờ bất chấp mùa sinh sản"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Phát triển bền vững là kết hợp khai thác hợp lí đi đôi với bảo vệ, tái tạo nguồn lợi và đẩy mạnh nuôi trồng, chế biến gắn với thị trường. Khai thác bằng mọi giá (A), chỉ xuất khẩu thô (C) và đánh bắt bất chấp mùa sinh sản (D) đều làm cạn kiệt nguồn lợi.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "phát triển bền vững",
+        "ngành thuỷ sản"
+      ]
+    },
+    {
+      "id": "dia12-b13-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhóm đối tượng nào sau đây là các loài thuỷ sản nuôi chủ lực, tạo khối lượng hàng hoá lớn và giá trị xuất khẩu cao ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tôm và các loại cá nước ngọt như cá tra, cá ba sa, cá rô phi"
+        },
+        {
+          "key": "B",
+          "text": "Chỉ các loài cá nước ngọt bản địa có kích thước nhỏ"
+        },
+        {
+          "key": "C",
+          "text": "Các loài chim biển và rùa biển"
+        },
+        {
+          "key": "D",
+          "text": "Rừng ngập mặn và các bãi cỏ biển"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Tôm và các loài cá như cá tra, cá ba sa, cá rô phi là đối tượng nuôi chủ lực, cung cấp lượng hàng hoá lớn cho xuất khẩu. Các loài bản địa nhỏ (B) không tạo khối lượng hàng hoá lớn; chim biển, rùa biển (C) được bảo vệ chứ không nuôi; rừng ngập mặn, cỏ biển (D) là hệ sinh thái, không phải đối tượng nuôi.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "đối tượng nuôi chủ lực",
+        "nuôi trồng thuỷ sản"
+      ]
+    },
+    {
+      "id": "dia12-b13-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong những năm gần đây, cơ cấu sản lượng thuỷ sản nước ta chuyển dịch theo hướng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng dần tỉ trọng khai thác, giảm dần nuôi trồng"
+        },
+        {
+          "key": "B",
+          "text": "Chỉ phát triển khai thác hải sản, không nuôi trồng"
+        },
+        {
+          "key": "C",
+          "text": "Tăng nhanh tỉ trọng nuôi trồng, giảm dần tỉ trọng khai thác"
+        },
+        {
+          "key": "D",
+          "text": "Không có sự thay đổi giữa hai bộ phận khai thác và nuôi trồng"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Cơ cấu sản lượng chuyển dịch theo hướng tăng nhanh nuôi trồng và giảm dần tỉ trọng khai thác để chủ động nguyên liệu và bảo vệ nguồn lợi. Hướng A ngược thực tế; B và D bỏ qua vai trò ngày càng lớn của nuôi trồng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "chuyển dịch cơ cấu",
+        "thuỷ sản"
+      ]
+    },
+    {
+      "id": "dia12-b13-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Khai thác thuỷ sản ở vùng biển gần bờ của nước ta hiện nay đang gặp vấn đề chủ yếu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trữ lượng hải sản ven bờ ngày càng tăng lên"
+        },
+        {
+          "key": "B",
+          "text": "Hoàn toàn không có thị trường tiêu thụ"
+        },
+        {
+          "key": "C",
+          "text": "Giao thông đất liền quá kém, không đưa được sản phẩm đi"
+        },
+        {
+          "key": "D",
+          "text": "Nguồn lợi ven bờ có dấu hiệu cạn kiệt do khai thác quá mức"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Việc tập trung quá nhiều tàu thuyền đánh bắt gần bờ khiến nguồn lợi ven bờ suy giảm, có dấu hiệu cạn kiệt. A sai vì trữ lượng giảm chứ không tăng; B và C phóng đại khó khăn, thực tế thị trường và giao thông vẫn hoạt động.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "khai thác gần bờ",
+        "nguồn lợi thuỷ sản"
+      ]
+    },
+    {
+      "id": "dia12-b13-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao đẩy mạnh nuôi trồng thuỷ sản được coi là xu hướng tất yếu của ngành thuỷ sản nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì khai thác xa bờ là hoàn toàn không thể thực hiện"
+        },
+        {
+          "key": "B",
+          "text": "Vì nguồn lợi tự nhiên có hạn, khai thác quá mức sẽ cạn kiệt, còn nuôi trồng giúp chủ động sản lượng"
+        },
+        {
+          "key": "C",
+          "text": "Vì nuôi trồng không cần vốn và không cần kĩ thuật"
+        },
+        {
+          "key": "D",
+          "text": "Vì thị trường chỉ chấp nhận thuỷ sản khai thác từ tự nhiên"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Nguồn lợi tự nhiên có giới hạn nên khai thác quá mức sẽ cạn kiệt, trong khi nuôi trồng chủ động được sản lượng và bảo vệ nguồn lợi. A, C, D đều sai: khai thác xa bờ vẫn làm được, nuôi trồng cần vốn và kĩ thuật, thị trường chấp nhận cả thuỷ sản nuôi.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "nuôi trồng thuỷ sản",
+        "xu hướng phát triển"
+      ]
+    },
+    {
+      "id": "dia12-b13-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Vùng Duyên hải Nam Trung Bộ thuận lợi cho khai thác hải sản chủ yếu nhờ điều kiện nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bờ biển dài, nhiều vụng, vịnh và bãi tôm, bãi cá, gần các ngư trường lớn"
+        },
+        {
+          "key": "B",
+          "text": "Diện tích ao, hồ nước ngọt nội địa lớn nhất cả nước"
+        },
+        {
+          "key": "C",
+          "text": "Khí hậu ôn đới lạnh giá quanh năm"
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ dân cư đều chuyển sang làm nghề rừng"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Duyên hải Nam Trung Bộ có bờ biển dài, nhiều vụng, vịnh, bãi tôm, bãi cá và gần các ngư trường lớn nên nổi bật về khai thác hải sản. B không phải thế mạnh chính của vùng; C sai về khí hậu; D sai vì đây là vùng trọng điểm nghề cá, không làm nghề rừng thay thế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "duyên hải nam trung bộ",
+        "khai thác hải sản"
+      ]
+    },
+    {
+      "id": "dia12-b13-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát triển công nghiệp chế biến và bảo quản sau thu hoạch đối với thuỷ sản có tác dụng chủ yếu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm giảm thời gian sử dụng của sản phẩm"
+        },
+        {
+          "key": "B",
+          "text": "Buộc phải tiêu thụ toàn bộ sản phẩm ở dạng tươi sống"
+        },
+        {
+          "key": "C",
+          "text": "Nâng cao giá trị, chất lượng và mở rộng thị trường xuất khẩu của sản phẩm"
+        },
+        {
+          "key": "D",
+          "text": "Khiến nguồn lợi thuỷ sản cạn kiệt nhanh hơn"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Chế biến và bảo quản giúp tăng giá trị, giữ chất lượng và mở rộng thị trường, nhất là xuất khẩu. A ngược lại (chế biến kéo dài thời gian sử dụng); B sai vì sản phẩm được chế biến chứ không chỉ tươi sống; D không liên quan đến khâu chế biến.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "chế biến thuỷ sản",
+        "bảo quản"
+      ]
+    },
+    {
+      "id": "dia12-b13-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị của rừng đối với phát triển du lịch ở nước ta thể hiện chủ yếu ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rừng chỉ có ý nghĩa sản xuất gỗ, không phục vụ du lịch"
+        },
+        {
+          "key": "B",
+          "text": "Rừng làm tăng ô nhiễm và thu hẹp cảnh quan"
+        },
+        {
+          "key": "C",
+          "text": "Rừng khiến cảnh quan thiên nhiên trở nên đơn điệu"
+        },
+        {
+          "key": "D",
+          "text": "Rừng có cảnh quan và hệ sinh thái đa dạng, tạo điều kiện phát triển du lịch sinh thái"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Cảnh quan rừng và hệ sinh thái đa dạng là tài nguyên để phát triển du lịch sinh thái, nghỉ dưỡng. A phủ nhận giá trị du lịch của rừng; B và C mô tả sai, vì rừng làm sạch môi trường và tăng sự đa dạng cảnh quan.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "giá trị của rừng",
+        "du lịch sinh thái"
+      ]
+    },
+    {
+      "id": "dia12-b13-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao rừng được coi là môi trường sống quan trọng nhất của sinh vật trên cạn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì rừng thường chỉ gồm một loài cây trồng duy nhất"
+        },
+        {
+          "key": "B",
+          "text": "Vì rừng tạo nơi ở, nguồn thức ăn và nơi sinh sản cho nhiều loài động vật, thực vật và vi sinh vật"
+        },
+        {
+          "key": "C",
+          "text": "Vì rừng không có khả năng giữ nước và điều hoà khí hậu"
+        },
+        {
+          "key": "D",
+          "text": "Vì mọi động vật hoang dã chỉ sống được ở rừng ngập mặn"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Rừng là hệ sinh thái trên cạn đồ sộ nhất, cung cấp nơi ở, thức ăn và nơi sinh sản cho vô số loài, nên là môi trường sống quan trọng của sinh vật trên cạn. A và C mô tả sai đặc tính rừng; D thu hẹp quá mức vì động vật sống ở nhiều kiểu rừng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "đa dạng sinh học",
+        "vai trò của rừng"
+      ]
+    },
+    {
+      "id": "dia12-b13-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nào sau đây KHÔNG phải là nguyên nhân khiến tài nguyên rừng nước ta vẫn bị suy giảm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Diện tích rừng liên tục tăng nhờ trồng rừng và các biện pháp bảo vệ"
+        },
+        {
+          "key": "B",
+          "text": "Nhu cầu đất canh tác, khai hoang để sản xuất nông nghiệp còn lớn"
+        },
+        {
+          "key": "C",
+          "text": "Tình trạng khai thác và vận chuyển gỗ trái phép"
+        },
+        {
+          "key": "D",
+          "text": "Cháy rừng xảy ra vào mùa khô"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Diện tích rừng tăng nhờ trồng rừng và bảo vệ là kết quả tích cực, không phải nguyên nhân suy giảm. Các ý còn lại đều đúng là nguyên nhân: nhu cầu đất canh tác (B), khai thác gỗ trái phép (C) và cháy rừng mùa khô (D).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "suy giảm rừng",
+        "nguyên nhân"
+      ]
+    },
+    {
+      "id": "dia12-b13-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngành lâm nghiệp cung cấp cho công nghiệp chủ yếu loại nguyên liệu nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các loại quặng kim loại"
+        },
+        {
+          "key": "B",
+          "text": "Sợi tổng hợp cho ngành dệt"
+        },
+        {
+          "key": "C",
+          "text": "Gỗ và lâm sản cho các ngành cưa, xẻ, chế biến đồ gỗ và giấy"
+        },
+        {
+          "key": "D",
+          "text": "Dầu mỏ và khí tự nhiên"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Lâm nghiệp cung cấp gỗ và lâm sản làm nguyên liệu cho công nghiệp chế biến, đồ gỗ, giấy. Quặng kim loại (A), dầu khí (D) thuộc khai khoáng; sợi tổng hợp (B) thuộc công nghiệp hoá chất, không phải sản phẩm của rừng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "lâm nghiệp",
+        "nguyên liệu công nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b13-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo một bảng số liệu giả định, tổng sản lượng thuỷ sản của một tỉnh là 400 nghìn tấn, trong đó nuôi trồng chiếm 65% và phần còn lại là khai thác. Hỏi sản lượng nuôi trồng nhiều hơn sản lượng khai thác bao nhiêu nghìn tấn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "140 nghìn tấn"
+        },
+        {
+          "key": "B",
+          "text": "260 nghìn tấn"
+        },
+        {
+          "key": "C",
+          "text": "60 nghìn tấn"
+        },
+        {
+          "key": "D",
+          "text": "120 nghìn tấn"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Nuôi trồng = 400 × 65% = 260 nghìn tấn; khai thác = 400 − 260 = 140 nghìn tấn; hiệu số = 260 − 140 = 120 nghìn tấn. A là sản lượng khai thác, B là sản lượng nuôi trồng, C tính sai hiệu số.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "tính toán sản lượng",
+        "nuôi trồng khai thác"
+      ]
+    },
+    {
+      "id": "dia12-b13-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao việc bảo vệ và phát triển rừng có ý nghĩa quan trọng đối với ngành thuỷ sản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì rừng cung cấp trực tiếp cá cho các ao nuôi trồng"
+        },
+        {
+          "key": "B",
+          "text": "Vì rừng đầu nguồn giữ nguồn nước, còn rừng ngập mặn chống xói lở và tạo bãi sinh sản cho thuỷ sản"
+        },
+        {
+          "key": "C",
+          "text": "Vì rừng làm tăng nhiệt độ nước biển, giúp cá lớn nhanh"
+        },
+        {
+          "key": "D",
+          "text": "Vì giữa rừng và thuỷ sản hoàn toàn không có mối liên hệ"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Rừng đầu nguồn điều tiết và giữ nguồn nước cho nuôi trồng nước ngọt, rừng ngập mặn chắn sóng, giữ phù sa và là bãi sinh sản của nhiều loài thuỷ, hải sản. A sai vì rừng không cung cấp cá; C sai về cơ chế; D phủ nhận mối liên hệ rõ ràng giữa hai ngành.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "rừng và thuỷ sản",
+        "mối liên hệ ngành"
+      ]
+    },
+    {
+      "id": "dia12-b13-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Giải pháp nào sau đây góp phần phát triển ngành thuỷ sản nước ta theo hướng bền vững?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gắn khai thác với bảo vệ, tái tạo nguồn lợi, phát triển nuôi trồng, chế biến và đầu tư khai thác xa bờ có kiểm soát"
+        },
+        {
+          "key": "B",
+          "text": "Tăng cường các hình thức đánh bắt huỷ diệt để nhanh có sản lượng"
+        },
+        {
+          "key": "C",
+          "text": "Thu hẹp toàn bộ hoạt động nuôi trồng thuỷ sản"
+        },
+        {
+          "key": "D",
+          "text": "Xuất khẩu thuỷ sản ở dạng thô là chủ yếu"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Phát triển bền vững đòi hỏi vừa khai thác hợp lí, bảo vệ nguồn lợi, vừa đẩy mạnh nuôi trồng, chế biến và khai thác xa bờ có kiểm soát. B phá hại nguồn lợi; C trái xu hướng; D làm giảm giá trị và hiệu quả xuất khẩu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "giải pháp",
+        "phát triển bền vững"
+      ]
+    },
+    {
+      "id": "dia12-b13-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Các hoạt động trồng rừng và phủ xanh đất trống, đồi trọc ở nước ta có ý nghĩa chủ yếu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm giảm ngay thu nhập của những người làm nghề rừng"
+        },
+        {
+          "key": "B",
+          "text": "Chuyển diện tích rừng sang xây dựng các khu đô thị"
+        },
+        {
+          "key": "C",
+          "text": "Tăng diện tích và độ che phủ rừng, khôi phục môi trường sinh thái và tạo thêm việc làm"
+        },
+        {
+          "key": "D",
+          "text": "Xoá bỏ toàn bộ các vườn quốc gia và khu bảo tồn"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Trồng rừng và phủ xanh đất trống đồi trọc tăng diện tích, độ che phủ rừng, khôi phục sinh thái và tạo việc làm, thu nhập cho người dân. A sai vì về lâu dài trồng rừng tăng thu nhập; B và D mô tả sai mục đích của trồng rừng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "trồng rừng",
+        "phủ xanh đất trống"
+      ]
+    },
+    {
+      "id": "dia12-b13-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với tài nguyên rừng, vì sao khai thác luôn phải đi đôi với trồng lại và tu bổ, cải tạo rừng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì rừng là loại tài nguyên không thể tái tạo được"
+        },
+        {
+          "key": "B",
+          "text": "Vì diện tích rừng hiện đã đủ và không cần tăng thêm"
+        },
+        {
+          "key": "C",
+          "text": "Vì trồng rừng chiếm nhiều đất canh tác nên cần hạn chế"
+        },
+        {
+          "key": "D",
+          "text": "Vì rừng là tài nguyên tái tạo nhưng cần nhiều năm mới phục hồi, nếu khai thác trắng không trồng lại sẽ cạn kiệt"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Rừng tái tạo được nhưng chu kỳ sinh trưởng dài, nên khai thác phải đi đôi với trồng lại và tu bổ để không cạn kiệt. A sai vì rừng tái tạo được; B sai vì diện tích rừng vẫn cần tăng; C ngược lại vì trồng rừng là chủ trương được đẩy mạnh.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "bảo vệ rừng",
+        "khai thác đi đôi trồng rừng"
+      ]
+    },
+    {
+      "id": "dia12-b13-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về giá trị của rừng đối với kinh tế và môi trường ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rừng cung cấp gỗ và lâm sản, tạo nguyên liệu cho sản xuất và hàng xuất khẩu."
+        },
+        {
+          "key": "B",
+          "text": "Rừng điều hoà khí hậu, giữ nguồn nước, chống xói mòn và hạn chế lũ lụt."
+        },
+        {
+          "key": "C",
+          "text": "Rừng chỉ có giá trị lấy gỗ, hoàn toàn không có giá trị về môi trường và du lịch."
+        },
+        {
+          "key": "D",
+          "text": "Bảo vệ rừng sẽ làm giảm diện tích mặt nước để nuôi trồng thuỷ sản trên cả nước."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "Đáp án: A, B. A đúng vì rừng cung cấp gỗ và lâm sản cho sản xuất, xuất khẩu; B đúng vì rừng điều hoà khí hậu, giữ nước, chống xói mòn, hạn chế lũ. C sai vì ngoài giá trị kinh tế, rừng còn có giá trị sinh thái và du lịch; D sai vì bảo vệ rừng không làm giảm mặt nước nuôi trồng, ngược lại rừng còn hỗ trợ nguồn lợi thuỷ sản.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "giá trị của rừng",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b13-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về các biện pháp bảo vệ và phát triển tài nguyên rừng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giao đất, giao rừng gắn trách nhiệm của người dân với việc bảo vệ và phát triển rừng."
+        },
+        {
+          "key": "B",
+          "text": "Khai thác trắng và đốt phá rừng làm nương rẫy là hướng đi được khuyến khích."
+        },
+        {
+          "key": "C",
+          "text": "Trồng rừng phủ xanh đất trống, đồi trọc; khai thác đi đôi với tu bổ và tái tạo rừng."
+        },
+        {
+          "key": "D",
+          "text": "Bảo vệ rừng là phải xoá bỏ toàn bộ các vườn quốc gia và khu bảo tồn thiên nhiên."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "Đáp án: A, C. A đúng vì giao đất, giao rừng tạo “rừng có chủ”, gắn người dân với bảo vệ rừng; C đúng vì trồng rừng và khai thác đi đôi với tu bổ, tái tạo là biện pháp phát triển bền vững. B sai vì đó là nguyên nhân gây suy giảm rừng; D sai vì bảo vệ rừng gắn với giữ gìn vườn quốc gia, khu bảo tồn chứ không xoá bỏ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "bảo vệ rừng",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b13-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về chuyển dịch cơ cấu và định hướng phát triển bền vững ngành thuỷ sản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ cấu sản lượng thuỷ sản chuyển dịch theo hướng tăng dần tỉ trọng khai thác, giảm nuôi trồng."
+        },
+        {
+          "key": "B",
+          "text": "Cơ cấu sản lượng chuyển dịch theo hướng tăng nhanh nuôi trồng, giảm dần tỉ trọng khai thác."
+        },
+        {
+          "key": "C",
+          "text": "Càng khai thác nhiều ở vùng biển gần bờ, kể cả mùa sinh sản, thì nguồn lợi càng được bảo vệ."
+        },
+        {
+          "key": "D",
+          "text": "Khai thác phải gắn với bảo vệ, tái tạo nguồn lợi và chống khai thác bất hợp pháp để phát triển bền vững."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "Đáp án: B, D. B đúng vì thực tế nuôi trồng ngày càng chiếm tỉ trọng lớn hơn; D đúng vì khai thác đi đôi bảo vệ, tái tạo nguồn lợi và chống khai thác trái phép là yêu cầu phát triển bền vững. A sai vì nêu ngược chiều chuyển dịch; C sai vì khai thác gần bờ trong mùa sinh sản làm cạn kiệt nguồn lợi.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "chuyển dịch cơ cấu",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b13-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về khai thác thuỷ sản xa bờ và dịch vụ hậu cần nghề cá?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khai thác xa bờ giúp nâng cao sản lượng và giảm áp lực khai thác quá mức ở vùng biển gần bờ."
+        },
+        {
+          "key": "B",
+          "text": "Khai thác xa bờ làm cạn kiệt nguồn lợi ven bờ nhanh hơn so với đánh bắt gần bờ."
+        },
+        {
+          "key": "C",
+          "text": "Dịch vụ hậu cần nghề cá làm giảm giá trị và tăng thất thoát sau thu hoạch."
+        },
+        {
+          "key": "D",
+          "text": "Hậu cần nghề cá (cảng cá, chế biến, bảo quản) gắn khai thác với tiêu thụ, nâng cao giá trị và giảm thất thoát sau thu hoạch."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "Đáp án: A, D. A đúng vì khai thác xa bờ mở rộng không gian đánh bắt, giảm áp lực ven bờ; D đúng vì hậu cần nghề cá nối khai thác với chế biến, bảo quản, tiêu thụ nên tăng giá trị, giảm thất thoát. B sai vì xa bờ giúp bảo vệ nguồn lợi ven bờ; C nêu ngược tác dụng của dịch vụ hậu cần.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "khai thác xa bờ",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b13-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b13-lam-nghiep-thuy-san",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về vai trò của ngành lâm nghiệp và ngành thuỷ sản đối với kinh tế – xã hội nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai ngành chỉ có giá trị kinh tế, hoàn toàn không có ý nghĩa về môi trường và sinh thái."
+        },
+        {
+          "key": "B",
+          "text": "Hai ngành cung cấp nguyên liệu cho công nghiệp chế biến và tạo ra hàng xuất khẩu có giá trị."
+        },
+        {
+          "key": "C",
+          "text": "Hai ngành tạo việc làm, tăng thu nhập cho nhiều lao động, nhất là ở nông thôn và vùng ven biển."
+        },
+        {
+          "key": "D",
+          "text": "Sản phẩm của lâm nghiệp và thuỷ sản không tham gia vào hoạt động xuất khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án: B, C. B đúng vì lâm nghiệp và thuỷ sản đều cung cấp nguyên liệu, hàng xuất khẩu; C đúng vì hai ngành thu hút nhiều lao động nông thôn, ven biển, tăng thu nhập. A sai vì cả hai ngành đều có giá trị sinh thái, môi trường; D sai vì gỗ và thuỷ sản đều là mặt hàng xuất khẩu quan trọng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 13",
+        "vai trò ngành",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

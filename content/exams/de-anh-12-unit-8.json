@@ -1,0 +1,1392 @@
+{
+  "id": "de-anh-12-unit-8",
+  "title": "Đề ôn tập Tiếng Anh 12 – Unit 8: Wildlife conservation",
+  "slug": "de-anh-12-unit-8",
+  "description": "Đề ôn tập Unit 8 sách Tiếng Anh 12 (Global Success) – Wildlife conservation: loài nguy cấp, mất và phục hồi môi trường sống, săn bắt và buôn bán trái phép, hành lang đa dạng sinh học cùng vai trò của cộng đồng địa phương. Trọng tâm ngữ pháp là câu điều kiện loại III và câu điều kiện hỗn hợp (kể cả đảo ngữ với Had), cấu trúc wish và if only, các động từ khuyết thiếu chỉ sự phỏng đoán trong quá khứ (must have V3, might have V3, can't have V3); trọng tâm từ vựng là habitat, corridor, poaching, sustainable, pose a threat và cấu trúc từ conservation / conservationist, restoration / restore, protection / protect. Đề gồm 40 câu trắc nghiệm làm trong 45 phút theo thang điểm 10, có phần phát âm, trọng âm, hai đoạn văn tự viết về bảo tồn động vật hoang dã và bốn câu sắp xếp từ thành câu; mỗi câu đều có đáp án kèm giải thích ngắn bằng tiếng Việt.",
+  "subject": "tieng-anh",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "EN12-U8",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "de-anh-12-unit-8-c1",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "**s**afari"
+        },
+        {
+          "key": "B",
+          "text": "**s**pecies"
+        },
+        {
+          "key": "C",
+          "text": "con**s**erve"
+        },
+        {
+          "key": "D",
+          "text": "mea**s**ure"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chữ s trong measure đọc là /ʒ/ (/ˈmeʒə(r)/), còn safari /səˈfɑːri/, species /ˈspiːʃiːz/, conserve /kənˈsɜːv/ đều đọc là /s/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "phát âm phụ âm"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c2",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân (đuôi -ed) đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "protect**ed**"
+        },
+        {
+          "key": "B",
+          "text": "kill**ed**"
+        },
+        {
+          "key": "C",
+          "text": "save**d**"
+        },
+        {
+          "key": "D",
+          "text": "harm**ed**"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đuôi -ed trong protected đọc là /ɪd/ (/prəˈtektɪd/) vì động từ protect kết thúc bằng /t/; còn killed /kɪld/, saved /seɪvd/, harmed /hɑːmd/ đều đọc là /d/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "phát âm đuôi -ed"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c3",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "**a**nimal"
+        },
+        {
+          "key": "B",
+          "text": "h**a**bitat"
+        },
+        {
+          "key": "C",
+          "text": "p**oa**ch"
+        },
+        {
+          "key": "D",
+          "text": "m**a**mmal"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chữ oa trong poach đọc là /əʊ/ (/pəʊtʃ/), còn animal /ˈænɪml/, habitat /ˈhæbɪtæt/, mammal /ˈmæml/ đều có chữ a đọc là /æ/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "phát âm nguyên âm"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c4",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "wea**th**er"
+        },
+        {
+          "key": "B",
+          "text": "**th**reatening"
+        },
+        {
+          "key": "C",
+          "text": "o**th**er"
+        },
+        {
+          "key": "D",
+          "text": "nor**th**ern"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chữ th trong threatening đọc là /θ/ (/ˈθretnɪŋ/), còn weather /ˈweðə(r)/, other /ˈʌðə(r)/, northern /ˈnɔːðən/ đều đọc là /ð/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "phát âm th"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c5",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "h**u**nt"
+        },
+        {
+          "key": "B",
+          "text": "p**u**nish"
+        },
+        {
+          "key": "C",
+          "text": "b**u**ffalo"
+        },
+        {
+          "key": "D",
+          "text": "h**u**man"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chữ u trong human đọc là /juː/ (/ˈhjuːmən/), còn hunt /hʌnt/, punish /ˈpʌnɪʃ/, buffalo /ˈbʌfələʊ/ đều đọc là /ʌ/.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "phát âm nguyên âm"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c6",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "creature"
+        },
+        {
+          "key": "B",
+          "text": "rescue"
+        },
+        {
+          "key": "C",
+          "text": "protect"
+        },
+        {
+          "key": "D",
+          "text": "monkey"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "protect /prəˈtekt/ nhấn âm 2, còn creature /ˈkriːtʃə(r)/, rescue /ˈreskjuː/, monkey /ˈmʌŋki/ đều nhấn âm 1.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "trọng âm từ hai âm tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c7",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "migrate"
+        },
+        {
+          "key": "B",
+          "text": "predator"
+        },
+        {
+          "key": "C",
+          "text": "carnivore"
+        },
+        {
+          "key": "D",
+          "text": "mammal"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "migrate /maɪˈɡreɪt/ nhấn âm 2, còn predator /ˈpredətə(r)/, carnivore /ˈkɑːnɪvɔː(r)/, mammal /ˈmæml/ đều nhấn âm 1.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "trọng âm động từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c8",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "ecosystem"
+        },
+        {
+          "key": "B",
+          "text": "endangered"
+        },
+        {
+          "key": "C",
+          "text": "dangerous"
+        },
+        {
+          "key": "D",
+          "text": "habitat"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "endangered /ɪnˈdeɪndʒəd/ nhấn âm 2, còn ecosystem /ˈiːkəʊsɪstəm/, dangerous /ˈdeɪndʒərəs/, habitat /ˈhæbɪtæt/ đều nhấn âm 1.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "trọng âm tính từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c9",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "develop"
+        },
+        {
+          "key": "B",
+          "text": "provide"
+        },
+        {
+          "key": "C",
+          "text": "compromise"
+        },
+        {
+          "key": "D",
+          "text": "reduce"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "compromise /ˈkɒmprəmaɪz/ nhấn âm 1, còn develop /dɪˈveləp/, provide /prəˈvaɪd/, reduce /rɪˈdjuːs/ đều nhấn âm 2.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "trọng âm từ ba âm tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c10",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "wildlife"
+        },
+        {
+          "key": "B",
+          "text": "sanctuary"
+        },
+        {
+          "key": "C",
+          "text": "rainforest"
+        },
+        {
+          "key": "D",
+          "text": "restore"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "restore /rɪˈstɔː(r)/ nhấn âm 2, còn wildlife /ˈwaɪldlaɪf/, sanctuary /ˈsæŋktʃueri/, rainforest /ˈreɪnfɒrɪst/ đều là danh từ ghép hoặc danh từ nhấn âm 1.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "trọng âm danh từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c11",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "If the rangers ______ the snares along the eastern track in March, the two nesting pairs would not have been lost.",
+      "options": [
+        {
+          "key": "A",
+          "text": "would remove"
+        },
+        {
+          "key": "B",
+          "text": "had removed"
+        },
+        {
+          "key": "C",
+          "text": "removed"
+        },
+        {
+          "key": "D",
+          "text": "have removed"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mệnh đề chính có would not have been lost (would have + V3) nên đây là câu điều kiện loại III; mệnh đề if phải ở quá khứ hoàn thành, cần had removed. would remove không đặt trong mệnh đề if; removed là loại II; have removed sai thì.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "câu điều kiện loại III"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c12",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "If the district had closed that night market, hundreds of caged wild birds ______ there.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will not be sold"
+        },
+        {
+          "key": "B",
+          "text": "would not sell"
+        },
+        {
+          "key": "C",
+          "text": "would not have been sold"
+        },
+        {
+          "key": "D",
+          "text": "had not been sold"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mệnh đề if ở quá khứ hoàn thành nên đây là loại III; mệnh đề chính cần would have + V3, và chim được bán nên phải dùng bị động would not have been sold. would not sell là chủ động; had not been sold không đứng ở mệnh đề chính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "câu điều kiện loại III",
+        "câu bị động"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c13",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "If the highway ______ through the valley in the 1990s, the two herds would still mix freely today.",
+      "options": [
+        {
+          "key": "A",
+          "text": "was not built"
+        },
+        {
+          "key": "B",
+          "text": "would not be built"
+        },
+        {
+          "key": "C",
+          "text": "has not been built"
+        },
+        {
+          "key": "D",
+          "text": "had not been built"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Câu giả định hỗn hợp: điều kiện trái với quá khứ (in the 1990s) nên mệnh đề if dùng quá khứ hoàn thành bị động had not been built, còn kết quả trái với hiện tại (today) đã cho ở dạng would + V nguyên thể.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "câu điều kiện hỗn hợp",
+        "câu bị động"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c14",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "The river below the old mill is still brown. I wish the factory ______ treating its waste that way years ago.",
+      "options": [
+        {
+          "key": "A",
+          "text": "stopped"
+        },
+        {
+          "key": "B",
+          "text": "had stopped"
+        },
+        {
+          "key": "C",
+          "text": "would stop"
+        },
+        {
+          "key": "D",
+          "text": "has stopped"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mốc years ago thuộc quá khứ nên wish + quá khứ hoàn thành để diễn tả sự tiếc về việc đã xảy ra: had stopped. stopped là ước cho hiện tại; would stop không dùng với dạng quá khứ hoàn thành của ước.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cấu trúc wish"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c15",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "If only this valley ______ a quiet place for the cranes again; now there is always an engine running somewhere.",
+      "options": [
+        {
+          "key": "A",
+          "text": "had been"
+        },
+        {
+          "key": "B",
+          "text": "will be"
+        },
+        {
+          "key": "C",
+          "text": "were"
+        },
+        {
+          "key": "D",
+          "text": "would be"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đây là ước cho hiện tại nên sau if only cần quá khứ đơn; với động từ to be thường dùng were cho mọi ngôi: If only this valley were. had been là ước về quá khứ; would be không dùng sau if only.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cấu trúc if only"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c16",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "The footprints in the mud were still fresh this morning, so a leopard ______ passed through the valley during the night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "might have"
+        },
+        {
+          "key": "B",
+          "text": "need have"
+        },
+        {
+          "key": "C",
+          "text": "must have"
+        },
+        {
+          "key": "D",
+          "text": "dare have"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dấu chân còn mới là bằng chứng rõ nên dùng must have + V3 (chắc hẳn đã). might have chỉ khả năng không chắc, không hợp với bằng chứng mạnh này; need have và dare have không dùng ở câu khẳng định dạng này.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "modal chỉ sự phỏng đoán"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c17",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "Nobody knows what happened to the eggs. A monitor lizard ______ taken them during the night.",
+      "options": [
+        {
+          "key": "A",
+          "text": "must"
+        },
+        {
+          "key": "B",
+          "text": "should"
+        },
+        {
+          "key": "C",
+          "text": "need"
+        },
+        {
+          "key": "D",
+          "text": "might have"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cụm Nobody knows cho biết người nói không chắc nên cần might have + V3 (có lẽ đã). must (chắc hẳn) trái với ngữ cảnh; should have chỉ lẽ ra; need không dùng ở câu khẳng định này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "modal chỉ sự phỏng đoán"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c18",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "Two boats watched the only channel all night, so the traffickers ______ left the lagoon by water.",
+      "options": [
+        {
+          "key": "A",
+          "text": "can't have"
+        },
+        {
+          "key": "B",
+          "text": "must have"
+        },
+        {
+          "key": "C",
+          "text": "should have"
+        },
+        {
+          "key": "D",
+          "text": "needn't have"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Can't have + V3 diễn tả kết luận rằng điều đó không thể xảy ra (đã canh toàn bộ luồng duy nhất cả đêm). must have trái nghĩa; should have = lẽ ra đã; needn't have = đã không cần nhưng vẫn làm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "modal chỉ sự phỏng đoán"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c19",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "Tourists who walk on the dunes ______ the fragile plants that hold the sand in place.",
+      "options": [
+        {
+          "key": "A",
+          "text": "damage"
+        },
+        {
+          "key": "B",
+          "text": "dam"
+        },
+        {
+          "key": "C",
+          "text": "damaging"
+        },
+        {
+          "key": "D",
+          "text": "damaged"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cần động từ chia ở hiện tại đơn làm vị ngữ cho chủ ngữ số nhiều Tourists: damage (làm hại). dam là danh từ/động từ xây đập; damaging cần trợ từ be; damaged là quá khứ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cấu trúc từ",
+        "hòa hợp chủ ngữ - động từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c20",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "Replanting native trees along the river is the cheapest act of ______ the reserve can afford.",
+      "options": [
+        {
+          "key": "A",
+          "text": "restorative"
+        },
+        {
+          "key": "B",
+          "text": "restoration"
+        },
+        {
+          "key": "C",
+          "text": "restore"
+        },
+        {
+          "key": "D",
+          "text": "restored"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sau giới từ of cần danh từ: restoration (sự phục hồi). restorative là tính từ, restore là động từ nguyên thể, restored là quá khứ hoặc phân từ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cấu trúc từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c21",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "Losing the last breeding pair ______ a serious threat to the whole programme.",
+      "options": [
+        {
+          "key": "A",
+          "text": "makes"
+        },
+        {
+          "key": "B",
+          "text": "does"
+        },
+        {
+          "key": "C",
+          "text": "takes"
+        },
+        {
+          "key": "D",
+          "text": "poses"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cụm cố định pose a threat to something/somebody (đặt ra mối đe dọa). make a threat có tồn tại nhưng không đi với chủ ngữ chỉ sự việc và không dùng với giới từ to.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "collocation"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c22",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "______ the wetlands been surveyed before the resort was built, the planners would have moved their design.",
+      "options": [
+        {
+          "key": "A",
+          "text": "If"
+        },
+        {
+          "key": "B",
+          "text": "Had"
+        },
+        {
+          "key": "C",
+          "text": "Should"
+        },
+        {
+          "key": "D",
+          "text": "Were"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đây là câu điều kiện loại III đảo ngữ: Had the wetlands been surveyed (= If the wetlands had been surveyed). Nếu chọn If thì mệnh đề if thiếu trợ động từ had nên sai; Were chỉ dùng cho câu điều kiện loại II.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "đảo ngữ câu điều kiện"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c23",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Many conservation projects fail for one reason: they ask a community to protect an animal that brings it no benefit. When a reserve first opened in the hills, local farmers were told to leave and were offered (23) ______ else. So the fence was cut, and snares returned within a month. A newer programme tried the opposite. It pays families to guard the nesting sites and trains young people as (24) ______ , so income comes from living animals rather than dead ones. Patrols have become (25) ______ too: rangers no longer walk the same road every morning, and they keep a (26) ______ of every patrol in a shared phone app. The results are small, but for the first time the number of breeding pairs has begun to (27) ______ . As one farmer said, rules last only when the families who live beside them feel that the cost is (28) ______ sharing.*\n\nChọn phương án đúng nhất cho chỗ trống **(23)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "something"
+        },
+        {
+          "key": "B",
+          "text": "everything"
+        },
+        {
+          "key": "C",
+          "text": "anyone"
+        },
+        {
+          "key": "D",
+          "text": "nothing"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Câu nói nông dân bị buộc rời đi mà không được cho lựa chọn nào khác, nên cần nothing sau động từ khẳng định were offered; vì thế họ cắt hàng rào và đặt bẫy trở lại. something và everything phá vỡ mạch nhân quả; anyone là đại từ chỉ người.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cloze bảo tồn",
+        "đại từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c24",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Many conservation projects fail for one reason: they ask a community to protect an animal that brings it no benefit. When a reserve first opened in the hills, local farmers were told to leave and were offered (23) ______ else. So the fence was cut, and snares returned within a month. A newer programme tried the opposite. It pays families to guard the nesting sites and trains young people as (24) ______ , so income comes from living animals rather than dead ones. Patrols have become (25) ______ too: rangers no longer walk the same road every morning, and they keep a (26) ______ of every patrol in a shared phone app. The results are small, but for the first time the number of breeding pairs has begun to (27) ______ . As one farmer said, rules last only when the families who live beside them feel that the cost is (28) ______ sharing.*\n\nChọn phương án đúng nhất cho chỗ trống **(24)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "conservationists"
+        },
+        {
+          "key": "B",
+          "text": "conserve"
+        },
+        {
+          "key": "C",
+          "text": "conservation"
+        },
+        {
+          "key": "D",
+          "text": "conservatively"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sau trains young people as cần danh từ chỉ người số nhiều để hòa hợp với young people: conservationists (nhà bảo tồn). conserve là động từ, conservation là danh từ chỉ khái niệm không chỉ người, conservatively là trạng từ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cloze bảo tồn",
+        "cấu trúc từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c25",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Many conservation projects fail for one reason: they ask a community to protect an animal that brings it no benefit. When a reserve first opened in the hills, local farmers were told to leave and were offered (23) ______ else. So the fence was cut, and snares returned within a month. A newer programme tried the opposite. It pays families to guard the nesting sites and trains young people as (24) ______ , so income comes from living animals rather than dead ones. Patrols have become (25) ______ too: rangers no longer walk the same road every morning, and they keep a (26) ______ of every patrol in a shared phone app. The results are small, but for the first time the number of breeding pairs has begun to (27) ______ . As one farmer said, rules last only when the families who live beside them feel that the cost is (28) ______ sharing.*\n\nChọn phương án đúng nhất cho chỗ trống **(25)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "slower"
+        },
+        {
+          "key": "B",
+          "text": "cheaper"
+        },
+        {
+          "key": "C",
+          "text": "unpredictable"
+        },
+        {
+          "key": "D",
+          "text": "quieter"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vế sau giải thích các kiểm lâm viên không còn đi đúng một con đường mỗi buổi sáng, nên ca tuần tra trở nên khó đoán: unpredictable. slower, cheaper và quieter đều không được ngữ cảnh nói tới.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cloze bảo tồn",
+        "tính từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c26",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Many conservation projects fail for one reason: they ask a community to protect an animal that brings it no benefit. When a reserve first opened in the hills, local farmers were told to leave and were offered (23) ______ else. So the fence was cut, and snares returned within a month. A newer programme tried the opposite. It pays families to guard the nesting sites and trains young people as (24) ______ , so income comes from living animals rather than dead ones. Patrols have become (25) ______ too: rangers no longer walk the same road every morning, and they keep a (26) ______ of every patrol in a shared phone app. The results are small, but for the first time the number of breeding pairs has begun to (27) ______ . As one farmer said, rules last only when the families who live beside them feel that the cost is (28) ______ sharing.*\n\nChọn phương án đúng nhất cho chỗ trống **(26)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "reason"
+        },
+        {
+          "key": "B",
+          "text": "record"
+        },
+        {
+          "key": "C",
+          "text": "rule"
+        },
+        {
+          "key": "D",
+          "text": "review"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cụm keep a record of something (lưu hồ sơ/số liệu về) khớp với việc ghi lại mỗi chuyến tuần tra vào ứng dụng chung. keep a reason/rule/review of every patrol đều không thành cụm có nghĩa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cloze bảo tồn",
+        "collocation"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c27",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Many conservation projects fail for one reason: they ask a community to protect an animal that brings it no benefit. When a reserve first opened in the hills, local farmers were told to leave and were offered (23) ______ else. So the fence was cut, and snares returned within a month. A newer programme tried the opposite. It pays families to guard the nesting sites and trains young people as (24) ______ , so income comes from living animals rather than dead ones. Patrols have become (25) ______ too: rangers no longer walk the same road every morning, and they keep a (26) ______ of every patrol in a shared phone app. The results are small, but for the first time the number of breeding pairs has begun to (27) ______ . As one farmer said, rules last only when the families who live beside them feel that the cost is (28) ______ sharing.*\n\nChọn phương án đúng nhất cho chỗ trống **(27)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "rise"
+        },
+        {
+          "key": "B",
+          "text": "raise"
+        },
+        {
+          "key": "C",
+          "text": "arise"
+        },
+        {
+          "key": "D",
+          "text": "reach"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chủ ngữ là the number of breeding pairs và không có tân ngữ sau chỗ trống nên cần nội động từ rise (tăng lên). raise và reach là ngoại động từ, phải có tân ngữ; arise nghĩa là nảy sinh, không nói về số lượng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cloze bảo tồn",
+        "rise/raise"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c28",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Many conservation projects fail for one reason: they ask a community to protect an animal that brings it no benefit. When a reserve first opened in the hills, local farmers were told to leave and were offered (23) ______ else. So the fence was cut, and snares returned within a month. A newer programme tried the opposite. It pays families to guard the nesting sites and trains young people as (24) ______ , so income comes from living animals rather than dead ones. Patrols have become (25) ______ too: rangers no longer walk the same road every morning, and they keep a (26) ______ of every patrol in a shared phone app. The results are small, but for the first time the number of breeding pairs has begun to (27) ______ . As one farmer said, rules last only when the families who live beside them feel that the cost is (28) ______ sharing.*\n\nChọn phương án đúng nhất cho chỗ trống **(28)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "worth"
+        },
+        {
+          "key": "B",
+          "text": "likely"
+        },
+        {
+          "key": "C",
+          "text": "able"
+        },
+        {
+          "key": "D",
+          "text": "worthy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chỗ trống đứng ngay trước V-ing (sharing) nên cần worth: the cost is worth sharing. likely và able phải đi với to + động từ nguyên thể; worthy cần giới từ of (worthy of being shared).",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "cloze bảo tồn",
+        "cấu trúc worth + V-ing"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c29",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Guardians of the Estuary***\n>\n> *When the mangrove plantation first opened, the fishers of Cam Shore were not consulted. Crabs and shrimp had fed most families in the district for generations, and now the outer banks were fenced, signposted and guarded. People who had walked those flats since childhood felt like strangers on their own coast, and they showed it: nets were cut, signs were pulled down, snares appeared on the paths the patrols had cleared. The wardens blamed the villagers, the villagers blamed the wardens, and the mudflats kept shrinking.*\n>\n> *The change came when a local teacher suggested two things: pay the patrols from the village fund, and let fishers choose which channels to close each season. Two grandmothers were asked to tell the story of the estuary to school classes, because children had become the loudest voices at household meetings. Fine-mesh gill nets were not banned outright; instead, a shared store began lending a wider mesh that lets young shrimp pass through. Penalties still exist, but almost nobody uses them now.*\n>\n> *The managers repeat one sentence: a protected area can borrow fences, boats and rules, but it cannot borrow trust. Conservation here is no longer a line on a map but a list of promises that a hundred households have agreed to keep. Measured that way, the mangroves are still growing.*\n\nWhat is the passage mainly about?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "How a coastal community moved from resisting a mangrove reserve to sharing the work of running it"
+        },
+        {
+          "key": "B",
+          "text": "Why the price of shrimp and crabs in the district keeps rising each season"
+        },
+        {
+          "key": "C",
+          "text": "The life story of two grandmothers who taught local history at school"
+        },
+        {
+          "key": "D",
+          "text": "The methods wardens use to find people who cut nets at night"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đoạn 1 là xung đột ban đầu khi khu bảo tồn đóng cửa bãi khai thác, đoạn 2 là hai thay đổi do chính người dân khởi xướng, đoạn 3 chốt bài học về lòng tin. Phương án B và C chỉ là chi tiết nhỏ, phương án D không có trong bài.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "đọc hiểu ý chính"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c30",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Guardians of the Estuary***\n>\n> *When the mangrove plantation first opened, the fishers of Cam Shore were not consulted. Crabs and shrimp had fed most families in the district for generations, and now the outer banks were fenced, signposted and guarded. People who had walked those flats since childhood felt like strangers on their own coast, and they showed it: nets were cut, signs were pulled down, snares appeared on the paths the patrols had cleared. The wardens blamed the villagers, the villagers blamed the wardens, and the mudflats kept shrinking.*\n>\n> *The change came when a local teacher suggested two things: pay the patrols from the village fund, and let fishers choose which channels to close each season. Two grandmothers were asked to tell the story of the estuary to school classes, because children had become the loudest voices at household meetings. Fine-mesh gill nets were not banned outright; instead, a shared store began lending a wider mesh that lets young shrimp pass through. Penalties still exist, but almost nobody uses them now.*\n>\n> *The managers repeat one sentence: a protected area can borrow fences, boats and rules, but it cannot borrow trust. Conservation here is no longer a line on a map but a list of promises that a hundred households have agreed to keep. Measured that way, the mangroves are still growing.*\n\nAccording to paragraph 1, the fishers showed their anger by doing all of the following EXCEPT ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "cutting their nets"
+        },
+        {
+          "key": "B",
+          "text": "pulling the signposts down"
+        },
+        {
+          "key": "C",
+          "text": "setting snares on paths the patrols had cleared"
+        },
+        {
+          "key": "D",
+          "text": "burning the wardens' boats"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đoạn 1 liệt kê nets were cut, signs were pulled down, snares appeared on the paths the patrols had cleared. Chi tiết đốt thuyền của kiểm lâm không xuất hiện trong bài.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "đọc hiểu chi tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c31",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Guardians of the Estuary***\n>\n> *When the mangrove plantation first opened, the fishers of Cam Shore were not consulted. Crabs and shrimp had fed most families in the district for generations, and now the outer banks were fenced, signposted and guarded. People who had walked those flats since childhood felt like strangers on their own coast, and they showed it: nets were cut, signs were pulled down, snares appeared on the paths the patrols had cleared. The wardens blamed the villagers, the villagers blamed the wardens, and the mudflats kept shrinking.*\n>\n> *The change came when a local teacher suggested two things: pay the patrols from the village fund, and let fishers choose which channels to close each season. Two grandmothers were asked to tell the story of the estuary to school classes, because children had become the loudest voices at household meetings. Fine-mesh gill nets were not banned outright; instead, a shared store began lending a wider mesh that lets young shrimp pass through. Penalties still exist, but almost nobody uses them now.*\n>\n> *The managers repeat one sentence: a protected area can borrow fences, boats and rules, but it cannot borrow trust. Conservation here is no longer a line on a map but a list of promises that a hundred households have agreed to keep. Measured that way, the mangroves are still growing.*\n\nWhy were the fishers of Cam Shore angry at the beginning of the passage?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because the village fund refused to pay the patrols' salaries"
+        },
+        {
+          "key": "B",
+          "text": "Because the grandmothers made fun of fishing work in their stories"
+        },
+        {
+          "key": "C",
+          "text": "Because a working area they had used for years was closed to them without any discussion"
+        },
+        {
+          "key": "D",
+          "text": "Because the district moved their boats to another coast"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Câu mở đầu nói the fishers were not consulted và các bãi khai thác bị fenced, signposted and guarded, khiến họ cảm thấy like strangers on their own coast, tức vùng kiếm sống bị đóng mà không bàn bạc với dân.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "đọc hiểu chi tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c32",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Guardians of the Estuary***\n>\n> *When the mangrove plantation first opened, the fishers of Cam Shore were not consulted. Crabs and shrimp had fed most families in the district for generations, and now the outer banks were fenced, signposted and guarded. People who had walked those flats since childhood felt like strangers on their own coast, and they showed it: nets were cut, signs were pulled down, snares appeared on the paths the patrols had cleared. The wardens blamed the villagers, the villagers blamed the wardens, and the mudflats kept shrinking.*\n>\n> *The change came when a local teacher suggested two things: pay the patrols from the village fund, and let fishers choose which channels to close each season. Two grandmothers were asked to tell the story of the estuary to school classes, because children had become the loudest voices at household meetings. Fine-mesh gill nets were not banned outright; instead, a shared store began lending a wider mesh that lets young shrimp pass through. Penalties still exist, but almost nobody uses them now.*\n>\n> *The managers repeat one sentence: a protected area can borrow fences, boats and rules, but it cannot borrow trust. Conservation here is no longer a line on a map but a list of promises that a hundred households have agreed to keep. Measured that way, the mangroves are still growing.*\n\nThe phrase **banned outright** in paragraph 2 is closest in meaning to ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "sold again"
+        },
+        {
+          "key": "B",
+          "text": "forbidden completely"
+        },
+        {
+          "key": "C",
+          "text": "taxed heavily"
+        },
+        {
+          "key": "D",
+          "text": "checked carefully"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Câu tiếp theo cho biết thay vì cấm hẳn, ban quản lý cho mượn loại lưới có mắt rộng hơn, nên banned outright nghĩa là forbidden completely (cấm hoàn toàn). Các phương án còn lại không hợp nghĩa của ban.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "từ vựng trong ngữ cảnh"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c33",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Guardians of the Estuary***\n>\n> *When the mangrove plantation first opened, the fishers of Cam Shore were not consulted. Crabs and shrimp had fed most families in the district for generations, and now the outer banks were fenced, signposted and guarded. People who had walked those flats since childhood felt like strangers on their own coast, and they showed it: nets were cut, signs were pulled down, snares appeared on the paths the patrols had cleared. The wardens blamed the villagers, the villagers blamed the wardens, and the mudflats kept shrinking.*\n>\n> *The change came when a local teacher suggested two things: pay the patrols from the village fund, and let fishers choose which channels to close each season. Two grandmothers were asked to tell the story of the estuary to school classes, because children had become the loudest voices at household meetings. Fine-mesh gill nets were not banned outright; instead, a shared store began lending a wider mesh that lets young shrimp pass through. Penalties still exist, but almost nobody uses them now.*\n>\n> *The managers repeat one sentence: a protected area can borrow fences, boats and rules, but it cannot borrow trust. Conservation here is no longer a line on a map but a list of promises that a hundred households have agreed to keep. Measured that way, the mangroves are still growing.*\n\nThe wider mesh kept in the shared store ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "is used only by the patrols when they guard the outer banks"
+        },
+        {
+          "key": "B",
+          "text": "lets young shrimp pass through so more of them can grow"
+        },
+        {
+          "key": "C",
+          "text": "costs more than the nets the fishers used before"
+        },
+        {
+          "key": "D",
+          "text": "was chosen by the managers of the mangrove plantation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đoạn 2 viết a shared store began lending a wider mesh that lets young shrimp pass through, tức mắt lưới rộng để shrimp con thoát ra và lớn tiếp; bài không nói ai chọn hay giá cả ra sao.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "đọc hiểu chi tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c34",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Guardians of the Estuary***\n>\n> *When the mangrove plantation first opened, the fishers of Cam Shore were not consulted. Crabs and shrimp had fed most families in the district for generations, and now the outer banks were fenced, signposted and guarded. People who had walked those flats since childhood felt like strangers on their own coast, and they showed it: nets were cut, signs were pulled down, snares appeared on the paths the patrols had cleared. The wardens blamed the villagers, the villagers blamed the wardens, and the mudflats kept shrinking.*\n>\n> *The change came when a local teacher suggested two things: pay the patrols from the village fund, and let fishers choose which channels to close each season. Two grandmothers were asked to tell the story of the estuary to school classes, because children had become the loudest voices at household meetings. Fine-mesh gill nets were not banned outright; instead, a shared store began lending a wider mesh that lets young shrimp pass through. Penalties still exist, but almost nobody uses them now.*\n>\n> *The managers repeat one sentence: a protected area can borrow fences, boats and rules, but it cannot borrow trust. Conservation here is no longer a line on a map but a list of promises that a hundred households have agreed to keep. Measured that way, the mangroves are still growing.*\n\nWhy were the two grandmothers invited to speak to school classes?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because the district school had no teacher of local history"
+        },
+        {
+          "key": "B",
+          "text": "Because the patrols needed new volunteers for the outer banks"
+        },
+        {
+          "key": "C",
+          "text": "Because the managers wanted to record old fishing songs"
+        },
+        {
+          "key": "D",
+          "text": "Because children had become the strongest voices in family discussions"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đoạn 2 ghi rõ they were asked to tell the story of the estuary to school classes, because children had become the loudest voices at household meetings; loudest ở đây là có tiếng nói mạnh nhất trong gia đình.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "đọc hiểu suy luận"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c35",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Guardians of the Estuary***\n>\n> *When the mangrove plantation first opened, the fishers of Cam Shore were not consulted. Crabs and shrimp had fed most families in the district for generations, and now the outer banks were fenced, signposted and guarded. People who had walked those flats since childhood felt like strangers on their own coast, and they showed it: nets were cut, signs were pulled down, snares appeared on the paths the patrols had cleared. The wardens blamed the villagers, the villagers blamed the wardens, and the mudflats kept shrinking.*\n>\n> *The change came when a local teacher suggested two things: pay the patrols from the village fund, and let fishers choose which channels to close each season. Two grandmothers were asked to tell the story of the estuary to school classes, because children had become the loudest voices at household meetings. Fine-mesh gill nets were not banned outright; instead, a shared store began lending a wider mesh that lets young shrimp pass through. Penalties still exist, but almost nobody uses them now.*\n>\n> *The managers repeat one sentence: a protected area can borrow fences, boats and rules, but it cannot borrow trust. Conservation here is no longer a line on a map but a list of promises that a hundred households have agreed to keep. Measured that way, the mangroves are still growing.*\n\nThe sentence **Penalties still exist, but almost nobody uses them now** suggests that ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "most problems are now settled by agreement instead of by punishment"
+        },
+        {
+          "key": "B",
+          "text": "the district has stopped writing its rules down anywhere"
+        },
+        {
+          "key": "C",
+          "text": "the fishers are still afraid of being fined every season"
+        },
+        {
+          "key": "D",
+          "text": "the patrols no longer go out to the mudflats at all"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chế tài vẫn còn hiệu lực nhưng gần như không ai viện tới, nghĩa là người dân tuân theo vì đã cùng bàn và đồng thuận, chứ không vì sợ bị phạt. Các phương án B, C, D đều trái hoặc vượt quá thông tin của đoạn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "đọc hiểu suy luận"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c36",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Guardians of the Estuary***\n>\n> *When the mangrove plantation first opened, the fishers of Cam Shore were not consulted. Crabs and shrimp had fed most families in the district for generations, and now the outer banks were fenced, signposted and guarded. People who had walked those flats since childhood felt like strangers on their own coast, and they showed it: nets were cut, signs were pulled down, snares appeared on the paths the patrols had cleared. The wardens blamed the villagers, the villagers blamed the wardens, and the mudflats kept shrinking.*\n>\n> *The change came when a local teacher suggested two things: pay the patrols from the village fund, and let fishers choose which channels to close each season. Two grandmothers were asked to tell the story of the estuary to school classes, because children had become the loudest voices at household meetings. Fine-mesh gill nets were not banned outright; instead, a shared store began lending a wider mesh that lets young shrimp pass through. Penalties still exist, but almost nobody uses them now.*\n>\n> *The managers repeat one sentence: a protected area can borrow fences, boats and rules, but it cannot borrow trust. Conservation here is no longer a line on a map but a list of promises that a hundred households have agreed to keep. Measured that way, the mangroves are still growing.*\n\nThe expression **Measured that way** in the last paragraph refers to judging conservation by ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the area of mangrove forest counted in square kilometres"
+        },
+        {
+          "key": "B",
+          "text": "the number of fines that the district gives each year"
+        },
+        {
+          "key": "C",
+          "text": "the promises that households have agreed to keep"
+        },
+        {
+          "key": "D",
+          "text": "the price of shrimp and crabs at the local market"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Câu ngay trước định nghĩa conservation here is no longer a line on a map but a list of promises that a hundred households have agreed to keep, nên that way là cách đánh giá theo lời hứa mà các hộ đã cam kết.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "đọc hiểu từ thay thế"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c37",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. Had\n> 2. the\n> 3. patrols\n> 4. arrived\n> 5. earlier\n> 6. the\n> 7. traps\n> 8. would\n> 9. have\n> 10. been removed\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 - 3 - 2 - 4 - 5 - 6 - 7 - 8 - 9 - 10"
+        },
+        {
+          "key": "B",
+          "text": "1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10"
+        },
+        {
+          "key": "C",
+          "text": "1 - 2 - 3 - 4 - 5 - 7 - 6 - 8 - 9 - 10"
+        },
+        {
+          "key": "D",
+          "text": "1 - 2 - 3 - 4 - 5 - 6 - 7 - 9 - 8 - 10"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Câu đúng là Had the patrols arrived earlier, the traps would have been removed: đảo ngữ câu điều kiện loại III lấy Had lên đầu, mệnh đề chính là would have been + V3 (bị động). Mạo từ the phải đứng ngay trước patrols và traps.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "đảo ngữ câu điều kiện"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c38",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. I\n> 2. wish\n> 3. the\n> 4. ministry\n> 5. had\n> 6. the\n> 7. mining\n> 8. licence\n> 9. cancelled\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 - 2 - 3 - 4 - 5 - 7 - 6 - 8 - 9"
+        },
+        {
+          "key": "B",
+          "text": "1 - 2 - 3 - 4 - 9 - 5 - 6 - 7 - 8"
+        },
+        {
+          "key": "C",
+          "text": "1 - 2 - 3 - 5 - 4 - 6 - 7 - 8 - 9"
+        },
+        {
+          "key": "D",
+          "text": "1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Câu đúng là I wish the ministry had cancelled the mining licence: sau wish là mệnh đề ở quá khứ hoàn thành (had + V3) để tiếc về một việc đã xảy ra. Các trật tự khác tách rời had với cancelled hoặc phá cụm the mining licence.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "cấu trúc wish"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c39",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. The\n> 2. fresh\n> 3. tracks\n> 4. must\n> 5. have\n> 6. been\n> 7. made\n> 8. by\n> 9. a\n> 10. tiger\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10"
+        },
+        {
+          "key": "B",
+          "text": "1 - 2 - 3 - 4 - 6 - 5 - 7 - 8 - 9 - 10"
+        },
+        {
+          "key": "C",
+          "text": "1 - 3 - 2 - 4 - 5 - 6 - 7 - 8 - 9 - 10"
+        },
+        {
+          "key": "D",
+          "text": "1 - 2 - 3 - 5 - 4 - 6 - 7 - 8 - 9 - 10"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Câu đúng là The fresh tracks must have been made by a tiger: tính từ fresh đứng trước danh từ tracks, phỏng đoán quá khứ ở dạng bị động là must have been + V3, sau đó là by + tác nhân a tiger.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "modal chỉ sự phỏng đoán"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-8-c40",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit8",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. If\n> 2. the\n> 3. corridor\n> 4. had\n> 5. not\n> 6. been\n> 7. closed\n> 8. the\n> 9. herds\n> 10. would\n> 11. mix\n> 12. today\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 - 2 - 3 - 4 - 5 - 6 - 7 - 9 - 8 - 10 - 11 - 12"
+        },
+        {
+          "key": "B",
+          "text": "1 - 2 - 3 - 4 - 6 - 5 - 7 - 8 - 9 - 10 - 11 - 12"
+        },
+        {
+          "key": "C",
+          "text": "1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12"
+        },
+        {
+          "key": "D",
+          "text": "1 - 2 - 3 - 10 - 4 - 5 - 6 - 7 - 8 - 9 - 11 - 12"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Câu đúng là If the corridor had not been closed, the herds would mix today: mệnh đề if ở quá khứ hoàn thành bị động (việc chặn hành lang thuộc quá khứ), còn kết quả ở hiện tại nên mệnh đề chính chỉ dùng would + động từ nguyên thể.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 8",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "câu điều kiện hỗn hợp"
+      ]
+    }
+  ]
+}

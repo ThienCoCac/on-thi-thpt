@@ -1,0 +1,1506 @@
+{
+  "id": "de-dia-12-bai-01",
+  "title": "Đề ôn tập Địa lí 12 – Bài 1: Vị trí địa lí và phạm vi lãnh thổ",
+  "slug": "de-dia-12-bai-01",
+  "description": "Đề ôn tập 45 phút theo Bài 1 Địa lí 12: vị trí tương đối và tuyệt đối, phạm vi lãnh thổ gồm vùng đất – vùng biển – vùng trời, các bộ phận của vùng biển, đảo và quần đảo, cùng ý nghĩa của vị trí địa lí về tự nhiên, kinh tế, văn hoá – xã hội và quốc phòng – an ninh. Đề có 35 câu trắc nghiệm bốn phương án và 5 câu chọn các phát biểu đúng, kèm các câu tính toán về múi giờ, kinh – vĩ độ và quy mô lãnh thổ.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b01-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét về vị trí tương đối, Việt Nam là quốc gia",
+      "options": [
+        {
+          "key": "A",
+          "text": "nằm ở trung tâm lục địa châu Á, không tiếp giáp với biển."
+        },
+        {
+          "key": "B",
+          "text": "vừa gắn liền với lục địa châu Á, vừa mở ra Biển Đông rộng lớn."
+        },
+        {
+          "key": "C",
+          "text": "nằm hoàn toàn trên các đảo và quần đảo ngoài Biển Đông."
+        },
+        {
+          "key": "D",
+          "text": "thuộc khu vực Nam Á, tiếp giáp Ấn Độ Dương."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nước ta ở rìa phía đông bán đảo Đông Dương, vừa có biên giới trên đất liền với các nước láng giềng vừa có bờ biển hướng ra Biển Đông, nên mang đặc tính của một quốc gia vừa thuộc lục địa vừa thuộc hải dương. A và D sai vì Việt Nam không ở trung tâm lục địa châu Á và không thuộc Nam Á; C sai vì lãnh thổ nước ta chủ yếu là đất liền.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia12-b01-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta nằm hoàn toàn trong vùng nội chí tuyến của bán cầu Bắc, vì vậy thiên nhiên có đặc điểm nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nền nhiệt trung bình năm cao, trong năm Mặt Trời lên thiên đỉnh hai lần."
+        },
+        {
+          "key": "B",
+          "text": "khí hậu ôn đới lạnh, mùa đông kéo dài và có tuyết rơi."
+        },
+        {
+          "key": "C",
+          "text": "lượng mưa ít, phần lớn lãnh thổ là hoang mạc."
+        },
+        {
+          "key": "D",
+          "text": "không có sự phân hóa thiên nhiên theo vĩ độ và theo độ cao."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nằm trong vùng nội chí tuyến nên góc chiếu sáng của Mặt Trời lớn, mỗi năm có hai lần lên thiên đỉnh, cho nền nhiệt cao và nhiều ánh nắng. B và C trái với thực tế khí hậu nhiệt đới ẩm gió mùa của nước ta; D sai vì thiên nhiên vẫn phân hóa theo bắc – nam và theo độ cao.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vị trí địa lí",
+        "nội chí tuyến"
+      ]
+    },
+    {
+      "id": "dia12-b01-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các đặc điểm sau, đặc điểm nào **không** phải là vị trí địa lí của nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nằm ở rìa phía đông của bán đảo Đông Dương."
+        },
+        {
+          "key": "B",
+          "text": "Nằm hoàn toàn trong vùng nội chí tuyến bán cầu Bắc."
+        },
+        {
+          "key": "C",
+          "text": "Tiếp giáp Biển Đông ở phía đông và đông nam."
+        },
+        {
+          "key": "D",
+          "text": "Nằm hoàn toàn ở nửa cầu Nam."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Toàn bộ lãnh thổ nước ta thuộc nửa cầu Bắc (từ khoảng 8°34'B đến 23°23'B), không có phần nào ở bán cầu Nam, nên D là đặc điểm sai. A, B, C đều là các cách mô tả đúng vị trí địa lí Việt Nam.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia12-b01-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiều quốc gia cùng vĩ độ với nước ta ở Tây Nam Á và Bắc Phi bị hoang mạc hóa, còn thiên nhiên nước ta lại xanh tốt quanh năm. Nguyên nhân chủ yếu là do nước ta",
+      "options": [
+        {
+          "key": "A",
+          "text": "nằm gần Xích đạo hơn nên nhận được nhiều nhiệt và ẩm hơn hẳn."
+        },
+        {
+          "key": "B",
+          "text": "có Biển Đông nóng, ẩm cung cấp lượng hơi nước dồi dào và các khối khí di chuyển qua biển."
+        },
+        {
+          "key": "C",
+          "text": "được các dòng biển lạnh từ vùng cận cực tràn xuống điều hòa khí hậu."
+        },
+        {
+          "key": "D",
+          "text": "có địa hình núi cao chặn toàn bộ ảnh hưởng của biển vào nội địa."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Cùng ở vùng nội chí tuyến nhưng nước ta giáp Biển Đông rộng, nguồn ẩm và điều hòa lớn, lại chịu tác động của các khối khí di chuyển qua biển, nên mưa nhiều, không bị hoang mạc hóa. A sai vì nước ta không nằm sát Xích đạo; C sai vì các dòng biển quanh ta là dòng nóng; D sai vì địa hình thấp, biển ảnh hưởng sâu vào nội địa.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vị trí địa lí",
+        "Biển Đông"
+      ]
+    },
+    {
+      "id": "dia12-b01-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Kinh tuyến 105°Đ đi qua lãnh thổ nước ta. Theo quy ước chia múi giờ trên Trái Đất (mỗi múi rộng 15° kinh tuyến), Việt Nam thuộc múi giờ số",
+      "options": [
+        {
+          "key": "A",
+          "text": "5."
+        },
+        {
+          "key": "B",
+          "text": "6."
+        },
+        {
+          "key": "C",
+          "text": "7."
+        },
+        {
+          "key": "D",
+          "text": "8."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Mỗi múi giờ rộng 15° kinh tuyến, nên múi giờ chứa kinh tuyến 105°Đ là 105 : 15 = **7**. Vì vậy giờ Việt Nam là giờ UTC+7. Các phương án 5, 6, 8 tương ứng với kinh tuyến giữa 75°Đ, 90°Đ và 120°Đ, không phải của nước ta.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "múi giờ",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b01-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho biết Việt Nam thuộc múi giờ số 7, còn thành phố London dùng giờ quốc tế GMT (múi giờ 0). Khi đồng hồ ở London chỉ 20 giờ ngày 5-9 thì giờ ở Hà Nội là",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 giờ ngày 6-9."
+        },
+        {
+          "key": "B",
+          "text": "13 giờ ngày 5-9."
+        },
+        {
+          "key": "C",
+          "text": "4 giờ ngày 6-9."
+        },
+        {
+          "key": "D",
+          "text": "20 giờ ngày 5-9."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Hà Nội đến sau London 7 giờ nên lấy 20 + 7 = 27 giờ. Vì 27 − 24 = 3, giờ ở Hà Nội là **3 giờ ngày 6-9** (ngày hôm sau). B sai vì đó là kết quả của 20 − 7; C và D không đúng phép đổi múi giờ.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "múi giờ",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b01-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Phạm vi lãnh thổ nước ta là một khối thống nhất và toàn vẹn, bao gồm",
+      "options": [
+        {
+          "key": "A",
+          "text": "vùng đất, vùng biển và vùng trời."
+        },
+        {
+          "key": "B",
+          "text": "phần đất liền, phần hải đảo và các sông, hồ."
+        },
+        {
+          "key": "C",
+          "text": "vùng nội thủy, vùng lãnh hải và vùng đặc quyền kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "vùng đồng bằng, vùng trung du và vùng miền núi."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Ba bộ phận cấu thành lãnh thổ quốc gia là vùng đất, vùng biển và vùng trời. B và C mới nêu một phần (mới có đất liền, hải đảo hoặc các bộ phận của vùng biển); D là cách phân chia theo dạng địa hình, không phải phạm vi lãnh thổ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "phạm vi lãnh thổ"
+      ]
+    },
+    {
+      "id": "dia12-b01-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Vùng trời của Việt Nam là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khoảng không gian chỉ bao trùm phần đất liền, không tính trên vùng biển."
+        },
+        {
+          "key": "B",
+          "text": "khoảng không gian bao trùm trên toàn bộ lãnh thổ, gồm cả vùng đất và vùng biển."
+        },
+        {
+          "key": "C",
+          "text": "lớp khí quyển giới hạn trong phạm vi 12 hải lý tính từ đường cơ sở."
+        },
+        {
+          "key": "D",
+          "text": "phần không gian mà tàu bay của mọi quốc gia được tự do hoạt động."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Vùng trời là khoảng không gian không có giới hạn độ cao bao trùm trên lãnh thổ thống nhất của nước ta, gồm cả phần đất liền, hải đảo và vùng biển, nên A và C sai. D sai vì vùng trời thuộc chủ quyền quốc gia, tàu bay nước ngoài chỉ vào được khi được phép.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "phạm vi lãnh thổ",
+        "vùng trời"
+      ]
+    },
+    {
+      "id": "dia12-b01-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho biết vùng biển Việt Nam có diện tích khoảng 1 triệu km², phần đất liền có diện tích khoảng 331 212 km². Diện tích vùng biển gấp khoảng bao nhiêu lần diện tích phần đất liền?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khoảng 1,5 lần."
+        },
+        {
+          "key": "B",
+          "text": "Khoảng 3 lần."
+        },
+        {
+          "key": "C",
+          "text": "Khoảng 5 lần."
+        },
+        {
+          "key": "D",
+          "text": "Khoảng 10 lần."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Phép tính: 1 000 000 : 331 212 ≈ 3,02, tức vùng biển rộng **gấp khoảng 3 lần** phần đất liền. A, C, D sai vì không khớp thương số vừa tính được.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vùng biển",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b01-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta có đường bờ biển kéo dài khoảng",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 650 km."
+        },
+        {
+          "key": "B",
+          "text": "2 100 km."
+        },
+        {
+          "key": "C",
+          "text": "3 260 km."
+        },
+        {
+          "key": "D",
+          "text": "4 400 km."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Đường bờ biển nước ta kéo dài khoảng **3 260 km** từ Móng Cái đến Hà Tiên – Cà Mau, tạo nên một không gian biển rộng lớn với nhiều vũng vịnh thuận lợi làm cảng. Các con số 1 650 km, 2 100 km, 4 400 km không phải số liệu về bờ biển Việt Nam (1 650 km gần với chiều dài bắc – nam trên đất liền).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "bờ biển",
+        "phạm vi lãnh thổ"
+      ]
+    },
+    {
+      "id": "dia12-b01-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường cơ sở của nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đường nối các mũi đất và đảo ven bờ, làm căn cứ để xác định các vùng biển của quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "ranh giới ngoài cùng của vùng đặc quyền kinh tế, cách bờ 200 hải lý."
+        },
+        {
+          "key": "C",
+          "text": "dải biển song song với bờ, rộng 12 hải lý tính từ mực nước thấp."
+        },
+        {
+          "key": "D",
+          "text": "đường rìa ngoài của thềm lục địa ở độ sâu khoảng 200 m."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đường cơ sở là đường nối liền các đảo ven bờ và những mũi đất, chạy song song với bờ biển; đó là mốc để đo chiều rộng lãnh hải và các vùng biển tiếp theo. B là ranh giới vùng đặc quyền kinh tế, C là mô tả lãnh hải, D là đặc điểm thềm lục địa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vùng biển",
+        "đường cơ sở"
+      ]
+    },
+    {
+      "id": "dia12-b01-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Vùng nội thủy là vùng",
+      "options": [
+        {
+          "key": "A",
+          "text": "nước tiếp giáp đất liền, ở phía trong đường cơ sở và có chế độ pháp lí như đất liền."
+        },
+        {
+          "key": "B",
+          "text": "rộng 12 hải lý tính từ đường cơ sở ra phía biển."
+        },
+        {
+          "key": "C",
+          "text": "rộng 200 hải lý tính từ đường cơ sở."
+        },
+        {
+          "key": "D",
+          "text": "ở ngoài ranh giới lãnh hải, nhà nước chỉ có quyền về kinh tế."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nội thủy nằm phía trong đường cơ sở, là bộ phận lãnh thổ quốc gia với chế độ pháp lí như đất liền. B mô tả lãnh hải, C mô tả vùng đặc quyền kinh tế, D mô tả vùng tiếp giáp và vùng đặc quyền kinh tế nên đều sai.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vùng biển",
+        "nội thủy"
+      ]
+    },
+    {
+      "id": "dia12-b01-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Lãnh hải của nước ta có đặc điểm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "dải nước rộng 12 hải lý tính từ đường cơ sở, thuộc chủ quyền hoàn toàn của quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "dải nước rộng 24 hải lý, nhà nước chỉ có quyền kiểm soát thuế và y tế."
+        },
+        {
+          "key": "C",
+          "text": "dải nước rộng 200 hải lý, các quốc gia khác được tự do khai thác tài nguyên."
+        },
+        {
+          "key": "D",
+          "text": "toàn bộ vùng nước nằm sâu trong đất liền, liền kề với biên giới trên bộ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Lãnh hải rộng 12 hải lý tính từ đường cơ sở và là bộ phận lãnh thổ quốc gia, nhà nước có chủ quyền hoàn toàn. B là vùng tiếp giáp lãnh hải, C là vùng đặc quyền kinh tế, D là mô tả vùng nội thủy.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vùng biển",
+        "lãnh hải"
+      ]
+    },
+    {
+      "id": "dia12-b01-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhà nước ta thực hiện quyền kiểm soát và phòng ngừa để bảo vệ an ninh, hải quan, y tế trong dải biển rộng 24 hải lý tính từ đường cơ sở. Dải biển đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "vùng nội thủy."
+        },
+        {
+          "key": "B",
+          "text": "vùng tiếp giáp lãnh hải."
+        },
+        {
+          "key": "C",
+          "text": "vùng đặc quyền kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "vùng thềm lục địa."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Vùng tiếp giáp lãnh hải rộng 24 hải lý tính từ đường cơ sở, nhà nước có quyền kiểm soát để ngăn ngừa và xử lí các vi phạm về hải quan, y tế, an ninh. Nội thủy (A) nằm trong đường cơ sở; vùng đặc quyền kinh tế (C) rộng 200 hải lý; thềm lục địa (D) là phần đáy biển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vùng biển",
+        "vùng tiếp giáp lãnh hải"
+      ]
+    },
+    {
+      "id": "dia12-b01-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với vùng đặc quyền kinh tế rộng 200 hải lý tính từ đường cơ sở, Nhà nước Việt Nam có",
+      "options": [
+        {
+          "key": "A",
+          "text": "chủ quyền hoàn toàn như đối với vùng lãnh hải."
+        },
+        {
+          "key": "B",
+          "text": "các quyền thuộc chủ quyền về thăm dò, khai thác, bảo vệ và quản lí tài nguyên biển."
+        },
+        {
+          "key": "C",
+          "text": "quyền sở hữu đối với tàu thuyền của mọi quốc gia qua lại."
+        },
+        {
+          "key": "D",
+          "text": "không có quyền hạn gì vì đây là vùng biển quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Ở vùng đặc quyền kinh tế, nhà nước có các quyền thuộc chủ quyền về kinh tế (khai thác tài nguyên, nghiên cứu khoa học, lắp đặt công trình) nhưng không phải chủ quyền đầy đủ như lãnh hải, nên A sai. C sai vì tàu thuyền nước ngoài được quyền qua lại; D sai vì đây không phải vùng biển quốc tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vùng biển",
+        "vùng đặc quyền kinh tế"
+      ]
+    },
+    {
+      "id": "dia12-b01-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Thềm lục địa của nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "phần đáy biển liền kề với lãnh hải, kéo dài ra tới rìa ngoài dưới biển, tiềm năng dầu khí lớn."
+        },
+        {
+          "key": "B",
+          "text": "phần nước mặt tính từ đường cơ sở ra 12 hải lý."
+        },
+        {
+          "key": "C",
+          "text": "vùng nước nằm hoàn toàn phía trong đường cơ sở."
+        },
+        {
+          "key": "D",
+          "text": "vùng biển mà mọi quốc gia được tự do khai thác tài nguyên."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Thềm lục địa là phần mở rộng dưới mặt nước của lục địa, gồm đáy và lòng đất dưới đáy, nơi tập trung các bể trầm tích giàu dầu khí; nhà nước có quyền chủ quyền đối với tài nguyên ở đây. B là lãnh hải, C là nội thủy, D trái với quy định về quyền chủ quyền.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vùng biển",
+        "thềm lục địa"
+      ]
+    },
+    {
+      "id": "dia12-b01-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Trên đất liền, nước ta tiếp giáp với các quốc gia",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trung Quốc, Lào và Cam-pu-chia."
+        },
+        {
+          "key": "B",
+          "text": "Trung Quốc, Thái Lan và Mi-an-ma."
+        },
+        {
+          "key": "C",
+          "text": "Lào, Thái Lan và Ma-lai-xi-a."
+        },
+        {
+          "key": "D",
+          "text": "Cam-pu-chia, In-đô-nê-xi-a và Phi-líp-pin."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Biên giới trên đất liền của nước ta giáp Trung Quốc ở phía bắc, Lào và Cam-pu-chia ở phía tây và tây nam. Thái Lan, Mi-an-ma, Ma-lai-xi-a, In-đô-nê-xi-a, Phi-líp-pin không có biên giới trên bộ với Việt Nam nên B, C, D sai.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "biên giới",
+        "vị trí địa lí"
+      ]
+    },
+    {
+      "id": "dia12-b01-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho biết điểm cực Bắc của nước ta ở vĩ độ 23°23'B, điểm cực Nam ở vĩ độ 8°34'B và mỗi độ vĩ tuyến dài khoảng 111 km. Chiều dài bắc – nam trên phần đất liền nước ta xấp xỉ",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 050 km."
+        },
+        {
+          "key": "B",
+          "text": "1 400 km."
+        },
+        {
+          "key": "C",
+          "text": "1 650 km."
+        },
+        {
+          "key": "D",
+          "text": "3 260 km."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Chênh lệch vĩ độ: 23°23' − 8°34' = 14°49' ≈ 14,82 độ. Lấy 14,82 × 111 ≈ 1 645 km, làm tròn thành **khoảng 1 650 km**. A và B nhỏ hơn kết quả tính; D (3 260 km) là số đo chiều dài bờ biển, không phải chiều dài bắc – nam.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "tính toán",
+        "phạm vi lãnh thổ"
+      ]
+    },
+    {
+      "id": "dia12-b01-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm cực tây của phần đất liền nước ta ở kinh độ 102°09'Đ, điểm cực đông ở 109°24'Đ. Khoảng chênh lệch kinh độ giữa hai điểm này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "6°45'."
+        },
+        {
+          "key": "B",
+          "text": "7°15'."
+        },
+        {
+          "key": "C",
+          "text": "8°05'."
+        },
+        {
+          "key": "D",
+          "text": "9°15'."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Trừ theo phút: 24' − 9' = 15'; 109° − 102° = 7°, vậy chênh lệch là **7°15'** (bằng 7,25 độ kinh tuyến). Các phương án còn lại sai do trừ nhầm phút hoặc làm tròn không đúng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "tính toán",
+        "kinh độ"
+      ]
+    },
+    {
+      "id": "dia12-b01-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Lãnh thổ nước ta hẹp ngang, kéo dài theo chiều bắc – nam và tiếp giáp Biển Đông. Đặc điểm đó ảnh hưởng chủ yếu đến tự nhiên theo hướng",
+      "options": [
+        {
+          "key": "A",
+          "text": "biển tác động sâu vào nội địa, thiên nhiên mang tính chất hải dương rõ rệt ở nhiều vùng."
+        },
+        {
+          "key": "B",
+          "text": "nhiệt độ trung bình năm giảm dần từ đồng bằng lên vùng núi."
+        },
+        {
+          "key": "C",
+          "text": "khí hậu mang tính chất lục địa, khô hạn và ít mưa."
+        },
+        {
+          "key": "D",
+          "text": "thiên nhiên không có sự phân hóa theo vĩ độ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Lãnh thổ hẹp ngang và dài theo bắc – nam nên các khối khí từ Biển Đông dễ dàng ảnh hưởng sâu vào nội địa, làm tăng ẩm và điều hòa nhiệt. B là ảnh hưởng của địa hình; C trái với thực tế khí hậu ẩm; D sai vì chiều dài gần 15 vĩ độ chính là nguyên nhân phân hóa bắc – nam.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "hình dạng lãnh thổ",
+        "ý nghĩa vị trí"
+      ]
+    },
+    {
+      "id": "dia12-b01-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai quần đảo xa bờ có ý nghĩa đặc biệt đối với chủ quyền và kinh tế biển của nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hoàng Sa và Trường Sa."
+        },
+        {
+          "key": "B",
+          "text": "Cát Bà và Cô Tô."
+        },
+        {
+          "key": "C",
+          "text": "Phú Quốc và Nam Du."
+        },
+        {
+          "key": "D",
+          "text": "Côn Đảo và Lý Sơn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Hoàng Sa và Trường Sa là hai quần đảo xa bờ, nằm giữa Biển Đông, có vị trí chiến lược cả về kinh tế lẫn quốc phòng – an ninh và là minh chứng cho phạm vi lãnh thổ trên biển của nước ta. B, C, D là các đảo, quần đảo ven bờ hoặc gần bờ, không phải hai quần đảo xa bờ tiêu biểu được nói tới trong bài.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "biển đảo",
+        "chủ quyền"
+      ]
+    },
+    {
+      "id": "dia12-b01-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Nhà nước ta xác lập và thực thi chủ quyền liên tục, phù hợp với quy định của luật pháp quốc tế đối với vùng đất, vùng biển và vùng trời thể hiện",
+      "options": [
+        {
+          "key": "A",
+          "text": "lãnh thổ Việt Nam là một khối thống nhất và toàn vẹn."
+        },
+        {
+          "key": "B",
+          "text": "chỉ có phần đất liền thuộc phạm vi lãnh thổ quốc gia."
+        },
+        {
+          "key": "C",
+          "text": "vùng biển là không gian chung của mọi quốc gia Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "chủ quyền quốc gia chỉ có hiệu lực trong phạm vi vùng nội thủy."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Ba bộ phận vùng đất, vùng biển, vùng trời đều thuộc chủ quyền quốc gia và được quản lí liên tục, nên lãnh thổ là một khối thống nhất, toàn vẹn. B, C, D thu hẹp phạm vi chủ quyền và trái với quy định của Luật Biển Việt Nam cũng như Công ước của Liên hợp quốc về Luật Biển năm 1982.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "chủ quyền",
+        "phạm vi lãnh thổ"
+      ]
+    },
+    {
+      "id": "dia12-b01-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta nằm gần các tuyến đường hàng hải và hàng không quốc tế đi qua Biển Đông. Ý nghĩa kinh tế chủ yếu của đặc điểm này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nước ta không cần phát triển hệ thống cảng biển và dịch vụ logistic."
+        },
+        {
+          "key": "B",
+          "text": "tạo điều kiện thuận lợi để giao lưu, buôn bán và hội nhập với khu vực, thế giới."
+        },
+        {
+          "key": "C",
+          "text": "hàng hóa xuất khẩu của nước ta không phải chịu cước vận tải biển."
+        },
+        {
+          "key": "D",
+          "text": "nước ta hoàn toàn tránh được rủi ro do bão và sóng lớn trên biển."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nằm trên các tuyến hàng hải quốc tế nên Việt Nam có lợi thế lớn trong vận tải biển, xuất nhập khẩu và thu hút đầu tư, hội nhập kinh tế. A sai vì ngược lại, nước ta cần xây dựng cảng biển và dịch vụ logistic; C vô lí vì vẫn phải trả cước vận tải; D là yếu tố tự nhiên, không phải ý nghĩa kinh tế và cũng không đúng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "kinh tế"
+      ]
+    },
+    {
+      "id": "dia12-b01-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Vùng biển nước ta rộng, nằm trong vùng nhiệt đới, ven bờ có nhiều vịnh nước sâu và thềm lục địa giàu dầu khí. Điều kiện này là cơ sở để phát triển tổng hợp",
+      "options": [
+        {
+          "key": "A",
+          "text": "các ngành kinh tế – kĩ thuật biển như khai thác khoáng sản, hải sản, vận tải biển và du lịch biển."
+        },
+        {
+          "key": "B",
+          "text": "nghề trồng lúa nước ở hai đồng bằng châu thổ lớn."
+        },
+        {
+          "key": "C",
+          "text": "công nghiệp khai thác than và quặng kim loại ở vùng núi."
+        },
+        {
+          "key": "D",
+          "text": "lâm nghiệp và trồng rừng phòng hộ đầu nguồn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Biển ấm, nhiều hải sản, dầu khí ở thềm lục địa, vịnh nước sâu làm cảng và bãi biển đẹp cho du lịch là thế mạnh để phát triển tổng hợp kinh tế biển. B, C, D là thế mạnh của đồng bằng và trung du – miền núi, không phải của vùng biển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "kinh tế biển",
+        "vùng biển"
+      ]
+    },
+    {
+      "id": "dia12-b01-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Vị trí nằm trong vùng nội chí tuyến, tiếp giáp Biển Đông và liền kề với các nước láng giềng làm cho hệ sinh vật nước ta",
+      "options": [
+        {
+          "key": "A",
+          "text": "nghèo nàn, thành phần chủ yếu là thực vật chịu hạn."
+        },
+        {
+          "key": "B",
+          "text": "phong phú, loài nhiệt đới chiếm ưu thế, đồng thời có nhiều loài cận nhiệt và ôn đới ở vùng núi cao."
+        },
+        {
+          "key": "C",
+          "text": "chỉ gồm các loài động vật và thực vật ôn đới."
+        },
+        {
+          "key": "D",
+          "text": "hoàn toàn trùng với hệ thực vật vùng Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nhiệt – ẩm dồi dào của vùng nội chí tuyến cùng biển và sự giao lưu với các khu vực lân cận tạo nên hệ sinh vật phong phú, nhiều kiểu dạng, từ nhiệt đới đến cận nhiệt và ôn đới núi cao. A, C, D trái với thực tế tính đa dạng sinh học của Việt Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "tự nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b01-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa **về tự nhiên** quan trọng nhất của vị trí địa lí nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "quy định thiên nhiên mang tính chất nhiệt đới ẩm gió mùa."
+        },
+        {
+          "key": "B",
+          "text": "làm cho thiên nhiên nước ta thuần nhất, hầu như không có sự phân hóa."
+        },
+        {
+          "key": "C",
+          "text": "khiến nước ta gần như không phải chịu thiên tai."
+        },
+        {
+          "key": "D",
+          "text": "tạo điều kiện thu hút vốn đầu tư nước ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Vị trí nội chí tuyến giáp Biển Đông, nằm trong khu vực gió mùa châu Á quy định tính chất nhiệt đới ẩm gió mùa của toàn bộ tự nhiên nước ta. B và C sai vì thiên nhiên có phân hóa và thiên tai (bão, lũ, hạn) thường xuyên; D là ý nghĩa kinh tế, không phải ý nghĩa tự nhiên.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "tự nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b01-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào của vị trí địa lí và lãnh thổ **vừa** tạo thuận lợi cho phát triển kinh tế biển, **vừa** làm cho nước ta thường xuyên chịu tổn thất do thiên tai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nằm trong vùng nội chí tuyến và tiếp giáp Biển Đông nóng, ẩm, rộng lớn."
+        },
+        {
+          "key": "B",
+          "text": "Biên giới trên đất liền chạy dài qua địa hình miền núi."
+        },
+        {
+          "key": "C",
+          "text": "Lãnh thổ hẹp ngang và kéo dài theo chiều bắc – nam."
+        },
+        {
+          "key": "D",
+          "text": "Có hai quần đảo xa bờ là Hoàng Sa và Trường Sa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Biển Đông ấm, rộng mở ra nhiều thuận lợi về hải sản, dầu khí, cảng biển, du lịch, nhưng cũng là nguồn cung cấp ẩm, là nơi hình thành bão và gây mưa lớn, lũ, nước dâng, hạn hán. B và C liên quan tới đất liền, không trực tiếp tạo thế mạnh kinh tế biển; D là đặc điểm đảo, không phải nguyên nhân tổng hợp của thuận lợi – thiên tai.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "thiên tai"
+      ]
+    },
+    {
+      "id": "dia12-b01-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Việt Nam sinh hoạt trong cùng không gian khu vực Đông Nam Á, có nhiều nét tương đồng về lịch sử – văn hoá với các nước láng giềng. Điều đó thuận lợi chủ yếu cho",
+      "options": [
+        {
+          "key": "A",
+          "text": "việc xóa bỏ mọi khác biệt văn hoá giữa các vùng trong nước."
+        },
+        {
+          "key": "B",
+          "text": "cộng đồng các dân tộc Việt Nam giao lưu, hợp tác về văn hoá với các quốc gia trong khu vực."
+        },
+        {
+          "key": "C",
+          "text": "việc tiếp thu nguyên vẹn văn hoá của các nước, từ bỏ giá trị truyền thống."
+        },
+        {
+          "key": "D",
+          "text": "việc ngăn cản các hoạt động hợp tác và giao lưu quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Đây là ý nghĩa văn hoá – xã hội: những điểm tương đồng giúp hợp tác, giao lưu văn hoá, giáo dục, y tế với các nước trong khu vực thuận lợi hơn. A sai vì khác biệt giữa các vùng vẫn tồn tại và được tôn trọng; C sai vì tiếp thu có chọn lọc, không từ bỏ truyền thống; D ngược lại với thực tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "văn hoá – xã hội"
+      ]
+    },
+    {
+      "id": "dia12-b01-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Về quốc phòng – an ninh, vị trí địa lí của nước ta đặt ra yêu cầu",
+      "options": [
+        {
+          "key": "A",
+          "text": "dựa hẳn vào bên ngoài để bảo vệ lãnh thổ vì nước ta nằm xa các tuyến hàng hải quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "chỉ bảo vệ biên giới trên đất liền, không liên quan tới biển và vùng trời."
+        },
+        {
+          "key": "C",
+          "text": "bảo vệ vững chắc chủ quyền lãnh thổ, biên giới, vùng biển, vùng trời và các đảo, quần đảo."
+        },
+        {
+          "key": "D",
+          "text": "thu hẹp hoạt động kinh tế trên Biển Đông để tránh những tranh chấp."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Việt Nam có cả biên giới trên bộ, trên biển và vùng trời, nằm ở vị trí chiến lược quan trọng của Đông Nam Á và trên tuyến hàng hải quốc tế, nên phải giữ vững chủ quyền toàn bộ lãnh thổ. A sai vì nước ta nằm gần các tuyến hàng hải quốc tế; B bỏ sót vùng biển, vùng trời, đảo; D trái với đường lối kết hợp phát triển kinh tế với bảo đảm quốc phòng, an ninh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "quốc phòng – an ninh"
+      ]
+    },
+    {
+      "id": "dia12-b01-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Về kinh tế, vị trí địa lí của nước ta tạo thuận lợi nổi bật nhất cho",
+      "options": [
+        {
+          "key": "A",
+          "text": "phát triển nền kinh tế mở, thu hút đầu tư nước ngoài, hội nhập khu vực và quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "xây dựng nền kinh tế tự cấp, tự túc, không phụ thuộc vào bên ngoài."
+        },
+        {
+          "key": "C",
+          "text": "di dân toàn bộ dân cư vào các đô thị lớn ở đồng bằng."
+        },
+        {
+          "key": "D",
+          "text": "chỉ tập trung phát triển công nghiệp nặng và khai khoáng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Vị trí kề các tuyến giao thông quốc tế, gần các khu kinh tế năng động của châu Á – Thái Bình Dương giúp nước ta mở rộng quan hệ thương mại và thu hút đầu tư, tức là phát triển kinh tế mở và hội nhập. B, C, D là những cách làm khép kín hoặc phi thực tế, không phải ý nghĩa của vị trí địa lí.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "kinh tế"
+      ]
+    },
+    {
+      "id": "dia12-b01-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây **không** phải là ý nghĩa **kinh tế** của vị trí địa lí nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuận lợi phát triển nhiều ngành kinh tế, trong đó có nông nghiệp nhiệt đới và kinh tế biển."
+        },
+        {
+          "key": "B",
+          "text": "Tạo điều kiện giao lưu thương mại với các nước trong khu vực và trên thế giới."
+        },
+        {
+          "key": "C",
+          "text": "Nước ta có nhiều điểm tương đồng về lịch sử, văn hoá với các quốc gia Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "Thuận lợi thu hút đầu tư nước ngoài và tham gia mạng lưới sản xuất khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Sự tương đồng về lịch sử – văn hoá là ý nghĩa **văn hoá – xã hội**, không phải ý nghĩa kinh tế. A, B, D đều nói tới ngành kinh tế, thương mại, đầu tư nên thuộc nhóm ý nghĩa kinh tế.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "phân loại ý nghĩa"
+      ]
+    },
+    {
+      "id": "dia12-b01-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Biên giới trên đất liền nước ta chạy dài qua địa hình miền núi và có nhiều cửa khẩu nối với các nước láng giềng. Đặc điểm này có ý nghĩa chủ yếu trong việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "bảo đảm an ninh biên giới và trao đổi hàng hóa, hợp tác khu vực với các nước láng giềng."
+        },
+        {
+          "key": "B",
+          "text": "làm mất đi lợi thế phát triển du lịch biển của nước ta."
+        },
+        {
+          "key": "C",
+          "text": "khiến mọi giao lưu với bên ngoài chỉ có thể tiến hành bằng đường biển."
+        },
+        {
+          "key": "D",
+          "text": "thuận lợi để tập trung toàn bộ dân số vào vùng đồng bằng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đường biên giới trên bộ vừa là địa bàn quốc phòng – an ninh, vừa là cửa mở cho giao thương và hợp tác với Trung Quốc, Lào, Cam-pu-chia qua các cửa khẩu. B và D không liên quan tới biên giới trên bộ; C sai vì nước ta giao lưu bằng cả đường bộ, đường không, đường biển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "biên giới",
+        "quốc phòng – an ninh"
+      ]
+    },
+    {
+      "id": "dia12-b01-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các nhận định về vị trí địa lí và phạm vi lãnh thổ Việt Nam: (1) Nằm ở rìa phía đông của bán đảo Đông Dương. (2) Nằm hoàn toàn ở nửa cầu Nam. (3) Tiếp giáp Biển Đông và có đường bờ biển dài khoảng 3 260 km. (4) Nằm hoàn toàn ngoài vùng nội chí tuyến. Số nhận định **đúng** là",
+      "options": [
+        {
+          "key": "A",
+          "text": "1."
+        },
+        {
+          "key": "B",
+          "text": "2."
+        },
+        {
+          "key": "C",
+          "text": "3."
+        },
+        {
+          "key": "D",
+          "text": "4."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nhận định (1) và (3) đúng. Nhận định (2) sai vì toàn bộ lãnh thổ thuộc nửa cầu Bắc; nhận định (4) sai vì nước ta nằm **hoàn toàn trong** vùng nội chí tuyến (khoảng 8°34'B đến 23°23'B). Vậy có **2** nhận định đúng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vị trí địa lí",
+        "nhận định"
+      ]
+    },
+    {
+      "id": "dia12-b01-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Một máy bay khởi hành từ Hà Nội lúc 6 giờ ngày 10-11 (giờ Hà Nội, múi giờ số 7), bay thẳng đến Bắc Kinh (múi giờ số 8) hết 4 giờ. Giờ địa phương ở Bắc Kinh khi máy bay hạ cánh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "9 giờ ngày 10-11."
+        },
+        {
+          "key": "B",
+          "text": "10 giờ ngày 10-11."
+        },
+        {
+          "key": "C",
+          "text": "11 giờ ngày 10-11."
+        },
+        {
+          "key": "D",
+          "text": "12 giờ ngày 10-11."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Theo giờ Hà Nội, máy bay hạ cánh lúc 6 + 4 = 10 giờ, tức 10 − 7 = 3 giờ UTC. Bắc Kinh thuộc múi giờ số 8 nên giờ địa phương là 3 + 8 = **11 giờ ngày 10-11**. B sai vì lấy 10 giờ theo giờ Hà Nội; A và D không khớp phép đổi múi giờ.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "múi giờ",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b01-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "SINGLE_CHOICE",
+      "content": "Phạm vi lãnh thổ nước ta mở rộng về phía đông chủ yếu nhờ",
+      "options": [
+        {
+          "key": "A",
+          "text": "các cao nguyên badan trải rộng ở khu vực Nam Trung Bộ."
+        },
+        {
+          "key": "B",
+          "text": "vùng biển rộng lớn với nhiều đảo, quần đảo và thềm lục địa."
+        },
+        {
+          "key": "C",
+          "text": "dải đồng bằng châu thổ ở cực nam của lãnh thổ."
+        },
+        {
+          "key": "D",
+          "text": "các cánh cung núi ở vùng trung du và miền núi phía bắc."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Hướng đông của lãnh thổ là hướng ra Biển Đông: vùng biển rộng gấp khoảng ba lần phần đất liền, cùng hệ thống đảo, quần đảo và thềm lục địa mở rộng phạm vi quốc gia về phía này. A, C, D đều là bộ phận đất liền và không nằm ở rìa phía đông theo nghĩa mở rộng lãnh thổ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "phạm vi lãnh thổ",
+        "vùng biển"
+      ]
+    },
+    {
+      "id": "dia12-b01-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về vị trí địa lí của Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nằm ở rìa phía đông của bán đảo Đông Dương, gần trung tâm khu vực Đông Nam Á."
+        },
+        {
+          "key": "B",
+          "text": "Nằm hoàn toàn trong vùng nội chí tuyến của bán cầu Bắc."
+        },
+        {
+          "key": "C",
+          "text": "Thuộc múi giờ số 8 và tiếp giáp Ấn Độ Dương ở phía đông."
+        },
+        {
+          "key": "D",
+          "text": "Nằm gần các tuyến đường hàng hải, hàng không quốc tế đi qua Biển Đông."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, B, D.** Ba phát biểu này đều mô tả đúng vị trí địa lí Việt Nam: rìa đông bán đảo Đông Dương, trong vùng nội chí tuyến bán cầu Bắc và kề các tuyến hàng hải quốc tế trên Biển Đông. C sai vì nước ta thuộc múi giờ số 7 (kinh tuyến 105°Đ) và phía đông tiếp giáp **Biển Đông**, không phải Ấn Độ Dương.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vị trí địa lí",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b01-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về vùng biển của Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng biển gồm nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa."
+        },
+        {
+          "key": "B",
+          "text": "Lãnh hải có chiều rộng 12 hải lý tính từ đường cơ sở và thuộc chủ quyền quốc gia."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước ta có các quyền thuộc chủ quyền về thăm dò, khai thác và bảo vệ tài nguyên ở vùng đặc quyền kinh tế rộng 200 hải lý."
+        },
+        {
+          "key": "D",
+          "text": "Vùng nội thủy nằm ngoài ranh giới lãnh hải và là vùng nước tự do cho tàu biển mọi quốc gia."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, B, C.** Đây là cách phân chia và chế độ pháp lí của các bộ phận vùng biển theo Luật Biển Việt Nam và Công ước của Liên hợp quốc về Luật Biển năm 1982. D sai vì nội thủy nằm **phía trong** đường cơ sở, tiếp giáp đất liền và có chế độ pháp lí như đất liền, không phải vùng nước tự do.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "vùng biển",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b01-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về ý nghĩa **tự nhiên** của vị trí địa lí nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quy định thiên nhiên nước ta mang tính chất nhiệt đới ẩm gió mùa."
+        },
+        {
+          "key": "B",
+          "text": "Khiến nước ta nằm sâu trong lục địa nên hầu như không có thiên tai."
+        },
+        {
+          "key": "C",
+          "text": "Sinh vật phong phú, gồm nhiều loài nhiệt đới cùng các loài cận nhiệt và ôn đới ở vùng núi cao."
+        },
+        {
+          "key": "D",
+          "text": "Biển ấm, nhiều ánh sáng, thành phần loài sinh vật biển đa dạng và có tính ổn định cao."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, C, D.** Vị trí nội chí tuyến giáp Biển Đông đem lại nguồn nhiệt – ẩm lớn, tính đa dạng sinh học cao trên cạn cũng như dưới biển. B sai vì nước ta không nằm sâu trong lục địa và là một trong những khu vực chịu nhiều thiên tai (bão, lũ, hạn hán, nước dâng).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b01-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về ý nghĩa kinh tế và văn hoá – xã hội của vị trí địa lí nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tạo điều kiện phát triển nền kinh tế mở, hội nhập khu vực và quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "Là thuận lợi để phát triển nhiều ngành kinh tế, trong đó có nông nghiệp nhiệt đới và kinh tế biển."
+        },
+        {
+          "key": "C",
+          "text": "Buộc nước ta phải hạn chế giao lưu, hợp tác với các quốc gia láng giềng."
+        },
+        {
+          "key": "D",
+          "text": "Có nhiều nét tương đồng về lịch sử – văn hoá với các nước Đông Nam Á, thuận lợi cho giao lưu giữa các dân tộc."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, B, D.** Vị trí kề các tuyến giao thông quốc tế và không gian khu vực đem lại cả ý nghĩa kinh tế (kinh tế mở, nhiều ngành nghề) lẫn ý nghĩa văn hoá – xã hội (giao lưu, hợp tác). C sai vì vị trí địa lí tạo thuận lợi cho mở rộng, không phải thu hẹp quan hệ quốc tế.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "ý nghĩa vị trí",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b01-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b01-vi-tri-lanh-tho",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về phạm vi lãnh thổ và chủ quyền quốc gia của Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lãnh thổ nước ta gồm vùng đất, vùng biển và vùng trời, là một khối thống nhất và toàn vẹn."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước ta xác lập và thực thi chủ quyền liên tục, phù hợp với luật pháp quốc tế đối với hai quần đảo Hoàng Sa và Trường Sa."
+        },
+        {
+          "key": "C",
+          "text": "Vùng trời chỉ bao trùm phần đất liền, không bao gồm không gian trên vùng biển."
+        },
+        {
+          "key": "D",
+          "text": "Phần đất liền có diện tích khoảng 331 212 km², đường bờ biển dài khoảng 3 260 km và vùng biển rộng khoảng 1 triệu km²."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, B, D.** Ba phát biểu phản ánh đúng cấu trúc lãnh thổ thống nhất gồm đất – biển – trời, chủ quyền đối với hai quần đảo xa bờ và các số liệu cơ bản về quy mô lãnh thổ. C sai vì vùng trời bao trùm trên **toàn bộ** lãnh thổ, kể cả vùng biển và các đảo.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 1",
+        "phạm vi lãnh thổ",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

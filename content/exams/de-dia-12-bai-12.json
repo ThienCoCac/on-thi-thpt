@@ -1,0 +1,1469 @@
+{
+  "id": "de-dia-12-bai-12",
+  "title": "Đề ôn tập Địa lí 12 – Bài 12: Vấn đề phát triển ngành nông nghiệp",
+  "slug": "de-dia-12-bai-12",
+  "description": "Đề ôn tập 40 câu theo Bài 12: vai trò và đặc điểm của nông nghiệp, xu hướng chuyển dịch cơ cấu, trồng trọt, chăn nuôi, thâm canh ứng dụng công nghệ, tái cơ cấu và nông nghiệp bền vững thích ứng biến đổi khí hậu.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B12",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b12-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong nền kinh tế nước ta hiện nay, vai trò hàng đầu của ngành nông nghiệp được thể hiện trước hết ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "cung cấp lương thực, thực phẩm cho nhân dân, bảo đảm an ninh lương thực và tạo việc làm cho lao động nông thôn."
+        },
+        {
+          "key": "B",
+          "text": "thay thế hoàn toàn công nghiệp trong cơ cấu giá trị sản xuất của cả nước."
+        },
+        {
+          "key": "C",
+          "text": "chiếm tỉ trọng lớn nhất trong tổng sản phẩm của nền kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "là nguồn thu duy nhất từ hoạt động xuất khẩu của nước ta."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nông nghiệp có vai trò cơ bản: bảo đảm lương thực, thực phẩm cho dân số đông, giữ an ninh lương thực, cung cấp nguyên liệu cho công nghiệp chế biến, tạo việc làm và thu nhập cho lao động nông thôn. Các phương án B, C, D sai vì khu vực công nghiệp và dịch vụ đang chiếm tỉ trọng giá trị lớn hơn, nông nghiệp không thay thế công nghiệp và cũng không phải nguồn thu xuất khẩu duy nhất (dịch vụ, công nghiệp chế biến – lắp ráp cũng mang lại nguồn thu lớn).",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "vai trò nông nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b12-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây đúng với sản xuất nông nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sản phẩm nông nghiệp chỉ dùng để tiêu dùng, không trở thành hàng hoá."
+        },
+        {
+          "key": "B",
+          "text": "Đối tượng sản xuất là cây trồng, vật nuôi nên phụ thuộc nhiều vào điều kiện tự nhiên và có tính thời vụ."
+        },
+        {
+          "key": "C",
+          "text": "Thời vụ sản xuất nông nghiệp giống nhau ở mọi vùng trong cả nước."
+        },
+        {
+          "key": "D",
+          "text": "Có thể rút ngắn thời gian sinh trưởng của cây trồng theo ý muốn chủ quan của con người."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Đặc điểm nổi bật của nông nghiệp là tư liệu sản xuất chủ yếu là đất, đối tượng sản xuất là cây trồng và vật nuôi có quy luật sinh trưởng riêng, nên sản xuất phụ thuộc điều kiện tự nhiên và mang tính thời vụ rõ rệt. A sai vì nông nghiệp hàng hoá hướng ra thị trường và xuất khẩu. C sai vì thời vụ khác nhau giữa các vùng do khí hậu phân hoá. D sai vì quy luật sinh học khách quan, con người chỉ tác động một phần qua giống và kĩ thuật.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "đặc điểm sản xuất nông nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b12-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Xu hướng chuyển dịch cơ cấu ngành nông nghiệp ở nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng nhanh tỉ trọng trồng trọt, giảm tỉ trọng tất cả các nhóm cây hàng năm."
+        },
+        {
+          "key": "B",
+          "text": "chuyển toàn bộ diện tích đất nông nghiệp sang các ngành phi nông nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "tỉ trọng ngành chăn nuôi tăng, trồng trọt giảm; trong trồng trọt giảm dần cây lương thực, tăng cây công nghiệp, rau, hoa và cây ăn quả."
+        },
+        {
+          "key": "D",
+          "text": "giảm tỉ trọng chăn nuôi, chỉ tập trung độc canh cây lương thực."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Cơ cấu ngành nông nghiệp đang chuyển dịch theo hướng tiến bộ: tăng dần giá trị chăn nuôi, giảm dần trồng trọt; nội bộ trồng trọt giảm tương đối cây lương thực, tăng cây công nghiệp, rau – hoa và cây ăn quả theo nhu cầu thị trường. A và D ngược chiều với xu hướng thực tế. B sai vì đất nông nghiệp được bảo vệ và sử dụng tiết kiệm, không thể chuyển hết sang phi nông nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "chuyển dịch cơ cấu ngành"
+      ]
+    },
+    {
+      "id": "dia12-b12-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Hướng nào sau đây là quan trọng nhất để phát triển cây công nghiệp ở nước ta theo hướng bền vững?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở rộng diện tích cây công nghiệp tự phát vào đất rừng và đất trồng lúa."
+        },
+        {
+          "key": "B",
+          "text": "Tăng cường bán sản phẩm thô để thu nhanh ngoại tệ."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ sản xuất theo kinh nghiệm truyền thống, hạn chế đầu tư khoa học — công nghệ."
+        },
+        {
+          "key": "D",
+          "text": "Xây dựng vùng chuyên canh quy mô hợp lí gắn với công nghiệp chế biến và thị trường tiêu thụ."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Cây công nghiệp phát triển bền vững khi có vùng chuyên canh gắn với nhà máy chế biến và thị trường (nội tiêu, xuất khẩu), tạo chuỗi giá trị ổn định và nâng chất lượng nông sản. A sai vì phá rừng, chuyển đất lúa làm mất cân bằng sinh thái và vi phạm quy hoạch. B sai vì bán thô mang lại giá trị thấp, dễ bị ép giá. C sai vì thiếu công nghệ thì năng suất, chất lượng và khả năng cạnh tranh đều thấp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "cây công nghiệp bền vững"
+      ]
+    },
+    {
+      "id": "dia12-b12-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Yêu cầu bảo đảm an ninh lương thực quốc gia được thực hiện trước hết nhờ",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhập khẩu lương thực là chủ yếu để dành đất cho cây công nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "thâm canh, tăng vụ, giữ diện tích lúa hợp lí kết hợp đa dạng hoá cây trồng và giảm tổn thất sau thu hoạch."
+        },
+        {
+          "key": "C",
+          "text": "mở thêm thị trường xuất khẩu gạo bất chấp nhu cầu tiêu dùng trong nước."
+        },
+        {
+          "key": "D",
+          "text": "giảm số lượng lao động trong ngành trồng trọt."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** An ninh lương thực được bảo đảm bằng nâng năng suất và sản lượng trên diện tích đất lúa được giữ theo quy hoạch (thâm canh, tăng vụ, giống tốt), đa dạng hoá nguồn lương thực và giảm hao hụt sau thu hoạch. A sai vì phụ thuộc nhập khẩu làm mất chủ động. C sai vì xuất khẩu chỉ tiến hành sau khi đủ tiêu dùng và dự trữ. D không trực tiếp bảo đảm sản lượng lương thực.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "an ninh lương thực"
+      ]
+    },
+    {
+      "id": "dia12-b12-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở nước ta, cây lương thực có hạt chiếm vị trí số một và được gieo trồng rộng khắp cả hai miền là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cây lúa."
+        },
+        {
+          "key": "B",
+          "text": "cây ngô."
+        },
+        {
+          "key": "C",
+          "text": "cây khoai lang."
+        },
+        {
+          "key": "D",
+          "text": "cây sắn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Lúa là cây lương thực chủ đạo, chiếm phần lớn diện tích gieo trồng và sản lượng lương thực có hạt, gắn với văn hoá nông nghiệp và bảo đảm an ninh lương thực. Ngô, khoai lang, sắn đều là cây lương thực – thực phẩm và nguyên liệu quan trọng nhưng diện tích, sản lượng nhỏ hơn lúa và thường trồng trên đất khô, đất dốc.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "cây lương thực"
+      ]
+    },
+    {
+      "id": "dia12-b12-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta trồng được nhiều loại cây công nghiệp nhiệt đới có giá trị như cà phê, hồ tiêu, cao su, điều chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "mạng lưới giao thông vận tải đã hiện đại hoá đồng đều khắp các vùng."
+        },
+        {
+          "key": "B",
+          "text": "diện tích mặt nước nuôi trồng thuỷ sản lớn."
+        },
+        {
+          "key": "C",
+          "text": "khí hậu nhiệt đới ẩm gió mùa, nguồn đất feralit và đất bazan rộng, lao động có kinh nghiệm trồng cây công nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "nền nhiệt thấp và lượng mưa rất ít quanh năm."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Điều kiện khí hậu nhiệt đới ẩm với tổng tích ôn cao, ẩm dồi dào cùng quỹ đất feralit, đất bazan tập trung ở vùng đồi núi và các cao nguyên là cơ sở tự nhiên để trồng cây công nghiệp lâu năm; kinh nghiệm và truyền thống của lao động nông thôn giúp thâm canh. A, B không phải điều kiện sinh thái quyết định việc trồng cây công nghiệp. D trái ngược hoàn toàn với khí hậu nước ta.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "điều kiện trồng cây công nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b12-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong những năm gần đây, diện tích đất trồng lúa của nước ta có xu hướng giảm, nguyên nhân chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "người dân không còn nhu cầu sử dụng gạo trong bữa ăn hằng ngày."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ diện tích lúa được chuyển sang trồng cây ăn quả."
+        },
+        {
+          "key": "C",
+          "text": "năng suất lúa giảm liên tục nên phải thu hẹp sản xuất."
+        },
+        {
+          "key": "D",
+          "text": "đất lúa được chuyển một phần sang đất ở, khu công nghiệp, hạ tầng và một phần chuyển đổi cơ cấu sản xuất."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Quá trình công nghiệp hoá, đô thị hoá làm một phần đất lúa, nhất là ở Đồng bằng sông Hồng và Đồng bằng sông Cửu Long, chuyển sang xây dựng khu công nghiệp, đô thị và hạ tầng; một phần khác được chuyển đổi sang mô hình sản xuất hiệu quả hơn. A vô lí vì gạo vẫn là lương thực chính. B và C sai vì diện tích chuyển đổi không phải toàn bộ và năng suất lúa nhìn chung vẫn tăng nhờ thâm canh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "đất trồng lúa"
+      ]
+    },
+    {
+      "id": "dia12-b12-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngành chăn nuôi ở nước ta đang chuyển biến rõ rệt theo hướng",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng dần chăn nuôi thả rông, tận dụng thức ăn tự nhiên."
+        },
+        {
+          "key": "B",
+          "text": "chăn nuôi tập trung theo trang trại, ứng dụng khoa học — công nghệ, gắn với giết mổ, chế biến và thị trường."
+        },
+        {
+          "key": "C",
+          "text": "chỉ chăn nuôi lấy sức kéo phục vụ sản xuất nông nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "giảm đàn gia súc, gia cầm để dành toàn bộ đất cho trồng trọt."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Chăn nuôi chuyển từ nhỏ lẻ, thả rông sang nuôi tập trung trong trang trại, ứng dụng giống mới, thức ăn công nghiệp, kiểm soát dịch bệnh và liên kết với cơ sở giết mổ, chế biến để tạo sản phẩm hàng hoá an toàn. A là cách làm cũ đang bị thu hẹp. C sai vì trâu, bò ngày nay chủ yếu lấy thịt, sữa. D sai vì giá trị chăn nuôi đang tăng, không giảm đàn để lấy đất.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "xu hướng chăn nuôi"
+      ]
+    },
+    {
+      "id": "dia12-b12-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Thâm canh trong sản xuất nông nghiệp được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng đầu tư giống, phân bón, nước tưới, máy móc và lao động có kĩ thuật trên một đơn vị diện tích để nâng cao năng suất, chất lượng."
+        },
+        {
+          "key": "B",
+          "text": "mở rộng diện tích canh tác bằng phá rừng và khai hoang."
+        },
+        {
+          "key": "C",
+          "text": "giảm mọi chi phí đầu vào, để cây trồng phát triển tự nhiên."
+        },
+        {
+          "key": "D",
+          "text": "chỉ tăng số vụ gieo trồng trong năm mà không thay đổi kĩ thuật."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Thâm canh là tăng các yếu tố đầu vào có chất lượng và trình độ kĩ thuật trên cùng diện tích để tăng năng suất, sản lượng và giá trị thu được; đây là con đường tất yếu khi quỹ đất nông nghiệp có hạn. B là quảng canh theo chiều rộng. C là lối canh tác lạc hậu cho năng suất thấp. D không đầy đủ vì tăng vụ phải đi kèm giống, thuỷ lợi và quy trình canh tác hợp lí.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "thâm canh"
+      ]
+    },
+    {
+      "id": "dia12-b12-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hợp tác xã có 320 ha gieo trồng lúa, năng suất bình quân đạt 62,5 tạ trên một héc-ta. Tổng sản lượng lúa của hợp tác xã là bao nhiêu tấn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 600 tấn."
+        },
+        {
+          "key": "B",
+          "text": "2 500 tấn."
+        },
+        {
+          "key": "C",
+          "text": "2 000 tấn."
+        },
+        {
+          "key": "D",
+          "text": "20 000 tấn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Sản lượng = 320 × 62,5 = 20 000 tạ; vì 10 tạ = 1 tấn nên 20 000 tạ = 2 000 tấn. D sai vì nhầm đơn vị tạ thành tấn (thiếu bước đổi đơn vị). A, B sai do nhân hoặc chia nhầm số liệu: 1 600 tấn ứng với 50 tạ/ha và 2 500 tấn ứng với 78,125 tạ/ha, không khớp dữ kiện đã cho.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "tính sản lượng lúa"
+      ]
+    },
+    {
+      "id": "dia12-b12-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Mục tiêu chủ yếu của tái cơ cấu ngành nông nghiệp ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng số lượng hộ sản xuất nhỏ, tự cung tự cấp trong nông thôn."
+        },
+        {
+          "key": "B",
+          "text": "đưa toàn bộ lao động nông nghiệp sang làm việc trong khu công nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "tăng bằng mọi giá sản lượng, chưa coi trọng chất lượng và thị trường tiêu thụ."
+        },
+        {
+          "key": "D",
+          "text": "nâng cao giá trị gia tăng và phát triển bền vững, thích ứng biến đổi khí hậu, gắn sản xuất với thị trường."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Tái cơ cấu nông nghiệp hướng tới nâng cao giá trị gia tăng trên một đơn vị diện tích và nguồn lực, phát triển bền vững về kinh tế — xã hội — môi trường, thích ứng biến đổi khí hậu và theo nhu cầu thị trường. A và B đi ngược mục tiêu (khắc phục sản xuất nhỏ lẻ không có nghĩa là giữ tự cung tự cấp, cũng không thể chuyển toàn bộ lao động sang khu công nghiệp). C sai vì chạy theo sản lượng là nguyên nhân của tình trạng được mùa mất giá, nông sản dư thừa cục bộ và giá trị thấp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "tái cơ cấu nông nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b12-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nông nghiệp sinh thái ở nước ta được hiểu là hình thái nông nghiệp",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ sử dụng công cụ thủ công, không dùng bất kì thành tựu khoa học nào."
+        },
+        {
+          "key": "B",
+          "text": "ứng dụng tiến bộ khoa học — công nghệ, khai thác hợp lí tài nguyên thiên nhiên, bảo vệ môi trường, thích ứng với biến đổi khí hậu và tạo ra sản phẩm chất lượng cao."
+        },
+        {
+          "key": "C",
+          "text": "mở rộng tối đa diện tích bằng chuyển đất rừng sang canh tác."
+        },
+        {
+          "key": "D",
+          "text": "sản xuất độc canh một loại cây để dễ cơ giới hoá."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nông nghiệp sinh thái kết hợp công nghệ cao với việc tôn tạo tự nhiên: sử dụng hợp lí tài nguyên, giảm vật tư hoá học, tuần hoàn phụ phẩm, tăng đa dạng sinh học, thích ứng biến đổi khí hậu và cung ứng nông sản sạch, giá trị cao. A sai vì sinh thái không có nghĩa là lạc hậu. C phá hoại cân bằng sinh thái, trái bản chất mô hình. D là độc canh, làm giảm tính bền vững.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "nông nghiệp sinh thái"
+      ]
+    },
+    {
+      "id": "dia12-b12-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm khác biệt cơ bản nhất của nông nghiệp hữu cơ so với nông nghiệp sử dụng vật tư hoá học là",
+      "options": [
+        {
+          "key": "A",
+          "text": "luôn có năng suất cao hơn hẳn mọi hình thức canh tác khác."
+        },
+        {
+          "key": "B",
+          "text": "chỉ thực hiện được ở vùng đồng bằng."
+        },
+        {
+          "key": "C",
+          "text": "tăng tối đa việc dùng thuốc trừ sâu hoá học để bảo vệ mùa màng."
+        },
+        {
+          "key": "D",
+          "text": "không sử dụng phân hoá học, thuốc bảo vệ thực vật hoá học, giống biến đổi gen và chất kích thích tăng trưởng."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Nông nghiệp hữu cơ loại bỏ đầu vào tổng hợp hoá học, không dùng giống biến đổi gen và chất kích thích tăng trưởng; duy trì độ màu mỡ bằng phân hữu cơ, luân canh và thiên địch. A sai vì năng suất hữu cơ thường thấp hơn nhưng giá bán và hiệu quả cao hơn. B sai vì có thể làm ở nhiều vùng, kể cả trung du, miền núi và ven biển. C trái ngược hoàn toàn với nguyên tắc hữu cơ.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "nông nghiệp hữu cơ"
+      ]
+    },
+    {
+      "id": "dia12-b12-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Rau và hoa được phát triển mạnh ở các vùng ven đô thị lớn và nơi có khí hậu mát mẻ chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "gần thị trường tiêu thụ lớn, sản phẩm dễ hư hỏng nên cần vận chuyển ngắn và mang lại giá thu trên một đơn vị diện tích cao."
+        },
+        {
+          "key": "B",
+          "text": "đất ven đô thị rẻ hơn đất ở các vùng nông nghiệp truyền thống."
+        },
+        {
+          "key": "C",
+          "text": "rau, hoa không cần nước và không cần lao động có kĩ thuật."
+        },
+        {
+          "key": "D",
+          "text": "nhà nước cấm trồng cây lương thực ở vùng ven đô thị."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Rau, hoa là sản phẩm tươi, dễ héo hỏng, thời gian bảo quản ngắn, trong khi nhu cầu của đô thị rất lớn và thường xuyên; vì vậy sản xuất ưu tiên gần thị trường và bù đắp chi phí bằng giá trị cao trên đơn vị diện tích. B sai vì đất ven đô thị thường đắt và đang bị thu hẹp. C sai vì rau, hoa cần nhiều nước và lao động có kĩ thuật. D không có cơ sở.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "rau và hoa"
+      ]
+    },
+    {
+      "id": "dia12-b12-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạn chế lớn nhất của sản xuất nông nghiệp nước ta trong hội nhập quốc tế hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "điều kiện tự nhiên không cho phép sản xuất nông sản nhiệt đới."
+        },
+        {
+          "key": "B",
+          "text": "người trong nước không sử dụng nông sản do mình sản xuất."
+        },
+        {
+          "key": "C",
+          "text": "sản xuất còn phân tán, quy mô hộ nhỏ; chất lượng chưa đồng đều; liên kết chuỗi giá trị và thị trường tiêu thụ thiếu bền vững."
+        },
+        {
+          "key": "D",
+          "text": "không có lao động làm nông nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Nông nghiệp nước ta vẫn dựa chủ yếu vào hàng triệu hộ sản xuất nhỏ, khó chuẩn hoá chất lượng và khối lượng lớn; liên kết nông dân — hợp tác xã — doanh nghiệp chưa chặt nên thường bị ép giá, được mùa mất giá. A sai vì khí hậu nhiệt đới là lợi thế về nông sản đặc thù. B, D trái thực tế vì thị trường nội địa lớn và lao động nông thôn còn dồi dào nhưng chất lượng chưa cao.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "hạn chế của nông nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b12-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Đồng bằng sông Cửu Long trở thành vùng sản xuất lương thực lớn nhất cả nước chủ yếu nhờ",
+      "options": [
+        {
+          "key": "A",
+          "text": "mạng lưới công nghiệp chế biến dày đặc nhất cả nước."
+        },
+        {
+          "key": "B",
+          "text": "diện tích và đất trồng lúa lớn nhất, nguồn nước sông Mê Công và hệ thống kênh rạch dồi dào, truyền thống thâm canh."
+        },
+        {
+          "key": "C",
+          "text": "khí hậu lạnh nên không có sâu bệnh hại lúa."
+        },
+        {
+          "key": "D",
+          "text": "dân số rất ít nên không phải dành lương thực cho tiêu dùng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Đồng bằng sông Cửu Long có diện tích đất nông nghiệp và đất lúa lớn nhất cả nước, được sông Mê Công cung cấp nước ngọt và phù sa, người dân có kinh nghiệm thâm canh, nên tạo khối lượng hàng hoá lớn nhất cho xuất khẩu. A không đúng vì công nghiệp chế biến của vùng còn chưa tương xứng với tiềm năng. C sai vì vùng nóng ẩm, sâu bệnh nhiều. D sai vì vùng có quy mô dân số khá lớn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "đồng bằng sông cửu long"
+      ]
+    },
+    {
+      "id": "dia12-b12-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo cách phân chia 6 vùng kinh tế — xã hội hiện hành, vùng trọng điểm về cây cà phê của nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đồng bằng sông Hồng."
+        },
+        {
+          "key": "B",
+          "text": "Trung du và miền núi phía Bắc."
+        },
+        {
+          "key": "C",
+          "text": "Đồng bằng sông Cửu Long."
+        },
+        {
+          "key": "D",
+          "text": "Duyên hải Nam Trung Bộ và Tây Nguyên."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Cà phê là cây công nghiệp lâu năm đặc trưng của các cao nguyên đất bazan, mà khu vực cao nguyên thuộc vùng Duyên hải Nam Trung Bộ và Tây Nguyên theo cách phân chia 6 vùng hiện hành; đây là vùng chiếm phần lớn diện tích và sản lượng cà phê cả nước. A và B không có đất bazan diện rộng và khí hậu không thuận cho cà phê chín. C mạnh về lương thực, cây ăn quả, thuỷ sản hơn là cà phê.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "phân bố cây cà phê"
+      ]
+    },
+    {
+      "id": "dia12-b12-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiều địa phương ở phía Bắc đẩy mạnh sản xuất vụ đông trên đất hai vụ lúa. Mục đích chủ yếu của việc này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "làm tăng độ phì cho đất bằng cách để đất nghỉ."
+        },
+        {
+          "key": "B",
+          "text": "giảm nhu cầu nước tưới cho cây trồng."
+        },
+        {
+          "key": "C",
+          "text": "tăng vụ, tăng tổng sản lượng và hiệu quả sử dụng đất, tạo thêm nông sản hàng hoá và giảm rủi ro thị trường."
+        },
+        {
+          "key": "D",
+          "text": "chuyển toàn bộ lao động nông nghiệp sang ngành khác."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Vụ đông tận dụng quỹ đất và lao động nhàn rỗi giữa hai vụ lúa, góp phần tăng sản lượng, đa dạng sản phẩm (rau, ngô, cây thực phẩm) và tăng thu nhập, giảm phụ thuộc vào một vụ. A sai vì để đất nghỉ là quảng canh, trái với vụ đông. B sai vì trồng thêm vụ thường tăng nhu cầu nước. D không liên quan tới mục đích canh tác.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "vụ đông"
+      ]
+    },
+    {
+      "id": "dia12-b12-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Trước tình hình hạn hán, xâm nhập mặn gia tăng, giải pháp thích ứng hợp lí nhất cho sản xuất nông nghiệp ở Đồng bằng sông Cửu Long là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chuyển đổi cơ cấu sản xuất linh hoạt theo mùa (lúa — tôm, cây ăn quả, rau chịu mặn), dùng giống chịu hạn mặn và điều tiết nước hợp lí."
+        },
+        {
+          "key": "B",
+          "text": "giữ nguyên độc canh lúa ba vụ ở mọi nơi, kể cả vùng ven biển bị nhiễm mặn."
+        },
+        {
+          "key": "C",
+          "text": "tát hết nước mặn vào đồng ruộng để tăng độ ẩm."
+        },
+        {
+          "key": "D",
+          "text": "bỏ hoang toàn bộ diện tích đất nông nghiệp của vùng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Thích ứng cần dựa vào thị trường và điều kiện từng tiểu vùng: chuyển một phần đất lúa sang mô hình lúa — tôm, cây ăn quả, rau màu phù hợp, chọn giống chịu hạn mặn, quy trình tưới tiên tiến và công trình điều tiết nước. B duy trì mô hình tiêu tốn nhiều nước ngọt ở vùng khan hiếm nước nên dễ tổn thương. C, D là cách làm phá sản xuất, không có cơ sở khoa học.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "thích ứng biến đổi khí hậu"
+      ]
+    },
+    {
+      "id": "dia12-b12-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở vùng Trung du và miền núi phía Bắc, loại cây công nghiệp lâu năm phù hợp với mùa đông lạnh và đất feralit trên đá phiến, đá vôi là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chè."
+        },
+        {
+          "key": "B",
+          "text": "cao su."
+        },
+        {
+          "key": "C",
+          "text": "hồ tiêu."
+        },
+        {
+          "key": "D",
+          "text": "điều."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Chè ưa ấm, cần ẩm cao và chịu được lạnh, đất chua nên là cây công nghiệp lâu năm đặc trưng của vùng Trung du và miền núi phía Bắc, nơi có mùa đông lạnh nhất cả nước. Cao su, hồ tiêu, điều đều là cây nhiệt đới điển hình, cần nền nhiệt cao và không chịu được rét, nên phân bố chủ yếu ở Duyên hải Nam Trung Bộ và Tây Nguyên, Đông Nam Bộ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "chè ở trung du"
+      ]
+    },
+    {
+      "id": "dia12-b12-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong cơ cấu diện tích gieo trồng cây nông nghiệp của nước ta hiện nay, nhóm cây chiếm diện tích lớn nhất vẫn là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhóm cây lấy sợi và cây làm thuốc."
+        },
+        {
+          "key": "B",
+          "text": "nhóm cây lương thực, mà chủ yếu là cây lúa."
+        },
+        {
+          "key": "C",
+          "text": "nhóm rau, hoa và cây cảnh."
+        },
+        {
+          "key": "D",
+          "text": "nhóm cây công nghiệp hàng năm."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Dù tỉ trọng đã giảm tương đối, nhóm cây lương thực mà chủ lực là lúa vẫn chiếm diện tích gieo trồng lớn nhất vì phải bảo đảm nhu cầu ăn uống hằng ngày và an ninh lương thực. Rau, hoa và cây cảnh, cây công nghiệp hàng năm, cây lấy sợi đều có diện tích nhỏ hơn nhiều và phát triển theo nhu cầu thị trường, không thể thay thế vị trí của cây lương thực.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "cơ cấu diện tích gieo trồng"
+      ]
+    },
+    {
+      "id": "dia12-b12-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta buộc phải đẩy mạnh thâm canh trong sản xuất nông nghiệp, nguyên nhân sâu xa là",
+      "options": [
+        {
+          "key": "A",
+          "text": "giá nông sản trên thị trường thế giới luôn rất cao."
+        },
+        {
+          "key": "B",
+          "text": "hoàn toàn không còn khả năng khai hoang mở rộng diện tích."
+        },
+        {
+          "key": "C",
+          "text": "quỹ đất nông nghiệp có hạn, bình quân đất canh tác trên đầu người thấp, còn dân số và nhu cầu nông sản vẫn tăng."
+        },
+        {
+          "key": "D",
+          "text": "toàn bộ lao động nông thôn đã chuyển sang khu vực công nghiệp và dịch vụ."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Đất nông nghiệp, nhất là đất trồng lúa, có hạn và còn bị thu hẹp do đô thị hoá, trong khi nhu cầu lương thực, thực phẩm và nông sản hàng hoá ngày càng lớn; vì vậy phải tăng năng suất, sản lượng trên mỗi héc-ta bằng thâm canh. A sai vì giá nông sản biến động và nhiều mặt hàng cạnh tranh gay gắt. B tuyệt đối hoá quá mức vì vẫn còn khả năng khai hoang ở một số vùng, nhưng không thể là hướng chủ yếu. D trái thực tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "vì sao phải thâm canh"
+      ]
+    },
+    {
+      "id": "dia12-b12-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Đồng bằng sông Hồng và Đồng bằng sông Cửu Long là hai vùng chăn nuôi lợn và gia cầm lớn của cả nước, chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "có nhiều đồng cỏ tự nhiên rộng lớn nhất nước."
+        },
+        {
+          "key": "B",
+          "text": "khí hậu lạnh quanh năm nên hạn chế dịch bệnh."
+        },
+        {
+          "key": "C",
+          "text": "không phải cạnh tranh về đất với cây lương thực."
+        },
+        {
+          "key": "D",
+          "text": "nguồn thức ăn tại chỗ dồi dào từ lúa, ngô, phụ phẩm nông nghiệp và gần thị trường tiêu thụ lớn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Chăn nuôi lợn và gia cầm cần nhiều lương thực và phụ phẩm làm thức ăn, lại hướng tới thị trường tiêu thụ lớn; hai đồng bằng này sản xuất lương thực dồi dào, dân cư đông, đô thị và khu công nghiệp gần nên có lợi thế rõ rệt. A sai vì đồng cỏ tự nhiên lớn là ở các vùng núi và cao nguyên, phù hợp với gia súc ăn cỏ. B sai vì đồng bằng nóng, dịch bệnh là thách thức lớn. C sai vì đất hai vùng rất chật, cạnh tranh sử dụng đất gay gắt.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "chăn nuôi vùng đồng bằng"
+      ]
+    },
+    {
+      "id": "dia12-b12-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta trồng được cả cây nhiệt đới, cận nhiệt và một số cây ôn đới (chè, đào, lê, rau ôn đới). Nguyên nhân chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sự phân hoá đa dạng của khí hậu, nhất là mùa đông lạnh ở phía Bắc và khí hậu mát mẻ ở vùng núi cao."
+        },
+        {
+          "key": "B",
+          "text": "diện tích đồng bằng chiếm phần lớn lãnh thổ."
+        },
+        {
+          "key": "C",
+          "text": "nền nhiệt trung bình năm thấp và lượng mưa rất ít."
+        },
+        {
+          "key": "D",
+          "text": "nhập khẩu toàn bộ nông sản ôn đới từ nước ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Khí hậu nhiệt đới ẩm gió mùa phân hoá theo vĩ độ (mùa đông lạnh ở phía Bắc), theo độ cao (vùng núi cao có khí hậu cận nhiệt, ôn đới) và theo mùa tạo ra nhiều tiểu vùng sinh thái, cho phép đưa vào cơ cấu cây trồng cả cây cận nhiệt, ôn đới. B sai vì đồng bằng thuận cho cây nhiệt đới hơn là cây lạnh. C trái thực tế vì nước ta có nền nhiệt cao, mưa nhiều. D là hệ quả của thương mại, không giải thích được khả năng canh tác trong nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "phân hoá khí hậu và cây trồng"
+      ]
+    },
+    {
+      "id": "dia12-b12-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Thách thức lớn nhất về mặt tự nhiên đối với sản xuất nông nghiệp ở nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đất nông nghiệp quá dư thừa so với lao động."
+        },
+        {
+          "key": "B",
+          "text": "bão, lũ, hạn hán, rét đậm rét hại và sâu bệnh xảy ra thường xuyên, gây thiệt hại mùa vụ và làm sản xuất bấp bênh."
+        },
+        {
+          "key": "C",
+          "text": "thiếu hẳn nguồn nước cho tưới tiêu."
+        },
+        {
+          "key": "D",
+          "text": "không có loài cây nhiệt đới nào sinh trưởng được."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nông nghiệp nước ta phụ thuộc vào tự nhiên nên tính bấp bênh cao: thiên tai (bão, lũ, hạn, rét đậm rét hại, mưa đá) và dịch hại trên cây trồng, vật nuôi gây thiệt hại hằng năm, ngày càng khó lường do biến đổi khí hậu. A vô lí vì đất nông nghiệp khan hiếm. C sai vì tổng lượng mưa lớn, tuy nước phân bố theo mùa và theo vùng. D hoàn toàn sai vì phần lớn nông sản nước ta là cây nhiệt đới.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "thiên tai với nông nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b12-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Biểu hiện rõ nhất của quá trình chuyển từ nông nghiệp tự cấp, tự túc sang nông nghiệp hàng hoá ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mỗi hộ gia đình đều tự sản xuất đủ lương thực, thực phẩm cho nhu cầu của mình."
+        },
+        {
+          "key": "B",
+          "text": "nhà nước bao cấp toàn bộ vật tư và tiêu thụ toàn bộ sản phẩm."
+        },
+        {
+          "key": "C",
+          "text": "sản xuất quy mô lớn theo nhu cầu thị trường, tăng dùng máy móc, giống tốt, phân bón hợp lí và phần lớn sản phẩm bán ra thị trường, kể cả xuất khẩu."
+        },
+        {
+          "key": "D",
+          "text": "chỉ gieo trồng một loại cây duy nhất trên toàn vùng để dễ tính toán."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Nông nghiệp hàng hoá đặc trưng bởi sản xuất chuyên môn hoá, quy mô lớn, lấy thị trường (nội địa và xuất khẩu) làm đích, sử dụng nhiều tư liệu sản xuất và công nghệ, hiệu quả tính bằng giá trị thặng dư. A là tự cấp tự túc, tức là điểm xuất phát trước khi chuyển đổi. B là cơ chế bao cấp đã bãi bỏ. D là độc canh cứng nhắc, dễ gây rủi ro và thoái hoá đất, không phải bản chất của nông nghiệp hàng hoá hiện đại.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "nông nghiệp hàng hoá"
+      ]
+    },
+    {
+      "id": "dia12-b12-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong trồng lúa nước, biện pháp nào sau đây vừa giúp tiết kiệm nước vừa giảm phát thải khí nhà kính?",
+      "options": [
+        {
+          "key": "A",
+          "text": "giữ mực nước ngập sâu liên tục suốt cả vụ để lúa lớn nhanh."
+        },
+        {
+          "key": "B",
+          "text": "tăng lượng phân đạm và phun thuốc trừ sâu hoá học nhiều hơn."
+        },
+        {
+          "key": "C",
+          "text": "đốt toàn bộ rơm rạ ngay sau khi thu hoạch cho sạch đồng."
+        },
+        {
+          "key": "D",
+          "text": "quản lí nước theo mô hình ngập — khô xen kẽ, bón phân và thuốc bảo vệ thực vật hợp lí, sử dụng phụ phẩm thay vì đốt đồng."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Ngập — khô xen kẽ giảm thời gian ngập nước nên giảm sinh metan, đồng thời tiết kiệm nước; bón phân và thuốc hợp lí giảm phát thải khí có nitơ và ô nhiễm nguồn nước; tận dụng rơm rạ làm phân bón, giá thể hoặc thức ăn chăn nuôi tránh đốt đồng. A làm tăng phát thải metan và lãng phí nước. B làm tăng phát thải, ô nhiễm và chi phí. C gây ô nhiễm không khí và mất chất hữu cơ trả lại đất.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "giảm phát thải trong trồng lúa"
+      ]
+    },
+    {
+      "id": "dia12-b12-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với ngành chăn nuôi, vai trò quan trọng nhất của ngành trồng trọt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cung cấp nguồn thức ăn như thóc, tấm, cám, ngô, khoai, cỏ và phụ phẩm cây trồng."
+        },
+        {
+          "key": "B",
+          "text": "cung cấp máy móc, thiết bị cho chuồng trại."
+        },
+        {
+          "key": "C",
+          "text": "xây dựng các nhà máy chế biến thức ăn chăn nuôi."
+        },
+        {
+          "key": "D",
+          "text": "tạo thị trường tiêu thụ thịt, trứng, sữa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Trồng trọt là cơ sở của chăn nuôi vì cung cấp lương thực, thực phẩm và phụ phẩm làm thức ăn cho vật nuôi; vùng nào có sản xuất cây lương thực phát triển thường có chăn nuôi lợn, gia cầm mạnh. B và C thuộc về công nghiệp (chế tạo máy, chế biến thức ăn chăn nuôi). D là chức năng của thương mại và dịch vụ, không phải của trồng trọt.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "trồng trọt và chăn nuôi"
+      ]
+    },
+    {
+      "id": "dia12-b12-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa chủ yếu của việc đa dạng hoá cơ cấu cây trồng trong nông nghiệp nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "làm giảm tổng sản lượng nông sản của cả nước."
+        },
+        {
+          "key": "B",
+          "text": "phát huy lợi thế sinh thái từng vùng, giảm rủi ro thị trường và sâu bệnh, tăng hiệu quả kinh tế và bảo vệ đất."
+        },
+        {
+          "key": "C",
+          "text": "khiến nông sản chỉ phục vụ tiêu dùng tại chỗ."
+        },
+        {
+          "key": "D",
+          "text": "bỏ hẳn các cây trồng truyền thống để chạy theo cây mới."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Đa dạng hoá cây trồng giúp khai hợp các điều kiện khí hậu, đất khác nhau, phân bố rủi ro khi một mặt hàng rớt giá hoặc mất mùa, hạn chế sâu bệnh tích luỹ trên một loài cây và luân canh giúp cải tạo đất. A trái mục tiêu của đa dạng hoá. C sai vì sản phẩm vẫn hướng ra thị trường. D cực đoan; đa dạng hoá đi kèm chọn cây mũi nhọn, không phải xoá bỏ cây truyền thống.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "đa dạng hoá cây trồng"
+      ]
+    },
+    {
+      "id": "dia12-b12-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị sản xuất nông nghiệp của một tỉnh trong năm gồm: trồng trọt 12 600 tỉ đồng, chăn nuôi 8 400 tỉ đồng, dịch vụ nông nghiệp 3 000 tỉ đồng. Tỉ trọng của ngành chăn nuôi trong cơ cấu trên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "52,5%."
+        },
+        {
+          "key": "B",
+          "text": "12,5%."
+        },
+        {
+          "key": "C",
+          "text": "35,0%."
+        },
+        {
+          "key": "D",
+          "text": "65,0%."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Tổng giá trị = 12 600 + 8 400 + 3 000 = 24 000 tỉ đồng; tỉ trọng chăn nuôi = 8 400 : 24 000 × 100 = 35,0%. A (52,5%) là tỉ trọng của trồng trọt; B (12,5%) là tỉ trọng của dịch vụ nông nghiệp; D (65,0%) là phần còn lại của trồng trọt và dịch vụ cộng lại, không phải của chăn nuôi.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "tính tỉ trọng cơ cấu"
+      ]
+    },
+    {
+      "id": "dia12-b12-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao nói trong nông nghiệp, thời gian lao động không hoàn toàn trùng với thời gian sản xuất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì lao động nông nghiệp chỉ làm việc vài ngày trong năm."
+        },
+        {
+          "key": "B",
+          "text": "Vì máy nông nghiệp có thể thay thế hoàn toàn cây trồng, vật nuôi."
+        },
+        {
+          "key": "C",
+          "text": "Vì nhà nước quy định thời gian nghỉ bắt buộc giữa hai vụ."
+        },
+        {
+          "key": "D",
+          "text": "Vì giữa hai lần lao động phải có khoảng thời gian cây trồng, vật nuôi sinh trưởng, phát triển theo quy luật tự nhiên."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Sau khi làm đất, gieo cấy, bón phân thì cây trồng vẫn tiếp tục sinh trưởng mà không cần lao động liên tục; thời gian sản xuất vì thế dài hơn và không trùng khít thời gian lao động, tạo nên tính thời vụ. A coi nhẹ thực tế lao động nông nhàn và làm thêm dịch vụ. B sai vì tư liệu sản xuất chủ yếu là đất, cây, con, máy chỉ hỗ trợ. C không phải nguyên nhân khách quan của quy luật sản xuất.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "tính thời vụ trong nông nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b12-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Phần lớn sản phẩm của các cây công nghiệp lâu năm như cà phê, cao su, hồ tiêu ở nước ta được dùng để",
+      "options": [
+        {
+          "key": "A",
+          "text": "làm nguyên liệu cho công nghiệp chế biến và xuất khẩu."
+        },
+        {
+          "key": "B",
+          "text": "ăn tươi tại chỗ trong bữa ăn hằng ngày của đa số hộ nông thôn."
+        },
+        {
+          "key": "C",
+          "text": "chôn lấp để cải tạo đất."
+        },
+        {
+          "key": "D",
+          "text": "nuôi gia súc thay cho cỏ và thức ăn thô."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Cây công nghiệp được gọi là cây kỹ nghệ vì sản phẩm chủ yếu là nguyên liệu cho chế biến (cà phê rang xay, mủ cao su lốp xe, hồ tiêu xay) và phần lớn xuất khẩu để tạo ngoại tệ. B sai vì đây không phải thực phẩm ăn tươi chủ yếu. C, D vô lí về mặt sử dụng sản phẩm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "cây công nghiệp xuất khẩu"
+      ]
+    },
+    {
+      "id": "dia12-b12-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Ứng dụng công nghệ cao trong nông nghiệp nước ta được biểu hiện chủ yếu ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng số lần cày, bừa bằng sức trâu, bò trên mỗi vụ."
+        },
+        {
+          "key": "B",
+          "text": "mở thêm diện tích quảng canh ở vùng rừng núi."
+        },
+        {
+          "key": "C",
+          "text": "bán nông sản tươi chưa qua sơ chế cho thương nhân."
+        },
+        {
+          "key": "D",
+          "text": "nhà kính, nhà lưới, tưới tự động và tiết kiệm nước, cơ giới hoá, cảm biến và giống chọn tạo cho năng suất, chất lượng cao."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Nông nghiệp công nghệ cao điều khiển được yếu tố môi trường và dùng thiết bị, giống tốt để tăng năng suất, chất lượng, giảm chi phí: nhà kính, nhà lưới, tưới nhỏ giọt, tưới phun, thiết bị cảm biến, máy móc thay thế lao động thủ công, giống nuôi cấy mô. A, B là cách làm truyền thống, thâm dụng lao động và đất. C là khâu tiêu thụ thô, thể hiện giá trị gia tăng thấp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "nông nghiệp công nghệ cao"
+      ]
+    },
+    {
+      "id": "dia12-b12-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhân tố thị trường ảnh hưởng tới sản xuất nông nghiệp nước ta thể hiện rõ ở chỗ",
+      "options": [
+        {
+          "key": "A",
+          "text": "thị trường không tác động tới cơ cấu cây trồng vì nhà nước quyết định toàn bộ kế hoạch."
+        },
+        {
+          "key": "B",
+          "text": "nông dân luôn bán được nông sản với giá cao nên không cần lo đầu ra."
+        },
+        {
+          "key": "C",
+          "text": "cơ cấu cây trồng, vật nuôi và quy mô sản xuất thay đổi theo nhu cầu, giá cả và yêu cầu chất lượng; nông sản phụ thuộc xuất khẩu nên dễ biến động."
+        },
+        {
+          "key": "D",
+          "text": "chỉ cần tăng sản lượng là tự động tìm được người mua."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Thị trường chi phối việc lựa chọn sản phẩm, quy mô và trình độ thâm canh; nhu cầu và tiêu chuẩn (an toàn thực phẩm, truy xuất nguồn gốc) thay đổi theo thời gian, giá cả biến động và một phần lớn nông sản phụ thuộc xuất khẩu nên sản xuất dễ bị xáo trộn. A phủ nhận cơ chế thị trường. B, D là biểu hiện của tư duy chạy theo sản lượng, dẫn tới cảnh dư thừa, ứ đọng đầu ra.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "thị trường nông sản"
+      ]
+    },
+    {
+      "id": "dia12-b12-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về vai trò của ngành nông nghiệp ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nông nghiệp bảo đảm lương thực, thực phẩm cho nhân dân và là cơ sở giữ vững an ninh lương thực quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "Nông nghiệp hiện chiếm tỉ trọng lớn nhất trong cơ cấu giá trị sản xuất của nền kinh tế cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Sản xuất nông nghiệp chỉ nhằm tự cung tự cấp trong từng hộ, không hướng ra thị trường và xuất khẩu."
+        },
+        {
+          "key": "D",
+          "text": "Nông nghiệp cung cấp nguyên liệu cho công nghiệp chế biến và tạo việc làm cho lao động nông thôn."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, D.** Bảo đảm lương thực, thực phẩm cho dân số đông, giữ an ninh lương thực và tạo việc làm, cung cấp nguyên liệu cho công nghiệp chế biến là những vai trò cơ bản của nông nghiệp. B sai vì khu vực công nghiệp và dịch vụ đang chiếm tỉ trọng giá trị lớn hơn nông nghiệp. C sai vì nông nghiệp nước ta đã chuyển sang sản xuất hàng hoá, nhiều mặt hàng nằm trong nhóm xuất khẩu chủ lực.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "vai trò nông nghiệp",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b12-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về xu hướng chuyển dịch cơ cấu trong sản xuất nông nghiệp nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng nhanh tỉ trọng ngành trồng trọt và giảm dần tỉ trọng ngành chăn nuôi."
+        },
+        {
+          "key": "B",
+          "text": "Trong trồng trọt, giảm tương đối cây lương thực, tăng cây công nghiệp, rau, hoa và cây ăn quả."
+        },
+        {
+          "key": "C",
+          "text": "Chăn nuôi chuyển từ nhỏ lẻ, thả rông sang chăn nuôi tập trung theo trang trại, kiểm soát dịch bệnh."
+        },
+        {
+          "key": "D",
+          "text": "Cơ cấu mùa vụ được giữ cố định như nhau ở mọi vùng để thuận tiện cho kế hoạch hoá."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "**Đáp án: B, C.** Xu hướng chung là tăng giá trị chăn nuôi, giảm tương đối trồng trọt; nội bộ trồng trọt giảm dần cây lương thực để tăng cây công nghiệp, rau – hoa, cây ăn quả theo nhu cầu thị trường; chăn nuôi đi vào trang trại tập trung. A ngược chiều với xu hướng thực tế. D sai vì thời vụ và cơ cấu mùa vụ luôn được điều chỉnh theo khí hậu từng vùng và theo thị trường.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "chuyển dịch cơ cấu ngành",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b12-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về phát triển cây công nghiệp ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cây công nghiệp lâu năm cần điều kiện khí hậu và đất phù hợp nên tập trung ở vùng đồi núi, cao nguyên và một số vùng có mùa đông lạnh."
+        },
+        {
+          "key": "B",
+          "text": "Diện tích cây công nghiệp được mở rộng tự do, không cần theo quy hoạch và không phụ thuộc thị trường."
+        },
+        {
+          "key": "C",
+          "text": "Phát triển cây công nghiệp phải gắn với công nghiệp chế biến và thị trường tiêu thụ để nâng cao giá trị sản phẩm."
+        },
+        {
+          "key": "D",
+          "text": "Sản phẩm cây công nghiệp phần lớn dùng tươi sống tại nơi sản xuất, hầu như không qua chế biến."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, C.** Cây công nghiệp lâu năm gắn với đất feralit, đất bazan và nền nhiệt cao của vùng đồi núi, cao nguyên; chè cần mùa đông lạnh của vùng trung du. Giá trị của cây công nghiệp chỉ cao khi có vùng nguyên liệu tập trung đi cùng nhà máy chế biến và thị trường ổn định. B sai vì mở rộng tự phát phá vỡ quy hoạch, gây biến động giá. D sai vì đây là cây kỹ nghệ, sản phẩm chủ yếu để chế biến và xuất khẩu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "cây công nghiệp",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b12-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về các biện pháp thâm canh và ứng dụng khoa học — công nghệ trong nông nghiệp nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thâm canh là mở rộng diện tích canh tác bằng khai hoang và chuyển đất rừng sang trồng cây."
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng giống có năng suất cao, khả năng chống chịu tốt là yếu tố hàng đầu của thâm canh."
+        },
+        {
+          "key": "C",
+          "text": "Càng bón nhiều phân hoá học và mật độ trồng càng dày thì năng suất càng cao."
+        },
+        {
+          "key": "D",
+          "text": "Cơ giới hoá và tưới tiết kiệm giúp giảm hao hụt, hạ chi phí và nâng chất lượng nông sản."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, D.** Thâm canh là tăng đầu vào có chất lượng trên cùng đơn vị diện tích, trong đó giống tốt quyết định năng suất; cơ giới hoá và tưới tiên tiến giúp giảm chi phí, thất thoát và tăng độ đồng đều của sản phẩm. A là quảng canh theo chiều rộng, trái bản chất thâm canh. C sai vì vượt ngưỡng thì cây không hấp thụ hết, gây lãng phí, thoái hoá đất, ô nhiễm và sâu bệnh tăng, năng suất giảm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "thâm canh",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b12-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b12-nganh-nong-nghiep",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về định hướng phát triển nông nghiệp bền vững, thích ứng với biến đổi khí hậu ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ nguyên cơ cấu cây trồng, vật nuôi ở mọi vùng để bộ máy quản lí dễ vận hành."
+        },
+        {
+          "key": "B",
+          "text": "Tăng vụ liên tục trên đất trũng và đất ven biển nhiễm mặn nhằm tối đa hoá sản lượng."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển đổi cơ cấu sản xuất linh hoạt theo nhu cầu thị trường và điều kiện sinh thái của từng tiểu vùng."
+        },
+        {
+          "key": "D",
+          "text": "Giảm vật tư hoá học, tuần hoàn phụ phẩm và áp dụng quy trình sản xuất phát thải thấp, tiết kiệm nước."
+        }
+      ],
+      "correctAnswer": [
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: C, D.** Thích ứng biến đổi khí hậu đòi hỏi cơ cấu sản xuất phải mềm dẻo theo thị trường và theo sinh thái tiểu vùng (ví dụ chuyển đất lúa kém hiệu quả ở vùng ngập mặn sang mô hình lúa — tôm hoặc nuôi trồng thuỷ sản); đi kèm là giảm phân bón, thuốc hoá học, tận dụng phụ phẩm và dùng nước tiết kiệm. A cứng nhắc, làm mất cơ hội khai thác lợi thế và tăng rủi ro. B trái quy luật vì đất trũng, đất nhiễm mặn chỉ canh tác được theo mùa hoặc phải chuyển đối tượng sản xuất.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 12",
+        "nông nghiệp bền vững",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

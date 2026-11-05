@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-19",
+  "title": "Đề ôn Toán 12 Bài 19: Công thức xác suất toàn phần và công thức Bayes (20 câu)",
+  "slug": "de-toan-12-bai-19",
+  "description": "Bám sát Bài 19 sách Toán 12 Kết nối tri thức: phân hoạch không gian mẫu, công thức xác suất toàn phần, công thức Bayes và bài toán suy ngược nguyên nhân. 20 câu trắc nghiệm bốn lựa chọn làm trong 30 phút, mỗi câu có lời giải, xoay quanh hai dây chuyền sản xuất, xét nghiệm y tế, nguồn gốc đơn hàng và tỉ lệ lỗi linh kiện.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B19",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b19-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Gieo một con xúc xắc cân đối, không gian mẫu là $\\Omega=\\{1;2;3;4;5;6\\}$. Bộ biến cố nào sau đây là một phân hoạch của $\\Omega$?",
+      "options": [
+        { "key": "A", "text": "$H_1$: 'Mặt xuất hiện có số chấm là số chẵn'; $H_2$: 'Mặt xuất hiện có số chấm là số lẻ'." },
+        { "key": "B", "text": "$H_1$: 'Mặt xuất hiện có số chấm chia hết cho 3'; $H_2$: 'Mặt xuất hiện có số chấm không chia hết cho 3'; $H_3$: 'Mặt xuất hiện có số chấm lớn hơn 4'." },
+        { "key": "C", "text": "$H_1$: 'Mặt xuất hiện có số chấm nhỏ hơn 3'; $H_2$: 'Mặt xuất hiện có số chấm lớn hơn 4'." },
+        { "key": "D", "text": "$H_1$: 'Mặt xuất hiện là 1 chấm'; $H_2$: 'Mặt xuất hiện là 2 chấm'; $H_3$: 'Mặt xuất hiện là 3 chấm'." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ở phương án A, hai biến cố 'chẵn' và 'lẻ' xung khắc với nhau và hợp của chúng đúng bằng $\\Omega$, nên đó là một phân hoạch. Ở B, biến cố 'lớn hơn 4' chứa kết quả 6 nên cắt với $H_1$ và chứa kết quả 5 nên cắt với $H_2$, vi phạm điều kiện đôi một xung khắc. Ở C và D, hợp các biến cố còn thiếu các kết quả $3;4$ và $4;5;6$ nên không phủ hết $\\Omega$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["phân hoạch không gian mẫu", "nhận biết"]
+    },
+    {
+      "id": "toan12-b19-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $H_1$, $H_2$ là một phân hoạch của không gian mẫu $\\Omega$ và $A$ là một biến cố. Theo công thức xác suất toàn phần, $P(A)$ bằng",
+      "options": [
+        { "key": "A", "text": "$P(A\\mid H_1)+P(A\\mid H_2)$." },
+        { "key": "B", "text": "$P(H_1)P(H_2)+P(A\\mid H_1)P(A\\mid H_2)$." },
+        { "key": "C", "text": "$P(H_1)P(A\\mid H_1)+P(H_2)P(A\\mid H_2)$." },
+        { "key": "D", "text": "$P(H_1\\mid A)P(A\\mid H_1)+P(H_2\\mid A)P(A\\mid H_2)$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vì $H_1\\cup H_2=\\Omega$ nên $A=(A\\cap H_1)\\cup(A\\cap H_2)$ với hai biến cố xung khắc, do đó $P(A)=P(A\\cap H_1)+P(A\\cap H_2)=P(H_1)P(A\\mid H_1)+P(H_2)P(A\\mid H_2)$. Phương án A là lỗi quen thuộc: cộng hai xác suất có điều kiện mà quên nhân với xác suất tiên nghiệm $P(H_i)$. Phương án D lấy $P(H_i\\mid A)$ thay cho $P(H_i)$ trong công thức toàn phần, nên các tích không còn quy về $P(A\\cap H_i)$ được nữa.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["công thức xác suất toàn phần", "công thức"]
+    },
+    {
+      "id": "toan12-b19-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $H_1$, $H_2$, $H_3$ là một phân hoạch của $\\Omega$ và biến cố $A$ có $P(A)>0$. Theo công thức Bayes, $P(H_2\\mid A)$ bằng",
+      "options": [
+        { "key": "A", "text": "$P(H_2)P(A\\mid H_2)$." },
+        { "key": "B", "text": "$\\dfrac{P(H_2)P(A\\mid H_2)}{P(H_1)P(A\\mid H_1)+P(H_2)P(A\\mid H_2)+P(H_3)P(A\\mid H_3)}$." },
+        { "key": "C", "text": "$\\dfrac{P(H_2)P(A\\mid H_2)}{P(H_1)P(A\\mid H_1)+P(H_2)P(A\\mid H_2)}$." },
+        { "key": "D", "text": "$P(A\\mid H_2)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Công thức Bayes là $P(H_k\\mid A)=\\dfrac{P(H_k)P(A\\mid H_k)}{P(A)}$, mà theo công thức toàn phần $P(A)=\\sum_{i=1}^{3}P(H_i)P(A\\mid H_i)$, nên mẫu số phải có đủ ba số hạng. Phương án A mới là tử số $P(A\\cap H_2)$, phương án C thiếu số hạng ứng với $H_3$. Phương án D là nhầm $P(A\\mid H_2)$ (xác suất của kết quả khi biết nguyên nhân) với $P(H_2\\mid A)$ (xác suất của nguyên nhân khi biết kết quả).",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "suy ngược nguyên nhân"]
+    },
+    {
+      "id": "toan12-b19-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $H_1$, $H_2$ là một phân hoạch của $\\Omega$ với $P(H_1)=0,4$ và $P(H_2)=0,6$. Biết $P(A\\mid H_1)=0,25$ và $P(A\\mid H_2)=0,5$. Khi đó $P(A)$ bằng",
+      "options": [
+        { "key": "A", "text": "$0,75$." },
+        { "key": "B", "text": "$0,1$." },
+        { "key": "C", "text": "$0,375$." },
+        { "key": "D", "text": "$0,4$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Áp dụng công thức toàn phần: $P(A)=0,4\\cdot0,25+0,6\\cdot0,5=0,1+0,3=0,4$. Phương án A là lỗi cộng hai xác suất có điều kiện mà quên trọng số $P(H_i)$; B là chỉ lấy số hạng ứng với $H_1$; C là lấy trung bình cộng của $0,25$ và $0,5$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["xác suất toàn phần", "tính toán"]
+    },
+    {
+      "id": "toan12-b19-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một chiếc bình được chọn ngẫu nhiên: bình I được chọn với xác suất $0,3$, bình II được chọn với xác suất $0,7$. Xác suất rút được bi đỏ từ bình I là $0,2$, từ bình II là $0,4$. Xác suất để rút được một viên bi đỏ là",
+      "options": [
+        { "key": "A", "text": "$0,34$." },
+        { "key": "B", "text": "$0,6$." },
+        { "key": "C", "text": "$0,28$." },
+        { "key": "D", "text": "$0,06$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai biến cố 'chọn bình I' và 'chọn bình II' lập thành một phân hoạch, nên $P(A)=0,3\\cdot0,2+0,7\\cdot0,4=0,06+0,28=0,34$. Phương án B là tổng hai xác suất có điều kiện; C và D mỗi phương án chỉ là một số hạng, tức là quên mất khả năng còn lại.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["xác suất toàn phần", "bi điều kiện"]
+    },
+    {
+      "id": "toan12-b19-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Gieo một đồng xu cân đối: nếu mặt sấp thì chọn hộp I, nếu mặt ngửa thì chọn hộp II. Hộp I có $\\dfrac{1}{4}$ số viên bi là bi xanh, hộp II có $\\dfrac{3}{4}$ số viên bi là bi xanh. Từ hộp được chọn, lấy ngẫu nhiên một viên bi. Xác suất để được bi xanh là",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{1}{4}$." },
+        { "key": "B", "text": "$\\dfrac{3}{16}$." },
+        { "key": "C", "text": "$\\dfrac{1}{2}$." },
+        { "key": "D", "text": "$\\dfrac{3}{4}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với $P(H_1)=P(H_2)=\\dfrac{1}{2}$, công thức toàn phần cho $P(A)=\\dfrac{1}{2}\\cdot\\dfrac{1}{4}+\\dfrac{1}{2}\\cdot\\dfrac{3}{4}=\\dfrac{1}{8}+\\dfrac{3}{8}=\\dfrac{1}{2}$. Phương án A và D mỗi phương án chỉ dùng tỉ lệ bi xanh của một hộp; B là lỗi nhân hai xác suất có điều kiện với nhau thay vì cộng hai số hạng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["xác suất toàn phần", "hộp và bi"]
+    },
+    {
+      "id": "toan12-b19-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nhà máy có hai dây chuyền. Dây chuyền I chiếm 60% sản lượng và 5% sản phẩm của dây chuyền này bị lỗi; dây chuyền II chiếm 40% sản lượng và 2% sản phẩm bị lỗi. Chọn ngẫu nhiên một sản phẩm của nhà máy. Xác suất để sản phẩm đó bị lỗi là",
+      "options": [
+        { "key": "A", "text": "$0,07$." },
+        { "key": "B", "text": "$0,038$." },
+        { "key": "C", "text": "$0,03$." },
+        { "key": "D", "text": "$0,008$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gọi $H_1$, $H_2$ là biến cố 'sản phẩm thuộc dây chuyền I', 'thuộc dây chuyền II'; đây là một phân hoạch với $P(H_1)=0,6$, $P(H_2)=0,4$. Khi đó $P(D)=0,6\\cdot0,05+0,4\\cdot0,02=0,03+0,008=0,038$. Phương án A là cộng hai tỉ lệ lỗi, quên nhân tỉ lệ sản lượng; C và D là thiếu một trong hai số hạng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["xác suất toàn phần", "dây chuyền sản xuất"]
+    },
+    {
+      "id": "toan12-b19-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Vẫn số liệu của nhà máy trên: dây chuyền I chiếm 60% sản lượng với 5% sản phẩm lỗi; dây chuyền II chiếm 40% sản lượng với 2% sản phẩm lỗi. Kiểm tra ngẫu nhiên thấy một sản phẩm bị lỗi. Xác suất để sản phẩm đó do dây chuyền I sản xuất, làm tròn đến hàng phần trăm của giá trị phần trăm, là",
+      "options": [
+        { "key": "A", "text": "$60\\%$." },
+        { "key": "B", "text": "$71,43\\%$." },
+        { "key": "C", "text": "$21,05\\%$." },
+        { "key": "D", "text": "$78,95\\%$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ta có $P(D)=0,038$ và $P(H_1)P(D\\mid H_1)=0,6\\cdot0,05=0,03$, nên $P(H_1\\mid D)=\\dfrac{0,03}{0,038}\\approx0,7895$, tức khoảng $78,95\\%$. Phương án A là lấy xác suất tiên nghiệm $P(H_1)$ mà không suy ngược; B là lỗi chỉ dùng tỉ lệ lỗi $\\dfrac{0,05}{0,05+0,02}$, quên trọng số sản lượng; C là $P(H_2\\mid D)$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "dây chuyền sản xuất"]
+    },
+    {
+      "id": "toan12-b19-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một lô hàng lớn gồm ba lô con: lô I chiếm 20% số sản phẩm, lô II chiếm 50%, lô III chiếm 30%. Tỉ lệ sản phẩm bị lỗi ở lô I, lô II, lô III lần lượt là $0,1$; $0,2$; $0,4$. Chọn ngẫu nhiên một sản phẩm của lô hàng và thấy nó bị lỗi. Xác suất để sản phẩm đó lấy từ lô III là",
+      "options": [
+        { "key": "A", "text": "$0,5$." },
+        { "key": "B", "text": "$0,4$." },
+        { "key": "C", "text": "$0,3$." },
+        { "key": "D", "text": "$0,12$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Công thức toàn phần cho $P(D)=0,2\\cdot0,1+0,5\\cdot0,2+0,3\\cdot0,4=0,02+0,1+0,12=0,24$. Tử số ứng với lô III là $0,3\\cdot0,4=0,12$, vậy $P(H_3\\mid D)=\\dfrac{0,12}{0,24}=0,5$. Phương án B nhầm $P(D\\mid H_3)$ với $P(H_3\\mid D)$; C là xác suất tiên nghiệm; D là tử số chưa chia cho $P(D)$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "ba biến cố"]
+    },
+    {
+      "id": "toan12-b19-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở một vùng dân cư, xác suất một người mắc bệnh T là $0,01$. Xét nghiệm bệnh T cho kết quả dương tính với 98% người mắc bệnh và cho kết quả dương tính với 5% người không mắc bệnh. Chọn ngẫu nhiên một người trong vùng. Xác suất để người đó có kết quả dương tính là",
+      "options": [
+        { "key": "A", "text": "$0,98$." },
+        { "key": "B", "text": "$0,0098$." },
+        { "key": "C", "text": "$0,0593$." },
+        { "key": "D", "text": "$0,0495$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phân hoạch gồm 'mắc bệnh' ($P=0,01$) và 'không mắc bệnh' ($P=0,99$). Khi đó $P(+)=0,01\\cdot0,98+0,99\\cdot0,05=0,0098+0,0495=0,0593$. Phương án A nhầm $P(+\\mid\\text{mắc bệnh})$ với $P(+)$; B và D mỗi phương án chỉ gồm một số hạng của công thức toàn phần.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["xác suất toàn phần", "xét nghiệm y tế"]
+    },
+    {
+      "id": "toan12-b19-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một cửa hàng giao đơn qua hai hãng: hãng I nhận 40% số đơn, hãng II nhận 60% số đơn. Tỉ lệ đơn đến đúng hẹn của hãng I là 90%, của hãng II là 80%. Chọn ngẫu nhiên một đơn hàng và thấy đơn đó đến muộn. Xác suất để đơn hàng do hãng II vận chuyển là",
+      "options": [
+        { "key": "A", "text": "$0,6$." },
+        { "key": "B", "text": "$0,75$." },
+        { "key": "C", "text": "$0,2$." },
+        { "key": "D", "text": "$0,12$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Xác suất đến muộn của từng hãng là $0,1$ và $0,2$, nên $P(M)=0,4\\cdot0,1+0,6\\cdot0,2=0,04+0,12=0,16$. Do đó $P(H_2\\mid M)=\\dfrac{0,12}{0,16}=0,75$. Phương án A chỉ là xác suất tiên nghiệm của hãng II; C là $P(M\\mid H_2)$; D là tử số chưa chia cho $P(M)$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "nguồn gốc đơn hàng"]
+    },
+    {
+      "id": "toan12-b19-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $H_1$, $H_2$ là một phân hoạch của $\\Omega$ với $P(H_1)=0,5$ và $P(H_2)=0,5$. Biết $P(A)=0,3$ và $P(A\\mid H_1)=0,4$. Khi đó $P(A\\mid H_2)$ bằng",
+      "options": [
+        { "key": "A", "text": "$0,3$." },
+        { "key": "B", "text": "$0,4$." },
+        { "key": "C", "text": "$0,1$." },
+        { "key": "D", "text": "$0,2$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Công thức toàn phần viết thành $0,3=0,5\\cdot0,4+0,5\\cdot P(A\\mid H_2)$, suy ra $0,5\\cdot P(A\\mid H_2)=0,3-0,2=0,1$ và $P(A\\mid H_2)=0,2$. Phương án C chính là $P(A\\cap H_2)=0,1$, tức quên chia cho $P(H_2)$; A nhầm $P(A)$ với $P(A\\mid H_2)$; B mặc định hai xác suất có điều kiện bằng nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["xác suất toàn phần", "tìm thành phần chưa biết"]
+    },
+    {
+      "id": "toan12-b19-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nhà máy có ba dây chuyền: dây chuyền I chiếm 25% sản lượng với tỉ lệ sản phẩm lỗi 4%; dây chuyền II chiếm 35% với tỉ lệ lỗi 2%; dây chuyền III chiếm 40% với tỉ lệ lỗi 1%. Chọn ngẫu nhiên một sản phẩm và thấy nó bị lỗi. Xác suất để sản phẩm đó do dây chuyền I sản xuất, làm tròn đến hàng phần trăm của giá trị phần trăm, là",
+      "options": [
+        { "key": "A", "text": "$25\\%$." },
+        { "key": "B", "text": "$57,14\\%$." },
+        { "key": "C", "text": "$47,62\\%$." },
+        { "key": "D", "text": "$4\\%$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "$P(D)=0,25\\cdot0,04+0,35\\cdot0,02+0,4\\cdot0,01=0,01+0,007+0,004=0,021$. Tử số ứng với dây chuyền I là $0,01$, nên $P(H_1\\mid D)=\\dfrac{0,01}{0,021}\\approx0,4762$, tức $47,62\\%$. Phương án B là $\\dfrac{0,04}{0,04+0,02+0,01}$, tức chỉ dùng tỉ lệ lỗi mà quên trọng số sản lượng; A là xác suất tiên nghiệm; D là $P(D\\mid H_1)$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "ba dây chuyền"]
+    },
+    {
+      "id": "toan12-b19-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bệnh hiếm gặp có tỉ lệ mắc là $0,005$ trong dân số. Xét nghiệm cho kết quả dương tính với 99% người mắc bệnh và cho dương tính nhầm ở 1% người không mắc bệnh. Chọn ngẫu nhiên một người, xét nghiệm thấy dương tính. Xác suất để người đó thực sự mắc bệnh, làm tròn đến hàng phần trăm của giá trị phần trăm, là",
+      "options": [
+        { "key": "A", "text": "$99\\%$." },
+        { "key": "B", "text": "$33,22\\%$." },
+        { "key": "C", "text": "$0,5\\%$." },
+        { "key": "D", "text": "$66,78\\%$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "$P(+)=0,005\\cdot0,99+0,995\\cdot0,01=0,00495+0,00995=0,0149$. Do đó $P(\\text{mắc}\\mid +)=\\dfrac{0,00495}{0,0149}\\approx0,3322$, tức $33,22\\%$. Tuy dương tính nhưng phần lớn ca dương tính đến từ nhóm khỏe mạnh vì bệnh rất hiếm; phương án A nhầm $P(+\\mid\\text{mắc})$ với $P(\\text{mắc}\\mid +)$, C là xác suất tiên nghiệm, D là phần bù $P(\\text{khỏe}\\mid +)$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "xét nghiệm y tế"]
+    },
+    {
+      "id": "toan12-b19-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một phân xưởng chỉ có hai máy M1 và M2. Tỉ lệ sản phẩm lỗi của máy M1 là 10%, của máy M2 là 30%. Biết rằng xác suất để một sản phẩm lấy ngẫu nhiên trong phân xưởng bị lỗi là 18%. Tỉ lệ sản phẩm do máy M1 sản xuất là",
+      "options": [
+        { "key": "A", "text": "$60\\%$." },
+        { "key": "B", "text": "$40\\%$." },
+        { "key": "C", "text": "$30\\%$." },
+        { "key": "D", "text": "$20\\%$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gọi $p$ là tỉ lệ sản phẩm của máy M1 thì $P(D)=0,1p+0,3(1-p)=0,3-0,2p$. Cho $0,3-0,2p=0,18$ suy ra $p=0,6$, tức $60\\%$. Phương án B là $1-p$ (tỉ lệ của máy M2); C là giá trị $30\\%$ lấy thẳng từ dữ kiện, còn D là giá trị tự thêm vào — cả hai đều không giải phương trình.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["xác suất toàn phần", "tìm xác suất tiên nghiệm"]
+    },
+    {
+      "id": "toan12-b19-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một xưởng may có ba tổ: tổ A may 50% số áo với tỉ lệ áo lỗi 1%; tổ B may 30% số áo với tỉ lệ lỗi 4%; tổ C may 20% số áo với tỉ lệ lỗi 10%. Kiểm tra phát hiện một chiếc áo bị lỗi. Khẳng định nào sau đây đúng nhất về nguyên nhân chiếc áo đó?",
+      "options": [
+        { "key": "A", "text": "Nhiều khả năng nhất do tổ A may, vì tổ A may nhiều áo nhất." },
+        { "key": "B", "text": "Nhiều khả năng nhất do tổ B may, vì tỉ lệ lỗi của tổ B nằm giữa hai tổ còn lại." },
+        { "key": "C", "text": "Nhiều khả năng nhất do tổ A may, vì áo của tổ A ít lỗi nhất." },
+        { "key": "D", "text": "Nhiều khả năng nhất do tổ C may, vì $P(\\text{tổ C}\\mid\\text{lỗi})\\approx54\\%$ là lớn nhất." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "$P(D)=0,5\\cdot0,01+0,3\\cdot0,04+0,2\\cdot0,1=0,005+0,012+0,02=0,037$. Ba xác suất suy ngược lần lượt là $\\dfrac{0,005}{0,037}\\approx13,51\\%$, $\\dfrac{0,012}{0,037}\\approx32,43\\%$ và $\\dfrac{0,02}{0,037}\\approx54,05\\%$. Dù tổ C chỉ may 20% số áo, tỉ lệ lỗi cao khiến tổ C vẫn là nguyên nhân nhiều khả năng nhất; các phương án A, B, C đều kết luận mà không tính $P(H_i\\mid D)$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "so sánh nguyên nhân"]
+    },
+    {
+      "id": "toan12-b19-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một câu lạc bộ có 100 học sinh: khối 10 có 40 em, khối 11 có 30 em, khối 12 có 30 em. Tỉ lệ học sinh đạt giải của khối 10, khối 11, khối 12 lần lượt là 20%, 30%, 40%. Chọn ngẫu nhiên một học sinh đạt giải. Xác suất để học sinh đó thuộc khối 12, làm tròn đến hàng phần trăm của giá trị phần trăm, là",
+      "options": [
+        { "key": "A", "text": "$30\\%$." },
+        { "key": "B", "text": "$40\\%$." },
+        { "key": "C", "text": "$41,38\\%$." },
+        { "key": "D", "text": "$29\\%$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chọn ngẫu nhiên một học sinh là phân hoạch theo khối với $P(H_1)=0,4$, $P(H_2)=0,3$, $P(H_3)=0,3$. Ta có $P(G)=0,4\\cdot0,2+0,3\\cdot0,3+0,3\\cdot0,4=0,08+0,09+0,12=0,29$ (đúng 29 học sinh đạt giải), nên $P(H_3\\mid G)=\\dfrac{0,12}{0,29}\\approx0,4138$, tức $41,38\\%$. Phương án A là xác suất tiên nghiệm của khối 12, B là $P(G\\mid H_3)$, D là mẫu số $P(G)$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "tần số và tỉ lệ"]
+    },
+    {
+      "id": "toan12-b19-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Tỉ lệ người mắc một bệnh trong quần thể là $0,01$. Một xét nghiệm cho kết quả dương tính ở 90% người mắc bệnh và ở 10% người không mắc bệnh. Một người được chọn ngẫu nhiên và làm hai lần xét nghiệm độc lập, cả hai lần đều dương tính. Biết hai kết quả độc lập với nhau khi đã biết tình trạng bệnh, xác suất để người đó thực sự mắc bệnh là",
+      "options": [
+        { "key": "A", "text": "$0,81$." },
+        { "key": "B", "text": "$0,45$." },
+        { "key": "C", "text": "$0,083$." },
+        { "key": "D", "text": "$0,9$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gọi $A$ là biến cố 'cả hai lần đều dương tính'. Khi đã biết tình trạng bệnh thì các kết quả độc lập, nên $P(A\\mid\\text{mắc})=0,9^2=0,81$ và $P(A\\mid\\text{khỏe})=0,1^2=0,01$. Do đó $P(A)=0,01\\cdot0,81+0,99\\cdot0,01=0,0081+0,0099=0,018$ và $P(\\text{mắc}\\mid A)=\\dfrac{0,0081}{0,018}=0,45$. Phương án C là kết quả khi chỉ một lần dương tính ($\\dfrac{0,009}{0,108}\\approx0,083$); A và D nhầm các xác suất có điều kiện với đáp án.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "hai lần xét nghiệm"]
+    },
+    {
+      "id": "toan12-b19-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $H_1$, $H_2$ là một phân hoạch của $\\Omega$ với $P(H_1)=0,6$ và $P(H_2)=0,4$. Biết $P(A\\mid H_1)=0,2$ và $P(H_2\\mid A)=0,25$. Khi đó $P(A\\mid H_2)$ bằng",
+      "options": [
+        { "key": "A", "text": "$0,25$." },
+        { "key": "B", "text": "$0,15$." },
+        { "key": "C", "text": "$0,2$." },
+        { "key": "D", "text": "$0,1$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đặt $x=P(A\\mid H_2)$ thì $P(A)=0,6\\cdot0,2+0,4x=0,12+0,4x$ và $P(H_2\\mid A)=\\dfrac{0,4x}{0,12+0,4x}=0,25$. Giải phương trình $0,4x=0,03+0,1x$ thu được $x=0,1$; thử lại $P(A)=0,16$ và $\\dfrac{0,04}{0,16}=0,25$ đúng. Phương án A lấy ngay giá trị $P(H_2\\mid A)$ đã cho, C nhầm hai xác suất có điều kiện bằng nhau.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "phương trình xác suất"]
+    },
+    {
+      "id": "toan12-b19-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b19-xac-suat-toan-phan-bayes",
+      "type": "SINGLE_CHOICE",
+      "content": "Một xưởng có ba máy M1, M2, M3; số sản phẩm máy M1 làm ra gấp đôi máy M2 và máy M2 gấp đôi máy M3. Tỉ lệ sản phẩm lỗi của M1, M2, M3 lần lượt là 1%, 2% và 5%. Chọn ngẫu nhiên một sản phẩm và thấy nó bị lỗi. Xác suất để sản phẩm đó do máy M3 làm ra, làm tròn đến hàng phần trăm của giá trị phần trăm, là",
+      "options": [
+        { "key": "A", "text": "$38,46\\%$." },
+        { "key": "B", "text": "$14,29\\%$." },
+        { "key": "C", "text": "$62,5\\%$." },
+        { "key": "D", "text": "$1,86\\%$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gọi sản lượng máy M3 là 1 phần thì M2 là 2 phần, M1 là 4 phần, tổng 7 phần, nên $P(H_1)=\\dfrac{4}{7}$, $P(H_2)=\\dfrac{2}{7}$, $P(H_3)=\\dfrac{1}{7}$. Do đó $P(D)=\\dfrac{4\\cdot0,01+2\\cdot0,02+1\\cdot0,05}{7}=\\dfrac{0,13}{7}\\approx0,0186$ và $P(H_3\\mid D)=\\dfrac{0,05/7}{0,13/7}=\\dfrac{5}{13}\\approx38,46\\%$. Phương án B là xác suất tiên nghiệm $\\dfrac{1}{7}$; C là $\\dfrac{5}{1+2+5}$, tức quên trọng số sản lượng; D là $P(D)$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["công thức Bayes", "tỉ lệ sản lượng"]
+    }
+  ]
+}

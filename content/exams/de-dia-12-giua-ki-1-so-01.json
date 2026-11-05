@@ -4,6 +4,7 @@
   "slug": "de-dia-12-giua-ki-1-so-01",
   "description": "Đề ôn tập giữa kì I môn Địa lí 12 gồm 54 câu trắc nghiệm, 48 nhận định đúng – sai và 18 câu trả lời ngắn về vị trí địa lí, thiên nhiên nhiệt đới ẩm gió mùa, sự phân hóa thiên nhiên, sử dụng và bảo vệ tự nhiên, kĩ năng địa lí.",
   "subject": "dia-li",
+  "grade": 12,
   "type": "FULL_EXAM",
   "durationMinutes": 90,
   "totalScore": 10,
@@ -3173,7 +3174,7 @@
       "partName": "Phần III. Trả lời ngắn",
       "topic": "topic-dia-vi-tri",
       "type": "FILL_IN",
-      "content": "Số tỉnh và thành phố trực thuộc Trung ương của nước ta giáp biển là 28 trên tổng số 63 tỉnh/thành. Hãy tính tỉ lệ tỉnh/thành giáp biển (làm tròn đến 1 chữ số thập phân).",
+      "content": "Một bảng số liệu thống kê trước kì sắp xếp đơn vị hành chính ghi cả nước có 63 tỉnh, thành phố trực thuộc trung ương, trong đó 28 tỉnh, thành phố giáp biển. Theo bảng số liệu đó, tỉ lệ tỉnh, thành phố giáp biển là bao nhiêu phần trăm (làm tròn đến 1 chữ số thập phân)?",
       "options": [],
       "correctAnswer": [
         "44,4",
@@ -3181,7 +3182,7 @@
         "44,4%",
         "44.4%"
       ],
-      "explanation": "**Đáp án: 44,4.** 28 : 63 × 100 ≈ 44,4%.",
+      "explanation": "**Đáp án: 44,4.** 28 : 63 × 100 ≈ 44,4%. Lưu ý: đây là số liệu của cách tổ chức hành chính cũ; theo cách tổ chức hiện hành (34 tỉnh, thành phố trực thuộc trung ương) phải lấy lại cả số tuyệt đối lẫn tỉ lệ từ bảng số liệu mới, không giữ con số 63 trong bài viết.",
       "difficulty": "EASY",
       "score": 0.1222,
       "tags": [

@@ -1,0 +1,1389 @@
+{
+  "id": "de-anh-12-unit-1",
+  "title": "Đề ôn tập Tiếng Anh 12 – Unit 1: Life stories we admire",
+  "slug": "de-anh-12-unit-1",
+  "description": "Đề ôn tập Unit 1 sách Tiếng Anh 12 (Global Success) – Life stories we admire: tiểu sử và những tấm gương đáng ngưỡng mộ. Trọng tâm là thì quá khứ đơn – quá khứ tiếp diễn – quá khứ hoàn thành, mệnh đề quan hệ (who, whose, where, giới từ + which), câu bị động, cấu trúc từ admiration / inspiration / determination và các cụm động từ look up to, look back on. Đề gồm 40 câu trắc nghiệm làm trong 45 phút theo thang điểm 10, mỗi câu đều có đáp án kèm giải thích ngắn bằng tiếng Việt.",
+  "subject": "tieng-anh",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "EN12-U1",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "de-anh-12-unit-1-c1",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "**a**ge"
+        },
+        {
+          "key": "B",
+          "text": "f**a**mous"
+        },
+        {
+          "key": "C",
+          "text": "p**a**ssion"
+        },
+        {
+          "key": "D",
+          "text": "eng**a**ge"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chữ a trong passion đọc là /æ/ (/ˈpæʃn/), còn age /eɪdʒ/, famous /ˈfeɪməs/, engage /ɪnˈɡeɪdʒ/ đều đọc là /eɪ/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "phát âm nguyên âm"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c2",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân (đuôi -ed) đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "admir**ed**"
+        },
+        {
+          "key": "B",
+          "text": "lov**ed**"
+        },
+        {
+          "key": "C",
+          "text": "work**ed**"
+        },
+        {
+          "key": "D",
+          "text": "travell**ed**"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đuôi -ed trong worked đọc là /t/ vì work kết thúc bằng âm vô thanh /k/ (/wɜːkt/). admired /ədˈmaɪəd/, loved /lʌvd/, travelled /ˈtrævld/ đều đọc là /d/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "phát âm đuôi -ed"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c3",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "tea**ch**er"
+        },
+        {
+          "key": "B",
+          "text": "a**ch**ieve"
+        },
+        {
+          "key": "C",
+          "text": "approa**ch**"
+        },
+        {
+          "key": "D",
+          "text": "**ch**aracter"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ch tổ hợp ch trong character đọc là /k/ (/ˈkærəktə(r)/), còn teacher /ˈtiːtʃə(r)/, achieve /əˈtʃiːv/, approach /əˈprəʊtʃ/ đều đọc là /tʃ/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "phát âm phụ âm"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c4",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "hea**lth**"
+        },
+        {
+          "key": "B",
+          "text": "wea**lth**"
+        },
+        {
+          "key": "C",
+          "text": "**th**ousand"
+        },
+        {
+          "key": "D",
+          "text": "**th**erefore"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ch trong therefore đọc là /ð/ (/ˈðeəfɔː(r)/), còn health /helθ/, wealth /welθ/, thousand /ˈθaʊznd/ đều đọc là /θ/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "phát âm ch"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c5",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân (đuôi -tion) đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "admira**tion**"
+        },
+        {
+          "key": "B",
+          "text": "inspira**tion**"
+        },
+        {
+          "key": "C",
+          "text": "sugges**tion**"
+        },
+        {
+          "key": "D",
+          "text": "determina**tion**"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đuôi -tion trong suggestion đọc là /tʃən/ (/səˈdʒestʃən/), còn admiration /ˌædməˈreɪʃn/, inspiration /ˌɪnspəˈreɪʃn/, determination /dɪˌtɜːmɪˈneɪʃn/ đều đọc là /ʃn/.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "phát âm đuôi -tion"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c6",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "famous"
+        },
+        {
+          "key": "B",
+          "text": "admire"
+        },
+        {
+          "key": "C",
+          "text": "create"
+        },
+        {
+          "key": "D",
+          "text": "succeed"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "famous /ˈfeɪməs/ nhấn âm 1, còn admire /ədˈmaɪə(r)/, create /kriˈeɪt/, succeed /səkˈsiːd/ đều nhấn âm 2.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "trọng âm từ hai âm tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c7",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "courage"
+        },
+        {
+          "key": "B",
+          "text": "hardship"
+        },
+        {
+          "key": "C",
+          "text": "wisdom"
+        },
+        {
+          "key": "D",
+          "text": "career"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "career /kəˈrɪə(r)/ nhấn âm 2, còn courage /ˈkʌrɪdʒ/, hardship /ˈhɑːdʃɪp/, wisdom /ˈwɪzdəm/ đều nhấn âm 1.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "trọng âm danh từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c8",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "influence"
+        },
+        {
+          "key": "B",
+          "text": "celebrate"
+        },
+        {
+          "key": "C",
+          "text": "generous"
+        },
+        {
+          "key": "D",
+          "text": "overcome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "overcome /ˌəʊvəˈkʌm/ nhấn âm 3 (âm cuối), còn influence /ˈɪnfluəns/, celebrate /ˈselɪbreɪt/, generous /ˈdʒenərəs/ đều nhấn âm 1.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "trọng âm từ ba âm tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c9",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "support"
+        },
+        {
+          "key": "B",
+          "text": "memory"
+        },
+        {
+          "key": "C",
+          "text": "respect"
+        },
+        {
+          "key": "D",
+          "text": "forgive"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "memory /ˈmeməri/ nhấn âm 1, còn support /səˈpɔːt/, respect /rɪˈspekt/, forgive /fəˈɡɪv/ đều nhấn âm 2.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "trọng âm động từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c10",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có vị trí trọng âm chính khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "encourage"
+        },
+        {
+          "key": "B",
+          "text": "graduate"
+        },
+        {
+          "key": "C",
+          "text": "inspire"
+        },
+        {
+          "key": "D",
+          "text": "improve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "graduate /ˈɡrædʒueɪt/ nhấn âm 1, còn encourage /ɪnˈkʌrɪdʒ/, inspire /ɪnˈspaɪə(r)/, improve /ɪmˈpruːv/ đều nhấn âm 2.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "trọng âm"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c11",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "By the time he retired in 2010, Mr Ha ______ the little bookshop for twenty-five years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "runs"
+        },
+        {
+          "key": "B",
+          "text": "had run"
+        },
+        {
+          "key": "C",
+          "text": "has run"
+        },
+        {
+          "key": "D",
+          "text": "ran"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mốc quá khứ là retired in 2010; hành động kéo dài hai mươi lăm năm hoàn toàn trước mốc đó nên dùng quá khứ hoàn thành had run. has run là hiện tại hoàn thành, không đi với mốc quá khứ.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "thì quá khứ hoàn thành"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c12",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "The scientist ______ biography we read last week came from a farming village.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "that"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cần đại từ quan hệ sở hữu whose trước danh từ biography (cuốn tiểu sử của nhà khoa học ấy). who/that làm chủ ngữ, which dùng cho vật và không chỉ quan hệ sở hữu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "mệnh đề quan hệ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c13",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "This is the secondary school ______ my mother taught physics for thirty years.",
+      "options": [
+        {
+          "key": "A",
+          "text": "where"
+        },
+        {
+          "key": "B",
+          "text": "which"
+        },
+        {
+          "key": "C",
+          "text": "when"
+        },
+        {
+          "key": "D",
+          "text": "who"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mệnh đề đủ chủ ngữ và tân ngữ (my mother taught physics) nên cần trạng từ quan hệ where chỉ nơi chốn. which sẽ sai vì thiếu giới từ in.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "trạng từ quan hệ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c14",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "Her ______ to help poor children has inspired hundreds of young volunteers.",
+      "options": [
+        {
+          "key": "A",
+          "text": "determine"
+        },
+        {
+          "key": "B",
+          "text": "determined"
+        },
+        {
+          "key": "C",
+          "text": "determination"
+        },
+        {
+          "key": "D",
+          "text": "determining"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sau tính từ sở hữu Her cần một danh từ, determination (lòng quyết tâm) là danh từ của determine. determined là tính từ, determine là động từ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "cấu trúc từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c15",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "Young athletes often ______ their older teammates and try to copy their hard training habits.",
+      "options": [
+        {
+          "key": "A",
+          "text": "look up to"
+        },
+        {
+          "key": "B",
+          "text": "look forward to"
+        },
+        {
+          "key": "C",
+          "text": "look down on"
+        },
+        {
+          "key": "D",
+          "text": "look after"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ngữ cảnh là noi theo thói quen luyện tập chăm chỉ của đàn anh, nên cần look up to (ngưỡng mộ, kính trọng). look forward to = mong đợi, look down on = coi thường, look after = chăm sóc.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "cụm động từ look"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c16",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "In her memoir, the old doctor ______ the years she spent treating patients in a remote village.",
+      "options": [
+        {
+          "key": "A",
+          "text": "looks back on"
+        },
+        {
+          "key": "B",
+          "text": "looks up to"
+        },
+        {
+          "key": "C",
+          "text": "looks in on"
+        },
+        {
+          "key": "D",
+          "text": "looks down on"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hồi kể lại những năm đã sống trong memoir (hồi kí) là nhìn lại quá khứ, nên cần look back on (hồi tưởng). look up to = ngưỡng mộ, look in on = ghé thăm qua, look down on = coi thường.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "cụm động từ look"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c17",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "The first volume of her autobiography ______ into ten languages last year.",
+      "options": [
+        {
+          "key": "A",
+          "text": "translated"
+        },
+        {
+          "key": "B",
+          "text": "is translated"
+        },
+        {
+          "key": "C",
+          "text": "has translated"
+        },
+        {
+          "key": "D",
+          "text": "was translated"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chủ ngữ the first volume chịu tác động của hành động dịch và có mốc last year, nên dùng bị động quá khứ đơn was translated. is translated là hiện tại, hợp với chân lí nhưng sai mốc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "câu bị động"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c18",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "It takes real ______ to keep training for years when nobody believes in you.",
+      "options": [
+        {
+          "key": "A",
+          "text": "perseverance"
+        },
+        {
+          "key": "B",
+          "text": "audience"
+        },
+        {
+          "key": "C",
+          "text": "temperature"
+        },
+        {
+          "key": "D",
+          "text": "performance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "perseverance (sự kiên trì) hợp với ngữ cảnh persist for years; audience (khán giả), temperature (nhiệt độ), performance (màn trình diễn) không chỉ phẩm chất.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "từ vựng tiểu sử"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c19",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "The documentary about the self-taught engineer is really ______; after watching it you want to work harder for your own dreams.",
+      "options": [
+        {
+          "key": "A",
+          "text": "inspiring"
+        },
+        {
+          "key": "B",
+          "text": "inspired"
+        },
+        {
+          "key": "C",
+          "text": "inspiration"
+        },
+        {
+          "key": "D",
+          "text": "inspire"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sau is really cần tính từ mô tả bản thân bộ phim: inspiring (gây cảm hứng). inspired tả người bị thuyết phục, inspiration là danh từ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "tính từ -ing/-ed"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c20",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "While she ______ for the national team, she also studied at an open university.",
+      "options": [
+        {
+          "key": "A",
+          "text": "trained"
+        },
+        {
+          "key": "B",
+          "text": "was training"
+        },
+        {
+          "key": "C",
+          "text": "had trained"
+        },
+        {
+          "key": "D",
+          "text": "has trained"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "While chỉ hành động kéo dài trong quá khứ, nền cho hành động studied, nên dùng quá khứ tiếp diễn was training.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "thì quá khứ tiếp diễn"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c21",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "The values ______ the young hero fought were freedom and equal access to education.",
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "whose"
+        },
+        {
+          "key": "C",
+          "text": "that"
+        },
+        {
+          "key": "D",
+          "text": "for which"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cụm fight for the values, khi đưa giới từ lên trước đại từ quan hệ ta có for which. which/that thiếu giới từ for nên sai.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "giới từ + đại từ quan hệ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c22",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "Everyone in the village admires Mr Ba ______ his honesty and his quiet generosity.",
+      "options": [
+        {
+          "key": "A",
+          "text": "for"
+        },
+        {
+          "key": "B",
+          "text": "with"
+        },
+        {
+          "key": "C",
+          "text": "of"
+        },
+        {
+          "key": "D",
+          "text": "to"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cấu trúc admire somebody for something (ngưỡng mộ ai vì điều gì) nên cần giới từ for. Các giới từ còn lại không đi với admire theo nghĩa này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "giới từ đi kèm động từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c23",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Nguyen Thi Hoa was born in 1954 in a small farming village in Nghe An. As a girl she (23) ______ her grandmother's buffaloes and sold vegetables at the weekend market. Her family had no money for secondary school, so she (24) ______ herself and often studied by the light of an oil lamp. In 1975 a bomb blast (25) ______ her both arms and her right leg. Instead of giving up, she kept smiling and repeating that where there is a will there is a way. Over the next forty years she built a small sewing workshop that (26) ______ work for more than fifty disabled people, and she paid scholarships for hundreds of poor pupils. By the time she received the national honour in 2016, she (27) ______ already helped many families escape poverty. Today her story is read in schools because it shows that real (28) ______ is not about fame, but about refusing to let hardship define you.*\n\nChọn phương án đúng nhất cho chỗ trống **(23)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "looked down on"
+        },
+        {
+          "key": "B",
+          "text": "looked forward to"
+        },
+        {
+          "key": "C",
+          "text": "looked for"
+        },
+        {
+          "key": "D",
+          "text": "looked after"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chăn (những con trâu) cho bà là chăm sóc chúng, nên cần look after. look down on = coi thường, look forward to = mong chờ, look for = tìm kiếm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "cloze tiểu sử",
+        "cụm động từ look"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c24",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Nguyen Thi Hoa was born in 1954 in a small farming village in Nghe An. As a girl she (23) ______ her grandmother's buffaloes and sold vegetables at the weekend market. Her family had no money for secondary school, so she (24) ______ herself and often studied by the light of an oil lamp. In 1975 a bomb blast (25) ______ her both arms and her right leg. Instead of giving up, she kept smiling and repeating that where there is a will there is a way. Over the next forty years she built a small sewing workshop that (26) ______ work for more than fifty disabled people, and she paid scholarships for hundreds of poor pupils. By the time she received the national honour in 2016, she (27) ______ already helped many families escape poverty. Today her story is read in schools because it shows that real (28) ______ is not about fame, but about refusing to let hardship define you.*\n\nChọn phương án đúng nhất cho chỗ trống **(24)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "taught"
+        },
+        {
+          "key": "B",
+          "text": "learned"
+        },
+        {
+          "key": "C",
+          "text": "made"
+        },
+        {
+          "key": "D",
+          "text": "did"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cụm teach oneself = tự học (she taught herself = cô ấy tự học). learned/made/did không kết hợp với herself theo nghĩa này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "cloze tiểu sử",
+        "cụm từ cố định"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c25",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Nguyen Thi Hoa was born in 1954 in a small farming village in Nghe An. As a girl she (23) ______ her grandmother's buffaloes and sold vegetables at the weekend market. Her family had no money for secondary school, so she (24) ______ herself and often studied by the light of an oil lamp. In 1975 a bomb blast (25) ______ her both arms and her right leg. Instead of giving up, she kept smiling and repeating that where there is a will there is a way. Over the next forty years she built a small sewing workshop that (26) ______ work for more than fifty disabled people, and she paid scholarships for hundreds of poor pupils. By the time she received the national honour in 2016, she (27) ______ already helped many families escape poverty. Today her story is read in schools because it shows that real (28) ______ is not about fame, but about refusing to let hardship define you.*\n\nChọn phương án đúng nhất cho chỗ trống **(25)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "paid"
+        },
+        {
+          "key": "B",
+          "text": "cost"
+        },
+        {
+          "key": "C",
+          "text": "spent"
+        },
+        {
+          "key": "D",
+          "text": "lost"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cấu trúc cost somebody something (khiến ai mất cái gì): a bomb blast cost her both arms. spent phải có chủ ngữ là người tiêu tiền; lost sai vì chủ ngữ là vụ nổ, không phải cô.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "cloze tiểu sử",
+        "cấu trúc cost"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c26",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Nguyen Thi Hoa was born in 1954 in a small farming village in Nghe An. As a girl she (23) ______ her grandmother's buffaloes and sold vegetables at the weekend market. Her family had no money for secondary school, so she (24) ______ herself and often studied by the light of an oil lamp. In 1975 a bomb blast (25) ______ her both arms and her right leg. Instead of giving up, she kept smiling and repeating that where there is a will there is a way. Over the next forty years she built a small sewing workshop that (26) ______ work for more than fifty disabled people, and she paid scholarships for hundreds of poor pupils. By the time she received the national honour in 2016, she (27) ______ already helped many families escape poverty. Today her story is read in schools because it shows that real (28) ______ is not about fame, but about refusing to let hardship define you.*\n\nChọn phương án đúng nhất cho chỗ trống **(26)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "prevented"
+        },
+        {
+          "key": "B",
+          "text": "proved"
+        },
+        {
+          "key": "C",
+          "text": "protected"
+        },
+        {
+          "key": "D",
+          "text": "provided"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "provide work for somebody (tạo việc làm cho ai) là kết hợp từ đúng với ngữ cảnh xưởng may nhận người khuyết tật vào làm. prevented (ngăn cản) và protected (bảo vệ) không đi với work for sb, còn proved (chứng minh) sai nghĩa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "cloze tiểu sử",
+        "collocation"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c27",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Nguyen Thi Hoa was born in 1954 in a small farming village in Nghe An. As a girl she (23) ______ her grandmother's buffaloes and sold vegetables at the weekend market. Her family had no money for secondary school, so she (24) ______ herself and often studied by the light of an oil lamp. In 1975 a bomb blast (25) ______ her both arms and her right leg. Instead of giving up, she kept smiling and repeating that where there is a will there is a way. Over the next forty years she built a small sewing workshop that (26) ______ work for more than fifty disabled people, and she paid scholarships for hundreds of poor pupils. By the time she received the national honour in 2016, she (27) ______ already helped many families escape poverty. Today her story is read in schools because it shows that real (28) ______ is not about fame, but about refusing to let hardship define you.*\n\nChọn phương án đúng nhất cho chỗ trống **(27)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "has"
+        },
+        {
+          "key": "B",
+          "text": "have"
+        },
+        {
+          "key": "C",
+          "text": "had"
+        },
+        {
+          "key": "D",
+          "text": "was"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mệnh đề đã có động từ helped (quá khứ phân từ) và có already, lại đứng sau mốc quá khứ By the time she received... 2016, nên cần quá khứ hoàn thành had helped.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "cloze tiểu sử",
+        "quá khứ hoàn thành"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c28",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Nguyen Thi Hoa was born in 1954 in a small farming village in Nghe An. As a girl she (23) ______ her grandmother's buffaloes and sold vegetables at the weekend market. Her family had no money for secondary school, so she (24) ______ herself and often studied by the light of an oil lamp. In 1975 a bomb blast (25) ______ her both arms and her right leg. Instead of giving up, she kept smiling and repeating that where there is a will there is a way. Over the next forty years she built a small sewing workshop that (26) ______ work for more than fifty disabled people, and she paid scholarships for hundreds of poor pupils. By the time she received the national honour in 2016, she (27) ______ already helped many families escape poverty. Today her story is read in schools because it shows that real (28) ______ is not about fame, but about refusing to let hardship define you.*\n\nChọn phương án đúng nhất cho chỗ trống **(28)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "successful"
+        },
+        {
+          "key": "B",
+          "text": "success"
+        },
+        {
+          "key": "C",
+          "text": "succeed"
+        },
+        {
+          "key": "D",
+          "text": "successfully"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sau tính từ real cần danh từ làm chủ ngữ cho is: real success (thành công đích thực). successful là tính từ, succeed là động từ, successfully là trạng từ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "cloze tiểu sử",
+        "cấu trúc từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c29",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***A Girl Who Would Not Be Silenced***\n>\n> *Malala Yousafzai was born in 1997 in a small town in the Swat Valley in north-west Pakistan, where her father ran a school for children. Like many pupils in the region, she loved learning and once said that she wanted to become a doctor. When she was about eleven, armed extremists took control of the valley and announced that girls were no longer allowed to go to school.*\n>\n> *Malala refused to accept the ban. She spoke on television about her right to learn and, using a false name, wrote an online diary about daily life under the restrictions. Her quiet courage made her known across the country, and it also brought danger. On 9 October 2012 a gunman stopped her school bus and shot her. She was flown to a hospital in Birmingham in England and, after several operations, slowly recovered.*\n>\n> *What happened next surprised many people. Instead of staying silent, Malala returned to her campaign with even greater energy and, together with her father, set up a fund that supports girls' education in developing countries. Her **memoir**, published in 2013, was translated into dozens of languages. In 2014 she became the youngest person ever to be awarded the Nobel Peace Prize. Her story is now told in classrooms far from the Swat Valley, and it carries a simple message: one book, one pen, one teacher and one brave girl can change the world.*\n\nWhat is the passage mainly about?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "How a schoolgirl from the Swat Valley became a global symbol of courage"
+        },
+        {
+          "key": "B",
+          "text": "How the school system in Pakistan was rebuilt after 2012"
+        },
+        {
+          "key": "C",
+          "text": "The history of the Nobel Peace Prize and its youngest winner"
+        },
+        {
+          "key": "D",
+          "text": "Why teenagers in England should read memoirs about war"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ba đoạn lần lượt kể tuổi thơ đi học, việc cô đấu tranh chống lệnh cấm và bị bắn, rồi hành trình trở thành tấm gương toàn cầu về lòng can đảm. Bài không bàn về hệ thống trường học Pakistan hay lịch sử giải Nobel.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "đọc hiểu ý chính"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c30",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***A Girl Who Would Not Be Silenced***\n>\n> *Malala Yousafzai was born in 1997 in a small town in the Swat Valley in north-west Pakistan, where her father ran a school for children. Like many pupils in the region, she loved learning and once said that she wanted to become a doctor. When she was about eleven, armed extremists took control of the valley and announced that girls were no longer allowed to go to school.*\n>\n> *Malala refused to accept the ban. She spoke on television about her right to learn and, using a false name, wrote an online diary about daily life under the restrictions. Her quiet courage made her known across the country, and it also brought danger. On 9 October 2012 a gunman stopped her school bus and shot her. She was flown to a hospital in Birmingham in England and, after several operations, slowly recovered.*\n>\n> *What happened next surprised many people. Instead of staying silent, Malala returned to her campaign with even greater energy and, together with her father, set up a fund that supports girls' education in developing countries. Her **memoir**, published in 2013, was translated into dozens of languages. In 2014 she became the youngest person ever to be awarded the Nobel Peace Prize. Her story is now told in classrooms far from the Swat Valley, and it carries a simple message: one book, one pen, one teacher and one brave girl can change the world.*\n\nAs a pupil in the Swat Valley, Malala ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "wanted to become a doctor"
+        },
+        {
+          "key": "B",
+          "text": "taught children at her father's school"
+        },
+        {
+          "key": "C",
+          "text": "studied medicine in England"
+        },
+        {
+          "key": "D",
+          "text": "wrote books for her classmates"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đoạn 1 ghi rõ she loved learning and once said that she wanted to become a doctor (cô muốn làm bác sĩ). Chi tiết dạy học, học y khoa hay viết sách đều không có trong bài.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "đọc hiểu chi tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c31",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***A Girl Who Would Not Be Silenced***\n>\n> *Malala Yousafzai was born in 1997 in a small town in the Swat Valley in north-west Pakistan, where her father ran a school for children. Like many pupils in the region, she loved learning and once said that she wanted to become a doctor. When she was about eleven, armed extremists took control of the valley and announced that girls were no longer allowed to go to school.*\n>\n> *Malala refused to accept the ban. She spoke on television about her right to learn and, using a false name, wrote an online diary about daily life under the restrictions. Her quiet courage made her known across the country, and it also brought danger. On 9 October 2012 a gunman stopped her school bus and shot her. She was flown to a hospital in Birmingham in England and, after several operations, slowly recovered.*\n>\n> *What happened next surprised many people. Instead of staying silent, Malala returned to her campaign with even greater energy and, together with her father, set up a fund that supports girls' education in developing countries. Her **memoir**, published in 2013, was translated into dozens of languages. In 2014 she became the youngest person ever to be awarded the Nobel Peace Prize. Her story is now told in classrooms far from the Swat Valley, and it carries a simple message: one book, one pen, one teacher and one brave girl can change the world.*\n\nThe announcement made by the extremists meant that ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "all schools in the valley had to close for one year"
+        },
+        {
+          "key": "B",
+          "text": "boys had to work instead of studying"
+        },
+        {
+          "key": "C",
+          "text": "girls were not permitted to attend school"
+        },
+        {
+          "key": "D",
+          "text": "families were forced to leave the Swat Valley"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đoạn 1: they announced that girls were no longer allowed to go to school, nghĩa là trẻ em gái bị cấm đến lớp (not permitted to attend school).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "đọc hiểu chi tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c32",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***A Girl Who Would Not Be Silenced***\n>\n> *Malala Yousafzai was born in 1997 in a small town in the Swat Valley in north-west Pakistan, where her father ran a school for children. Like many pupils in the region, she loved learning and once said that she wanted to become a doctor. When she was about eleven, armed extremists took control of the valley and announced that girls were no longer allowed to go to school.*\n>\n> *Malala refused to accept the ban. She spoke on television about her right to learn and, using a false name, wrote an online diary about daily life under the restrictions. Her quiet courage made her known across the country, and it also brought danger. On 9 October 2012 a gunman stopped her school bus and shot her. She was flown to a hospital in Birmingham in England and, after several operations, slowly recovered.*\n>\n> *What happened next surprised many people. Instead of staying silent, Malala returned to her campaign with even greater energy and, together with her father, set up a fund that supports girls' education in developing countries. Her **memoir**, published in 2013, was translated into dozens of languages. In 2014 she became the youngest person ever to be awarded the Nobel Peace Prize. Her story is now told in classrooms far from the Swat Valley, and it carries a simple message: one book, one pen, one teacher and one brave girl can change the world.*\n\nWhy did Malala write her online diary under a false name?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because the BBC required every young writer to do so"
+        },
+        {
+          "key": "B",
+          "text": "Because opposing the ban could put her life at risk"
+        },
+        {
+          "key": "C",
+          "text": "Because her father forbade her to speak in public"
+        },
+        {
+          "key": "D",
+          "text": "Because she was too shy to meet her readers"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đoạn 2 cho biết việc cô lên tiếng chống lệnh cấm đã đi kèm nguy hiểm (it also brought danger) và sau đó cô bị bắn, nên phải dùng tên giả để ẩn thân. Cha cô là người mở trường học nên không hề cấm cô nói.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "đọc hiểu suy luận nguyên nhân"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c33",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***A Girl Who Would Not Be Silenced***\n>\n> *Malala Yousafzai was born in 1997 in a small town in the Swat Valley in north-west Pakistan, where her father ran a school for children. Like many pupils in the region, she loved learning and once said that she wanted to become a doctor. When she was about eleven, armed extremists took control of the valley and announced that girls were no longer allowed to go to school.*\n>\n> *Malala refused to accept the ban. She spoke on television about her right to learn and, using a false name, wrote an online diary about daily life under the restrictions. Her quiet courage made her known across the country, and it also brought danger. On 9 October 2012 a gunman stopped her school bus and shot her. She was flown to a hospital in Birmingham in England and, after several operations, slowly recovered.*\n>\n> *What happened next surprised many people. Instead of staying silent, Malala returned to her campaign with even greater energy and, together with her father, set up a fund that supports girls' education in developing countries. Her **memoir**, published in 2013, was translated into dozens of languages. In 2014 she became the youngest person ever to be awarded the Nobel Peace Prize. Her story is now told in classrooms far from the Swat Valley, and it carries a simple message: one book, one pen, one teacher and one brave girl can change the world.*\n\nThe word **memoir** in paragraph 3 is closest in meaning to ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "a report of a scientific discovery"
+        },
+        {
+          "key": "B",
+          "text": "a story of a person's own life written by that person"
+        },
+        {
+          "key": "C",
+          "text": "a novel written for young children"
+        },
+        {
+          "key": "D",
+          "text": "a news article about a recent event"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "memoir là hồi kí — truyện đời do chính tác giả kể lại, hợp với ngữ cảnh sách của Malala được dịch ra hàng chục ngôn ngữ. Các phương án còn lại là thể loại khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "từ vựng trong ngữ cảnh"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c34",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***A Girl Who Would Not Be Silenced***\n>\n> *Malala Yousafzai was born in 1997 in a small town in the Swat Valley in north-west Pakistan, where her father ran a school for children. Like many pupils in the region, she loved learning and once said that she wanted to become a doctor. When she was about eleven, armed extremists took control of the valley and announced that girls were no longer allowed to go to school.*\n>\n> *Malala refused to accept the ban. She spoke on television about her right to learn and, using a false name, wrote an online diary about daily life under the restrictions. Her quiet courage made her known across the country, and it also brought danger. On 9 October 2012 a gunman stopped her school bus and shot her. She was flown to a hospital in Birmingham in England and, after several operations, slowly recovered.*\n>\n> *What happened next surprised many people. Instead of staying silent, Malala returned to her campaign with even greater energy and, together with her father, set up a fund that supports girls' education in developing countries. Her **memoir**, published in 2013, was translated into dozens of languages. In 2014 she became the youngest person ever to be awarded the Nobel Peace Prize. Her story is now told in classrooms far from the Swat Valley, and it carries a simple message: one book, one pen, one teacher and one brave girl can change the world.*\n\nWhich of the following is NOT mentioned in the passage?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "She was shot while travelling on her school bus."
+        },
+        {
+          "key": "B",
+          "text": "She was treated in a hospital in England."
+        },
+        {
+          "key": "C",
+          "text": "She received a university degree in Pakistan."
+        },
+        {
+          "key": "D",
+          "text": "She set up a fund supporting girls' education."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài đọc kể chuyện bị bắn trên xe buýt (đoạn 2), được chuyển tới bệnh viện ở Birmingham (đoạn 2) và cùng cha lập quỹ hỗ trợ giáo dục trẻ em gái (đoạn 3), nhưng không nhắc tới bằng đại học ở Pakistan.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "đọc hiểu chi tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c35",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***A Girl Who Would Not Be Silenced***\n>\n> *Malala Yousafzai was born in 1997 in a small town in the Swat Valley in north-west Pakistan, where her father ran a school for children. Like many pupils in the region, she loved learning and once said that she wanted to become a doctor. When she was about eleven, armed extremists took control of the valley and announced that girls were no longer allowed to go to school.*\n>\n> *Malala refused to accept the ban. She spoke on television about her right to learn and, using a false name, wrote an online diary about daily life under the restrictions. Her quiet courage made her known across the country, and it also brought danger. On 9 October 2012 a gunman stopped her school bus and shot her. She was flown to a hospital in Birmingham in England and, after several operations, slowly recovered.*\n>\n> *What happened next surprised many people. Instead of staying silent, Malala returned to her campaign with even greater energy and, together with her father, set up a fund that supports girls' education in developing countries. Her **memoir**, published in 2013, was translated into dozens of languages. In 2014 she became the youngest person ever to be awarded the Nobel Peace Prize. Her story is now told in classrooms far from the Swat Valley, and it carries a simple message: one book, one pen, one teacher and one brave girl can change the world.*\n\nWhat can be inferred from paragraph 3?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The attack made Malala give up public speaking."
+        },
+        {
+          "key": "B",
+          "text": "Malala turned a personal tragedy into a wider campaign."
+        },
+        {
+          "key": "C",
+          "text": "She won the Nobel Prize mainly for writing her memoir."
+        },
+        {
+          "key": "D",
+          "text": "Her father persuaded her to return to the Swat Valley."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đoạn 3 mở đầu bằng Instead of staying silent (thay vì im lặng), cô quay lại vận động với năng lượng lớn hơn và cùng cha lập quỹ hỗ trợ trẻ em gái ở nhiều nước đang phát triển, nên suy ra cô đã biến mất mát của bản thân thành một phong trào rộng hơn. A trái nghĩa, C và D không có căn cứ trong bài.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "đọc hiểu suy luận"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c36",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***A Girl Who Would Not Be Silenced***\n>\n> *Malala Yousafzai was born in 1997 in a small town in the Swat Valley in north-west Pakistan, where her father ran a school for children. Like many pupils in the region, she loved learning and once said that she wanted to become a doctor. When she was about eleven, armed extremists took control of the valley and announced that girls were no longer allowed to go to school.*\n>\n> *Malala refused to accept the ban. She spoke on television about her right to learn and, using a false name, wrote an online diary about daily life under the restrictions. Her quiet courage made her known across the country, and it also brought danger. On 9 October 2012 a gunman stopped her school bus and shot her. She was flown to a hospital in Birmingham in England and, after several operations, slowly recovered.*\n>\n> *What happened next surprised many people. Instead of staying silent, Malala returned to her campaign with even greater energy and, together with her father, set up a fund that supports girls' education in developing countries. Her **memoir**, published in 2013, was translated into dozens of languages. In 2014 she became the youngest person ever to be awarded the Nobel Peace Prize. Her story is now told in classrooms far from the Swat Valley, and it carries a simple message: one book, one pen, one teacher and one brave girl can change the world.*\n\nThe phrase **her campaign** in paragraph 3 refers to ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "her effort to win the Nobel Peace Prize"
+        },
+        {
+          "key": "B",
+          "text": "her long journey from Pakistan to England"
+        },
+        {
+          "key": "C",
+          "text": "her work to promote education for girls"
+        },
+        {
+          "key": "D",
+          "text": "her plan to reopen her father's school"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Campaign của Malala xuyên suốt bài là vận động cho quyền được học của trẻ em gái, được làm rõ ở câu ngay sau: set up a fund that supports girls' education.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "đọc hiểu từ ngữ tham chiếu"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c37",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. for\n> 2. is\n> 3. her honesty\n> 4. widely\n> 5. Mrs Lan\n> 6. admired\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 - 2 - 4 - 6 - 1 - 3"
+        },
+        {
+          "key": "B",
+          "text": "5 - 4 - 2 - 6 - 1 - 3"
+        },
+        {
+          "key": "C",
+          "text": "5 - 2 - 4 - 1 - 6 - 3"
+        },
+        {
+          "key": "D",
+          "text": "5 - 2 - 6 - 1 - 4 - 3"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Câu đúng là Mrs Lan is widely admired for her honesty: trạng từ widely đứng trước quá khứ phân từ admired trong câu bị động, giới từ for đi liền với admire somebody for something.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "câu bị động"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c38",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. My grandmother\n> 2. is\n> 3. the woman\n> 4. who\n> 5. taught\n> 6. me\n> 7. to read\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 - 2 - 4 - 3 - 5 - 6 - 7"
+        },
+        {
+          "key": "B",
+          "text": "1 - 2 - 3 - 5 - 4 - 6 - 7"
+        },
+        {
+          "key": "C",
+          "text": "1 - 2 - 3 - 4 - 5 - 6 - 7"
+        },
+        {
+          "key": "D",
+          "text": "1 - 2 - 3 - 4 - 6 - 5 - 7"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Câu đúng là My grandmother is the woman who taught me to read. Đại từ quan hệ who phải mở đầu mệnh đề quan hệ ngay sau the woman, và taught mang hai tân ngữ taught me to read.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "mệnh đề quan hệ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c39",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. She\n> 2. won\n> 3. the writing competition\n> 4. because\n> 5. she\n> 6. had practised\n> 7. every single day\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 - 2 - 3 - 4 - 6 - 5 - 7"
+        },
+        {
+          "key": "B",
+          "text": "1 - 2 - 4 - 3 - 5 - 6 - 7"
+        },
+        {
+          "key": "C",
+          "text": "2 - 1 - 3 - 4 - 5 - 6 - 7"
+        },
+        {
+          "key": "D",
+          "text": "1 - 2 - 3 - 4 - 5 - 6 - 7"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Câu đúng là She won the writing competition because she had practised every single day: mệnh đề chính ở quá khứ đơn, còn mệnh đề chỉ nguyên nhân sau because phải có chủ ngữ she đứng trước had practised (quá khứ hoàn thành).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "quá khứ hoàn thành"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-1-c40",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit1",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. Although\n> 2. he\n> 3. lost\n> 4. both arms\n> 5. he\n> 6. never\n> 7. gave up\n> 8. his dream\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 - 2 - 3 - 4 - 6 - 5 - 7 - 8"
+        },
+        {
+          "key": "B",
+          "text": "1 - 2 - 3 - 4 - 5 - 6 - 7 - 8"
+        },
+        {
+          "key": "C",
+          "text": "1 - 2 - 3 - 4 - 5 - 7 - 6 - 8"
+        },
+        {
+          "key": "D",
+          "text": "2 - 1 - 3 - 4 - 5 - 6 - 7 - 8"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Câu đúng là Although he lost both arms, he never gave up his dream: Although mở đầu mệnh đề nhượng bộ, chủ ngữ he của mệnh đề chính đứng trước trạng từ never và cụm gave up his dream.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 1",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "mệnh đề nhượng bộ"
+      ]
+    }
+  ]
+}

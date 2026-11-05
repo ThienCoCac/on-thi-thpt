@@ -3,6 +3,7 @@ import path from 'node:path';
 import { z } from 'zod';
 import type {
   BankQuestion,
+  ContentStats,
   Difficulty,
   ExamContent,
   ExamDetail,
@@ -95,6 +96,7 @@ const examSchema = z.object({
   slug: z.string().trim().min(1),
   description: z.string(),
   subject: z.string().trim().min(1),
+  grade: z.number().int().min(10).max(12),
   type: z.enum(['FULL_EXAM', 'TOPIC_TEST', 'MINI_TEST']),
   durationMinutes: z.number().int().positive(),
   totalScore: z.number().positive(),
@@ -209,6 +211,7 @@ function toExamSummary(exam: ExamContent): ExamSummary {
     publishedAt: new Date(exam.publishedAt),
     updatedAt: new Date(exam.updatedAt),
     subject: requireSubjectRef(exam.subject),
+    grade: exam.grade,
     questionCount: exam.questions.length,
     difficulty: averageDifficulty(exam),
   };
@@ -417,19 +420,21 @@ export function getPracticeCatalog(): PracticeSubject[] {
     .filter((subject) => subject.questionCount > 0);
 }
 
-export function getContentStats(): {
-  exams: number;
-  questions: number;
-} {
+export function getContentStats(): ContentStats {
   const questionIds = new Set<string>();
+  const examsByGrade = new Map<number, number>();
   for (const exam of examContents) {
     for (const question of exam.questions) {
       questionIds.add(question.id);
     }
+    examsByGrade.set(exam.grade, (examsByGrade.get(exam.grade) ?? 0) + 1);
   }
 
   return {
     exams: examContents.length,
     questions: questionIds.size,
+    grades: Array.from(examsByGrade.entries())
+      .sort((a, b) => a[0] - b[0])
+      .map(([grade, exams]) => ({ grade, exams })),
   };
 }

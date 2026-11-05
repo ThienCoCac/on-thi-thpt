@@ -1,0 +1,1427 @@
+{
+  "id": "de-dia-12-bai-19",
+  "title": "Đề ôn tập Địa lí 12 – Bài 19: Thực hành – Vẽ biểu đồ, nhận xét và giải thích tình hình phát triển công nghiệp",
+  "slug": "de-dia-12-bai-19",
+  "description": "Đề ôn tập Địa lí 12 (sách Kết nối tri thức, bản chỉnh sửa 2026) – Bài 19: Thực hành vẽ biểu đồ, nhận xét và giải thích tình hình phát triển công nghiệp. Trọng tâm là kĩ năng: chọn đúng dạng biểu đồ (cột đơn, cột ghép, cột chồng, miền, đường, kết hợp cột và đường), xử lí số liệu tính tỉ trọng, tốc độ phát triển, mức tăng thêm, điểm phần trăm, tính góc cung và bán kính hình tròn, rồi nhận xét xu hướng và giải thích nguyên nhân chuyển dịch cơ cấu theo ngành, theo thành phần kinh tế và theo vùng. Đề gồm 35 câu trắc nghiệm bốn phương án và 5 câu chọn các phát biểu đúng, tổng 40 câu, 10 điểm trong 45 phút. Toàn bộ số liệu đều được nêu trọn trong từng câu (đánh dấu là số liệu giả định phục vụ thực hành), học sinh không cần mở Atlat hay bảng số liệu in sẵn. Lời giải các câu tính toán ghi rõ phép tính để tự kiểm tra. Cấu trúc hành chính – kinh tế dùng theo bản 2026: cả nước có 34 tỉnh, thành phố trực thuộc trung ương và 6 vùng kinh tế – xã hội, Tây Nguyên được xếp chung vào vùng Duyên hải Nam Trung Bộ.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B19",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b19-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng chọn biểu đồ",
+        "thực hành công nghiệp"
+      ],
+      "content": "Giả sử số liệu thực hành: giá trị sản xuất công nghiệp cả nước phân theo ba nhóm ngành (nghìn tỉ đồng) của hai năm 2010 và 2024. Năm 2010: khai thác mỏ 62,3; chế biến – chế tạo 500,4; sản xuất và phân phối điện, khí đốt, nước 78,3. Năm 2024: khai thác mỏ 120,5; chế biến – chế tạo 1.450,2; sản xuất và phân phối điện, khí đốt, nước 210,4. Yêu cầu thể hiện vừa quy mô vừa cơ cấu giá trị sản xuất công nghiệp theo nhóm ngành của hai năm. Dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ tròn, hai hình tròn có bán kính khác nhau, mỗi hình một năm"
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ miền"
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ cột ghép"
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ đường"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Bảng chỉ có hai mốc thời gian và thể hiện cơ cấu các thành phần của từng năm, đồng thời cần so sánh quy mô tổng qua bán kính, nên biểu đồ tròn (bán kính khác nhau) là phù hợp nhất. Biểu đồ miền thường dùng khi có từ bốn mốc thời gian trở lên; cột ghép để so sánh số tuyệt đối của từng ngành; biểu đồ đường dùng cho diễn biến hoặc tốc độ tăng trưởng."
+    },
+    {
+      "id": "dia12-b19-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng chọn biểu đồ",
+        "biểu đồ miền"
+      ],
+      "content": "Giả sử bảng số liệu cho cơ cấu giá trị sản xuất công nghiệp phân theo nhóm ngành (đơn vị %) của bốn năm 2012, 2016, 2020, 2024, mỗi năm gồm bốn thành phần đã được tính sẵn tỉ trọng. Yêu cầu thể hiện sự thay đổi cơ cấu đó qua bốn mốc thời gian. Dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ cột chồng"
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ miền"
+        },
+        {
+          "key": "C",
+          "text": "Hai biểu đồ tròn đặt cạnh nhau"
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ kết hợp cột và đường"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Số liệu đã ở dạng tỉ trọng (cơ cấu) và có bốn mốc thời gian, lại không hỏi quy mô tuyệt đối, nên biểu đồ miền thể hiện rõ nhất sự thay đổi cơ cấu qua nhiều năm. Cột chồng và biểu đồ tròn chỉ phù hợp khi số năm ít; kết hợp cột – đường dùng cho hai đại lượng khác đơn vị."
+    },
+    {
+      "id": "dia12-b19-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng chọn biểu đồ",
+        "trục số phụ"
+      ],
+      "content": "Giả sử số liệu thực hành: giá trị sản xuất công nghiệp (nghìn tỉ đồng) và số lao động khu vực công nghiệp – xây dựng (triệu người) của cả nước qua bốn năm 2015, 2018, 2021, 2024. Giá trị sản xuất tương ứng là 1.180,4; 1.420,6; 1.590,2; 1.781,1. Số lao động tương ứng là 6,1; 7,2; 7,8; 8,6. Yêu cầu thể hiện đồng thời hai đại lượng trên cùng một biểu đồ. Dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ cột chồng"
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ tròn"
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ kết hợp cột đơn và đường, có hai trục đơn vị"
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ cột ghép"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Hai đại lượng có đơn vị khác nhau và bậc độ lớn chênh lệch rất lớn (hàng nghìn nghìn tỉ đồng với chưa đến 10 triệu người), nên phải dùng biểu đồ kết hợp: cột cho đại lượng lớn, đường cho đại lượng nhỏ và có trục dọc phụ. Cột ghép hay cột chồng chỉ vẽ được các dãy cùng đơn vị; biểu đồ tròn dùng cho cơ cấu, không dùng để so sánh diễn biến hai đại lượng."
+    },
+    {
+      "id": "dia12-b19-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng chọn biểu đồ",
+        "tốc độ tăng trưởng"
+      ],
+      "content": "Cho bảng số liệu giả định về tốc độ tăng trưởng sản lượng ba sản phẩm công nghiệp (điện, than sạch, dầu mỏ khai thác) của cả nước trong sáu năm liên tiếp, đơn vị % (lấy năm đầu = 100%). Yêu cầu thể hiện tốc độ tăng trưởng của ba sản phẩm qua cả sáu năm. Dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ tròn"
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ cột ghép"
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ miền"
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ đường"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Khi số liệu đã là tốc độ tăng trưởng của nhiều đối tượng qua chuỗi năm liên tiếp, biểu đồ đường thể hiện rõ nhất diễn biến và so sánh được mức tăng nhanh – chậm giữa các đối tượng. Biểu đồ tròn và miền dùng cho cơ cấu; cột ghép chủ yếu để so sánh quy mô số tuyệt đối."
+    },
+    {
+      "id": "dia12-b19-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng chọn biểu đồ",
+        "công nghiệp theo vùng"
+      ],
+      "content": "Giả sử số liệu thực hành: giá trị sản xuất công nghiệp năm 2024 phân theo vùng kinh tế – xã hội của nước ta (bản chỉnh sửa 2026, cả nước có 34 tỉnh, thành phố trực thuộc trung ương và 6 vùng kinh tế – xã hội), đơn vị nghìn tỉ đồng: Đông Nam Bộ 780,4; Đồng bằng sông Hồng 505,3; Duyên hải Nam Trung Bộ (xếp chung với Tây Nguyên) 180,6; bốn vùng còn lại 314,8. Yêu cầu so sánh quy mô giá trị sản xuất công nghiệp giữa các vùng trong cùng một năm. Dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ cột đơn"
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ đường"
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ miền"
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ kết hợp cột và đường"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Bảng chỉ có một mốc thời gian và cần so sánh giá trị tuyệt đối giữa các đối tượng nên biểu đồ cột đơn là phù hợp nhất. Biểu đồ đường và miền đòi hỏi nhiều mốc thời gian; kết hợp cột – đường dùng khi có hai đại lượng khác đơn vị."
+    },
+    {
+      "id": "dia12-b19-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng chọn biểu đồ",
+        "cơ cấu ngành"
+      ],
+      "content": "Giả sử số liệu: cơ cấu giá trị sản xuất công nghiệp phân theo nhóm ngành năm 2024 (%): khai thác mỏ 6,8; chế biến – chế tạo 81,4; sản xuất và phân phối điện, khí đốt, nước 11,8. Yêu cầu thể hiện cơ cấu của một năm duy nhất. Dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ cột ghép"
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ miền"
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ đường"
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ tròn"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Bảng chỉ có một mốc thời gian, số thành phần ít (ba nhóm) và đã cho sẵn tỉ trọng nên biểu đồ tròn thể hiện cơ cấu trực quan nhất. Biểu đồ miền cần từ bốn mốc thời gian trở lên; cột ghép và đường không diễn đạt được khái niệm cơ cấu của một tổng thể."
+    },
+    {
+      "id": "dia12-b19-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xử lí số liệu",
+        "biểu đồ miền"
+      ],
+      "content": "Cho bảng số liệu giả định: giá trị sản xuất công nghiệp phân theo thành phần kinh tế (nghìn tỉ đồng) của bốn năm liên tiếp, mỗi năm có ba thành phần. Yêu cầu vẽ biểu đồ miền thể hiện sự thay đổi cơ cấu. Trước khi vẽ, thao tác xử lí số liệu bắt buộc là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cộng dồn giá trị các năm thành một dãy số liệu duy nhất"
+        },
+        {
+          "key": "B",
+          "text": "Tính tốc độ tăng trưởng của từng thành phần, lấy năm đầu = 100%"
+        },
+        {
+          "key": "C",
+          "text": "Tính trung bình cộng giá trị của mỗi thành phần qua bốn năm"
+        },
+        {
+          "key": "D",
+          "text": "Tính ra cơ cấu (%) của từng thành phần ở mỗi năm, lấy từng thành phần chia cho tổng của năm đó rồi nhân 100"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Biểu đồ miền thể hiện cơ cấu nên phải biến bảng số tuyệt đối thành bảng số tương đối (%), công thức: tỉ trọng = thành phần : tổng của năm × 100, đồng thời làm tròn cho tổng mỗi năm bằng 100%. Tốc độ tăng trưởng (B) dùng cho biểu đồ đường; trung bình cộng (C) hoặc cộng dồn (A) làm mất cấu trúc từng năm của biểu đồ miền."
+    },
+    {
+      "id": "dia12-b19-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng chọn biểu đồ",
+        "cột chồng"
+      ],
+      "content": "Giả sử bảng số liệu thực hành gồm giá trị sản xuất công nghiệp phân theo bốn nhóm ngành (nghìn tỉ đồng) của ba năm 2010, 2020, 2024. Yêu cầu của đề: thể hiện được cơ cấu theo ngành và đồng thời đọc được quy mô tuyệt đối đang tăng lên của cả bốn nhóm. Dạng biểu đồ đáp ứng đủ cả hai yêu cầu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ cột chồng vẽ bằng số tuyệt đối (trục % hoặc trục nghìn tỉ đồng)"
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ tròn với hai hình tròn"
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ miền dựng trên trục % (100%)"
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ cột đơn cho từng ngành, mỗi ngành một năm"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Cột chồng vẽ bằng số tuyệt đối cho thấy đồng thời tỉ trọng của từng thành phần và tổng chiều cao mỗi cột, tức quy mô chung của từng năm, nên đáp ứng cả hai yêu cầu. Biểu đồ miền trên trục % (C) chỉ thể hiện cơ cấu, không đọc được quy mô tuyệt đối; các cột đơn riêng rẽ (D) thì không hiện cơ cấu; biểu đồ tròn (B) chỉ có hai hình nên không đủ cho ba năm và khó so sánh chính xác."
+    },
+    {
+      "id": "dia12-b19-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tính tỉ trọng",
+        "cơ cấu ngành"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp năm 2024 phân theo nhóm ngành (nghìn tỉ đồng): khai thác mỏ 120,5; chế biến – chế tạo 1.450,2; sản xuất và phân phối điện, khí đốt, nước 210,4. Tỉ trọng của nhóm ngành chế biến – chế tạo trong tổng giá trị sản xuất công nghiệp năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "78,1%"
+        },
+        {
+          "key": "B",
+          "text": "82,4%"
+        },
+        {
+          "key": "C",
+          "text": "81,4%"
+        },
+        {
+          "key": "D",
+          "text": "88,2%"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tổng giá trị = 120,5 + 1.450,2 + 210,4 = 1.781,1 nghìn tỉ đồng. Tỉ trọng chế biến – chế tạo = 1.450,2 : 1.781,1 × 100 = 81,42% ≈ 81,4%. Phương án 78,1% là tỉ trọng của nhóm này ở năm 2010, 82,4% và 88,2% là kết quả tính sai khi lấy số chia hoặc số bị chia nhầm."
+    },
+    {
+      "id": "dia12-b19-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "tính tỉ trọng",
+        "cơ cấu ngành"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp năm 2010 phân theo nhóm ngành (nghìn tỉ đồng): khai thác mỏ 62,3; chế biến – chế tạo 500,4; sản xuất và phân phối điện, khí đốt, nước 78,3; tổng 641,0. Tỉ trọng của nhóm khai thác mỏ năm 2010 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "12,2%"
+        },
+        {
+          "key": "B",
+          "text": "9,7%"
+        },
+        {
+          "key": "C",
+          "text": "6,8%"
+        },
+        {
+          "key": "D",
+          "text": "78,1%"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Tỉ trọng khai thác mỏ = 62,3 : 641,0 × 100 = 9,72% ≈ 9,7%. Các phương án còn lại là tỉ trọng của chính các nhóm khác trong cùng bảng: sản xuất và phân phối điện, khí đốt, nước = 78,3 : 641,0 × 100 = 12,2%; chế biến – chế tạo = 500,4 : 641,0 × 100 = 78,1%; còn 6,8% là tỉ trọng của nhóm khai thác mỏ ở năm 2024."
+    },
+    {
+      "id": "dia12-b19-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tìm thành phần còn thiếu",
+        "cơ cấu ngành"
+      ],
+      "content": "Giả sử bảng số liệu: tổng giá trị sản xuất công nghiệp năm 2024 là 1.781,1 nghìn tỉ đồng, trong đó khai thác mỏ 120,5 nghìn tỉ đồng, chế biến – chế tạo 1.450,2 nghìn tỉ đồng, còn lại là nhóm sản xuất và phân phối điện, khí đốt, nước. Giá trị của nhóm sản xuất và phân phối điện, khí đốt, nước năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "201,4 nghìn tỉ đồng"
+        },
+        {
+          "key": "B",
+          "text": "210,4 nghìn tỉ đồng"
+        },
+        {
+          "key": "C",
+          "text": "220,4 nghìn tỉ đồng"
+        },
+        {
+          "key": "D",
+          "text": "190,4 nghìn tỉ đồng"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Lấy tổng trừ đi hai nhóm đã biết: 1.781,1 − 120,5 − 1.450,2 = 210,4 nghìn tỉ đồng. Kiểm tra lại bằng tỉ trọng: 210,4 : 1.781,1 × 100 = 11,8%. Các phương án 201,4; 190,4; 220,4 là kết quả tính sai khi trừ nhầm hàng chục hoặc làm tròn sai."
+    },
+    {
+      "id": "dia12-b19-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "cộng số liệu",
+        "tính tổng"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp năm 2024 phân theo nhóm ngành (nghìn tỉ đồng): khai thác mỏ 120,5; chế biến – chế tạo 1.450,2; sản xuất và phân phối điện, khí đốt, nước 210,4. Tổng giá trị sản xuất công nghiệp năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.660,6 nghìn tỉ đồng"
+        },
+        {
+          "key": "B",
+          "text": "1.771,1 nghìn tỉ đồng"
+        },
+        {
+          "key": "C",
+          "text": "1.781,1 nghìn tỉ đồng"
+        },
+        {
+          "key": "D",
+          "text": "1.881,1 nghìn tỉ đồng"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tổng = 120,5 + 1.450,2 + 210,4 = 1.781,1 nghìn tỉ đồng. Muốn tìm tỉ trọng của bất kì nhóm nào cũng phải cộng đủ ba nhóm để có mẫu số đúng; các phương án còn lại là lỗi cộng sai hàng chục, hàng trăm (1.771,1; 1.881,1) hoặc bỏ sót một nhóm (1.660,6)."
+    },
+    {
+      "id": "dia12-b19-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tính tỉ trọng",
+        "công nghiệp theo vùng"
+      ],
+      "content": "Giả sử số liệu thực hành: giá trị sản xuất công nghiệp năm 2024 theo vùng kinh tế – xã hội (nghìn tỉ đồng), với cả nước gồm 34 tỉnh, thành phố trực thuộc trung ương và 6 vùng kinh tế – xã hội: Đông Nam Bộ 780,4; Đồng bằng sông Hồng 505,3; Duyên hải Nam Trung Bộ (xếp chung với Tây Nguyên) 180,6; bốn vùng còn lại 314,8. Biết tổng cả nước là 1.781,1 nghìn tỉ đồng. Tỉ trọng của vùng Đông Nam Bộ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "43,8%"
+        },
+        {
+          "key": "B",
+          "text": "28,4%"
+        },
+        {
+          "key": "C",
+          "text": "43,9%"
+        },
+        {
+          "key": "D",
+          "text": "50,3%"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Tỉ trọng Đông Nam Bộ = 780,4 : 1.781,1 × 100 = 43,82% ≈ 43,8%. 28,4% là tỉ trọng của Đồng bằng sông Hồng (505,3 : 1.781,1 × 100 = 28,37%), 10,1% là của Duyên hải Nam Trung Bộ (180,6 : 1.781,1 × 100 = 10,14%); phương án 43,9% do làm tròn sai, còn 50,3% lấy nhầm số của Đồng bằng sông Hồng."
+    },
+    {
+      "id": "dia12-b19-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "từ tỉ trọng sang giá trị",
+        "thành phần kinh tế"
+      ],
+      "content": "Giả sử số liệu: cơ cấu giá trị sản xuất công nghiệp năm 2024 phân theo thành phần kinh tế (%): khu vực nhà nước 18,0; khu vực ngoài nhà nước 28,5; khu vực có vốn đầu tư nước ngoài 53,5. Biết tổng giá trị sản xuất công nghiệp năm 2024 là 1.781,1 nghìn tỉ đồng. Giá trị sản xuất công nghiệp của khu vực có vốn đầu tư nước ngoài năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "320,6 nghìn tỉ đồng"
+        },
+        {
+          "key": "B",
+          "text": "952,9 nghìn tỉ đồng"
+        },
+        {
+          "key": "C",
+          "text": "507,6 nghìn tỉ đồng"
+        },
+        {
+          "key": "D",
+          "text": "952,5 nghìn tỉ đồng"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Giá trị = 1.781,1 × 53,5 : 100 = 952,89 ≈ 952,9 nghìn tỉ đồng. Hai phương án 320,6 và 507,6 là giá trị của khu vực nhà nước (1.781,1 × 18,0 : 100 = 320,6) và khu vực ngoài nhà nước (1.781,1 × 28,5 : 100 = 507,6), dễ chọn nhầm nếu đọc sai dòng; 952,5 do tính thiếu số thập phân."
+    },
+    {
+      "id": "dia12-b19-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "tốc độ tăng trưởng",
+        "sản lượng điện"
+      ],
+      "content": "Giả sử số liệu thực hành: sản lượng điện thương phẩm năm 2024 đạt 285,6 tỉ kWh và bằng 178,3% so với năm 2015 (lấy năm 2015 = 100%). Sản lượng điện của năm 2015 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "178,3 tỉ kWh"
+        },
+        {
+          "key": "B",
+          "text": "509,2 tỉ kWh"
+        },
+        {
+          "key": "C",
+          "text": "107,3 tỉ kWh"
+        },
+        {
+          "key": "D",
+          "text": "160,2 tỉ kWh"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Bài toán ngược: năm 2015 = 285,6 : 178,3 × 100 = 160,18 ≈ 160,2 tỉ kWh. Sai lầm thường gặp là lấy 285,6 × 178,3 : 100 = 509,2 (nhầm chiều nhân – chia) hoặc lấy hiệu 285,6 − 178,3 = 107,3 (coi % như số tuyệt đối)."
+    },
+    {
+      "id": "dia12-b19-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tốc độ giảm",
+        "công nghiệp khai khoáng"
+      ],
+      "content": "Giả sử số liệu: sản lượng dầu mỏ khai thác (triệu tấn): năm 2015 đạt 14,2; năm 2018 đạt 13,0; năm 2021 đạt 9,1; năm 2024 đạt 6,4. So với năm 2015, sản lượng dầu mỏ năm 2024 bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "54,9%"
+        },
+        {
+          "key": "B",
+          "text": "91,5%"
+        },
+        {
+          "key": "C",
+          "text": "45,1%"
+        },
+        {
+          "key": "D",
+          "text": "64,1%"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tốc độ phát triển = 6,4 : 14,2 × 100 = 45,07% ≈ 45,1%, tức sản lượng chỉ còn chưa tới một nửa so với năm 2015. 54,9% là mức giảm (100 − 45,1 = 54,9%), không phải giá trị còn lại; 91,5% là tốc độ phát triển của năm 2018 so với 2015 (13,0 : 14,2 × 100 = 91,5%); 64,1% là của năm 2021 so với 2015 (9,1 : 14,2 × 100 = 64,1%)."
+    },
+    {
+      "id": "dia12-b19-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tốc độ tăng trưởng",
+        "sản lượng điện"
+      ],
+      "content": "Giả sử số liệu: sản lượng điện thương phẩm (tỉ kWh): năm 2015 đạt 160,2; năm 2018 đạt 208,7; năm 2021 đạt 238,4; năm 2024 đạt 285,6. So với năm 2015, sản lượng điện năm 2024 tăng thêm bao nhiêu phần trăm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "78,3%"
+        },
+        {
+          "key": "B",
+          "text": "178,3%"
+        },
+        {
+          "key": "C",
+          "text": "125,4%"
+        },
+        {
+          "key": "D",
+          "text": "19,8%"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Tốc độ phát triển = 285,6 : 160,2 × 100 = 178,3%, nên mức tăng thêm = 178,3 − 100 = 78,3%. B là lỗi lấy chính tốc độ phát triển 178,3% làm mức tăng; C lấy hiệu số tuyệt đối 285,6 − 160,2 = 125,4 (tỉ kWh) rồi gắn nhầm dấu phần trăm; D chỉ là mức tăng của riêng giai đoạn 2021 → 2024 (285,6 : 238,4 × 100 = 119,8%, tức tăng 19,8%), không phải so với 2015."
+    },
+    {
+      "id": "dia12-b19-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "nhận xét",
+        "chuyển dịch cơ cấu"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp phân theo nhóm ngành (nghìn tỉ đồng) năm 2010 và 2024. Năm 2010: khai thác mỏ 62,3 (chiếm 9,7%); chế biến – chế tạo 500,4 (78,1%); sản xuất và phân phối điện, khí đốt, nước 78,3 (12,2%). Năm 2024: khai thác mỏ 120,5 (6,8%); chế biến – chế tạo 1.450,2 (81,4%); sản xuất và phân phối điện, khí đốt, nước 210,4 (11,8%). Nhận xét nào sau đây ĐÚNG với bảng số liệu trên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ trọng nhóm khai thác mỏ giảm nên giá trị tuyệt đối của nhóm này cũng giảm"
+        },
+        {
+          "key": "B",
+          "text": "Cơ cấu chuyển dịch theo hướng giảm dần khai thác tài nguyên thô, tăng tỉ trọng chế biến – chế tạo; cả ba nhóm đều tăng giá trị tuyệt đối"
+        },
+        {
+          "key": "C",
+          "text": "Nhóm chế biến – chế tạo tăng tỉ trọng nhanh nhất trong ba nhóm"
+        },
+        {
+          "key": "D",
+          "text": "Tổng giá trị sản xuất công nghiệp tăng 78,1% qua hai mốc thời gian"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Tỉ trọng khai thác mỏ giảm từ 9,7% xuống 6,8% nhưng giá trị tuyệt đối vẫn tăng từ 62,3 lên 120,5 nghìn tỉ đồng, chứng tỏ giảm tỉ trọng không đồng nghĩa giảm quy mô; cả ba nhóm đều tăng về số tuyệt đối. Phương án A sai vì nhầm giữa số tương đối và số tuyệt đối; C sai vì chế biến – chế tạo tăng 3,3 điểm phần trăm còn nhóm điện giảm 0,4 điểm; D sai vì tổng tăng từ 641,0 lên 1.781,1 nghìn tỉ đồng, tức bằng 277,9% (tăng 177,9%)."
+    },
+    {
+      "id": "dia12-b19-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "nhận xét",
+        "công nghiệp theo vùng"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp năm 2024 phân theo vùng kinh tế – xã hội (nghìn tỉ đồng), cả nước có 34 tỉnh, thành phố trực thuộc trung ương và 6 vùng kinh tế – xã hội: Đông Nam Bộ 780,4 (43,8%); Đồng bằng sông Hồng 505,3 (28,4%); Duyên hải Nam Trung Bộ, xếp chung với Tây Nguyên, 180,6 (10,1%); bốn vùng còn lại 314,8 (17,7%). Nhận xét nào sau đây ĐÚNG?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đồng bằng sông Hồng dẫn đầu cả nước về giá trị sản xuất công nghiệp"
+        },
+        {
+          "key": "B",
+          "text": "Bốn vùng còn lại chiếm hơn 50% giá trị cả nước"
+        },
+        {
+          "key": "C",
+          "text": "Duyên hải Nam Trung Bộ (gồm Tây Nguyên) có giá trị lớn hơn bốn vùng còn lại cộng lại"
+        },
+        {
+          "key": "D",
+          "text": "Hai vùng Đông Nam Bộ và Đồng bằng sông Hồng cùng chiếm hơn 70% giá trị sản xuất công nghiệp cả nước"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Tổng hai vùng = 43,8% + 28,4% = 72,2%, và 780,4 + 505,3 = 1.285,7 nghìn tỉ đồng, lớn hơn 70% tổng cả nước (1.781,1 × 70% = 1.246,8 nghìn tỉ đồng). A sai vì Đông Nam Bộ mới dẫn đầu; B sai vì bốn vùng còn lại chỉ chiếm 17,7%; C sai vì 180,6 < 314,8 nghìn tỉ đồng."
+    },
+    {
+      "id": "dia12-b19-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "giải thích",
+        "vốn đầu tư nước ngoài"
+      ],
+      "content": "Giả sử số liệu: cơ cấu giá trị sản xuất công nghiệp phân theo thành phần kinh tế (%), tổng mỗi năm bằng 100%: năm 2010 – nhà nước 25,5, ngoài nhà nước 32,4, có vốn đầu tư nước ngoài 42,1; năm 2024 – nhà nước 18,0, ngoài nhà nước 28,5, có vốn đầu tư nước ngoài 53,5. Giải thích nào sau đây ĐÚNG nhất với xu hướng tăng tỉ trọng của khu vực có vốn đầu tư nước ngoài?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước thu hẹp toàn bộ doanh nghiệp công nghiệp thuộc khu vực kinh tế nhà nước"
+        },
+        {
+          "key": "B",
+          "text": "Khu vực có vốn đầu tư nước ngoài không phải nộp thuế nên luôn mở rộng quy mô"
+        },
+        {
+          "key": "C",
+          "text": "Hội nhập và thu hút đầu tư nước ngoài tăng, các dự án quy mô lớn tập trung vào công nghiệp chế biến – chế tạo và sản xuất linh kiện, hàng xuất khẩu làm giá trị của khu vực này tăng nhanh hơn mức tăng chung"
+        },
+        {
+          "key": "D",
+          "text": "Giá trị sản xuất công nghiệp của hai khu vực trong nước giảm tuyệt đối nên tỉ trọng khu vực có vốn đầu tư nước ngoài tăng lên"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tỉ trọng tăng khi tốc độ tăng của thành phần nhanh hơn tốc độ tăng của tổng; khu vực có vốn đầu tư nước ngoài gắn với các dự án chế biến – chế tạo lớn nên giữ mức tăng cao, tỉ trọng từ 42,1% lên 53,5% (tăng 11,4 điểm phần trăm). A và B sai về bản chất chính sách; D sai vì trong tổng giá trị tăng lên thì các thành phần khác vẫn có thể tăng về số tuyệt đối."
+    },
+    {
+      "id": "dia12-b19-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "kĩ thuật vẽ biểu đồ tròn",
+        "bán kính"
+      ],
+      "content": "Giả sử số liệu: tổng giá trị sản xuất công nghiệp năm 2010 là 641,0 nghìn tỉ đồng, năm 2024 là 1.781,1 nghìn tỉ đồng. Một bạn vẽ biểu đồ tròn với bán kính hình tròn năm 2010 là 2,0 cm. Để biểu đồ phản ánh đúng quy mô, bán kính hình tròn năm 2024 phải là",
+      "options": [
+        {
+          "key": "A",
+          "text": "3,3 cm"
+        },
+        {
+          "key": "B",
+          "text": "5,6 cm"
+        },
+        {
+          "key": "C",
+          "text": "2,8 cm"
+        },
+        {
+          "key": "D",
+          "text": "4,2 cm"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Bán kính tỉ lệ với căn bậc hai của quy mô: R2024 = 2,0 × √(1.781,1 : 641,0) = 2,0 × √2,779 = 2,0 × 1,667 = 3,33 ≈ 3,3 cm. Sai lầm thường gặp là lấy 2,0 × 2,779 = 5,6 cm (quên lấy căn bậc hai), khi đó diện tích hình tròn sẽ phóng đại quy mô gấp hơn hai lần mức đúng."
+    },
+    {
+      "id": "dia12-b19-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "kĩ thuật vẽ biểu đồ tròn",
+        "tính góc"
+      ],
+      "content": "Giả sử số liệu: cơ cấu giá trị sản xuất công nghiệp năm 2024, trong đó nhóm khai thác mỏ chiếm 6,8%. Khi vẽ biểu đồ tròn, cung tròn của nhóm khai thác mỏ có số đo góc là",
+      "options": [
+        {
+          "key": "A",
+          "text": "6,8°"
+        },
+        {
+          "key": "B",
+          "text": "24,5°"
+        },
+        {
+          "key": "C",
+          "text": "36,0°"
+        },
+        {
+          "key": "D",
+          "text": "68,0°"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Một phần trăm ứng với 3,6° (360° : 100). Góc của nhóm khai thác mỏ = 6,8 × 3,6 = 24,48 ≈ 24,5°. Các phương án 36,0° và 68,0° tương ứng tỉ trọng 10% và 18,9%, còn 6,8° là lấy nhầm số đo tỉ trọng làm số đo góc."
+    },
+    {
+      "id": "dia12-b19-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tốc độ tăng trưởng",
+        "công nghiệp khai khoáng"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp nhóm khai thác mỏ năm 2010 đạt 62,3 nghìn tỉ đồng, năm 2024 đạt 120,5 nghìn tỉ đồng. Lấy năm 2010 = 100%, tốc độ phát triển của nhóm khai thác mỏ năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "93,4%"
+        },
+        {
+          "key": "B",
+          "text": "120,5%"
+        },
+        {
+          "key": "C",
+          "text": "193,4%"
+        },
+        {
+          "key": "D",
+          "text": "162,3%"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tốc độ phát triển = 120,5 : 62,3 × 100 = 193,4%, tức giá trị năm 2024 gấp 1,93 lần năm 2010. 93,4% là mức tăng thêm (193,4 − 100), không phải tốc độ phát triển; hai phương án còn lại là lấy nhầm số liệu hoặc tính sai."
+    },
+    {
+      "id": "dia12-b19-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "tính tỉ trọng",
+        "cơ cấu ngành"
+      ],
+      "content": "Giả sử số liệu: cơ cấu giá trị sản xuất công nghiệp năm 2024 phân theo nhóm ngành, gồm ba thành phần và tổng bằng 100%: khai thác mỏ 6,8%; sản xuất và phân phối điện, khí đốt, nước 11,8%; còn lại là chế biến – chế tạo. Tỉ trọng của nhóm chế biến – chế tạo là",
+      "options": [
+        {
+          "key": "A",
+          "text": "78,1%"
+        },
+        {
+          "key": "B",
+          "text": "81,4%"
+        },
+        {
+          "key": "C",
+          "text": "88,2%"
+        },
+        {
+          "key": "D",
+          "text": "82,6%"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Vì tổng các thành phần của một năm luôn bằng 100% nên tỉ trọng chế biến – chế tạo = 100 − 6,8 − 11,8 = 81,4%. 78,1% (A) là tỉ trọng của nhóm này ở năm 2010, dễ nhầm nếu đọc sai cột; 82,6% (D) và 88,2% (C) là kết quả trừ sai."
+    },
+    {
+      "id": "dia12-b19-c25",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tốc độ tăng trưởng",
+        "giá trị sản xuất công nghiệp"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp cả nước năm 2020 đạt 1.380,5 nghìn tỉ đồng, năm 2024 đạt 1.781,1 nghìn tỉ đồng. Giai đoạn 2020 – 2024, giá trị sản xuất công nghiệp tăng thêm",
+      "options": [
+        {
+          "key": "A",
+          "text": "29,0%"
+        },
+        {
+          "key": "B",
+          "text": "129,0%"
+        },
+        {
+          "key": "C",
+          "text": "22,5%"
+        },
+        {
+          "key": "D",
+          "text": "7,3%"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Mức tăng thêm = (1.781,1 − 1.380,5) : 1.380,5 × 100 = 400,6 : 1.380,5 × 100 = 29,02 ≈ 29,0%. 129,0% là tốc độ phát triển (1.781,1 : 1.380,5 × 100), hay bị chọn nhầm khi đề hỏi mức tăng; 22,5% do lấy 400,6 : 1.781,1 × 100 (nhầm mẫu số); 7,3% là lấy 29,0% chia cho 4 năm."
+    },
+    {
+      "id": "dia12-b19-c26",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "điểm phần trăm",
+        "thành phần kinh tế"
+      ],
+      "content": "Giả sử số liệu: tỉ trọng khu vực có vốn đầu tư nước ngoài trong giá trị sản xuất công nghiệp năm 2010 là 42,1%, năm 2024 là 53,5%. Phát biểu nào sau đây ĐÚNG khi nhận xét số liệu này?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ trọng tăng 11,4%, nghĩa là gấp 1,114 lần về tỉ trọng"
+        },
+        {
+          "key": "B",
+          "text": "Tỉ trọng tăng 27,1 điểm phần trăm"
+        },
+        {
+          "key": "C",
+          "text": "Tỉ trọng tăng 11,4 điểm phần trăm; nếu tính tốc độ phát triển của tỉ trọng thì 53,5 : 42,1 × 100 = 127,1%, tức tăng thêm 27,1%"
+        },
+        {
+          "key": "D",
+          "text": "Tỉ trọng giảm 11,4 điểm phần trăm"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Hiệu hai tỉ trọng = 53,5 − 42,1 = 11,4, đơn vị phải ghi là điểm phần trăm; còn tốc độ phát triển của chính tỉ trọng = 53,5 : 42,1 × 100 = 127,1%, tức tăng 27,1%. A sai vì nhầm 11,4 điểm phần trăm với 11,4%; B sai vì lẫn hai cách tính; D sai hướng."
+    },
+    {
+      "id": "dia12-b19-c27",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "số tuyệt đối và số tương đối",
+        "giải thích"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp nhóm khai thác mỏ tăng từ 62,3 lên 120,5 nghìn tỉ đồng (2010 – 2024), tức tăng 58,2 nghìn tỉ đồng và bằng 193,4% so với năm 2010; nhưng tỉ trọng của nhóm này lại giảm từ 9,7% xuống 6,8%. Giải thích nào sau đây ĐÚNG?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số liệu bị sai, vì giá trị tuyệt đối tăng thì tỉ trọng buộc phải tăng"
+        },
+        {
+          "key": "B",
+          "text": "Các nhóm còn lại, đặc biệt là chế biến – chế tạo, tăng nhanh hơn mức tăng chung của toàn ngành nên phần trăm của khai thác mỏ bị giảm dù giá trị tuyệt đối vẫn tăng"
+        },
+        {
+          "key": "C",
+          "text": "Tổng giá trị sản xuất công nghiệp giảm nên tỉ trọng các nhóm tăng lên"
+        },
+        {
+          "key": "D",
+          "text": "Nhóm khai thác mỏ giảm vì Nhà nước đóng cửa toàn bộ mỏ"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Tỉ trọng là tỉ số giữa thành phần và tổng; ở đây tổng tăng 277,9% (1.781,1 : 641,0 × 100), nhanh hơn mức tăng 193,4% của khai thác mỏ nên tỉ trọng giảm. A sai vì nhầm số tuyệt đối với số tương đối; C sai vì tổng tăng chứ không giảm; D sai vì giá trị tuyệt đối của nhóm vẫn tăng thêm 58,2 nghìn tỉ đồng."
+    },
+    {
+      "id": "dia12-b19-c28",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "nhận xét",
+        "công nghiệp khai khoáng"
+      ],
+      "content": "Giả sử số liệu thực hành: sản lượng dầu mỏ khai thác (triệu tấn) qua các năm – 2015: 14,2; 2018: 13,0; 2021: 9,1; 2024: 6,4. Phát biểu nào sau đây KHÔNG đúng với bảng số liệu trên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giai đoạn giảm mạnh nhất là 2018 – 2021, giảm 3,9 triệu tấn"
+        },
+        {
+          "key": "B",
+          "text": "Sản lượng năm 2024 chỉ còn 45,1% so với năm 2015"
+        },
+        {
+          "key": "C",
+          "text": "Bình quân mỗi năm giai đoạn 2015 – 2024, sản lượng giảm khoảng 0,9 triệu tấn"
+        },
+        {
+          "key": "D",
+          "text": "Cả nước đã ngừng hoàn toàn việc khai thác dầu mỏ từ năm 2015"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Câu hỏi yêu cầu tìm phát biểu sai: năm 2024 vẫn còn khai thác 6,4 triệu tấn nên không thể nói đã ngừng hoàn toàn. A đúng vì 13,0 − 9,1 = 3,9 là mức giảm lớn nhất trong ba giai đoạn (2015 – 2018 giảm 1,2; 2021 – 2024 giảm 2,7); B đúng vì 6,4 : 14,2 × 100 = 45,1%; C đúng vì (14,2 − 6,4) : 9 = 7,8 : 9 = 0,87 ≈ 0,9 triệu tấn mỗi năm."
+    },
+    {
+      "id": "dia12-b19-c29",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "kĩ thuật vẽ",
+        "trục số phụ"
+      ],
+      "content": "Giả sử bảng số liệu thực hành gồm ba dãy: sản lượng than sạch (triệu tấn), sản lượng dầu mỏ (triệu tấn) và sản lượng điện (tỉ kWh) của bốn năm, yêu cầu thể hiện trên cùng một biểu đồ. Kĩ thuật xử lí đúng nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vẽ biểu đồ kết hợp: cột ghép cho hai sản lượng khai khoáng cùng đơn vị triệu tấn và đường cho sản lượng điện, sử dụng trục dọc phụ cho dãy có bậc độ lớn khác"
+        },
+        {
+          "key": "B",
+          "text": "Chia sản lượng điện cho một hằng số rồi đổi sang triệu tấn để chỉ dùng một trục"
+        },
+        {
+          "key": "C",
+          "text": "Vẽ ba biểu đồ tròn, mỗi biểu đồ cho một sản phẩm"
+        },
+        {
+          "key": "D",
+          "text": "Giữ một trục như cũ vì các phần mềm sẽ tự điều chỉnh tỉ lệ"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Khi các dãy số liệu khác đơn vị và chênh lệch lớn về bậc độ lớn (hàng trăm tỉ kWh so với vài chục triệu tấn), phải dùng biểu đồ kết hợp có trục dọc phụ, mỗi trục ghi rõ đơn vị; các dãy cùng đơn vị mới ghép chung cột. B sai vì biến đổi số liệu làm mất giá trị thực; C sai vì biểu đồ tròn dùng cho cơ cấu, không dùng cho diễn biến sản phẩm riêng lẻ; D sai vì một trục duy nhất sẽ làm hai cột khai khoáng bị nén sát đáy, không đọc được."
+    },
+    {
+      "id": "dia12-b19-c30",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "chuyển dịch cơ cấu",
+        "giải thích"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp phân theo nhóm ngành (nghìn tỉ đồng) năm 2010 và 2024 – khai thác mỏ 62,3 lên 120,5; chế biến – chế tạo 500,4 lên 1.450,2; sản xuất và phân phối điện, khí đốt, nước 78,3 lên 210,4. Kèm theo đó tỉ trọng khai thác mỏ giảm từ 9,7% xuống 6,8%, chế biến – chế tạo tăng từ 78,1% lên 81,4%. Phát biểu nào sau đây ĐÚNG nhất về bản chất chuyển dịch cơ cấu trên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ cấu thu hẹp vì số nhóm ngành công nghiệp giảm đi"
+        },
+        {
+          "key": "B",
+          "text": "Chuyển dịch chỉ là thay đổi số tương đối, vì giá trị tuyệt đối của khai thác mỏ đã giảm"
+        },
+        {
+          "key": "C",
+          "text": "Cơ cấu chuyển theo hướng giảm dần công nghiệp khai thác tài nguyên thô, tăng công nghiệp chế biến – chế tạo và năng lượng, nhằm nâng cao giá trị gia tăng và giảm xuất khẩu nguyên liệu thô"
+        },
+        {
+          "key": "D",
+          "text": "Chế biến – chế tạo chỉ chiếm khoảng một phần ba tổng giá trị nên chưa thể kết luận về chuyển dịch"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Số tuyệt đối của cả ba nhóm đều tăng, nhưng nhóm chế biến – chế tạo tăng nhanh nhất (289,8% so với năm 2010, tức 1.450,2 : 500,4 × 100) nên kéo tỉ trọng tăng, đúng hướng công nghiệp hoá. A sai vì số nhóm ngành không giảm; B sai vì khai thác mỏ tăng từ 62,3 lên 120,5 nghìn tỉ đồng; D sai vì tỉ trọng nhóm này là 81,4%, tức hơn bốn phần năm chứ không phải một phần ba."
+    },
+    {
+      "id": "dia12-b19-c31",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "giải thích",
+        "công nghiệp chế biến"
+      ],
+      "content": "Giả sử bảng số liệu cho thấy nhóm chế biến – chế tạo luôn chiếm tỉ trọng cao nhất trong cơ cấu giá trị sản xuất công nghiệp (năm 2024 đạt 81,4%). Nguyên nhân chủ yếu nào sau đây giải thích ĐÚNG nhất thực tế đó?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ vì giá của các sản phẩm khai thác mỏ trên thế giới giảm liên tục"
+        },
+        {
+          "key": "B",
+          "text": "Vì nước ta không còn tài nguyên để phát triển công nghiệp khai khoáng"
+        },
+        {
+          "key": "C",
+          "text": "Vì Nhà nước chỉ cấp phép cho các doanh nghiệp có vốn đầu tư nước ngoài"
+        },
+        {
+          "key": "D",
+          "text": "Vì ngành này sử dụng nhiều lao động, gắn với thị trường tiêu thụ trong nước và xuất khẩu, thu hút được nguồn vốn lớn và chế biến sâu nguyên liệu nông – lâm – thuỷ sản, khoáng sản tại chỗ"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Chế biến – chế tạo có đầu ra rộng, tạo giá trị gia tăng cao, thu hút nhiều vốn trong và ngoài nước nên giữ vai trò chủ lực, tỉ trọng 81,4% (năm 2024) và 78,1% (năm 2010). A và C chỉ là nguyên nhân một chiều, cực đoan; B sai vì khai thác mỏ vẫn đạt 120,5 nghìn tỉ đồng năm 2024, chỉ là tỉ trọng giảm."
+    },
+    {
+      "id": "dia12-b19-c32",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "công nghiệp theo vùng",
+        "giải thích"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất công nghiệp năm 2024 phân theo vùng kinh tế – xã hội (nghìn tỉ đồng), với cả nước 34 tỉnh, thành phố trực thuộc trung ương và 6 vùng kinh tế – xã hội – Đông Nam Bộ 780,4 (43,8%); Đồng bằng sông Hồng 505,3 (28,4%); Duyên hải Nam Trung Bộ, xếp chung với Tây Nguyên, 180,6 (10,1%); bốn vùng còn lại 314,8 (17,7%). Vì sao Đông Nam Bộ dẫn đầu cả nước về giá trị sản xuất công nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì vùng tập trung nhiều khu công nghiệp và đô thị lớn, lao động có kỹ năng dồi dào, hạ tầng cảng biển và logistics hoàn thiện, thu hút vốn đầu tư trong và ngoài nước lớn nhất, thị trường tiêu thụ rộng"
+        },
+        {
+          "key": "B",
+          "text": "Vì Đông Nam Bộ là vùng có diện tích tự nhiên lớn nhất cả nước"
+        },
+        {
+          "key": "C",
+          "text": "Vì đây là vùng duy nhất của cả nước có tài nguyên khoáng sản"
+        },
+        {
+          "key": "D",
+          "text": "Vì toàn bộ ngân sách nhà nước cho công nghiệp được dồn vào vùng này"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Vị trí, hạ tầng, lao động, vốn và thị trường là các nhân tố kết hợp tạo quy mô 780,4 nghìn tỉ đồng, chiếm 43,8% cả nước. B sai về địa lí tự nhiên; C sai vì các vùng khác đều có khoáng sản, riêng khai thác dầu khí còn gắn với thềm lục địa phía nam và các vùng khác có than, sắt, thiếc; D sai vì đầu tư công nghiệp đến chủ yếu từ doanh nghiệp và vốn nước ngoài, không phải toàn bộ ngân sách."
+    },
+    {
+      "id": "dia12-b19-c33",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "giải thích",
+        "công nghiệp năng lượng"
+      ],
+      "content": "Giả sử số liệu: giá trị sản xuất và phân phối điện, khí đốt, nước tăng từ 78,3 lên 210,4 nghìn tỉ đồng (2010 – 2024), tức bằng 268,7% so với năm 2010. Nguyên nhân chủ yếu nào sau đây giải thích đúng tốc độ tăng trưởng nhanh của nhóm ngành năng lượng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì nước ta nhập khẩu toàn bộ điện nên giá trị chỉ là chi phí mua điện"
+        },
+        {
+          "key": "B",
+          "text": "Vì nhu cầu điện cho sản xuất và sinh hoạt tăng nhanh, cùng với việc đa dạng hoá nguồn điện và huy động vốn đầu tư trong và ngoài nước cho các dự án nguồn, lưới điện"
+        },
+        {
+          "key": "C",
+          "text": "Vì thuỷ điện là nguồn điện duy nhất của cả nước"
+        },
+        {
+          "key": "D",
+          "text": "Vì giá điện tăng nên tự động làm giá trị sản xuất tăng"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Công nghiệp hoá, đô thị hoá và dòng vốn đầu tư lớn vào nguồn – lưới điện là nguyên nhân cơ bản, phù hợp với mức tăng 268,7% và sản lượng điện thương phẩm tăng từ 160,2 lên 285,6 tỉ kWh. A và C sai thực tế; D phiến diện, vì tăng giá không đủ giải thích mức tăng hơn 2,6 lần của giá trị sản xuất."
+    },
+    {
+      "id": "dia12-b19-c34",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "lỗi tính tỉ trọng",
+        "kĩ năng xử lí số liệu"
+      ],
+      "content": "Giả sử bảng số liệu: giá trị sản xuất công nghiệp năm 2024 theo vùng (nghìn tỉ đồng) có tổng cả nước là 1.781,1, trong đó Đồng bằng sông Hồng đạt 505,3. Một bạn tính 505,3 : 1.781,1 = 0,2837 rồi kết luận vùng này chiếm 2,84% giá trị cả nước. Nhận định nào sau đây ĐÚNG về phép tính của bạn đó?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phép tính hoàn toàn đúng, Đồng bằng sông Hồng chiếm 2,84%"
+        },
+        {
+          "key": "B",
+          "text": "Phải lấy 1.781,1 : 505,3 × 100 = 352,5% mới đúng công thức tỉ trọng"
+        },
+        {
+          "key": "C",
+          "text": "Kết quả 0,2837 là tỉ số, phải nhân thêm 100 để được 28,37 ≈ 28,4%; bạn đó đã dịch chuyển dấu phẩy sai một hàng"
+        },
+        {
+          "key": "D",
+          "text": "Phải trừ giá trị của Đông Nam Bộ khỏi tổng trước khi chia"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Công thức tỉ trọng = thành phần : tổng × 100 = 505,3 : 1.781,1 × 100 = 28,37% ≈ 28,4%. 0,2837 mới là tỉ số chưa nhân 100. A sai vì giữ nguyên tỉ số rồi dịch dấu phẩy; B sai vì đảo ngược tử số và mẫu số; D sai vì mẫu số của tỉ trọng là tổng của chính năm đó."
+    },
+    {
+      "id": "dia12-b19-c35",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "nhận xét",
+        "đọc bảng số liệu"
+      ],
+      "content": "Giả sử bảng số liệu: giá trị sản xuất công nghiệp (nghìn tỉ đồng) năm 2010 và 2024 – tổng 641,0 và 1.781,1; khai thác mỏ 62,3 và 120,5; chế biến – chế tạo 500,4 và 1.450,2; điện, khí đốt, nước 78,3 và 210,4. Cơ cấu thành phần kinh tế (%): khu vực có vốn đầu tư nước ngoài 42,1 và 53,5. Nhận xét nào sau đây KHÔNG đúng với bảng số liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng giá trị sản xuất công nghiệp năm 2024 bằng 277,9% so với năm 2010"
+        },
+        {
+          "key": "B",
+          "text": "Tỉ trọng khu vực có vốn đầu tư nước ngoài tăng 11,4 điểm phần trăm"
+        },
+        {
+          "key": "C",
+          "text": "Nhóm khai thác mỏ tăng giá trị tuyệt đối nhưng giảm tỉ trọng"
+        },
+        {
+          "key": "D",
+          "text": "Nhóm chế biến – chế tạo giảm cả giá trị tuyệt đối lẫn tỉ trọng"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Câu hỏi tìm nhận xét sai: giá trị chế biến – chế tạo tăng từ 500,4 lên 1.450,2 nghìn tỉ đồng (bằng 289,8%) và tỉ trọng tăng từ 78,1% lên 81,4%, tức tăng cả hai. A đúng vì 1.781,1 : 641,0 × 100 = 277,9%; B đúng vì 53,5 − 42,1 = 11,4 điểm phần trăm; C đúng vì 120,5 > 62,3 nhưng 6,8% < 9,7%."
+    },
+    {
+      "id": "dia12-b19-c36",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng chọn biểu đồ",
+        "nhiều phát biểu"
+      ],
+      "content": "Chọn các phát biểu ĐÚNG về kĩ năng lựa chọn dạng biểu đồ khi thực hành vẽ biểu đồ, nhận xét và giải thích tình hình phát triển công nghiệp.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảng số liệu đã cho sẵn tỉ trọng của ba nhóm ngành qua bốn năm, yêu cầu thể hiện sự thay đổi cơ cấu thì biểu đồ miền là phù hợp nhất"
+        },
+        {
+          "key": "B",
+          "text": "Bảng số liệu chỉ có một năm với ba thành phần, yêu cầu thể hiện cơ cấu thì biểu đồ tròn là phù hợp"
+        },
+        {
+          "key": "C",
+          "text": "Muốn so sánh đồng thời giá trị sản xuất công nghiệp (nghìn tỉ đồng) và số lao động công nghiệp (triệu người) qua nhiều năm thì chỉ cần vẽ biểu đồ cột đơn"
+        },
+        {
+          "key": "D",
+          "text": "Yêu cầu thể hiện tốc độ tăng trưởng của ba sản phẩm công nghiệp qua sáu năm thì nên dùng biểu đồ cột chồng"
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "Đáp án A, B. A đúng vì bốn mốc thời gian ở dạng % và chỉ hỏi cơ cấu, biểu đồ miền thể hiện rõ nhất sự thay đổi. B đúng vì một năm, số thành phần ít, biểu đồ tròn diễn đạt cơ cấu trực quan. C sai vì hai đại lượng khác đơn vị và khác bậc độ lớn phải dùng biểu đồ kết hợp cột – đường có trục dọc phụ. D sai vì tốc độ tăng trưởng của nhiều đối tượng qua chuỗi năm nên dùng biểu đồ đường; cột chồng dành cho cơ cấu kèm quy mô."
+    },
+    {
+      "id": "dia12-b19-c37",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xử lí số liệu",
+        "kĩ thuật trình bày"
+      ],
+      "content": "Cho bảng số liệu giả định: giá trị sản xuất công nghiệp phân theo thành phần kinh tế (nghìn tỉ đồng) của bốn năm, yêu cầu vẽ biểu đồ miền thể hiện cơ cấu. Chọn các phát biểu ĐÚNG về thao tác xử lí số liệu và trình bày biểu đồ.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ nguyên số liệu nghìn tỉ đồng rồi dựng biểu đồ miền trên trục % cũng được, vì hình dạng biểu đồ không đổi"
+        },
+        {
+          "key": "B",
+          "text": "Phải tính tỉ trọng từng thành phần của mỗi năm theo công thức: giá trị thành phần : tổng giá trị của năm đó × 100"
+        },
+        {
+          "key": "C",
+          "text": "Sau khi làm tròn, tổng các tỉ trọng của mỗi năm phải bằng đúng 100%; nếu lệch do làm tròn thì điều chỉnh ở thành phần có tỉ trọng lớn nhất"
+        },
+        {
+          "key": "D",
+          "text": "Biểu đồ phải có tên, chú giải đầy đủ các thành phần, trục tung ghi đơn vị % và trục hoành ghi các mốc năm"
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "Đáp án B, C, D. Ba phát biểu này là trình tự chuẩn: đổi số tuyệt đối sang số tương đối theo từng năm, kiểm tra tổng 100%, rồi hoàn thiện các yếu tố trình bày. A sai vì biểu đồ miền dựng trên trục % bắt buộc dùng số tương đối; để nguyên số tuyệt đối sẽ làm sai hoàn toàn chiều cao các miền và không còn là biểu đồ cơ cấu."
+    },
+    {
+      "id": "dia12-b19-c38",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "tính toán",
+        "cơ cấu ngành"
+      ],
+      "content": "Giả sử bảng số liệu: giá trị sản xuất công nghiệp phân theo nhóm ngành (nghìn tỉ đồng) năm 2010 và 2024 – khai thác mỏ 62,3 và 120,5; chế biến – chế tạo 500,4 và 1.450,2; sản xuất và phân phối điện, khí đốt, nước 78,3 và 210,4; tổng 641,0 và 1.781,1. Chọn các phát biểu ĐÚNG.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì giá trị tuyệt đối của khai thác mỏ tăng nên tỉ trọng của nhóm này cũng tăng theo"
+        },
+        {
+          "key": "B",
+          "text": "Lấy năm 2010 = 100%, tổng giá trị sản xuất công nghiệp năm 2024 đạt 277,9%"
+        },
+        {
+          "key": "C",
+          "text": "Chế biến – chế tạo là nhóm tăng nhanh nhất với tốc độ phát triển 289,8%, tiếp theo là nhóm điện, khí đốt, nước với 268,7%"
+        },
+        {
+          "key": "D",
+          "text": "Tỉ trọng của nhóm chế biến – chế tạo năm 2024 thấp hơn năm 2010"
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án B, C. B đúng vì 1.781,1 : 641,0 × 100 = 277,9%. C đúng vì 1.450,2 : 500,4 × 100 = 289,8% và 210,4 : 78,3 × 100 = 268,7%, trong khi khai thác mỏ chỉ đạt 120,5 : 62,3 × 100 = 193,4%. A sai vì tỉ trọng khai thác mỏ giảm từ 9,7% xuống 6,8% do tổng tăng nhanh hơn; D sai vì tỉ trọng chế biến – chế tạo tăng từ 78,1% lên 81,4%."
+    },
+    {
+      "id": "dia12-b19-c39",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "giải thích",
+        "chuyển dịch cơ cấu"
+      ],
+      "content": "Về hướng chuyển dịch cơ cấu công nghiệp theo ngành: giảm tỉ trọng các ngành khai thác tài nguyên thô, tăng tỉ trọng các ngành chế biến – chế tạo và năng lượng. Chọn các phát biểu ĐÚNG giải thích hướng chuyển dịch này.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khai thác tài nguyên thô nhanh làm cạn trữ lượng, giá trị gia tăng thấp và dễ bị biến động giá thế giới chi phối"
+        },
+        {
+          "key": "B",
+          "text": "Công nghiệp chế biến – chế tạo tạo ra giá trị gia tăng cao hơn, gắn với thị trường xuất khẩu và thu hút được nhiều vốn đầu tư trong và ngoài nước"
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước ưu tiên mở rộng quy mô các mỏ dầu, mỏ than để tăng nhanh tỉ trọng của công nghiệp khai thác"
+        },
+        {
+          "key": "D",
+          "text": "Phát triển năng lượng và chế biến sâu nguồn nguyên liệu tại chỗ giúp giảm xuất khẩu thô, tận dụng lao động và đáp ứng nhu cầu điện cho sản xuất"
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Đáp án A, B, D. Ba phát biểu này lý giải vì sao tỉ trọng khai thác thô giảm (từ 9,7% xuống 6,8%) trong khi chế biến – chế tạo tăng (từ 78,1% lên 81,4%) và nhóm điện, khí đốt, nước vẫn mở rộng. C sai vì định hướng là giảm khai thác thô, tăng chế biến – chế tạo; thực tế số liệu giả định cho thấy giá trị khai thác mỏ vẫn tăng nhưng tỉ trọng giảm, chứng tỏ không ưu tiên mở rộng khai thác."
+    },
+    {
+      "id": "dia12-b19-c40",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b19-thuc-hanh-cong-nghiep",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng trình bày",
+        "thang số liệu"
+      ],
+      "content": "Giả sử một bạn có bảng số liệu: giá trị sản xuất công nghiệp cả nước (nghìn tỉ đồng) các năm 2015 = 1.180,4; 2018 = 1.420,6; 2021 = 1.590,2; 2024 = 1.781,1, và định vẽ biểu đồ cột đơn. Chọn các phát biểu ĐÚNG về các bước thực hành.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trục tung phải ghi rõ đơn vị nghìn tỉ đồng và chia khoảng cách đều, chẳng hạn mỗi ô 200 nghìn tỉ đồng, gốc trục bằng 0"
+        },
+        {
+          "key": "B",
+          "text": "Cần ghi tên biểu đồ, chú thích năm và có thể ghi giá trị lên đầu mỗi cột để thuận tiện cho nhận xét"
+        },
+        {
+          "key": "C",
+          "text": "Có thể cắt gốc trục tung từ 1.000 thay vì 0 để các cột cao hơn và đẹp biểu đồ hơn"
+        },
+        {
+          "key": "D",
+          "text": "Muốn tính tốc độ phát triển của giai đoạn 2015 – 2024 để đưa vào nhận xét, phải lấy 1.781,1 : 1.180,4 × 100 ≈ 150,9%"
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Đáp án A, B, D. A và B là các yêu cầu kĩ thuật bắt buộc khi vẽ biểu đồ cột: đơn vị, mốc chia đều, gốc 0, tên và chú giải. D đúng vì 1.781,1 : 1.180,4 × 100 = 150,9%, tức giá trị sản xuất công nghiệp tăng thêm 50,9% so với năm 2015. C sai vì biểu đồ cột bắt đầu từ gốc 0; cắt gốc làm độ cao cột không còn tỉ lệ với giá trị, dễ gây hiểu nhầm mức chênh lệch."
+    }
+  ]
+}

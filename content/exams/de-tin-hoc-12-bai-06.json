@@ -1,0 +1,989 @@
+{
+  "id": "de-tin-hoc-12-bai-06",
+  "title": "Đề ôn tập Tin học 12 – Bài 6: Giao tiếp và ứng xử trong không gian mạng",
+  "slug": "de-tin-hoc-12-bai-06",
+  "description": "Đề ôn tập Tin học 12 theo Bài 6 – Giao tiếp và ứng xử trong không gian mạng, giúp củng cố khái niệm không gian mạng, các phương tiện giao tiếp trực tuyến, bốn ưu điểm và bốn nhược điểm của giao tiếp trong không gian mạng cùng biểu hiện ứng xử nhân văn. Đề gồm 28 câu: 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút. Mỗi câu đều có lời giải để xem lại sau khi chấm.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B06",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "updatedAt": "2026-11-05T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b06-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Không gian mạng",
+        "Bài 6"
+      ],
+      "content": "Trong Bài 6, Internet được coi là",
+      "options": [
+        {
+          "key": "A",
+          "text": "không gian mạng lớn nhất, vì đây là môi trường được tạo ra nhờ sử dụng mạng máy tính và cho phép con người giao tiếp qua các phần mềm, dịch vụ trực tuyến."
+        },
+        {
+          "key": "B",
+          "text": "một mạng cục bộ điển hình của phòng máy trong trường học."
+        },
+        {
+          "key": "C",
+          "text": "tên gọi khác của một ứng dụng nhắn tin chạy trên điện thoại."
+        },
+        {
+          "key": "D",
+          "text": "tên gọi khác của thế giới thực, nơi con người gặp mặt trực tiếp nhau."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách giáo khoa định nghĩa không gian mạng, còn gọi là thế giới ảo, là môi trường được tạo ra nhờ sử dụng mạng máy tính, trong đó Internet có thể được coi là không gian mạng lớn nhất. Internet không phải mạng cục bộ của một phòng máy, không phải một ứng dụng nhắn tin. Thế giới ảo trong bài chính là không gian mạng, không phải thế giới thực.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Không gian mạng",
+        "Phương tiện giao tiếp"
+      ],
+      "content": "Giao tiếp của con người trong không gian mạng được thực hiện chủ yếu thông qua",
+      "options": [
+        {
+          "key": "A",
+          "text": "dịch vụ chuyển phát giấy tờ giữa hai địa chỉ cụ thể."
+        },
+        {
+          "key": "B",
+          "text": "các đài phát sóng truyền hình chỉ truyền thông tin một chiều."
+        },
+        {
+          "key": "C",
+          "text": "các phần mềm và dịch vụ trực tuyến."
+        },
+        {
+          "key": "D",
+          "text": "các thiết bị cảm biến đo đạc đặt trong phòng thí nghiệm."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo sách, không gian mạng cho phép con người giao tiếp với nhau qua các phần mềm và dịch vụ trực tuyến. Chuyển phát giấy tờ và phát sóng truyền hình một chiều không nằm trong danh sách phương tiện giao tiếp của bài học. Thiết bị cảm biến không có chức năng giao tiếp giữa người với người.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Phương tiện giao tiếp",
+        "Bài 6"
+      ],
+      "content": "Trong các nhóm sau, nhóm nào gồm toàn các phương tiện giao tiếp trong không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảng tin giấy, hộp thư góp ý, sổ liên lạc in sẵn."
+        },
+        {
+          "key": "B",
+          "text": "Mạng xã hội, thư điện tử, ứng dụng nhắn tin, diễn đàn trực tuyến."
+        },
+        {
+          "key": "C",
+          "text": "Máy fax, máy điện tín, tổng đài điện thoại cố định."
+        },
+        {
+          "key": "D",
+          "text": "Máy chiếu vật thể, bảng tương tác, phấn viết."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách liệt kê phương tiện giao tiếp trong không gian mạng gồm mạng xã hội, thư điện tử, ứng dụng nhắn tin, gọi điện thoại video, diễn đàn trực tuyến, nên nhóm B đúng. Nhóm A và D là phương tiện truyền thống hoặc thiết bị lớp học. Máy fax, máy điện tín và tổng đài cố định không phải dịch vụ trực tuyến.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Phương tiện giao tiếp",
+        "Nhật kí web"
+      ],
+      "content": "Theo bài học, nhật kí web và trang web cá nhân được xếp vào nhóm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhóm thiết bị mạng của một cơ quan."
+        },
+        {
+          "key": "B",
+          "text": "Nhóm phần mềm diệt virus cho máy tính cá nhân."
+        },
+        {
+          "key": "C",
+          "text": "Nhóm các giao thức truyền tin của mạng cục bộ."
+        },
+        {
+          "key": "D",
+          "text": "Nhóm phương tiện hỗ trợ giao tiếp trong không gian mạng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bên cạnh mạng xã hội, thư điện tử, ứng dụng nhắn tin, gọi điện thoại video và diễn đàn trực tuyến, sách còn nêu nhật kí web, trang web cá nhân và các trang thương mại điện tử là phương tiện hỗ trợ giao tiếp trong không gian mạng. Nhật kí web và trang web cá nhân không phải thiết bị mạng, không phải phần mềm bảo mật và cũng không phải giao thức truyền tin.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Thương mại điện tử",
+        "Phương tiện giao tiếp"
+      ],
+      "content": "Việc người mua và người bán trao đổi, hỏi đáp rồi đặt hàng trên các trang thương mại điện tử cho thấy",
+      "options": [
+        {
+          "key": "A",
+          "text": "trang thương mại điện tử cũng là một phương tiện giao tiếp trong không gian mạng."
+        },
+        {
+          "key": "B",
+          "text": "không gian mạng chỉ phục vụ mục đích giải trí."
+        },
+        {
+          "key": "C",
+          "text": "mọi hoạt động trao đổi trên mạng đều là giao tiếp trực tiếp."
+        },
+        {
+          "key": "D",
+          "text": "thương mại điện tử đã thay thế hoàn toàn thư điện tử."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách xếp các trang thương mại điện tử vào nhóm phương tiện hỗ trợ giao tiếp trong không gian mạng, nghĩa là hoạt động mua bán cũng kèm theo trao đổi giữa con người với con người. Không gian mạng không chỉ để giải trí. Giao tiếp qua mạng là giao tiếp gián tiếp bằng phần mềm, còn thư điện tử vẫn là một phương tiện riêng được bài học liệt kê.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ưu điểm",
+        "Giao tiếp trực tuyến"
+      ],
+      "content": "Một bạn trẻ ở Việt Nam quen thêm nhiều bạn mới và lập nhóm học tập với các bạn ở nhiều quốc gia nhờ các nền tảng trực tuyến. Hoạt động này thể hiện rõ nhất ưu điểm nào của giao tiếp trong không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuận tiện."
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng kết nối xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Công cụ giao tiếp đa dạng."
+        },
+        {
+          "key": "D",
+          "text": "Tiết kiệm thời gian và chi phí."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ưu điểm \"Mở rộng kết nối xã hội\" nói tới khả năng thiết lập và giữ liên lạc với nhiều người ở nhiều nơi, đúng như tình huống đã cho. Bốn phương án đều là tên gọi trong danh sách ưu điểm của sách, nhưng thuận tiện nhấn mạnh về thời gian và địa điểm, công cụ đa dạng nhấn mạnh số lượng hình thức, còn tiết kiệm thời gian và chi phí nhấn mạnh chi phí bỏ ra.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ưu điểm",
+        "Giao tiếp trực tuyến"
+      ],
+      "content": "Người dùng có thể chọn nhắn tin, gửi thư điện tử, gọi điện thoại video hoặc viết bình luận trong diễn đàn tuỳ tình huống. Thực tế này phản ánh điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhược điểm thiếu tín hiệu phi ngôn ngữ."
+        },
+        {
+          "key": "B",
+          "text": "Nhược điểm ẩn chứa nhiều nguy cơ về bảo mật và quyền riêng tư."
+        },
+        {
+          "key": "C",
+          "text": "Ưu điểm công cụ giao tiếp đa dạng."
+        },
+        {
+          "key": "D",
+          "text": "Ưu điểm bảo đảm tính chính xác của mọi thông tin."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Việc có nhiều công cụ khác nhau để lựa chọn chính là ưu điểm \"công cụ giao tiếp đa dạng\" mà bài học đã nêu. Hai phương án A và B là nhược điểm, không mô tả sự phong phú của công cụ. Sách không nêu ưu điểm nào bảo đảm tính chính xác của thông tin, ngược lại còn cảnh báo thông tin trên mạng có thể là bịa đặt, giả mạo.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ưu điểm",
+        "Bài 6"
+      ],
+      "content": "Ưu điểm \"Thuận tiện\" của giao tiếp trong không gian mạng được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "người dùng có thể liên lạc mọi lúc, mọi nơi, chỉ cần thiết bị có kết nối mạng và phần mềm phù hợp."
+        },
+        {
+          "key": "B",
+          "text": "mọi thông tin trao đổi trên mạng đều đã được kiểm chứng nên không cần đọc kĩ."
+        },
+        {
+          "key": "C",
+          "text": "giao tiếp qua mạng luôn giàu cảm xúc hơn gặp mặt trực tiếp."
+        },
+        {
+          "key": "D",
+          "text": "việc giao tiếp trực tuyến không bao giờ bị gián đoạn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thuận tiện nghĩa là giao tiếp không bị ràng buộc bởi thời điểm và địa điểm, chỉ cần thiết bị kết nối mạng cùng phần mềm phù hợp. Tính thuận tiện không đồng nghĩa với thông tin đã được kiểm chứng hay không bao giờ gián đoạn. Việc khó truyền cảm xúc lại là nhược điểm thiếu tín hiệu phi ngôn ngữ, không phải ưu điểm.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ưu điểm",
+        "Nhược điểm"
+      ],
+      "content": "Đâu KHÔNG phải một trong bốn ưu điểm của giao tiếp trong không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tiết kiệm thời gian và chi phí."
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng kết nối xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Công cụ giao tiếp đa dạng."
+        },
+        {
+          "key": "D",
+          "text": "Bảo đảm tuyệt đối tính đúng đắn của mọi thông tin được trao đổi."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bốn ưu điểm của giao tiếp trong không gian mạng là thuận tiện, tiết kiệm thời gian và chi phí, mở rộng kết nối xã hội, công cụ giao tiếp đa dạng; không có ưu điểm nào bảo đảm tính đúng đắn của thông tin. Bài học còn cảnh báo thông tin cá nhân trên mạng xã hội có thể là thông tin bịa đặt, giả mạo.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Nhược điểm",
+        "Giao tiếp trực tuyến"
+      ],
+      "content": "Vì sao một tin nhắn ngắn, ví dụ dòng chữ \"Thế á\", lại dễ bị người nhận hiểu sai ý người gửi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì tin nhắn luôn bị xoá khỏi hộp thư ngay sau khi gửi."
+        },
+        {
+          "key": "B",
+          "text": "Vì tin nhắn thiếu nét mặt, ngôn ngữ cơ thể và biểu cảm giọng nói của người gửi."
+        },
+        {
+          "key": "C",
+          "text": "Vì trình duyệt web chỉ hiển thị được chữ in hoa."
+        },
+        {
+          "key": "D",
+          "text": "Vì người nhận không được phép mở thư điện tử."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đây chính là nhược điểm \"thiếu tín hiệu phi ngôn ngữ\": tin nhắn và thư điện tử không truyền tải được nét mặt, cử chỉ và giọng nói nên người nhận dễ suy đoán sai cảm xúc của người gửi. Tin nhắn không bị xoá ngay sau khi gửi, trình duyệt không chỉ hiển thị chữ in hoa và người nhận hoàn toàn có thể mở thư điện tử.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Nhược điểm",
+        "Bảo mật"
+      ],
+      "content": "Nhược điểm \"ẩn chứa nhiều nguy cơ về bảo mật và quyền riêng tư\" của giao tiếp trong không gian mạng biểu hiện ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "việc người dùng không thể trò chuyện với người ở xa."
+        },
+        {
+          "key": "B",
+          "text": "việc chi phí gửi thư điện tử cao hơn gửi thư giấy."
+        },
+        {
+          "key": "C",
+          "text": "khả năng bị lộ mật khẩu, bị thu thập trái phép thông tin cá nhân hoặc bị tấn công mạng."
+        },
+        {
+          "key": "D",
+          "text": "việc các ứng dụng nhắn tin có quá nhiều tính năng gây rối."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách xem đây là nhược điểm vì quá trình giao tiếp trực tuyến có thể làm lộ mật khẩu, lộ thông tin cá nhân và tạo cơ hội cho các hành vi tấn công mạng, xâm phạm quyền riêng tư. Giao tiếp trong không gian mạng lại giúp nói chuyện với người ở xa và tiết kiệm chi phí, nên A và B trái với bài học. Phương án D mô tả quá nhiều tính năng, không phải nguy cơ bảo mật.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Nhược điểm",
+        "Thông tin giả mạo"
+      ],
+      "content": "Theo những nhược điểm đã được sách chỉ ra, hồ sơ và thông tin cá nhân trên mạng xã hội",
+      "options": [
+        {
+          "key": "A",
+          "text": "có thể là thông tin bịa đặt, giả mạo nên cần kiểm chứng trước khi tin hoặc chia sẻ."
+        },
+        {
+          "key": "B",
+          "text": "luôn do hệ thống xác minh nên được coi là chính xác tuyệt đối."
+        },
+        {
+          "key": "C",
+          "text": "chỉ xuất hiện trên các trang thương mại điện tử."
+        },
+        {
+          "key": "D",
+          "text": "không liên quan tới quyền riêng tư của người dùng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài học cảnh báo thông tin cá nhân trên mạng xã hội có thể là thông tin bịa đặt, giả mạo, vì vậy người dùng cần có ý thức kiểm chứng. Không thể mặc định rằng mọi hồ sơ đều đã được xác minh. Thông tin cá nhân không chỉ có trên trang thương mại điện tử và việc thu thập, phát tán nó liên quan trực tiếp tới quyền riêng tư.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Nhược điểm",
+        "Ưu điểm"
+      ],
+      "content": "Đâu KHÔNG phải một nhược điểm của giao tiếp trong không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiếu tín hiệu phi ngôn ngữ."
+        },
+        {
+          "key": "B",
+          "text": "Ẩn chứa nhiều nguy cơ về bảo mật và quyền riêng tư."
+        },
+        {
+          "key": "C",
+          "text": "Thông tin cá nhân trên mạng xã hội có thể là thông tin bịa đặt, giả mạo."
+        },
+        {
+          "key": "D",
+          "text": "Giúp giữ liên lạc với nhiều người ở nhiều nơi mà không cần gặp mặt."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ba phương án A, B, C đều thuộc nhóm nhược điểm của giao tiếp trong không gian mạng mà bài học đã nêu. Phương án D mô tả ưu điểm mở rộng kết nối xã hội, nên không phải nhược điểm.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ứng xử nhân văn",
+        "Bài 6"
+      ],
+      "content": "Trong bốn khía cạnh quan trọng nhất của ứng xử nhân văn ở không gian mạng được giới thiệu ở Hình 6.3, khía cạnh nào sau đây KHÔNG được liệt kê?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tôn trọng."
+        },
+        {
+          "key": "B",
+          "text": "Lịch sự."
+        },
+        {
+          "key": "C",
+          "text": "Thấu hiểu."
+        },
+        {
+          "key": "D",
+          "text": "Cạnh tranh."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hình 6.3 của sách liệt kê bốn khía cạnh của ứng xử nhân văn trong không gian mạng là tôn trọng, lịch sự, thấu hiểu và hỗ trợ. \"Cạnh tranh\" không nằm trong danh sách này.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ứng xử nhân văn",
+        "Hình 6.3"
+      ],
+      "content": "Khía cạnh còn lại của ứng xử nhân văn trong không gian mạng, bên cạnh tôn trọng, lịch sự và thấu hiểu, là",
+      "options": [
+        {
+          "key": "A",
+          "text": "hỗ trợ."
+        },
+        {
+          "key": "B",
+          "text": "khiêm tốn."
+        },
+        {
+          "key": "C",
+          "text": "trung thực."
+        },
+        {
+          "key": "D",
+          "text": "kỉ luật."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bốn khía cạnh mà sách nhấn mạnh là tôn trọng, lịch sự, thấu hiểu và hỗ trợ, nên khía cạnh còn thiếu trong đề là hỗ trợ. Khiêm tốn, trung thực và kỉ luật là những đức tính tốt nhưng không được Hình 6.3 liệt kê trong bốn khía cạnh của ứng xử nhân văn trên không gian mạng.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ứng xử nhân văn",
+        "Thói quen giao tiếp"
+      ],
+      "content": "Lời khuyên \"hãy đối xử với người khác theo cách mà mình muốn được đối xử\" trong Bài 6 nhằm mục đích gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giúp máy tính truy cập Internet nhanh hơn."
+        },
+        {
+          "key": "B",
+          "text": "Thay thế cho việc đặt mật khẩu cho tài khoản."
+        },
+        {
+          "key": "C",
+          "text": "Góp phần hình thành thói quen ứng xử nhân văn trong không gian mạng."
+        },
+        {
+          "key": "D",
+          "text": "Xoá bỏ hoàn toàn các nhược điểm của giao tiếp trực tuyến."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đây là một trong những cách sách gợi ý để hình thành thói quen ứng xử nhân văn khi giao tiếp trong không gian mạng. Lời khuyên này thuộc về thái độ ứng xử, không liên quan tới tốc độ truy cập hay việc bảo vệ tài khoản bằng mật khẩu. Nó cũng không làm mất đi các nhược điểm vốn có của giao tiếp trực tuyến.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ứng xử nhân văn",
+        "Lịch sự"
+      ],
+      "content": "Khi không đồng ý với quan điểm của một bạn trong diễn đàn học tập, cách ứng xử nào sau đây thể hiện tính nhân văn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dùng từ ngữ thô tục để công kích cá nhân bạn đó."
+        },
+        {
+          "key": "B",
+          "text": "Lắng nghe, đọc đủ nội dung rồi đưa ra lí do phản bác một cách lịch sự."
+        },
+        {
+          "key": "C",
+          "text": "Không trao đổi mà tự ý đăng bài nói xấu bạn."
+        },
+        {
+          "key": "D",
+          "text": "Đề nghị quản trị viên khoá tài khoản của bạn ngay lập tức."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách hướng tới ứng xử lịch sự và thấu hiểu: khi bất đồng, người dùng nên lắng nghe và đưa ra lí do phản bác một cách lịch sự. Công kích cá nhân, đăng bài nói xấu hay gây sức ép để bạn bị khoá tài khoản đều trái với tôn trọng và hỗ trợ.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ứng xử nhân văn",
+        "Thấu hiểu"
+      ],
+      "content": "Trước khi đưa ra ý kiến về bài viết của người khác trong một cuộc thảo luận trực tuyến, em nên làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bình luận thật nhanh để ý kiến của mình xuất hiện đầu tiên."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ đọc tiêu đề rồi suy đoán phần nội dung."
+        },
+        {
+          "key": "C",
+          "text": "Sao chép nguyên ý kiến của người đi trước cho đỡ mất thời gian."
+        },
+        {
+          "key": "D",
+          "text": "Đọc kĩ bài viết của người khác để hiểu đúng nội dung rồi mới nhận xét."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu đọc kĩ bài viết của người khác trước khi đưa ra ý kiến là một cách hình thành thói quen ứng xử nhân văn, thể hiện sự tôn trọng và giúp hạn chế hiểu lầm. Bình luận vội, chỉ đọc tiêu đề hay sao chép ý kiến người khác đều là những cách làm thiếu tôn trọng và dễ làm sai lệch nội dung thảo luận.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Quyền riêng tư",
+        "Ứng xử nhân văn"
+      ],
+      "content": "Việc kể cho một bên thứ ba nghe nội dung trao đổi riêng giữa mình và một người khác khi chưa được họ đồng ý là hành vi",
+      "options": [
+        {
+          "key": "A",
+          "text": "bình thường, vì thông tin đã được truyền qua mạng máy tính."
+        },
+        {
+          "key": "B",
+          "text": "thiếu tôn trọng quyền riêng tư của người nhận và trái với ứng xử nhân văn."
+        },
+        {
+          "key": "C",
+          "text": "được khuyến khích vì giúp mở rộng kết nối xã hội."
+        },
+        {
+          "key": "D",
+          "text": "giúp các cuộc giao tiếp trên mạng trở nên tin cậy hơn."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách yêu cầu luôn tôn trọng quyền riêng tư của người nhận và không chia sẻ thông tin trao đổi riêng giữa hai người với một bên thứ ba khi chưa được phép. Việc thông tin đi qua mạng không làm mất tính riêng tư của nó. Hành vi này cũng không giúp mở rộng kết nối xã hội hay tăng độ tin cậy, mà chỉ làm mất lòng tin giữa những người tham gia giao tiếp.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ứng xử nhân văn",
+        "Hỗ trợ"
+      ],
+      "content": "Một bạn đăng ảnh một bạn khác trong tình huống xấu hổ để trêu chọc và bức ảnh ấy được nhiều người chia sẻ tiếp. Theo hướng ứng xử nhân văn, em nên làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chia sẻ tiếp để câu chuyện lan rộng cho vui."
+        },
+        {
+          "key": "B",
+          "text": "Để lại lời bình luận chế giễu cho hòa vui cùng mọi người."
+        },
+        {
+          "key": "C",
+          "text": "Không chia sẻ, góp ý lịch sự và báo cáo để bài viết được gỡ bỏ nếu cần."
+        },
+        {
+          "key": "D",
+          "text": "Tải ảnh về máy để có thể dùng vào dịp khác."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khía cạnh tôn trọng và hỗ trợ đòi hỏi không tiếp tay cho hành vi làm tổn hại danh dự, đời tư của người khác: không chia sẻ, góp ý lịch sự và có thể báo cáo để gỡ bài. Ba phương án còn lại đều làm mức độ xâm phạm quyền riêng tư của bạn bị chụp ảnh tăng lên.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "An toàn thông tin",
+        "Lừa đảo trực tuyến"
+      ],
+      "content": "Bạn H nhận được cuộc gọi điện thoại video từ tài khoản mạng xã hội của người thân, yêu cầu chuyển gấp một khoản tiền; hình ảnh trong cuộc gọi hơi mờ và khẩu hình miệng không tự nhiên. Cách xử lí nào an toàn nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chuyển tiền ngay vì người gọi đang dùng đúng tài khoản của người thân."
+        },
+        {
+          "key": "B",
+          "text": "Dừng giao dịch và xác minh lại bằng một kênh độc lập khác, chẳng hạn gọi tới số điện thoại đã lưu."
+        },
+        {
+          "key": "C",
+          "text": "Gửi mật khẩu tài khoản ngân hàng để đối phương tự làm cho nhanh."
+        },
+        {
+          "key": "D",
+          "text": "Đăng video cuộc gọi lên mạng xã hội để cộng đồng mạng xác minh hộ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hình ảnh và giọng nói trong không gian mạng có thể bị làm giả để mạo danh người thân, nên cần bình tĩnh dừng giao dịch rồi xác minh qua một kênh độc lập khác. Chuyển tiền vội hoặc gửi mật khẩu đều có thể gây thiệt hại tài chính. Đăng video của người khác lên mạng còn có thể vi phạm quyền riêng tư và không giúp xác minh thông tin.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ưu điểm",
+        "Thư điện tử"
+      ],
+      "content": "Thay vì in báo cáo rồi nhờ người mang tới trường, một bạn gửi báo cáo bằng thư điện tử cho thầy cô và nhận phản hồi chỉ sau vài phút. Tình huống này thể hiện ưu điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiếu tín hiệu phi ngôn ngữ."
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng kết nối xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Ẩn chứa nguy cơ về bảo mật và quyền riêng tư."
+        },
+        {
+          "key": "D",
+          "text": "Tiết kiệm thời gian và chi phí."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Không phải in ấn, không phải đi lại mà vẫn nhận được phản hồi nhanh là biểu hiện của ưu điểm tiết kiệm thời gian và chi phí. Hai phương án A và C là nhược điểm của giao tiếp trực tuyến. Phương án B nói về việc kết nối thêm nhiều quan hệ xã hội, không phải nội dung mà tình huống mô tả.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ưu điểm",
+        "Nhược điểm"
+      ],
+      "content": "Nhận định nào sau đây đúng khi bàn về hai mặt của giao tiếp trong không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giao tiếp trực tuyến vừa thuận tiện vừa tiềm ẩn nguy cơ về bảo mật và quyền riêng tư, nên người dùng cần có ý thức tự bảo vệ và ứng xử có văn hóa."
+        },
+        {
+          "key": "B",
+          "text": "Giao tiếp trong không gian mạng chỉ đem lại lợi ích nên có thể bỏ qua mọi cảnh báo về an toàn."
+        },
+        {
+          "key": "C",
+          "text": "Vì có nhiều nhược điểm nên cần ngừng hoàn toàn việc dùng thư điện tử và mạng xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Ưu điểm và nhược điểm của giao tiếp trong không gian mạng đều do trình duyệt web quyết định."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 6 mô tả giao tiếp trong không gian mạng đồng thời có bốn ưu điểm và bốn nhược điểm, vì vậy cần khai thác tiện ích song song với giữ an toàn và ứng xử văn minh. Hai phương án B và C tuyệt đối hoá một mặt, trái với tinh thần của bài học. Ưu điểm, nhược điểm xuất phát từ bản chất giao tiếp qua mạng, không do trình duyệt web quyết định.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "Ứng xử nhân văn",
+        "Môi trường số"
+      ],
+      "content": "Việc mỗi người đều giữ cách ứng xử nhân văn khi tham gia không gian mạng có tác dụng chính là",
+      "options": [
+        {
+          "key": "A",
+          "text": "làm giảm số lượng người dùng mạng xã hội."
+        },
+        {
+          "key": "B",
+          "text": "bảo đảm mọi thông tin trên mạng đều chính xác."
+        },
+        {
+          "key": "C",
+          "text": "giúp môi trường giao tiếp số an toàn, thân thiện và hạn chế hiểu lầm, xung đột."
+        },
+        {
+          "key": "D",
+          "text": "thay thế hoàn toàn giao tiếp trực tiếp giữa con người."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tôn trọng, lịch sự, thấu hiểu và hỗ trợ làm cho không gian mạng lành mạnh hơn, giảm hiểu lầm do thiếu tín hiệu phi ngôn ngữ và giảm nguy cơ xâm phạm người khác. Ứng xử tốt không làm cho mọi thông tin trở nên chính xác, không nhằm giảm số người dùng và cũng không thay thế giao tiếp trực tiếp.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "nhận định đúng sai",
+        "Không gian mạng",
+        "Bài 6"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về không gian mạng và giao tiếp trong không gian mạng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không gian mạng là môi trường được tạo ra nhờ sử dụng mạng máy tính, trong đó Internet có thể được coi là không gian mạng lớn nhất."
+        },
+        {
+          "key": "B",
+          "text": "Giao tiếp trong không gian mạng nhất thiết phải là hai người nói chuyện trực tiếp với nhau bằng lời nói."
+        },
+        {
+          "key": "C",
+          "text": "Mạng xã hội, thư điện tử, ứng dụng nhắn tin, diễn đàn trực tuyến và nhật kí web là những phương tiện giao tiếp trong không gian mạng."
+        },
+        {
+          "key": "D",
+          "text": "Không gian mạng cho phép con người giao tiếp với nhau thông qua các phần mềm và dịch vụ trực tuyến."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A, C, D đều đúng theo định nghĩa không gian mạng và danh sách phương tiện giao tiếp mà Bài 6 đã nêu. B sai vì giao tiếp trong không gian mạng là giao tiếp gián tiếp qua phần mềm và dịch vụ trực tuyến, không phải gặp mặt nói chuyện trực tiếp.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "nhận định đúng sai",
+        "Ưu điểm",
+        "Nhược điểm"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về ưu điểm và nhược điểm của giao tiếp trong không gian mạng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhược điểm \"thiếu tín hiệu phi ngôn ngữ\" có nghĩa là người dùng dễ bị lộ mật khẩu hoặc bị tấn công mạng."
+        },
+        {
+          "key": "B",
+          "text": "Bốn ưu điểm được sách nêu là thuận tiện, tiết kiệm thời gian và chi phí, mở rộng kết nối xã hội, công cụ giao tiếp đa dạng."
+        },
+        {
+          "key": "C",
+          "text": "Giao tiếp trong không gian mạng không còn nguy cơ nào về quyền riêng tư vì mọi thông tin đều đã được kiểm duyệt."
+        },
+        {
+          "key": "D",
+          "text": "Thư điện tử và tin nhắn dễ gây hiểu lầm vì thiếu nét mặt, ngôn ngữ cơ thể và biểu cảm giọng nói."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "B và D đúng: B là danh sách bốn ưu điểm, D là cách hiểu đúng của nhược điểm thiếu tín hiệu phi ngôn ngữ. A sai vì bị lộ mật khẩu, bị tấn công mạng thuộc nhược điểm ẩn chứa nhiều nguy cơ về bảo mật và quyền riêng tư. C sai vì sách khẳng định giao tiếp trực tuyến vẫn tiềm ẩn nguy cơ về bảo mật, quyền riêng tư và thông tin giả mạo.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "nhận định đúng sai",
+        "Ứng xử nhân văn",
+        "Bài 6"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về ứng xử nhân văn trong không gian mạng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tôn trọng, lịch sự, thấu hiểu và hỗ trợ là bốn khía cạnh quan trọng nhất của ứng xử nhân văn trong không gian mạng."
+        },
+        {
+          "key": "B",
+          "text": "Một trong những cách hình thành thói quen ứng xử nhân văn là đối xử với người khác theo cách mà mình muốn được đối xử."
+        },
+        {
+          "key": "C",
+          "text": "Khi tham gia thảo luận trực tuyến, cần đọc kĩ bài viết của người khác rồi mới nêu ý kiến và giữ thái độ lịch sự khi phản bác."
+        },
+        {
+          "key": "D",
+          "text": "Thông tin trao đổi riêng giữa hai người có thể tự do chia sẻ cho bên thứ ba vì dữ liệu đã nằm trên mạng máy tính."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A đúng theo Hình 6.3, B và C đúng theo các cách hình thành thói quen ứng xử nhân văn mà Bài 6 gợi ý. D sai vì sách yêu cầu luôn tôn trọng quyền riêng tư của người nhận và không chia sẻ thông tin trao đổi riêng giữa hai người với một bên thứ ba khi chưa được phép.",
+      "imageUrl": null
+    },
+    {
+      "id": "tinhoc12-b06-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-ung-xu-khong-gian-mang",
+      "tags": [
+        "nhận định đúng sai",
+        "Bảo mật",
+        "Quyền riêng tư"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về sự an toàn và quyền riêng tư khi tham gia không gian mạng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cảnh giác với những yêu cầu chuyển tiền gấp qua cuộc gọi video là cần thiết vì hình ảnh và giọng nói có thể bị làm giả để mạo danh người thân."
+        },
+        {
+          "key": "B",
+          "text": "Thông tin cá nhân xuất hiện trên mạng xã hội luôn chính xác nên không cần kiểm chứng."
+        },
+        {
+          "key": "C",
+          "text": "Thư điện tử an toàn tuyệt đối hơn tin nhắn vì thư điện tử không thể làm lộ mật khẩu của người dùng."
+        },
+        {
+          "key": "D",
+          "text": "Tôn trọng quyền riêng tư thể hiện ở việc không tự ý phát tán hình ảnh hoặc thông tin cá nhân của người khác."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A và D đúng vì phù hợp với các nhược điểm về bảo mật, quyền riêng tư và yêu cầu ứng xử nhân văn của Bài 6. B sai vì sách nêu thông tin cá nhân trên mạng xã hội có thể là thông tin bịa đặt, giả mạo. C sai vì thư điện tử vẫn là một trong những phương tiện mà người dùng có thể bị lộ mật khẩu hay thông tin cá nhân.",
+      "imageUrl": null
+    }
+  ]
+}

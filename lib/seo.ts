@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 export const SITE_NAME = 'Ôn Thi THPT';
 export const SITE_DESCRIPTION =
-  'Nền tảng luyện thi THPT Quốc gia: đề thi thử sát cấu trúc thật, lời giải chi tiết theo hướng tư duy và lộ trình luyện tập cá nhân hóa cho học sinh lớp 12.';
+  'Nền tảng luyện thi THPT Quốc gia: đề thi thử sát cấu trúc thật cho học sinh lớp 10–12, lời giải chi tiết theo hướng tư duy và lộ trình luyện tập cá nhân hóa.';
 export const SITE_LOCALE = 'vi_VN';
 
 function resolveSiteUrl(value: string | undefined): string {
@@ -126,7 +126,7 @@ export function examJsonLd(input: {
     description: input.description,
     url: absoluteUrl(input.path),
     inLanguage: 'vi-VN',
-    educationalLevel: 'Lớp 12',
+    educationalLevel: 'Trung học phổ thông',
     learningResourceType: 'Đề thi thử tốt nghiệp THPT',
     timeRequired: `PT${input.durationMinutes}M`,
     dateModified: input.updatedAt.toISOString(),

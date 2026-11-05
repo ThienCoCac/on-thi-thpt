@@ -1,0 +1,963 @@
+{
+  "id": "de-ktpl-12-bai-06",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 – Bài 6: Trách nhiệm xã hội của doanh nghiệp",
+  "slug": "de-ktpl-12-bai-06",
+  "description": "Đề ôn tập bám sát Bài 6 Giáo dục Kinh tế và Pháp luật 12 (Kết nối tri thức): khái niệm trách nhiệm xã hội của doanh nghiệp, các lĩnh vực trách nhiệm, lợi ích khi thực hiện tốt, phân biệt nghĩa vụ pháp lí bắt buộc với trách nhiệm tự nguyện, hành vi vi phạm và hệ quả. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-B6",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "ktpl12-b06-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Trách nhiệm xã hội của doanh nghiệp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "trách nhiệm của doanh nghiệp đối với cộng đồng xã hội và môi trường, vượt lên trên cả lợi ích của doanh nghiệp lẫn các quy định bắt buộc của pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ nghĩa vụ của doanh nghiệp đối với Nhà nước thông qua việc nộp đủ các khoản thuế."
+        },
+        {
+          "key": "C",
+          "text": "việc doanh nghiệp theo đuổi tối đa lợi nhuận cho các cổ đông và chủ sở hữu."
+        },
+        {
+          "key": "D",
+          "text": "trách nhiệm của doanh nghiệp chỉ giới hạn trong việc thực hiện đúng hợp đồng lao động với người lao động."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trách nhiệm xã hội của doanh nghiệp là trách nhiệm đối với cộng đồng xã hội và môi trường, vượt lên trên lợi ích của doanh nghiệp và các quy định bắt buộc của pháp luật. Phương án B mới là nghĩa vụ với Nhà nước, C là mục tiêu kinh tế, D thu hẹp trách nhiệm vào một nhóm là người lao động.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Khái niệm",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao nói trách nhiệm xã hội của doanh nghiệp không chỉ là làm từ thiện?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì hoạt động từ thiện chỉ là một biểu hiện nhỏ; trách nhiệm xã hội còn gồm trách nhiệm với người lao động, khách hàng, môi trường, cộng đồng và Nhà nước."
+        },
+        {
+          "key": "B",
+          "text": "Vì hoạt động từ thiện hoàn toàn không liên quan đến trách nhiệm xã hội của doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Vì chỉ các doanh nghiệp lớn, dư dả nguồn lực mới có trách nhiệm xã hội với xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Vì trách nhiệm xã hội thực chất chỉ là việc nộp thuế đầy đủ cho Nhà nước."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Từ thiện chỉ là một phần của trách nhiệm xã hội; nội dung của nó rộng hơn nhiều, gồm trách nhiệm với người lao động, khách hàng, môi trường, cộng đồng và nghĩa vụ với Nhà nước. B sai vì từ thiện vẫn là một biểu hiện của trách nhiệm xã hội; C sai vì mọi doanh nghiệp đều có trách nhiệm xã hội; D sai vì nộp thuế chỉ là nghĩa vụ pháp lí, không phải toàn bộ trách nhiệm xã hội.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Từ thiện",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thuộc trách nhiệm của doanh nghiệp đối với người lao động?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo đảm trả lương đầy đủ, đúng hạn, đóng các loại bảo hiểm và giữ gìn điều kiện làm việc an toàn cho người lao động."
+        },
+        {
+          "key": "B",
+          "text": "Cung cấp thông tin trung thực, đầy đủ về chất lượng sản phẩm cho khách hàng."
+        },
+        {
+          "key": "C",
+          "text": "Xử lí chất thải và giảm thiểu các khí thải gây hại cho môi trường trước khi xả ra ngoài."
+        },
+        {
+          "key": "D",
+          "text": "Nộp thuế đầy đủ, đúng hạn, đúng quy định vào ngân sách nhà nước."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trả lương, đóng bảo hiểm và bảo đảm điều kiện lao động là trách nhiệm trực tiếp với người lao động. B là trách nhiệm với khách hàng, C là trách nhiệm với môi trường, D là nghĩa vụ với Nhà nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Người lao động"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Trách nhiệm của doanh nghiệp đối với môi trường là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khai thác, sử dụng hợp lí tài nguyên thiên nhiên, xử lí chất thải trước khi xả ra môi trường và giảm khí thải gây hại."
+        },
+        {
+          "key": "B",
+          "text": "bảo đảm an toàn lao động và vệ sinh nơi làm việc cho toàn bộ nhân viên."
+        },
+        {
+          "key": "C",
+          "text": "bảo mật thông tin cá nhân của khách hàng khi thu thập và lưu trữ dữ liệu."
+        },
+        {
+          "key": "D",
+          "text": "ủng hộ cơ sở vật chất cho trường học, trạm y tế ở địa phương."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo vệ môi trường thể hiện ở việc dùng tài nguyên hợp lí, xử lí chất thải và giảm khí thải. B thuộc trách nhiệm với người lao động, C thuộc trách nhiệm với khách hàng, D thuộc trách nhiệm với cộng đồng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Môi trường"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Buôn bán hàng thật, quảng cáo trung thực và bảo hành đầy đủ là trách nhiệm của doanh nghiệp đối với đối tượng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người tiêu dùng."
+        },
+        {
+          "key": "B",
+          "text": "Người lao động."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước."
+        },
+        {
+          "key": "D",
+          "text": "Cộng đồng dân cư."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hàng thật, quảng cáo trung thực và bảo hành liên quan trực tiếp đến quyền lợi của người tiêu dùng, thể hiện trách nhiệm với khách hàng. Trách nhiệm với người lao động là lương, bảo hiểm, điều kiện làm việc; với Nhà nước là thuế; với cộng đồng là các hoạt động hỗ trợ chung.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Khách hàng"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Trách nhiệm của doanh nghiệp đối với Nhà nước thể hiện trước hết ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "nộp thuế đầy đủ, đúng hạn và tuân thủ các quy định của pháp luật về sản xuất, kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "tặng quà cho các hộ dân có hoàn cảnh khó khăn trên địa bàn mỗi dịp Tết đến."
+        },
+        {
+          "key": "C",
+          "text": "tổ chức tập huấn định kì về an toàn, vệ sinh lao động cho công nhân."
+        },
+        {
+          "key": "D",
+          "text": "bảo vệ bí mật thông tin riêng tư của khách hàng khi cung cấp dịch vụ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nghĩa vụ với Nhà nước trước hết là nộp thuế đầy đủ, đúng hạn và chấp hành pháp luật kinh doanh. B là trách nhiệm với cộng đồng, C là trách nhiệm với người lao động, D là trách nhiệm với khách hàng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Nghĩa vụ thuế"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoạt động nào sau đây là ví dụ về trách nhiệm của doanh nghiệp đối với cộng đồng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hỗ trợ xây cầu nông thôn, tặng máy tính cho trường học và giúp người dân vùng bị thiên tai ổn định cuộc sống."
+        },
+        {
+          "key": "B",
+          "text": "Trang bị hệ thống phòng cháy, chữa cháy để bảo vệ an toàn cho nhà máy của doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Thanh toán đủ tiền lương cho công nhân trong thời gian nghỉ chế độ theo quy định."
+        },
+        {
+          "key": "D",
+          "text": "Kí hợp đồng cam kết chất lượng hàng hoá với các đại lí phân phối sản phẩm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trách nhiệm với cộng đồng là đóng góp cho lợi ích công cộng tại địa phương như xây dựng cơ sở hạ tầng, ủng hộ đồng bào thiên tai, hỗ trợ giáo dục. B là bảo đảm an toàn nội bộ doanh nghiệp, C là trách nhiệm với người lao động, D là quan hệ với đối tác và khách hàng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Cộng đồng"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Phân biệt nghĩa vụ pháp lí bắt buộc và trách nhiệm tự nguyện của doanh nghiệp, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nộp thuế, đóng bảo hiểm cho người lao động là nghĩa vụ pháp lí bắt buộc; làm từ thiện, hỗ trợ cộng đồng là trách nhiệm tự nguyện mà doanh nghiệp tự lựa chọn mức độ, cách làm."
+        },
+        {
+          "key": "B",
+          "text": "Làm từ thiện là nghĩa vụ bắt buộc đối với mọi doanh nghiệp; nộp thuế là việc tuỳ tâm của doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Cả nộp thuế lẫn làm từ thiện đều là trách nhiệm tự nguyện, không phụ thuộc vào quy định của pháp luật."
+        },
+        {
+          "key": "D",
+          "text": "Doanh nghiệp chỉ cần thực hiện trách nhiệm tự nguyện; nghĩa vụ pháp lí bắt buộc là dành cho từng cá nhân."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nghĩa vụ pháp lí bắt buộc do pháp luật quy định, doanh nghiệp buộc phải thực hiện; trách nhiệm tự nguyện là phần doanh nghiệp tự nguyện làm thêm, vượt trên yêu cầu của luật. B đảo ngược tính chất của hai loại trách nhiệm; C sai vì nộp thuế là bắt buộc; D sai vì doanh nghiệp nào cũng phải tuân thủ nghĩa vụ pháp lí trước tiên.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Nghĩa vụ pháp lí"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trong những lợi ích quan trọng nhất của việc thực hiện tốt trách nhiệm xã hội đối với doanh nghiệp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nâng cao uy tín và niềm tin, nhờ đó khách hàng, đối tác và người lao động gắn bó hơn với doanh nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "được miễn toàn bộ các khoản thuế và bảo hiểm phải nộp."
+        },
+        {
+          "key": "C",
+          "text": "thay thế xong các nghĩa vụ pháp lí bằng hoạt động từ thiện."
+        },
+        {
+          "key": "D",
+          "text": "không cần quan tâm đến chất lượng sản phẩm nữa vì tiếng tốt đã có sẵn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thực hiện tốt trách nhiệm xã hội giúp doanh nghiệp xây dựng uy tín, giữ chân khách hàng, đối tác và nhân viên. B và C sai vì trách nhiệm xã hội không miễn trừ nghĩa vụ thuế, bảo hiểm hay các nghĩa vụ pháp lí khác; D sai vì chất lượng sản phẩm vẫn là nền tảng của kinh doanh lâu dài.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Lợi ích doanh nghiệp"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Chế độ đãi ngộ tốt với người lao động mang lại lợi ích gì cho doanh nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người lao động hăng say làm việc, năng suất tăng và doanh nghiệp giữ được đội ngũ nhân công lành nghề."
+        },
+        {
+          "key": "B",
+          "text": "Doanh nghiệp được xoá bỏ nghĩa vụ đóng bảo hiểm xã hội cho người lao động."
+        },
+        {
+          "key": "C",
+          "text": "Doanh nghiệp được phép giảm đầu tư cho an toàn lao động vì công nhân đã hài lòng."
+        },
+        {
+          "key": "D",
+          "text": "Doanh nghiệp không cần cải thiện chất lượng sản phẩm vì nội bộ đã ổn định."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đối xử tốt với người lao động giúp nâng cao năng suất, giảm biến động nhân sự và giữ chân người tài. B sai vì đóng bảo hiểm xã hội là nghĩa vụ bắt buộc, không thể thay bằng đãi ngộ; C sai vì an toàn lao động vẫn phải được bảo đảm thường xuyên; D sai vì chất lượng sản phẩm phụ thuộc vào khách hàng, không phụ thuộc vào sự ổn định nội bộ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Người lao động",
+        "Lợi ích doanh nghiệp"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Thực hiện trách nhiệm xã hội giúp doanh nghiệp cải thiện hiệu quả tài chính chủ yếu vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "sản phẩm an toàn, thân thiện với môi trường được người tiêu dùng ưu tiên lựa chọn, giúp doanh nghiệp mở rộng thị trường và đứng vững trong cạnh tranh."
+        },
+        {
+          "key": "B",
+          "text": "doanh nghiệp làm từ thiện tốt thì sẽ được miễn toàn bộ nghĩa vụ nộp thuế."
+        },
+        {
+          "key": "C",
+          "text": "khách hàng sẵn sàng trả giá cao hơn với mọi sản phẩm bất chấp chất lượng."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước nhận chi trả thay toàn bộ chi phí cho doanh nghiệp làm tốt trách nhiệm xã hội."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lợi ích tài chính đến từ chỗ sản phẩm có trách nhiệm được thị trường tin dùng, nhờ đó doanh nghiệp bán tốt hơn và phát triển bền vững. B sai vì làm từ thiện không miễn trừ nghĩa vụ thuế; C sai vì người tiêu dùng chỉ trả giá cao khi sản phẩm thực sự tốt; D sai vì Nhà nước không gánh chi phí thay doanh nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Lợi ích doanh nghiệp"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Làm tốt trách nhiệm bảo vệ môi trường giúp doanh nghiệp",
+      "options": [
+        {
+          "key": "A",
+          "text": "giảm nguy cơ bị xử phạt, bồi thường do vi phạm môi trường và giữ quan hệ tốt với dân cư xung quanh."
+        },
+        {
+          "key": "B",
+          "text": "có quyền xả thẳng chất thải ra môi trường vì đã làm từ thiện cho địa phương."
+        },
+        {
+          "key": "C",
+          "text": "được địa phương cấp tài nguyên, nhiên liệu miễn phí cho sản xuất."
+        },
+        {
+          "key": "D",
+          "text": "không phải chịu sự giám sát, kiểm tra của cơ quan quản lí nhà nước về môi trường."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo vệ môi trường tốt giúp doanh nghiệp tránh các hệ quả pháp lí và mất lòng dân, đồng thời giữ được điều kiện sản xuất bền vững. B sai vì trách nhiệm môi trường là bắt buộc, không đổi được bằng từ thiện; C sai vì không mặc nhiên được cấp tài nguyên miễn phí; D sai vì doanh nghiệp vẫn phải chịu thanh tra, giám sát của Nhà nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Môi trường",
+        "Lợi ích doanh nghiệp"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Công ty A phát hiện một lô hàng gia dụng đã phân phối ra thị trường không đạt chất lượng công bố, gây ảnh hưởng xấu tới một số khách hàng. Ứng xử nào sau đây phù hợp với trách nhiệm xã hội của doanh nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ động thu hồi lô hàng, thông báo trung thực cho khách hàng và bồi thường thiệt hại theo quy định."
+        },
+        {
+          "key": "B",
+          "text": "Tiếp tục bán nốt số hàng còn lại để thu hồi vốn đầu tư đã bỏ ra."
+        },
+        {
+          "key": "C",
+          "text": "Phủ nhận mọi trách nhiệm và chỉ hành động khi cơ quan quản lí ra quyết định xử lí."
+        },
+        {
+          "key": "D",
+          "text": "Lặng lẽ sửa đổi thông tin ghi trên nhãn hàng để lô hàng trông như đạt chuẩn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trách nhiệm với khách hàng đòi hỏi doanh nghiệp chủ động khắc phục hậu quả: thu hồi hàng lỗi, minh bạch thông tin và bồi thường. B và C thể hiện sự vô trách nhiệm với người tiêu dùng; D là hành vi lừa dối, vừa vi phạm trách nhiệm với khách hàng vừa làm sai lệch thông tin về hàng hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Khách hàng",
+        "Tình huống"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Hành vi nào sau đây vi phạm trách nhiệm của doanh nghiệp đối với người lao động?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nợ dây dưa tiền lương, ép làm thêm giờ quá nhiều và để người lao động làm việc trong điều kiện mất an toàn."
+        },
+        {
+          "key": "B",
+          "text": "Chậm thu hồi một lô sản phẩm kém chất lượng đang bán trên thị trường."
+        },
+        {
+          "key": "C",
+          "text": "Nộp thuế muộn so với thời hạn quy định, làm chậm nguồn thu ngân sách."
+        },
+        {
+          "key": "D",
+          "text": "Xả trực tiếp nước thải chưa xử lí đạt quy chuẩn ra dòng sông gần khu vực sản xuất."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nợ lương, ép làm thêm giờ quá tải và bỏ mặc điều kiện lao động nguy hiểm là vi phạm trực tiếp trách nhiệm với người lao động. B vi phạm trách nhiệm với khách hàng, C vi phạm nghĩa vụ với Nhà nước, D vi phạm trách nhiệm với môi trường.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Người lao động",
+        "Hành vi vi phạm"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Hành vi nào sau đây vi phạm trách nhiệm của doanh nghiệp đối với môi trường?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xả thẳng nước thải công nghiệp chưa qua xử lí ra sông để tiết giảm chi phí xử lí của doanh nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "Đầu tư xây dựng hệ thống xử lí nước thải đạt quy chuẩn trước khi xả ra môi trường."
+        },
+        {
+          "key": "C",
+          "text": "Phân loại rác thải trong nhà máy và chuyển cho đơn vị thu gom được phép xử lí."
+        },
+        {
+          "key": "D",
+          "text": "Lắp đặt và vận hành thường xuyên thiết bị xử lí bụi, khí thải cho phân xưởng sản xuất."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Xả chất thải chưa xử lí để tiết kiệm chi phí là hành vi huỷ hoại môi trường, trái trách nhiệm xã hội của doanh nghiệp. B, C, D đều là các biện pháp bảo vệ môi trường đúng đắn mà doanh nghiệp cần làm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Môi trường",
+        "Hành vi vi phạm"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Sản xuất hàng giả, buôn bán hàng kém chất lượng là hành vi vi phạm trách nhiệm nào của doanh nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trách nhiệm đối với người tiêu dùng, vì doanh nghiệp lừa dối và trực tiếp gây hại cho sức khoẻ, quyền lợi của khách hàng."
+        },
+        {
+          "key": "B",
+          "text": "Trách nhiệm đối với Nhà nước, vì hàng giả khiến doanh nghiệp nộp thiếu các khoản thuế."
+        },
+        {
+          "key": "C",
+          "text": "Trách nhiệm đối với người lao động, vì sản xuất hàng giả làm giảm số việc làm trong doanh nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "Trách nhiệm đối với cộng đồng, vì làm hàng giả chiếm chỗ của các làng nghề truyền thống."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hàng giả, hàng kém chất lượng trước hết xâm hại quyền lợi và sức khoẻ người tiêu dùng, tức vi phạm trách nhiệm với khách hàng. B, C, D đều gán ghép sai bản chất: thiệt hại trực tiếp và chủ yếu của hành vi này là ở phía người mua hàng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Khách hàng",
+        "Hàng giả"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Doanh nghiệp B nộp đủ thuế đúng hạn, đóng đầy đủ bảo hiểm cho nhân viên và mỗi năm dành một khoản kinh phí hỗ trợ trẻ em nghèo ở địa phương đến trường. Nhận định nào sau đây đúng về doanh nghiệp B?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doanh nghiệp đã kết hợp tốt việc thực hiện nghĩa vụ pháp lí bắt buộc với trách nhiệm xã hội tự nguyện."
+        },
+        {
+          "key": "B",
+          "text": "Việc hỗ trợ trẻ em cho thấy doanh nghiệp B chưa hoàn thành các nghĩa vụ pháp lí với Nhà nước."
+        },
+        {
+          "key": "C",
+          "text": "Hỗ trợ trẻ em chứng tỏ doanh nghiệp B buộc phải làm từ thiện theo yêu cầu của địa phương."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cần làm tốt việc từ thiện là doanh nghiệp B đã trở thành doanh nghiệp có trách nhiệm xã hội."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nộp thuế, đóng bảo hiểm là nghĩa vụ bắt buộc; hỗ trợ trẻ em nghèo là phần tự nguyện vượt trên luật — doanh nghiệp B làm tốt cả hai tầng trách nhiệm. B và C suy đoán sai, vì làm từ thiện không đồng nghĩa với trốn nghĩa vụ hay bị ép buộc; D sai vì trước hết phải hoàn thành nghĩa vụ pháp lí.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Tình huống",
+        "Nhận định"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Cách hiểu nào sau đây về mối quan hệ giữa mục tiêu lợi nhuận và trách nhiệm xã hội của doanh nghiệp là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai mục tiêu không đối lập nhau: có trách nhiệm với con người và môi trường tạo nền tảng uy tín để lợi nhuận bền vững lâu dài."
+        },
+        {
+          "key": "B",
+          "text": "Doanh nghiệp theo đuổi lợi nhuận thì không thể làm trách nhiệm xã hội và ngược lại."
+        },
+        {
+          "key": "C",
+          "text": "Thực hiện trách nhiệm xã hội đòi hỏi doanh nghiệp phải từ bỏ lợi nhuận, chấp nhận thua lỗ."
+        },
+        {
+          "key": "D",
+          "text": "Doanh nghiệp chỉ cần thực hiện trách nhiệm xã hội khi đã thu được lợi nhuận rất lớn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trách nhiệm xã hội và lợi nhuận bổ sung cho nhau: uy tín, niềm tin của khách hàng và người lao động là điều kiện để doanh nghiệp làm ăn lâu dài. B và C đối lập hai mục tiêu một cách sai lầm; D sai vì trách nhiệm xã hội cần được thực hiện ngay từ khi bắt đầu kinh doanh, không chờ có lợi nhuận lớn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Lợi nhuận",
+        "Nhận định"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Trách nhiệm của doanh nghiệp trong khai thác, sử dụng tài nguyên thiên nhiên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khai thác, sử dụng tài nguyên hợp lí, hiệu quả, thực hành tiết kiệm năng lượng và chuyển dần sang quy trình sản xuất sạch hơn."
+        },
+        {
+          "key": "B",
+          "text": "khai thác tài nguyên ở mức tối đa để hạ giá thành sản phẩm một cách nhanh nhất."
+        },
+        {
+          "key": "C",
+          "text": "chờ Nhà nước cấp nguyên liệu giá rẻ để giảm chi phí đầu vào cho sản xuất."
+        },
+        {
+          "key": "D",
+          "text": "giao toàn bộ việc giữ gìn tài nguyên cho cộng đồng dân cư nơi doanh nghiệp đặt nhà máy."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Doanh nghiệp phải khai thác, sử dụng tài nguyên hợp lí, tiết kiệm và hướng tới sản xuất sạch. B là khai thác cạn kiệt, phá huỷ môi trường sống của cộng đồng; C là tư tưởng thụ động trông chờ, không phải trách nhiệm của doanh nghiệp; D là đùn đẩy trách nhiệm bảo vệ tài nguyên mà chính doanh nghiệp phải gánh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Tài nguyên",
+        "Môi trường"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong kinh doanh với người tiêu dùng, biểu hiện nào sau đây thể hiện tính trung thực — một nội dung của trách nhiệm xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thông tin đầy đủ, chính xác về chất lượng, cách dùng và những cảnh báo an toàn của sản phẩm tới khách hàng."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ quảng cáo mặt tốt, cố ý giấu khiếm khuyết có thể gây mất an toàn khi sử dụng sản phẩm."
+        },
+        {
+          "key": "C",
+          "text": "Sao chép kiểu dáng của sản phẩm đang bán chạy để hưởng lợi từ uy tín của doanh nghiệp khác."
+        },
+        {
+          "key": "D",
+          "text": "Tự tôn vinh sản phẩm của mình đồng thời tung tin sai sự thật về đối thủ cạnh tranh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trung thực với khách hàng là cung cấp thông tin chính xác, đủ chiều, kể cả cảnh báo rủi ro. B là giấu kín thông tin gây hại, xâm hại người tiêu dùng; C là chiếm dụng uy tín của doanh nghiệp khác, không trung thực; D là bôi nhọ đối thủ, trái với đạo đức kinh doanh và cạnh tranh lành mạnh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Đạo đức kinh doanh",
+        "Khách hàng"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhà máy G bị hỏng hệ thống xử lí bụi, khí thải. Quản đốc chỉ thị tiếp tục sản xuất hết công suất đến khi xong đơn hàng rồi mới sửa chữa. Hệ quả của quyết định đó là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bụi, khí thải vượt chuẩn phát tán ra môi trường, ảnh hưởng sức khoẻ dân cư xung quanh và nhà máy có nguy cơ bị xử lí theo pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "Quyết định đó tiết kiệm được tiền, vì chi phí khắc phục sau lúc nào cũng nhỏ hơn thiệt hại do dừng sản xuất."
+        },
+        {
+          "key": "C",
+          "text": "Trách nhiệm xã hội không bị ảnh hưởng, vì bụi và khí thải không phải là chất thải phải xử lí."
+        },
+        {
+          "key": "D",
+          "text": "Trách nhiệm xã hội không bị ảnh hưởng, vì nhà máy đã dự kiến sửa xong hệ thống ngay sau khi hoàn thành đơn hàng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bụi, khí thải là chất thải phải được kiểm soát thường xuyên; cố tình vận hành khi hệ thống hỏng gây ô nhiễm và dẫn đến các hệ quả pháp lí. B sai vì so đo lợi ích trước mắt với rủi ro lâu dài là cách biện hộ cho vi phạm; C sai vì khí thải là đối tượng bắt buộc xử lí; D sai vì dự định sửa chữa không thay thế được nghĩa vụ bảo vệ môi trường trong thời gian vi phạm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Môi trường",
+        "Tình huống"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Đánh giá nào sau đây đúng về việc doanh nghiệp đóng bảo hiểm xã hội, bảo hiểm y tế cho người lao động?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đó là nghĩa vụ pháp lí bắt buộc; thực hiện đúng nghĩa vụ mới là điều kiện tối thiểu để được coi là có trách nhiệm, chưa phải thành tích vượt trội."
+        },
+        {
+          "key": "B",
+          "text": "Đó là trách nhiệm hoàn toàn tự nguyện, doanh nghiệp muốn đóng thì đóng, không muốn cũng không sao."
+        },
+        {
+          "key": "C",
+          "text": "Đó là phần việc cao hơn cả nghĩa vụ nộp thuế, vì tiền bảo hiểm trực tiếp mang lại lợi ích cho công nhân."
+        },
+        {
+          "key": "D",
+          "text": "Doanh nghiệp chưa đóng bảo hiểm nhưng tặng nhiều quà từ thiện thì vẫn được coi là hoàn thành tốt trách nhiệm xã hội."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đóng bảo hiểm cho người lao động là nghĩa vụ do pháp luật quy định, không phải việc tuỳ tâm; doanh nghiệp phải hoàn thành nghĩa vụ bắt buộc rồi mới nói đến các phần tự nguyện cao hơn. B sai về tính chất bắt buộc; C sai vì đặt nghĩa vụ lên trên luật là nhầm lẫn giữa bắt buộc và tự nguyện; D sai vì từ thiện không bù đắp được việc vi phạm nghĩa vụ với người lao động.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Bảo hiểm",
+        "Nghĩa vụ pháp lí"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Công ty C quảng cáo rầm rộ là doanh nghiệp tiên phong sản xuất thân thiện với môi trường, nhưng bị cơ quan chức năng xử phạt vì xả chất thải chưa đạt chuẩn. Tình huống đó cho thấy điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doanh nghiệp đang vi phạm trách nhiệm xã hội khi che giấu hành vi gây ô nhiễm, tô vẽ hình ảnh để đánh lòng tin của người tiêu dùng."
+        },
+        {
+          "key": "B",
+          "text": "Lời quảng cáo đã đủ chứng minh công ty C thực hiện đúng trách nhiệm xã hội đối với môi trường."
+        },
+        {
+          "key": "C",
+          "text": "Việc bị xử phạt vì gây ô nhiễm không liên quan gì đến trách nhiệm xã hội của doanh nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "Công ty C chỉ cần lập quỹ ủng hộ bảo vệ môi trường là không còn bị coi là gây ô nhiễm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trách nhiệm xã hội được đo bằng hành động thực tế, không bằng lời quảng cáo; vừa xả thải trái phép vừa tô vẽ hình ảnh là hành vi thiếu trung thực với xã hội. B sai vì quảng cáo không phải bằng chứng; C sai vì xử phạt phản ánh chính việc vi phạm nghĩa vụ bảo vệ môi trường; D sai vì lập quỹ không xoá được hành vi gây ô nhiễm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Môi trường",
+        "Tình huống"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-6",
+      "type": "SINGLE_CHOICE",
+      "content": "Doanh nghiệp làm xấu trách nhiệm đối với cộng đồng dân cư nơi đặt cơ sở sản xuất thì trước hết sẽ gặp hệ quả gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hình ảnh và uy tín bị tổn hại, dân cư bất hợp tác, việc tuyển dụng lao động và duy trì sản xuất tại chỗ thêm khó khăn."
+        },
+        {
+          "key": "B",
+          "text": "Bị truy cứu trách nhiệm hình sự ngay lập tức dù mức độ vi phạm đến đâu."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ mất thêm cơ hội quảng cáo sản phẩm trên các phương tiện thông tin."
+        },
+        {
+          "key": "D",
+          "text": "Không chịu ảnh hưởng gì vì cộng đồng không nằm trong nhóm doanh nghiệp phải có trách nhiệm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cộng đồng là một trong những đối tượng doanh nghiệp phải có trách nhiệm; mất lòng dân kéo theo tổn hại uy tín và khó khăn trong tuyển dụng, duy trì hoạt động. B sai vì xử lí hình sự chỉ áp dụng với vi phạm tới mức độ do pháp luật quy định, không phải mọi vi phạm; C hạ thấp quá mức hệ quả; D phủ nhận luôn trách nhiệm với cộng đồng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Cộng đồng",
+        "Hệ quả"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-6",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về trách nhiệm xã hội của doanh nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trách nhiệm xã hội là trách nhiệm của doanh nghiệp đối với xã hội và môi trường, vượt lên trên lợi ích của chính doanh nghiệp và các quy định bắt buộc của pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "Làm từ thiện cho người nghèo là nội dung duy nhất của trách nhiệm xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Doanh nghiệp phải chịu trách nhiệm về những tác động từ hoạt động sản xuất, kinh doanh của mình tới môi trường và cộng đồng xung quanh."
+        },
+        {
+          "key": "D",
+          "text": "Thực hiện tốt trách nhiệm xã hội giúp doanh nghiệp nâng cao uy tín và phát triển bền vững."
+        }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "Trách nhiệm xã hội bao hàm trách nhiệm với nhiều nhóm: người lao động, khách hàng, môi trường, cộng đồng, Nhà nước, đồng thời mang lại lợi ích uy tín và phát triển bền vững cho doanh nghiệp. B sai vì từ thiện chỉ là một biểu hiện, không phải nội dung duy nhất.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Khái niệm",
+        "Nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-6",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Nhà máy H thường xuyên xử lí nước thải trước khi xả ra môi trường, trả lương đầy đủ cho công nhân vào ngày 15 hằng tháng, định kì tổ chức tập huấn an toàn lao động; nhưng giám đốc quyết định giữ lại tiền đóng bảo hiểm xã hội của công nhân trong một quý để xây sân chơi cho họ. Những nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việc xử lí nước thải trước khi xả thể hiện trách nhiệm của doanh nghiệp đối với môi trường."
+        },
+        {
+          "key": "B",
+          "text": "Trả lương đúng hạn và bảo đảm an toàn lao động là nội dung trách nhiệm của doanh nghiệp đối với người lao động."
+        },
+        {
+          "key": "C",
+          "text": "Giữ lại tiền bảo hiểm xã hội để xây sân chơi là hợp lí, vì sân chơi cũng phục vụ ngay lợi ích của công nhân nhà máy."
+        },
+        {
+          "key": "D",
+          "text": "Đóng bảo hiểm xã hội cho người lao động là nghĩa vụ pháp lí bắt buộc, doanh nghiệp không được giữ lại vì bất kì mục đích nào."
+        }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A và B phản ánh đúng các trách nhiệm với môi trường và với người lao động; D đúng vì đóng bảo hiểm xã hội là nghĩa vụ bắt buộc. C sai: mục đích tốt không biện minh được cho hành vi giữ tiền bảo hiểm, đây vẫn là vi phạm trách nhiệm với người lao động và quy định của pháp luật.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Người lao động",
+        "Tình huống"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-6",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những hành vi nào sau đây là vi phạm trách nhiệm xã hội của doanh nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Buôn bán hàng giả, hàng không đúng chất lượng đã công bố và che giấu khuyết tật của sản phẩm đối với khách hàng."
+        },
+        {
+          "key": "B",
+          "text": "Chủ động chuyển sang sử dụng năng lượng sạch dù chi phí đầu tư ban đầu cao hơn để giảm phát thải."
+        },
+        {
+          "key": "C",
+          "text": "Khai thác khoáng sản trái phép trên địa bàn, bất chấp các quy định về bảo vệ tài nguyên và môi trường."
+        },
+        {
+          "key": "D",
+          "text": "Nợ lương dây dưa, ép người lao động làm thêm giờ kéo dài không trả tiền và chậm đóng bảo hiểm cho họ."
+        }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "A vi phạm trách nhiệm với khách hàng, C vi phạm trách nhiệm với môi trường và tài nguyên, D vi phạm trách nhiệm với người lao động. B là một việc làm tự nguyện đáng khuyến khích, thể hiện doanh nghiệp có trách nhiệm với môi trường chứ không phải hành vi vi phạm.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Hành vi vi phạm",
+        "Nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-b06-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-6",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Công ty G để xảy ra sự cố hoá chất rò rỉ làm ảnh hưởng sức khoẻ và môi trường sống của nhiều hộ dân xung quanh. Sau sự cố, công ty chủ động chi trả phần lớn chi phí chữa bệnh và cùng địa phương khắc phục ô nhiễm; song kết quả kiểm tra cho thấy trước đó công ty đã phớt lờ nhiều đề nghị nâng cấp kho chứa và tìm cách né tránh các cuộc kiểm tra của cơ quan bảo vệ môi trường. Những nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì đã tích cực khắc phục hậu quả nên công ty G đã hoàn thành đầy đủ trách nhiệm xã hội đối với những người bị ảnh hưởng."
+        },
+        {
+          "key": "B",
+          "text": "Việc phớt lờ nâng cấp kho chứa cho thấy công ty đã không làm tròn trách nhiệm với môi trường và cộng đồng ngay từ trước khi sự cố xảy ra."
+        },
+        {
+          "key": "C",
+          "text": "Việc chủ động khắc phục và bồi thường sau sự cố là đáng ghi nhận nhưng không xoá bỏ được trách nhiệm của công ty đối với vi phạm đã gây ra."
+        },
+        {
+          "key": "D",
+          "text": "Tìm cách né tránh kiểm tra của cơ quan bảo vệ môi trường là biểu hiện của việc không tuân thủ nghĩa vụ pháp lí đối với Nhà nước."
+        }
+      ],
+      "correctAnswer": ["B", "C", "D"],
+      "explanation": "Trách nhiệm xã hội được xem xét ở cả trước, trong và sau sự cố: thả lỏng an toàn để xảy ra rò rỉ (B), né tránh kiểm tra (D) đều là vi phạm, và khắc phục sau sự cố tuy đáng ghi nhận nhưng không bù trừ hết trách nhiệm (C). A sai vì khắc phục hậu quả không đồng nghĩa với đã hoàn thành đầy đủ trách nhiệm.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Trách nhiệm xã hội",
+        "Tình huống",
+        "Vận dụng cao"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,960 @@
+{
+  "id": "de-ktpl-12-bai-10",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 – Bài 10: Quyền và nghĩa vụ của công dân trong hôn nhân và gia đình",
+  "slug": "de-ktpl-12-bai-10",
+  "description": "Đề ôn tập bám sát Bài 10 Giáo dục Kinh tế và Pháp luật 12: các nguyên tắc cơ bản của chế độ hôn nhân và gia đình, điều kiện kết hôn, những hành vi bị cấm, thẩm quyền huỷ kết hôn trái pháp luật, quan hệ nhân thân và quan hệ tài sản giữa vợ chồng, quyền và nghĩa vụ giữa cha mẹ với con, giữa ông bà với cháu, giữa anh chị em với nhau, quyền yêu cầu giải quyết ly hôn. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-B10",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "ktpl12-b10-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Hôn nhân là",
+      "options": [
+        {
+          "key": "A",
+          "text": "quan hệ giữa hai dòng họ do cha mẹ hai bên quyết định và con cái phải tuân theo ý muốn của cha mẹ."
+        },
+        {
+          "key": "B",
+          "text": "việc hai người khác giới chung sống lâu dài với nhau mà không cần quan tâm tới sự thừa nhận của pháp luật."
+        },
+        {
+          "key": "C",
+          "text": "quan hệ giữa vợ và chồng được xác lập trên cơ sở nam, nữ tự nguyện kết hôn, tuân thủ điều kiện kết hôn và được pháp luật thừa nhận."
+        },
+        {
+          "key": "D",
+          "text": "mọi quan hệ tình cảm bền vững giữa hai người trưởng thành đều đương nhiên được coi là hôn nhân hợp pháp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hôn nhân là quan hệ giữa vợ và chồng, được xác lập do nam, nữ tự nguyện kết hôn, bảo đảm các điều kiện mà pháp luật quy định và được đăng kí theo thủ tục luật định; đây là cơ sở hình thành gia đình. A phủ nhận quyền tự quyết của hai bên; B bỏ mất yếu tố pháp luật thừa nhận; D sai vì không phải mọi quan hệ tình cảm đều là hôn nhân hợp pháp.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Khái niệm hôn nhân",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Gia đình được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tập hợp những người cùng làm việc trong một cơ quan, doanh nghiệp và cùng chia sẻ thu nhập với nhau."
+        },
+        {
+          "key": "B",
+          "text": "đơn vị nhỏ của xã hội, được hình thành và củng cố trên cơ sở quan hệ hôn nhân, huyết thống và nuôi dưỡng, được pháp luật bảo vệ."
+        },
+        {
+          "key": "C",
+          "text": "nhóm người cùng sống trong một ngôi nhà và góp chung tiền chi tiêu cho sinh hoạt hằng tháng."
+        },
+        {
+          "key": "D",
+          "text": "tổ chức do Nhà nước thành lập để quản lí dân cư và hộ khẩu của từng khu vực dân cư."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gia đình là tế bào của xã hội, được hình thành chủ yếu dựa trên quan hệ hôn nhân, huyết thống và nuôi dưỡng; các quan hệ đó được pháp luật về hôn nhân và gia đình ghi nhận, bảo vệ. A và C mới mô tả quan hệ công việc hoặc quan hệ ở chung, thiếu căn cứ pháp lí của gia đình; D nhầm gia đình với một tổ chức của Nhà nước.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Khái niệm gia đình",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Các nguyên tắc cơ bản của chế độ hôn nhân và gia đình ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "hôn nhân tự nguyện, tiến bộ; một vợ một chồng, vợ chồng bình đẳng; việc kết hôn hợp pháp và quan hệ gia đình được Nhà nước tôn trọng, bảo hộ theo quy định của pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "hôn nhân do cha mẹ hai bên quyết định; người vợ phụ thuộc vào người chồng về tài sản và nơi cư trú."
+        },
+        {
+          "key": "C",
+          "text": "hôn nhân là quyền riêng tuyệt đối của mỗi cá nhân nên không chịu sự điều chỉnh của pháp luật."
+        },
+        {
+          "key": "D",
+          "text": "hôn nhân phải môn đăng hộ đối về tài sản và địa vị; người chồng là người quyết định mọi công việc của gia đình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chế độ hôn nhân và gia đình được xây dựng trên các nguyên tắc: hôn nhân tự nguyện, tiến bộ; một vợ một chồng, vợ chồng bình đẳng; Nhà nước tôn trọng và bảo hộ hôn nhân, gia đình hợp pháp. B và D là những quan niệm lạc hậu, trái nguyên tắc bình đẳng; C phủ nhận sự điều chỉnh của pháp luật đối với quan hệ hôn nhân và gia đình.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Nguyên tắc hôn nhân và gia đình",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tắc hôn nhân tự nguyện, tiến bộ đòi hỏi",
+      "options": [
+        {
+          "key": "A",
+          "text": "mọi cuộc kết hôn phải được hai bên gia đình thống nhất và tổ chức lễ cưới thật linh đình, đủ lễ vật."
+        },
+        {
+          "key": "B",
+          "text": "việc kết hôn do cha mẹ hoặc người thân quyết định để bảo đảm hạnh phúc lâu dài cho con cái."
+        },
+        {
+          "key": "C",
+          "text": "hai bên chỉ cần có tình cảm với nhau là được kết hôn và chung sống như vợ chồng dù chưa đủ điều kiện."
+        },
+        {
+          "key": "D",
+          "text": "nam, nữ tự mình quyết định việc kết hôn trên cơ sở tình yêu thương, sự tôn trọng và tìm hiểu lẫn nhau."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hôn nhân tự nguyện, tiến bộ nghĩa là việc kết hôn do chính nam và nữ tự do quyết định, không bên nào được ép buộc, cưỡng ép hay sắp đặt; hôn nhân tiến bộ là hôn nhân phù hợp với điều kiện, tiêu chí mà pháp luật quy định. A và B biến hôn nhân thành việc định đoạt của gia đình, dòng họ; C hiểu sai vì tự nguyện không đồng nghĩa với việc được bỏ qua điều kiện kết hôn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Hôn nhân tự nguyện",
+        "Nguyên tắc cơ bản"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tắc một vợ một chồng, vợ chồng bình đẳng được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "trong gia đình, người vợ phải phục tùng ý kiến của người chồng trong mọi công việc chung."
+        },
+        {
+          "key": "B",
+          "text": "kết hôn chỉ được thực hiện theo chế độ một vợ một chồng; người đang có vợ, có chồng thì không được kết hôn hoặc chung sống như vợ chồng với người khác; vợ chồng ngang nhau về quyền và nghĩa vụ."
+        },
+        {
+          "key": "C",
+          "text": "một người được chung sống như vợ chồng với người khác nếu đã được vợ hoặc chồng mình đồng ý bằng lời nói."
+        },
+        {
+          "key": "D",
+          "text": "người chồng có quyền quyết định tài sản của gia đình, người vợ chỉ có quyền chăm lo đời sống hằng ngày."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nguyên tắc này gồm hai vế: hôn nhân một vợ một chồng, nghiêm cấm việc kết hôn hoặc chung sống như vợ chồng khi đang có vợ, có chồng; đồng thời vợ chồng bình đẳng về quyền và nghĩa vụ trong mọi mặt đời sống gia đình. A và D phủ nhận sự bình đẳng; C sai vì sự đồng ý bằng lời nói không làm cho việc chung sống như vợ chồng với người thứ ba trở nên hợp pháp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Một vợ một chồng",
+        "Vợ chồng bình đẳng"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về sự bình đẳng giữa vợ và chồng trong quan hệ nhân thân?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vợ, chồng bình đẳng với nhau trong việc lựa chọn nơi cư trú, học tập, chọn nghề nghiệp và tham gia các hoạt động chính trị, kinh tế, văn hoá, xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Người vợ phải cư trú theo gia đình chồng và chỉ được đi làm khi người chồng cho phép."
+        },
+        {
+          "key": "C",
+          "text": "Người chồng có quyền quyết định họ tên, tôn giáo và quê quán của cả hai vợ chồng."
+        },
+        {
+          "key": "D",
+          "text": "Vợ chồng không được tự do tham gia hoạt động xã hội khi gia đình còn con nhỏ chưa thành niên."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quan hệ nhân thân giữa vợ và chồng thể hiện ở việc hai bên bình đẳng về quyền và nghĩa vụ: cùng lựa chọn nơi cư trú, tôn trọng quyền tự do tín ngưỡng, học tập, nghề nghiệp và tham gia hoạt động xã hội. B ràng buộc nơi cư trú và việc làm của người vợ vào ý muốn của chồng; C gộp quyền nhân thân của một người vào người kia; D đặt ra điều kiện pháp luật không quy định.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Quan hệ nhân thân",
+        "Vợ chồng bình đẳng"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo quy định của pháp luật hiện hành, điều kiện về độ tuổi khi kết hôn được xác định là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nam và nữ đều phải từ đủ 18 tuổi trở lên và đã có việc làm ổn định."
+        },
+        {
+          "key": "B",
+          "text": "nam từ 18 tuổi trở lên, nữ từ 16 tuổi trở lên và được cha mẹ hai bên đồng ý."
+        },
+        {
+          "key": "C",
+          "text": "nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên."
+        },
+        {
+          "key": "D",
+          "text": "nam từ đủ 22 tuổi trở lên, nữ từ đủ 20 tuổi trở lên và có chỗ ở riêng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Pháp luật quy định nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên mới đủ điều kiện về độ tuổi kết hôn; quy định này nhằm bảo đảm sự trưởng thành về thể chất, tâm lí và khả năng thực hiện nghĩa vụ nuôi dạy con. A, B, D đều nêu sai cặp độ tuổi; kết hôn hoặc chung sống như vợ chồng khi một hoặc hai bên chưa đủ tuổi kết hôn là tảo hôn, bị pháp luật cấm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Điều kiện kết hôn",
+        "Tuổi kết hôn"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Tảo hôn là hành vi",
+      "options": [
+        {
+          "key": "A",
+          "text": "kết hôn giữa những người có họ trong phạm vi ba đời với nhau."
+        },
+        {
+          "key": "B",
+          "text": "người đang có vợ, có chồng mà kết hôn với một người khác."
+        },
+        {
+          "key": "C",
+          "text": "kết hôn mà không được cha mẹ hai bên đồng ý bằng lời nói trước khi cưới."
+        },
+        {
+          "key": "D",
+          "text": "kết hôn hoặc chung sống như vợ chồng giữa những người chưa đủ tuổi kết hôn theo quy định của pháp luật."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tảo hôn là việc kết hôn hoặc chung sống như vợ chồng giữa những người chưa đủ độ tuổi kết hôn mà pháp luật quy định; đây là hành vi bị nghiêm cấm vì ảnh hưởng tới sức khoẻ, việc học tập và sự phát triển của trẻ em. A là trường hợp cấm kết hôn do huyết thống; B là vi phạm chế độ một vợ một chồng; C không phải căn cứ pháp lí vì kết hôn do hai bên tự quyết định.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Tảo hôn",
+        "Hành vi bị cấm"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Cưỡng ép kết hôn là hành vi",
+      "options": [
+        {
+          "key": "A",
+          "text": "dùng lời lẽ thuyết phục để người mình yêu thương đồng ý kết hôn với mình."
+        },
+        {
+          "key": "B",
+          "text": "đe dọa, uy hiếp tinh thần, dùng vũ lực hoặc lợi dụng tình trạng lệ thuộc buộc người khác phải kết hôn trái với ý muốn của họ."
+        },
+        {
+          "key": "C",
+          "text": "cha mẹ phân tích, góp ý cho con về việc lựa chọn bạn đời dựa trên tìm hiểu của con."
+        },
+        {
+          "key": "D",
+          "text": "tổ chức lễ cưới khi một trong hai bên chưa đủ độ tuổi kết hôn theo quy định."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cưỡng ép kết hôn là dùng vũ lực, đe dọa, uy hiếp tinh thần hoặc buộc người khác kết hôn trái ý muốn của họ, xâm phạm nguyên tắc hôn nhân tự nguyện và bị pháp luật nghiêm cấm. A và C là thuyết phục, góp ý bình thường, không phải cưỡng ép; D là mô tả hành vi tảo hôn, không phải cưỡng ép kết hôn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Cưỡng ép kết hôn",
+        "Hành vi bị cấm"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Chị M và anh B tự nguyện kết hôn khi cả hai đều đủ điều kiện theo quy định. Cha mẹ chị M cấm không cho chị kết hôn vì anh B theo tôn giáo khác và gia đình khó khăn hơn. Hành vi của cha mẹ chị M là",
+      "options": [
+        {
+          "key": "A",
+          "text": "vi phạm quy định về tự do kết hôn, thuộc hành vi cản trở kết hôn hợp pháp của công dân."
+        },
+        {
+          "key": "B",
+          "text": "hoàn toàn đúng đắn vì cha mẹ có quyền quyết định hôn nhân của con chưa từng kết hôn."
+        },
+        {
+          "key": "C",
+          "text": "không bị coi là vi phạm vì cha mẹ chỉ thể hiện nguyện vọng của mình với con."
+        },
+        {
+          "key": "D",
+          "text": "vi phạm nguyên tắc một vợ một chồng và nguyên tắc vợ chồng bình đẳng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Việc dùng quyền uy của cha mẹ để cấm đoán, ngăn cản hai người đủ điều kiện kết hôn với nhau là hành vi cản trở kết hôn hợp pháp, bị pháp luật nghiêm cấm; sự khác biệt về tôn giáo, hoàn cảnh kinh tế không phải căn cứ để cấm kết hôn. B sai vì quyền quyết định hôn nhân thuộc về hai bên nam nữ; C bao biện cho hành vi cấm đoán đã vượt quá quyền góp ý; D xác định sai nguyên tắc bị vi phạm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Cản trở kết hôn",
+        "Tình huống hôn nhân"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Trường hợp nào sau đây thuộc những trường hợp pháp luật cấm kết hôn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Công dân Việt Nam kết hôn với người nước ngoài tại cơ quan có thẩm quyền của Việt Nam theo đúng thủ tục."
+        },
+        {
+          "key": "B",
+          "text": "Hai người thuộc hai dân tộc khác nhau tự nguyện kết hôn và thực hiện đăng kí kết hôn."
+        },
+        {
+          "key": "C",
+          "text": "Những người cùng dòng máu về trực hệ hoặc có họ trong phạm vi ba đời kết hôn với nhau."
+        },
+        {
+          "key": "D",
+          "text": "Hai người đều đủ điều kiện kết hôn, tự nguyện kết hôn và được cha mẹ hai bên đồng ý."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Pháp luật nghiêm cấm kết hôn hoặc chung sống như vợ chồng giữa những người cùng dòng máu về trực hệ, giữa những người có họ trong phạm vi ba đời, vì ảnh hưởng tới sức khoẻ, nòi giống, đạo đức và trật tự quản lí hôn nhân. A và B là những trường hợp được Nhà nước tôn trọng, bảo hộ khi tuân theo pháp luật Việt Nam; D là việc kết hôn hợp pháp, không thuộc diện cấm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Trường hợp cấm kết hôn",
+        "Điều kiện kết hôn"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo quy định của pháp luật hiện hành, thẩm quyền huỷ kết hôn trái pháp luật thuộc về",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uỷ ban nhân dân cấp xã nơi đã cấp giấy chứng nhận kết hôn cho hai bên."
+        },
+        {
+          "key": "B",
+          "text": "Toà án nhân dân theo trình tự, thủ tục do pháp luật quy định."
+        },
+        {
+          "key": "C",
+          "text": "Cơ quan công an quản lí cư trú của hai người đã kết hôn trái pháp luật."
+        },
+        {
+          "key": "D",
+          "text": "Cha mẹ hoặc người thân thích của bên bị vi phạm điều kiện kết hôn."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kết hôn trái pháp luật bị huỷ theo quyết định của Toà án; đây là việc giải quyết quan hệ nhân thân có ảnh hưởng tới quyền, nghĩa vụ của các bên và của con nên do cơ quan xét xử thực hiện. A sai vì cơ quan đăng kí kết hôn không có thẩm quyền huỷ việc kết hôn; C sai vì cơ quan quản lí cư trú không giải quyết quan hệ hôn nhân; D nhầm chủ thể có quyền yêu cầu với cơ quan có thẩm quyền huỷ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Kết hôn trái pháp luật",
+        "Thẩm quyền của Toà án"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo quy định của pháp luật, những người có quyền yêu cầu Toà án huỷ kết hôn trái pháp luật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ những người đang cùng chung sống như vợ chồng với hai bên kết hôn trái pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "chỉ người đã thực hiện thủ tục đăng kí kết hôn cho hai bên tại cơ quan có thẩm quyền."
+        },
+        {
+          "key": "C",
+          "text": "bất kì công dân nào khi phát hiện một cặp nam nữ sống chung với nhau mà chưa đăng kí kết hôn."
+        },
+        {
+          "key": "D",
+          "text": "người bị cưỡng ép, bị lừa dối kết hôn; cha mẹ, người thân thích của những người vi phạm và một số cơ quan, tổ chức do pháp luật quy định."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Pháp luật trao quyền yêu cầu huỷ kết hôn trái pháp luật cho người bị cưỡng ép, bị lừa dối kết hôn, cho cha mẹ, người thân thích của các bên và cho một số cơ quan, tổ chức có liên quan theo quy định; việc huỷ do Toà án giải quyết. A và C mở rộng quyền cho người không có liên quan, dễ dẫn tới tuỳ tiện; B nhầm cơ quan đăng kí kết hôn với chủ thể có quyền yêu cầu huỷ.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Huỷ kết hôn trái pháp luật",
+        "Chủ thể có quyền yêu cầu"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Chị K đã có chồng nhưng vẫn đăng kí kết hôn với anh Q; sau đó anh Q phát hiện và yêu cầu Toà án huỷ việc kết hôn. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toà án huỷ việc kết hôn trái pháp luật, buộc hai bên chấm dứt quan hệ như vợ chồng; quyền lợi của con và của bên ngay tình được giải quyết theo quy định của pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "Anh Q phải tiếp tục duy trì quan hệ vợ chồng vì giấy chứng nhận kết hôn đã được cấp là hợp lệ."
+        },
+        {
+          "key": "C",
+          "text": "Chị K không vi phạm gì vì việc kết hôn với anh Q hoàn toàn do hai bên tự nguyện."
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ giữa anh Q và chị K đương nhiên trở thành hợp pháp nếu hai bên đã chung sống với nhau một thời gian."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chị K đang có chồng mà vẫn kết hôn với anh Q nên việc kết hôn vi phạm chế độ một vợ một chồng và bị huỷ; hai bên phải chấm dứt quan hệ như vợ chồng, còn quyền lợi của con và của người không biết việc kết hôn là trái pháp luật được pháp luật bảo vệ. B nhầm giá trị của giấy đăng kí với điều kiện kết hôn hợp pháp; C bỏ qua điều kiện cấm đối với người đang có vợ, có chồng; D đặt ra căn cứ hợp thức hoá mà pháp luật không quy định.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Kết hôn trái pháp luật",
+        "Tình huống hôn nhân"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thể hiện quan hệ nhân thân giữa vợ và chồng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vợ, chồng cùng đứng tên trên giấy tờ của mọi tài sản mà gia đình đang sử dụng."
+        },
+        {
+          "key": "B",
+          "text": "Hai bên tôn trọng danh dự, nhân phẩm, tự do tín ngưỡng, tôn giáo của nhau và tạo điều kiện cho nhau học tập, làm nghề, tham gia hoạt động xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Hai bên thống nhất với nhau về số tiền chi tiêu của gia đình trong từng tháng."
+        },
+        {
+          "key": "D",
+          "text": "Người vợ có nghĩa vụ chăm lo việc nội trợ, người chồng có nghĩa vụ trả các khoản nợ của gia đình."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Quan hệ nhân thân là quan hệ về các giá trị tinh thần, về tên, tôn giáo, nơi cư trú, học tập, nghề nghiệp, tham gia hoạt động xã hội và sự tôn trọng danh dự, nhân phẩm giữa vợ và chồng. A và C thuộc quan hệ tài sản, quan hệ quản chi tiêu của gia đình; D gán nghĩa vụ theo giới, trái với nguyên tắc vợ chồng bình đẳng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Quan hệ nhân thân",
+        "Quyền và nghĩa vụ của vợ chồng"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Tài sản chung của vợ chồng gồm những tài sản nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tài sản mà mỗi bên đã có được trước khi kết hôn."
+        },
+        {
+          "key": "B",
+          "text": "Tài sản mà một bên được thừa kế riêng hoặc được cho, tặng riêng trong thời kì hôn nhân."
+        },
+        {
+          "key": "C",
+          "text": "Tài sản do vợ, chồng tạo ra trong thời kì hôn nhân, thu nhập do lao động, hoa lợi, lợi tức và tài sản được thừa kế chung, được cho, tặng chung."
+        },
+        {
+          "key": "D",
+          "text": "Đồ dùng, tư trang và trang sức phục vụ nhu cầu riêng thiết yếu của từng người."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tài sản chung của vợ chồng là tài sản có được trong thời kì hôn nhân do lao động, sản xuất, kinh doanh mà có, hoa lợi, lợi tức từ tài sản chung, tài sản được thừa kế chung hoặc được cho, tặng chung và tài sản mà hai bên thoả thuận là tài sản chung. A và B là tài sản riêng của mỗi bên; D cũng thuộc tài sản riêng vì là tư trang, đồ dùng phục vụ nhu cầu riêng thiết yếu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Tài sản chung của vợ chồng",
+        "Quan hệ tài sản"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Tài sản riêng của vợ hoặc chồng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tài sản mà mỗi bên có được trước khi kết hôn, tài sản được thừa kế riêng, được cho, tặng riêng trong thời kì hôn nhân."
+        },
+        {
+          "key": "B",
+          "text": "thu nhập do lao động của vợ hoặc chồng trong thời kì hôn nhân của hai người."
+        },
+        {
+          "key": "C",
+          "text": "căn nhà do hai vợ chồng cùng góp tiền mua và cùng đứng tên trên giấy tờ."
+        },
+        {
+          "key": "D",
+          "text": "tài sản mà hai bên đã thoả thuận nhập vào khối tài sản chung của gia đình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tài sản riêng của mỗi bên gồm tài sản có được trước khi kết hôn, tài sản được thừa kế riêng, được cho, tặng riêng trong thời kì hôn nhân, đồ dùng, tư trang phục vụ nhu cầu riêng và tài sản hình thành từ tài sản riêng. B và C là các trường hợp tài sản chung vì được tạo lập trong thời kì hôn nhân; D là tài sản đã chuyển thành tài sản chung theo thoả thuận.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Tài sản riêng",
+        "Quan hệ tài sản"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Trước khi kết hôn, chị H được bố mẹ cho riêng một căn nhà. Sau khi kết hôn, anh G và chị H cùng góp tiền mua một mảnh đất và đứng tên cả hai người. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cả căn nhà và mảnh đất đều là tài sản riêng của chị H vì chị H là người trực tiếp nhận cho, tặng từ bố mẹ."
+        },
+        {
+          "key": "B",
+          "text": "Căn nhà trở thành tài sản chung vì chị H đã sử dụng căn nhà đó trong suốt thời kì hôn nhân."
+        },
+        {
+          "key": "C",
+          "text": "Mảnh đất là tài sản riêng của anh G vì anh G là người trực tiếp đứng ra trả tiền mua đất."
+        },
+        {
+          "key": "D",
+          "text": "Căn nhà là tài sản riêng của chị H; mảnh đất là tài sản chung của hai vợ chồng vì được tạo lập trong thời kì hôn nhân và do cả hai cùng đứng tên."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Căn nhà chị H có được trước khi kết hôn do được bố mẹ cho riêng nên là tài sản riêng của chị H; mảnh đất mua trong thời kì hôn nhân, cả hai cùng góp tiền và cùng đứng tên nên là tài sản chung. A coi cả mảnh đất, vốn là tài sản chung, cũng thuộc sở hữu riêng của chị H; B cho rằng việc sử dụng trong thời kì hôn nhân làm chuyển đổi tài sản riêng thành tài sản chung; C nhầm người trực tiếp trả tiền với chủ sở hữu duy nhất của tài sản chung.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Tài sản chung và tài sản riêng",
+        "Tình huống quan hệ tài sản"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Nghĩa vụ của cha mẹ đối với con chưa thành niên được pháp luật quy định là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cho con ăn học đến hết bậc trung học cơ sở rồi để con tự kiếm sống, tự lập sớm."
+        },
+        {
+          "key": "B",
+          "text": "được quyền quyết định mọi công việc của con mà không cần lắng nghe nguyện vọng của con."
+        },
+        {
+          "key": "C",
+          "text": "nuôi dưỡng, chăm lo việc học tập và giáo dục để con phát triển lành mạnh, bảo vệ quyền và lợi ích hợp pháp của con."
+        },
+        {
+          "key": "D",
+          "text": "chỉ lo về vật chất cho con, còn việc giáo dục nhân cách hoàn toàn do nhà trường chịu trách nhiệm."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cha mẹ có nghĩa vụ nuôi dưỡng con chưa thành niên, chăm lo việc học tập và giáo dục để con phát triển về thể chất, trí tuệ, nhân cách; đồng thời bảo vệ quyền và lợi ích hợp pháp của con, đại diện cho con theo quy định của pháp luật. A giới hạn thời gian nuôi dạy con mà pháp luật không cho phép; B phủ nhận quyền được tôn trọng, lắng nghe của con; D tách rời trách nhiệm giáo dục của gia đình khỏi trách nhiệm của cha mẹ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ của cha mẹ",
+        "Quan hệ cha mẹ và con"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo pháp luật về hôn nhân và gia đình, con có quyền và nghĩa vụ nào sau đây đối với cha mẹ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kính trọng, chăm sóc, nuôi dưỡng cha mẹ; cư xử tốt với cha mẹ, không được có hành vi ngược đãi hoặc xúc phạm cha mẹ."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ có nghĩa vụ phụng dưỡng cha mẹ khi cha mẹ để lại cho mình phần tài sản lớn."
+        },
+        {
+          "key": "C",
+          "text": "Tuân theo mọi quyết định của cha mẹ, kể cả quyết định buộc con làm điều trái pháp luật."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ có nghĩa vụ với cha mẹ ruột; cha mẹ nuôi, cha mẹ kế không đặt ra nghĩa vụ nuôi dưỡng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Con có bổn phận kính trọng, chăm sóc, nuôi dưỡng cha mẹ và được pháp luật nghiêm cấm hành vi ngược đãi, xúc phạm cha mẹ; nghĩa vụ này không phụ thuộc vào việc cha mẹ có tài sản để lại hay không. B gắn nghĩa vụ làm người với điều kiện tài sản; C hiểu sai vì con không phải làm điều trái pháp luật theo yêu cầu của cha mẹ; D sai vì quan hệ quyền, nghĩa vụ được xác lập cả giữa cha mẹ nuôi với con nuôi.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ của con",
+        "Quan hệ cha mẹ và con"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng về quyền bình đẳng giữa các con trong gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Con trai cả được hưởng phần tài sản nhiều hơn và quyết định mọi công việc của gia đình."
+        },
+        {
+          "key": "B",
+          "text": "Cha mẹ không được phân biệt đối xử giữa các con; các con đều có quyền và nghĩa vụ như nhau đối với cha mẹ."
+        },
+        {
+          "key": "C",
+          "text": "Con nuôi chỉ được coi là thành viên của gia đình khi được cha mẹ cho tài sản riêng."
+        },
+        {
+          "key": "D",
+          "text": "Con gái đã lập gia đình riêng thì không còn nghĩa vụ chăm sóc, nuôi dưỡng cha mẹ đẻ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Pháp luật nghiêm cấm cha mẹ phân biệt đối xử giữa các con, cấm ngược đãi, ép buộc con làm điều trái pháp luật và trái đạo đức; các con dù là con ruột hay con nuôi, con trai hay con gái đều có quyền và nghĩa vụ như nhau đối với cha mẹ. A áp dụng tập quán trọng con trai cả; C đặt thêm điều kiện tài sản cho tư cách thành viên gia đình của con nuôi; D phủ nhận nghĩa vụ nuôi dưỡng cha mẹ của con gái đã lấy chồng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bình đẳng giữa các con",
+        "Quan hệ cha mẹ và con"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo pháp luật, quan hệ giữa ông bà nội, ông bà ngoại với cháu được thể hiện như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ông bà chỉ có nghĩa vụ trông nom, nuôi dưỡng cháu khi được cha mẹ trả công lao động."
+        },
+        {
+          "key": "B",
+          "text": "Cháu không có nghĩa vụ gì với ông bà vì nghĩa vụ nuôi dưỡng chỉ đặt ra đối với cha mẹ."
+        },
+        {
+          "key": "C",
+          "text": "Khi cháu chưa thành niên không còn cha mẹ hoặc không có điều kiện nuôi dưỡng, ông bà có nghĩa vụ nuôi dưỡng cháu; cháu có bổn phận yêu quý, kính trọng, chăm sóc, nuôi dưỡng ông bà."
+        },
+        {
+          "key": "D",
+          "text": "Ông bà phải nuôi dưỡng toàn bộ cháu nội, cháu ngoại cho đến khi các cháu đủ 22 tuổi."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nghĩa vụ nuôi dưỡng giữa ông bà và cháu là nghĩa vụ nuôi dưỡng có điều kiện: ông bà nuôi cháu chưa thành niên khi cháu không còn cha mẹ hoặc cha mẹ không có khả năng, điều kiện nuôi dưỡng; chiều ngược lại, cháu có bổn phận chăm sóc, nuôi dưỡng ông bà. A biến nghĩa vụ nuôi dưỡng thành quan hệ thuê mướn; B phủ nhận quan hệ nuôi dưỡng giữa các thế hệ trong gia đình; D mở rộng nghĩa vụ tới mọi cháu và tới độ tuổi mà pháp luật không quy định.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ nuôi dưỡng",
+        "Quan hệ ông bà và cháu"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Anh chị em trong gia đình có quyền và nghĩa vụ với nhau như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chị cả đã đi làm phải thay cha mẹ trả toàn bộ chi phí học tập của các em."
+        },
+        {
+          "key": "B",
+          "text": "Anh đã lập gia đình riêng thì không còn quan hệ nghĩa vụ với các em chưa thành niên."
+        },
+        {
+          "key": "C",
+          "text": "Anh chị em chỉ phải nuôi dưỡng nhau khi đã được cha mẹ chia cho phần tài sản chung."
+        },
+        {
+          "key": "D",
+          "text": "Anh chị em có nghĩa vụ thương yêu, chăm sóc, giúp đỡ và nuôi dưỡng lẫn nhau, nhất là khi không còn cha mẹ hoặc cha mẹ không có điều kiện nuôi dưỡng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Anh chị em có nghĩa vụ thương yêu, chăm sóc, nuôi dưỡng và giúp đỡ lẫn nhau; nghĩa vụ nuôi dưỡng giữa anh chị em được đặt ra khi anh chị em không còn cha mẹ hoặc cha mẹ không có khả năng, điều kiện nuôi dưỡng. A áp đặt nghĩa vụ của cha mẹ lên một người con cả; B và C gắn nghĩa vụ nuôi dưỡng với tình trạng hôn nhân hoặc với việc được chia tài sản, điều pháp luật không quy định.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ nuôi dưỡng",
+        "Quan hệ anh chị em"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo quy định của pháp luật về quyền yêu cầu giải quyết ly hôn, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ khi cả hai vợ chồng cùng làm đơn yêu cầu thì Toà án mới xem xét việc ly hôn."
+        },
+        {
+          "key": "B",
+          "text": "Cha mẹ của một bên vợ hoặc chồng là chủ thể duy nhất có quyền yêu cầu giải quyết ly hôn."
+        },
+        {
+          "key": "C",
+          "text": "Vì vợ, chồng đều bình đẳng về quyền yêu cầu nên người chồng vẫn có quyền yêu cầu ly hôn khi vợ đang mang thai."
+        },
+        {
+          "key": "D",
+          "text": "Vợ, chồng hoặc cả hai người có quyền yêu cầu Toà án giải quyết ly hôn; người chồng không có quyền yêu cầu ly hôn khi vợ đang mang thai hoặc đang nuôi con dưới 12 tháng tuổi."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Pháp luật cho phép vợ, chồng hoặc cả hai người yêu cầu Toà án giải quyết ly hôn; đồng thời đặt ra hạn chế đối với người chồng khi vợ đang mang thai hoặc đang nuôi con dưới 12 tháng tuổi nhằm bảo vệ quyền lợi của người mẹ và trẻ nhỏ. A sai vì ly hôn có thể do một bên yêu cầu; B thu hẹp sai chủ thể có quyền yêu cầu; C phủ nhận hạn chế mà pháp luật quy định để bảo vệ phụ nữ và trẻ em.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Ly hôn",
+        "Quyền yêu cầu giải quyết ly hôn"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-10",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các nguyên tắc cơ bản của chế độ hôn nhân và gia đình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hôn nhân tự nguyện, tiến bộ; một vợ một chồng; vợ chồng bình đẳng."
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ hôn nhân hợp pháp giữa công dân Việt Nam với người nước ngoài, giữa người thuộc các dân tộc, tôn giáo khác nhau được pháp luật Việt Nam tôn trọng và bảo hộ."
+        },
+        {
+          "key": "C",
+          "text": "Kết hôn là quyền cá nhân nên vợ, chồng không bị ràng buộc bởi nghĩa vụ nào đối với gia đình sau khi cưới."
+        },
+        {
+          "key": "D",
+          "text": "Người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác là vi phạm chế độ hôn nhân một vợ một chồng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A nêu đúng các nguyên tắc cốt lõi về hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng; B phản ánh việc Nhà nước tôn trọng, bảo hộ các quan hệ hôn nhân hợp pháp, kể cả hôn nhân khác dân tộc, tôn giáo hoặc có yếu tố nước ngoài khi tuân theo pháp luật Việt Nam; D là nội dung cấm để bảo vệ nguyên tắc một vợ một chồng. C sai vì quyền tự do kết hôn luôn đi kèm nghĩa vụ nuôi dưỡng, thương yêu, cùng xây dựng gia đình mà pháp luật quy định.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nguyên tắc hôn nhân và gia đình",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-10",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về quyền và nghĩa vụ giữa cha mẹ và con?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cha mẹ có nghĩa vụ nuôi dưỡng, chăm lo việc học tập, giáo dục con chưa thành niên và bảo vệ quyền, lợi ích hợp pháp của con."
+        },
+        {
+          "key": "B",
+          "text": "Cha mẹ được quyền ép con chưa đủ tuổi kết hôn phải kết hôn nếu thấy hoàn cảnh gia đình của người kia tốt."
+        },
+        {
+          "key": "C",
+          "text": "Con chưa thành niên được cha mẹ nuôi dưỡng, giáo dục và có quyền được cha mẹ lắng nghe, tôn trọng ý kiến phù hợp với lứa tuổi."
+        },
+        {
+          "key": "D",
+          "text": "Con có bổn phận kính trọng, chăm sóc, nuôi dưỡng cha mẹ và không được có hành vi ngược đãi, xúc phạm cha mẹ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A và C thể hiện nghĩa vụ nuôi dưỡng, giáo dục, bảo vệ quyền lợi của cha mẹ và quyền được tôn trọng, lắng nghe của con; D thể hiện bổn phận kính trọng, chăm sóc, nuôi dưỡng cha mẹ của con, đồng thời pháp luật nghiêm cấm hành vi ngược đãi cha mẹ. B sai vì ép con chưa đủ tuổi kết hôn vừa là cưỡng ép kết hôn vừa là tảo hôn, thuộc những hành vi bị nghiêm cấm.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Quan hệ cha mẹ và con",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-10",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về quan hệ tài sản giữa vợ và chồng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mọi tài sản mà vợ, chồng đang quản lí đều là tài sản chung, không phân biệt nguồn gốc và thời điểm xác lập."
+        },
+        {
+          "key": "B",
+          "text": "Vợ, chồng bình đẳng với nhau về quyền, nghĩa vụ trong việc chiếm hữu, sử dụng và định đoạt tài sản chung."
+        },
+        {
+          "key": "C",
+          "text": "Thu nhập do lao động, hoạt động sản xuất, kinh doanh và hoa lợi, lợi tức phát sinh trong thời kì hôn nhân là tài sản chung của vợ chồng."
+        },
+        {
+          "key": "D",
+          "text": "Tài sản mà mỗi bên có được trước khi kết hôn hoặc được thừa kế riêng, được cho, tặng riêng trong thời kì hôn nhân là tài sản riêng của bên đó."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "B thể hiện quyền bình đẳng của vợ chồng đối với tài sản chung; C nêu đúng nguồn của tài sản chung trong thời kì hôn nhân; D nêu đúng các trường hợp tài sản riêng của mỗi bên theo quy định của pháp luật. A sai vì pháp luật phân định tài sản chung và tài sản riêng căn cứ vào nguồn gốc và thời điểm xác lập, không phải mọi tài sản trong gia đình đều là tài sản chung.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Quan hệ tài sản giữa vợ chồng",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b10-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-10",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Chị T và anh N kết hôn hợp pháp. Sau khi cưới, anh N nhiều lần đánh đập chị T, cấm chị đi làm và tự ý bán thửa ruộng mà bố mẹ chị T cho riêng chị trước khi kết hôn để lấy tiền tiêu xài. Cha mẹ anh N cho rằng con dâu chỉ có nghĩa vụ ở nhà phục vụ, không được tham gia quyết định công việc của gia đình. Những nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anh N vi phạm nguyên tắc vợ chồng bình đẳng và có hành vi ngược đãi, xâm phạm thân thể thành viên gia đình bị pháp luật nghiêm cấm."
+        },
+        {
+          "key": "B",
+          "text": "Việc anh N tự ý bán thửa ruộng bố mẹ chị T cho riêng chị trước khi kết hôn là xâm phạm quyền sở hữu tài sản riêng của chị T."
+        },
+        {
+          "key": "C",
+          "text": "Cha mẹ anh N có quyền buộc con dâu nghỉ việc ở nhà phục vụ vì đó là nghĩa vụ mặc nhiên của người vợ trong gia đình."
+        },
+        {
+          "key": "D",
+          "text": "Chị T có quyền tự mình yêu cầu cơ quan, tổ chức, Toà án có thẩm quyền bảo vệ quyền, lợi ích hợp pháp của mình và có quyền yêu cầu Toà án giải quyết ly hôn."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "A đúng vì đánh đập, cấm đoán vợ đi làm là hành vi ngược đãi, vi phạm bình đẳng giữa vợ và chồng; B đúng vì thửa ruộng được bố mẹ chị T cho riêng trước khi kết hôn là tài sản riêng, anh N không có quyền định đoạt; D đúng vì người có quyền, lợi ích hợp pháp bị xâm phạm được pháp luật bảo vệ, trong đó có quyền yêu cầu Toà án giải quyết ly hôn. C sai vì pháp luật không đặt ra nghĩa vụ phục vụ mặc nhiên của người vợ và cha mẹ chồng không có quyền ép con dâu nghỉ việc.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tình huống hôn nhân và gia đình",
+        "Nhận định đúng",
+        "Vận dụng cao"
+      ]
+    }
+  ]
+}

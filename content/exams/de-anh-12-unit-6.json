@@ -1,0 +1,1397 @@
+{
+  "id": "de-anh-12-unit-6",
+  "title": "Đề ôn tập Tiếng Anh 12 – Unit 6: Artificial intelligence",
+  "slug": "de-anh-12-unit-6",
+  "description": "Đề ôn tập Unit 6 sách Tiếng Anh 12 (Global Success) – Artificial intelligence: trí tuệ nhân tạo trong học tập và đời sống, robot, tự động hoá, dữ liệu và đạo đức công nghệ. Trọng tâm là thì tương lai tiếp diễn (will be + V-ing) và tương lai hoàn thành (will have + V3) với mốc by, mệnh đề quan hệ rút gọn bằng V-ing, V3 và being + V3, word formation trong chủ đề công nghệ (efficiency, automatically, innovation), cùng các cụm động từ và giới từ thường gặp như keep up with, rely on, turn into, take the place of. Đề gồm 40 câu trắc nghiệm làm trong 45 phút theo thang điểm 10, mỗi câu đều có đáp án kèm giải thích ngắn bằng tiếng Việt.",
+  "subject": "tieng-anh",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "EN12-U6",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "de-anh-12-unit-6-c1",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "**s**cience"
+        },
+        {
+          "key": "B",
+          "text": "**s**ure"
+        },
+        {
+          "key": "C",
+          "text": "**s**oftware"
+        },
+        {
+          "key": "D",
+          "text": "**s**ystem"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chữ s trong sure đọc là /ʃ/ (/ʃʊə(r)/), còn science /ˈsaɪəns/, software /ˈsɒftweə(r)/ và system /ˈsɪstəm/ đều đọc là /s/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "phát âm phụ âm s"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c2",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân (đuôi -ed) đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "automat**ed**"
+        },
+        {
+          "key": "B",
+          "text": "updat**ed**"
+        },
+        {
+          "key": "C",
+          "text": "design**ed**"
+        },
+        {
+          "key": "D",
+          "text": "invent**ed**"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Designed đọc là /dɪˈzaɪnd/, đuôi -ed là /d/ vì động từ kết thúc bằng hữu thanh /z/. Automated /ˈɔːtəmeɪtɪd/, updated /ʌpˈdeɪtɪd/, invented /ɪnˈventɪd/ đều đọc là /ɪd/ vì kết thúc bằng /t/.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "phát âm đuôi -ed"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c3",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "te**ch**nique"
+        },
+        {
+          "key": "B",
+          "text": "ma**ch**ine"
+        },
+        {
+          "key": "C",
+          "text": "**ch**emical"
+        },
+        {
+          "key": "D",
+          "text": "**ch**aracter"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ch trong machine đọc là /ʃ/ (/məˈʃiːn/), còn technique /tekˈniːk/, chemical /ˈkemɪkl/ và character /ˈkærəktə(r)/ đều đọc là /k/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "phát âm phụ âm ch"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c4",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "dev**i**ce"
+        },
+        {
+          "key": "B",
+          "text": "art**i**ficial"
+        },
+        {
+          "key": "C",
+          "text": "d**i**gital"
+        },
+        {
+          "key": "D",
+          "text": "prof**i**cient"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chữ i trong device đọc là /aɪ/ (/dɪˈvaɪs/), còn artificial /ɑːtɪˈfɪʃl/, digital /ˈdɪdʒɪtl/ và proficient /prəˈfɪʃnt/ đều có âm /ɪ/ ở vị trí gạch chân.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "phát âm nguyên âm i"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c5",
+      "partName": "Phần I. Phát âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "ma**th**ematics"
+        },
+        {
+          "key": "B",
+          "text": "heal**th**"
+        },
+        {
+          "key": "C",
+          "text": "**th**inking"
+        },
+        {
+          "key": "D",
+          "text": "algori**th**m"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Th trong algorithm đọc là /ð/ (/ˈælɡərɪðəm/), còn mathematics /mæθˈmætɪks/, health /helθ/ và thinking /ˈθɪŋkɪŋ/ đều đọc là /θ/.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "phát âm phụ âm th"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c6",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có trọng âm chính rơi vào âm tiết khác những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "replace"
+        },
+        {
+          "key": "B",
+          "text": "network"
+        },
+        {
+          "key": "C",
+          "text": "database"
+        },
+        {
+          "key": "D",
+          "text": "keyboard"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Replace /rɪˈpleɪs/ nhấn âm 2; network /ˈnetwɜːk/, database /ˈdeɪtəbeɪs/, keyboard /ˈkiːbɔːd/ đều nhấn âm 1.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "trọng âm từ hai âm tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c7",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có trọng âm chính rơi vào âm tiết khác những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "automatic"
+        },
+        {
+          "key": "B",
+          "text": "artificial"
+        },
+        {
+          "key": "C",
+          "text": "technology"
+        },
+        {
+          "key": "D",
+          "text": "innovation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Technology /tekˈnɒlədʒi/ nhấn âm 2 trong bốn âm tiết; automatic /ˌɔːtəˈmætɪk/, artificial /ɑːtɪˈfɪʃl/, innovation /ˌɪnəˈveɪʃn/ đều nhấn âm 3.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "trọng âm từ bốn âm tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c8",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có trọng âm chính rơi vào âm tiết khác những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "efficient"
+        },
+        {
+          "key": "B",
+          "text": "reliable"
+        },
+        {
+          "key": "C",
+          "text": "intelligent"
+        },
+        {
+          "key": "D",
+          "text": "benefit"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Benefit /ˈbenɪfɪt/ nhấn âm 1; efficient /ɪˈfɪʃnt/, reliable /rɪˈlaɪəbl/, intelligent /ɪnˈtelɪdʒənt/ đều nhấn âm 2.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "trọng âm từ ba âm tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c9",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có trọng âm chính rơi vào âm tiết khác những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "robot"
+        },
+        {
+          "key": "B",
+          "text": "control"
+        },
+        {
+          "key": "C",
+          "text": "perform"
+        },
+        {
+          "key": "D",
+          "text": "decide"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Robot /ˈrəʊbɒt/ nhấn âm 1; control /kənˈtrəʊl/, perform /pəˈfɔːm/, decide /dɪˈsaɪd/ đều nhấn âm 2.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "trọng âm từ hai âm tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c10",
+      "partName": "Phần II. Trọng âm",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Chọn từ có trọng âm chính rơi vào âm tiết khác những từ còn lại.**",
+      "options": [
+        {
+          "key": "A",
+          "text": "create"
+        },
+        {
+          "key": "B",
+          "text": "improve"
+        },
+        {
+          "key": "C",
+          "text": "solar"
+        },
+        {
+          "key": "D",
+          "text": "reduce"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C. solar /ˈsəʊlə(r)/ nhấn âm tiết thứ nhất; create /kriˈeɪt/, improve /ɪmˈpruːv/ và reduce /rɪˈdjuːs/ đều nhấn âm tiết thứ hai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "trọng âm từ ghép"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c11",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "By the end of next year, the company ______ its first home robot.",
+      "options": [
+        {
+          "key": "A",
+          "text": "released"
+        },
+        {
+          "key": "B",
+          "text": "will have released"
+        },
+        {
+          "key": "C",
+          "text": "will be releasing"
+        },
+        {
+          "key": "D",
+          "text": "is releasing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mốc By the end of next year đòi hỏi tương lai hoàn thành will + have + V3 để nói hành động sẽ hoàn tất trước một thời điểm tương lai. released là quá khứ đơn, will be releasing nhấn mạnh đang diễn ra, is releasing mô tả chuyện đang xảy ra ngay bây giờ nên đều sai.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "tương lai hoàn thành"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c12",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "This time next month, our class ______ with a virtual assistant in the English lesson.",
+      "options": [
+        {
+          "key": "A",
+          "text": "work"
+        },
+        {
+          "key": "B",
+          "text": "will have worked"
+        },
+        {
+          "key": "C",
+          "text": "will be working"
+        },
+        {
+          "key": "D",
+          "text": "worked"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "This time next month chỉ một thời điểm cụ thể trong tương lai nên cần tương lai tiếp diễn will be + V-ing. work là hiện tại đơn, will have worked nói về kết quả trước một mốc, worked là quá khứ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "tương lai tiếp diễn"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c13",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "Please don't call me at eight tonight. I ______ the new learning app with my brother.",
+      "options": [
+        {
+          "key": "A",
+          "text": "will be testing"
+        },
+        {
+          "key": "B",
+          "text": "will test"
+        },
+        {
+          "key": "C",
+          "text": "will have tested"
+        },
+        {
+          "key": "D",
+          "text": "have tested"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giờ eight tonight là một thời điểm đang được nói tới trong tương lai, hành động sẽ đang diễn ra lúc đó nên dùng will be testing. will test chỉ dự định chung, will have tested cần mốc by, have tested là thì hiện tại hoàn thành.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "tương lai tiếp diễn"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c14",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "By 2035, many experts believe that AI ______ most routine office jobs.",
+      "options": [
+        {
+          "key": "A",
+          "text": "replaces"
+        },
+        {
+          "key": "B",
+          "text": "will have replaced"
+        },
+        {
+          "key": "C",
+          "text": "will be replacing"
+        },
+        {
+          "key": "D",
+          "text": "is replacing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "By + mốc thời gian tương lai (By 2035) là dấu hiệu của tương lai hoàn thành: will have replaced. replaces và is replacing nói ở hiện tại, will be replacing chỉ hành động sẽ đang tiếp diễn chứ không phải đã hoàn tất.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "tương lai hoàn thành"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c15",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "The students ______ in the school robotics contest will receive a certificate.",
+      "options": [
+        {
+          "key": "A",
+          "text": "participate"
+        },
+        {
+          "key": "B",
+          "text": "participated"
+        },
+        {
+          "key": "C",
+          "text": "participating"
+        },
+        {
+          "key": "D",
+          "text": "to participating"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rút gọn mệnh đề quan hệ chủ động: The students who participate in the contest rút thành The students participating in the contest. participate và participated tạo thành hai động từ chia thì trong cùng một câu, to participating không đúng ngữ pháp.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "mệnh đề quan hệ rút gọn"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c16",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "The robot ______ in this lab can sort two kinds of plastic in a second.",
+      "options": [
+        {
+          "key": "A",
+          "text": "developing"
+        },
+        {
+          "key": "B",
+          "text": "developed"
+        },
+        {
+          "key": "C",
+          "text": "which developed"
+        },
+        {
+          "key": "D",
+          "text": "to developing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Robot được con người phát triển nên là nghĩa bị động: The robot which was developed in this lab rút gọn thành The robot developed in this lab. developing cho nghĩa chủ động, which developed thiếu was và sai nghĩa, to developing không có cấu trúc này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "mệnh đề quan hệ rút gọn"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c17",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "The app ______ by our IT team this week will be opened to all students next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "being tested"
+        },
+        {
+          "key": "B",
+          "text": "been tested"
+        },
+        {
+          "key": "C",
+          "text": "testing"
+        },
+        {
+          "key": "D",
+          "text": "to test"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "The app being tested this week là dạng rút gọn của The app which is being tested this week: đang được thử nghiệm ngay lúc nói. been tested thiếu trợ động từ has/had, testing là chủ động (app không tự test), to test chỉ mục đích hoặc tương lai.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "mệnh đề quan hệ rút gọn bị động"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c18",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "The ______ of the new system is much higher than that of the old one.",
+      "options": [
+        {
+          "key": "A",
+          "text": "efficient"
+        },
+        {
+          "key": "B",
+          "text": "efficiency"
+        },
+        {
+          "key": "C",
+          "text": "efficiently"
+        },
+        {
+          "key": "D",
+          "text": "inefficient"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sau The và trước of cần một danh từ, nên efficiency (hiệu suất) là đúng. efficient và inefficient là tính từ, efficiently là trạng từ; mặt khác higher than that of the old one cho thấy nghĩa khẳng định chứ không phải tiêu cực.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "word formation danh từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c19",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "These drones can ______ fly medicine to villages that roads cannot reach.",
+      "options": [
+        {
+          "key": "A",
+          "text": "automate"
+        },
+        {
+          "key": "B",
+          "text": "automatic"
+        },
+        {
+          "key": "C",
+          "text": "automation"
+        },
+        {
+          "key": "D",
+          "text": "automatically"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chỗ trống đứng giữa can và động từ fly nên cần trạng từ: automatically (một cách tự động). automate là động từ nguyên thể, automatic là tính từ, automation là danh từ nên không bổ nghĩa cho fly.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "word formation trạng từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c20",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "Workers need to learn new skills if they want to keep ______ with fast-changing technology.",
+      "options": [
+        {
+          "key": "A",
+          "text": "up"
+        },
+        {
+          "key": "B",
+          "text": "on"
+        },
+        {
+          "key": "C",
+          "text": "in"
+        },
+        {
+          "key": "D",
+          "text": "off"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cụm cố định keep up with = theo kịp. keep on + V-ing là tiếp tục làm gì, keep in không đi với with trong nghĩa này, keep off = tránh xa; cả ba đều không hợp ngữ cảnh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "cụm động từ keep up with"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c21",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "A good teacher will not rely ______ a machine to judge whether an essay is well written.",
+      "options": [
+        {
+          "key": "A",
+          "text": "in"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "on"
+        },
+        {
+          "key": "D",
+          "text": "for"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Động từ rely đi với giới từ on: rely on something/somebody = dựa vào. in, at, for không kết hợp được với rely.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "giới từ đi với động từ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c22",
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "A ______ is a simple computer program that chats with users and answers their everyday questions.",
+      "options": [
+        {
+          "key": "A",
+          "text": "chip"
+        },
+        {
+          "key": "B",
+          "text": "camera"
+        },
+        {
+          "key": "C",
+          "text": "cable"
+        },
+        {
+          "key": "D",
+          "text": "chatbot"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chương trình trò chuyện và trả lời câu hỏi của người dùng là chatbot. chip là vi mạch, camera là máy quay, cable là dây cáp; cả ba đều là phần cứng nên không khớp định nghĩa trong câu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "từ vựng công nghệ"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c23",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Artificial intelligence is no longer a dream from science-fiction films; it has quietly become part of an ordinary school day. A modern phone can (23) ______ speech into text and translate a sentence in seconds, so learners have more time to practise speaking. Language apps look at the mistakes a student makes and then (24) ______ extra exercises for those weak points. This does not mean that robots will (25) ______ the place of teachers, because a machine cannot notice when a teenager is tired or worried. What it does mean is that both teachers and students will have to learn to (26) ______ with such tools wisely and check the answers they receive. By next year, our school (27) ______ a rule that every AI task must show where the information came from. Like every new tool, this one works best when a human stays in (28) ______ and asks the final question.*\n\nChọn phương án đúng nhất cho chỗ trống **(23)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "get"
+        },
+        {
+          "key": "B",
+          "text": "put"
+        },
+        {
+          "key": "C",
+          "text": "turn"
+        },
+        {
+          "key": "D",
+          "text": "take"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cấu trúc turn something into something = biến đổi cái gì thành cái gì, nên turn speech into text (chuyển giọng nói thành văn bản) là đúng. get, put, take đều không đi với into theo nghĩa chuyển đổi này.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "cloze trí tuệ nhân tạo",
+        "cấu trúc turn into"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c24",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Artificial intelligence is no longer a dream from science-fiction films; it has quietly become part of an ordinary school day. A modern phone can (23) ______ speech into text and translate a sentence in seconds, so learners have more time to practise speaking. Language apps look at the mistakes a student makes and then (24) ______ extra exercises for those weak points. This does not mean that robots will (25) ______ the place of teachers, because a machine cannot notice when a teenager is tired or worried. What it does mean is that both teachers and students will have to learn to (26) ______ with such tools wisely and check the answers they receive. By next year, our school (27) ______ a rule that every AI task must show where the information came from. Like every new tool, this one works best when a human stays in (28) ______ and asks the final question.*\n\nChọn phương án đúng nhất cho chỗ trống **(24)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "forget"
+        },
+        {
+          "key": "B",
+          "text": "refuse"
+        },
+        {
+          "key": "C",
+          "text": "copy"
+        },
+        {
+          "key": "D",
+          "text": "suggest"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đoạn văn nói ứng dụng xem học sinh sai ở đâu rồi đưa thêm bài tập cho đúng chỗ yếu đó, nên suggest (gợi ý) là hợp nghĩa. forget và refuse mang tiêu cực vô lý; copy thì ứng dụng không sao chép bài tập cho chỗ yếu.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "cloze trí tuệ nhân tạo",
+        "từ vựng giáo dục"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c25",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Artificial intelligence is no longer a dream from science-fiction films; it has quietly become part of an ordinary school day. A modern phone can (23) ______ speech into text and translate a sentence in seconds, so learners have more time to practise speaking. Language apps look at the mistakes a student makes and then (24) ______ extra exercises for those weak points. This does not mean that robots will (25) ______ the place of teachers, because a machine cannot notice when a teenager is tired or worried. What it does mean is that both teachers and students will have to learn to (26) ______ with such tools wisely and check the answers they receive. By next year, our school (27) ______ a rule that every AI task must show where the information came from. Like every new tool, this one works best when a human stays in (28) ______ and asks the final question.*\n\nChọn phương án đúng nhất cho chỗ trống **(25)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "take"
+        },
+        {
+          "key": "B",
+          "text": "make"
+        },
+        {
+          "key": "C",
+          "text": "do"
+        },
+        {
+          "key": "D",
+          "text": "get"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thành ngữ take the place of somebody = thay thế ai, khớp với ý robot không thay được giáo viên. make the place, do the place, get the place đều không phải thành ngữ có sẵn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "cloze trí tuệ nhân tạo",
+        "thành ngữ take the place of"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c26",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Artificial intelligence is no longer a dream from science-fiction films; it has quietly become part of an ordinary school day. A modern phone can (23) ______ speech into text and translate a sentence in seconds, so learners have more time to practise speaking. Language apps look at the mistakes a student makes and then (24) ______ extra exercises for those weak points. This does not mean that robots will (25) ______ the place of teachers, because a machine cannot notice when a teenager is tired or worried. What it does mean is that both teachers and students will have to learn to (26) ______ with such tools wisely and check the answers they receive. By next year, our school (27) ______ a rule that every AI task must show where the information came from. Like every new tool, this one works best when a human stays in (28) ______ and asks the final question.*\n\nChọn phương án đúng nhất cho chỗ trống **(26)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "speak"
+        },
+        {
+          "key": "B",
+          "text": "work"
+        },
+        {
+          "key": "C",
+          "text": "play"
+        },
+        {
+          "key": "D",
+          "text": "argue"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Work with something = làm việc, cộng tác với công cụ nào đó; thầy và trò phải học cách dùng công cụ AI một cách khôn ngoan. speak with và argue with chỉ dành cho người, play with mang nghĩa chơi với đồ vật nên không hợp.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "cloze trí tuệ nhân tạo",
+        "collocation work with"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c27",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Artificial intelligence is no longer a dream from science-fiction films; it has quietly become part of an ordinary school day. A modern phone can (23) ______ speech into text and translate a sentence in seconds, so learners have more time to practise speaking. Language apps look at the mistakes a student makes and then (24) ______ extra exercises for those weak points. This does not mean that robots will (25) ______ the place of teachers, because a machine cannot notice when a teenager is tired or worried. What it does mean is that both teachers and students will have to learn to (26) ______ with such tools wisely and check the answers they receive. By next year, our school (27) ______ a rule that every AI task must show where the information came from. Like every new tool, this one works best when a human stays in (28) ______ and asks the final question.*\n\nChọn phương án đúng nhất cho chỗ trống **(27)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "introduce"
+        },
+        {
+          "key": "B",
+          "text": "introduced"
+        },
+        {
+          "key": "C",
+          "text": "are introducing"
+        },
+        {
+          "key": "D",
+          "text": "will have introduced"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "By next year là mốc tương lai nên động từ phải ở tương lai hoàn thành: will have introduced. introduce sai hòa hợp với chủ ngữ số ít our school và thiếu thì tương lai; introduced là quá khứ; are introducing chỉ hành động đang xảy ra, không hợp với by.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "cloze trí tuệ nhân tạo",
+        "tương lai hoàn thành"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c28",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each of the numbered blanks.**\n\n> *Artificial intelligence is no longer a dream from science-fiction films; it has quietly become part of an ordinary school day. A modern phone can (23) ______ speech into text and translate a sentence in seconds, so learners have more time to practise speaking. Language apps look at the mistakes a student makes and then (24) ______ extra exercises for those weak points. This does not mean that robots will (25) ______ the place of teachers, because a machine cannot notice when a teenager is tired or worried. What it does mean is that both teachers and students will have to learn to (26) ______ with such tools wisely and check the answers they receive. By next year, our school (27) ______ a rule that every AI task must show where the information came from. Like every new tool, this one works best when a human stays in (28) ______ and asks the final question.*\n\nChọn phương án đúng nhất cho chỗ trống **(28)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "touch"
+        },
+        {
+          "key": "B",
+          "text": "line"
+        },
+        {
+          "key": "C",
+          "text": "shape"
+        },
+        {
+          "key": "D",
+          "text": "control"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Stay in control = giữ quyền kiểm soát, hợp với ý con người vẫn là người quyết định câu hỏi cuối. in touch cần of phía sau (stay in touch with), in line với nghĩa là phù hợp quy định, in shape nghĩa là còn phong độ thể chất.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "cloze trí tuệ nhân tạo",
+        "thành ngữ in control"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c29",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Machines Offer Choices, People Still Decide***\n>\n> *When a computer makes a choice for us, we often call it a decision made by artificial intelligence, yet the truth behind that phrase is more human than we think. Such a system learns from examples that people have collected, and it looks for patterns in them. If those examples are not balanced, the patterns will be biased, and the system may treat one group of people less fairly than another. No programmer has to write an unfair rule for this to happen; a quiet habit in the data is enough.*\n>\n> *Another difficulty is responsibility. Imagine a self-driving vehicle that must react in a second. If it makes a mistake and someone is hurt, it is not clear who should answer for the error: the owner, the driver, the engineer or the company. Countries are still discussing this question, and schools are beginning to teach it because today's students will be tomorrow's voters and workers.*\n>\n> *Soon most of us will have made dozens of everyday choices with such a system quietly working in the background, so the advice teachers give is simple. Artificial intelligence can count faster, remember more and never grow bored, but it cannot decide what matters. Machines should offer us options; people should still choose. A world ruled by helpful machines is possible, but only if the humans who build them keep asking what is fair.*\n\nWhat is the passage mainly about?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Artificial intelligence will soon replace human workers in every field of life."
+        },
+        {
+          "key": "B",
+          "text": "Machines are more trustworthy than people because they never grow bored."
+        },
+        {
+          "key": "C",
+          "text": "Choices made with AI stay a human responsibility because machines cannot judge what is fair."
+        },
+        {
+          "key": "D",
+          "text": "Programmers usually write unfair rules into new systems on purpose."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ba đoạn lần lượt nói hệ thống học từ dữ liệu con người, trách nhiệm khi máy sai và kết luận Machines should offer us options; people should still choose, nên C thâu tóm toàn bài. A và D ngược ý bài; B chỉ là chi tiết được nêu ra để phản bác.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "đọc hiểu",
+        "ý chính"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c30",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Machines Offer Choices, People Still Decide***\n>\n> *When a computer makes a choice for us, we often call it a decision made by artificial intelligence, yet the truth behind that phrase is more human than we think. Such a system learns from examples that people have collected, and it looks for patterns in them. If those examples are not balanced, the patterns will be biased, and the system may treat one group of people less fairly than another. No programmer has to write an unfair rule for this to happen; a quiet habit in the data is enough.*\n>\n> *Another difficulty is responsibility. Imagine a self-driving vehicle that must react in a second. If it makes a mistake and someone is hurt, it is not clear who should answer for the error: the owner, the driver, the engineer or the company. Countries are still discussing this question, and schools are beginning to teach it because today's students will be tomorrow's voters and workers.*\n>\n> *Soon most of us will have made dozens of everyday choices with such a system quietly working in the background, so the advice teachers give is simple. Artificial intelligence can count faster, remember more and never grow bored, but it cannot decide what matters. Machines should offer us options; people should still choose. A world ruled by helpful machines is possible, but only if the humans who build them keep asking what is fair.*\n\nAccording to the passage, an AI system learns by ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "following the rules that its users repeat every day"
+        },
+        {
+          "key": "B",
+          "text": "finding patterns in the examples people have collected"
+        },
+        {
+          "key": "C",
+          "text": "asking questions of the teachers who built it"
+        },
+        {
+          "key": "D",
+          "text": "copying the decisions made by its owners"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đoạn 1 viết rõ: Such a system learns from examples that people have collected, and it looks for patterns in them, nên B sát nguyên văn. Bài không nói hệ thống hỏi thầy cô, sao chép quyết định của chủ nhân hay làm theo luật người dùng nhắc lại.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "đọc hiểu",
+        "chi tiết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c31",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Machines Offer Choices, People Still Decide***\n>\n> *When a computer makes a choice for us, we often call it a decision made by artificial intelligence, yet the truth behind that phrase is more human than we think. Such a system learns from examples that people have collected, and it looks for patterns in them. If those examples are not balanced, the patterns will be biased, and the system may treat one group of people less fairly than another. No programmer has to write an unfair rule for this to happen; a quiet habit in the data is enough.*\n>\n> *Another difficulty is responsibility. Imagine a self-driving vehicle that must react in a second. If it makes a mistake and someone is hurt, it is not clear who should answer for the error: the owner, the driver, the engineer or the company. Countries are still discussing this question, and schools are beginning to teach it because today's students will be tomorrow's voters and workers.*\n>\n> *Soon most of us will have made dozens of everyday choices with such a system quietly working in the background, so the advice teachers give is simple. Artificial intelligence can count faster, remember more and never grow bored, but it cannot decide what matters. Machines should offer us options; people should still choose. A world ruled by helpful machines is possible, but only if the humans who build them keep asking what is fair.*\n\nThe system may treat one group of people less fairly when ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the examples it learned from are not balanced"
+        },
+        {
+          "key": "B",
+          "text": "it has to react in less than a second"
+        },
+        {
+          "key": "C",
+          "text": "its owner uses it too often"
+        },
+        {
+          "key": "D",
+          "text": "the data is stored in another country"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Câu điều kiện đoạn 1: If those examples are not balanced, the patterns will be biased, and the system may treat one group of people less fairly than another. B là chi tiết về xe tự lái ở đoạn 2, C và D không xuất hiện trong bài.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "đọc hiểu",
+        "chi tiết nguyên nhân"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c32",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Machines Offer Choices, People Still Decide***\n>\n> *When a computer makes a choice for us, we often call it a decision made by artificial intelligence, yet the truth behind that phrase is more human than we think. Such a system learns from examples that people have collected, and it looks for patterns in them. If those examples are not balanced, the patterns will be biased, and the system may treat one group of people less fairly than another. No programmer has to write an unfair rule for this to happen; a quiet habit in the data is enough.*\n>\n> *Another difficulty is responsibility. Imagine a self-driving vehicle that must react in a second. If it makes a mistake and someone is hurt, it is not clear who should answer for the error: the owner, the driver, the engineer or the company. Countries are still discussing this question, and schools are beginning to teach it because today's students will be tomorrow's voters and workers.*\n>\n> *Soon most of us will have made dozens of everyday choices with such a system quietly working in the background, so the advice teachers give is simple. Artificial intelligence can count faster, remember more and never grow bored, but it cannot decide what matters. Machines should offer us options; people should still choose. A world ruled by helpful machines is possible, but only if the humans who build them keep asking what is fair.*\n\nThe phrase a quiet habit in the data in paragraph 1 suggests that unfair results ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "are noticed by users at once"
+        },
+        {
+          "key": "B",
+          "text": "are created on purpose by companies"
+        },
+        {
+          "key": "C",
+          "text": "only happen with self-driving vehicles"
+        },
+        {
+          "key": "D",
+          "text": "can appear even when nobody plans them"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Câu liền trước nói No programmer has to write an unfair rule for this to happen, tức là thiên lệch có thể nảy ra mà không ai cố ý; a quiet habit in the data là cách nói ví von về thói quen âm thầm trong dữ liệu. A, B, C đều trái với đoạn 1 và 2.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "đọc hiểu",
+        "suy luận"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c33",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Machines Offer Choices, People Still Decide***\n>\n> *When a computer makes a choice for us, we often call it a decision made by artificial intelligence, yet the truth behind that phrase is more human than we think. Such a system learns from examples that people have collected, and it looks for patterns in them. If those examples are not balanced, the patterns will be biased, and the system may treat one group of people less fairly than another. No programmer has to write an unfair rule for this to happen; a quiet habit in the data is enough.*\n>\n> *Another difficulty is responsibility. Imagine a self-driving vehicle that must react in a second. If it makes a mistake and someone is hurt, it is not clear who should answer for the error: the owner, the driver, the engineer or the company. Countries are still discussing this question, and schools are beginning to teach it because today's students will be tomorrow's voters and workers.*\n>\n> *Soon most of us will have made dozens of everyday choices with such a system quietly working in the background, so the advice teachers give is simple. Artificial intelligence can count faster, remember more and never grow bored, but it cannot decide what matters. Machines should offer us options; people should still choose. A world ruled by helpful machines is possible, but only if the humans who build them keep asking what is fair.*\n\nWhy does the writer mention a self-driving vehicle?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "To show how difficult it is to say who should answer for a mistake."
+        },
+        {
+          "key": "B",
+          "text": "To prove that machines react faster than any human driver."
+        },
+        {
+          "key": "C",
+          "text": "To argue that such vehicles should not be used in cities."
+        },
+        {
+          "key": "D",
+          "text": "To explain the steps a modern engine follows."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Xe tự lái xuất hiện ngay sau câu mở đoạn Another difficulty is responsibility, dùng làm ví dụ về tình huống không rõ ai chịu trách nhiệm. Bài không so sánh tốc độ phản ứng, không đề nghị cấm xe, không mô tả động cơ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "đọc hiểu",
+        "mục đích viết"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c34",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Machines Offer Choices, People Still Decide***\n>\n> *When a computer makes a choice for us, we often call it a decision made by artificial intelligence, yet the truth behind that phrase is more human than we think. Such a system learns from examples that people have collected, and it looks for patterns in them. If those examples are not balanced, the patterns will be biased, and the system may treat one group of people less fairly than another. No programmer has to write an unfair rule for this to happen; a quiet habit in the data is enough.*\n>\n> *Another difficulty is responsibility. Imagine a self-driving vehicle that must react in a second. If it makes a mistake and someone is hurt, it is not clear who should answer for the error: the owner, the driver, the engineer or the company. Countries are still discussing this question, and schools are beginning to teach it because today's students will be tomorrow's voters and workers.*\n>\n> *Soon most of us will have made dozens of everyday choices with such a system quietly working in the background, so the advice teachers give is simple. Artificial intelligence can count faster, remember more and never grow bored, but it cannot decide what matters. Machines should offer us options; people should still choose. A world ruled by helpful machines is possible, but only if the humans who build them keep asking what is fair.*\n\nWhich of the following is NOT mentioned as a person or group that may have to answer for an error?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "the engineer"
+        },
+        {
+          "key": "B",
+          "text": "the owner"
+        },
+        {
+          "key": "C",
+          "text": "the passenger"
+        },
+        {
+          "key": "D",
+          "text": "the company"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đoạn 2 liệt kê đúng bốn khả năng: the owner, the driver, the engineer or the company. the passenger (hành khách) không được nhắc tới, nên C là phương án NOT mentioned.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "đọc hiểu",
+        "chi tiết phủ định"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c35",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Machines Offer Choices, People Still Decide***\n>\n> *When a computer makes a choice for us, we often call it a decision made by artificial intelligence, yet the truth behind that phrase is more human than we think. Such a system learns from examples that people have collected, and it looks for patterns in them. If those examples are not balanced, the patterns will be biased, and the system may treat one group of people less fairly than another. No programmer has to write an unfair rule for this to happen; a quiet habit in the data is enough.*\n>\n> *Another difficulty is responsibility. Imagine a self-driving vehicle that must react in a second. If it makes a mistake and someone is hurt, it is not clear who should answer for the error: the owner, the driver, the engineer or the company. Countries are still discussing this question, and schools are beginning to teach it because today's students will be tomorrow's voters and workers.*\n>\n> *Soon most of us will have made dozens of everyday choices with such a system quietly working in the background, so the advice teachers give is simple. Artificial intelligence can count faster, remember more and never grow bored, but it cannot decide what matters. Machines should offer us options; people should still choose. A world ruled by helpful machines is possible, but only if the humans who build them keep asking what is fair.*\n\nThe word biased in paragraph 1 is closest in meaning to ______.\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "fully automatic"
+        },
+        {
+          "key": "B",
+          "text": "not fair"
+        },
+        {
+          "key": "C",
+          "text": "very slow"
+        },
+        {
+          "key": "D",
+          "text": "quite expensive"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chính đoạn văn giải thích biased bằng vế sau: the system may treat one group of people less fairly than another, vậy biased = thiên vị, không công bằng = not fair. Các phương án còn lại nói tới tốc độ, giá tiền hay mức tự động, không liên quan.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "đọc hiểu",
+        "từ vựng trong ngữ cảnh"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c36",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Read the following passage and mark the letter A, B, C or D to indicate the correct answer to each of the questions.**\n\n> ***Machines Offer Choices, People Still Decide***\n>\n> *When a computer makes a choice for us, we often call it a decision made by artificial intelligence, yet the truth behind that phrase is more human than we think. Such a system learns from examples that people have collected, and it looks for patterns in them. If those examples are not balanced, the patterns will be biased, and the system may treat one group of people less fairly than another. No programmer has to write an unfair rule for this to happen; a quiet habit in the data is enough.*\n>\n> *Another difficulty is responsibility. Imagine a self-driving vehicle that must react in a second. If it makes a mistake and someone is hurt, it is not clear who should answer for the error: the owner, the driver, the engineer or the company. Countries are still discussing this question, and schools are beginning to teach it because today's students will be tomorrow's voters and workers.*\n>\n> *Soon most of us will have made dozens of everyday choices with such a system quietly working in the background, so the advice teachers give is simple. Artificial intelligence can count faster, remember more and never grow bored, but it cannot decide what matters. Machines should offer us options; people should still choose. A world ruled by helpful machines is possible, but only if the humans who build them keep asking what is fair.*\n\nWhat is the writer's opinion in the last paragraph?\n\nChọn phương án đúng nhất cho câu hỏi trên.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Machines should make the final choice because they are faster."
+        },
+        {
+          "key": "B",
+          "text": "People should stop using AI in their everyday life."
+        },
+        {
+          "key": "C",
+          "text": "A world ruled by helpful machines already exists."
+        },
+        {
+          "key": "D",
+          "text": "Human beings must keep deciding what is fair."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đoạn cuối viết Machines should offer us options; people should still choose và chỉ ra điều kiện để thế giới đó tốt đẹp là con người keep asking what is fair, nên D đúng ý người viết. A và B trái ngược; C sai vì bài nói is possible, chưa khẳng định đã xảy ra.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "đọc hiểu",
+        "quan điểm tác giả"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c37",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. artificial intelligence\n> 2. will have changed\n> 3. By next year,\n> 4. the way\n> 5. we study\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 - 1 - 2 - 4 - 5"
+        },
+        {
+          "key": "B",
+          "text": "3 - 1 - 4 - 2 - 5"
+        },
+        {
+          "key": "C",
+          "text": "1 - 3 - 2 - 4 - 5"
+        },
+        {
+          "key": "D",
+          "text": "3 - 2 - 1 - 4 - 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Câu đúng: By next year, artificial intelligence will have changed the way we study. Trạng ngữ chỉ mốc tương lai mở đầu, tiếp theo là chủ ngữ rồi cụm will have changed, và the way we study là một khối không tách rời; B và D chèn hoặc đảo chủ ngữ, C đặt By next year sau chủ ngữ nên lệch.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "tương lai hoàn thành"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c38",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. working\n> 2. The robot\n> 3. that warehouse\n> 4. in\n> 5. never\n> 6. needs a break\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 - 1 - 3 - 4 - 5 - 6"
+        },
+        {
+          "key": "B",
+          "text": "2 - 1 - 4 - 3 - 5 - 6"
+        },
+        {
+          "key": "C",
+          "text": "2 - 4 - 1 - 3 - 5 - 6"
+        },
+        {
+          "key": "D",
+          "text": "2 - 1 - 4 - 3 - 6 - 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Câu đúng: The robot working in that warehouse never needs a break. working in that warehouse là mệnh đề quan hệ rút gọn (the robot which works in...), giới từ in phải đứng trước that warehouse nên A sai; C đặt in trước working tạo cụm vô nghĩa; D tách needs a break khỏi trạng từ never.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "mệnh đề quan hệ rút gọn"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c39",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. will be talking\n> 2. This time tomorrow,\n> 3. about\n> 4. I\n> 5. robots\n> 6. with my classmates\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 - 4 - 1 - 3 - 6 - 5"
+        },
+        {
+          "key": "B",
+          "text": "4 - 2 - 1 - 6 - 3 - 5"
+        },
+        {
+          "key": "C",
+          "text": "2 - 4 - 1 - 6 - 3 - 5"
+        },
+        {
+          "key": "D",
+          "text": "2 - 1 - 4 - 6 - 3 - 5"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Câu đúng: This time tomorrow, I will be talking with my classmates about robots. Trạng ngữ This time tomorrow đứng đầu kèm dấu phẩy, chủ ngữ I rồi will be talking, kế đến với ai (with my classmates) và về cái gì (about robots). A đảo about lên trước with, B và D đặt chủ ngữ sai vị trí.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "tương lai tiếp diễn"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-6-c40",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit6",
+      "type": "SINGLE_CHOICE",
+      "content": "**Sắp xếp các cụm từ sau thành câu hoàn chỉnh và đúng ngữ pháp.**\n\n> 1. to keep\n> 2. Older workers\n> 3. need\n> 4. up\n> 5. with\n> 6. new software\n\nWhich order is correct?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 - 3 - 4 - 1 - 5 - 6"
+        },
+        {
+          "key": "B",
+          "text": "2 - 1 - 3 - 4 - 5 - 6"
+        },
+        {
+          "key": "C",
+          "text": "3 - 2 - 1 - 4 - 5 - 6"
+        },
+        {
+          "key": "D",
+          "text": "2 - 3 - 1 - 4 - 5 - 6"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Câu đúng: Older workers need to keep up with new software. need + to V nên to keep phải ngay sau need, và cụm keep up with đi liền rồi mới đến tân ngữ new software. A chèn up trước to keep, B đặt to keep trước need, C đảo động từ lên trước chủ ngữ.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Unit 6",
+        "Tiếng Anh 12",
+        "sắp xếp câu",
+        "cụm động từ keep up with"
+      ]
+    }
+  ]
+}

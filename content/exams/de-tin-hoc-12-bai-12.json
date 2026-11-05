@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-12",
+  "title": "Đề ôn tập Tin học 12 – Bài 12: Tạo biểu mẫu",
+  "slug": "de-tin-hoc-12-bai-12",
+  "description": "Đề ôn tập Bài 12 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về tạo biểu mẫu web: khái niệm phần tử form, hai thành phần của biểu mẫu, các phần tử input, label, textarea, select, fieldset và legend. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B12",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "updatedAt": "2026-11-05T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b12-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["biểu mẫu web", "khái niệm form"],
+      "content": "Theo sách giáo khoa, biểu mẫu web hay phần tử form của HTML là gì?",
+      "options": [
+        { "key": "A", "text": "Một khung nhìn dùng để hiển thị nội dung của một trang web khác ngay trong trang web hiện tại." },
+        { "key": "B", "text": "Một công cụ dùng để thu thập dữ liệu; dữ liệu được người dùng nhập vào form và xử lí tại chỗ hoặc gửi về máy chủ." },
+        { "key": "C", "text": "Một bảng định dạng dùng để trình bày nội dung trang web thành nhiều cột." },
+        { "key": "D", "text": "Một liên kết tới trang khác của cùng một website." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách định nghĩa biểu mẫu web hay phần tử form của HTML là một công cụ dùng để thu thập dữ liệu, dữ liệu được người dùng nhập vào form và xử lí tại chỗ hoặc gửi về máy chủ. Ý A là khung nội tuyến iframe, ý C mô tả bảng và ý D mô tả thẻ liên kết, không phải biểu mẫu."
+    },
+    {
+      "id": "tinhoc12-b12-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["cấu trúc biểu mẫu", "hai thành phần"],
+      "content": "Phát biểu nào sau đây đúng về các thành phần của một biểu mẫu web đầy đủ?",
+      "options": [
+        { "key": "A", "text": "Chỉ gồm một thành phần duy nhất là mã HTML của biểu mẫu, các việc còn lại do người dùng tự làm." },
+        { "key": "B", "text": "Gồm biểu mẫu hiển thị trên web và script xử lí dữ liệu, trong đó cả hai thành phần đều do ngôn ngữ HTML quy định." },
+        { "key": "C", "text": "Gồm thẻ form và thẻ table, trong đó thẻ table đảm nhiệm việc xử lí dữ liệu thu thập được." },
+        { "key": "D", "text": "Gồm biểu mẫu hiển thị trên web được tạo bởi các đoạn mã HTML và các ứng dụng hoặc script xử lí dữ liệu thường nằm trên máy chủ; thành phần thứ hai không thuộc phạm vi ngôn ngữ HTML." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu biểu mẫu web đầy đủ có hai thành phần: biểu mẫu hiển thị trên web tạo bởi các đoạn mã HTML và các ứng dụng hoặc script xử lí dữ liệu thường nằm trên máy chủ. Thành phần thứ hai không thuộc phạm vi ngôn ngữ HTML nên B sai; A bỏ sót thành phần thứ hai, còn C bịa ra vai trò xử lí dữ liệu của thẻ table."
+    },
+    {
+      "id": "tinhoc12-b12-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["cấu trúc biểu mẫu", "ngôn ngữ HTML"],
+      "content": "Trong biểu mẫu web, phần mã HTML mà ta viết trực tiếp trên trang web đảm nhận việc nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Tạo ra biểu mẫu hiển thị trên web để người dùng nhìn thấy và nhập dữ liệu vào." },
+        { "key": "B", "text": "Lưu trữ lâu dài toàn bộ dữ liệu thu thập được vào cơ sở dữ liệu của máy chủ." },
+        { "key": "C", "text": "Chạy các ứng dụng trên máy chủ để xử lí dữ liệu vừa thu thập." },
+        { "key": "D", "text": "Tự động gửi nội dung dữ liệu tới thư của người quản trị website." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thành phần do HTML quy định chính là biểu mẫu hiển thị trên web, tức phần tạo ra các ô nhập để người dùng nhìn thấy và nhập dữ liệu. Các việc lưu trữ, xử lí trên máy chủ thuộc thành phần thứ hai và không do ngôn ngữ HTML đảm nhiệm, vì vậy B và C sai; D là khả năng không được sách nhắc tới nên cũng sai."
+    },
+    {
+      "id": "tinhoc12-b12-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["thẻ form", "viết mã HTML"],
+      "content": "Khi viết mã HTML cho một biểu mẫu, các phần tử nhập dữ liệu của biểu mẫu được đặt ở đâu?",
+      "options": [
+        { "key": "A", "text": "Trong cặp thẻ `<a>`…`</a>`." },
+        { "key": "B", "text": "Ngay sau thẻ body, không cần thẻ nào bao ngoài." },
+        { "key": "C", "text": "Trong cặp thẻ `<form>`…`</form>`." },
+        { "key": "D", "text": "Trong cặp thẻ `<select>`…`</select>`." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Biểu mẫu được đánh dấu bằng cặp thẻ form, toàn bộ các phần tử nhập dữ liệu của biểu mẫu đặt trong cặp thẻ này. Thẻ a dùng cho liên kết nên A sai; thẻ select chỉ bao ngoài các option của một danh sách lựa chọn nên D sai; B sai vì thiếu thẻ form thì các phần tử không thuộc một biểu mẫu."
+    },
+    {
+      "id": "tinhoc12-b12-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["phần tử input", "thẻ đơn"],
+      "content": "Phát biểu nào sau đây đúng về phần tử input trong biểu mẫu?",
+      "options": [
+        { "key": "A", "text": "Là thẻ kép, luôn cần thẻ kết thúc để trình duyệt xác định hết vùng nhập." },
+        { "key": "B", "text": "Là thẻ đơn, không cần thẻ kết thúc." },
+        { "key": "C", "text": "Là thẻ đơn nhưng bắt buộc phải viết kèm thẻ đóng tương ứng." },
+        { "key": "D", "text": "Mỗi biểu mẫu chỉ được phép chứa đúng một phần tử input." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu rõ phần tử input xác định bởi một thẻ đơn, không cần thẻ kết thúc, vì vậy A và C sai. Một biểu mẫu có thể chứa nhiều phần tử input cho nhiều ô nhập khác nhau nên D sai."
+    },
+    {
+      "id": "tinhoc12-b12-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["thuộc tính type", "vùng nhập mật khẩu"],
+      "content": "Trong phần tử `<input type=\"password\">`, giá trị của thuộc tính type quy định điều gì?",
+      "options": [
+        { "key": "A", "text": "Số kí tự tối đa mà người dùng được nhập vào ô này." },
+        { "key": "B", "text": "Nhãn hiển thị bên cạnh ô nhập dữ liệu." },
+        { "key": "C", "text": "Máy chủ sẽ nhận dữ liệu nhập từ ô này." },
+        { "key": "D", "text": "Kiểu dữ liệu cần nhập, ở đây là vùng nhập mật khẩu bị che các thông tin khi hiển thị." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thuộc tính type quy định kiểu dữ liệu cần nhập cho ô nhập; với type=\"password\" ta được vùng nhập mật khẩu mà các thông tin nhập vào bị che khi hiển thị. Giới hạn số kí tự, nhãn đi kèm và nơi nhận dữ liệu đều không do type quyết định nên A, B, C sai."
+    },
+    {
+      "id": "tinhoc12-b12-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["thuộc tính type", "phần tử input"],
+      "content": "Thuộc tính nào của phần tử input quyết định ô nhập được hiển thị dưới dạng hộp văn bản, ô chọn hay nút bấm?",
+      "options": [
+        { "key": "A", "text": "type." },
+        { "key": "B", "text": "name." },
+        { "key": "C", "text": "value." },
+        { "key": "D", "text": "id." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chính thuộc tính type xác định kiểu dữ liệu cần nhập và do đó quyết định hình dạng của ô nhập, ví dụ text cho hộp văn bản một dòng, radio và checkbox cho ô chọn, submit cho nút bấm. Thuộc tính value ghi nhận giá trị được chọn, còn name và id dùng để định danh phần tử nên B, C, D không trả lời đúng câu hỏi."
+    },
+    {
+      "id": "tinhoc12-b12-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["radio", "ô chọn"],
+      "content": "Theo Bảng 12.1, phần tử input với `type=\"radio\"` có đặc điểm nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Cho phép đánh dấu chọn đồng thời nhiều giá trị." },
+        { "key": "B", "text": "Được dùng riêng cho vùng nhập mật khẩu." },
+        { "key": "C", "text": "Tạo ra ô chọn một giá trị duy nhất trong các phần tử cùng tên." },
+        { "key": "D", "text": "Luôn hiển thị dưới dạng một danh sách thả xuống." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảng 12.1 mô tả radio tạo ra ô chọn một giá trị duy nhất trong các phần tử cùng tên, nghĩa là trong một nhóm chỉ được chọn một ô. Chọn nhiều giá trị là đặc điểm của checkbox nên A sai; B và D gán nhầm chức năng của các loại ô nhập khác."
+    },
+    {
+      "id": "tinhoc12-b12-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["checkbox", "ô lựa chọn"],
+      "content": "Cần một ô để người dùng đánh dấu chọn hoặc không chọn một giá trị và có thể đánh dấu nhiều ô cùng lúc. Nên dùng phần tử nào sau đây?",
+      "options": [
+        { "key": "A", "text": "`<input type=\"radio\">`." },
+        { "key": "B", "text": "`<input type=\"checkbox\">`." },
+        { "key": "C", "text": "`<input type=\"text\">`." },
+        { "key": "D", "text": "`<textarea></textarea>`." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách mô tả checkbox tạo ra ô lựa chọn giá trị có hoặc không, mỗi ô độc lập nên người dùng có thể chọn nhiều ô cùng lúc. Radio chỉ chọn được một giá trị duy nhất trong nhóm cùng tên nên A sai; type=\"text\" và textarea dành cho nhập văn bản chứ không phải ô chọn nên C và D sai."
+    },
+    {
+      "id": "tinhoc12-b12-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["thuộc tính value", "radio", "checkbox"],
+      "content": "Theo sách giáo khoa, mỗi ô radio và mỗi ô checkbox cần thêm thuộc tính nào để ghi nhận giá trị được chọn?",
+      "options": [
+        { "key": "A", "text": "rows." },
+        { "key": "B", "text": "cols." },
+        { "key": "C", "text": "for." },
+        { "key": "D", "text": "value." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách ghi rõ mỗi ô radio và ô checkbox đều cần thêm thuộc tính value để ghi nhận giá trị tương ứng khi ô đó được chọn. Rows và cols là thuộc tính của vùng nhập văn bản textarea, còn for là thuộc tính của nhãn label, nên A, B, C sai."
+    },
+    {
+      "id": "tinhoc12-b12-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["phần tử label", "cấu trúc thẻ"],
+      "content": "Cấu trúc của phần tử label trong biểu mẫu có dạng nào sau đây?",
+      "options": [
+        { "key": "A", "text": "`<label for=\"mã_định_danh_của_input_tương_ứng\">Tên_nhãn</label>`" },
+        { "key": "B", "text": "`<label value=\"Tên_nhãn\">mã_định_danh_của_input</label>`" },
+        { "key": "C", "text": "`<input type=\"label\">Tên_nhãn</input>`" },
+        { "key": "D", "text": "`<legend type=\"label\">Tên_nhãn</legend>`" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách cho cấu trúc chung của nhãn là `<label for=\"mã_định_danh_của_input_tương_ứng\">Tên_nhãn</label>`, trong đó for trỏ tới mã định danh của ô nhập tương ứng và Tên_nhãn là nội dung hiển thị. Các phương án còn lại gán sai thuộc tính cho label, coi label là một kiểu của input hoặc dùng legend không đúng vai trò."
+    },
+    {
+      "id": "tinhoc12-b12-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["label", "lý do dùng nhãn"],
+      "content": "Vì sao phần tử input thường phải tạo kèm phần tử label?",
+      "options": [
+        { "key": "A", "text": "Vì label giới hạn số dòng hiển thị của ô nhập dữ liệu." },
+        { "key": "B", "text": "Vì nếu thiếu label thì trình duyệt không hiển thị phần tử input." },
+        { "key": "C", "text": "Vì phần tử input chỉ dùng để nhập dữ liệu nên cần tạo kèm label để có thông tin về nội dung cần nhập." },
+        { "key": "D", "text": "Vì label quy định kiểu dữ liệu mà phần tử input chứa." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách giải thích phần tử input chỉ dùng để nhập dữ liệu, muốn có thông tin về nội dung cần nhập thì phải tạo kèm label. Kiểu dữ liệu do thuộc tính type quy định nên D sai; label không giới hạn số dòng và không quyết định việc trình duyệt có hiển thị input hay không nên A và B sai."
+    },
+    {
+      "id": "tinhoc12-b12-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["label", "thuộc tính for"],
+      "content": "Tác dụng nào sau đây của nhãn được sách nêu rõ?",
+      "options": [
+        { "key": "A", "text": "Nháy vào nhãn sẽ mở một trang web khác trong cửa sổ mới." },
+        { "key": "B", "text": "Khi nháy chuột vào Tên_nhãn thì con trỏ chuột được đưa vào vùng của phần tử input được xác định bởi thuộc tính for tương ứng." },
+        { "key": "C", "text": "Nhãn vẽ một khung hình chữ nhật bao quanh toàn bộ biểu mẫu." },
+        { "key": "D", "text": "Nhãn chỉ định máy chủ nào sẽ nhận dữ liệu của ô nhập." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nói về mặt hiển thị nhãn không có gì đặc biệt, nhưng khi nháy chuột vào Tên_nhãn thì con trỏ chuột sẽ được đưa vào vùng của phần tử input được xác định bởi thuộc tính for tương ứng. Khung hình chữ nhật bao nhóm phần tử là vai trò của fieldset nên C sai; A và D gán cho nhãn những chức năng không có trong bài học."
+    },
+    {
+      "id": "tinhoc12-b12-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["textarea", "đọc mã HTML"],
+      "content": "Đoạn mã `<textarea name=\"ghichu\" rows=\"5\" cols=\"40\"></textarea>` đặt trong biểu mẫu tạo ra phần tử nào?",
+      "options": [
+        { "key": "A", "text": "Ô nhập văn bản một dòng rộng 40 kí tự." },
+        { "key": "B", "text": "Danh sách thả xuống có 5 lựa chọn." },
+        { "key": "C", "text": "Ô lựa chọn có hoặc không với 40 giá trị." },
+        { "key": "D", "text": "Vùng nhập văn bản gồm 5 dòng và 40 cột, hiện là vùng trắng vì không có nội dung đặt trong cặp thẻ." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phần tử textarea xác định một vùng nhập văn bản có nhiều dòng và cột với rows là số dòng, cols là số cột; nếu không để nội dung trong cặp thẻ thì vùng nhập văn bản là vùng trắng. Ô nhập một dòng là input với type=\"text\" nên A sai; danh sách lựa chọn do select và option tạo thành nên B sai; ô lựa chọn có hoặc không là checkbox nên C sai."
+    },
+    {
+      "id": "tinhoc12-b12-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["textarea", "rows", "cols"],
+      "content": "Trong phần tử textarea, hai thuộc tính rows và cols cho biết điều gì?",
+      "options": [
+        { "key": "A", "text": "Số dòng và số cột của vùng nhập văn bản." },
+        { "key": "B", "text": "Chiều rộng và chiều cao của ô nhập tính theo pixel." },
+        { "key": "C", "text": "Số kí tự tối đa và số từ tối đa mà người dùng được nhập." },
+        { "key": "D", "text": "Thứ tự xuất hiện của vùng nhập trong biểu mẫu." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách dùng rows để chỉ số dòng và cols để chỉ số cột của vùng nhập văn bản nhiều dòng. textarea không mô tả kích thước theo pixel, không quy định số kí tự tối đa và không dùng rows để định vị thứ tự nên B, C, D sai."
+    },
+    {
+      "id": "tinhoc12-b12-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["select", "option", "danh sách lựa chọn"],
+      "content": "Phần tử nào trong biểu mẫu được dùng để tạo danh sách thả xuống, trong đó mỗi lựa chọn được khai báo bằng một phần tử option?",
+      "options": [
+        { "key": "A", "text": "fieldset." },
+        { "key": "B", "text": "label." },
+        { "key": "C", "text": "select." },
+        { "key": "D", "text": "iframe." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phần tử select chứa các phần tử option bên trong, hiển thị dưới dạng danh sách thả xuống để người dùng chọn một giá trị. fieldset dùng để nhóm các phần tử liên quan nên A sai; label chỉ gắn nhãn cho ô nhập nên B sai; iframe là khung nội tuyến để nhúng tài nguyên web, không thuộc biểu mẫu nên D sai."
+    },
+    {
+      "id": "tinhoc12-b12-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["radio", "đọc mã HTML"],
+      "content": "Một biểu mẫu chứa ba phần tử `<input type=\"radio\" name=\"sv\" value=\"co\">`, `<input type=\"radio\" name=\"sv\" value=\"khong\">`, `<input type=\"radio\" name=\"sv\" value=\"khac\">`. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Người dùng có thể đánh dấu chọn cả ba ô cùng một lúc." },
+        { "key": "B", "text": "Vì ba phần tử có cùng tên nên người dùng chỉ chọn được một giá trị duy nhất trong ba giá trị." },
+        { "key": "C", "text": "Ba phần tử này tạo thành ba vùng nhập văn bản một dòng." },
+        { "key": "D", "text": "Ba phần tử này tạo thành một danh sách thả xuống có ba lựa chọn." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "type=\"radio\" tạo ra ô chọn một giá trị duy nhất trong các phần tử cùng tên; ở đây ba ô đều có name=\"sv\" nên chúng thuộc cùng một nhóm và người dùng chỉ chọn được một ô. Chọn được nhiều ô là tính chất của checkbox nên A sai; ô nhập văn bản phải dùng type=\"text\" nên C sai; danh sách thả xuống phải dùng select kèm option nên D sai."
+    },
+    {
+      "id": "tinhoc12-b12-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["fieldset", "nhóm phần tử"],
+      "content": "Phần tử fieldset trong biểu mẫu được dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Xác định vùng nhập văn bản nhiều dòng cho người dùng." },
+        { "key": "B", "text": "Tạo nút bấm để gửi dữ liệu của biểu mẫu." },
+        { "key": "C", "text": "Chỉ định kiểu dữ liệu cho một ô nhập." },
+        { "key": "D", "text": "Nhóm các phần tử có liên quan trong biểu mẫu bằng cách vẽ một hình chữ nhật bao quanh các phần tử đặt trong cặp thẻ của nó." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách mô tả fieldset dùng để nhóm các phần tử có liên quan trong biểu mẫu, trình duyệt vẽ một hình chữ nhật bao quanh các phần tử đặt trong cặp thẻ của nó. Vùng nhập nhiều dòng là textarea nên A sai; nút gửi là input với type=\"submit\" nên B sai; kiểu dữ liệu do thuộc tính type quy định nên C sai."
+    },
+    {
+      "id": "tinhoc12-b12-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["legend", "fieldset"],
+      "content": "Theo sách giáo khoa, để đặt tên cho nhóm phần tử do fieldset tạo ra, ta dùng phần tử nào?",
+      "options": [
+        { "key": "A", "text": "Phần tử legend, đặt trong phần tử fieldset tương ứng." },
+        { "key": "B", "text": "Phần tử label, đặt ngoài phần tử fieldset." },
+        { "key": "C", "text": "Phần tử option, đặt trong phần tử fieldset." },
+        { "key": "D", "text": "Thuộc tính value của phần tử input đầu tiên trong nhóm." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách hướng dẫn có thể thêm tên cho nhóm phần tử bằng cách đặt phần tử legend trong phần tử fieldset tương ứng. Label chỉ gắn nhãn cho một ô nhập nên B sai; option là lựa chọn nằm trong select nên C sai; value ghi nhận giá trị được chọn của ô, không dùng để đặt tên nhóm nên D sai."
+    },
+    {
+      "id": "tinhoc12-b12-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["nút gửi", "type submit"],
+      "content": "Phần tử `<input type=\"submit\">` trong biểu mẫu có ý nghĩa gì?",
+      "options": [
+        { "key": "A", "text": "Là vùng nhập văn bản một dòng mà người dùng bắt buộc phải điền." },
+        { "key": "B", "text": "Là ô lựa chọn để người dùng xác nhận đã đọc điều khoản." },
+        { "key": "C", "text": "Tạo nút bấm để gửi dữ liệu đã nhập của biểu mẫu." },
+        { "key": "D", "text": "Là nhãn mô tả tên của ô nhập đứng sau nó." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thuộc tính type quy định kiểu dữ liệu cần nhập cho ô nhập; với type=\"submit\" phần tử input trở thành nút bấm để gửi dữ liệu của biểu mẫu. Vùng nhập văn bản một dòng là type=\"text\" nên A sai; ô xác nhận có hoặc không là type=\"checkbox\" nên B sai; nhãn mô tả ô nhập do phần tử label đảm nhiệm nên D sai."
+    },
+    {
+      "id": "tinhoc12-b12-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["đọc mã HTML", "label", "ô nhập văn bản"],
+      "content": "Đoạn mã nào sau đây tạo đúng một ô nhập văn bản một dòng có nhãn kèm theo?",
+      "options": [
+        { "key": "A", "text": "`<label for=\"dn\">Tên đăng nhập</label><input type=\"submit\" id=\"dn\">`" },
+        { "key": "B", "text": "`<label for=\"dn\">Tên đăng nhập</label><input type=\"text\" id=\"dn\">`" },
+        { "key": "C", "text": "`<label value=\"dn\">Tên đăng nhập</label><textarea type=\"text\"></textarea>`" },
+        { "key": "D", "text": "`<input type=\"text\">Tên đăng nhập</input>`" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhãn liên kết với ô nhập qua thuộc tính for trỏ tới mã định danh của ô, còn type=\"text\" tạo hộp nhập văn bản một dòng, nên B viết đúng. A tạo nút gửi chứ không phải ô nhập văn bản; C dùng value cho label thay vì for và textarea không có type=\"text\"; D coi input như thẻ kép trong khi input là thẻ đơn không cần thẻ kết thúc."
+    },
+    {
+      "id": "tinhoc12-b12-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["checkbox", "tạo biểu mẫu"],
+      "content": "Muốn người dùng chọn được nhiều mục trong ba mục bóng đá, bóng rổ và bơi lội, cách làm nào sau đây phù hợp nhất?",
+      "options": [
+        { "key": "A", "text": "Dùng ba phần tử radio có cùng tên, mỗi phần tử một mục." },
+        { "key": "B", "text": "Dùng một phần tử textarea với rows=\"3\"." },
+        { "key": "C", "text": "Dùng ba phần tử label có cùng giá trị for." },
+        { "key": "D", "text": "Dùng ba phần tử checkbox, mỗi phần tử có thuộc tính value tương ứng với một mục." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "checkbox tạo ô lựa chọn giá trị có hoặc không, các ô độc lập với nhau và mỗi ô cần thuộc tính value để ghi nhận giá trị được chọn nên chọn được nhiều mục. Radio cùng tên chỉ cho chọn một giá trị duy nhất nên A sai; textarea chỉ là vùng nhập văn bản tự do nên B sai; label không phải ô nhập nên C sai."
+    },
+    {
+      "id": "tinhoc12-b12-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["đọc mã HTML", "biểu mẫu"],
+      "content": "Cho đoạn mã `<form><p>Họ tên: <input type=\"text\"></p></form>`. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Biểu mẫu chứa một ô nhập văn bản một dòng; muốn có thông tin rõ ràng về nội dung cần nhập thì tạo thêm phần tử label kèm theo." },
+        { "key": "B", "text": "Phần tử input thiếu thẻ kết thúc nên trình duyệt không hiển thị ô nhập." },
+        { "key": "C", "text": "Đặt phần tử p trong cặp thẻ form là không hợp lệ vì biểu mẫu không được chứa văn bản." },
+        { "key": "D", "text": "Đoạn mã tạo ra một danh sách thả xuống chỉ có một lựa chọn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "type=\"text\" tạo hộp nhập văn bản một dòng và input là thẻ đơn nên đoạn mã hợp lệ; phần chữ Họ tên chỉ là văn bản thường, muốn gắn nhãn đúng cách thì nên dùng thêm label. B sai vì input không cần thẻ kết thúc; C sai vì trong biểu mẫu vẫn có thể có văn bản; D sai vì danh sách thả xuống phải dùng select kèm option."
+    },
+    {
+      "id": "tinhoc12-b12-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["xử lí dữ liệu", "máy chủ"],
+      "content": "Phát biểu nào sau đây đúng về dữ liệu mà biểu mẫu thu thập được?",
+      "options": [
+        { "key": "A", "text": "Toàn bộ việc xử lí dữ liệu thu thập được đều do ngôn ngữ HTML đảm nhiệm." },
+        { "key": "B", "text": "Dữ liệu nhập vào biểu mẫu chỉ dùng để hiển thị, không thể gửi đi nơi khác." },
+        { "key": "C", "text": "Dữ liệu người dùng nhập vào form được xử lí tại chỗ hoặc gửi về máy chủ, phần trên máy chủ do các ứng dụng hoặc script đảm nhiệm." },
+        { "key": "D", "text": "Dữ liệu nhập vào biểu mẫu tự động trở thành một trang web mới trong website." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu dữ liệu được người dùng nhập vào form và xử lí tại chỗ hoặc gửi về máy chủ; việc xử lí ở máy chủ thuộc thành phần ứng dụng hoặc script, không thuộc phạm vi ngôn ngữ HTML. Vì thế A sai; dữ liệu vẫn gửi được về máy chủ nên B sai; D là phát biểu bịa, không có trong bài học."
+    },
+    {
+      "id": "tinhoc12-b12-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["nhận định đúng sai", "input", "label"],
+      "content": "Những nhận định nào sau đây đúng về phần tử input và phần tử label trong biểu mẫu?",
+      "options": [
+        { "key": "A", "text": "Phần tử input xác định bởi thẻ đơn nên không cần thẻ kết thúc." },
+        { "key": "B", "text": "Thuộc tính for của phần tử label được lấy bằng giá trị của thuộc tính type của ô nhập tương ứng." },
+        { "key": "C", "text": "Nháy chuột vào Tên_nhãn thì con trỏ chuột được đưa vào vùng của phần tử input tương ứng." },
+        { "key": "D", "text": "Ô radio và ô checkbox không cần thuộc tính value vì trình duyệt tự ghi nhận giá trị." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng theo sách: input là thẻ đơn không cần thẻ kết thúc, còn nhãn giúp đưa con trỏ vào vùng của phần tử input khi nháy vào Tên_nhãn. B sai vì for phải bằng mã định danh của input tương ứng chứ không phải giá trị của type. D sai vì mỗi ô radio và ô checkbox đều cần thêm thuộc tính value để ghi nhận giá trị."
+    },
+    {
+      "id": "tinhoc12-b12-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["nhận định đúng sai", "cấu trúc biểu mẫu", "fieldset"],
+      "content": "Những nhận định nào sau đây đúng về cấu trúc và các thành phần của biểu mẫu web?",
+      "options": [
+        { "key": "A", "text": "Biểu mẫu web đầy đủ gồm hai thành phần, trong đó ứng dụng hoặc script xử lí dữ liệu nằm trên máy chủ không thuộc phạm vi ngôn ngữ HTML." },
+        { "key": "B", "text": "Các phần tử của biểu mẫu được đặt trong cặp thẻ `<form>`…`</form>`." },
+        { "key": "C", "text": "Phần tử textarea là thẻ đơn nên nội dung hiển thị trong vùng nhập phải khai báo bằng một thuộc tính riêng." },
+        { "key": "D", "text": "Phần tử fieldset nhóm các phần tử có liên quan bằng hình chữ nhật bao quanh và có thể đặt tên nhóm bằng phần tử legend." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đều là nội dung sách đã nêu về hai thành phần của biểu mẫu, cặp thẻ form và việc nhóm phần tử bằng fieldset kèm legend. C sai vì textarea là thẻ kép, phần nội dung đặt trong cặp thẻ sẽ được hiển thị trong vùng nhập chứ không khai báo qua thuộc tính."
+    },
+    {
+      "id": "tinhoc12-b12-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["nhận định đúng sai", "các loại ô nhập"],
+      "content": "Những nhận định nào sau đây đúng về các loại ô nhập trong biểu mẫu?",
+      "options": [
+        { "key": "A", "text": "`type=\"radio\"` cho phép chọn nhiều giá trị cùng lúc, còn `type=\"checkbox\"` chỉ chọn được một giá trị duy nhất." },
+        { "key": "B", "text": "`type=\"text\"` tạo hộp nhập văn bản một dòng, còn phần tử textarea tạo vùng nhập văn bản có nhiều dòng và cột." },
+        { "key": "C", "text": "`type=\"password\"` dùng cho vùng nhập mật khẩu, các thông tin nhập vào bị che khi hiển thị." },
+        { "key": "D", "text": "Để người dùng chọn một giá trị trong nhiều lựa chọn theo danh sách thả xuống, ta dùng phần tử select kèm các phần tử option." }
+      ],
+      "correctAnswer": ["B", "C", "D"],
+      "explanation": "B, C và D đúng: text là hộp nhập văn bản một dòng, textarea là vùng nhập nhiều dòng nhiều cột, password che thông tin khi hiển thị, select kèm option tạo danh sách thả xuống. A sai vì nói ngược: radio chỉ chọn một giá trị duy nhất trong các phần tử cùng tên, còn checkbox mới là ô lựa chọn giá trị có hoặc không."
+    },
+    {
+      "id": "tinhoc12-b12-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-tao-bieu-mau",
+      "tags": ["nhận định đúng sai", "đọc mã HTML", "textarea"],
+      "content": "Những nhận định nào sau đây đúng khi đọc mã HTML của một biểu mẫu?",
+      "options": [
+        { "key": "A", "text": "Nếu phần tử textarea không chứa nội dung giữa thẻ mở và thẻ đóng thì vùng nhập văn bản là một vùng trắng." },
+        { "key": "B", "text": "Ba phần tử input có cùng tên và `type=\"radio\"` cho phép người dùng đánh dấu chọn cả ba giá trị cùng lúc." },
+        { "key": "C", "text": "Phần tử label bắt buộc phải đứng trước phần tử input trong mã HTML thì ô nhập mới hiển thị." },
+        { "key": "D", "text": "Thuộc tính type của phần tử input quy định kiểu dữ liệu cần nhập cho ô nhập đó." }
+      ],
+      "correctAnswer": ["A", "D"],
+      "explanation": "A và D đúng theo sách: nội dung đặt trong cặp thẻ textarea sẽ được hiển thị trong vùng nhập, nếu không có thì vùng nhập là vùng trắng; thuộc tính type quy định kiểu dữ liệu cần nhập. B sai vì các phần tử radio cùng tên chỉ cho chọn một giá trị duy nhất. C sai vì nhãn liên kết với ô nhập nhờ thuộc tính for chứ không yêu cầu thứ tự đứng trước hay đứng sau."
+    }
+  ]
+}

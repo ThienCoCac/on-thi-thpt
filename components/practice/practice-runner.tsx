@@ -13,6 +13,7 @@ import {
   Sparkles,
   XCircle,
 } from 'lucide-react';
+import { PRACTICE_LEGEND, QuestionMap, type QuestionMapItem } from '@/components/exams/question-map';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import {
@@ -447,6 +448,30 @@ export function PracticeRunner({
       ? !isAnswerEmpty(currentValue)
       : !isAnswerEmpty(currentValue);
 
+  const grouped = new Map<string, QuestionMapItem[]>();
+  session.forEach((question, position) => {
+    const verdict = results.find((item) => item.question.id === question.id)?.isCorrect;
+    const items = grouped.get(question.partName) ?? [];
+    items.push({
+      index: position,
+      tone: verdict === true ? 'correct' : verdict === false ? 'wrong' : 'idle',
+      current: position === index,
+      label: `Câu ${position + 1}${
+        verdict === undefined ? ' chưa làm' : verdict ? ' làm đúng' : ' làm sai'
+      }`,
+    });
+    grouped.set(question.partName, items);
+  });
+
+  const questionMap = (
+    <QuestionMap
+      groups={Array.from(grouped.entries()).map(([name, items]) => ({ name, items }))}
+      legend={PRACTICE_LEGEND}
+      groupLabel="Chuyển đến một câu đã làm"
+      onSelect={goToQuestion}
+    />
+  );
+
   return (
     <>
       <header ref={headerRef} className="sticky top-0 z-30 border-b bg-background/95 backdrop-blur">
@@ -488,330 +513,328 @@ export function PracticeRunner({
               style={{ width: `${(results.length / session.length) * 100}%` }}
             />
           </div>
-          <div
-            role="group"
-            aria-label="Chuyển đến một câu đã làm"
-            className="mt-2 flex gap-1 overflow-x-auto pb-1 sm:flex-wrap sm:overflow-visible"
-          >
-            {session.map((question, position) => {
-              const verdict = results.find((item) => item.question.id === question.id)?.isCorrect;
-              const isCurrent = position === index;
-
-              return (
-                <button
-                  key={question.id}
-                  type="button"
-                  onClick={() => goToQuestion(position)}
-                  aria-current={isCurrent ? 'true' : undefined}
-                  aria-label={`Câu ${position + 1}${
-                    verdict === undefined ? ' chưa làm' : verdict ? ' làm đúng' : ' làm sai'
-                  }`}
-                  className={cn(
-                    'h-7 w-7 shrink-0 rounded-md border text-xs font-semibold tabular-nums transition-colors',
-                    isCurrent
-                      ? 'border-primary bg-primary text-primary-foreground'
-                      : verdict === true
-                        ? 'border-emerald-300 bg-emerald-50 text-emerald-700 hover:border-emerald-400'
-                        : verdict === false
-                          ? 'border-destructive/40 bg-destructive/10 text-destructive hover:border-destructive/60'
-                          : verdict === null
-                            ? 'border-border bg-muted text-muted-foreground'
-                            : 'border-border bg-card text-muted-foreground hover:border-primary/40',
-                  )}
-                >
-                  {position + 1}
-                </button>
-              );
-            })}
-          </div>
         </div>
       </header>
 
-      <div className="container max-w-3xl py-6">
-        <Card ref={questionRef}>
-          <CardHeader className="gap-3">
-            <div className="flex flex-wrap items-center justify-between gap-2">
-              <div className="flex flex-wrap items-center gap-1.5">
-                <Badge variant="outline">{current.partName}</Badge>
-                <Badge variant="secondary">{DIFFICULTY_LABELS[current.difficulty]}</Badge>
-                {current.topicName ? (
-                  <span className="text-xs text-muted-foreground">{current.topicName}</span>
-                ) : null}
-              </div>
-              <span className="text-xs text-muted-foreground">{current.score} điểm</span>
-            </div>
-            <CardTitle className="text-sm font-medium text-muted-foreground">
-              {questionInstruction(current.type)}
-            </CardTitle>
-          </CardHeader>
+      <div className="container grid max-w-6xl gap-6 py-6 lg:grid-cols-[minmax(0,1fr)_320px]">
+        <main className="min-w-0">
+          <div className="mb-4 lg:hidden">
+            <details className="rounded-2xl border bg-card p-4">
+              <summary className="cursor-pointer text-sm font-medium">
+                Bản đồ câu hỏi ({results.length}/{session.length})
+              </summary>
+              <div className="mt-4">{questionMap}</div>
+            </details>
+          </div>
 
-          <CardContent className="space-y-5">
-            <Markup
-              block
-              className="article-content"
-              source={current.content}
-              />
-
-            {current.imageUrl ? (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img
-                src={current.imageUrl}
-                alt="Hình ảnh minh họa cho câu hỏi"
-                decoding="async"
-                className="max-h-72 w-auto rounded-lg border object-contain"
-              />
-            ) : null}
-
-            {current.type === FILL_IN ? (
-              <Input
-                value={typeof currentValue === 'string' ? currentValue : ''}
-                onChange={(event) =>
-                  setAnswers((previous) => ({
-                    ...previous,
-                    [current.id]: event.target.value,
-                  }))
-                }
-                onKeyDown={(event) => {
-                  if (event.key === 'Enter') {
-                    check(current);
-                  }
-                }}
-                readOnly={checked}
-                placeholder="Nhập đáp án của bạn"
-                aria-label={`Đáp án cho câu ${index + 1}`}
-                autoComplete="off"
-                spellCheck={false}
-              />
-            ) : isEssay ? (
-              <textarea
-                value={typeof currentValue === 'string' ? currentValue : ''}
-                onChange={(event) =>
-                  setAnswers((previous) => ({
-                    ...previous,
-                    [current.id]: event.target.value,
-                  }))
-                }
-                readOnly={checked}
-                placeholder="Viết bài làm của bạn"
-                aria-label={`Bài làm cho câu ${index + 1}`}
-                className="min-h-[140px] w-full rounded-lg border border-input bg-background px-3 py-2 text-sm leading-relaxed ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
-              />
-            ) : current.options.length > 0 ? (
-              <div
-                className={cn(
-                  'grid gap-2.5',
-                  current.type === MULTIPLE_CHOICE ? 'sm:grid-cols-2' : 'grid-cols-1',
-                )}
-              >
-                {current.options.map((option) => {
-                  const isCorrectOption = correctKeys.includes(option.key);
-                  const isChosen = selectedKeys.includes(option.key);
-                  const showState = checked;
-
-                  return (
-                    <button
-                      key={option.key}
-                      type="button"
-                      disabled={checked}
-                      onClick={() => chooseOption(current, option.key)}
-                      aria-pressed={isChosen}
-                      className={cn(
-                        'flex items-start gap-3 rounded-2xl border p-3.5 text-left transition-colors',
-                        showState && isCorrectOption
-                          ? 'border-emerald-400 bg-emerald-50'
-                          : showState && isChosen && !isCorrectOption
-                            ? 'border-destructive/50 bg-destructive/5'
-                            : isChosen
-                              ? 'border-primary bg-primary/5'
-                              : 'bg-card hover:border-primary/40',
-                        checked && 'cursor-default',
-                      )}
-                    >
-                      <span
-                        className={cn(
-                          'mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border text-xs font-bold',
-                          showState && isCorrectOption
-                            ? 'border-emerald-500 bg-emerald-500 text-white'
-                            : showState && isChosen && !isCorrectOption
-                              ? 'border-destructive bg-destructive text-white'
-                              : isChosen
-                                ? 'border-primary bg-primary text-primary-foreground'
-                                : 'bg-background text-muted-foreground',
-                        )}
-                        aria-hidden="true"
-                      >
-                        {option.key}
-                      </span>
-                      <span className="min-w-0 flex-1 space-y-2">
-                        <Markup className="block text-sm leading-relaxed" source={option.text} />
-                        {option.imageUrl ? (
-                          // eslint-disable-next-line @next/next/no-img-element
-                          <img
-                            src={option.imageUrl}
-                            alt=""
-                            decoding="async"
-                            className="max-h-40 w-auto rounded border object-contain"
-                          />
-                        ) : null}
-                      </span>
-                      {showState && isCorrectOption ? (
-                        <CheckCircle2
-                          className="mt-1 h-4 w-4 shrink-0 text-emerald-600"
-                          aria-label="Đáp án đúng"
-                        />
-                      ) : null}
-                      {showState && isChosen && !isCorrectOption ? (
-                        <XCircle
-                          className="mt-1 h-4 w-4 shrink-0 text-destructive"
-                          aria-label="Bạn chọn sai"
-                        />
-                      ) : null}
-                    </button>
-                  );
-                })}
-              </div>
-            ) : (
-              <p className="text-sm text-muted-foreground">
-                Câu hỏi này chưa có phương án trả lời.
-              </p>
-            )}
-
-            {!checked ? (
-              <div className="space-y-3 pt-1">
-                <p className="text-xs text-muted-foreground">
-                  {isEssay
-                    ? 'Câu tự luận không chấm tự động, bạn đối chiếu bài mẫu bên dưới.'
-                    : current.type === MULTIPLE_CHOICE
-                      ? 'Câu nhiều đáp án: chọn đủ rồi bấm Kiểm tra.'
-                      : 'Chọn đáp án để xem kết quả ngay.'}
-                </p>
-                <div className="flex flex-wrap items-center justify-between gap-2">
-                  <Button
-                    type="button"
-                    variant="outline"
-                    onClick={() => goToQuestion(index - 1)}
-                    disabled={index === 0}
-                  >
-                    <ChevronLeft aria-hidden="true" />
-                    Câu trước
-                  </Button>
-                  <div className="flex flex-wrap items-center gap-2">
-                    {isEssay ? (
-                      <Button type="button" onClick={() => check(current)}>
-                        Xem lời giải
-                        <ChevronRight aria-hidden="true" />
-                      </Button>
-                    ) : current.type !== 'SINGLE_CHOICE' ? (
-                      <Button type="button" onClick={() => check(current)} disabled={!canCheck}>
-                        <Check aria-hidden="true" />
-                        Kiểm tra
-                      </Button>
-                    ) : null}
-                    {index < session.length - 1 ? (
-                      <Button
-                        type="button"
-                        variant="ghost"
-                        onClick={() => goToQuestion(index + 1)}
-                      >
-                        Câu tiếp theo
-                        <ChevronRight aria-hidden="true" />
-                      </Button>
-                    ) : null}
-                  </div>
+          <Card ref={questionRef}>
+            <CardHeader className="gap-3">
+              <div className="flex flex-wrap items-center justify-between gap-2">
+                <div className="flex flex-wrap items-center gap-1.5">
+                  <Badge variant="outline">{current.partName}</Badge>
+                  <Badge variant="secondary">{DIFFICULTY_LABELS[current.difficulty]}</Badge>
+                  {current.topicName ? (
+                    <span className="text-xs text-muted-foreground">{current.topicName}</span>
+                  ) : null}
                 </div>
+                <span className="text-xs text-muted-foreground">{current.score} điểm</span>
               </div>
-            ) : (
-              <div ref={feedbackRef} className="space-y-3">
+              <CardTitle className="text-sm font-medium text-muted-foreground">
+                {questionInstruction(current.type)}
+              </CardTitle>
+            </CardHeader>
+
+            <CardContent className="space-y-5">
+              <Markup
+                block
+                className="article-content"
+                source={current.content}
+                />
+
+              {current.imageUrl ? (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={current.imageUrl}
+                  alt="Hình ảnh minh họa cho câu hỏi"
+                  decoding="async"
+                  className="max-h-72 w-auto rounded-lg border object-contain"
+                />
+              ) : null}
+
+              {current.type === FILL_IN ? (
+                <Input
+                  value={typeof currentValue === 'string' ? currentValue : ''}
+                  onChange={(event) =>
+                    setAnswers((previous) => ({
+                      ...previous,
+                      [current.id]: event.target.value,
+                    }))
+                  }
+                  onKeyDown={(event) => {
+                    if (event.key === 'Enter') {
+                      check(current);
+                    }
+                  }}
+                  readOnly={checked}
+                  placeholder="Nhập đáp án của bạn"
+                  aria-label={`Đáp án cho câu ${index + 1}`}
+                  autoComplete="off"
+                  spellCheck={false}
+                />
+              ) : isEssay ? (
+                <textarea
+                  value={typeof currentValue === 'string' ? currentValue : ''}
+                  onChange={(event) =>
+                    setAnswers((previous) => ({
+                      ...previous,
+                      [current.id]: event.target.value,
+                    }))
+                  }
+                  readOnly={checked}
+                  placeholder="Viết bài làm của bạn"
+                  aria-label={`Bài làm cho câu ${index + 1}`}
+                  className="min-h-[140px] w-full rounded-lg border border-input bg-background px-3 py-2 text-sm leading-relaxed ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+                />
+              ) : current.options.length > 0 ? (
                 <div
                   className={cn(
-                    'flex items-start gap-2.5 rounded-2xl border px-4 py-3 text-sm',
-                    currentResult?.isCorrect === true
-                      ? 'border-emerald-300 bg-emerald-50 text-emerald-900'
-                      : currentResult?.isCorrect === false
-                        ? 'border-destructive/30 bg-destructive/5 text-foreground'
-                        : 'border-border bg-muted/40 text-foreground',
+                    'grid gap-2.5',
+                    current.type === MULTIPLE_CHOICE ? 'sm:grid-cols-2' : 'grid-cols-1',
                   )}
                 >
-                  {currentResult?.isCorrect === true ? (
-                    <CheckCircle2 className="mt-0.5 h-4 w-4 shrink-0 text-emerald-600" aria-hidden="true" />
-                  ) : currentResult?.isCorrect === false ? (
-                    <XCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" aria-hidden="true" />
-                  ) : (
-                    <Lightbulb className="mt-0.5 h-4 w-4 shrink-0 text-primary" aria-hidden="true" />
-                  )}
-                  <div className="min-w-0">
-                    <p className="font-semibold">
-                      {currentResult?.isCorrect === true
-                        ? 'Chính xác!'
-                        : currentResult?.isCorrect === false
-                          ? 'Chưa đúng'
-                          : 'Đối chiếu lời giải'}
-                    </p>
-                    {currentResult?.isCorrect === false ? (
-                      <p className="mt-0.5 text-xs leading-relaxed">
-                        Bạn chọn:{' '}
-                        <Markup
-                          source={describeAnswer(
-                            current.type,
-                            currentResult.selected,
-                            current.options,
+                  {current.options.map((option) => {
+                    const isCorrectOption = correctKeys.includes(option.key);
+                    const isChosen = selectedKeys.includes(option.key);
+                    const showState = checked;
+
+                    return (
+                      <button
+                        key={option.key}
+                        type="button"
+                        disabled={checked}
+                        onClick={() => chooseOption(current, option.key)}
+                        aria-pressed={isChosen}
+                        className={cn(
+                          'flex items-start gap-3 rounded-2xl border p-3.5 text-left transition-colors',
+                          showState && isCorrectOption
+                            ? 'border-emerald-400 bg-emerald-50'
+                            : showState && isChosen && !isCorrectOption
+                              ? 'border-destructive/50 bg-destructive/5'
+                              : isChosen
+                                ? 'border-primary bg-primary/5'
+                                : 'bg-card hover:border-primary/40',
+                          checked && 'cursor-default',
+                        )}
+                      >
+                        <span
+                          className={cn(
+                            'mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border text-xs font-bold',
+                            showState && isCorrectOption
+                              ? 'border-emerald-500 bg-emerald-500 text-white'
+                              : showState && isChosen && !isCorrectOption
+                                ? 'border-destructive bg-destructive text-white'
+                                : isChosen
+                                  ? 'border-primary bg-primary text-primary-foreground'
+                                  : 'bg-background text-muted-foreground',
                           )}
-                        />
-                      </p>
-                    ) : null}
-                    {currentResult?.isCorrect !== true && current.type !== ESSAY ? (
-                      <p className="mt-0.5 text-xs leading-relaxed">
-                        Đáp án đúng:{' '}
-                        <Markup
-                          source={describeCorrectAnswer(
-                            current.type,
-                            current.correctAnswer,
-                            current.options,
-                          )}
-                        />
-                      </p>
-                    ) : null}
+                          aria-hidden="true"
+                        >
+                          {option.key}
+                        </span>
+                        <span className="min-w-0 flex-1 space-y-2">
+                          <Markup className="block text-sm leading-relaxed" source={option.text} />
+                          {option.imageUrl ? (
+                            // eslint-disable-next-line @next/next/no-img-element
+                            <img
+                              src={option.imageUrl}
+                              alt=""
+                              decoding="async"
+                              className="max-h-40 w-auto rounded border object-contain"
+                            />
+                          ) : null}
+                        </span>
+                        {showState && isCorrectOption ? (
+                          <CheckCircle2
+                            className="mt-1 h-4 w-4 shrink-0 text-emerald-600"
+                            aria-label="Đáp án đúng"
+                          />
+                        ) : null}
+                        {showState && isChosen && !isCorrectOption ? (
+                          <XCircle
+                            className="mt-1 h-4 w-4 shrink-0 text-destructive"
+                            aria-label="Bạn chọn sai"
+                          />
+                        ) : null}
+                      </button>
+                    );
+                  })}
+                </div>
+              ) : (
+                <p className="text-sm text-muted-foreground">
+                  Câu hỏi này chưa có phương án trả lời.
+                </p>
+              )}
+
+              {!checked ? (
+                <div className="space-y-3 pt-1">
+                  <p className="text-xs text-muted-foreground">
+                    {isEssay
+                      ? 'Câu tự luận không chấm tự động, bạn đối chiếu bài mẫu bên dưới.'
+                      : current.type === MULTIPLE_CHOICE
+                        ? 'Câu nhiều đáp án: chọn đủ rồi bấm Kiểm tra.'
+                        : 'Chọn đáp án để xem kết quả ngay.'}
+                  </p>
+                  <div className="flex flex-wrap items-center justify-between gap-2">
+                    <Button
+                      type="button"
+                      variant="outline"
+                      onClick={() => goToQuestion(index - 1)}
+                      disabled={index === 0}
+                    >
+                      <ChevronLeft aria-hidden="true" />
+                      Câu trước
+                    </Button>
+                    <div className="flex flex-wrap items-center gap-2">
+                      {isEssay ? (
+                        <Button type="button" onClick={() => check(current)}>
+                          Xem lời giải
+                          <ChevronRight aria-hidden="true" />
+                        </Button>
+                      ) : current.type !== 'SINGLE_CHOICE' ? (
+                        <Button type="button" onClick={() => check(current)} disabled={!canCheck}>
+                          <Check aria-hidden="true" />
+                          Kiểm tra
+                        </Button>
+                      ) : null}
+                      {index < session.length - 1 ? (
+                        <Button
+                          type="button"
+                          variant="ghost"
+                          onClick={() => goToQuestion(index + 1)}
+                        >
+                          Câu tiếp theo
+                          <ChevronRight aria-hidden="true" />
+                        </Button>
+                      ) : null}
+                    </div>
                   </div>
                 </div>
-
-                <div className="rounded-2xl border border-primary/20 bg-primary/5 p-4">
-                  <p className="flex items-center gap-2 text-sm font-semibold text-primary">
-                    <Lightbulb className="h-4 w-4" aria-hidden="true" />
-                    Lời giải
-                  </p>
-                  <Markup
-                    block
-                    className="article-content mt-2 text-sm"
-                    source={current.explanation}
-                    />
-                </div>
-
-                <div className="flex flex-wrap items-center justify-between gap-2">
-                  <Button
-                    type="button"
-                    variant="outline"
-                    onClick={() => goToQuestion(index - 1)}
-                    disabled={index === 0}
+              ) : (
+                <div ref={feedbackRef} className="space-y-3">
+                  <div
+                    className={cn(
+                      'flex items-start gap-2.5 rounded-2xl border px-4 py-3 text-sm',
+                      currentResult?.isCorrect === true
+                        ? 'border-emerald-300 bg-emerald-50 text-emerald-900'
+                        : currentResult?.isCorrect === false
+                          ? 'border-destructive/30 bg-destructive/5 text-foreground'
+                          : 'border-border bg-muted/40 text-foreground',
+                    )}
                   >
-                    <ChevronLeft aria-hidden="true" />
-                    Câu trước
-                  </Button>
-                  <Button type="button" onClick={next}>
-                    {index < session.length - 1 ? 'Câu tiếp theo' : 'Xem kết quả'}
-                    <ChevronRight aria-hidden="true" />
-                  </Button>
-                </div>
-              </div>
-            )}
-          </CardContent>
-        </Card>
+                    {currentResult?.isCorrect === true ? (
+                      <CheckCircle2 className="mt-0.5 h-4 w-4 shrink-0 text-emerald-600" aria-hidden="true" />
+                    ) : currentResult?.isCorrect === false ? (
+                      <XCircle className="mt-0.5 h-4 w-4 shrink-0 text-destructive" aria-hidden="true" />
+                    ) : (
+                      <Lightbulb className="mt-0.5 h-4 w-4 shrink-0 text-primary" aria-hidden="true" />
+                    )}
+                    <div className="min-w-0">
+                      <p className="font-semibold">
+                        {currentResult?.isCorrect === true
+                          ? 'Chính xác!'
+                          : currentResult?.isCorrect === false
+                            ? 'Chưa đúng'
+                            : 'Đối chiếu lời giải'}
+                      </p>
+                      {currentResult?.isCorrect === false ? (
+                        <p className="mt-0.5 text-xs leading-relaxed">
+                          Bạn chọn:{' '}
+                          <Markup
+                            source={describeAnswer(
+                              current.type,
+                              currentResult.selected,
+                              current.options,
+                            )}
+                          />
+                        </p>
+                      ) : null}
+                      {currentResult?.isCorrect !== true && current.type !== ESSAY ? (
+                        <p className="mt-0.5 text-xs leading-relaxed">
+                          Đáp án đúng:{' '}
+                          <Markup
+                            source={describeCorrectAnswer(
+                              current.type,
+                              current.correctAnswer,
+                              current.options,
+                            )}
+                          />
+                        </p>
+                      ) : null}
+                    </div>
+                  </div>
 
-        <p className="mt-4 text-center text-xs text-muted-foreground">
-          Luyện tập không tính giờ. Kết quả từng câu được lưu vào tiến độ học tập trên thiết bị.
-          {resumeKey
-            ? ' Phiên đang làm được tự lưu: bấm vào số câu ở đầu trang để xem lại, hoặc quay lại làm tiếp khi khác.'
-            : ''}
-        </p>
+                  <div className="rounded-2xl border border-primary/20 bg-primary/5 p-4">
+                    <p className="flex items-center gap-2 text-sm font-semibold text-primary">
+                      <Lightbulb className="h-4 w-4" aria-hidden="true" />
+                      Lời giải
+                    </p>
+                    <Markup
+                      block
+                      className="article-content mt-2 text-sm"
+                      source={current.explanation}
+                      />
+                  </div>
+
+                  <div className="flex flex-wrap items-center justify-between gap-2">
+                    <Button
+                      type="button"
+                      variant="outline"
+                      onClick={() => goToQuestion(index - 1)}
+                      disabled={index === 0}
+                    >
+                      <ChevronLeft aria-hidden="true" />
+                      Câu trước
+                    </Button>
+                    <Button type="button" onClick={next}>
+                      {index < session.length - 1 ? 'Câu tiếp theo' : 'Xem kết quả'}
+                      <ChevronRight aria-hidden="true" />
+                    </Button>
+                  </div>
+                </div>
+              )}
+            </CardContent>
+          </Card>
+
+          <p className="mt-4 text-center text-xs text-muted-foreground">
+            Luyện tập không tính giờ. Kết quả từng câu được lưu vào tiến độ học tập trên thiết bị.
+            {resumeKey
+              ? ' Phiên đang làm được tự lưu: bấm vào số câu ở bản đồ câu hỏi để xem lại, hoặc quay lại làm tiếp khi khác.'
+              : ''}
+          </p>
+        </main>
+
+        <aside className="hidden lg:block">
+          <div className="sticky top-24">
+            <Card className="flex max-h-[calc(100vh-12rem)] flex-col">
+              <CardHeader>
+                <div className="flex items-center justify-between gap-3">
+                  <CardTitle className="text-base">Bản đồ câu hỏi</CardTitle>
+                  <span className="text-xs text-muted-foreground">
+                    Đã làm: {results.length}/{session.length}
+                  </span>
+                </div>
+              </CardHeader>
+              <CardContent className="flex min-h-0 flex-1 flex-col gap-4">
+                {questionMap}
+
+                <p className="text-xs text-muted-foreground">
+                  Đúng {correctCount} · Sai {graded.length - correctCount} · Chưa làm{' '}
+                  {session.length - results.length}
+                </p>
+              </CardContent>
+            </Card>
+          </div>
+        </aside>
       </div>
     </>
   );

@@ -1,0 +1,1467 @@
+{
+  "id": "de-dia-12-bai-35",
+  "title": "Đề ôn tập Địa lí 12 – Bài 35: Thực hành – Tìm hiểu Địa lí địa phương",
+  "slug": "de-dia-12-bai-35",
+  "description": "Đề thực hành tổng kết kĩ năng tìm hiểu địa lí địa phương theo Chương trình Giáo dục phổ thông 2018 môn Địa lí 12, bản chỉnh sửa 2026 (34 tỉnh/thành, 6 vùng kinh tế – xã hội). Đề hỏi ở mức phương pháp: xác định và giới hạn vấn đề thuộc nhóm tự nhiên, dân cư hay kinh tế – xã hội; thu thập tài liệu từ nguồn sơ cấp (điều tra, quan sát thực địa, phỏng vấn) và nguồn thứ cấp chính thống (niên giám thống kê, atlat); ghi nguồn và kiểm chứng độ tin cậy; gia công số liệu như làm tròn, tính tỉ trọng, tốc độ tăng trưởng, số trung bình cộng; lựa chọn và vẽ biểu đồ phù hợp mục đích; lập dàn ý, viết báo cáo, trình bày kết quả; đánh giá tác động và đề xuất giải pháp bền vững. Toàn bộ số liệu trong đề là số liệu minh hoạ cho một địa phương quy ước X, không ứng với tỉnh hay huyện cụ thể nào.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B35",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b35-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thực hành địa lí địa phương",
+        "xác định vấn đề",
+        "phương pháp nghiên cứu"
+      ],
+      "content": "Khi bắt đầu bài thực hành tìm hiểu địa lí địa phương, việc cần làm đầu tiên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "xác định và giới hạn vấn đề địa lí cần tìm hiểu ở địa phương."
+        },
+        {
+          "key": "B",
+          "text": "vẽ ngay biểu đồ thể hiện cơ cấu kinh tế của địa phương."
+        },
+        {
+          "key": "C",
+          "text": "viết phần kết luận và đề xuất giải pháp của báo cáo."
+        },
+        {
+          "key": "D",
+          "text": "so sánh toàn bộ số liệu với một địa phương khác."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Bài thực hành bắt đầu từ khâu chọn vấn đề: phải xác định được vấn đề thuộc nhóm tự nhiên, dân cư hay kinh tế – xã hội và khoanh gọn phạm vi thì các bước thu thập, xử lí số liệu và viết báo cáo mới có trọng tâm."
+    },
+    {
+      "id": "dia12-b35-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "thực hành địa lí địa phương",
+        "phân loại vấn đề",
+        "tự nhiên"
+      ],
+      "content": "Vấn đề nào sau đây thuộc nhóm tự nhiên của địa phương?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ lệ hộ nghèo theo chuẩn đa chiều của các xã."
+        },
+        {
+          "key": "B",
+          "text": "Cơ cấu lao động phân theo ngành kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Giá trị sản xuất của ngành công nghiệp trên địa bàn."
+        },
+        {
+          "key": "D",
+          "text": "Chế độ nước của con sông chảy qua địa phương."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Chế độ nước của sông là một đặc điểm tự nhiên (khí hậu, thuỷ văn); ba phương án còn lại thuộc nhóm dân cư và kinh tế – xã hội."
+    },
+    {
+      "id": "dia12-b35-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "thực hành địa lí địa phương",
+        "giới hạn đề tài",
+        "phương pháp nghiên cứu"
+      ],
+      "content": "Trong bài thực hành, việc giới hạn phạm vi không gian và thời gian của đề tài có tác dụng chính là",
+      "options": [
+        {
+          "key": "A",
+          "text": "thu hẹp số liệu cần thu thập, tránh lan man ra ngoài vấn đề đã chọn."
+        },
+        {
+          "key": "B",
+          "text": "tăng số lượng biểu đồ bắt buộc phải vẽ trong báo cáo."
+        },
+        {
+          "key": "C",
+          "text": "thay thế hoàn toàn việc ghi nguồn của tài liệu tham khảo."
+        },
+        {
+          "key": "D",
+          "text": "làm cho mọi số liệu của đề tài trở nên chính xác tuyệt đối."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Giới hạn không gian (địa bàn nào) và thời gian (từ năm nào đến năm nào) xác định rõ khối lượng số liệu phải tìm, nhờ đó hoạt động thu thập và xử lí tập trung vào vấn đề trọng tâm."
+    },
+    {
+      "id": "dia12-b35-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "thu thập số liệu",
+        "số liệu sơ cấp",
+        "thực hành địa lí địa phương"
+      ],
+      "content": "Những số liệu do người học tự tạo ra bằng cách trực tiếp điều tra, quan sát thực địa hoặc phỏng vấn người dân ở địa phương được gọi là",
+      "options": [
+        {
+          "key": "A",
+          "text": "số liệu thứ cấp."
+        },
+        {
+          "key": "B",
+          "text": "số liệu dự báo."
+        },
+        {
+          "key": "C",
+          "text": "số liệu sơ cấp."
+        },
+        {
+          "key": "D",
+          "text": "số liệu ước tính."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Số liệu sơ cấp là số liệu thu thập trực tiếp từ thực địa (điều tra, quan sát, phỏng vấn); số liệu thứ cấp là số liệu đã được người khác công bố trong niên giám, atlat, trang thông tin chính thức."
+    },
+    {
+      "id": "dia12-b35-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "thu thập số liệu",
+        "nguồn chính thống",
+        "niên giám thống kê"
+      ],
+      "content": "Trong các nguồn sau, nguồn nào được coi là chính thống và đáng tin cậy nhất khi cần số liệu thống kê của địa phương?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bài đăng chia sẻ lại trên mạng xã hội của một cơ sở kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "Nhận xét chủ quan của một vài người dân trong thôn."
+        },
+        {
+          "key": "C",
+          "text": "Niên giám thống kê của cơ quan thống kê cấp tỉnh, cấp huyện."
+        },
+        {
+          "key": "D",
+          "text": "Hình ảnh minh hoạ không ghi năm và không ghi đơn vị tính."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Niên giám thống kê do cơ quan thống kê nhà nước phát hành, có kỳ công bố, có đơn vị tính và phạm vi tính toán rõ ràng nên là nguồn thứ cấp chính thống; các nguồn còn lại không kiểm chứng được."
+    },
+    {
+      "id": "dia12-b35-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "ghi nguồn",
+        "bảng số liệu",
+        "viết báo cáo"
+      ],
+      "content": "Khi trích dẫn một bảng số liệu lấy từ niên giám thống kê trong báo cáo thực hành, thông tin bắt buộc phải ghi là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tên cơ quan phát hành, năm công bố và đơn vị tính của số liệu."
+        },
+        {
+          "key": "B",
+          "text": "họ tên của người vẽ biểu đồ trong báo cáo."
+        },
+        {
+          "key": "C",
+          "text": "màu sắc dùng để thể hiện từng số liệu."
+        },
+        {
+          "key": "D",
+          "text": "số trang của bản báo cáo khi in ra giấy."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Ghi nguồn gồm cơ quan phát hành, năm công bố kèm đơn vị tính giúp người đọc kiểm tra lại độ tin cậy và so sánh đúng phạm vi của số liệu."
+    },
+    {
+      "id": "dia12-b35-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "kiểm chứng số liệu",
+        "độ tin cậy",
+        "phương pháp thu thập"
+      ],
+      "content": "Việc kiểm chứng độ tin cậy của một số liệu thu thập được làm đúng nhất bằng cách",
+      "options": [
+        {
+          "key": "A",
+          "text": "chọn số liệu lớn hơn để báo cáo sinh động."
+        },
+        {
+          "key": "B",
+          "text": "chỉ dùng duy nhất một nguồn cho tất cả các chỉ tiêu."
+        },
+        {
+          "key": "C",
+          "text": "bỏ qua những số liệu khác với dự đoán ban đầu của người viết."
+        },
+        {
+          "key": "D",
+          "text": "đối chiếu số liệu đó với ít nhất một nguồn chính thống khác."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Kiểm chứng nghĩa là đối chiếu chéo: so sánh cùng một chỉ tiêu giữa niên giám thống kê, atlat, trang thông tin của cơ quan nhà nước và kết quả điều tra thực địa; nếu chênh lệch lớn phải ghi rõ trong báo cáo."
+    },
+    {
+      "id": "dia12-b35-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "điều tra thực địa",
+        "phỏng vấn",
+        "thu thập số liệu sơ cấp"
+      ],
+      "content": "Khi thiết kế phiếu hỏi cho một cuộc điều tra ở địa phương, yêu cầu phù hợp nhất là phiếu phải",
+      "options": [
+        {
+          "key": "A",
+          "text": "càng nhiều câu hỏi dài càng tốt, không cần theo mục tiêu."
+        },
+        {
+          "key": "B",
+          "text": "ngắn gọn, rõ ràng, bám sát vấn đề đã chọn và thống nhất đơn vị tính."
+        },
+        {
+          "key": "C",
+          "text": "chỉ hỏi những người thân trong gia đình cho tiện."
+        },
+        {
+          "key": "D",
+          "text": "bỏ trống phần đơn vị tính để người trả lời tự quyết định."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Phiếu hỏi phục vụ mục tiêu của đề tài nên cần ít câu, diễn đạt dễ hiểu, có đơn vị tính rõ; nếu chỉ hỏi người thân thì mẫu điều tra không đại diện cho địa phương."
+    },
+    {
+      "id": "dia12-b35-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "quan sát thực địa",
+        "số liệu sơ cấp",
+        "phương pháp thu thập"
+      ],
+      "content": "Quan sát thực địa khác với đọc tài liệu ở điểm cơ bản nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "cho phép thu thập thông tin trực tiếp từ cảnh quan và hiện tượng đang diễn ra."
+        },
+        {
+          "key": "B",
+          "text": "luôn cho số liệu chính xác hơn niên giám thống kê."
+        },
+        {
+          "key": "C",
+          "text": "chỉ thực hiện được khi có bản đồ số."
+        },
+        {
+          "key": "D",
+          "text": "không cần ghi chép vì quan sát rồi sẽ nhớ lâu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Quan sát thực địa là hình thức thu thập số liệu sơ cấp: người học trực tiếp thấy hiện tượng tại nơi diễn ra. Tuy vậy vẫn phải ghi chép theo phiếu, vì quan sát không tự động chính xác hơn tài liệu đã công bố."
+    },
+    {
+      "id": "dia12-b35-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xử lí số liệu",
+        "tỉ trọng",
+        "cơ cấu"
+      ],
+      "content": "Đại lượng tỉ trọng trong bảng số liệu về cơ cấu được tính bằng cách",
+      "options": [
+        {
+          "key": "A",
+          "text": "lấy tổng cộng giá trị của tất cả các thành phần."
+        },
+        {
+          "key": "B",
+          "text": "lấy giá trị lớn nhất trừ giá trị nhỏ nhất rồi nhân với 100."
+        },
+        {
+          "key": "C",
+          "text": "lấy giá trị từng thành phần chia cho tổng rồi nhân với 100."
+        },
+        {
+          "key": "D",
+          "text": "lấy giá trị năm sau chia cho năm trước rồi trừ 1."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tỉ trọng của thành phần i = giá trị thành phần i chia tổng nhân 100 (%). Phương án D là cách tính tốc độ tăng trưởng, không phải tỉ trọng."
+    },
+    {
+      "id": "dia12-b35-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "bảng số liệu",
+        "cơ cấu",
+        "tổng tỉ trọng"
+      ],
+      "content": "Một bảng số liệu thể hiện cơ cấu các thành phần thường có đặc điểm nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mỗi cột là một năm, mỗi hàng là một đơn vị hành chính."
+        },
+        {
+          "key": "B",
+          "text": "Tổng các thành phần luôn xấp xỉ bằng 10."
+        },
+        {
+          "key": "C",
+          "text": "Tổng các thành phần bằng đúng diện tích tự nhiên của địa phương."
+        },
+        {
+          "key": "D",
+          "text": "Tổng các thành phần bằng 100% (có thể sai khác nhỏ do làm tròn)."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Bản chất của cơ cấu là các thành phần hợp thành tổng thể nên tổng tỉ trọng bằng 100%; sau khi làm tròn có thể lệch vài phần nghìn, khi đó cần ghi chú trong bảng."
+    },
+    {
+      "id": "dia12-b35-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "gia công số liệu",
+        "số liệu tương đối",
+        "xử lí số liệu"
+      ],
+      "content": "Đề tài có các số liệu tuyệt đối (nghìn tấn, triệu người) nhưng mục tiêu lại là làm rõ kết cấu bên trong. Khi đó số liệu cần được gia công sang dạng",
+      "options": [
+        {
+          "key": "A",
+          "text": "số trung bình cộng của nhiều năm."
+        },
+        {
+          "key": "B",
+          "text": "số tương đối về cơ cấu hoặc tốc độ phát triển."
+        },
+        {
+          "key": "C",
+          "text": "số tuyệt đối tính bằng đơn vị nhỏ hơn."
+        },
+        {
+          "key": "D",
+          "text": "số dự báo cho các năm chưa diễn ra."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Để thấy kết cấu bên trong phải chuyển số tuyệt đối sang số tương đối: tỉ trọng từng thành phần (cơ cấu) hoặc chỉ số phát triển, tốc độ tăng trưởng (động thái)."
+    },
+    {
+      "id": "dia12-b35-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "làm tròn số liệu",
+        "xử lí số liệu",
+        "thực hành địa lí"
+      ],
+      "content": "Giả sử số dân của một xã ở địa phương em là 8 743 người. Làm tròn số dân này đến hàng nghìn và đến hàng trăm, ta lần lượt được",
+      "options": [
+        {
+          "key": "A",
+          "text": "9 000 người và 8 700 người."
+        },
+        {
+          "key": "B",
+          "text": "8 000 người và 8 740 người."
+        },
+        {
+          "key": "C",
+          "text": "8 700 người và 9 000 người."
+        },
+        {
+          "key": "D",
+          "text": "9 000 người và 8 800 người."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Chữ số hàng trăm của 8 743 là 7 lớn hơn hoặc bằng 5 nên hàng nghìn tăng lên 9 000 người; chữ số hàng chục là 4 nhỏ hơn 5 nên hàng trăm giữ nguyên, được 8 700 người."
+    },
+    {
+      "id": "dia12-b35-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tính tỉ trọng",
+        "xử lí số liệu",
+        "cơ cấu ngành"
+      ],
+      "content": "**Bảng số liệu giá trị sản xuất một số ngành của địa phương X (tỉ đồng):**\n\n- Trồng trọt: 187; Chăn nuôi: 63; Dịch vụ nông thôn: 50\n\n*Nguồn: Niên giám thống kê.*\n\nVới bảng số liệu trên, tổng giá trị sản xuất và tỉ trọng của ngành dịch vụ nông thôn lần lượt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "290 tỉ đồng và 17,2%."
+        },
+        {
+          "key": "B",
+          "text": "300 tỉ đồng và 21,0%."
+        },
+        {
+          "key": "C",
+          "text": "300 tỉ đồng và 15,0%."
+        },
+        {
+          "key": "D",
+          "text": "300 tỉ đồng và 16,7%."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Tổng = 187 + 63 + 50 = 300 tỉ đồng. Tỉ trọng dịch vụ nông thôn = 50 chia 300 nhân 100 = 16,666% làm tròn thành 16,7%."
+    },
+    {
+      "id": "dia12-b35-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "tốc độ tăng trưởng",
+        "dân số",
+        "xử lí số liệu"
+      ],
+      "content": "**Bảng số liệu dân số của địa phương X (nghìn người):**\n\n- Năm 2020: 125,8; Năm 2025: 141,3\n\n*Nguồn: Niên giám thống kê.*\n\nVới bảng số liệu trên, tốc độ tăng dân số của địa phương trong giai đoạn 2020–2025 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,2%."
+        },
+        {
+          "key": "B",
+          "text": "12,3%."
+        },
+        {
+          "key": "C",
+          "text": "15,5%."
+        },
+        {
+          "key": "D",
+          "text": "112,3%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Tốc độ tăng = (141,3 chia 125,8 nhân 100) trừ 100 = 112,32 trừ 100 = 12,32%, làm tròn thành 12,3%. Phương án D là chỉ số phát triển, chưa trừ đi gốc 100%."
+    },
+    {
+      "id": "dia12-b35-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "chỉ số phát triển",
+        "gia công số liệu",
+        "động thái"
+      ],
+      "content": "**Bảng số liệu lượt khách du lịch đến địa phương X (nghìn lượt):**\n\n- Năm 2021: 42,0; Năm 2024: 105,0\n\n*Nguồn: Niên giám thống kê.*\n\nVới bảng số liệu trên, nếu lấy năm 2021 làm gốc 100%, chỉ số phát triển của lượt khách năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "205,0%."
+        },
+        {
+          "key": "B",
+          "text": "40,0%."
+        },
+        {
+          "key": "C",
+          "text": "250,0%."
+        },
+        {
+          "key": "D",
+          "text": "150,0%."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Chỉ số phát triển năm 2024 = 105,0 chia 42,0 nhân 100 = 250%. Phương án D (150%) là tốc độ tăng trưởng, tức chỉ số phát triển đã trừ gốc 100%."
+    },
+    {
+      "id": "dia12-b35-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "lập bảng số liệu",
+        "viết báo cáo",
+        "ghi nguồn"
+      ],
+      "content": "Khi lập bảng số liệu trong báo cáo thực hành, yêu cầu đúng về phần tên bảng và chú dẫn là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ ghi tên bảng, không cần đơn vị tính vì con số đã tự nói lên tất cả."
+        },
+        {
+          "key": "B",
+          "text": "ghi tên bảng bằng chữ in toàn bộ và xuống dòng sau mỗi con số."
+        },
+        {
+          "key": "C",
+          "text": "ghi rõ nội dung bảng, đơn vị tính và đặt nguồn số liệu phía dưới bảng."
+        },
+        {
+          "key": "D",
+          "text": "đặt nguồn số liệu vào giữa ô của bảng cho dễ thấy."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tên bảng phải chỉ rõ nội dung và đơn vị tính; nguồn số liệu là dòng chú dẫn ở cuối bảng, không nằm trong ô số liệu."
+    },
+    {
+      "id": "dia12-b35-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "chọn biểu đồ",
+        "cơ cấu",
+        "biểu đồ tròn"
+      ],
+      "content": "Mục đích của một báo cáo là thể hiện cơ cấu thành phần của một đối tượng tại một năm. Loại biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ tròn."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ đường."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ cột đơn."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ kết hợp cột và đường."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Biểu đồ tròn thể hiện cơ cấu các thành phần của một tổng thể, đặc biệt phù hợp khi chỉ có một hoặc hai mốc thời gian. Biểu đồ đường dùng cho động thái phát triển, biểu đồ cột dùng để so sánh độ lớn."
+    },
+    {
+      "id": "dia12-b35-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "chọn biểu đồ",
+        "tốc độ tăng trưởng",
+        "biểu đồ đường"
+      ],
+      "content": "Địa phương em có số liệu của hai chỉ tiêu kinh tế qua năm năm liên tục. Sau khi gia công theo hướng lấy năm đầu làm gốc 100%, mục đích của báo cáo là thể hiện tốc độ tăng trưởng của cả hai chỉ tiêu. Loại biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ tròn."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ cột ghép."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ miền."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ đường."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Số liệu đã quy về chỉ số phát triển (gốc 100%) qua nhiều năm liên tục thì biểu đồ đường thể hiện rõ nhất tốc độ tăng trưởng và sự chênh lệch giữa hai chỉ tiêu. Biểu đồ tròn không vẽ được theo dãy năm; biểu đồ miền dùng khi cần thấy thay đổi kết cấu."
+    },
+    {
+      "id": "dia12-b35-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "vẽ biểu đồ tròn",
+        "quy đổi góc",
+        "thực hành địa lí"
+      ],
+      "content": "Khi vẽ biểu đồ tròn, một thành phần chiếm tỉ trọng 47,5% sẽ ứng với góc ở tâm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "47,5 độ."
+        },
+        {
+          "key": "B",
+          "text": "171,0 độ."
+        },
+        {
+          "key": "C",
+          "text": "142,5 độ."
+        },
+        {
+          "key": "D",
+          "text": "190,0 độ."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Mỗi 1% tương ứng 3,6 độ (360 chia 100). Vậy 47,5 nhân 3,6 = 171 độ."
+    },
+    {
+      "id": "dia12-b35-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "vẽ biểu đồ tròn",
+        "quy ước góc",
+        "thực hành địa lí"
+      ],
+      "content": "Theo quy ước vẽ biểu đồ tròn, bán kính xuất phát để đo các góc của thành phần được đặt ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "hướng 12 giờ và quay theo chiều kim đồng hồ."
+        },
+        {
+          "key": "B",
+          "text": "hướng 6 giờ và quay ngược chiều kim đồng hồ."
+        },
+        {
+          "key": "C",
+          "text": "hướng 9 giờ và quay theo chiều kim đồng hồ."
+        },
+        {
+          "key": "D",
+          "text": "hướng 3 giờ và quay ngược chiều kim đồng hồ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Khi vẽ biểu đồ tròn, thành phần thứ nhất bắt đầu từ bán kính chỉ hướng 12 giờ và các thành phần lần lượt xếp theo chiều kim đồng hồ, giúp biểu đồ dễ đối chiếu giữa các báo cáo."
+    },
+    {
+      "id": "dia12-b35-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xử lí số liệu",
+        "mục đích báo cáo",
+        "cơ sở lựa chọn"
+      ],
+      "content": "Cơ sở để chọn cách gia công số liệu (giữ số tuyệt đối, chuyển sang cơ cấu hay tính tốc độ phát triển) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "số trang quy định của bản báo cáo."
+        },
+        {
+          "key": "B",
+          "text": "màu sắc biểu đồ trong sách giáo khoa."
+        },
+        {
+          "key": "C",
+          "text": "sở thích của người trình bày trước lớp."
+        },
+        {
+          "key": "D",
+          "text": "mục đích thể hiện so sánh, kết cấu hay động thái của đề tài."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Việc gia công số liệu phục vụ mục tiêu phân tích: so sánh độ lớn thì giữ số tuyệt đối, làm rõ kết cấu thì tính tỉ trọng, làm rõ biến động thì tính tốc độ tăng trưởng hoặc chỉ số phát triển."
+    },
+    {
+      "id": "dia12-b35-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "nhận xét số liệu",
+        "động thái phát triển",
+        "viết báo cáo"
+      ],
+      "content": "Khi nhận xét một bảng số liệu thể hiện động thái phát triển của một chỉ tiêu qua nhiều năm, nội dung cần nêu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mỗi thành phần chiếm bao nhiêu phần trăm ở năm đầu tiên."
+        },
+        {
+          "key": "B",
+          "text": "xu hướng tăng hay giảm và các mốc đạt giá trị lớn nhất, nhỏ nhất."
+        },
+        {
+          "key": "C",
+          "text": "tên cơ quan đã xuất bản tài liệu."
+        },
+        {
+          "key": "D",
+          "text": "cách đổi đơn vị tính của từng số liệu."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Động thái phát triển là biến đổi theo thời gian nên nhận xét phải chỉ ra chiều biến động, giai đoạn tăng nhanh hay chậm và các mốc cực đại, cực tiểu; phần nội dung cần có số liệu dẫn chứng."
+    },
+    {
+      "id": "dia12-b35-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "tính tỉ trọng",
+        "cơ cấu",
+        "xử lí số liệu"
+      ],
+      "content": "**Bảng số liệu cơ cấu diện tích cây trồng của địa phương X (%):**\n\n- Cây hàng năm: 45,0; Cây lâu năm: 28,0; Lâm nghiệp và mặt nước khác: chưa hoàn thành\n\n*Nguồn: Niên giám thống kê.*\n\nVới bảng số liệu trên, biết tổng diện tích cây trồng quy ước bằng 100%, phần lâm nghiệp và mặt nước khác chiếm",
+      "options": [
+        {
+          "key": "A",
+          "text": "23,0%."
+        },
+        {
+          "key": "B",
+          "text": "73,0%."
+        },
+        {
+          "key": "C",
+          "text": "27,0%."
+        },
+        {
+          "key": "D",
+          "text": "17,0%."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tổng các thành phần của cơ cấu bằng 100%, nên phần còn lại = 100 trừ (45,0 + 28,0) = 100 trừ 73,0 = 27,0%."
+    },
+    {
+      "id": "dia12-b35-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dàn ý báo cáo",
+        "viết báo cáo",
+        "thực hành địa lí"
+      ],
+      "content": "Dàn ý của một báo cáo thực hành tìm hiểu địa lí địa phương gồm các phần theo trình tự",
+      "options": [
+        {
+          "key": "A",
+          "text": "mục lục sách giáo khoa, danh sách tài liệu, phụ lục ảnh."
+        },
+        {
+          "key": "B",
+          "text": "bảng số liệu, biểu đồ, danh sách người được phỏng vấn."
+        },
+        {
+          "key": "C",
+          "text": "thời gian làm bài, chữ ký, phần nhận xét của giáo viên."
+        },
+        {
+          "key": "D",
+          "text": "đặt vấn đề, nội dung tìm hiểu, kết luận và đề xuất."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Báo cáo thực hành có phần mở đầu nêu lí do và phạm vi, phần nội dung trình bày số liệu đã xử lí kèm nhận xét, phần kết luận và đề xuất giải pháp; tài liệu tham khảo đặt ở cuối."
+    },
+    {
+      "id": "dia12-b35-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "đoạn mở đầu",
+        "viết báo cáo",
+        "đặt vấn đề"
+      ],
+      "content": "Đoạn mở đầu của báo cáo thực hành thường nêu",
+      "options": [
+        {
+          "key": "A",
+          "text": "lí do chọn vấn đề, phạm vi và mục tiêu cần tìm hiểu."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ bảng số liệu thô chưa qua xử lí."
+        },
+        {
+          "key": "C",
+          "text": "danh sách các trang thông tin đã truy cập."
+        },
+        {
+          "key": "D",
+          "text": "dự báo kinh tế thế giới trong mười năm tới."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Đoạn mở đầu làm nhiệm vụ đặt vấn đề: vì sao chọn chủ đề này, nghiên cứu ở đâu và trong khoảng thời gian nào, hướng tới trả lời câu hỏi gì."
+    },
+    {
+      "id": "dia12-b35-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "phát triển bền vững",
+        "đề xuất giải pháp",
+        "đánh giá tác động"
+      ],
+      "content": "Một đề xuất giải pháp được coi là bền vững trong báo cáo địa lí địa phương khi nó",
+      "options": [
+        {
+          "key": "A",
+          "text": "mang lại hiệu quả kinh tế cao nhất trong thời gian ngắn nhất."
+        },
+        {
+          "key": "B",
+          "text": "đạt được sự cân bằng giữa phát triển kinh tế, bảo vệ môi trường và công bằng xã hội."
+        },
+        {
+          "key": "C",
+          "text": "tăng mức khai thác tài nguyên để nhanh có kết quả."
+        },
+        {
+          "key": "D",
+          "text": "chuyển toàn bộ hoạt động sản xuất sang địa phương khác."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Phát triển bền vững gồm ba mặt kinh tế, xã hội và môi trường; giải pháp chỉ bền vững khi không đánh đổi một mặt để làm hỏng hai mặt còn lại, đồng thời có thể duy trì lâu dài ở địa phương."
+    },
+    {
+      "id": "dia12-b35-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đánh giá tác động",
+        "quan hệ nhân quả",
+        "liên hệ thực tiễn"
+      ],
+      "content": "Cơ sở để đánh giá tác động của một hoạt động sản xuất tới môi trường và xã hội ở địa phương là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cảm nhận chung của người viết khi đứng trước cảnh quan."
+        },
+        {
+          "key": "B",
+          "text": "số lượng hình ảnh được sử dụng trong báo cáo."
+        },
+        {
+          "key": "C",
+          "text": "mối quan hệ nhân – quả giữa hoạt động đó với các biến đổi tự nhiên, dân cư, kinh tế – xã hội."
+        },
+        {
+          "key": "D",
+          "text": "độ dài của phần phụ lục kèm theo."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Đánh giá tác động phải dựa trên chuỗi nhân – quả có dẫn chứng: hoạt động tác động tới thành phần nào, theo hướng nào, mức độ ra sao, thể hiện qua số liệu hoặc quan sát thực địa."
+    },
+    {
+      "id": "dia12-b35-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng bản đồ",
+        "tỉ lệ bản đồ",
+        "thực hành địa lí"
+      ],
+      "content": "Trên bản đồ địa lí địa phương có tỉ lệ 1:250 000, khoảng cách giữa hai điểm đo được là 4,8 cm. Khoảng cách thực địa giữa hai điểm đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,2 km."
+        },
+        {
+          "key": "B",
+          "text": "4,8 km."
+        },
+        {
+          "key": "C",
+          "text": "25,0 km."
+        },
+        {
+          "key": "D",
+          "text": "12,0 km."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Khoảng cách thực địa = 4,8 nhân 250 000 = 1 200 000 cm = 12,0 km."
+    },
+    {
+      "id": "dia12-b35-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng bản đồ",
+        "kí hiệu bản đồ",
+        "bảng chú dẫn"
+      ],
+      "content": "Kí hiệu và bảng chú dẫn trên bản đồ có vai trò",
+      "options": [
+        {
+          "key": "A",
+          "text": "xác định hướng gió tại nơi được vẽ bản đồ."
+        },
+        {
+          "key": "B",
+          "text": "thể hiện các đối tượng địa lí theo vị trí, số lượng và chất lượng."
+        },
+        {
+          "key": "C",
+          "text": "thay thế cho tỉ lệ bản đồ."
+        },
+        {
+          "key": "D",
+          "text": "quy định màu sắc của biểu đồ trong báo cáo."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Kí hiệu bản đồ (điểm, tuyến, diện, chữ số) kết hợp bảng chú dẫn giúp đọc được đối tượng là gì, ở đâu, nhiều hay ít, tốt hay xấu."
+    },
+    {
+      "id": "dia12-b35-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "khai thác atlat",
+        "kĩ năng bản đồ",
+        "thu thập tài liệu"
+      ],
+      "content": "Cách khai thác atlat Địa lí Việt Nam phục vụ bài tìm hiểu địa phương hợp lí nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mở ngẫu nhiên một trang và chép lại mọi số liệu nhìn thấy."
+        },
+        {
+          "key": "B",
+          "text": "chỉ xem bản đồ hành chính ở trang đầu rồi kết luận."
+        },
+        {
+          "key": "C",
+          "text": "xác định vấn đề cần tìm, chọn đúng trang lược đồ, đối chiếu với bảng chú dẫn và số liệu ở trang đó."
+        },
+        {
+          "key": "D",
+          "text": "chép toàn bộ số liệu của mọi trang vào phần phụ lục."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Atlat là tập bản đồ chuyên đề, mỗi trang trả lời một vấn đề; cần dựa vào mục lục để chọn trang, đọc bảng chú dẫn để hiểu kí hiệu, rồi khai thác cả phần số liệu và biểu đồ kèm trang."
+    },
+    {
+      "id": "dia12-b35-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "xử lí số liệu",
+        "số trung bình cộng",
+        "làm tròn"
+      ],
+      "content": "**Bảng số liệu sản lượng lương thực có hạt của địa phương X (nghìn tấn):**\n\n- Năm 2022: 12,4; Năm 2023: 13,6; Năm 2024: 15,1\n\n*Nguồn: Niên giám thống kê.*\n\nVới bảng số liệu trên, sản lượng trung bình mỗi năm của giai đoạn 2022–2024, làm tròn đến một chữ số thập phân, là",
+      "options": [
+        {
+          "key": "A",
+          "text": "13,7 nghìn tấn."
+        },
+        {
+          "key": "B",
+          "text": "13,6 nghìn tấn."
+        },
+        {
+          "key": "C",
+          "text": "12,8 nghìn tấn."
+        },
+        {
+          "key": "D",
+          "text": "41,1 nghìn tấn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Tổng = 12,4 + 13,6 + 15,1 = 41,1 nghìn tấn; trung bình = 41,1 chia 3 = 13,7 nghìn tấn. Phương án D là tổng, chưa chia cho số năm."
+    },
+    {
+      "id": "dia12-b35-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "xử lí số liệu",
+        "làm tròn",
+        "tính trung thực"
+      ],
+      "content": "Sau khi tính tỉ trọng và làm tròn, tổng các thành phần của một cơ cấu bằng 100,2%. Cách xử lí đúng trong báo cáo là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cộng thêm 0,2% vào thành phần nhỏ nhất cho đủ 100%."
+        },
+        {
+          "key": "B",
+          "text": "xoá hết chữ số thập phân của mọi thành phần."
+        },
+        {
+          "key": "C",
+          "text": "ghi tổng là 101% để biểu đồ đẹp hơn."
+        },
+        {
+          "key": "D",
+          "text": "giữ nguyên số liệu đã tính và ghi chú rằng tổng sai khác nhỏ do làm tròn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Không được tự ý cộng thêm hay trừ bớt số liệu; chênh lệch do làm tròn là bình thường và phải được nêu minh bạch trong dòng chú dẫn của bảng."
+    },
+    {
+      "id": "dia12-b35-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "tính mật độ",
+        "dân cư",
+        "xử lí số liệu"
+      ],
+      "content": "Giả sử một huyện ở địa phương em có diện tích tự nhiên 320 km² và số dân 76 800 người. Mật độ dân số của huyện đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "4,2 người/km²."
+        },
+        {
+          "key": "B",
+          "text": "204 người/km²."
+        },
+        {
+          "key": "C",
+          "text": "240 người/km²."
+        },
+        {
+          "key": "D",
+          "text": "320 người/km²."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Mật độ dân số = số dân chia diện tích = 76 800 chia 320 = 240 người/km²."
+    },
+    {
+      "id": "dia12-b35-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "trình bày kết quả",
+        "trả lời câu hỏi",
+        "dẫn chứng số liệu"
+      ],
+      "content": "Khi trình bày kết quả và trả lời câu hỏi của người nghe, thái độ và cách làm phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "dựa vào bảng số liệu và biểu đồ đã lập để dẫn chứng cho từng nhận định."
+        },
+        {
+          "key": "B",
+          "text": "nhắc lại nguyên văn toàn bộ nội dung tài liệu tham khảo."
+        },
+        {
+          "key": "C",
+          "text": "từ chối trả lời để tránh xảy ra sai sót."
+        },
+        {
+          "key": "D",
+          "text": "sửa số liệu cho khớp với ý kiến người nghe."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Phần trình bày phải dựa trên sản phẩm đã làm; nếu chưa rõ một câu hỏi thì hẹn kiểm chứng thêm nguồn thay vì sửa số liệu hay né tránh."
+    },
+    {
+      "id": "dia12-b35-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "thu thập tài liệu",
+        "số liệu sơ cấp",
+        "ghi nguồn"
+      ],
+      "content": "Trong khâu thu thập và ghi nhận tài liệu phục vụ bài thực hành tìm hiểu địa lí địa phương, những phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số liệu sơ cấp do người học trực tiếp tạo ra thông qua điều tra, quan sát thực địa hoặc phỏng vấn."
+        },
+        {
+          "key": "B",
+          "text": "Niên giám thống kê được xếp vào nguồn số liệu sơ cấp vì do cơ quan nhà nước phát hành."
+        },
+        {
+          "key": "C",
+          "text": "Khi dẫn số liệu phải ghi rõ cơ quan phát hành và năm công bố để người đọc kiểm tra lại được."
+        },
+        {
+          "key": "D",
+          "text": "Độ tin cậy của số liệu tăng lên nếu chỉ dùng một nguồn duy nhất cho mọi chỉ tiêu."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "Đáp án A, C. A và C đúng vì nêu bản chất số liệu sơ cấp và yêu cầu ghi nguồn. B sai: niên giám thống kê là số liệu thứ cấp vì đã được người khác thu thập và công bố. D sai: độ tin cậy được nâng lên nhờ đối chiếu nhiều nguồn, không phải nhờ dùng một nguồn."
+    },
+    {
+      "id": "dia12-b35-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "xử lí số liệu",
+        "chọn biểu đồ",
+        "vẽ biểu đồ tròn"
+      ],
+      "content": "Về xử lí số liệu và lựa chọn biểu đồ trong bài thực hành địa lí địa phương, những phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ trọng của một thành phần bằng giá trị thành phần đó chia cho tổng rồi nhân với 100."
+        },
+        {
+          "key": "B",
+          "text": "Muốn thể hiện cơ cấu các thành phần tại một mốc thời gian, biểu đồ tròn là lựa chọn phù hợp."
+        },
+        {
+          "key": "C",
+          "text": "Biểu đồ đường chỉ vẽ được khi dãy số liệu có đúng hai năm."
+        },
+        {
+          "key": "D",
+          "text": "Trước khi vẽ biểu đồ tròn cần quy đổi từ phần trăm sang góc ở tâm, mỗi 1% ứng với 3,6 độ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Đáp án A, B, D. Ba phát biểu này đúng về công thức tỉ trọng, ưu điểm của biểu đồ tròn với cơ cấu và quy ước quy đổi 1% bằng 3,6 độ. C sai: biểu đồ đường cần dãy số liệu từ vài năm trở lên, càng nhiều năm càng thể hiện rõ động thái, không bị giới hạn ở hai năm."
+    },
+    {
+      "id": "dia12-b35-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "xác định vấn đề",
+        "khai thác atlat",
+        "viết báo cáo"
+      ],
+      "content": "Về xác định vấn đề và khai thác tài liệu bản đồ trong bài thực hành, những phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vấn đề địa lí địa phương chỉ bao gồm các yếu tố tự nhiên như khí hậu và nguồn nước."
+        },
+        {
+          "key": "B",
+          "text": "Giới hạn phạm vi không gian và thời gian giúp thu hẹp số liệu cần thu thập cho đúng trọng tâm."
+        },
+        {
+          "key": "C",
+          "text": "Phần đề xuất giải pháp nên được trình bày trước phần đặt vấn đề của báo cáo."
+        },
+        {
+          "key": "D",
+          "text": "Khai thác atlat cần xác định đúng trang lược đồ rồi đối chiếu với bảng chú dẫn và số liệu kèm trang."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "Đáp án B, D. B đúng vì giới hạn phạm vi là bước thu hẹp vấn đề; D đúng vì đó là quy trình đọc atlat. A sai: vấn đề địa lí địa phương gồm cả tự nhiên, dân cư và kinh tế – xã hội. C sai: đề xuất giải pháp là phần sau của báo cáo, đi sau đặt vấn đề và nội dung."
+    },
+    {
+      "id": "dia12-b35-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đánh giá tác động",
+        "giải pháp bền vững",
+        "kiểm chứng số liệu"
+      ],
+      "content": "Về đánh giá tác động và hoàn thiện báo cáo thực hành địa lí địa phương, những phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giải pháp bền vững phải tính đồng thời hiệu quả kinh tế, bảo vệ môi trường và lợi ích xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Đánh giá tác động chỉ cần dựa vào cảm nhận của người viết về cảnh quan địa phương."
+        },
+        {
+          "key": "C",
+          "text": "Đối chiếu nhiều nguồn chính thống với nhau là cách kiểm chứng độ tin cậy của số liệu."
+        },
+        {
+          "key": "D",
+          "text": "Khi tổng các tỉ trọng lệch khỏi 100% do làm tròn, cần ghi rõ lí do trong chú dẫn của bảng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "Đáp án A, C, D. A thể đủ ba mặt của phát triển bền vững, C là nguyên tắc đối chiếu nguồn, D là cách xử lí minh bạch sai số làm tròn. B sai: đánh giá tác động phải dựa vào mối quan hệ nhân – quả có số liệu hoặc quan sát dẫn chứng, không dựa vào cảm nhận."
+    },
+    {
+      "id": "dia12-b35-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng bản đồ",
+        "chọn biểu đồ",
+        "trình bày kết quả"
+      ],
+      "content": "Một học sinh thu được số liệu của địa phương X và tiến hành các bước xử lí, trình bày sau. Những phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảng số liệu trong báo cáo không cần ghi đơn vị tính vì đã có biểu đồ bên cạnh."
+        },
+        {
+          "key": "B",
+          "text": "Để thể hiện tốc độ tăng trưởng của hai chỉ tiêu qua năm năm liên tục, biểu đồ đường là phù hợp."
+        },
+        {
+          "key": "C",
+          "text": "Với bản đồ tỉ lệ 1:250 000, 1 cm trên bản đồ ứng với 2,5 km ngoài thực địa."
+        },
+        {
+          "key": "D",
+          "text": "Khi trình bày kết quả, nên dùng số liệu ở bảng và biểu đồ đã lập làm dẫn chứng cho nhận định."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "Đáp án B, C, D. B đúng vì dãy số liệu đã quy về chỉ số phát triển qua nhiều năm thì biểu đồ đường thể hiện rõ tốc độ tăng trưởng. C đúng vì 250 000 cm bằng 2,5 km. D đúng vì nhận định phải có dẫn chứng. A sai: tên bảng bắt buộc kèm đơn vị tính và nguồn số liệu, biểu đồ không thay thế được."
+    }
+  ]
+}

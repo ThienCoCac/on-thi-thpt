@@ -4,6 +4,7 @@
   "slug": "de-tin-hoc-12-so-03",
   "description": "Đề ôn tập môn Tin học 12 bộ sách Định hướng Tin học ứng dụng (Kết nối tri thức), gồm Bài 6 – Giao tiếp và ứng xử trong không gian mạng (Chủ đề 3) và Bài 7, 8, 9 – HTML và cấu trúc trang web, định dạng văn bản, tạo danh sách và bảng (Chủ đề 4). Đề có 28 câu: 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút.",
   "subject": "tin-hoc",
+  "grade": 12,
   "type": "TOPIC_TEST",
   "durationMinutes": 45,
   "totalScore": 10,
@@ -903,7 +904,7 @@
         },
         {
           "key": "D",
-          "text": "Thẻ <mark> dùng để đánh dấu (highlight) đoạn văn bản, thẻ <u> dùng để gạch chân."
+          "text": "Thẻ <mark> dùng để đánh dấu (highlight) đoạn văn bản; còn thẻ <u> tuy được Bảng 8.1 liệt kê với tác dụng gạch chân nhưng lưu ý của Bài 8 khuyến nghị thay bằng giá trị text-decoration trong thuộc tính style."
         }
       ],
       "correctAnswer": [

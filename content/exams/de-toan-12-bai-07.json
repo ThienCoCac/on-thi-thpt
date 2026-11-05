@@ -1,0 +1,679 @@
+{
+  "id": "de-toan-12-bai-07",
+  "title": "Đề ôn Toán 12 Bài 7: Hệ trục toạ độ trong không gian (20 câu)",
+  "slug": "de-toan-12-bai-07",
+  "description": "Đề bám sát Bài 7 sách Toán 12 Kết nối tri thức: toạ độ của điểm và của vectơ trong hệ trục Oxyz, độ dài vectơ, khoảng cách giữa hai điểm, trung điểm, trọng tâm, điểm chia đoạn, hình chiếu trên các trục và mặt phẳng toạ độ. 20 câu trắc nghiệm bốn lựa chọn làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B07",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b07-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, toạ độ của vectơ $\\vec{u} = 2\\vec{i} - 3\\vec{j} + \\vec{k}$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(2;-3;1)$."
+        },
+        {
+          "key": "B",
+          "text": "$(2;3;1)$."
+        },
+        {
+          "key": "C",
+          "text": "$(-2;3;-1)$."
+        },
+        {
+          "key": "D",
+          "text": "$(1;-3;2)$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hệ số của $\\vec{i}, \\vec{j}, \\vec{k}$ lần lượt là hoành độ, tung độ, cao độ, nên $\\vec{u} = (2;-3;1)$. Nhầm dấu ở $-3\\vec{j}$ và $\\vec{k}$ dẫn tới phương án sai B, C; đổi thứ tự các hệ số dẫn tới D.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "toạ độ vectơ",
+        "hệ trục Oxyz"
+      ]
+    },
+    {
+      "id": "toan12-b07-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, điểm nào sau đây thuộc mặt phẳng $(Oxy)$?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$M(1;2;3)$."
+        },
+        {
+          "key": "B",
+          "text": "$N(0;0;5)$."
+        },
+        {
+          "key": "C",
+          "text": "$P(2;-1;0)$."
+        },
+        {
+          "key": "D",
+          "text": "$Q(0;3;-2)$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Điểm thuộc $(Oxy)$ khi và chỉ khi cao độ bằng $0$, tức có dạng $(x;y;0)$. Chỉ có $P(2;-1;0)$ thoả mãn. Điểm $N(0;0;5)$ nằm trên trục $Oz$, còn $Q(0;3;-2)$ nằm trên mặt phẳng $(Oyz)$ vì có hoành độ bằng $0$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "điểm thuộc mặt phẳng toạ độ",
+        "cao độ"
+      ]
+    },
+    {
+      "id": "toan12-b07-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, độ dài của vectơ $\\vec{a} = (2;-2;1)$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$9$."
+        },
+        {
+          "key": "B",
+          "text": "$3$."
+        },
+        {
+          "key": "C",
+          "text": "$1$."
+        },
+        {
+          "key": "D",
+          "text": "$\\sqrt{5}$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "$|\\vec{a}| = \\sqrt{2^2 + (-2)^2 + 1^2} = \\sqrt{4+4+1} = \\sqrt{9} = 3$. Giá trị $9$ là tổng bình phương, tức quên lấy căn; giá trị $1$ là cộng các thành phần; $\\sqrt{5}$ là bỏ sót thành phần $-2$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "độ dài vectơ",
+        "quên căn"
+      ]
+    },
+    {
+      "id": "toan12-b07-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, cho $A(1;2;3)$ và $B(3;-1;5)$. Toạ độ trung điểm $I$ của đoạn $AB$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(4;1;8)$."
+        },
+        {
+          "key": "B",
+          "text": "$(2;\\dfrac{3}{2};4)$."
+        },
+        {
+          "key": "C",
+          "text": "$(2;-\\dfrac{1}{2};4)$."
+        },
+        {
+          "key": "D",
+          "text": "$(2;\\dfrac{1}{2};4)$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trung điểm có toạ độ là trung bình cộng từng cặp toạ độ: $I\\left(\\dfrac{1+3}{2}; \\dfrac{2+(-1)}{2}; \\dfrac{3+5}{2}\\right) = (2;\\dfrac{1}{2};4)$. Phương án A là cộng hai đầu mút mà quên chia $2$; B và C sai do nhầm dấu khi tính $\\dfrac{2-1}{2}$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "trung điểm đoạn",
+        "toạ độ"
+      ]
+    },
+    {
+      "id": "toan12-b07-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, trọng tâm của tam giác $ABC$ với $A(1;0;2)$, $B(0;3;1)$, $C(2;2;0)$ có toạ độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(3;5;3)$."
+        },
+        {
+          "key": "B",
+          "text": "$(1;\\dfrac{5}{3};1)$."
+        },
+        {
+          "key": "C",
+          "text": "$(1;\\dfrac{5}{3};-1)$."
+        },
+        {
+          "key": "D",
+          "text": "$(1;-\\dfrac{5}{3};1)$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trọng tâm $G = \\left(\\dfrac{1+0+2}{3}; \\dfrac{0+3+2}{3}; \\dfrac{2+1+0}{3}\\right) = (1;\\dfrac{5}{3};1)$. Phương án A là tổng ba đỉnh mà quên chia $3$; C và D chỉ sai dấu ở một thành phần.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "trọng tâm tam giác",
+        "toạ độ"
+      ]
+    },
+    {
+      "id": "toan12-b07-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, cho $A(1;2;-1)$ và $B(3;0;2)$. Toạ độ của vectơ $\\vec{AB}$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(2;-2;3)$."
+        },
+        {
+          "key": "B",
+          "text": "$(-2;2;-3)$."
+        },
+        {
+          "key": "C",
+          "text": "$(4;2;1)$."
+        },
+        {
+          "key": "D",
+          "text": "$(2;-2;-3)$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "$\\vec{AB} = (3-1; 0-2; 2-(-1)) = (2;-2;3)$. Lấy điểm đầu trừ điểm cuối cho vectơ $\\vec{BA} = (-2;2;-3)$; cộng hai điểm cho $(4;2;1)$; trừ ngược ở cao độ cho $(2;-2;-3)$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "toạ độ vectơ AB",
+        "hiệu hai điểm"
+      ]
+    },
+    {
+      "id": "toan12-b07-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, khoảng cách giữa hai điểm $A(1;-2;3)$ và $B(3;2;-1)$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$36$."
+        },
+        {
+          "key": "B",
+          "text": "$\\sqrt{24}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\sqrt{20}$."
+        },
+        {
+          "key": "D",
+          "text": "$6$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "$AB = \\sqrt{(3-1)^2 + (2-(-2))^2 + (-1-3)^2} = \\sqrt{4+16+16} = \\sqrt{36} = 6$. Quên lấy căn cho $36$; tính cao độ thành $3+(-1)=2$ cho $\\sqrt{24}$; bỏ hẳn hiệu ở cao độ cho $\\sqrt{20}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "khoảng cách hai điểm",
+        "quên căn"
+      ]
+    },
+    {
+      "id": "toan12-b07-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, cho $A(2;1;0)$ và $B(-1;3;2)$. Điểm $M$ thoả mãn $\\vec{AM} = 2\\vec{MB}$ có toạ độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(0;7;4)$."
+        },
+        {
+          "key": "B",
+          "text": "$(1;\\dfrac{5}{3};\\dfrac{2}{3})$."
+        },
+        {
+          "key": "C",
+          "text": "$(0;\\dfrac{7}{3};\\dfrac{4}{3})$."
+        },
+        {
+          "key": "D",
+          "text": "$(\\dfrac{1}{2};2;1)$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Gọi $M(x;y;z)$. Từ $\\vec{AM} = 2\\vec{MB}$ suy ra $M - A = 2(B - M)$, tức $M = \\dfrac{A + 2B}{3} = \\left(\\dfrac{2-2}{3}; \\dfrac{1+6}{3}; \\dfrac{0+4}{3}\\right) = (0;\\dfrac{7}{3};\\dfrac{4}{3})$. Phương án A quên chia $3$; B nhầm chiều tỉ số ($\\vec{BM} = 2\\vec{MA}$); D là trung điểm của $AB$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "điểm chia đoạn",
+        "vectơ bằng nhau"
+      ]
+    },
+    {
+      "id": "toan12-b07-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, hình chiếu vuông góc của điểm $M(2;-3;5)$ trên mặt phẳng $(Oyz)$ có toạ độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(2;-3;0)$."
+        },
+        {
+          "key": "B",
+          "text": "$(0;-3;5)$."
+        },
+        {
+          "key": "C",
+          "text": "$(2;0;5)$."
+        },
+        {
+          "key": "D",
+          "text": "$(0;0;5)$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chiếu lên $(Oyz)$ thì hoành độ bị triệt tiêu, hai thành phần $y, z$ giữ nguyên, ta được $(0;-3;5)$. Phương án A là hình chiếu trên $(Oxy)$, C là hình chiếu trên $(Oxz)$, D là hình chiếu trên trục $Oz$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "hình chiếu",
+        "mặt phẳng toạ độ"
+      ]
+    },
+    {
+      "id": "toan12-b07-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, với giá trị nào của $m$ thì hai vectơ $\\vec{u} = (2;-4;6)$ và $\\vec{v} = (1;m;3)$ cùng phương?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$m = -2$."
+        },
+        {
+          "key": "B",
+          "text": "$m = 2$."
+        },
+        {
+          "key": "C",
+          "text": "$m = -3$."
+        },
+        {
+          "key": "D",
+          "text": "$m = \\dfrac{1}{2}$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận xét $\\vec{u} = 2\\vec{v}$ khi các thành phần đầu và cuối khớp nhau: $2 = 2 \\cdot 1$ và $6 = 2 \\cdot 3$. Thành phần thứ hai đòi hỏi $-4 = 2m$, suy ra $m = -2$. Lấy tỉ số dương $2$ mà bỏ dấu của $-4$ sẽ nhầm ra $m = 2$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "hai vectơ cùng phương",
+        "tỉ số"
+      ]
+    },
+    {
+      "id": "toan12-b07-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, cho $A(1;0;2)$, $B(2;-1;1)$, $C(0;3;1)$. Điểm $D$ để $ABCD$ là hình bình hành có toạ độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(3;-2;2)$."
+        },
+        {
+          "key": "B",
+          "text": "$(1;4;0)$."
+        },
+        {
+          "key": "C",
+          "text": "$(-1;4;2)$."
+        },
+        {
+          "key": "D",
+          "text": "$(1;-4;-2)$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "$ABCD$ là hình bình hành khi $\\vec{AB} = \\vec{DC}$, suy ra $D = A + C - B = (1+0-2; 0+3+1; 2+1-1) = (-1;4;2)$. Thử lại: $\\vec{AB} = (1;-1;-1)$ và $\\vec{DC} = (0+1; 3-4; 1-2) = (1;-1;-1)$. Phương án B là điểm $D=B+C-A$ (nhầm cặp cạnh đối của hình bình hành); A và D là lỗi tính dấu khi lấy hiệu toạ độ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "hình bình hành",
+        "vectơ bằng nhau"
+      ]
+    },
+    {
+      "id": "toan12-b07-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, tam giác $ABC$ có trọng tâm $G(1;2;3)$, biết $A(2;0;1)$ và $B(0;3;-1)$. Đỉnh $C$ có toạ độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(-1;-1;3)$."
+        },
+        {
+          "key": "B",
+          "text": "$(5;9;9)$."
+        },
+        {
+          "key": "C",
+          "text": "$(1;3;-9)$."
+        },
+        {
+          "key": "D",
+          "text": "$(1;3;9)$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Từ $G = \\dfrac{A+B+C}{3}$ suy ra $C = 3G - A - B = (3-2-0; 6-0-3; 9-1+1) = (1;3;9)$. Thử lại: $\\dfrac{2+0+1}{3} = 1$, $\\dfrac{0+3+3}{3} = 2$, $\\dfrac{1-1+9}{3} = 3$. Phương án A quên nhân $3$ ở $G$, B cộng nhầm $A+B$ thay vì trừ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "trọng tâm tam giác",
+        "toạ độ đỉnh"
+      ]
+    },
+    {
+      "id": "toan12-b07-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, hình hộp chữ nhật $ABCD.A'B'C'D'$ có $A(0;0;0)$, $B(3;0;0)$, $D(0;4;0)$, $A'(0;0;5)$. Đỉnh $C'$ có toạ độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(3;4;5)$."
+        },
+        {
+          "key": "B",
+          "text": "$(3;4;0)$."
+        },
+        {
+          "key": "C",
+          "text": "$(0;4;5)$."
+        },
+        {
+          "key": "D",
+          "text": "$(4;3;5)$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáy $ABCD$ là hình chữ nhật nên $C = B + D - A = (3;4;0)$, còn $\\vec{AA'} = (0;0;5)$ là vectơ chỉ chiều cao. Do $\\vec{CC'} = \\vec{AA'}$ nên $C' = (3;4;5)$. Phương án B mới là đỉnh $C$, C là đỉnh $D'$, D hoán vị hai thành phần đầu.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "hình hộp chữ nhật",
+        "toạ độ đỉnh"
+      ]
+    },
+    {
+      "id": "toan12-b07-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, các điểm thuộc trục hoành và cách điểm $A(0;1;2)$ một khoảng bằng $3$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(2;0;0)$ và $(0;0;2)$."
+        },
+        {
+          "key": "B",
+          "text": "$(2;0;0)$ và $(-2;0;0)$."
+        },
+        {
+          "key": "C",
+          "text": "$(0;2;0)$ và $(0;-2;0)$."
+        },
+        {
+          "key": "D",
+          "text": "$(4;0;0)$ và $(-4;0;0)$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Điểm trên trục hoành có dạng $M(x;0;0)$. Điều kiện $MA = 3$ cho $x^2 + 1 + 4 = 9$, tức $x^2 = 4$, suy ra $x = \\pm 2$. Phương án A đặt nhầm một điểm sang trục $Oz$ — $(0;0;2)$ không thuộc trục hoành và cách $A$ một khoảng bằng $1$; C đặt nhầm điểm trên trục $Oy$; D lấy $x = \\pm 4$ do quên khai căn.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "khoảng cách",
+        "điểm trên trục"
+      ]
+    },
+    {
+      "id": "toan12-b07-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, cho $M(3;-4;12)$ và $H$ là hình chiếu vuông góc của $M$ trên mặt phẳng $(Oxy)$. Độ dài $OM$ và độ dài $MH$ lần lượt bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$12$ và $13$."
+        },
+        {
+          "key": "B",
+          "text": "$13$ và $5$."
+        },
+        {
+          "key": "C",
+          "text": "$13$ và $12$."
+        },
+        {
+          "key": "D",
+          "text": "$13$ và $4$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "$OM = \\sqrt{3^2 + (-4)^2 + 12^2} = \\sqrt{9+16+144} = \\sqrt{169} = 13$. Hình chiếu lên $(Oxy)$ là $H(3;-4;0)$ nên $MH = |12| = 12$. Phương án B lấy $OH = \\sqrt{9+16} = 5$ (khoảng cách tới trục $Oz$) thay vì $MH$; D lấy nhầm $|y| = 4$; A đảo thứ tự hai kết quả.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "hình chiếu",
+        "độ dài đoạn"
+      ]
+    },
+    {
+      "id": "toan12-b07-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, điểm thuộc trục $Ox$ và cách đều hai điểm $A(1;2;1)$, $B(3;-2;1)$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(-2;0;0)$."
+        },
+        {
+          "key": "B",
+          "text": "$(2;0;0)$."
+        },
+        {
+          "key": "C",
+          "text": "$(0;0;2)$."
+        },
+        {
+          "key": "D",
+          "text": "$(0;2;0)$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vì $M$ thuộc $Ox$ nên $M(t;0;0)$; hai phương án C, D có dạng sai ràng buộc này. Từ $MA^2 = MB^2$ ta có $(t-1)^2 + 4 + 1 = (t-3)^2 + 4 + 1$, tức $(t-1)^2 = (t-3)^2 \\Leftrightarrow 4t = 8 \\Leftrightarrow t = 2$. Thử lại $MA^2 = MB^2 = 6$. Nhầm dấu khi khai triển dễ dẫn tới $t = -2$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "cách đều hai điểm",
+        "điểm trên trục"
+      ]
+    },
+    {
+      "id": "toan12-b07-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, cho $A(-1;0;5)$ và $M(1;2;3)$. Điểm $B$ để $\\vec{AM} = 2\\vec{MB}$ có toạ độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(4;6;4)$."
+        },
+        {
+          "key": "B",
+          "text": "$(5;6;-1)$."
+        },
+        {
+          "key": "C",
+          "text": "$(2;3;-2)$."
+        },
+        {
+          "key": "D",
+          "text": "$(2;3;2)$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Từ $\\vec{AM} = 2\\vec{MB}$ ta có $M - A = 2(B - M)$, suy ra $B = \\dfrac{3M - A}{2} = \\dfrac{(3+1; 6-0; 9-5)}{2} = (2;3;2)$. Thử lại: $\\vec{AM} = (2;2;-2)$ và $\\vec{MB} = (1;1;-1)$. Phương án A quên chia $2$; B ứng với nhầm chiều $\\vec{AM} = \\dfrac{1}{2}\\vec{MB}$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "điểm chia đoạn",
+        "toạ độ điểm"
+      ]
+    },
+    {
+      "id": "toan12-b07-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, điểm $M$ chạy trên mặt phẳng $(Oxy)$. Giá trị nhỏ nhất của $MA + MB$ với $A(1;2;3)$ và $B(4;1;5)$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\sqrt{74}$."
+        },
+        {
+          "key": "B",
+          "text": "$\\sqrt{14}$."
+        },
+        {
+          "key": "C",
+          "text": "$74$."
+        },
+        {
+          "key": "D",
+          "text": "$\\sqrt{22}$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lấy $A'(1;2;-3)$ đối xứng với $A$ qua $(Oxy)$; với mọi $M$ thuộc $(Oxy)$ thì $MA = MA'$, do đó $MA + MB = MA' + MB \\ge A'B$. Đoạn $A'B$ cắt $(Oxy)$ (cao độ đổi dấu từ $-3$ sang $5$) nên dấu bằng đạt được tại $M(\\dfrac{17}{8}; \\dfrac{13}{8}; 0)$. Ta có $A'B = \\sqrt{3^2 + (-1)^2 + 8^2} = \\sqrt{74}$. Phương án B là $AB$ nhưng do $A, B$ cùng phía so với $(Oxy)$ nên không đạt được.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "giá trị nhỏ nhất",
+        "đối xứng qua mặt phẳng toạ độ"
+      ]
+    },
+    {
+      "id": "toan12-b07-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, cho ba điểm $A(0;0;3)$, $B(0;4;3)$, $C(6;4;3)$. Điểm $M$ thuộc mặt phẳng $(Oxy)$ và cách đều ba điểm đã cho có toạ độ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(2;3;0)$."
+        },
+        {
+          "key": "B",
+          "text": "$(3;2;3)$."
+        },
+        {
+          "key": "C",
+          "text": "$(3;2;0)$."
+        },
+        {
+          "key": "D",
+          "text": "$(3;-2;0)$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đặt $M(x;y;0)$ vì $M$ thuộc $(Oxy)$. Từ $MA^2 = MB^2$: $x^2 + y^2 + 9 = x^2 + (y-4)^2 + 9$ nên $y^2 = (y-4)^2$, tức $y = 2$. Từ $MA^2 = MC^2$: $x^2 + 4 + 9 = (x-6)^2 + (2-4)^2 + 9$, tức $x^2 = (x-6)^2 \\Leftrightarrow 12x = 36$, suy ra $x = 3$. Vậy $M(3;2;0)$ và khoảng cách chung tới ba điểm là $\\sqrt{22}$. Phương án A hoán vị $x, y$; B quên điều kiện $z = 0$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "cách đều ba điểm",
+        "hệ phương trình toạ độ"
+      ]
+    },
+    {
+      "id": "toan12-b07-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b07-he-truc-toa-do",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian Oxyz, điểm $M$ chạy trên trục $Ox$. Giá trị nhỏ nhất của độ dài vectơ $\\vec{u} = \\vec{MA} + 2\\vec{MB}$ với $A(2;3;1)$ và $B(5;0;-2)$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$18$."
+        },
+        {
+          "key": "B",
+          "text": "$9\\sqrt{2}$."
+        },
+        {
+          "key": "C",
+          "text": "$\\sqrt{34}$."
+        },
+        {
+          "key": "D",
+          "text": "$3\\sqrt{2}$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Với $M(t;0;0)$: $\\vec{MA} = (2-t;3;1)$ và $\\vec{MB} = (5-t;0;-2)$, nên $\\vec{u} = (12-3t; 3; -3)$. Do đó $|\\vec{u}|^2 = (12-3t)^2 + 9 + 9 \\ge 18$, dấu bằng tại $t = 4$, tức $M(4;0;0)$ và $|\\vec{u}|_{\\min} = \\sqrt{18} = 3\\sqrt{2}$. Phương án A quên lấy căn; B lấy $t = 0$; C nhầm thành $\\vec{u} = \\vec{MA} - 2\\vec{MB}$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "độ dài vectơ",
+        "giá trị nhỏ nhất"
+      ]
+    }
+  ]
+}

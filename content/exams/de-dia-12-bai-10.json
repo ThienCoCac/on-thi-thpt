@@ -1,0 +1,1493 @@
+{
+  "id": "de-dia-12-bai-10",
+  "title": "Đề ôn tập Địa lí 12 – Bài 10: Thực hành – Viết báo cáo về một chủ đề dân cư ở Việt Nam",
+  "slug": "de-dia-12-bai-10",
+  "description": "Đề ôn tập 45 phút theo Bài 10 Địa lí 12 – Thực hành: viết báo cáo về một chủ đề dân cư ở Việt Nam (bản chỉnh sửa 2026). Đề kiểm tra kĩ năng làm việc địa lí: chọn chủ đề và câu hỏi nghiên cứu, cấu trúc mở – nội dung – kết luận, thu thập và xử lí số liệu (mật độ dân số, tỉ trọng, chỉ số phát triển, số dân tăng thêm), đọc bảng số liệu mô tả bằng lời, chọn loại biểu đồ phù hợp, tách nhận xét khỏi giải thích và viết đoạn về phân bố dân cư, lao động – việc làm, chất lượng cuộc sống, đô thị hoá. Phần I gồm 35 câu trắc nghiệm bốn phương án, Phần II gồm 5 câu chọn hai phát biểu đúng; mỗi câu 0,25 điểm, tổng 10 điểm.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B10",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b10-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Chủ đề nào sau đây phù hợp nhất với yêu cầu của Bài 10 – viết báo cáo về một chủ đề dân cư ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự phân hoá của thiên nhiên theo độ cao ở vùng núi."
+        },
+        {
+          "key": "B",
+          "text": "Tình hình phát triển ngành thuỷ sản ở Duyên hải Nam Trung Bộ và Tây Nguyên."
+        },
+        {
+          "key": "C",
+          "text": "Tình hình phân bố dân cư ở nước ta hiện nay."
+        },
+        {
+          "key": "D",
+          "text": "Vai trò của ngành giao thông vận tải đối với hoạt động thương mại."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Bài 10 yêu cầu chọn một chủ đề thuộc nội dung dân cư: dân số, phân bố dân cư, lao động và việc làm, chất lượng cuộc sống hoặc đô thị hoá. A thuộc phần thiên nhiên (Bài 3, Bài 4); B thuộc phần nông – lâm – thuỷ sản (Bài 13, Bài 28); D thuộc phần dịch vụ (Bài 21, Bài 22), đều nằm ngoài phạm vi chủ đề dân cư.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "chọn chủ đề báo cáo"
+      ]
+    },
+    {
+      "id": "dia12-b10-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Phần mở đầu của một báo cáo địa lí thường viết những nội dung nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nêu lí do chọn chủ đề, mục tiêu cần làm rõ và phạm vi nội dung, phạm vi lãnh thổ của báo cáo."
+        },
+        {
+          "key": "B",
+          "text": "Liệt kê toàn bộ bảng số liệu thô đã sưu tầm được."
+        },
+        {
+          "key": "C",
+          "text": "Rút ra kết luận và đề xuất giải pháp cho vấn đề."
+        },
+        {
+          "key": "D",
+          "text": "Trình bày lần lượt từng nhận định kèm dẫn chứng số liệu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Mở đầu là phần đặt vấn đề: vì sao chọn chủ đề, báo cáo nhằm làm rõ điều gì, giới hạn ở nội dung và địa bàn nào. B là nội dung của phiếu thu thập số liệu hoặc phụ lục; C thuộc phần kết luận; D là nhiệm vụ của phần nội dung.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "cấu trúc báo cáo"
+      ]
+    },
+    {
+      "id": "dia12-b10-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Phần nội dung (phần thân) của một báo cáo địa lí gồm",
+      "options": [
+        {
+          "key": "A",
+          "text": "lời cảm ơn và danh mục các từ viết tắt."
+        },
+        {
+          "key": "B",
+          "text": "lí do chọn đề tài và phạm vi nghiên cứu."
+        },
+        {
+          "key": "C",
+          "text": "khái quát kết quả và hướng vận dụng của người viết."
+        },
+        {
+          "key": "D",
+          "text": "các nội dung thành phần sắp xếp theo trình tự logic, mỗi ý có số liệu hoặc minh chứng kèm theo."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Phần nội dung giải quyết vấn đề đã nêu ở mở đầu bằng hệ thống ý nhỏ: khái quát chủ đề, thực trạng, nguyên nhân, kèm dẫn chứng là bảng số liệu hoặc biểu đồ. A và B thuộc phần mở đầu của báo cáo; C là phần kết luận.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "cấu trúc báo cáo"
+      ]
+    },
+    {
+      "id": "dia12-b10-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Yêu cầu nào sau đây đúng với phần kết luận của báo cáo thực hành?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bổ sung những số liệu mới chưa từng được phân tích ở phần nội dung."
+        },
+        {
+          "key": "B",
+          "text": "Khái quát hoá các kết quả đã trình bày và trả lời đúng mục tiêu đã nêu ở phần mở đầu."
+        },
+        {
+          "key": "C",
+          "text": "Chép lại nguyên văn phần mở đầu cho đủ ba phần."
+        },
+        {
+          "key": "D",
+          "text": "Liệt kê danh mục tài liệu tham khảo theo thứ tự thời gian."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Kết luận là câu trả lời tổng hợp cho vấn đề đã đặt ra, dựa trên những gì phần nội dung đã chứng minh. A sai vì số liệu mới phải xuất hiện và được phân tích ở phần nội dung trước khi kết luận; C sai vì lặp lại không tạo thêm kết quả; D là việc của phần tài liệu tham khảo.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "kết luận báo cáo"
+      ]
+    },
+    {
+      "id": "dia12-b10-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi bắt đầu bài thực hành viết báo cáo về một chủ đề dân cư, việc cần làm trước tiên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "xác định chủ đề cụ thể và phạm vi nội dung sẽ viết, sau đó lập đề cương các ý."
+        },
+        {
+          "key": "B",
+          "text": "vẽ ngay biểu đồ để có hình minh hoạ."
+        },
+        {
+          "key": "C",
+          "text": "viết phần kết luận trước cho chắc ý."
+        },
+        {
+          "key": "D",
+          "text": "sưu tập thật nhiều ảnh về các vùng dân cư."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Xác định chủ đề và lập đề cương là bước định hướng, quyết định sẽ tìm số liệu gì, chọn loại biểu đồ nào, trình bày theo trật tự nào. B và D là sản phẩm hoặc tư liệu phụ, làm khi chưa có đề cương dễ thừa hoặc thiếu; C trái trật tự logic vì kết luận phải được rút ra từ nội dung đã phân tích.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "các bước lập báo cáo"
+      ]
+    },
+    {
+      "id": "dia12-b10-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong báo cáo địa lí, mỗi nhận xét đều cần gắn với dẫn chứng số liệu vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "số liệu giúp báo cáo đạt đủ số trang theo yêu cầu."
+        },
+        {
+          "key": "B",
+          "text": "dẫn chứng làm cho nhận định kiểm chứng được và tránh những đánh giá chung chung."
+        },
+        {
+          "key": "C",
+          "text": "số liệu luôn dễ đọc hơn lời văn nên có thể thay hẳn lời văn."
+        },
+        {
+          "key": "D",
+          "text": "dẫn chứng là cách duy nhất để giải thích nguyên nhân của hiện tượng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Giá trị của một báo cáo địa lí nằm ở chỗ người đọc tra lại được vì sao người viết nói “cao”, “tăng nhanh”, “không đều”; muốn vậy phải có con số, bảng hoặc biểu đồ đi kèm. A sai vì độ dài không phải mục tiêu của báo cáo; C sai vì số liệu vẫn cần lời văn diễn đạt; D sai vì giải thích nguyên nhân là bước khác, không thay thế được dẫn chứng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "dẫn chứng số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Câu nào sau đây là nhận xét về dân cư, chưa phải là câu giải thích?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dân cư tập trung đông ở đồng bằng vì đất canh tác nhiều và giao thông thuận lợi."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ lệ dân thành thị tăng nhanh do công nghiệp hoá thu hút lao động vào đô thị."
+        },
+        {
+          "key": "C",
+          "text": "Chất lượng cuộc sống được nâng lên nhờ mạng lưới y tế cơ sở ngày càng rộng khắp."
+        },
+        {
+          "key": "D",
+          "text": "Giai đoạn 2009 – 2024, tỉ lệ dân thành thị của nước ta tăng từ 30% lên 40%."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Câu D chỉ nêu đối tượng, mốc thời gian và con số, tức là mô tả điều nhìn thấy trong số liệu. A, B, C đều có vế trả lời câu hỏi “vì sao” (vì, do, nhờ) nên là câu giải thích; khi viết báo cáo, hai nội dung này phải tách rõ để nhận xét có dẫn chứng và giải thích có căn cứ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "nhận xét và giải thích"
+      ]
+    },
+    {
+      "id": "dia12-b10-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Câu nào sau đây đóng vai trò giải thích trong một báo cáo về dân cư?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mật độ dân số của vùng đồng bằng là 1 200 người/km², của vùng trung du và miền núi là 350 người/km²."
+        },
+        {
+          "key": "B",
+          "text": "Cả nước có 34 tỉnh, thành phố trực thuộc trung ương và được chia thành 6 vùng kinh tế – xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ suất sinh giảm chủ yếu vì mức sống và trình độ dân trí nâng lên, cùng với hiệu quả của công tác kế hoạch hoá gia đình."
+        },
+        {
+          "key": "D",
+          "text": "Cơ cấu lao động phân theo ngành đang chuyển dịch theo hướng giảm dần khu vực nông – lâm – thuỷ sản."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Câu C trả lời nguyên nhân của một hiện tượng đã nêu và có từ đánh dấu quan hệ nhân quả (vì, cùng với). A và B chỉ là số liệu, dữ kiện mô tả; D nêu xu hướng quan sát được trong bảng, tức nhận xét về sự chuyển dịch, chưa lí giải nguyên nhân.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "nhận xét và giải thích"
+      ]
+    },
+    {
+      "id": "dia12-b10-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công thức tính mật độ dân số, tử số và mẫu số lần lượt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tổng số dân (người) và diện tích lãnh thổ (km²)."
+        },
+        {
+          "key": "B",
+          "text": "số dân trong độ tuổi lao động (người) và diện tích đất nông nghiệp (km²)."
+        },
+        {
+          "key": "C",
+          "text": "diện tích lãnh thổ (km²) và tổng số dân (người)."
+        },
+        {
+          "key": "D",
+          "text": "số trẻ sinh ra trong năm (người) và dân số trung bình của năm đó (người)."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Mật độ dân số bằng số dân chia cho diện tích, đơn vị người/km², cho biết sức chứa dân cư trên một đơn vị lãnh thổ. B sai vì dùng hai đại lượng không cùng phạm vi; C đảo tử số với mẫu số nên kết quả có đơn vị km²/người; D là công thức tính tỉ suất sinh thô.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "mật độ dân số",
+        "xử lí số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng số liệu năm 2024: vùng A có 24,0 triệu người sống trên diện tích 20 000 km²; vùng B có 6,0 triệu người trên diện tích 30 000 km². Mật độ dân số của vùng A so với vùng B",
+      "options": [
+        {
+          "key": "A",
+          "text": "gấp 2 lần."
+        },
+        {
+          "key": "B",
+          "text": "gấp 3 lần."
+        },
+        {
+          "key": "C",
+          "text": "gấp 4 lần."
+        },
+        {
+          "key": "D",
+          "text": "gấp 6 lần."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Mật độ vùng A = 24 000 000 : 20 000 = 1 200 người/km²; vùng B = 6 000 000 : 30 000 = 200 người/km²; tỉ số = 1 200 : 200 = 6 lần. Phương án C (4 lần) là kết quả chỉ so sánh số dân 24 : 6; phương án A, B là kết quả của các phép chia nhầm giữa diện tích và số dân; cả ba đều bỏ qua bước chia cho diện tích.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "mật độ dân số",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b10-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng số liệu về dân số trung bình: năm 2009 là 86,0 triệu người, năm 2024 là 101,0 triệu người. Lấy năm 2009 làm gốc 100%, chỉ số phát triển dân số của năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "85,1%."
+        },
+        {
+          "key": "B",
+          "text": "117,4%."
+        },
+        {
+          "key": "C",
+          "text": "103,5%."
+        },
+        {
+          "key": "D",
+          "text": "121,0%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Chỉ số phát triển = 101,0 : 86,0 × 100 = 117,4 (làm tròn đến một chữ số thập phân), nghĩa là dân số năm 2024 gấp 1,174 lần năm 2009. A là kết quả của phép chia ngược 86,0 : 101,0 ≈ 85,1; C và D không thu được từ hai mốc đã cho, thường là lỗi lấy số tăng tuyệt đối 15,0 triệu rồi cộng vào 100 hoặc chọn nhầm mốc gốc ở năm khác.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "chỉ số phát triển",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b10-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi vẽ biểu đồ tròn thể hiện cơ cấu dân số, một thành phần chiếm 25% tương ứng với góc ở tâm",
+      "options": [
+        {
+          "key": "A",
+          "text": "25°."
+        },
+        {
+          "key": "B",
+          "text": "45°."
+        },
+        {
+          "key": "C",
+          "text": "90°."
+        },
+        {
+          "key": "D",
+          "text": "108°."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Mỗi 1% ứng với 360° : 100 = 3,6°, nên 25% cho góc 25 × 3,6 = 90°, đúng một phần tư đường tròn. B (45°) ứng với 12,5%; D (108°) ứng với 30%; A là lỗi giữ nguyên số 25 mà quên đổi từ phần trăm sang độ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "biểu đồ tròn",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b10-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng số liệu cho biết tỉ trọng lao động của ba khu vực kinh tế ở một tỉnh qua bốn năm 2010, 2015, 2020, 2024. Yêu cầu thể hiện sự thay đổi cơ cấu đó. Loại biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ miền."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ cột ghép từng năm."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ đường."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ tròn một hình."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Biểu đồ miền chuyên dùng để thể hiện sự thay đổi cơ cấu của cùng một tổng thể qua từ ba mốc thời gian trở lên; ở đây có bốn năm và ba thành phần nên miền là phù hợp nhất. B tiện khi cần so sánh giá trị từng thành phần giữa các năm hơn là thấy cấu trúc đổi ra sao; C phù hợp với động thái của từng dãy số liệu riêng lẻ; D chỉ thích hợp với một đến hai mốc năm và ít thành phần.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "chọn loại biểu đồ",
+        "cơ cấu lao động"
+      ]
+    },
+    {
+      "id": "dia12-b10-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng số liệu gồm sáu mốc năm liên tiếp về dân số trung bình của cả nước. Yêu cầu thể hiện động thái phát triển của dân số theo thời gian. Loại biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ miền."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ đường."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ tròn."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ cột chồng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Một dãy số liệu trải theo nhiều mốc thời gian, cần nhìn rõ xu hướng tăng – giảm, là trường hợp điển hình của biểu đồ đường. A và D dùng khi có nhiều thành phần của cùng một tổng thể; C chỉ thích hợp với cơ cấu ở một đến ba mốc, vẽ sáu mốc bằng hình tròn sẽ chồng chéo, khó đọc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "chọn loại biểu đồ",
+        "động thái phát triển"
+      ]
+    },
+    {
+      "id": "dia12-b10-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng số liệu có hai dòng theo cùng sáu mốc năm: số dân trung bình (triệu người) và tỉ suất tăng dân số tự nhiên (%). Yêu cầu thể hiện đồng thời cả hai dãy. Loại biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ cột ghép hai dãy cột trên cùng một trục giá trị."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ tròn có hai bán kính khác nhau."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ miền thể hiện hai thành phần."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ kết hợp cột và đường với hai trục giá trị cho hai đơn vị khác nhau."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Hai dãy có đơn vị khác nhau (triệu người và %) và khoảng cách giá trị rất lớn nên cần hai trục tung: trục bên trái cho cột số dân, trục bên phải cho đường tỉ suất. A ép hai đơn vị khác nhau vào một trục khiến dãy % gần như dính sát đáy; B và C là biểu đồ cơ cấu, không có chỗ cho một dãy mang đơn vị % đứng riêng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "chọn loại biểu đồ",
+        "biểu đồ kết hợp"
+      ]
+    },
+    {
+      "id": "dia12-b10-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng số liệu năm 2024 cho biết mật độ dân số (người/km²) của sáu vùng kinh tế – xã hội: Trung du và miền núi phía Bắc, Đồng bằng sông Hồng, Bắc Trung Bộ, Duyên hải Nam Trung Bộ và Tây Nguyên, Đông Nam Bộ, Đồng bằng sông Cửu Long. Yêu cầu so sánh mức độ tập trung dân cư giữa các vùng. Loại biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ đường."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ tròn."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ cột, có thể vẽ dạng thanh ngang."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ miền."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Bảng có một mốc năm và sáu đối tượng là các lãnh thổ, mục đích là so sánh giá trị tuyệt đối, nên biểu đồ cột hoặc thanh ngang là phù hợp; thanh ngang tiện hơn vì tên vùng dài. A cần dãy số liệu theo thời gian; B dùng cho cơ cấu các thành phần của một tổng thể, mà mật độ dân số của các vùng cộng lại không tạo thành một tổng số nào; D cần nhiều mốc thời gian để thấy sự thay đổi cơ cấu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "chọn loại biểu đồ",
+        "phân bố dân cư"
+      ]
+    },
+    {
+      "id": "dia12-b10-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng số liệu, tỉ lệ dân thành thị của nước ta qua ba mốc: năm 2009 là 30%, năm 2015 là 35%, năm 2024 là 40%. Nhận xét nào sau đây đúng nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ lệ dân thành thị tăng đều mỗi năm với mức tăng như nhau qua cả hai giai đoạn."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ lệ dân thành thị tăng liên tục, nhưng mức tăng bình quân một năm ở giai đoạn 2015 – 2024 (khoảng 0,56 điểm %) nhỏ hơn giai đoạn 2009 – 2015 (khoảng 0,83 điểm %)."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ lệ dân thành thị giảm trong giai đoạn 2015 – 2024."
+        },
+        {
+          "key": "D",
+          "text": "Dân số nông thôn tăng nhanh hơn dân số thành thị nên tỉ lệ dân thành thị có xu hướng giảm."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Hai giai đoạn cùng tăng 5 điểm % nhưng giai đoạn đầu dài 6 năm (5 : 6 ≈ 0,83 điểm % mỗi năm), giai đoạn sau dài 9 năm (5 : 9 ≈ 0,56 điểm % mỗi năm), vậy đô thị hoá vẫn tiến nhưng nhịp chậm lại. A sai vì chỉ nhìn mức tăng tuyệt đối 5 điểm % mà quên chia cho số năm; C và D sai chiều, vì 35% lên 40% là tăng chứ không phải giảm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "đô thị hoá",
+        "đọc bảng số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Mỗi bảng số liệu dẫn trong báo cáo bắt buộc phải ghi rõ",
+      "options": [
+        {
+          "key": "A",
+          "text": "tên bảng, đơn vị tính, mốc hoặc giai đoạn năm và nguồn số liệu."
+        },
+        {
+          "key": "B",
+          "text": "chữ kí xác nhận của giáo viên và tên lớp."
+        },
+        {
+          "key": "C",
+          "text": "màu sẽ dùng để vẽ biểu đồ từ bảng đó."
+        },
+        {
+          "key": "D",
+          "text": "số trang của báo cáo và vị trí bảng nằm ở trang nào."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Bốn yếu tố trên giúp người đọc hiểu đúng con số, so sánh được giữa các hàng và cột, đồng thời kiểm tra lại nguồn; thiếu một trong bốn là lỗi trình bày thường gặp. B, C, D không thuộc nội dung của bảng số liệu; vị trí bảng chỉ được liệt kê ở danh mục bảng trong báo cáo dài.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "trình bày số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong xử lí số liệu dân cư, “tính tỉ trọng” của một thành phần được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "lấy giá trị của năm sau trừ giá trị của năm trước."
+        },
+        {
+          "key": "B",
+          "text": "quy toàn bộ dãy số liệu về mốc năm đầu tiên bằng 100%."
+        },
+        {
+          "key": "C",
+          "text": "nhân giá trị của thành phần với diện tích lãnh thổ."
+        },
+        {
+          "key": "D",
+          "text": "chia giá trị của thành phần cho tổng của toàn bộ tổng thể rồi nhân với 100."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Tỉ trọng là tương quan giữa phần và toàn thể, có đơn vị %; ví dụ 41,0 triệu dân thành thị trong tổng số 103,0 triệu dân cho 41,0 : 103,0 × 100 = 39,8%. A là gia số, giữ nguyên đơn vị của số liệu gốc; B là cách tính chỉ số phát triển, dùng cho động thái theo thời gian chứ không phải cơ cấu; C là phép nhân không có ý nghĩa thống kê.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "tỉ trọng",
+        "xử lí số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng số liệu, tỉ trọng lao động phân theo khu vực kinh tế của một vùng: năm 2010 – nông – lâm – thuỷ sản 50%, công nghiệp – xây dựng 22%, dịch vụ 28%; năm 2024 – tương ứng 40%, 32%, 28%. Phát biểu nào sau đây KHÔNG đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ trọng lao động khu vực nông – lâm – thuỷ sản giảm 10 điểm %."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ trọng lao động khu vực công nghiệp – xây dựng tăng 10 điểm %."
+        },
+        {
+          "key": "C",
+          "text": "Số người làm việc trong khu vực dịch vụ của vùng không thay đổi giữa hai năm."
+        },
+        {
+          "key": "D",
+          "text": "Tổng tỉ trọng lao động của mỗi năm đều bằng 100%."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C (là phát biểu không đúng).** Tỉ trọng dịch vụ đều bằng 28% chỉ nói lên tương quan với tổng số; nếu tổng lao động của vùng tăng lên thì số người làm dịch vụ vẫn tăng theo. A và B đúng: 40 − 50 = −10 và 32 − 22 = +10 điểm %. D đúng: 50 + 22 + 28 = 100 và 40 + 32 + 28 = 100. Câu này chỉ ra lỗi phổ biến là đánh đồng “tỉ trọng không đổi” với “giá trị tuyệt đối không đổi”.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "cơ cấu lao động",
+        "đọc bảng số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các nguồn sau, nguồn nào nên được ưu tiên để dẫn số liệu dân cư trong một báo cáo địa lí?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số liệu của cơ quan thống kê nhà nước, ví dụ kết quả tổng điều tra dân số và nhà ở hoặc niên giám thống kê."
+        },
+        {
+          "key": "B",
+          "text": "Một bài đăng không ghi tác giả và không ghi năm trên mạng."
+        },
+        {
+          "key": "C",
+          "text": "Cảm nhận của người viết về nơi mình đang sinh sống."
+        },
+        {
+          "key": "D",
+          "text": "Số liệu ước lượng được nêu trong quảng cáo của một doanh nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Số liệu chính thức có kì điều tra rõ ràng, phương pháp công bố công khai và cho phép đối chiếu, nên nhận xét dựa trên đó mới có sức thuyết phục. B không xác minh được năm và tác giả; C là ý kiến chủ quan, chỉ nên dùng ở phần liên hệ thực tế; D là số liệu phục vụ mục đích bán hàng, không phản ánh đúng tình hình dân cư.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "nguồn số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Bản đồ dân cư trong Atlat địa lí Việt Nam (bản đồ mật độ dân số, dân số theo đơn vị hành chính) phù hợp nhất để chứng minh cho nội dung nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tốc độ tăng dân số của cả nước qua các năm."
+        },
+        {
+          "key": "B",
+          "text": "Sự phân bố dân cư không đều giữa các vùng lãnh thổ."
+        },
+        {
+          "key": "C",
+          "text": "Cơ cấu lao động phân theo trình độ đào tạo."
+        },
+        {
+          "key": "D",
+          "text": "Tỉ suất sinh và tỉ suất tử của cả nước theo thời gian."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Bản đồ là tài liệu thể hiện hiện tượng trải trên lãnh thổ, nên nó trả lời tốt câu hỏi vùng nào dân cư thưa, vùng nào dân cư dày. A, C, D là các nội dung động thái theo thời gian hoặc cơ cấu theo thành phần; muốn thấy phải dùng bảng số liệu hoặc biểu đồ, bản đồ không mô tả được biến động.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "khai thác atlat",
+        "phân bố dân cư"
+      ]
+    },
+    {
+      "id": "dia12-b10-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Cộng ba thành phần cơ cấu lao động trong một bảng, người viết được 99,8% thay vì 100%. Cách xử lí nào sau đây là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ nguyên 99,8% và không nói gì, vì chênh 0,2% là không đáng kể."
+        },
+        {
+          "key": "B",
+          "text": "Cộng thêm 0,2% vào thành phần lớn nhất cho vừa đủ 100%."
+        },
+        {
+          "key": "C",
+          "text": "Đổi đơn vị của bảng sang triệu người thì tổng sẽ tự động bằng 100%."
+        },
+        {
+          "key": "D",
+          "text": "Kiểm tra lại phép cộng, đơn vị tính và cách làm tròn; nếu chênh lệch chỉ do làm tròn thì ghi rõ số liệu đã làm tròn, nếu do tính sai thì phải tính lại."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Chênh lệch nhỏ có thể là hệ quả tất yếu của việc làm tròn từng số hạng; khi đó phải ghi rõ để người đọc không nghi ngờ số liệu, còn lệch do phép tính sai thì mọi nhận xét dựa vào bảng đều mất giá trị. A bỏ qua mà không ghi chú nên dễ bị coi là không kiểm tra số; B là sửa số liệu theo ý muốn, vi phạm tính trung thực; C nhầm đơn vị, đổi đơn vị không làm thay đổi tổng tỉ trọng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "kiểm tra số liệu",
+        "làm tròn"
+      ]
+    },
+    {
+      "id": "dia12-b10-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Tiêu chí nào sau đây KHÔNG cần thiết khi chọn chủ đề cho báo cáo thực hành về một vấn đề dân cư?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ đề phù hợp với nội dung bài học và có ý nghĩa thực tiễn."
+        },
+        {
+          "key": "B",
+          "text": "Thu thập được số liệu, tài liệu đáng tin cậy cho chủ đề."
+        },
+        {
+          "key": "C",
+          "text": "Chủ đề phải hoàn toàn mới, chưa từng được bất kì ai đề cập đến."
+        },
+        {
+          "key": "D",
+          "text": "Phạm vi chủ đề vừa sức để giải quyết trong một bài thực hành."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C (là tiêu chí không cần thiết).** Người học được khuyến khích chọn những vấn đề quen thuộc như phân bố dân cư, việc làm, đô thị hoá hay chất lượng cuộc sống; cái mới nằm ở cách khai thác số liệu và liên hệ địa phương, không phải ở chỗ chưa từng ai viết. A, B, D là ba điều kiện thật sự: bám sát bài học, có nguồn số liệu và phạm vi vừa sức để bài viết không lan man.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "chọn chủ đề"
+      ]
+    },
+    {
+      "id": "dia12-b10-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Câu hỏi nào sau đây thích hợp làm câu hỏi nghiên cứu cho phần “phân bố dân cư” của báo cáo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dân cư nước ta phân bố giữa các vùng như thế nào và vì sao có sự chênh lệch đó?"
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam có bao nhiêu quốc gia láng giềng trên đất liền?"
+        },
+        {
+          "key": "C",
+          "text": "Tên đầy đủ của các tỉnh thuộc vùng Đồng bằng sông Hồng là gì?"
+        },
+        {
+          "key": "D",
+          "text": "Báo cáo thực hành cần viết tối thiểu bao nhiêu trang?"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Câu hỏi nghiên cứu phải hướng tới một vấn đề địa lí trả lời được bằng số liệu và lí giải; ở đây gồm hai vế – mô tả sự phân bố và giải thích nguyên nhân, đúng cặp nhận xét – giải thích của bài. B thuộc bài vị trí địa lí (Bài 1); C chỉ là liệt kê dữ kiện hành chính, chưa phải vấn đề nghiên cứu; D là yêu cầu hình thức của đề bài.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "xác định vấn đề",
+        "câu hỏi nghiên cứu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng số liệu năm 2024 của một vùng: dân số thành thị 41,0 triệu người, dân số nông thôn 62,0 triệu người. Tỉ lệ dân thành thị của vùng đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "34,0%."
+        },
+        {
+          "key": "B",
+          "text": "39,8%."
+        },
+        {
+          "key": "C",
+          "text": "41,0%."
+        },
+        {
+          "key": "D",
+          "text": "60,2%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Tổng số dân = 41,0 + 62,0 = 103,0 triệu người; tỉ lệ dân thành thị = 41,0 : 103,0 × 100 = 39,8% (làm tròn một chữ số thập phân). C là lỗi lấy tử số làm kết quả; D là tỉ lệ dân nông thôn (62,0 : 103,0 × 100 = 60,2%); A là lỗi chia cho một tổng khác, thường do quên cộng đúng hai phần.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "dân số thành thị",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b10-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng số liệu, dân số trung bình của cả nước: năm 2009 là 86,0 triệu người, năm 2024 là 101,0 triệu người. Trung bình mỗi năm trong giai đoạn này, dân số tăng thêm",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,5 triệu người."
+        },
+        {
+          "key": "B",
+          "text": "0,8 triệu người."
+        },
+        {
+          "key": "C",
+          "text": "1,0 triệu người."
+        },
+        {
+          "key": "D",
+          "text": "1,5 triệu người."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Số tăng thêm là 101,0 − 86,0 = 15,0 triệu người, chia cho 15 năm (2024 − 2009) được 1,0 triệu người mỗi năm. D là lỗi lấy 15,0 triệu chia cho 10 năm; A và B là các mức dễ nhầm khi người viết nhớ nhầm con số tỉ suất tăng dân số thay vì dựa vào hai mốc đã cho trong bảng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "tốc độ tăng dân số",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b10-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng số liệu, tỉ suất tăng dân số tự nhiên năm 2024 của một vùng là 0,8%, dân số trung bình của vùng là 101,0 triệu người. Nếu giữ nguyên tỉ suất này, số dân tăng thêm trong năm đầu xấp xỉ",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,1 triệu người."
+        },
+        {
+          "key": "B",
+          "text": "0,5 triệu người."
+        },
+        {
+          "key": "C",
+          "text": "1,6 triệu người."
+        },
+        {
+          "key": "D",
+          "text": "0,8 triệu người, khoảng 808 000 người."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Số tăng thêm = 101,0 triệu × 0,8 : 100 = 0,808 triệu người, tức khoảng 808 000 người, làm tròn 0,8 triệu. C là lỗi nhân với 1,6% (gấp đôi tỉ suất đã cho); A và B không phải kết quả của phép tính với hai dữ kiện trong bảng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "tỉ suất tăng dân số",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b10-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây ĐÚNG khi viết đoạn về đô thị hoá trong báo cáo dân cư?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đô thị hoá là xu hướng tất yếu, làm thay đổi phân bố dân cư và lao động, đồng thời tác động tới chuyển dịch cơ cấu kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Đô thị hoá chỉ làm tăng số lượng đô thị, không ảnh hưởng tới kinh tế – xã hội của vùng."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ lệ dân thành thị giảm dần vì dân số nông thôn tăng nhanh hơn dân số thành thị."
+        },
+        {
+          "key": "D",
+          "text": "Đô thị hoá chỉ diễn ra ở các tỉnh đồng bằng, vùng núi hoàn toàn không có đô thị."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Trong báo cáo, đô thị hoá vừa được nhìn nhận như động lực phát triển (thị trường lao động, dịch vụ, hạ tầng) vừa kèm những vấn đề cần giải thích như đô thị hoá tự phát, quá tải hạ tầng, chênh lệch thu nhập. B phủ nhận tác động kinh tế – xã hội, trái với thực tế; C sai chiều vì tỉ lệ dân thành thị có xu hướng tăng; D quá tuyệt đối, vùng núi vẫn có đô thị với số lượng và quy mô nhỏ hơn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "đô thị hoá",
+        "viết đoạn văn"
+      ]
+    },
+    {
+      "id": "dia12-b10-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi xác định phạm vi lãnh thổ cho báo cáo theo cách phân chia hiện hành (bản chỉnh sửa 2026), số liệu dân cư cần được nêu theo",
+      "options": [
+        {
+          "key": "A",
+          "text": "63 tỉnh, thành phố trực thuộc trung ương và 7 vùng kinh tế – xã hội."
+        },
+        {
+          "key": "B",
+          "text": "34 tỉnh, thành phố trực thuộc trung ương và 6 vùng kinh tế – xã hội."
+        },
+        {
+          "key": "C",
+          "text": "58 tỉnh, thành phố trực thuộc trung ương và 9 vùng kinh tế trọng điểm."
+        },
+        {
+          "key": "D",
+          "text": "11 vùng địa lí tự nhiên và 63 đơn vị hành chính cấp huyện."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Bản chương trình có hiệu lực từ năm học 2026 – 2027: cả nước có 34 đơn vị hành chính cấp tỉnh và 6 vùng kinh tế – xã hội là Trung du và miền núi phía Bắc, Đồng bằng sông Hồng, Bắc Trung Bộ, Duyên hải Nam Trung Bộ và Tây Nguyên, Đông Nam Bộ, Đồng bằng sông Cửu Long; Tây Nguyên không còn là vùng riêng và không dùng cách chia vùng kinh tế trọng điểm làm bài học. A và C là số liệu của giai đoạn trước; D trộn vùng địa lí tự nhiên với cấp huyện và vẫn giữ con số 63 đã lỗi thời.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "phạm vi lãnh thổ",
+        "bản 2026"
+      ]
+    },
+    {
+      "id": "dia12-b10-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhóm chỉ tiêu nào sau đây phù hợp nhất để viết đoạn “chất lượng cuộc sống” trong báo cáo về dân cư?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số giờ nắng, tổng lượng mưa và số ngày mưa trong năm."
+        },
+        {
+          "key": "B",
+          "text": "Diện tích rừng, sản lượng thuỷ sản khai thác và số ki-lô-mét đường ô tô."
+        },
+        {
+          "key": "C",
+          "text": "Số lượng đô thị, mật độ dân số và số đơn vị hành chính cấp tỉnh."
+        },
+        {
+          "key": "D",
+          "text": "Thu nhập bình quân, tuổi thọ trung bình, tỉ lệ người từ 15 tuổi trở lên biết chữ và tỉ lệ dân được dùng nước hợp vệ sinh."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Chất lượng cuộc sống được phản ánh bằng mức sống vật chất (thu nhập), sức khoẻ (tuổi thọ), giáo dục (tỉ lệ biết chữ) và điều kiện sinh hoạt, trong đó có nhà ở, nước sạch, dịch vụ y tế – đây chính là nhóm chỉ tiêu hay dùng trong báo cáo dân cư. A thuộc khí hậu (Bài 2); B thuộc lâm nghiệp, thuỷ sản và giao thông; C là các chỉ tiêu số lượng và phân bố, chưa nói lên chất lượng sống.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "chất lượng cuộc sống",
+        "chỉ tiêu dân cư"
+      ]
+    },
+    {
+      "id": "dia12-b10-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây ĐÚNG khi viết đoạn về lao động và việc làm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lao động nước ta tập trung chủ yếu ở khu vực thành thị và trong ngành công nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "Thiếu việc làm chỉ xảy ra ở nông thôn, đô thị không còn tình trạng thất nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Cơ cấu lao động theo ngành chuyển dịch theo hướng giảm tỉ trọng khu vực nông – lâm – thuỷ sản, tăng tỉ trọng khu vực công nghiệp – xây dựng và dịch vụ, song lao động nông nghiệp vẫn chiếm tỉ lệ đáng kể."
+        },
+        {
+          "key": "D",
+          "text": "Số người thiếu việc làm tăng lên là hệ quả tất yếu của việc nâng cao trình độ đào tạo."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Nhận định gồm hai vế: vừa nêu hướng chuyển dịch, điều kiểm chứng được bằng bảng tỉ trọng, vừa giữ mức độ “vẫn còn đáng kể” để không tuyệt đối hoá kết quả. A sai về vị trí, vì lao động vẫn tập trung nhiều ở nông thôn; B phủ nhận thất nghiệp ở thành thị, trái thực tế; D đảo lộn quan hệ nhân quả, nâng cao trình độ thường giúp giảm thiếu việc làm chứ không phải nguyên nhân gây thiếu việc làm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "lao động và việc làm",
+        "viết đoạn văn"
+      ]
+    },
+    {
+      "id": "dia12-b10-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng số liệu năm 2024: vùng đồng bằng có diện tích 20 000 km² và dân số 24,0 triệu người; vùng trung du và miền núi có diện tích 35 000 km² và dân số 12,25 triệu người. Nhận xét nào sau đây ĐÚNG?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mật độ dân số vùng đồng bằng khoảng 1 200 người/km², gấp hơn 3 lần vùng trung du và miền núi (khoảng 350 người/km²), dù vùng đồng bằng có diện tích nhỏ hơn."
+        },
+        {
+          "key": "B",
+          "text": "Vùng trung du và miền núi có mật độ dân số cao hơn vì diện tích của vùng lớn hơn."
+        },
+        {
+          "key": "C",
+          "text": "Hai vùng có mật độ dân số xấp xỉ bằng nhau nên phân bố dân cư được coi là đồng đều."
+        },
+        {
+          "key": "D",
+          "text": "Mật độ dân số vùng đồng bằng là 350 người/km², vùng trung du và miền núi là 1 200 người/km²."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** 24 000 000 : 20 000 = 1 200 người/km²; 12 250 000 : 35 000 = 350 người/km²; 1 200 : 350 ≈ 3,4 lần, nên nói “gấp hơn 3 lần” là đúng. B sai vì lấy diện tích hoặc số dân tuyệt đối thay cho mật độ; C sai vì bỏ qua phép chia cho diện tích để thấy chênh lệch; D là lỗi gán nhầm hai giá trị cho hai vùng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "mật độ dân số",
+        "nhận xét bảng số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo bảng số liệu trong cùng một giai đoạn: vùng A tăng dân số từ 1,0 triệu lên 1,5 triệu người; vùng B tăng từ 20,0 triệu lên 22,0 triệu người. Phát biểu nào sau đây ĐÚNG?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng A tăng nhiều hơn vùng B về số dân tăng thêm."
+        },
+        {
+          "key": "B",
+          "text": "Xét tốc độ tăng, vùng A nhanh hơn (50% so với 10%); xét số dân tăng thêm, vùng B lớn hơn (2,0 triệu so với 0,5 triệu người)."
+        },
+        {
+          "key": "C",
+          "text": "Hai vùng tăng thêm lượng dân như nhau nên tốc độ tăng bằng nhau."
+        },
+        {
+          "key": "D",
+          "text": "Vùng B tăng nhanh hơn vì có quy mô dân số ban đầu lớn hơn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Vùng A tăng 1,5 − 1,0 = 0,5 triệu người, tức 0,5 : 1,0 × 100 = 50%; vùng B tăng 22,0 − 20,0 = 2,0 triệu người, tức 2,0 : 20,0 × 100 = 10%. A và C nhầm giữa giá trị tuyệt đối với tốc độ tăng; D lấy quy mô ban đầu làm chuẩn nói về tốc độ, trong khi quy mô xuất phát lớn thường làm tốc độ tính theo phần trăm nhỏ lại. Đây là ví dụ cho thấy nhận xét phải nói rõ đang so sánh theo tiêu chí nào.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "tốc độ tăng",
+        "nhận xét bảng số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b10-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong báo cáo thực hành, phần tài liệu tham khảo được trình bày theo cách nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đặt ở đầu báo cáo, ngay sau trang bìa và trước phần mở đầu."
+        },
+        {
+          "key": "B",
+          "text": "Không cần có, vì bài thực hành không yêu cầu trích dẫn."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ ghi tên trang web, không cần năm công bố hay năm truy cập."
+        },
+        {
+          "key": "D",
+          "text": "Đặt ở cuối báo cáo; mỗi nguồn ghi tối thiểu tác giả hoặc cơ quan công bố, năm, tên tài liệu, nơi phát hành, và phải tương ứng với chỗ dẫn số liệu trong nội dung."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Tài liệu tham khảo là bằng chứng cho tính trung thực của số liệu và giúp người đọc kiểm tra lại, vì vậy nó đứng sau phần kết luận còn trong nội dung phải ghi nguồn ngay chỗ dẫn số liệu. A sai vị trí, đầu báo cáo thường là mục lục hoặc danh mục bảng; B sai vì dùng số liệu của người khác mà không dẫn nguồn là lỗi sao chép; C thiếu năm công bố thì không định vị được số liệu thuộc mốc nào.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "tài liệu tham khảo",
+        "trích dẫn"
+      ]
+    },
+    {
+      "id": "dia12-b10-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát ngôn nào sau đây ĐÚNG về cấu trúc của một báo cáo địa lí viết theo chủ đề dân cư?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phần mở đầu nêu lí do chọn chủ đề, mục tiêu cần làm rõ và phạm vi nội dung, phạm vi lãnh thổ của báo cáo."
+        },
+        {
+          "key": "B",
+          "text": "Phần nội dung có thể chỉ viết cảm nhận cá nhân, không nhất thiết kèm số liệu hay minh chứng."
+        },
+        {
+          "key": "C",
+          "text": "Phần kết luận khái quát các kết quả đã trình bày, trả lời đúng mục tiêu đã nêu và không đưa thêm số liệu mới chưa được phân tích."
+        },
+        {
+          "key": "D",
+          "text": "Danh mục tài liệu tham khảo được xen lần lượt vào các đoạn của phần nội dung."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, C.** Ba phần mở – nội dung – kết luận tạo thành một vòng khép kín: đặt vấn đề, giải quyết vấn đề bằng dẫn chứng, rồi trả lời lại vấn đề; vì vậy kết luận không được mang số liệu mới. B sai vì báo cáo địa lí lấy số liệu làm căn cứ, cảm nhận cá nhân chỉ là phần liên hệ thực tế; D sai vì tài liệu tham khảo tập trung ở cuối báo cáo, còn trong nội dung chỉ ghi nguồn ngay chỗ dẫn số liệu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "cấu trúc báo cáo",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b10-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát ngôn nào sau đây ĐÚNG khi phân biệt nhận xét với giải thích trong bài thực hành địa lí?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhận xét là câu trả lời cho câu hỏi vì sao hiện tượng xảy ra."
+        },
+        {
+          "key": "B",
+          "text": "Nhận xét nêu rõ biến động, xu hướng, mức chênh lệch giữa các thành phần và phải kèm dẫn chứng số liệu."
+        },
+        {
+          "key": "C",
+          "text": "Đã có phần giải thích nguyên nhân thì không cần nêu số liệu minh chứng cho nhận xét."
+        },
+        {
+          "key": "D",
+          "text": "Giải thích thường được diễn đạt bằng các từ chỉ nguyên nhân như vì, do, nhờ, xuất phát từ."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, D.** Nhận xét trả lời câu hỏi “số liệu cho thấy gì”, giải thích trả lời “vì sao như vậy”; hai bước tách rõ nhưng nối tiếp nhau. A đảo vai trò của hai bước, vì “vì sao” thuộc về giải thích; C là lỗi phổ biến dùng nguyên nhân để thay chứng cứ, khiến người đọc không kiểm tra được nhận định.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "nhận xét và giải thích",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b10-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát ngôn nào sau đây ĐÚNG khi chọn và trình bày biểu đồ trong báo cáo thực hành?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biểu đồ đường thích hợp để thể hiện động thái phát triển của một dãy số liệu qua nhiều mốc năm."
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ tròn là lựa chọn tốt nhất khi bảng số liệu có từ năm mốc thời gian trở lên."
+        },
+        {
+          "key": "C",
+          "text": "Tên biểu đồ, đơn vị tính và chú giải có thể bỏ vì số liệu đã hiển thị trên trục giá trị."
+        },
+        {
+          "key": "D",
+          "text": "Khi hai dãy số liệu có đơn vị khác nhau, chẳng hạn triệu người và %, nên dùng biểu đồ kết hợp cột và đường với hai trục giá trị."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, D.** Hai phát ngôn đúng theo quy ước chọn biểu đồ theo mục đích: cần thấy xu hướng theo thời gian thì dùng đường; cần thấy cùng lúc hai đại lượng khác đơn vị thì dùng kết hợp cột và đường với hai trục. B sai vì nhiều mốc thời gian cần thể hiện cơ cấu nên dùng biểu đồ miền, tròn chỉ phù hợp với một đến ba mốc; C sai vì tên biểu đồ, đơn vị và chú giải là điều kiện để biểu đồ tự giải thích được, thiếu chúng là lỗi trình bày.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "chọn loại biểu đồ",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b10-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát ngôn nào sau đây ĐÚNG khi sử dụng và kiểm tra số liệu trong báo cáo về dân cư?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số liệu tải trên mạng không cần ghi nguồn và năm vì bài thực hành không chấm bản quyền."
+        },
+        {
+          "key": "B",
+          "text": "Mỗi đánh giá cao, thấp, nhanh, chậm đều cần một chuẩn so sánh xác định, ví dụ mặt bằng chung của cả nước hoặc giá trị ở mốc năm trước."
+        },
+        {
+          "key": "C",
+          "text": "Với bảng cơ cấu, cần cộng các thành phần để kiểm tra xem tổng tỉ trọng có bằng 100% hay không."
+        },
+        {
+          "key": "D",
+          "text": "Có thể tuỳ ý làm tròn các số hạng và cộng thêm cho đủ 100% mà không cần ghi chú điều gì."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "**Đáp án: B, C.** Chuẩn so sánh biến các tính từ “cao – thấp, nhanh – chậm” thành phát biểu kiểm chứng được; phép cộng kiểm tra 100% là bước tự soát số đơn giản nhất và nên làm trước khi vẽ biểu đồ. A là lỗi trích dẫn, không xác minh được số liệu; D là lỗi thiếu trung thực, nếu tổng lệch do làm tròn thì phải ghi rõ số liệu đã làm tròn chứ không được cộng thêm cho đẹp.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "kiểm tra số liệu",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b10-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b10-thuc-hanh-dan-cu",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát ngôn nào sau đây ĐÚNG khi viết đoạn về phân bố dân cư Việt Nam theo cách phân chia lãnh thổ hiện hành của bản chỉnh sửa 2026?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dân cư phân bố không đều: tập trung đông ở các vùng đồng bằng, thưa hơn ở vùng trung du và miền núi, thể hiện rõ qua mật độ dân số."
+        },
+        {
+          "key": "B",
+          "text": "Chênh lệch mật độ giữa các vùng kinh tế – xã hội gắn với điều kiện tự nhiên, lịch sử khai thác lãnh thổ, trình độ phát triển kinh tế – xã hội và sức hút của các đô thị."
+        },
+        {
+          "key": "C",
+          "text": "Vì số dân của vùng A lớn hơn vùng B nên mật độ dân số của vùng A chắc chắn cao hơn vùng B."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước ta hiện có 63 tỉnh, thành phố trực thuộc trung ương và 7 vùng kinh tế – xã hội nên báo cáo phải phân tích theo 7 vùng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "**Đáp án: A, B.** A là nhận xét về thực trạng phân bố, B là phần giải thích nguyên nhân; hai vế này tạo thành một đoạn viết hoàn chỉnh về dân cư. C sai vì mật độ còn phụ thuộc diện tích, số dân tuyệt đối lớn chưa chắc đã có mật độ cao hơn; D sai vì bản hiện hành có 34 đơn vị hành chính cấp tỉnh và 6 vùng kinh tế – xã hội, trong đó Tây Nguyên nằm chung vùng với Duyên hải Nam Trung Bộ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 10",
+        "phân bố dân cư",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

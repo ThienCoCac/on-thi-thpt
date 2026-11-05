@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-09",
+  "slug": "de-tin-hoc-12-bai-09",
+  "title": "Đề ôn tập Tin học 12 – Bài 9: Tạo danh sách, bảng",
+  "description": "Đề ôn tập Bài 9 – Tạo danh sách, bảng (Chủ đề 4, SGK Tin học 12 bộ Định hướng Tin học ứng dụng – Kết nối tri thức), gồm danh sách có thứ tự, danh sách không có thứ tự, danh sách mô tả và cách tạo bảng, gộp ô, kẻ khung trong HTML. Đề có 28 câu: 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, làm trong 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B09",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "updatedAt": "2026-11-05T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b09-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "content": "Trong Bài 9, nội dung của từng mục danh sách (dù là danh sách có thứ tự hay danh sách không có thứ tự) được đặt trong cặp thẻ",
+      "options": [
+        { "key": "A", "text": "`<p>...</p>`." },
+        { "key": "B", "text": "`<li>...</li>`." },
+        { "key": "C", "text": "`<div>...</div>`." },
+        { "key": "D", "text": "`<tr>...</tr>`." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 9 hướng dẫn mỗi mục của danh sách là một cặp thẻ `<li>...</li>` nằm bên trong thẻ `<ol>` hoặc `<ul>`. Cặp `<p>...</p>` dùng cho đoạn văn bản, cặp `<div>...</div>` tạo khối chứa nội dung bất kì và `<tr>` là thẻ hàng của bảng, không phải thẻ mục danh sách.",
+      "tags": ["Danh sách", "Thẻ HTML", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "content": "Để tạo danh sách không có thứ tự, em dùng cặp thẻ",
+      "options": [
+        { "key": "A", "text": "`<ol></ol>`." },
+        { "key": "B", "text": "`<dl></dl>`." },
+        { "key": "C", "text": "`<ul></ul>`." },
+        { "key": "D", "text": "`<table></table>`." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo quy định của Bài 9, cặp thẻ `<ul></ul>` tạo danh sách không có thứ tự, các mục được đánh dấu bằng kí tự đầu dòng chứ không đánh số. Cặp `<ol></ol>` tạo danh sách có thứ tự, còn bộ thẻ `<dl>`, `<dt>`, `<dd>` tạo danh sách mô tả.",
+      "tags": ["Danh sách không thứ tự", "Thẻ HTML", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Thẻ nào sau đây KHÔNG nằm trong bộ thẻ mà Bài 9 dùng để tạo danh sách mô tả?",
+      "options": [
+        { "key": "A", "text": "`<dl>`." },
+        { "key": "B", "text": "`<dt>`." },
+        { "key": "C", "text": "`<dd>`." },
+        { "key": "D", "text": "`<li>`." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 9 quy định danh sách mô tả được tạo bởi ba thẻ `<dl>`, `<dt>` và `<dd>`. Thẻ `<li>` là thẻ mục dùng trong danh sách có thứ tự `<ol>` và danh sách không có thứ tự `<ul>`, không thuộc bộ thẻ danh sách mô tả.",
+      "tags": ["Danh sách mô tả", "Thẻ HTML", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "content": "Thuộc tính nào của thẻ `<ol>` được dùng để chọn kiểu đánh số cho danh sách có thứ tự?",
+      "options": [
+        { "key": "A", "text": "`type`." },
+        { "key": "B", "text": "`start`." },
+        { "key": "C", "text": "`list-style-type`." },
+        { "key": "D", "text": "`caption`." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 9 dùng thuộc tính `type` của thẻ `<ol>` để chọn kiểu đánh số cho danh sách có thứ tự. Thuộc tính `start` chỉ xác định giá trị bắt đầu đánh số, đặc tính `list-style-type` nằm trong `style` và dùng cho danh sách không có thứ tự, còn `<caption>` là thẻ tiêu đề của bảng.",
+      "tags": ["Danh sách có thứ tự", "Thuộc tính HTML", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Muốn các mục của danh sách được đánh số bằng chữ cái in hoa A, B, C,... em gán cho thuộc tính `type` của thẻ `<ol>` giá trị",
+      "options": [
+        { "key": "A", "text": "\"1\"." },
+        { "key": "B", "text": "\"i\"." },
+        { "key": "C", "text": "\"A\"." },
+        { "key": "D", "text": "\"a\"." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong các kiểu đánh số mà sách liệt kê, giá trị \"A\" tạo dãy chữ cái in hoa A, B, C,... Giá trị \"a\" cho chữ cái in thường, \"i\" cho số La Mã in thường và \"1\" cho số Ả Rập.",
+      "tags": ["Danh sách có thứ tự", "Thuộc tính type", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Theo Bài 9, kích thước của bảng có thể được đặt bằng cách",
+      "options": [
+        { "key": "A", "text": "khai báo thuộc tính `start` của thẻ `<table>`." },
+        { "key": "B", "text": "dùng đặc tính con `width` và `height` trong thuộc tính `style`." },
+        { "key": "C", "text": "thêm thẻ `<caption>` ngay sau thẻ `<table>`." },
+        { "key": "D", "text": "dùng đặc tính `list-style-type` trong thuộc tính `style`." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 9 trình bày có thể đặt kích thước bảng bằng đặc tính con `width` và `height` của thuộc tính `style`, theo tỉ lệ phần trăm với khối bao ngoài hoặc theo số điểm ảnh. Thuộc tính `start` là thuộc tính của `<ol>`, `<caption>` chỉ dùng cho tiêu đề bảng và `list-style-type` dùng cho danh sách không có thứ tự.",
+      "tags": ["Bảng", "Kích thước bảng", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Trong các giá trị sau, giá trị nào của thuộc tính `type` của thẻ `<ol>` KHÔNG được sách liệt kê?",
+      "options": [
+        { "key": "A", "text": "\"1\"." },
+        { "key": "B", "text": "\"i\"." },
+        { "key": "C", "text": "\"a\"." },
+        { "key": "D", "text": "\"x\"." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách liệt kê năm kiểu đánh số của thuộc tính `type` là \"1\", \"A\", \"a\", \"I\" và \"i\", trong đó \"1\" là số Ả Rập, \"A\" và \"a\" là chữ hoa và chữ thường, \"I\" và \"i\" là số La Mã hoa và thường. Giá trị \"x\" không có trong danh sách này nên không hợp lệ.",
+      "tags": ["Danh sách có thứ tự", "Thuộc tính type", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Thuộc tính `start` của thẻ `<ol>` có tác dụng",
+      "options": [
+        { "key": "A", "text": "xác định giá trị bắt đầu đánh số cho danh sách có thứ tự." },
+        { "key": "B", "text": "thay đổi kiểu đánh số của danh sách." },
+        { "key": "C", "text": "chọn kí tự đầu dòng cho mỗi mục." },
+        { "key": "D", "text": "xác định số mục tối đa của danh sách." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 9 nêu thuộc tính `start` dùng để xác định giá trị bắt đầu đánh số của danh sách có thứ tự. Việc thay đổi kiểu đánh số là nhiệm vụ của thuộc tính `type`; kí tự đầu dòng do đặc tính `list-style-type` quyết định và sách không nói `start` giới hạn số mục.",
+      "tags": ["Danh sách có thứ tự", "Thuộc tính start", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "content": "Theo sách, giá trị mà thuộc tính `start` của thẻ `<ol>` nhận là",
+      "options": [
+        { "key": "A", "text": "chỉ các số nguyên dương." },
+        { "key": "B", "text": "một trong các giá trị \"1\", \"A\", \"a\", \"I\", \"i\"." },
+        { "key": "C", "text": "các số thực." },
+        { "key": "D", "text": "một xâu bất kì đặt trong nháy kép." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khi mô tả thuộc tính `start`, sách ghi rõ thuộc tính này nhận giá trị là các số thực, dùng để xác định giá trị bắt đầu đánh số. Phương án liệt kê \"1\", \"A\", \"a\", \"I\", \"i\" là các giá trị của thuộc tính `type` chứ không phải của `start`.",
+      "tags": ["Danh sách có thứ tự", "Thuộc tính start", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Cho đoạn mã `<ol type=\"1\" start=\"7\"><li>Kiểm tra bài cũ</li><li>Học bài mới</li><li>Luyện tập</li></ol>`. Trên trình duyệt, mục \"Học bài mới\" được đánh số",
+      "options": [
+        { "key": "A", "text": "7." },
+        { "key": "B", "text": "8." },
+        { "key": "C", "text": "9." },
+        { "key": "D", "text": "2." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thuộc tính `start` xác định giá trị bắt đầu đánh số, ở đây là 7, nên mục thứ nhất \"Kiểm tra bài cũ\" mang số 7 và các mục sau tăng dần theo thứ tự. Vì vậy mục thứ hai \"Học bài mới\" hiển thị số 8. Đáp án 2 chỉ đúng khi danh sách bắt đầu từ 1.",
+      "tags": ["Danh sách có thứ tự", "Đọc đoạn mã", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Muốn các mục của danh sách không có thứ tự hiển thị mà không có kí tự đầu dòng, em cần",
+      "options": [
+        { "key": "A", "text": "gán `start=\"0\"` cho thẻ `<ul>`." },
+        { "key": "B", "text": "gán `type=\"none\"` cho thẻ `<ul>`." },
+        { "key": "C", "text": "bỏ thẻ `<li>` ở mục đầu tiên." },
+        { "key": "D", "text": "thiết lập đặc tính `list-style-type` trong `style` bằng giá trị `none`." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 9 cho biết muốn chọn kí tự đầu dòng cho danh sách không có thứ tự thì thiết lập đặc tính `list-style-type` trong thuộc tính `style`, một trong bốn giá trị `disc`, `circle`, `square` và `none`; giá trị `none` ứng với việc không hiển thị kí tự đầu dòng. Các thuộc tính `start` và `type` là thuộc tính của danh sách có thứ tự `<ol>`.",
+      "tags": ["Danh sách không thứ tự", "list-style-type", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "content": "Đặc tính con nào của thuộc tính `style` được Bài 9 dùng để chọn kí tự đầu dòng cho danh sách không có thứ tự?",
+      "options": [
+        { "key": "A", "text": "`list-style-type`." },
+        { "key": "B", "text": "`border`." },
+        { "key": "C", "text": "`text-decoration`." },
+        { "key": "D", "text": "`font-size`." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kí tự đầu dòng của danh sách không có thứ tự được chọn bằng đặc tính con `list-style-type` trong thuộc tính `style`, ví dụ `<ul style=\"list-style-type:square\">`. Hai đặc tính `font-size` và `text-decoration` thuộc bài định dạng văn bản, còn `border` dùng để kẻ khung bảng.",
+      "tags": ["Danh sách không thứ tự", "style", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Đoạn mã `<ul style=\"list-style-type:square\"><li>Bóng rổ</li><li>Bóng bàn</li></ul>` hiển thị trên trình duyệt là",
+      "options": [
+        { "key": "A", "text": "danh sách được đánh số 1, 2." },
+        { "key": "B", "text": "danh sách không có kí tự đầu dòng." },
+        { "key": "C", "text": "danh sách có các mục đánh dấu bằng ô vuông." },
+        { "key": "D", "text": "danh sách mô tả với hai cặp thuật ngữ và định nghĩa." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giá trị `square` của đặc tính `list-style-type` quy định kí tự đầu dòng là ô vuông, nên hai mục Bóng rổ và Bóng bàn hiện ra với dấu ô vuông. Giá trị `none` mới cho danh sách không có kí tự đầu dòng, còn số 1, 2 chỉ xuất hiện ở danh sách có thứ tự `<ol>`.",
+      "tags": ["Danh sách không thứ tự", "Đọc đoạn mã", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Bốn giá trị của đặc tính `list-style-type` mà sách liệt kê để chọn kí tự đầu dòng là",
+      "options": [
+        { "key": "A", "text": "`disc`, `circle`, `triangle`, `none`." },
+        { "key": "B", "text": "`disc`, `circle`, `square`, `none`." },
+        { "key": "C", "text": "\"1\", \"A\", \"a\", \"I\"." },
+        { "key": "D", "text": "`solid`, `dotted`, `double`, `none`." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với danh sách không có thứ tự, sách nêu bốn giá trị của đặc tính `list-style-type` là `disc`, `circle`, `square` và `none`. Bộ \"1\", \"A\", \"a\", \"I\" là các giá trị của thuộc tính `type` của `<ol>`, còn `solid`, `dotted`, `double`, `none` là các kiểu viền dùng khi kẻ khung bảng.",
+      "tags": ["Danh sách không thứ tự", "list-style-type", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "content": "Trong bảng HTML, mỗi hàng của bảng được khai báo bằng thẻ",
+      "options": [
+        { "key": "A", "text": "`<tr>`." },
+        { "key": "B", "text": "`<td>`." },
+        { "key": "C", "text": "`<th>`." },
+        { "key": "D", "text": "`<caption>`." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 9 dùng thẻ `<tr>` để khai báo một hàng của bảng, bên trong hàng là các ô. Thẻ `<td>` khai báo ô dữ liệu, `<th>` khai báo ô tiêu đề còn `<caption>` dùng để đặt tiêu đề cho cả bảng.",
+      "tags": ["Bảng", "Thẻ HTML", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Trong bảng HTML, ô tiêu đề của bảng được khai báo bằng thẻ",
+      "options": [
+        { "key": "A", "text": "`<td>`." },
+        { "key": "B", "text": "`<tr>`." },
+        { "key": "C", "text": "`<dl>`." },
+        { "key": "D", "text": "`<th>`." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 9 phân biệt hai loại ô của bảng: ô tiêu đề dùng thẻ `<th>` và ô dữ liệu dùng thẻ `<td>`; các ô này nằm trong một hàng `<tr>`. Thẻ `<dl>` là thẻ của danh sách mô tả, không dùng trong bảng.",
+      "tags": ["Bảng", "Ô tiêu đề", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Một ô chứa dữ liệu thông thường trong bảng HTML được khai báo bằng thẻ",
+      "options": [
+        { "key": "A", "text": "`<th>`." },
+        { "key": "B", "text": "`<caption>`." },
+        { "key": "C", "text": "`<td>`." },
+        { "key": "D", "text": "`<li>`." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thẻ `<td>` dùng để khai báo ô dữ liệu của bảng, còn `<th>` dành cho ô tiêu đề và `<caption>` dành cho tiêu đề chung của bảng. Thẻ `<li>` là thẻ mục của danh sách, không xuất hiện trong cấu trúc bảng.",
+      "tags": ["Bảng", "Ô dữ liệu", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Phát biểu nào sau đây đúng về cách dùng thẻ `<caption>` khi trình bày bảng?",
+      "options": [
+        { "key": "A", "text": "Đặt ở cuối bảng, ngay trước thẻ `</table>`." },
+        { "key": "B", "text": "Đặt ngay sau thẻ mở `<table>` và trước thẻ `<tr>` đầu tiên." },
+        { "key": "C", "text": "Đặt bên trong thẻ `<td>` của ô dữ liệu đầu tiên." },
+        { "key": "D", "text": "Đặt riêng ngoài bảng, ngay trước thẻ `<html>`." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 9 hướng dẫn thêm tiêu đề cho bảng bằng thẻ `<caption>` đặt ngay sau thẻ `<table>` và trước thẻ `<tr>` đầu tiên, ví dụ `<table border=\"1\"><caption>Lịch hoạt động CLB Thể thao</caption>`. Các vị trí còn lại không phải vị trí sách quy định cho thẻ này.",
+      "tags": ["Bảng", "Tiêu đề bảng", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Trong bảng HTML, thuộc tính `rowspan` của một ô có tác dụng",
+      "options": [
+        { "key": "A", "text": "gộp ô theo hàng, tức mở rộng ô xuống các hàng phía dưới." },
+        { "key": "B", "text": "gộp ô theo cột, tức mở rộng ô sang các cột bên cạnh." },
+        { "key": "C", "text": "tạo một hàng mới ở cuối bảng." },
+        { "key": "D", "text": "đặt tiêu đề cho bảng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách phân biệt `rowspan` dùng để gộp ô theo hàng còn `colspan` dùng để gộp ô theo cột. Vì vậy phương án nói `rowspan` mở rộng ô sang các cột bên cạnh là đã đổi tác dụng cho `colspan`; `<caption>` mới là thẻ đặt tiêu đề bảng.",
+      "tags": ["Bảng", "Gộp ô", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Ô được khai báo bằng `<th colspan=\"3\">Điểm thi</th>` trong ví dụ của sách có nghĩa là",
+      "options": [
+        { "key": "A", "text": "ô được mở rộng theo ba hàng." },
+        { "key": "B", "text": "ô nằm ở cột thứ ba của bảng." },
+        { "key": "C", "text": "bảng có ba ô dữ liệu." },
+        { "key": "D", "text": "ô được mở rộng theo ba cột." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thuộc tính `colspan` dùng để gộp ô theo cột nên giá trị 3 cho biết ô \"Điểm thi\" chiếm chỗ của ba cột. Nếu muốn ô mở rộng theo hàng phải dùng `rowspan`; con số trong `colspan` không chỉ vị trí cột và cũng không đếm số ô dữ liệu của bảng.",
+      "tags": ["Bảng", "Gộp ô", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "content": "Quy trình gộp ô trong bảng HTML gồm hai bước. Ở bước thứ hai, đối với các hàng tiếp theo ta phải",
+      "options": [
+        { "key": "A", "text": "viết lại thẻ `<th>` hoặc `<td>` của ô đã bị ghép." },
+        { "key": "B", "text": "thêm một thẻ `<caption>` cho mỗi hàng." },
+        { "key": "C", "text": "bỏ qua cặp thẻ `<th>` hoặc `<td>` tại vị trí tương ứng đã bị ghép." },
+        { "key": "D", "text": "đặt lại giá trị của `rowspan` và `colspan` về 1." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bước thứ nhất là thêm `rowspan` hoặc `colspan` cho thẻ `<th>` hay `<td>` thuộc hàng đầu tiên cần ghép; bước thứ hai là bỏ qua cặp thẻ `<th>`/`<td>` ở các vị trí tương ứng thuộc những hàng tiếp theo. Nếu viết lại ô đã bị ghép thì bảng sẽ bị thừa ô và hiển thị sai, sách không yêu cầu đặt lại giá trị về 1 hay thêm `<caption>` cho từng hàng.",
+      "tags": ["Bảng", "Gộp ô", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "content": "Theo Bài 9, trong HTML5 độ dày khung của bảng hoặc của từng ô được thiết lập bằng cách",
+      "options": [
+        { "key": "A", "text": "gán giá trị cho đặc tính con `border` trong thuộc tính `style`." },
+        { "key": "B", "text": "khai báo số cột của bảng bằng thuộc tính `colspan`." },
+        { "key": "C", "text": "gán giá trị cho đặc tính `list-style-type` trong `style`." },
+        { "key": "D", "text": "dùng thẻ `<caption>` đặt ngay sau thẻ `<table>`." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 9 nêu trong HTML5 độ dày khung của bảng hay của từng ô được thiết lập bằng đặc tính con `border` của thuộc tính `style`. `colspan` chỉ dùng để gộp ô theo cột, `list-style-type` dùng cho kí tự đầu dòng của danh sách và `<caption>` chỉ tạo tiêu đề bảng.",
+      "tags": ["Bảng", "Khung bảng", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "content": "Giá trị của đặc tính con `border` là bộ ba \"độ_dày_theo_px kiểu_viền [màu_viền]\". Thành phần nào bắt buộc phải có?",
+      "options": [
+        { "key": "A", "text": "Chỉ thành phần màu viền." },
+        { "key": "B", "text": "Hai thành phần đầu: độ dày theo px và kiểu viền." },
+        { "key": "C", "text": "Cả ba thành phần đều bắt buộc." },
+        { "key": "D", "text": "Chỉ thành phần độ dày theo px." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách ghi trong bộ ba \"độ_dày_theo_px kiểu_viền [màu_viền]\" chỉ hai thành phần đầu là bắt buộc, thành phần màu viền đặt trong dấu ngoặc vuông nên có thể bỏ qua; khi bỏ qua, màu viền mặc định là màu đen. Kiểu viền nhận một trong các giá trị `solid`, `dotted`, `double`, `none`.",
+      "tags": ["Bảng", "Khung bảng", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "content": "Vì sao Bài 9 lưu ý không nên đặt kích thước bảng theo đơn vị px?",
+      "options": [
+        { "key": "A", "text": "Vì HTML5 không hỗ trợ đơn vị px." },
+        { "key": "B", "text": "Vì px chỉ dùng được cho độ dày khung, không dùng cho kích thước." },
+        { "key": "C", "text": "Vì px chỉ áp dụng được cho thẻ `<th>`, không áp dụng cho thẻ `<td>`." },
+        { "key": "D", "text": "Vì các thiết bị hiển thị khác nhau về kích thước và số điểm ảnh, bảng có thể không hiển thị đúng như mong đợi." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Lưu ý của sách giải thích không nên dùng kích thước theo px vì các thiết bị hiển thị có sự khác nhau về kích thước và số điểm ảnh, dẫn tới bảng có thể không hiển thị đúng như mong đợi. Trong các tình huống như vậy nên dùng tỉ lệ phần trăm với khối bao ngoài; px vẫn là đơn vị hợp lệ và được dùng cho độ dày khung.",
+      "tags": ["Bảng", "Kích thước bảng", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "HARD",
+      "score": 1,
+      "content": "Chọn các nhận định ĐÚNG về danh sách có thứ tự trong HTML.",
+      "options": [
+        { "key": "A", "text": "Cặp thẻ `<ol></ol>` được dùng để tạo danh sách có thứ tự." },
+        { "key": "B", "text": "Thuộc tính `type` của thẻ `<ol>` nhận các giá trị \"1\", \"A\", \"a\", \"I\" và \"i\"." },
+        { "key": "C", "text": "Thuộc tính `start` của thẻ `<ol>` chỉ nhận giá trị là số nguyên." },
+        { "key": "D", "text": "Thuộc tính `start` dùng để xác định giá trị bắt đầu đánh số cho danh sách." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B, D đều đúng theo quy định của Bài 9 về danh sách có thứ tự: `<ol>` tạo danh sách, `type` chọn kiểu đánh số với năm giá trị đã liệt kê, `start` xác định giá trị bắt đầu đánh số. C sai vì sách nêu `start` nhận giá trị là các số thực, không giới hạn ở số nguyên.",
+      "tags": ["nhận định đúng sai", "Danh sách có thứ tự", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "content": "Chọn các nhận định ĐÚNG về danh sách không có thứ tự và danh sách mô tả.",
+      "options": [
+        { "key": "A", "text": "Kí tự đầu dòng của danh sách không có thứ tự được chọn bằng cách thiết lập đặc tính `list-style-type` trong thuộc tính `style`." },
+        { "key": "B", "text": "Bốn giá trị của đặc tính `list-style-type` mà sách liệt kê là `disc`, `circle`, `square` và `none`." },
+        { "key": "C", "text": "Thuộc tính `type` của thẻ `<ul>` là cách sách quy định để chọn kí tự đầu dòng." },
+        { "key": "D", "text": "Danh sách mô tả được tạo bằng cặp thẻ `<ul></ul>` kết hợp các mục `<li>`." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng vì với danh sách không có thứ tự, kí tự đầu dòng do đặc tính `list-style-type` trong `style` quyết định và sách liệt kê đúng bốn giá trị `disc`, `circle`, `square`, `none`. C sai vì `type` và `start` là hai thuộc tính dùng cho danh sách có thứ tự `<ol>`. D sai vì danh sách mô tả dùng bộ ba thẻ `<dl>`, `<dt>`, `<dd>`.",
+      "tags": ["nhận định đúng sai", "Danh sách không thứ tự", "Danh sách mô tả", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "HARD",
+      "score": 1,
+      "content": "Chọn các nhận định ĐÚNG về cấu tạo và cách gộp ô của bảng trong HTML.",
+      "options": [
+        { "key": "A", "text": "Mỗi hàng của bảng được khai báo bằng thẻ `<tr>`; ô tiêu đề dùng thẻ `<th>`, ô dữ liệu dùng thẻ `<td>`." },
+        { "key": "B", "text": "Thẻ `<caption>` đặt tiêu đề cho bảng được đặt ngay sau thẻ mở `<table>` và trước thẻ `<tr>` đầu tiên." },
+        { "key": "C", "text": "`rowspan` dùng để gộp ô theo cột còn `colspan` dùng để gộp ô theo hàng." },
+        { "key": "D", "text": "Sau khi thêm `rowspan` cho một ô ở hàng đầu tiên cần ghép, ở các hàng tiếp theo phải bỏ qua cặp thẻ `<th>` hoặc `<td>` tại vị trí tương ứng." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B, D đúng theo Bài 9: hàng dùng `<tr>` với hai loại ô `<th>` và `<td>`, `<caption>` đứng ngay sau `<table>` và trước `<tr>` đầu tiên, quy trình gộp ô gồm hai bước trong đó bước hai là bỏ qua ô ở vị trí đã bị ghép. C sai vì đã đổi tác dụng cho nhau: `rowspan` gộp ô theo hàng, `colspan` gộp ô theo cột.",
+      "tags": ["nhận định đúng sai", "Bảng", "Gộp ô", "Bài 9"]
+    },
+    {
+      "id": "tinhoc12-b09-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-danh-sach-bang",
+      "difficulty": "HARD",
+      "score": 1,
+      "content": "Chọn các nhận định ĐÚNG về cách kẻ khung và đặt kích thước cho bảng.",
+      "options": [
+        { "key": "A", "text": "Trong HTML5, độ dày khung của bảng hoặc của từng ô được thiết lập bằng đặc tính con `border` của thuộc tính `style`." },
+        { "key": "B", "text": "Kích thước của bảng có thể đặt bằng đặc tính con `width` và `height` của `style`, theo tỉ lệ phần trăm với khối bao ngoài hoặc theo số điểm ảnh." },
+        { "key": "C", "text": "Trong bộ ba \"độ_dày_theo_px kiểu_viền [màu_viền]\", cả ba thành phần đều bắt buộc phải có." },
+        { "key": "D", "text": "Nên ưu tiên đơn vị px cho kích thước bảng vì mọi thiết bị hiển thị đều cho cùng một kết quả." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng theo hướng dẫn kẻ khung và đặt kích thước bảng của Bài 9. C sai vì chỉ hai thành phần đầu là bắt buộc, thành phần màu viền có thể bỏ qua khi màu mặc định đen đã phù hợp. D sai vì lưu ý của sách ngược lại: không nên dùng px do các thiết bị hiển thị khác nhau về kích thước và số điểm ảnh.",
+      "tags": ["nhận định đúng sai", "Khung bảng", "Kích thước bảng", "Bài 9"]
+    }
+  ]
+}

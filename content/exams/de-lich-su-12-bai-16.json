@@ -1,0 +1,3586 @@
+{
+  "id": "exam-lich-su-bai-16",
+  "title": "Đề ôn tập Lịch sử 12 – Bài 16. Hồ Chí Minh – Anh hùng giải phóng dân tộc",
+  "slug": "de-lich-su-12-bai-16",
+  "description": "Đề ôn tập 100 câu bám sát Bài 16 Lịch sử 12 (Kết nối tri thức): những đóng góp của Hồ Chí Minh cho cách mạng Việt Nam trên con đường giải phóng dân tộc - từ tìm đường cứu nước, lập Đảng, lãnh đạo Cách mạng tháng Tám, khai sinh nước Việt Nam Dân chủ Cộng hòa, đường lối kháng chiến toàn dân - toàn quốc - trường kỳ - tự lực cánh sinh, tư tưởng đại đoàn kết dân tộc đến di sản tư tưởng Người để lại.",
+  "subject": "lich-su",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 90,
+  "totalScore": 100,
+  "examYear": 2026,
+  "examCode": "SU12-B16",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "q-su-bai16-001",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Danh vị \"Anh hùng giải phóng dân tộc\" khi nói về Chủ tịch Hồ Chí Minh nhằm khẳng định điều gì trước hết?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ông là nhà lãnh đạo có vai trò quyết định đối với sự nghiệp giải phóng dân tộc Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Ông là nhà văn, nhà thơ lớn của văn học Việt Nam hiện đại."
+        },
+        {
+          "key": "C",
+          "text": "Ông là tổng chỉ huy các lực lượng vũ trang trong hai cuộc chiến tranh."
+        },
+        {
+          "key": "D",
+          "text": "Ông là nguyên thủ quốc gia tại vị lâu nhất trong lịch sử Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Danh vị này gắn trực tiếp với công lao tìm đường, mở đường và dẫn dắt dân tộc làm nên những thắng lợi giải phóng, trước hết là Cách mạng tháng Tám năm 1945. Các phương án B, C, D nói về văn chương, quân sự hay thời gian tại vị đều không phải nội dung mà danh vị nhấn mạnh.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Hồ Chí Minh - Anh hùng giải phóng dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-002",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc ra đi tìm đường cứu nước năm 1911 của Nguyễn Tất Thành xuất phát từ mong muốn nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tìm một việc làm ổn định để đổi đời ở nước ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Nhận một học bổng du học của chính quyền thuộc địa."
+        },
+        {
+          "key": "C",
+          "text": "Muốn sang phương Tây tìm cách xin quy phục để được ban quyền lợi."
+        },
+        {
+          "key": "D",
+          "text": "Muốn ra nước ngoài tìm hiểu thực tế, rồi trở về cứu giúp đồng bào."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Mục đích chuyến đi là khảo sát thực tế các nước để tìm con đường cứu nước, sau đó trở về giúp đồng bào, chứ không phải định cư hay xin học bổng, càng không phải xin quy phục. Chính hoài bão giải phóng dân tộc đã chi phối toàn bộ hành trình 30 năm hoạt động ở nước ngoài của ông.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Tìm đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-003",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Hướng cứu nước của Nguyễn Tất Thành khác với các bậc tiền bối đầu thế kỉ XX ở điểm cơ bản nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ trương dựa vào một nước châu Âu khác để chống lại Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Đi sang chính nước tư bản đang xâm lược mình để tìm hiểu, rồi tìm đường trở về đánh thực dân."
+        },
+        {
+          "key": "C",
+          "text": "Khoan sức dân, chờ thời cơ vài chục năm sau mới hoạt động."
+        },
+        {
+          "key": "D",
+          "text": "Duy trì mục tiêu khôi phục chế độ phong kiến."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Các bậc tiền bối như Phan Bội Châu dựa vào Nhật, Phan Châu Trinh dựa vào Pháp để mong thay đổi; Nguyễn Tất Thành chọn hướng đi thẳng sang đất nước đang cai trị mình để tìm hiểu thực tế và tổ chức lực lượng tự đấu tranh. Phương án A, C, D trái với con đường đã được lựa chọn.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tìm đường cứu nước",
+        "Phong trào yêu nước đầu thế kỉ XX",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-004",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Qua 10 năm khảo sát trên nhiều châu lục, Nguyễn Ái Quốc rút ra kết luận quan trọng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các nước phương Tây sẽ giúp các dân tộc thuộc địa tự giải phóng."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ có thể cứu nước bằng cách dựa vào thiện chí của chính quốc."
+        },
+        {
+          "key": "C",
+          "text": "Ở đâu chủ nghĩa tư bản cũng mang lại ấm no cho người lao động."
+        },
+        {
+          "key": "D",
+          "text": "Nhân dân các nước thuộc địa và công nhân chính quốc đều gặp chung kẻ thù, muốn giải phóng phải tự vùng dậy."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Việc khảo sát ba châu lục giúp Nguyễn Ái Quốc kết luận đế quốc là kẻ thù chung của nhân dân lao động chính quốc và các dân tộc bị áp bức; thuộc địa muốn thoát khỏi nô lệ phải tự mình vùng lên. Ba phương án còn lại mâu thuẫn với chính những kết luận đó.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tìm đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-005",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện nào đánh dấu bước quyết định để Nguyễn Ái Quốc lựa chọn con đường cứu nước theo xu hướng mới cho dân tộc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gửi Bản yêu sách của nhân dân An Nam tới Hội nghị Vac-xa-i."
+        },
+        {
+          "key": "B",
+          "text": "Tham gia sáng lập Đảng Cộng sản Pháp năm 1920."
+        },
+        {
+          "key": "C",
+          "text": "Sáng lập Hội Liên hiệp thuộc địa năm 1921."
+        },
+        {
+          "key": "D",
+          "text": "Về nước trực tiếp lãnh đạo phong trào trong nước năm 1941."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Với việc bỏ phiếu tán thành gia nhập Quốc tế Cộng sản và tham gia sáng lập Đảng Cộng sản Pháp cuối năm 1920, Nguyễn Ái Quốc chính thức chọn con đường cách mạng vô sản. Các sự kiện A, C là hoạt động quan trọng nhưng không phải bước quyết định lựa chọn con đường; D là chặng đường sau này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Lựa chọn con đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-006",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Con đường cứu nước mà Nguyễn Ái Quốc lựa chọn cho dân tộc Việt Nam là con đường nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách mạng vô sản."
+        },
+        {
+          "key": "B",
+          "text": "Cải lương theo hướng thỏa hiệp với thực dân."
+        },
+        {
+          "key": "C",
+          "text": "Cách mạng tư sản kiểu cũ."
+        },
+        {
+          "key": "D",
+          "text": "Khôi phục chế độ quân chủ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Từ đầu những năm 20 của thế kỉ XX, Nguyễn Ái Quốc khẳng định giải phóng dân tộc theo con đường cách mạng vô sản, gắn độc lập dân tộc với chủ nghĩa xã hội. Các phương án B, C, D là những khuynh hướng đã bộc lộ hạn chế hoặc bị lịch sử lựa chọn vượt qua.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Lựa chọn con đường cứu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-007",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Bản yêu sách của nhân dân An Nam không được các nước lớn tại Hội nghị Vac-xa-i xem xét để lại bài học gì cho Nguyễn Ái Quốc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Muốn cứu nước phải dựa vào ngoại viện làm chỗ dựa chủ yếu."
+        },
+        {
+          "key": "B",
+          "text": "Muốn có độc lập, dân tộc phải tự lực đấu tranh, không thể trông chờ vào thiện chí của các nước lớn."
+        },
+        {
+          "key": "C",
+          "text": "Phải từ bỏ quyền dân tộc tự quyết mới mong được thương lượng."
+        },
+        {
+          "key": "D",
+          "text": "Con đường ngoại giao là con đường duy nhất để giải phóng dân tộc."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Sự thất bại của việc gửi yêu sách cho ông thấy không thể đặt niềm tin vào lời hứa của các nước đế quốc; muốn được giải phóng phải tự mình đấu tranh. Phương án A và D ngược lại tinh thần tự lực, phương án C trái với nguyên tắc dân tộc tự quyết mà ông kiên trì.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nguyễn Ái Quốc hoạt động ở Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-008",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1925, Nguyễn Ái Quốc sáng lập tổ chức cách mạng nào ở Quảng Châu (Trung Quốc)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam Quốc dân Đảng."
+        },
+        {
+          "key": "B",
+          "text": "Tân Việt Cách mệnh Đảng."
+        },
+        {
+          "key": "C",
+          "text": "Hội Việt Nam Cách mạng Thanh niên."
+        },
+        {
+          "key": "D",
+          "text": "Đảng Lập hiến."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Năm 1925, tại Quảng Châu, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên để chuẩn bị về chính trị, tư tưởng và tổ chức cho việc thành lập đảng. Việt Nam Quốc dân Đảng là tổ chức của tư sản dân tộc, còn Tân Việt và Lập Hiến không phải do Nguyễn Ái Quốc sáng lập.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Chuẩn bị thành lập Đảng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-009",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Tác phẩm nào của Nguyễn Ái Quốc được coi là kim chỉ nam cho phong trào yêu nước Việt Nam trong những năm 1925-1929?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bản án chế độ thực dân Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Đường Kách mệnh."
+        },
+        {
+          "key": "C",
+          "text": "Lời kêu gọi toàn quốc kháng chiến."
+        },
+        {
+          "key": "D",
+          "text": "Thường thức chính trị."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đường Kách mệnh tập hợp các bài giảng của Nguyễn Ái Quốc tại lớp huấn luyện ở Quảng Châu, được xem như cẩm nang dẫn đường cho phong trào yêu nước những năm 1925-1929. Bản án chế độ thực dân Pháp xuất bản ở Pháp năm 1925 chủ yếu tố cáo chủ nghĩa thực dân; hai tác phẩm còn lại thuộc giai đoạn sau.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Đường Kách mệnh",
+        "Chuẩn bị thành lập Đảng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-010",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trong những nội dung cốt lõi của Đường Kách mệnh là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách mạng muốn thắng lợi trước hết phải có đảng cách mạng lãnh đạo, muốn cứu nước và giải phóng dân tộc không có con đường nào khác con đường cách mạng vô sản."
+        },
+        {
+          "key": "B",
+          "text": "Trước mắt thực hiện cải cách nông thôn để dần cải thiện đời sống nông dân."
+        },
+        {
+          "key": "C",
+          "text": "Xây dựng một đội quân thường trực mạnh để đánh thắng thực dân trong thời gian ngắn."
+        },
+        {
+          "key": "D",
+          "text": "Dựa vào lực lượng của các nước đế quốc để kiềm chế Pháp ở Đông Dương."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đường Kách mệnh khẳng định vai trò quyết định của tổ chức đảng và tính tất yếu của con đường cách mạng vô sản, đồng thời xác định lực lượng cách mạng lấy công nông làm gốc. Các phương án B, C, D không phải nội dung của tác phẩm.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đường Kách mệnh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-011",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1930, Nguyễn Ái Quốc giữ vai trò gì đối với sự ra đời của Đảng Cộng sản Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người triệu tập và chủ trì hội nghị hợp nhất các tổ chức cộng sản, soạn thảo văn kiện cương lĩnh đầu tiên của Đảng."
+        },
+        {
+          "key": "B",
+          "text": "Người Bí thư đầu tiên của Trung ương lâm thời được chỉ định sau hội nghị."
+        },
+        {
+          "key": "C",
+          "text": "Người trực tiếp chỉ huy khởi nghĩa vũ trang ngay sau khi Đảng thành lập."
+        },
+        {
+          "key": "D",
+          "text": "Người thành lập Đảng khi đang hoạt động hợp pháp trong nước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đầu năm 1930, Nguyễn Ái Quốc chủ trì hội nghị hợp nhất ba tổ chức cộng sản và soạn thảo Cương lĩnh chính trị đầu tiên của Đảng. Người Bí thư đầu tiên của Trung ương lâm thời là Trần Phú; hội nghị hợp nhất họp bí mật ở ngoài nước nên C và D sai.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành lập Đảng",
+        "Cương lĩnh chính trị đầu tiên",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-012",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Đảng được thành lập đầu năm 1930 với tên gọi ban đầu là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đảng Cộng sản Đông Dương."
+        },
+        {
+          "key": "B",
+          "text": "Đảng Lao động Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Đảng Cộng sản Việt Nam."
+        },
+        {
+          "key": "D",
+          "text": "Hội Việt Nam Cách mạng Thanh niên."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Hội nghị hợp nhất đầu năm 1930 thành lập Đảng Cộng sản Việt Nam; đến tháng 10-1930 Đảng đổi tên thành Đảng Cộng sản Đông Dương. Đảng Lao động Việt Nam là tên gọi ở Đại hội II năm 1951, còn Thanh niên là tổ chức tiền thân.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành lập Đảng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-013",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa quan trọng nhất của việc thành lập Đảng đối với cách mạng Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chấm dứt hoàn toàn ách thống trị của thực dân Pháp ở Đông Dương."
+        },
+        {
+          "key": "B",
+          "text": "Cách mạng Việt Nam có tổ chức đảng lãnh đạo với đường lối đúng đắn, thống nhất, mở ra bước phát triển tất yếu của phong trào."
+        },
+        {
+          "key": "C",
+          "text": "Ngay lập tức đưa công nông cả nước giành được chính quyền."
+        },
+        {
+          "key": "D",
+          "text": "Buộc các nước lớn phải công nhận quyền dân tộc tự quyết của Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đảng ra đời chấm dứt khủng hoảng về đường lối và tổ chức lãnh đạo, đưa phong trào công nông phát triển dưới sự lãnh đạo thống nhất. Thắng lợi giành chính quyền chỉ đến năm 1945, vì vậy các phương án A, C, D là những nhận định phóng đại không đúng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành lập Đảng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-014",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao có thể nói Cương lĩnh chính trị đầu tiên do Nguyễn Ái Quốc soạn thảo là nhân tố quyết định sự tồn tại và phát triển của cách mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì nó vạch ra đường lối chiến lược đúng: giải phóng dân tộc gắn liền với giải phóng giai cấp, dựa vào lực lượng công nông."
+        },
+        {
+          "key": "B",
+          "text": "Vì nó đề ra được kế hoạch kinh tế dài hạn cho toàn quốc."
+        },
+        {
+          "key": "C",
+          "text": "Vì nó giúp Đảng giành được chính quyền ngay trong năm 1930."
+        },
+        {
+          "key": "D",
+          "text": "Vì nó được công bố công khai trong cả nước từ đầu năm 1930."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cương lĩnh xác định đúng mâu thuẫn chủ yếu, phương hướng chiến lược và lực lượng cách mạng, nhờ đó Đảng luôn giữ được đường lối đúng qua các giai đoạn. Cương lĩnh không bàn kế hoạch kinh tế dài hạn, không công khai và cũng không đưa tới giành chính quyền ngay năm 1930.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Cương lĩnh chính trị đầu tiên",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-015",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Phong trào nào trong những năm 1930-1931 thể hiện rõ nhất vai trò lãnh đạo của Đảng và mối liên công-nông được Nguyễn Ái Quốc xây dựng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phong trào tư sản ở các đô thị lớn."
+        },
+        {
+          "key": "B",
+          "text": "Phong trào yêu nước của tầng lớp trí thức."
+        },
+        {
+          "key": "C",
+          "text": "Phong trào Xô viết Nghệ - Tĩnh."
+        },
+        {
+          "key": "D",
+          "text": "Phong trào chống quan lại tham nhũng ở kinh đô."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Xô viết Nghệ - Tĩnh là đỉnh cao của phong trào cách mạng đầu tiên dưới sự lãnh đạo của Đảng, với khối liên minh công - nông thể hiện qua các đội xô viết ở làng xã. Các phong trào còn lại không do Đảng lãnh đạo và không phải đỉnh cao của giai đoạn này.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Phong trào 1930 - 1931",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-016",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phong trào dân chủ 1936-1939, chủ trương lợi dụng hợp pháp nửa hợp pháp để đấu tranh phản ánh điều gì ở Đảng Cộng sản Đông Dương?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự phụ thuộc vào chính sách của chính phủ thuộc địa."
+        },
+        {
+          "key": "B",
+          "text": "Sự từ bỏ mục tiêu giải phóng dân tộc để chạy theo cải lương."
+        },
+        {
+          "key": "C",
+          "text": "Nhạy bén chính trị, biết tranh thủ thời cơ để mở rộng phong trào và giữ vững mục tiêu cứu nước."
+        },
+        {
+          "key": "D",
+          "text": "Sự chuyển sang lãnh đạo đấu tranh vũ trang để giành chính quyền."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Thắng lợi của Mặt trận bình dân ở Pháp tạo môi trường thuận lợi; Đảng Cộng sản Đông Dương biết tranh thủ không gian hợp pháp để tuyên truyền, tổ chức quần chúng mà vẫn giữ mục tiêu dân tộc. Đây không phải là từ bỏ mục tiêu hay phụ thuộc thực dân.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Phong trào dân chủ 1936 - 1939",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-017",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm nào Nguyễn Ái Quốc về nước trực tiếp lãnh đạo cách mạng trong nước?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Năm 1941."
+        },
+        {
+          "key": "B",
+          "text": "Năm 1930."
+        },
+        {
+          "key": "C",
+          "text": "Năm 1936."
+        },
+        {
+          "key": "D",
+          "text": "Năm 1945."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đầu năm 1941, sau khoảng 30 năm hoạt động ở nước ngoài, Nguyễn Ái Quốc về nước trực tiếp lãnh đạo phong trào, mở ra chặng đường quyết định cho thắng lợi năm 1945. Các mốc còn lại không gắn với sự kiện này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hồ Chí Minh - những năm tháng ở nước ngoài",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-018",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện nào đánh dấu việc Mặt trận Việt Minh được thành lập?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nghị quyết của Trung ương Đảng tháng 11-1939."
+        },
+        {
+          "key": "B",
+          "text": "Hội nghị Ban Chấp hành Trung ương Đảng tháng 5-1941."
+        },
+        {
+          "key": "C",
+          "text": "Quốc dân đại hội Tân Trào tháng 8-1945."
+        },
+        {
+          "key": "D",
+          "text": "Hội nghị toàn quốc của Đảng họp đầu năm 1945."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hội nghị Trung ương tháng 5-1941 do Nguyễn Ái Quốc chủ trì đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và quyết định thành lập Mặt trận Việt Minh. Các sự kiện A, C, D đều không phải mốc ra đời của Mặt trận.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Mặt trận Việt Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-019",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Quyết định quan trọng nhất tại Hội nghị Ban Chấp hành Trung ương tháng 5-1941 do Nguyễn Ái Quốc chủ trì là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đưa vấn đề giải phóng dân tộc lên vị trí hàng đầu, tạm gác các quyền lợi giai cấp cụ thể để liên hiệp toàn dân."
+        },
+        {
+          "key": "B",
+          "text": "Phát động tổng khởi nghĩa vũ trang trên phạm vi cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Thông qua chủ trương cải cách ruộng đất triệt để."
+        },
+        {
+          "key": "D",
+          "text": "Tuyên bố thành lập Nhà nước Việt Nam Dân chủ Cộng hòa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Hội nghị tháng 5-1941 xác định mâu thuẫn chủ yếu là mâu thuẫn dân tộc, nên đặt nhiệm vụ giải phóng dân tộc lên hàng đầu và thành lập Mặt trận Việt Minh để tập hợp toàn dân. Tổng khởi nghĩa là quyết định năm 1945; cải cách ruộng đất và tuyên bố lập nước là sự kiện của giai đoạn khác.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Mặt trận Việt Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-020",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cấu trúc tổ chức của Mặt trận Việt Minh thể hiện tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ tập hợp đoàn viên của riêng Đảng Cộng sản Đông Dương."
+        },
+        {
+          "key": "B",
+          "text": "Tổ chức các đoàn thể cứu quốc riêng cho từng tầng lớp để tập hợp rộng rãi mọi người yêu nước."
+        },
+        {
+          "key": "C",
+          "text": "Kết nạp cả quan lại và binh lính ngụy làm nòng cốt lãnh đạo."
+        },
+        {
+          "key": "D",
+          "text": "Lấy liên minh công - nông làm lực lượng duy nhất của mặt trận."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Việt Minh quy tụ các hội cứu quốc của công nhân, nông dân, thanh niên, phụ nữ... nên tập hợp được đông đảo mọi tầng lớp yêu nước. Phương án A, C, D không đúng với cơ cấu và tính chất rộng rãi của Mặt trận.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Mặt trận Việt Minh",
+        "Đại đoàn kết dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-021",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuối năm 1944, theo chỉ thị của Hồ Chí Minh, đơn vị vũ trang tập trung đầu tiên của cách mạng Việt Nam mang tên gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vệ quốc quân."
+        },
+        {
+          "key": "B",
+          "text": "Giải phóng quân liên khu."
+        },
+        {
+          "key": "C",
+          "text": "Đội Việt Nam Tuyên truyền Giải phóng quân."
+        },
+        {
+          "key": "D",
+          "text": "Quân đội Nhân dân Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Ngày 22-12-1944, Đội Việt Nam Tuyên truyền Giải phóng quân được thành lập theo chỉ thị của Hồ Chí Minh, đánh dấu bước phát triển của lực lượng vũ trang cách mạng. Vệ quốc quân là lực lượng có trước đó; Quân đội Nhân dân Việt Nam là tên gọi thống nhất sau này.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Lực lượng vũ trang cách mạng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-022",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào đúng nhất về vai trò của Hồ Chí Minh trong Cách mạng tháng Tám năm 1945?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người trực tiếp soạn thảo mọi văn kiện của Mặt trận Việt Minh trong quá trình khởi nghĩa."
+        },
+        {
+          "key": "B",
+          "text": "Người đề ra chủ trương chuyển hướng, xây dựng lực lượng và chớp thời cơ, kết hợp khởi nghĩa toàn dân với tiến công vũ trang."
+        },
+        {
+          "key": "C",
+          "text": "Người chỉ đạo khởi nghĩa nổ ra đồng loạt tại tất cả các tỉnh thành ngay từ đầu."
+        },
+        {
+          "key": "D",
+          "text": "Người tổ chức cuộc khởi nghĩa chỉ bằng đấu tranh ngoại giao."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hồ Chí Minh đặt nền móng về chuyển hướng chiến lược, xây dựng lực lượng chính trị và vũ trang, rồi nêu cao tinh thần chớp thời cơ dẫn tới thắng lợi. Khởi nghĩa không nổ ra đồng loạt ngay từ đầu và không chỉ bằng ngoại giao, vì vậy các phương án còn lại không đúng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-023",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngày 2-9-1945, tại quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đã làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa."
+        },
+        {
+          "key": "B",
+          "text": "Công bố lời kêu gọi toàn quốc kháng chiến."
+        },
+        {
+          "key": "C",
+          "text": "Ký Hiệp định Sơ bộ để hoãn binh với thực dân Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Chủ trì phiên họp đầu tiên của Quốc hội khóa I."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ngày 2-9-1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, tuyên bố khai sinh nước Việt Nam Dân chủ Cộng hòa. Lời kêu gọi toàn quốc kháng chiến là tháng 12-1946, Hiệp định Sơ bộ và phiên họp đầu tiên của Quốc hội thuộc những mốc khác.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Tuyên ngôn Độc lập",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-024",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhà nước được Chủ tịch Hồ Chí Minh khai sinh ngày 2-9-1945 mang bản chất gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước quân chủ lập hiến."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước dân chủ nhân dân của nhân dân lao động."
+        },
+        {
+          "key": "C",
+          "text": "Chính quyền do thực dân Pháp lập lại."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước xã hội chủ nghĩa hoàn chỉnh."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Việt Nam Dân chủ Cộng hòa là nhà nước dân chủ nhân dân đầu tiên ở Đông Nam Á, do nhân dân lao động làm chủ. Đây không phải nhà nước quân chủ hay thuộc địa, và chủ nghĩa xã hội mới được xây dựng ở miền Bắc từ sau năm 1954.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Việt Nam Dân chủ Cộng hòa",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-025",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao thắng lợi của Cách mạng tháng Tám và sự ra đời của nước Việt Nam Dân chủ Cộng hòa là minh chứng nổi bật cho danh vị Anh hùng giải phóng dân tộc của Hồ Chí Minh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì sau đó nhân dân vẫn phải tiếp tục làm thân phận nô lệ."
+        },
+        {
+          "key": "B",
+          "text": "Vì nó xóa bỏ ngay mọi tệ nạn xã hội còn tồn tại."
+        },
+        {
+          "key": "C",
+          "text": "Vì nó đưa đất nước gia nhập hệ thống tư bản chủ nghĩa."
+        },
+        {
+          "key": "D",
+          "text": "Vì nó đưa một dân tộc hơn 80 năm chịu ách nô lệ vươn lên làm chủ đất nước, mở ra kỉ nguyên độc lập, tự do."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Cách mạng tháng Tám lật đổ ách thống trị thực dân - phong kiến, đưa nhân dân từ địa vị nô lệ lên làm chủ đất nước; đó là kết tinh cả quá trình tìm đường và dẫn dắt của Hồ Chí Minh. Các phương án A, B, C trái với nội dung của thắng lợi.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-026",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào đúng nhất về tình hình nước Việt Nam Dân chủ Cộng hòa trong năm đầu sau Cách mạng tháng Tám?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước non trẻ cùng lúc phải đối mặt giặc đói, giặc dốt, tài chính kiệt quệ và thù trong giặc ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Nền độc lập đã được cả thế giới công nhận ngay sau ngày tuyên bố."
+        },
+        {
+          "key": "C",
+          "text": "Đất nước hòa bình, chỉ phải tập trung vào xây dựng kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Thực dân Pháp đã vội rút quân về nước theo thỏa thuận với Đồng minh."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Chính quyền cách mạng ở trong tình thế \"ngàn cân treo sợi tóc\": nạn đói, nạn mù chữ, ngân sách trống rỗng, ngoài ra còn quân Tưởng, quân Anh và thực dân Pháp câu kết chống phá. Các phương án khác đều trái với thực tế lịch sử giai đoạn này.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Xây dựng chế độ mới 1945 - 1946",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-027",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Hồ Chí Minh và Đảng chủ trương hòa hoãn, nhân nhượng với Pháp trong năm 1946 thể hiện điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự dao động, sẵn sàng từ bỏ mục tiêu độc lập dân tộc."
+        },
+        {
+          "key": "B",
+          "text": "Ý đồ dựa hẳn vào Pháp để chống lại các thế lực khác."
+        },
+        {
+          "key": "C",
+          "text": "Sự khéo léo về sách lược để tranh thủ thời gian chuẩn bị lực lượng cho cuộc kháng chiến lâu dài."
+        },
+        {
+          "key": "D",
+          "text": "Sự phụ thuộc vào quyết định của các cường quốc Đồng minh."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Hòa hoãn để tránh cùng lúc đối đầu với nhiều kẻ thù, tranh thủ thời gian xây dựng thực lực - đó là sách lược mềm dẻo nhưng vẫn giữ vững nguyên tắc độc lập. Không có chuyện từ bỏ mục tiêu hay dựa hẳn vào Pháp.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Sách lược 1945 - 1946",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-028",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Văn kiện nào của Chủ tịch Hồ Chí Minh đã hiệu triệu toàn quốc đứng lên kháng chiến chống Pháp cuối năm 1946?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên ngôn Độc lập năm 1945."
+        },
+        {
+          "key": "B",
+          "text": "Lời kêu gọi toàn quốc kháng chiến."
+        },
+        {
+          "key": "C",
+          "text": "Bản Chính cương của Đảng Lao động Việt Nam."
+        },
+        {
+          "key": "D",
+          "text": "Lời kêu gọi nhân ngày thành lập Đảng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Ngày 19/12/1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến, hiệu triệu cả nước đứng lên. Tuyên ngôn Độc lập gắn với ngày 2/9/1945; các văn kiện còn lại không phải lệnh phát động toàn quốc kháng chiến.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Toàn quốc kháng chiến",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-029",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Quan điểm kháng chiến \"toàn dân\" của Đảng và Chủ tịch Hồ Chí Minh có nội dung cốt lõi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giao phó cuộc kháng chiến cho riêng quân đội chủ lực."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ huy động công nhân và nông dân tham gia kháng chiến."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ những người đủ tuổi tòng quân mới tham gia chiến đấu."
+        },
+        {
+          "key": "D",
+          "text": "Mỗi người dân là một chiến sĩ, cả nước cùng đánh giặc bằng mọi vũ khí và mọi cách."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Kháng chiến toàn dân nghĩa là huy động sức mạnh của toàn dân, mỗi người dân đều tham gia đánh giặc theo khả năng của mình, không giới hạn ở lực lượng vũ trang chính quy. Các phương án còn lại thu hẹp hoặc sai lệch nội dung này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đường lối kháng chiến",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-030",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao cuộc kháng chiến chống Pháp phải tiến hành \"toàn quốc\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì quân đội viễn chinh Pháp đã chiếm giữ toàn bộ lãnh thổ Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Vì chỉ mặt trận phía Bắc mới có điều kiện xây dựng căn cứ địa."
+        },
+        {
+          "key": "C",
+          "text": "Vì giặc đánh khắp nơi nên cả nước phải đánh giặc, các mặt trận phối hợp nhau, chia sẻ lực lượng cho nhau."
+        },
+        {
+          "key": "D",
+          "text": "Vì Trung ương muốn thống nhất chỉ huy quân sự trên cả ba chiến trường Đông Dương."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "\"Toàn quốc\" xuất phát từ yêu cầu cả nước cùng đánh giặc: chiến trường Nam - Bắc hỗ trợ nhau, không để bất cứ địa phương nào đơn độc chịu địch. Pháp chưa kiểm soát toàn bộ lãnh thổ nên A sai; B và D không phải lý do của quan điểm này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đường lối kháng chiến",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-031",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cơ sở quan trọng nhất để Đảng và Hồ Chí Minh xác định kháng chiến phải \"trường kỳ\" là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quân đội Pháp mạnh hơn ta về vũ khí và phương tiện, tương quan lực lượng chưa có lợi cho ta."
+        },
+        {
+          "key": "B",
+          "text": "Đồng minh chưa kịp mở mặt trận thứ hai ở châu Á."
+        },
+        {
+          "key": "C",
+          "text": "Địa hình Việt Nam bằng phẳng nên khó đánh nhanh."
+        },
+        {
+          "key": "D",
+          "text": "Ta thiếu ý chí chiến đấu nên phải kéo dài chiến tranh."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Xuất phát điểm ta nhỏ yếu hơn địch về quân sự và kinh tế, nên phải đánh lâu dài để tiêu hao và trưởng thành, chuyển dần tương quan có lợi cho ta rồi mới giành thắng lợi hoàn toàn. Các lý do còn lại không đúng hoặc phi lí.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đường lối kháng chiến",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-032",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường lối kháng chiến trường kỳ được cụ thể hóa bằng mấy giai đoạn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ba giai đoạn: phòng ngự, cầm cự và tổng phản công."
+        },
+        {
+          "key": "B",
+          "text": "Hai giai đoạn: phòng ngự và tổng tiến công."
+        },
+        {
+          "key": "C",
+          "text": "Bốn giai đoạn: chuẩn bị, phòng ngự, cầm cự, phản công."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ một giai đoạn: tổng phản công ngay từ đầu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Kháng chiến trường kỳ được tính theo ba giai đoạn: phòng ngự, cầm cự và tổng phản công, phản ánh tư duy chuyển hóa tương quan lực lượng từng bước. Các phương án còn lại không khớp với cách chia giai đoạn đã nêu.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đường lối kháng chiến",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-033",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung cốt lõi của quan điểm \"tự lực cánh sinh\" trong kháng chiến là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đóng cửa, không quan hệ với bất kì nước nào."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ trông chờ vào viện trợ của các nước xã hội chủ nghĩa."
+        },
+        {
+          "key": "C",
+          "text": "Đặt thắng lợi vào chân mình, đem sức ta mà tự giải phóng cho ta, đồng thời coi trọng sự giúp đỡ quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "Dùng ngoại giao thay thế hoàn toàn đấu tranh vũ trang."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "\"Tự lực cánh sinh\" đề cao nội lực của dân tộc là quyết định, không ỷ lại viện trợ, nhưng vẫn mở rộng với bạn bè quốc tế. Đóng cửa cực đoan hay dựa hẳn vào bên ngoài đều trái với quan điểm này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đường lối kháng chiến",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-034",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao nói đường lối kháng chiến \"toàn dân, toàn quốc, trường kỳ, tự lực cánh sinh\" là sự kế thừa và nâng tầm truyền thống chống ngoại xâm của dân tộc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì đường lối cho phép áp dụng nguyên vẹn chiến thuật của quân đội các nước xã hội chủ nghĩa."
+        },
+        {
+          "key": "B",
+          "text": "Vì đường lối dựa vào sức mạnh toàn dân và trường kỳ, gắn với truyền thống lấy nhỏ chống lớn, lấy ít địch nhiều."
+        },
+        {
+          "key": "C",
+          "text": "Vì đường lối chủ trương đánh nhanh thắng nhanh trong thời gian ngắn nhất."
+        },
+        {
+          "key": "D",
+          "text": "Vì đường lối chỉ nhằm giải quyết vấn đề kinh tế sau chiến tranh."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đường lối kháng chiến kế thừa nghệ thuật dựng nước đi đôi với giữ nước, lấy toàn dân làm gốc, trường hóa đoản của cha ông, đồng thời được nâng lên bằng tư duy của thời đại mới. Các phương án còn lại không phản ánh đúng cơ sở kế thừa đó.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Đường lối kháng chiến",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-035",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Chiến dịch nào trong kháng chiến chống Pháp được coi là \"cái mốc bằng vàng\", đánh dấu việc kết thúc cuộc tiến công chiến lược đông - xuân 1953 - 1954?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chiến dịch Biên giới."
+        },
+        {
+          "key": "B",
+          "text": "Chiến dịch Việt Bắc."
+        },
+        {
+          "key": "C",
+          "text": "Chiến dịch Thượng Lào."
+        },
+        {
+          "key": "D",
+          "text": "Chiến dịch Điện Biên Phủ."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Chiến dịch Điện Biên Phủ năm 1954 là thắng lợi quyết định, làm phá sản hoàn toàn kế hoạch Nava và kết thúc cuộc tiến công chiến lược đông - xuân 1953 - 1954. Các chiến dịch khác đều có ý nghĩa quan trọng nhưng không phải mốc quyết định này.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Điện Biên Phủ 1954",
+        "Kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-036",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp định Genève năm 1954 về Đông Dương ghi nhận những quyền dân tộc cơ bản nào của Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quyền tự do ngôn luận, hội họp, lập nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "Độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ."
+        },
+        {
+          "key": "C",
+          "text": "Quyền tham gia các tổ chức quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "Quyền được nhận viện trợ kinh tế của các cường quốc."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hiệp định Genève chấm dứt chiến tranh, lập lại hòa bình ở Đông Dương, ghi nhận độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của ba nước; các quyền khác không phải là nội dung cơ bản của hiệp định.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hiệp định Genève 1954",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-037",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoạt động ngoại giao của Chủ tịch Hồ Chí Minh trong kháng chiến chống Pháp thể hiện đặc điểm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ưu tiên cầu hòa bất chấp nguyên tắc."
+        },
+        {
+          "key": "B",
+          "text": "Đóng cửa, không đàm phán với bất cứ bên nào."
+        },
+        {
+          "key": "C",
+          "text": "Kết hợp đấu tranh quân sự với đấu tranh ngoại giao, giữ vững nguyên tắc độc lập nhưng mềm dẻo về sách lược."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ trông chờ vào sự can thiệp của Liên Hợp Quốc."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Hồ Chí Minh kết hợp mặt trận ngoại giao với thắng lợi quân sự, dùng đàm phán để giành thêm thời cơ và chính nghĩa nhưng luôn giữ vững nguyên tắc độc lập - chủ quyền. Đó là cách kết hợp \"dĩ bất biến ứng vạn biến\".",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Ngoại giao kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-038",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Thắng lợi của cuộc kháng chiến chống Pháp (1945 - 1954) dưới sự lãnh đạo của Chủ tịch Hồ Chí Minh có ý nghĩa quốc tế như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở đường cho sự sụp đổ của chủ nghĩa thực dân cũ trên thế giới, cổ vũ các dân tộc bị áp bức đứng lên tự giải phóng."
+        },
+        {
+          "key": "B",
+          "text": "Đưa Việt Nam trở thành cường quốc công nghiệp đứng đầu châu Á."
+        },
+        {
+          "key": "C",
+          "text": "Chấm dứt hoàn toàn mọi cuộc chiến tranh ở khu vực Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "Giúp xóa bỏ hệ thống hai cực của trật tự thế giới hai cực Yalta."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Điện Biên Phủ và kháng chiến chống Pháp thắng lợi chứng thực một dân tộc dù nhỏ yếu, nếu tổ chức và lãnh đạo đúng đường, có thể đánh bại chủ nghĩa thực dân; cổ vũ phong trào giải phóng dân tộc toàn thế giới. Các phương án còn lại phóng đại quá mức.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Phong trào giải phóng dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-039",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ sau năm 1954, cách mạng hai miền Nam - Bắc có nhiệm vụ chiến lược chung là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Miền Bắc chỉ làm nhiệm vụ sản xuất, miền Nam gánh toàn bộ nhiệm vụ chiến đấu."
+        },
+        {
+          "key": "B",
+          "text": "Miền Bắc xây dựng chủ nghĩa xã hội, miền Nam đấu tranh hoàn thành nhiệm vụ dân tộc dân chủ, cả nước hướng tới thống nhất."
+        },
+        {
+          "key": "C",
+          "text": "Cả hai miền đều tập trung vào cải cách ruộng đất."
+        },
+        {
+          "key": "D",
+          "text": "Hai miền đi theo hai con đường hoàn toàn độc lập, không liên quan tới nhau."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Sau năm 1954, miền Bắc quá độ lên chủ nghĩa xã hội, miền Nam tiếp tục chống đế quốc để thống nhất đất nước - hai nhiệm vụ đó gắn bó và hỗ trợ nhau. Các phương án còn lại không đúng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hai nhiệm vụ chiến lược",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-040",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968 chứng minh điều gì trong bối cảnh Hồ Chí Minh đã chỉ dẫn đường lối?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách mạng miền Nam có thể thắng lợi mà không cần sự ủng hộ của miền Bắc."
+        },
+        {
+          "key": "B",
+          "text": "Quân đội Mỹ đã đủ ý chí để tiếp tục leo thang chiến tranh."
+        },
+        {
+          "key": "C",
+          "text": "Sức mạnh tổng hợp của chiến tranh nhân dân kết hợp đấu tranh vũ trang với nổi dậy của quần chúng ở đô thị."
+        },
+        {
+          "key": "D",
+          "text": "Ngoại giao là con đường duy nhất buộc Mỹ rút lui."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Tổng tiến công Tết Mậu Thân là minh chứng của đường lối kết hợp bạo lực cách mạng, đòn quân sự và nổi dậy quần chúng - đặc trưng của chiến tranh nhân dân do Hồ Chí Minh và Đảng dày công xây dựng. A phủ nhận vai trò hậu phương lớn; B và D sai.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-041",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Câu nói \"Không có gì quý hơn độc lập, tự do\" của Chủ tịch Hồ Chí Minh ra đời trong hoàn cảnh nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khi thực dân Pháp bắt đầu quay lại xâm lược."
+        },
+        {
+          "key": "B",
+          "text": "Khi cuộc kháng chiến chống Mỹ cứu nước đang gay go, đế quốc Mỹ mở chiến tranh phá hoại miền Bắc."
+        },
+        {
+          "key": "C",
+          "text": "Khi ông còn hoạt động bí mật ở Thái Lan."
+        },
+        {
+          "key": "D",
+          "text": "Ngay sau thắng lợi của chiến dịch Biên giới Thu Đông 1950."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Câu nói bất hủ được đưa ra giữa những năm kháng chiến chống Mỹ, khi miền Bắc chịu bom Mỹ, khẳng định ý chí quyết chiến để bảo vệ nền độc lập, tự do của Tổ quốc. Các phương án còn lại không đúng với thời điểm và bối cảnh.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Tư tưởng Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-042",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Câu \"Không có gì quý hơn độc lập, tự do\" thể hiện điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lời kêu gọi nhân nhượng để tránh chiến tranh."
+        },
+        {
+          "key": "B",
+          "text": "Học thuyết quân sự về phòng thủ chiến lược."
+        },
+        {
+          "key": "C",
+          "text": "Chính sách kinh tế thời chiến."
+        },
+        {
+          "key": "D",
+          "text": "Khẳng định chân lý: độc lập, tự do là giá trị thiêng liêng nhất, sẵn sàng hy sinh tất cả để giữ gìn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Câu nói đã trở thành chân lý của mọi phong trào giải phóng dân tộc: không có gì đáng giá hơn nền độc lập tự do của Tổ quốc. Nó không phải là chủ trương nhân nhượng hay một học thuyết quân sự - kinh tế nào đó.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tư tưởng Hồ Chí Minh",
+        "Kháng chiến chống Mỹ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-043",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo di chúc, Chủ tịch Hồ Chí Minh để lại niềm tin sắt đá gì về tương lai đất nước?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cuộc kháng chiến chống Mỹ nhất định thắng lợi, đất nước nhất định thống nhất, Nam - Bắc sum họp một nhà."
+        },
+        {
+          "key": "B",
+          "text": "Nhân dân hai miền sẽ phải chấp nhận chia cắt lâu dài."
+        },
+        {
+          "key": "C",
+          "text": "Muốn thống nhất phải phụ thuộc vào một cường quốc."
+        },
+        {
+          "key": "D",
+          "text": "Cần hòa hoãn vô điều kiện với đối phương."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Di chúc thể hiện ý chí thống nhất và niềm tin son sắt rằng kháng chiến chống Mỹ nhất định thắng lợi, Nam - Bắc một nhà. Đó đã trở thành lời hiệu triệu toàn dân tới ngày toàn thắng 1975.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Di chúc Hồ Chí Minh",
+        "Kháng chiến chống Mỹ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-044",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện nào ở nước ta trong thế kỉ XX được coi là chiến thắng \"lừng lẫy năm châu, chấn động địa cầu\", làm phong trào giải phóng dân tộc thêm sức mạnh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng tiến công và nổi dậy Xuân Mậu Thân 1968."
+        },
+        {
+          "key": "B",
+          "text": "Chiến dịch Điện Biên Phủ 1954."
+        },
+        {
+          "key": "C",
+          "text": "Hiệp định Paris 1973."
+        },
+        {
+          "key": "D",
+          "text": "Cách mạng tháng Tám 1945."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Chiến thắng Điện Biên Phủ được ví như \"lừng lẫy năm châu, chấn động địa cầu\" vì một dân tộc thuộc địa đã đánh thắng thực dân lớn, cổ vũ toàn thế giới bị áp bức đứng lên. Các sự kiện khác cũng quan trọng nhưng không phải danh xưng đó.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Điện Biên Phủ 1954",
+        "Phong trào giải phóng dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-045",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao nói thắng lợi của kháng chiến chống Mỹ là thắng lợi của tư tưởng Hồ Chí Minh về kết hợp sức mạnh dân tộc với sức mạnh thời đại?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì ta không cần quan tâm đến dư luận quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "Vì ta chỉ dựa hoàn toàn vào viện trợ của Liên Xô và Trung Quốc."
+        },
+        {
+          "key": "C",
+          "text": "Vì thắng lợi ấy nhờ vào sự giúp sức duy nhất của các lực lượng vũ trang trên bán đảo Đông Dương."
+        },
+        {
+          "key": "D",
+          "text": "Vì phong trào giải phóng dân tộc, hòa bình và công lý trên thế giới đã ủng hộ Việt Nam, còn ý chí và lực lượng tại chỗ là yếu tố quyết định."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Thắng lợi 1975 là kết quả của sức mạnh trong nước (ý chí, khối đại đoàn kết, hậu phương - tiền tuyến) được nhân lên bởi sự đồng tình, ủng hộ quốc tế rộng lớn. Không được tuyệt đối hóa viện trợ nước ngoài, cũng không phải ta hoàn toàn biệt lập.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Sức mạnh dân tộc và thời đại",
+        "Kháng chiến chống Mỹ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-046",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoàn cảnh ra đi tìm đường cứu nước của Nguyễn Tất Thành phản ánh điều gì về đất nước cuối thế kỉ XIX - đầu thế kỉ XX?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phong trào yêu nước đang trong khủng hoảng về đường lối cứu nước."
+        },
+        {
+          "key": "B",
+          "text": "Nền kinh tế tư bản chủ nghĩa đã phát triển mạnh ở Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Chế độ phong kiến còn đủ sức duy trì nền độc lập dân tộc."
+        },
+        {
+          "key": "D",
+          "text": "Giai cấp công nhân Việt Nam đã đủ mạnh để tự mình cứu nước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Trước khi ra đi, hàng loạt phong trào yêu nước thất bại vì thiếu đường lối và giai cấp tiên tiến dẫn đường, nên câu chuyện của Nguyễn Tất Thành gắn với yêu cầu tìm một lối thoát cho dân tộc. B, C, D không đúng thực tế lịch sử Việt Nam giai đoạn này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tìm đường cứu nước",
+        "Phong trào yêu nước",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-047",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Yếu tố nào làm nên tính chất \"mới\" của con đường cứu nước mà Hồ Chí Minh mở ra?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dựa trên hệ tư tưởng vô sản, gắn cách mạng Việt Nam với cách mạng thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Xin phép thực dân Pháp cho lập nghiệp đoàn yêu nước."
+        },
+        {
+          "key": "C",
+          "text": "Mời vua về ngôi để lãnh đạo chống Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ dựa vào lực lượng vũ trang mà bỏ qua lực lượng chính trị của quần chúng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Con đường đó mới vì đứng trên lập trường giai cấp công nhân, dùng chủ nghĩa Mác - Lênin soi đường, liên kết với phong trào cách mạng thế giới. Các hướng còn lại là cách làm cũ hoặc không phù hợp.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Con đường cứu nước",
+        "Tư tưởng Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-048",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Hồ Chí Minh quan niệm \"nước độc lập mà dân không hưởng hạnh phúc tự do, thì độc lập cũng chẳng có nghĩa lý gì\" thể hiện điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ông xem nhẹ nhiệm vụ giải phóng dân tộc."
+        },
+        {
+          "key": "B",
+          "text": "Ông muốn dùng độc lập để đổi lấy viện trợ kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Ông gắn độc lập dân tộc với ấm no, hạnh phúc và quyền làm chủ của nhân dân."
+        },
+        {
+          "key": "D",
+          "text": "Ông đề cao tự do cá nhân hơn chủ quyền dân tộc."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Câu nói cho thấy khái niệm độc lập trong tư tưởng Hồ Chí Minh không trừu tượng mà phải đi đôi với hạnh phúc của dân, quyền làm chủ của dân - logic \"độc lập dân tộc gắn liền với chủ nghĩa xã hội\". Phương án A, B, D đều xuyên tạc ý này.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tư tưởng Hồ Chí Minh",
+        "Độc lập dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-049",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các văn kiện đầu năm 1930, cách mạng Việt Nam được xác định là bộ phận của cách mạng thế giới. Điều này có ý nghĩa gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách mạng Việt Nam có thể tách rời hoàn toàn khỏi các trào lưu tiến bộ trên thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Cách mạng Việt Nam phải tự lực là chính nhưng có quan hệ gắn bó, nhận sự đồng tình, ủng hộ của cách mạng thế giới."
+        },
+        {
+          "key": "C",
+          "text": "Cách mạng Việt Nam do Quốc tế Cộng sản trực tiếp điều hành toàn bộ."
+        },
+        {
+          "key": "D",
+          "text": "Cách mạng thế giới chịu trách nhiệm chính về sự thắng bại của cách mạng Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Xác định là bộ phận của cách mạng thế giới đặt Việt Nam trong dòng chảy thời đại, tăng thêm nguồn lực và uy tín, nhưng yếu tố quyết định vẫn là nỗ lực tự thân của nhân dân Việt Nam. Các phương án còn lại cực đoan hóa quan hệ với bên ngoài.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Cương lĩnh chính trị đầu tiên",
+        "Cách mạng Việt Nam và thế giới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-050",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong kháng chiến, nguyên tắc \"vừa kháng chiến vừa kiến quốc\" của Chủ tịch Hồ Chí Minh được hiểu như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đánh giặc là nhiệm vụ duy nhất, mọi việc xây dựng đất nước để dành sau khi thắng lợi."
+        },
+        {
+          "key": "B",
+          "text": "Tạm dừng kháng chiến để tập trung sản xuất."
+        },
+        {
+          "key": "C",
+          "text": "Xây dựng đất nước phải chờ đến khi hòa bình và độc lập được củng cố xong."
+        },
+        {
+          "key": "D",
+          "text": "Đánh giặc đi đôi với xây dựng hậu phương vững mạnh về chính quyền, kinh tế, văn hóa, giáo dục, tiếp thêm thực lực cho kháng chiến."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Kháng chiến và kiến quốc là hai mặt của một nhiệm vụ: chiến đấu bảo vệ đất nước đồng thời xây dựng nền móng của chế độ mới, làm hậu phương tại chỗ cho tiền tuyến. Các phương án A, B, C tách rời đối kháng và kiến thiết, không đúng đường lối đã nêu.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Kháng chiến kiến quốc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-051",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Gốc rễ sâu xa nhất hình thành tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yêu cầu phải hòa giải với các thế lực ngoại quốc."
+        },
+        {
+          "key": "B",
+          "text": "Truyền thống yêu nước và cố kết cộng đồng của dân tộc Việt Nam trong dựng nước và giữ nước."
+        },
+        {
+          "key": "C",
+          "text": "Chính sách chia để trị của thực dân Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Sự du nhập nguyên bản học thuyết đấu tranh giai cấp từ châu Âu."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Tư tưởng đại đoàn kết bắt nguồn trước hết từ truyền thống yêu nước, đoàn kết của dân tộc, được tiếp thu thêm tinh hoa văn hóa nhân loại. Không phải sự sao chép máy móc hay đối phó với sách lược của địch.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Tư tưởng Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-052",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo tư tưởng Hồ Chí Minh, điểm rộng mở trong cách xác định lực lượng đại đoàn kết thể hiện ở chỗ nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ kết nạp công nhân và nông dân vào mặt trận."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ những người đã từng đi nước ngoài mới được tin cậy tập hợp."
+        },
+        {
+          "key": "C",
+          "text": "Ai thật lòng vì độc lập, thống nhất của Tổ quốc, vì tự do, hạnh phúc của nhân dân thì đều được đoàn kết."
+        },
+        {
+          "key": "D",
+          "text": "Lấy tiêu chuẩn đảng phái làm điều kiện tiên quyết để tham gia mặt trận."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Hồ Chí Minh đặt mẫu số chung là lòng yêu nước, nên lực lượng đoàn kết rất rộng, không phân biệt thành phần, tôn giáo, đảng phái quá khứ. Các phương án khác thu hẹp khối đại đoàn kết, trái với tư tưởng của ông.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-053",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1951, Mặt trận Liên Việt được thành lập trên cơ sở nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hội Việt Nam Cách mạng Thanh niên hợp nhất với Tân Việt."
+        },
+        {
+          "key": "B",
+          "text": "Mặt trận Việt Minh và Hội Liên Việt hợp nhất."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam Quốc dân Đảng cải tổ thành mặt trận mới."
+        },
+        {
+          "key": "D",
+          "text": "Các tôn giáo miền Bắc tự nguyện liên kết thành mặt trận."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Tháng 3-1951, Mặt trận Việt Minh và Hội Liên Việt hợp nhất thành Mặt trận Liên Việt, tiếp tục nhiệm vụ tập hợp toàn dân kháng chiến. Các phương án khác nhầm tổ chức, nhầm giai đoạn.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Mặt trận Liên Việt",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-054",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt trận Tổ quốc Việt Nam - tổ chức kế tục sự nghiệp mặt trận của Hồ Chí Minh - được thành lập vào năm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Năm 1930."
+        },
+        {
+          "key": "B",
+          "text": "Năm 1941."
+        },
+        {
+          "key": "C",
+          "text": "Năm 1955."
+        },
+        {
+          "key": "D",
+          "text": "Năm 1976."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Năm 1955, Mặt trận Tổ quốc Việt Nam được thành lập trên cơ sở kế tục Mặt trận Liên Việt, trở thành chỗ dựa tinh thần của khối đại đoàn kết toàn dân. Việt Minh là mặt trận của năm 1941, không phải tổ chức thành lập năm 1955.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Mặt trận Tổ quốc Việt Nam",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-055",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 1960, tổ chức mặt trận nào ra đời ở miền Nam, tập hợp đồng bào đấu tranh chống Mỹ và chính quyền Sài Gòn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Mặt trận Việt Minh."
+        },
+        {
+          "key": "C",
+          "text": "Mặt trận Liên Việt."
+        },
+        {
+          "key": "D",
+          "text": "Hội Liên hiệp quốc dân Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ngày 20-12-1960, Mặt trận Dân tộc Giải phóng miền Nam Việt Nam thành lập, quy tụ các tầng lớp yêu nước miền Nam trong cuộc đấu tranh chống Mỹ - Diệm. Việt Minh, Liên Việt là mặt trận của những giai đoạn trước.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Kháng chiến chống Mỹ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-056",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo tư tưởng Hồ Chí Minh, vai trò của mặt trận dân tộc thống nhất là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ quan quyền lực nhà nước cao nhất, thay thế Quốc hội."
+        },
+        {
+          "key": "B",
+          "text": "Tổ chức hiệp thương, nơi quy tụ và phản ánh ý chí, sức mạnh của khối đại đoàn kết toàn dân."
+        },
+        {
+          "key": "C",
+          "text": "Đoàn thể chỉ dành cho công nhân ở các thành phố lớn."
+        },
+        {
+          "key": "D",
+          "text": "Cánh tay quân sự của Đảng trong mỗi giai đoạn cách mạng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Mặt trận là tổ chức liên minh chính trị - hiệp thương, tập hợp mọi tầng lớp yêu nước, không phải cơ quan quyền lực nhà nước hay lực lượng quân sự. Phương án A, C, D đều hiểu sai tính chất của mặt trận.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Mặt trận dân tộc thống nhất",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-057",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nền tảng của khối đại đoàn kết toàn dân theo Hồ Chí Minh là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Liên minh công - nông - trí thức, nòng cốt cho việc tập hợp mọi tầng lớp yêu nước."
+        },
+        {
+          "key": "B",
+          "text": "Liên minh giữa tư sản dân tộc với địa chủ yêu nước."
+        },
+        {
+          "key": "C",
+          "text": "Sự liên kết riêng của các tổ chức đảng phái chính trị."
+        },
+        {
+          "key": "D",
+          "text": "Thỏa hiệp giữa chính quyền cách mạng với các giáo hội."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Hồ Chí Minh xác định công - nông - trí thức là nền tảng, từ đó mở rộng đoàn kết với các tầng lớp, dân tộc, tôn giáo khác. Các phương án B, C, D chỉ là một phần hoặc xuyên tạc nền tảng ấy.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Liên minh công nông",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-058",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao trong tư tưởng Hồ Chí Minh, đại đoàn kết phải gắn liền với đấu tranh chống chia rẽ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì đoàn kết và đấu tranh là hai lĩnh vực tách biệt của cách mạng."
+        },
+        {
+          "key": "B",
+          "text": "Vì mọi khác biệt trong nhân dân đều phải bị xóa bỏ bằng biện pháp cưỡng chế."
+        },
+        {
+          "key": "C",
+          "text": "Vì đại đoàn kết chỉ dành cho lực lượng vũ trang, còn dân thường không liên quan."
+        },
+        {
+          "key": "D",
+          "text": "Vì kẻ thù luôn dùng thủ đoạn chia rẽ dân tộc, tôn giáo, đảng phái; giữ đoàn kết phải kiên quyết vô hiệu hóa các mưu đồ đó."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đoàn kết theo Hồ Chí Minh không phải là thỏa hiệp vô nguyên tắc: phải đấu tranh với những luận điệu và hành động chia rẽ để bảo vệ khối đại đoàn kết. Các phương án còn lại hoặc phủ nhận, hoặc cực đoan hóa quan điểm này.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-059",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuộc tổng tuyển cử bầu Quốc hội đầu tiên năm 1946 do Chủ tịch Hồ Chí Minh chỉ đạo thể hiện quyền gì của công dân?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quyền biểu tình, hội họp không cần giấy phép."
+        },
+        {
+          "key": "B",
+          "text": "Quyền tự do kinh doanh theo cơ chế thị trường."
+        },
+        {
+          "key": "C",
+          "text": "Quyền bầu cử phổ thông đầu phiếu - lần đầu nhân dân Việt Nam trực tiếp bỏ phiếu chọn người đại biểu."
+        },
+        {
+          "key": "D",
+          "text": "Quyền ứng cử chỉ dành cho đảng viên cộng sản."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Cuộc bầu cử năm 1946 tiến hành theo nguyên tắc phổ thông đầu phiếu, là thắng lợi của chế độ mới và minh chứng cho tính chất dân chủ của chính quyền Hồ Chí Minh. Các phương án còn lại không phản ánh nội dung cuộc tuyển cử.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Xây dựng chế độ mới 1945 - 1946",
+        "Tổng tuyển cử 1946",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-060",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Chính phủ Hồ Chí Minh mời cựu hoàng Bảo Đại giữ ngôi vị \"công dân thượng đãi\" (Cố vấn tối cao) thể hiện điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ý đồ khôi phục thiết chế quân chủ dưới hình thức mới."
+        },
+        {
+          "key": "B",
+          "text": "Lòng khoan dung và chủ trương hòa hợp dân tộc rộng mở của chính quyền cách mạng."
+        },
+        {
+          "key": "C",
+          "text": "Sự nhượng bộ nguyên tắc chủ quyền trước các thế lực phong kiến."
+        },
+        {
+          "key": "D",
+          "text": "Nỗ lực tìm kiếm viện trợ từ các nước láng giềng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Mời một nhân vật từng đứng đầu chế độ cũ tham gia chính quyền với tinh thần trọng dụng vì đại nghĩa là dẫn chứng tiêu biểu cho chính sách khoan dung, hòa hợp dân tộc. Không có chuyện phục hồi quân chủ hay nhượng bộ nguyên tắc chủ quyền.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hòa hợp dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-061",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Bản chất việc kết hợp dân tộc với giai cấp trong tư tưởng Hồ Chí Minh là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xóa bỏ mọi khác biệt giai cấp ngay khi cách mạng vừa thành công."
+        },
+        {
+          "key": "B",
+          "text": "Ghi nhận mâu thuẫn giai cấp nhưng thực hiện nhiệm vụ giai cấp ở mức độ phù hợp, phục vụ và không phương hại nhiệm vụ dân tộc."
+        },
+        {
+          "key": "C",
+          "text": "Tạm gác hẳn quyền lợi của công nông để lấy lòng các tầng lớp khác."
+        },
+        {
+          "key": "D",
+          "text": "Đặt lợi ích giai cấp cao hơn lợi ích dân tộc trong mọi giai đoạn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hồ Chí Minh luôn đặt nhiệm vụ giải phóng dân tộc lên hàng đầu, đồng thời chăm lo quyền lợi thiết thân của công - nông, bởi hai nhiệm vụ đó thống nhất chứ không đối kháng. Các phương án còn lại thiên lệch một trong hai phía.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Dân tộc và giai cấp",
+        "Tư tưởng Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-062",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Quan niệm của Hồ Chí Minh về tính chất của Đảng Cộng sản cầm quyền ở Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đảng chỉ đại diện cho quyền lợi của giai cấp công nhân thành thị."
+        },
+        {
+          "key": "B",
+          "text": "Đảng là tổ chức của toàn dân, không mang bản chất giai cấp công nhân."
+        },
+        {
+          "key": "C",
+          "text": "Đảng là đội tiên phong của giai cấp công nhân, đồng thời đại biểu cho lợi ích của nhân dân lao động và của cả dân tộc."
+        },
+        {
+          "key": "D",
+          "text": "Đảng là liên minh tạm thời giữa các giai cấp trong mặt trận dân tộc thống nhất."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Theo Hồ Chí Minh, Đảng giữ vững bản chất giai cấp công nhân nhưng vì Đảng lãnh đạo toàn dân, quyền lợi của Đảng thống nhất với quyền lợi của dân tộc và nhân dân lao động. Các phương án còn lại cắt xén một trong hai vế của quan niệm này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Dân tộc và giai cấp",
+        "Tư tưởng về Đảng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-063",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong kháng chiến chống Pháp, chính sách ruộng đất của ta được tiến hành từng bước, từ giảm tô - giảm tức đến người cày có ruộng, vì sao?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì giai cấp địa chủ lúc này là mục tiêu chủ yếu của cách mạng."
+        },
+        {
+          "key": "B",
+          "text": "Vì cần cải thiện đời sống nông dân để bồi đắp lực lượng kháng chiến, lại vẫn giữ được khối đại đoàn kết với những địa chủ yêu nước."
+        },
+        {
+          "key": "C",
+          "text": "Vì phải hoàn thành cải cách ruộng đất trước khi mở bất kỳ một chiến dịch quân sự lớn nào."
+        },
+        {
+          "key": "D",
+          "text": "Vì thực dân Pháp đã tự nguyện trao hết ruộng đất cho nông dân Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Thực hiện đúng mức vấn đề ruộng đất vừa khơi dậy nông dân - lực lượng đông nhất của kháng chiến, vừa không đẩy địa chủ yêu nước về phía kẻ thù; đó là mẫu hình kết hợp dân tộc với giai cấp. Các phương án còn lại sai sự thật lịch sử.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Dân tộc và giai cấp",
+        "Chính sách ruộng đất",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-064",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Giai đoạn 1954 - 1975, theo Hồ Chí Minh, nhân dân miền Nam phải chống lại thế lực nào để hoàn thành sự nghiệp giải phóng dân tộc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giai cấp địa chủ phong kiến trong nước."
+        },
+        {
+          "key": "B",
+          "text": "Thực dân Anh và Hà Lan ở Đông Nam Á."
+        },
+        {
+          "key": "C",
+          "text": "Chủ nghĩa tư bản mậu dịch ở khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Đế quốc Mỹ và chính quyền tay sai, để thống nhất đất nước."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Sau năm 1954, kẻ thù của cách mạng miền Nam được xác định là đế quốc Mỹ cùng chính quyền tay sai, mục tiêu là hoàn thành thống nhất đất nước. Phương án A, B, C không phải đối tượng đấu tranh của giai đoạn này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-065",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh được tiếp nối trong công cuộc Đổi mới của Đảng từ năm 1986 bằng chủ trương nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kết thúc vai trò lịch sử của Mặt trận Tổ quốc Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ dựa vào kinh tế nhà nước làm động lực phát triển."
+        },
+        {
+          "key": "C",
+          "text": "Đoàn kết mọi người Việt Nam yêu nước, dù định cư ở trong nước hay ngoài nước, vì mục tiêu dân giàu, nước mạnh."
+        },
+        {
+          "key": "D",
+          "text": "Xóa bỏ khác biệt giàu - nghèo giữa các vùng miền."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đường lối Đổi mới tiếp tục tinh thần đại đoàn kết: tập hợp mọi người Việt Nam yêu nước, kể cả đồng bào định cư ở nước ngoài, vào sự nghiệp xây dựng và bảo vệ Tổ quốc. Phương án D là cách diễn đạt không tưởng, còn A, B trái đường lối.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Di sản tư tưởng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-066",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo tư tưởng Hồ Chí Minh, sức mạnh quyết định nhất trong mọi thắng lợi của cách mạng Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự giúp đỡ của các nước xã hội chủ nghĩa anh em."
+        },
+        {
+          "key": "B",
+          "text": "Khối đại đoàn kết toàn dân tộc được Đảng lãnh đạo."
+        },
+        {
+          "key": "C",
+          "text": "Học thuyết quân sự tiên tiến nhất thời đại."
+        },
+        {
+          "key": "D",
+          "text": "Các hiệp định quốc tế có lợi cho Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hồ Chí Minh luôn coi sức dân, khối đại đoàn kết toàn dân tộc dưới sự lãnh đạo của Đảng là nhân tố quyết định; những yếu tố quốc tế rất quý nhưng không thay thế được nội lực.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-067",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các năm 1945 - 1946, nhiều nhân sĩ, trí thức không phải cộng sản được mời tham gia Chính phủ và Mặt trận. Cách hiểu nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chính phủ chỉ là chính phủ liên hiệp hình thức, không có thực quyền."
+        },
+        {
+          "key": "B",
+          "text": "Đảng Cộng sản lúc này chưa đủ lực lượng nên phải tìm người đứng tên."
+        },
+        {
+          "key": "C",
+          "text": "Cách mạng đã từ bỏ mục tiêu độc lập, chỉ giữ mục tiêu dân chủ."
+        },
+        {
+          "key": "D",
+          "text": "Chính quyền thực hiện chính sách mở rộng đại đoàn kết, trọng dụng người có tâm, có tài vì lợi ích quốc gia."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Mời các nhân sĩ, trí thức yêu nước tham chính là biểu hiện của chính sách trọng dụng hiền tài, mở rộng khối đại đoàn kết xung quanh chính quyền cách mạng, không hề có chuyện từ bỏ mục tiêu độc lập hay hình thức hóa.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Xây dựng chế độ mới 1945 - 1946",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-068",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Chủ trương đối xử với binh lính và viên chức chế độ cũ trong các cuộc kháng chiến phản ánh điều gì trong tư tưởng Hồ Chí Minh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kết hợp lòng nhân đạo với sách lược phân hóa địch, hướng tới hòa hợp và tái hòa nhập lực lượng."
+        },
+        {
+          "key": "B",
+          "text": "Cả nể với kẻ thù để cầu hòa."
+        },
+        {
+          "key": "C",
+          "text": "Mềm yếu về nguyên tắc trong đấu tranh giai cấp."
+        },
+        {
+          "key": "D",
+          "text": "Biểu hiện của tư tưởng báo thù cá nhân đối với những người đã cầm súng chống lại cách mạng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cách đối xử khoan hồng, phân hóa và cảm hóa binh lính, viên chức phía bên kia thể hiện tính nhân văn và sách lược hòa hợp của Hồ Chí Minh. Các phương án còn lại xuyên tạc chính sách vừa nhân đạo vừa vững nguyên tắc của Người.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hòa hợp dân tộc",
+        "Tư tưởng Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-069",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong Di chúc, tình cảm của Chủ tịch Hồ Chí Minh dành cho đồng bào ở miền Nam thể hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cho rằng miền Nam muốn thống nhất phải dựa vào viện trợ của phương Tây."
+        },
+        {
+          "key": "B",
+          "text": "Xem việc giải phóng miền Nam, hợp nhất đất nước là nhiệm vụ của thế hệ mai sau."
+        },
+        {
+          "key": "C",
+          "text": "Niềm tin sắt đá và tình yêu thương sâu nặng dành cho đồng bào miền Nam anh hùng, chịu nhiều hy sinh, đã bền bỉ đấu tranh và nhất định sẽ thắng lợi."
+        },
+        {
+          "key": "D",
+          "text": "Cho rằng sau năm 1954 miền Nam đã đủ điều kiện hòa bình mà không phải chiến đấu."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Di chúc dành tình cảm đặc biệt và niềm tin son sắt cho đồng bào miền Nam trong cuộc đấu tranh vì thống nhất đất nước; lời tiên tri đó đã được hiện thực hóa năm 1975. Các phương án còn lại xuyên tạc hoặc cắt xén ý của Di chúc.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Di chúc Hồ Chí Minh",
+        "Đại đoàn kết dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-070",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc các nước xã hội chủ nghĩa lần lượt công nhận và đặt quan hệ ngoại giao với Việt Nam Dân chủ Cộng hòa từ đầu năm 1950 có ý nghĩa gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phá thế bị cô lập, mở ra sự ủng hộ quốc tế quan trọng cho cuộc kháng chiến."
+        },
+        {
+          "key": "B",
+          "text": "Chấm dứt ngay mọi hoạt động quân sự của thực dân Pháp ở Đông Dương."
+        },
+        {
+          "key": "C",
+          "text": "Bảo đảm Việt Nam trở thành thành viên của Liên Hợp Quốc cùng thời điểm."
+        },
+        {
+          "key": "D",
+          "text": "Đồng nghĩa với việc xóa bỏ mọi khó khăn về kinh tế của kháng chiến."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Từ năm 1950, Trung Quốc và Liên Xô cùng các nước xã hội chủ nghĩa công nhận, giúp Việt Nam thoát khỏi tình trạng bị cô lập, có thêm nguồn viện trợ và chỗ dựa tinh thần để đưa kháng chiến đến thắng lợi.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Sức mạnh dân tộc và thời đại",
+        "Ngoại giao kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-071",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Chiến thắng Điện Biên Phủ ngày 7/5/1954 tác động thế nào đến Hội nghị Genève?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khiến Hội nghị phải giải tán vì thiếu sự tham gia của Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Không ảnh hưởng gì vì Hội nghị chỉ bàn vấn đề Triều Tiên."
+        },
+        {
+          "key": "C",
+          "text": "Tạo thời cơ để miền Nam đứng lên giành chính quyền ngay lập tức."
+        },
+        {
+          "key": "D",
+          "text": "Tạo nên lợi thế trên bàn đàm phán, góp phần quyết định việc ký kết các hiệp định ghi nhận quyền dân tộc cơ bản của Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Điện Biên Phủ là đòn quyết định cả về quân sự lẫn tâm lý và chính trị, tạo lợi thế cho đoàn ngoại giao Việt Nam tại Genève, góp phần đưa đến Hiệp định Genève tháng 7-1954. A, B sai hoàn toàn; C gượng ghép.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Điện Biên Phủ 1954",
+        "Hiệp định Genève 1954",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-072",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Tình đoàn kết của Hồ Chí Minh với nhân dân Lào và Campuchia thể hiện ở luận điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách mạng ba nước Đông Dương là anh em, cùng chống kẻ thù chung, giúp nhau trên tinh thần bình đẳng, tự nguyện."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam giúp hai nước bằng cách sáp nhập lãnh thổ để mở rộng chiến lược."
+        },
+        {
+          "key": "C",
+          "text": "Nhân dân ba nước phải chờ sự phân công của các cường quốc khi tiến hành cách mạng."
+        },
+        {
+          "key": "D",
+          "text": "Mỗi nước phải tự cứu mình, không cần hỗ trợ lẫn nhau."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Hồ Chí Minh luôn coi ba dân tộc Việt Nam - Lào - Campuchia là anh em, cùng chiến đấu chống chủ nghĩa thực dân và giúp nhau trên nguyên tắc bình đẳng. B, C, D là xuyên tạc.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Sức mạnh dân tộc và thời đại",
+        "Quan hệ ba nước Đông Dương",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-073",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thực thi đối ngoại kháng chiến, chủ trương \"dĩ bất biến, ứng vạn biến\" của Hồ Chí Minh được hiểu thế nào là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ nguyên mọi sách lược đã đề ra từ năm 1945, dù hoàn cảnh thay đổi."
+        },
+        {
+          "key": "B",
+          "text": "Cứng nhắc trong mọi tình huống để không mang tiếng nhân nhượng."
+        },
+        {
+          "key": "C",
+          "text": "Giữ vững nguyên tắc độc lập, chủ quyền; sách lược thì mềm dẻo, uyển chuyển theo tình hình."
+        },
+        {
+          "key": "D",
+          "text": "Nhân nhượng vô nguyên tắc để đổi lấy hòa bình bằng mọi giá."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Châm ngôn của ông đặt nguyên tắc chiến lược (độc lập, chủ quyền) làm cái \"bất biến\", còn cách xử trí, sách lược phải linh hoạt ứng phó với muôn vàn biến động của thực tế. A, B đối lập với chữ \"biến\"; D đối lập với chữ \"bất biến\".",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tư tưởng ngoại giao Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-074",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào đúng khi nói về quan hệ giữa giải phóng dân tộc và giải phóng con người trong tư tưởng Hồ Chí Minh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giải phóng dân tộc là bước đầu, tiến tới giải phóng con người khỏi mọi bất công xã hội và xây dựng cuộc sống ấm no, hạnh phúc."
+        },
+        {
+          "key": "B",
+          "text": "Độc lập dân tộc là mục tiêu cuối cùng, không cần bàn tới hạnh phúc của con người."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ giải phóng con người bằng con đường cải cách kinh tế, bỏ qua đấu tranh chính trị."
+        },
+        {
+          "key": "D",
+          "text": "Giải phóng con người phải tiến hành biệt lập với giải phóng dân tộc."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Tư tưởng Hồ Chí Minh mở ra từ khát vọng giải phóng con người Việt Nam khỏi nô lệ và nghèo nàn, nên các nhiệm vụ của ông đều hướng tới quyền sống, quyền hưởng thụ chính đáng của nhân dân. Phương án còn lại hoặc cắt xén, hoặc tách rời hai nội dung thống nhất.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tư tưởng Hồ Chí Minh",
+        "Di sản tư tưởng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-075",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào khái quát đúng nhất vì sao Hồ Chí Minh được suy tôn là Anh hùng giải phóng dân tộc của Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì Người đã sáng lập ra nước Việt Nam Dân chủ Cộng hòa, còn các quyết định lịch sử khác đều không do Người đề xuất."
+        },
+        {
+          "key": "B",
+          "text": "Vì Người đã trực tiếp chỉ huy mọi trận đánh then chốt của các cuộc kháng chiến."
+        },
+        {
+          "key": "C",
+          "text": "Vì suốt mấy mươi năm, Người đã tìm ra con đường cứu nước đúng đắn, chuẩn bị và tổ chức lực lượng, dẫn dắt dân tộc làm nên Cách mạng tháng Tám và nền độc lập, thống nhất."
+        },
+        {
+          "key": "D",
+          "text": "Vì các nước Đồng minh đã giao cho Người trọng tài xử lý mọi tranh chấp lãnh thổ ở Đông Dương."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Danh vị Anh hùng giải phóng dân tộc phản ánh vai trò thiết kế con đường cứu nước và tầm lãnh đạo trong mọi chặng đường then chốt của cách mạng - từ mở đường đến hiện thực hóa. Phương án A phủ nhận vai trò to lớn của Hồ Chí Minh, B và D là xuyên tạc.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hồ Chí Minh - Anh hùng giải phóng dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-076",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào nói đúng nhất công lao to lớn nhất của Chủ tịch Hồ Chí Minh đối với dân tộc Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tìm thấy, mở đường và dẫn dắt dân tộc đi từ nô lệ đến độc lập, tự do, thống nhất."
+        },
+        {
+          "key": "B",
+          "text": "Xây dựng được nền kinh tế phát triển nhất Đông Nam Á trước năm 1945."
+        },
+        {
+          "key": "C",
+          "text": "Đàm phán thành công để các nước lớn công nhận nền độc lập của Việt Nam ngay năm 1945."
+        },
+        {
+          "key": "D",
+          "text": "Trở thành vị tổng tư lệnh trực tiếp chỉ huy mọi chiến dịch lớn của chiến tranh."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Toàn bộ sự nghiệp của Hồ Chí Minh xoay quanh một trục: tìm đường, tổ chức lực lượng, dẫn đường cho dân tộc tự giải phóng - đó chính là nội dung danh vị Anh hùng giải phóng dân tộc. B, C là bịa đặt; D không đúng vì Người là lãnh tụ tối cao, không phải tổng tư lệnh trực tiếp tác chiến.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hồ Chí Minh - Anh hùng giải phóng dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-077",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cương lĩnh xây dựng đất nước do Đảng thông qua năm 1991 khẳng định những thắng lợi của cách mạng Việt Nam gắn liền với ai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các chuyên gia viện trợ của các nước xã hội chủ nghĩa."
+        },
+        {
+          "key": "B",
+          "text": "Tên tuổi, công lao và sự hy sinh của Chủ tịch Hồ Chí Minh."
+        },
+        {
+          "key": "C",
+          "text": "Các tổ chức quốc tế đã giúp đỡ Việt Nam qua từng giai đoạn."
+        },
+        {
+          "key": "D",
+          "text": "Truyền thống giúp nhau của ba nước Đông Dương."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Cương lĩnh năm 1991 của Đảng đã ghi nhận thắng lợi của cách mạng Việt Nam không thể tách rời công lao của Chủ tịch Hồ Chí Minh - người sáng lập và rèn luyện Đảng ta. Các phương án khác chỉ là nhân tố hỗ trợ, không phải điều Cương lĩnh nhấn mạnh.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Di sản tư tưởng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-078",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "UNESCO tôn vinh Chủ tịch Hồ Chí Minh \"Anh hùng giải phóng dân tộc, nhà văn hóa lớn của Việt Nam\" nhân dịp kỉ niệm sự kiện nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kỉ niệm 100 năm ngày sinh của Người."
+        },
+        {
+          "key": "B",
+          "text": "Kỉ niệm 50 năm ngày lập Đảng Cộng sản Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Kỉ niệm 20 năm kết thúc chiến tranh Việt Nam."
+        },
+        {
+          "key": "D",
+          "text": "Kỉ niệm 100 năm ngày sinh các danh nhân văn hóa châu Á."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Việc UNESCO suy tôn gắn với lễ kỉ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh (năm 1990). Các phương án còn lại không đúng với mốc suy tôn.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "UNESCO tôn vinh Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-079",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa nào sau đây bao quát đúng nhất các lí do khiến nhân dân Việt Nam và bạn bè quốc tế suy tôn Hồ Chí Minh là Anh hùng giải phóng dân tộc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì Người là nhà ngoại giao duy nhất của Việt Nam tiếp xúc với nhiều nguyên thủ thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Vì sự nghiệp và tư tưởng của Người không chỉ đưa Việt Nam thoát khỏi ách nô lệ mà còn cổ vũ các dân tộc bị áp bức trên thế giới đứng lên tự giải phóng."
+        },
+        {
+          "key": "C",
+          "text": "Vì Người đã sáng lập ra hai cuộc kháng chiến trường kỳ nhất lịch sử nhân loại."
+        },
+        {
+          "key": "D",
+          "text": "Vì Người là vị lãnh tụ duy nhất của thế giới từng trải qua ba lục địa."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Danh vị Anh hùng giải phóng dân tộc gắn với tầm ảnh hưởng quốc tế: tấm gương một dân tộc nhỏ chiến thắng chủ nghĩa thực dân, tiếp thêm sức mạnh cho phong trào giải phóng dân tộc thế giới. Các phương án A, C, D chỉ là suy diễn không phải lí do suy tôn.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hồ Chí Minh - Anh hùng giải phóng dân tộc",
+        "Phong trào giải phóng dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-080",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo tư tưởng Hồ Chí Minh, nền độc lập chân chính của dân tộc phải gắn liền với điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự bảo trợ của một cường quốc để giữ yên biên giới."
+        },
+        {
+          "key": "B",
+          "text": "Quyền lợi của giai cấp cầm quyền, dù nhân dân còn nghèo khổ."
+        },
+        {
+          "key": "C",
+          "text": "Tự do, ấm no, hạnh phúc của nhân dân; độc lập phải đi tới chủ nghĩa xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Trình độ quân sự đủ mạnh để không cần quan hệ ngoại giao với nước nào."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Với Hồ Chí Minh, độc lập mà dân không được hưởng hạnh phúc thì không có nghĩa lý gì; vì vậy Người kiên định mục tiêu độc lập dân tộc gắn liền với chủ nghĩa xã hội. Các phương án còn lại trái với tư tưởng của Người.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tư tưởng Hồ Chí Minh",
+        "Độc lập dân tộc gắn liền chủ nghĩa xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-081",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Di sản mà Chủ tịch Hồ Chí Minh để lại cho cách mạng Việt Nam bao gồm những gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ có hệ thống bài thơ và tác phẩm văn nghệ."
+        },
+        {
+          "key": "B",
+          "text": "Đường lối cứu nước, Đảng của giai cấp công nhân, Nhà nước của dân, khối đại đoàn kết toàn dân cùng di sản tư tưởng - đạo đức - phong cách."
+        },
+        {
+          "key": "C",
+          "text": "Một đội quân thường trực hiện đại bậc nhất khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Hiến pháp và các hiệp định quốc tế do Người một tay soạn thảo."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Di sản của Hồ Chí Minh là tổng thể: con đường, tổ chức đảng - nhà nước - mặt trận, cùng kho tàng tư tưởng, tấm gương đạo đức và phong cách. Phương án A thu hẹp di sản, C và D là bịa đặt.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Di sản tư tưởng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-082",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo tư tưởng Hồ Chí Minh về Đảng cầm quyền, quyền lực của Đảng và đội ngũ cán bộ phải gắn liền với điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là người lãnh đạo, đồng thời phải là người phục vụ trung thành của nhân dân, chống quan liêu - tham ô - lãng phí."
+        },
+        {
+          "key": "B",
+          "text": "Cầm quyền là đứng trên nhân dân, không cần chịu sự giám sát."
+        },
+        {
+          "key": "C",
+          "text": "Đảng viên phải lo cho bản thân mình trước, sau đó mới lo cho dân."
+        },
+        {
+          "key": "D",
+          "text": "Đảng chỉ là một câu lạc bộ trí thức, không cần tính kỷ luật."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Hồ Chí Minh nhiều lần nhấn mạnh: Đảng lãnh đạo nhưng cán bộ, đảng viên là đầy tớ của dân; cầm quyền mà xa dân, quan liêu là tự làm hỏng mình. B, C, D trái hẳn với huấn thị của Người.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tư tưởng Hồ Chí Minh",
+        "Đạo đức người cán bộ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-083",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cách diễn đạt nào đúng nhất về bản chất Nhà nước Việt Nam Dân chủ Cộng hòa theo chỉ dẫn của Chủ tịch Hồ Chí Minh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước liên hiệp của ba dân tộc Đông Dương."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước của nông dân và địa chủ yêu nước."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước do lực lượng vũ trang đứng đầu quản lý thời chiến."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước của dân, do dân, vì dân."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Hồ Chí Minh xác định Nhà nước ta là nhà nước của nhân dân, do nhân dân, vì nhân dân; mọi quyền hành thuộc về dân. A, B, C đều không phản ánh đúng bản chất được chỉ ra.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Nhà nước của dân do dân vì dân",
+        "Tư tưởng Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-084",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc có vị trí như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một sách lược tạm thời, hết chiến tranh thì không cần nữa."
+        },
+        {
+          "key": "B",
+          "text": "Cơ sở cho hoạt động ngoại giao, không liên quan đến kháng chiến."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ là khẩu hiệu tuyên truyền, không phải chủ trương thực tế."
+        },
+        {
+          "key": "D",
+          "text": "Một chiến lược cách mạng cơ bản, lâu dài, là nhân tố quyết định sức mạnh và thắng lợi."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đại đoàn kết được Hồ Chí Minh xác định là chiến lược, không phải sách lược nhất thời: có đại đoàn kết mới có sức mạnh toàn dân, thắng lợi mọi giai đoạn. A, B, C hạ thấp vị trí này, trái với nội dung tư tưởng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-085",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Tư tưởng \"kết hợp sức mạnh dân tộc với sức mạnh thời đại\" của Hồ Chí Minh để lại bài học gì cho sự nghiệp xây dựng và bảo vệ Tổ quốc hôm nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ dựa vào sức mạnh quân sự, không cần mở cửa kinh tế và hợp tác quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng hợp tác quốc tế nhưng từ bỏ mục tiêu chủ quyền để đổi lấy lợi ích kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Đem nội lực và sức đại đoàn kết toàn dân làm gốc, đồng thời chủ động hội nhập, tranh thủ nguồn lực và sự đồng tình của thế giới."
+        },
+        {
+          "key": "D",
+          "text": "Xóa bỏ khác biệt giữa các nền văn minh khi mở rộng quan hệ đối ngoại."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Bài học xuyên suốt: tự lực, tự cường là quyết định nhưng phải biết dựa vào dòng chảy tiến bộ của thời đại - hội nhập chứ không hòa tan. A cô lập hóa, B đánh mất nguyên tắc chủ quyền, D là cách diễn đạt cực đoan.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Sức mạnh dân tộc và thời đại",
+        "Di sản tư tưởng",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-086",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm sáng tạo của Hồ Chí Minh khi vận dụng chủ nghĩa Mác - Lênin vào một nước thuộc địa như Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đặt nhiệm vụ giải phóng dân tộc ở vị trí hàng đầu, xem phong trào thuộc địa là bộ phận quan trọng của cách mạng thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Phủ nhận vai trò lãnh đạo của giai cấp công nhân ở các nước nông nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Xem xét vấn đề dân tộc là vấn đề riêng biệt, không liên quan tới cách mạng vô sản."
+        },
+        {
+          "key": "D",
+          "text": "Bỏ qua mâu thuẫn giai cấp để chỉ trông chờ vào sự tự nguyện của thực dân."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Khác với cách đánh giá đương thời coi trọng phương Tây, Hồ Chí Minh nhìn thấy ở các dân tộc thuộc địa một lực lượng cách mạng to lớn và đặt giải phóng dân tộc lên hàng đầu ở Việt Nam, làm phong phú thêm học thuyết Mác - Lênin. B, C, D trái với tư tưởng của Người.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tư tưởng Hồ Chí Minh",
+        "Chủ nghĩa Mác - Lênin",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-087",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao nói tư tưởng Hồ Chí Minh là nền tảng của đường lối đổi mới do Đảng khởi xướng từ năm 1986?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì đổi mới là phủ nhận con đường cách mạng mà Hồ Chí Minh đã chọn."
+        },
+        {
+          "key": "B",
+          "text": "Vì đổi mới lấy việc hòa giải với mọi thế lực cũ làm mục tiêu chính."
+        },
+        {
+          "key": "C",
+          "text": "Vì các quan điểm vì hạnh phúc của nhân dân, đại đoàn kết toàn dân, kết hợp sức mạnh dân tộc với sức mạnh thời đại chính là cơ sở để Đảng bổ sung đường lối."
+        },
+        {
+          "key": "D",
+          "text": "Vì Hồ Chí Minh đã trực tiếp soạn thảo các nghị quyết đổi mới."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đổi mới không cắt đứt mà tiếp nối mạch tư tưởng Hồ Chí Minh về độc lập - tự do - hạnh phúc của nhân dân và đoàn kết toàn dân tộc, được Đảng vận dụng trong hoàn cảnh mới. A, B xuyên tạc; D phi lí về thời gian.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Di sản tư tưởng",
+        "Công cuộc Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-088",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Giai đoạn 1945 - 1946 góp phần khẳng định Hồ Chí Minh là anh hùng giải phóng dân tộc \"không chỉ ở việc mở đường mà cả ở việc giữ vững ngọn lửa độc lập\". Nhận định nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người chỉ hoạt động trên lĩnh vực văn hóa trong giai đoạn này."
+        },
+        {
+          "key": "B",
+          "text": "Người dựa hẳn vào các thế lực bên ngoài để giữ chính quyền, không có sách lược riêng."
+        },
+        {
+          "key": "C",
+          "text": "Người đề ra sách lược hòa hoãn để tránh chiến tranh sớm, xây dựng thực lực, giữ vững chính quyền dân chủ nhân dân non trẻ."
+        },
+        {
+          "key": "D",
+          "text": "Người từ chối lãnh đạo kháng chiến để tập trung xây dựng kinh tế."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Trong tình thế \"ngàn cân treo sợi tóc\", Hồ Chí Minh khéo léo chỉ đạo nhân nhượng sách lược, phân hóa kẻ thù và chuẩn bị thực lực để bảo vệ nền độc lập mới giành được, sau đó phát động toàn quốc kháng chiến. A, B, D đều sai sự thật lịch sử.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Xây dựng chế độ mới 1945 - 1946",
+        "Hồ Chí Minh - Anh hùng giải phóng dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-089",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện Chủ tịch Hồ Chí Minh qua đời năm 1969 tác động thế nào tới sự nghiệp cách mạng Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toàn Đảng và toàn dân biến đau thương thành sức mạnh, tiếp tục con đường Người đã vạch, đi tới Đại thắng mùa Xuân 1975."
+        },
+        {
+          "key": "B",
+          "text": "Cách mạng mất phương hướng vì phụ thuộc vào quyết định cá nhân của một lãnh tụ."
+        },
+        {
+          "key": "C",
+          "text": "Nhân dân hai miền tự động đình chiến ngay lập tức."
+        },
+        {
+          "key": "D",
+          "text": "Sự nghiệp thống nhất đất nước phải dừng lại vô thời hạn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Người ra đi là tổn thất lớn, nhưng tổ chức đảng, đường lối và lực lượng mà Người xây dựng vẫn vận hành; toàn dân đoàn kết đưa kháng chiến tới thắng lợi năm 1975. Các phương án còn lại hạ thấp thực tế lịch sử.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-090",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Kết luận nào đúng nhất khi tổng kết hành trình trở thành Anh hùng giải phóng dân tộc của Hồ Chí Minh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Danh vị ấy đến từ học vị và chức vụ chính thức mà Người nắm giữ."
+        },
+        {
+          "key": "B",
+          "text": "Danh vị ấy được suy tôn vì toàn bộ cuộc đời Người hiến cho sự nghiệp giải phóng dân tộc, và sự nghiệp ấy đã thắng lợi: nước độc lập, dân tự do."
+        },
+        {
+          "key": "C",
+          "text": "Danh vị ấy chỉ liên quan tới sự kiện đọc Tuyên ngôn Độc lập ngày 2-9-1945."
+        },
+        {
+          "key": "D",
+          "text": "Danh vị ấy được ban theo đề nghị của các nước Đồng minh sau chiến tranh."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Hồ Chí Minh là anh hùng giải phóng dân tộc vì cả đời phấn đấu cho mục tiêu đó và đã dẫn tới thắng lợi hiện thực - nền Cộng hòa dân chủ, thống nhất - chứ không phải từ học vị hay một sự kiện đơn lẻ. A, C, D đều hiểu sai danh vị này.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hồ Chí Minh - Anh hùng giải phóng dân tộc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai16-091",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Tất cả mọi người đều sinh ra có quyền bình đẳng. Tạo hóa cho họ những quyền không ai có thể xâm phạm được; trong những quyền ấy, có quyền được sống, quyền tự do và quyền mưu cầu hạnh phúc.\" (Nguồn: Hồ Chí Minh, Tuyên ngôn Độc lập, đọc ngày 2-9-1945) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Câu mở đầu ấy được Chủ tịch Hồ Chí Minh trích từ Tuyên ngôn Độc lập của nước Mỹ năm 1776."
+        },
+        {
+          "key": "B",
+          "text": "Việc trích dẫn nhằm mục đích nhờ nước Mỹ can thiệp quân sự giúp Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Đoạn trích chỉ tuyên bố quyền của riêng người dân nước Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Từ quyền làm người chung của nhân loại, tác giả suy ra quyền dân tộc cơ bản của Việt Nam - một cách lập luận đầy tính thuyết phục."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A) và D) đúng: Người mở đầu bằng lẽ phải đã được thừa nhận rộng rãi để suy ra quyền dân tộc của Việt Nam, một lập luận ngoại giao tài tình. B) sai vì không có nội dung nhờ can thiệp quân sự. C) sai vì đoạn trích hướng tới quyền phổ quát của con người, trong đó có người Việt Nam.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tuyên ngôn Độc lập",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai16-092",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã thành một nước tự do, độc lập.\" (Nguồn: Hồ Chí Minh, Tuyên ngôn Độc lập, ngày 2-9-1945) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyên bố được đặt trên cả hai cơ sở: pháp lí về quyền dân tộc tự quyết và thực tế nhân dân Việt Nam đã tự giành lấy chính quyền."
+        },
+        {
+          "key": "B",
+          "text": "Cụm từ \"sự thật đã thành\" phản ánh thực tế dân tộc Việt Nam đã nổi dậy phá đổ chế độ thực dân - phong kiến, lập nên nhà nước của mình."
+        },
+        {
+          "key": "C",
+          "text": "Đoạn văn cho thấy nền độc lập được chờ đợi thực dân Pháp \"ban phát\"."
+        },
+        {
+          "key": "D",
+          "text": "Đoạn văn chứng tỏ tại thời điểm 1945 đất nước đã hoàn toàn thống nhất về lãnh thổ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A) và B) đúng: Hồ Chí Minh kết hợp lập luận pháp lí với sự kiện có thật - Cách mạng tháng Tám thành công - để khẳng định nền độc lập. C) sai vì độc lập là do nhân dân tự giành, không phải được ban cho. D) sai vì năm 1945 đất nước còn nhiều khó khăn, chưa thống nhất trọn vẹn.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tuyên ngôn Độc lập",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai16-093",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ.\" (Nguồn: Hồ Chí Minh, Lời kêu gọi toàn quốc kháng chiến, tháng 12-1946) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lời kêu gọi được ban ra khi âm mưu cướp lại nước ta của thực dân Pháp đã trở thành hành động chiến tranh xâm lược trên phạm vi cả nước."
+        },
+        {
+          "key": "B",
+          "text": "Câu văn thể hiện ý chí sắt đá: có thể chấp nhận mọi tổn thất, song tuyệt đối không từ bỏ độc lập, tự do."
+        },
+        {
+          "key": "C",
+          "text": "Đoạn trích thể hiện tư tưởng \"tốc chiến tốc thắng\", mong kết thúc chiến tranh trong vài tuần."
+        },
+        {
+          "key": "D",
+          "text": "Nội dung lời kêu gọi chứng tỏ chủ trương nhân nhượng, giữ nguyên hiện trạng thuộc địa."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A) và B) đúng: cuối năm 1946, khi chiến tranh bùng nổ trên cả nước, Lời kêu gọi toàn quốc kháng chiến xác nhận ý chí không chịu mất nước, không chịu làm nô lệ. C) và D) trái ngược hoàn toàn với đường lối trường kỳ và tinh thần quyết chiến của Người.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Toàn quốc kháng chiến",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai16-094",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Bất kỳ đàn ông, đàn bà, bất kỳ người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc.\" (Nguồn: Hồ Chí Minh, Lời kêu gọi toàn quốc kháng chiến, tháng 12-1946) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đoạn trích thể hiện rõ quan điểm \"toàn dân\" kháng chiến của đường lối do Đảng và Hồ Chí Minh vạch ra."
+        },
+        {
+          "key": "B",
+          "text": "Lời kêu gọi cho thấy khối đại đoàn kết vượt trên mọi sự phân biệt tôn giáo, đảng phái, thành phần."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ có bộ đội chủ lực mới được quyền tham gia chiến đấu với thực dân Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Theo Người, vai trò quyết định kháng chiến thuộc về lực lượng Đồng minh bên ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A) và B) đúng: lời hiệu triệu \"hễ là người Việt Nam thì phải đứng lên\" thể hiện đường lối kháng chiến toàn dân và tinh thần đại đoàn kết. C) thu hẹp lực lượng kháng chiến, trái với nội dung đoạn trích; D) phủ nhận vai trò toàn dân, không có trong tư liệu.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Toàn quốc kháng chiến",
+        "Đại đoàn kết dân tộc",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai16-095",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Không có gì quý hơn độc lập, tự do.\" (Nguồn: Khẩu hiệu của Chủ tịch Hồ Chí Minh trong những năm kháng chiến chống Mỹ, cứu nước) Những phát biểu nào sau đây đúng với tinh thần của đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đây là sự khẳng định giá trị thiêng liêng, lớn nhất của dân tộc mà nhân dân Việt Nam quyết giữ bằng mọi giá."
+        },
+        {
+          "key": "B",
+          "text": "Câu nói đã trở thành nguồn cổ vũ nhân dân Việt Nam và các dân tộc bị áp bức trên thế giới trong đấu tranh."
+        },
+        {
+          "key": "C",
+          "text": "Câu nói thể hiện thái độ bài xích mọi hoạt động thương lượng, đàm phán quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "Theo Người, muốn giữ độc lập thì trước hết phải phát triển kinh tế thị trường theo các nước phương Tây."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A) và B) đúng: chân lý \"Không có gì quý hơn độc lập, tự do\" đã trở thành lý tưởng và khẩu hiệu hành động, có sức vang vọng quốc tế sâu rộng. C) sai vì giữ vững nguyên tắc không có nghĩa là khước từ mọi thương lượng; D) suy diễn, nội dung không có trong tư tưởng của Người.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Tư tưởng Hồ Chí Minh",
+        "Kháng chiến chống Mỹ",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai16-096",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Cuộc kháng chiến chống Mỹ, cứu nước của nhân dân ta dù phải kinh qua nhiều hy sinh, gian khổ, nhất định sẽ hoàn toàn thắng lợi. Sông núi nhất định hòa làm một, Nam - Bắc nhất định sum họp một nhà.\" (Nguồn: Di chúc của Chủ tịch Hồ Chí Minh, 1969) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đoạn trích phản ánh dự báo của Hồ Chí Minh về tiền đồ tất thắng của sự nghiệp thống nhất đất nước."
+        },
+        {
+          "key": "B",
+          "text": "Lời tiên đoán ấy đã được hiện thực hóa bằng Đại thắng mùa Xuân năm 1975."
+        },
+        {
+          "key": "C",
+          "text": "Di chúc chấp nhận đất nước bị chia cắt lâu dài là giải pháp không thể khác."
+        },
+        {
+          "key": "D",
+          "text": "Theo Di chúc, phải ngừng đấu tranh để giữ lại tính mạng cho thế hệ tương lai."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A) và B) đúng: niềm tin của Người vào thắng lợi và thống nhất đã được lịch sử kiểm chứng năm 1975. C) trái với ý \"Nam - Bắc sum họp một nhà\"; D) xuyên tạc ý chí kháng chiến đến cùng vì thống nhất của Di chúc.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Di chúc Hồ Chí Minh",
+        "Kháng chiến chống Mỹ",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai16-097",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Năm 1941, sau khi về nước, Nguyễn Ái Quốc chủ trì Hội nghị Ban Chấp hành Trung ương Đảng, quyết định thành lập Mặt trận Việt Minh với các hội cứu quốc của nhiều tầng lớp nhân dân.\" (Nguồn: Tư liệu về hoạt động của Nguyễn Ái Quốc - Hồ Chí Minh giai đoạn 1941 - 1945) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự kiện thể hiện chủ trương đặt nhiệm vụ giải phóng dân tộc lên vị trí hàng đầu của Nguyễn Ái Quốc và Đảng."
+        },
+        {
+          "key": "B",
+          "text": "Mặt trận Việt Minh là hình thức tập hợp lực lượng đại đoàn kết dân tộc trong thời kỳ vận động giải phóng."
+        },
+        {
+          "key": "C",
+          "text": "Mặt trận Việt Minh được tổ chức như một đảng chính trị hợp pháp trong nước."
+        },
+        {
+          "key": "D",
+          "text": "Theo tư liệu, các hội cứu quốc của Mặt trận chỉ mở cho công nhân và nông dân."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A) và B) đúng: việc lập Mặt trận Việt Minh là bước cụ thể hóa chủ trương cứu nước đặt lên trên hết, với cách tổ chức rộng rãi mọi tầng lớp. C) sai vì đây là mặt trận liên hiệp dân tộc, không phải đảng phái; D) thu hẹp phạm vi của các hội cứu quốc.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Mặt trận Việt Minh",
+        "Đại đoàn kết dân tộc",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai16-098",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Chỉ thị Toàn dân kháng chiến của Trung ương Đảng (tháng 12-1946) chủ trương: toàn dân, toàn quốc kháng chiến, trường kỳ kháng chiến, dựa vào sức mình là chính.\" (Nguồn: Tư liệu về đường lối kháng chiến chống thực dân Pháp) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ thị phản ánh đường lối kháng chiến \"toàn dân, toàn quốc, trường kỳ, tự lực cánh sinh\"."
+        },
+        {
+          "key": "B",
+          "text": "Quan điểm \"dựa vào sức mình là chính\" đề cao nội lực, tự lập - tự cường, là cốt lõi của chữ \"tự lực cánh sinh\"."
+        },
+        {
+          "key": "C",
+          "text": "Tư liệu chủ trương đánh nhanh thắng nhanh, cố kết thúc chiến tranh trong vài tháng."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ thị coi kháng chiến là công việc riêng của quân đội chính quy, quần chúng không tham gia."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A) và B) đúng: bốn vế của đường lối kháng chiến được thể hiện rõ, trong đó \"dựa vào sức mình là chính\" chính là tinh thần tự lực cánh sinh. C) ngược với chủ trương trường kỳ; D) ngược với toàn dân, toàn quốc kháng chiến.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Đường lối kháng chiến",
+        "Toàn quốc kháng chiến",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai16-099",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Nói về sức mạnh của khối đại đoàn kết dân tộc, Chủ tịch Hồ Chí Minh để lại cách nói quen thuộc nhấn đi nhấn lại chữ 'đoàn kết' và khẳng định chỉ có đại đoàn kết toàn dân mới làm nên thắng lợi.\" (Nguồn: Tư liệu về tư tưởng đại đoàn kết Hồ Chí Minh) Những phát biểu nào sau đây đúng với tinh thần đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đại đoàn kết được xem là nguồn sức mạnh và là điều kiện bảo đảm cho thắng lợi của cách mạng."
+        },
+        {
+          "key": "B",
+          "text": "\"Đại đoàn kết\" là cách nói biểu thị sự quy tụ rộng rãi nhất mọi lực lượng yêu nước - người Việt đều có thể trở thành bạn của nhau."
+        },
+        {
+          "key": "C",
+          "text": "Tư tưởng đó chỉ có giá trị trong thời kỳ có chiến tranh, không còn phù hợp khi xây dựng đất nước."
+        },
+        {
+          "key": "D",
+          "text": "Theo đoạn tư liệu, muốn đoàn kết thì phải xóa bỏ mọi khác biệt chính kiến và tôn giáo bằng biện pháp cưỡng chế."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A) và B) đúng: đại đoàn kết được Hồ Chí Minh coi là chiến lược quy tụ sức dân, và tinh thần ấy vẫn nguyên giá trị trong thời kỳ xây dựng, hội nhập. C) phủ nhận tính bền vững của chiến lược đoàn kết; D) mâu thuẫn với chính quan niệm về một khối đoàn kết bao dung, rộng mở.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết dân tộc",
+        "Tư tưởng Hồ Chí Minh",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai16-100",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Ở thế kỷ XX, Hồ Chí Minh không chỉ là người lãnh đạo của công nhân và nông dân Việt Nam; nhiều dân tộc trên thế giới còn coi Người là biểu tượng của một nước nhỏ chiến thắng chủ nghĩa thực dân, cổ vũ các dân tộc bị áp bức vùng lên tự giải phóng.\" (Nguồn: Tư liệu tổng kết ảnh hưởng quốc tế của sự nghiệp Hồ Chí Minh) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự nghiệp của Hồ Chí Minh có sức vang vọng vượt ra khỏi biên giới một quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "Đoạn tư liệu phản ánh việc Người gắn chủ nghĩa yêu nước với tình đoàn kết quốc tế, coi thắng lợi của dân tộc mình cũng là thắng lợi của chính nghĩa."
+        },
+        {
+          "key": "C",
+          "text": "Theo tư liệu, cách mạng Việt Nam phụ thuộc hoàn toàn vào các trào lưu bên ngoài."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu chứng tỏ Hồ Chí Minh là lãnh tụ tối cao của phong trào giải phóng dân tộc toàn thế giới."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A) và B) đúng: ảnh hưởng quốc tế của Hồ Chí Minh thể hiện sự hòa quyện giữa chủ nghĩa yêu nước với chủ nghĩa quốc tế trong sáng. C) phủ nhận tính tự thân của cách mạng Việt Nam; D) suy diễn quá mức, tư liệu không khẳng định vai trò lãnh đạo thế giới.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hồ Chí Minh với phong trào giải phóng dân tộc thế giới",
+        "Lịch sử 12",
+        "Đúng – sai"
+      ]
+    }
+  ]
+}

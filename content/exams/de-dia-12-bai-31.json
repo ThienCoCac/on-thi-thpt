@@ -1,0 +1,1467 @@
+{
+  "id": "de-dia-12-bai-31",
+  "title": "Đề ôn tập Địa lí 12 – Bài 31: Sử dụng hợp lí tự nhiên để phát triển kinh tế ở Đồng bằng sông Cửu Long",
+  "slug": "de-dia-12-bai-31",
+  "description": "Đề ôn tập Bài 31 môn Địa lí 12 (bản chỉnh sửa 2026): sử dụng hợp lí tự nhiên để phát triển kinh tế ở Đồng bằng sông Cửu Long. Nội dung gồm đặc điểm tự nhiên (đất phù sa – phèn – mặn, mạng lưới sông ngòi kênh rạch, khí hậu cận xích đạo, rừng ngập mặn, tài nguyên biển), khai thác tổng hợp nông nghiệp nhiệt đới gắn với xuất khẩu, vấn đề cải tạo đất và sử dụng nước, chuyển đổi mùa vụ, du lịch sinh thái sông nước; các hạn chế về xâm nhập mặn, sạt lở, sụt lún, thiếu nước ngọt và hướng sử dụng hợp lí, thích ứng biến đổi khí hậu.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B31",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b31-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "đặc điểm tự nhiên",
+        "sông ngòi",
+        "hệ thống sông Cửu Long"
+      ],
+      "content": "Đồng bằng sông Cửu Long được thành tạo và bồi tụ chủ yếu do phù sa của hệ thống sông nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sông Hồng và hệ thống sông Thái Bình."
+        },
+        {
+          "key": "B",
+          "text": "Sông Cả và hệ thống sông Thu Bồn."
+        },
+        {
+          "key": "C",
+          "text": "Sông Đồng Nai và hệ thống sông Vàm Cỏ."
+        },
+        {
+          "key": "D",
+          "text": "Sông Cửu Long với hai nhánh cơ bản là sông Tiền và sông Hậu."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Đồng bằng sông Cửu Long là đồng bằng châu thổ lớn nhất cả nước, do hệ thống sông Cửu Long (sông Tiền và sông Hậu) bồi tụ phù sa, nguồn bùn cát đến từ phần lưu vực ở thượng nguồn."
+    },
+    {
+      "id": "dia12-b31-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "đất",
+        "tài nguyên đất",
+        "đặc điểm tự nhiên"
+      ],
+      "content": "Ba nhóm đất chiếm diện tích lớn nhất ở Đồng bằng sông Cửu Long là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đất feralit trên đồi, đất cát ven biển, đất đen."
+        },
+        {
+          "key": "B",
+          "text": "đất phù sa, đất phèn, đất mặn."
+        },
+        {
+          "key": "C",
+          "text": "đất xám, đất đen, đất đỏ badan."
+        },
+        {
+          "key": "D",
+          "text": "đất cát ven biển, đất mùn núi cao, đất mặn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Đất của vùng gồm ba nhóm chính: đất phù sa ven sông và kênh rạch, đất phèn ở vùng trũng và đất mặn ở ven biển; trong đó đất phèn và đất mặn chiếm tỉ trọng lớn nên vấn đề cải tạo đất là nhiệm vụ trọng tâm."
+    },
+    {
+      "id": "dia12-b31-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "khí hậu",
+        "mùa khô",
+        "cận xích đạo"
+      ],
+      "content": "Đặc điểm khí hậu nổi bật của Đồng bằng sông Cửu Long là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mang tính chất cận xích đạo, tổng bức xạ lớn, cân bằng bức xạ dương quanh năm."
+        },
+        {
+          "key": "B",
+          "text": "mang tính chất lục địa sâu sắc, biên độ nhiệt năm rất lớn."
+        },
+        {
+          "key": "C",
+          "text": "nhiệt độ thấp, có mùa đông lạnh kéo dài ba tháng."
+        },
+        {
+          "key": "D",
+          "text": "khô hạn khắc nghiệt nhất cả nước, mưa không theo mùa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Vùng nằm gần xích đạo nên khí hậu cận xích đạo: nền nhiệt cao và điều hoà, tổng bức xạ và cân bằng bức xạ lớn, lượng mưa khá cao và chia thành hai mùa khô – mưa rõ rệt, rất thuận lợi cho nông nghiệp nhiệt đới."
+    },
+    {
+      "id": "dia12-b31-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "rừng",
+        "rừng ngập mặn",
+        "tài nguyên"
+      ],
+      "content": "Rừng ngập mặn ở Đồng bằng sông Cửu Long phân bố chủ yếu ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "các vùng trũng nội đồng như Đồng Tháp Mười."
+        },
+        {
+          "key": "B",
+          "text": "các giồng cát cao ở sâu trong nội đồng."
+        },
+        {
+          "key": "C",
+          "text": "dải ven biển và hai bên cửa sông, nơi có thuỷ triều lên xuống."
+        },
+        {
+          "key": "D",
+          "text": "ven các sông rạch nhỏ ở phía bắc của vùng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Rừng ngập mặn (đước, vẹt, sú, cốc…) cần nền bùn mềm và chế độ triều, nên phân bố thành dải ven biển và quanh các cửa sông; còn vùng trũng nội đồng đặc trưng bởi rừng tràm."
+    },
+    {
+      "id": "dia12-b31-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "sông ngòi",
+        "kênh rạch",
+        "đặc điểm tự nhiên"
+      ],
+      "content": "Nhận định nào sau đây đúng nhất với mạng lưới sông ngòi, kênh rạch của Đồng bằng sông Cửu Long?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dày đặc, nhiều kênh rạch nối liên hoàn, giá trị tổng hợp về nước, phù sa, giao thông và thuỷ sản."
+        },
+        {
+          "key": "B",
+          "text": "Nghèo nàn, hầu hết sông ngắn và dốc, ít giá trị sử dụng."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ có một dòng sông duy nhất, nước lên xuống theo mùa nhưng không có kênh rạch."
+        },
+        {
+          "key": "D",
+          "text": "Sông ngòi nhiều thác ghềnh, thích hợp nhất cho thuỷ điện quy mô lớn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Đồng bằng có mạng lưới sông ngòi, kênh rạch chằng chịt, sông thấp và chảy chậm, chế độ nước theo mùa; đây là nguồn nước ngọt, nguồn phù sa, đường giao thông và cơ sở cho nuôi trồng – khai thác thuỷ sản cũng như du lịch sông nước."
+    },
+    {
+      "id": "dia12-b31-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "lúa",
+        "nông nghiệp nhiệt đới",
+        "xuất khẩu"
+      ],
+      "content": "Cây trồng được coi là chủ lực, tạo nên vai trò \"vựa lương thực\" của Đồng bằng sông Cửu Long đối với cả nước là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cây cà phê."
+        },
+        {
+          "key": "B",
+          "text": "Cây chè."
+        },
+        {
+          "key": "C",
+          "text": "Cây cao su trên đất badan."
+        },
+        {
+          "key": "D",
+          "text": "Cây lúa."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Lúa chiếm tỉ trọng lớn nhất về diện tích gieo cấy và sản lượng lương thực có hạt của vùng; vùng đóng góp phần lớn sản lượng lúa và lượng gạo xuất khẩu của cả nước."
+    },
+    {
+      "id": "dia12-b31-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "thuỷ sản",
+        "tài nguyên biển",
+        "khai thác tổng hợp"
+      ],
+      "content": "Về tài nguyên biển và thuỷ sản, Đồng bằng sông Cửu Long có vị thế nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "vùng không có lợi thế về biển vì địa hình thấp."
+        },
+        {
+          "key": "B",
+          "text": "vùng dẫn đầu cả nước về khai thác khoáng sản rắn ở đáy biển."
+        },
+        {
+          "key": "C",
+          "text": "vùng trọng điểm về khai thác và nuôi trồng thuỷ sản của cả nước, có nhiều bãi tôm, bãi cá."
+        },
+        {
+          "key": "D",
+          "text": "vùng duy nhất cả nước làm muối, còn thuỷ sản không đáng kể."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Vùng biển ấm, thềm lục địa nông, nhiều cửa sông – bãi bồi cùng hệ thống kênh rạch và rừng ngập mặn tạo nên các bãi tôm, bãi cá lớn, khiến vùng trở thành trọng điểm khai thác và nuôi trồng thuỷ sản của cả nước."
+    },
+    {
+      "id": "dia12-b31-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "đô thị",
+        "trung tâm vùng",
+        "giao thông"
+      ],
+      "content": "Đô thị giữ vai trò trung tâm tổng hợp và đầu mối giao thông thuỷ – bộ của toàn vùng Đồng bằng sông Cửu Long là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đà Lạt."
+        },
+        {
+          "key": "B",
+          "text": "Cần Thơ."
+        },
+        {
+          "key": "C",
+          "text": "Pleiku."
+        },
+        {
+          "key": "D",
+          "text": "Vũng Tàu."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Cần Thơ là thành phố trực thuộc trung ương nằm giữa vùng, trên sông Hậu, giữ vai trò trung tâm công nghiệp, dịch vụ, nghiên cứu nông nghiệp nhiệt đới và đầu mối giao thông của Đồng bằng sông Cửu Long."
+    },
+    {
+      "id": "dia12-b31-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "chế độ nước",
+        "mùa lũ",
+        "sông ngòi"
+      ],
+      "content": "Chế độ nước sông ở Đồng bằng sông Cửu Long chia hai mùa rõ rệt. Mùa lũ của vùng thường tập trung vào khoảng thời gian",
+      "options": [
+        {
+          "key": "A",
+          "text": "tháng 12 đến tháng 2, khi gió mùa đông bắc hoạt động mạnh."
+        },
+        {
+          "key": "B",
+          "text": "tháng 4 đến tháng 5, ứng với thời kỳ chuyển tiếp mùa."
+        },
+        {
+          "key": "C",
+          "text": "tháng 9 đến tháng 11, khi vùng chịu ảnh hưởng của gió tây nam khô nóng."
+        },
+        {
+          "key": "D",
+          "text": "tháng 7 đến tháng 10, trùng với mùa mưa ở hạ lưu và mưa trên lưu vực."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Mùa lũ thường rơi vào khoảng tháng 7–10, có năm kéo dài sang tháng 11, đỉnh lũ phổ biến vào tháng 9; nước từ thượng nguồn về kết hợp với mưa nội đồng làm diện tích ngập lớn. Mùa cạn từ tháng 12 đến tháng 4 năm sau, cũng là mùa kiệt – mùa khô."
+    },
+    {
+      "id": "dia12-b31-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "cải tạo đất",
+        "đất phèn",
+        "thuỷ lợi"
+      ],
+      "content": "Để sử dụng hợp lí đất phèn ở vùng trũng, biện pháp kĩ thuật được xem là cơ bản và trước hết là",
+      "options": [
+        {
+          "key": "A",
+          "text": "kết hợp thuỷ lợi để rửa phèn, thau chua, đồng thời giữ mực nước hợp lí để tránh bốc phèn."
+        },
+        {
+          "key": "B",
+          "text": "cày phơi ải liên tục nhiều năm để oxy hoá toàn bộ tầng phèn."
+        },
+        {
+          "key": "C",
+          "text": "tăng bón phân hoá học để khử chua cho đất."
+        },
+        {
+          "key": "D",
+          "text": "thoát hết nước, làm khô mặt ruộng quanh năm."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Cải tạo đất phèn dựa vào nước: đào kênh, lên líp, đưa nước ngọt vào rửa phèn – thau chua, rồi giữ mực nước nông để tầng sinh phèn không bị oxy hoá. Phơi ải hay khô hạn kéo dài làm phèn bốc lên mạnh hơn."
+    },
+    {
+      "id": "dia12-b31-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "đất phèn",
+        "vùng trũng nội đồng",
+        "phân bố"
+      ],
+      "content": "Đất phèn ở Đồng bằng sông Cửu Long hình thành và tập trung chủ yếu ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "các giồng cát cao, thoát nước mạnh ven biển."
+        },
+        {
+          "key": "B",
+          "text": "các vùng trũng nội đồng ngập nước lâu ngày, tích tụ vật liệu hữu cơ trong điều kiện yểm khí."
+        },
+        {
+          "key": "C",
+          "text": "dải ven sông Tiền, sông Hậu nơi được bồi phù sa hằng năm."
+        },
+        {
+          "key": "D",
+          "text": "các chân núi thấp ở rìa phía bắc của vùng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Đất phèn hình thành ở vùng trũng, yểm khí, giàu vật liệu hữu cơ và sunfua (vùng Đồng Tháp Mười, tứ giác Long Xuyên, bán đảo Cà Mau…). Khi bị khô và oxy hoá, tầng sinh phèn tạo acid làm chua đất."
+    },
+    {
+      "id": "dia12-b31-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "xâm nhập mặn",
+        "mùa khô",
+        "hạn chế"
+      ],
+      "content": "Xâm nhập mặn trên các sông, kênh rạch của Đồng bằng sông Cửu Long thường gay gắt nhất vào thời điểm",
+      "options": [
+        {
+          "key": "A",
+          "text": "đầu mùa mưa, khi các đợt mưa đầu vụ xuất hiện."
+        },
+        {
+          "key": "B",
+          "text": "giữa mùa lũ, khi nước sông dâng cao và lan ra đồng."
+        },
+        {
+          "key": "C",
+          "text": "cuối mùa khô, khoảng tháng 2 đến tháng 4, khi lưu lượng nước từ thượng nguồn về thấp."
+        },
+        {
+          "key": "D",
+          "text": "cuối mùa lũ, khi nước bắt đầu rút ra biển."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Mặn vào sâu khi nguồn nước ngọt thiếu hụt và triều cường đẩy nước biển lên, điển hình vào cuối mùa khô (tháng 2–4). Đây là thời kỳ bất lợi nhất cho lúa và cho nguồn nước ngọt sinh hoạt."
+    },
+    {
+      "id": "dia12-b31-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "lịch thời vụ",
+        "né mặn",
+        "chuyển đổi mùa vụ"
+      ],
+      "content": "Việc bố trí lịch thời vụ gieo cấy \"né mặn, né lũ\" ở Đồng bằng sông Cửu Long có ý nghĩa chính là",
+      "options": [
+        {
+          "key": "A",
+          "text": "làm tăng số vụ lúa trên một diện tích lên mức tối đa."
+        },
+        {
+          "key": "B",
+          "text": "đưa cây lúa vào giai đoạn cần nhiều nước ngọt khi nguồn nước ngọt còn dồi dào, tránh giai đoạn nhạy cảm lúc mặn lên."
+        },
+        {
+          "key": "C",
+          "text": "thay thế hoàn toàn hệ thống thuỷ lợi bằng kinh nghiệm thời vụ."
+        },
+        {
+          "key": "D",
+          "text": "giúp đất phèn và đất mặn tự chuyển hoá thành đất phù sa."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Bố trí thời vụ hợp lí là né giai đoạn cây lúa mẫn cảm với mặn và với lũ vào lúc nguồn nước ngọt cạn, qua đó giảm thiệt hại, giảm chi phí chống hạn – mặn; đây là giải pháp phi công trình cùng với thuỷ lợi."
+    },
+    {
+      "id": "dia12-b31-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "mô hình canh tác",
+        "lúa tôm",
+        "thích ứng"
+      ],
+      "content": "Mô hình canh tác \"lúa – tôm\" thường được áp dụng có hiệu quả nhất ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "các cù lao giữa sông, được bồi phù sa hằng năm."
+        },
+        {
+          "key": "B",
+          "text": "vùng đô thị tập trung công nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "vùng trũng nội đồng phèn nặng chưa có nước ngọt."
+        },
+        {
+          "key": "D",
+          "text": "vùng ven biển bị nhiễm mặn theo mùa, có thể xoay vòng từ vụ lúa sang vụ tôm."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Ở vùng ven biển nhiễm mặn theo mùa, vụ lúa dùng nước ngọt đầu mùa mưa giúp rửa mặn cho đất; khi mặn về, chuyển sang nuôi tôm, tạo vòng luân canh thuận thiên, tăng thu nhập và giảm rủi ro."
+    },
+    {
+      "id": "dia12-b31-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "sụt lún",
+        "nước ngầm",
+        "hạn chế"
+      ],
+      "content": "Nguyên nhân chủ yếu gây hiện tượng sụt lún mặt đất ở nhiều đô thị và vùng nông thôn của Đồng bằng sông Cửu Long là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sóng biển ăn vào chân bờ."
+        },
+        {
+          "key": "B",
+          "text": "mưa lớn tập trung trong vài tháng."
+        },
+        {
+          "key": "C",
+          "text": "khai thác nước ngầm quá mức, làm nén ép các tầng bùn sét dày có tính nén lún cao."
+        },
+        {
+          "key": "D",
+          "text": "giao thông đường thuỷ với mật độ lớn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Vùng có nền địa chất trẻ, nhiều tầng sét bùn dày dễ nén. Khai thác nước ngầm vượt mức bổ cập làm mực nước hạ thấp, tầng chứa mất áp lực và nén lại, gây sụt lún, đồng thời làm xâm nhập mặn tầng nước ngầm."
+    },
+    {
+      "id": "dia12-b31-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "sạt lở",
+        "bờ sông",
+        "bờ biển"
+      ],
+      "content": "Hiện tượng sạt lở bờ sông, bờ biển ở Đồng bằng sông Cửu Long diễn ra ngày càng nghiêm trọng, nguyên nhân quan trọng nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sự kết hợp giữa nguồn bùn cát giảm, chế độ dòng chảy và sóng thay đổi, mất dải rừng ngập mặn chắn sóng cùng các tác động của khai thác cát và xây dựng ven bờ."
+        },
+        {
+          "key": "B",
+          "text": "do nền đất quá cứng, không thể bồi tụ."
+        },
+        {
+          "key": "C",
+          "text": "chỉ do mưa ít nên đất khô và nứt nẻ."
+        },
+        {
+          "key": "D",
+          "text": "do diện tích rừng tràm ở nội đồng tăng nhanh."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Sạt lở là kết quả tổng hợp: bùn cát về hạ lưu giảm nên đồng bằng không bù đắp được, dòng chảy và sóng bị biến đổi, dải rừng ngập mặn chắn sóng bị mất, cộng thêm khai thác cát và tải trọng ven bờ."
+    },
+    {
+      "id": "dia12-b31-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "phù sa",
+        "bùn cát",
+        "thượng nguồn"
+      ],
+      "content": "Xu hướng giảm lượng bùn cát và phù sa về hạ lưu Đồng bằng sông Cửu Long trong những năm gần đây chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "người dân trong vùng đã ngừng sử dụng phân bón."
+        },
+        {
+          "key": "B",
+          "text": "các công trình chặn giữ nước và bùn cát ở phần thượng nguồn lưu vực, cùng với thay đổi sử dụng đất và khí hậu."
+        },
+        {
+          "key": "C",
+          "text": "diện tích mặt nước của vùng giảm mạnh."
+        },
+        {
+          "key": "D",
+          "text": "mạng lưới kênh rạch nội đồng bị san lấp."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Khi dòng chảy qua các hồ chứa, đập và công trình trên lưu vực sông ở thượng nguồn bị chặn lại, phần lớn bùn cát lắng ở thượng lưu nên vùng hạ lưu nhận được ít phù sa hơn, làm giảm bồi tụ, tăng xói lở và giảm độ màu tự nhiên."
+    },
+    {
+      "id": "dia12-b31-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "rừng ngập mặn",
+        "hệ sinh thái",
+        "bảo vệ"
+      ],
+      "content": "Việc suy giảm diện tích rừng ngập mặn ở Đồng bằng sông Cửu Long gây hậu quả rõ nhất nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nền nhiệt của vùng giảm mạnh, không còn vụ đông."
+        },
+        {
+          "key": "B",
+          "text": "Mặn không thể xâm nhập vào nội đồng."
+        },
+        {
+          "key": "C",
+          "text": "Lượng mưa mùa hạ tăng lên đáng kể."
+        },
+        {
+          "key": "D",
+          "text": "Mất nơi sinh sản và trú ẩn của nhiều loài thuỷ sản, đồng thời bờ biển mất dải chắn sóng nên dễ xói lở hơn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Rừng ngập mặn vừa là bức tường sống chắn sóng, giữ bờ, vừa là nơi ương nuôi tôm cá. Mất rừng làm giảm nguồn lợi thuỷ sản, tăng xói lở và làm suy giảm khả năng phòng hộ trước bão, nước dâng."
+    },
+    {
+      "id": "dia12-b31-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "du lịch",
+        "sinh thái sông nước",
+        "khai thác tổng hợp"
+      ],
+      "content": "Loại du lịch đặc trưng, gắn trực tiếp với tài nguyên sông nước và cảnh quan miệt vườn của vùng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Du lịch khám phá hang động đá vôi và đỉnh núi cao."
+        },
+        {
+          "key": "B",
+          "text": "Du lịch nghỉ dưỡng trên cát trắng kết hợp thể thao mùa đông có tuyết."
+        },
+        {
+          "key": "C",
+          "text": "Du lịch sinh thái sông nước: đi thuyền trên kênh rạch, tham quan vườn trái cây, chợ nổi và khu rừng ngập mặn."
+        },
+        {
+          "key": "D",
+          "text": "Du lịch công nghiệp, tham quan tổ hợp luyện gang thép."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Hệ thống kênh rạch, cù lao, vườn trái cây, rừng ngập mặn và văn hoá sông nước tạo nên sản phẩm du lịch sinh thái đặc thù, góp phần đa dạng hoá sinh kế và giảm áp lực khai thác tài nguyên."
+    },
+    {
+      "id": "dia12-b31-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "rừng",
+        "tỉ lệ che phủ",
+        "hạn chế"
+      ],
+      "content": "So với mức trung bình của cả nước, tỉ lệ che phủ rừng của Đồng bằng sông Cửu Long ở mức thấp hơn. Nguyên nhân sâu xa là",
+      "options": [
+        {
+          "key": "A",
+          "text": "quá trình chuyển đất rừng sang đất nông nghiệp, đất nuôi thuỷ sản và đất dân cư kéo dài, trong khi diện tích đất bằng của vùng có hạn."
+        },
+        {
+          "key": "B",
+          "text": "khí hậu quá lạnh, rừng nhiệt đới không thể sinh trưởng."
+        },
+        {
+          "key": "C",
+          "text": "vùng hoàn toàn không có điều kiện để trồng rừng."
+        },
+        {
+          "key": "D",
+          "text": "lượng mưa của vùng quá nhỏ nên rừng không phát triển được."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Đất rừng của vùng bị thu hẹp qua nhiều thập kỷ để mở rộng ruộng lúa, ao tôm và khu dân cư; đồng thời rừng ngập mặn còn bị mất do sạt lở và nuôi thuỷ sản tự phát, khiến diện tích rừng thấp hơn mức chung cả nước."
+    },
+    {
+      "id": "dia12-b31-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "nước ngọt",
+        "mùa khô",
+        "thuỷ lợi"
+      ],
+      "content": "Vấn đề nan giải nhất về nước của Đồng bằng sông Cửu Long là thiếu nước ngọt vào mùa khô. Giải pháp nào sau đây được xem là phù hợp và chủ động nhất cho sản xuất và dân sinh ở quy mô hộ và ấp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chờ mưa đầu mùa rồi mới gieo trồng, không cần chuẩn bị gì thêm."
+        },
+        {
+          "key": "B",
+          "text": "Tăng công suất bơm hút nước ngầm để bù phần nước ngọt còn thiếu."
+        },
+        {
+          "key": "C",
+          "text": "Xây hệ thống trữ nước ngọt (hồ, ao, bể chứa, mương, ô bao) kết hợp nạo vét kênh dẫn, sử dụng nước tiết kiệm."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển toàn bộ dân cư ra vùng ven biển để tránh hạn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Mùa khô kéo dài từ tháng 12 đến tháng 4, nước ngọt cạn nên phải chủ động tích trữ và phân phối hợp lí: hồ, ao, bể chứa nước mưa, nước ngọt đầu mùa; ô bao giữ nước; đồng thời giảm khai thác nước ngầm để hạn chế sụt lún và nhiễm mặn tầng ngậm nước."
+    },
+    {
+      "id": "dia12-b31-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "khí hậu",
+        "lượng mưa",
+        "tính toán"
+      ],
+      "content": "**Bảng số liệu lượng mưa của một trạm khí tượng ở Đồng bằng sông Cửu Long (mm):**\n\n- Tổng lượng mưa cả năm: 1.650; mùa mưa (tháng 5 đến tháng 11) chiếm: 88% tổng lượng mưa năm\n\n*Nguồn: Số liệu giả sử để tính toán.*\n\nVới số liệu trên, lượng mưa trung bình của mùa khô (5 tháng còn lại) ở trạm này xấp xỉ",
+      "options": [
+        {
+          "key": "A",
+          "text": "132 mm."
+        },
+        {
+          "key": "B",
+          "text": "165 mm."
+        },
+        {
+          "key": "C",
+          "text": "297 mm."
+        },
+        {
+          "key": "D",
+          "text": "198 mm."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Mùa khô chiếm 100% − 88% = 12% tổng lượng mưa năm, nên lượng mưa mùa khô = 1.650 × 12 : 100 = 198 mm, tức chỉ bằng khoảng một phần tám mùa mưa dù kéo dài tới 5 tháng."
+    },
+    {
+      "id": "dia12-b31-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "đất",
+        "tỉ trọng",
+        "tính toán"
+      ],
+      "content": "**Bảng số liệu diện tích một số nhóm đất chính của Đồng bằng sông Cửu Long (nghìn ha):**\n\n- Đất phù sa: 1.240; đất phèn: 1.630; đất mặn: 950; nhóm đất khác: 150\n\n*Nguồn: Số liệu giả sử để tính toán.*\n\nVới bảng số liệu trên, tổng diện tích tự nhiên và tỉ trọng của đất phèn trong cơ cấu diện tích đất của vùng lần lượt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "3.970 nghìn ha và 41,1%."
+        },
+        {
+          "key": "B",
+          "text": "3.970 nghìn ha và 31,2%."
+        },
+        {
+          "key": "C",
+          "text": "3.820 nghìn ha và 42,7%."
+        },
+        {
+          "key": "D",
+          "text": "4.150 nghìn ha và 39,3%."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Tổng diện tích = 1.240 + 1.630 + 950 + 150 = 3.970 nghìn ha. Tỉ trọng đất phèn = 1.630 : 3.970 × 100 ≈ 41,1%; đất phù sa chiếm 1.240 : 3.970 × 100 ≈ 31,2%, đất mặn ≈ 23,9%."
+    },
+    {
+      "id": "dia12-b31-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "thuỷ lợi",
+        "kiểm soát mặn",
+        "ô bao"
+      ],
+      "content": "Trong các vùng ngọt hoá và kiểm soát mặn ở Đồng bằng sông Cửu Long, hệ thống công trình thủy lợi giữ vai trò quyết định. Phát biểu nào sau đây đúng nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ cần một tuyến đê biển là đủ kiểm soát mặn cho toàn vùng."
+        },
+        {
+          "key": "B",
+          "text": "Kết hợp đê bao, ô bao, kênh dẫn và hệ thống cống, đập để lấy nước ngọt, ngăn nước triều mang mặn và chủ động tiêu nước."
+        },
+        {
+          "key": "C",
+          "text": "Thuỷ lợi chỉ phục vụ giao thông, không liên quan đến mặn."
+        },
+        {
+          "key": "D",
+          "text": "Cống, đập phải luôn mở để nước triều ra vào tự do."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Kiểm soát mặn đòi hỏi đồng bộ công trình: ô bao chia nhỏ vùng quản lý, kênh dẫn nước ngọt, cống một chiều ngăn triều mặn và đập điều tiết, kèm quy trình vận hành theo lịch thời vụ và theo độ mặn đo được."
+    },
+    {
+      "id": "dia12-b31-c25",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "chuyển đổi mùa vụ",
+        "luân canh",
+        "thích ứng"
+      ],
+      "content": "Hướng chuyển đổi cơ cấu mùa vụ – cây trồng theo tinh thần \"thuận thiên\" ở Đồng bằng sông Cửu Long là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng vụ lúa đông xuân ở mọi vùng, kể cả vùng cuối nguồn bị nhiễm mặn sâu."
+        },
+        {
+          "key": "B",
+          "text": "Duy trì cố định hai vụ lúa/năm trên toàn bộ diện tích, không thay đổi."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển toàn bộ đất lúa sang đất ở và khu công nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "Rút lúa ở vùng thiếu nước ngọt, mở rộng luân canh lúa – tôm, lúa – cá, cây ăn quả và rau màu ở những nơi có lợi thế."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Thích ứng theo tiểu vùng sinh thái: nơi có nước ngọt thì giữ lúa chất lượng cao, nơi nhiễm mặn theo mùa thì lúa – tôm, nơi trũng ngập sâu thì lúa – cá hoặc rừng, vùng giồng và ven đô thì cây ăn quả, rau màu."
+    },
+    {
+      "id": "dia12-b31-c26",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "nuôi trồng thuỷ sản",
+        "nước lợ",
+        "sử dụng hợp lí"
+      ],
+      "content": "Khi mở rộng nuôi tôm nước lợ ở vùng ven biển, yêu cầu quan trọng nhất về sử dụng hợp lí tài nguyên nước và đất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cấp nước triều tuỳ ý, không cần kiểm soát độ mặn hay chất lượng nước."
+        },
+        {
+          "key": "B",
+          "text": "Phá rừng ngập mặn để tăng diện tích ao nuôi."
+        },
+        {
+          "key": "C",
+          "text": "Quy hoạch vùng nuôi ổn định, lấy nước có xử lý, kiểm soát độ mặn và nước thải, giữ dải rừng phòng hộ, tránh đào ao tự phát trên đất lúa."
+        },
+        {
+          "key": "D",
+          "text": "Tăng mật độ con nuôi liên tục để bù lại chi phí xử lý môi trường."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Nuôi tôm bền vững phải đi kèm quy hoạch, kiểm soát nguồn nước cấp và nước thải, giữ rừng phòng hộ và không chuyển tuỳ tiện đất lúa sang ao nuôi; nếu không sẽ gây ô nhiễm, dịch bệnh và mất an ninh lương thực."
+    },
+    {
+      "id": "dia12-b31-c27",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "khai thác tổng hợp",
+        "sông ngòi",
+        "giá trị"
+      ],
+      "content": "Ý nghĩa của việc khai thác tổng hợp giá trị sông ngòi, kênh rạch ở Đồng bằng sông Cửu Long là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giúp kết hợp cung cấp nước tưới và rửa mặn với giao thông đường thuỷ, khai thác thuỷ sản, du lịch và thoát lũ, giảm xung đột giữa các mục đích sử dụng."
+        },
+        {
+          "key": "B",
+          "text": "Cho phép chỉ tập trung vào một mục đích duy nhất là nuôi thuỷ sản."
+        },
+        {
+          "key": "C",
+          "text": "Làm mất đi chức năng tiêu lũ của các vùng trũng."
+        },
+        {
+          "key": "D",
+          "text": "Giúp mở rộng khai thác cát lòng sông mà không gây hậu quả."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Một dòng sông, một con kênh mang nhiều giá trị; khai thác tổng hợp là bố trí các mục đích dùng nước hài hoà, có quy trình vận hành chung, tránh việc dùng cho mục đích này làm tổn hại mục đích khác."
+    },
+    {
+      "id": "dia12-b31-c28",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "lúa",
+        "tốc độ tăng trưởng",
+        "tính toán"
+      ],
+      "content": "**Bảng số liệu sản lượng lúa của Đồng bằng sông Cửu Long (nghìn tấn):**\n\n- Năm 2020: 21.500; Năm 2024: 23.220\n\n*Nguồn: Niên giám thống kê Việt Nam (số liệu giả sử để tính toán).*\n\nVới bảng số liệu trên, tốc độ tăng trưởng sản lượng lúa của vùng giai đoạn 2020 – 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "5,0%."
+        },
+        {
+          "key": "B",
+          "text": "8,0%."
+        },
+        {
+          "key": "C",
+          "text": "12,4%."
+        },
+        {
+          "key": "D",
+          "text": "19,8%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Mức tăng = 23.220 − 21.500 = 1.720 nghìn tấn. Tốc độ tăng trưởng = 1.720 : 21.500 × 100 = 8,0% (tương đương chỉ số phát triển 108,0% so với năm 2020)."
+    },
+    {
+      "id": "dia12-b31-c29",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "năng suất",
+        "diện tích",
+        "tính toán"
+      ],
+      "content": "**Bảng số liệu về lúa của một vùng trong Đồng bằng sông Cửu Long:**\n\n- Sản lượng thóc cả năm: 8,84 triệu tấn; năng suất thóc bình quân: 68,0 tạ/ha\n\n*Nguồn: Số liệu giả sử để tính toán.*\n\nVới số liệu trên, tổng diện tích gieo cấy lúa cả năm của vùng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.150 nghìn ha."
+        },
+        {
+          "key": "B",
+          "text": "1.240 nghìn ha."
+        },
+        {
+          "key": "C",
+          "text": "1.420 nghìn ha."
+        },
+        {
+          "key": "D",
+          "text": "1.300 nghìn ha."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Đổi 8,84 triệu tấn = 88.400.000 tạ; 68,0 tạ/ha = 6,8 tấn/ha. Diện tích = 88.400.000 : 68 = 1.300.000 ha = 1.300 nghìn ha. Muốn tăng sản lượng khi đất đã giới hạn, phải tăng năng suất và giảm tổn thất sau thu hoạch."
+    },
+    {
+      "id": "dia12-b31-c30",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "thuỷ sản",
+        "tỉ trọng",
+        "tính toán"
+      ],
+      "content": "**Bảng số liệu sản lượng thuỷ sản của Đồng bằng sông Cửu Long (nghìn tấn):**\n\n- Nuôi trồng: 1.050; khai thác: 700\n\n*Nguồn: Số liệu giả sử để tính toán.*\n\nVới bảng số liệu trên, nuôi trồng chiếm tỉ trọng bao nhiêu trong tổng sản lượng thuỷ sản của vùng và điều đó phản ánh điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40,0%; khai thác tự nhiên vẫn giữ vai trò tuyệt đối."
+        },
+        {
+          "key": "B",
+          "text": "52,4%; hai lĩnh vực gần như cân bằng."
+        },
+        {
+          "key": "C",
+          "text": "60,0%; nuôi trồng là động lực tăng trưởng chính, giúp giảm áp lực lên nguồn lợi tự nhiên."
+        },
+        {
+          "key": "D",
+          "text": "63,2%; vùng không còn hoạt động khai thác."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tổng sản lượng = 1.050 + 700 = 1.750 nghìn tấn. Tỉ trọng nuôi trồng = 1.050 : 1.750 × 100 = 60,0%. Nuôi trồng vượt khai thác cho thấy chuyển dịch đúng hướng: chủ động nguồn nguyên liệu và giảm khai thác quá mức."
+    },
+    {
+      "id": "dia12-b31-c31",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "thuận thiên",
+        "sử dụng hợp lí",
+        "triển khai"
+      ],
+      "content": "Quan điểm \"thuận thiên\" trong sử dụng hợp lí tự nhiên ở Đồng bằng sông Cửu Long được hiểu đúng nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuần hoá tự nhiên, ngăn mọi biến động của sông và biển."
+        },
+        {
+          "key": "B",
+          "text": "Bố trí sản xuất theo tiểu vùng sinh thái, chấp nhận và điều tiết quy luật mặn – ngọt – lũ để tạo sinh kế, thay vì cưỡng bức tự nhiên."
+        },
+        {
+          "key": "C",
+          "text": "Từ bỏ khai thác tự nhiên, để nguyên hiện trạng."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ đầu tư cho công trình bê tông, không cần quy trình vận hành."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Thuận thiên là \"sống chung\" với hạn – mặn – lũ: dùng lũ để rửa phù sa và làm vệ sinh đồng ruộng, dùng mặn đúng lúc đúng chỗ để nuôi thuỷ sản, kết hợp giải pháp công trình với phi công trình (giống cây, con chịu mặn, thời vụ, cảnh báo)."
+    },
+    {
+      "id": "dia12-b31-c32",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "rừng ngập mặn",
+        "biến động",
+        "tính toán"
+      ],
+      "content": "**Bảng số liệu diện tích rừng ngập mặn của vùng ven biển Đồng bằng sông Cửu Long (nghìn ha):**\n\n- Năm 2010: 42,0; Năm 2020: 37,8\n\n*Nguồn: Số liệu giả sử để tính toán.*\n\nVới bảng số liệu trên, mức giảm diện tích rừng ngập mặn giai đoạn 2010 – 2020 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "10,0%, tương ứng 4,2 nghìn ha, chủ yếu do chuyển sang nuôi thuỷ sản, mất đất bồi và sạt lở bờ biển."
+        },
+        {
+          "key": "B",
+          "text": "4,2% diện tích, do rừng chuyển sang trồng cây ăn quả."
+        },
+        {
+          "key": "C",
+          "text": "20,0% diện tích, do khai thác gỗ làm nguyên liệu giấy."
+        },
+        {
+          "key": "D",
+          "text": "10,0% diện tích, nhưng diện tích tuyệt đối không đổi."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Diện tích giảm = 42,0 − 37,8 = 4,2 nghìn ha. Tỉ lệ giảm = 4,2 : 42,0 × 100 = 10,0%. Đây là cơ sở để trồng lại rừng phòng hộ và giao rừng cho cộng đồng quản lý."
+    },
+    {
+      "id": "dia12-b31-c33",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "xâm nhập mặn",
+        "quan trắc",
+        "tính toán"
+      ],
+      "content": "**Bảng số liệu độ mặn đo tại một trạm trên kênh nội đồng (‰):**\n\n- Tháng 12: 1,5; Tháng 3: 8,5\n\n*Nguồn: Số liệu giả sử để tính toán.*\n\nVới bảng số liệu trên, nhận định nào sau đây đúng về biến động độ mặn giữa hai thời điểm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Độ mặn tăng thêm 4,5‰, chưa ảnh hưởng tới tưới tiêu."
+        },
+        {
+          "key": "B",
+          "text": "Độ mặn giảm 7,0‰ vì mùa khô nước ngọt nhiều hơn."
+        },
+        {
+          "key": "C",
+          "text": "Độ mặn không đổi, chỉ thay đổi theo con nước triều."
+        },
+        {
+          "key": "D",
+          "text": "Độ mặn tăng thêm 7,0‰, tức gấp khoảng 5,7 lần, đủ gây hại cho lúa và vượt ngưỡng dùng cho sinh hoạt."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Mức tăng = 8,5 − 1,5 = 7,0‰; so sánh tương đối = 8,5 : 1,5 ≈ 5,7 lần. Thông thường độ mặn trên 1‰ đã bất lợi cho lúa, khoảng 4‰ trở lên phải ngừng lấy nước, nên trị số 8,5‰ đòi hỏi đóng cống và dùng nguồn nước dự trữ."
+    },
+    {
+      "id": "dia12-b31-c34",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "biến đổi khí hậu",
+        "nước biển dâng",
+        "dài hạn"
+      ],
+      "content": "Trong bối cảnh biến đổi khí hậu và nước biển dâng, hướng nào sau đây mang tính dài hạn và có hệ thống nhất để tiếp tục sử dụng hợp lí tự nhiên ở Đồng bằng sông Cửu Long?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nâng cấp đê biển theo từng đoạn, không gắn với quy hoạch sử dụng đất."
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng tối đa diện tích lúa ba vụ để tăng sản lượng bằng mọi giá."
+        },
+        {
+          "key": "C",
+          "text": "Quy hoạch vùng theo tiểu vùng sinh thái nông nghiệp, kết nối thủy lợi – giống – lịch thời vụ – thị trường, bảo vệ rừng ngập mặn và giảm khai thác nước ngầm."
+        },
+        {
+          "key": "D",
+          "text": "Chờ đủ số liệu quan trắc nhiều thập kỷ nữa rồi mới điều chỉnh sản xuất."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Thích ứng dài hạn phải là giải pháp tổng thể: quy hoạch không gian theo sinh thái, đồng bộ hạ tầng thủy lợi với khoa học – công nghệ, thị trường và quản lý rủi ro, đồng thời giảm các nguyên nhân nội tại (nước ngầm, phá rừng, khai thác cát)."
+    },
+    {
+      "id": "dia12-b31-c35",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "tổng hợp",
+        "hạn chế",
+        "phát triển bền vững"
+      ],
+      "content": "Một học sinh nêu bốn nhận định về việc sử dụng hợp lí tự nhiên ở Đồng bằng sông Cửu Long. Nhận định nào sau đây là chính xác?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ cần giải quyết xâm nhập mặn là mọi hạn chế của vùng biến mất."
+        },
+        {
+          "key": "B",
+          "text": "Phải xử lý đồng thời nhiều hạn chế – mặn, thiếu nước ngọt mùa khô, sạt lở, sụt lún, suy giảm rừng – vì chúng có quan hệ nhân quả với nhau."
+        },
+        {
+          "key": "C",
+          "text": "Sạt lở và sụt lún hoàn toàn do tự nhiên, con người không thể tác động."
+        },
+        {
+          "key": "D",
+          "text": "Suy giảm rừng ngập mặn chỉ ảnh hưởng đến du lịch, không ảnh hưởng thuỷ sản."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Các vấn đề của vùng liên kết chặt: nước ngọt giảm làm mặn sâu hơn; khai thác nước ngầm gây sụt lún, làm sạt lở và ngập nặng thêm; mất rừng giảm chắn sóng và mất nguồn lợi thuỷ sản. Vì vậy phải giải quyết đồng bộ, theo chuỗi tác động."
+    },
+    {
+      "id": "dia12-b31-c36",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "đặc điểm tự nhiên",
+        "đất",
+        "khí hậu"
+      ],
+      "content": "Chọn các phát biểu đúng về đặc điểm tự nhiên của Đồng bằng sông Cửu Long.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Địa hình thấp và bằng phẳng, mạng lưới sông ngòi, kênh rạch chằng chịt, nhiều vùng trũng rộng lớn."
+        },
+        {
+          "key": "B",
+          "text": "Đất gồm ba nhóm chính là phù sa, phèn và mặn; trong đó đất phèn và đất mặn chiếm tỉ trọng lớn, cần cải tạo để sử dụng."
+        },
+        {
+          "key": "C",
+          "text": "Khí hậu cận xích đạo, chia hai mùa khô và mưa rõ rệt, mùa khô kéo dài khoảng từ tháng 12 đến tháng 4 năm sau."
+        },
+        {
+          "key": "D",
+          "text": "Rừng của vùng chủ yếu là rừng ôn đới lá rộng, tập trung trên các dãy núi cao ở rìa phía tây."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án ABC. A, B, C đều là đặc điểm cơ bản của vùng. D sai vì Đồng bằng sông Cửu Long không có núi cao và không có rừng ôn đới; rừng của vùng là rừng ngập mặn ven biển và rừng tràm, rừng trên đất ngập nước ở nội đồng."
+    },
+    {
+      "id": "dia12-b31-c37",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "nông nghiệp nhiệt đới",
+        "xuất khẩu",
+        "thuỷ sản"
+      ],
+      "content": "Chọn các phát biểu đúng về khai thác tổng hợp tự nhiên để phát triển nông nghiệp nhiệt đới và ý nghĩa xuất khẩu ở Đồng bằng sông Cửu Long.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng là vựa lúa lớn nhất cả nước, đóng góp phần chủ yếu lượng gạo xuất khẩu, nên an ninh lương thực quốc gia gắn chặt với vùng."
+        },
+        {
+          "key": "B",
+          "text": "Cây ăn quả và rau màu không có lợi thế vì đất của vùng phần lớn là đất phèn, đất mặn."
+        },
+        {
+          "key": "C",
+          "text": "Nuôi trồng và khai thác thuỷ sản là thế mạnh nổi bật, tạo nguồn hàng xuất khẩu quan trọng như tôm và cá."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ sản xuất của vùng chỉ dựa vào một vụ lúa đông xuân, không có luân canh hay xen canh."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "Đáp án AC. A và C phản ánh đúng vị trí của vùng về lương thực và thuỷ sản, cả hai đều là mặt hàng xuất khẩu chủ lực. B sai vì cây ăn quả là thế mạnh lớn của vùng; D sai vì vùng có hai đến ba vụ lúa và nhiều hình thức luân canh, xen canh."
+    },
+    {
+      "id": "dia12-b31-c38",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "hạn chế",
+        "sạt lở",
+        "biến đổi khí hậu"
+      ],
+      "content": "Chọn các phát biểu đúng về những hạn chế, rủi ro trong sử dụng tự nhiên ở Đồng bằng sông Cửu Long.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sụt lún chỉ là hệ quả của nước biển dâng, không liên quan đến hoạt động khai thác nước dưới đất."
+        },
+        {
+          "key": "B",
+          "text": "Xâm nhập mặn gay gắt vào cuối mùa khô, làm thu hẹp diện tích có thể gieo cấy lúa và thiếu nước ngọt cho sinh hoạt."
+        },
+        {
+          "key": "C",
+          "text": "Sạt lở bờ sông, bờ biển gia tăng do nguồn bùn cát giảm, mất rừng ngập mặn chắn sóng và các tác động khai thác ven bờ."
+        },
+        {
+          "key": "D",
+          "text": "Diện tích rừng ngập mặn bị suy giảm, kéo theo giảm nơi sinh sản của thuỷ sản và giảm khả năng phòng hộ bờ biển."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "Đáp án BCD. B, C, D đều là hạn chế điển hình và có quan hệ với nhau. A sai vì sụt lún ở vùng chủ yếu do nén ép các tầng bùn sét khi khai thác nước ngầm quá mức; nước biển dâng làm ngập nặng thêm chứ không phải nguyên nhân duy nhất."
+    },
+    {
+      "id": "dia12-b31-c39",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "cải tạo đất",
+        "thuỷ lợi",
+        "phát biểu đúng"
+      ],
+      "content": "Chọn các phát biểu đúng về hướng sử dụng hợp lí đất và nước ở Đồng bằng sông Cửu Long.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Với đất phèn vùng trũng, kết hợp lên líp, đào kênh để rửa phèn, thau chua và giữ mực nước hợp lí nhằm hạn chế bốc phèn."
+        },
+        {
+          "key": "B",
+          "text": "Có thể cải tạo toàn bộ đất mặn thành đất phù sa chỉ trong một vụ nếu bón đủ vôi."
+        },
+        {
+          "key": "C",
+          "text": "Khai thác nước ngầm càng nhiều càng tốt vì đây là nguồn nước ngọt vô hạn của vùng."
+        },
+        {
+          "key": "D",
+          "text": "Với vùng nhiễm mặn theo mùa, chủ động lấy nước, trữ nước ngọt, đóng cống ngăn triều và chuyển sang mô hình lúa – tôm khi mặn về."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "Đáp án AD. A và D là hai hướng kỹ thuật phù hợp với quy luật tự nhiên của vùng. B sai vì cải tạo đất mặn là quá trình dài, phụ thuộc nguồn nước ngọt và thủy lợi, bón vôi không tự chuyển hoá loại đất. C sai vì nước ngầm ở vùng có hạn và khai thác quá mức gây sụt lún, nhiễm mặn tầng ngậm nước."
+    },
+    {
+      "id": "dia12-b31-c40",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-dia-b31-dong-bang-song-cuu-long",
+      "tags": [
+        "thích ứng",
+        "du lịch sinh thái",
+        "phát triển bền vững"
+      ],
+      "content": "Chọn các phát biểu đúng về các giải pháp thích ứng biến đổi khí hậu và đa dạng hoá sinh kế ở Đồng bằng sông Cửu Long.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phát triển du lịch sinh thái sông nước, miệt vườn và rừng ngập mặn giúp đa dạng hoá thu nhập, giảm áp lực khai thác tài nguyên."
+        },
+        {
+          "key": "B",
+          "text": "Trồng và bảo vệ rừng ngập mặn kết hợp nuôi thuỷ sản sinh thái là giải pháp vừa phòng hộ bờ biển vừa duy trì nguồn lợi."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển dịch cơ cấu mùa vụ, sử dụng giống chịu mặn, chịu hạn và hoàn thiện thủy lợi là nhóm giải pháp thích ứng chủ yếu."
+        },
+        {
+          "key": "D",
+          "text": "Tăng diện tích lúa vụ đông xuân ở vùng cuối nguồn là cách tốt nhất để ứng phó với xâm nhập mặn."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án ABC. Ba phát biểu phản ánh đúng hướng thích ứng tổng hợp, kết hợp giải pháp công trình và phi công trình, đồng thời phát triển dịch vụ dựa vào tự nhiên. D sai vì vùng cuối nguồn thiếu nước ngọt về mùa khô, mở rộng thêm vụ lúa ở đó làm tăng rủi ro thiệt hại do mặn."
+    }
+  ]
+}

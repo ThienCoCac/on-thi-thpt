@@ -1,0 +1,1339 @@
+{
+  "id": "de-lich-su-12-luyen-de-so-01",
+  "title": "Luyện thi tốt nghiệp THPT – Lịch sử 12 (đề tự soạn theo cấu trúc) số 01",
+  "slug": "de-lich-su-12-luyen-de-so-01",
+  "description": "Đề 40 câu / 50 phút theo cấu trúc câu hỏi trắc nghiệm của kì thi tốt nghiệp THPT, phủ đều 17 bài của sách giáo khoa Lịch sử 12: liên hợp quốc, trật tự thế giới, ASEAN, cách mạng tháng Tám, hai cuộc kháng chiến, bảo vệ Tổ quốc, công cuộc Đổi mới, đối ngoại và sự nghiệp Hồ Chí Minh; ưu tiên giai đoạn 1945–1975 và Đổi mới. Đề do site tự soạn theo cấu trúc, không phải đề thi thật của năm nào.",
+  "subject": "lich-su",
+  "grade": 12,
+  "type": "FULL_EXAM",
+  "durationMinutes": 50,
+  "totalScore": 10,
+  "examYear": null,
+  "examCode": null,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "su12-ld01-c1",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Mục đích hoạt động của Liên hợp quốc được nêu trong Hiến chương là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo vệ các thế hệ sau khỏi tai hoạ chiến tranh, duy trì hoà bình và an ninh quốc tế, thúc đẩy quan hệ hữu nghị giữa các dân tộc."
+        },
+        {
+          "key": "B",
+          "text": "Thiết lập một chính phủ thế giới để cai quản toàn bộ các quốc gia."
+        },
+        {
+          "key": "C",
+          "text": "Điều hành nền kinh tế thị trường toàn cầu và ấn định giá cả hàng hoá."
+        },
+        {
+          "key": "D",
+          "text": "Liên kết quân sự bắt buộc giữa các nước phát triển để chống các nước đang phát triển."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì Hiến chương năm 1945 xác định mục đích của Liên hợp quốc là giữ gìn hoà bình, an ninh và thúc đẩy hợp tác hữu nghị giữa các dân tộc. Liên hợp quốc không phải chính phủ thế giới nên B sai; không ấn định giá cả hàng hoá nên C sai; không phải liên minh quân sự bắt buộc nên D sai.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Liên hợp quốc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c2",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Cơ quan nào của Liên hợp quốc giữ vai trò đầu tiên trong việc duy trì hoà bình, an ninh quốc tế và có năm uỷ viên thường trực?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đại hội đồng, nơi mọi quốc gia thành viên đều có một phiếu biểu quyết."
+        },
+        {
+          "key": "B",
+          "text": "Hội đồng Bảo an, với năm uỷ viên thường trực là Cộng hoà liên bang Nga, Anh, Pháp, Mĩ và Trung Quốc."
+        },
+        {
+          "key": "C",
+          "text": "Toà án Công lý quốc tế, cơ quan xét xử các tranh chấp giữa các quốc gia."
+        },
+        {
+          "key": "D",
+          "text": "Ban Thư ký, đứng đầu là Tổng Thư ký do Đại hội đồng bầu."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì Hội đồng Bảo an chịu trách nhiệm hàng đầu về hoà bình, an ninh quốc tế và gồm năm uỷ viên thường trực có quyền phủ quyết. A là cơ quan nghị sự với các nghị quyết mang tính kiến nghị; C là cơ quan tư pháp; D là cơ quan hành chính, đều không có năm uỷ viên thường trực.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Liên hợp quốc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c3",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Việt Nam chính thức trở thành thành viên của Liên hợp quốc vào thời điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Năm 1945, Việt Nam là một trong những quốc gia sáng lập Liên hợp quốc."
+        },
+        {
+          "key": "B",
+          "text": "Năm 1950, ngay khi Việt Nam thiết lập quan hệ ngoại giao với các nước xã hội chủ nghĩa."
+        },
+        {
+          "key": "C",
+          "text": "Tháng 9 năm 1977, sau khi đất nước hoàn toàn thống nhất năm 1975."
+        },
+        {
+          "key": "D",
+          "text": "Năm 1995, cùng năm Việt Nam gia nhập Hiệp hội các quốc gia Đông Nam Á."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng: Việt Nam gia nhập Liên hợp quốc năm 1977, khi Nhà nước Việt Nam thống nhất đã đủ điều kiện tham gia tổ chức quốc tế này. A sai vì năm 1945 Việt Nam đang kháng chiến và chưa được mời dự Hội nghị San Francisco; B sai vì thời điểm đó chưa kết nạp; D nhầm mốc gia nhập ASEAN với mốc gia nhập Liên hợp quốc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Liên hợp quốc",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c4",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Trật tự thế giới được hình thành sau Chiến tranh thế giới thứ hai thường được gọi là trật tự gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trật tự Vécxai – Oasinhtơn."
+        },
+        {
+          "key": "B",
+          "text": "Trật tự đơn cực do Mĩ đứng đầu."
+        },
+        {
+          "key": "C",
+          "text": "Trật tự đa cực cân bằng quyền lực của thế kỉ XIX."
+        },
+        {
+          "key": "D",
+          "text": "Trật tự hai cực Ianta."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì những thoả thuận tại các hội nghị quốc tế trong và ngay sau chiến tranh, tiêu biểu là Hội nghị Ianta, xác lập trật tự hai cực với Mĩ và Liên Xô đứng đầu mỗi cực. A là trật tự sau Chiến tranh thế giới thứ nhất; B chỉ xuất hiện sau khi Chiến tranh lạnh kết thúc; C là trật tự Viecna sau chiến tranh chống Napôlêông.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Trật tự thế giới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c5",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Yếu tố nào được xem là mở đầu cho tình trạng đối đầu được gọi là Chiến tranh lạnh giữa Mĩ và Liên Xô?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các tuyên bố và chính sách chống Liên Xô của Mĩ, nổi bật là học thuyết Truman năm 1947 cùng Kế hoạch Mácsan."
+        },
+        {
+          "key": "B",
+          "text": "Việc Liên Xô chế tạo thành công bom nguyên tử."
+        },
+        {
+          "key": "C",
+          "text": "Sự thành lập Tổ chức Hiệp ước Bắc Đại Tây Dương."
+        },
+        {
+          "key": "D",
+          "text": "Cuộc khủng hoảng tên lửa Cuba năm 1962."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì học thuyết Truman và Kế hoạch Mácsan đánh dấu việc Mĩ công khai phát động chiến tranh chống Liên Xô và các nước xã hội chủ nghĩa, mở đầu cho đối đầu. B và C là những hệ quả tiếp theo của đối đầu, không phải sự kiện mở đầu; D là đỉnh điểm căng thẳng diễn ra muộn hơn nhiều.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Chiến tranh lạnh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c6",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ quả trực tiếp của sự đối đầu giữa hai cực Mĩ và Liên Xô trong thời kì Chiến tranh lạnh là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự hình thành một chính phủ liên hiệp thế giới điều hành mọi quan hệ quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "Cuộc chạy đua vũ trang kéo dài và việc lập ra các khối quân sự đối lập nhau."
+        },
+        {
+          "key": "C",
+          "text": "Liên hợp quốc bị giải thể và được thay thế bằng tổ chức khác."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ các nước Á, Phi, Mĩ Latinh trở thành nước phát triển."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì đối đầu hai cực dẫn tới chạy đua vũ trang, thành lập các khối quân sự như Tổ chức Hiệp ước Bắc Đại Tây Dương và Tổ chức Hiệp ước Vácsava, cùng nhiều cuộc chiến tranh cục bộ. A và C trái với thực tế vì Liên hợp quốc vẫn tồn tại; D trái ngược vì phần lớn các nước Á, Phi, Mĩ Latinh còn đang đấu tranh giành độc lập.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chiến tranh lạnh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c7",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện nào đánh dấu trật tự hai cực Ianta tan rã và Chiến tranh lạnh kết thúc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mĩ thất bại trong cuộc chiến tranh xâm lược Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Trung Quốc tiến hành cải cách, mở cửa."
+        },
+        {
+          "key": "C",
+          "text": "Sự tan rã của Liên bang Cộng hoà xã hội chủ nghĩa Xô viết năm 1991."
+        },
+        {
+          "key": "D",
+          "text": "Việc kí Định ước Helsinki về an ninh và hợp tác ở châu Âu năm 1975."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng vì Liên Xô tan rã năm 1991 làm mất đi một cực của trật tự hai cực, kéo theo sự chấm dứt Chiến tranh lạnh. A và B là những biến động quan trọng nhưng không làm thay đổi kết cấu hai cực; D là văn kiện hợp tác khu vực, không phải mốc tan rã của trật tự.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Chiến tranh lạnh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c8",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Xu thế chủ yếu của quan hệ quốc tế sau Chiến tranh lạnh là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đối đầu trực tiếp giữa các cường quốc hạt nhân."
+        },
+        {
+          "key": "B",
+          "text": "Trở lại trật tự thuộc địa kiểu cũ."
+        },
+        {
+          "key": "C",
+          "text": "Các quốc gia đóng cửa, tự cấp tự túc."
+        },
+        {
+          "key": "D",
+          "text": "Đối thoại, hợp tác và phát triển, gắn với xu thế toàn cầu hoá."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì sau Chiến tranh lạnh, các nước xu hướng giải quyết bất đồng bằng thương lượng, tăng cường liên kết kinh tế và hội nhập toàn cầu. A là đặc trưng thời kì Chiến tranh lạnh; B không phù hợp vì hệ thống thuộc địa đã sụp đổ; C trái ngược vì không quốc gia nào phát triển trong thế đóng cửa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trật tự thế giới sau Chiến tranh lạnh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c9",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào phản ánh đúng nhất tình hình trật tự thế giới sau Chiến tranh lạnh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mĩ trở thành siêu cường duy nhất còn lại, nhưng thế giới đồng thời hình thành nhiều trung tâm lớn nên xu hướng chung là đa cực hoá."
+        },
+        {
+          "key": "B",
+          "text": "Thế giới đã trở thành một liên bang thống nhất do Liên hợp quốc đứng đầu."
+        },
+        {
+          "key": "C",
+          "text": "Hình thành ngay trật tự hai cực Mĩ – Trung Quốc theo khuôn mẫu Chiến tranh lạnh."
+        },
+        {
+          "key": "D",
+          "text": "Không còn quốc gia nào đủ mạnh để chi phối quan hệ quốc tế."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì trật tự sau Chiến tranh lạnh có đặc điểm một siêu cường và nhiều trung tâm, quá trình xác lập trật tự mới diễn ra dần dần, phức tạp. B không tồn tại trong thực tế; C đơn giản hoá quan hệ quốc tế sau 1991; D phủ nhận vai trò chi phối của các nước lớn vẫn còn rõ rệt.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Trật tự thế giới sau Chiến tranh lạnh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c10",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập vào thời gian và địa điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Năm 1945, tại một hội nghị quốc tế ở châu Âu."
+        },
+        {
+          "key": "B",
+          "text": "Ngày 8 tháng 8 năm 1967, tại Băng Cốc (Thái Lan)."
+        },
+        {
+          "key": "C",
+          "text": "Năm 1976, tại Bali (In-đô-nê-xia), khi tổ chức hội nghị cấp cao lần thứ nhất."
+        },
+        {
+          "key": "D",
+          "text": "Năm 1995, tại Hà Nội, nhân dịp Việt Nam gia nhập hiệp hội."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì Tuyên bố Băng Cốc ngày 8 tháng 8 năm 1967 đánh dấu sự ra đời của ASEAN với năm nước sáng lập. A nhầm với năm kết thúc Chiến tranh thế giới thứ hai; C là hội nghị cấp cao đầu tiên, tổ chức sau khi hiệp hội đã ra đời; D là mốc Việt Nam gia nhập, không phải mốc thành lập.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c11",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Việt Nam trở thành thành viên của ASEAN vào năm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Năm 1967, là một trong những thành viên sáng lập hiệp hội."
+        },
+        {
+          "key": "B",
+          "text": "Năm 1976, ngay sau khi đất nước thống nhất."
+        },
+        {
+          "key": "C",
+          "text": "Năm 1995, cùng với việc bình thường hoá quan hệ với các nước trong khu vực Đông Nam Á."
+        },
+        {
+          "key": "D",
+          "text": "Năm 2015, cùng thời điểm Cộng đồng ASEAN được hình thành."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng vì Việt Nam gia nhập ASEAN năm 1995, mở ra giai đoạn tham gia đầy đủ hợp tác khu vực. A sai vì Việt Nam không phải nước sáng lập; B quá sớm vì thời điểm đó quan hệ khu vực còn căng thẳng; D nhầm mốc thành lập Cộng đồng ASEAN với mốc kết nạp thành viên.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c12",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Cộng đồng ASEAN được cấu thành bởi ba trụ cột nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cộng đồng Chính trị – An ninh, Cộng đồng Kinh tế và Cộng đồng Văn hoá – Xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Cộng đồng Quốc phòng, Cộng đồng Tiền tệ chung và Cộng đồng Du lịch."
+        },
+        {
+          "key": "C",
+          "text": "Cộng đồng Kinh tế mở, Cộng đồng An ninh khu vực và Cộng đồng Tư pháp."
+        },
+        {
+          "key": "D",
+          "text": "Cộng đồng Nông nghiệp, Cộng đồng Công nghệ và Cộng đồng Giáo dục."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì ba trụ cột của Cộng đồng ASEAN là Chính trị – An ninh, Kinh tế và Văn hoá – Xã hội. Các phương án còn lại đặt tên trụ cột theo những lĩnh vực không có trong cấu trúc cộng đồng; ASEAN cũng chưa có tiền tệ chung như Liên minh châu Âu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Cộng đồng ASEAN",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c13",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời cơ “ngàn năm có một” mà Cách mạng tháng Tám năm 1945 nắm bắt là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thực dân Pháp chủ động thương lượng trao quyền tự trị cho Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Quân Đồng minh đổ bộ vào Đông Dương để vũ trang giúp Mặt trận Việt Minh."
+        },
+        {
+          "key": "C",
+          "text": "Sự ra đời của Nhà nước Việt Nam Dân chủ Cộng hoà ngay trước khi khởi nghĩa."
+        },
+        {
+          "key": "D",
+          "text": "Phát xít Nhật đầu hàng Đồng minh vô điều kiện, làm tay sai của chúng ở Đông Dương hoang mang, chính quyền địch tê liệt."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì Nhật đầu hàng để lại khoảng trống quyền lực ở Đông Dương, kẻ thù trực tiếp bị tê liệt nên Đảng và Việt Minh phát động Tổng khởi nghĩa. A trái với lập trường phục thuộc địa của Pháp; B không xảy ra vì quân Đồng minh vào Đông Dương sau khi chính quyền đã về tay cách mạng; C đảo ngược thứ tự thời gian.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Cách mạng tháng Tám 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c14",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Đại hội đại biểu quốc dân triệu tập tại Tân Trào giữa tháng 8 năm 1945 đã quyết định những nội dung quan trọng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giải tán Mặt trận Việt Minh và thành lập chính phủ lâm thời đơn nhất."
+        },
+        {
+          "key": "B",
+          "text": "Tán thành chủ trương Tổng khởi nghĩa của Mặt trận Việt Minh, thông qua mười chính sách lớn và bầu ra Ủy ban Dân tộc giải phóng Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Phát lệnh toàn quốc kháng chiến chống thực dân Pháp quay lại xâm lược."
+        },
+        {
+          "key": "D",
+          "text": "Thông qua Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hoà."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì Đại hội quốc dân Tân Trào tán thành Tổng khởi nghĩa, công bố mười chính sách của Việt Minh và bầu Ủy ban Dân tộc giải phóng Việt Nam, tiền thân của Chính phủ lâm thời. A trái sự thật vì Việt Minh không bị giải tán; C thuộc tháng 12 năm 1946; D thuộc kì họp Quốc hội cuối năm 1946.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Cách mạng tháng Tám 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c15",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Khởi nghĩa giành chính quyền ở Hà Nội tháng 8 năm 1945 thắng lợi vào ngày nào và có tác động ra sao?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngày 2 tháng 9 năm 1945, đúng ngày Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập."
+        },
+        {
+          "key": "B",
+          "text": "Ngày 23 tháng 8 năm 1945, cùng ngày nhân dân Huế nổi dậy giành chính quyền."
+        },
+        {
+          "key": "C",
+          "text": "Ngày 19 tháng 8 năm 1945, thắng lợi ở Hà Nội cổ vũ các địa phương khác gấp rút vùng lên."
+        },
+        {
+          "key": "D",
+          "text": "Ngày 30 tháng 8 năm 1945, khi vị vua cuối cùng thoái vị ở Huế."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng vì Hà Nội giành chính quyền ngày 19 tháng 8 năm 1945, tạo tiếng vang lớn thúc đẩy Huế và Sài Gòn nổi dậy. A là ngày mít tinh ở Quảng trường Ba Đình; B gắn với Huế; D gắn với sự kiện thoái vị, không phải khởi nghĩa Hà Nội.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Cách mạng tháng Tám 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c16",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Bản Tuyên ngôn Độc lập đọc ngày 2 tháng 9 năm 1945 khẳng định điều cơ bản nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam là quốc gia tự trị nằm trong Khối Liên hiệp Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Đông Dương sẽ đặt dưới sự giám hộ của cộng đồng quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Quyền đại diện nhân dân Việt Nam thuộc về một chính phủ tạm thời do nước ngoài chỉ định."
+        },
+        {
+          "key": "D",
+          "text": "Nước Việt Nam có quyền hưởng tự do và độc lập, các dân tộc Việt Nam quyết định vận mệnh của mình; khai sinh Nhà nước Việt Nam Dân chủ Cộng hoà."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì Tuyên ngôn Độc lập tuyên bố chấm dứt chế độ thuộc địa, khẳng định quyền tự do, độc lập và chủ quyền thuộc về nhân dân, khai sinh nước Việt Nam Dân chủ Cộng hoà. A, B, C đều trái với tinh thần và lời văn của bản Tuyên ngôn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Cách mạng tháng Tám 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c17",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học kinh nghiệm nào của Cách mạng tháng Tám 1945 liên quan trực tiếp tới việc xử lí thời cơ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phân tích, dự đoán đúng diễn biến, kịp thời phát động toàn dân nổi dậy khi thời cơ xuất hiện và kiên quyết giữ vững thành quả."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ dựa vào lực lượng vũ trang, không cần vận động quần chúng ở đô thị."
+        },
+        {
+          "key": "C",
+          "text": "Chờ sự trợ giúp trực tiếp của các nước lớn rồi mới hành động."
+        },
+        {
+          "key": "D",
+          "text": "Thành lập chính quyền trước rồi mới tập hợp lực lượng quần chúng sau."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì thắng lợi của tháng Tám gắn với nghệ thuật chớp đúng thời cơ, kết hợp khởi nghĩa ở nông thôn và thành thị, giành rồi giữ chính quyền. B và C trái với thực tiễn phát động quần chúng và tự lực của cách mạng; D đảo ngược quan hệ giữa giành chính quyền và lập chính quyền.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Cách mạng tháng Tám 1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c18",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường lối kháng chiến chống thực dân Pháp của Đảng ta từ cuối năm 1946 có đặc điểm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đánh nhanh thắng nhanh, dựa chủ yếu vào viện trợ quân sự nước ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Kháng chiến toàn dân, toàn diện, trường kì, tự lực cánh sinh, đồng thời tranh thủ sự ủng hộ của nhân dân thế giới."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ dùng thương lượng, ngoại giao để bảo vệ chủ quyền."
+        },
+        {
+          "key": "D",
+          "text": "Tạm gác nhiệm vụ chống ngoại xâm để tập trung diệt giặc đói, giặc dốt."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì đường lối kháng chiến được thể hiện trong Lời kêu gọi toàn quốc kháng chiến và Chỉ thị Toàn dân kháng chiến: toàn dân, toàn diện, trường kì, tự lực cánh sinh. A trái với tương quan lực lượng lúc đó; C phủ nhận vai trò của vũ trang; D nhầm với nhiệm vụ trước tháng 12 năm 1946.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c19",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Thắng lợi của chiến dịch Điện Biên Phủ năm 1954 có ý nghĩa quyết định đối với điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở đầu cho Tổng tiến công và nổi dậy Tết Mậu Thân."
+        },
+        {
+          "key": "B",
+          "text": "Đưa tới việc kí kết Hiệp định Paris về chấm dứt chiến tranh ở Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Làm phá sản kế hoạch quân sự Nava, quyết định việc kết thúc chiến tranh và tạo lợi thế cho đoàn ngoại giao Việt Nam tại Hội nghị Genève."
+        },
+        {
+          "key": "D",
+          "text": "Chấm dứt hoàn toàn mọi âm mưu xâm lược của Mĩ ở Đông Dương."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng vì thất bại ở Điện Biên Phủ đập tan tập đoàn cứ điểm mạnh nhất, làm phá sản kế hoạch Nava và thúc đẩy Hội nghị Genève kết thúc chiến tranh. A, B thuộc cuộc kháng chiến chống Mĩ cứu nước, diễn ra sau này; D khái quát quá mức vì sau 1954 Mĩ vẫn can thiệp vào miền Nam.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c20",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào thuộc Hiệp định Genève năm 1954 về lập lại hoà bình ở Đông Dương?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mĩ phải rút hết quân viễn chinh khỏi miền Nam Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam thống nhất ngay bằng tổng tuyển cử tự do tổ chức trong năm 1954."
+        },
+        {
+          "key": "C",
+          "text": "Quân đội Việt Nam Dân chủ Cộng hoà kiểm soát toàn bộ lãnh thổ, mọi lực lượng đối phương về nước."
+        },
+        {
+          "key": "D",
+          "text": "Các nước tham dự cam kết tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam; quân hai bên tập kết ở hai khu vực lấy vĩ tuyến 17 làm giới tuyến quân sự tạm thời, thống nhất thực hiện qua tổng tuyển cử dự kiến năm 1956."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì Hiệp định Genève ghi nhận các quyền dân tộc cơ bản, quy định ngừng bắn và tập kết lực lượng theo giới tuyến quân sự tạm thời, thống nhất sẽ thực hiện qua tổng tuyển cử tự do vào năm 1956. A là nội dung Hiệp định Paris 1973; B sai mốc thời gian; C trái với điều khoản tập kết.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c21",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong giai đoạn 1954–1960, nhiệm vụ của cách mạng miền Nam Việt Nam được Đảng xác định như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ gìn và phát triển thành quả cách mạng, đấu tranh chống đế quốc Mĩ và tay sai, đòi hiệp thương thống nhất nước nhà, giành dân chủ."
+        },
+        {
+          "key": "B",
+          "text": "Thực hiện cải cách ruộng đất và xây dựng chủ nghĩa xã hội ngay trong vùng địch kiểm soát."
+        },
+        {
+          "key": "C",
+          "text": "Xây dựng lực lượng vũ trang để mở tổng tiến công ra toàn quốc."
+        },
+        {
+          "key": "D",
+          "text": "Chờ sự giúp đỡ quân sự trực tiếp của các nước xã hội chủ nghĩa rồi mới hành động."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì sau Hiệp định Genève, miền Nam phải đấu tranh chính trị để giữ thành quả, chống âm mưu chia cắt, đòi thi hành hiệp định và thống nhất nước nhà. B và C là nhiệm vụ của miền Bắc hoặc vượt quá tương quan lực lượng lúc đó; D trái với đường lối tự lực của cách mạng miền Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Mĩ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c22",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Phong trào Đồng Khởi (1959–1960) ở miền Nam Việt Nam để lại dấu ấn quan trọng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm phá sản hoàn toàn chiến lược Chiến tranh đặc biệt của Mĩ."
+        },
+        {
+          "key": "B",
+          "text": "Góp phần dẫn tới sự ra đời của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam, đánh dấu cách mạng miền Nam chuyển từ giữ gìn lực lượng sang tiến công."
+        },
+        {
+          "key": "C",
+          "text": "Buộc Mĩ phải rút hết quân viễn chinh về nước."
+        },
+        {
+          "key": "D",
+          "text": "Mở đầu cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì Đồng Khởi phá vỡ bộ máy cai trị của địch ở nhiều vùng nông thôn, mở ra bước phát triển mới và dẫn tới việc thành lập Mặt trận Dân tộc Giải phóng miền Nam Việt Nam cuối năm 1960. A là kết quả của phong trào chống Chiến tranh đặc biệt giai đoạn 1961–1965; C thuộc Hiệp định Paris 1973; D là sự kiện năm 1968.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Mĩ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c23",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm cơ bản của chiến lược Chiến tranh đặc biệt (1961–1965) mà Mĩ áp dụng ở miền Nam Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quân Mĩ trực tiếp đảm nhiệm vai trò chiến đấu chủ yếu trên chiến trường."
+        },
+        {
+          "key": "B",
+          "text": "Mĩ chỉ dùng không quân và hải quân đánh phá miền Bắc, không can thiệp miền Nam."
+        },
+        {
+          "key": "C",
+          "text": "Do hệ thống cố vấn Mĩ chỉ huy, dựa vào quân đội Sài Gòn cùng vũ khí, phương tiện chiến tranh và đô la của Mĩ, nhằm bình định miền Nam."
+        },
+        {
+          "key": "D",
+          "text": "Là chiến lược được Mĩ triển khai sau khi rút kinh nghiệm từ Việt Nam hoá chiến tranh."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng vì Chiến tranh đặc biệt là loại chiến tranh xâm lược thực dân mới do Mĩ chỉ huy thông qua cố vấn, lấy quân đội Sài Gòn làm lực lượng chiến đấu, kèm chương trình bình định, dồn dân vào ấp chiến lược. A là đặc trưng của Chiến tranh cục bộ từ năm 1965; B phủ nhận can thiệp ở miền Nam; D đảo ngược trình tự các chiến lược.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Mĩ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c24",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện nào đánh dấu Mĩ chuyển sang chiến lược Chiến tranh cục bộ ở miền Nam Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cuộc đảo chính lật đổ chính quyền Ngô Đình Diệm."
+        },
+        {
+          "key": "B",
+          "text": "Mĩ mở chiến dịch ném bom, bắn phá miền Bắc."
+        },
+        {
+          "key": "C",
+          "text": "Mĩ buộc phải ngồi vào bàn đàm phán tại Paris."
+        },
+        {
+          "key": "D",
+          "text": "Quân viễn chinh Mĩ ồ ạt đổ bộ vào miền Nam, trực tiếp nắm quyền chỉ huy chiến đấu, đánh dấu bước phát triển cao nhất của chiến tranh xâm lược thực dân mới."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì đặc trưng của Chiến tranh cục bộ là quân Mĩ và quân đồng minh của Mĩ trực tiếp tham chiến, còn quân Sài Gòn làm nhiệm vụ bình định. A thuộc giai đoạn Chiến tranh đặc biệt; B là chiến tranh phá hoại miền Bắc, diễn ra trên địa bàn khác; C là hệ quả quân sự – ngoại giao về sau.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Mĩ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c25",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiệp định Paris năm 1973 về chấm dứt chiến tranh, lập lại hoà bình ở Việt Nam có ý nghĩa quyết định ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Buộc Mĩ thừa nhận các quyền dân tộc cơ bản của Việt Nam và rút hết quân Mĩ cùng quân của các nước đồng minh của Mĩ khỏi miền Nam, tạo thời cơ thuận lợi để tiến tới thống nhất đất nước."
+        },
+        {
+          "key": "B",
+          "text": "Chấm dứt ngay sự tồn tại của bộ máy chính quyền Sài Gòn."
+        },
+        {
+          "key": "C",
+          "text": "Đặt nền tảng thống nhất đất nước bằng tổng tuyển cử được tiến hành trong năm 1973."
+        },
+        {
+          "key": "D",
+          "text": "Xoá bỏ hoàn toàn mọi vướng mắc trong quan hệ giữa hai miền."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì Hiệp định Paris buộc Mĩ phải chấm dứt xâm lược, rút quân về nước, để lại tương quan lực lượng có lợi cho cách mạng miền Nam. B chỉ xảy ra trong Chiến dịch Hồ Chí Minh năm 1975; C và D không đúng vì thống nhất chỉ hoàn thành sau đại thắng mùa Xuân 1975.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Mĩ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c26",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Thắng lợi của Chiến dịch Hồ Chí Minh ngày 30 tháng 4 năm 1975 có ý nghĩa lịch sử như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chuyển cuộc kháng chiến từ phản công sang tổng phản công trên toàn chiến trường."
+        },
+        {
+          "key": "B",
+          "text": "Kết thúc 21 năm kháng chiến chống Mĩ, xoá bỏ hoàn toàn bộ máy chính quyền tay sai, mở ra thời kì cả nước độc lập, thống nhất và đi lên chủ nghĩa xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Buộc Mĩ chấm dứt chiến tranh phá hoại miền Bắc."
+        },
+        {
+          "key": "D",
+          "text": "Mở đầu cho công cuộc Đổi mới toàn diện của đất nước."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì toàn thắng của Chiến dịch Hồ Chí Minh kết thúc chiến tranh, giải phóng hoàn toàn miền Nam, thống nhất đất nước và đưa cả nước bước vào thời kì mới. A thuộc giai đoạn 1974 – đầu 1975; C gắn với sự kiện cuối năm 1972; D là Đại hội VI năm 1986.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Mĩ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c27",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân nào được coi là quyết định nhất dẫn tới thắng lợi của cuộc kháng chiến chống Mĩ, cứu nước?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự can thiệp của các tổ chức quốc tế vào công việc nội bộ của Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Ưu thế tuyệt đối về vũ khí và trang bị kĩ thuật của các lực lượng ở miền Nam."
+        },
+        {
+          "key": "C",
+          "text": "Sự lãnh đạo của Đảng với đường lối đúng đắn, sức mạnh đại đoàn kết toàn dân, sự gắn bó của hai nhiệm vụ chiến lược ở hai miền và ủng hộ của các lực lượng hoà bình, nhân dân thế giới."
+        },
+        {
+          "key": "D",
+          "text": "Viện trợ của các nước xã hội chủ nghĩa là nhân tố duy nhất làm nên thắng lợi."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng vì nhân tố quyết định là sự lãnh đạo của Đảng cùng đường lối chiến lược đúng, kết hợp sức mạnh dân tộc với sức mạnh thời đại. A và B trái với thực tế; D phiếm diện vì viện trợ nước ngoài quan trọng nhưng không phải nhân tố duy nhất.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Mĩ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c28",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Chiến thắng được gọi là Điện Biên Phủ trên không cuối năm 1972 của quân dân miền Bắc Việt Nam gắn với sự kiện nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giáng đòn mở đầu cho cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân."
+        },
+        {
+          "key": "B",
+          "text": "Buộc Mĩ rút hết quân viễn chinh khỏi miền Nam ngay trong năm 1972."
+        },
+        {
+          "key": "C",
+          "text": "Là chiến dịch tiến công quy mô lớn nhất của bộ đội chủ lực trên chiến trường miền Nam."
+        },
+        {
+          "key": "D",
+          "text": "Đánh bại cuộc tập kích đường không chiến lược quy mô lớn của Mĩ, buộc Mĩ phải chấm dứt ném bom và quay lại đàm phán, dẫn tới việc kí Hiệp định Paris."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì trận đánh cuối năm 1972 bẻ gãy không quân Mĩ, làm nên bước ngoặt cho đàm phán Paris. A gắn với năm 1968; B gắn với Hiệp định Paris 1973, không phải năm 1972; C mô tả chiến dịch tiến công trên bộ ở miền Nam, khác địa bàn và hình thái tác chiến.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Kháng chiến chống Mĩ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c29",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuộc chiến tranh bảo vệ biên giới Tây Nam của Tổ quốc sau tháng 4 năm 1975 diễn ra chống lại thế lực nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tập đoàn Khmer Đỏ cầm đầu ở Campuchia, đã gây xung đột vũ trang và tàn sát nhân dân Việt Nam, buộc quân dân ta tự vệ rồi giúp nhân dân Campuchia thoát khỏi hoạ diệt chủng."
+        },
+        {
+          "key": "B",
+          "text": "Các lực lượng còn sót lại của chính quyền Sài Gòn sau ngày 30 tháng 4 năm 1975."
+        },
+        {
+          "key": "C",
+          "text": "Thế lực thực dân mới đang chiếm giữ một số đảo ở Biển Đông."
+        },
+        {
+          "key": "D",
+          "text": "Liên minh quân sự của các nước trong hiệp hội khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì kẻ gây chiến ở biên giới Tây Nam là chế độ Khmer Đỏ; phản công và giúp nhân dân Campuchia là hành động tự vệ chính đáng mang tính quốc tế. B không liên quan tới chiến tranh biên giới; C là vấn đề chủ quyền biển đảo, khác địa bàn; D sai vì ASEAN là tổ chức hợp tác, không phải liên minh quân sự xâm lược Việt Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bảo vệ Tổ quốc sau 1975",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c30",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuộc chiến đấu bảo vệ biên giới phía Bắc của nhân dân Việt Nam đầu năm 1979 diễn ra trong bối cảnh nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Diễn ra cùng năm Việt Nam chính thức trở thành thành viên của Liên hợp quốc."
+        },
+        {
+          "key": "B",
+          "text": "Quân đội nước láng giềng mở tiến công quy mô lớn dọc biên giới các tỉnh phía Bắc; nhân dân và lực lượng vũ trang vừa chiến đấu bảo vệ lãnh thổ, vừa duy trì sản xuất, khẳng định ý chí bảo vệ độc lập, chủ quyền."
+        },
+        {
+          "key": "C",
+          "text": "Xảy ra sau khi quân tình nguyện Việt Nam đã rút hết về nước và tình hình khu vực hoàn toàn ổn định."
+        },
+        {
+          "key": "D",
+          "text": "Là nguyên nhân trực tiếp khiến Đảng phải đề ra đường lối Đổi mới năm 1986."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì chiến tranh ở biên giới phía Bắc nổ ra đầu năm 1979, nhân dân miền Bắc phải chiến đấu bảo vệ lãnh thổ trong điều kiện vẫn đồng thời làm nhiệm vụ quốc tế ở Campuchia. A sai vì Việt Nam vào Liên hợp quốc từ năm 1977; C sai vì quân tình nguyện còn ở Campuchia; D sai vì Đổi mới bắt nguồn từ khủng hoảng của cơ chế quản lí và yêu cầu nội tại.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bảo vệ Tổ quốc sau 1975",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c31",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học lịch sử nào được rút ra từ các cuộc chiến tranh bảo vệ Tổ quốc sau tháng 4 năm 1975?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ cần dựa vào sức mạnh quân sự, không cần tới đấu tranh ngoại giao."
+        },
+        {
+          "key": "B",
+          "text": "Dựa hẳn vào sự can thiệp của các nước lớn để giải quyết tranh chấp lãnh thổ."
+        },
+        {
+          "key": "C",
+          "text": "Luôn đề cao cảnh giác, kết hợp sức mạnh đại đoàn kết toàn dân với sức mạnh thời đại, gắn bảo vệ Tổ quốc với giữ vững môi trường hoà bình và tranh thủ sự đồng tình của quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "Muốn giữ vững chủ quyền thì phải ngừng hợp tác với các nước láng giềng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng vì thắng lợi trong chiến tranh bảo vệ Tổ quốc đến từ thế trận lòng dân, kết hợp quân sự với ngoại giao và tranh thủ ủng hộ quốc tế. A và B hạ thấp vai trò ngoại giao hoặc đề cao sự can thiệp của nước ngoài; D trái với bài học kết hợp sức mạnh dân tộc với sức mạnh thời đại.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bảo vệ Tổ quốc sau 1975",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c32",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao Đại hội đại biểu toàn quốc lần thứ VI của Đảng (tháng 12 năm 1986) đề ra đường lối Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì hệ thống xã hội chủ nghĩa ở Đông Âu đã tan rã hoàn toàn nên Việt Nam buộc phải đổi mới."
+        },
+        {
+          "key": "B",
+          "text": "Vì phải ngừng mọi hoạt động kinh tế sau các cuộc chiến tranh bảo vệ Tổ quốc."
+        },
+        {
+          "key": "C",
+          "text": "Vì yêu cầu bắt buộc của khu vực mậu dịch tự do ASEAN."
+        },
+        {
+          "key": "D",
+          "text": "Vì những sai lầm, khuyết điểm của cơ chế quản lí tập trung, quan liêu, bao cấp và chủ quan, nóng vội trong cải tạo, xây dựng kinh tế đã kìm hãm sản xuất, khiến kinh tế – xã hội khủng hoảng và đời sống nhân dân khó khăn."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì Đổi mới bắt nguồn từ yêu cầu tự thân: khủng hoảng kinh tế – xã hội do cơ chế cũ và những sai lầm chủ quan kéo dài. A sai quan hệ nhân – quả vì Đông Âu tan rã sau Đại hội VI; B và C là các yếu tố không đúng bối cảnh, ASEAN chỉ kết nạp Việt Nam năm 1995.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Công cuộc Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c33",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường lối Đổi mới được xác định tại Đại hội VI có đặc điểm gì về phạm vi và trọng tâm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đổi mới toàn diện và đồng bộ, trong đó đổi mới kinh tế là trọng tâm, gắn với đổi mới chính trị và cách làm, phong cách lãnh đạo, trên nền tảng giữ vững mục tiêu độc lập dân tộc và chủ nghĩa xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ đổi mới đối ngoại, giữ nguyên cơ chế quản lí kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Lấy đổi mới chính trị làm trọng tâm, coi đổi mới kinh tế là hệ quả."
+        },
+        {
+          "key": "D",
+          "text": "Đổi mới ở thành thị và khu công nghiệp, giữ nguyên hiện trạng ở nông thôn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì Đổi mới là cuộc thay đổi toàn diện nhưng lấy kinh tế làm trọng tâm trước mắt và không thay đổi bản chất chế độ. B và D thu hẹp phạm vi, trái với chủ trương đổi mới đồng bộ; C đảo ngược thứ tự ưu tiên.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Công cuộc Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c34",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu nào của công cuộc Đổi mới thể hiện rõ nhất sự thay đổi trong nông nghiệp và đời sống?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam trở thành nước công nghiệp phát triển có thu nhập cao."
+        },
+        {
+          "key": "B",
+          "text": "Từ một nước thường xuyên thiếu lương thực, Việt Nam trở thành nước sản xuất và xuất khẩu gạo với khối lượng lớn, nằm trong nhóm những nước xuất khẩu nông sản hàng đầu thế giới."
+        },
+        {
+          "key": "C",
+          "text": "Xoá bỏ hoàn toàn chênh lệch giữa thành thị và nông thôn."
+        },
+        {
+          "key": "D",
+          "text": "Không phải nhập khẩu máy móc, thiết bị và công nghệ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì bảo đảm lương thực, thực phẩm là một trong những chương trình kinh tế lớn của Đổi mới và đã tạo chuyển biến rõ rệt nhất trong đời sống. A vượt quá thực tế của một nước đang phát triển; C không đúng vì chênh lệch vẫn tồn tại; D trái với đặc điểm mở cửa, hội nhập.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c35",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào đúng về ý nghĩa của công cuộc Đổi mới từ năm 1986 đến nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là sự chuyển sang mục tiêu phát triển tư bản chủ nghĩa, từ bỏ con đường xã hội chủ nghĩa."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ giải quyết khó khăn trước mắt, không tạo biến đổi về chất."
+        },
+        {
+          "key": "C",
+          "text": "Khẳng định vai trò lãnh đạo và bản lĩnh tự chủ, sáng tạo của Đảng, mở đường cho đất nước phát triển và hội nhập quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "Đánh dấu việc Việt Nam chấm dứt quan hệ với các nước xã hội chủ nghĩa."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng vì Đổi mới tiếp tục con đường đã chọn nhưng với phương thức phù hợp, đưa đất nước vượt khủng hoảng và hội nhập sâu rộng. A hiểu sai bản chất đổi mới; B phủ nhận những chuyển biến mang tính chiến lược; D không đúng vì Việt Nam vẫn duy trì quan hệ với các nước xã hội chủ nghĩa.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c36",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoạt động của Nguyễn Ái Quốc trong những năm 1919–1920, tiêu biểu là việc gửi bản Yêu sách của nhân dân An Nam, nhằm mục đích trước hết là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tìm đồng minh quân sự phương Tây để chống các nước láng giềng."
+        },
+        {
+          "key": "B",
+          "text": "Xin các nước lớn bảo lãnh cho Việt Nam tham gia Liên hợp quốc."
+        },
+        {
+          "key": "C",
+          "text": "Thiết lập quan hệ thương mại độc quyền với nước Pháp."
+        },
+        {
+          "key": "D",
+          "text": "Đưa yêu cầu của dân tộc Việt Nam ra trước dư luận quốc tế và qua đó tìm kiếm con đường cứu nước, xác định bạn bè, chỗ dựa cho cách mạng Việt Nam."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì bản Yêu sách gửi Hội nghị Versailles năm 1919 tuy không được các nước lớn chấp nhận nhưng là bước đi ngoại giao đầu tiên, giúp Người rút ra bài học về con đường tự lực. B là chi tiết ngược dòng thời gian vì Liên hợp quốc chưa ra đời; A và C không phản ánh mục tiêu của Người.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Đối ngoại 1919-1945",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c37",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngoại giao của Việt Nam trong kháng chiến chống Pháp và chống Mĩ phục vụ mục tiêu cao nhất nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tranh thủ sự đồng tình, ủng hộ và giúp đỡ của nhân dân thế giới, mở rộng quan hệ với các nước, cô lập kẻ thù xâm lược, tạo lợi thế cho cuộc kháng chiến."
+        },
+        {
+          "key": "B",
+          "text": "Nhượng bộ các quyền dân tộc cơ bản để đổi lấy viện trợ."
+        },
+        {
+          "key": "C",
+          "text": "Tham gia liên minh quân sự chính thức với một nước lớn để thay thế sức mạnh của dân tộc."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ phát triển quan hệ kinh tế, không đặt quan hệ chính trị với các nước."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáp án A đúng vì ngoại giao trong kháng chiến là mặt trận phối hợp với quân sự, nhằm huy động ủng hộ quốc tế và thu hẹp sự giúp đỡ dành cho đối phương. B trái với nguyên tắc giữ vững độc lập, chủ quyền; C trái với nguyên tắc không tham gia liên minh quân sự; D không phù hợp vì quan hệ chính trị – ngoại giao luôn được coi trọng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Đối ngoại kháng chiến",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c38",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ năm 1986, hoạt động đối ngoại của Việt Nam được điều chỉnh theo hướng nào để phá thế bị bao vây, cấm vận?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lập liên minh quân sự chặt chẽ với một nhóm nước để đối trọng với các liên minh khác."
+        },
+        {
+          "key": "B",
+          "text": "Đa phương hoá, đa dạng hoá quan hệ, coi trọng quan hệ với các nước láng giềng và các trung tâm chính trị – kinh tế, chủ động hội nhập khu vực và quốc tế, vẫn giữ vững nguyên tắc độc lập, tự chủ."
+        },
+        {
+          "key": "C",
+          "text": "Tạm gác vấn đề chủ quyền để ưu tiên thu hút đầu tư nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ mở quan hệ kinh tế, không bình thường hoá quan hệ chính trị."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đáp án B đúng vì đường lối đối ngoại Đổi mới là mở rộng quan hệ nhiều phía, nhiều hình thức, thêm bạn giảm thù, trên nguyên tắc độc lập, tự chủ, đa phương hoá, đa dạng hoá. A trái với chính sách không tham gia liên minh quân sự; C và D hy sinh nguyên tắc chủ quyền, chính trị, không đúng với thực tế bình thường hoá quan hệ với các nước lớn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Đối ngoại từ 1975",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c39",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự kiện nào đánh dấu việc Nguyễn Tất Thành bắt đầu hành trình tìm con đường cứu nước mới cho dân tộc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việc gửi bản Yêu sách của nhân dân An Nam tới hội nghị hoà bình sau Chiến tranh thế giới thứ nhất."
+        },
+        {
+          "key": "B",
+          "text": "Việc thành lập Hội Việt Nam Cách mạng Thanh niên."
+        },
+        {
+          "key": "C",
+          "text": "Việc người thanh niên Nguyễn Tất Thành rời bến Nhà Rồng, đi ra nước ngoài để tìm hiểu vì sao người Pháp sang cướp nước mình rồi trở về giúp đồng bào."
+        },
+        {
+          "key": "D",
+          "text": "Việc chủ trì hội nghị hợp nhất các tổ chức cộng sản thành một đảng duy nhất."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáp án C đúng vì chuyến đi từ bến cảng Nhà Rồng là khởi đầu của quá trình khảo sát, tìm tòi và sau đó là lựa chọn con đường cứu nước theo chủ nghĩa Mác – Lenin. A, B, D đều là những mốc thuộc giai đoạn tiếp theo, khi hành trình tìm đường đã diễn ra.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "su12-ld01-c40",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-su-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Tổ chức Giáo dục, Khoa học và Văn hoá của Liên hợp quốc (UNESCO) vinh danh Chủ tịch Hồ Chí Minh phản ánh điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "UNESCO kết nạp Nhà nước Việt Nam làm thành viên của tổ chức."
+        },
+        {
+          "key": "B",
+          "text": "Chủ tịch Hồ Chí Minh trực tiếp nhận danh hiệu do UNESCO trao."
+        },
+        {
+          "key": "C",
+          "text": "UNESCO trao giải thưởng cho một công trình nghiên cứu khoa học của Người."
+        },
+        {
+          "key": "D",
+          "text": "Sự công nhận của cộng đồng quốc tế đối với tầm vóc và ảnh hưởng của Người, được suy tôn là anh hùng giải phóng dân tộc, nhà văn hoá lớn của Việt Nam."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D đúng vì việc UNESCO vinh danh gắn với hoạt động tưởng niệm nhân ngày sinh của Người và thể hiện ảnh hưởng quốc tế của Hồ Chí Minh. B sai vì Người đã mất năm 1969, không thể trực tiếp nhận; A sai vì việc kết nạp thành viên do Đại hội đồng Liên hợp quốc quyết định; C không đúng vì đây là sự vinh danh con người, không phải giải thưởng công trình.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Hồ Chí Minh",
+        "Lịch sử 12"
+      ]
+    }
+  ]
+}

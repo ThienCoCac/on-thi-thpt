@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-08",
+  "title": "Đề ôn Toán 12 Bài 8: Biểu thức toạ độ của các phép toán vectơ (20 câu)",
+  "slug": "de-toan-12-bai-08",
+  "description": "Bám sát Bài 8 sách Toán 12 Kết nối tri thức: biểu thức toạ độ của tổng, hiệu, tích một số với vectơ, tích vô hướng, tích có hướng và các ứng dụng tính diện tích, thể tích, khoảng cách. 20 câu trắc nghiệm bốn lựa chọn, làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B08",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b08-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho $\\vec a=(1;-2;3)$ và $\\vec b=(4;0;-1)$. Toạ độ vectơ $\\vec a+\\vec b$ là",
+      "options": [
+        { "key": "A", "text": "$(5;-2;2)$." },
+        { "key": "B", "text": "$(-3;-2;4)$." },
+        { "key": "C", "text": "$(5;-2;4)$." },
+        { "key": "D", "text": "$(5;2;2)$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cộng theo từng cặp thành phần: $\\vec a+\\vec b=(1+4;-2+0;3+(-1))=(5;-2;2)$. Học sinh dễ chọn $(-3;-2;4)$ vì nhầm sang hiệu $\\vec a-\\vec b$, hoặc chọn $(5;-2;4)$ vì tính $3-(-1)$ ở thành phần thứ ba.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tổng hai vectơ", "toạ độ vectơ"]
+    },
+    {
+      "id": "toan12-b08-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $\\vec a=(1;2;-4)$. Toạ độ của vectơ $-3\\vec a$ là",
+      "options": [
+        { "key": "A", "text": "$(-3;-6;-12)$." },
+        { "key": "B", "text": "$(3;6;-12)$." },
+        { "key": "C", "text": "$(-3;-6;12)$." },
+        { "key": "D", "text": "$(-3;6;12)$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhân mỗi thành phần của $\\vec a$ với $-3$: $-3\\vec a=(-3\\cdot1;-3\\cdot2;-3\\cdot(-4))=(-3;-6;12)$. Phương án $(-3;-6;-12)$ là kết quả của việc quên đổi dấu ở thành phần thứ ba.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tích một số với vectơ", "toạ độ vectơ"]
+    },
+    {
+      "id": "toan12-b08-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $\\vec a=(1;2;-2)$ và $\\vec b=(3;-1;4)$. Tích vô hướng $\\vec a\\cdot\\vec b$ bằng",
+      "options": [
+        { "key": "A", "text": "$13$." },
+        { "key": "B", "text": "$-7$." },
+        { "key": "C", "text": "$9$." },
+        { "key": "D", "text": "$7$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo biểu thức toạ độ: $\\vec a\\cdot\\vec b=1\\cdot3+2\\cdot(-1)+(-2)\\cdot4=3-2-8=-7$. Giá trị $13$ xuất hiện khi học sinh bỏ qua các dấu trừ, giá trị $9$ khi nhầm dấu ở thành phần cuối.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tích vô hướng", "biểu thức toạ độ"]
+    },
+    {
+      "id": "toan12-b08-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị nào của $m$ để hai vectơ $\\vec a=(2;m;-1)$ và $\\vec b=(3;1;4)$ vuông góc với nhau?",
+      "options": [
+        { "key": "A", "text": "$m=2$." },
+        { "key": "B", "text": "$m=-10$." },
+        { "key": "C", "text": "$m=10$." },
+        { "key": "D", "text": "$m=-2$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hai vectơ vuông góc khi và chỉ khi tích vô hướng bằng $0$: $\\vec a\\cdot\\vec b=2\\cdot3+m\\cdot1+(-1)\\cdot4=m+2=0$, suy ra $m=-2$. Các giá trị $\\pm10$ là do quên dấu trừ của thành phần $-1$ khi viết phương trình.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["hai vectơ vuông góc", "tích vô hướng"]
+    },
+    {
+      "id": "toan12-b08-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $\\vec a=(2;-4;6)$ và $\\vec b=(-1;m;-3)$. Giá trị của $m$ để hai vectơ $\\vec a$ và $\\vec b$ cùng phương là",
+      "options": [
+        { "key": "A", "text": "$2$." },
+        { "key": "B", "text": "$-2$." },
+        { "key": "C", "text": "$\\dfrac{1}{2}$." },
+        { "key": "D", "text": "$-\\dfrac{1}{2}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận xét $\\vec a=-2\\vec b$ ở hai thành phần đầu và cuối vì $-2\\cdot(-1)=2$ và $-2\\cdot(-3)=6$, do đó thành phần thứ hai phải thoả mãn $-2m=-4$, tức $m=2$. Học sinh chọn $-2$ thường lấy tỉ số $\\dfrac{2}{-1}=-2$ rồi áp sai chiều cho $m$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["hai vectơ cùng phương", "toạ độ vectơ"]
+    },
+    {
+      "id": "toan12-b08-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $\\vec a=(1;0;0)$ và $\\vec b=(0;2;0)$. Toạ độ của tích có hướng $[\\vec a,\\vec b]$ là",
+      "options": [
+        { "key": "A", "text": "$(0;0;-2)$." },
+        { "key": "B", "text": "$(0;0;2)$." },
+        { "key": "C", "text": "$(2;0;0)$." },
+        { "key": "D", "text": "$(1;2;0)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Áp dụng công thức: $\\left(0\\cdot0-0\\cdot2;\\;0\\cdot0-1\\cdot0;\\;1\\cdot2-0\\cdot0\\right)=(0;0;2)$. Vectơ này cùng hướng với trục $Oz$ và vuông góc với cả $\\vec a,\\vec b$. Phương án $(0;0;-2)$ là kết quả của $[\\vec b,\\vec a]$, tức đổi thứ tự hai vectơ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tích có hướng", "toạ độ vectơ"]
+    },
+    {
+      "id": "toan12-b08-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Góc giữa hai vectơ $\\vec a=(1;0;1)$ và $\\vec b=(0;1;1)$ bằng",
+      "options": [
+        { "key": "A", "text": "$30^\\circ$." },
+        { "key": "B", "text": "$45^\\circ$." },
+        { "key": "C", "text": "$90^\\circ$." },
+        { "key": "D", "text": "$60^\\circ$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ta có $\\vec a\\cdot\\vec b=0+0+1=1$, $|\\vec a|=\\sqrt{2}$ và $|\\vec b|=\\sqrt{2}$. Suy ra $\\cos\\left(\\vec a,\\vec b\\right)=\\dfrac{1}{\\sqrt2\\cdot\\sqrt2}=\\dfrac{1}{2}$, do đó góc giữa hai vectơ là $60^\\circ$. Sai lầm thường gặp là lấy $\\cos=\\dfrac{\\sqrt2}{2}$ nên chọn $45^\\circ$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["góc giữa hai vectơ", "tích vô hướng"]
+    },
+    {
+      "id": "toan12-b08-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $\\vec a=(1;2;3)$ và $\\vec b=(2;-1;1)$. Toạ độ của vectơ $[\\vec a,\\vec b]$ là",
+      "options": [
+        { "key": "A", "text": "$(5;5;-5)$." },
+        { "key": "B", "text": "$(-5;-5;5)$." },
+        { "key": "C", "text": "$(5;-5;5)$." },
+        { "key": "D", "text": "$(5;5;5)$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thành phần thứ nhất: $2\\cdot1-3\\cdot(-1)=5$. Thành phần thứ hai: $3\\cdot2-1\\cdot1=5$. Thành phần thứ ba: $1\\cdot(-1)-2\\cdot2=-5$. Vậy $[\\vec a,\\vec b]=(5;5;-5)$. Phương án $(-5;-5;5)$ là $[\\vec b,\\vec a]$, còn $(5;-5;5)$ là do viết lẫn công thức hai thành phần cuối.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tích có hướng", "biểu thức toạ độ"]
+    },
+    {
+      "id": "toan12-b08-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích tam giác $ABC$ với $A(1;0;0)$, $B(0;2;0)$, $C(0;0;3)$ bằng",
+      "options": [
+        { "key": "A", "text": "$7$." },
+        { "key": "B", "text": "$\\dfrac{49}{2}$." },
+        { "key": "C", "text": "$\\dfrac{7}{2}$." },
+        { "key": "D", "text": "$14$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "$\\overrightarrow{AB}=(-1;2;0)$, $\\overrightarrow{AC}=(-1;0;3)$ nên $[\\overrightarrow{AB},\\overrightarrow{AC}]=(6;3;2)$ và độ dài của nó là $\\sqrt{36+9+4}=7$. Diện tích tam giác $S=\\dfrac{1}{2}\\cdot7=\\dfrac{7}{2}$. Giá trị $7$ là diện tích hình bình hành, còn $\\dfrac{49}{2}$ là do quên khai căn.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["diện tích tam giác", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b08-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ba đỉnh $A(1;2;3)$, $B(2;3;1)$, $C(3;1;2)$ của hình bình hành $ABCD$. Diện tích hình bình hành đó bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{3\\sqrt{3}}{2}$." },
+        { "key": "B", "text": "$3\\sqrt{3}$." },
+        { "key": "C", "text": "$9$." },
+        { "key": "D", "text": "$27$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong hình bình hành $ABCD$ có $\\overrightarrow{AD}=\\overrightarrow{BC}=(1;-2;1)$ và $\\overrightarrow{AB}=(1;1;-2)$. Tích có hướng $[\\overrightarrow{AB},\\overrightarrow{AD}]=(-3;-3;-3)$ có độ dài $\\sqrt{27}=3\\sqrt{3}$. Diện tích hình bình hành chính bằng $3\\sqrt{3}$; học sinh nhầm công thức tam giác sẽ chọn $\\dfrac{3\\sqrt3}{2}$, nhầm bình phương độ dài sẽ chọn $27$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["diện tích hình bình hành", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b08-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Thể tích khối tứ diện $OABC$ với $A(2;0;0)$, $B(0;3;0)$, $C(0;0;4)$ bằng",
+      "options": [
+        { "key": "A", "text": "$24$." },
+        { "key": "B", "text": "$12$." },
+        { "key": "C", "text": "$8$." },
+        { "key": "D", "text": "$4$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "$[\\overrightarrow{OA},\\overrightarrow{OB}]=[(2;0;0),(0;3;0)]=(0;0;6)$, lấy tích vô hướng với $\\overrightarrow{OC}=(0;0;4)$ được $24$. Thể tích tứ diện là $V=\\dfrac{1}{6}\\cdot24=4$. Giá trị $24$ là thể tích khối hộp tương ứng, $12$ và $8$ lần lượt do dùng hệ số $\\dfrac{1}{2}$, $\\dfrac{1}{3}$ thay vì $\\dfrac{1}{6}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["thể tích tứ diện", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b08-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ba vectơ $\\vec a=(1;2;m)$, $\\vec b=(2;1;0)$ và $\\vec c=(0;1;1)$. Giá trị của $m$ để ba vectơ đó đồng phẳng là",
+      "options": [
+        { "key": "A", "text": "$-\\dfrac{3}{2}$." },
+        { "key": "B", "text": "$\\dfrac{2}{3}$." },
+        { "key": "C", "text": "$\\dfrac{3}{2}$." },
+        { "key": "D", "text": "$2$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ba vectơ đồng phẳng khi và chỉ khi $\\vec a\\cdot[\\vec b,\\vec c]=0$. Ta có $[\\vec b,\\vec c]=(1\\cdot1-0\\cdot1;\\;0\\cdot0-2\\cdot1;\\;2\\cdot1-1\\cdot0)=(1;-2;2)$, nên $\\vec a\\cdot[\\vec b,\\vec c]=1-4+2m=2m-3$. Phương trình $2m-3=0$ cho $m=\\dfrac{3}{2}$. Giá trị $\\dfrac{2}{3}$ là do đảo nhầm tử số và mẫu số.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["ba vectơ đồng phẳng", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b08-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Ba vectơ $\\vec a=(1;1;0)$, $\\vec b=(0;1;1)$, $\\vec c=(1;0;1)$ là ba cạnh cùng xuất phát từ một đỉnh của một khối hộp. Thể tích khối hộp đó bằng",
+      "options": [
+        { "key": "A", "text": "$2$." },
+        { "key": "B", "text": "$2\\sqrt{2}$." },
+        { "key": "C", "text": "$1$." },
+        { "key": "D", "text": "$\\dfrac{1}{3}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "$[\\vec a,\\vec b]=(1\\cdot1-0\\cdot1;\\;0\\cdot0-1\\cdot1;\\;1\\cdot1-1\\cdot0)=(1;-1;1)$. Khi đó $\\vec c\\cdot[\\vec a,\\vec b]=1+0+1=2$, nên thể tích khối hộp là $V=|2|=2$. Giá trị $\\dfrac{1}{3}$ là do áp nhầm công thức $\\dfrac{1}{6}$ của tứ diện, còn $2\\sqrt2$ là do nhân ba độ dài $|\\vec a||\\vec b||\\vec c|$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["thể tích khối hộp", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b08-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Khoảng cách từ điểm $M(2;3;5)$ đến đường thẳng đi qua $A(1;1;1)$ và có vectơ chỉ phương $\\vec u=(1;0;0)$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\sqrt{21}$." },
+        { "key": "B", "text": "$\\sqrt{5}$." },
+        { "key": "C", "text": "$5$." },
+        { "key": "D", "text": "$2\\sqrt{5}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Công thức $d=\\dfrac{|[\\overrightarrow{AM},\\vec u]|}{|\\vec u|}$. Ở đây $\\overrightarrow{AM}=(1;2;4)$, $[\\overrightarrow{AM},\\vec u]=(0;4;-2)$ có độ dài $\\sqrt{20}=2\\sqrt5$ và $|\\vec u|=1$, nên $d=2\\sqrt5$. Giá trị $\\sqrt{21}$ là độ dài $AM$, tức quên bỏ đi thành phần song song với đường thẳng; $\\sqrt5$ và $5$ là hai kết quả thường gặp khi rút gọn sai $\\sqrt{20}$ (một em để mất hệ số $2$, một em lấy $20:4$).",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["khoảng cách từ điểm đến đường thẳng", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b08-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ba điểm $A(0;1;0)$, $B(1;3;2)$, $C(1;2;0)$. Số đo góc giữa hai vectơ $\\overrightarrow{AB}$ và $\\overrightarrow{AC}$ bằng",
+      "options": [
+        { "key": "A", "text": "$30^\\circ$." },
+        { "key": "B", "text": "$45^\\circ$." },
+        { "key": "C", "text": "$60^\\circ$." },
+        { "key": "D", "text": "$90^\\circ$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "$\\overrightarrow{AB}=(1;2;2)$ có độ dài $3$; $\\overrightarrow{AC}=(1;1;0)$ có độ dài $\\sqrt2$; tích vô hướng bằng $1+2+0=3$. Vậy $\\cos=\\dfrac{3}{3\\sqrt2}=\\dfrac{\\sqrt2}{2}$, suy ra góc đã cho bằng $45^\\circ$. Nếu chỉ lấy $\\dfrac{3}{3\\cdot2}$ thì ra $\\dfrac12$ và nhầm thành $60^\\circ$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["góc giữa hai vectơ", "toạ độ điểm"]
+    },
+    {
+      "id": "toan12-b08-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Vectơ nào sau đây vuông góc với cả hai vectơ $\\vec a=(1;2;0)$ và $\\vec b=(0;2;1)$?",
+      "options": [
+        { "key": "A", "text": "$(2;1;2)$." },
+        { "key": "B", "text": "$(2;-1;-2)$." },
+        { "key": "C", "text": "$(2;-1;2)$." },
+        { "key": "D", "text": "$(1;2;0)$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vectơ $[\\vec a,\\vec b]=\\left(2\\cdot1-0\\cdot2;\\;0\\cdot0-1\\cdot1;\\;1\\cdot2-2\\cdot0\\right)=(2;-1;2)$ vuông góc với cả $\\vec a$ và $\\vec b$. Thử lại: $(2;-1;2)\\cdot(1;2;0)=2-2+0=0$ và $(2;-1;2)\\cdot(0;2;1)=-2+2=0$. Phương án $(2;-1;-2)$ chỉ vuông góc với $\\vec a$ còn $(2;1;2)$ cho tích vô hướng bằng $4$ với cả hai vectơ.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tích có hướng", "hai vectơ vuông góc"]
+    },
+    {
+      "id": "toan12-b08-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Thể tích khối tứ diện $ABCD$ với $A(1;1;0)$, $B(2;3;1)$, $C(3;1;2)$, $D(1;2;3)$ bằng",
+      "options": [
+        { "key": "A", "text": "$2$." },
+        { "key": "B", "text": "$12$." },
+        { "key": "C", "text": "$6$." },
+        { "key": "D", "text": "$\\dfrac{2}{3}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "$\\overrightarrow{AB}=(1;2;1)$, $\\overrightarrow{AC}=(2;0;2)$, $\\overrightarrow{AD}=(0;1;3)$. Ta có $[\\overrightarrow{AB},\\overrightarrow{AC}]=(4;0;-4)$ và $\\overrightarrow{AD}\\cdot[\\overrightarrow{AB},\\overrightarrow{AC}]=-12$, nên $V=\\dfrac{1}{6}\\cdot|-12|=2$. Giá trị $12$ là thể tích khối hộp cạnh $AB,AC,AD$, còn $6$ là do dùng hệ số $\\dfrac12$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["thể tích tứ diện", "toạ độ điểm"]
+    },
+    {
+      "id": "toan12-b08-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, khoảng cách từ điểm $M(2;2;3)$ đến đường thẳng đi qua $A(1;0;2)$ và có vectơ chỉ phương $\\vec u=(1;1;0)$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\sqrt{3}$." },
+        { "key": "B", "text": "$\\dfrac{\\sqrt{3}}{2}$." },
+        { "key": "C", "text": "$\\sqrt{6}$." },
+        { "key": "D", "text": "$\\dfrac{\\sqrt{6}}{2}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "$\\overrightarrow{AM}=(1;2;1)$, suy ra $[\\overrightarrow{AM},\\vec u]=(-1;1;-1)$ có độ dài $\\sqrt3$, còn $|\\vec u|=\\sqrt2$. Vậy $d=\\dfrac{\\sqrt3}{\\sqrt2}=\\dfrac{\\sqrt6}{2}$. Học sinh hay chọn $\\sqrt3$ vì quên chia cho $|\\vec u|$, hoặc chọn $\\dfrac{\\sqrt3}{2}$ vì chia cho $|\\vec u|^2$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["khoảng cách từ điểm đến đường thẳng", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b08-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ba vectơ $\\vec a=(1;2;m)$, $\\vec b=(0;1;2)$, $\\vec c=(m;1;0)$ phụ thuộc tham số $m$. Gọi $S$ là tổng các giá trị của $m$ để ba vectơ đó đồng phẳng. Khi đó $S$ bằng",
+      "options": [
+        { "key": "A", "text": "$-4$." },
+        { "key": "B", "text": "$4$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$-2$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Điều kiện đồng phẳng là $\\vec a\\cdot[\\vec b,\\vec c]=0$. Tính $[\\vec b,\\vec c]=(1\\cdot0-2\\cdot1;\\;2\\cdot m-0\\cdot0;\\;0\\cdot1-1\\cdot m)=(-2;2m;-m)$, do đó $\\vec a\\cdot[\\vec b,\\vec c]=-2+4m-m^{2}$. Phương trình $m^{2}-4m+2=0$ có $\\Delta'=4-2=2>0$ nên có hai nghiệm phân biệt $m=2\\pm\\sqrt2$; theo định lí Viète tổng hai nghiệm là $S=4$. Chọn $2$ là nhầm tổng với tích của hai nghiệm.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["ba vectơ đồng phẳng", "tham số", "định lí Viète"]
+    },
+    {
+      "id": "toan12-b08-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $\\vec a=(1;m;2)$ và $\\vec b=(2;1;-1)$ với $m$ là số nguyên. Có bao nhiêu giá trị của $m$ để độ dài vectơ $[\\vec a,\\vec b]$ nhỏ hơn $2\\sqrt{10}$?",
+      "options": [
+        { "key": "A", "text": "$5$." },
+        { "key": "B", "text": "$2$." },
+        { "key": "C", "text": "$3$." },
+        { "key": "D", "text": "$0$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "$[\\vec a,\\vec b]=(-m-2;\\;5;\\;1-2m)$ nên $|[\\vec a,\\vec b]|^{2}=(m+2)^{2}+25+(2m-1)^{2}=5m^{2}+30$. Bất phương trình $5m^{2}+30<40$ tương đương $m^{2}<2$, nghiệm nguyên là $m\\in\\{-1;0;1\\}$, tức $3$ giá trị. Nếu quên nhân hệ số $5$ và giải $m^{2}<10$ sẽ đếm nhầm thành $5$ giá trị.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tích có hướng", "độ dài vectơ", "bất phương trình chứa tham số"]
+    }
+  ]
+}

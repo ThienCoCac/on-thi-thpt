@@ -1,0 +1,3623 @@
+{
+  "id": "exam-lich-su-bai-11",
+  "title": "Đề ôn tập Lịch sử 12 – Bài 11. Thành tựu và bài học của công cuộc Đổi mới",
+  "slug": "de-lich-su-12-bai-11",
+  "description": "100 câu hỏi bám sát Bài 11 Lịch sử 12 (Kết nối tri thức): thành tựu của công cuộc Đổi mới trên các lĩnh vực kinh tế, chính trị - xã hội, khoa học - công nghệ và đối ngoại, cùng các bài học kinh nghiệm, nguyên nhân thắng lợi, hạn chế cần khắc phục và nhiệm vụ trong giai đoạn đẩy mạnh công nghiệp hoá, hiện đại hoá.",
+  "subject": "lich-su",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 90,
+  "totalScore": 100,
+  "examYear": 2026,
+  "examCode": "SU12-B11",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "q-su-bai11-001",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu có ý nghĩa mở đầu, tạo tiền đề cho các thành tựu khác về kinh tế của công cuộc Đổi mới là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đất nước từng bước ra khỏi khủng hoảng kinh tế - xã hội, nền kinh tế phát triển liên tục và dần ổn định."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam hoàn thành toàn bộ quá trình công nghiệp hoá, hiện đại hoá ngay trong thập kỉ đầu Đổi mới."
+        },
+        {
+          "key": "C",
+          "text": "Mức sống của dân cư thành thị và nông thôn đã hoàn toàn ngang bằng nhau, không còn khoảng cách."
+        },
+        {
+          "key": "D",
+          "text": "Nền kinh tế Việt Nam không còn phụ thuộc vào xuất khẩu nông sản và tài nguyên thiên nhiên."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Việc thoát ra khỏi khủng hoảng kinh tế - xã hội là thành tựu mở đầu, đưa nền kinh tế tăng trưởng liên tục từ cuối thập niên 1980. Việt Nam vẫn đang trong quá trình công nghiệp hoá, khoảng cách thành thị - nông thôn còn lớn nên các phương án còn lại sai.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-002",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Sự chuyển dịch cơ cấu kinh tế ngành của Việt Nam trong thời kì Đổi mới diễn ra theo hướng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng nhanh tỉ trọng nông nghiệp, thu hẹp dần công nghiệp và các ngành dịch vụ."
+        },
+        {
+          "key": "B",
+          "text": "Giảm tỉ trọng nông nghiệp, lâm nghiệp và thuỷ sản; tăng tỉ trọng công nghiệp, xây dựng và dịch vụ."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ tập trung phát triển công nghiệp nặng, coi nhẹ nông nghiệp và đời sống nhân dân."
+        },
+        {
+          "key": "D",
+          "text": "Giữ nguyên cơ cấu kinh tế nông nghiệp lạc hậu của thời kì trước khi tiến hành Đổi mới."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Thành tựu về chuyển dịch cơ cấu ngành là giảm dần tỉ trọng nông, lâm, thuỷ sản, tăng tỉ trọng công nghiệp - xây dựng và dịch vụ. Các phương án còn lại trái với hướng chuyển dịch đã nêu trong SGK.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-003",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong nông nghiệp, thành tựu nổi bật nhất của công cuộc Đổi mới được SGK nhắc tới là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nông nghiệp Việt Nam chỉ sản xuất để tự cung tự cấp, chưa tham gia thị trường thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam vẫn phải nhập khẩu lương thực thường xuyên để bảo đảm nhu cầu ăn, mặc."
+        },
+        {
+          "key": "C",
+          "text": "Từ một nước thường xuyên thiếu lương thực, Việt Nam trở thành một trong những nước xuất khẩu gạo hàng đầu thế giới."
+        },
+        {
+          "key": "D",
+          "text": "Nông nghiệp Việt Nam đã chuyển hẳn sang mô hình tập đoàn sản xuất lớn, xoá bỏ kinh tế hộ nông dân."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Sản xuất lương thực tăng liên tục, đưa Việt Nam từ nước thiếu ăn trở thành nước xuất khẩu gạo hàng đầu thế giới - một trong những thành tựu tiêu biểu của Đổi mới. Hai phương án A và B mô tả tình trạng trước Đổi mới.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Nông nghiệp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-004",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Yếu tố nào trực tiếp tạo động lực làm cho sản xuất nông nghiệp Việt Nam tăng lên mạnh mẽ trong thời kì Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước bao cấp toàn bộ đầu vào và bao tiêu toàn bộ sản phẩm đầu ra."
+        },
+        {
+          "key": "B",
+          "text": "Người nông dân chỉ sản xuất theo chỉ tiêu pháp lệnh giao xuống hợp tác xã."
+        },
+        {
+          "key": "C",
+          "text": "Toàn bộ ruộng đất của nông dân được chuyển giao cho doanh nghiệp nhà nước quản lý."
+        },
+        {
+          "key": "D",
+          "text": "Hộ nông dân được giao quyền tự chủ sản xuất, khoán sản phẩm và tự chịu trách nhiệm về kết quả."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Cơ chế khoán, trao quyền tự chủ cho hộ nông dân đã phá bỏ rào cản của cơ chế tập trung quan liêu trong nông nghiệp, người làm được hưởng thành quả lao động nên tích cực sản xuất. Các phương án còn lại là đặc trưng của cơ chế cũ, đã kìm hãm sản xuất.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Nông nghiệp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-005",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc giải quyết tốt vấn đề lương thực, thực phẩm trong thời kì Đổi mới có ý nghĩa gì đối với nền kinh tế Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo đảm nhu cầu trong nước, ổn định đời sống, đồng thời có nông sản cho xuất khẩu và nguyên liệu cho công nghiệp chế biến."
+        },
+        {
+          "key": "B",
+          "text": "Khiến Việt Nam phải dựa hoàn toàn vào viện trợ lương thực của các tổ chức quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Làm cho ngành công nghiệp chế biến trong nước thiếu hụt nguyên liệu trầm trọng."
+        },
+        {
+          "key": "D",
+          "text": "Xoá bỏ được mọi chênh lệch về thu nhập giữa các vùng, miền trong cả nước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Lương thực, thực phẩm đủ cho nhu cầu trong nước là cơ sở để ổn định xã hội, mở rộng xuất khẩu và cung cấp nguyên liệu cho công nghiệp chế biến. Các phương án còn lại hoặc sai bản chất, hoặc nói quá mức.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Nông nghiệp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-006",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong những năm Đổi mới, ngành thuỷ sản của Việt Nam có đặc điểm nổi bật nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ nuôi trồng trong ao, hồ nhỏ, chưa tổ chức khai thác ở vùng biển xa bờ."
+        },
+        {
+          "key": "B",
+          "text": "Phát triển mạnh cả khai thác lẫn nuôi trồng, trở thành một trong những ngành có kim ngạch xuất khẩu lớn."
+        },
+        {
+          "key": "C",
+          "text": "Suy giảm liên tục vì các cơ chế quản lý cũ được duy trì nguyên vẹn."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ đáp ứng tiêu dùng nội địa, hoàn toàn không tham gia thị trường xuất khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Thủy sản là một trong những ngành đi đầu trong chuyển dịch cơ cấu nông nghiệp và có vị trí quan trọng trong xuất khẩu của Việt Nam thời kì Đổi mới. Phương án A và D miêu tả tình trạng trước khi đổi mới cơ chế.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Nông nghiệp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-007",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu nào sau đây phản ánh đúng kết quả phát triển công nghiệp của Việt Nam trong thời kì Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Công nghiệp Việt Nam xoá bỏ hết các ngành truyền thống để chỉ làm gia công cho nước ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Công nghiệp phát triển nhưng nền sản xuất vẫn khép kín, không tham gia chuỗi giá trị toàn cầu."
+        },
+        {
+          "key": "C",
+          "text": "Giá trị sản xuất công nghiệp tăng liên tục, hình thành các ngành công nghiệp trọng điểm như năng lượng, điện tử - tin học, chế biến, dệt may, da giày."
+        },
+        {
+          "key": "D",
+          "text": "Tỉ trọng công nghiệp trong nền kinh tế giảm liên tục, nhường chỗ cho nông nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Công nghiệp thời kì Đổi mới tăng trưởng khá nhanh và phân hoá theo hướng đa dạng hoá, trong đó các ngành trọng điểm được ưu tiên phát triển. Phương án D trái với hướng chuyển dịch cơ cấu ngành đã đạt được.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Công nghiệp",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-008",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Cơ cấu thành phần kinh tế của Việt Nam trong thời kì Đổi mới chuyển dịch theo hướng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ còn hai thành phần kinh tế quốc doanh và kinh tế tập thể như trước năm 1986."
+        },
+        {
+          "key": "B",
+          "text": "Xoá bỏ kinh tế nhà nước, chuyển hẳn nền kinh tế sang sở hữu tư nhân về tư liệu sản xuất."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước quản lý toàn bộ doanh nghiệp, không cho tư nhân và nước ngoài đầu tư."
+        },
+        {
+          "key": "D",
+          "text": "Phát triển nền kinh tế nhiều thành phần: kinh tế nhà nước, kinh tế tập thể, kinh tế tư nhân, kinh tế cá thể và kinh tế có vốn đầu tư nước ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đổi mới kinh tế gắn với phát triển nền kinh tế nhiều thành phần, nhiều hình thức sở hữu, vận hành theo cơ chế thị trường có sự quản lý của Nhà nước. Phương án A và C là đặc trưng của cơ chế cũ, phương án B sai vì kinh tế nhà nước vẫn giữ vai trò chủ đạo.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-009",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, vị trí của các thành phần kinh tế được xác định như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kinh tế nhà nước giữ vai trò chủ đạo và là nền tảng bảo đảm định hướng xã hội chủ nghĩa."
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế có vốn đầu tư nước ngoài giữ vai trò chủ đạo chi phối toàn bộ nền kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Kinh tế cá thể, tiểu chủ giữ vai trò chủ đạo ở cả khu vực thành thị và nông thôn."
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế tư nhân là thành phần duy nhất được Nhà nước khuyến khích phát triển."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Theo SGK, kinh tế nhà nước giữ vai trò chủ đạo, các thành phần kinh tế khác đều là bộ phận cấu thành của nền kinh tế. Phương án D sai vì Nhà nước khuyến khích nhiều thành phần kinh tế, không chỉ kinh tế tư nhân.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-010",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Định hướng xã hội chủ nghĩa của nền kinh tế thị trường ở Việt Nam thể hiện ở điểm nổi bật nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước để thị trường tự phát quyết định mọi vấn đề, không can thiệp vào phân phối."
+        },
+        {
+          "key": "B",
+          "text": "Phát triển kinh tế gắn liền với tiến bộ và công bằng xã hội, có sự quản lý của Nhà nước, mục tiêu là dân giàu, nước mạnh."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ tồn tại một hình thức sở hữu về tư liệu sản xuất và một thành phần kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Hạn chế cạnh tranh trên thị trường và không thừa nhận vai trò của giá cả."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Kinh tế thị trường định hướng xã hội chủ nghĩa kết hợp tăng trưởng kinh tế với công bằng xã hội và giữ vai trò quản lý, điều tiết của Nhà nước. Các phương án còn lại mô tả cơ chế bao cấp cũ hoặc kinh tế thị trường tự do tư bản chủ nghĩa.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-011",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng về vai trò của kinh tế tư nhân trong nền kinh tế Việt Nam hiện nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kinh tế tư nhân bị coi là thành phần đối lập và từng bước bị xoá bỏ."
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế tư nhân chỉ được phép hoạt động trong lĩnh vực nông nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Kinh tế tư nhân được xác định là một động lực quan trọng của nền kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế tư nhân giữ vai trò chủ đạo trong các ngành then chốt của nền kinh tế."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Các nghị quyết của Đảng trong thời kì Đổi mới khẳng định kinh tế tư nhân là một động lực quan trọng của nền kinh tế. Phương án D sai vì vai trò chủ đạo vẫn được xác định thuộc về kinh tế nhà nước.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-012",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Đóng góp nổi bật của khu vực kinh tế có vốn đầu tư nước ngoài đối với nền kinh tế Việt Nam trong thời kì Đổi mới là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm cho Việt Nam mất hoàn toàn quyền tự chủ về đường lối phát triển kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ giải quyết việc làm mà không tham gia vào hoạt động xuất khẩu."
+        },
+        {
+          "key": "C",
+          "text": "Thay thế vai trò của kinh tế nhà nước trong những ngành then chốt."
+        },
+        {
+          "key": "D",
+          "text": "Bổ sung nguồn vốn, công nghệ và phương thức quản lý, tạo việc làm, góp phần tăng kim ngạch xuất khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đầu tư nước ngoài là nguồn lực bên ngoài được tranh thủ nhờ mở cửa, góp vốn, công nghệ, việc làm và xuất khẩu. Phương án A và C sai vì khu vực này không làm mất quyền tự chủ cũng không thay thế vai trò chủ đạo của kinh tế nhà nước.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-013",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Về cơ chế quản lý kinh tế, công cuộc Đổi mới ở Việt Nam đã thực hiện sự thay đổi nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chuyển từ cơ chế tập trung quan liêu, bao cấp sang cơ chế thị trường có sự quản lý của Nhà nước."
+        },
+        {
+          "key": "B",
+          "text": "Chuyển từ cơ chế thị trường sang cơ chế kế hoạch hoá tập trung với mức độ cao hơn."
+        },
+        {
+          "key": "C",
+          "text": "Xoá bỏ hoàn toàn vai trò quản lý kinh tế của Nhà nước đối với thị trường."
+        },
+        {
+          "key": "D",
+          "text": "Duy trì tem phiếu và định mức bao cấp như một công cụ phân phối chủ yếu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Xoá bỏ cơ chế tập trung quan liêu, bao cấp, xây dựng cơ chế thị trường có sự quản lý của Nhà nước là nội dung cốt lõi của đổi mới kinh tế. Phương án C sai vì Nhà nước vẫn giữ vai trò điều tiết.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-014",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc sắp xếp lại và cổ phần hoá doanh nghiệp nhà nước trong thời kì Đổi mới nhằm mục đích chính nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chuyển toàn bộ doanh nghiệp nhà nước cho tư nhân và nước ngoài nắm giữ."
+        },
+        {
+          "key": "B",
+          "text": "Nâng cao hiệu quả hoạt động, huy động thêm vốn và trao quyền tự chủ cho doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Xoá bỏ vai trò chủ đạo của kinh tế nhà nước trong nền kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Buộc doanh nghiệp nhà nước chỉ được kinh doanh mặt hàng thiết yếu."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Cổ phần hoá hướng tới doanh nghiệp hoạt động hiệu quả hơn, huy động thêm vốn và tự chủ trong kinh doanh, không nhằm xoá bỏ kinh tế nhà nước. Vì vậy phương án A và C sai.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-015",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Năm 2007 đánh dấu bước tiến quan trọng nào trong hội nhập kinh tế quốc tế của Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam lần đầu tiên đăng cai tổ chức Hội nghị cấp cao các nước nói tiếng Pháp."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam trở thành thành viên của Hiệp hội các quốc gia Đông Nam Á."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam trở thành thành viên chính thức của Tổ chức Thương mại thế giới."
+        },
+        {
+          "key": "D",
+          "text": "Việt Nam trở thành thành viên sáng lập của Diễn đàn Hợp tác kinh tế châu Á - Thái Bình Dương."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Sau quá trình đàm phán dài, Việt Nam gia nhập Tổ chức Thương mại thế giới năm 2007, mở ra giai đoạn hội nhập kinh tế quốc tế sâu rộng. Việt Nam vào ASEAN năm 1995 và tham gia Diễn đàn Hợp tác kinh tế châu Á - Thái Bình Dương sau khi diễn đàn này đã thành lập.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Hội nhập kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-016",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu về thương mại và xuất nhập khẩu của Việt Nam trong thời kì Đổi mới được thể hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam chỉ xuất khẩu nguyên liệu thô, chưa có sản phẩm qua chế biến."
+        },
+        {
+          "key": "B",
+          "text": "Tổng kim ngạch xuất nhập khẩu của Việt Nam giảm liên tục qua các năm."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước bao cấp toàn bộ hàng nhập khẩu phục vụ nhu cầu nhân dân."
+        },
+        {
+          "key": "D",
+          "text": "Quy mô xuất nhập khẩu tăng trưởng, cơ cấu hàng xuất khẩu chuyển dịch theo hướng tăng sản phẩm qua chế biến và đa dạng hoá thị trường."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Hội nhập kinh tế quốc tế giúp thị trường thương mại của Việt Nam mở rộng, hàng xuất khẩu ngày càng đa dạng và có hàm lượng chế biến cao hơn. Phương án A và C phản ánh hạn chế của thời kì trước Đổi mới.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Hội nhập kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-017",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu về phát triển kết cấu hạ tầng kinh tế trong thời kì Đổi mới được thể hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiều công trình giao thông, điện, thông tin liên lạc, cấp thoát nước và đô thị được xây dựng, nâng cấp, từng bước đồng bộ hơn."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ hệ thống giao thông nông thôn bị tư nhân hoá và xoá bỏ sau Đổi mới."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam hoàn toàn không có khả năng đầu tư xây dựng hạ tầng, phải dựa vào nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "Kết cấu hạ tầng ở vùng sâu, vùng xa đã được hiện đại hoá ngang bằng các đô thị lớn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Công cuộc Đổi mới huy động nhiều nguồn lực để xây dựng, nâng cấp kết cấu hạ tầng kinh tế - xã hội. Phương án D nói quá thành tựu, vì chênh lệch hạ tầng giữa đô thị và vùng khó khăn vẫn còn lớn.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-018",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình đô thị hoá ở Việt Nam trong thời kì Đổi mới có đặc điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ lệ dân số thành thị giảm vì dân cư ồ ạt chuyển về nông thôn sản xuất."
+        },
+        {
+          "key": "B",
+          "text": "Hệ thống đô thị mở rộng, nhiều đô thị được nâng loại và đô thị mới hình thành, tỉ lệ dân số đô thị tăng lên."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước ngăn cản việc nhân dân di chuyển giữa nông thôn và thành thị."
+        },
+        {
+          "key": "D",
+          "text": "Quy mô và số lượng đô thị Việt Nam không thay đổi so với trước năm 1986."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Phát triển kinh tế và công nghiệp hoá làm quá trình đô thị hoá diễn ra nhanh, hệ thống đô thị tăng cả về số lượng lẫn phân loại. Các phương án còn lại trái với thực tế được SGK mô tả.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-019",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng về chuyển dịch cơ cấu kinh tế theo lãnh thổ của Việt Nam trong thời kì Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cả nước chỉ được tổ chức thành một vùng kinh tế duy nhất do trung ương quản lý."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước chủ trương xoá bỏ các vùng kinh tế trọng điểm để san đều nguồn lực."
+        },
+        {
+          "key": "C",
+          "text": "Hình thành các vùng kinh tế trọng điểm, khu công nghiệp, khu chế xuất và chú trọng kinh tế biển, tạo những cực tăng trưởng có sức lan toả."
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế các vùng chỉ có thể phát triển nhờ bao cấp của trung ương."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Một thành tựu của Đổi mới là hình thành các vùng kinh tế trọng điểm, khu công nghiệp, khu chế xuất và chiến lược phát triển kinh tế biển, tạo động lực lan toả. Phương án B và D trái với chủ trương và thực tế phát triển.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-020",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong cơ cấu kinh tế ngành thời kì Đổi mới, vị trí của ngành du lịch được xác định như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Du lịch chỉ được coi là hoạt động giải trí, không được xác định là ngành kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam chưa mở cửa cho khách nước ngoài nên du lịch không thể phát triển."
+        },
+        {
+          "key": "C",
+          "text": "Du lịch Việt Nam suy giảm liên tục vì cạnh tranh của hội nhập quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "Du lịch được định hướng trở thành ngành kinh tế mũi nhọn, góp phần chuyển dịch cơ cấu kinh tế và quảng bá hình ảnh đất nước."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Cùng với hội nhập và mở cửa, du lịch phát triển nhanh và được xác định là ngành kinh tế mũi nhọn, góp phần quảng bá hình ảnh Việt Nam. Ba phương án còn lại đều phủ nhận thành tựu mở cửa, hội nhập.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-021",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhân tố nào được coi là nguyên nhân cơ bản nhất tạo nên các thành tựu kinh tế của công cuộc Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đường lối đổi mới đúng đắn của Đảng, giải phóng sức sản xuất, phát huy nội lực đồng thời tranh thủ ngoại lực."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ thành tựu đều nhờ viện trợ không hoàn lại của các nước công nghiệp phát triển."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam khai thác và xuất khẩu càng nhiều tài nguyên thiên nhiên thì càng phát triển."
+        },
+        {
+          "key": "D",
+          "text": "Tiếp tục duy trì nguyên vẹn cơ chế tập trung quan liêu, bao cấp đã có."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đổi mới tư duy kinh tế, xây dựng cơ chế thị trường và khơi dậy nội lực là nguyên nhân sâu xa của mọi thành tựu. Viện trợ và tài nguyên chỉ là nhân tố hỗ trợ, không phải nguyên nhân cơ bản nhất.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-022",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạn chế nào về phát triển kinh tế được Đảng và Nhà nước Việt Nam chỉ ra trong quá trình Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nền kinh tế tăng trưởng quá nóng, vượt quá khả năng quản lý của Nhà nước."
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế phát triển chưa tương xứng với tiềm năng; chất lượng tăng trưởng, hiệu quả và sức cạnh tranh còn thấp."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam đã trở thành nước có thu nhập cao nhưng công nghiệp hoá bị chững lại."
+        },
+        {
+          "key": "D",
+          "text": "Cơ cấu kinh tế chuyển dịch quá nhanh nên nông nghiệp bị bỏ quên hoàn toàn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Bên cạnh thành tựu, SGK chỉ rõ kinh tế nước ta phát triển chưa tương xứng tiềm năng, chất lượng, hiệu quả và sức cạnh tranh còn thấp. Phương án C sai vì Việt Nam vẫn là nước đang phát triển có thu nhập trung bình.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hạn chế của Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-023",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hạn chế về mô hình tăng trưởng kinh tế của Việt Nam cần khắc phục trong giai đoạn mới là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng trưởng phụ thuộc quá nhiều vào các ngành dịch vụ và du lịch."
+        },
+        {
+          "key": "B",
+          "text": "Tăng trưởng chỉ dựa vào đổi mới sáng tạo, chưa khai thác tài nguyên."
+        },
+        {
+          "key": "C",
+          "text": "Tăng trưởng còn theo chiều rộng, dựa nhiều vào vốn, tài nguyên và lao động giá rẻ."
+        },
+        {
+          "key": "D",
+          "text": "Tăng trưởng chỉ dựa vào khu vực doanh nghiệp nhà nước, các thành phần khác không tham gia."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Hạn chế nổi bật là mô hình tăng trưởng thiên về chiều rộng, lệ thuộc vào vốn, tài nguyên và lao động rẻ, chưa dựa nhiều vào khoa học - công nghệ. Phương án B diễn đạt ngược lại thực tế.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hạn chế của Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-024",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiệm vụ nào được đặt ra cho phát triển kinh tế của Việt Nam trong giai đoạn đẩy mạnh công nghiệp hoá, hiện đại hoá?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trở lại cơ chế tập trung quan liêu, bao cấp để bảo đảm công bằng."
+        },
+        {
+          "key": "B",
+          "text": "Hạn chế mọi hình thức đầu tư nước ngoài để bảo vệ sản xuất trong nước."
+        },
+        {
+          "key": "C",
+          "text": "Ưu tiên tuyệt đối khai khoáng và xuất khẩu nguyên liệu thô."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển mạnh mô hình tăng trưởng sang kết hợp chiều rộng với chiều sâu, dựa vào khoa học - công nghệ, đổi mới sáng tạo, nâng cao năng suất, chất lượng và hiệu quả."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Để khắc phục hạn chế tăng trưởng theo chiều rộng, nhiệm vụ được nêu là nâng cao chất lượng, hiệu quả và sức cạnh tranh, gắn tăng trưởng với khoa học - công nghệ. Các phương án còn lại đều trái với đường lối mở cửa, hội nhập.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nhiệm vụ giai đoạn mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-025",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa bao quát của những thành tựu kinh tế trong công cuộc Đổi mới đối với Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tạo nền tảng vật chất - kỹ thuật, nâng cao đời sống nhân dân và khẳng định bằng thực tiễn rằng đường lối Đổi mới là đúng đắn."
+        },
+        {
+          "key": "B",
+          "text": "Xóa bỏ hoàn toàn khoảng cách trình độ phát triển giữa Việt Nam và các nước trên thế giới."
+        },
+        {
+          "key": "C",
+          "text": "Giải quyết xong mọi hạn chế, khuyết điểm còn tồn tại trong nền kinh tế nước ta."
+        },
+        {
+          "key": "D",
+          "text": "Đưa Việt Nam trở thành nước công nghiệp phát triển hàng đầu ở châu Á."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Thành tựu kinh tế chứng minh tính đúng đắn của đường lối Đổi mới, củng cố cơ sở vật chất của chế độ và nâng cao đời sống nhân dân. Các phương án B, C, D đều tuyệt đối hoá thành tựu, trái với đánh giá trong SGK.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-026",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu về chính trị của công cuộc Đổi mới được thể hiện nổi bật ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân, vì dân từng bước được xây dựng, củng cố và hoàn thiện."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam chuyển sang chế độ đa nguyên, đa đảng nhằm mở rộng nền dân chủ."
+        },
+        {
+          "key": "C",
+          "text": "Toàn bộ quyền lực nhà nước được giao cho các tổ chức xã hội - nghề nghiệp đảm nhiệm."
+        },
+        {
+          "key": "D",
+          "text": "Hệ thống chính trị ở cơ sở bị giải toả để giảm bớt gánh nặng cho ngân sách."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa là thành tựu chính trị quan trọng của Đổi mới. Việt Nam không chấp nhận đa nguyên, đa đảng nên phương án B sai.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-027",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây phản ánh đúng phương thức quản lý xã hội của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam trong thời kì Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước quản lý xã hội chủ yếu bằng các chỉ thị miệng và kinh nghiệm của cán bộ."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước quản lý xã hội bằng pháp luật, đồng thời coi trọng giáo dục ý thức pháp luật của công dân."
+        },
+        {
+          "key": "C",
+          "text": "Pháp luật được ban hành chủ yếu để phục vụ quyền lợi của đội ngũ cán bộ, công chức."
+        },
+        {
+          "key": "D",
+          "text": "Quyền lực nhà nước được trao hoàn toàn cho các cơ quan tư pháp trong bộ máy."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Quản lý xã hội bằng pháp luật và nâng cao ý thức pháp luật của công dân là đặc trưng của Nhà nước pháp quyền. Các phương án còn lại trái với nguyên tắc thượng tôn pháp luật.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-028",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiến pháp năm 2013 được xem là một thành tựu thể chế của thời kì Đổi mới vì lí do nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đánh dấu việc Việt Nam xoá bỏ vai trò lãnh đạo của Đảng Cộng sản Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Khẳng định Việt Nam chuyển sang tổ chức nhà nước theo mô hình liên bang."
+        },
+        {
+          "key": "C",
+          "text": "Thể chế hoá đầy đủ hơn quyền con người, quyền công dân và tổ chức quyền lực nhà nước trong nền kinh tế thị trường."
+        },
+        {
+          "key": "D",
+          "text": "Khôi phục lại cơ chế tập trung quan liêu, bao cấp trong quản lý kinh tế - xã hội."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Hiến pháp năm 2013 kế thừa và phát triển các hiến pháp trước đó, dành hẳn một chương quy định quyền con người, quyền công dân, thể chế hoá đường lối Đổi mới. Phương án A và B trái hoàn toàn với bản chất Hiến pháp Việt Nam.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nhà nước pháp quyền",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-029",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Dân chủ xã hội chủ nghĩa ở Việt Nam trong thời kì Đổi mới được mở rộng, biểu hiện nổi bật ở mặt nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhân dân chỉ được tham gia góp ý khi cơ quan nhà nước yêu cầu bằng văn bản."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước cho phép lập ra các đảng phái chính trị đối lập với Đảng đang cầm quyền."
+        },
+        {
+          "key": "C",
+          "text": "Mọi quyết định của chính quyền đều được chuyển cho các doanh nghiệp tư nhân biểu quyết."
+        },
+        {
+          "key": "D",
+          "text": "Nhân dân bàn, quyết định và giám sát những việc thiết thực ở thôn, bản, tổ dân phố, cơ quan, doanh nghiệp theo phương châm dân biết, dân bàn, dân làm, dân kiểm tra."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Thực hiện dân chủ ở cơ sở với phương châm dân biết, dân bàn, dân làm, dân kiểm tra là thành tựu nổi bật về dân chủ của Đổi mới. Các phương án còn lại hoặc thu hẹp quyền làm chủ, hoặc trái nguyên tắc chính trị của Việt Nam.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Dân chủ cơ sở",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-030",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Cải cách hành chính trong thời kì Đổi mới ở Việt Nam tập trung vào những nội dung nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sắp xếp lại bộ máy, tinh giản biên chế, cải cách thủ tục hành chính theo cơ chế một cửa, một cửa liên thông, nâng cao chất lượng đội ngũ cán bộ, công chức."
+        },
+        {
+          "key": "B",
+          "text": "Tăng thêm tầng nấc trung gian để quản lý chặt chẽ hơn mọi yêu cầu của nhân dân."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển toàn bộ dịch vụ công sang cho các doanh nghiệp tư nhân cung ứng."
+        },
+        {
+          "key": "D",
+          "text": "Bỏ hẳn việc kiểm tra, giám sát của nhân dân đối với hoạt động của chính quyền."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cải cách hành chính hướng tới bộ máy tinh gọn, thủ tục thông thoáng, đội ngũ công chức đủ năng lực, phục vụ nhân dân và doanh nghiệp tốt hơn. Phương án B làm tăng quan liêu, trái với yêu cầu cải cách.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Cải cách hành chính",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-031",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thời kì Đổi mới, cơ quan nào ở địa phương do cử tri trực tiếp bỏ phiếu bầu ra?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ủy ban nhân dân các cấp ở địa phương."
+        },
+        {
+          "key": "B",
+          "text": "Hội đồng nhân dân các cấp ở địa phương."
+        },
+        {
+          "key": "C",
+          "text": "Toà án nhân dân các cấp ở địa phương."
+        },
+        {
+          "key": "D",
+          "text": "Viện kiểm sát nhân dân các cấp ở địa phương."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Cử tri trực tiếp bầu đại biểu Hội đồng nhân dân các cấp - cơ quan quyền lực nhà nước ở địa phương; Ủy ban nhân dân do Hội đồng nhân dân bầu ra. Cơ quan toà án và viện kiểm sát không do cử tri trực tiếp bầu.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Dân chủ cơ sở",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-032",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Vai trò của Mặt trận Tổ quốc Việt Nam trong thời kì Đổi mới được nhấn mạnh ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mặt trận Tổ quốc thay thế Chính phủ trong việc ban hành các văn bản pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "Mặt trận Tổ quốc chỉ làm nhiệm vụ tuyên truyền, không có chức năng giám sát."
+        },
+        {
+          "key": "C",
+          "text": "Mặt trận Tổ quốc tập hợp, xây dựng khối đại đoàn kết toàn dân, đồng thời thực hiện giám sát và phản biện xã hội đối với chính quyền."
+        },
+        {
+          "key": "D",
+          "text": "Mặt trận Tổ quốc trở thành cơ quan quyền lực nhà nước cao nhất ở trung ương."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Cùng với việc mở rộng dân chủ, Mặt trận Tổ quốc và các tổ chức chính trị - xã hội phát huy vai trò tập hợp nhân dân, giám sát và phản biện xã hội. Cơ quan quyền lực nhà nước cao nhất là Quốc hội nên phương án D sai.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-033",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao xoá đói, giảm nghèo được coi là thành tựu nổi bật về xã hội của công cuộc Đổi mới ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì Việt Nam đã xoá sạch hộ nghèo và không còn khoảng cách giàu nghèo giữa các vùng."
+        },
+        {
+          "key": "B",
+          "text": "Vì Nhà nước chỉ trợ cấp tiền mặt cho người nghèo mà không tạo điều kiện sản xuất."
+        },
+        {
+          "key": "C",
+          "text": "Vì các vấn đề xã hội ở Việt Nam hoàn toàn không liên quan tới tăng trưởng kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Vì số hộ nghèo giảm mạnh qua các năm, mức sống và khả năng tiếp cận dịch vụ xã hội cơ bản của người dân nâng lên, được cộng đồng quốc tế đánh giá cao."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Xoá đói giảm nghèo là thành tựu được thế giới thừa nhận, thể hiện tính ưu việt của chế độ và định hướng xã hội chủ nghĩa của Đổi mới. Phương án A nói quá, phương án B mô tả cách làm bao cấp đã cũ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Xoá đói giảm nghèo",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-034",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm khác biệt cơ bản trong cách làm xoá đói giảm nghèo của Việt Nam thời kì Đổi mới so với cách bao cấp trước đây là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kết hợp hỗ trợ của Nhà nước với việc tạo điều kiện để người nghèo tự vươn lên, phát triển sinh kế và tiếp cận dịch vụ cơ bản, thay vì cho không."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước bao cấp toàn bộ nhu cầu thiết yếu của người nghèo và phân phối bằng tem phiếu."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ tập trung nguồn lực vào các đô thị lớn, mặc nhiên bỏ qua vùng nông thôn, vùng xa."
+        },
+        {
+          "key": "D",
+          "text": "Trao toàn bộ trách nhiệm xoá đói giảm nghèo cho các tổ chức quốc tế tài trợ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Cách làm mới là cấp cơ hội, hỗ trợ có điều kiện để người nghèo tự thoát nghèo bền vững, khác với bao cấp cho không. Phương án B chính là cơ chế cũ đã bị Đổi mới xoá bỏ.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Xoá đói giảm nghèo",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-035",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu nào sau đây về y tế của Việt Nam trong thời kì Đổi mới là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hệ thống y tế cơ sở bị tư nhân hoá hoàn toàn, không còn trạm y tế xã, phường."
+        },
+        {
+          "key": "B",
+          "text": "Mạng lưới y tế từ trung ương đến cơ sở được củng cố, độ bao phủ bảo hiểm y tế mở rộng, nhiều dịch bệnh được khống chế, tuổi thọ trung bình của người dân tăng lên."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam chưa kiểm soát được dịch bệnh nên tuổi thọ trung bình của dân cư giảm."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước không đầu tư cho y tế, nhân dân phải tự chữa bệnh hoàn toàn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "SGK đánh giá sự nghiệp chăm sóc sức khỏe nhân dân đạt nhiều tiến bộ với mạng lưới y tế rộng khắp, dịch bệnh được đẩy lùi và tuổi thọ tăng. Các phương án còn lại phủ nhận sạch trơn thành tựu này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Y tế",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-036",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Về giáo dục - đào tạo, thành tựu của công cuộc Đổi mới ở Việt Nam thể hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ lệ người biết chữ giảm vì Nhà nước bỏ hẳn chương trình xoá mù chữ."
+        },
+        {
+          "key": "B",
+          "text": "Giáo dục phổ thông chỉ dành riêng cho trẻ em ở các đô thị và vùng kinh tế mới."
+        },
+        {
+          "key": "C",
+          "text": "Hệ thống trường lớp và các bậc học được mở rộng, kết quả phổ cập giáo dục được giữ vững, số người biết chữ và quy mô đào tạo đại học, sau đại học tăng lên."
+        },
+        {
+          "key": "D",
+          "text": "Việt Nam không đào tạo nhân lực trình độ đại học mà trông chờ hoàn toàn vào nước ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đổi mới giáo dục đi cùng việc mở rộng quy mô và mạng lưới trường lớp, duy trì phổ cập, nâng cao dân trí và đào tạo nhân lực. Phương án A và D trái với thực tế thành tựu được SGK ghi nhận.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Giáo dục",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-037",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Bên cạnh thành tựu, hạn chế nào sau đây của sự nghiệp giáo dục và đào tạo ở Việt Nam được chỉ ra trong thời kì Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giáo dục Việt Nam đã đạt trình độ hàng đầu thế giới, không còn bất kì hạn chế nào."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước đã xoá bỏ hoàn toàn phổ cập giáo dục tiểu học ở vùng nông thôn."
+        },
+        {
+          "key": "C",
+          "text": "Quy mô trường lớp giảm liên tục khiến số người biết chữ của Việt Nam thấp đi."
+        },
+        {
+          "key": "D",
+          "text": "Chất lượng, hiệu quả giáo dục và đào tạo chưa đáp ứng tốt yêu cầu phát triển; đổi mới quản lý giáo dục còn chậm, một bộ phận nhà giáo chưa đạt chuẩn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "SGK đánh giá giáo dục và đào tạo còn hạn chế về chất lượng, hiệu quả và quản lý, chưa thực sự trở thành động lực phát triển. Ba phương án còn lại hoặc nói quá thành tựu, hoặc trái thực tế.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hạn chế của Đổi mới",
+        "Giáo dục",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-038",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Về văn hoá - xã hội, thành tựu của công cuộc Đổi mới ở Việt Nam thể hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiều giá trị văn hoá truyền thống và di sản được kiểm kê, bảo tồn, phát huy và được bạn bè quốc tế ghi nhận; các phong trào xây dựng đời sống văn hoá ở cơ sở lan rộng."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ di sản văn hoá của Việt Nam đều đã được tổ chức quốc tế công nhận."
+        },
+        {
+          "key": "C",
+          "text": "Văn hoá Việt Nam đóng cửa, không giao lưu và hội nhập với bên ngoài."
+        },
+        {
+          "key": "D",
+          "text": "Các phong trào xây dựng đời sống văn hoá chỉ giới hạn trong phạm vi các đô thị lớn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đổi mới gắn tăng trưởng kinh tế với phát triển văn hoá, giữ gìn bản sắc và đưa văn hoá, thông tin đến cơ sở, được quốc tế ghi nhận qua các di sản được vinh danh. Phương án B nói quá, phương án C trái với chủ trương hội nhập.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Văn hoá",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-039",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Chính sách dân tộc của Nhà nước Việt Nam trong thời kì Đổi mới được xây dựng trên nguyên tắc nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các dân tộc thiểu số được tạo điều kiện tách khỏi cộng đồng dân tộc quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "Bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển giữa các dân tộc."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước chỉ đầu tư cho vùng đông dân cư, bỏ qua vùng đồng bào dân tộc thiểu số."
+        },
+        {
+          "key": "D",
+          "text": "Đồng bào dân tộc thiểu số chỉ có quyền về văn hoá, không có quyền về kinh tế."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đại đoàn kết dân tộc trên nguyên tắc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển là cơ sở để củng cố khối đại đoàn kết toàn dân tộc. Các phương án còn lại trái với chính sách dân tộc của Đảng và Nhà nước.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-040",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Quan điểm của Nhà nước Việt Nam đối với các tôn giáo trong thời kì Đổi mới là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước hạn chế và quản lý chặt chẽ mọi hoạt động tín ngưỡng của công dân."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam xây dựng một quốc giáo duy nhất cho toàn bộ dân cư."
+        },
+        {
+          "key": "C",
+          "text": "Tôn trọng tự do tín ngưỡng, tôn giáo và tự do không tín ngưỡng, tôn giáo của công dân; khuyến khích đồng bào có đạo sống tốt đời, đẹp đạo, đoàn kết cùng toàn dân."
+        },
+        {
+          "key": "D",
+          "text": "Các cơ sở tôn giáo bị giải toả để lấy đất xây dựng công trình công cộng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Chính sách đổi mới đã khắc phục khuynh hướng hẹp hòi với tôn giáo, phát huy nguồn lực của đồng bào có đạo vào sự nghiệp xây dựng đất nước. Việt Nam không có quốc giáo nên phương án B sai.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-041",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Vai trò của cộng đồng người Việt Nam ở nước ngoài đối với sự nghiệp Đổi mới được nhìn nhận như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Người Việt Nam định cư ở nước ngoài bị coi là lực lượng cần xa lánh, không liên quan tới trong nước."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước không quan tâm tới kiều bào vì Đổi mới chỉ dựa vào nguồn lực trong nước."
+        },
+        {
+          "key": "C",
+          "text": "Kiều bào chỉ được gửi tiền về nuôi thân nhân, không được đầu tư về nước."
+        },
+        {
+          "key": "D",
+          "text": "Cộng đồng người Việt Nam ở nước ngoài là bộ phận khăng khít của dân tộc, là nguồn lực quan trọng góp phần phát triển đất nước và quảng bá hình ảnh Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Khối đại đoàn kết toàn dân tộc bao gồm cả người Việt Nam ở nước ngoài; kiều bào đóng góp vốn, tri thức và quan hệ quốc tế cho đất nước. Ba phương án còn lại thể hiện thái độ chia rẽ, trái chính sách của Đảng và Nhà nước.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Đại đoàn kết",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-042",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu về quốc phòng - an ninh gắn với công cuộc Đổi mới của Việt Nam được thể hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ổn định chính trị - xã hội được giữ vững, nền quốc phòng toàn dân và thế trận an ninh nhân dân được tăng cường, chủ quyền quốc gia được bảo vệ, tạo môi trường thuận lợi cho phát triển."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam giải tán lực lượng vũ trang để tập trung mọi nguồn lực cho kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam chỉ duy trì quân đội thường trực, không xây dựng nền quốc phòng toàn dân."
+        },
+        {
+          "key": "D",
+          "text": "An ninh chính trị và trật tự an toàn xã hội ở Việt Nam đã hoàn toàn sạch, không còn tệ nạn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Giữ vững ổn định chính trị - xã hội và tăng cường quốc phòng, an ninh là thành tựu đồng thời là điều kiện để Đổi mới thành công. Phương án D nói quá, vì các tệ nạn xã hội vẫn là vấn đề cần giải quyết.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "An ninh quốc phòng",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-043",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao nói thành tựu về chính trị - xã hội và thành tựu về kinh tế của công cuộc Đổi mới có quan hệ chặt chẽ với nhau?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì hai lĩnh vực này hoàn toàn độc lập, không tác động qua lại lẫn nhau."
+        },
+        {
+          "key": "B",
+          "text": "Vì ổn định chính trị và tiến bộ, công bằng xã hội tạo động lực, đồng thuận cho tăng trưởng, còn nguồn lực kinh tế bảo đảm đời sống và củng cố niềm tin của nhân dân."
+        },
+        {
+          "key": "C",
+          "text": "Vì Việt Nam chỉ chú trọng kinh tế, mặc nhiên bỏ qua mọi vấn đề chính trị - xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Vì ổn định chính trị - xã hội chỉ có thể dựa vào viện trợ của các tổ chức quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đảng ta chủ trương kết hợp chặt chẽ đổi mới kinh tế với đổi mới chính trị và thực hiện tiến bộ, công bằng xã hội ngay trong từng bước phát triển. Phương án C trái với quan điểm nhất quán đó.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Chính trị - xã hội",
+        "Thành tựu Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-044",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ thành tựu về dân chủ và đại đoàn kết, bài học nào được rút ra cho công cuộc Đổi mới ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mọi cải cách phải làm nhanh, làm ồ ạt, không cần tính đến mức độ chịu đựng của xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ cần tăng trưởng kinh tế cao thì mọi vấn đề xã hội sẽ tự động được giải quyết."
+        },
+        {
+          "key": "C",
+          "text": "Lấy dân làm gốc, chủ trương, chính sách phải xuất phát từ lợi ích và nguyện vọng chính đáng của nhân dân, được nhân dân đồng tình, hưởng ứng."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước có thể tiến hành cải cách mà không cần công khai để nhân dân biết và bàn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Thành tựu của Đổi mới khẳng định bài học dựa vào dân, phát huy quyền làm chủ và sức mạnh đại đoàn kết toàn dân tộc. Phương án A và D trái với bài học về làm từng bước vững chắc và công khai, dân chủ.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Dân chủ cơ sở",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-045",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoạt động giám sát và phản biện xã hội của Mặt trận Tổ quốc và các tổ chức chính trị - xã hội trong thời kì Đổi mới nhằm mục đích gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thay thế vai trò lập pháp của Quốc hội trong quá trình Đổi mới."
+        },
+        {
+          "key": "B",
+          "text": "Kiểm soát, hạn chế quyền tự do ngôn luận hợp pháp của công dân."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển giao quyền lực nhà nước cho các tổ chức xã hội - nghề nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "Bảo đảm quyền làm chủ của nhân dân, góp phần xây dựng Đảng và chính quyền trong sạch, vững mạnh."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Giám sát và phản biện xã hội là cơ chế để nhân dân tham gia xây dựng Đảng, xây dựng chính quyền, hạn chế quan liêu và sai sót chính sách. Mặt trận Tổ quốc không phải cơ quan nhà nước nên không thể làm các việc ở phương án A và C.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Dân chủ cơ sở",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-046",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng khi đánh giá những hạn chế về xã hội trong quá trình Đổi mới ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ cấu xã hội Việt Nam đã trở nên hoàn toàn bình đẳng, không còn khoảng cách giàu nghèo."
+        },
+        {
+          "key": "B",
+          "text": "Phân hoá giàu nghèo giữa các vùng miền, tầng lớp dân cư còn gia tăng; nhiều vấn đề xã hội bức xúc chậm được giải quyết."
+        },
+        {
+          "key": "C",
+          "text": "Vì chỉ tăng trưởng kinh tế nên mọi chỉ tiêu xã hội của Việt Nam đều xấu đi."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ các vấn đề xã hội bức xúc ở Việt Nam đã được xử lý xong từ đầu thập niên 1990."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "SGK chỉ rõ hạn chế: khoảng cách giàu nghèo và mức sống giữa các vùng còn lớn, một số vấn đề xã hội bức xúc chưa được giải quyết tốt. Phương án A và D tuyệt đối hoá thành tựu, phương án C phủ nhận sạch trơn.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hạn chế của Đổi mới",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-047",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiệm vụ về xã hội được đặt ra cho giai đoạn tiếp tục đẩy mạnh Đổi mới ở Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thực hiện tiến bộ và công bằng xã hội ngay trong từng bước và từng chính sách phát triển, nâng cao chất lượng đời sống vật chất và tinh thần của nhân dân."
+        },
+        {
+          "key": "B",
+          "text": "Tạm gác mọi vấn đề xã hội để tập trung hoàn toàn cho chỉ tiêu tăng trưởng."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước bảo đảm việc làm và thu nhập cho toàn bộ người lao động như trước đây."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ đầu tư cho những vùng đã phát triển để thu hút thêm nguồn lực."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Gắn tăng trưởng kinh tế với công bằng, tiến bộ xã hội và nâng cao chất lượng cuộc sống là nhiệm vụ xuyên suốt của Đổi mới. Phương án C trở lại cách bao cấp, phương án B và D trái định hướng xã hội chủ nghĩa.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nhiệm vụ giai đoạn mới",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-048",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Cải cách tư pháp ở Việt Nam trong thời kì Đổi mới hướng tới yêu cầu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hoạt động xét xử phụ thuộc vào ý kiến chỉ đạo của từng cán bộ có thẩm quyền."
+        },
+        {
+          "key": "B",
+          "text": "Xây dựng nền tư pháp trong sạch, vững mạnh, dân chủ, nghiêm minh, bảo vệ công lý, tôn trọng và bảo đảm quyền con người, quyền công dân."
+        },
+        {
+          "key": "C",
+          "text": "Gộp chức năng xét xử với chức năng thực hành quyền công tố vào cùng một cơ quan."
+        },
+        {
+          "key": "D",
+          "text": "Bỏ chế độ xét xử công khai để giữ uy tín cho các cơ quan tư pháp."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Cải cách tư pháp là nội dung quan trọng của xây dựng Nhà nước pháp quyền, nhằm bảo vệ công lý và quyền con người, quyền công dân. Các phương án còn lại trái với nguyên tắc tư pháp đã được Hiến pháp quy định.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nhà nước pháp quyền",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-049",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa chính trị sâu xa của các thành tựu về chính trị - xã hội trong công cuộc Đổi mới là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chấm dứt vai trò lịch sử của các tổ chức chính trị - xã hội trong đời sống đất nước."
+        },
+        {
+          "key": "B",
+          "text": "Chứng minh Việt Nam cần từ bỏ định hướng xã hội chủ nghĩa để hội nhập quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Làm cho Nhà nước không còn phải thực hiện chức năng quản lý kinh tế - xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Củng cố niềm tin của nhân dân đối với Đảng và chế độ, khẳng định năng lực tự đổi mới của hệ thống chính trị và tính đúng đắn của con đường đã lựa chọn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Trong bối cảnh chủ nghĩa xã hội ở Liên Xô và Đông Âu sụp đổ, ổn định chính trị - xã hội và đời sống nhân dân được nâng lên đã chứng minh sức sống của chế độ ở Việt Nam. Phương án B trái với thực tế Đổi mới vẫn giữ định hướng xã hội chủ nghĩa.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-050",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học nào được rút ra từ quá trình đổi mới chính trị và xây dựng hệ thống chính trị ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đổi mới kinh tế và đổi mới chính trị nhất thiết phải tiến hành đồng loạt với tốc độ như nhau."
+        },
+        {
+          "key": "B",
+          "text": "Muốn hội nhập quốc tế thì trước hết phải từ bỏ vai trò lãnh đạo của Đảng."
+        },
+        {
+          "key": "C",
+          "text": "Đổi mới chính trị phải tiến hành từng bước vững chắc, trên nền tảng giữ vững ổn định chính trị - xã hội, kết hợp chặt chẽ với đổi mới kinh tế và giữ vững vai trò lãnh đạo của Đảng."
+        },
+        {
+          "key": "D",
+          "text": "Ổn định chính trị - xã hội chỉ có được khi Nhà nước hạn chế quyền làm chủ của công dân."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Bài học của Đổi mới là lấy đổi mới kinh tế làm trọng điểm, đồng thời đổi mới chính trị từng bước vững chắc, không chấp nhận đa nguyên đa đảng. Phương án A không phù hợp vì Đổi mới có trọng điểm, không làm đồng loạt mọi việc.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Chính trị - xã hội",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-051",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong đường lối Đổi mới, vị trí của khoa học và công nghệ đối với sự phát triển đất nước được xác định như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khoa học và công nghệ được coi là quốc sách hàng đầu, là động lực then chốt để phát triển đất nước nhanh và bền vững."
+        },
+        {
+          "key": "B",
+          "text": "Khoa học và công nghệ chỉ là lĩnh vực phụ, phục vụ hoạt động nghiên cứu trong các viện hàn lâm."
+        },
+        {
+          "key": "C",
+          "text": "Khoa học và công nghệ phải chờ kinh tế phát triển xong mới được quan tâm đầu tư."
+        },
+        {
+          "key": "D",
+          "text": "Khoa học và công nghệ hoàn toàn do các doanh nghiệp có vốn đầu tư nước ngoài đảm nhiệm."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Các nghị quyết của Đảng trong thời kì Đổi mới đều khẳng định khoa học và công nghệ là quốc sách hàng đầu, động lực phát triển. Phương án C trái với quan điểm coi khoa học - công nghệ phải đi trước một bước.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-052",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu nào sau đây về tiềm lực khoa học - công nghệ của Việt Nam trong thời kì Đổi mới là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toàn bộ hoạt động nghiên cứu khoa học của Việt Nam đều phải thuê chuyên gia nước ngoài thực hiện."
+        },
+        {
+          "key": "B",
+          "text": "Hệ thống tổ chức nghiên cứu, phòng thí nghiệm, trung tâm khoa học - công nghệ được mở rộng, đội ngũ trí thức và nhân lực trình độ cao tăng lên."
+        },
+        {
+          "key": "C",
+          "text": "Các trường đại học Việt Nam không tham gia hoạt động nghiên cứu khoa học."
+        },
+        {
+          "key": "D",
+          "text": "Tiềm lực khoa học - công nghệ nước ta thu hẹp dần so với thời kì trước Đổi mới."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Cùng với đổi mới cơ chế, tiềm lực khoa học - công nghệ được tăng cường cả về tổ chức, trang bị và nhân lực. Các phương án còn lại phủ nhận thành tựu đã được SGK ghi nhận.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-053",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Khoa học - công nghệ góp phần tạo nên thành tựu nông nghiệp của công cuộc Đổi mới ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nông nghiệp Việt Nam giữ nguyên bộ giống cũ, không nhập giống mới từ bên ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Nông nghiệp Việt Nam chỉ mở rộng diện tích canh tác, không dùng tiến bộ kĩ thuật."
+        },
+        {
+          "key": "C",
+          "text": "Công nghệ sinh học và kĩ thuật giống cây trồng, vật nuôi mới được nghiên cứu, ứng dụng, tạo ra các giống có năng suất và chất lượng cao, góp phần tăng giá trị xuất khẩu."
+        },
+        {
+          "key": "D",
+          "text": "Cơ giới hoá được áp dụng triệt để nên nông nghiệp không còn cần lao động thủ công."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Thành tựu về giống cây trồng, vật nuôi và công nghệ sau thu hoạch là nhân tố quan trọng giúp tăng năng suất, sản lượng và giá trị nông sản xuất khẩu. Phương án D nói quá mức độ cơ giới hoá của nông nghiệp Việt Nam.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-054",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Lĩnh vực công nghệ thông tin và viễn thông của Việt Nam trong thời kì Đổi mới có thành tựu nổi bật nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam đến nay vẫn chưa kết nối với mạng internet toàn cầu."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước độc quyền toàn bộ hạ tầng viễn thông, không cho doanh nghiệp khác tham gia."
+        },
+        {
+          "key": "C",
+          "text": "Thiết bị viễn thông Việt Nam hoàn toàn phải nhập khẩu, không có sản xuất trong nước."
+        },
+        {
+          "key": "D",
+          "text": "Việt Nam kết nối internet với thế giới từ cuối thập niên 1990, sau đó viễn thông và công nghệ thông tin phát triển nhanh, thúc đẩy chuyển đổi số và thương mại điện tử."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Việc hoà mạng internet quốc gia vào internet toàn cầu cuối thập niên 1990 mở đường cho sự bùng nổ viễn thông, công nghệ thông tin và kinh tế số. Ba phương án còn lại trái với thực tế phát triển của lĩnh vực này.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-055",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu khoa học - công nghệ trong lĩnh vực y tế - dược của Việt Nam thời kì Đổi mới được thể hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiều kĩ thuật cao được làm chủ trong chẩn đoán, phẫu thuật và điều trị; vắc xin, sinh phẩm và thuốc được nghiên cứu, sản xuất trong nước."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ thuốc men và trang thiết bị y tế Việt Nam đều phải nhập khẩu từ nước ngoài."
+        },
+        {
+          "key": "C",
+          "text": "Các bệnh viện Việt Nam không thực hiện được các kĩ thuật chuyên sâu về ngoại khoa."
+        },
+        {
+          "key": "D",
+          "text": "Nghiên cứu y học ở Việt Nam bị đình trệ vì ưu tiên tuyệt đối cho công nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Ứng dụng tiến bộ khoa học - công nghệ giúp ngành y tế làm chủ nhiều kĩ thuật trước đây phải chuyển tuyến ra nước ngoài và tự sản xuất được một phần vắc xin, thuốc. Các phương án còn lại phủ nhận năng lực nghiên cứu, ứng dụng trong nước.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Y tế"
+      ]
+    },
+    {
+      "id": "q-su-bai11-056",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp, thành tựu ứng dụng khoa học - công nghệ của Việt Nam thời kì Đổi mới biểu hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Công nghiệp Việt Nam duy trì thiết bị lạc hậu của giai đoạn trước năm 1986."
+        },
+        {
+          "key": "B",
+          "text": "Các dây chuyền công nghệ hiện đại được nhập và từng bước làm chủ trong các ngành lọc - hoá dầu, điện tử - tin học, cơ khí chế tạo, đóng tàu, tự động hoá."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam chỉ làm gia công, không có ngành công nghiệp nào dùng công nghệ hiện đại."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước cấm doanh nghiệp trong nước đổi mới công nghệ để bảo vệ thiết bị cũ."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Công nghiệp hoá - hiện đại hoá gắn với tiếp nhận và từng bước làm chủ công nghệ ở các ngành mũi nhọn như năng lượng, viễn thông, chế biến, chế tạo. Phương án A và D trái với chủ trương hiện đại hoá.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Công nghiệp"
+      ]
+    },
+    {
+      "id": "q-su-bai11-057",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu về thể chế và thị trường khoa học - công nghệ của Việt Nam trong thời kì Đổi mới được thể hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước bao cấp toàn bộ kinh phí nghiên cứu và không thừa nhận mua bán kết quả nghiên cứu."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam chưa ban hành văn bản pháp luật nào về bảo hộ quyền sở hữu trí tuệ."
+        },
+        {
+          "key": "C",
+          "text": "Thị trường khoa học - công nghệ từng bước hình thành, hoạt động chuyển giao công nghệ và bảo hộ quyền sở hữu trí tuệ được tăng cường, thúc đẩy liên kết giữa nghiên cứu với sản xuất - kinh doanh."
+        },
+        {
+          "key": "D",
+          "text": "Kết quả nghiên cứu khoa học chỉ được công bố nội bộ trong từng viện nghiên cứu."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đổi mới cơ chế quản lý khoa học gắn với xây dựng thị trường khoa học - công nghệ, hoàn thiện pháp luật về chuyển giao công nghệ và sở hữu trí tuệ. Phương án A mô tả cơ chế cũ đã bị xoá bỏ.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-058",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Phong trào khởi nghiệp đổi mới sáng tạo ở Việt Nam trong những năm gần đây phản ánh điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước cấm tư nhân thành lập doanh nghiệp để bảo vệ doanh nghiệp nhà nước."
+        },
+        {
+          "key": "B",
+          "text": "Người Việt Nam ở nước ngoài không được phép đầu tư về nước."
+        },
+        {
+          "key": "C",
+          "text": "Hoạt động kinh doanh của thanh niên Việt Nam hoàn toàn không gắn với công nghệ."
+        },
+        {
+          "key": "D",
+          "text": "Sức sáng tạo của xã hội được giải phóng, hình thành lớp doanh nghiệp và doanh nhân ứng dụng công nghệ, đổi mới sáng tạo."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Sự phát triển của khởi nghiệp đổi mới sáng tạo là kết quả của việc giải phóng sức sản xuất và môi trường kinh doanh thông thoáng mà Đổi mới tạo ra. Ba phương án còn lại trái với chính sách của Nhà nước Việt Nam.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-059",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạn chế nào về khoa học và công nghệ của Việt Nam được chỉ ra trong quá trình Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tiềm lực khoa học - công nghệ còn yếu, nhân lực chất lượng cao thiếu; ứng dụng tiến bộ kĩ thuật vào sản xuất còn chậm, khoa học - công nghệ chưa thực sự trở thành động lực phát triển."
+        },
+        {
+          "key": "B",
+          "text": "Khoa học - công nghệ Việt Nam đã vượt qua trình độ của các nước phát triển nhất."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam không tiếp nhận công nghệ nước ngoài nên khoa học - công nghệ lạc hậu."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước không đầu tư bất kỳ khoản kinh phí nào cho hoạt động nghiên cứu khoa học."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "SGK đánh giá khoa học - công nghệ chưa đáp ứng yêu cầu, tiềm lực và trình độ còn hạn chế, chưa trở thành động lực hàng đầu của tăng trưởng. Phương án B nói quá, phương án D phủ nhận chủ trương đầu tư cho khoa học.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hạn chế của Đổi mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-060",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiệm vụ nào về khoa học - công nghệ được đặt ra cho Việt Nam trong giai đoạn đẩy mạnh công nghiệp hoá, hiện đại hoá?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tập trung xuất khẩu tài nguyên và lao động chưa qua đào tạo để lấy ngoại tệ."
+        },
+        {
+          "key": "B",
+          "text": "Đưa khoa học - công nghệ và đổi mới sáng tạo thực sự trở thành động lực then chốt của tăng trưởng, phát triển kinh tế số, kinh tế tri thức và nâng cao năng suất, chất lượng sản phẩm."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ nghiên cứu trong nước, không hợp tác quốc tế về khoa học - công nghệ."
+        },
+        {
+          "key": "D",
+          "text": "Giữ nguyên trình độ công nghệ hiện có để tiết kiệm chi phí đầu tư."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Để khắc phục hạn chế và chuyển mô hình tăng trưởng sang chiều sâu, khoa học - công nghệ và đổi mới sáng tạo được xác định là động lực then chốt, gắn với kinh tế số và kinh tế tri thức. Các phương án còn lại là cách làm trì trệ, trái với định hướng đổi mới.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nhiệm vụ giai đoạn mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-061",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Quan hệ giữa thành tựu khoa học - công nghệ với quá trình công nghiệp hoá, hiện đại hoá ở Việt Nam được hiểu đúng như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Công nghiệp hoá chỉ cần vốn và lao động, không phụ thuộc vào trình độ công nghệ."
+        },
+        {
+          "key": "B",
+          "text": "Khoa học - công nghệ là kết quả của công nghiệp hoá, không có vai trò thúc đẩy lại."
+        },
+        {
+          "key": "C",
+          "text": "Khoa học - công nghệ nâng cao năng suất, chất lượng và sức cạnh tranh, giúp công nghiệp hoá rút ngắn thời gian và chuyển sang hiện đại hoá, phát triển bền vững."
+        },
+        {
+          "key": "D",
+          "text": "Hiện đại hoá đất nước đồng nghĩa với việc nhập khẩu toàn bộ công nghệ từ nước ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Công nghiệp hoá, hiện đại hoá lấy khoa học - công nghệ làm nền tảng để đi tắt, đón đầu và nâng cao hiệu quả kinh tế. Phương án D sai vì hiện đại hoá gắn với làm chủ công nghệ, không chỉ là nhập công nghệ.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-062",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Chủ trương coi trọng và bố trí sử dụng đội ngũ trí thức, nhân tài trong thời kì Đổi mới nhằm mục đích gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm chi phí đào tạo bằng cách tuyển dụng trí thức đã thành danh ở nước ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Tạo điều kiện cho trí thức hội nhập quốc tế, phát huy tài năng, đóng góp cho sự phát triển đất nước và thu hút nguồn lực chất lượng cao."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển toàn bộ hoạt động quản lý nhà nước cho giới trí thức đảm nhiệm."
+        },
+        {
+          "key": "D",
+          "text": "Xoá bỏ sự phân công lao động xã hội giữa các ngành, nghề ở nước ta."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Chính sách trọng dụng nhân tài là cách phát huy nguồn lực trí tuệ - yếu tố quyết định của một nền kinh tế dựa vào khoa học - công nghệ. Phương án C và D xuyên tạc mục tiêu của chính sách.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-063",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu về đối ngoại của công cuộc Đổi mới ở Việt Nam được thể hiện nổi bật ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phá được thế bị bao vây, cấm vận, mở rộng và bình thường hoá quan hệ với các nước lớn và nhiều tổ chức quốc tế, đưa quan hệ hợp tác đi vào chiều sâu, ổn định."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam duy trì chính sách chỉ quan hệ với các nước xã hội chủ nghĩa như trước năm 1986."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam rút khỏi các tổ chức quốc tế để tập trung xây dựng đất nước."
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ đối ngoại của Việt Nam không có thay đổi đáng kể nào kể từ khi tiến hành Đổi mới."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Một trong những thành tựu lớn của Đổi mới là phá thế bị bao vây, cấm vận, thiết lập và mở rộng quan hệ với hầu hết các quốc gia, vùng lãnh thổ và các tổ chức quốc tế. Phương án B và C trái với chủ trương đa phương hoá, đa dạng hoá.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-064",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Phương châm nào được Việt Nam vận dụng trong quan hệ quốc tế thời kì Đổi mới và đã góp phần tạo nên thành tựu đối ngoại?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ thiết lập quan hệ với các nước có cùng quy mô kinh tế với Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Đa phương hoá, đa dạng hoá quan hệ quốc tế, chủ động hội nhập, coi Việt Nam là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Đóng cửa, tự cung tự cấp để bảo vệ vững chắc nền kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Liên kết quân sự với một cường quốc để bảo đảm an ninh cho đất nước."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đa phương hoá, đa dạng hoá và chủ động hội nhập là đặc trưng của đường lối đối ngoại Đổi mới, giúp Việt Nam mở rộng quan hệ và nâng cao vị thế. Các phương án còn lại trái với nguyên tắc độc lập, tự chủ và mở cửa.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-065",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Việt Nam bình thường hoá quan hệ ngoại giao với Hoa Kỳ năm 1995 được coi là thắng lợi của đường lối đối ngoại Đổi mới vì lí do nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì Hoa Kỳ cam kết xoá bỏ mọi hạn chế về thương mại và đầu tư với Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Vì sự kiện này đánh dấu việc Việt Nam chấm dứt vai trò của Liên hợp quốc ở khu vực."
+        },
+        {
+          "key": "C",
+          "text": "Vì nó chứng tỏ quan hệ của Việt Nam chỉ phụ thuộc vào các nước lớn."
+        },
+        {
+          "key": "D",
+          "text": "Vì nó xoá bỏ một trong những mắt xích cuối cùng của thế bao vây, cấm vận, mở ra khả năng bình thường hoá quan hệ với nhiều đối tác quan trọng."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Bình thường hoá quan hệ với Hoa Kỳ năm 1995 cùng với việc bình thường hoá quan hệ với nhiều đối tác khác đã phá vỡ hoàn toàn thế bị bao vây, cấm vận, thể hiện tính đúng đắn của chính sách mở cửa. Phương án A và C sai về bản chất vấn đề.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-066",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ đầu thập niên 1990 đến nay, việc Việt Nam tham gia Hiệp hội các quốc gia Đông Nam Á và Tổ chức Thương mại thế giới phản ánh điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam chỉ hội nhập trong phạm vi kinh tế, không tham gia hợp tác chính trị - an ninh."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam tham gia các tổ chức quốc tế để thay thế vai trò quản lý của Nhà nước."
+        },
+        {
+          "key": "C",
+          "text": "Việc gia nhập các tổ chức quốc tế là nguyên nhân duy nhất đưa lại tăng trưởng kinh tế của Việt Nam."
+        },
+        {
+          "key": "D",
+          "text": "Đó là kết quả của quá trình chủ động hội nhập quốc tế toàn diện, từ khu vực đến toàn cầu, tạo môi trường thuận lợi cho phát triển."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Từ thành viên ASEAN (1995) đến thành viên Tổ chức Thương mại thế giới (2007), Việt Nam hội nhập ngày càng sâu rộng, thể hiện thành tựu đối ngoại của Đổi mới. Phương án C sai vì hội nhập là điều kiện thuận lợi chứ không phải nguyên nhân duy nhất.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-067",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Vị thế và vai trò của Việt Nam trên trường quốc tế trong thời kì Đổi mới được nâng lên, biểu hiện ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam đảm nhiệm thành công nhiều trọng trách tại Liên hợp quốc và các diễn đàn đa phương, được các đối tác đánh giá là thành viên có trách nhiệm, có tiếng nói trong nhiều vấn đề khu vực và quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam trở thành nước công nghiệp phát triển nhất châu Á."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam giữ vai trò quyết định mọi nghị quyết của Liên hợp quốc."
+        },
+        {
+          "key": "D",
+          "text": "Vị thế quốc tế của Việt Nam tăng lên nhờ không tham gia các tổ chức quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Thành tựu Đổi mới tạo nền tảng để Việt Nam đảm nhiệm các trọng trách quốc tế và nâng cao uy tín. Phương án B và C là những phát biểu nói quá, trái với thực tế.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-068",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Việt Nam nhiều lần đăng cai và chủ trì thành công các hội nghị quốc tế lớn, như Năm APEC hay các hội nghị cấp cao ASEAN, có ý nghĩa gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chứng tỏ Việt Nam đã trở thành nền kinh tế lớn nhất trong khu vực."
+        },
+        {
+          "key": "B",
+          "text": "Nâng cao uy tín và vai trò của Việt Nam, đồng thời tạo điều kiện để nước ta đóng góp vào việc xây dựng chương trình, định hướng hợp tác quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Cho thấy Việt Nam chỉ có thể phát triển nhờ sự giúp đỡ của bạn bè quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "Làm giảm bớt nghĩa vụ của Việt Nam đối với các tổ chức quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đăng cai các hội nghị đa phương lớn là minh chứng cho vị thế và năng lực của Việt Nam sau Đổi mới, đồng thời là cách chủ động tham gia định hình luật chơi. Phương án A nói quá quy mô nền kinh tế Việt Nam.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-069",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Việt Nam cử lực lượng tham gia hoạt động gìn giữ hoà bình của Liên hợp quốc phản ánh điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam đã từ bỏ chính sách quốc phòng để chuyển giao nhiệm vụ cho Liên hợp quốc."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam chỉ tham gia Liên hợp quốc trên danh nghĩa cho có."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam sẵn sàng cùng cộng đồng quốc tế duy trì hoà bình và ổn định, thể hiện tinh thần trách nhiệm, vị thế và uy tín ngày càng tăng của đất nước."
+        },
+        {
+          "key": "D",
+          "text": "Việt Nam nhờ Liên hợp quốc bảo đảm toàn bộ an ninh cho lãnh thổ của mình."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Tham gia lực lượng gìn giữ hoà bình Liên hợp quốc là bước phát triển mới trong hội nhập quốc tế về an ninh, thể hiện tinh thần trách nhiệm và vị thế của Việt Nam. Phương án A và D trái với nguyên tắc tự vệ và tự chủ quốc phòng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-070",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành tựu đối ngoại của công cuộc Đổi mới đã phục vụ trực tiếp cho sự phát triển kinh tế - xã hội của Việt Nam như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bằng việc xoá bỏ hoàn toàn sự phụ thuộc của nền kinh tế vào bên ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Bằng cách bắt buộc các nước đối tác cho Việt Nam vay ưu đãi không hoàn lại."
+        },
+        {
+          "key": "C",
+          "text": "Bằng việc đưa Việt Nam trở thành nước xuất khẩu duy nhất các mặt hàng nông sản."
+        },
+        {
+          "key": "D",
+          "text": "Bằng việc mở rộng thị trường, thu hút vốn đầu tư trực tiếp, viện trợ phát triển, công nghệ và kinh nghiệm quản lý của bên ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Ngoại giao phục vụ phát triển đã tranh thủ nguồn lực bên ngoài cho công nghiệp hoá, hiện đại hoá. Phương án A sai vì mở cửa làm tăng giao lưu, phụ thuộc lẫn nhau chứ không xoá bỏ quan hệ với bên ngoài.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Kinh tế"
+      ]
+    },
+    {
+      "id": "q-su-bai11-071",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa tổng quát của những thành tựu đối ngoại trong công cuộc Đổi mới đối với Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tạo môi trường quốc tế hoà bình, thuận lợi cho xây dựng đất nước, nâng cao vị thế của Việt Nam và mở rộng khả năng hợp tác nhiều mặt."
+        },
+        {
+          "key": "B",
+          "text": "Chấm dứt mọi tranh chấp, bất đồng còn tồn tại giữa Việt Nam với các nước."
+        },
+        {
+          "key": "C",
+          "text": "Bảo đảm cho Việt Nam không còn phải quan tâm tới quốc phòng, an ninh."
+        },
+        {
+          "key": "D",
+          "text": "Giúp Việt Nam xoá bỏ được khoảng cách phát triển so với các nước trong khu vực."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Thành tựu đối ngoại tạo điều kiện quốc tế thuận lợi cho phát triển và nâng cao vị thế đất nước. Các phương án còn lại tuyệt đối hoá ý nghĩa của thành tựu này, trái với đánh giá của SGK.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-072",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Quan hệ song phương của Việt Nam với các quốc gia trong thời kì Đổi mới có đặc điểm nổi bật nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam chỉ thiết lập quan hệ ngoại giao với các nước trong khu vực Đông Nam Á."
+        },
+        {
+          "key": "B",
+          "text": "Số quốc gia có quan hệ ngoại giao tăng lên rõ rệt, nhiều quan hệ được nâng cấp lên đối tác chiến lược, đối tác toàn diện, phát triển thực chất và ổn định."
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam duy trì quan hệ ngoại giao với rất ít quốc gia vì bị các nước xa lánh."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ quan hệ song phương của Việt Nam đều do một tổ chức quốc tế điều hành."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đường lối đa phương hoá, đa dạng hoá giúp Việt Nam mở rộng và làm sâu sắc hoá quan hệ với nhiều đối tác, kể cả các nước lớn. Phương án A và C trái với thực tế mạng lưới quan hệ ngoại giao rộng khắp của Việt Nam.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-073",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thách thức nào đối với Việt Nam trong quá trình hội nhập quốc tế thời kì Đổi mới được SGK và các văn kiện của Đảng chỉ ra?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hội nhập quốc tế hoàn toàn không mang lại rủi ro cho các nước đang phát triển."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam phải từ bỏ hội nhập kinh tế vì các cam kết quốc tế quá bất lợi."
+        },
+        {
+          "key": "C",
+          "text": "Nền kinh tế có độ mở lớn dễ chịu tác động từ biến động bên ngoài, năng lực cạnh tranh còn yếu và nguy cơ rơi vào bẫy thu nhập trung bình, kèm theo đó là các thách thức về giữ vững bản sắc văn hoá và an ninh phi truyền thống."
+        },
+        {
+          "key": "D",
+          "text": "Hội nhập quốc tế chỉ ảnh hưởng tới khu vực nông thôn, không liên quan tới thành thị."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Bên cạnh thành tựu, hội nhập quốc tế đặt ra thách thức về cạnh tranh, rủi ro bên ngoài, nguy cơ tụt hậu và \"bẫy thu nhập trung bình\". Phương án B sai vì Việt Nam chủ trương chủ động hội nhập chứ không rút lui.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hạn chế của Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-074",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc Việt Nam được bầu vào nhiều cơ quan quan trọng của Liên hợp quốc và các tổ chức quốc tế phản ánh điều gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam đã trở thành một trong những nước phát triển nhất trên thế giới."
+        },
+        {
+          "key": "B",
+          "text": "Các tổ chức quốc tế thay đổi nguyên tắc để ưu tiên tuyệt đối cho các nước nhỏ."
+        },
+        {
+          "key": "C",
+          "text": "Uy tín quốc tế của Việt Nam có được hoàn toàn nhờ mức đóng góp tài chính lớn."
+        },
+        {
+          "key": "D",
+          "text": "Cộng đồng quốc tế đánh giá cao vai trò, uy tín và khả năng đóng góp của Việt Nam - thành quả của công cuộc Đổi mới và đường lối đối ngoại đúng đắn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Vị thế quốc tế là kết quả của sức mạnh tổng hợp về kinh tế, chính trị, đối ngoại và sự tin cậy lẫn nhau, chứ không phải chỉ do đóng góp tài chính. Phương án A sai vì Việt Nam vẫn là nước đang phát triển.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-075",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Tác động trở lại của các thành tựu đối ngoại đối với những thành tựu kinh tế - xã hội của công cuộc Đổi mới được hiểu đúng như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đối ngoại chỉ là lĩnh vực phục vụ quảng bá, không ảnh hưởng tới kinh tế - xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Thành tựu đối ngoại làm suy giảm động lực phát triển bên trong của nền kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Mở rộng quan hệ quốc tế khiến Việt Nam không thể giữ vững ổn định chính trị - xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Môi trường quốc tế thuận lợi và nguồn lực bên ngoài được tranh thủ tiếp thêm điều kiện cho tăng trưởng kinh tế, cải thiện đời sống nhân dân và củng cố vị thế của chế độ."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đối ngoại và các thành tựu trong nước quan hệ qua lại: sức mạnh bên trong tạo vị thế bên ngoài, vị thế bên ngoài mở đường cho nguồn lực phục vụ phát triển bên trong. Ba phương án còn lại tách rời hoặc phủ nhận mối quan hệ đó.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-076",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học được coi là nền tảng, xuyên suốt của hơn 35 năm Đổi mới ở Việt Nam là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kiên định mục tiêu độc lập dân tộc gắn liền với chủ nghĩa xã hội, lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng."
+        },
+        {
+          "key": "B",
+          "text": "Lấy tốc độ tăng trưởng kinh tế làm mục tiêu duy nhất, mọi lĩnh vực khác đều phải phục tùng."
+        },
+        {
+          "key": "C",
+          "text": "Muốn đổi mới nhanh và triệt để thì phải từ bỏ vai trò lãnh đạo của Đảng Cộng sản."
+        },
+        {
+          "key": "D",
+          "text": "Học tập nguyên vẹn mô hình phát triển và thể chế của các nước phương Tây phát triển."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Bài học hàng đầu được tổng kết là nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội; các bài học khác đều triển khai từ định hướng đó. Phương án C và D trái hoàn toàn với nguyên tắc của Đổi mới.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-077",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học \"lấy dân làm gốc\" trong công cuộc Đổi mới được hiểu như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước ban hành chính sách rồi vận động nhân dân chấp hành một cách thụ động."
+        },
+        {
+          "key": "B",
+          "text": "Nhân dân là chủ thể của công cuộc Đổi mới; đường lối, chính sách phải xuất phát từ lợi ích và nguyện vọng chính đáng của nhân dân, dựa vào sức mạnh và tính sáng tạo của nhân dân."
+        },
+        {
+          "key": "C",
+          "text": "Thành tựu của Đổi mới là công lao riêng của đội ngũ cán bộ lãnh đạo các cấp."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ những tầng lớp có trình độ học vấn cao mới được tham gia bàn bạc việc nước."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đổi mới bắt đầu từ những sáng kiến của nông dân, doanh nghiệp và địa phương rồi được Đảng khái quát thành đường lối, chứng minh nhân dân là chủ thể và là nguồn lực của công cuộc Đổi mới. Phương án A và C trái với bài học dựa vào dân.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Dân chủ cơ sở",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-078",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học về đổi mới toàn diện, đồng bộ có trọng điểm được thể hiện như thế nào trong hơn 35 năm Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tiến hành cải cách đồng loạt, cùng tốc độ trên mọi lĩnh vực, không xác định khâu đột phá."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ đổi mới kinh tế, giữ nguyên mọi mặt của hệ thống chính trị và đời sống văn hoá - xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Đổi mới tư duy đi trước một bước, lấy đổi mới kinh tế làm trọng điểm, đồng thời đổi mới từng bước về chính trị, văn hoá, xã hội theo lộ trình vững chắc."
+        },
+        {
+          "key": "D",
+          "text": "Đổi mới trước hết và có ý nghĩa quyết định nhất ở lĩnh vực quốc phòng và an ninh."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đổi mới là toàn diện về mọi lĩnh vực nhưng có trọng điểm, trọng tâm là kinh tế, và phải đồng bộ để các cải cách hỗ trợ nhau. Phương án A không phù hợp vì Đổi mới có bước đi, có ưu tiên, không làm đồng loạt mọi việc.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-079",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao bài học kết hợp đổi mới kinh tế với đổi mới chính trị được rút ra từ thành tựu của công cuộc Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì đổi mới chính trị là trọng điểm, đổi mới kinh tế chỉ là nhiệm vụ phụ trợ."
+        },
+        {
+          "key": "B",
+          "text": "Vì đổi mới kinh tế và đổi mới chính trị là hai lĩnh vực tách biệt, không ảnh hưởng lẫn nhau."
+        },
+        {
+          "key": "C",
+          "text": "Vì Việt Nam chỉ có thể đổi mới kinh tế sau khi đã hoàn thành toàn bộ cải cách chính trị."
+        },
+        {
+          "key": "D",
+          "text": "Vì đổi mới kinh tế tạo tiền đề vật chất cho đổi mới chính trị, còn đổi mới chính trị với trọng tâm là đổi mới phương thức lãnh đạo của Đảng và quản lý của Nhà nước lại tháo gỡ rào cản cho kinh tế; làm lệch một mặt sẽ gây mất ổn định."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Bài học của Đổi mới là kết hợp chặt chẽ ngay từ đầu đổi mới kinh tế với đổi mới chính trị, lấy đổi mới kinh tế làm trọng điểm. Phương án A đảo ngược thứ tự ưu tiên, phương án B và C tách rời hai mặt của một quá trình.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-080",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung cơ bản của bài học kết hợp sức mạnh dân tộc với sức mạnh thời đại trong công cuộc Đổi mới là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phát huy nội lực của toàn dân tộc đồng thời tranh thủ nguồn lực bên ngoài và những điều kiện quốc tế thuận lợi do hội nhập mang lại."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ trông chờ vào nguồn vốn, viện trợ và chuyển giao công nghệ của các nước phát triển."
+        },
+        {
+          "key": "C",
+          "text": "Đóng cửa nền kinh tế để giữ vững bản sắc văn hoá và sự ổn định chính trị."
+        },
+        {
+          "key": "D",
+          "text": "Dùng nguồn lực bên ngoài để thay thế hoàn toàn cho nội lực của đất nước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Bài học nhất quán là phát huy cao độ nội lực, lấy nội lực làm quyết định, đồng thời kết hợp với ngoại lực thông qua hội nhập. Phương án B và D hạ thấp nhân tố quyết định là sức mạnh dân tộc.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-081",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học về phát huy sức mạnh đại đoàn kết toàn dân tộc được rút ra như thế nào từ thành tựu Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mọi cải cách chỉ cần sự đồng tình của giới doanh nhân và đội ngũ trí thức là đủ."
+        },
+        {
+          "key": "B",
+          "text": "Sự đồng thuận xã hội giữa Đảng, Nhà nước và nhân dân, giữa các giai cấp, tầng lớp, dân tộc, tôn giáo và kiều bào, là điều kiện quyết định để Đổi mới thành công."
+        },
+        {
+          "key": "C",
+          "text": "Đại đoàn kết chỉ là khẩu hiệu chính trị, không ảnh hưởng tới kết quả phát triển kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Ổn định chính trị - xã hội chỉ có được nhờ các biện pháp cưỡng chế của Nhà nước."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Công cuộc Đổi mới huy động được sức mạnh của toàn dân nên tạo được ổn định và động lực phát triển. Phương án C và D phủ nhận vai trò của đồng thuận xã hội, trái với thực tế được tổng kết.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Đại đoàn kết",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-082",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các nguyên nhân thắng lợi của công cuộc Đổi mới, nguyên nhân nào được khẳng định là nhân tố quyết định hàng đầu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự giúp đỡ không điều kiện của các nước xã hội chủ nghĩa trong thập niên 1980."
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam được thừa hưởng một nền kinh tế đã hiện đại từ trước khi tiến hành Đổi mới."
+        },
+        {
+          "key": "C",
+          "text": "Sự lãnh đạo đúng đắn, sáng tạo của Đảng với đường lối Đổi mới phù hợp thực tiễn và khả năng tổng kết, điều chỉnh kịp thời."
+        },
+        {
+          "key": "D",
+          "text": "Nguồn tài nguyên thiên nhiên dồi dào đủ bảo đảm cho tăng trưởng lâu dài của đất nước."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Truyền thống yêu nước, lao động cần cù của nhân dân và sự ủng hộ quốc tế là những nguyên nhân quan trọng, nhưng sự lãnh đạo của Đảng được khẳng định là nhân tố quyết định. Phương án A và B trái với bối cảnh khó khăn của Việt Nam trước năm 1986.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nguyên nhân thắng lợi",
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-083",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học về tổng kết thực tiễn và nghiên cứu lý luận trong quá trình Đổi mới được thể hiện như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đường lối đã ban hành thì giữ nguyên, không cần điều chỉnh theo diễn biến của thực tiễn."
+        },
+        {
+          "key": "B",
+          "text": "Việc sửa đổi chính sách do thị trường tự quyết định, Nhà nước không cần tổng kết thực tiễn."
+        },
+        {
+          "key": "C",
+          "text": "Nghiên cứu lý luận chỉ cần tiến hành sau khi đã hoàn thành công nghiệp hoá, hiện đại hoá."
+        },
+        {
+          "key": "D",
+          "text": "Đổi mới dựa trên tổng kết thực tiễn và nghiên cứu lý luận để bổ sung, hoàn thiện đường lối, kịp thời tháo gỡ vướng mắc do cơ chế cũ để lại."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Nhiều nội dung đường lối của Đảng được hình thành từ việc tổng kết các sáng kiến của địa phương, cơ sở và từ nghiên cứu lý luận, rồi nâng lên thành chủ trương chung. Hai phương án A và B phủ nhận vai trò của tổng kết thực tiễn.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-084",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạn chế nào thuộc về công tác xây dựng Đảng và quản lý nhà nước được chỉ ra trong quá trình Đổi mới ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tình trạng tham nhũng, lãng phí, quan liêu và sự suy thoái về tư tưởng chính trị, đạo đức, lối sống trong một bộ phận cán bộ, đảng viên diễn biến phức tạp."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước Việt Nam không ban hành được thêm văn bản pháp luật nào trong suốt thời kì Đổi mới."
+        },
+        {
+          "key": "C",
+          "text": "Đảng Cộng sản Việt Nam mất vai trò lãnh đạo kể từ khi kinh tế nhiều thành phần ra đời."
+        },
+        {
+          "key": "D",
+          "text": "Bộ máy nhà nước được tinh gọn ngay từ đầu nên không còn tình trạng quan liêu, xa dân."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Bên cạnh thành tựu, Đảng tự phê bình về các tệ nạn tham nhũng, lãng phí, quan liêu và suy thoái trong một bộ phận cán bộ, là nguy cơ cần kiên quyết đẩy lùi. Phương án C và D trái với thực tế và với chính đánh giá của Đảng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hạn chế của Đổi mới",
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-085",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạn chế về môi trường tự nhiên trong quá trình phát triển kinh tế thời kì Đổi mới được đánh giá như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việt Nam là quốc gia duy nhất trên thế giới không chịu tác động của biến đổi khí hậu."
+        },
+        {
+          "key": "B",
+          "text": "Tài nguyên bị khai thác quá mức, môi trường ở nhiều nơi bị ô nhiễm và suy giảm, ảnh hưởng tới chất lượng sống và sự phát triển bền vững."
+        },
+        {
+          "key": "C",
+          "text": "Vấn đề bảo vệ môi trường đã được giải quyết xong song song với tăng trưởng kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Ô nhiễm môi trường là vấn đề riêng của các nước công nghiệp phát triển, không liên quan tới Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Khai thác tài nguyên và tăng trưởng nhanh để lại hậu quả về môi trường, một hạn chế được nhận xét trong quá trình Đổi mới. Phương án A và D là những phát biểu phi thực tế.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hạn chế của Đổi mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-086",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiệm vụ về thể chế kinh tế được đặt ra cho giai đoạn tiếp tục đẩy mạnh Đổi mới là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quay trở lại cơ chế kế hoạch hoá tập trung, bao cấp để tăng cường quản lý."
+        },
+        {
+          "key": "B",
+          "text": "Xoá bỏ khu vực kinh tế có vốn đầu tư nước ngoài để bảo hộ sản xuất trong nước."
+        },
+        {
+          "key": "C",
+          "text": "Tiếp tục hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa, tháo gỡ rào cản để giải phóng và sử dụng hiệu quả mọi nguồn lực."
+        },
+        {
+          "key": "D",
+          "text": "Tạm dừng cải cách thể chế vì các hạn chế của nền kinh tế đã được khắc phục."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa là nhiệm vụ trọng tâm để tiếp tục giải phóng sức sản xuất. Phương án A và B là cách làm đi ngược lại đường lối Đổi mới.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Nhiệm vụ giai đoạn mới",
+        "Kinh tế",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-087",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung \"phát triển bền vững\" trong giai đoạn mới của công cuộc Đổi mới được hiểu đầy đủ nhất là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ưu tiên tuyệt đối tốc độ tăng trưởng, mọi vấn đề xã hội và môi trường sẽ giải quyết sau."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ chú trọng bảo vệ môi trường, chấp nhận hy sinh tăng trưởng kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "Phát triển bền vững là nhiệm vụ riêng của ngành tài nguyên và môi trường."
+        },
+        {
+          "key": "D",
+          "text": "Kết hợp chặt chẽ, hài hoà giữa phát triển kinh tế với phát triển văn hoá, thực hiện tiến bộ và công bằng xã hội, bảo vệ tài nguyên và môi trường cho các thế hệ sau."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Phát triển bền vững là sự kết hợp ba trụ cột kinh tế - xã hội - môi trường trong từng bước của Đổi mới. Phương án A và B đều tách rời, hy sinh một trong các mặt của sự phát triển.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Nhiệm vụ giai đoạn mới",
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-088",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nghĩa lịch sử của những thành tựu công cuộc Đổi mới đối với Việt Nam được đánh giá như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khẳng định đường lối Đổi mới của Đảng là đúng đắn, mở ra bước phát triển mới của cách mạng Việt Nam và củng cố niềm tin của nhân dân vào con đường đã lựa chọn."
+        },
+        {
+          "key": "B",
+          "text": "Chứng tỏ Việt Nam phải từ bỏ mục tiêu chủ nghĩa xã hội để có thể hội nhập quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Cho thấy Việt Nam đã kết thúc thời kì quá độ lên chủ nghĩa xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Đưa Việt Nam trở thành nước phát triển có thu nhập cao nhất khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Thành tựu Đổi mới chứng minh tính đúng đắn của đường lối, sức sống của chế độ và là cơ sở để tiếp tục đẩy mạnh đổi mới. Việt Nam vẫn đang trong thời kì quá độ nên phương án C và D sai.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-089",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học \"nắm vững ngọn cờ độc lập dân tộc và chủ nghĩa xã hội\" được vận dụng như thế nào trong công cuộc Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Độc lập dân tộc chỉ cần bảo vệ bằng sức mạnh quân sự, không liên quan tới phát triển kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Muốn xây dựng chủ nghĩa xã hội thì trước hết phải đóng cửa, không quan hệ với các nước tư bản chủ nghĩa."
+        },
+        {
+          "key": "C",
+          "text": "Mọi cải cách về kinh tế, chính trị, văn hoá đều nhằm giữ vững độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ, đồng thời phát triển đất nước theo định hướng xã hội chủ nghĩa, nâng cao đời sống nhân dân."
+        },
+        {
+          "key": "D",
+          "text": "Định hướng xã hội chủ nghĩa chỉ là khẩu hiệu tinh thần, không chi phối nội dung các chính sách kinh tế."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Độc lập dân tộc và chủ nghĩa xã hội là hai mặt gắn bó: giữ vững độc lập để phát triển theo định hướng xã hội chủ nghĩa, phát triển kinh tế - xã hội để củng cố nền độc lập thực sự. Phương án B trái với đường lối mở cửa, hội nhập.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-090",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-su-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Bài học về chủ động hội nhập quốc tế gắn với giữ vững độc lập, tự chủ được rút ra như thế nào từ thành tựu Đổi mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hội nhập quốc tế là chấp nhận mọi điều kiện của đối tác để nhanh chóng có vốn và công nghệ."
+        },
+        {
+          "key": "B",
+          "text": "Càng hội nhập sâu thì càng phải từ bỏ các nguyên tắc đối ngoại đã được lựa chọn."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ hợp tác với các nước có cùng thể chế chính trị để tránh mọi tác động về tư tưởng."
+        },
+        {
+          "key": "D",
+          "text": "Chủ động mở cửa, hội nhập để tiếp thu tinh hoa của nhân loại, đồng thời giữ vững độc lập, tự chủ, bảo vệ lợi ích quốc gia - dân tộc và bản sắc văn hoá, không hoà tan."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Bài học là kết hợp sức mạnh dân tộc với sức mạnh thời đại: hội nhập để phát triển nhưng không đánh mất độc lập, tự chủ và bản sắc. Phương án A và C đều cực đoan, hoặc nhượng bộ hoặc đóng cửa.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Đối ngoại",
+        "Lịch sử 12"
+      ]
+    },
+    {
+      "id": "q-su-bai11-091",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Nhờ công cuộc Đổi mới, kinh tế Việt Nam từng bước ra khỏi khủng hoảng, tổng sản phẩm trong nước tăng liên tục; từ một nước thường xuyên thiếu lương thực, Việt Nam đã trở thành một trong những nước xuất khẩu gạo hàng đầu thế giới.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 11) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đoạn tư liệu coi việc trở thành nước xuất khẩu gạo là một biểu hiện thành tựu về nông nghiệp của công cuộc Đổi mới."
+        },
+        {
+          "key": "B",
+          "text": "Theo tư liệu, kinh tế Việt Nam vẫn lâm vào khủng hoảng kéo dài, chưa có dấu hiệu phục hồi."
+        },
+        {
+          "key": "C",
+          "text": "Đoạn tư liệu cho rằng thành tựu lương thực chỉ có được nhờ mở rộng diện tích canh tác."
+        },
+        {
+          "key": "D",
+          "text": "Việc tổng sản phẩm trong nước tăng liên tục được tư liệu xem là biểu hiện của sự phát triển kinh tế thời kì Đổi mới."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "A) và D) đúng: tư liệu nêu xuất khẩu gạo và mức tăng tổng sản phẩm trong nước liên tục như những thành tựu kinh tế. B) sai vì tư liệu nói kinh tế đã từng bước ra khỏi khủng hoảng. C) sai vì tư liệu không giải thích nguyên nhân bằng diện tích canh tác.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai11-092",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Cơ cấu kinh tế ngành và cơ cấu thành phần kinh tế ở Việt Nam chuyển dịch theo hướng tăng tỉ trọng công nghiệp, xây dựng và dịch vụ, phát triển nền kinh tế nhiều thành phần.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 11) Những phát biểu nào sau đây phù hợp với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chuyển dịch cơ cấu ngành theo tư liệu nghĩa là thu hẹp và xoá bỏ vai trò của khu vực dịch vụ."
+        },
+        {
+          "key": "B",
+          "text": "Theo tư liệu, nhiều thành phần kinh tế cùng tồn tại và phát triển trong nền kinh tế Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Tư liệu khẳng định công nghiệp, xây dựng và dịch vụ là những khu vực có tỉ trọng tăng lên."
+        },
+        {
+          "key": "D",
+          "text": "Theo tư liệu, chuyển dịch cơ cấu kinh tế đồng nghĩa với việc xoá bỏ doanh nghiệp nhà nước."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "B) và C) đúng theo nội dung tư liệu về chuyển dịch cơ cấu ngành và cơ cấu thành phần. A) sai vì dịch vụ được nêu là khu vực tăng tỉ trọng. D) sai vì phát triển nhiều thành phần khác với xoá bỏ doanh nghiệp nhà nước.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Kinh tế",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai11-093",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Cùng với thành tựu kinh tế, dân chủ xã hội chủ nghĩa ở Việt Nam được mở rộng; nhân dân tham gia bàn bạc và giám sát những công việc chung ở thôn, bản, tổ dân phố, cơ quan và doanh nghiệp.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 11) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tư liệu phản ánh thành tựu về dân chủ xã hội chủ nghĩa, trong đó có dân chủ ở cơ sở."
+        },
+        {
+          "key": "B",
+          "text": "Theo tư liệu, nhân dân chỉ có nghĩa vụ chấp hành, không được bàn bạc việc chung."
+        },
+        {
+          "key": "C",
+          "text": "Việc nhân dân giám sát công việc chung ở thôn, bản, tổ dân phố được tư liệu coi là biểu hiện của quyền làm chủ."
+        },
+        {
+          "key": "D",
+          "text": "Theo tư liệu, mọi quyết định ở cơ sở đều do các doanh nghiệp tư nhân đứng ra quyết định."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A) và C) đúng: mở rộng dân chủ và giám sát của nhân dân ở cơ sở là nội dung thành tựu mà tư liệu nêu. B) sai vì tư liệu nói nhân dân được bàn bạc và giám sát. D) sai vì tư liệu không gán quyền quyết định cho doanh nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Dân chủ cơ sở",
+        "Chính trị - xã hội",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai11-094",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Công cuộc Đổi mới thu được thành tựu được cộng đồng quốc tế đánh giá cao trong lĩnh vực xoá đói, giảm nghèo, nâng cao mức sống và khả năng tiếp cận các dịch vụ xã hội cơ bản của nhân dân.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 11) Những phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Theo tư liệu, thành tựu xoá đói, giảm nghèo của Việt Nam không nhận được sự quan tâm của bên ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Tư liệu coi việc nâng cao mức sống của nhân dân là một nội dung thành tựu xã hội của Đổi mới."
+        },
+        {
+          "key": "C",
+          "text": "Theo tư liệu, khả năng tiếp cận dịch vụ xã hội cơ bản là một thước đo thành tựu về đời sống."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu cho rằng Đổi mới chỉ tạo thành tựu về kinh tế, không liên quan tới lĩnh vực xã hội."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "B) và C) đúng vì mức sống và khả năng tiếp cận dịch vụ cơ bản được tư liệu nêu thành thành tựu xã hội. A) sai vì tư liệu nói cộng đồng quốc tế đánh giá cao. D) sai vì xoá đói giảm nghèo thuộc lĩnh vực xã hội.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Xoá đói giảm nghèo",
+        "Chính trị - xã hội",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai11-095",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Trong thời kì Đổi mới, khoa học và công nghệ được xác định là quốc sách hàng đầu; nhiều tiến bộ về giống cây trồng, công nghệ thông tin, viễn thông và y học đã được ứng dụng trong sản xuất và đời sống.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 11) Những phát biểu nào sau đây phù hợp với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Theo tư liệu, khoa học và công nghệ là nhiệm vụ phụ, chỉ được quan tâm sau khi kinh tế đã phát triển."
+        },
+        {
+          "key": "B",
+          "text": "Tư liệu nêu ứng dụng công nghệ thông tin và viễn thông như một biểu hiện thành tựu khoa học - công nghệ của Đổi mới."
+        },
+        {
+          "key": "C",
+          "text": "Theo tư liệu, các tiến bộ khoa học ở Việt Nam chỉ dừng trong phòng thí nghiệm, chưa đi vào đời sống."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu coi việc tạo ra và ứng dụng giống cây trồng mới là kết quả của khoa học - công nghệ phục vụ sản xuất."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "B) và D) đúng: tư liệu liệt kê công nghệ thông tin, viễn thông và giống cây trồng như những thành tựu được ứng dụng. A) sai vì tư liệu khẳng định khoa học - công nghệ là quốc sách hàng đầu. C) sai vì các tiến bộ đã được ứng dụng trong sản xuất và đời sống.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Khoa học - công nghệ",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai11-096",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Công cuộc Đổi mới giúp Việt Nam phá thế bị bao vây, cấm vận, mở rộng quan hệ với nhiều quốc gia và tổ chức quốc tế, nâng cao vị thế của đất nước trên trường quốc tế.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 11) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Theo tư liệu, thành tựu đối ngoại góp phần nâng cao vị thế quốc tế của Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Tư liệu cho rằng Việt Nam mở rộng quan hệ mà không cần thiết lập quan hệ với các tổ chức quốc tế."
+        },
+        {
+          "key": "C",
+          "text": "Theo tư liệu, thế bị bao vây, cấm vận đã bị phá bỏ nhờ những chuyển biến của đất nước thời kì Đổi mới."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu khẳng định Việt Nam chỉ thiết lập quan hệ với các nước trong khu vực Đông Nam Á."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A) và C) đúng theo nội dung tư liệu về phá thế bao vây, cấm vận và nâng cao vị thế. B) sai vì tư liệu nói mở rộng quan hệ với nhiều tổ chức quốc tế. D) sai vì phạm vi quan hệ được nêu là nhiều quốc gia, không chỉ Đông Nam Á.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Thành tựu Đổi mới",
+        "Đối ngoại",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai11-097",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Kết hợp chặt chẽ ngay từ đầu đổi mới kinh tế với đổi mới chính trị, lấy đổi mới kinh tế làm trọng điểm, đồng thời đổi mới chính trị từng bước.\" (Nguồn: Cương lĩnh xây dựng đất nước trong thời kì quá độ lên chủ nghĩa xã hội, bổ sung và phát triển năm 2011) Những phát biểu nào sau đây đúng với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Theo tư liệu, đổi mới chính trị nhất thiết phải hoàn thành trước khi bắt đầu đổi mới kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Tư liệu xác định đổi mới kinh tế là trọng điểm của công cuộc Đổi mới."
+        },
+        {
+          "key": "C",
+          "text": "Theo tư liệu, đổi mới kinh tế và đổi mới chính trị được kết hợp chặt chẽ ngay từ đầu."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu coi đổi mới chính trị là việc không cần tiến hành ở Việt Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "B) và C) đúng: tư liệu nêu đổi mới kinh tế là trọng điểm và hai mặt kinh tế - chính trị được kết hợp ngay từ đầu. A) sai vì tư liệu không đặt điều kiện chính trị phải xong trước. D) sai vì tư liệu chủ trương đổi mới chính trị từng bước.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Chính trị - xã hội",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai11-098",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Các bài học kinh nghiệm của công cuộc Đổi mới đều nhấn mạnh vai trò chủ thể của nhân dân và sức mạnh của khối đại đoàn kết toàn dân tộc.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 11) Những phát biểu nào sau đây phù hợp với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Theo tư liệu, nhân dân chỉ là đối tượng thụ hưởng thành quả, không phải chủ thể của Đổi mới."
+        },
+        {
+          "key": "B",
+          "text": "Tư liệu coi đại đoàn kết toàn dân tộc là nguồn sức mạnh làm nên thành tựu của Đổi mới."
+        },
+        {
+          "key": "C",
+          "text": "Theo tư liệu, thành tựu Đổi mới hoàn toàn bắt nguồn từ sự giúp đỡ của quốc tế, không liên quan tới nhân dân trong nước."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu phản ánh bài học lấy dân làm gốc trong quá trình tiến hành công cuộc Đổi mới."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "B) và D) đúng: vai trò chủ thể của nhân dân và sức mạnh đại đoàn kết chính là nội dung bài học lấy dân làm gốc. A) và C) sai vì phủ nhận vai trò chủ thể của nhân dân mà tư liệu đã nhấn mạnh.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Đại đoàn kết",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai11-099",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Bên cạnh những thành tựu to lớn, nền kinh tế nước ta phát triển chưa tương xứng với tiềm năng; chất lượng tăng trưởng, hiệu quả và sức cạnh tranh còn thấp; một số vấn đề văn hoá - xã hội và môi trường bức xúc chậm được giải quyết.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 11) Những phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Theo tư liệu, nền kinh tế Việt Nam đã phát triển đúng bằng tiềm năng sẵn có của mình."
+        },
+        {
+          "key": "B",
+          "text": "Tư liệu cho rằng các vấn đề xã hội và môi trường ở Việt Nam đã được giải quyết ổn thoả."
+        },
+        {
+          "key": "C",
+          "text": "Theo tư liệu, chất lượng tăng trưởng và sức cạnh tranh của kinh tế Việt Nam còn là hạn chế cần khắc phục."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu đặt thành tựu cạnh hạn chế, cho thấy quá trình Đổi mới còn phải tiếp tục khắc phục yếu kém."
+        }
+      ],
+      "correctAnswer": [
+        "C",
+        "D"
+      ],
+      "explanation": "C) và D) đúng vì tư liệu chỉ rõ hạn chế về chất lượng, hiệu quả, sức cạnh tranh và các vấn đề xã hội, môi trường chậm được giải quyết. A) và B) trái trực tiếp với nội dung tư liệu.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Hạn chế của Đổi mới",
+        "Kinh tế",
+        "Đúng – sai"
+      ]
+    },
+    {
+      "id": "q-su-bai11-100",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-su-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho đoạn tư liệu sau đây: \"Những thành tựu của hơn 35 năm Đổi mới khẳng định đường lối đổi mới của Đảng là đúng đắn, mở ra bước phát triển mới của đất nước; yêu cầu đặt ra là phải tiếp tục đẩy mạnh toàn diện, đồng bộ công cuộc Đổi mới.\" (Nguồn: SGK Lịch sử 12 – Kết nối tri thức với cuộc sống, Bài 11) Những phát biểu nào sau đây phù hợp với đoạn tư liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Theo tư liệu, thành tựu Đổi mới chứng tỏ Việt Nam đã kết thúc thời kì quá độ lên chủ nghĩa xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Tư liệu cho rằng có thể dừng công cuộc Đổi mới vì mọi mục tiêu đã hoàn thành."
+        },
+        {
+          "key": "C",
+          "text": "Theo tư liệu, thành tựu Đổi mới là thực tiễn khẳng định tính đúng đắn của đường lối đổi mới."
+        },
+        {
+          "key": "D",
+          "text": "Tư liệu nêu yêu cầu tiếp tục đẩy mạnh đổi mới toàn diện và đồng bộ trong giai đoạn mới."
+        }
+      ],
+      "correctAnswer": [
+        "C",
+        "D"
+      ],
+      "explanation": "C) và D) đúng: thành tựu có ý nghĩa khẳng định đường lối đúng đắn và đặt ra yêu cầu tiếp tục đổi mới toàn diện, đồng bộ. A) sai vì Việt Nam vẫn đang trong thời kì quá độ; B) sai vì tư liệu yêu cầu đẩy mạnh chứ không dừng lại.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Bài học Đổi mới",
+        "Thành tựu Đổi mới",
+        "Đúng – sai"
+      ]
+    }
+  ]
+}

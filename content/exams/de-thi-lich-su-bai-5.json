@@ -4,6 +4,7 @@
   "slug": "de-on-tap-lich-su-bai-5-cong-dong-asean",
   "description": "Bộ câu hỏi bám sát Bài 5 Lịch sử 12: ý tưởng, ba trụ cột của Cộng đồng ASEAN, Cộng đồng Kinh tế ASEAN và tầm nhìn đến 2025.",
   "subject": "lich-su",
+  "grade": 12,
   "type": "TOPIC_TEST",
   "durationMinutes": 90,
   "totalScore": 108,
@@ -3560,12 +3561,12 @@
       "id": "q-su-bai5-102",
       "partName": "Phần II. Trắc nghiệm đúng – sai",
       "topic": "topic-su-bai-5",
-      "type": "MULTIPLE_CHOICE",
+      "type": "SINGLE_CHOICE",
       "content": "Cho đoạn tư liệu sau đây: “Trong những năm 1990, ASEAN đã được biết đến nhiều hơn với việc biến nó từ một tổ chức hợp tác chỉ bao gồm 6 trong tổng số 10 nước Đông Nam Á, thành một tổ chức hợp tác khu vực duy nhất của tất cả các quốc gia Đông Nam Á. Với việc xây dựng thành công Cộng đồng ASEAN (AC) dựa trên cơ sở Hiến chương ASEAN, cùng những phát triển nhanh và sâu sắc trong quan hệ với các nước lớn, vị thế quốc tế của ASEAN ngày càng được nâng cao chưa từng có.” (Trần Xuân Hiệp, Trương Công Vĩnh Khanh: Cộng đồng ASEAN: 55 năm hình thành và phát triển (1967 – 2022), Nxb. Thông tin và Truyền thông, 2022, tr.289)",
       "options": [
         {
           "key": "A",
-          "text": "Đoạn tư liệu tđề cập đến thách thức và triển vọng của Cộng đồng ASEAN sau năm 2015."
+          "text": "Đoạn tư liệu đề cập đến thách thức và triển vọng của Cộng đồng ASEAN sau năm 2015."
         },
         {
           "key": "B",

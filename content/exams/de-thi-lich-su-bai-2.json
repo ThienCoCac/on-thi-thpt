@@ -4,6 +4,7 @@
   "slug": "de-on-tap-lich-su-bai-2-trat-tu-the-gioi-trong-chien-tranh-lanh",
   "description": "Bộ câu hỏi bám sát Bài 2 Lịch sử 12: trật tự hai cực Ianta, quan hệ Đông – Tây và những biểu hiện của Chiến tranh lạnh.",
   "subject": "lich-su",
+  "grade": 12,
   "type": "TOPIC_TEST",
   "durationMinutes": 90,
   "totalScore": 109,
@@ -3706,7 +3707,7 @@
       "id": "q-su-bai2-106",
       "partName": "Phần II. Trắc nghiệm đúng – sai",
       "topic": "topic-su-bai-2",
-      "type": "MULTIPLE_CHOICE",
+      "type": "SINGLE_CHOICE",
       "content": "Cho bảng thông tin sau đây: Thời gian Nội dung 1945 - Hội nghị I-an-ta (Liên Xô) và Hội nghị Pốtxđam (Đức) được tổ chức. - Liên hợp quốc thành lập. 1947 Mỹ phát động Chiến tranh lạnh chống Liên Xô. 1949 - Cách mạng Trung Quốc thành công, Cộng hòa nhân dân Trung Hoa ra đời. - Tổ chức Hiệp ước Bắc Đại Tây Dương được thành lập. 1955 Tổ chức Hiệp ước Vác-sa-va được thành lập. 1989 Liên Xô và Mỹ tuyên bố chấm dứt Chiến tranh lạnh. 1991 Liên Xô sụp đổ.",
       "options": [
         {
@@ -3780,7 +3781,7 @@
       "id": "q-su-bai2-108",
       "partName": "Phần II. Trắc nghiệm đúng – sai",
       "topic": "topic-su-bai-2",
-      "type": "MULTIPLE_CHOICE",
+      "type": "SINGLE_CHOICE",
       "content": "Cho đoạn tư liệu sau đây: “Vào thập niên 1980, mối quan hệ nồng ấm giữa Tổng thống Mỹ Ri-gân và nhà lãnh đạo Liên Xô Goóc-ba chốp đã giúp giảm dần tình trạng căng thẳng của Chiến tranh lạnh. Năm 1987, hai nhà lãnh đạo đã đồng ý huỷ bỏ tên lửa hạt nhân tầm trung. Năm 1989, Goóc-ba-chốp cho phép các quốc gia xã hội chủ nghĩa ở Đông Âu bầu ra chính phủ dân chủ, và đến năm 1991, Liên Xô tan rã thành 15 nước cộng hòa độc lập.” (King Fisher: Bách khoa thư lịch sử (Nguyễn Đức Tĩnh và Ngô Minh Châu dịch), Nxb. Thế giới, Hà Nội, 2016, tr.437)",
       "options": [
         {
@@ -3789,7 +3790,7 @@
         },
         {
           "key": "B",
-          "text": "Sự kiện hai nhà lãnh đạo Liên Xô và Mỹ đồng ý hủy bỏ tên lửa hạt nhân tầm trung (1987) chứng tỏ quá trình phi hạt nhân hóa của hai nước bắt đầu diễn ra."
+          "text": "Sự kiện hai nhà lãnh đạo Liên Xô và Mỹ đồng ý hủy bỏ tên lửa hạt nhân tầm trung (1987) chứng tỏ hai siêu cường đã từ bỏ hoàn toàn vũ khí hạt nhân."
         },
         {
           "key": "C",

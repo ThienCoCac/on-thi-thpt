@@ -1,0 +1,1427 @@
+{
+  "id": "de-dia-12-bai-24",
+  "title": "Đề ôn tập Địa lí 12 – Bài 24: Khai thác thế mạnh ở Trung du và miền núi phía Bắc",
+  "slug": "de-dia-12-bai-24",
+  "description": "Đề ôn tập 40 câu theo Bài 24, khai thác thế mạnh tổng hợp của Trung du và miền núi phía Bắc: khoáng sản và công nghiệp nặng, thuỷ điện, cây công nghiệp cùng cây ăn quả, chăn nuôi gia súc lớn, lâm nghiệp và du lịch; đi sâu vào hạn chế về thiên tai, hạ tầng, xã hội và các định hướng phát triển bền vững.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B24",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b24-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Vị trí địa lí",
+        "Trung du và miền núi phía Bắc"
+      ],
+      "content": "Nhận định nào sau đây đúng với vị trí địa lí và phạm vi lãnh thổ của Trung du và miền núi phía Bắc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vùng chỉ gồm các tỉnh đồng bằng, không tiếp giáp với nước láng giềng nào."
+        },
+        {
+          "key": "B",
+          "text": "Vùng có lãnh thổ rộng lớn ở phía bắc của Tổ quốc, tiếp giáp với Trung Quốc và Lào."
+        },
+        {
+          "key": "C",
+          "text": "Vùng nằm hoàn toàn trong miền khí hậu phía Nam, nóng ẩm quanh năm."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ lãnh thổ của vùng đều có đường giáp biển nên rất thuận lợi để xuất khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Trung du và miền núi phía Bắc là vùng có quy mô diện tích lớn, nằm ở phía bắc của cả nước và có đường biên giới trên bộ với Trung Quốc và Lào; đây là lợi thế để mở rộng trao đổi hàng hoá, hợp tác đầu tư qua các cửa khẩu."
+    },
+    {
+      "id": "dia12-b24-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Địa hình",
+        "Thế mạnh tự nhiên"
+      ],
+      "content": "Địa hình của Trung du và miền núi phía Bắc có đặc điểm nổi bật nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ yếu là đồng bằng châu thổ rộng, thấp và khá bằng phẳng."
+        },
+        {
+          "key": "B",
+          "text": "Địa hình thấp dần từ tây sang đông, không có dãy núi cao."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ vận theo một hướng duy nhất là đông bắc – tây nam."
+        },
+        {
+          "key": "D",
+          "text": "Nhiều dãy núi cao, bị cắt xẻ mạnh, chạy theo hai hướng chủ yếu là tây bắc – đông nam và hướng vòng cung."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Vùng nổi bật với các dải núi cao bị chia cắt mạnh theo hai hướng: tây bắc – đông nam (như dãy Hoàng Liên Sơn) và hướng vòng cung ở phía đông; đây là cơ sở tự nhiên tạo nên thế mạnh về thuỷ điện, khoáng sản và lâm nghiệp."
+    },
+    {
+      "id": "dia12-b24-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Địa hình",
+        "Núi cao"
+      ],
+      "content": "Đỉnh núi cao nhất của Trung du và miền núi phía Bắc là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phan Xi Păng, thuộc dãy Hoàng Liên Sơn."
+        },
+        {
+          "key": "B",
+          "text": "Ngọc Linh, đỉnh núi cao thuộc khu vực phía nam của cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Một đỉnh núi nằm trên dãy núi hướng vòng cung ở phía đông của vùng."
+        },
+        {
+          "key": "D",
+          "text": "Một đỉnh núi lửa đang hoạt động giữa đồng bằng sông Hồng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Phan Xi Păng trên dãy Hoàng Liên Sơn là đỉnh núi cao nhất của vùng và cũng là đỉnh cao của cả nước, tạo điều kiện phát triển du lịch thể thao, nghỉ dưỡng núi cao."
+    },
+    {
+      "id": "dia12-b24-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Sông ngòi",
+        "Tiềm năng thuỷ điện"
+      ],
+      "content": "Sông ngòi của Trung du và miền núi phía Bắc có đặc điểm nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phần lớn các sông đều ngắn, chảy thẳng ra biển theo hướng đông – tây."
+        },
+        {
+          "key": "B",
+          "text": "Mạng lưới sông ngòi thưa thớt, tổng lượng nước nhỏ nên hầu như không có tiềm năng thuỷ điện."
+        },
+        {
+          "key": "C",
+          "text": "Nhiều sông chảy theo hai hướng của địa hình là tây bắc – đông nam và vòng cung; chế độ nước phân mùa rõ rệt và có tiềm năng thuỷ điện đáng kể."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ sông suối của vùng đều đổ vào hệ thống sông Mê Công."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Sông ngòi của vùng phân bố theo hai hướng địa hình, lưu lượng lớn và chênh lệch mùa nước rõ rệt; chính mạng lưới sông suối với độ dốc cao tạo nên tiềm năng thuỷ điện lớn, tiêu biểu là hệ thống sông Đà."
+    },
+    {
+      "id": "dia12-b24-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Khai khoáng",
+        "Than đá"
+      ],
+      "content": "Than đá của Trung du và miền núi phía Bắc có đặc điểm nổi bật nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ yếu là than an-tra-xít, nhiệt lượng cao, là nguồn nhiên liệu quan trọng cho phát điện, luyện kim và công nghiệp hoá chất."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ là than nâu có trữ lượng không đáng kể nên ít được khai thác."
+        },
+        {
+          "key": "C",
+          "text": "Than chỉ phân bố rải rác ở vùng ven biển, không gắn với công nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "Phần lớn than sử dụng trong vùng phải nhập từ nước ngoài."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Vùng là kho than an-tra-xít với trữ lượng lớn, cung cấp nhiên liệu cho nhiệt điện, luyện kim, hoá chất và một phần cho xuất khẩu; đi kèm là yêu cầu xử lý môi trường ở các khu vực khai thác."
+    },
+    {
+      "id": "dia12-b24-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Khai khoáng",
+        "Kim loại màu"
+      ],
+      "content": "Phát biểu nào sau đây đúng về khoáng sản thiếc của Trung du và miền núi phía Bắc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiếc là khoáng sản phi kim loại, dùng làm nguyên liệu sản xuất phân bón."
+        },
+        {
+          "key": "B",
+          "text": "Thiếc là kim loại màu, phân bố ở một số mỏ phía bắc của vùng và là nguyên liệu cho công nghiệp điện tử, hàn, hợp kim."
+        },
+        {
+          "key": "C",
+          "text": "Thiếc của vùng chỉ tồn tại ở dạng sa khoáng ven biển nên không có khả năng khai thác."
+        },
+        {
+          "key": "D",
+          "text": "Vùng không có thiếc, mọi nhu cầu đều phải nhập khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Thiếc thuộc nhóm kim loại màu, là thế mạnh khai khoáng ở phía bắc của vùng; khai thác thiếc cần đi đôi với chế biến và kiểm soát ô nhiễm tại khu mỏ."
+    },
+    {
+      "id": "dia12-b24-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Khai khoáng",
+        "Hoá chất"
+      ],
+      "content": "Quặng apatit của Trung du và miền núi phía Bắc có giá trị kinh tế chủ yếu vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "đây là quặng sắt, cung cấp nguyên liệu cho các nhà máy luyện gang, thép."
+        },
+        {
+          "key": "B",
+          "text": "đây là khoáng sản phi kim loại, nguyên liệu quan trọng để sản xuất phân lân phục vụ nhu cầu phân bón của sản xuất nông nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "đây là nguồn năng lượng hoá thạch có thể thay thế cho than đá."
+        },
+        {
+          "key": "D",
+          "text": "apatit chỉ có ý nghĩa làm vật liệu xây dựng, không dùng trong nông nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Apatit là khoáng sản phi kim loại dùng sản xuất phân lân, gắn với công nghiệp hoá chất của vùng; việc khai thác và tuyển quặng phải đi cùng xử lý môi trường nước, chất thải mỏ."
+    },
+    {
+      "id": "dia12-b24-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Khai khoáng",
+        "Công nghiệp luyện kim"
+      ],
+      "content": "Nhóm khoáng sản nào sau đây tạo cơ sở quan trọng để phát triển công nghiệp luyện kim màu và hoá chất ở Trung du và miền núi phía Bắc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Than, dầu khí, khí thiên nhiên."
+        },
+        {
+          "key": "B",
+          "text": "Bô-xít, manhetit, crôm."
+        },
+        {
+          "key": "C",
+          "text": "Đồng, niken, thiếc, kẽm – chì, cùng với apatit và quặng sắt."
+        },
+        {
+          "key": "D",
+          "text": "Cao lanh, đá vôi, sét làm gạch."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Sự kết hợp giữa các mỏ kim loại màu, apatit và quặng sắt với nguồn thuỷ điện dồi dào tại chỗ là cơ sở để phát triển luyện kim và hoá chất – hai nhóm ngành được xem là thế mạnh công nghiệp của vùng."
+    },
+    {
+      "id": "dia12-b24-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Chăn nuôi gia súc lớn",
+        "Kĩ năng tính toán"
+      ],
+      "content": "**Bảng số liệu đàn trâu (nghìn con):**\n\n- Trung du và miền núi phía Bắc: 1 300,0; Cả nước: 2 150,0\n\n*Nguồn: Niên giám thống kê Việt Nam.*\n\nVới bảng số liệu trên, tỉ trọng đàn trâu của vùng so với cả nước là bao nhiêu phần trăm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60,5%."
+        },
+        {
+          "key": "B",
+          "text": "39,5%."
+        },
+        {
+          "key": "C",
+          "text": "75,2%."
+        },
+        {
+          "key": "D",
+          "text": "48,6%."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Tỉ trọng = đàn trâu của vùng chia đàn trâu cả nước rồi nhân 100: 1 300,0 : 2 150,0 = 0,6047; 0,6047 x 100 = 60,5% (làm tròn). Kết quả cho thấy vùng giữ vai trò quan trọng trong đàn trâu cả nước."
+    },
+    {
+      "id": "dia12-b24-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thuỷ điện",
+        "Thế mạnh tự nhiên"
+      ],
+      "content": "Vì sao Trung du và miền núi phía Bắc có tiềm năng thuỷ điện lớn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mạng lưới sông suối dày đặc, lưu lượng nước lớn, lại có độ chênh địa hình giữa thượng lưu và hạ lưu nên tổng thế năng của dòng chảy cao."
+        },
+        {
+          "key": "B",
+          "text": "Sông dài, chảy chậm trên đồng bằng nên dễ xây dựng nhà máy công suất lớn."
+        },
+        {
+          "key": "C",
+          "text": "Mưa nhiều quanh năm nên các hồ chứa không cần vận hành theo mùa."
+        },
+        {
+          "key": "D",
+          "text": "Nhu cầu dùng điện của vùng rất thấp nên mọi công trình đều đủ cung cấp."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Tiềm năng thuỷ điện phụ thuộc vào lưu lượng nước và độ dốc lòng sông; địa hình núi cao chia cắt tạo chênh lệch lớn giữa thượng lưu và hạ lưu, là điều kiện thuận lợi để xây dựng các nhà máy thuỷ điện công suất đáng kể."
+    },
+    {
+      "id": "dia12-b24-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thuỷ điện",
+        "Công nghiệp"
+      ],
+      "content": "Khai thác tiềm năng thuỷ điện của Trung du và miền núi phía Bắc có ý nghĩa quan trọng nhất đối với công nghiệp ở điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ có ý nghĩa cấp nước tưới, hầu như không đóng góp về điện."
+        },
+        {
+          "key": "B",
+          "text": "Buộc vùng phải nhập khẩu điện trong suốt mùa khô."
+        },
+        {
+          "key": "C",
+          "text": "Tạo nguồn điện tại chỗ với sản lượng lớn, là lợi thế thu hút các ngành công nghiệp tiêu thụ nhiều điện năng như luyện kim, hoá chất."
+        },
+        {
+          "key": "D",
+          "text": "Làm giảm tỉ trọng ngành công nghiệp trong cơ cấu kinh tế của vùng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Nguồn điện rẻ tại chỗ là điều kiện để hình thành các ngành công nghiệp nặng tiêu tốn điện năng, đồng thời thuỷ điện của vùng còn góp phần cung cấp điện cho hệ thống điện quốc gia."
+    },
+    {
+      "id": "dia12-b24-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Cây công nghiệp",
+        "Nông nghiệp"
+      ],
+      "content": "Cây công nghiệp lâu năm được coi là thế mạnh đặc trưng của Trung du và miền núi phía Bắc là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cà phê vối và hồ tiêu."
+        },
+        {
+          "key": "B",
+          "text": "chè, với các vùng nguyên liệu tập trung ở vùng núi và vùng trung du."
+        },
+        {
+          "key": "C",
+          "text": "cao su và điều."
+        },
+        {
+          "key": "D",
+          "text": "dừa và bông."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Chè là cây công nghiệp lâu năm đặc trưng của vùng, phát triển thành các vùng nguyên liệu tập trung; bên cạnh đó vùng còn có cà phê và nhiều loại cây ăn quả, rau hoa ôn đới và á nhiệt đới."
+    },
+    {
+      "id": "dia12-b24-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Khí hậu",
+        "Cây ăn quả"
+      ],
+      "content": "Lợi thế khí hậu của Trung du và miền núi phía Bắc đối với nông nghiệp hàng hoá thể hiện ở chỗ",
+      "options": [
+        {
+          "key": "A",
+          "text": "nóng ẩm quanh năm nên chỉ phát triển được cây nhiệt đới."
+        },
+        {
+          "key": "B",
+          "text": "hầu như không chịu ảnh hưởng của thiên tai nên chi phí sản xuất thấp."
+        },
+        {
+          "key": "C",
+          "text": "lượng mưa phân phối đều trong năm nên không cần công trình thuỷ lợi."
+        },
+        {
+          "key": "D",
+          "text": "có mùa đông lạnh và nhiều vùng núi cao nên có thể phát triển rau, hoa, quả ôn đới và sản phẩm trái vụ, tạo giá trị kinh tế cao."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Khí hậu có mùa đông lạnh cùng hệ thống núi cao, trung bình và cao nguyên tạo tính đa dạng về sinh khí hậu, giúp vùng phát triển cây ôn đới, rau hoa mát và trái vụ – lợi thế cạnh tranh hiếm có so với các vùng khác."
+    },
+    {
+      "id": "dia12-b24-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nông nghiệp hàng hoá",
+        "Phát triển bền vững"
+      ],
+      "content": "Để nâng cao giá trị sản phẩm cây công nghiệp và cây ăn quả, hướng nào sau đây phù hợp nhất đối với Trung du và miền núi phía Bắc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xây dựng mã số vùng trồng, liên kết với doanh nghiệp chế biến, đẩy mạnh chế biến sâu và phát triển du lịch nông nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "Tăng diện tích bằng cách mở rộng canh tác trên đất dốc và rừng đầu nguồn."
+        },
+        {
+          "key": "C",
+          "text": "Tăng mạnh sử dụng phân hoá học và thuốc bảo vệ thực vật để nâng sản lượng."
+        },
+        {
+          "key": "D",
+          "text": "Bán sản phẩm tươi là chủ yếu, hạn chế chế biến để giảm đầu tư."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Nâng cao chất lượng và giá trị gắn với mã số vùng trồng, chế biến sâu, xây dựng thương hiệu và liên kết chuỗi là hướng đi bền vững, đồng thời mở thêm sản phẩm du lịch nông nghiệp."
+    },
+    {
+      "id": "dia12-b24-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chăn nuôi",
+        "Gia súc lớn"
+      ],
+      "content": "Con trâu có vị trí quan trọng trong chăn nuôi của Trung du và miền núi phía Bắc chủ yếu vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "thịt trâu là mặt hàng xuất khẩu duy nhất mang lại nguồn thu lớn cho vùng."
+        },
+        {
+          "key": "B",
+          "text": "trâu phù hợp với khí hậu lạnh ẩm, địa hình dốc và tập quán sản xuất của đồng bào các dân tộc, đồng thời cung cấp sức kéo và phân bón cho sản xuất nông nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "trâu chỉ được nuôi để lấy sữa, không có giá trị về sức kéo."
+        },
+        {
+          "key": "D",
+          "text": "trâu cần đồng cỏ bằng phẳng rộng lớn vốn sẵn có ở vùng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Trâu là gia súc lớn thích nghi tốt với khí hậu lạnh ẩm và địa hình dốc, gắn với tập quán của nhiều dân tộc; trước đây trâu còn là nguồn sức kéo chủ yếu, nay được mở rộng theo hướng lấy thịt và sữa."
+    },
+    {
+      "id": "dia12-b24-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chăn nuôi",
+        "Chuyển dịch phương thức"
+      ],
+      "content": "Chuyển biến theo hướng hàng hoá trong chăn nuôi gia súc lớn của Trung du và miền núi phía Bắc thể hiện ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng đàn bằng cách mở rộng khai thác rừng làm đồng cỏ."
+        },
+        {
+          "key": "B",
+          "text": "thu hẹp quy mô đàn vì thị trường trong nước không còn nhu cầu."
+        },
+        {
+          "key": "C",
+          "text": "chuyển từ chăn thả tự nhiên sang chăn nuôi bán công nghiệp và công nghiệp, kết hợp phát triển đồng cỏ, cải tạo giống và công nghiệp chế biến."
+        },
+        {
+          "key": "D",
+          "text": "chỉ tập trung ở nội thành các đô thị lớn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Hướng hàng hoá đòi hỏi giảm dần chăn thả tự nhiên, tăng bán công nghiệp và công nghiệp, chú trọng giống, đồng cỏ, thú y và chế biến để nâng chất lượng, giá trị sản phẩm."
+    },
+    {
+      "id": "dia12-b24-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Lâm nghiệp",
+        "Tài nguyên rừng"
+      ],
+      "content": "Trung du và miền núi phía Bắc được coi là vùng có thế mạnh về lâm nghiệp vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "diện tích rừng và độ che phủ rừng của vùng cao so với trung bình cả nước, có nhiều loài gỗ quý, lâm sản ngoài gỗ và giá trị phòng hộ lớn."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ đất lâm nghiệp của vùng đều nằm ở khu vực ven biển."
+        },
+        {
+          "key": "C",
+          "text": "rừng của vùng chỉ là rừng non mới trồng, chưa có giá trị sử dụng."
+        },
+        {
+          "key": "D",
+          "text": "khai thác gỗ là nguồn thu duy nhất của dân cư trong vùng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Vùng có diện tích rừng lớn, độ che phủ cao, nhiều lâm sản ngoài gỗ và đặc biệt có giá trị phòng hộ đầu nguồn; vì vậy khai thác thế mạnh lâm nghiệp phải gắn với bảo vệ, khoanh nuôi và trồng rừng."
+    },
+    {
+      "id": "dia12-b24-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Lâm nghiệp",
+        "Thiên tai"
+      ],
+      "content": "Vì sao bảo vệ và phát triển rừng đầu nguồn là yêu cầu bắt buộc khi khai thác thế mạnh của Trung du và miền núi phía Bắc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì gỗ từ rừng đầu nguồn là mặt hàng duy nhất của vùng xuất khẩu được."
+        },
+        {
+          "key": "B",
+          "text": "Vì diện tích rừng quyết định trực tiếp tỉ trọng công nghiệp trong cơ cấu kinh tế của vùng."
+        },
+        {
+          "key": "C",
+          "text": "Vì rừng đầu nguồn chỉ có vai trò với cảnh quan du lịch, không liên quan đến thuỷ văn."
+        },
+        {
+          "key": "D",
+          "text": "Vì rừng đầu nguồn giữ đất, giữ nước, hạn chế lũ quét, sạt lở và điều tiết dòng chảy, góp phần bảo đảm tuổi thọ cho các công trình thuỷ điện."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Mất rừng đầu nguồn trên địa hình dốc làm tăng nhanh lũ quét, sạt lở đất, xói mòn và bồi lắng lòng hồ thuỷ điện; ngược lại, rừng được bảo vệ giúp điều tiết nước và duy trì các thế mạnh khác."
+    },
+    {
+      "id": "dia12-b24-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Du lịch",
+        "Thế mạnh kinh tế"
+      ],
+      "content": "Sản phẩm du lịch đặc trưng nhất của Trung du và miền núi phía Bắc là",
+      "options": [
+        {
+          "key": "A",
+          "text": "du lịch nghỉ biển kết hợp vui chơi giải trí."
+        },
+        {
+          "key": "B",
+          "text": "du lịch sinh thái, nghỉ dưỡng vùng núi cao, tham quan cao nguyên đá, hang động và du lịch cộng đồng ở bản làng dân tộc."
+        },
+        {
+          "key": "C",
+          "text": "du lịch đô thị, mua sắm và hội nghị, hội thảo."
+        },
+        {
+          "key": "D",
+          "text": "du lịch tâm linh ở các đô thị đồng bằng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Cảnh quan núi cao, các cao nguyên đá, hang động cùng bản sắc văn hoá của đồng bào dân tộc tạo nên hệ sản phẩm du lịch sinh thái, nghỉ dưỡng, khám phá địa chất và du lịch cộng đồng – hướng đi phù hợp với vùng."
+    },
+    {
+      "id": "dia12-b24-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Hạn chế tự nhiên",
+        "Nông nghiệp"
+      ],
+      "content": "Một hạn chế nổi bật của điều kiện tự nhiên đối với phát triển nông nghiệp hàng hoá ở Trung du và miền núi phía Bắc là",
+      "options": [
+        {
+          "key": "A",
+          "text": "địa hình dốc, đất dễ bị xói mòn, mùa khô thiếu nước và mùa đông hay xảy ra rét đậm, sương muối, băng giá."
+        },
+        {
+          "key": "B",
+          "text": "đất badan màu mỡ tập trung với quy mô rất lớn nhưng thiếu nước."
+        },
+        {
+          "key": "C",
+          "text": "nguồn nước mặt dồi dào quanh năm nên không bao giờ thiếu nước."
+        },
+        {
+          "key": "D",
+          "text": "dân cư tập trung quá đông, thị trường tại chỗ bão hoà."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Địa hình của vùng chủ yếu là núi và dốc, mưa tập trung theo mùa dễ gây lũ quét, sạt lở, xói mòn; mùa khô nhiều nơi thiếu nước, còn mùa đông chịu rét đậm, sương muối, băng giá làm giảm năng suất cây trồng và vật nuôi."
+    },
+    {
+      "id": "dia12-b24-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Hạ tầng giao thông",
+        "Khai khoáng"
+      ],
+      "content": "Hạn chế về giao thông vận tải ảnh hưởng đến việc khai thác thế mạnh khoáng sản của Trung du và miền núi phía Bắc thể hiện ở chỗ",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mạng lưới giao thông của vùng đã rất hiện đại, chi phí vận chuyển thấp hơn nhiều so với đồng bằng."
+        },
+        {
+          "key": "B",
+          "text": "Khoáng sản của vùng chỉ dùng tại chỗ nên không đặt ra yêu cầu về vận tải."
+        },
+        {
+          "key": "C",
+          "text": "Địa hình chia cắt, nhiều đèo dốc, đường hay bị hư hỏng sau mưa lũ làm tăng chi phí và giảm tính chủ động trong vận chuyển quặng, vật tư."
+        },
+        {
+          "key": "D",
+          "text": "Các tuyến đường sắt tốc độ cao đã kết nối toàn bộ khu mỏ với cảng biển."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Núi cao và dốc khiến việc làm đường tốn kém, hay bị ách tắc do sạt lở; chi phí vận tải cao làm giảm sức cạnh tranh của khoáng sản và nông sản hàng hoá của vùng."
+    },
+    {
+      "id": "dia12-b24-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Dân cư và xã hội",
+        "Giảm nghèo"
+      ],
+      "content": "Khía cạnh xã hội nào sau đây là thách thức nổi bật trong khai thác thế mạnh của Trung du và miền núi phía Bắc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dân số tăng quá nhanh, mật độ dân số cao hơn cả đồng bằng sông Hồng."
+        },
+        {
+          "key": "B",
+          "text": "Đói nghèo còn cao ở nhiều xã, chất lượng nguồn nhân lực và khả năng tiếp cận thị trường của người dân còn hạn chế."
+        },
+        {
+          "key": "C",
+          "text": "Người dân trong vùng đã chuyển hẳn sang hoạt động công nghiệp và dịch vụ."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ lao động đều đã qua đào tạo nên thiếu lao động phổ thông."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Vùng dân cư phân tán, trình độ và khả năng tiếp cận thị trường còn hạn chế nên tỉ lệ hộ nghèo còn cao; vì vậy khai thác thế mạnh phải gắn với giảm nghèo đa chiều, đào tạo nhân lực và định canh định cư."
+    },
+    {
+      "id": "dia12-b24-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Lâm nghiệp",
+        "Kĩ năng tính toán"
+      ],
+      "content": "**Bảng số liệu về rừng và đất tự nhiên của vùng (nghìn ha):**\n\n- Diện tích tự nhiên: 5 100,0; Diện tích có rừng: 2 760,0\n\n*Nguồn: Niên giám thống kê Việt Nam.*\n\nVới bảng số liệu trên, độ che phủ rừng của vùng là bao nhiêu phần trăm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50,0%."
+        },
+        {
+          "key": "B",
+          "text": "52,5%."
+        },
+        {
+          "key": "C",
+          "text": "60,2%."
+        },
+        {
+          "key": "D",
+          "text": "54,1%."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Độ che phủ = diện tích có rừng chia diện tích tự nhiên rồi nhân 100: 2 760,0 : 5 100,0 = 0,5412; 0,5412 x 100 = 54,1% (làm tròn). Con số này cho thấy rừng là tài nguyên nổi bật của vùng."
+    },
+    {
+      "id": "dia12-b24-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thủy lợi",
+        "Hạn chế mùa khô"
+      ],
+      "content": "Các hồ chứa nước và công trình thuỷ lợi ở vùng núi, nhất là khu vực núi đá vôi của Trung du và miền núi phía Bắc, có vai trò chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khiến mực nước ngầm hạ thấp sâu hơn nữa, không mang lại lợi ích thiết thực."
+        },
+        {
+          "key": "B",
+          "text": "Bảo đảm cho vùng có mưa nhiều vào mùa khô."
+        },
+        {
+          "key": "C",
+          "text": "Thay thế hoàn toàn vai trò điều tiết nước của rừng đầu nguồn."
+        },
+        {
+          "key": "D",
+          "text": "Tích nước, điều tiết nguồn nước cho sản xuất và sinh hoạt, góp phần giảm tình trạng khan hiếm nước về mùa khô."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Ở vùng núi đá vôi, nước mưa nhanh chóng lọt xuống các khe nứt nên mùa khô thường thiếu nước; hồ chứa và công trình thuỷ lợi nhỏ giúp giữ nước, nhưng vẫn phải kết hợp bảo vệ rừng đầu nguồn."
+    },
+    {
+      "id": "dia12-b24-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Khai khoáng",
+        "Chế biến sâu"
+      ],
+      "content": "Vì sao định hướng khai thác khoáng sản của Trung du và miền núi phía Bắc nhấn mạnh chế biến sâu thay vì xuất khẩu quặng thô?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì xuất khẩu quặng thô mang lại giá trị cao hơn sản phẩm đã qua chế biến."
+        },
+        {
+          "key": "B",
+          "text": "Vì vùng không có khả năng xây dựng các nhà máy luyện kim và hoá chất."
+        },
+        {
+          "key": "C",
+          "text": "Vì chế biến sâu nâng giá trị và hiệu quả sử dụng tài nguyên, giảm khối lượng vận chuyển trên địa hình khó khăn, đồng thời hạn chế thất thoát và ô nhiễm do khai thác thủ công."
+        },
+        {
+          "key": "D",
+          "text": "Vì trữ lượng khoáng sản của vùng đã cạn kiệt, không thể khai thác thêm."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Chế biến sâu gắn khai khoáng với công nghiệp luyện kim, hoá chất tại chỗ, tăng thu và giảm áp lực vận tải; đi kèm là quản lý chặt để tránh khai thác nhỏ lẻ, huỷ hoại cảnh quan và môi trường."
+    },
+    {
+      "id": "dia12-b24-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Cây công nghiệp",
+        "Thương hiệu"
+      ],
+      "content": "Hướng nào sau đây phù hợp nhất để phát triển ngành chè, thế mạnh cây công nghiệp lâu năm của Trung du và miền núi phía Bắc?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ bán chè thô cho thương nhân, không chế biến và không xây dựng thương hiệu."
+        },
+        {
+          "key": "B",
+          "text": "Nâng cao chất lượng, đa dạng hoá sản phẩm, xây dựng thương hiệu, gắn vùng nguyên liệu với chế biến và du lịch trải nghiệm."
+        },
+        {
+          "key": "C",
+          "text": "Thay thế toàn bộ diện tích chè bằng cây lương thực có hạt."
+        },
+        {
+          "key": "D",
+          "text": "Mở rộng diện tích chè bằng cách khai phá rừng đầu nguồn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Giá trị của chè vùng phụ thuộc vào giống, quy trình canh tác và chế biến; xây dựng thương hiệu kết hợp du lịch trải nghiệm giúp tiêu thụ ổn định và tăng thu nhập cho người trồng."
+    },
+    {
+      "id": "dia12-b24-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Vị trí địa lí",
+        "Kinh tế cửa khẩu"
+      ],
+      "content": "Lợi thế của vị trí biên giới đối với kinh tế Trung du và miền núi phía Bắc thể hiện ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "thuận lợi cho trao đổi, mua bán hàng hoá và hợp tác đầu tư qua các cửa khẩu với địa phương của nước láng giềng."
+        },
+        {
+          "key": "B",
+          "text": "khiến vùng bị cô lập, không tham gia được vào mạng lưới kinh tế của cả nước."
+        },
+        {
+          "key": "C",
+          "text": "toàn bộ hàng hoá của vùng đều phải vận chuyển bằng đường biển."
+        },
+        {
+          "key": "D",
+          "text": "chỉ tạo điều kiện phát triển du lịch, không có ý nghĩa về thương mại."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Đường biên giới trên bộ dài với hệ thống cửa khẩu là điều kiện để phát triển kinh tế cửa khẩu, tiêu thụ nông sản và khoáng sản đã qua chế biến, đồng thời thu hút các dịch vụ hỗ trợ vận tải và thương mại."
+    },
+    {
+      "id": "dia12-b24-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Khai khoáng",
+        "Vật liệu xây dựng"
+      ],
+      "content": "Khoáng sản nào sau đây của Trung du và miền núi phía Bắc là nguyên liệu chủ yếu cho công nghiệp sản xuất vật liệu xây dựng và gốm sứ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Than an-tra-xít."
+        },
+        {
+          "key": "B",
+          "text": "Quặng thiếc."
+        },
+        {
+          "key": "C",
+          "text": "Đá vôi và cao lanh."
+        },
+        {
+          "key": "D",
+          "text": "Quặng đồng – niken."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Đá vôi cung cấp nguyên liệu cho xi măng và đá xây dựng, cao lanh cho sứ và vật liệu chịu lửa; đây là nhóm khoáng sản phi kim loại có điều kiện khai thác tương đối dễ, gắn với công nghiệp xây dựng."
+    },
+    {
+      "id": "dia12-b24-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Du lịch",
+        "Cảnh quan"
+      ],
+      "content": "Tiềm năng du lịch địa chất và cảnh quan của Trung du và miền núi phía Bắc được đánh giá cao nhờ",
+      "options": [
+        {
+          "key": "A",
+          "text": "hệ thống đô thị lớn và các khu công nghiệp tập trung."
+        },
+        {
+          "key": "B",
+          "text": "bờ biển dài với nhiều bãi tắm nổi tiếng."
+        },
+        {
+          "key": "C",
+          "text": "hệ thống rừng ngập mặn ven biển."
+        },
+        {
+          "key": "D",
+          "text": "các cao nguyên đá, hang động, đèo uốn lượn, mặt nước hồ và cảnh quan vùng núi cao."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Di sản địa chất, cảnh quan núi cao và mặt nước lòng hồ thuỷ điện tạo sản phẩm du lịch khám phá, nghỉ dưỡng; kết hợp với bản sắc văn hoá các dân tộc là lợi thế riêng của vùng."
+    },
+    {
+      "id": "dia12-b24-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Khí hậu",
+        "Thiên tai"
+      ],
+      "content": "Rét đậm, sương muối và băng giá ở Trung du và miền núi phía Bắc ảnh hưởng đến sản xuất nông nghiệp chủ yếu vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "giúp cây trồng sinh trưởng thuận lợi quanh năm nên không cần che chắn."
+        },
+        {
+          "key": "B",
+          "text": "gây thiệt hại cho đàn trâu, bò và rau màu, đòi hỏi phải chủ động phòng chống rét và dự trữ thức ăn."
+        },
+        {
+          "key": "C",
+          "text": "chỉ tác động đến giao thông, không ảnh hưởng đến cây trồng và vật nuôi."
+        },
+        {
+          "key": "D",
+          "text": "khiến toàn bộ diện tích đất nông nghiệp của vùng bị bỏ hoang trong mùa đông."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Đợt lạnh sâu kèm sương muối, băng giá làm chết mạ, giảm năng suất rau hoa mát và gây rét cho gia súc lớn; vì vậy che chuồng, dự trữ cỏ khô và trồng cây chịu lạnh là giải pháp cần thiết."
+    },
+    {
+      "id": "dia12-b24-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Phát triển bền vững",
+        "Thiên tai"
+      ],
+      "content": "Trong khai thác thế mạnh tổng hợp của Trung du và miền núi phía Bắc, yêu cầu coi trọng bảo vệ môi trường và phòng chống thiên tai xuất phát chủ yếu từ",
+      "options": [
+        {
+          "key": "A",
+          "text": "địa hình dốc, mưa tập trung theo mùa khiến lũ quét, sạt lở và xói mòn đất dễ xảy ra khi rừng bị suy giảm."
+        },
+        {
+          "key": "B",
+          "text": "nền kinh tế của vùng đã hoàn toàn dựa vào dịch vụ công nghệ cao."
+        },
+        {
+          "key": "C",
+          "text": "người dân trong vùng không có nhu cầu sử dụng tài nguyên."
+        },
+        {
+          "key": "D",
+          "text": "các nhà máy của vùng đã sử dụng hết năng lượng tái tạo."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Khai khoáng làm mất lớp phủ thực vật, việc mở đường và xây hồ chứa cắt xẻ các sườn dốc, kết hợp mưa lớn tập trung theo mùa làm gia tăng lũ quét và sạt lở; nên bảo vệ rừng đi đôi với quản lý khai thác là điều kiện để phát triển bền vững."
+    },
+    {
+      "id": "dia12-b24-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Cây ăn quả",
+        "Kĩ năng tính toán"
+      ],
+      "content": "**Bảng số liệu diện tích cây ăn quả của vùng (nghìn ha):**\n\n- Năm 2020: 120,0; Năm 2024: 168,0\n\n*Nguồn: Niên giám thống kê Việt Nam.*\n\nVới bảng số liệu trên, diện tích cây ăn quả của vùng tăng thêm bao nhiêu và tương ứng tăng bao nhiêu phần trăm so với năm 2020?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng thêm 48,0 nghìn ha, tương ứng tăng 28,6%."
+        },
+        {
+          "key": "B",
+          "text": "Tăng thêm 120,0 nghìn ha, tương ứng tăng 40,0%."
+        },
+        {
+          "key": "C",
+          "text": "Tăng thêm 48,0 nghìn ha, tương ứng tăng 40,0%."
+        },
+        {
+          "key": "D",
+          "text": "Tăng thêm 40,0 nghìn ha, tương ứng tăng 140,0%."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Mức tăng thêm = 168,0 - 120,0 = 48,0 nghìn ha. Tốc độ phát triển = 168,0 : 120,0 = 1,40 lần, tức tăng 40,0% so với năm 2020."
+    },
+    {
+      "id": "dia12-b24-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Lâm nghiệp",
+        "Chính sách"
+      ],
+      "content": "Chính sách giao khoán bảo vệ rừng và chi trả dịch vụ môi trường rừng tác động đến khai thác thế mạnh của Trung du và miền núi phía Bắc như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm giảm diện tích rừng vì người dân mất quyền sử dụng đất."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ áp dụng ở vùng đồng bằng, không liên quan đến miền núi."
+        },
+        {
+          "key": "C",
+          "text": "Khiến người dân chuyển hẳn sang làm công nghiệp và dịch vụ."
+        },
+        {
+          "key": "D",
+          "text": "Tạo thêm việc làm và thu nhập cho người nhận khoán giữ rừng, đồng thời bảo vệ nguồn nước cho thuỷ điện và cảnh quan cho du lịch."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Tiền chi trả dịch vụ môi trường rừng từ các cơ sở dùng rừng như nhà máy thuỷ điện, cơ sở du lịch giúp người dân có thu nhập từ bảo vệ rừng, tạo vòng tuần hoàn giữa các thế mạnh của vùng."
+    },
+    {
+      "id": "dia12-b24-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Năng lượng",
+        "Điện gió"
+      ],
+      "content": "Ngoài thuỷ điện, để cấp điện cho các bản vùng sâu chưa nối lưới điện quốc gia, Trung du và miền núi phía Bắc có thể phát triển thêm nguồn năng lượng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt điện chạy bằng khí tự nhiên khai thác tại chỗ."
+        },
+        {
+          "key": "B",
+          "text": "Điện hạt nhân quy mô lớn."
+        },
+        {
+          "key": "C",
+          "text": "Nhiệt điện than cỡ lớn xây dựng ở mọi xã miền núi."
+        },
+        {
+          "key": "D",
+          "text": "Điện gió, điện mặt trời quy mô nhỏ kết hợp với các trạm thuỷ điện vừa và nhỏ."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Vùng có tiềm năng gió ở các dãy núi cao và vùng cao nguyên, cùng cường độ bức xạ mặt trời khá; nguồn điện phân tán quy mô nhỏ phù hợp cấp điện cho từng bản, bổ sung cho lưới quốc gia."
+    },
+    {
+      "id": "dia12-b24-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Khai thác thế mạnh",
+        "Hạ tầng"
+      ],
+      "content": "Yếu tố nào sau đây có tính quyết định nhất để các thế mạnh của Trung du và miền núi phía Bắc chuyển hoá thành năng lực cạnh tranh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ cần tăng sản lượng khai khoáng trong ngắn hạn."
+        },
+        {
+          "key": "B",
+          "text": "Thu hẹp diện tích rừng trồng để dành đất cho cây ăn quả."
+        },
+        {
+          "key": "C",
+          "text": "Kết cấu hạ tầng, nhất là giao thông và dịch vụ hỗ trợ vận tải, cùng với chất lượng nguồn nhân lực và khoa học – công nghệ."
+        },
+        {
+          "key": "D",
+          "text": "Tăng xuất khẩu nguyên liệu thô để thu nhanh ngoại tệ."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Thế mạnh tự nhiên chỉ tạo ra giá trị khi có hạ tầng kết nối, nhân lực và công nghệ để chế biến, tiếp cận thị trường; đây cũng là cách giảm chi phí vận tải và tổn thất sau thu hoạch của vùng."
+    },
+    {
+      "id": "dia12-b24-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Khai khoáng",
+        "Phát triển bền vững"
+      ],
+      "content": "Chọn các phát biểu đúng về khai thác thế mạnh khoáng sản của Trung du và miền núi phía Bắc.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Than và quặng kim loại của vùng là cơ sở để phát triển một số ngành công nghiệp nặng như năng lượng, luyện kim và hoá chất."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ trữ lượng khoáng sản của vùng đã được khai thác hết nên không còn khả năng thu hút đầu tư."
+        },
+        {
+          "key": "C",
+          "text": "Khai thác khoáng sản quy mô nhỏ, manh mún có thể gây suy thoái môi trường và làm tăng nguy cơ sạt lở đất."
+        },
+        {
+          "key": "D",
+          "text": "Hướng bền vững là gắn khai thác với chế biến sâu và hoàn nguyên môi trường mỏ sau khai thác."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "Đáp án A, C, D. Khoáng sản gắn với công nghiệp nặng, nhưng khai thác nhỏ lẻ để lại hệ quả môi trường và tiềm ẩn sạt lở; vì vậy phải chế biến sâu, hoàn nguyên mỏ và tăng quản lý nhà nước. Phát biểu B sai vì tài nguyên khoáng sản của vùng còn khá đa dạng, trữ lượng một số loại vẫn còn và đang được thăm dò thêm."
+    },
+    {
+      "id": "dia12-b24-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thuỷ điện",
+        "Ý nghĩa kinh tế"
+      ],
+      "content": "Chọn các phát biểu đúng về khai thác thuỷ điện ở Trung du và miền núi phía Bắc.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tiềm năng thuỷ điện của vùng rất hạn chế vì sông ngắn và lưu lượng nước nhỏ."
+        },
+        {
+          "key": "B",
+          "text": "Ngoài phát điện, các công trình thuỷ điện còn góp phần chống lũ, tạo nguồn nước cho sản xuất và nuôi trồng thuỷ sản."
+        },
+        {
+          "key": "C",
+          "text": "Việc xây dựng hồ chứa thuỷ điện không làm thay đổi diện tích sử dụng đất của vùng."
+        },
+        {
+          "key": "D",
+          "text": "Sản lượng điện của vùng đóng góp quan trọng vào việc cung cấp điện cho hệ thống điện quốc gia."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "Đáp án B, D. Thuỷ điện của vùng có ý nghĩa tổng hợp: phát điện, điều tiết nước, giảm lũ, tạo mặt nước nuôi trồng thuỷ sản và du lịch, đồng thời truyền tải điện tới các khu vực tiêu thụ lớn. Phát biểu A sai vì sông nhiều nước và độ dốc lớn; phát biểu C sai vì hồ chứa làm chuyển một phần diện tích đất nông nghiệp, dân cư vào vùng ngập."
+    },
+    {
+      "id": "dia12-b24-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Nông nghiệp",
+        "Lâm nghiệp"
+      ],
+      "content": "Chọn các phát biểu đúng về khai thác thế mạnh nông nghiệp và lâm nghiệp của Trung du và miền núi phía Bắc.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khí hậu có mùa đông lạnh cùng nhiều vùng núi cao cho phép vùng phát triển cây rau, hoa, quả ôn đới và tạo sản phẩm trái vụ."
+        },
+        {
+          "key": "B",
+          "text": "Bảo vệ rừng đầu nguồn giúp điều tiết nước cho các nhà máy thuỷ điện và giảm rủi ro lũ quét, sạt lở."
+        },
+        {
+          "key": "C",
+          "text": "Chăn nuôi gia súc lớn của vùng vẫn hoàn toàn theo phương thức thả rông, chưa có chuyển biến theo hướng hàng hoá."
+        },
+        {
+          "key": "D",
+          "text": "Tổ chức sản xuất theo chuỗi, xây dựng mã số vùng trồng và đẩy mạnh chế biến là hướng đi phù hợp với nông nghiệp của vùng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Đáp án A, B, D. Tính đa dạng sinh khí hậu, vai trò phòng hộ của rừng đầu nguồn và tổ chức sản xuất theo chuỗi là ba đặc trưng của hướng khai thác thế mạnh nông, lâm nghiệp bền vững. Phát biểu C sai vì chăn nuôi của vùng đang chuyển dần sang bán công nghiệp và công nghiệp, có đầu tư giống, đồng cỏ và chế biến."
+    },
+    {
+      "id": "dia12-b24-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Hạn chế",
+        "Hướng phát triển"
+      ],
+      "content": "Chọn các phát biểu đúng về hạn chế và hướng khắc phục trong khai thác thế mạnh của Trung du và miền núi phía Bắc.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiếu nước vào mùa khô, rét đậm, sương muối và băng giá là những trở ngại tự nhiên đối với sản xuất nông nghiệp của vùng."
+        },
+        {
+          "key": "B",
+          "text": "Do địa hình hiểm trở, vùng không có khả năng phát triển du lịch sinh thái và du lịch cộng đồng."
+        },
+        {
+          "key": "C",
+          "text": "Đầu tư kết cấu hạ tầng giao thông và tăng cường liên kết với các cực tăng trưởng, vùng động lực là điều kiện quan trọng để khai thác hiệu quả thế mạnh."
+        },
+        {
+          "key": "D",
+          "text": "Mở rộng canh tác trên đất dốc và thu hẹp diện tích rừng là giải pháp bền vững để xoá đói giảm nghèo."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "Đáp án A, C. Thiên tai và khí hậu cực đoan làm tăng chi phí, giảm ổn định của sản xuất; hạ tầng kết nối và liên kết vùng giúp đưa sản phẩm ra thị trường với chi phí thấp hơn. Phát biểu B sai vì chính địa hình và văn hoá tạo tiềm năng du lịch; phát biểu D sai vì làm như vậy sẽ tăng xói mòn, lũ quét và suy giảm tài nguyên."
+    },
+    {
+      "id": "dia12-b24-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "topic": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Chuyển dịch cơ cấu",
+        "Giảm nghèo"
+      ],
+      "content": "Chọn các phát biểu phản ánh đúng hướng phát triển bền vững các thế mạnh của Trung du và miền núi phía Bắc.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng nhanh sản lượng khai khoáng bằng cách mở rộng khai thác trong khu rừng đặc dụng là giải pháp chủ đạo, không cần quan tâm đến môi trường."
+        },
+        {
+          "key": "B",
+          "text": "Phát triển công nghiệp khai khoáng và thuỷ điện theo hướng hiệu quả, gắn với bảo vệ môi trường và bảo đảm an toàn hồ đập."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển dịch cơ cấu ngành, đa dạng hoá sản phẩm, phát triển kinh tế rừng, du lịch và kinh tế cửa khẩu."
+        },
+        {
+          "key": "D",
+          "text": "Nâng cao chất lượng nguồn nhân lực, hoàn thiện hạ tầng và lồng ghép mục tiêu giảm nghèo đa chiều trong khai thác thế mạnh."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "Đáp án B, C, D. Khai thác đi đôi với bảo vệ, đa dạng hoá sản phẩm theo chiều sâu và đầu tư cho con người, hạ tầng là ba trụ cột của hướng bền vững, giúp phân tán rủi ro và nâng cao giá trị tài nguyên. Phát biểu A sai vì khai thác trong rừng đặc dụng bị ngăn cấm và phá vỡ điều kiện sinh thái của vùng."
+    }
+  ]
+}

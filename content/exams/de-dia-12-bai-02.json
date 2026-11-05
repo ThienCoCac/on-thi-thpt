@@ -1,0 +1,1474 @@
+{
+  "id": "de-dia-12-bai-02",
+  "title": "Đề ôn tập Địa lí 12 – Bài 2: Thiên nhiên nhiệt đới ẩm gió mùa",
+  "slug": "de-dia-12-bai-02",
+  "description": "Đề ôn tập 45 phút theo Bài 2 Địa lí 12: biểu hiện của thiên nhiên nhiệt đới ẩm gió mùa ở khí hậu (tính nhiệt đới, tính ẩm, chế độ gió mùa), ở địa hình với xâm thực mạnh miền đồi núi và bồi tụ nhanh ở đồng bằng, ở sông ngòi, đất feralit và sinh vật, cùng ảnh hưởng tới sản xuất - đời sống và tác động của biến đổi khí hậu. Đề gồm 35 câu trắc nghiệm bốn phương án và 5 câu chọn các phát biểu đúng, có các câu tính toán về biên độ nhiệt, lượng mưa theo mùa và chế độ nước sông.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B02",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b02-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước ta nằm hoàn toàn trong vùng nội chí tuyến của bán cầu Bắc, nên thiên nhiên có đặc điểm nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nền nhiệt độ cao, tổng số giờ nắng trong năm lớn."
+        },
+        {
+          "key": "B",
+          "text": "biên độ nhiệt độ trung bình năm lớn và tăng dần từ Bắc vào Nam."
+        },
+        {
+          "key": "C",
+          "text": "khí hậu mang tính lục địa, mưa ít và cân bằng ẩm luôn âm."
+        },
+        {
+          "key": "D",
+          "text": "mùa đông kéo dài, đồng bằng thường có băng tuyết."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nằm trong vùng nội chí tuyến nên góc chiếu của tia sáng Mặt Trời lớn, mỗi năm có hai lần Mặt Trời lên thiên đỉnh, vì vậy lượng bức xạ nhận được lớn, nền nhiệt cao và nhiều nắng. B sai vì biên độ nhiệt độ năm giảm dần từ Bắc vào Nam; C sai vì nước ta mưa nhiều, cân bằng ẩm luôn dương; D sai vì mùa đông miền Bắc chỉ rét, không có băng tuyết thường xuyên ở đồng bằng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "tính nhiệt đới"
+      ]
+    },
+    {
+      "id": "dia12-b02-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguồn cung cấp hơi ẩm dồi dào nhất cho khí hậu nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "hệ thống sông, hồ nội địa."
+        },
+        {
+          "key": "B",
+          "text": "Biển Đông rộng lớn và ấm."
+        },
+        {
+          "key": "C",
+          "text": "gió mùa Đông Bắc xuất phát từ lục địa châu Á."
+        },
+        {
+          "key": "D",
+          "text": "các dãy núi cao chạy theo hướng tây bắc - đông nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Biển Đông là kho ẩm khổng lồ, cung cấp hơi ẩm cho các khối khí di chuyển qua nó, làm cho lượng mưa và độ ẩm nước ta rất lớn. A sai vì sông hồ nội địa bốc hơi ít; C sai vì gió mùa Đông Bắc từ lục địa nên khô và lạnh; D sai vì núi là nhân tố gây mưa nhiều theo sườn đón gió, không phải nguồn ẩm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "nguồn ẩm"
+      ]
+    },
+    {
+      "id": "dia12-b02-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Hằng năm, mỗi địa điểm trong đất liền nước ta đều có hai lần Mặt Trời lên thiên đỉnh, nên",
+      "options": [
+        {
+          "key": "A",
+          "text": "mưa ở cả nước tập trung chủ yếu vào mùa thu - đông."
+        },
+        {
+          "key": "B",
+          "text": "khí hậu nước ta chỉ còn hai mùa mưa và khô đối lập."
+        },
+        {
+          "key": "C",
+          "text": "nhiệt độ không khí giảm dần theo độ cao địa hình."
+        },
+        {
+          "key": "D",
+          "text": "góc chiếu của tia sáng Mặt Trời lớn, lượng bức xạ nhận được trong năm lớn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Hai lần Mặt Trời lên thiên đỉnh bảo đảm góc nhập xạ lớn và thời gian chiếu sáng dài, nên tổng bức xạ và cán cân bức xạ đều lớn, khí hậu nóng quanh năm. A sai vì mưa chủ yếu vào mùa hạ; B và C sai vì phân hóa mùa và quy luật đai cao không phải hệ quả của thiên đỉnh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "bức xạ"
+      ]
+    },
+    {
+      "id": "dia12-b02-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Tại một trạm khí tượng ở đồng bằng Bắc Bộ, nhiệt độ trung bình tháng I là 16,4 °C và nhiệt độ trung bình tháng VII là 28,9 °C. Biên độ nhiệt độ trung bình năm của trạm này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "8,5 °C."
+        },
+        {
+          "key": "B",
+          "text": "12,5 °C."
+        },
+        {
+          "key": "C",
+          "text": "13,7 °C."
+        },
+        {
+          "key": "D",
+          "text": "45,3 °C."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Biên độ nhiệt độ năm = hiệu số giữa tháng nóng nhất và tháng lạnh nhất: 28,9 - 16,4 = 12,5 °C. A sai do trừ nhầm số; C là biên độ nhiệt của một trạm vùng núi phía bắc (Lạng Sơn 13,7 °C); D là tổng của hai giá trị chứ không phải hiệu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "tính toán khí hậu"
+      ]
+    },
+    {
+      "id": "dia12-b02-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Trung bình cứ lên cao 100 m thì nhiệt độ không khí giảm khoảng 0,6 °C. Tại chân một khối núi thuộc vùng núi cao (độ cao 300 m), nhiệt độ trung bình năm là 24,1 °C. Ở độ cao 2 985 m, nhiệt độ trung bình năm xấp xỉ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "8,0 °C."
+        },
+        {
+          "key": "B",
+          "text": "6,2 °C."
+        },
+        {
+          "key": "C",
+          "text": "16,1 °C."
+        },
+        {
+          "key": "D",
+          "text": "40,2 °C."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Hiệu độ cao: 2 985 - 300 = 2 685 m; mức giảm nhiệt: 2 685 : 100 x 0,6 = 16,11 °C; nhiệt độ ở độ cao 2 985 m: 24,1 - 16,11 ≈ 8,0 °C. B sai vì quên trừ độ cao chân núi (24,1 - 17,91 ≈ 6,2 °C); C sai vì mới lấy mức giảm mà chưa trừ khỏi nền nhiệt; D sai vì cộng mức giảm thay vì trừ.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "tính toán khí hậu"
+      ]
+    },
+    {
+      "id": "dia12-b02-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở miền Bắc nước ta, gió mùa Đông Bắc hoạt động trong khoảng thời gian nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Từ tháng V đến tháng X."
+        },
+        {
+          "key": "B",
+          "text": "Từ tháng XI đến tháng IV năm sau."
+        },
+        {
+          "key": "C",
+          "text": "Từ tháng III đến tháng VIII."
+        },
+        {
+          "key": "D",
+          "text": "Từ tháng IX đến tháng XII."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Gió mùa Đông Bắc hoạt động từ tháng XI đến tháng IV năm sau, mang lại mùa đông lạnh cho miền Bắc. A là khoảng thời gian hoạt động của gió mùa Tây Nam (gió mùa mùa hạ); C và D không trùng với chế độ hoạt động của loại gió này.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "gió mùa"
+      ]
+    },
+    {
+      "id": "dia12-b02-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Vào giữa và cuối mùa hạ, gió mùa Tây Nam đi qua Biển Đông mang lại cho nước ta",
+      "options": [
+        {
+          "key": "A",
+          "text": "lượng mưa lớn và tập trung."
+        },
+        {
+          "key": "B",
+          "text": "thời tiết lạnh khô, trời ít mây."
+        },
+        {
+          "key": "C",
+          "text": "nắng nóng khô, độ ẩm giảm sâu."
+        },
+        {
+          "key": "D",
+          "text": "sương muối và mưa phùn kéo dài."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Gió mùa Tây Nam xuất phát từ vùng biển nhiệt đới, đi qua Biển Đông nên mang theo lượng hơi ẩm rất lớn, gây mưa nhiều và tập trung cho phần lớn lãnh thổ. B và D là đặc điểm của nửa sau mùa đông có gió mùa Đông Bắc; C là đặc điểm của gió phơn Tây Nam khi vượt dãy Trường Sơn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "gió mùa"
+      ]
+    },
+    {
+      "id": "dia12-b02-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Gió mùa Tây Nam xuất hiện ở nước ta vào giữa và cuối mùa hạ là do",
+      "options": [
+        {
+          "key": "A",
+          "text": "áp cao Xi-bê-ia được tăng cường vào nửa sau mùa đông."
+        },
+        {
+          "key": "B",
+          "text": "khối gió Tín phong bán cầu Nam vượt xích đạo, bị lệch hướng thành gió Tây Nam."
+        },
+        {
+          "key": "C",
+          "text": "gió mùa Đông Bắc suy yếu và chuyển hướng thành gió Tây Nam."
+        },
+        {
+          "key": "D",
+          "text": "khối khí ôn đới từ biển Ô-khốt-di di chuyển về phía nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Vào giữa và cuối mùa hạ, áp thấp nóng hình thành ở lục địa châu Á hút gió; Tín phong bán cầu Nam vượt xích đạo, bị lực Co-ro-li-lơ làm lệch thành hướng Tây Nam, gây mưa cho nước ta. A và D là nguyên nhân của mùa đông miền Bắc; C sai vì gió mùa Đông Bắc không chuyển hóa thành gió Tây Nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "nguyên nhân gió mùa"
+      ]
+    },
+    {
+      "id": "dia12-b02-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiện tượng gió tây khô nóng (gió phơn) xuất hiện ở Bắc Trung Bộ và duyên hải miền Trung vào đầu mùa hạ chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "gió mùa Đông Bắc tràn qua Biển Đông rồi vào đất liền."
+        },
+        {
+          "key": "B",
+          "text": "Tín phong bán cầu Bắc hoạt động suốt mùa hạ trên lãnh thổ."
+        },
+        {
+          "key": "C",
+          "text": "khối gió Tây Nam vượt dãy Trường Sơn bị mất nhiều hơi ẩm, trở nên khô và nóng."
+        },
+        {
+          "key": "D",
+          "text": "dải hội tụ nhiệt đới nằm ổn định trên vịnh Bắc Bộ."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Đầu mùa hạ, khối gió Tây Nam mang nhiều hơi ẩm khi vượt sườn chắn Trường Sơn đã trút mưa bên sườn đón gió, sang phía tây (Bắc Trung Bộ, duyên hải miền Trung) trở nên khô và nóng, gây gió phơn. A gây rét ẩm, không gây khô nóng; B chỉ là nhân tố xen kẽ; D là nhân tố gây mưa cho Bắc Bộ, Trung Bộ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "gió phơn"
+      ]
+    },
+    {
+      "id": "dia12-b02-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Thông tin: Lượng mưa trung bình năm ở phần lớn lãnh thổ nước ta đạt khoảng 1 500 đến 2 000 mm, độ ẩm không khí thường trên 80% và cân bằng ẩm luôn dương. Các số liệu trên là biểu hiện nổi bật của đặc trưng nào trong khí hậu nhiệt đới ẩm gió mùa?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tính nhiệt đới."
+        },
+        {
+          "key": "B",
+          "text": "Tính ẩm."
+        },
+        {
+          "key": "C",
+          "text": "Tính gió mùa."
+        },
+        {
+          "key": "D",
+          "text": "Tính phân hóa theo độ cao."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Lượng mưa lớn, độ ẩm không khí cao và cân bằng ẩm luôn dương là ba chỉ tiêu nói lên tính ẩm của khí hậu. A biểu hiện ở nhiệt độ, bức xạ, số giờ nắng; C biểu hiện ở sự luân phiên các loại gió và mùa mưa - mùa khô; D là quy luật phân hóa theo đai cao, không phải đặc trưng của tính ẩm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "tính ẩm"
+      ]
+    },
+    {
+      "id": "dia12-b02-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Tại trạm khí tượng M, tổng lượng mưa năm là 1 760 mm, trong đó mùa mưa (tháng V - X) đạt 1 496 mm. Lượng mưa bình quân trong một tháng ở mùa khô (tháng XI - IV năm sau) của trạm M là",
+      "options": [
+        {
+          "key": "A",
+          "text": "44 mm."
+        },
+        {
+          "key": "B",
+          "text": "66 mm."
+        },
+        {
+          "key": "C",
+          "text": "88 mm."
+        },
+        {
+          "key": "D",
+          "text": "249 mm."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Lượng mưa mùa khô = 1 760 - 1 496 = 264 mm, mùa khô có 6 tháng (XI, XII, I, II, III, IV) nên bình quân = 264 : 6 = 44 mm/tháng. B sai vì chia cho 4 tháng (264 : 4 = 66 mm); C sai vì chia cho 3 tháng; D là bình quân tháng của mùa mưa (1 496 : 6 ≈ 249 mm).",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "tính toán lượng mưa"
+      ]
+    },
+    {
+      "id": "dia12-b02-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Dù tổng lượng mưa năm lớn, nhiều vùng ở nước ta vẫn thiếu nước nghiêm trọng cho sản xuất và sinh hoạt vào mùa khô. Nguyên nhân chính là do",
+      "options": [
+        {
+          "key": "A",
+          "text": "mưa phân bố theo mùa, lượng mưa mùa khô rất nhỏ trong khi nhu cầu dùng nước lại tăng cao."
+        },
+        {
+          "key": "B",
+          "text": "tổng lượng mưa năm của nước ta thuộc loại thấp so với khu vực."
+        },
+        {
+          "key": "C",
+          "text": "độ ẩm không khí trung bình năm chỉ khoảng 60%."
+        },
+        {
+          "key": "D",
+          "text": "phần lớn sông ngòi nước ta bắt nguồn từ ngoài lãnh thổ chảy vào."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Tính mùa của khí hậu khiến lượng mưa tập trung vào mùa hạ, còn mùa khô mưa rất ít trong khi nhu cầu nước cho sản xuất, sinh hoạt tăng, nên xảy ra thiếu nước. B sai vì lượng mưa năm của nước ta lớn; C sai vì độ ẩm thường trên 80%; D sai vì nguồn cung cấp nước chủ yếu là mưa trên lãnh thổ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "thiếu nước mùa khô"
+      ]
+    },
+    {
+      "id": "dia12-b02-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở miền Bắc nước ta, nửa sau mùa đông thường có rét ẩm kèm mưa phùn, vì thời kì này",
+      "options": [
+        {
+          "key": "A",
+          "text": "gió mùa Tây Nam đã hoạt động sớm trên phạm vi cả nước."
+        },
+        {
+          "key": "B",
+          "text": "khối khí lạnh di chuyển lệch ra phía biển, được Biển Đông tăng cường ẩm trước khi vào đất liền."
+        },
+        {
+          "key": "C",
+          "text": "Mặt Trời lên thiên đỉnh lần thứ nhất trong năm."
+        },
+        {
+          "key": "D",
+          "text": "địa hình vùng núi Đông Bắc mở ra phía tây chắn gió lục địa."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nửa sau mùa đông, khối khí lạnh di chuyển lệch ra Biển Đông nên được bổ sung hơi ẩm, khi vào đất liền gây rét ẩm và mưa phùn. A sai vì gió Tây Nam hoạt động vào mùa hạ; C sai vì lần lên thiên đỉnh thứ nhất rơi vào khoảng đầu mùa hạ và không gây mưa phùn; D sai vì các cánh cung Đông Bắc mở ra phía đông bắc, đón gió chứ không chắn gió lục địa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "mưa phùn"
+      ]
+    },
+    {
+      "id": "dia12-b02-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Thông tin: Nhiệt độ trung bình tháng VII tại một trạm vùng núi cao là 19,4 °C, trong khi tại trạm cùng vĩ độ ở độ cao 300 m là 26,4 °C; hiệu độ cao giữa hai trạm khoảng 1 160 m. Giải thích nào sau đây đúng về sự chênh lệch nhiệt độ giữa hai trạm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cứ lên cao 100 m, nhiệt độ không khí giảm khoảng 0,6 °C nên 1 160 : 100 x 0,6 ≈ 7,0 °C."
+        },
+        {
+          "key": "B",
+          "text": "Vùng núi cao nằm ngoài vùng nội chí tuyến nên nhận được ít bức xạ hơn."
+        },
+        {
+          "key": "C",
+          "text": "Vùng núi cao không chịu ảnh hưởng của gió mùa mùa hạ, chỉ có gió Tín phong."
+        },
+        {
+          "key": "D",
+          "text": "Nhiệt độ tháng VII tại các trạm vùng núi cao luôn nhỏ hơn 10 °C."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Trong tầng đối lưu, càng lên cao không khí càng loãng và giữ nhiệt kém, trung bình lên cao 100 m nhiệt độ giảm khoảng 0,6 °C; với hiệu độ cao 1 160 m, nhiệt độ giảm khoảng 1 160 : 100 x 0,6 ≈ 7,0 °C, phù hợp với chênh lệch 26,4 - 19,4 = 7,0 °C. B sai vì mọi địa điểm trong đất liền nước ta đều thuộc vùng nội chí tuyến; C sai vì vùng núi cao vẫn chịu ảnh hưởng của gió mùa theo đai cao; D sai vì tháng VII nhiều trạm núi cao vẫn trên 19 °C.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "nhiệt theo độ cao"
+      ]
+    },
+    {
+      "id": "dia12-b02-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Khí hậu nhiệt đới ẩm gió mùa ảnh hưởng sâu sắc đến các thành phần tự nhiên của nước ta. Các thành phần chịu ảnh hưởng rõ nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "địa hình, khoáng sản và khí hậu."
+        },
+        {
+          "key": "B",
+          "text": "địa hình, sông ngòi, đất và sinh vật."
+        },
+        {
+          "key": "C",
+          "text": "sinh vật, khoáng sản và nước ngầm."
+        },
+        {
+          "key": "D",
+          "text": "sông ngòi, đất và các mỏ nội sinh."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Bốn thành phần đều mang dấu ấn khí hậu: địa hình (xâm thực mạnh - bồi tụ nhanh), sông ngòi (dày đặc, nhiều nước, giàu phù sa), đất (feralit) và sinh vật (đa dạng, nhiệt đới). A, C, D sai vì khoáng sản được hình thành chủ yếu do các quá trình địa chất (nội lực), không phải biểu hiện trực tiếp của khí hậu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "thành phần tự nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b02-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình xâm thực mạnh ở miền đồi núi nước ta đã tạo nên những dạng địa hình đặc trưng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sườn dốc bị cắt xẻ, khe rãnh, hang động cac-xtơ trong đá vôi."
+        },
+        {
+          "key": "B",
+          "text": "Đồng bằng châu thổ rộng, bằng phẳng và thấp dần ra biển."
+        },
+        {
+          "key": "C",
+          "text": "Cồn cát, bãi triều và cửa sông mở rộng dần ra phía biển."
+        },
+        {
+          "key": "D",
+          "text": "Các bậc thềm phù sa cổ nằm ở trung tâm đồng bằng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Mưa lớn và địa hình dốc khiến quá trình bóc mòn diễn ra mạnh, chia cắt sườn núi, tạo khe rãnh; ở đá vôi còn tạo hang động cac-xtơ. B và D là sản phẩm của quá trình bồi tụ; C là địa hình bồi tụ ven biển, không phải sản phẩm xâm thực.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "xâm thực"
+      ]
+    },
+    {
+      "id": "dia12-b02-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân tự nhiên chủ yếu khiến quá trình xói mòn, rửa trôi ở vùng đồi núi nước ta diễn ra rất mạnh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mưa nhiều và tập trung theo mùa, kết hợp với địa hình dốc và lớp phủ thực vật bị thu hẹp."
+        },
+        {
+          "key": "B",
+          "text": "đất đá vùng núi chủ yếu là đá macma axit, rất dễ hòa tan trong nước."
+        },
+        {
+          "key": "C",
+          "text": "nền nhiệt thấp làm nước đóng băng, gây nứt vỡ đá."
+        },
+        {
+          "key": "D",
+          "text": "mạng lưới sông ngòi thưa thớt, dòng chảy yếu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Lượng mưa lớn tập trung theo mùa tạo dòng chảy mặt mạnh trên địa hình dốc; khi lớp phủ thực vật bị thu hẹp, đất mất chỗ giữ, nên xói mòn và rửa trôi tăng dữ dội. B sai vì đá macma axit khó hòa tan (dễ hòa tan là đá vôi); C sai vì nền nhiệt nước ta cao, quá trình phong hóa hóa học và sinh học chiếm ưu thế; D sai vì sông ngòi nước ta dày đặc, dòng chảy mạnh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "xâm thực"
+      ]
+    },
+    {
+      "id": "dia12-b02-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong điều kiện nhiệt độ cao và lượng mưa lớn, quá trình phong hóa ở nước ta diễn ra mạnh, tạo nên",
+      "options": [
+        {
+          "key": "A",
+          "text": "các cao nguyên badan là sản phẩm xếp chồng của dung nham núi lửa."
+        },
+        {
+          "key": "B",
+          "text": "một lớp vỏ phong hóa dày, cung cấp vật liệu cho các quá trình bóc mòn và vận chuyển."
+        },
+        {
+          "key": "C",
+          "text": "nhiều dãy núi cao với đỉnh nhọn và sườn dốc đứng."
+        },
+        {
+          "key": "D",
+          "text": "địa hình cac-xtơ chỉ tồn tại ở vùng núi cao trên 2 000 m."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nhiệt - ẩm cao làm đá gốc bị phá hủy mạnh cả về hóa học lẫn sinh học, tạo lớp vỏ phong hóa dày và là nguồn cung cấp vật liệu cho dòng chảy, gió. A là kết quả của nội lực (hoạt động núi lửa); C là sản phẩm của nội lực và bóc mòn; D sai vì địa hình cac-xtơ có ở nhiều vùng núi đá vôi có độ cao trung bình và thấp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "phong hóa"
+      ]
+    },
+    {
+      "id": "dia12-b02-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Các hang động, nhũ đá và cột đá vôi phổ biến ở vùng núi đá vôi nước ta được hình thành chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "dung nham núi lửa phun trào rồi nguội lại trong nước."
+        },
+        {
+          "key": "B",
+          "text": "nước hòa tan canxi cacbonat trong đá vôi, kết hợp với tích tụ canxi cacbonat."
+        },
+        {
+          "key": "C",
+          "text": "sóng biển khoét sâu vào chân các dãy núi đá."
+        },
+        {
+          "key": "D",
+          "text": "gió mang cát mài mòn bề mặt đá trong mùa khô."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Quá trình phong hóa hóa học với chủ thể là nước chứa khí CO2 hòa tan canxi cacbonat của đá vôi, tạo hang động; khi nước nhỏ giọt, canxi cacbonat kết tủa tạo nhũ đá, cột đá. A là hoạt động núi lửa; C là quá trình bóc mòn của sóng (địa hình ven biển); D là phong hóa vật lí do gió, điển hình ở vùng khô hạn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "địa hình cac-xtơ"
+      ]
+    },
+    {
+      "id": "dia12-b02-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình bồi tụ nhanh ở vùng đồng bằng nước ta biểu hiện rõ nhất ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "sạt lở bờ sông, bờ biển xảy ra quanh năm."
+        },
+        {
+          "key": "B",
+          "text": "sườn núi bị cắt xẻ thành nhiều khe rãnh sâu."
+        },
+        {
+          "key": "C",
+          "text": "phù sa được sông vận chuyển về hạ lưu, bồi đắp làm đồng bằng mở rộng dần ra biển."
+        },
+        {
+          "key": "D",
+          "text": "các cột đá, nhũ đá hình thành trong hang động."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Khi tốc độ dòng chảy giảm ở hạ lưu và vùng cửa sông, vật liệu phù sa lắng đọng, bồi đắp và làm đồng bằng mở rộng ra phía biển. A là hiện tượng mất cân bằng giữa bóc mòn và bồi tụ tại một số đoạn bờ; B và D là sản phẩm của xâm thực và phong hóa hóa học.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "bồi tụ"
+      ]
+    },
+    {
+      "id": "dia12-b02-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Mưa lớn tập trung vào mùa hạ cùng các hiện tượng thời tiết cực đoan ở nước ta gây ra hậu quả nào sau đây đối với sản xuất và đời sống?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lũ lụt, ngập úng và sạt lở đất xảy ra nhiều hơn trong mùa mưa."
+        },
+        {
+          "key": "B",
+          "text": "Nhiệt độ trung bình năm giảm xuống dưới 20 °C."
+        },
+        {
+          "key": "C",
+          "text": "Tổng lượng phù sa của các con sông giảm đi rõ rệt."
+        },
+        {
+          "key": "D",
+          "text": "Diện tích rừng nhiệt đới được mở rộng trên toàn bộ lãnh thổ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Mưa lớn tập trung theo mùa làm tăng dòng chảy mặt, gây lũ, ngập úng ở đồng bằng và sạt lở ở vùng đồi núi. B sai vì nền nhiệt nước ta vẫn trên 20 °C; C sai vì mưa nhiều lại tăng bóc mòn nên sông mang nhiều phù sa hơn; D sai vì mùa mưa bão kèm lũ quét, cháy rừng và sâu bệnh, không phải nhân tố mở rộng diện tích rừng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "thiên tai"
+      ]
+    },
+    {
+      "id": "dia12-b02-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Biến đổi khí hậu đang tác động đến thiên nhiên nhiệt đới ẩm gió mùa của nước ta. Phát biểu nào sau đây **không** phải biểu hiện của quá trình này?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt độ trung bình năm có xu hướng tăng lên."
+        },
+        {
+          "key": "B",
+          "text": "Các hiện tượng thời tiết cực đoan xuất hiện với tần suất ngày càng lớn."
+        },
+        {
+          "key": "C",
+          "text": "Mực nước biển dâng, xâm nhập mặn mở rộng ở vùng ven biển."
+        },
+        {
+          "key": "D",
+          "text": "Số giờ nắng giảm mạnh, thiên nhiên chuyển sang tính chất lạnh của ôn đới."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Biến đổi khí hậu làm nền nhiệt tăng, thời tiết cực đoan và nước biển dâng nhiều hơn, tức là tăng thêm tính bất ổn của thiên nhiên nhiệt đới ẩm gió mùa chứ không làm mất tính chất nhiệt đới. A, B, C đều là biểu hiện điển hình đã được nêu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "biến đổi khí hậu"
+      ]
+    },
+    {
+      "id": "dia12-b02-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nổi bật của sông ngòi nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mạng lưới dày đặc, nhiều nước, giàu phù sa."
+        },
+        {
+          "key": "B",
+          "text": "Ít sông ngòi, lưu lượng nước của các sông rất nhỏ."
+        },
+        {
+          "key": "C",
+          "text": "Sông nghèo phù sa, nước trong suốt quanh năm."
+        },
+        {
+          "key": "D",
+          "text": "Chế độ nước sông ổn định, lũ không theo mùa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Khí hậu nhiệt đới ẩm gió mùa với lượng mưa lớn cùng địa hình nhiều đồi núi tạo nên mạng lưới sông ngòi dày đặc, nhiều nước và chở theo lượng phù sa lớn. B và C trái với thực tế; D sai vì chế độ nước sông biến đổi theo mùa, mùa lũ trùng với mùa mưa.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "sông ngòi"
+      ]
+    },
+    {
+      "id": "dia12-b02-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Tại một trạm đo trên sông Hồng, lượng nước mùa lũ (tháng VI - X) chiếm khoảng 68,2% tổng lượng nước cả năm. Số liệu trên thể hiện đặc điểm nào của sông ngòi nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lượng nước mùa khô luôn nhiều hơn mùa lũ."
+        },
+        {
+          "key": "B",
+          "text": "Chế độ nước sông có tính mùa, mùa lũ trùng với mùa mưa."
+        },
+        {
+          "key": "C",
+          "text": "Nguồn cung cấp nước chủ yếu của sông là nước ngầm."
+        },
+        {
+          "key": "D",
+          "text": "Lưu lượng nước của sông biến động rất ít trong năm."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Gần bảy phần mười lượng nước tập trung trong năm tháng mùa lũ chứng tỏ chế độ nước sông phụ thuộc vào chế độ mưa, mùa lũ trùng với mùa mưa. A và D trái ngược với số liệu; C sai vì nguồn tiếp nước chủ yếu của sông là mưa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "sông ngòi"
+      ]
+    },
+    {
+      "id": "dia12-b02-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở nước ta, hướng chảy của sông ngòi chủ yếu tuân theo",
+      "options": [
+        {
+          "key": "A",
+          "text": "hướng nghiêng chung và các hướng cấu trúc của địa hình."
+        },
+        {
+          "key": "B",
+          "text": "hướng kinh tuyến, chảy từ bắc xuống nam."
+        },
+        {
+          "key": "C",
+          "text": "hướng vòng tròn bao quanh các vùng núi."
+        },
+        {
+          "key": "D",
+          "text": "chế độ gió mùa, đổi hướng chảy theo mùa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Sông chảy từ nơi cao xuống nơi thấp nên hướng sông lặp theo hướng nghiêng chung (tây bắc - đông nam) và hướng vòng cung của các dãy núi. B và C không phải quy luật chung; D sai vì gió không làm đổi hướng chảy của sông.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "sông ngòi",
+        "địa hình"
+      ]
+    },
+    {
+      "id": "dia12-b02-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Sông ngòi ở vùng duyên hải miền Trung nước ta thường ngắn và dốc, vì vậy",
+      "options": [
+        {
+          "key": "A",
+          "text": "nước sông ổn định quanh năm, hầu như không xảy ra lũ."
+        },
+        {
+          "key": "B",
+          "text": "chế độ nước sông điều hòa, mùa lũ kéo dài."
+        },
+        {
+          "key": "C",
+          "text": "các sông ở đây có lưu vực rộng và mùa lũ kéo dài nhiều tháng."
+        },
+        {
+          "key": "D",
+          "text": "sau các đợt mưa lớn, lũ lên nhanh và dễ gây lũ quét, ngập úng cục bộ."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Lưu vực nhỏ, độ dốc lớn khiến nước tập trung nhanh, lũ lên đột ngột và ngắn ngày, dễ kèm lũ quét, sạt lở. A và B trái với đặc điểm sông ngắn dốc; C sai vì lưu vực nhỏ nên lũ tập trung nhanh chứ không kéo dài nhiều tháng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "sông ngòi"
+      ]
+    },
+    {
+      "id": "dia12-b02-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Một con sông ở nước ta có tổng lượng nước chảy trong năm là 470 tỉ m³, trong đó lượng nước của mùa lũ (6 tháng) là 352,5 tỉ m³. Tỉ trọng lượng nước mùa lũ so với tổng lượng nước năm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "25%."
+        },
+        {
+          "key": "B",
+          "text": "65%."
+        },
+        {
+          "key": "C",
+          "text": "75%."
+        },
+        {
+          "key": "D",
+          "text": "85%."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Tỉ trọng = 352,5 : 470 x 100 = 75%. A (25%) là phần trăm lượng nước mùa khô; B và D là các kết quả tính nhầm từ số liệu đã cho.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "tính toán sông ngòi"
+      ]
+    },
+    {
+      "id": "dia12-b02-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Quá trình feralit được coi là quá trình hình thành đất đặc trưng của nước ta vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "diễn ra ở vùng đồi núi thấp trong điều kiện nhiệt ẩm cao, tạo nên nhóm đất feralit chiếm diện tích lớn nhất ở vùng đồi núi."
+        },
+        {
+          "key": "B",
+          "text": "chỉ xảy ra trong điều kiện khí hậu khô hạn của vùng ôn đới."
+        },
+        {
+          "key": "C",
+          "text": "xảy ra với cường độ như nhau trên mọi dạng địa hình."
+        },
+        {
+          "key": "D",
+          "text": "chịu tác động quyết định của sóng biển và chế độ thủy triều."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Sự tích tụ oxit sắt, oxit nhôm và rửa trôi bazơ trong môi trường nhiệt - ẩm cao ở vùng đồi núi thấp đã hình thành nên đất feralit, nhóm đất đặc trưng và chiếm phần lớn diện tích tự nhiên của vùng đồi núi nước ta. B và D sai về điều kiện hình thành; C sai vì cường độ feralit thay đổi theo địa hình, đá mẹ và chế độ ẩm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "quá trình feralit"
+      ]
+    },
+    {
+      "id": "dia12-b02-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Đất feralit ở nước ta có màu đỏ vàng chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "tích tụ nhiều hợp chất oxit sắt và oxit nhôm trong quá trình hình thành đất."
+        },
+        {
+          "key": "B",
+          "text": "chứa hàm lượng lớn mùn do thực vật phân hủy."
+        },
+        {
+          "key": "C",
+          "text": "tạp lẫn nhiều muối khoáng màu trắng do nước biển."
+        },
+        {
+          "key": "D",
+          "text": "hình thành trực tiếp từ đá vôi chưa bị phong hóa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Trong điều kiện nhiệt ẩm cao, các bazơ dễ hòa tan bị rửa trôi mạnh còn oxit sắt và oxit nhôm tích tụ, tạo màu đỏ vàng đặc trưng của đất feralit. B sai vì mùn làm đất thẫm màu; C và D không giải thích được màu đỏ vàng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "đất feralit"
+      ]
+    },
+    {
+      "id": "dia12-b02-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây **đúng** về tính chất của đất feralit ở vùng đồi núi nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đất có tính kiềm và tầng phong hóa rất mỏng."
+        },
+        {
+          "key": "B",
+          "text": "Đất được hình thành trong điều kiện khô hạn quanh năm."
+        },
+        {
+          "key": "C",
+          "text": "Đất thường chua, dễ bị xói mòn và rửa trôi khi mất lớp phủ thực vật."
+        },
+        {
+          "key": "D",
+          "text": "Đất giàu phù sa, thích hợp nhất với cây lúa nước."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Đất feralit có phản ứng chua, nghèo bazơ, tầng phong hóa dày nhưng dễ bị bóc mòn khi mất rừng, vì vậy trồng rừng và làm ruộng bậc thang là biện pháp bảo vệ đất. A sai vì đất chua, tầng phong hóa dày; B sai vì đất hình thành trong điều kiện nhiệt ẩm cao; D sai vì đất phù sa mới là nhóm dùng cho cây lúa ở đồng bằng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "đất feralit"
+      ]
+    },
+    {
+      "id": "dia12-b02-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây **đúng** về đất phù sa ở các đồng bằng nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là loại đất bạc màu, không thích hợp với sản xuất nông nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "Đất tốt và tương đối cân đối, nhưng chịu tác động mạnh của khí hậu nhiệt đới ẩm nên dinh dưỡng bị rửa trôi, mất cân đối nếu chỉ khai thác mà không bón phân."
+        },
+        {
+          "key": "C",
+          "text": "Luôn đủ nước và chất dinh dưỡng cho cây trồng, không cần đầu tư phân bón."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ phân bố ở vùng đồi núi thấp và hình thành từ đá mẹ badan."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Đất phù sa là nhóm đất tốt nhất cho nông nghiệp nhiệt đới, song nhiệt ẩm cao làm quá trình khoáng hóa và rửa trôi nhanh, nên phải bón phân cân đối và hợp lí. A và C sai; D sai vì đất phù sa phân bố chủ yếu ở đồng bằng, còn đất badan hình thành từ dung nham ở vùng cao nguyên.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "đất phù sa"
+      ]
+    },
+    {
+      "id": "dia12-b02-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao sau khi rừng bị chặt phá, đất ở vùng đồi núi nước ta rất nhanh bị bạc màu và thoái hóa?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì nhiệt độ cao làm toàn bộ khoáng vật trong đất bốc hơi."
+        },
+        {
+          "key": "B",
+          "text": "Vì đá mẹ vùng đồi núi là đá trung tính nên không giữ được dinh dưỡng."
+        },
+        {
+          "key": "C",
+          "text": "Vì nước mưa và dòng chảy mặt trên địa hình dốc cuốn đi lớp mùn cùng chất dinh dưỡng khi đất không còn thực vật che phủ."
+        },
+        {
+          "key": "D",
+          "text": "Vì gió mùa Tây Nam đưa muối từ biển vào làm mặn hóa đất trên diện rộng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Lớp thực vật là tấm đệm giữ đất; mất rừng, mưa lớn tập trung theo mùa trên sườn dốc gây xói mòn và rửa trôi mạnh, làm đất mất dần mùn và dinh dưỡng nên bạc màu nhanh. A sai vì khoáng vật không bốc hơi; B sai vì đá mẹ không phải nguyên nhân chính; D sai vì mặn hóa là quá trình ở vùng ven biển, không phải ở đồi núi.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "thoái hóa đất"
+      ]
+    },
+    {
+      "id": "dia12-b02-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Sinh vật tự nhiên của nước ta có đặc điểm nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nghèo nàn về thành phần loài, chủ yếu là loài ôn đới di cư."
+        },
+        {
+          "key": "B",
+          "text": "Phong phú, đa dạng và mang tính chất nhiệt đới ẩm gió mùa."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ phát triển vào mùa mưa, mùa khô chết hoàn toàn."
+        },
+        {
+          "key": "D",
+          "text": "Hoàn toàn là các loài sinh vật biển."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nhiệt ẩm dồi dào và địa hình phân hóa tạo nên hệ sinh vật phong phú, đa dạng về thành phần loài và kiểu hệ sinh thái, trong đó các loài nhiệt đới ẩm chiếm ưu thế. A và D trái với thực tế; C sai vì vào mùa khô nhiều loài rụng lá, ngủ đông để thích nghi chứ không chết hết.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "sinh vật"
+      ]
+    },
+    {
+      "id": "dia12-b02-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Thảm thực vật rừng nước ta rất đa dạng, có rừng rậm nhiệt đới lá rộng thường xanh, đồng thời có rừng thưa, trảng cỏ và cây bụi ưu thế loài rụng lá vào mùa khô. Nguyên nhân chủ yếu là do",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ có độ cao địa hình tác động, khí hậu không ảnh hưởng tới rừng."
+        },
+        {
+          "key": "B",
+          "text": "địa hình đồng bằng bằng phẳng nên rừng chỉ có một kiểu duy nhất."
+        },
+        {
+          "key": "C",
+          "text": "nhiệt ẩm dồi dào cùng sự phân mùa sâu sắc của khí hậu tạo ra nhiều hoàn cảnh sống khác nhau."
+        },
+        {
+          "key": "D",
+          "text": "gió phơn Tây Nam làm mọi loài thực vật rụng lá quanh năm."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Nhiệt ẩm cao cho phép rừng xanh tốt quanh năm ở nơi ẩm đủ; còn nơi có mùa khô sâu sắc, nhiều loài rụng lá để chống chịu, tạo nên sự đa dạng của thảm thực vật. A và D sai; B trái với nhận định về tính đa dạng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "sinh vật"
+      ]
+    },
+    {
+      "id": "dia12-b02-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "SINGLE_CHOICE",
+      "content": "Chuỗi nhân quả nào sau đây thể hiện **đúng** mối quan hệ giữa khí hậu nhiệt đới ẩm gió mùa với một thành phần tự nhiên của nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt ẩm cao làm phong hóa và feralit mạnh, tạo lớp vỏ phong hóa dày và đất feralit màu đỏ vàng."
+        },
+        {
+          "key": "B",
+          "text": "Mưa nhiều theo mùa làm số ngày mưa giảm, sông ngòi ít nước và nghèo phù sa."
+        },
+        {
+          "key": "C",
+          "text": "Gió mùa Đông Bắc lạnh làm toàn bộ thực vật nhiệt đới bị tiêu diệt, sinh vật nghèo nàn."
+        },
+        {
+          "key": "D",
+          "text": "Địa hình dốc thúc đẩy bồi tụ ở miền núi, hình thành các cao nguyên badan."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đây là chuỗi đúng: nhiệt - ẩm cao tăng cường phong hóa hóa học và quá trình feralit, để lại vỏ phong hóa dày và đất đỏ vàng. B sai logic (mưa nhiều thì sông giàu nước và phù sa); C sai vì gió mùa Đông Bắc chỉ thêm thành phần cận nhiệt, ôn đới chứ không tiêu diệt thực vật nhiệt đới; D sai vì địa hình dốc là nơi xâm thực mạnh, còn badan là sản phẩm của núi lửa.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "mối quan hệ tự nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b02-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về biểu hiện tính nhiệt đới trong khí hậu nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt độ trung bình năm (không kể vùng núi cao) phổ biến trên 20 °C và nhìn chung tăng dần từ Bắc vào Nam."
+        },
+        {
+          "key": "B",
+          "text": "Tổng số giờ nắng trong năm đạt khoảng 1 400 đến 3 000 giờ."
+        },
+        {
+          "key": "C",
+          "text": "Tổng bức xạ và cán cân bức xạ năm đều nhỏ vì góc chiếu của tia sáng Mặt Trời luôn thấp."
+        },
+        {
+          "key": "D",
+          "text": "Biên độ nhiệt độ trung bình năm tăng dần từ Bắc vào Nam."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "**Đáp án: A, B.** Nền nhiệt cao, tăng dần từ Bắc vào Nam và lượng nắng lớn là những chỉ tiêu nói lên tính nhiệt đới của khí hậu. C sai vì góc chiếu của tia sáng Mặt Trời lớn nên tổng bức xạ lớn và cán cân bức xạ năm luôn dương; D sai vì biên độ nhiệt năm giảm dần từ Bắc vào Nam do gió mùa Đông Bắc suy yếu dần về phía nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "tính nhiệt đới",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b02-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về chế độ gió và mưa theo mùa của khí hậu nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gió Tín phong bán cầu Bắc hoạt động thường xuyên trên lãnh thổ, xen kẽ với các loại gió mùa."
+        },
+        {
+          "key": "B",
+          "text": "Nửa sau mùa đông, miền Bắc có rét ẩm và mưa phùn vì khối khí lạnh di chuyển qua Biển Đông nên được tăng cường ẩm."
+        },
+        {
+          "key": "C",
+          "text": "Đầu mùa hạ, gió Tây Nam vượt dãy Trường Sơn gây gió phơn khô nóng cho Bắc Trung Bộ và duyên hải miền Trung."
+        },
+        {
+          "key": "D",
+          "text": "Gió mùa Đông Bắc là nguyên nhân chủ yếu gây mưa lớn cho Nam Bộ và Tây Nguyên."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, B, C.** Ba phát biểu phản ánh đúng hoàn lưu gió mùa: Tín phong là loại gió nền hoạt động quanh năm, gió mùa Đông Bắc nửa sau mùa đông gây mưa phùn, còn gió Tây Nam vượt Trường Sơn tạo gió phơn. D sai vì mưa lớn ở Nam Bộ và Tây Nguyên do gió mùa Tây Nam, gió mùa Đông Bắc hầu như không tới được vùng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "gió mùa",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b02-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về biểu hiện của thiên nhiên nhiệt đới ẩm gió mùa trong các thành phần tự nhiên ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ở miền đồi núi, mưa lớn trên địa hình dốc để lại mạng lưới khe rãnh, sườn dốc bị cắt xẻ; vùng đá vôi có nhiều hang động cac-xtơ."
+        },
+        {
+          "key": "B",
+          "text": "Sông ngòi dày đặc, nhiều nước, giàu phù sa và mùa lũ trùng với mùa mưa."
+        },
+        {
+          "key": "C",
+          "text": "Đất feralit hình thành trong điều kiện khô hạn, có tính kiềm và tầng phong hóa mỏng."
+        },
+        {
+          "key": "D",
+          "text": "Hệ sinh vật phong phú, ưu thế là các loài nhiệt đới; ở vùng núi cao xuất hiện thêm các loài cận nhiệt và ôn đới."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, B, D.** Ba phát biểu đúng cho thấy khí hậu chi phối địa hình, sông ngòi và sinh vật. C sai vì đất feralit hình thành trong điều kiện nhiệt ẩm cao, có tính chua và tầng phong hóa dày, là sản phẩm đặc trưng của miền đồi núi thấp nước ta.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "thành phần tự nhiên",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b02-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về ảnh hưởng của thiên nhiên nhiệt đới ẩm gió mùa đến hoạt động sản xuất và đời sống ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tính ổn định cao của khí hậu giúp các hoạt động nông nghiệp và giao thông vận tải ít gặp rủi ro."
+        },
+        {
+          "key": "B",
+          "text": "Nhiệt ẩm dồi dào là thuận lợi để phát triển nền nông nghiệp nhiệt đới với cây trồng, vật nuôi sinh trưởng nhanh quanh năm."
+        },
+        {
+          "key": "C",
+          "text": "Mưa tập trung theo mùa làm gia tăng lũ lụt, sạt lở vào mùa mưa và tình trạng thiếu nước, hạn hán vào mùa khô."
+        },
+        {
+          "key": "D",
+          "text": "Nhiệt độ và độ ẩm cao khiến các công trình giao thông, xây dựng nhanh bị hư hỏng, làm tăng chi phí bảo trì."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, C, D.** Thiên nhiên nhiệt đới ẩm gió mùa vừa cho thuận lợi về nhiệt - ẩm cho sản xuất, vừa đặt ra khó khăn do tính mùa của mưa, do thiên tai và do tốc độ hư hỏng của công trình. A sai vì khí hậu nước ta thất thường, nhiều thiên tai, nên sản xuất và giao thông chịu nhiều rủi ro.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "ảnh hưởng tới sản xuất",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b02-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b02-thien-nhien-gio-mua",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về thiên nhiên nhiệt đới ẩm gió mùa và tác động của biến đổi khí hậu ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tính chất nhiệt đới ẩm gió mùa thể hiện đồng thời ở khí hậu, địa hình, sông ngòi, đất và sinh vật, giữa các thành phần có mối quan hệ chặt chẽ với nhau."
+        },
+        {
+          "key": "B",
+          "text": "Nhờ ở sâu trong lục địa nên nước ta có khí hậu khô hạn, thiên nhiên ít biến động theo mùa."
+        },
+        {
+          "key": "C",
+          "text": "Biến đổi khí hậu làm nền nhiệt tăng, thiên tai cực đoan và nước biển dâng nhiều hơn, khiến thiên nhiên thêm bất ổn."
+        },
+        {
+          "key": "D",
+          "text": "Ở miền đồi núi, quá trình xâm thực mạnh cung cấp vật liệu cho quá trình bồi tụ, làm các đồng bằng châu thổ mở rộng dần ra biển."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, C, D.** Ba phát biểu này đều đúng: tính chất nhiệt đới ẩm gió mùa thể hiện đồng thời ở nhiều thành phần và các thành phần quan hệ chặt chẽ với nhau; xâm thực ở miền núi cung cấp vật liệu cho bồi tụ ở đồng bằng; biến đổi khí hậu khuếch đại tính bất ổn của thiên nhiên. B sai vì nước ta nằm kề Biển Đông rộng lớn, không ở sâu trong lục địa nên thiên nhiên ẩm và biến động mạnh theo mùa.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 2",
+        "biến đổi khí hậu",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

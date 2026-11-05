@@ -1,0 +1,960 @@
+{
+  "id": "de-ktpl-12-bai-11",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 – Bài 11: Quyền và nghĩa vụ của công dân trong học tập",
+  "slug": "de-ktpl-12-bai-11",
+  "description": "Đề ôn tập bám sát Bài 11 Giáo dục Kinh tế và Pháp luật 12: quyền học tập của công dân (học không hạn chế, học bất cứ ngành nghề nào, học thường xuyên và học suốt đời, bình đẳng về cơ hội học tập), các cấp học và trình độ đào tạo của hệ thống giáo dục quốc dân, phổ cập giáo dục, nghĩa vụ học tập và trách nhiệm của Nhà nước, gia đình, xã hội trong việc bảo đảm quyền học tập. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-B11",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "ktpl12-b11-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Quyền học tập của công dân được hiểu cơ bản là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mọi công dân đều được Nhà nước bảo đảm quyền được học, được phát triển năng lực của mình qua các hình thức và trình độ giáo dục phù hợp."
+        },
+        {
+          "key": "B",
+          "text": "công dân chỉ được đi học khi cơ quan có thẩm quyền xét thấy gia đình người đó đã đủ điều kiện về tiền bạc và chỗ ở."
+        },
+        {
+          "key": "C",
+          "text": "việc học tập là quyền riêng của con em những người làm trong cơ quan nhà nước, các gia đình khác phải tự lo liệu."
+        },
+        {
+          "key": "D",
+          "text": "công dân chỉ được học ở cấp tiểu học, muốn học tiếp lên các cấp cao hơn phải chờ địa phương cho phép từng trường hợp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quyền học tập là quyền cơ bản của mọi công dân, được Nhà nước tôn trọng và bảo đảm bằng hệ thống trường lớp, chính sách giáo dục chung. B biến quyền học tập thành kết quả xem xét hoàn cảnh kinh tế; C chuyển quyền thành đặc quyền của một nhóm người; D giới hạn trái phép phạm vi học tập của công dân.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Quyền học tập",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung công dân được học không hạn chế thể hiện ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "công dân được học từ trình độ thấp đến trình độ cao, học liên thông, học lên đại học và sau đại học khi đáp ứng điều kiện theo quy định; về cơ bản con đường học tập không bị chặn bởi độ tuổi."
+        },
+        {
+          "key": "B",
+          "text": "công dân được học đồng thời ở mọi trình độ mà không cần đáp ứng yêu cầu về nội dung, thời lượng của chương trình đào tạo."
+        },
+        {
+          "key": "C",
+          "text": "công dân muốn học tới trình độ nào cũng đương nhiên được nhận, không cần xét tới kết quả học tập của các trình độ trước."
+        },
+        {
+          "key": "D",
+          "text": "công dân chỉ được học một lần ở mỗi cấp học, nếu vì lí do sức khoẻ mà nghỉ thì không được quay lại học tiếp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Học không hạn chế nghĩa là con đường học tập của công dân về cơ bản không bị chặn bởi cấp học hay độ tuổi: người học có thể học tiếp lên trình độ cao hơn khi đáp ứng yêu cầu của chương trình và điều kiện tuyển sinh. B và C lẫn quyền học tập với việc miễn trừ điều kiện đào tạo, tiêu chí tuyển sinh; D phủ nhận quyền được học lại, học tiếp của người học.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Học không hạn chế",
+        "Quyền học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Quyền được học bất cứ ngành, nghề nào của công dân được thể hiện ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "công dân tự lựa chọn ngành, nghề học tập theo năng lực, sở trường, hoàn cảnh của mình và phù hợp với nhu cầu của xã hội, không bị phân biệt đối xử."
+        },
+        {
+          "key": "B",
+          "text": "công dân được học bất cứ ngành, nghề nào, kể cả những ngành, nghề mà pháp luật nghiêm cấm đào tạo và cấm hành nghề."
+        },
+        {
+          "key": "C",
+          "text": "việc chọn ngành, nghề học tập do cha mẹ hoặc người giám hộ quyết định thay, người học chỉ việc thực hiện theo."
+        },
+        {
+          "key": "D",
+          "text": "người học phải đăng kí đúng ngành, nghề do cơ sở giáo dục chỉ định để bảo đảm đủ chỉ tiêu đào tạo của từng khoá."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quyền lựa chọn ngành, nghề giúp người học phát huy khả năng, tạo việc làm và đáp ứng nhu cầu nhân lực của xã hội; quyền này thuộc về bản thân người học. B sai vì pháp luật cấm đào tạo, hành nghề ở một số lĩnh vực đặc thù; C và D phủ nhận quyền tự định đoạt của người học, biến quyền thành sự áp đặt của gia đình hoặc cơ sở giáo dục.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Học bất cứ ngành nghề nào",
+        "Quyền học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Học thường xuyên, học suốt đời được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "người học có thể học liên tục bằng nhiều hình thức phù hợp từng giai đoạn của cuộc đời, kết hợp học ở cơ sở giáo dục với tự học, học từ xa, học trực tuyến."
+        },
+        {
+          "key": "B",
+          "text": "người học phải theo học liên tục tại một cơ sở giáo dục chính quy và không được tạm dừng việc học vì bất cứ lí do nào."
+        },
+        {
+          "key": "C",
+          "text": "việc học chỉ diễn ra trong độ tuổi đến trường ở nhà trường, sau khi đã đi làm thì không cần phải học thêm điều gì."
+        },
+        {
+          "key": "D",
+          "text": "người đã trưởng thành chỉ được học lại khi cơ quan quản lí giáo dục triệu tập vào các lớp đào tạo chính quy tập trung."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Học thường xuyên, học suốt đời khẳng định việc học không khép lại sau giai đoạn đi học ở trường: mỗi người có thể bổ sung kiến thức, kĩ năng suốt cuộc đời bằng nhiều hình thức đa dạng. B tuyệt đối hoá hình thức học chính quy, bỏ qua quyền được linh hoạt về thời gian; C và D phủ nhận quyền học của người lớn, trái với tinh thần học tập suốt đời.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Học thường xuyên",
+        "Học suốt đời"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Quyền bình đẳng về cơ hội học tập của công dân được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mọi công dân không phân biệt giới tính, dân tộc, tôn giáo, hoàn cảnh gia đình, tình trạng khuyết tật đều được đối xử bình đẳng khi tiếp cận giáo dục và được học tập theo khả năng."
+        },
+        {
+          "key": "B",
+          "text": "học sinh ở mọi vùng, miền phải đạt cùng một kết quả học tập thì mới được coi là bình đẳng về cơ hội học tập."
+        },
+        {
+          "key": "C",
+          "text": "cơ hội học tập chỉ dành cho người có kết quả học tập xuất sắc, những người còn lại phải tự lo toàn bộ việc học của mình."
+        },
+        {
+          "key": "D",
+          "text": "bình đẳng về cơ hội học tập là mọi người học đều được cấp văn bằng như nhau dù có tham gia học tập hay không."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bình đẳng về cơ hội học tập là bình đẳng về điều kiện tiếp cận và tham gia học tập, không phải bình đẳng về kết quả hay về văn bằng. B đòi hỏi cào bằng kết quả, vốn phụ thuộc năng lực và nỗ lực từng người; C thu hẹp cơ hội học tập vào một nhóm người; D tách văn bằng khỏi quá trình học tập, trái quy định về cấp bằng, chứng chỉ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bình đẳng cơ hội học tập",
+        "Quyền học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Các cấp học và trình độ đào tạo của hệ thống giáo dục quốc dân nước ta được tổ chức theo hướng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "gồm giáo dục mầm non, giáo dục phổ thông, giáo dục nghề nghiệp và giáo dục đại học, trong đó giáo dục thường xuyên được thực hiện ở các trình độ phù hợp."
+        },
+        {
+          "key": "B",
+          "text": "chỉ có giáo dục phổ thông là cấp học của hệ thống, mọi trình độ khác đều do từng địa phương tự đặt ra ngoài hệ thống."
+        },
+        {
+          "key": "C",
+          "text": "giáo dục nghề nghiệp và giáo dục đại học được xếp thuộc giáo dục mầm non nên không cấp văn bằng, chứng chỉ cho người học."
+        },
+        {
+          "key": "D",
+          "text": "hệ thống chỉ chia thành hai loại là giáo dục chính quy và giáo dục thường xuyên, không phân theo cấp học và trình độ đào tạo."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hệ thống giáo dục quốc dân được phân định theo cấp học và trình độ đào tạo, từ mầm non tới đại học, đồng thời tổ chức các chương trình giáo dục thường xuyên ở những trình độ phù hợp. B và C xáo trộn, thu hẹp sai cấu trúc của hệ thống; D nhầm hình thức tổ chức học tập (chính quy, thường xuyên) với cách phân cấp học và trình độ đào tạo.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Hệ thống giáo dục quốc dân",
+        "Các cấp học"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hệ thống giáo dục quốc dân, giáo dục phổ thông",
+      "options": [
+        {
+          "key": "A",
+          "text": "gồm cấp tiểu học, cấp trung học cơ sở và cấp trung học phổ thông, trong đó trung học phổ thông là cấp học cuối của giáo dục phổ thông."
+        },
+        {
+          "key": "B",
+          "text": "gồm cấp nhà trẻ, cấp mẫu giáo và cấp tiểu học, trong đó nhà trẻ là cấp học nền tảng đầu tiên của mọi người học."
+        },
+        {
+          "key": "C",
+          "text": "gồm cấp sơ cấp, cấp trung cấp và cấp cao đẳng, được tổ chức chủ yếu theo hình thức đào tạo nghề nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "gồm trình độ đại học, trình độ thạc sĩ và trình độ tiến sĩ, chỉ dành cho người đã có việc làm ổn định."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giáo dục phổ thông gồm ba cấp học: tiểu học, trung học cơ sở và trung học phổ thông; hoàn thành trung học phổ thông là kết thúc giáo dục phổ thông. B là các cơ sở của giáo dục mầm non; C thuộc giáo dục nghề nghiệp; D thuộc giáo dục đại học.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Giáo dục phổ thông",
+        "Các cấp học"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Giáo dục nghề nghiệp và giáo dục đại học đào tạo người học theo các trình độ nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "giáo dục nghề nghiệp có sơ cấp, trung cấp, cao đẳng; giáo dục đại học có trình độ đại học, thạc sĩ và tiến sĩ."
+        },
+        {
+          "key": "B",
+          "text": "giáo dục nghề nghiệp có tiểu học, trung học cơ sở; giáo dục đại học có trung học phổ thông và bổ túc văn hoá."
+        },
+        {
+          "key": "C",
+          "text": "cả hai bậc đều đào tạo theo trình độ mầm non, tiểu học và trung học để cấp bằng tốt nghiệp phổ thông."
+        },
+        {
+          "key": "D",
+          "text": "chứng chỉ ngắn hạn là trình độ cao nhất của giáo dục đại học, còn tiến sĩ là một trình độ của giáo dục nghề nghiệp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giáo dục nghề nghiệp và giáo dục đại học là những trình độ đào tạo nằm sau giáo dục phổ thông, với các mức từ sơ cấp, trung cấp, cao đẳng và từ đại học tới thạc sĩ, tiến sĩ. B và C lẫn các cấp của giáo dục phổ thông với giáo dục nghề nghiệp, đại học; D đảo ngược thứ tự các trình độ đào tạo.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Giáo dục nghề nghiệp",
+        "Giáo dục đại học"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Phổ cập giáo dục được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "việc phổ biến trong nhân dân trình độ học vấn phổ thông ở những mức tối thiểu theo quy định, để mọi người trong độ tuổi đều có cơ hội và có trách nhiệm đạt được."
+        },
+        {
+          "key": "B",
+          "text": "việc buộc mọi công dân phải tốt nghiệp trình độ đại học trước khi tham gia hoạt động lao động trong nền kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "chính sách riêng của từng cơ sở giáo dục nhằm thu hút người học vào các ngành, nghề mà thị trường đang thiếu nhân lực."
+        },
+        {
+          "key": "D",
+          "text": "hoạt động từ thiện của các tổ chức xã hội dành cho một số nhóm người học do tổ chức đó tự lựa chọn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phổ cập giáo dục hướng tới việc mọi người dân trong độ tuổi đạt trình độ học vấn phổ thông tối thiểu theo quy định, vừa là cơ hội được bảo đảm vừa là trách nhiệm học tập của người học. B đặt ra yêu cầu vượt xa bản chất của phổ cập; C thu hẹp thành vấn đề tuyển sinh của một cơ sở; D biến trách nhiệm chung của Nhà nước và toàn dân thành hoạt động tự nguyện của tổ chức từ thiện.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Phổ cập giáo dục",
+        "Nghĩa vụ học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nghĩa vụ học tập của người học được thể hiện trước hết ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "chuyên cần, thực hiện đầy đủ chương trình, kế hoạch học tập và rèn luyện theo yêu cầu của cơ sở giáo dục nơi mình đang học."
+        },
+        {
+          "key": "B",
+          "text": "tự do bỏ những môn học mình chưa thích và chỉ theo học các môn đã yêu thích từ đầu khoá học."
+        },
+        {
+          "key": "C",
+          "text": "nhờ người khác học thay, thi thay để bảo đảm tên của mình vẫn có trong danh sách lớp của cơ sở giáo dục."
+        },
+        {
+          "key": "D",
+          "text": "chỉ tham gia học tập khi gia đình mình được địa phương hỗ trợ thêm về tiền bạc và đồ dùng học tập."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nghĩa vụ học tập đòi hỏi người học chủ động, đều đặn thực hiện chương trình và các yêu cầu giáo dục của cơ sở đào tạo. B vi phạm tính đầy đủ của chương trình; C là gian lận trong học tập, vừa vi phạm quy chế vừa có thể bị xử lí theo pháp luật; D biến nghĩa vụ phải tự giác thực hiện thành điều kiện chờ hỗ trợ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ học tập",
+        "Người học"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Chị M học hệ vừa làm vừa học ở một cơ sở giáo dục đại học. Chị thường xuyên nghỉ học không phép ở các học phần đã đăng kí, nhờ bạn nộp bài và thi hộ. Nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chị M đã vi phạm nghĩa vụ học tập và quy định của cơ sở giáo dục, mặc dù việc lựa chọn hình thức học của chị là hoàn toàn hợp pháp."
+        },
+        {
+          "key": "B",
+          "text": "Chị M không vi phạm gì vì học theo hệ vừa làm vừa học thì không bắt buộc phải tham gia các hoạt động học tập trên lớp."
+        },
+        {
+          "key": "C",
+          "text": "Việc nhờ bạn nộp bài và thi hộ là cách tổ chức việc học cho phù hợp, không ảnh hưởng tới kết quả đào tạo."
+        },
+        {
+          "key": "D",
+          "text": "Cơ sở giáo dục không có quyền xử lí chị M vì chị đã nộp đủ học phí cho các học phần mà chị đăng kí học."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quyền lựa chọn hình thức học không miễn trừ nghĩa vụ học tập: nghỉ học không phép, nhờ nộp bài và thi hộ đều trái quy chế đào tạo và quy định về trung thực trong học tập. B hiểu sai về hình thức vừa làm vừa học, vì mọi hình thức đều có yêu cầu về khối lượng học tập; C tô vẽ hành vi gian lận thành sáng tạo trong cách học; D nhầm nghĩa vụ tài chính với việc được miễn các nghĩa vụ học tập.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Tình huống học tập",
+        "Nghĩa vụ học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây là nghĩa vụ của người học đối với cơ sở giáo dục và những người xung quanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tôn trọng nhà giáo, cán bộ và người lao động của cơ sở giáo dục; giữ gìn và bảo vệ tài sản của cơ sở giáo dục."
+        },
+        {
+          "key": "B",
+          "text": "Được cơ sở giáo dục bảo đảm điều kiện học tập và được đánh giá, công nhận kết quả học tập một cách công bằng."
+        },
+        {
+          "key": "C",
+          "text": "Được lựa chọn ngành, nghề, hình thức và thời gian học tập phù hợp với khả năng và hoàn cảnh của bản thân."
+        },
+        {
+          "key": "D",
+          "text": "Được hưởng các chính sách ưu tiên về học phí, học bổng khi thuộc diện đối tượng được hỗ trợ theo quy định."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Câu hỏi yêu cầu tìm nghĩa vụ, tức phần việc người học phải chủ động thực hiện; tôn trọng thầy cô, cán bộ nhà trường và giữ gìn tài sản của cơ sở giáo dục chính là nghĩa vụ. B, C, D đều là quyền của người học: quyền được bảo đảm điều kiện và đánh giá, quyền tự chọn ngành nghề và hình thức học, quyền được hưởng chính sách ưu tiên.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ học tập",
+        "Phân biệt quyền và nghĩa vụ"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trách nhiệm của Nhà nước trong việc bảo đảm quyền học tập của công dân thể hiện ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "ban hành chính sách, pháp luật về giáo dục; đầu tư phát triển trường lớp và đội ngũ nhà giáo; thực hiện chính sách ưu tiên cho vùng khó khăn, đối tượng yếu thế."
+        },
+        {
+          "key": "B",
+          "text": "giao toàn bộ việc tổ chức dạy học cho từng gia đình tự lo theo khả năng tài chính và điều kiện thời gian của gia đình đó."
+        },
+        {
+          "key": "C",
+          "text": "chỉ mở trường, lớp ở những địa bàn có doanh nghiệp đăng kí đặt trụ sở để giảm bớt chi phí đầu tư cho ngân sách."
+        },
+        {
+          "key": "D",
+          "text": "yêu cầu mỗi công dân tự chịu trách nhiệm hoàn toàn về việc học của mình, Nhà nước không cần tạo thêm điều kiện."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhà nước giữ vai trò quyết định trong việc bảo đảm quyền học tập bằng thể chế, nguồn lực và chính sách, đặc biệt là chính sách ưu tiên nhằm thu hẹp khoảng cách giữa các vùng, các nhóm người học. B và D chuyển trách nhiệm của Nhà nước sang gia đình và cá nhân; C làm mất tính phổ cập của giáo dục, trái với nguyên tắc bình đẳng về cơ hội học tập.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm của Nhà nước",
+        "Quyền học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhà nước thực hiện chính sách miễn, giảm học phí, cấp học bổng và hỗ trợ chi phí học tập cho một số nhóm người học và một số vùng, miền. Chính sách này chủ yếu nhằm",
+      "options": [
+        {
+          "key": "A",
+          "text": "rút ngắn khoảng cách về cơ hội học tập, giúp người có hoàn cảnh khó khăn vẫn được đến trường và có thể học lên trình độ cao hơn."
+        },
+        {
+          "key": "B",
+          "text": "tạo ra sự cạnh tranh về điểm số giữa các cơ sở giáo dục đang hoạt động trên cùng một địa bàn dân cư."
+        },
+        {
+          "key": "C",
+          "text": "bảo đảm cho mọi người học đều đạt kết quả cao mà bản thân người học không cần cố gắng trong học tập."
+        },
+        {
+          "key": "D",
+          "text": "giúp các cơ sở giáo dục thu được nhiều học phí hơn từ những người học đang sinh sống ở khu vực thành thị."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Các chính sách hỗ trợ về tài chính là công cụ thực hiện bình đẳng về cơ hội học tập, giúp rào cản kinh tế không ngăn cản người học đến trường. B nhầm mục tiêu của chính sách an sinh trong giáo dục với cạnh tranh giữa các cơ sở đào tạo; C hứa hẹn kết quả không phụ thuộc nỗ lực, trái bản chất học tập; D ngược hẳn chiều tác động của chính sách hỗ trợ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chính sách giáo dục",
+        "Bình đẳng cơ hội học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trách nhiệm của gia đình, tức cha mẹ hoặc người giám hộ, trong việc bảo đảm quyền học tập của con được thể hiện ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "tạo điều kiện về thời gian, chỗ học, đồ dùng học tập; động viên con em đi học đều và hoàn thành phổ cập giáo dục theo quy định."
+        },
+        {
+          "key": "B",
+          "text": "làm bài và thi thay con ở nhà để kết quả học tập của con luôn đứng đầu lớp theo mong muốn của gia đình."
+        },
+        {
+          "key": "C",
+          "text": "cho con nghỉ học sớm khi gia đình cần thêm người lao động để tăng thu nhập cho các khoản chi tiêu chung."
+        },
+        {
+          "key": "D",
+          "text": "chỉ cho con đi học khi trường đó có cơ sở vật chất sang trọng và đội ngũ giáo viên nổi tiếng trên địa bàn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gia đình là người trực tiếp tạo điều kiện và giám sát việc học của con, giúp con thực hiện nghĩa vụ học tập và hoàn thành phổ cập giáo dục. B là hành vi gian lận, làm hỏng ý nghĩa của việc học; C buộc con bỏ học sớm, xâm phạm quyền học tập của con; D biến việc đi học thành lựa chọn theo hình thức của nhà trường, trái nghĩa vụ bảo đảm cho con được học.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm của gia đình",
+        "Quyền học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Gia đình anh K có con trong độ tuổi đi học. Anh cho con nghỉ học giữa chừng khi đang học cấp trung học cơ sở để phụ bán hàng và cho rằng cho con học hay nghỉ là quyền riêng của gia đình. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anh K chưa thực hiện đúng trách nhiệm của gia đình, vì quyền học tập của con không thuộc quyền tự do định đoạt của cha mẹ."
+        },
+        {
+          "key": "B",
+          "text": "Anh K làm đúng vì cha mẹ là người trực tiếp nuôi dưỡng nên có toàn quyền quyết định việc học hành của con mình."
+        },
+        {
+          "key": "C",
+          "text": "Việc cho con nghỉ học chỉ là thiếu sót về đạo đức, không liên quan tới trách nhiệm mà pháp luật quy định."
+        },
+        {
+          "key": "D",
+          "text": "Cơ quan có thẩm quyền không được nhắc nhở gia đình anh K vì đây là quan hệ huyết thống thuộc phạm vi nội bộ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quyền học tập là quyền của con người, của công dân; cha mẹ có trách nhiệm tạo điều kiện cho con được học và hoàn thành phổ cập giáo dục, không có quyền buộc con nghỉ học. B và C phủ nhận trách nhiệm pháp lí của gia đình trong việc bảo đảm quyền học của con; D hiểu sai vì việc học của trẻ em trong độ tuổi là vấn đề mà Nhà nước và cộng đồng có quyền giám sát, nhắc nhở, xử lí.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Tình huống gia đình",
+        "Trách nhiệm bảo đảm quyền học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Có ý kiến cho rằng: công dân có quyền học tập nên mọi cơ sở giáo dục đều phải nhận người học vào học, kể cả khi người đó không đủ điều kiện tuyển sinh. Ý kiến này",
+      "options": [
+        {
+          "key": "A",
+          "text": "không đúng, vì quyền học tập được thực hiện trong khuôn khổ quy định về điều kiện, tiêu chuẩn và chỉ tiêu tuyển sinh của từng chương trình đào tạo."
+        },
+        {
+          "key": "B",
+          "text": "đúng, vì quyền học tập của công dân là quyền tuyệt đối, không bị giới hạn bởi bất cứ điều kiện hay thủ tục nào."
+        },
+        {
+          "key": "C",
+          "text": "đúng, vì cơ sở giáo dục tổ chức dạy học để phục vụ người học nên không được đặt ra điều kiện đầu vào với người học."
+        },
+        {
+          "key": "D",
+          "text": "không đúng, vì công dân chỉ có quyền học tập sau khi đã có việc làm và có thu nhập ổn định từ việc làm đó."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mọi quyền đều có khuôn khổ pháp lí: quyền học tập không đồng nghĩa với việc được vào học bất cứ trình độ nào mà không cần đáp ứng yêu cầu về năng lực, bằng cấp trước đó hay chỉ tiêu đào tạo. B tuyệt đối hoá quyền, phủ nhận điều kiện tuyển sinh hợp pháp; C phủ nhận quyền tự chủ chuyên môn của cơ sở giáo dục; D đặt thêm điều kiện về việc làm, thu nhập mà pháp luật không quy định.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Giới hạn của quyền học tập",
+        "Vận dụng cao"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Lớp bạn H có một học sinh bị khuyết tật vận động. Việc làm nào sau đây của tập thể lớp và nhà trường thể hiện đúng quyền bình đẳng về cơ hội học tập?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bố trí chỗ học thuận tiện, hỗ trợ H khi cần và bảo đảm H được tham gia đầy đủ các hoạt động học tập như những bạn khác."
+        },
+        {
+          "key": "B",
+          "text": "Cho H mang vở về tự học ở nhà và miễn tham gia các hoạt động chung của lớp để H khỏi phải khó khăn."
+        },
+        {
+          "key": "C",
+          "text": "Đề nghị H chuyển sang lớp khác vì lo việc đi lại của H ảnh hưởng tới thành tích chung của lớp."
+        },
+        {
+          "key": "D",
+          "text": "Giao cho H làm các công việc vặt của lớp để các bạn còn lại có thời gian tập trung vào việc học."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bình đẳng về cơ hội học tập với người khuyết tật chính là tạo điều kiện để các em được học và tham gia như mọi người học khác. B tuy có vẻ thương nhưng thực chất là tước quyền được học cùng bạn; C là phân biệt đối xử, đẩy người học ra khỏi lớp; D lợi dụng hoàn cảnh của bạn để phân công không phù hợp, ảnh hưởng tới việc học của chính bạn đó.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bình đẳng cơ hội học tập",
+        "Tình huống học đường"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Anh T đã đi làm được vài năm, đăng kí học một khoá bồi dưỡng ngắn hạn buổi tối để bổ sung chuyên môn, sau đó học tiếp trình độ đại học theo hình thức vừa làm vừa học. Trường hợp của anh T thể hiện",
+      "options": [
+        {
+          "key": "A",
+          "text": "quyền học thường xuyên, học suốt đời và quyền học không hạn chế của công dân trong học tập."
+        },
+        {
+          "key": "B",
+          "text": "nghĩa vụ học tập bắt buộc mà mọi người lao động đều phải thực hiện để hoàn thiện hồ sơ nhân sự của mình."
+        },
+        {
+          "key": "C",
+          "text": "cách làm vượt quá quyền của công dân, vì người đã đi làm thì không được tham gia học thêm trình độ cao hơn."
+        },
+        {
+          "key": "D",
+          "text": "trách nhiệm của doanh nghiệp trong việc bắt buộc cử người lao động đi đào tạo lại trong suốt thời gian làm việc."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vừa lao động vừa học, học bồi dưỡng ngắn hạn rồi học tiếp đại học là biểu hiện điển hình của việc học không hạn chế và học suốt đời. B nhầm quyền tự nguyện của người học với nghĩa vụ bắt buộc gắn với hồ sơ; C trái với nội dung quyền đã học; D suy diễn thêm trách nhiệm của doanh nghiệp mà tình huống không đề cập.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Học suốt đời",
+        "Tình huống học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Cơ sở giáo dục X từ chối tiếp nhận một học sinh chỉ vì em đó là người dân tộc thiểu số. Hành vi của cơ sở giáo dục X là",
+      "options": [
+        {
+          "key": "A",
+          "text": "vi phạm quyền bình đẳng về cơ hội học tập của công dân và phải bị xử lí theo quy định của pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "phù hợp với quy định vì mỗi cơ sở giáo dục được quyền lựa chọn người học theo sở thích của tập thể sư phạm."
+        },
+        {
+          "key": "C",
+          "text": "chỉ là cách làm thiếu mềm dẻo trong thủ tục tiếp nhận, không ảnh hưởng tới quyền học tập của người học."
+        },
+        {
+          "key": "D",
+          "text": "được chấp nhận nếu cơ sở giáo dục đã thông báo công khai lí do từ chối cho gia đình người học biết rõ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Không ai bị phân biệt đối xử trong cơ hội học tập vì lí do dân tộc, giới tính, tôn giáo hay hoàn cảnh gia đình; từ chối tiếp nhận chỉ vì người học là người dân tộc thiểu số là hành vi vi phạm. B nhầm quyền tự chủ của cơ sở giáo dục với quyền phân biệt đối xử; C hạ thấp bản chất vi phạm thành vấn đề thái độ, thủ tục; D sai vì công khai thông báo không làm cho một hành vi phân biệt đối xử trở thành hợp pháp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bình đẳng cơ hội học tập",
+        "Vi phạm quyền học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong việc bảo đảm quyền học tập của công dân, hoạt động nào sau đây thuộc trách nhiệm của xã hội, gồm cộng đồng, tổ chức và doanh nghiệp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phối hợp với nhà trường, hỗ trợ học bổng, tạo điều kiện để người học được tham quan, thực hành, học nghề tại nơi làm việc."
+        },
+        {
+          "key": "B",
+          "text": "Tự ban hành chương trình giáo dục phổ thông và cấp văn bằng cho người học trên phạm vi cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Quy định điều kiện thành lập, đình chỉ hoạt động và giải thể của các cơ sở giáo dục trong toàn quốc."
+        },
+        {
+          "key": "D",
+          "text": "Thống nhất quản lí nhà nước về giáo dục và bố trí toàn bộ ngân sách chi cho giáo dục của cả nước."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Xã hội hoá giáo dục thể hiện ở việc các tổ chức, doanh nghiệp và cộng đồng cùng tham gia hỗ trợ điều kiện, cơ hội học tập cho người học. B, C và D đều là nội dung quản lí nhà nước về giáo dục, thuộc trách nhiệm của cơ quan nhà nước có thẩm quyền, không phải của tổ chức xã hội hay doanh nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trách nhiệm của xã hội",
+        "Xã hội hoá giáo dục"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Học tập suốt đời không chỉ diễn ra trong nhà trường. Hành vi nào sau đây thể hiện đúng việc tự học, học thường xuyên của công dân?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đọc sách, tham gia các lớp bồi dưỡng ngắn hạn, học trực tuyến và vận dụng những điều đã học vào công việc hằng ngày."
+        },
+        {
+          "key": "B",
+          "text": "Chờ đến khi cơ quan tổ chức lớp tập trung dài ngày thì mới bắt đầu học những nội dung mình còn thiếu."
+        },
+        {
+          "key": "C",
+          "text": "Mua chứng chỉ qua mạng để có hồ sơ nhanh mà không cần tham gia bất cứ hoạt động học tập nào."
+        },
+        {
+          "key": "D",
+          "text": "Đăng kí cho có tên trong một lớp học rồi nghỉ, không tham gia học và cũng không thông báo với cơ sở giáo dục."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tự học, học liên tục và biến kiến thức thành năng lực hành nghề là biểu hiện thiết thực của học suốt đời, không phụ thuộc vào việc có đang ngồi ở lớp hay không. B thụ động, trái với tính thường xuyên của việc học; C là gian lận về văn bằng, chứng chỉ, vi phạm pháp luật; D là đối phó với thủ tục đăng kí, không phải học thật.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Tự học",
+        "Học suốt đời"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "So sánh quyền học tập và nghĩa vụ học tập của công dân, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quyền học tập là những gì công dân được Nhà nước tôn trọng và bảo đảm cho việc học của mình; nghĩa vụ học tập là những việc công dân phải chủ động thực hiện theo quy định."
+        },
+        {
+          "key": "B",
+          "text": "Quyền học tập và nghĩa vụ học tập chỉ là hai cách gọi khác nhau của cùng một nội dung, vì vậy không cần phân biệt."
+        },
+        {
+          "key": "C",
+          "text": "Nghĩa vụ học tập chỉ đặt ra với học sinh phổ thông, còn người học ở trình độ đại học thì chỉ có quyền mà không có nghĩa vụ."
+        },
+        {
+          "key": "D",
+          "text": "Quyền học tập do gia đình tự bảo đảm hoàn toàn, còn nghĩa vụ học tập do Nhà nước và nhà trường thực hiện thay công dân."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quyền là phần được bảo đảm, được lựa chọn; nghĩa vụ là phần phải tự giác thực hiện, không ai làm thay. B xoá nhoà sự phân biệt cần thiết giữa quyền và nghĩa vụ; C giới hạn sai chủ thể của nghĩa vụ học tập, vì mọi người học đều có nghĩa vụ với khoá học của mình; D đảo lộn trách nhiệm: việc học do chính người học thực hiện, còn Nhà nước và gia đình bảo đảm điều kiện.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Phân biệt quyền và nghĩa vụ",
+        "Học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau khi Nhà nước đầu tư xây dựng điểm trường và điều động giáo viên tới một xã vùng khó khăn, vẫn có một số học sinh trung học phổ thông ở đây bỏ học đi làm thuê; phụ huynh cho rằng nhà trường phải chịu trách nhiệm giữ các em ở lớp. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước đã làm phần việc bảo đảm điều kiện học tập; việc bỏ học trước hết liên quan tới nghĩa vụ học tập của người học và trách nhiệm của gia đình."
+        },
+        {
+          "key": "B",
+          "text": "Nhà trường phải chịu trách nhiệm hoàn toàn, vì đã được đầu tư cơ sở vật chất thì phải giữ được mọi học sinh ở lại lớp."
+        },
+        {
+          "key": "C",
+          "text": "Học sinh bỏ học đi làm thuê là thực hiện đúng quyền được học bất cứ ngành, nghề nào của công dân."
+        },
+        {
+          "key": "D",
+          "text": "Gia đình không liên quan tới việc học của con, vì từ khi vào trung học phổ thông thì con đã tự lo liệu việc học."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo đảm quyền học tập là trách nhiệm chung của Nhà nước, gia đình và xã hội, nhưng việc thực hiện nghĩa vụ học tập thuộc về người học cùng sự giám sát của gia đình; vì vậy không thể đổ hết cho nhà trường. B tuyệt đối hoá trách nhiệm của cơ sở giáo dục; C ngụy biện, học một ngành nghề không đồng nghĩa với bỏ học; D phủ nhận trách nhiệm của gia đình đã được học trong bài.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Tình huống học đường",
+        "Trách nhiệm bảo đảm quyền học tập"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về quyền học tập của công dân?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Công dân được học không hạn chế từ trình độ thấp đến trình độ cao và không bị giới hạn bởi tuổi tác."
+        },
+        {
+          "key": "B",
+          "text": "Công dân được lựa chọn ngành, nghề học tập phù hợp với khả năng của bản thân và nhu cầu của xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Công dân được bình đẳng về cơ hội học tập, không bị phân biệt đối xử khi tiếp cận giáo dục."
+        },
+        {
+          "key": "D",
+          "text": "Công dân được quyền nhờ người khác học thay, thi thay vì việc học là quyền của riêng mỗi người."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, C đúng với ba nội dung cơ bản của quyền học tập đã học: học không hạn chế, học bất cứ ngành nghề nào và bình đẳng về cơ hội học tập. D sai vì quyền học tập là quyền nhân thân, mỗi người phải tự thực hiện; nhờ học thay, thi thay là gian lận và vi phạm quy chế.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Quyền học tập",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về nghĩa vụ học tập của người học?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thực hiện đầy đủ chương trình, kế hoạch học tập và nội quy của cơ sở giáo dục, chịu sự đánh giá kết quả học tập."
+        },
+        {
+          "key": "B",
+          "text": "Tôn trọng nhà giáo, cán bộ, người lao động của cơ sở giáo dục và tôn trọng các bạn học trong tập thể."
+        },
+        {
+          "key": "C",
+          "text": "Giữ gìn, bảo vệ tài sản của cơ sở giáo dục và tham gia các hoạt động do cơ sở giáo dục tổ chức."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cần học những môn mình thấy hứng thú, các môn còn lại có thể tự ý bỏ vì không ảnh hưởng tới người khác."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, C phản ánh đúng các nhóm nghĩa vụ của người học: nghĩa vụ đối với việc học, nghĩa vụ tôn trọng và nghĩa vụ giữ gìn tài sản, tham gia hoạt động giáo dục. D sai vì chương trình giáo dục mang tính thống nhất, tự tiện bỏ môn là vi phạm nghĩa vụ học tập và quy chế của cơ sở giáo dục.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nghĩa vụ học tập",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về trách nhiệm của Nhà nước, gia đình và xã hội trong việc bảo đảm quyền học tập của công dân?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước ban hành chính sách, pháp luật về giáo dục và bảo đảm các điều kiện để mọi công dân được học tập."
+        },
+        {
+          "key": "B",
+          "text": "Gia đình tạo điều kiện cho con em thực hiện nghĩa vụ học tập và hoàn thành phổ cập giáo dục theo quy định."
+        },
+        {
+          "key": "C",
+          "text": "Các tổ chức, doanh nghiệp và cộng đồng dân cư phối hợp, hỗ trợ nguồn lực và điều kiện học tập cho người học."
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước chỉ quan tâm tới giáo dục ở những nơi đã có khả năng xã hội hoá, còn lại để người học tự lo liệu."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Bảo đảm quyền học tập là trách nhiệm chung: Nhà nước giữ vai trò quyết định bằng thể chế và nguồn lực, gia đình trực tiếp tạo điều kiện cho người học, xã hội cùng tham gia hỗ trợ. D sai vì thu hẹp trách nhiệm của Nhà nước, trái với nguyên tắc bảo đảm bình đẳng về cơ hội học tập, nhất là với vùng khó khăn và nhóm yếu thế.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Trách nhiệm của Nhà nước, gia đình và xã hội",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b11-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-11",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Anh Q tốt nghiệp trung học phổ thông rồi đi làm tại một doanh nghiệp. Được cơ quan hỗ trợ một phần thời gian, anh đăng kí học trình độ đại học theo hình thức vừa làm vừa học và phải tham gia kiểm tra, đánh giá đầu vào theo quy định của chương trình. Trong quá trình học, anh hai lần nhờ bạn thi hộ và bị cơ sở giáo dục xử lí theo quy chế. Những nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việc anh Q vừa làm vừa học thể hiện quyền học thường xuyên, học suốt đời và quyền học không hạn chế."
+        },
+        {
+          "key": "B",
+          "text": "Yêu cầu kiểm tra, đánh giá đầu vào là điều kiện tuyển sinh hợp pháp, không phải sự phân biệt đối xử với anh Q."
+        },
+        {
+          "key": "C",
+          "text": "Anh Q đã vi phạm nghĩa vụ học tập và quy chế của cơ sở giáo dục khi nhờ người khác thi hộ."
+        },
+        {
+          "key": "D",
+          "text": "Việc cơ quan hỗ trợ thời gian cho anh Q đi học là trái nguyên tắc bình đẳng về cơ hội học tập."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A đúng vì người đã đi học xong phổ thông, đi làm vẫn được học lên trình độ cao hơn bằng hình thức phù hợp; B đúng vì quyền học tập được thực hiện trong khuôn khổ điều kiện tuyển sinh của chương trình; C đúng vì thi hộ là hành vi gian lận, vi phạm nghĩa vụ học tập. D sai vì hỗ trợ điều kiện cho người học là cách làm xã hội hoá việc học, mở thêm cơ hội học tập chứ không phải phân biệt đối xử.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tình huống học tập",
+        "Nhận định đúng",
+        "Vận dụng cao"
+      ]
+    }
+  ]
+}

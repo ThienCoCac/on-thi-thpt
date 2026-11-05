@@ -1,0 +1,1504 @@
+{
+  "id": "de-dia-12-bai-06",
+  "title": "Đề ôn tập Địa lí 12 – Bài 6: Thực hành – Tuyên truyền sử dụng hợp lí tài nguyên và bảo vệ môi trường",
+  "slug": "de-dia-12-bai-06",
+  "description": "Đề ôn tập 45 phút theo Bài 6 Địa lí 12: thực hành tuyên truyền về sử dụng hợp lí tài nguyên và bảo vệ môi trường. Đề rèn đúng các kĩ năng của bài thực hành: chọn chủ đề xuất phát từ vấn đề bức xúc của địa phương, thu thập và xử lí tư liệu có nguồn dẫn, xây dựng dàn ý theo mạch thực trạng – nguyên nhân – hậu quả – giải pháp – lời kêu gọi, chọn hình thức và thiết kế sản phẩm (áp phích, tờ rơi, thuyết trình, tiểu phẩm), đọc bảng số liệu, chọn dạng biểu đồ và đánh giá, rút kinh nghiệm. Phần kiến thức nền phục vụ nội dung tuyên truyền gồm bảo vệ tài nguyên rừng, đất, khoáng sản, nước và đa dạng sinh học; các dạng ô nhiễm không khí, nước, đất, rác thải nhựa; tiết kiệm năng lượng, kinh tế tuần hoàn, Ngày Môi trường thế giới và Giờ Trái đất. Có các câu tính toán: độ che phủ rừng, tốc độ tăng của chất thải rắn, chỉ số phát triển của dầu mỏ, nhận xét biến động số ngày không đạt chất lượng không khí. Gồm 35 câu trắc nghiệm bốn phương án và 5 câu chọn các phát biểu đúng, mỗi câu 0,25 điểm.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B06",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b06-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Mục đích **chủ yếu** của hoạt động tuyên truyền về sử dụng hợp lí tài nguyên thiên nhiên và bảo vệ môi trường là",
+      "options": [
+        {
+          "key": "A",
+          "text": "giới thiệu các sản phẩm của doanh nghiệp môi trường tới người tiêu dùng."
+        },
+        {
+          "key": "B",
+          "text": "giúp người dân hiểu đầy đủ các quy trình khai thác tài nguyên đang áp dụng hiện nay."
+        },
+        {
+          "key": "C",
+          "text": "tuyên truyền chủ yếu cho học sinh để các em có thêm điểm rèn luyện."
+        },
+        {
+          "key": "D",
+          "text": "làm thay đổi nhận thức và thúc đẩy hành vi tích cực của cộng đồng trong việc giữ gìn tài nguyên và môi trường."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Tuyên truyền là làm cho thông tin, hiểu biết và thái độ lan toả trong công chúng, để từ đó cộng đồng tự giác thay đổi hành vi: tiết kiệm năng lượng, phân loại rác, không săn bắt động vật hoang dã. B mới dừng ở việc cung cấp tri thức về quy trình khai thác, chưa hướng tới thay đổi hành vi; A là mục tiêu thương mại của doanh nghiệp, không phải mục tiêu môi trường; C sai vì đối tượng của tuyên truyền là toàn thể cộng đồng, không riêng học sinh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "tuyên truyền",
+        "mục đích"
+      ]
+    },
+    {
+      "id": "dia12-b06-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nổi bật của **nội dung** trong một hoạt động tuyên truyền về bảo vệ môi trường là",
+      "options": [
+        {
+          "key": "A",
+          "text": "dài dòng, trình bày tỉ mỉ toàn bộ cơ sở lí thuyết của các ngành khoa học môi trường."
+        },
+        {
+          "key": "B",
+          "text": "ngắn gọn, dễ hiểu, có số liệu dẫn chứng và hướng tới những hành vi cụ thể mà người dân làm được."
+        },
+        {
+          "key": "C",
+          "text": "thuật ngữ chuyên môn sâu, chỉ cán bộ kỹ thuật mới đọc hiểu."
+        },
+        {
+          "key": "D",
+          "text": "hoàn toàn mang tính cảm tính, không cần dẫn chứng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Người tiếp nhận thông tin tuyên truyền là công chúng đông đảo, trình độ không đồng đều, thời gian dừng lại trước mỗi sản phẩm rất ngắn, nên nội dung phải cô đọng, kèm số liệu tin cậy và chỉ ra việc cần làm. A và C trái ngược với yêu cầu dễ hiểu; D sai vì thiếu dẫn chứng thì thông điệp mất sức thuyết phục và dễ bị cho là nói quá.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "nội dung tuyên truyền",
+        "yêu cầu"
+      ]
+    },
+    {
+      "id": "dia12-b06-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi chọn chủ đề cho hoạt động tuyên truyền ở địa phương, tiêu chí **quan trọng nhất** là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chủ đề gắn với vấn đề tài nguyên – môi trường đang bức xúc, thiết thực và phù hợp với đối tượng cùng điều kiện của địa phương."
+        },
+        {
+          "key": "B",
+          "text": "chủ đề chưa từng có ai nhắc tới, càng mới lạ càng tốt."
+        },
+        {
+          "key": "C",
+          "text": "chủ đề có nhiều hình ảnh đẹp để thiết kế cho nhanh."
+        },
+        {
+          "key": "D",
+          "text": "chủ đề đang được nhiều nước quan tâm, dù ở địa phương chưa xuất hiện."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Tuyên truyền chỉ hiệu quả khi chạm tới đúng cái người dân đang gặp: một con kênh ô nhiễm, tình trạng rác thải bừa bãi ở chợ, nạn đốt rẫy gây khói, mất rừng đầu nguồn… B và D chạy theo sự mới lạ nên dễ xa rời thực tế của cộng đồng; C lấy hình thức chi phối nội dung, ngược với yêu cầu nội dung quyết định hình thức.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "chọn chủ đề",
+        "thực hành"
+      ]
+    },
+    {
+      "id": "dia12-b06-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau bước xác định chủ đề, bước tiếp theo trong quy trình chuẩn bị một hoạt động tuyên truyền là",
+      "options": [
+        {
+          "key": "A",
+          "text": "thiết kế áp phích và pano để có sản phẩm trưng bày ngay từ đầu."
+        },
+        {
+          "key": "B",
+          "text": "thu thập và xử lí tư liệu (số liệu, biểu đồ, bản đồ, hình ảnh) rồi xây dựng dàn ý nội dung."
+        },
+        {
+          "key": "C",
+          "text": "mời đại biểu, phân công người dẫn chương trình cho buổi ngoại khoá."
+        },
+        {
+          "key": "D",
+          "text": "đánh giá hiệu quả của chiến dịch và rút kinh nghiệm."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Phải có nội dung trước rồi mới hình thức hoá nội dung đó thành sản phẩm, vì vậy thu thập – xử lí tư liệu và lập dàn ý là bước liền sau bước chọn chủ đề. A làm ngược (thiết kế khi chưa có nội dung sẽ phải làm lại); C thuộc khâu tổ chức thực hiện, tiến hành sau khi nội dung đã hình thành; D là bước cuối cùng của cả hoạt động.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "quy trình",
+        "thu thập tư liệu"
+      ]
+    },
+    {
+      "id": "dia12-b06-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Yêu cầu **quan trọng nhất** đối với các số liệu, hình ảnh đưa vào nội dung tuyên truyền là",
+      "options": [
+        {
+          "key": "A",
+          "text": "lấy số liệu của toàn thế giới để bài có tính khái quát cao."
+        },
+        {
+          "key": "B",
+          "text": "dùng ảnh trên mạng xã hội cho sinh động, không cần kiểm chứng."
+        },
+        {
+          "key": "C",
+          "text": "phải chính xác, có nguồn dẫn và mốc thời gian cụ thể, tương ứng với phạm vi không gian đang được nói tới."
+        },
+        {
+          "key": "D",
+          "text": "càng nhiều con số càng tốt, kể cả những con số chưa được xác nhận."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Sức thuyết phục của tuyên truyền dựa trên độ tin cậy: số liệu phải trích từ niên giám thống kê, báo cáo hiện trạng môi trường, tài liệu của cơ quan chức năng, đúng đơn vị hành chính và đúng năm. A sai vì số liệu toàn cầu không phản ánh thực trạng địa phương; B và D dung thứ thông tin không kiểm chứng, dễ phản tác dụng khi người nghe phát hiện sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "tư liệu",
+        "độ tin cậy"
+      ]
+    },
+    {
+      "id": "dia12-b06-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Một thông điệp (khẩu hiệu) tuyên truyền tốt về bảo vệ môi trường cần có đặc điểm nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngắn gọn, dễ nhớ, gợi được một hành động cụ thể ở người tiếp nhận."
+        },
+        {
+          "key": "B",
+          "text": "Dài đủ để trình bày toàn bộ nguyên nhân và giải pháp của vấn đề."
+        },
+        {
+          "key": "C",
+          "text": "Chứa nhiều thuật ngữ chuyên môn để thể hiện tính học thuật."
+        },
+        {
+          "key": "D",
+          "text": "Liệt kê tên khoa học của các loài sinh vật đang bị đe dọa."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Khẩu hiệu phải đọc trong vài giây là hiểu và làm theo được, kiểu “Nói không với túi ni-lông”, “Phân loại rác tại nguồn – bắt đầu từ hôm nay”. B và C biến khẩu hiệu thành đoạn văn bản khoa học, mất chức năng gợi nhớ; D chỉ là bảng tên loài, không chứa lời kêu gọi hành động.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "thông điệp",
+        "khẩu hiệu"
+      ]
+    },
+    {
+      "id": "dia12-b06-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao trong một hoạt động tuyên truyền về tài nguyên – môi trường nên **kết hợp nhiều hình thức** (áp phích, tờ rơi, thuyết trình, tiểu phẩm, triển lãm)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Để buổi tuyên truyền có nhiều đồ dùng, trông cho đầy đủ."
+        },
+        {
+          "key": "B",
+          "text": "Để nhóm làm ra nhiều sản phẩm hơn và được cộng điểm."
+        },
+        {
+          "key": "C",
+          "text": "Để rút ngắn thời gian chuẩn bị của nhóm."
+        },
+        {
+          "key": "D",
+          "text": "Vì mỗi nhóm công chúng có kênh tiếp nhận phù hợp khác nhau, nhờ vậy thông điệp đến được với nhiều người và nhớ lâu hơn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Người lớn tuổi quen đọc pano ở nhà văn hoá, học sinh thích tiểu phẩm và clip ngắn, tiểu thương tiếp nhận tờ rơi ở chợ; phối hợp nhiều hình thức giúp phủ rộng và tăng tần suất lặp lại thông điệp. A và B coi hình thức là mục đích, trái với bản chất của tuyên truyền; C sai vì càng nhiều hình thức thì khối lượng chuẩn bị càng lớn, không hề giảm thời gian.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "hình thức tuyên truyền",
+        "đối tượng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Mục tiêu là vận động người dân **phân loại chất thải rắn sinh hoạt tại nguồn** trong thời gian ngắn, chi phí thấp. Hình thức tuyên truyền nào sau đây **phù hợp nhất**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xây dựng một đề tài nghiên cứu khoa học cấp tỉnh về thành phần chất thải."
+        },
+        {
+          "key": "B",
+          "text": "Phát tờ rơi, tờ gấp có hình vẽ hướng dẫn kèm pano đặt tại khu dân cư và chợ."
+        },
+        {
+          "key": "C",
+          "text": "Tổ chức triển lãm ảnh kéo dài ba tháng ở trung tâm tỉnh."
+        },
+        {
+          "key": "D",
+          "text": "Sản xuất phim tài liệu nhiều tập phát sóng trên truyền hình."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Tờ rơi và pano đến tận nơi người dân sinh hoạt, chi phí in ấn nhỏ, hướng dẫn được ngay bốn bước phân loại bằng hình vẽ, đáp ứng cả ba ràng buộc ngắn – rẻ – sát hành vi. A là nghiên cứu chứ không phải tuyên truyền trực tiếp tới dân; C và D hay nhưng chi phí lớn, thời gian chuẩn bị dài và lượng người tiếp cận trong ngắn hạn hạn chế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "chọn hình thức",
+        "chất thải rắn"
+      ]
+    },
+    {
+      "id": "dia12-b06-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi thuyết trình trước lớp về chủ đề “Tiết kiệm năng lượng”, cách **mở đầu** nào sau đây tạo sự chú ý và thuyết phục nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đọc lại định nghĩa năng lượng tái tạo trong sách giáo khoa."
+        },
+        {
+          "key": "B",
+          "text": "Liệt kê tên và công suất các nhà máy nhiệt điện của cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Nêu một so sánh gây chú ý: một bóng đèn sợi đốt tốn điện gấp khoảng bảy lần một bóng đèn LED cho cùng độ sáng."
+        },
+        {
+          "key": "D",
+          "text": "Đọc tên đầy đủ các thành viên trong nhóm và lí do chọn đề tài."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Một so sánh bất ngờ nhưng gắn trực tiếp với thói quen của người nghe (bật – tắt đèn, chọn loại bóng chiếu sáng) tạo tò mò và làm nổi bật tính cấp thiết, dẫn vào nội dung rất tự nhiên. A khô khan, ai cũng đã biết; B là thông tin liệt kê không liên hệ tới hành vi của người nghe; D là thủ tục mở đầu cần có nhưng không tạo được hứng thú.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "kĩ năng thuyết trình",
+        "tiết kiệm năng lượng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nhóm học sinh chọn chủ đề “Giảm sử dụng túi ni-lông ở chợ dân sinh” và đề xuất bốn nội dung sau. Nội dung nào **chưa phù hợp** với chủ đề và đối tượng đã chọn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tờ rơi liệt kê tên gọi và công thức hoá học của toàn bộ các nhóm polime."
+        },
+        {
+          "key": "B",
+          "text": "Tờ rơi in các bước phân loại rác tại nguồn minh hoạ bằng hình vẽ."
+        },
+        {
+          "key": "C",
+          "text": "Áp phích ảnh một chợ dân sinh kèm một khẩu hiệu ngắn về giảm túi ni-lông."
+        },
+        {
+          "key": "D",
+          "text": "Bảng so sánh thời gian phân huỷ của túi ni-lông với túi vải, túi giấy."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Danh mục polime và công thức hoá học mang tính hàn lâm, không chỉ ra hành vi cần thay đổi ở chợ, lại khó hiểu với tiểu thương và người đi chợ – trái với yêu cầu ngắn gọn, dễ hiểu, gắn hành động. B, C, D đều trực tiếp phục vụ mục tiêu: hướng dẫn hành vi, truyền khẩu hiệu gây chú ý và cung cấp dẫn chứng về thời gian phân huỷ hàng trăm năm của ni-lông.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "chọn nội dung",
+        "rác thải nhựa"
+      ]
+    },
+    {
+      "id": "dia12-b06-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bạn học sinh đề xuất: “Nước ta giàu khoáng sản nên cứ khai thác tối đa để phát triển kinh tế, khi cạn thì nhập khẩu”. Đánh giá nào sau đây **đúng nhất** về đề xuất đó?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hợp lí, vì khoáng sản là tài nguyên tái tạo nên sẽ được tự nhiên bổ cập nhanh."
+        },
+        {
+          "key": "B",
+          "text": "Hợp lí, vì xuất khẩu khoáng sản thô luôn đem lại giá trị kinh tế cao nhất."
+        },
+        {
+          "key": "C",
+          "text": "Không hợp lí, vì khoáng sản là tài nguyên không tái tạo, trữ lượng nhiều mỏ không lớn, khai thác tràn lan gây ô nhiễm và huỷ hoại môi trường; nguồn thu từ xuất khẩu thô lại không bền vững."
+        },
+        {
+          "key": "D",
+          "text": "Không hợp lí, vì nước ta hầu như không có tài nguyên khoáng sản đáng kể."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Nhận định này đúng cả về mặt kinh tế lẫn sinh thái: mỗi tấn quặng lấy đi là mất vĩnh viễn, khai thác mở gây mất rừng, ô nhiễm nước và đất, trong khi bán thô lời thấp và dễ bị động về giá, nên chính sách là khai thác có kiểm soát, chế biến sâu và tiết kiệm. A sai vì khoáng sản thuộc nhóm không tái tạo; B bỏ qua tổn thất môi trường và giá trị gia tăng thấp của khoáng sản thô; D trái với thực tế nước ta có nhiều loại khoáng sản.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "khoáng sản",
+        "phát biểu đánh giá"
+      ]
+    },
+    {
+      "id": "dia12-b06-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Dàn ý nội dung **hợp lí nhất** cho một bài thuyết trình tuyên truyền về bảo vệ tài nguyên nước ở địa phương là",
+      "options": [
+        {
+          "key": "A",
+          "text": "giải pháp – thực trạng – nguyên nhân – hậu quả – lời kêu gọi hành động."
+        },
+        {
+          "key": "B",
+          "text": "lời kêu gọi hành động – hậu quả – thực trạng – nguyên nhân – giải pháp."
+        },
+        {
+          "key": "C",
+          "text": "nguyên nhân – giải pháp – thực trạng – hậu quả – lời kêu gọi hành động."
+        },
+        {
+          "key": "D",
+          "text": "thực trạng – nguyên nhân – hậu quả – giải pháp – lời kêu gọi hành động."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Đây là trình tự quen thuộc của một báo cáo môi trường: người nghe cần thấy vấn đề đang ra sao (thực trạng), vì sao xảy ra (nguyên nhân), hệ lụy thế nào (hậu quả), làm gì (giải pháp) và mình làm gì ngay (kêu gọi). A và C nêu giải pháp trước khi người nghe biết vấn đề, nên mất sức thuyết phục; B đảo lộn hoàn toàn khi mở đầu bằng lời kêu gọi còn nguyên nhân và giải pháp để cuối.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "dàn ý báo cáo",
+        "tài nguyên nước"
+      ]
+    },
+    {
+      "id": "dia12-b06-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trình tự **đúng** của các bước tiến hành hoạt động tuyên truyền về sử dụng hợp lí tài nguyên và bảo vệ môi trường là",
+      "options": [
+        {
+          "key": "A",
+          "text": "thiết kế sản phẩm – xác định chủ đề – thu thập tư liệu – trình bày – đánh giá, rút kinh nghiệm."
+        },
+        {
+          "key": "B",
+          "text": "trình bày – xác định chủ đề – thu thập tư liệu – thiết kế sản phẩm – đánh giá, rút kinh nghiệm."
+        },
+        {
+          "key": "C",
+          "text": "xác định chủ đề – thu thập và xử lí tư liệu, xây dựng nội dung – thiết kế sản phẩm – trình bày – đánh giá, rút kinh nghiệm."
+        },
+        {
+          "key": "D",
+          "text": "thu thập tư liệu – thiết kế sản phẩm – xác định chủ đề – đánh giá, rút kinh nghiệm – trình bày."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Quy trình thực hành đi từ chọn vấn đề, chuẩn bị nội dung, vật dụng hoá nội dung đó, công bố tới công chúng rồi tự đánh giá để rút kinh nghiệm; bốn bước đầu là chuẩn bị – nội dung – sản phẩm – trình bày. A và D đặt bước xác định chủ đề sau khi đã thiết kế, nghĩa là làm sản phẩm cho một chủ đề chưa chọn; B sai vì trình bày là hoạt động công bố, không thể đứng trước khâu chuẩn bị.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "quy trình thực hành",
+        "các bước"
+      ]
+    },
+    {
+      "id": "dia12-b06-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc bảng số liệu.** Diện tích rừng của Việt Nam (triệu ha, số liệu làm tròn): năm 2015 – rừng tự nhiên 10,25 và rừng trồng 4,18; năm 2023 – rừng tự nhiên 10,27 và rừng trồng 4,85. Nhận xét nào sau đây **đúng** với bảng số liệu trên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng diện tích rừng giảm, trong đó rừng tự nhiên giảm mạnh."
+        },
+        {
+          "key": "B",
+          "text": "Rừng tự nhiên tăng nhanh hơn rừng trồng nên rừng tự nhiên chiếm tỉ trọng ngày càng lớn."
+        },
+        {
+          "key": "C",
+          "text": "Tổng diện tích rừng không đổi, chỉ có cơ cấu thay đổi."
+        },
+        {
+          "key": "D",
+          "text": "Tổng diện tích rừng tăng chủ yếu nhờ rừng trồng; diện tích rừng tự nhiên gần như không đổi, cho thấy rừng trồng tăng nhanh hơn và ngày càng chiếm tỉ trọng lớn hơn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Tổng diện tích rừng tăng từ 14,43 lên 15,12 triệu ha, tức thêm 0,69 triệu ha, trong đó rừng trồng đóng góp 0,67 triệu ha còn rừng tự nhiên chỉ tăng 0,02 triệu ha. Tỉ trọng rừng trồng vì thế nâng từ khoảng 29% lên khoảng 32%. A sai vì cả hai thành phần đều không giảm; B sai vì rừng tự nhiên tăng chậm hơn rất nhiều; C sai vì tổng số thay đổi chứ không chỉ cơ cấu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "bảng số liệu",
+        "diện tích rừng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho diện tích có rừng của một quốc gia là 13,9 triệu ha và tổng diện tích tự nhiên là 33,1 triệu ha. Độ che phủ rừng của quốc gia đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "42,0%."
+        },
+        {
+          "key": "B",
+          "text": "4,2%."
+        },
+        {
+          "key": "C",
+          "text": "58,0%."
+        },
+        {
+          "key": "D",
+          "text": "13,9%."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Độ che phủ rừng = diện tích có rừng chia diện tích tự nhiên, nhân 100: 13,9 / 33,1 × 100 = 41,99%, làm tròn 42,0%. B sai do dịch dấu phẩy thập phân; C là phần diện tích **không** có rừng (100% − 42%); D lấy nhầm chính diện tích rừng (triệu ha) thành tỉ lệ phần trăm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "tính toán",
+        "độ che phủ rừng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nhóm học sinh có bảng số liệu diện tích rừng (rừng tự nhiên, rừng trồng và tổng diện tích) của cả nước qua bốn năm liên tiếp và muốn vẽ biểu đồ **vừa thể hiện được quy mô, vừa thể hiện được cơ cấu đang thay đổi** của các loại rừng. Dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ tròn, vì chỉ cần nhìn một năm là đủ kết luận về cơ cấu."
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ miền, vì biểu đồ miền vừa cho thấy quy mô của tổng diện tích rừng vừa cho thấy sự chuyển dịch cơ cấu giữa các thành phần theo thời gian."
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ cột đơn, vì biểu đồ cột chỉ vẽ được một dãy số liệu."
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ đường, vì biểu đồ đường chỉ vẽ được cơ cấu tính theo phần trăm."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Với chuỗi nhiều năm, cần đồng thời quy mô và cơ cấu động thái thì biểu đồ miền (đặc biệt miền chồng) là lựa chọn chuẩn; bảng có sẵn dòng tổng nên vẽ miền theo đơn vị triệu ha mà không phải xử lí lại. A sai vì biểu đồ tròn phải dùng nhiều hình cho nhiều năm, khó thấy quy mô biến động; C sai vì cột đơn không thể hiện được cơ cấu, ở đây có ba dãy số liệu; D sai vì biểu đồ đường thể hiện tốc độ tăng trưởng từng dãy chứ không thể hiện cơ cấu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "chọn dạng biểu đồ",
+        "diện tích rừng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc bảng số liệu.** Số ngày trong năm có chất lượng không khí ở mức **không đạt** quy chuẩn tại một thành phố: năm 2019 là 128 ngày, năm 2023 là 179 ngày. Kết luận nào sau đây **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm 51 ngày, chất lượng không khí được cải thiện."
+        },
+        {
+          "key": "B",
+          "text": "Tăng 51 ngày, tương ứng khoảng 1,4 lần, cho thấy ô nhiễm không khí nặng thêm."
+        },
+        {
+          "key": "C",
+          "text": "Tăng 51 ngày nhưng tỉ lệ ngày không đạt trong năm không đổi."
+        },
+        {
+          "key": "D",
+          "text": "Không đổi, vì số ngày của mỗi năm đều là 365 ngày."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Chênh lệch tuyệt đối là 179 − 128 = 51 ngày; so sánh tương đối 179 / 128 = 1,398, tức khoảng 1,4 lần, nên số ngày ô nhiễm tăng gần 40% và xu hướng là xấu đi. A đổi dấu của chênh lệch; C sai vì tỉ lệ ngày không đạt tăng từ khoảng 35% lên khoảng 49% số ngày trong năm; D lấy tổng số ngày của năm để phủ nhận sự thay đổi của chỉ tiêu được đo.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "nhận xét bảng số liệu",
+        "ô nhiễm không khí"
+      ]
+    },
+    {
+      "id": "dia12-b06-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "**Tính toán.** Lượng chất thải rắn sinh hoạt của một tỉnh tăng từ 6,0 triệu tấn (năm 2015) lên 8,4 triệu tấn (năm 2024). Phát biểu nào sau đây **đúng** về giai đoạn trên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng 2,4 triệu tấn, tương ứng mức tăng 28,6%."
+        },
+        {
+          "key": "B",
+          "text": "Tăng 2,4 triệu tấn, tương ứng mức tăng 4,0%."
+        },
+        {
+          "key": "C",
+          "text": "Tăng 24%, tức gấp 2,4 lần lượng chất thải năm 2015."
+        },
+        {
+          "key": "D",
+          "text": "Tăng 2,4 triệu tấn, tương ứng mức tăng 40%, tức gấp 1,4 lần."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Mức tăng tuyệt đối: 8,4 − 6,0 = 2,4 triệu tấn. Tốc độ tăng: 2,4 / 6,0 × 100 = 40%, và 8,4 / 6,0 = 1,4 lần. A tính 2,4 / 8,4 = 28,6% là lấy sai gốc so sánh (chia cho số cuối kì); B nhầm 2,4 thành 4,0%; C nhầm 40% thành 24% và hiểu sai khái niệm “gấp”, vì gấp 2,4 lần là con số tăng thêm, không phải giá trị mới.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "tính toán tốc độ tăng",
+        "chất thải rắn"
+      ]
+    },
+    {
+      "id": "dia12-b06-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nhóm tuyên truyền muốn thể hiện dầu mỏ khai thác của nước ta giảm từ 16,0 triệu tấn (năm 2015) xuống 9,0 triệu tấn (năm 2023) bằng biểu đồ **chỉ số phát triển**, lấy năm 2015 = 100. Giá trị chỉ số của năm 2023 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "56,3."
+        },
+        {
+          "key": "B",
+          "text": "63,5."
+        },
+        {
+          "key": "C",
+          "text": "156,3."
+        },
+        {
+          "key": "D",
+          "text": "43,8."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Chỉ số phát triển = trị số năm cần tính chia trị số năm gốc, nhân 100: 9,0 / 16,0 × 100 = 56,25, làm tròn 56,3 (năm gốc 2015 = 100). B là kết quả đảo hai chữ số khi tính; C cộng nhầm gốc 100 vào kết quả (100 + 56,3); D bằng đúng tỉ lệ **giảm** 43,75%, tức phần đã mất đi chứ không phải chỉ số còn lại.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "xử lí số liệu",
+        "chỉ số phát triển"
+      ]
+    },
+    {
+      "id": "dia12-b06-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi thiết kế áp phích cho buổi triển lãm trong khuôn khổ hoạt động tuyên truyền, yêu cầu **đúng** về mặt trình bày là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chèn toàn bộ bài viết dài nhiều trang vào áp phích cho đủ ý."
+        },
+        {
+          "key": "B",
+          "text": "cỡ chữ và hình ảnh đủ lớn để đọc được từ xa, thông điệp nổi bật, màu sắc tương phản, mỗi áp phích chỉ truyền tải một ý chính."
+        },
+        {
+          "key": "C",
+          "text": "dùng chữ rất nhỏ để áp phích chứa được nhiều thông tin trong một tờ."
+        },
+        {
+          "key": "D",
+          "text": "in thật nhiều chữ, không cần hình ảnh vì hình ảnh gây nhiễu thông tin."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Áp phích được xem trong vài giây và ở khoảng cách xa, nên phải ưu tiên chữ to, hình lớn, tương phản mạnh và một thông điệp duy nhất. A và C biến áp phích thành trang tài liệu, người xem không đọc nổi; D sai vì hình ảnh là phương tiện chuyển tải thông điệp nhanh nhất trong tuyên truyền, vấn đề chỉ là chọn hình đúng và có chú thích.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "thiết kế sản phẩm",
+        "áp phích"
+      ]
+    },
+    {
+      "id": "dia12-b06-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Rừng nước ta được quản lí theo ba mục đích: rừng phòng hộ, rừng đặc dụng và rừng sản xuất. Loại rừng giữ nước, hạn chế lũ quét, chống xói mòn đất và chống sa bồi cho đồng bằng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "rừng phòng hộ, tiêu biểu là rừng phòng hộ đầu nguồn."
+        },
+        {
+          "key": "B",
+          "text": "rừng sản xuất, gồm các diện tích rừng trồng lấy gỗ."
+        },
+        {
+          "key": "C",
+          "text": "rừng đặc dụng, gồm các vườn quốc gia và khu bảo tồn."
+        },
+        {
+          "key": "D",
+          "text": "rừng trồng mới chưa khép tán trên đất trống đồi trọc."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Rừng phòng hộ được giao nhiệm vụ bảo vệ nguồn nước, chống xói mòn, chắn sóng, chắn gió, cải tạo khí hậu, nên rừng đầu nguồn chính là “tấm áo” giữ đất và điều tiết nước cho đồng bằng. B có mục tiêu chính là cung cấp gỗ và lâm sản; C chuyên nhiệm vụ bảo tồn hệ sinh thái và nguồn gen quý, hiếm, giá trị phòng hộ chỉ là hệ quả đi kèm; D chưa phải một đối tượng quản lí theo mục đích và còn chưa đủ chức năng phòng hộ khi chưa khép tán.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "rừng phòng hộ",
+        "bảo vệ tài nguyên rừng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong một áp phích tuyên truyền bảo vệ rừng ở vùng ven biển, ý nào sau đây **đúng nhất** về vai trò của rừng ngập mặn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở rộng quỹ đất nông nghiệp quy mô lớn bằng cách cải tạo bãi triều."
+        },
+        {
+          "key": "B",
+          "text": "Tạo cảnh quan cho các khu đô thị nghỉ dưỡng ven biển."
+        },
+        {
+          "key": "C",
+          "text": "Chắn sóng, giữ bờ, hạn chế xói lở và là nơi sinh sản, nuôi dưỡng ấu trùng của nhiều loài thuỷ, hải sản."
+        },
+        {
+          "key": "D",
+          "text": "Cung cấp gỗ lớn cho ngành xây dựng và sản xuất đồ mộc."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Rừng ngập mặn là “bức tường xanh” giảm năng lượng sóng, giữ phù sa, chắn gió bão; hệ rễ của chúng là nơi đẻ trứng và ương nuôi ấu trùng tôm, cua, cá, nên mất rừng ngập mặn vừa làm xói lở bờ biển vừa giảm nguồn lợi hải sản. A và D là cách khai thác làm mất rừng, trái với tinh thần tuyên truyền bảo vệ; B mới là giá trị cảnh quan thứ yếu, không phải vai trò sinh thái nổi bật.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "rừng ngập mặn",
+        "bảo vệ tài nguyên rừng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân **trực tiếp** nào sau đây làm suy giảm nhanh đa dạng sinh học của nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việc thành lập thêm các vườn quốc gia và khu bảo tồn thiên nhiên."
+        },
+        {
+          "key": "B",
+          "text": "Nạn phá rừng làm mất nơi cư trú, săn bắt trộm và buôn bán trái phép động vật hoang dã."
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ cạnh tranh tự nhiên giữa các loài trong cùng một quần xã sinh vật."
+        },
+        {
+          "key": "D",
+          "text": "Nghiên cứu khoa học về giá trị của các nguồn gen quý, hiếm."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Khi rừng bị chặt phá, sinh cảnh bị chia cắt; cộng thêm săn bắt và buôn bán trái phép thì số lượng cá thể nhiều loài giảm đột ngột, một số nguồn gen biến mất, đây là tác động trực tiếp của con người. A và D là hoạt động bảo tồn, giúp tăng khả năng bảo vệ loài; C là quy luật sinh thái tự nhiên, vận hành cân bằng lâu dài chứ không gây suy giảm nhanh như các tác động nhân tạo.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "đa dạng sinh học",
+        "nguyên nhân suy giảm"
+      ]
+    },
+    {
+      "id": "dia12-b06-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Biện pháp nào sau đây được xem là **gốc rễ** nhất trong việc bảo vệ đa dạng sinh học?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nuôi, nhốt bổ sung một số loài thú quý hiếm trong vườn bách thú."
+        },
+        {
+          "key": "B",
+          "text": "Nhập nội các giống cây trồng, vật nuôi năng suất cao từ nước ngoài."
+        },
+        {
+          "key": "C",
+          "text": "Nghiên cứu khoa học về thành phần loài của các hệ sinh thái."
+        },
+        {
+          "key": "D",
+          "text": "Bảo vệ ngay tại nơi cư trú tự nhiên các hệ sinh thái rừng đầu nguồn, rừng ngập mặn, vùng đất ngập nước thông qua hệ thống vườn quốc gia và khu bảo tồn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Bảo tồn tại chỗ giữ được cả loài lẫn sinh cảnh và các mối quan hệ sinh thái, nên một khu rừng được bảo vệ sẽ che chở cho hàng trăm loài cùng lúc. A là bảo tồn ngoài chỗ, chỉ áp dụng cho loài bị đe dọa rất cao, chi phí lớn và số loài ít; B có thể làm nghèo nguồn gen bản địa và cạnh tranh với loài nội địa; C là điều kiện cần để quản lí nhưng bản thân nghiên cứu không ngăn được phá rừng, săn bắt.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "đa dạng sinh học",
+        "biện pháp bảo vệ"
+      ]
+    },
+    {
+      "id": "dia12-b06-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các biện pháp sau, biện pháp nào **không** phù hợp với nội dung tuyên truyền bảo vệ tài nguyên đất ở vùng đồi núi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bón phân hữu cơ, trồng cây phân xanh và che phủ đất, hạn chế để đất trống."
+        },
+        {
+          "key": "B",
+          "text": "Bảo vệ rừng đầu nguồn, trồng cây theo băng và làm ruộng bậc thang để hạn chế xói mòn."
+        },
+        {
+          "key": "C",
+          "text": "Đẩy mạnh khai thác khoáng sản ở vùng đầu nguồn và khuyến khích đốt rừng làm nương rẫy."
+        },
+        {
+          "key": "D",
+          "text": "Thay du canh, du cư bằng định canh, định cư, thâm canh theo hướng nông – lâm kết hợp."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Khai khoáng ở vùng đầu nguồn và đốt rừng làm rẫy phá bỏ lớp phủ thực vật, làm mất kết cấu đất, tăng rửa trôi và đưa chất thải vào đất, trái hoàn toàn với mục tiêu bảo vệ đất. A bổ sung chất hữu cơ, giữ ẩm và che phủ cho đất; B và D là những biện pháp chống xói mòn, bạc màu đang được áp dụng ở trung du và miền núi.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "tài nguyên đất",
+        "thoái hoá đất"
+      ]
+    },
+    {
+      "id": "dia12-b06-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Để giảm diện tích đất bị nhiễm mặn, nhiễm phèn ở Đồng bằng sông Cửu Long, giải pháp **then chốt** thường được nêu trong các tài liệu tuyên truyền là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xây dựng hệ thống công trình thuỷ lợi để giữ và đưa nước ngọt vào nội đồng, kết hợp trồng và bảo vệ rừng ngập mặn."
+        },
+        {
+          "key": "B",
+          "text": "Tăng số vụ lúa trong năm để bộ rễ cây cải tạo lại đất phèn."
+        },
+        {
+          "key": "C",
+          "text": "Bón nhiều phân hoá học để đất nhanh hồi phục độ phì."
+        },
+        {
+          "key": "D",
+          "text": "Đầm nén mặt ruộng và mở rộng diện tích ao nuôi tôm."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nhiễm mặn và nhiễm phèn đều gắn với thiếu nước ngọt và mực nước ngầm hạ thấp; kênh, đập, cống điều tiết nước ngọt giúp rửa mặn, thau chua, còn rừng ngập mặn chắn sóng, giữ phù sa, hạn chế mặn xâm nhập từ biển. B làm tăng nhu cầu nước và dễ cạn kiệt dinh dưỡng; C chỉ xử lí tạm thời độ phì, không giải quyết mặn – phèn; D mở rộng nuôi tôm tự phát thường đẩy mặn sâu hơn vào nội đồng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "tài nguyên đất",
+        "Đồng bằng sông Cửu Long"
+      ]
+    },
+    {
+      "id": "dia12-b06-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây **phù hợp nhất** khi tuyên truyền về sử dụng hợp lí tài nguyên khoáng sản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khai thác khoáng sản quy mô càng lớn càng tốt, trước mắt làm giàu để có tiền xử lí môi trường."
+        },
+        {
+          "key": "B",
+          "text": "Đẩy mạnh xuất khẩu tinh quặng và khoáng sản thô để có nguồn thu ngoại tệ nhanh."
+        },
+        {
+          "key": "C",
+          "text": "Hạn chế xuất khẩu khoáng sản thô, đổi mới công nghệ khai thác theo hướng thu hồi tối đa quặng, giảm tổn thất tài nguyên và phát triển vật liệu thay thế."
+        },
+        {
+          "key": "D",
+          "text": "Ngừng toàn bộ hoạt động khai khoáng trong cả nước để giữ tài nguyên cho tương lai."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Khoáng sản là tài nguyên không tái tạo, lấy một tấn là mất vĩnh viễn, nên sử dụng hợp lí nghĩa là khai thác có kiểm soát, chế biến sâu để tăng giá trị, thu hồi tối đa để giảm thất thoát và dùng vật liệu tái chế, vật liệu khác thay thế. A và B bán tài nguyên thô với giá trị thấp, gây ô nhiễm và tổn hao lớn; D cực đoan, phủ nhận vai trò của khoáng sản đối với phát triển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "tài nguyên khoáng sản",
+        "sử dụng hợp lí"
+      ]
+    },
+    {
+      "id": "dia12-b06-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiện tượng phú dưỡng (tảo nở hoa dày đặc, tôm cá chết hàng loạt) ở các hồ và vùng nước gần khu vực trồng trọt thường gắn với nguồn thải nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nước làm mát có nhiệt độ cao thải ra từ các nhà máy nhiệt điện và cơ sở luyện kim."
+        },
+        {
+          "key": "B",
+          "text": "Nước mưa chảy tràn trên đồng ruộng cuốn theo phân bón hoá học và thuốc bảo vệ thực vật dùng dư."
+        },
+        {
+          "key": "C",
+          "text": "Nước thải của các làng nghề tái chế kim loại và mạ điện chứa nhiều chì, thuỷ ngân."
+        },
+        {
+          "key": "D",
+          "text": "Rác thải nhựa nổi trên mặt hồ che ánh sáng, làm giảm khả năng quang hợp của thực vật thuỷ sinh."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Phân đạm, phân lân và thuốc bảo vệ thực vật dư thừa chứa nhiều hợp chất ni-tơ, phốt-pho; khi bị rửa trôi xuống hồ, sông, vịnh chúng kích thích tảo phát triển mạnh, tảo tàn phân huỷ hút ô-xy làm nước ô nhiễm nặng và tôm cá chết hàng loạt – đó chính là phú dưỡng. A là ô nhiễm nhiệt; C là ô nhiễm kim loại nặng, độc hại với sinh vật nhưng không phải nguồn dinh dưỡng; D là tác động cơ học che ánh sáng, không đưa thêm ni-tơ và phốt-pho vào nước.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "ô nhiễm nước",
+        "phú dưỡng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Cặp khí thải nào sau đây là tác nhân **chính** gây ra mưa axit ở các khu công nghiệp và đô thị lớn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lưu huỳnh đi-ô-xít (SO2) và các ô-xit ni-tơ (NOx)."
+        },
+        {
+          "key": "B",
+          "text": "Khí các-bô-níc (CO2) và mêtan (CH4)."
+        },
+        {
+          "key": "C",
+          "text": "Ô-dôn ở tầng đối lưu và hơi thuỷ ngân."
+        },
+        {
+          "key": "D",
+          "text": "Bụi mịn PM2,5 và khí các-bon ô-xit (CO)."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** SO2 và NOx thoát ra chủ yếu từ đốt than, dầu và từ khí thải động cơ; khi gặp hơi nước trong khí quyển chúng chuyển thành axit sunfuric và axit nitric rồi rơi xuống theo mưa, làm chua đất, hại rừng, ăn mòn công trình. B là các khí nhà kính gây biến đổi khí hậu; C là ô nhiễm thứ cấp và ô nhiễm kim loại nặng; D gây bụi và ngạt độc nhưng không phải thủ phạm chính của mưa axit.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "ô nhiễm không khí",
+        "mưa axit"
+      ]
+    },
+    {
+      "id": "dia12-b06-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở các đô thị lớn của nước ta, nguồn gây ô nhiễm không khí **phổ biến nhất**, gắn trực tiếp với hành vi của từng người dân và hộ gia đình là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khí thải của các nhà máy nhiệt điện chạy than đặt xa khu dân cư."
+        },
+        {
+          "key": "B",
+          "text": "Khói từ hoạt động đốt rơm rạ sau thu hoạch ở vùng ven đô."
+        },
+        {
+          "key": "C",
+          "text": "Khí thải của phương tiện giao thông dùng xăng, dầu, cùng bếp than tổ ong, hoạt động xây dựng và thói quen đốt rác."
+        },
+        {
+          "key": "D",
+          "text": "Khí thải của các loại ô tô, xe máy chạy hoàn toàn bằng điện."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Xe máy, ô tô chạy xăng, dầu thải CO, NOx và bụi mịn ngay trên đường; bếp than tổ ong thải SO2 và CO trong khu dân cư; công trường và việc đốt rác cộng thêm bụi, nên mỗi người có thể giảm bằng đi phương tiện công cộng, bỏ bếp than, không đốt rác. A và B là nguồn đáng kể nhưng thuộc trách nhiệm của cơ sở sản xuất và không phải lựa chọn hằng ngày của cư dân đô thị; D sai vì xe điện không phát sinh khí thải tại điểm sử dụng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "ô nhiễm không khí",
+        "đô thị"
+      ]
+    },
+    {
+      "id": "dia12-b06-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Rác thải nhựa trở thành vấn đề môi trường toàn cầu, nguyên nhân chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhựa được sản xuất chủ yếu từ tinh bột và sợi tự nhiên nên tồn dư lâu trong đất."
+        },
+        {
+          "key": "B",
+          "text": "Thói quen tiêu dùng đồ nhựa một lần quá phổ biến, trong khi thời gian phân huỷ của nhựa kéo dài hàng trăm năm và phần lớn chưa được thu gom, tái chế."
+        },
+        {
+          "key": "C",
+          "text": "Nhựa phân huỷ quá nhanh, tạo ra lượng lớn khí các-bô-níc."
+        },
+        {
+          "key": "D",
+          "text": "Nhựa có nguồn gốc từ kim loại nặng nên đầu độc nguồn nước."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Túi ni-lông, ống hút, hộp xốp chỉ dùng vài phút nhưng ở lại môi trường hàng trăm năm, vỡ dần thành vi nhựa theo nước và gió ra biển, vì vậy thông điệp cốt lõi là giảm tiêu dùng một lần và tăng thu gom, tái chế. A sai bản chất, vì nhựa thông thường được sản xuất từ dầu mỏ và khí tự nhiên; C sai vì trở ngại lớn chính là tốc độ phân huỷ rất chậm; D sai vì nhựa không có nguồn gốc kim loại nặng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "rác thải nhựa",
+        "nguyên nhân"
+      ]
+    },
+    {
+      "id": "dia12-b06-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây **phù hợp nhất** với mô hình kinh tế tuần hoàn khi tuyên truyền về giảm phát thải ở đô thị?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chôn lấp toàn bộ chất thải sau thu gom tại các khu xử lí tập trung."
+        },
+        {
+          "key": "B",
+          "text": "Nhập khẩu phế liệu về làm nguyên liệu sản xuất cho các nhà máy."
+        },
+        {
+          "key": "C",
+          "text": "Sản xuất nhiều hàng hoá hơn để hạ giá thành từng đơn vị sản phẩm."
+        },
+        {
+          "key": "D",
+          "text": "Phân loại chất thải tại nguồn, tái sử dụng và tái chế tối đa, coi chất thải của khâu trước là đầu vào của khâu sau."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Kinh tế tuần hoàn khép vòng vật chất: giảm tạo thải, dùng lại, tái chế và thu hồi năng lượng, nhờ vậy giảm cả khai thác tài nguyên lẫn chôn lấp. A là kinh tế tuyến tính kiểu “sản xuất – dùng – bỏ”; B chỉ dịch chuyển gánh nặng phế liệu sang nước khác, không khép vòng nguyên liệu trong nước; C là tăng quy mô sản xuất, thường đi kèm tăng tài nguyên đầu vào và phát thải.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "kinh tế tuần hoàn",
+        "chất thải rắn"
+      ]
+    },
+    {
+      "id": "dia12-b06-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiều chiến dịch tuyên truyền ở nước ta chọn một ngày quốc tế về môi trường và tài nguyên làm điểm nhấn. Ngày Môi trường thế giới được tổ chức vào",
+      "options": [
+        {
+          "key": "A",
+          "text": "ngày 5 tháng 6 hằng năm."
+        },
+        {
+          "key": "B",
+          "text": "ngày 22 tháng 3 hằng năm."
+        },
+        {
+          "key": "C",
+          "text": "ngày 22 tháng 4 hằng năm."
+        },
+        {
+          "key": "D",
+          "text": "ngày 22 tháng 5 hằng năm."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Ngày Môi trường thế giới 5/6 là dịp tuyên truyền rộng rãi nhất về bảo vệ môi trường. B là Ngày Nước thế giới, phù hợp với chiến dịch về tài nguyên nước; C là Ngày Trái đất, gắn với Giờ Trái đất tắt thiết bị điện; D là Ngày Quốc tế Đa dạng sinh học, dành cho chủ đề bảo tồn loài và hệ sinh thái.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "ngày môi trường",
+        "chiến dịch tuyên truyền"
+      ]
+    },
+    {
+      "id": "dia12-b06-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Giờ Trái đất là hoạt động tuyên truyền tiết kiệm năng lượng có sức lan toả lớn. Nội dung **đúng** của hoạt động này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toàn dân trồng cây xanh vào buổi sáng ngày chủ nhật cuối cùng của tháng 3."
+        },
+        {
+          "key": "B",
+          "text": "Các hộ gia đình cam kết không dùng điều hoà trong suốt ba tháng mùa khô."
+        },
+        {
+          "key": "C",
+          "text": "Vận động cơ quan, doanh nghiệp và hộ gia đình tắt đèn cùng các thiết bị điện không cần thiết trong một giờ, từ 20 giờ 30 đến 21 giờ 30 ngày thứ bảy cuối cùng của tháng 3."
+        },
+        {
+          "key": "D",
+          "text": "Tắt điện toàn quốc trong 24 giờ vào ngày 5 tháng 6."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Giờ Trái đất là một hành động tượng trưng nhưng có giá trị nhắc nhớ: chỉ cần tắt các thiết bị không thật cần trong 60 phút, điều quan trọng hơn là duy trì thói quen tiết kiệm điện sau đó. A mô tả một hoạt động trồng cây, không liên quan tới tiết kiệm điện; B và D là cách nói cường điệu, không có cơ sở và cũng gây xáo trộn sinh hoạt, sản xuất.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "tiết kiệm năng lượng",
+        "Giờ Trái đất"
+      ]
+    },
+    {
+      "id": "dia12-b06-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nào sau đây **không** phải là nguyên nhân làm suy giảm số lượng và chất lượng tài nguyên nước ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khai thác nước dưới đất quá mức ở các vùng đô thị và vùng trồng rau màu."
+        },
+        {
+          "key": "B",
+          "text": "Các hồ chứa, đập thuỷ điện làm thay đổi chế độ dòng chảy về mùa cạn."
+        },
+        {
+          "key": "C",
+          "text": "Nước thải sinh hoạt và nước thải công nghiệp chưa được xử lí đạt quy chuẩn."
+        },
+        {
+          "key": "D",
+          "text": "Nhiệt độ trung bình năm cao do vị trí địa lí của nước ta."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Khí hậu nhiệt đới ẩm gió mùa với lượng mưa trung bình năm khoảng 1500 – 2000 mm chính là nguồn bổ cập nước, không phải nguyên nhân làm cạn kiệt hay ô nhiễm nguồn nước. A gây hạ thấp mực nước ngầm, tiềm ẩn nguy cơ sụt lún và nhiễm mặn tầng nước ngầm; B làm giảm dòng chảy mùa hạ và thiếu phù sa ở hạ du; C là tác nhân trực tiếp gây ô nhiễm sông, hồ và nước ngầm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "tài nguyên nước",
+        "nguyên nhân suy giảm"
+      ]
+    },
+    {
+      "id": "dia12-b06-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Khi chuẩn bị một hoạt động tuyên truyền về sử dụng hợp lí tài nguyên và bảo vệ môi trường ở địa phương, những phát biểu nào sau đây **đúng** về quy trình thực hiện?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiết kế áp phích và tờ rơi trước, sau đó mới chọn chủ đề cho vừa với sản phẩm đã có."
+        },
+        {
+          "key": "B",
+          "text": "Xác định chủ đề xuất phát từ vấn đề tài nguyên – môi trường đang bức xúc ở chính địa phương."
+        },
+        {
+          "key": "C",
+          "text": "Dùng ảnh và số liệu tìm được trên mạng xã hội, không cần ghi nguồn vì nội dung chỉ trình bày trong lớp."
+        },
+        {
+          "key": "D",
+          "text": "Sau khi trình bày, cần đối chiếu tiêu chí đã thống nhất để đánh giá và rút kinh nghiệm cho lần làm sau."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, D.** Đúng quy trình: chọn chủ đề từ vấn đề thực tế của địa phương, rồi mới chuẩn bị nội dung, làm sản phẩm, trình bày và cuối cùng đánh giá, rút kinh nghiệm. A sai vì làm sản phẩm khi chưa có chủ đề là đảo ngược bước, dễ phải làm lại; C sai vì số liệu và hình ảnh đều phải chính xác, có nguồn dẫn và mốc thời gian, kể cả khi chỉ trình bày trong lớp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "quy trình thực hành",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Một nhóm học sinh thiết kế bốn sản phẩm cho chiến dịch tuyên truyền “Tiết kiệm năng lượng và bảo vệ môi trường”. Những sản phẩm nào **phù hợp** với mục tiêu và nội dung của chiến dịch?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Áp phích in biểu đồ tiêu thụ điện của cả nước qua các năm kèm khẩu hiệu “Tắt những thiết bị bạn không dùng”."
+        },
+        {
+          "key": "B",
+          "text": "Tờ rơi giới thiệu quy trình khai thác và luyện quặng nhôm ở vùng trung du."
+        },
+        {
+          "key": "C",
+          "text": "Tranh cổ động vẽ một gia đình tắt đèn, rút sạc pin, kèm dòng chữ “Một watt tiết kiệm là một watt sạch”."
+        },
+        {
+          "key": "D",
+          "text": "Áp phích chỉ in dòng chữ “Hãy tiết kiệm điện” bằng cỡ chữ rất nhỏ, không hình ảnh, không số liệu và không hướng dẫn hành động."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, C.** Cả hai sản phẩm đều bám chủ đề: một bên cung cấp dẫn chứng về quy mô tiêu thụ điện và kêu gọi hành động cụ thể, một bên vẽ tình huống quen thuộc trong nhà kèm khẩu hiệu dễ nhớ. B là nội dung về khai khoáng, không liên quan tới tiết kiệm năng lượng; D chỉ là một dòng chữ nhỏ, thiếu hình ảnh, thiếu số liệu và không nói người xem phải làm gì nên không truyền tải được thông điệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "sản phẩm tuyên truyền",
+        "tiết kiệm năng lượng"
+      ]
+    },
+    {
+      "id": "dia12-b06-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** khi tuyên truyền về bảo vệ tài nguyên rừng và đa dạng sinh học?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kinh tế rừng chỉ có thể phát triển bằng cách khai thác rừng tự nhiên còn lại."
+        },
+        {
+          "key": "B",
+          "text": "Cháy rừng và khai thác trái phép làm mất nơi cư trú của nhiều loài, thu hẹp nguồn gen quý, hiếm."
+        },
+        {
+          "key": "C",
+          "text": "Nên nhập các giống ngoại lai để tăng nhanh đa dạng sinh học của rừng nước ta."
+        },
+        {
+          "key": "D",
+          "text": "Giao rừng cho cộng đồng, kết hợp chi trả dịch vụ môi trường rừng là cơ chế tạo động lực giữ rừng bền vững."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, D.** Cháy rừng và khai thác trộm phá huỷ sinh cảnh, khiến quần thể nhiều loài suy giảm – đó là nguyên nhân trực tiếp của suy thoái đa dạng sinh học; cơ chế giao rừng kèm chi trả dịch vụ môi trường rừng làm người giữ rừng có lợi ích kinh tế nên rừng được bảo vệ lâu dài. A phá vỡ nguyên tắc khai thác hợp lí và trồng rừng thay thế; C sai vì sinh vật ngoại lai xâm hại thường cạnh tranh, làm suy thoái hệ sinh thái bản địa.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "bảo vệ rừng",
+        "đa dạng sinh học"
+      ]
+    },
+    {
+      "id": "dia12-b06-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Một nhóm chọn chủ đề “Chống ô nhiễm ở nơi em sinh sống”. Những phát biểu nào sau đây **đúng** về thực trạng và giải pháp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Với nguồn nước bị ô nhiễm, giải pháp căn cơ là thu gom và xử lí nước thải sinh hoạt, làng nghề, khu công nghiệp đạt quy chuẩn trước khi xả ra sông, hồ."
+        },
+        {
+          "key": "B",
+          "text": "Ô nhiễm không khí chỉ xảy ra ở những thành phố lớn, còn nông thôn thì không có."
+        },
+        {
+          "key": "C",
+          "text": "Rác thải sinh hoạt nông thôn không cần phân loại vì môi trường tự nhiên có khả năng tự làm sạch với mọi loại chất thải."
+        },
+        {
+          "key": "D",
+          "text": "Ở vùng đồi núi, bảo vệ rừng đầu nguồn, làm ruộng bậc thang và che phủ đất là các biện pháp hạn chế xói mòn, sạt lở và bồi đọng lòng kênh."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, D.** Hai phát biểu đều chỉ ra đúng bản chất: ô nhiễm nước phải xử lí tại nguồn thải theo quy chuẩn, còn thoái hoá đất ở vùng đồi núi gắn chặt với mất rừng nên giữ rừng là giữ đất. B sai vì nông thôn cũng bị ô nhiễm do đốt phụ phẩm, thuốc bảo vệ thực vật, rác thải làng nghề; C sai vì khả năng tự làm sạch của tự nhiên có giới hạn, rác nhựa, pin và thuốc trừ sâu tồn lưu rất lâu nếu không phân loại, xử lí.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "ô nhiễm môi trường",
+        "giải pháp địa phương"
+      ]
+    },
+    {
+      "id": "dia12-b06-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** khi nhận xét về hiện trạng tài nguyên – môi trường ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng diện tích rừng tăng lên qua các năm, nhưng phần tăng thêm chủ yếu là rừng trồng nên chất lượng rừng tự nhiên vẫn là vấn đề cần tiếp tục theo dõi."
+        },
+        {
+          "key": "B",
+          "text": "Nhiều mỏ khoáng sản có trữ lượng lớn nên cứ khai thác tối đa, khi cạn sẽ nhập khẩu."
+        },
+        {
+          "key": "C",
+          "text": "Nhiều sông, hồ ở đô thị bị ô nhiễm chủ yếu do nước thải sinh hoạt và nước thải sản xuất chưa được xử lí đổ thẳng vào nguồn nước."
+        },
+        {
+          "key": "D",
+          "text": "Đa dạng sinh học của nước ta đang được mở rộng nhanh nhờ nhập nội ngày càng nhiều giống cây, con ngoại lai."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, C.** A phản ánh đúng cấu trúc tăng diện tích rừng hiện nay: rừng trồng lớn nhanh nhờ trồng rừng sản xuất, còn diện tích và chất lượng rừng tự nhiên biến động chậm, nên phải theo dõi sát; C đúng vì nước thải chưa xử lí là nguồn gây ô nhiễm chính của sông, hồ trong đô thị. B sai vì khoáng sản là tài nguyên không tái tạo và phần lớn mỏ có trữ lượng vừa, nhỏ; D sai vì giống ngoại lai xâm hại có thể làm suy thoái hệ sinh thái bản địa, không phải thước đo của đa dạng sinh học.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 6",
+        "thực trạng tài nguyên",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

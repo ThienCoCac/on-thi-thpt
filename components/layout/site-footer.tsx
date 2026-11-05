@@ -10,7 +10,7 @@ export function SiteFooter() {
         <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
           <div className="flex items-center gap-3">
             <DogMascot className="h-10 w-10 shrink-0" />
-            <p>© {year} Ôn Thi THPT. Nền tảng luyện thi THPT Quốc gia cho học sinh lớp 12.</p>
+            <p>© {year} Ôn Thi THPT. Nền tảng luyện thi THPT cho học sinh cấp 3.</p>
           </div>
           <nav aria-label="Liên kết chân trang" className="flex flex-wrap gap-4">
             <Link href="/de-thi" className="transition-colors hover:text-foreground">

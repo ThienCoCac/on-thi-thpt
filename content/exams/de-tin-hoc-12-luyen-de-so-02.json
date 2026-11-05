@@ -1,0 +1,1379 @@
+{
+  "id": "de-tin-hoc-12-luyen-de-so-02",
+  "title": "Luyện thi tốt nghiệp THPT – Tin học 12 (đề tự soạn theo cấu trúc) số 02",
+  "slug": "de-tin-hoc-12-luyen-de-so-02",
+  "description": "Đề tự soạn theo cấu trúc: 40 câu / 50 phút theo cấu trúc câu hỏi trắc nghiệm của kì thi tốt nghiệp THPT, phủ đều 28 bài của sách giáo khoa Tin học 12; không phải đề thi thật của năm nào.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "FULL_EXAM",
+  "durationMinutes": 50,
+  "totalScore": 10,
+  "examYear": null,
+  "examCode": null,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "tin12-ld02-c1",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hệ thống AI được nạp hai quy tắc: nếu nhiệt độ vượt ngưỡng thì phát cảnh báo, và phân xưởng A đang có cảnh báo nhiệt độ. Từ hai dữ kiện đó hệ thống tự rút ra kết luận cần sơ tán phân xưởng A. Theo Bài 1, hoạt động này thể hiện rõ nhất đặc trưng trí tuệ nào của AI?",
+      "options": [
+        {
+          "key": "A",
+          "text": "khả năng học, vì máy vừa tự rút ra quy luật mới từ dữ liệu quan sát."
+        },
+        {
+          "key": "B",
+          "text": "khả năng nhận thức, vì máy thu nhận thông tin từ cảm biến nhiệt độ."
+        },
+        {
+          "key": "C",
+          "text": "khả năng suy luận, vì máy rút ra một kết luận mới từ những dữ kiện và quy tắc đã có."
+        },
+        {
+          "key": "D",
+          "text": "khả năng hiểu ngôn ngữ, vì máy đọc được câu mô tả bằng lời."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Suy luận là rút ra kết luận mới từ những dữ kiện và quy tắc đã biết; hệ thống trên chỉ áp dụng hai quy tắc có sẵn nên C đúng. A sai vì máy không học thêm quy luật nào từ dữ liệu quan sát; B là bước thu nhận thông tin từ môi trường chứ không phải bước rút kết luận; D là khả năng xử lí câu chữ, không liên quan tới phép suy diễn ở đề bài.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 1. Làm quen với Trí tuệ nhân tạo",
+        "đặc trưng AI",
+        "tình huống suy luận"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c2",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Trợ lý ảo trên website của một nhà trường chỉ trả lời được câu hỏi về thời khoá biểu, không chơi cờ, không nhận dạng khuôn mặt. Theo Bài 1, trợ lý ảo đó thuộc loại nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "trí tuệ nhân tạo hẹp, vì nó chỉ thông minh trong một phạm vi công việc xác định."
+        },
+        {
+          "key": "B",
+          "text": "trí tuệ nhân tạo tổng quát, vì nó đã biết giao tiếp với con người."
+        },
+        {
+          "key": "C",
+          "text": "AI tạo sinh, vì nó tạo ra câu trả lời mới."
+        },
+        {
+          "key": "D",
+          "text": "một chương trình tìm kiếm thông thường, không phải AI."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 1 phân biệt AI hẹp (chỉ làm được một số công việc xác định) với AI tổng quát (có trí thông minh ngang con người trên mọi lĩnh vực). Trợ lý trên chỉ giỏi đúng một việc nên là AI hẹp, A đúng. B sai vì biết giao tiếp chưa đủ để được gọi là AI tổng quát; C sai vì tạo câu trả lời mới không phải tiêu chí phân loại đang hỏi; D sai vì hệ vẫn thể hiện khả năng hiểu câu hỏi bằng ngôn ngữ tự nhiên.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 1. Làm quen với Trí tuệ nhân tạo",
+        "phân loại AI",
+        "AI hẹp"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c3",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Em gõ một câu yêu cầu và nhận được một bài văn hoàn toàn mới, không phải câu trả lời soạn sẵn tra ra từ danh sách. Theo Bài 2, hệ thống làm được việc đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "hệ chuyên gia, vì hệ đối chiếu tập tri thức để đưa ra khuyến nghị."
+        },
+        {
+          "key": "B",
+          "text": "hệ thống phân loại, vì bài văn được xếp vào một nhãn có sẵn."
+        },
+        {
+          "key": "C",
+          "text": "hệ thống nhận dạng, vì hệ nhận dạng yêu cầu của em."
+        },
+        {
+          "key": "D",
+          "text": "AI tạo sinh, vì hệ sinh ra văn bản mới dựa trên các mẫu học được từ dữ liệu huấn luyện."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 2 mô tả AI tạo sinh bằng khả năng sinh nội dung mới (văn bản, hình ảnh, âm nhạc) chứ không tra lại một câu có sẵn, nên D đúng. A sai vì hệ chuyên gia suy luận trên tập tri thức do con người cài đặt; B và C sai vì phân loại và nhận dạng là bài toán gắn nhãn dữ liệu vào, không phải bài toán tạo dữ liệu ra.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 2. Trí tuệ nhân tạo trong khoa học và đời sống",
+        "AI tạo sinh",
+        "phân biệt hệ thống"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c4",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi dùng AI tạo sinh để tìm tư liệu cho bài thuyết trình, theo các cảnh báo về AI ở Bài 2, thái độ đúng của người dùng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "dùng ngay vì AI luôn cho thông tin chính xác hơn sách vở."
+        },
+        {
+          "key": "B",
+          "text": "coi nội dung AI tạo ra chỉ là gợi ý, phải đối chiếu và kiểm chứng trước khi dùng, vì AI tạo nội dung theo các mẫu học được từ dữ liệu huấn luyện chứ không thật sự hiểu và có thể đưa ra thông tin sai."
+        },
+        {
+          "key": "C",
+          "text": "cho rằng không cần kiểm chứng nếu câu trả lời được trình bày mạch lạc."
+        },
+        {
+          "key": "D",
+          "text": "tuyệt đối không dùng AI, kể cả trong học tập."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 2 cảnh báo nội dung do AI tạo sinh sinh ra dựa trên các mẫu thống kê học được, không hàm chứa sự hiểu biết và có thể sai hoặc thiếu minh bạch, nên người dùng phải kiểm chứng, đối chiếu. A và C nhầm văn phong mạch lạc với độ tin cậy của nội dung; D cực đoan vì sách không cấm dùng AI mà chỉ nhắc dùng có trách nhiệm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 2. Trí tuệ nhân tạo trong khoa học và đời sống",
+        "cảnh báo về AI",
+        "dùng AI có trách nhiệm"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c5",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 3, ở bộ định tuyến (router), cổng WAN có nhiệm vụ",
+      "options": [
+        {
+          "key": "A",
+          "text": "nối các máy tính trong cùng mạng cục bộ bằng cáp UTP."
+        },
+        {
+          "key": "B",
+          "text": "chuyển đổi tín hiệu số sang tín hiệu tương tự và ngược lại trên đường truyền."
+        },
+        {
+          "key": "C",
+          "text": "phát tín hiệu thu được tới tất cả các cổng còn lại."
+        },
+        {
+          "key": "D",
+          "text": "kết nối router đó với router khác hay với mạng của nhà cung cấp dịch vụ."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách mô tả router có cổng LAN để nối mạng cục bộ và cổng WAN để nối với router khác, tức WAN là cổng hướng ra mạng bên ngoài, nên D đúng. A là vai trò cổng LAN; B là chức năng của modem; C là cách hoạt động của bộ chia tín hiệu hub.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 3. Một số thiết bị mạng thông dụng",
+        "router",
+        "cổng WAN"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c6",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 3, phát biểu nào sau đây so sánh đúng bộ chuyển mạch (switch) và bộ chia tín hiệu (hub) trong mạng cục bộ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Switch phát tín hiệu tới mọi cổng nên hạn chế được xung đột, còn hub chuyển mạch theo địa chỉ MAC nên hay va chạm dữ liệu."
+        },
+        {
+          "key": "B",
+          "text": "Switch chuyển mạch dựa trên địa chỉ MAC nên ít gây xung đột, còn hub chỉ là bộ chia tín hiệu phát tín hiệu ra tất cả các cổng nên dễ xảy ra xung đột khi nhiều máy cùng gửi."
+        },
+        {
+          "key": "C",
+          "text": "Hub và switch đều hoạt động như nhau, khác nhau chỉ ở số cổng và giá thành."
+        },
+        {
+          "key": "D",
+          "text": "Switch là thiết bị định tuyến giữa các mạng còn hub là thiết bị chuyển mạch trong mạng cục bộ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 3 nêu switch chuyển mạch dựa trên địa chỉ MAC, chỉ gửi dữ liệu tới cổng cần nhận nên hạn chế xung đột; hub phát tín hiệu thu được ở một cổng ra tất cả các cổng còn lại nên nhiều máy cùng gửi sẽ gây xung đột. A đảo đặc điểm của hai thiết bị; C phủ nhận khác biệt về nguyên tắc hoạt động; D nhầm switch với router.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 3. Một số thiết bị mạng thông dụng",
+        "switch và hub",
+        "xung đột tín hiệu"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c7",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 4, địa chỉ IP phiên bản 4 gồm",
+      "options": [
+        {
+          "key": "A",
+          "text": "bốn byte nhị phân, tương ứng 32 bit, thường được viết dưới dạng thập phân theo kiểu dot decimal."
+        },
+        {
+          "key": "B",
+          "text": "sáu byte nhị phân, tương ứng 48 bit."
+        },
+        {
+          "key": "C",
+          "text": "ba số thập phân phân cách bằng dấu chấm."
+        },
+        {
+          "key": "D",
+          "text": "tám byte nhị phân, tương ứng 64 bit."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Địa chỉ IP phiên bản 4 gồm bốn byte nhị phân, tức 32 bit, và thường được viết thành bốn số thập phân phân cách bằng dấu chấm (kiểu dot decimal). B và D sai số byte và số bit; C sai vì phải có bốn số, không phải ba; 48 bit là độ dài địa chỉ MAC chứ không phải IP.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 4. Giao thức mạng",
+        "địa chỉ IP",
+        "dot decimal"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c8",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bạn học sinh gõ tên một trang web vào trình duyệt và nhận được trang đó, dù không hề biết địa chỉ IP của máy chủ. Theo Bài 4, việc tìm ra địa chỉ IP tương ứng với tên miền do giao thức nào đảm nhiệm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "HTTP."
+        },
+        {
+          "key": "B",
+          "text": "FTP."
+        },
+        {
+          "key": "C",
+          "text": "DNS."
+        },
+        {
+          "key": "D",
+          "text": "TCP."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 4 nêu DNS cho phép dùng hệ thống tên bằng chữ thay cho địa chỉ IP khó nhớ bằng cách phân giải tên miền thành địa chỉ IP, nên C đúng. HTTP là giao thức truyền siêu văn bản; FTP là giao thức truyền tệp; TCP bảo đảm chuyển dữ liệu tới đúng ứng dụng, không phân giải tên miền.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 4. Giao thức mạng",
+        "DNS",
+        "tên miền"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c9",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 4, khi một gói dữ liệu đi qua nhiều mạng trung gian, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Địa chỉ IP thay đổi sau mỗi chặng còn địa chỉ MAC của thiết bị gửi và nhận được giữ nguyên."
+        },
+        {
+          "key": "B",
+          "text": "Cả địa chỉ IP lẫn địa chỉ MAC đều thay đổi sau mỗi chặng."
+        },
+        {
+          "key": "C",
+          "text": "Giao thức IP bảo đảm dữ liệu tới đúng ứng dụng trên máy nhận, còn TCP chỉ chuyển dữ liệu từ mạng này sang mạng kia."
+        },
+        {
+          "key": "D",
+          "text": "Địa chỉ IP của nơi gửi và nơi nhận được giữ nguyên suốt hành trình, còn địa chỉ MAC thay đổi theo từng chặng; việc chuyển dữ liệu tới đúng ứng dụng do TCP đảm nhiệm nhờ số hiệu cổng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách giải thích IP chỉ bảo đảm chuyển dữ liệu từ mạng này đến mạng kia nên địa chỉ IP được giữ nguyên, còn địa chỉ MAC dùng để định danh thiết bị trên từng mạng cụ thể nên thay đổi ở mỗi chặng; TCP chuyển dữ liệu tới đúng ứng dụng dựa vào số hiệu cổng. A và B đảo vai trò hai loại địa chỉ; C đảo vai trò của IP và TCP.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 4. Giao thức mạng",
+        "định tuyến",
+        "IP và TCP"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c10",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 5, khi chia sẻ một thư mục trong mạng LAN, cấp quyền Read/Write cho một người dùng có nghĩa là người đó",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ đọc được nội dung, không được sao chép."
+        },
+        {
+          "key": "B",
+          "text": "đọc, sao chép, sửa đổi và xoá được các tệp trong thư mục được chia sẻ."
+        },
+        {
+          "key": "C",
+          "text": "chỉ xoá được tệp, không sửa được nội dung."
+        },
+        {
+          "key": "D",
+          "text": "tự động trở thành người quản trị máy tính có thư mục chia sẻ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 5 phân biệt quyền Read (cho đọc và sao chép, không sửa hay xoá) và quyền Read/Write (cho phép cả sửa đổi, xoá nội dung), nên B đúng. A thu hẹp quá mức vì quyền Read vẫn cho sao chép; C sai vì không có quyền nào chỉ cho xoá mà không cho sửa; D sai vì quyền chia sẻ tệp không cấp quyền quản trị hệ thống.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 5. Thực hành chia sẻ tài nguyên trên mạng",
+        "quyền chia sẻ",
+        "Read/Write"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c11",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong một cuộc trao đổi bằng tin nhắn, một câu nói đùa bị người đọc hiểu thành lời công kích vì không thấy được nét mặt và giọng nói của người viết. Theo Bài 6, đây là nhược điểm nào của giao tiếp trong không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiếu tín hiệu phi ngôn ngữ."
+        },
+        {
+          "key": "B",
+          "text": "Tốc độ đường truyền không ổn định."
+        },
+        {
+          "key": "C",
+          "text": "Chi phí thiết bị đầu cuối quá lớn."
+        },
+        {
+          "key": "D",
+          "text": "Không thể giao tiếp với người ở xa."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 6 xếp tình huống hiểu lầm vì không nhìn thấy nét mặt, không nghe được giọng nói vào nhược điểm thiếu tín hiệu phi ngôn ngữ của giao tiếp trực tuyến. B là vấn đề kĩ thuật của đường truyền, không phải của cách giao tiếp; C sai vì chi phí thiết bị không nằm trong nhóm nhược điểm này; D trái ngược với chính ưu điểm vượt trội về khoảng cách của giao tiếp mạng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 6. Giao tiếp và ứng xử trong không gian mạng",
+        "nhược điểm giao tiếp mạng",
+        "tình huống"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c12",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 6, hành vi nào sau đây thể hiện tính nhân văn khi tham gia diễn đàn trên không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đăng lại ảnh chụp màn hình tin nhắn riêng của bạn kèm lời bình luận chế giễu."
+        },
+        {
+          "key": "B",
+          "text": "Lấy một bài viết của bạn khác rồi sửa tên tác giả thành tên mình và đăng lên diễn đàn."
+        },
+        {
+          "key": "C",
+          "text": "Góp ý bằng lời lẽ tôn trọng, không lan truyền thông tin xúc phạm danh dự người khác và tố cáo bài viết sai trái với ban quản trị."
+        },
+        {
+          "key": "D",
+          "text": "Kéo theo nhiều tài khoản ảo để công kích một ý kiến mình không đồng tình."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 6 yêu cầu ứng xử có văn hoá, tôn trọng, bảo vệ danh dự người khác và không tiếp tay cho thông tin xấu độc, nên C là hành vi nhân văn. A xâm phạm đời tư riêng và chế giễu người khác; B là vi phạm bản quyền, ngược với tính trung thực; D là dùng sức ép đám đông để công kích, trái với ứng xử văn minh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 6. Giao tiếp và ứng xử trong không gian mạng",
+        "ứng xử nhân văn",
+        "tình huống"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c13",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Ba tệp HTML đều có phần thân như sau:\nTệp 1: <body><p>Mưa</p><p>Nắng</p></body>\nTệp 2: <body> <p>Mưa</p> <p>Nắng</p> </body>\nTệp 3: <body>\n<p>Mưa</p>\n<p>Nắng</p>\n</body>\nTheo Bài 7, kết quả hiển thị trên trình duyệt của ba tệp này là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ba tệp cho kết quả hiển thị khác nhau vì số dấu cách và dấu xuống dòng khác nhau."
+        },
+        {
+          "key": "B",
+          "text": "Ba tệp cho kết quả hiển thị như nhau vì HTML và trình duyệt gộp các dấu cách liên tiếp và không phân biệt cách viết thụt lề hay xuống dòng."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ tệp 1 hiển thị được vì hai tệp còn lại vi phạm cú pháp HTML."
+        },
+        {
+          "key": "D",
+          "text": "Tệp 3 hiển thị hai từ trên cùng một dòng vì dấu xuống dòng đã bị trình duyệt bỏ qua."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 7 lưu ý trình duyệt gộp nhiều dấu cách liên tiếp thành một và không coi các ký tự thụt lề, xuống dòng trong tệp là nội dung cần hiển thị, nên ba cách viết cho cùng một kết quả: hai từ trên hai dòng. A phủ nhận tính chất này; C sai vì khoảng trắng thừa không làm hỏng cú pháp; D sai vì cặp thẻ <p> là phần tử khối, vẫn bắt đầu dòng mới dù dấu xuống dòng bị bỏ qua.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 7. HTML và cấu trúc trang web",
+        "cách trình duyệt đọc HTML",
+        "khoảng trắng"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c14",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 7, phần tử <p class=\"note\">Ghi chú</p> được hiểu đúng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ghi chú là tên thẻ, p là giá trị của thuộc tính class."
+        },
+        {
+          "key": "B",
+          "text": "Cả p lẫn note đều là tên của hai thẻ đơn đứng cạnh nhau."
+        },
+        {
+          "key": "C",
+          "text": "class là thẻ bắt đầu của phần tử này."
+        },
+        {
+          "key": "D",
+          "text": "p là tên thẻ, class là tên thuộc tính còn note là giá trị của thuộc tính đó, văn bản Ghi chú là nội dung của phần tử."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 7 xác định một phần tử gồm thẻ mở có thể kèm thuộc tính theo cú pháp tên thuộc tính = giá trị, nội dung và thẻ đóng; ở đây p là tên thẻ, class là thuộc tính với giá trị note, nội dung là chữ Ghi chú. A nhầm tên thẻ với nội dung; B nhầm một thẻ đôi có thuộc tính với hai thẻ đơn; C nhầm tên thuộc tính với thẻ mở.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 7. HTML và cấu trúc trang web",
+        "thuộc tính của thẻ",
+        "cú pháp phần tử"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c15",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã:\n<p>Chuẩn bị <b>cho <i>buổi</i> thực hành</b></p>\nTheo Bài 8, trên trình duyệt dòng chữ hiển thị như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cho buổi thực hành in đậm, trong đó buổi vừa in đậm vừa nghiêng; các chữ còn lại in thường."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ có chữ buổi được in đậm, mọi chữ khác in thường."
+        },
+        {
+          "key": "C",
+          "text": "Toàn bộ câu in đậm vì thẻ <p> bao ngoài hai thẻ kia."
+        },
+        {
+          "key": "D",
+          "text": "Buổi in nghiêng rồi bị thẻ <b> ghi đè nên chỉ còn in đậm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thẻ <b> in đậm toàn bộ nội dung của nó, thẻ <i> in nghiêng nội dung của nó và hai thẻ lồng nhau nên phần nằm trong cả hai thẻ vừa đậm vừa nghiêng, do đó A đúng. B bỏ sót phạm vi của <b>; C gán sai vai trò của <p> là thẻ đánh dấu đoạn văn, không định dạng đậm; D hiểu sai vì hai hiệu ứng định dạng lồng được áp dụng đồng thời chứ không xoá nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 8. Định dạng văn bản",
+        "thẻ lồng nhau",
+        "b và i"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c16",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã:\n<p style=\"color: red; font-size: 18px\">Xin chào</p>\nPhát biểu nào sau đây mô tả đúng kết quả hiển thị theo Bài 8?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chữ Xin chào có cỡ 18 pixel nhưng màu đen vì chưa khai báo màu."
+        },
+        {
+          "key": "B",
+          "text": "Chữ Xin chào màu đỏ, cỡ chữ 18 pixel, riêng dòng này, vì thuộc tính style áp dụng trực tiếp cho chính phần tử."
+        },
+        {
+          "key": "C",
+          "text": "Mọi đoạn văn của trang đều thành chữ đỏ, cỡ 18 pixel."
+        },
+        {
+          "key": "D",
+          "text": "Trình duyệt bỏ qua toàn bộ cặp thẻ <p> vì thẻ <p> không cho phép có thuộc tính."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 8 dùng thuộc tính style để đặt định dạng trực tiếp cho một phần tử, nên hai quy định màu đỏ và cỡ 18 pixel chỉ áp dụng cho chính đoạn văn mang style đó. A sai vì màu đã được khai báo bằng color: red; C sai vì style đặt trực tiếp không lan ra các phần tử khác; D sai vì mọi phần tử HTML đều có thể mang thuộc tính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 8. Định dạng văn bản",
+        "thuộc tính style",
+        "định dạng trực tiếp"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c17",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 9, trong bảng HTML, hai phần tử <th> và <td> khác nhau ở chỗ",
+      "options": [
+        {
+          "key": "A",
+          "text": "<th> dùng cho hàng của bảng, <td> dùng cho cột của bảng."
+        },
+        {
+          "key": "B",
+          "text": "<th> tạo ô tiêu đề của bảng, <td> tạo ô dữ liệu thông thường."
+        },
+        {
+          "key": "C",
+          "text": "<th> chỉ được dùng một lần trong toàn bảng, <td> không được phép trống."
+        },
+        {
+          "key": "D",
+          "text": "<th> là thẻ đơn, <td> là thẻ đôi."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 9 dùng <th> cho ô tiêu đề (thường hiển thị đậm, căn giữa) và <td> cho ô dữ liệu, nên B đúng. A nhầm ô với hàng và cột, vì hàng được khai báo bằng <tr>; C đặt ra giới hạn không có trong sách; D sai vì cả hai đều là thẻ đôi.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 9. Tạo danh sách, bảng",
+        "thẻ th và td",
+        "bảng HTML"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c18",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bảng có 4 cột. Hàng thứ nhất được viết:\n<tr><th rowspan=\"2\">Ảnh</th><td>Tên</td><td>Lớp</td><td>Điểm</td></tr>\nHàng thứ hai chưa viết. Theo Bài 9, hàng thứ hai cần bao nhiêu cặp thẻ ô (<th> hoặc <td>)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4 cặp thẻ, vì mỗi hàng của bảng 4 cột phải có 4 ô."
+        },
+        {
+          "key": "B",
+          "text": "3 cặp thẻ và phải viết lại ô Ảnh ở hàng thứ hai thì bảng mới đủ khung."
+        },
+        {
+          "key": "C",
+          "text": "1 cặp thẻ, vì ô đầu tiên của hàng thứ hai bị ô rowspan ở hàng trên che."
+        },
+        {
+          "key": "D",
+          "text": "3 cặp thẻ, vì ô Ảnh có rowspan = 2 đã choán cả cột đầu tiên của hàng thứ hai nên hàng này chỉ còn 3 cột cần ô."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thuộc tính rowspan mở rộng ô xuống số hàng bằng giá trị, nên ô Ảnh chiếm cả ô đầu tiên của hàng thứ hai; bảng 4 cột vì vậy chỉ còn 3 cột cần viết ô, tức 3 cặp thẻ (nghiệm bằng phép tính 4 - 1 = 3). A bỏ qua tác dụng của rowspan; B sai vì không cần viết lại ô Ảnh (rowspan đã tự mở xuống hàng dưới); C nhầm với colspan.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 9. Tạo danh sách, bảng",
+        "rowspan",
+        "đếm ô của bảng"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c19",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thư mục web có tệp index.html, thư mục con hocsinh chứa tệp hs1.html và thư mục con images chứa ảnh logo.png. Từ trang hocsinh/hs1.html muốn tạo liên kết về trang index.html, theo Bài 10 em viết giá trị của thuộc tính dẫn tới liên kết là",
+      "options": [
+        {
+          "key": "A",
+          "text": "../index.html, vì phải lùi một cấp từ thư mục hocsinh về thư mục web rồi mới trỏ tới tệp."
+        },
+        {
+          "key": "B",
+          "text": "index.html, vì hai tệp cùng nằm trong thư mục web."
+        },
+        {
+          "key": "C",
+          "text": "images/index.html, vì ảnh và trang phải đi cùng thư mục."
+        },
+        {
+          "key": "D",
+          "text": "../../index.html, vì cần lùi hai cấp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 10 quy định đường dẫn tương đối tính từ thư mục chứa trang đang viết: hs1.html nằm trong hocsinh nên phải lùi một cấp bằng ../ để về thư mục web, do đó giá trị đúng là ../index.html. B là đường dẫn chỉ đúng khi hai tệp cùng thư mục; C bịa ra thư mục images không chứa trang; D lùi hai cấp nên vượt ra ngoài thư mục web.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 10. Tạo liên kết",
+        "đường dẫn tương đối",
+        "thư mục cha"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c20",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 11, phần tử <iframe> trong trang web dùng để",
+      "options": [
+        {
+          "key": "A",
+          "text": "tạo một khung nhập liệu mới trong biểu mẫu."
+        },
+        {
+          "key": "B",
+          "text": "khai báo bảng kiểu dữ liệu cho trang."
+        },
+        {
+          "key": "C",
+          "text": "nhúng một trang web khác vào trong trang đang viết."
+        },
+        {
+          "key": "D",
+          "text": "tạo một khung cố định và bắt buộc người dùng đăng nhập để xem."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 11 giới thiệu iframe là khung nội tuyến, cho phép nhúng một trang web khác vào trang đang viết và có thể đặt kích thước cho khung. A nhầm với các phần tử của biểu mẫu ở Bài 12; B là khái niệm không có trong bài; D sai vì iframe không kèm cơ chế xác thực nào.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 11. Chèn tệp tin đa phương tiện và khung nội tuyến",
+        "iframe",
+        "khung nội tuyến"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c21",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 11, trong thẻ ảnh, thuộc tính alt có tác dụng",
+      "options": [
+        {
+          "key": "A",
+          "text": "xác định đường dẫn tới tệp ảnh cần chèn."
+        },
+        {
+          "key": "B",
+          "text": "quy định chiều rộng hiển thị của ảnh tính theo pixel."
+        },
+        {
+          "key": "C",
+          "text": "in dòng chú thích ngay bên dưới ảnh trên trang web."
+        },
+        {
+          "key": "D",
+          "text": "đặt văn bản thay thế cho ảnh, dùng khi ảnh không hiển thị được và giúp mô tả nội dung ảnh."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 11 dùng alt để viết văn bản thay thế mô tả ảnh, hiển thị khi ảnh không tải được. A là vai trò của thuộc tính src; B là vai trò của width; C sai vì alt không tự động in thành dòng chú thích bên dưới ảnh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 11. Chèn tệp tin đa phương tiện và khung nội tuyến",
+        "thẻ img",
+        "thuộc tính alt"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c22",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã:\n<form action=\"dangky.html\" method=\"get\">\n<input type=\"text\" name=\"hoten\">\n<textarea name=\"ghichu\" rows=\"3\"></textarea>\n<input type=\"submit\" value=\"Gui\">\n</form>\nTheo Bài 12, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dữ liệu nhập sẽ được gửi tới tệp ghichu.html khi bấm nút gửi."
+        },
+        {
+          "key": "B",
+          "text": "Dữ liệu được gửi tới tệp dangky.html; người dùng gõ họ tên vào ô nhập một dòng, viết ghi chú vào vùng văn bản nhiều dòng đang hiển thị 3 dòng và bấm nút gửi do phần tử input tạo thành."
+        },
+        {
+          "key": "C",
+          "text": "Số dòng của vùng ghi chú luôn do người dùng tự kéo, không thể đặt trước."
+        },
+        {
+          "key": "D",
+          "text": "Phải thay phần tử có type submit bằng một liên kết thì biểu mẫu mới gửi được."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 12 quy định action chỉ nơi nhận dữ liệu nên tệp nhận là dangky.html, textarea với rows đặt số dòng hiển thị và input có type submit tạo nút gửi, vì vậy B đúng. A nhầm tên vùng ghi chú thành tệp nhận; C sai vì rows đặt số dòng ngay trong mã; D sai vì nút gửi vốn do input type submit tạo ra.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 12. Tạo biểu mẫu",
+        "đọc hiểu đoạn mã",
+        "thuộc tính action"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c23",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 13, vai trò chính của CSS trong thiết kế website là",
+      "options": [
+        {
+          "key": "A",
+          "text": "tách phần trình bày ra khỏi nội dung, giúp áp dụng một phong cách định dạng thống nhất cho nhiều trang và dễ thay đổi diện mạo trang."
+        },
+        {
+          "key": "B",
+          "text": "thay thế HTML trong việc quy định cấu trúc của trang web."
+        },
+        {
+          "key": "C",
+          "text": "tăng tốc độ truyền dữ liệu giữa máy chủ và trình duyệt."
+        },
+        {
+          "key": "D",
+          "text": "giúp trang web chạy được mà không cần tệp HTML."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 13 nhấn mạnh CSS dùng để thiết lập các mẫu định dạng, tách nội dung khỏi cách trình bày nên nhiều trang cùng theo một phong cách và chỉ sửa một chỗ là thay đổi được diện mạo. B sai vì cấu trúc do HTML quy định; C là vai trò của thiết bị và giao thức mạng; D sai vì CSS chỉ định dạng cho nội dung HTML chứ không thay thế HTML.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 13. Khái niệm, vai trò của CSS",
+        "vai trò CSS",
+        "tách nội dung và định dạng"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c24",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo cấu trúc tổng quát của một mẫu định dạng CSS ở Bài 14, mẫu nào sau đây đặt màu chữ đỏ và cỡ chữ 14 pixel cho mọi phần tử p?",
+      "options": [
+        {
+          "key": "A",
+          "text": "p {font-color: red; size: 14px;}"
+        },
+        {
+          "key": "B",
+          "text": "{p: color red; p: font-size 14px;}"
+        },
+        {
+          "key": "C",
+          "text": "color = red, font-size = 14px trong thẻ <p>."
+        },
+        {
+          "key": "D",
+          "text": "p {color: red; font-size: 14px;}"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cấu trúc mẫu CSS là bộ chọn, sau đó trong cặp nhọn là các quy định dạng theo cặp thuộc tính: giá trị; nên D viết đúng với hai thuộc tính color và font-size. A dùng tên thuộc tính không có; B đặt tên phần tử làm thuộc tính và thiếu dấu hai chấm; C là cú pháp thuộc tính của thẻ HTML chứ không phải mẫu CSS.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 14. Định dạng văn bản bằng CSS",
+        "cấu trúc mẫu CSS",
+        "font-size"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c25",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các giá trị của thuộc tính text-decoration ở Bài 14, giá trị tạo đường kẻ nằm dưới chữ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "overline."
+        },
+        {
+          "key": "B",
+          "text": "line-through."
+        },
+        {
+          "key": "C",
+          "text": "underline."
+        },
+        {
+          "key": "D",
+          "text": "none."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giá trị underline kẻ đường gạch dưới chữ, nên C đúng. A là overline tạo đường kẻ phía trên chữ; B là line-through gạch ngang xuyên qua chữ; D là none huỷ bỏ mọi đường kẻ của chữ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 14. Định dạng văn bản bằng CSS",
+        "text-decoration",
+        "gạch chân chữ"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c26",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 15, màu được viết bằng mã thập lục phân #008000 tương ứng với màu nào sau đây trong hệ RGB?",
+      "options": [
+        {
+          "key": "A",
+          "text": "rgb(0, 128, 255), vì hai ký tự đầu cho thành phần lam."
+        },
+        {
+          "key": "B",
+          "text": "rgb(0, 128, 0), vì cặp 80 ở giữa đổi ra 8 lần 16 bằng 128 cho thành phần lục, hai cặp 00 còn lại bằng 0."
+        },
+        {
+          "key": "C",
+          "text": "rgb(128, 0, 0), vì ba cặp ký tự bị đảo thứ tự."
+        },
+        {
+          "key": "D",
+          "text": "rgb(0, 80, 0), vì hai chữ số thập lục phân được đọc thẳng thành số thập phân."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sáu ký tự thập lục phân ghép lần lượt thành ba thành phần đỏ, lục, lam; cặp giữa 80 bằng 8 nhân 16 là 128 còn hai cặp 00 bằng 0, nên màu là rgb(0, 128, 0) (đã nghiệm lại từ thập phân sang hex). A bịa thêm thành phần lam 255; C đổi chỗ đỏ và lục; D quên đổi cơ số 16.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 15. Tạo màu cho chữ và nền",
+        "màu hex và RGB",
+        "đổi cơ số"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c27",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu định dạng div {background-color: yellow; color: blue;} trong Bài 15 quy định",
+      "options": [
+        {
+          "key": "A",
+          "text": "nền của khối div màu vàng, chữ trong khối div màu xanh da trời."
+        },
+        {
+          "key": "B",
+          "text": "chữ màu vàng trên nền màu xanh da trời của khối div."
+        },
+        {
+          "key": "C",
+          "text": "viền ngoài của khối div màu vàng, viền trong màu xanh da trời."
+        },
+        {
+          "key": "D",
+          "text": "nền màu vàng cho toàn bộ trang, riêng chữ trong div không đổi màu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 15 dùng color để tô màu chữ và background-color để tô màu nền của phần tử được chọn, nên khối div có nền vàng và chữ xanh da trời, A đúng. B đảo hai thuộc tính; C là các thuộc tính border; D sai vì mẫu chỉ áp dụng cho phần tử div được chọn chứ không lan ra toàn bộ trang.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 15. Tạo màu cho chữ và nền",
+        "background-color",
+        "màu chữ"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c28",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bảng 16.2 ở Bài 16, vùng đệm (padding) của một phần tử HTML là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khoảng cách từ đường viền ngoài của khung đến văn bản xung quanh."
+        },
+        {
+          "key": "B",
+          "text": "độ dày của đường viền bao quanh khung."
+        },
+        {
+          "key": "C",
+          "text": "khoảng cách giữa hai phần tử khối đứng liền nhau."
+        },
+        {
+          "key": "D",
+          "text": "khoảng cách từ vùng nội dung đến đường viền ngoài của khung."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bảng 16.2 định nghĩa padding là vùng đệm, tức khoảng cách từ vùng nội dung đến đường viền ngoài của khung nên D đúng. A là margin, lề của khung; B là border-width; C nhầm padding với khoảng cách giữa các phần tử, vốn do margin quyết định.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 16. Định dạng khung",
+        "padding",
+        "Bảng 16.2"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c29",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Một phần tử có các quy định width: 200px; padding: 10px; border: 5px solid black; margin: 20px. Theo các định nghĩa ở Bài 16, bề ngang tính từ mép ngoài cùng bên trái đến mép ngoài cùng bên phải của khung phần tử là",
+      "options": [
+        {
+          "key": "A",
+          "text": "200 pixel, vì width đã là bề rộng đầy đủ của phần tử."
+        },
+        {
+          "key": "B",
+          "text": "215 pixel, vì chỉ cộng padding và border của một phía."
+        },
+        {
+          "key": "C",
+          "text": "230 pixel, bằng 200 cộng hai lần 10 của vùng đệm và hai lần 5 của đường viền."
+        },
+        {
+          "key": "D",
+          "text": "270 pixel, vì cộng thêm hai lần 20 của lề vào bề rộng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 16 đặt width là chiều rộng vùng nội dung, padding là vùng đệm hai bên và border là đường viền hai bên, nên tổng bề ngang là 200 + 2 nhân 10 + 2 nhân 5 bằng 230 pixel (nghiệm lại: 200 + 20 + 10). A quên phần đệm và viền; B chỉ tính một phía nên thiếu 15 pixel; D tính thừa vì margin là lề nằm ngoài khung.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 16. Định dạng khung",
+        "khung và vùng đệm",
+        "tính kích thước"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c30",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Trang web có phần tử <h1 id=\"tieuDe\" class=\"banner\">Ô nhiễm không khí</h1> cùng hai mẫu định dạng .banner {color: brown;} và #tieuDe {color: darkslategray;}. Theo các mức ưu tiên của bộ chọn ở Bài 17, dòng chữ hiển thị",
+      "options": [
+        {
+          "key": "A",
+          "text": "màu darkslategray, vì bộ chọn theo mã định danh có mức ưu tiên cao hơn bộ chọn theo lớp."
+        },
+        {
+          "key": "B",
+          "text": "màu brown, vì bộ chọn lớp được khai báo trước nên được ưu tiên áp dụng."
+        },
+        {
+          "key": "C",
+          "text": "màu brown, vì phần tử mang tên lớp nên ưu tiên của bộ chọn lớp được nhân đôi và vượt bộ chọn định danh."
+        },
+        {
+          "key": "D",
+          "text": "không có màu nào cả, vì hai mẫu xung đột nên trình duyệt bỏ qua cả hai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 17 xếp bộ chọn theo mã định danh ở mức ưu tiên cao hơn bộ chọn theo lớp, nên mẫu #tieuDe thắng và dòng chữ nhận màu darkslategray. B nhầm vì thứ tự khai báo chỉ dùng để phân định khi hai mẫu cùng ưu tiên; C đặt ra quy tắc nhân đôi không có trong sách; D sai vì xung đột được giải quyết bằng ưu tiên chứ không loại bỏ lẫn nhau.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Bài 17. Các mức ưu tiên của bộ chọn",
+        "bộ chọn id và lớp",
+        "mâu thuẫn mẫu CSS"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c31",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 19, trong các công việc sau, công việc nào thuộc nhóm công việc liên quan tới phần cứng của nghề dịch vụ sửa chữa và bảo trì máy tính?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cấu hình phần mềm phòng chống virus cho máy tính."
+        },
+        {
+          "key": "B",
+          "text": "Thay quạt tản nhiệt và vệ sinh bên trong vỏ máy tính."
+        },
+        {
+          "key": "C",
+          "text": "Rà soát an toàn hệ thống bằng quét mã độc."
+        },
+        {
+          "key": "D",
+          "text": "Cài đặt lại hệ điều hành và các ứng dụng văn phòng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 19 tách công việc của nghề thành nhóm phần cứng và nhóm phần mềm; thay quạt tản nhiệt và vệ sinh trong vỏ máy là việc trực tiếp làm với thiết bị nên thuộc nhóm phần cứng. A, C và D đều là công việc tác động vào phần mềm, trong đó sách nêu rõ quét mã độc và cấu hình phần mềm phòng chống virus thuộc nhóm phần mềm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 19. Dịch vụ sửa chữa và bảo trì máy tính",
+        "công việc phần cứng",
+        "phân loại công việc"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c32",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo nội dung mở đầu Bài 20, WannaCry được nhắc tới như một ví dụ cho thấy",
+      "options": [
+        {
+          "key": "A",
+          "text": "một công nghệ lưu trữ mới giúp tăng tốc máy tính của tổ chức."
+        },
+        {
+          "key": "B",
+          "text": "một giao thức truyền tệp dùng nội bộ trong cơ quan."
+        },
+        {
+          "key": "C",
+          "text": "một loại thiết bị hiển thị dùng trong phòng họp trực tuyến."
+        },
+        {
+          "key": "D",
+          "text": "một đợt bùng phát mã độc gây thiệt hại lớn cho nhiều máy tính, qua đó cho thấy vai trò của an ninh mạng trong tổ chức."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 20 mở đầu bằng sự cố WannaCry để cho thấy hậu quả của các cuộc tấn công mạng đối với máy tính của tổ chức và nhu cầu của nghề an ninh mạng, nên D đúng. Ba phương án còn lại biến WannaCry thành thiết bị hoặc giao thức, trái với nội dung được nêu trong sách.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 20. Nhóm nghề quản trị thuộc ngành Công nghệ thông tin",
+        "an ninh mạng",
+        "ví dụ thực tế"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c33",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 22, cổng HDMI thường thấy trên máy tính, ti vi và máy chiếu là viết tắt của cụm từ tiếng Anh nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "High Data Memory Interface."
+        },
+        {
+          "key": "B",
+          "text": "Hard Disk Media Input."
+        },
+        {
+          "key": "C",
+          "text": "High-Definition Multimedia Interface."
+        },
+        {
+          "key": "D",
+          "text": "Home Device Mode Integration."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 22 giải thích HDMI là viết tắt của High-Definition Multimedia Interface, chuẩn giao diện truyền hình ảnh và âm thanh độ nét cao. Ba phương án còn lại chỉ ghép các từ có cùng chữ cái đầu, không phải cụm từ mà sách nêu.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 22. Thực hành kết nối các thiết bị số",
+        "cổng HDMI",
+        "thiết bị hiển thị"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c34",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 22, tổ hợp phím nào mở bảng chọn để quyết định chiếu màn hình máy tính ra ti vi hoặc máy chiếu theo chế độ nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Windows + P."
+        },
+        {
+          "key": "B",
+          "text": "Ctrl + P."
+        },
+        {
+          "key": "C",
+          "text": "Alt + F4."
+        },
+        {
+          "key": "D",
+          "text": "Windows + E."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 22 dùng tổ hợp Windows + P để mở bảng chọn chế độ hiển thị gồm PC screen only, Duplicate, Extend và Second screen only. B là tổ hợp lệnh in; C đóng cửa sổ đang mở; D mở quản lí tệp, không liên quan tới chế độ chiếu màn hình.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 22. Thực hành kết nối các thiết bị số",
+        "chiếu màn hình",
+        "phím tắt"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c35",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bước xây dựng thiết kế ở Bài 23, công việc nào sau đây thuộc nhóm công việc về mĩ thuật của trang web?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lên dàn ý và kiến trúc nội dung cho các trang."
+        },
+        {
+          "key": "B",
+          "text": "Chọn bảng màu và phông chữ cho trang."
+        },
+        {
+          "key": "C",
+          "text": "Sưu tập tư liệu, viết bài và chuẩn bị video để đăng."
+        },
+        {
+          "key": "D",
+          "text": "Lựa chọn phần mềm để làm trang web."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 23 gộp bảng màu và phông chữ vào phần mĩ thuật của bước xây dựng thiết kế, nên B đúng. A là phần dàn ý và kiến trúc nội dung của cùng bước nhưng không thuộc mĩ thuật; C thuộc bước chuẩn bị tư liệu; D thuộc bước lựa chọn phần mềm, diễn ra sau khi đã có thiết kế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 23. Chuẩn bị xây dựng trang web",
+        "thiết kế mĩ thuật",
+        "bảng màu và phông chữ"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c36",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 24, khi nhập tiêu đề trang trong Google Sites mà tiêu đề quá dài, muốn ngắt dòng cho đẹp mà không tạo một đoạn văn bản mới, em nhấn",
+      "options": [
+        {
+          "key": "A",
+          "text": "Enter, vì mọi phím xuống dòng trong ô nhập đều chỉ ngắt dòng."
+        },
+        {
+          "key": "B",
+          "text": "Tab, vì phím này dịch con trỏ sang vị trí ngắt dòng."
+        },
+        {
+          "key": "C",
+          "text": "Shift + Enter."
+        },
+        {
+          "key": "D",
+          "text": "Nhiều dấu cách liên tiếp cho đến khi chữ tự rơi xuống dòng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 24 lưu ý trong ô Tiêu đề trang, phím Shift + Enter dùng để ngắt dòng mà không tạo đoạn văn bản mới. A sai vì Enter tạo đoạn mới; B là phím chuyển vùng nhập; D sai vì HTML và Google Sites gộp khoảng trắng nên nhiều dấu cách không ngắt được dòng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 24. Xây dựng phần đầu trang web",
+        "tiêu đề trang",
+        "thao tác Google Sites"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c37",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 25, phần chân trang của một website thường chứa",
+      "options": [
+        {
+          "key": "A",
+          "text": "toàn bộ nội dung các bài viết chuyên đề của trang."
+        },
+        {
+          "key": "B",
+          "text": "bộ câu hỏi của biểu mẫu lấy ý kiến người dùng."
+        },
+        {
+          "key": "C",
+          "text": "bảng chọn các trang con của thanh điều hướng."
+        },
+        {
+          "key": "D",
+          "text": "thông tin về thương hiệu, bản quyền, bảo mật, liên hệ và liên kết tới các trang mạng xã hội."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 25 xếp các thông tin thương hiệu, bản quyền, bảo mật, liên hệ và liên kết mạng xã hội vào phần chân trang, nên D đúng. A và B là nội dung thuộc phần thân trang; C là phần đầu trang, vì bảng chọn nằm trên thanh điều hướng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Bài 25. Xây dựng phần thân và chân trang web",
+        "chân trang",
+        "cấu trúc trang web"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c38",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 26, khi người dùng truy cập website bằng điện thoại, Google Sites tự động chuyển bảng chọn trên thanh điều hướng thành",
+      "options": [
+        {
+          "key": "A",
+          "text": "một danh sách thả xuống chứa toàn văn nội dung của các trang."
+        },
+        {
+          "key": "B",
+          "text": "một thanh công cụ nằm ngang cố định ở đáy màn hình."
+        },
+        {
+          "key": "C",
+          "text": "một biểu tượng dạng ba gạch nằm ngang; muốn xem bảng chọn thì nháy vào biểu tượng đó."
+        },
+        {
+          "key": "D",
+          "text": "một dòng chữ liền mạch đặt trong phần thân của trang chủ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 26 cho biết trên thiết bị di động Google Sites tự chuyển bảng chọn sang biểu tượng ba gạch nằm ngang và người dùng nháy vào đó để mở bảng chọn. A nhầm với hộp chọn của biểu mẫu; B và D mô tả vị trí, cách hiển thị mà sách không nêu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 26. Liên kết và thanh điều hướng",
+        "thanh điều hướng",
+        "thiết bị di động"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c39",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 27, sau khi đã tạo biểu mẫu bằng ứng dụng Forms, để đưa biểu mẫu đó vào một trang trong Google Sites em thực hiện",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đổi tên tệp biểu mẫu trùng với tên trang rồi lưu trang."
+        },
+        {
+          "key": "B",
+          "text": "Chụp ảnh màn hình biểu mẫu rồi chèn bức ảnh vào trang."
+        },
+        {
+          "key": "C",
+          "text": "Đặt con trỏ ở vị trí cần chèn, mở bảng chọn Chèn rồi nháy nút lệnh Biểu mẫu và chọn biểu mẫu cần nhúng."
+        },
+        {
+          "key": "D",
+          "text": "Dán địa chỉ của biểu mẫu vào ô Tiêu đề trang."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 27 hướng dẫn nhúng biểu mẫu bằng nút lệnh Biểu mẫu trong bảng chọn Chèn của Google Sites, nên C đúng. A và D không phải thao tác nhúng nên không tạo được biểu mẫu trên trang; B chỉ đưa vào một bức ảnh tĩnh, người xem không nhập và gửi câu trả lời được.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 27. Biểu mẫu trên trang web",
+        "nhúng biểu mẫu",
+        "thao tác Google Sites"
+      ]
+    },
+    {
+      "id": "tin12-ld02-c40",
+      "partName": "Phần I. Trắc nghiệm",
+      "topic": "topic-th-luyen-de",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo Bài 27, khi người dùng điền và gửi biểu mẫu đã nhúng trên trang web, các câu trả lời của họ được",
+      "options": [
+        {
+          "key": "A",
+          "text": "tập hợp trong bảng tính của biểu mẫu để người tạo theo dõi và thống kê."
+        },
+        {
+          "key": "B",
+          "text": "in ngay ra phần thân trang web cho mọi người cùng đọc."
+        },
+        {
+          "key": "C",
+          "text": "lưu vào tên miền của trang web."
+        },
+        {
+          "key": "D",
+          "text": "xoá tự động sau khi gửi nên không thể thống kê được."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 27 cho biết phản hồi của người trả lời được tập hợp trong bảng tính của biểu mẫu, từ đó xem chi tiết từng câu trả lời và số liệu thống kê, nên A đúng. B trái với cách làm vì dữ liệu không hiển thị công khai trên trang; C sai vì dữ liệu nằm ở biểu mẫu chứ không nằm ở tên miền; D phủ nhận chính mục đích lấy ý kiến phản hồi.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bài 27. Biểu mẫu trên trang web",
+        "Google Forms",
+        "thống kê phản hồi"
+      ]
+    }
+  ]
+}

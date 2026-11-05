@@ -1,0 +1,679 @@
+{
+  "id": "de-toan-12-bai-05",
+  "title": "Đề ôn Toán 12 Bài 5: Ứng dụng đạo hàm để giải quyết một số vấn đề liên quan đến thực tiễn (20 câu)",
+  "slug": "de-toan-12-bai-05",
+  "description": "Đề bám sát Bài 5 sách Toán 12 Kết nối tri thức: tối ưu hoá kiểu làm hộp từ tấm tôn, hàng rào vườn, máng nước, chi phí sản xuất, chuyển động và công suất điện. 20 câu trắc nghiệm bốn lựa chọn làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B05",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b05-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ một tấm bìa hình vuông cạnh $8\\ \\text{cm}$, người ta cắt ở bốn góc bốn ô vuông cạnh $2\\ \\text{cm}$ rồi gấp lại thành một hộp chữ nhật không nắp. Thể tích của hộp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$32\\ \\text{cm}^3$."
+        },
+        {
+          "key": "B",
+          "text": "$128\\ \\text{cm}^3$."
+        },
+        {
+          "key": "C",
+          "text": "$72\\ \\text{cm}^3$."
+        },
+        {
+          "key": "D",
+          "text": "$16\\ \\text{cm}^3$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đáy hộp là hình vuông cạnh $8 - 2 \\cdot 2 = 4\\ \\text{cm}$ (phải trừ ở cả hai phía) và chiều cao bằng $2\\ \\text{cm}$. Vậy $V = 4 \\cdot 4 \\cdot 2 = 32\\ \\text{cm}^3$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "làm hộp từ tấm bìa",
+        "thể tích"
+      ]
+    },
+    {
+      "id": "toan12-b05-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một chất điểm chuyển động thẳng với phương trình quãng đường $s(t) = 3t^2 + 2t$ (mét), với $t$ tính bằng giây. Vận tốc tức thời của chất điểm tại thời điểm $t = 2$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$8\\ \\text{m/s}$."
+        },
+        {
+          "key": "B",
+          "text": "$14\\ \\text{m/s}$."
+        },
+        {
+          "key": "C",
+          "text": "$12\\ \\text{m/s}$."
+        },
+        {
+          "key": "D",
+          "text": "$16\\ \\text{m/s}$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vận tốc tức thời là đạo hàm của quãng đường: $v(t) = s'(t) = 6t + 2$, do đó $v(2) = 14\\ \\text{m/s}$. Giá trị $s(2) = 16$ là quãng đường, còn lấy $6t$ mà bỏ số hạng $2$ chỉ cho $12\\ \\text{m/s}$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "chuyển động",
+        "vận tốc"
+      ]
+    },
+    {
+      "id": "toan12-b05-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bác nông dân có $40\\ \\text{m}$ lưới để quây kín một ao cá hình chữ nhật. Diện tích ao lớn nhất quây được là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$400\\ \\text{m}^2$."
+        },
+        {
+          "key": "B",
+          "text": "$50\\ \\text{m}^2$."
+        },
+        {
+          "key": "C",
+          "text": "$100\\ \\text{m}^2$."
+        },
+        {
+          "key": "D",
+          "text": "$200\\ \\text{m}^2$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Gọi một cạnh là $x$ thì cạnh kia là $20 - x$ (nửa chu vi bằng $20\\ \\text{m}$). Diện tích $S(x) = x(20 - x) = 20x - x^2$ có $S'(x) = 20 - 2x = 0$ tại $x = 10$, khi đó $S = 100\\ \\text{m}^2$. Nhầm $20 - x$ thành $20 - 2x$ dẫn tới $50\\ \\text{m}^2$; coi mỗi cạnh đều bằng $20\\ \\text{m}$ thì ra $400\\ \\text{m}^2$, còn lấy $20 \\cdot 10$ thì ra $200\\ \\text{m}^2$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "hàng rào",
+        "diện tích lớn nhất"
+      ]
+    },
+    {
+      "id": "toan12-b05-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một tấm tôn hình chữ nhật kích thước $50\\ \\text{cm} \\times 30\\ \\text{cm}$. Cắt ở bốn góc bốn ô vuông cùng cạnh $x\\ \\text{cm}$ ($0 < x < 15$) rồi gấp lên được một hộp không nắp. Hàm số thể tích của hộp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$V(x) = x(50 - x)(30 - x)$."
+        },
+        {
+          "key": "B",
+          "text": "$V(x) = 2x(50 - 2x)(30 - 2x)$."
+        },
+        {
+          "key": "C",
+          "text": "$V(x) = (50 - 2x)(30 - 2x)$."
+        },
+        {
+          "key": "D",
+          "text": "$V(x) = x(50 - 2x)(30 - 2x)$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chiều cao hộp bằng $x$; mỗi cạnh đáy bị cắt ở cả hai đầu nên đáy có kích thước $50 - 2x$ và $30 - 2x$. Vậy $V(x) = x(50 - 2x)(30 - 2x)$. Công thức $x(50 - x)(30 - x)$ quên nhân $2$ ở phần bị cắt, còn $(50 - 2x)(30 - 2x)$ quên thừa số chiều cao $x$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "làm hộp từ tấm tôn",
+        "lập hàm số"
+      ]
+    },
+    {
+      "id": "toan12-b05-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một vật được ném thẳng đứng lên trên; độ cao so với mặt đất (mét) theo thời gian $t$ (giây) là $h(t) = 20t - 5t^2$. Vật đạt độ cao lớn nhất tại thời điểm",
+      "options": [
+        {
+          "key": "A",
+          "text": "$t = 2\\ \\text{s}$."
+        },
+        {
+          "key": "B",
+          "text": "$t = 4\\ \\text{s}$."
+        },
+        {
+          "key": "C",
+          "text": "$t = 1\\ \\text{s}$."
+        },
+        {
+          "key": "D",
+          "text": "$t = 20\\ \\text{s}$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm $h'(t) = v(t) = 20 - 10t$ bằng $0$ khi $t = 2$. Với $t < 2$ thì $v > 0$ (vật đi lên), với $t > 2$ thì $v < 0$, nên độ cao lớn nhất đạt được tại $t = 2\\ \\text{s}$. Giá trị $t = 4$ là lúc vật rơi trở lại mặt đất ($h = 0$).",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "chuyển động",
+        "độ cao lớn nhất"
+      ]
+    },
+    {
+      "id": "toan12-b05-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một tổ sản xuất có hàm chi phí $C(x) = x^2 - 24x + 200$ (triệu đồng) khi làm ra $x$ sản phẩm. Chi phí nhỏ nhất khi tổ làm ra bao nhiêu sản phẩm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$24$ sản phẩm."
+        },
+        {
+          "key": "B",
+          "text": "$6$ sản phẩm."
+        },
+        {
+          "key": "C",
+          "text": "$12$ sản phẩm."
+        },
+        {
+          "key": "D",
+          "text": "$100$ sản phẩm."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đạo hàm $C'(x) = 2x - 24$ đổi dấu từ âm sang dương khi qua $x = 12$, nên chi phí nhỏ nhất tại $x = 12$ sản phẩm (khi đó $C(12) = 56$ triệu đồng). Quên hệ số $2$ trước $x$ sẽ nhầm ra $x = 24$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "chi phí sản xuất",
+        "giá trị nhỏ nhất"
+      ]
+    },
+    {
+      "id": "toan12-b05-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Người ta rào ba cạnh của một vườn rau hình chữ nhật (cạnh thứ tư là tường), dùng đúng $24\\ \\text{m}$ hàng rào. Diện tích lớn nhất của vườn rau là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$36\\ \\text{m}^2$."
+        },
+        {
+          "key": "B",
+          "text": "$72\\ \\text{m}^2$."
+        },
+        {
+          "key": "C",
+          "text": "$144\\ \\text{m}^2$."
+        },
+        {
+          "key": "D",
+          "text": "$96\\ \\text{m}^2$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gọi hai cạnh vuông góc với tường là $x$ thì cạnh song song với tường là $24 - 2x$. Diện tích $S(x) = x(24 - 2x) = 24x - 2x^2$; $S'(x) = 24 - 4x = 0$ cho $x = 6$ và $S = 6 \\cdot 12 = 72\\ \\text{m}^2$. Chia nhầm $24$ cho $2$ cạnh để được hình vuông $12 \\times 12$ dẫn tới $144\\ \\text{m}^2$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "hàng rào",
+        "vườn hình chữ nhật"
+      ]
+    },
+    {
+      "id": "toan12-b05-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một tấm tôn rộng $60\\ \\text{cm}$ được gập đều hai mép lên để làm máng nước có tiết diện hình chữ nhật (máng không nắp). Gọi $x\\ \\text{cm}$ là chiều cao phần gập lên ($0 < x < 30$). Giá trị của $x$ để diện tích tiết diện máng nước lớn nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$10\\ \\text{cm}$."
+        },
+        {
+          "key": "B",
+          "text": "$20\\ \\text{cm}$."
+        },
+        {
+          "key": "C",
+          "text": "$30\\ \\text{cm}$."
+        },
+        {
+          "key": "D",
+          "text": "$15\\ \\text{cm}$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tiết diện là hình chữ nhật có chiều cao $x$ và bề ngang $60 - 2x$, nên $S(x) = x(60 - 2x) = 60x - 2x^2$. Giải $S'(x) = 60 - 4x = 0$ được $x = 15$; khi đó $S = 15 \\cdot 30 = 450\\ \\text{cm}^2$. Quên trừ phần gập ở hai bên (dùng $60 - x$) cho ra $x = 30$, là giá trị không tồn tại vì máng bẹp.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "máng nước",
+        "diện tích lớn nhất"
+      ]
+    },
+    {
+      "id": "toan12-b05-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ tấm tôn hình chữ nhật $32\\ \\text{cm} \\times 20\\ \\text{cm}$, cắt bốn góc bốn ô vuông cạnh $x\\ \\text{cm}$ ($0 < x < 10$) rồi gấp thành hộp không nắp. Thể tích lớn nhất của hộp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$896\\ \\text{cm}^3$."
+        },
+        {
+          "key": "B",
+          "text": "$1792\\ \\text{cm}^3$."
+        },
+        {
+          "key": "C",
+          "text": "$1152\\ \\text{cm}^3$."
+        },
+        {
+          "key": "D",
+          "text": "$1536\\ \\text{cm}^3$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đáy hộp là hình chữ nhật $32 - 2x$ và $20 - 2x$, chiều cao $x$, nên $V(x) = x(32 - 2x)(20 - 2x) = 4x^3 - 104x^2 + 640x$ trên khoảng $(0; 10)$. Ta có $V'(x) = 12x^2 - 208x + 640 = 4(3x - 40)(x - 4)$; nghiệm $x = \\dfrac{40}{3}$ bị loại vì lớn hơn $10$, còn $x = 4$ làm $V'$ đổi dấu từ dương sang âm. Vậy thể tích lớn nhất là $V(4) = 4 \\cdot 24 \\cdot 12 = 1152\\ \\text{cm}^3$. Giá trị $896\\ \\text{cm}^3$ chính là $V(2)$, hệ quả của việc phân tích nhầm nhân tử của $V'$; $1792\\ \\text{cm}^3$ và $1536\\ \\text{cm}^3$ lần lượt đến từ chỗ trừ nhầm một lần phần cắt và quên trừ ở chiều dài.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "làm hộp từ tấm tôn",
+        "thể tích lớn nhất"
+      ]
+    },
+    {
+      "id": "toan12-b05-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nguồn điện có suất điện động $E = 12\\ \\text{V}$ và điện trở trong $r = 3\\ \\Omega$ nối tiếp với một biến trở $R$. Công suất tiêu thụ trên biến trở là $P(R) = \\dfrac{144R}{{(R + 3)}^2}$ (oát). Giá trị của $R$ để công suất $P$ lớn nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$3\\ \\Omega$."
+        },
+        {
+          "key": "B",
+          "text": "$6\\ \\Omega$."
+        },
+        {
+          "key": "C",
+          "text": "$1,5\\ \\Omega$."
+        },
+        {
+          "key": "D",
+          "text": "$12\\ \\Omega$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Rút gọn $P(R) = \\dfrac{144}{R + \\dfrac{9}{R} + 6}$ với $R > 0$. Mẫu số nhỏ nhất khi $R + \\dfrac{9}{R} \\ge 2\\sqrt{9} = 6$, dấu bằng xảy ra tại $R = 3$. Vậy $R = 3\\ \\Omega$ (đúng bằng điện trở trong) và $P$ lớn nhất bằng $12\\ \\text{W}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "công suất điện",
+        "điện trở"
+      ]
+    },
+    {
+      "id": "toan12-b05-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một cửa hàng bán được $100$ sản phẩm mỗi tháng với giá $500$ nghìn đồng một sản phẩm; giá vốn mỗi sản phẩm là $300$ nghìn đồng. Người ta nhận thấy cứ tăng giá thêm $20$ nghìn đồng thì số sản phẩm bán được giảm đi $5$ sản phẩm. Gọi $x$ là số lần tăng giá ($0 \\le x \\le 20$). Giá bán một sản phẩm để tổng lợi nhuận mỗi tháng lớn nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$500$ nghìn đồng."
+        },
+        {
+          "key": "B",
+          "text": "$640$ nghìn đồng."
+        },
+        {
+          "key": "C",
+          "text": "$400$ nghìn đồng."
+        },
+        {
+          "key": "D",
+          "text": "$600$ nghìn đồng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Lợi nhuận mỗi tháng là $L(x) = (500 + 20x - 300)(100 - 5x) = (200 + 20x)(100 - 5x) = 100(10 + x)(20 - x)$, khai triển ra $L(x) = 100(200 + 10x - x^2)$ với $x \\in [0; 20]$. Đạo hàm $L'(x) = 100(10 - 2x) = 0$ cho $x = 5$, đổi dấu từ dương sang âm nên đó là điểm cực đại. Giá bán tối ưu là $500 + 20 \\cdot 5 = 600$ nghìn đồng (lợi nhuận $22\\,500$ nghìn đồng). Chọn $x = 0$ giữ nguyên giá $500$ nghìn chỉ là một hiểu lầm phổ biến.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "lợi nhuận",
+        "tối ưu giá bán"
+      ]
+    },
+    {
+      "id": "toan12-b05-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Vận tốc của một chất điểm (mét trên giây) theo thời gian $t$ (giây) là $v(t) = 3t^2 - 12t + 9$. Gia tốc của chất điểm tại thời điểm $t = 3$ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$0\\ \\text{m/s}^2$."
+        },
+        {
+          "key": "B",
+          "text": "$6\\ \\text{m/s}^2$."
+        },
+        {
+          "key": "C",
+          "text": "$18\\ \\text{m/s}^2$."
+        },
+        {
+          "key": "D",
+          "text": "$3\\ \\text{m/s}^2$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gia tốc là đạo hàm của vận tốc: $a(t) = v'(t) = 6t - 12$, suy ra $a(3) = 6 \\cdot 3 - 12 = 6\\ \\text{m/s}^2$. Nhầm gia tốc với vận tốc thì $v(3) = 0$; quên trừ $12$ thì ra $18\\ \\text{m/s}^2$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "chuyển động",
+        "gia tốc"
+      ]
+    },
+    {
+      "id": "toan12-b05-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một khung cửa gồm phần dưới là hình chữ nhật và phần trên là nửa đường tròn có đường trùng với cạnh trên của hình chữ nhật. Chu vi khung cửa bằng $8\\ \\text{m}$. Diện tích lớn nhất của khung cửa là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$\\dfrac{32}{4 + \\pi}\\ \\text{m}^2$."
+        },
+        {
+          "key": "B",
+          "text": "$\\dfrac{16}{4 + \\pi}\\ \\text{m}^2$."
+        },
+        {
+          "key": "C",
+          "text": "$\\dfrac{32}{4 + 2\\pi}\\ \\text{m}^2$."
+        },
+        {
+          "key": "D",
+          "text": "$\\dfrac{64}{4 + \\pi}\\ \\text{m}^2$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gọi bán kính nửa đường tròn là $r$ thì bề ngang cửa là $2r$ và chiều cao phần chữ nhật là $h = \\dfrac{8 - 2r - \\pi r}{2}$, với $0 < r < \\dfrac{8}{2 + \\pi}$. Diện tích $S(r) = 2rh + \\dfrac{\\pi r^2}{2} = 8r - \\left(2 + \\dfrac{\\pi}{2}\\right)r^2$, nên $S'(r) = 8 - (4 + \\pi)r = 0$ cho $r = \\dfrac{8}{4 + \\pi}$ (thuộc khoảng đang xét). Thay lại: $S = \\dfrac{64}{4 + \\pi} - \\dfrac{(4 + \\pi)}{2} \\cdot \\dfrac{64}{{(4 + \\pi)}^2} = \\dfrac{32}{4 + \\pi}\\ \\text{m}^2$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "vườn bán nguyệt",
+        "diện tích lớn nhất"
+      ]
+    },
+    {
+      "id": "toan12-b05-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một xưởng cần tiện một vỏ hộp hình trụ kín có thể tích $54\\pi\\ \\text{cm}^3$. Lượng kim loại dùng để làm hộp ít nhất khi bán kính đáy là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$2\\ \\text{cm}$."
+        },
+        {
+          "key": "B",
+          "text": "$6\\ \\text{cm}$."
+        },
+        {
+          "key": "C",
+          "text": "$3\\ \\text{cm}$."
+        },
+        {
+          "key": "D",
+          "text": "$9\\ \\text{cm}$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thể tích $\\pi r^2 h = 54\\pi$ nên $h = \\dfrac{54}{r^2}$. Diện tích toàn phần $S(r) = 2\\pi r^2 + 2\\pi r h = 2\\pi r^2 + \\dfrac{108\\pi}{r}$. Đạo hàm $S'(r) = 4\\pi r - \\dfrac{108\\pi}{r^2} = 0$ cho $r^3 = 27$ tức $r = 3\\ \\text{cm}$, khi đó $h = 6\\ \\text{cm}$. Nhầm chiều cao $6$ với bán kính là lỗi hay gặp ở câu này.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "hộp hình trụ",
+        "vật liệu ít nhất"
+      ]
+    },
+    {
+      "id": "toan12-b05-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Độ cao của một khí cầu (mét) theo thời gian $t$ (giây) được mô hình hóa bởi $h(t) = -t^3 + 6t^2 + 15t$, với $t \\ge 0$. Độ cao lớn nhất mà khí cầu đạt tới là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$72\\ \\text{m}$."
+        },
+        {
+          "key": "B",
+          "text": "$100\\ \\text{m}$."
+        },
+        {
+          "key": "C",
+          "text": "$46\\ \\text{m}$."
+        },
+        {
+          "key": "D",
+          "text": "$15\\ \\text{m}$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "$h'(t) = -3t^2 + 12t + 15 = -3(t - 5)(t + 1)$, nên trên nửa khoảng $[0; +\\infty)$ duy nhất $t = 5$ làm $h'$ bằng $0$. Với $0 < t < 5$ thì $h' > 0$, với $t > 5$ thì $h' < 0$, do đó độ cao lớn nhất là $h(5) = -125 + 150 + 75 = 100\\ \\text{m}$. Các giá trị $72\\ \\text{m}$ và $46\\ \\text{m}$ lần lượt là $h(3)$ và $h(2)$, chỉ là những thời điểm chưa hết khoảng tăng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "chuyển động",
+        "độ cao lớn nhất"
+      ]
+    },
+    {
+      "id": "toan12-b05-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một tấm tôn hình chữ nhật $24\\ \\text{cm} \\times 15\\ \\text{cm}$ được cắt ở bốn góc bốn ô vuông cạnh $x\\ \\text{cm}$ ($0 < x < 7{,}5$) rồi gấp thành hộp không nắp. Thể tích lớn nhất của hộp bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$448\\ \\text{cm}^3$."
+        },
+        {
+          "key": "B",
+          "text": "$200\\ \\text{cm}^3$."
+        },
+        {
+          "key": "C",
+          "text": "$1080\\ \\text{cm}^3$."
+        },
+        {
+          "key": "D",
+          "text": "$486\\ \\text{cm}^3$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "$V(x) = x(24 - 2x)(15 - 2x) = 4x^3 - 78x^2 + 360x$, suy ra $V'(x) = 12x^2 - 156x + 360 = 12(x - 3)(x - 10)$. Nghiệm $x = 10$ bị loại vì $x$ phải nhỏ hơn $7{,}5$ (cắt quá nửa cạnh $15$); trên $(0; 7{,}5)$ đạo hàm đổi dấu từ dương sang âm tại $x = 3$. Vậy $V(3) = 3 \\cdot 18 \\cdot 9 = 486\\ \\text{cm}^3$. Dùng nghiệm ngoài khoảng $x = 10$ cho giá trị âm rồi lấy $200$, còn $1080$ là kết quả của việc quên trừ phần bị cắt.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "làm hộp từ tấm tôn",
+        "cực trị trên khoảng"
+      ]
+    },
+    {
+      "id": "toan12-b05-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Người ta làm một cái thùng không nắp có đáy là hình vuông, thể tích $500\\ \\text{cm}^3$. Để tấm tôn dùng làm thùng là ít nhất thì chiều cao của thùng phải bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "$20\\ \\text{cm}$."
+        },
+        {
+          "key": "B",
+          "text": "$10\\ \\text{cm}$."
+        },
+        {
+          "key": "C",
+          "text": "$5\\ \\text{cm}$."
+        },
+        {
+          "key": "D",
+          "text": "$2,5\\ \\text{cm}$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Gọi cạnh đáy là $x$ thì chiều cao $h = \\dfrac{500}{x^2}$ và diện tích vật liệu $S(x) = x^2 + 4xh = x^2 + \\dfrac{2000}{x}$ (đáy chỉ có một tấm vì thùng không nắp). $S'(x) = 2x - \\dfrac{2000}{x^2} = 0$ cho $x^3 = 1000$, tức $x = 10\\ \\text{cm}$, do đó $h = \\dfrac{500}{100} = 5\\ \\text{cm}$. Coi thùng có nắp (thêm một đáy) sẽ ra $x = h = \\sqrt[3]{500}$ và là nhầm lẫn thường gặp.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "thùng không nắp",
+        "diện tích nhỏ nhất"
+      ]
+    },
+    {
+      "id": "toan12-b05-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nhà máy xây bể chứa nước hình hộp chữ nhật không nắp, đáy là hình vuông, thể tích $250\\ \\text{m}^3$. Giá xây đáy là $300$ nghìn đồng mỗi mét vuông, giá xây bốn thành là $600$ nghìn đồng mỗi mét vuông. Tổng chi phí nhỏ nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$90$ triệu đồng."
+        },
+        {
+          "key": "B",
+          "text": "$45$ triệu đồng."
+        },
+        {
+          "key": "C",
+          "text": "$108$ triệu đồng."
+        },
+        {
+          "key": "D",
+          "text": "$180$ triệu đồng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gọi cạnh đáy là $x$ (mét) thì chiều cao $h = \\dfrac{250}{x^2}$. Chi phí (nghìn đồng): $T(x) = 300x^2 + 600 \\cdot 4xh = 300x^2 + \\dfrac{600000}{x}$. Ta có $T'(x) = 600x - \\dfrac{600000}{x^2} = 0$ cho $x^3 = 1000$ tức $x = 10\\ \\text{m}$, $h = 2{,}5\\ \\text{m}$; đạo hàm đổi dấu từ âm sang dương nên đây là chi phí nhỏ nhất: $T = 300 \\cdot 100 + 60000 = 90000$ nghìn đồng $= 90$ triệu đồng. Quên hệ số $4$ của bốn thành bể (chỉ cộng diện tích đúng một thành, $600\\cdot 2{,}5=15000$ nghìn đồng) sẽ ra $45$ triệu đồng.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "chi phí nguyên liệu",
+        "bể chứa"
+      ]
+    },
+    {
+      "id": "toan12-b05-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Vị trí của một thang máy so với điểm xuất phát (đơn vị: mét, theo phương thẳng đứng, chiều dương hướng lên) sau $t$ giây là $s(t) = t^3 - 6t^2 + 9t$. Trong $5$ giây đầu tiên, thang máy ở xa điểm xuất phát nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4\\ \\text{m}$."
+        },
+        {
+          "key": "B",
+          "text": "$0\\ \\text{m}$."
+        },
+        {
+          "key": "C",
+          "text": "$12\\ \\text{m}$."
+        },
+        {
+          "key": "D",
+          "text": "$20\\ \\text{m}$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trên đoạn $[0; 5]$, $s'(t) = 3t^2 - 12t + 9 = 3(t - 1)(t - 3)$ bằng $0$ tại $t = 1$ và $t = 3$. So sánh: $s(0) = 0$, $s(1) = 4$ (giá trị cực đại địa phương), $s(3) = 0$, $s(5) = 125 - 150 + 45 = 20$. Vậy sau $5$ giây thang máy xa điểm xuất phát nhất là $20\\ \\text{m}$; lấy $4\\ \\text{m}$ là lỗi chọn cực đại địa phương mà quên biên của khoảng thời gian.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "chuyển động",
+        "giá trị lớn nhất trên đoạn"
+      ]
+    },
+    {
+      "id": "toan12-b05-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b05-ung-dung-thuc-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một xe bồn chạy đều trên quãng đường $120\\ \\text{km}$ với vận tốc $v\\ \\text{km/h}$, trong đó $30 \\le v \\le 90$. Chi phí nhiên liệu mỗi giờ là $0{,}04v^2$ nghìn đồng và các chi phí khác (lái xe, khấu hao) là $144$ nghìn đồng mỗi giờ. Vận tốc để tổng chi phí chuyến hàng nhỏ nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$90\\ \\text{km/h}$."
+        },
+        {
+          "key": "B",
+          "text": "$60\\ \\text{km/h}$."
+        },
+        {
+          "key": "C",
+          "text": "$30\\ \\text{km/h}$."
+        },
+        {
+          "key": "D",
+          "text": "$45\\ \\text{km/h}$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thời gian đi là $\\dfrac{120}{v}$ giờ nên tổng chi phí $T(v) = \\dfrac{120}{v}(0{,}04v^2 + 144) = 4{,}8v + \\dfrac{17280}{v}$. Giải $T'(v) = 4{,}8 - \\dfrac{17280}{v^2} = 0$ được $v^2 = 3600$, tức $v = 60\\ \\text{km/h}$ (thuộc đoạn đang xét). trên đoạn $[30; 90]$ đạo hàm $T'$ đổi dấu từ âm sang dương tại $v = 60$ nên đó là chi phí nhỏ nhất, bằng $T(60) = 576$ nghìn đồng, trong khi $T(30) = 720$ và $T(90) = 624$. Chọn $v = 30$ là lỗi tối ưu hóa chi phí nhiên liệu mỗi giờ thay vì chi phí cả chuyến.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "vận tốc",
+        "chi phí nhỏ nhất"
+      ]
+    }
+  ]
+}

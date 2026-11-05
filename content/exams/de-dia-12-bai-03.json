@@ -1,0 +1,1509 @@
+{
+  "id": "de-dia-12-bai-03",
+  "title": "Đề ôn tập Địa lí 12 – Bài 3: Sự phân hoá đa dạng của thiên nhiên",
+  "slug": "de-dia-12-bai-03",
+  "description": "Đề ôn tập 45 phút theo Bài 3 Địa lí 12: sự phân hoá đa dạng của thiên nhiên. Đề bao quát phân hoá theo chiều bắc – nam (ranh giới Bạch Mã, mùa đông lạnh của miền Bắc so với nền nhiệt nóng quanh năm của miền Nam), phân hoá theo chiều đông – tây (ba dải biển – đồng bằng ven biển – đồi núi, sự đối lập giữa sườn đông và sườn tây dãy Trường Sơn, mùa mưa lệch nhau giữa dải ven biển Nam Trung Bộ với khu vực phía tây), phân hoá theo độ cao (ba đai cao cùng các ngưỡng 600 – 700 m, 900 – 1000 m, 1600 – 1700 m, vì sao miền Nam hầu như không có đai ôn đới), kèm các câu tính toán nhiệt độ giảm 0,6 °C cho mỗi 100 m và ý nghĩa thực tiễn của sự phân hoá. Gồm 35 câu trắc nghiệm bốn phương án và 5 câu chọn các phát biểu đúng, mỗi câu 0,25 điểm.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B03",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b03-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ranh giới tự nhiên thường được dùng để chia thiên nhiên nước ta thành phần lãnh thổ phía Bắc và phần lãnh thổ phía Nam là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đèo Ngang."
+        },
+        {
+          "key": "B",
+          "text": "dãy Bạch Mã."
+        },
+        {
+          "key": "C",
+          "text": "dãy Hoành Sơn."
+        },
+        {
+          "key": "D",
+          "text": "sông Cả."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Dãy Bạch Mã là nơi gió mùa Đông Bắc suy yếu và bị chặn lại, tạo nên sự khác biệt khí hậu – cảnh quan giữa hai miền nên được coi là ranh giới tự nhiên bắc – nam. A và C chỉ là những dãy, đèo cục bộ ở miền Trung, không phải ranh giới chung của cả nước; D sai vì sông Cả không phải ranh giới khí hậu.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá bắc – nam",
+        "ranh giới Bạch Mã"
+      ]
+    },
+    {
+      "id": "dia12-b03-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nổi bật của khí hậu phần lãnh thổ phía Bắc (từ dãy Bạch Mã trở ra) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nóng ẩm quanh năm với hai mùa mưa – khô đối lập sâu sắc."
+        },
+        {
+          "key": "B",
+          "text": "khô hạn, lượng mưa năm rất nhỏ như các vùng nội chí tuyến trong lục địa."
+        },
+        {
+          "key": "C",
+          "text": "lạnh giá quanh năm, thiên nhiên mang tính chất ôn đới."
+        },
+        {
+          "key": "D",
+          "text": "có một mùa đông lạnh, mùa hạ nóng ẩm; lượng mưa mùa hạ lớn hơn mùa đông."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Phần lãnh thổ phía Bắc chịu ảnh hưởng của gió mùa Đông Bắc nên có mùa đông lạnh, đồng thời vẫn nằm trong vùng nội chí tuyến nên nền chung là nhiệt đới ẩm gió mùa. A là đặc trưng của phía Nam; B sai vì nước ta mưa nhiều, không khô hạn như sa mạc; C sai vì chỉ có mùa đông lạnh tạm thời, không lạnh quanh năm.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá bắc – nam",
+        "khí hậu miền Bắc"
+      ]
+    },
+    {
+      "id": "dia12-b03-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Thiên nhiên phần lãnh thổ phía Nam nước ta mang đặc trưng cận xích đạo, biểu hiện rõ nhất ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "nền nhiệt cao quanh năm, trong năm không có tháng nào nhiệt độ dưới 20 °C."
+        },
+        {
+          "key": "B",
+          "text": "có ba tháng liên tục nhiệt độ trung bình dưới 15 °C."
+        },
+        {
+          "key": "C",
+          "text": "mùa đông khô lạnh kéo dài khoảng bốn tháng."
+        },
+        {
+          "key": "D",
+          "text": "biên độ nhiệt độ trung bình năm rất lớn so với miền Bắc."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Từ Bạch Mã trở vào gần xích đạo hơn, không có gió mùa Đông Bắc nên nóng quanh năm, nền nhiệt ổn định. B và C là đặc điểm của miền Bắc hoặc vùng núi cao, không phải của phần lãnh thổ phía Nam; D sai vì phía Nam có biên độ nhiệt năm **nhỏ** hơn miền Bắc.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá bắc – nam",
+        "thiên nhiên miền Nam"
+      ]
+    },
+    {
+      "id": "dia12-b03-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân chủ yếu làm cho phần lãnh thổ phía Bắc nước ta có mùa đông lạnh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "diện tích đồi núi chiếm ưu thế so với diện tích đồng bằng."
+        },
+        {
+          "key": "B",
+          "text": "vị trí gần chí tuyến Bắc nên nhận được ít bức xạ nhất cả nước."
+        },
+        {
+          "key": "C",
+          "text": "gió mùa Đông Bắc đưa khối khí lạnh từ phương Bắc về phía nước ta, suy yếu dần khi xuống phía nam."
+        },
+        {
+          "key": "D",
+          "text": "ảnh hưởng của dòng biển lạnh chảy dọc bờ biển Bắc Bộ."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Chính khối không khí lạnh do gió mùa Đông Bắc mang về làm nhiệt độ hạ thấp trong các tháng mùa đông; càng vào nam gió càng yếu nên lạnh ít đi. A chỉ làm tăng thêm độ lạnh ở vùng núi cao, không phải nguyên nhân chủ yếu của toàn miền; B sai vì miền Bắc nhận bức xạ nhiều hơn các vùng ôn đới; D không có cơ sở.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "gió mùa Đông Bắc",
+        "mùa đông lạnh"
+      ]
+    },
+    {
+      "id": "dia12-b03-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Biên độ nhiệt độ trung bình năm của phần lãnh thổ phía Bắc lớn hơn phần lãnh thổ phía Nam, nguyên nhân chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "phía Bắc có nhiều đồng bằng rộng hơn nên nhiệt độ tăng nhanh về mùa hạ."
+        },
+        {
+          "key": "B",
+          "text": "phía Bắc có mùa đông lạnh sâu và mùa hạ nóng, còn phía Nam nóng quanh năm nên nền nhiệt ít biến đổi."
+        },
+        {
+          "key": "C",
+          "text": "phía Nam nằm gần xích đạo nên mùa hạ không bao giờ nóng."
+        },
+        {
+          "key": "D",
+          "text": "phía Bắc nhận tổng lượng bức xạ năm lớn hơn phía Nam."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Biên độ nhiệt năm phụ thuộc vào mức chênh lệch giữa tháng nóng nhất và tháng lạnh nhất; mùa đông lạnh làm miền Bắc có biên độ lớn, miền Nam nóng đều nên biên độ nhỏ. A và D không đúng thực tế; C sai vì miền Nam vẫn có mùa hạ nóng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá bắc – nam",
+        "biên độ nhiệt"
+      ]
+    },
+    {
+      "id": "dia12-b03-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiện tượng gió Tây khô nóng (phơn) diễn ra gay gắt nhất, thường từ tháng V đến tháng VII, ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "các đồng bằng ven biển thuộc Bắc Trung Bộ và Duyên hải Nam Trung Bộ, phía đông dãy Trường Sơn."
+        },
+        {
+          "key": "B",
+          "text": "đồng bằng sông Hồng và vùng ven biển Quảng Ninh."
+        },
+        {
+          "key": "C",
+          "text": "vùng trung du thuộc khu vực cực bắc của cả nước."
+        },
+        {
+          "key": "D",
+          "text": "đồng bằng sông Cửu Long và bán đảo Cà Mau."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Gió Tây Nam mang hơi ẩm từ vịnh Bắc Bộ và Ấn Độ Dương vượt dãy Trường Sơn, mất gần hết mưa ở sườn tây, xuống sườn đông thì biến tính nóng khô. B, C thuộc miền Bắc, ít chịu hiệu ứng phơn; D thuộc Nam Bộ, mùa hạ mưa nhiều, không khô nóng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "gió Tây khô nóng",
+        "Trường Sơn"
+      ]
+    },
+    {
+      "id": "dia12-b03-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở vùng Duyên hải Nam Trung Bộ, mùa mưa thường tập trung vào các tháng",
+      "options": [
+        {
+          "key": "A",
+          "text": "IV đến VII."
+        },
+        {
+          "key": "B",
+          "text": "V đến VIII."
+        },
+        {
+          "key": "C",
+          "text": "XII đến II năm sau."
+        },
+        {
+          "key": "D",
+          "text": "IX đến XII."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Vùng này nằm ở sườn chắn gió Tây Nam nên mùa hạ khô nóng; mưa đến muộn vào các tháng IX – XII khi dải hội tụ nhiệt đới hoạt động, không khí lạnh suy xuống và bão, áp thấp nhiệt đới nhiều. A, B là tháng mùa khô của vùng; C là mùa mưa ít ở miền Bắc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "duyên hải Nam Trung Bộ",
+        "chế độ mưa"
+      ]
+    },
+    {
+      "id": "dia12-b03-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Mùa mưa của Nam Bộ và Tây Nguyên kéo dài khoảng từ tháng V đến tháng X có nguyên nhân chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "gió mùa Đông Bắc lạnh khô hoạt động liên tục trong sáu tháng."
+        },
+        {
+          "key": "B",
+          "text": "gió mùa mùa hạ có hướng Tây Nam mang hơi ẩm từ biển vào, gặp địa hình và dải hội tụ nhiệt đới gây mưa lớn."
+        },
+        {
+          "key": "C",
+          "text": "frông lạnh ôn đới thường xuyên đẩy xuống khu vực xích đạo."
+        },
+        {
+          "key": "D",
+          "text": "dải hội tụ nhiệt đới chỉ xuất hiện trong các tháng XI và XII."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Gió Tây Nam mùa hạ là nguồn ẩm chủ yếu, khi gặp sườn núi Tây Nguyên và dải hội tụ nhiệt đới thì gây mưa lớn kéo dài. A sai vì gió Đông Bắc chỉ hoạt động về mùa đông; C sai vì frông ôn đới ảnh hưởng chủ yếu tới miền Bắc về mùa đông; D sai về thời gian hoạt động của dải hội tụ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "gió mùa mùa hạ",
+        "Tây Nguyên"
+      ]
+    },
+    {
+      "id": "dia12-b03-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở phần lãnh thổ phía Bắc, mùa đông lạnh tạo điều kiện để",
+      "options": [
+        {
+          "key": "A",
+          "text": "mở rộng rừng mưa nhiệt đới lá rộng thường xanh ở toàn bộ đồng bằng."
+        },
+        {
+          "key": "B",
+          "text": "trồng lúa nước quanh năm, mọi vùng đều có thể làm ba vụ như nhau."
+        },
+        {
+          "key": "C",
+          "text": "phát triển cây vụ đông, trong đó có các loại rau ôn đới và cây ăn quả cận nhiệt."
+        },
+        {
+          "key": "D",
+          "text": "tiêu diệt hoàn toàn các loại sâu bệnh hại cây trồng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Cái lạnh của mùa đông cho phép đưa vào cơ cấu cây trồng những loài cận nhiệt và ôn đới ngắn ngày, làm đa dạng sản phẩm nông nghiệp. A và B trái với thực tế vì mùa đông hạn chế sinh trưởng của cây nhiệt đới; D quá tuyệt đối, sâu bệnh giảm chứ không hết.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "mùa đông lạnh",
+        "cây vụ đông"
+      ]
+    },
+    {
+      "id": "dia12-b03-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành phần loài sinh vật của phần lãnh thổ phía Bắc nước ta có đặc điểm",
+      "options": [
+        {
+          "key": "A",
+          "text": "ngoài thành phần nhiệt đới còn có thêm nhiều loài cận nhiệt, ôn đới di cư vào, đồng thời tỉ lệ các loài nhiệt đới chính thức giảm."
+        },
+        {
+          "key": "B",
+          "text": "chỉ gồm những loài động vật, thực vật nhiệt đới đặc hữu, không có loài di cư."
+        },
+        {
+          "key": "C",
+          "text": "nghèo nàn nhất cả nước vì phần lớn lãnh thổ không còn rừng."
+        },
+        {
+          "key": "D",
+          "text": "giống hoàn toàn hệ sinh vật của các vùng núi cao trên 3000 m."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Mùa đông lạnh mở đường cho các loài cận nhiệt, ôn đới xâm nhập, còn các loài nhiệt đới thuần nhất bị giảm về số lượng. B bỏ sót quá trình di cư; C sai vì miền Bắc vẫn có diện tích rừng đáng kể và giàu loài; D đánh đồng toàn miền với đai ôn đới núi cao.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "sinh vật",
+        "phân hoá bắc – nam"
+      ]
+    },
+    {
+      "id": "dia12-b03-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Về thực vật và cảnh quan, phần lãnh thổ phía Nam nước ta có nét nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "xuất hiện cảnh quan rừng ôn đới với cây lá kim ưu thế ở khắp nơi."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ lãnh thổ là xa van và cây bụi gai khô hạn quanh năm."
+        },
+        {
+          "key": "C",
+          "text": "không còn rừng ngập mặn ở vùng ven biển."
+        },
+        {
+          "key": "D",
+          "text": "rừng rậm nhiệt đới ẩm lá rộng thường xanh phát triển ở nơi mưa nhiều, ẩm quanh năm; thành phần loài nhiệt đới, đặc biệt các cây họ Dầu, chiếm ưu thế tuyệt đối."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Nền nhiệt cao và độ ẩm lớn quanh năm khiến thực vật phía Nam ưu thế nhiệt đới với rừng rậm thường xanh lá rộng, họ Dầu tiêu biểu. A thuộc về vùng núi rất cao ở miền Bắc; B chỉ đúng với một số nơi khô hạn cục bộ, không phải toàn miền; C sai vì Nam Bộ có diện tích rừng ngập mặn lớn nhất cả nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "thực vật",
+        "thiên nhiên miền Nam"
+      ]
+    },
+    {
+      "id": "dia12-b03-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nào sau đây **không** phải nguyên nhân làm thiên nhiên nước ta phân hoá sâu sắc theo chiều bắc – nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lãnh thổ kéo dài hơn 15 vĩ độ theo chiều bắc – nam."
+        },
+        {
+          "key": "B",
+          "text": "Gió mùa Đông Bắc suy yếu dần và bị chặn lại ở khu vực dãy Bạch Mã."
+        },
+        {
+          "key": "C",
+          "text": "Dãy Trường Sơn và dải đồng bằng ven biển miền Trung chạy theo hướng gần bắc – nam, lãnh thổ hẹp ngang."
+        },
+        {
+          "key": "D",
+          "text": "Góc chiếu tia sáng mặt trời và tổng bức xạ nhận được thay đổi giữa phần đất phía bắc và phía nam."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Hướng núi và độ hẹp ngang của lãnh thổ miền Trung là nhân tố gây phân hoá theo chiều **đông – tây**, không phải bắc – nam. A, B, D đều tác động trực tiếp tới sự chênh lệch nhiệt – ẩm giữa hai miền nên là nguyên nhân phân hoá bắc – nam.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "nguyên nhân phân hoá",
+        "bắc – nam"
+      ]
+    },
+    {
+      "id": "dia12-b03-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo chiều đông – tây, thiên nhiên nước ta phân hoá rõ rệt giữa ba dải. Theo thứ tự từ đông sang tây, ba dải đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "vùng biển và thềm lục địa – vùng đồng bằng ven biển – vùng đồi núi."
+        },
+        {
+          "key": "B",
+          "text": "vùng đồi núi – vùng đồng bằng ven biển – vùng biển và thềm lục địa."
+        },
+        {
+          "key": "C",
+          "text": "vùng đồng bằng ven biển – vùng biển và thềm lục địa – vùng đồi núi."
+        },
+        {
+          "key": "D",
+          "text": "vùng biển và thềm lục địa – vùng đồi núi – vùng đồng bằng ven biển."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Hướng ra biển rồi vượt qua dải đồng bằng hẹp ven biển mới lên vùng đồi núi phía tây, nên trật tự đông – tây là biển – đồng bằng – đồi núi. B là trật tự ngược (tây sang đông); C và D sắp xếp sai vị trí của đồng bằng ven biển.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá đông – tây",
+        "các dải lãnh thổ"
+      ]
+    },
+    {
+      "id": "dia12-b03-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Dải đồng bằng ven biển miền Trung có đặc điểm tự nhiên nổi bật là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đồng bằng châu thổ rộng nhất cả nước, do sông Cửu Long bồi đắp."
+        },
+        {
+          "key": "B",
+          "text": "đồng bằng hẹp và bị chia cắt bởi các nhánh núi ăn ra biển, nhiều cồn cát, quá trình phát triển không ổn định."
+        },
+        {
+          "key": "C",
+          "text": "chủ yếu là các cao nguyên badan rộng lớn, khí hậu lạnh quanh năm."
+        },
+        {
+          "key": "D",
+          "text": "gần như không chịu tác động của biển và thuỷ triều."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Các dãy núi dọc Trường Sơn lấn ra sát biển làm đồng bằng bị cắt thành dải hẹp, nhiều cát và cồn cát, chịu mạnh tác động của bão, lũ, triều. A là đặc trưng của đồng bằng sông Cửu Long; C là đặc trưng hệ cao nguyên ở tây dải này; D sai vì dải ven biển chịu tác động trực tiếp của biển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá đông – tây",
+        "đồng bằng ven biển"
+      ]
+    },
+    {
+      "id": "dia12-b03-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Sườn đông dãy Trường Sơn thường khô nóng gay gắt vào nửa sau mùa hạ vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "bức xạ mặt trời ở sườn đông luôn cao gấp đôi sườn tây."
+        },
+        {
+          "key": "B",
+          "text": "dòng biển lạnh làm giảm lượng mưa của toàn bộ ven biển miền Trung."
+        },
+        {
+          "key": "C",
+          "text": "gió Tây Nam sau khi vượt dãy Trường Sơn bị biến tính, trở nên nóng và khô (hiệu ứng phơn)."
+        },
+        {
+          "key": "D",
+          "text": "gió mùa Đông Bắc lạnh khô thổi liên tục trong suốt mùa hạ."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Không khí ẩm bị dãy Trường Sơn chắn lại ở sườn tây, khi tràn xuống sườn đông thì giáng nhiệt và khô đi, gây gió nóng. A và B không có cơ sở; D sai vì gió Đông Bắc hoạt động về mùa đông.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "Trường Sơn",
+        "hiệu ứng phơn"
+      ]
+    },
+    {
+      "id": "dia12-b03-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Các vùng địa hình thuộc sườn tây dãy Trường Sơn có mưa nhiều vào mùa hạ, nguyên nhân chính là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đây là sườn đón gió của khối khí Tây Nam giàu hơi ẩm nên gây mưa nhiều hơn."
+        },
+        {
+          "key": "B",
+          "text": "các vùng này nằm dưới mực nước biển nên luôn ẩm ướt."
+        },
+        {
+          "key": "C",
+          "text": "quanh năm nằm dưới áp cao lạnh lục địa."
+        },
+        {
+          "key": "D",
+          "text": "gió Đông Bắc thổi thẳng vào khu vực này trong mùa hạ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Gió Tây Nam mùa hạ gặp địa hình cao ở sườn tây và vùng biên giới bị chặn, bốc lên và gây mưa lớn, trái với sườn đông khô nóng. B sai về độ cao; C và D trái quy luật hoạt động của gió mùa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá đông – tây",
+        "gió mùa mùa hạ"
+      ]
+    },
+    {
+      "id": "dia12-b03-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Mùa khô sâu sắc ở khu vực phía tây (Tây Nguyên) lại trùng với mùa mưa muộn ở dải ven biển phía đông cùng vĩ độ (Duyên hải Nam Trung Bộ). Đây là biểu hiện của sự phân hoá thiên nhiên theo",
+      "options": [
+        {
+          "key": "A",
+          "text": "chiều bắc – nam."
+        },
+        {
+          "key": "B",
+          "text": "độ cao địa hình."
+        },
+        {
+          "key": "C",
+          "text": "vĩ độ địa lí."
+        },
+        {
+          "key": "D",
+          "text": "chiều đông – tây."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Hai khu vực nằm trên cùng một vĩ độ nhưng khác nhau ở phía này hay phía kia dãy Trường Sơn, tức khác nhau theo trục đông – tây; sự đối lập mùa mưa – khô là kết quả của hướng sườn đối với gió mùa. A và C trùng nhau và không đúng vì vĩ độ như nhau; B là trục đứng, không giải thích được hiện tượng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá đông – tây",
+        "mùa mưa"
+      ]
+    },
+    {
+      "id": "dia12-b03-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Thiên nhiên vùng núi nước ta phân hoá theo độ cao gồm",
+      "options": [
+        {
+          "key": "A",
+          "text": "hai đai: đai nhiệt đới chân núi và đai ôn đới núi cao."
+        },
+        {
+          "key": "B",
+          "text": "ba đai: đai nhiệt đới chân núi, đai cận nhiệt đới gió mùa trên núi và đai ôn đới gió mùa trên núi."
+        },
+        {
+          "key": "C",
+          "text": "bốn đai: nhiệt đới, cận nhiệt, ôn đới và hàn đới."
+        },
+        {
+          "key": "D",
+          "text": "một đai nhiệt đới duy nhất từ chân núi lên tới đỉnh."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Lãnh thổ nước ta nằm trong vùng nội chí tuyến nên hình thành đủ ba đai cao, không có đai hàn đới vì núi chưa đủ cao (đỉnh cao nhất hơn 3100 m). A thiếu đai cận nhiệt; C thêm đai hàn đới không có ở Việt Nam; D không thấy sự thay đổi theo cao độ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá theo độ cao",
+        "đai cao"
+      ]
+    },
+    {
+      "id": "dia12-b03-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở miền Bắc nước ta, đai nhiệt đới chân núi phân bố ở độ cao trung bình",
+      "options": [
+        {
+          "key": "A",
+          "text": "từ 0 đến khoảng 600 – 700 m."
+        },
+        {
+          "key": "B",
+          "text": "từ khoảng 600 – 700 m đến 1600 – 1700 m."
+        },
+        {
+          "key": "C",
+          "text": "từ khoảng 900 – 1000 m đến 2600 m."
+        },
+        {
+          "key": "D",
+          "text": "trên 2600 m."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nền nhiệt miền Bắc thấp hơn và có mùa đông lạnh nên đai nhiệt đới chân núi chỉ lên tới khoảng 600 – 700 m. B là giới hạn của đai cận nhiệt đới trên núi ở miền Bắc; C là khoảng độ cao của đai cận nhiệt ở miền Nam; D là nơi đai ôn đới bắt đầu ở miền Nam (hiếm nơi đạt tới).",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "đai nhiệt đới chân núi",
+        "giới hạn độ cao"
+      ]
+    },
+    {
+      "id": "dia12-b03-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở miền Nam, đai nhiệt đới chân núi có ranh giới trên cao hơn miền Bắc (khoảng 900 – 1000 m), nguyên nhân chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "miền Nam có nhiều dãy núi cao hơn miền Bắc."
+        },
+        {
+          "key": "B",
+          "text": "miền Nam ít mưa hơn miền Bắc nên khí hậu khô hơn."
+        },
+        {
+          "key": "C",
+          "text": "miền Nam có nền nhiệt cao quanh năm, không có mùa đông lạnh, nên điều kiện nhiệt đới duy trì tới cao độ lớn hơn."
+        },
+        {
+          "key": "D",
+          "text": "miền Nam nằm gần chí tuyến Bắc hơn miền Bắc."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Đai cao được xác định bởi nhiệt độ; miền Nam nóng đều nên phải lên cao hơn nhiều nhiệt độ mới hạ xuống mức cận nhiệt. A sai vì đỉnh núi cao nhất cả nước thuộc miền Bắc; B sai vì có nơi miền Nam mưa rất lớn; D sai vì miền Nam gần xích đạo hơn, xa chí tuyến hơn miền Bắc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá theo độ cao",
+        "khí hậu miền Nam"
+      ]
+    },
+    {
+      "id": "dia12-b03-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây thuộc về đai cận nhiệt đới gió mùa trên núi ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quanh năm nóng ẩm, đất feralit đỏ vàng dày, rừng rậm nhiệt đới với các loài họ Dầu ưu thế."
+        },
+        {
+          "key": "B",
+          "text": "Khí hậu lạnh giá quanh năm, có băng tuyết thường trực, thực vật không phát triển."
+        },
+        {
+          "key": "C",
+          "text": "Khô hạn khắc nghiệt, cảnh quan xa van và cây bụi gai chiếm ưu thế."
+        },
+        {
+          "key": "D",
+          "text": "Khí hậu mát, nhiệt độ hạ thấp so với chân núi, xuất hiện thực vật cận nhiệt, đất hình thành theo hướng feralit có mùn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Ở đai cận nhiệt trên núi, nhiệt độ giảm nên quá trình hình thành đất chậm lại, xuất hiện lớp mùn và các loài cây cận nhiệt. A là đặc trưng của đai nhiệt đới chân núi; B sai vì đai ôn đới của nước ta lạnh nhưng không có băng tuyết thường trực; C là cảnh quan khô hạn cục bộ, không phải đai cao.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "đai cận nhiệt trên núi",
+        "đất và sinh vật"
+      ]
+    },
+    {
+      "id": "dia12-b03-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở miền Bắc nước ta, đai ôn đới gió mùa trên núi phân bố từ độ cao",
+      "options": [
+        {
+          "key": "A",
+          "text": "khoảng 1600 – 1700 m trở lên."
+        },
+        {
+          "key": "B",
+          "text": "0 đến 600 m."
+        },
+        {
+          "key": "C",
+          "text": "khoảng 600 – 700 m đến 1000 m."
+        },
+        {
+          "key": "D",
+          "text": "khoảng 900 – 1000 m đến 1400 m."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Trên khoảng 1600 – 1700 m ở miền Bắc, nhiệt độ thấp quanh năm nên hình thành đai ôn đới gió mùa trên núi. B thuộc đai nhiệt đới chân núi; C và D là các khoảng nằm trong đai nhiệt đới miền Nam hoặc đai cận nhiệt.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "đai ôn đới trên núi",
+        "giới hạn độ cao"
+      ]
+    },
+    {
+      "id": "dia12-b03-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Vùng núi Hoàng Liên Sơn là nơi thể hiện đầy đủ cả ba đai cao của nước ta, chủ yếu vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "nằm sát Biển Đông nên lượng mưa và độ ẩm rất lớn."
+        },
+        {
+          "key": "B",
+          "text": "có vùng núi cao đồ sộ với nhiều đỉnh vượt xa ngưỡng 1600 – 1700 m, đỉnh cao nhất hơn 3100 m, lại nằm ở vĩ độ cao nhất cả nước."
+        },
+        {
+          "key": "C",
+          "text": "là vùng núi đá vôi nên thoát nước nhanh, khí hậu khô."
+        },
+        {
+          "key": "D",
+          "text": "có gió mùa Tây Nam hoạt động mạnh nhất nước."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Đủ cao để vượt ngưỡng đai ôn đới và đủ vĩ độ để nền nhiệt mùa đông thấp là hai điều kiện giúp Hoàng Liên Sơn có cả ba đai. A chỉ nói độ ẩm, không tạo đai ôn đới; C sai vì vùng này rất ẩm ướt; D sai vì Tây Nam ảnh hưởng chủ yếu tới phía nam.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "Hoàng Liên Sơn",
+        "ba đai cao"
+      ]
+    },
+    {
+      "id": "dia12-b03-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở phần lãnh thổ phía Nam, đai ôn đới gió mùa trên núi hầu như không hình thành, nguyên nhân chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "miền Nam không còn núi, địa hình chỉ là đồng bằng."
+        },
+        {
+          "key": "B",
+          "text": "gió mùa Đông Bắc thổi tới và làm lạnh toàn bộ miền Nam."
+        },
+        {
+          "key": "C",
+          "text": "nền nhiệt ban đầu của miền Nam cao nên đai cận nhiệt kéo dài tới khoảng 2600 m, trong khi các đỉnh núi cao nhất của miền Nam chỉ xấp xỉ mức đó."
+        },
+        {
+          "key": "D",
+          "text": "đai cận nhiệt ở miền Nam kết thúc ngay từ độ cao 600 m."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Vì chân đế của các đai ở miền Nam bị đẩy lên cao hơn, đai cận nhiệt phải kéo dài tới khoảng 2600 m mới hết, nên rất ít nơi còn chỗ cho đai ôn đới. A sai vì miền Nam có nhiều khối núi và cao nguyên; B sai vì gió Đông Bắc không tới được miền Nam; D trái với quy luật đã học.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá theo độ cao",
+        "thiên nhiên miền Nam"
+      ]
+    },
+    {
+      "id": "dia12-b03-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc dữ kiện:** Một trạm khí tượng đặt ở độ cao 200 m so với mực nước biển có nhiệt độ trung bình là 28,0 °C. Biết rằng trong cùng một khối khí, cứ lên cao thêm 100 m thì nhiệt độ giảm 0,6 °C và không xét các yếu tố khác. Nhiệt độ trung bình ở độ cao 1400 m là",
+      "options": [
+        {
+          "key": "A",
+          "text": "20,8 °C."
+        },
+        {
+          "key": "B",
+          "text": "22,0 °C."
+        },
+        {
+          "key": "C",
+          "text": "19,6 °C."
+        },
+        {
+          "key": "D",
+          "text": "23,2 °C."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Chênh lệch độ cao là 1400 − 200 = 1200 m, tương ứng 12 lần mức giảm 0,6 °C, tức giảm 7,2 °C. Nhiệt độ ở 1400 m = 28,0 − 7,2 = 20,8 °C. Các phương án còn lại là kết quả tính thiếu hoặc tính thừa số lần giảm (nhầm 1400 m thành 1000 m hoặc 1400 m so với mực nước biển).",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "tính toán nhiệt độ theo độ cao",
+        "đai cao"
+      ]
+    },
+    {
+      "id": "dia12-b03-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc dữ kiện:** Không khí ở chân một dãy núi (độ cao 0 m) có nhiệt độ 26,4 °C. Dãy núi này cao 1800 m. Biết cứ lên cao 100 m nhiệt độ giảm 0,6 °C, không xét yếu tố khác. Nhiệt độ ở đỉnh núi xấp xỉ",
+      "options": [
+        {
+          "key": "A",
+          "text": "17,4 °C."
+        },
+        {
+          "key": "B",
+          "text": "15,6 °C."
+        },
+        {
+          "key": "C",
+          "text": "14,2 °C."
+        },
+        {
+          "key": "D",
+          "text": "16,8 °C."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** 1800 m tương ứng 18 lần giảm 0,6 °C, tức giảm 10,8 °C. Nhiệt độ đỉnh = 26,4 − 10,8 = 15,6 °C. A và D ứng với việc giảm 9,0 °C hoặc 9,6 °C (tính nhầm số lần), C ứng với việc giảm tới 12,2 °C.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "tính toán nhiệt độ theo độ cao",
+        "đai ôn đới"
+      ]
+    },
+    {
+      "id": "dia12-b03-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc dữ kiện:** Du khách đo được nhiệt độ ở chân đèo là 30,0 °C và ở đỉnh đèo là 22,2 °C. Cho biết cứ lên cao 100 m thì nhiệt độ giảm 0,6 °C. Đỉnh đèo cao hơn chân đèo khoảng",
+      "options": [
+        {
+          "key": "A",
+          "text": "780 m."
+        },
+        {
+          "key": "B",
+          "text": "1600 m."
+        },
+        {
+          "key": "C",
+          "text": "1300 m."
+        },
+        {
+          "key": "D",
+          "text": "2200 m."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Hiệu nhiệt độ là 30,0 − 22,2 = 7,8 °C. Mỗi 0,6 °C ứng với 100 m, nên độ cao chênh lệch = 7,8 : 0,6 × 100 = 1300 m. A là kết quả nhân nhầm với 100 thay vì chia 0,6; B và D là các con số không khớp với phép tính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "tính toán nhiệt độ theo độ cao",
+        "kĩ năng địa lí"
+      ]
+    },
+    {
+      "id": "dia12-b03-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc dữ kiện:** Một thành phố nghỉ mát nằm trên cao nguyên ở độ cao khoảng 1500 m thuộc phần lãnh thổ phía Nam, quanh năm mát mẻ mặc dù vùng xung quanh có nền nhiệt cao. Đây là biểu hiện của sự phân hoá thiên nhiên theo",
+      "options": [
+        {
+          "key": "A",
+          "text": "độ cao địa hình."
+        },
+        {
+          "key": "B",
+          "text": "chiều bắc – nam."
+        },
+        {
+          "key": "C",
+          "text": "chiều đông – tây."
+        },
+        {
+          "key": "D",
+          "text": "khoảng cách xa hay gần biển."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Ở cao độ 1500 m, nhiệt độ giảm khoảng 9 °C so với chân núi nên hình thành khí hậu mát mang tính cận nhiệt; đó chính là phân hoá theo độ cao. B, C là hai trục phân hoá nằm ngang; D không phải nguyên nhân quyết định vì thành phố này cách biển xa nhưng cái làm nó mát là cao độ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá theo độ cao",
+        "khí hậu vùng núi"
+      ]
+    },
+    {
+      "id": "dia12-b03-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân chủ yếu dẫn đến sự phân hoá thiên nhiên theo độ cao ở vùng núi nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "càng lên cao càng gần xích đạo nên bức xạ tăng lên."
+        },
+        {
+          "key": "B",
+          "text": "gió mùa Đông Bắc chỉ thổi tới được các đỉnh núi nên đỉnh núi lạnh."
+        },
+        {
+          "key": "C",
+          "text": "lượng mưa giảm liên tục theo cao độ ở mọi vùng núi của cả nước."
+        },
+        {
+          "key": "D",
+          "text": "càng lên cao không khí càng loãng, nhiệt độ hạ dần, độ ẩm và bức xạ thay đổi làm khí hậu, đất, sinh vật biến đổi theo."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Sự giảm nhiệt theo cao độ (quỹ đạo nhiệt độ thẳng đứng) là gốc của phân hoá đai cao, kéo theo thay đổi độ ẩm, đất và thảm thực vật. A vô lí về hình học; B sai vì gió mùa không bị giới hạn ở đỉnh núi; C sai vì lượng mưa thường tăng lên tới một cao độ nhất định rồi mới giảm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "nguyên nhân phân hoá",
+        "độ cao"
+      ]
+    },
+    {
+      "id": "dia12-b03-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý nào sau đây **không** phải biểu hiện của sự phân hoá thiên nhiên theo độ cao ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thảm thực vật chuyển dần từ rừng nhiệt đới lên rừng cận nhiệt rồi lên thực vật ôn đới núi cao."
+        },
+        {
+          "key": "B",
+          "text": "Đất chuyển từ feralit sang feralit có mùn rồi sang mùn thô khi lên cao."
+        },
+        {
+          "key": "C",
+          "text": "Mùa mưa ở Nam Bộ khác với mùa mưa ở đồng bằng Bắc Bộ."
+        },
+        {
+          "key": "D",
+          "text": "Nhiệt độ trung bình giảm dần theo cao độ, tạo khí hậu mát mẻ ở vùng núi cao."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Sự khác nhau về mùa mưa giữa hai vùng cách xa nhau theo trục bắc – nam là biểu hiện phân hoá theo chiều bắc – nam, không liên quan tới cao độ. A, B, D đều là chuỗi thay đổi theo chiều đứng của địa hình.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá theo độ cao",
+        "nhận định"
+      ]
+    },
+    {
+      "id": "dia12-b03-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc hình thành các vùng trồng chè và cây ăn quả cận nhiệt, ôn đới ở vùng núi phía Bắc chủ yếu dựa vào lợi thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đất phù sa màu mỡ của các đồng bằng sông lớn."
+        },
+        {
+          "key": "B",
+          "text": "Điều kiện của đai cận nhiệt đới trên núi kết hợp với mùa đông lạnh."
+        },
+        {
+          "key": "C",
+          "text": "Khí hậu cận xích đạo nóng quanh năm."
+        },
+        {
+          "key": "D",
+          "text": "Địa hình thấp, bằng phẳng, thuận lợi cho cơ giới hoá."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** chè và cây cận nhiệt, ôn đới cần khí hậu mát và nền nhiệt thấp nên chỉ phát triển ở đai cận nhiệt trên núi, nơi có mùa đông lạnh hỗ trợ. A và D là lợi thế của đồng bằng, không hợp với cây cận nhiệt; C là đặc trưng của miền Nam, nơi trồng cây nhiệt đới.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "đai cận nhiệt",
+        "nông nghiệp vùng núi"
+      ]
+    },
+    {
+      "id": "dia12-b03-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "**Đọc thông tin:** Một nhóm tìm hiểu thực địa đi từ thành phố ở khoảng vĩ độ 21°B vào thành phố ở khoảng vĩ độ 10°B trong tháng XII.\n\nHiện tượng nào sau đây nhóm quan sát được là **phù hợp** với quy luật phân hoá thiên nhiên theo chiều bắc – nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt độ không khí giảm dần và xuất hiện băng giá ở các vùng đồi thấp phía nam."
+        },
+        {
+          "key": "B",
+          "text": "Gió mùa Đông Bắc hoạt động mạnh hơn khi nhóm đi vào tới khu vực phía nam."
+        },
+        {
+          "key": "C",
+          "text": "Lượng mưa giảm đều từ bắc vào nam nên cả vùng phía nam khô hạn hơn vùng phía bắc."
+        },
+        {
+          "key": "D",
+          "text": "Nền nhiệt tăng dần khi vào nam, mùa đông lạnh biến mất, cảnh quan chuyển dần sang kiểu rừng nhiệt đới ẩm có hai mùa mưa – khô."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Tháng XII nhóm đi từ nơi có mùa đông lạnh tới nơi nóng quanh năm, nên nền nhiệt tăng, không còn mùa đông và cảnh quan chuyển sang kiểu hai mùa mưa – khô. A ngược với thực tế; B sai vì gió Đông Bắc suy yếu dần về phía nam; C sai vì miền Nam có tổng lượng mưa năm lớn (trừ một số nơi ven biển Nam Trung Bộ).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá bắc – nam",
+        "kĩ năng đọc thông tin"
+      ]
+    },
+    {
+      "id": "dia12-b03-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Cả nước hiện được chia thành 6 vùng kinh tế – xã hội và 34 đơn vị hành chính cấp tỉnh. Theo cách phân chia đó, khu vực Tây Nguyên được xếp chung vào vùng",
+      "options": [
+        {
+          "key": "A",
+          "text": "Duyên hải Nam Trung Bộ và Tây Nguyên."
+        },
+        {
+          "key": "B",
+          "text": "Trung du và miền núi phía Bắc."
+        },
+        {
+          "key": "C",
+          "text": "Đồng bằng sông Cửu Long."
+        },
+        {
+          "key": "D",
+          "text": "Đông Nam Bộ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Trong cơ cấu 6 vùng hiện hành, Tây Nguyên hợp nhất với Duyên hải Nam Trung Bộ thành một vùng kinh tế – xã hội, phản ánh mối liên hệ chặt chẽ giữa dải ven biển với các cao nguyên phía tây theo trục đông – tây. B, C, D là các vùng khác, không chứa khu vực Tây Nguyên.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "vùng kinh tế – xã hội",
+        "Tây Nguyên"
+      ]
+    },
+    {
+      "id": "dia12-b03-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây **sai** khi nói về sự phân hoá đa dạng của thiên nhiên nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phân hoá theo bắc – nam do lãnh thổ kéo dài hơn 15 vĩ độ và do gió mùa Đông Bắc."
+        },
+        {
+          "key": "B",
+          "text": "Phân hoá theo đông – tây do lãnh thổ hẹp ngang, địa hình đồi núi và hướng chuyển động của gió mùa."
+        },
+        {
+          "key": "C",
+          "text": "Phân hoá theo độ cao chỉ xuất hiện ở phần lãnh thổ phía Nam."
+        },
+        {
+          "key": "D",
+          "text": "Sự phân hoá đa dạng làm tăng nguồn tài nguyên thiên nhiên và tạo thế đa dạng trong sản xuất."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Phân hoá theo độ cao biểu hiện ở mọi vùng núi, thậm chí miền Bắc mới là nơi có đủ cả ba đai, nên nói \"chỉ xuất hiện ở miền Nam\" là sai. A, B nêu đúng nguyên nhân của hai trục phân hoá nằm ngang; D nêu đúng hệ quả.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "nhận định sai",
+        "phân hoá theo độ cao"
+      ]
+    },
+    {
+      "id": "dia12-b03-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "SINGLE_CHOICE",
+      "content": "SỰ phân hoá đa dạng của thiên nhiên có ý nghĩa thực tiễn quan trọng nhất đối với phát triển kinh tế – xã hội nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khiến mọi vùng đều có thể trồng cùng một loại cây lương thực quanh năm."
+        },
+        {
+          "key": "B",
+          "text": "tạo cơ sở tự nhiên để đa dạng hoá sản phẩm nông nghiệp, hình thành cơ cấu cây trồng – vật nuôi theo vùng và phát triển du lịch theo thế mạnh."
+        },
+        {
+          "key": "C",
+          "text": "làm cho tài nguyên thiên nhiên nước ta tập trung chủ yếu ở đồng bằng."
+        },
+        {
+          "key": "D",
+          "text": "quy định nền kinh tế chỉ cần tập trung vào một ngành nông nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Mỗi trục phân hoá (bắc – nam, đông – tây, độ cao) cho một tập hợp tài nguyên và điều kiện riêng, nên có thể bố trí sản xuất và du lịch theo thế mạnh từng vùng. A và D phủ nhận tính đa dạng; C sai vì nhiều tài nguyên quý lại ở vùng núi và vùng biển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "ý nghĩa phân hoá",
+        "khai thác tự nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b03-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về thiên nhiên phần lãnh thổ phía Bắc nước ta (từ dãy Bạch Mã trở ra)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có một mùa đông lạnh, nhưng nền chung của thiên nhiên vẫn là nhiệt đới ẩm gió mùa."
+        },
+        {
+          "key": "B",
+          "text": "Biên độ nhiệt độ trung bình năm lớn hơn so với phần lãnh thổ phía Nam."
+        },
+        {
+          "key": "C",
+          "text": "Trong thành phần sinh vật chỉ còn các loài nhiệt đới, hoàn toàn không có loài cận nhiệt và ôn đới."
+        },
+        {
+          "key": "D",
+          "text": "Mùa đông lạnh là điều kiện để phát triển cây vụ đông, gồm rau ôn đới và cây ăn quả cận nhiệt."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, B, D.** Gió mùa Đông Bắc tạo mùa đông lạnh, làm biên độ nhiệt năm lớn và mở thêm khả năng trồng cây cận nhiệt, ôn đới vụ đông. C sai vì ngược lại quy luật đã học: phía Bắc có thêm loài cận nhiệt, ôn đới di cư vào và loài di cư, còn tỉ lệ loài nhiệt đới thuần nhất giảm đi.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá bắc – nam",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b03-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về thiên nhiên phần lãnh thổ phía Nam nước ta (từ dãy Bạch Mã trở vào)?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trong năm có ba tháng nhiệt độ dưới 18 °C nên trồng được nhiều cây ôn đới ở địa hình thấp."
+        },
+        {
+          "key": "B",
+          "text": "Nền nhiệt cao quanh năm, trong năm không có tháng nào nhiệt độ dưới 20 °C."
+        },
+        {
+          "key": "C",
+          "text": "Khí hậu phân chia thành mùa mưa và mùa khô rõ rệt, sâu sắc nhất là ở Nam Bộ và Tây Nguyên."
+        },
+        {
+          "key": "D",
+          "text": "Thành phần loài nhiệt đới chiếm ưu thế tuyệt đối; rừng rậm nhiệt đới ẩm lá rộng thường xanh phát triển ở nơi ẩm quanh năm."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, C, D.** Đó là ba nét cơ bản của thiên nhiên cận xích đạo phía Nam: nóng đều, mưa – khô phân mùa, sinh vật nhiệt đới chiếm ưu thế. A sai vì cái lạnh dưới 18 °C là đặc trưng mùa đông miền Bắc; ở phía Nam chỉ những vùng núi cao mới có nhiệt độ thấp, còn địa hình thấp thì nóng quanh năm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "thiên nhiên miền Nam",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b03-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về sự phân hoá thiên nhiên theo chiều đông – tây ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thể hiện ở sự khác nhau giữa dải vùng biển và thềm lục địa, dải đồng bằng ven biển và dải vùng đồi núi."
+        },
+        {
+          "key": "B",
+          "text": "Sườn đông dãy Trường Sơn khô nóng vào mùa hạ vì khối khí Tây Nam đã mất hơi ẩm khi vượt dãy núi."
+        },
+        {
+          "key": "C",
+          "text": "Mùa khô ở khu vực phía tây trái ngược với mùa mưa muộn ở dải ven biển cùng vĩ độ."
+        },
+        {
+          "key": "D",
+          "text": "Càng lên cao nhiệt độ càng giảm nên thảm thực vật chuyển từ nhiệt đới sang ôn đới."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, B, C.** Ba phát biểu đều nói về sự khác nhau theo trục nằm ngang đông – tây, do vị trí gần hay xa biển, do hướng núi và hướng gió mùa. D sai vì đó là biểu hiện phân hoá theo **độ cao**, không phải đông – tây.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá đông – tây",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b03-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về sự phân hoá thiên nhiên theo độ cao ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nước ta có ba đai cao: đai nhiệt đới chân núi, đai cận nhiệt đới gió mùa trên núi và đai ôn đới gió mùa trên núi."
+        },
+        {
+          "key": "B",
+          "text": "Ranh giới trên của đai nhiệt đới chân núi ở miền Bắc khoảng 600 – 700 m, còn ở miền Nam khoảng 900 – 1000 m."
+        },
+        {
+          "key": "C",
+          "text": "Ranh giới các đai cao giống nhau giữa miền Bắc và miền Nam vì cả nước có chung một nền nhiệt."
+        },
+        {
+          "key": "D",
+          "text": "Đai ôn đới gió mùa trên núi ở miền Bắc bắt đầu từ khoảng 1600 – 1700 m, thể hiện rõ nhất ở vùng núi Hoàng Liên Sơn."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, B, D.** Ba đai cao có giới hạn khác nhau giữa hai miền vì miền Bắc có mùa đông lạnh làm các đai bị hạ thấp xuống. C sai vì phủ nhận chính sự khác nhau về cao độ giữa miền Bắc và miền Nam đã nêu ở B và ở đai nhiệt đới chân núi.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "phân hoá theo độ cao",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b03-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b03-phan-hoa-thien-nhien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về ý nghĩa thực tiễn của sự phân hoá đa dạng thiên nhiên đối với phát triển kinh tế – xã hội nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sự phân hoá khiến các vùng trong cả nước đều có chung một cơ cấu cây trồng và vật nuôi."
+        },
+        {
+          "key": "B",
+          "text": "Là cơ sở tự nhiên để đa dạng hoá sản phẩm nông nghiệp và hình thành cơ cấu cây trồng, vật nuôi theo từng vùng."
+        },
+        {
+          "key": "C",
+          "text": "Tạo điều kiện phát triển các điểm du lịch nghỉ mát ở vùng núi cao cùng với du lịch biển – đảo."
+        },
+        {
+          "key": "D",
+          "text": "Đòi hỏi mỗi vùng phải có biện pháp phòng chống thiên tai và sử dụng hợp lí tài nguyên phù hợp điều kiện tự nhiên của mình."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, C, D.** Tính đa dạng theo bắc – nam, đông – tây và độ cao cho phép bố trí sản xuất, du lịch và phòng chống thiên tai theo thế mạnh từng vùng. A sai vì trái với hệ quả cơ bản của phân hoá: mỗi vùng có điều kiện riêng nên cơ cấu sản xuất khác nhau.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 3",
+        "ý nghĩa phân hoá",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

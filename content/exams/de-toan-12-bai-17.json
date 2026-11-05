@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-17",
+  "title": "Đề ôn Toán 12 Bài 17: Phương trình mặt cầu (20 câu)",
+  "slug": "de-toan-12-bai-17",
+  "description": "Bám sát Bài 17 sách Toán 12 Kết nối tri thức: tâm và bán kính ở hai dạng phương trình mặt cầu, điều kiện để một phương trình là mặt cầu, viết phương trình khi biết tâm và điểm đi qua hoặc biết hai đầu mút đường kính, vị trí tương đối của điểm với mặt cầu, giao tuyến của mặt cầu với mặt phẳng và các bài toán tham số m. 20 câu trắc nghiệm bốn lựa chọn, làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B17",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b17-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, mặt cầu $(S): (x-2)^2+(y+1)^2+z^2=9$ có tâm và bán kính là",
+      "options": [
+        { "key": "A", "text": "$I(2;-1;0)$, $R=3$." },
+        { "key": "B", "text": "$I(-2;1;0)$, $R=3$." },
+        { "key": "C", "text": "$I(2;-1;0)$, $R=9$." },
+        { "key": "D", "text": "$I(-2;1;0)$, $R=9$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "So sánh với dạng $(x-a)^2+(y-b)^2+(z-c)^2=R^2$ ta có $a=2$, $b=-1$, $c=0$ và $R^2=9$, suy ra $R=\\sqrt{9}=3$. Hai phương án mang tâm $(-2;1;0)$ là lỗi đổi dấu tọa độ tâm như ở dạng khai triển, phương án $R=9$ là lỗi quên lấy căn bậc hai.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tâm và bán kính", "dạng chính tắc"]
+    },
+    {
+      "id": "toan12-b17-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, bán kính của mặt cầu $(S): (x+3)^2+(y-2)^2+(z-1)^2=16$ bằng",
+      "options": [
+        { "key": "A", "text": "$16$." },
+        { "key": "B", "text": "$8$." },
+        { "key": "C", "text": "$4$." },
+        { "key": "D", "text": "$2$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phương trình đã cho có dạng $(x-a)^2+(y-b)^2+(z-c)^2=R^2$ với $R^2=16$, do đó $R=\\sqrt{16}=4$. Phương án $16$ là lỗi lấy $R^2$ làm bán kính; hai phương án $8$ và $2$ là lỗi chia $16$ cho $2$ hoặc nhầm phép tính căn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["bán kính mặt cầu"]
+    },
+    {
+      "id": "toan12-b17-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, phương trình mặt cầu có tâm $I(1;-2;3)$ và bán kính $R=5$ là",
+      "options": [
+        { "key": "A", "text": "$(x+1)^2+(y-2)^2+(z+3)^2=25$." },
+        { "key": "B", "text": "$(x-1)^2+(y+2)^2+(z-3)^2=25$." },
+        { "key": "C", "text": "$(x-1)^2+(y+2)^2+(z-3)^2=5$." },
+        { "key": "D", "text": "$(x-1)^2+(y-2)^2+(z-3)^2=25$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mặt cầu tâm $I(a;b;c)$, bán kính $R$ có phương trình $(x-a)^2+(y-b)^2+(z-c)^2=R^2$, ở đây là $(x-1)^2+(y+2)^2+(z-3)^2=25$. Thử lại điểm $M(6;-2;3)$ cách $I$ một khoảng bằng $5$ và thỏa phương trình. Phương án A là lỗi đổi dấu, phương án C viết $R$ thay cho $R^2$, phương án D quên đổi dấu ở $y$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["viết phương trình mặt cầu", "tâm và bán kính"]
+    },
+    {
+      "id": "toan12-b17-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, mặt cầu $(S): x^2+y^2+z^2-2x+4y-6z+1=0$ có tâm và bán kính là",
+      "options": [
+        { "key": "A", "text": "$I(1;-2;3)$, $R=\\sqrt{13}$." },
+        { "key": "B", "text": "$I(-1;2;-3)$, $R=\\sqrt{13}$." },
+        { "key": "C", "text": "$I(1;-2;3)$, $R=13$." },
+        { "key": "D", "text": "$I(1;-2;3)$, $R=\\sqrt{15}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phương trình có $a=-1$, $b=2$, $c=-3$, $d=1$ nên tâm là $I(-a;-b;-c)=I(1;-2;3)$ và $R^2=a^2+b^2+c^2-d=1+4+9-1=13$, suy ra $R=\\sqrt{13}$. Phương án B là lỗi quên đổi dấu khi đọc tâm, phương án D là lỗi cộng $d$ thay vì trừ $d$, phương án C là lỗi quên căn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["dạng khai triển", "tâm và bán kính"]
+    },
+    {
+      "id": "toan12-b17-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Phương trình $x^2+y^2+z^2+2ax+2by+2cz+d=0$ là phương trình của một mặt cầu khi và chỉ khi",
+      "options": [
+        { "key": "A", "text": "$a^2+b^2+c^2\\ge d$." },
+        { "key": "B", "text": "$a^2+b^2+c^2<d$." },
+        { "key": "C", "text": "$a+b+c>d$." },
+        { "key": "D", "text": "$a^2+b^2+c^2>d$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đưa về dạng bình phương ta có tâm $I(-a;-b;-c)$ và $R^2=a^2+b^2+c^2-d$; phương trình là mặt cầu khi và chỉ khi $R^2>0$, tức $a^2+b^2+c^2>d$. Nếu $a^2+b^2+c^2=d$ thì tập hợp điểm chỉ còn đúng điểm $I$, nên phương án dùng dấu $\\ge$ là sai.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["điều kiện tồn tại mặt cầu"]
+    },
+    {
+      "id": "toan12-b17-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các phương trình sau, phương trình nào là phương trình mặt cầu?",
+      "options": [
+        { "key": "A", "text": "$x^2+y^2+z^2+2x+2y+2z+5=0$." },
+        { "key": "B", "text": "$x^2+y^2+z^2+4x+4y+4z+16=0$." },
+        { "key": "C", "text": "$x^2+y^2+z^2-4x-6y+2z+1=0$." },
+        { "key": "D", "text": "$x^2+y^2+z^2-2x-4y-6z+14=0$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với mỗi phương trình, tính $S=a^2+b^2+c^2-d$: phương án C cho $S=4+9+1-1=13>0$ nên là mặt cầu tâm $(2;3;-1)$, bán kính $\\sqrt{13}$. Phương trình A và B lần lượt có $S=3-5=-2$ và $S=12-16=-4$; phương trình D có $S=1+4+9-14=0$ chỉ biểu diễn một điểm nên không phải mặt cầu.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["nhận biết phương trình mặt cầu", "điều kiện tồn tại"]
+    },
+    {
+      "id": "toan12-b17-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho hai điểm $A(1;0;2)$ và $B(3;2;4)$. Phương trình mặt cầu nhận đoạn $AB$ làm đường kính là",
+      "options": [
+        { "key": "A", "text": "$(x-2)^2+(y-1)^2+(z-3)^2=12$." },
+        { "key": "B", "text": "$(x-2)^2+(y-1)^2+(z-3)^2=3$." },
+        { "key": "C", "text": "$(x+2)^2+(y+1)^2+(z+3)^2=3$." },
+        { "key": "D", "text": "$(x-4)^2+(y-2)^2+(z-6)^2=3$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tâm mặt cầu là trung điểm $I(2;1;3)$ của $AB$; ta có $AB=\\sqrt{4+4+4}=2\\sqrt{3}$ nên bán kính $R=\\dfrac{AB}{2}=\\sqrt{3}$, tức $R^2=3$. Phương án A là lỗi lấy $R=AB$ nên $R^2=12$, phương án D là lỗi lấy tổng tọa độ thay cho trung điểm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["đường kính mặt cầu", "trung điểm"]
+    },
+    {
+      "id": "toan12-b17-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, phương trình mặt cầu có tâm $I(2;-1;3)$ và đi qua điểm $A(1;0;1)$ là",
+      "options": [
+        { "key": "A", "text": "$(x-2)^2+(y+1)^2+(z-3)^2=36$." },
+        { "key": "B", "text": "$(x+2)^2+(y-1)^2+(z+3)^2=6$." },
+        { "key": "C", "text": "$(x-1)^2+y^2+(z-1)^2=6$." },
+        { "key": "D", "text": "$(x-2)^2+(y+1)^2+(z-3)^2=6$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bán kính bình phương bằng $IA^2=(2-1)^2+(-1-0)^2+(3-1)^2=1+1+4=6$, do đó mặt cầu là $(x-2)^2+(y+1)^2+(z-3)^2=6$. Thử lại điểm $A$: $(1-2)^2+(0+1)^2+(1-3)^2=6$. Phương án A là lỗi bình phương hai lần: từ $IA=\\sqrt6$ và $IA^2=6$ lấy thêm một bước nữa thành $36=(IA^2)^2=6^2$ thay vì $R^2=IA^2=6$; phương án C là lỗi lấy tâm thành điểm $A$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tâm và một điểm thuộc mặt cầu"]
+    },
+    {
+      "id": "toan12-b17-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, điểm $M(1;1;1)$ có vị trí như thế nào đối với mặt cầu $(S): x^2+y^2+z^2-4x+2y-1=0$?",
+      "options": [
+        { "key": "A", "text": "Điểm $M$ nằm trên mặt cầu $(S)$." },
+        { "key": "B", "text": "Điểm $M$ nằm trong mặt cầu $(S)$." },
+        { "key": "C", "text": "Điểm $M$ nằm ngoài mặt cầu $(S)$." },
+        { "key": "D", "text": "Điểm $M$ trùng tâm của $(S)$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mặt cầu có tâm $I(2;-1;0)$ và $R^2=4+1+0-(-1)=6$. Vì $MI^2=(1-2)^2+(1+1)^2+(1-0)^2=1+4+1=6=R^2$ nên $M$ nằm trên $(S)$. Cách khác: thay $M$ vào vế trái ta được $1+1+1-4+2-1=0$, đúng bằng vế phải.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["vị trí tương đối của điểm", "dạng khai triển"]
+    },
+    {
+      "id": "toan12-b17-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm $m$ để phương trình $x^2+y^2+z^2-2x+4y+2z+m=0$ là phương trình mặt cầu có bán kính bằng $3$.",
+      "options": [
+        { "key": "A", "text": "$m=3$." },
+        { "key": "B", "text": "$m=-3$ hoặc $m=3$." },
+        { "key": "C", "text": "$m=-3$." },
+        { "key": "D", "text": "Không tồn tại $m$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ở đây $a=-1$, $b=2$, $c=1$, $d=m$ nên $R^2=1+4+1-m=6-m$. Yêu cầu $6-m=9$ cho $m=-3$; khi đó $a^2+b^2+c^2=6>-3=m$ nên điều kiện tồn tại mặt cầu được thỏa mãn. Phương án A là lỗi viết $6+m=9$, còn phương án B là lỗi giải đồng thời cả hai phương trình $6-m=9$ (ra $m=-3$) và $6+m=9$ (ra $m=3$) rồi gộp hai nghiệm lại.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tham số m", "bán kính mặt cầu"]
+    },
+    {
+      "id": "toan12-b17-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, mặt cầu tâm $I(1;1;1)$, bán kính $3$ cắt mặt phẳng $(P): 2x+2y+z+1=0$ theo giao tuyến là một đường tròn có bán kính bằng",
+      "options": [
+        { "key": "A", "text": "$\\sqrt{13}$." },
+        { "key": "B", "text": "$\\sqrt{5}$." },
+        { "key": "C", "text": "$1$." },
+        { "key": "D", "text": "$2$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khoảng cách từ $I$ đến $(P)$ bằng $\\dfrac{|2+2+1+1|}{\\sqrt{2^2+2^2+1^2}}=\\dfrac{6}{3}=2$, nhỏ hơn $3$ nên mặt phẳng cắt mặt cầu. Bán kính đường tròn giao tuyến là $\\sqrt{3^2-2^2}=\\sqrt{5}$. Phương án D là lỗi lấy khoảng cách làm bán kính, phương án A là lỗi cộng $R^2+d^2$, phương án C là lỗi lấy $R-d$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["giao tuyến mặt cầu và mặt phẳng", "bán kính đường tròn"]
+    },
+    {
+      "id": "toan12-b17-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm tất cả các giá trị thực của $m$ để mặt phẳng $(P): x+y+z+m=0$ tiếp xúc với mặt cầu $(S): x^2+y^2+z^2=3$.",
+      "options": [
+        { "key": "A", "text": "$m=3$." },
+        { "key": "B", "text": "$m=\\pm3\\sqrt{3}$." },
+        { "key": "C", "text": "$m=\\pm\\sqrt{3}$." },
+        { "key": "D", "text": "$m=\\pm3$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mặt cầu $(S)$ có tâm $O(0;0;0)$ và $R=\\sqrt{3}$. Mặt phẳng tiếp xúc mặt cầu khi khoảng cách từ $O$ đến $(P)$ bằng $R$, tức $\\dfrac{|m|}{\\sqrt{3}}=\\sqrt{3}$, suy ra $|m|=3$ và $m=\\pm3$. Kiểm tra lại với $m=3$: $\\dfrac{3}{\\sqrt{3}}=\\sqrt{3}$. Phương án A là lỗi bỏ quên giá trị tuyệt đối, phương án B là lỗi nhầm mẫu số.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["mặt phẳng tiếp xúc mặt cầu", "tham số m"]
+    },
+    {
+      "id": "toan12-b17-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phương trình $x^2+y^2+z^2-2mx-2y-2z+m=0$ với $m$ là tham số thực. Giá trị của $m$ để phương trình đã cho là phương trình mặt cầu có bán kính nhỏ nhất là",
+      "options": [
+        { "key": "A", "text": "$m=\\dfrac{1}{2}$." },
+        { "key": "B", "text": "$m=1$." },
+        { "key": "C", "text": "$m=-\\dfrac{1}{2}$." },
+        { "key": "D", "text": "$m=2$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ta có $R^2=m^2+1+1-m=m^2-m+2=\\left(m-\\dfrac{1}{2}\\right)^2+\\dfrac{7}{4}$, biểu thức luôn dương với mọi $m$ nên phương trình luôn là mặt cầu. Giá trị nhỏ nhất $R^2=\\dfrac{7}{4}$, tức $R=\\dfrac{\\sqrt{7}}{2}$, đạt được tại $m=\\dfrac{1}{2}$. Phương án C là lỗi nhớ sai dấu ở đỉnh parabol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tham số m", "bán kính nhỏ nhất"]
+    },
+    {
+      "id": "toan12-b17-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, phương trình mặt cầu có tâm $I(1;2;3)$ và tiếp xúc với mặt phẳng $(P): 2x-y+2z=0$ là",
+      "options": [
+        { "key": "A", "text": "$(x-1)^2+(y-2)^2+(z-3)^2=2$." },
+        { "key": "B", "text": "$(x+1)^2+(y+2)^2+(z+3)^2=4$." },
+        { "key": "C", "text": "$(x-1)^2+(y-2)^2+(z-3)^2=4$." },
+        { "key": "D", "text": "$(x-1)^2+(y-2)^2+(z-3)^2=36$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mặt phẳng tiếp xúc mặt cầu nên bán kính bằng khoảng cách từ $I$ đến $(P)$: $\\dfrac{|2\\cdot1-1\\cdot2+2\\cdot3|}{\\sqrt{2^2+(-1)^2+2^2}}=\\dfrac{6}{3}=2$. Do đó $R^2=4$ và phương trình là $(x-1)^2+(y-2)^2+(z-3)^2=4$. Phương án A là lỗi quên bình phương bán kính, phương án D là lỗi quên chia cho độ dài vectơ pháp tuyến.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["mặt cầu tiếp xúc mặt phẳng", "khoảng cách từ tâm"]
+    },
+    {
+      "id": "toan12-b17-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho tứ diện $OABC$ với $A(2;0;0)$, $B(0;4;0)$, $C(0;0;6)$. Phương trình mặt cầu ngoại tiếp tứ diện $OABC$ là",
+      "options": [
+        { "key": "A", "text": "$x^2+y^2+z^2+2x+4y+6z=0$." },
+        { "key": "B", "text": "$x^2+y^2+z^2-2x-4y-6z=0$." },
+        { "key": "C", "text": "$x^2+y^2+z^2-2x-4y-6z-14=0$." },
+        { "key": "D", "text": "$x^2+y^2+z^2-x-2y-3z=0$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mặt cầu đi qua gốc $O$ nên có dạng $x^2+y^2+z^2+2ax+2by+2cz=0$; thay $A$, $B$, $C$ lần lượt cho $2a=-2$, $4b=-4$, $6c=-6$, tức $a=-1$, $b=-2$, $c=-3$. Phương trình cần tìm là $x^2+y^2+z^2-2x-4y-6z=0$, tâm $I(1;2;3)$, $R^2=1+4+9=14$. Phương án A là lỗi dấu hệ số, phương án D là lỗi lấy nửa hệ số ngay từ đầu.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["mặt cầu ngoại tiếp", "đi qua bốn điểm"]
+    },
+    {
+      "id": "toan12-b17-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, mặt cầu $(S): x^2+y^2+z^2-4x-2y-4z-16=0$ cắt mặt phẳng $(P): x=5$ theo giao tuyến là một đường tròn có bán kính bằng",
+      "options": [
+        { "key": "A", "text": "$3$." },
+        { "key": "B", "text": "$5$." },
+        { "key": "C", "text": "$\\sqrt{34}$." },
+        { "key": "D", "text": "$4$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mặt cầu có tâm $I(2;1;2)$ và $R^2=4+1+4+16=25$, tức $R=5$. Khoảng cách từ $I$ đến $(P)$ là $|2-5|=3<5$ và hình chiếu của $I$ trên $(P)$ là $H(5;1;2)$, chính là tâm đường tròn giao tuyến. Bán kính đường tròn bằng $\\sqrt{R^2-IH^2}=\\sqrt{25-9}=4$. Phương án A là lỗi lấy khoảng cách làm bán kính, phương án C là lỗi cộng $R^2+IH^2$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["giao tuyến mặt cầu và mặt phẳng", "tâm đường tròn giao tuyến"]
+    },
+    {
+      "id": "toan12-b17-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, phương trình mặt cầu có tâm thuộc trục $Oz$ và đi qua hai điểm $A(1;2;1)$, $B(2;0;0)$ là",
+      "options": [
+        { "key": "A", "text": "$x^2+y^2+(z-1)^2=5$." },
+        { "key": "B", "text": "$x^2+y^2+(z+1)^2=5$." },
+        { "key": "C", "text": "$x^2+y^2+(z-1)^2=25$." },
+        { "key": "D", "text": "$x^2+y^2+z^2=5$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gọi tâm $I(0;0;c)$. Điều kiện $IA^2=IB^2$ cho $1+4+(c-1)^2=4+0+c^2$, tức $-2c+6=4$ hay $c=1$. Khi đó $R^2=IB^2=5$ và mặt cầu là $x^2+y^2+(z-1)^2=5$. Thử lại: $A$ cho $1+4+0=5$, $B$ cho $4+0+1=5$; phương án B là lỗi dấu của $c$, phương án D là lỗi nhận nhầm $c=0$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tâm thuộc trục tọa độ", "đi qua hai điểm"]
+    },
+    {
+      "id": "toan12-b17-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phương trình $x^2+y^2+z^2-2mx-2(m+1)y-2z+2m^2+m=0$ với $m$ là tham số thực. Giá trị của $m$ để phương trình đã cho là phương trình mặt cầu có tâm thuộc mặt phẳng $(P): x+2y+z-6=0$ là",
+      "options": [
+        { "key": "A", "text": "$m=-3$." },
+        { "key": "B", "text": "$m=3$." },
+        { "key": "C", "text": "$m=1$." },
+        { "key": "D", "text": "Không tồn tại $m$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phương trình có tâm $I(m;m+1;1)$ và $R^2=m^2+(m+1)^2+1-(2m^2+m)=m+2$. Tâm thuộc $(P)$ khi $m+2(m+1)+1-6=0$, tức $3m-3=0$ hay $m=1$; khi đó $R^2=3>0$ nên điều kiện tồn tại mặt cầu được thỏa mãn. Phương án A là lỗi lấy tâm $(-m;-m-1;-1)$ dẫn tới $-3m-9=0$; với $m=-3$ thì $R^2=-1$, loại.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tham số m", "tâm thuộc mặt phẳng", "điều kiện tồn tại"]
+    },
+    {
+      "id": "toan12-b17-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm tất cả các giá trị thực của $m$ để mặt cầu $(S): (x-1)^2+(y-m)^2+(z-2)^2=9$ tiếp xúc với mặt phẳng $(P): 2x+y+2z-3=0$.",
+      "options": [
+        { "key": "A", "text": "$m=6$." },
+        { "key": "B", "text": "$m=6$ hoặc $m=-12$." },
+        { "key": "C", "text": "$m=-6$ hoặc $m=12$." },
+        { "key": "D", "text": "$m=6$ hoặc $m=12$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mặt cầu có tâm $I(1;m;2)$ và $R=3$. Tiếp xúc nghĩa là khoảng cách từ $I$ đến $(P)$ bằng $3$: $\\dfrac{|2+m+4-3|}{\\sqrt{4+1+4}}=\\dfrac{|m+3|}{3}=3$, suy ra $|m+3|=9$. Do đó $m+3=9$ cho $m=6$ hoặc $m+3=-9$ cho $m=-12$; phương án A là lỗi bỏ nghiệm âm.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["mặt cầu tiếp xúc mặt phẳng", "tham số m"]
+    },
+    {
+      "id": "toan12-b17-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b17-phuong-trinh-mat-cau",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, mặt cầu có tâm thuộc trục $Ox$, đi qua điểm $A(1;2;2)$ và cắt mặt phẳng $(Oyz)$ theo một đường tròn bán kính $1$ có bán kính bằng",
+      "options": [
+        { "key": "A", "text": "$17$." },
+        { "key": "B", "text": "$4$." },
+        { "key": "C", "text": "$3\\sqrt{2}$." },
+        { "key": "D", "text": "$\\sqrt{17}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Gọi tâm $I(a;0;0)$ thì $R^2=(a-1)^2+4+4=a^2-2a+9$. Khoảng cách từ $I$ đến $(Oyz)$ bằng $|a|$, nên điều kiện đường tròn giao tuyến có bán kính $1$ là $R^2-a^2=1$, tức $9-2a=1$ và $a=4$. Suy ra $R^2=16-8+9=17$ và $R=\\sqrt{17}$. Phương án A là lỗi quên căn, phương án B là lỗi lấy hoành độ $a=4$ làm bán kính, phương án C là lỗi cộng thêm $1$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tâm thuộc trục tọa độ", "giao tuyến", "bán kính mặt cầu"]
+    }
+  ]
+}

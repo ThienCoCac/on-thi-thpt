@@ -1,0 +1,1428 @@
+{
+  "id": "de-dia-12-bai-23",
+  "title": "Đề ôn tập Địa lí 12 – Bài 23: Thực hành – Tìm hiểu sự phát triển một số ngành dịch vụ",
+  "slug": "de-dia-12-bai-23",
+  "description": "Đề thực hành 40 câu khai thác bảng số liệu giả định về thương mại, vận tải và du lịch: tính tốc độ phát triển, chỉ số, cơ cấu %, chỉ tiêu bình quân theo dân số và theo 34 tỉnh, thành phố, chọn dạng biểu đồ phù hợp rồi nhận xét, giải thích và viết báo cáo ngắn. Toàn bộ dữ kiện đều nêu trong câu hỏi vì đề không dùng Atlat.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B23",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b23-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng thực hành",
+        "xử lí số liệu dịch vụ"
+      ],
+      "content": "Khi làm bài thực hành tìm hiểu sự phát triển của một ngành dịch vụ, sau khi thu thập được bảng số liệu theo các năm, việc đầu tiên cần làm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Viết ngay phần giải thích nguyên nhân tăng, giảm."
+        },
+        {
+          "key": "B",
+          "text": "Kiểm tra lại đơn vị tính, khoảng năm và năm gốc của bảng số liệu."
+        },
+        {
+          "key": "C",
+          "text": "Vẽ biểu đồ tròn cho tất cả các năm trong bảng."
+        },
+        {
+          "key": "D",
+          "text": "Tính tốc độ tăng trưởng bình quân năm trước khi đọc số liệu."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Kĩ năng xử lí số liệu bắt đầu buộc phải từ việc xác định đơn vị (nghìn tỉ đồng, triệu lượt người, triệu tấn), khoảng năm và năm gốc; bỏ qua bước này thì mọi phép tính tốc độ phát triển hay cơ cấu đều sai mẫu số."
+    },
+    {
+      "id": "dia12-b23-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ thương mại",
+        "đơn vị tính"
+      ],
+      "content": "Đơn vị tính thường dùng của chỉ tiêu 'tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng' trong các bảng số liệu thống kê là",
+      "options": [
+        {
+          "key": "A",
+          "text": "triệu lượt người"
+        },
+        {
+          "key": "B",
+          "text": "tỉ lượt người.km"
+        },
+        {
+          "key": "C",
+          "text": "nghìn tỉ đồng"
+        },
+        {
+          "key": "D",
+          "text": "triệu tấn"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Chỉ tiêu này đo giá trị hàng hóa và dịch vụ đã bán ra nên đơn vị là tiền; trong bảng số liệu thường ghi bằng nghìn tỉ đồng, ví dụ tổng mức bán lẻ và doanh thu dịch vụ tiêu dùng năm 2024 (số liệu giả định của đề) là 7000 nghìn tỉ đồng."
+    },
+    {
+      "id": "dia12-b23-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "du lịch",
+        "đơn vị tính"
+      ],
+      "content": "Trong bảng số liệu về dịch vụ du lịch, chỉ tiêu 'số lượt khách quốc tế đến Việt Nam' thường được biểu thị bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "triệu lượt người"
+        },
+        {
+          "key": "B",
+          "text": "nghìn tỉ đồng"
+        },
+        {
+          "key": "C",
+          "text": "triệu tấn.km"
+        },
+        {
+          "key": "D",
+          "text": "nghìn phòng lưu trú"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Lượt khách là đơn vị đếm số lần đi của khách nên ghi bằng triệu lượt người (ví dụ bảng số liệu giả định: năm 2024 đạt 18,0 triệu lượt); nếu đo giá trị chi tiêu của khách thì mới dùng nghìn tỉ đồng."
+    },
+    {
+      "id": "dia12-b23-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ vận tải",
+        "kĩ năng đọc bảng số liệu"
+      ],
+      "content": "Trong bảng số liệu về giao thông vận tải, chỉ tiêu 'lượng hàng hoá luân chuyển' (tỉ tấn.km) khác 'khối lượng hàng hoá vận chuyển' (triệu tấn) ở chỗ",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ thống kê cho riêng đường hàng không"
+        },
+        {
+          "key": "B",
+          "text": "được tính bằng đơn vị tiền tệ"
+        },
+        {
+          "key": "C",
+          "text": "chỉ áp dụng cho vận tải hành khách"
+        },
+        {
+          "key": "D",
+          "text": "kết hợp cả khối lượng vận chuyển và quãng đường"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Lượng hàng hoá luân chuyển = khối lượng (tấn) nhân quãng đường (km); chẳng hạn 2 triệu tấn chuyên chở trung bình 400 km cho 800 triệu tấn.km. Vì thế hai chỉ tiêu này có thể tăng không cùng nhịp."
+    },
+    {
+      "id": "dia12-b23-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng tính cơ cấu",
+        "dịch vụ"
+      ],
+      "content": "Khi xử lí bảng số liệu tuyệt đối sang cơ cấu %, tổng các tỉ trọng của cùng một năm phải bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%"
+        },
+        {
+          "key": "B",
+          "text": "50%"
+        },
+        {
+          "key": "C",
+          "text": "100%"
+        },
+        {
+          "key": "D",
+          "text": "1000%"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tỉ trọng = giá trị thành phần chia tổng rồi nhân 100%, nên tổng các thành phần luôn bằng 100%; với bảng giả định về các nhóm dịch vụ năm 2024: 64,3 + 17,1 + 4,3 + 14,3 = 100,0%."
+    },
+    {
+      "id": "dia12-b23-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "viết báo cáo thực hành",
+        "kĩ năng thực hành"
+      ],
+      "content": "Bố cục thường dùng của một báo cáo ngắn trình bày kết quả tìm hiểu sự phát triển của một ngành dịch vụ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khái quát ngành - thực trạng qua số liệu và biểu đồ - các nhân tố tác động - triển vọng, đề xuất"
+        },
+        {
+          "key": "B",
+          "text": "chỉ liệt kê bảng số liệu, không cần nhận xét"
+        },
+        {
+          "key": "C",
+          "text": "mở đầu bằng đề xuất giải pháp, kết thúc bằng bảng số liệu"
+        },
+        {
+          "key": "D",
+          "text": "chỉ vẽ biểu đồ rồi kết luận, không viết phần thực trạng"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Báo cáo thực hành gồm: mở đầu (mục tiêu, nguồn và năm số liệu), nội dung (thực trạng kèm bảng số liệu và biểu đồ, nhận xét, giải thích nhân tố ảnh hưởng) và kết luận (triển vọng, đề xuất)."
+    },
+    {
+      "id": "dia12-b23-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng tính toán",
+        "tốc độ phát triển"
+      ],
+      "content": "Để biết một chỉ tiêu dịch vụ năm sau tăng thêm bao nhiêu so với năm trước theo đúng đơn vị của bảng số liệu, ta phải tính",
+      "options": [
+        {
+          "key": "A",
+          "text": "tỉ trọng % của năm đó trong cả giai đoạn"
+        },
+        {
+          "key": "B",
+          "text": "chỉ số phát triển lấy năm đầu làm 100%"
+        },
+        {
+          "key": "C",
+          "text": "mức bình quân của cả giai đoạn"
+        },
+        {
+          "key": "D",
+          "text": "hiệu số tuyệt đối giữa hai năm (trừ đi năm liền trước)"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Lượng tăng (giảm) tuyệt đối = số liệu năm sau trừ số liệu năm trước, giữ nguyên đơn vị gốc; ví dụ doanh thu du lịch, lữ hành năm 2023 trừ năm 2022: 36,0 - 26,0 = 10,0 nghìn tỉ đồng."
+    },
+    {
+      "id": "dia12-b23-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "năm gốc",
+        "chỉ số phát triển"
+      ],
+      "content": "Trong bảng chỉ số phát triển được xử lí với năm 2020 làm năm gốc (năm 2020 = 100%), giá trị chỉ số của năm 2020 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "0%"
+        },
+        {
+          "key": "B",
+          "text": "100%"
+        },
+        {
+          "key": "C",
+          "text": "bằng đúng số tuyệt đối của năm 2020"
+        },
+        {
+          "key": "D",
+          "text": "200%"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Năm gốc có chỉ số luôn bằng 100% vì lấy chính nó chia cho nó: 20,0 / 20,0 x 100 = 100%."
+    },
+    {
+      "id": "dia12-b23-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ du lịch",
+        "tốc độ phát triển"
+      ],
+      "content": "**Bảng số liệu (giả định) - Doanh thu du lịch, lữ hành của cả nước theo các năm (nghìn tỉ đồng):**\n\n- Năm 2020: 20,0; Năm 2021: 12,0; Năm 2022: 26,0; Năm 2023: 36,0; Năm 2024: 48,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nVới bảng số liệu trên, tốc độ phát triển của doanh thu du lịch, lữ hành năm 2021 so với năm 2020 bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "60%"
+        },
+        {
+          "key": "B",
+          "text": "40%"
+        },
+        {
+          "key": "C",
+          "text": "80%"
+        },
+        {
+          "key": "D",
+          "text": "120%"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Tốc độ phát triển = 12,0 / 20,0 x 100 = 60%, nghĩa là doanh thu giảm 40% so với năm 2020 (giảm 8,0 nghìn tỉ đồng)."
+    },
+    {
+      "id": "dia12-b23-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ du lịch",
+        "chỉ số phát triển"
+      ],
+      "content": "**Bảng số liệu (giả định) - Doanh thu du lịch, lữ hành của cả nước theo các năm (nghìn tỉ đồng):**\n\n- Năm 2020: 20,0; Năm 2021: 12,0; Năm 2022: 26,0; Năm 2023: 36,0; Năm 2024: 48,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nLấy năm 2020 = 100%, chỉ số phát triển của doanh thu du lịch, lữ hành năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "140%"
+        },
+        {
+          "key": "B",
+          "text": "240%"
+        },
+        {
+          "key": "C",
+          "text": "280%"
+        },
+        {
+          "key": "D",
+          "text": "480%"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Chỉ số phát triển năm 2024 = 48,0 / 20,0 x 100 = 240%, tức doanh thu năm 2024 gấp 2,4 lần năm 2020."
+    },
+    {
+      "id": "dia12-b23-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ du lịch",
+        "lượng tăng tuyệt đối"
+      ],
+      "content": "**Bảng số liệu (giả định) - Doanh thu du lịch, lữ hành của cả nước theo các năm (nghìn tỉ đồng):**\n\n- Năm 2020: 20,0; Năm 2021: 12,0; Năm 2022: 26,0; Năm 2023: 36,0; Năm 2024: 48,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nSo với năm 2021, doanh thu du lịch, lữ hành năm 2024 tăng thêm",
+      "options": [
+        {
+          "key": "A",
+          "text": "24,0 nghìn tỉ đồng"
+        },
+        {
+          "key": "B",
+          "text": "32,0 nghìn tỉ đồng"
+        },
+        {
+          "key": "C",
+          "text": "36,0 nghìn tỉ đồng"
+        },
+        {
+          "key": "D",
+          "text": "48,0 nghìn tỉ đồng"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Lượng tăng tuyệt đối = 48,0 - 12,0 = 36,0 nghìn tỉ đồng (đây cũng là giai đoạn phục hồi mạnh nhất, đạt tốc độ phát triển 48,0 / 12,0 = 400%)."
+    },
+    {
+      "id": "dia12-b23-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ du lịch",
+        "tốc độ tăng trưởng bình quân"
+      ],
+      "content": "**Bảng số liệu (giả định) - Doanh thu du lịch, lữ hành của cả nước theo các năm (nghìn tỉ đồng):**\n\n- Năm 2020: 20,0; Năm 2021: 12,0; Năm 2022: 26,0; Năm 2023: 36,0; Năm 2024: 48,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTốc độ tăng trưởng bình quân mỗi năm của giai đoạn 2021 - 2024 (làm tròn đến 0,1%) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "33,9%"
+        },
+        {
+          "key": "B",
+          "text": "58,7%"
+        },
+        {
+          "key": "C",
+          "text": "75,0%"
+        },
+        {
+          "key": "D",
+          "text": "89,4%"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Giai đoạn 2021 - 2024 có 3 bước tăng, tốc độ bình quân = căn bậc ba của (48,0 / 12,0) trừ 1 = căn bậc ba của 4 - 1 = 1,587 - 1 = 0,587, tức khoảng 58,7% mỗi năm."
+    },
+    {
+      "id": "dia12-b23-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ du lịch",
+        "nhận xét bảng số liệu"
+      ],
+      "content": "**Bảng số liệu (giả định) - Doanh thu du lịch, lữ hành của cả nước theo các năm (nghìn tỉ đồng):**\n\n- Năm 2020: 20,0; Năm 2021: 12,0; Năm 2022: 26,0; Năm 2023: 36,0; Năm 2024: 48,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nNăm duy nhất trong bảng có doanh thu giảm so với năm liền trước là",
+      "options": [
+        {
+          "key": "A",
+          "text": "năm 2021"
+        },
+        {
+          "key": "B",
+          "text": "năm 2022"
+        },
+        {
+          "key": "C",
+          "text": "năm 2023"
+        },
+        {
+          "key": "D",
+          "text": "năm 2024"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Năm 2021: 12,0 - 20,0 = -8,0 nghìn tỉ đồng (tốc độ phát triển 60%); các năm còn lại đều tăng: 2022 +14,0; 2023 +10,0; 2024 +12,0 nghìn tỉ đồng. Diễn biến này thường được giải thích bằng tác động của dịch bệnh, hạn chế đi lại."
+    },
+    {
+      "id": "dia12-b23-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ thương mại",
+        "kĩ năng tính tổng"
+      ],
+      "content": "**Bảng số liệu (giả định) - Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng cả nước năm 2024, phân theo nhóm ngành (nghìn tỉ đồng):**\n\n- Bán lẻ hàng hóa: 4500; Dịch vụ ăn uống và lưu trú: 1200; Dịch vụ du lịch lữ hành: 300; Dịch vụ tiêu dùng khác: 1000\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng của cả nước năm 2024 theo bảng trên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "6000 nghìn tỉ đồng"
+        },
+        {
+          "key": "B",
+          "text": "6500 nghìn tỉ đồng"
+        },
+        {
+          "key": "C",
+          "text": "7000 nghìn tỉ đồng"
+        },
+        {
+          "key": "D",
+          "text": "7500 nghìn tỉ đồng"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tổng = 4500 + 1200 + 300 + 1000 = 7000 nghìn tỉ đồng. Đây là mẫu số dùng để tính mọi tỉ trọng của bảng."
+    },
+    {
+      "id": "dia12-b23-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ thương mại",
+        "tính cơ cấu"
+      ],
+      "content": "**Bảng số liệu (giả định) - Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng cả nước năm 2024, phân theo nhóm ngành (nghìn tỉ đồng):**\n\n- Bán lẻ hàng hóa: 4500; Dịch vụ ăn uống và lưu trú: 1200; Dịch vụ du lịch lữ hành: 300; Dịch vụ tiêu dùng khác: 1000\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTỉ trọng của nhóm bán lẻ hàng hóa trong tổng mức bán lẻ và doanh thu dịch vụ tiêu dùng năm 2024 (làm tròn đến 0,1%) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "55,7%"
+        },
+        {
+          "key": "B",
+          "text": "64,3%"
+        },
+        {
+          "key": "C",
+          "text": "68,6%"
+        },
+        {
+          "key": "D",
+          "text": "74,3%"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Tỉ trọng = 4500 / 7000 x 100 = 64,2857..., làm tròn 64,3%; bán lẻ hàng hóa vẫn là nhóm chiếm ưu thế, dịch vụ thuần tuý chỉ chiếm 35,7%."
+    },
+    {
+      "id": "dia12-b23-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ du lịch",
+        "tính cơ cấu"
+      ],
+      "content": "**Bảng số liệu (giả định) - Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng cả nước năm 2024, phân theo nhóm ngành (nghìn tỉ đồng):**\n\n- Bán lẻ hàng hóa: 4500; Dịch vụ ăn uống và lưu trú: 1200; Dịch vụ du lịch lữ hành: 300; Dịch vụ tiêu dùng khác: 1000\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTổng tỉ trọng của hai nhóm dịch vụ ăn uống - lưu trú và du lịch lữ hành trong tổng mức bán lẻ và doanh thu dịch vụ tiêu dùng năm 2024 (làm tròn đến 0,1%) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "17,1%"
+        },
+        {
+          "key": "B",
+          "text": "19,4%"
+        },
+        {
+          "key": "C",
+          "text": "21,4%"
+        },
+        {
+          "key": "D",
+          "text": "24,3%"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. (1200 + 300) / 7000 x 100 = 1500 / 7000 x 100 = 21,4286..., làm tròn 21,4%; riêng ăn uống - lưu trú 17,1% và du lịch lữ hành 4,3% (17,1 + 4,3 = 21,4)."
+    },
+    {
+      "id": "dia12-b23-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ thương mại",
+        "so sánh quy mô"
+      ],
+      "content": "**Bảng số liệu (giả định) - Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng cả nước năm 2024, phân theo nhóm ngành (nghìn tỉ đồng):**\n\n- Bán lẻ hàng hóa: 4500; Dịch vụ ăn uống và lưu trú: 1200; Dịch vụ du lịch lữ hành: 300; Dịch vụ tiêu dùng khác: 1000\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTheo bảng, giá trị bán lẻ hàng hóa gấp giá trị dịch vụ du lịch lữ hành",
+      "options": [
+        {
+          "key": "A",
+          "text": "4,5 lần"
+        },
+        {
+          "key": "B",
+          "text": "10 lần"
+        },
+        {
+          "key": "C",
+          "text": "15 lần"
+        },
+        {
+          "key": "D",
+          "text": "21 lần"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. 4500 / 300 = 15 lần. Cách so sánh này cho thấy dịch vụ du lịch lữ hành có quy mô nhỏ nhất trong bốn nhóm của bảng."
+    },
+    {
+      "id": "dia12-b23-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "chọn dạng biểu đồ",
+        "cơ cấu ngành dịch vụ"
+      ],
+      "content": "**Bảng số liệu (giả định) - Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng cả nước năm 2024, phân theo nhóm ngành (nghìn tỉ đồng):**\n\n- Bán lẻ hàng hóa: 4500; Dịch vụ ăn uống và lưu trú: 1200; Dịch vụ du lịch lữ hành: 300; Dịch vụ tiêu dùng khác: 1000\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nBảng chỉ có một năm và yêu cầu thể hiện cơ cấu của tổng, dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đường biểu diễn (đồ thị)"
+        },
+        {
+          "key": "B",
+          "text": "bản đồ"
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ miền"
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ tròn"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Cơ cấu của một tổng tại một năm (4 nhóm, tổng 7000 nghìn tỉ đồng) vẽ biểu đồ tròn là phù hợp nhất; đường biểu diễn dùng cho động thái theo thời gian, miền cho từ 3 năm trở lên, bản đồ dùng cho phân bố lãnh thổ."
+    },
+    {
+      "id": "dia12-b23-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "vẽ biểu đồ tròn",
+        "tính góc ở tâm"
+      ],
+      "content": "**Bảng số liệu (giả định) - Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng cả nước năm 2024, phân theo nhóm ngành (nghìn tỉ đồng):**\n\n- Bán lẻ hàng hóa: 4500; Dịch vụ ăn uống và lưu trú: 1200; Dịch vụ du lịch lữ hành: 300; Dịch vụ tiêu dùng khác: 1000\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nKhi vẽ biểu đồ tròn, cung tròn (góc ở tâm) thể hiện nhóm bán lẻ hàng hóa có số đo gần nhất với",
+      "options": [
+        {
+          "key": "A",
+          "text": "180,0 độ"
+        },
+        {
+          "key": "B",
+          "text": "214,3 độ"
+        },
+        {
+          "key": "C",
+          "text": "231,4 độ"
+        },
+        {
+          "key": "D",
+          "text": "245,7 độ"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Góc ở tâm = 4500 / 7000 x 360 độ = 64,3% x 360 độ = 231,43 độ, làm tròn 231,4 độ; nhóm này vượt nửa hình tròn (180 độ ứng với 50%, tức 3500 nghìn tỉ đồng)."
+    },
+    {
+      "id": "dia12-b23-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "khách quốc tế",
+        "tốc độ phát triển"
+      ],
+      "content": "**Bảng số liệu (giả định) - Số lượt khách quốc tế đến Việt Nam theo các năm (triệu lượt người):**\n\n- Năm 2019: 18,0; Năm 2022: 6,0; Năm 2023: 12,0; Năm 2024: 18,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nVới bảng trên, tốc độ phát triển của số lượt khách quốc tế năm 2023 so với năm 2022 bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "200%"
+        },
+        {
+          "key": "B",
+          "text": "100%"
+        },
+        {
+          "key": "C",
+          "text": "150%"
+        },
+        {
+          "key": "D",
+          "text": "66,7%"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. 12,0 / 6,0 x 100 = 200%, tức số lượt khách tăng gấp đôi, tăng thêm 6,0 triệu lượt (tốc độ tăng trưởng 100%)."
+    },
+    {
+      "id": "dia12-b23-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "khách quốc tế",
+        "chỉ số phát triển"
+      ],
+      "content": "**Bảng số liệu (giả định) - Số lượt khách quốc tế đến Việt Nam theo các năm (triệu lượt người):**\n\n- Năm 2019: 18,0; Năm 2022: 6,0; Năm 2023: 12,0; Năm 2024: 18,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nLấy năm 2019 = 100%, chỉ số phát triển của số lượt khách quốc tế năm 2022 (làm tròn đến 0,1) xấp xỉ",
+      "options": [
+        {
+          "key": "A",
+          "text": "33,3"
+        },
+        {
+          "key": "B",
+          "text": "50,0"
+        },
+        {
+          "key": "C",
+          "text": "117,0"
+        },
+        {
+          "key": "D",
+          "text": "300,0"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. 6,0 / 18,0 x 100 = 33,33, làm tròn 33,3, nghĩa là khách quốc tế năm 2022 chỉ còn khoảng một phần ba so với năm 2019."
+    },
+    {
+      "id": "dia12-b23-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "khách quốc tế",
+        "lượng tăng tuyệt đối"
+      ],
+      "content": "**Bảng số liệu (giả định) - Số lượt khách quốc tế đến Việt Nam theo các năm (triệu lượt người):**\n\n- Năm 2019: 18,0; Năm 2022: 6,0; Năm 2023: 12,0; Năm 2024: 18,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nSố lượt khách quốc tế năm 2024 so với năm 2022 tăng thêm",
+      "options": [
+        {
+          "key": "A",
+          "text": "6,0 triệu lượt người"
+        },
+        {
+          "key": "B",
+          "text": "12,0 triệu lượt người"
+        },
+        {
+          "key": "C",
+          "text": "15,0 triệu lượt người"
+        },
+        {
+          "key": "D",
+          "text": "18,0 triệu lượt người"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. 18,0 - 6,0 = 12,0 triệu lượt người, tương ứng tốc độ phát triển 18,0 / 6,0 x 100 = 300%."
+    },
+    {
+      "id": "dia12-b23-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "khách quốc tế",
+        "chỉ tiêu bình quân theo dân số"
+      ],
+      "content": "**Bảng số liệu (giả định) - Số lượt khách quốc tế đến Việt Nam năm 2024: 18,0 triệu lượt người. Dân số trung bình cả nước: 100 triệu người.**\n\n- Năm 2024: 18,0 triệu lượt người; dân số 100 triệu người\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nSố lượt khách quốc tế bình quân trên đầu người dân năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,18 lượt người/người dân"
+        },
+        {
+          "key": "B",
+          "text": "1,08 lượt người/người dân"
+        },
+        {
+          "key": "C",
+          "text": "1,80 lượt người/người dân"
+        },
+        {
+          "key": "D",
+          "text": "18,00 lượt người/người dân"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. 18,0 triệu lượt / 100 triệu người = 0,18 lượt người trên một người dân, tức trung bình 100 người dân thì đón 18 lượt khách quốc tế trong năm."
+    },
+    {
+      "id": "dia12-b23-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "khách quốc tế",
+        "tính triển vọng"
+      ],
+      "content": "**Bảng số liệu (giả định) - Số lượt khách quốc tế đến Việt Nam theo các năm (triệu lượt người):**\n\n- Năm 2019: 18,0; Năm 2022: 6,0; Năm 2023: 12,0; Năm 2024: 18,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nNếu năm 2025 giữ nguyên tốc độ phát triển như năm 2024 so với 2023 thì số lượt khách quốc tế năm 2025 ước đạt",
+      "options": [
+        {
+          "key": "A",
+          "text": "21,0 triệu lượt người"
+        },
+        {
+          "key": "B",
+          "text": "24,0 triệu lượt người"
+        },
+        {
+          "key": "C",
+          "text": "27,0 triệu lượt người"
+        },
+        {
+          "key": "D",
+          "text": "30,0 triệu lượt người"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Tốc độ phát triển 2024 so với 2023 = 18,0 / 12,0 x 100 = 150%; dự báo 2025 = 18,0 x 150% = 27,0 triệu lượt người. Đây là cách dự báo đơn giản dựa trên một bước tăng không đổi."
+    },
+    {
+      "id": "dia12-b23-c25",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "vận tải hành khách",
+        "tốc độ phát triển"
+      ],
+      "content": "**Bảng số liệu (giả định) - Khối lượng vận chuyển hành khách của cả nước theo các năm (triệu lượt người):**\n\n- Năm 2020: 3000; Năm 2024: 4500\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nKhối lượng vận chuyển hành khách năm 2024 so với năm 2020 có tốc độ phát triển là",
+      "options": [
+        {
+          "key": "A",
+          "text": "133%"
+        },
+        {
+          "key": "B",
+          "text": "150%"
+        },
+        {
+          "key": "C",
+          "text": "250%"
+        },
+        {
+          "key": "D",
+          "text": "333%"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. 4500 / 3000 x 100 = 150%, tức tăng thêm 1500 triệu lượt, tốc độ tăng trưởng 50% và bình quân mỗi năm giai đoạn 2020 - 2024 tăng (4500 - 3000) / 4 = 375 triệu lượt."
+    },
+    {
+      "id": "dia12-b23-c26",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "vận tải hành khách",
+        "chỉ tiêu bình quân"
+      ],
+      "content": "**Bảng số liệu (giả định) - Vận tải hành khách của cả nước năm 2024:**\n\n- Khối lượng vận chuyển: 4500 triệu lượt người; lượng hành khách luân chuyển: 240 tỉ lượt người.km\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nQuãng đường đi bình quân của một lượt hành khách năm 2024 (làm tròn đến 0,1 km) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "44,4 km"
+        },
+        {
+          "key": "B",
+          "text": "53,3 km"
+        },
+        {
+          "key": "C",
+          "text": "62,5 km"
+        },
+        {
+          "key": "D",
+          "text": "66,7 km"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Đổi 240 tỉ = 240 000 triệu lượt người.km; quãng đường bình quân = 240 000 / 4500 = 53,33, làm tròn 53,3 km mỗi lượt."
+    },
+    {
+      "id": "dia12-b23-c27",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "vận tải hành khách",
+        "tính biến động bình quân"
+      ],
+      "content": "**Bảng số liệu (giả định) - Vận tải hành khách của cả nước (triệu lượt người và tỉ lượt người.km):**\n\n- Năm 2020: vận chuyển 3000; luân chuyển 150\n- Năm 2024: vận chuyển 4500; luân chuyển 240\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nSo với năm 2020, quãng đường đi bình quân một lượt hành khách năm 2024 thay đổi như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "giảm 3,3 km"
+        },
+        {
+          "key": "B",
+          "text": "tăng 1,3 km"
+        },
+        {
+          "key": "C",
+          "text": "tăng 6,7 km"
+        },
+        {
+          "key": "D",
+          "text": "tăng 3,3 km"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Năm 2020: 150 000 / 3000 = 50,0 km; năm 2024: 240 000 / 4500 = 53,3 km; chênh lệch 53,3 - 50,0 = 3,3 km. Luân chuyển tăng nhanh hơn vận chuyển (240/150 = 160% so với 150%) nên cự li đi bình quân dài thêm."
+    },
+    {
+      "id": "dia12-b23-c28",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "vận tải hàng hoá",
+        "kĩ năng tính tổng"
+      ],
+      "content": "**Bảng số liệu (giả định) - Khối lượng hàng hoá vận chuyển của cả nước năm 2024 theo loại đường (triệu tấn):**\n\n- Đường bộ: 1800; đường sông: 500; đường biển: 1200; đường sắt: 100; đường ống: 400\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTổng khối lượng hàng hoá vận chuyển năm 2024 theo bảng trên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "3600 triệu tấn"
+        },
+        {
+          "key": "B",
+          "text": "3700 triệu tấn"
+        },
+        {
+          "key": "C",
+          "text": "3900 triệu tấn"
+        },
+        {
+          "key": "D",
+          "text": "4000 triệu tấn"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. 1800 + 500 + 1200 + 100 + 400 = 4000 triệu tấn; đây là mẫu số để tính các tỉ trọng 45%, 12,5%, 30%, 2,5% và 10%."
+    },
+    {
+      "id": "dia12-b23-c29",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "vận tải hàng hoá",
+        "tính cơ cấu"
+      ],
+      "content": "**Bảng số liệu (giả định) - Khối lượng hàng hoá vận chuyển của cả nước năm 2024 theo loại đường (triệu tấn):**\n\n- Đường bộ: 1800; đường sông: 500; đường biển: 1200; đường sắt: 100; đường ống: 400\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTỉ trọng khối lượng hàng hoá vận chuyển bằng đường bộ năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "45%"
+        },
+        {
+          "key": "B",
+          "text": "30%"
+        },
+        {
+          "key": "C",
+          "text": "25%"
+        },
+        {
+          "key": "D",
+          "text": "12,5%"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. 1800 / 4000 x 100 = 45%. Đường bộ giữ vai trò chủ đạo về khối lượng dù cự li vận chuyển trung bình ngắn."
+    },
+    {
+      "id": "dia12-b23-c30",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "vận tải hàng hoá",
+        "tính cơ cấu"
+      ],
+      "content": "**Bảng số liệu (giả định) - Khối lượng hàng hoá vận chuyển của cả nước năm 2024 theo loại đường (triệu tấn):**\n\n- Đường bộ: 1800; đường sông: 500; đường biển: 1200; đường sắt: 100; đường ống: 400\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTỉ trọng khối lượng hàng hoá vận chuyển bằng đường biển năm 2024 là",
+      "options": [
+        {
+          "key": "A",
+          "text": "12,5%"
+        },
+        {
+          "key": "B",
+          "text": "20%"
+        },
+        {
+          "key": "C",
+          "text": "30%"
+        },
+        {
+          "key": "D",
+          "text": "45%"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. 1200 / 4000 x 100 = 30%. Đường biển đứng thứ hai sau đường bộ (45%) và thường có cự li dài nhất nên tỉ trọng luân chuyển còn cao hơn tỉ trọng vận chuyển."
+    },
+    {
+      "id": "dia12-b23-c31",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "chọn dạng biểu đồ",
+        "tốc độ tăng trưởng"
+      ],
+      "content": "**Bảng số liệu (giả định) - Chỉ số phát triển của ba chỉ tiêu dịch vụ, lấy năm 2020 = 100%:**\n\n- Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng: 2020 - 100%; 2021 - 108%; 2022 - 126%; 2023 - 142%; 2024 - 163%\n- Khối lượng vận chuyển hành khách: 2020 - 100%; 2021 - 94%; 2022 - 118%; 2023 - 136%; 2024 - 150%\n- Doanh thu dịch vụ lưu trú, ăn uống: 2020 - 100%; 2021 - 88%; 2022 - 115%; 2023 - 137%; 2024 - 172%\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nVới bảng đã xử lí ra chỉ số phát triển của ba chỉ tiêu qua 5 năm liên tiếp, dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ tròn"
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ cột đơn"
+        },
+        {
+          "key": "C",
+          "text": "bản đồ"
+        },
+        {
+          "key": "D",
+          "text": "đường biểu diễn (đồ thị)"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Ba chuỗi chỉ số của cùng một đơn vị (%) qua 5 năm là động thái phát triển, vẽ ba đường biểu diễn trên một hệ trục để so sánh nhịp tăng; hàng năm 2021 của vận chuyển hành khách (94%) và lưu trú, ăn uống (88%) tụt xuống dưới năm gốc nên đường biểu diễn thể hiện rõ nhất. Biểu đồ tròn và miền dành cho cơ cấu, bản đồ dành cho phân bố lãnh thổ."
+    },
+    {
+      "id": "dia12-b23-c32",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "chọn dạng biểu đồ",
+        "chuyển dịch cơ cấu"
+      ],
+      "content": "Bảng số liệu (giả định) cho cơ cấu % khối lượng hàng hoá vận chuyển theo 5 loại đường của ba năm 2020, 2022 và 2024, yêu cầu thể hiện sự chuyển dịch cơ cấu qua các năm. Dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ tròn"
+        },
+        {
+          "key": "B",
+          "text": "đường biểu diễn"
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ cột đơn"
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ miền"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Cơ cấu % của cùng một tổng qua từ 3 năm trở lên, cần thấy sự thay đổi cấu trúc, vẽ biểu đồ miền (đã xuất ra đơn vị %). Biểu đồ tròn chỉ thích hợp cho 1 - 2 năm."
+    },
+    {
+      "id": "dia12-b23-c33",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "chọn dạng biểu đồ",
+        "kết hợp cột và đường"
+      ],
+      "content": "**Bảng số liệu (giả định) - Số lượt khách quốc tế (triệu lượt người) và tốc độ tăng trưởng so với năm liền trước (%) của cùng các năm:**\n\n- Năm 2021: 2,2 triệu lượt; -42,1%\n- Năm 2022: 6,0 triệu lượt; tăng 172,7%\n- Năm 2023: 12,0 triệu lượt; tăng 100,0%\n- Năm 2024: 18,0 triệu lượt; tăng 50,0%\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nYêu cầu thể hiện đồng thời quy mô tuyệt đối và tốc độ tăng trưởng của cùng một chỉ tiêu theo năm. Dạng biểu đồ phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "cột kết hợp đường (cột chỉ quy mô, đường chỉ tốc độ tăng trưởng)"
+        },
+        {
+          "key": "B",
+          "text": "biểu đồ miền"
+        },
+        {
+          "key": "C",
+          "text": "biểu đồ tròn"
+        },
+        {
+          "key": "D",
+          "text": "bản đồ"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Hai đơn vị khác nhau (triệu lượt người và %) trên cùng trục năm thì vẽ cột cho số tuyệt đối, vẽ thêm đường cho tốc độ tăng trưởng, dùng hai trục tung và chú giải rõ ràng."
+    },
+    {
+      "id": "dia12-b23-c34",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "phân bố lãnh thổ",
+        "chọn dạng biểu đồ"
+      ],
+      "content": "Sau sắp xếp đơn vị hành chính cấp tỉnh, cả nước có 34 tỉnh, thành phố trực thuộc trung ương và được quy hoạch thành 6 vùng kinh tế - xã hội, trong đó vùng Tây Nguyên được xếp chung với vùng Duyên hải Nam Trung Bộ. Muốn thể hiện sự phân bố số lượt khách quốc tế và các trung tâm du lịch lớn trên địa bàn 34 tỉnh, thành phố, sản phẩm phù hợp nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "biểu đồ tròn"
+        },
+        {
+          "key": "B",
+          "text": "bản đồ (khai thác Atlat Địa lí Việt Nam)"
+        },
+        {
+          "key": "C",
+          "text": "đường biểu diễn"
+        },
+        {
+          "key": "D",
+          "text": "biểu đồ cột chồng"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Số liệu gắn với lãnh thổ (34 tỉnh, thành phố; 6 vùng kinh tế - xã hội) phải thể hiện bằng bản đồ, dùng kí hiệu có kích thước tỉ lệ với lượng khách; biểu đồ chỉ mô tả quy mô, cơ cấu, động thái theo thời gian."
+    },
+    {
+      "id": "dia12-b23-c35",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "bình quân theo tỉnh",
+        "đơn vị hành chính 2026"
+      ],
+      "content": "**Bảng số liệu (giả định) - Doanh thu dịch vụ lưu trú, ăn uống và du lịch lữ hành năm 2026 của cả nước: 1020 nghìn tỉ đồng. Cả nước có 34 tỉnh, thành phố trực thuộc trung ương (sau sắp xếp đơn vị hành chính cấp tỉnh) và 6 vùng kinh tế - xã hội.**\n\n- Năm 2026: 1020 nghìn tỉ đồng; 34 tỉnh, thành phố\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nNếu chia đều doanh thu trên cho các tỉnh, thành phố thì bình quân mỗi tỉnh, thành đạt",
+      "options": [
+        {
+          "key": "A",
+          "text": "20 nghìn tỉ đồng"
+        },
+        {
+          "key": "B",
+          "text": "25 nghìn tỉ đồng"
+        },
+        {
+          "key": "C",
+          "text": "34 nghìn tỉ đồng"
+        },
+        {
+          "key": "D",
+          "text": "30 nghìn tỉ đồng"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. 1020 / 34 = 30 nghìn tỉ đồng trên một tỉnh, thành phố. Thực tế con số này chênh lệch lớn giữa các vùng vì khách du lịch tập trung ở một số tỉnh, thành phố có cảng hàng không và di sản, bãi biển."
+    },
+    {
+      "id": "dia12-b23-c36",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "thương mại và du lịch",
+        "đọc bảng số liệu"
+      ],
+      "content": "**Bảng số liệu (giả định) - Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng năm 2024 theo nhóm ngành (nghìn tỉ đồng):**\n\n- Bán lẻ hàng hóa: 4500; dịch vụ ăn uống và lưu trú: 1200; dịch vụ du lịch lữ hành: 300; dịch vụ khác: 1000\n\n**Bảng số liệu (giả định) - Doanh thu du lịch, lữ hành cả nước theo năm (nghìn tỉ đồng):**\n\n- Năm 2020: 20,0; Năm 2021: 12,0; Năm 2022: 26,0; Năm 2023: 36,0; Năm 2024: 48,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTrong các phát biểu dưới đây, những phát biểu nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng năm 2024 là 7000 nghìn tỉ đồng."
+        },
+        {
+          "key": "B",
+          "text": "Dịch vụ du lịch lữ hành chiếm 4,3% tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng năm 2024."
+        },
+        {
+          "key": "C",
+          "text": "Doanh thu du lịch, lữ hành năm 2021 cao hơn năm 2020."
+        },
+        {
+          "key": "D",
+          "text": "Bán lẻ hàng hóa là nhóm có tỉ trọng lớn nhất trong bốn nhóm của bảng năm 2024."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Đáp án ABD. A đúng vì 4500 + 1200 + 300 + 1000 = 7000 nghìn tỉ đồng. B đúng vì 300 / 7000 x 100 = 4,28%, làm tròn 4,3%. D đúng vì bán lẻ hàng hóa chiếm 4500 / 7000 x 100 = 64,3%, cao nhất. C sai vì 12,0 < 20,0, doanh thu giảm 8,0 nghìn tỉ đồng, chỉ còn 60% so với năm 2020."
+    },
+    {
+      "id": "dia12-b23-c37",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng vẽ biểu đồ",
+        "viết báo cáo thực hành"
+      ],
+      "content": "Khi làm bài thực hành tìm hiểu sự phát triển của một số ngành dịch vụ (thương mại, vận tải, du lịch), học sinh phải xử lí bảng số liệu, chọn biểu đồ và viết báo cáo ngắn. Trong các phát biểu dưới đây, những phát biểu nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Động thái phát triển của một chỉ tiêu dịch vụ qua 5 năm liên tiếp nên thể hiện bằng đường biểu diễn."
+        },
+        {
+          "key": "B",
+          "text": "Biểu đồ tròn là dạng phù hợp nhất để thể hiện cơ cấu của một ngành qua 5 năm liên tiếp."
+        },
+        {
+          "key": "C",
+          "text": "Lượng tăng tuyệt đối giữa hai năm được tính bằng cách lấy số liệu năm sau chia số liệu năm trước rồi nhân 100."
+        },
+        {
+          "key": "D",
+          "text": "Báo cáo thực hành cần ghi rõ nguồn và năm của số liệu được sử dụng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "Đáp án AD. A đúng: chuỗi số liệu theo nhiều năm vẽ đường biểu diễn để thấy nhịp tăng, giảm. D đúng: phải nêu nguồn và năm số liệu để báo cáo kiểm chứng được. B sai vì 5 năm cơ cấu nên vẽ biểu đồ miền hoặc cột chồng; C sai vì phép chia rồi nhân 100 là tốc độ phát triển (%), còn lượng tăng tuyệt đối là hiệu số, ví dụ 36,0 - 26,0 = 10,0 nghìn tỉ đồng."
+    },
+    {
+      "id": "dia12-b23-c38",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ vận tải",
+        "tính chỉ tiêu bình quân"
+      ],
+      "content": "**Bảng số liệu (giả định) - Vận tải hành khách cả nước (triệu lượt người và tỉ lượt người.km):**\n\n- Năm 2020: vận chuyển 3000; luân chuyển 150\n- Năm 2024: vận chuyển 4500; luân chuyển 240\n\n**Bảng số liệu (giả định) - Khối lượng hàng hoá vận chuyển năm 2024 theo loại đường (triệu tấn):**\n\n- Đường bộ: 1800; đường sông: 500; đường biển: 1200; đường sắt: 100; đường ống: 400\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTrong các phát biểu dưới đây, những phát biểu nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quãng đường đi bình quân một lượt hành khách năm 2024 khoảng 53,3 km."
+        },
+        {
+          "key": "B",
+          "text": "Tổng khối lượng hàng hoá vận chuyển năm 2024 của năm loại đường là 3600 triệu tấn."
+        },
+        {
+          "key": "C",
+          "text": "Đường bộ chiếm 45% tổng khối lượng hàng hoá vận chuyển năm 2024."
+        },
+        {
+          "key": "D",
+          "text": "Bình quân mỗi năm giai đoạn 2020 - 2024, khối lượng vận chuyển hành khách tăng thêm 375 triệu lượt."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "Đáp án ACD. A đúng: 240 tỉ = 240 000 triệu lượt người.km, 240 000 / 4500 = 53,3 km/lượt. C đúng: 1800 / 4000 x 100 = 45%. D đúng: (4500 - 3000) / 4 = 375 triệu lượt mỗi năm. B sai vì tổng đúng là 1800 + 500 + 1200 + 100 + 400 = 4000 triệu tấn."
+    },
+    {
+      "id": "dia12-b23-c39",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "khách quốc tế",
+        "đơn vị hành chính 2026"
+      ],
+      "content": "**Bảng số liệu (giả định) - Số lượt khách quốc tế đến Việt Nam theo các năm (triệu lượt người):**\n\n- Năm 2019: 18,0; Năm 2022: 6,0; Năm 2023: 12,0; Năm 2024: 18,0\n\n*Giả sử số liệu do đề tự đặt để thực hành.* Năm 2026, doanh thu dịch vụ lưu trú, ăn uống và du lịch lữ hành cả nước (giả định) đạt 1020 nghìn tỉ đồng; cả nước có 34 tỉnh, thành phố trực thuộc trung ương sau sắp xếp đơn vị hành chính cấp tỉnh và được quy hoạch thành 6 vùng kinh tế - xã hội, trong đó vùng Tây Nguyên được xếp chung với vùng Duyên hải Nam Trung Bộ. Trong các phát biểu dưới đây, những phát biểu nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số lượt khách quốc tế năm 2023 tăng 100% so với năm 2022."
+        },
+        {
+          "key": "B",
+          "text": "Sau sắp xếp đơn vị hành chính cấp tỉnh, cả nước có 34 tỉnh, thành phố trực thuộc trung ương."
+        },
+        {
+          "key": "C",
+          "text": "Cả nước được quy hoạch thành 7 vùng kinh tế - xã hội và Tây Nguyên vẫn là một vùng riêng."
+        },
+        {
+          "key": "D",
+          "text": "Chia đều 1020 nghìn tỉ đồng doanh thu dịch vụ cho 34 tỉnh, thành phố thì mỗi tỉnh đạt 40 nghìn tỉ đồng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "Đáp án AB. A đúng vì 12,0 / 6,0 x 100 = 200%, tức tăng thêm 100% (gấp đôi). B đúng theo phương án sắp xếp đơn vị hành chính cấp tỉnh áp dụng từ năm 2025, cả nước còn 34 tỉnh, thành phố. C sai vì quy hoạch hiện hành có 6 vùng kinh tế - xã hội, Tây Nguyên được xếp chung với Duyên hải Nam Trung Bộ. D sai vì 1020 / 34 = 30 nghìn tỉ đồng mỗi tỉnh, thành phố."
+    },
+    {
+      "id": "dia12-b23-c40",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b23-thuc-hanh-dich-vu",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "dịch vụ du lịch",
+        "tốc độ phát triển",
+        "cơ cấu ngành"
+      ],
+      "content": "**Bảng số liệu (giả định) - Doanh thu du lịch, lữ hành cả nước theo năm (nghìn tỉ đồng):**\n\n- Năm 2020: 20,0; Năm 2021: 12,0; Năm 2022: 26,0; Năm 2023: 36,0; Năm 2024: 48,0\n\n**Bảng số liệu (giả định) - Tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng năm 2024 theo nhóm ngành (nghìn tỉ đồng):**\n\n- Bán lẻ hàng hóa: 4500; dịch vụ ăn uống và lưu trú: 1200; dịch vụ du lịch lữ hành: 300; dịch vụ khác: 1000\n\n*Giả sử số liệu do đề tự đặt để thực hành.*\n\nTrong các phát biểu dưới đây, những phát biểu nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lấy năm 2020 = 100%, chỉ số phát triển của doanh thu du lịch, lữ hành năm 2024 là 240%."
+        },
+        {
+          "key": "B",
+          "text": "Giai đoạn 2020 - 2021, doanh thu du lịch, lữ hành giảm 8,0 nghìn tỉ đồng, tương ứng giảm 40% so với năm 2020."
+        },
+        {
+          "key": "C",
+          "text": "Tốc độ tăng trưởng bình quân mỗi năm giai đoạn 2020 - 2024 của doanh thu du lịch, lữ hành xấp xỉ 24,5%."
+        },
+        {
+          "key": "D",
+          "text": "Dịch vụ du lịch lữ hành là nhóm chiếm tỉ trọng lớn nhất trong tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng năm 2024."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án ABC. A đúng: 48,0 / 20,0 x 100 = 240%. B đúng: 12,0 - 20,0 = -8,0 nghìn tỉ đồng và 8,0 / 20,0 x 100 = 40%. C đúng: căn bậc bốn của (48,0 / 20,0) trừ 1 = căn bậc bốn của 2,4 - 1 = 1,245 - 1 = 0,245, tức khoảng 24,5% mỗi năm (4 bước tăng). D sai vì nhóm lớn nhất là bán lẻ hàng hóa với 64,3%, du lịch lữ hành chỉ chiếm 4,3%."
+    }
+  ]
+}

@@ -1,0 +1,1504 @@
+{
+  "id": "de-dia-12-bai-09",
+  "title": "Đề ôn tập Địa lí 12 – Bài 9: Đô thị hoá",
+  "slug": "de-dia-12-bai-09",
+  "description": "Đề ôn tập Bài 9 Đô thị hoá (Địa lí 12, bản chỉnh sửa 2026): khái niệm và các đặc điểm đô thị hoá ở Việt Nam, tiêu chí phân loại và hệ thống đô thị, ảnh hưởng của đô thị hoá tới kinh tế – xã hội và môi trường, cùng định hướng phát triển đô thị bền vững. Gồm 35 câu trắc nghiệm bốn phương án và 5 câu chọn phát biểu đúng, mỗi câu 0,25 điểm, làm trong 45 phút.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B09",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b09-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Đô thị hoá được hiểu **đúng nhất** là",
+      "options": [
+        {
+          "key": "A",
+          "text": "quá trình dân cư nông thôn dịch chuyển tự do ra thành thị để tìm việc làm."
+        },
+        {
+          "key": "B",
+          "text": "quá trình mở rộng diện tích đất canh tác và tăng quy mô sản xuất nông nghiệp hàng hoá."
+        },
+        {
+          "key": "C",
+          "text": "quá trình tăng nhanh số lượng và quy mô dân cư đô thị, tăng tỉ lệ dân thành thị, đồng thời phổ biến rộng rãi lối sống và tiện ích đô thị."
+        },
+        {
+          "key": "D",
+          "text": "quá trình chuyển toàn bộ lao động nông nghiệp sang làm việc trong khu vực nhà nước."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Đô thị hoá gồm cả hai mặt: tăng số lượng, quy mô dân cư đô thị và tỉ lệ dân thành thị, đồng thời lan toả lối sống, phương thức sản xuất – tiêu dùng đô thị. A chỉ nói một nguyên nhân (di cư) nên chưa đầy đủ; B là quá trình trái ngược (mở rộng nông nghiệp); D sai vì đô thị hoá không đồng nghĩa với chuyển lao động vào khu vực nhà nước.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị hoá",
+        "khái niệm"
+      ]
+    },
+    {
+      "id": "dia12-b09-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Dân số thành thị của một quốc gia được xác định là dân số",
+      "options": [
+        {
+          "key": "A",
+          "text": "sinh sống trong phạm vi các đô thị được công nhận và phân loại theo quy định, nơi hoạt động phi nông nghiệp chiếm ưu thế."
+        },
+        {
+          "key": "B",
+          "text": "đăng kí hộ khẩu ở nông thôn nhưng hằng ngày làm việc tại khu công nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "làm việc trong các ngành nông nghiệp, lâm nghiệp và thuỷ sản."
+        },
+        {
+          "key": "D",
+          "text": "sống ở mọi đơn vị hành chính cấp xã trên cả nước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Dân số thành thị gắn với không gian đô thị đã được công nhận, phân loại theo quy định của pháp luật và đặc trưng lao động phi nông nghiệp chiếm ưu thế. B và C là dân cư nông thôn hoặc lao động thời vụ, không xác định theo nơi ở; D sai vì khi đó sẽ gộp cả dân số nông thôn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "dân số thành thị",
+        "khái niệm"
+      ]
+    },
+    {
+      "id": "dia12-b09-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo quy định về phân loại đô thị, tiêu chí nào sau đây **không** được dùng để xem xét phân loại một đô thị?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quy mô dân số và mật độ dân số của đô thị."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ lệ lao động làm việc trong các ngành phi nông nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Mức độ trang bị và chất lượng hạ tầng kỹ thuật, hạ tầng xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Số năm thành lập đô thị và số lượng làng nghề trên địa bàn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Tuổi đời của đơn vị hành chính và số làng nghề không thuộc bộ tiêu chí phân loại đô thị. A, B, C đều là các nhóm tiêu chí cơ bản: dân số và mật độ dân số, cơ cấu lao động phi nông nghiệp, trình độ phát triển kinh tế – xã hội và mức độ đáp ứng hạ tầng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "phân loại đô thị",
+        "tiêu chí"
+      ]
+    },
+    {
+      "id": "dia12-b09-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ thống đô thị Việt Nam được phân loại theo bậc. Xếp từ bậc cao nhất xuống bậc thấp nhất, các bậc là",
+      "options": [
+        {
+          "key": "A",
+          "text": "loại I, loại II, loại III, loại IV, sau đó mới đến loại đặc biệt."
+        },
+        {
+          "key": "B",
+          "text": "loại đặc biệt, loại I, loại II, loại III, loại IV và loại V."
+        },
+        {
+          "key": "C",
+          "text": "loại đặc biệt, loại I, loại II và loại III."
+        },
+        {
+          "key": "D",
+          "text": "hạng A, hạng B, hạng C và hạng D."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Pháp luật về phân loại đô thị quy định sáu bậc giảm dần: đô thị loại đặc biệt, loại I, II, III, IV và V. A xếp sai thứ tự (loại đặc biệt cao nhất, không thấp nhất); C thiếu hai bậc IV và V; D là cách gọi hạng không tồn tại trong hệ thống phân loại đô thị của nước ta.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "phân loại đô thị",
+        "bậc đô thị"
+      ]
+    },
+    {
+      "id": "dia12-b09-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét theo **phân cấp quản lí hành chính – lãnh thổ**, đô thị ở nước ta được chia thành hai nhóm chính là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đô thị trực thuộc trung ương và đô thị trực thuộc cấp tỉnh."
+        },
+        {
+          "key": "B",
+          "text": "đô thị loại đặc biệt và đô thị loại V."
+        },
+        {
+          "key": "C",
+          "text": "đô thị hạt nhân và đô thị vệ tinh."
+        },
+        {
+          "key": "D",
+          "text": "đô thị cũ và đô thị mới."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Theo phân cấp quản lí, đô thị nước ta gồm đô thị trực thuộc trung ương và đô thị trực thuộc cấp tỉnh (thành phố, thị xã). B là cách phân theo bậc phân loại; C phân theo vai trò trong hệ thống đô thị; D chỉ là cách gọi mang tính mô tả, không phải phân cấp hành chính.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "phân cấp đô thị",
+        "hệ thống đô thị"
+      ]
+    },
+    {
+      "id": "dia12-b09-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây **đúng** với tỉ lệ dân thành thị của nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đã vượt xa các nước phát triển và không thay đổi qua nhiều năm."
+        },
+        {
+          "key": "B",
+          "text": "Chiếm hơn ba phần tư dân số cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Liên tục giảm trong các thập kỉ gần đây."
+        },
+        {
+          "key": "D",
+          "text": "Còn ở mức thấp so với nhóm nước phát triển nhưng tăng dần theo thời gian."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Đặc điểm nổi bật của đô thị hoá nước ta là tốc độ trước đây chậm, nay chuyển biến tích cực: tỉ lệ dân thành thị tăng dần nhưng vẫn thấp hơn các nước phát triển. A và B phóng đại mức độ đô thị hoá; C trái với xu thế tăng liên tục của dân số thành thị.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "tỉ lệ dân thành thị",
+        "đặc điểm"
+      ]
+    },
+    {
+      "id": "dia12-b09-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Đô thị hoá tác động tới cơ cấu kinh tế nước ta chủ yếu theo hướng",
+      "options": [
+        {
+          "key": "A",
+          "text": "tăng tỉ trọng nông nghiệp, giảm tỉ trọng công nghiệp và dịch vụ."
+        },
+        {
+          "key": "B",
+          "text": "tăng tỉ trọng công nghiệp – xây dựng và dịch vụ, giảm tỉ trọng nông nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "chuyển toàn bộ lao động sang khu vực có vốn đầu tư nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "giữ nguyên tỉ trọng của ba khu vực kinh tế."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Đô thị tập trung công nghiệp và dịch vụ, nên quá trình đô thị hoá kéo theo chuyển dịch cơ cấu kinh tế và cơ cấu lao động theo hướng tăng công nghiệp – xây dựng và dịch vụ, giảm nông nghiệp. A và D ngược với thực tế; C sai vì không thể chuyển toàn bộ lao động sang khu vực có vốn nước ngoài.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "chuyển dịch cơ cấu kinh tế",
+        "đô thị hoá"
+      ]
+    },
+    {
+      "id": "dia12-b09-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Đô thị hoá nhanh khi thiếu quy hoạch hợp lí thường để lại hệ quả nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số lao động đã qua đào tạo của đô thị tăng lên."
+        },
+        {
+          "key": "B",
+          "text": "Hạ tầng kỹ thuật và hạ tầng xã hội được hiện đại hoá đồng bộ."
+        },
+        {
+          "key": "C",
+          "text": "Sức ép về nhà ở, việc làm, giao thông và ô nhiễm môi trường đô thị."
+        },
+        {
+          "key": "D",
+          "text": "Khoảng cách mức sống thành thị – nông thôn được xoá bỏ hoàn toàn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Đây là mặt trái của đô thị hoá thiếu kiểm soát: dân nhập cư tăng nhanh hơn khả năng đáp ứng hạ tầng nên nảy sinh nhà ở tạm, việc làm bấp bênh, ùn tắc và ô nhiễm. A và B là kết quả của đô thị hoá **có** quy hoạch tốt; D là phát biểu tuyệt đối hoá, không xảy ra.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "ảnh hưởng đô thị hoá",
+        "tiêu cực"
+      ]
+    },
+    {
+      "id": "dia12-b09-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở nước ta, quá trình đô thị hoá **chưa gắn chặt với công nghiệp hoá**, biểu hiện rõ nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "dân cư đô thị tăng nhanh hơn khả năng tạo việc làm chính thức và đầu tư hạ tầng, nên nhiều đô thị phát triển tự phát."
+        },
+        {
+          "key": "B",
+          "text": "các khu công nghiệp chỉ được phép đặt ở vùng nông thôn."
+        },
+        {
+          "key": "C",
+          "text": "công nghiệp hoá đã hoàn thành nên đô thị không còn cần mở rộng."
+        },
+        {
+          "key": "D",
+          "text": "các đô thị trong cả nước có quy mô dân số gần như bằng nhau."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đô thị hoá nước ta có phần đi trước khả năng của nền kinh tế: dân tăng cơ học lớn, việc làm phi chính thức nhiều, hạ tầng quá tải, tức là chưa được công nghiệp hoá tạo nền vững chắc. B sai về chủ trương; C sai vì công nghiệp hoá vẫn đang tiến hành; D trái với thực tế quy mô đô thị rất chênh lệch.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị hoá",
+        "công nghiệp hoá"
+      ]
+    },
+    {
+      "id": "dia12-b09-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Phân bố tỉ lệ dân thành thị theo vùng kinh tế – xã hội của nước ta có đặc điểm nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các vùng đều có tỉ lệ dân thành thị xấp xỉ nhau."
+        },
+        {
+          "key": "B",
+          "text": "Vùng có tỉ lệ dân thành thị thấp nhất là Đông Nam Bộ."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ lệ dân thành thị cao nhất ở các vùng có địa hình núi cao, chia cắt mạnh."
+        },
+        {
+          "key": "D",
+          "text": "Tỉ lệ dân thành thị cao ở Đồng bằng sông Hồng và Đông Nam Bộ, thấp nhất ở Trung du và miền núi phía Bắc."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Một đặc điểm quan trọng của đô thị hoá nước ta là trình độ đô thị hoá **không đồng đều giữa các vùng**: hai đồng bằng tập trung nhiều đô thị lớn và khu công nghiệp thì cao, vùng núi phía Bắc thì thấp nhất. A phủ nhận chênh lệch; B và C đảo ngược thực tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "tỉ lệ dân thành thị",
+        "phân theo vùng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho biết (số liệu nêu trong câu) một quốc gia có tổng số dân 104,8 triệu người, trong đó dân số thành thị là 41,1 triệu người. Tỉ lệ dân thành thị của quốc gia này xấp xỉ",
+      "options": [
+        {
+          "key": "A",
+          "text": "30%."
+        },
+        {
+          "key": "B",
+          "text": "39%."
+        },
+        {
+          "key": "C",
+          "text": "48%."
+        },
+        {
+          "key": "D",
+          "text": "62%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Tỉ lệ dân thành thị = dân số thành thị / tổng số dân × 100 = 41,1 / 104,8 × 100 ≈ 39,2%, làm tròn thành 39%. Các phương án 30%, 48%, 62% đều lệch xa kết quả phép chia trên, thường là kết quả của việc nhầm lấy dân số nông thôn (63,7 triệu) chia cho tổng số dân.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "tính tỉ lệ dân thành thị",
+        "kĩ năng số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b09-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo số liệu nêu trong câu, tỉ lệ dân thành thị của một quốc gia năm 2000 là 24,1% và năm 2023 là 38,1%. Trung bình mỗi năm trong giai đoạn 2000 – 2023, tỉ lệ này tăng khoảng",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,2 điểm phần trăm."
+        },
+        {
+          "key": "B",
+          "text": "1,4 điểm phần trăm."
+        },
+        {
+          "key": "C",
+          "text": "0,6 điểm phần trăm."
+        },
+        {
+          "key": "D",
+          "text": "6,1 điểm phần trăm."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Mức tăng cả giai đoạn là 38,1 − 24,1 = 14,0 điểm phần trăm; số năm là 2023 − 2000 = 23 năm, nên trung bình mỗi năm tăng 14,0 / 23 ≈ 0,61, tức khoảng 0,6 điểm phần trăm. B (1,4) là nhầm chia cho 10 năm, D (6,1) là nhầm đơn vị, A (0,2) quá nhỏ so với phép tính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "tốc độ đô thị hoá",
+        "kĩ năng tính"
+      ]
+    },
+    {
+      "id": "dia12-b09-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây **đúng** với hệ thống đô thị nước ta hiện nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phần lớn đô thị có quy mô rất lớn và chỉ tập trung ở hai vùng kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ đô thị đều đã đạt tiêu chí từ loại I trở lên."
+        },
+        {
+          "key": "C",
+          "text": "Số lượng đô thị giảm liên tục qua các năm."
+        },
+        {
+          "key": "D",
+          "text": "Phần lớn đô thị có quy mô nhỏ và vừa, chất lượng hạ tầng không đồng đều giữa các đô thị."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Hệ thống đô thị nước ta đông về số lượng nhưng chủ yếu là đô thị nhỏ và vừa (thị xã, thị trấn và thành phố thuộc tỉnh), mức độ đáp ứng hạ tầng chênh lệch nhiều. A và B phóng đại quy mô, trình độ; C trái với xu hướng tăng số lượng và mở rộng đô thị.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "hệ thống đô thị",
+        "đặc điểm"
+      ]
+    },
+    {
+      "id": "dia12-b09-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây **đúng** về đô thị loại đặc biệt ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hà Nội và Thành phố Hồ Chí Minh hiện là hai đô thị loại đặc biệt, giữ vai trò cực tăng trưởng của cả nước."
+        },
+        {
+          "key": "B",
+          "text": "Cả nước hiện có hơn mười đô thị loại đặc biệt."
+        },
+        {
+          "key": "C",
+          "text": "Đô thị loại đặc biệt là đô thị mới công nhận, chưa có hạ tầng đồng bộ."
+        },
+        {
+          "key": "D",
+          "text": "Đô thị loại đặc biệt và đô thị loại V là hai cách gọi của cùng một bậc."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đô thị loại đặc biệt là bậc cao nhất trong phân loại; hiện nay nước ta có hai đô thị ở bậc này là Hà Nội và Thành phố Hồ Chí Minh – đồng thời là hai đầu tàu kinh tế. B sai vì số đô thị loại đặc biệt rất ít, không thể \"hơn mười\"; C và D hiểu sai bản chất phân loại (loại đặc biệt cao nhất, loại V thấp nhất).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị loại đặc biệt",
+        "phân loại đô thị"
+      ]
+    },
+    {
+      "id": "dia12-b09-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngoài việc tăng tỉ lệ dân thành thị, đô thị hoá còn được biểu hiện ở",
+      "options": [
+        {
+          "key": "A",
+          "text": "số hộ làm nông nghiệp tăng tương ứng với diện tích đất nông nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "lối sống đô thị, các tiện ích và phương thức sản xuất – tiêu dùng đô thị lan toả tới cư dân nông thôn."
+        },
+        {
+          "key": "C",
+          "text": "việc thu hẹp toàn bộ diện tích các thành phố đang có."
+        },
+        {
+          "key": "D",
+          "text": "sự biến mất của các đô thị loại IV và loại V."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Đô thị hoá không chỉ là sự tăng lên về dân số đô thị mà còn là quá trình phổ biến rộng rãi đặc trưng lối sống, dịch vụ và cách tổ chức sản xuất của đô thị, kể cả ở nông thôn. A mô tả ngược; C và D trái thực tế vì không gian đô thị mở rộng và các đô thị nhỏ vẫn tồn tại, phát triển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "lối sống đô thị",
+        "biểu hiện"
+      ]
+    },
+    {
+      "id": "dia12-b09-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Vấn đề môi trường nào sau đây thường **nổi cộm nhất** ở các đô thị lớn của nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hoang mạc hoá ở vùng ngoại ô các thành phố."
+        },
+        {
+          "key": "B",
+          "text": "Ngập mặn trên diện rộng các vùng chuyên canh lúa."
+        },
+        {
+          "key": "C",
+          "text": "Ô nhiễm không khí, ô nhiễm nguồn nước và áp lực thu gom, xử lí rác thải sinh hoạt."
+        },
+        {
+          "key": "D",
+          "text": "Thiếu nước sinh hoạt trên các cao nguyên đá."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Mật độ dân số, phương tiện giao thông, cơ sở sản xuất và lượng rác, nước thải lớn làm không khí, nguồn nước và quản lí chất thải trở thành ba vấn đề môi trường đô thị điển hình. A và D là vấn đề của vùng khô hạn, cao nguyên; B là vấn đề nông nghiệp ven biển, không đặc trưng cho đô thị.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "môi trường đô thị",
+        "ô nhiễm"
+      ]
+    },
+    {
+      "id": "dia12-b09-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Ùn tắc giao thông ở các đô thị lớn nước ta gia tăng chủ yếu do",
+      "options": [
+        {
+          "key": "A",
+          "text": "vận tải hành khách công cộng đã thay thế hoàn toàn phương tiện cá nhân."
+        },
+        {
+          "key": "B",
+          "text": "diện tích đường giao thông tính đầu người tăng quá nhanh so với nhu cầu."
+        },
+        {
+          "key": "C",
+          "text": "giá vé vận tải công cộng quá rẻ nên người dân chuyển hết sang đi ô tô."
+        },
+        {
+          "key": "D",
+          "text": "tốc độ tăng phương tiện cá nhân và mật độ dân cư cao, trong khi hạ tầng giao thông phát triển chậm hơn nhu cầu."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Ùn tắc là kết quả của mất cân đối giữa nhu cầu đi lại (dân cư đông, phương tiện cá nhân tăng nhanh) và nguồn cung hạ tầng (vốn, quỹ đất, tiến độ xây dựng, vận tải công cộng chưa đủ mạnh). A và C trái thực tế các đô thị Việt Nam; B sai vì hạ tầng đường theo đầu người còn thấp.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "hạ tầng đô thị",
+        "ùn tắc giao thông"
+      ]
+    },
+    {
+      "id": "dia12-b09-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Mở rộng không gian đô thị thiếu kiểm soát ở các vùng đồng bằng thường kéo theo hệ quả nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm thu hẹp đất nông nghiệp màu mỡ, tăng chi phí đầu tư hạ tầng và gia tăng di cư vào đô thị."
+        },
+        {
+          "key": "B",
+          "text": "Làm tăng sản lượng lương thực của toàn vùng."
+        },
+        {
+          "key": "C",
+          "text": "Làm giảm nhu cầu dùng nước và phát sinh ít rác thải hơn."
+        },
+        {
+          "key": "D",
+          "text": "Làm chậm lại quá trình chuyển dịch cơ cấu lao động của vùng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đất ven đô chuyển sang đất xây dựng làm mất quỹ đất nông nghiệp tốt, đồng thời đô thị dàn trải buộc đầu tư đường, nước, trường học, bệnh viện trên phạm vi rộng hơn, kéo theo dân nhập cư. B và C ngược hẳn hệ quả thực tế; D sai vì đô thị hoá thường **thúc đẩy** chuyển dịch lao động, dù có thể tự phát.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "mở rộng đô thị",
+        "đất nông nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b09-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát triển đô thị bền vững được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mở rộng tối đa diện tích đô thị để thu hút thật nhiều dân cư nông thôn."
+        },
+        {
+          "key": "B",
+          "text": "đô thị phát triển cân bằng giữa kinh tế, xã hội và môi trường, đáp ứng nhu cầu hiện tại mà không làm giảm khả năng đáp ứng nhu cầu của thế hệ tương lai."
+        },
+        {
+          "key": "C",
+          "text": "tập trung toàn bộ nhà máy vào nội thành để giảm chi phí vận chuyển."
+        },
+        {
+          "key": "D",
+          "text": "ngừng mọi hoạt động xây dựng để giữ nguyên hiện trạng đô thị."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Bản chất của phát triển bền vững là kết hợp ba trụ cột kinh tế – xã hội – môi trường và giữ cho tài nguyên, chất lượng sống không bị bào mòn cho các thế hệ sau. A và C chỉ chạy theo tăng trưởng, phá vỡ môi trường và hạ tầng; D là cách hiểu cực đoan, dừng phát triển không phải bền vững.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị bền vững",
+        "khái niệm"
+      ]
+    },
+    {
+      "id": "dia12-b09-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Để đô thị hoá gắn chặt hơn với công nghiệp hoá, định hướng nào sau đây là **phù hợp nhất**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Công nhận thêm càng nhiều đô thị càng tốt để tăng nhanh tỉ lệ dân thành thị."
+        },
+        {
+          "key": "B",
+          "text": "Giữ nguyên hệ thống đô thị hiện có để tránh tốn kém đầu tư."
+        },
+        {
+          "key": "C",
+          "text": "Phát triển đô thị trên cơ sở quy hoạch và năng lực kinh tế, đồng bộ hạ tầng kỹ thuật – xã hội, chú trọng nâng cao chất lượng đô thị."
+        },
+        {
+          "key": "D",
+          "text": "Đưa phần lớn dân cư đô thị trở về nông thôn sinh sống."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Gắn đô thị hoá với công nghiệp hoá đòi hỏi phát triển đô thị theo quy hoạch, có nền tảng kinh tế – việc làm và hạ tầng đủ năng lực, chuyển từ tăng số lượng sang nâng chất lượng. A tạo đô thị hoá tự phát; B là cách giữ nguyên không phát triển; D không khả thi và trái xu thế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "định hướng",
+        "quy hoạch đô thị"
+      ]
+    },
+    {
+      "id": "dia12-b09-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Các đô thị lớn, đô thị hạt nhân có vai trò quan trọng với phát triển của vùng vì chúng",
+      "options": [
+        {
+          "key": "A",
+          "text": "làm giảm nhu cầu trao đổi hàng hoá, dịch vụ giữa đô thị và nông thôn."
+        },
+        {
+          "key": "B",
+          "text": "tập trung toàn bộ lao động nông nghiệp của vùng về nội thành."
+        },
+        {
+          "key": "C",
+          "text": "phát triển độc lập, không phụ thuộc vào mạng lưới đô thị nhỏ xung quanh."
+        },
+        {
+          "key": "D",
+          "text": "tập trung vốn, công nghệ, lao động chất lượng cao và dịch vụ cấp vùng, tạo sức lan toả tới các đô thị vệ tinh và nông thôn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Giá trị của đô thị hạt nhân nằm ở chức năng động lực: tích tụ các yếu tố sản xuất hiện đại và phổ biến chúng ra không gian xung quanh thông qua liên kết vùng, chuỗi đô thị, chuyển giao. A sai vì đô thị làm tăng trao đổi; B phi thực tế; C trái với nguyên lí hệ thống đô thị là một mạng lưới có quan hệ phụ thuộc lẫn nhau.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị hạt nhân",
+        "liên kết vùng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Về mặt xã hội, mặt tích cực nổi bật của đô thị hoá ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nâng cao mức sống và khả năng tiếp cận dịch vụ y tế, giáo dục, văn hoá; tạo thêm việc làm trong công nghiệp và dịch vụ."
+        },
+        {
+          "key": "B",
+          "text": "xoá bỏ hoàn toàn khoảng cách giàu nghèo giữa các tầng lớp dân cư."
+        },
+        {
+          "key": "C",
+          "text": "làm giảm nhu cầu sử dụng các dịch vụ công cộng."
+        },
+        {
+          "key": "D",
+          "text": "khiến lao động nông thôn không cần đào tạo vẫn có việc làm ổn định."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đô thị là nơi dịch vụ xã hội tập trung với mật độ cao nhất và kinh tế phi nông nghiệp tạo nhiều việc làm, nên đô thị hoá góp phần nâng mức sống, trình độ và tuổi thọ dân cư. B là phát biểu tuyệt đối hoá, thực tế khoảng cách giàu nghèo có thể gia tăng; C và D trái ngược vì đô thị làm tăng nhu cầu dịch vụ công và đòi hỏi lao động có kỹ năng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "ảnh hưởng xã hội",
+        "tích cực"
+      ]
+    },
+    {
+      "id": "dia12-b09-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho biết (số liệu nêu trong câu) tỉ lệ dân thành thị của vùng Đông Nam Bộ là 65% và của vùng Trung du và miền núi phía Bắc là 23%. Phát biểu nào sau đây **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai vùng có mức độ đô thị hoá tương đương nhau."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ lệ dân thành thị của Trung du và miền núi phía Bắc gấp khoảng 2,8 lần Đông Nam Bộ."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ lệ dân thành thị của Đông Nam Bộ gấp khoảng 2,8 lần Trung du và miền núi phía Bắc, cho thấy chênh lệch trình độ đô thị hoá giữa các vùng còn lớn."
+        },
+        {
+          "key": "D",
+          "text": "Chênh lệch giữa hai vùng chỉ khoảng 4 điểm phần trăm."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** 65 / 23 ≈ 2,83, tức Đông Nam Bộ có tỉ lệ dân thành thị gấp khoảng 2,8 lần vùng Trung du và miền núi phía Bắc; độ chênh tuyệt đối là 65 − 23 = 42 điểm phần trăm, không phải 4 (nên D sai). A phủ nhận chênh lệch; B đảo ngược tử số và mẫu số của tỉ số.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đọc số liệu",
+        "chênh lệch vùng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao nói đô thị hoá ở nước ta **chưa gắn chặt với công nghiệp hoá**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì công nghiệp hoá đã hoàn thành từ lâu, đô thị không cần mở rộng thêm."
+        },
+        {
+          "key": "B",
+          "text": "Vì nhiều đô thị tăng dân số chủ yếu do dân cơ học, trong khi nền kinh tế đô thị, việc làm chính thức và hạ tầng chưa phát triển tương ứng."
+        },
+        {
+          "key": "C",
+          "text": "Vì nhà nước không cho phép thành lập thêm đô thị mới."
+        },
+        {
+          "key": "D",
+          "text": "Vì tỉ lệ dân thành thị của nước ta đã thuộc nhóm cao nhất thế giới."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Ở các nước phát triển, đô thị hoá đi liền với công nghiệp hoá: công nghiệp tạo ra nhiều việc làm, kéo dân cư vào đô thị. Ở nước ta, dân số đô thị tăng nhanh một phần lớn do di cư tự phát và do nâng cấp đơn vị hành chính, còn khả năng bố trí, thu hút lao động của kinh tế đô thị hạn chế. A và D sai sự thật; C sai vì Nhà nước chủ động quy hoạch, công nhận đô thị.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị hoá",
+        "công nghiệp hoá"
+      ]
+    },
+    {
+      "id": "dia12-b09-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây **sai** khi nhận xét về đặc điểm đô thị hoá ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ lệ dân thành thị có xu hướng tăng lên qua các năm."
+        },
+        {
+          "key": "B",
+          "text": "Số lượng đô thị và không gian đô thị được mở rộng."
+        },
+        {
+          "key": "C",
+          "text": "Trình độ đô thị hoá khác nhau rõ rệt giữa các vùng kinh tế – xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Đô thị hoá diễn ra đồng đều giữa các vùng và luôn đi trước, bảo đảm chắc chắn cho công nghiệp hoá."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Phát biểu này sai ở cả hai vế: đô thị hoá nước ta **không** đồng đều giữa các vùng và **chưa** gắn chặt, chưa bảo đảm nền tảng chắc chắn cho công nghiệp hoá. A, B, C là ba đặc điểm đúng thường dùng để nhận xét quá trình đô thị hoá ở Việt Nam.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đặc điểm đô thị hoá",
+        "phát biểu sai"
+      ]
+    },
+    {
+      "id": "dia12-b09-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi một đô thị được nâng lên bậc phân loại cao hơn, yêu cầu quan trọng nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nâng chất lượng các tiêu chí về kinh tế – xã hội, hạ tầng và môi trường, chứ không chỉ tăng quy mô dân số hay mở rộng địa giới hành chính."
+        },
+        {
+          "key": "B",
+          "text": "tăng thật nhiều đơn vị hành chính cấp xã trực thuộc cho đủ số lượng."
+        },
+        {
+          "key": "C",
+          "text": "giảm tỉ lệ dân nông nghiệp bằng cách chuyển đổi hình thức hộ khẩu."
+        },
+        {
+          "key": "D",
+          "text": "mở rộng diện tích đất tự nhiên của đô thị ra vùng phụ cận."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nâng loại đô thị phải phản ánh trình độ phát triển thực chất: việc làm phi nông nghiệp, hạ tầng kỹ thuật – xã hội, môi trường và hiệu quả quản lí. B, C, D chỉ tác động vào phần vỏ (địa giới, số lượng đơn vị, hộ khẩu) nên dễ tạo đô thị hoá không thực chất, trái với định hướng nâng cao chất lượng đô thị.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "nâng loại đô thị",
+        "tiêu chí"
+      ]
+    },
+    {
+      "id": "dia12-b09-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo số liệu nêu trong câu, tỉ lệ dân thành thị của một quốc gia qua các năm như sau: năm 2010 là 30,3%; năm 2015 là 33,6%; năm 2020 là 37,3%. Nhận xét nào sau đây **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giai đoạn 2010 – 2015 có mức tăng lớn nhất."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ lệ dân thành thị tăng với cùng một lượng ở mỗi giai đoạn."
+        },
+        {
+          "key": "C",
+          "text": "Giai đoạn 2015 – 2020 tăng nhanh hơn giai đoạn 2010 – 2015."
+        },
+        {
+          "key": "D",
+          "text": "Trong cả giai đoạn 2010 – 2020, tỉ lệ dân thành thị giảm xuống."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Mức tăng 2010 – 2015 là 33,6 − 30,3 = 3,3 điểm phần trăm, còn 2015 – 2020 là 37,3 − 33,6 = 3,7 điểm phần trăm, nên giai đoạn sau nhanh hơn (cả giai đoạn tăng 7,0 điểm phần trăm). Vì vậy A và B sai, D trái hẳn hướng tăng của số liệu.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đọc bảng số liệu",
+        "tốc độ tăng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Đô thị thông minh ở nước ta được hiểu **đúng nhất** là đô thị",
+      "options": [
+        {
+          "key": "A",
+          "text": "có nhiều nhà cao tầng và đường phố chiếu sáng bằng đèn tiết kiệm điện."
+        },
+        {
+          "key": "B",
+          "text": "ứng dụng công nghệ số, dữ liệu và kết nối để nâng hiệu quả quản lí, chất lượng sống và sử dụng hợp lí tài nguyên."
+        },
+        {
+          "key": "C",
+          "text": "cấm hoàn toàn phương tiện giao thông cá nhân trong mọi khu vực."
+        },
+        {
+          "key": "D",
+          "text": "không còn bất kỳ hoạt động nông nghiệp nào ở vùng ngoại ô."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Bản chất của đô thị thông minh là thể chế quản lí và dịch vụ vận hành trên nền dữ liệu số, hướng tới hiệu quả, tiện ích và tiết kiệm tài nguyên; công nghệ là phương tiện chứ không phải mục tự thân. A chỉ là diện mạo kỹ thuật; C và D là các quy định cực đoan, không thuộc khái niệm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị thông minh",
+        "định hướng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bối cảnh biến đổi khí hậu, định hướng nào sau đây **phù hợp nhất** với các đô thị ven biển ở đồng bằng nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xây dựng dày đặc nhà cao tầng sát mép nước để tận dụng quỹ đất."
+        },
+        {
+          "key": "B",
+          "text": "Tăng khai thác nước ngầm để chủ động nguồn nước khi hạn hán xảy ra."
+        },
+        {
+          "key": "C",
+          "text": "Mở rộng đô thị vào vùng ngập lũ để giảm áp lực dân số nội thành."
+        },
+        {
+          "key": "D",
+          "text": "Quy hoạch không gian và hệ thống tiêu thoát nước theo hướng thích ứng với ngập, triều cường, xâm nhập mặn; phát triển đô thị xanh, dùng tiết kiệm tài nguyên."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Đô thị ven biển đồng bằng chịu ngập, triều cường, sạt lở và xâm nhập mặn, nên thích ứng phải bắt đầu từ quy hoạch không gian, thoát nước, cây xanh và sử dụng tài nguyên hợp lí. A và C đưa đô thị vào đúng vùng rủi ro; B làm suy giảm nước ngầm, gia tăng lún và xâm nhập mặn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị bền vững",
+        "biến đổi khí hậu"
+      ]
+    },
+    {
+      "id": "dia12-b09-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân chủ yếu làm tăng nhanh dân số thành thị ở nước ta trong những thập kỉ gần đây là",
+      "options": [
+        {
+          "key": "A",
+          "text": "dân số tăng thêm do tự nhiên kết hợp dòng di cư từ nông thôn ra đô thị tìm việc làm, cùng với việc mở rộng và nâng cấp nhiều đô thị."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ dân cư nông thôn được chuyển thành dân cư thành thị bằng quyết định hành chính."
+        },
+        {
+          "key": "C",
+          "text": "số người rời khỏi nước ta để định cư ở nước ngoài tăng mạnh."
+        },
+        {
+          "key": "D",
+          "text": "tỉ lệ sinh ở khu vực thành thị cao hơn hẳn khu vực nông thôn."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Dân số thành thị tăng do ba nguồn: tăng tự nhiên, di cư nông thôn – thành thị và quá trình công nhận, nâng cấp, mở rộng địa giới đô thị (dân nông thôn trở thành dân thành thị). B cực đoan và không đúng thực tế; C không liên quan tới cơ học nội địa; D sai vì mức sinh ở đô thị thường thấp hơn nông thôn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "dân số thành thị",
+        "di cư"
+      ]
+    },
+    {
+      "id": "dia12-b09-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Khu vực đô thị đóng góp phần lớn giá trị sản xuất công nghiệp và dịch vụ của cả nước. Điều này phản ánh",
+      "options": [
+        {
+          "key": "A",
+          "text": "nông nghiệp không còn vai trò đối với nền kinh tế."
+        },
+        {
+          "key": "B",
+          "text": "các đô thị chỉ phát triển nhờ hoạt động thương mại nhỏ lẻ."
+        },
+        {
+          "key": "C",
+          "text": "đô thị là thị trường tiêu thụ lớn, nơi tập trung vốn, lao động có kỹ năng và kết cấu hạ tầng, tạo động lực tăng trưởng."
+        },
+        {
+          "key": "D",
+          "text": "công nghiệp và dịch vụ bắt buộc phải bố trí ở nông thôn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** đô thị hội tụ ba yếu tố then chốt của tăng trưởng (vốn – lao động chất lượng cao – hạ tầng) và là nơi tiêu thụ lớn, nên trở thành đầu tàu kinh tế, tác động lan toả tới nông thôn. A sai vì nông nghiệp vẫn bảo đảm an ninh lương thực và cung cấp nguyên liệu; B xem nhẹ công nghiệp, dịch vụ trình độ cao; D trái thực tế phân bố.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "kinh tế đô thị",
+        "động lực tăng trưởng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Các đô thị loại IV và loại V ở nước ta hiện nay chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "các thành phố trực thuộc trung ương."
+        },
+        {
+          "key": "B",
+          "text": "các đô thị loại đặc biệt của cả nước."
+        },
+        {
+          "key": "C",
+          "text": "các khu công nghiệp tập trung có chuyên gia nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "các thị xã, thị trấn – nhóm đô thị nhỏ, giữ vai trò liên kết nông thôn với hệ thống đô thị lớn."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Phần lớn đô thị nước ta thuộc bậc thấp (loại IV, V), về hình thái là thị xã và thị trấn; chúng là mắt xích chuyển giao hàng hoá, dịch vụ giữa nông thôn và đô thị lớn. A và B thuộc các bậc cao (loại I đến loại đặc biệt); C sai vì khu công nghiệp không phải một đơn vị đô thị được phân loại.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị loại IV",
+        "thị xã thị trấn"
+      ]
+    },
+    {
+      "id": "dia12-b09-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo số liệu nêu trong câu, dân số thành thị của một quốc gia là 38,9 triệu người năm 2021 và dự kiến đạt 48,0 triệu người năm 2030. So với năm 2021, dân số thành thị năm 2030 tăng khoảng",
+      "options": [
+        {
+          "key": "A",
+          "text": "8%."
+        },
+        {
+          "key": "B",
+          "text": "23%."
+        },
+        {
+          "key": "C",
+          "text": "45%."
+        },
+        {
+          "key": "D",
+          "text": "71%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Mức tăng tuyệt đối là 48,0 − 38,9 = 9,1 triệu người; tỉ lệ tăng so với gốc 2021 là 9,1 / 38,9 × 100 ≈ 23,4%, tức khoảng 23%. A, C, D là các kết quả sai thường gặp khi lấy 9,1 chia nhầm cho 48,0 hoặc nhân nhầm với số năm của giai đoạn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "tính tốc độ tăng",
+        "kĩ năng số liệu"
+      ]
+    },
+    {
+      "id": "dia12-b09-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Chuyển trọng tâm từ tăng **số lượng** đô thị sang nâng cao **chất lượng** đô thị có ý nghĩa chủ yếu nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng năng suất và sức cạnh tranh của đô thị, cải thiện môi trường sống, hạn chế các vấn đề xã hội phát sinh."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ làm thay đổi diện mạo cảnh quan của các tuyến đường nội thị."
+        },
+        {
+          "key": "C",
+          "text": "Làm giảm vai trò của quy hoạch và quản lí nhà nước đối với đô thị."
+        },
+        {
+          "key": "D",
+          "text": "Đưa dân cư đô thị trở về nông thôn sinh sống và sản xuất."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Chất lượng đô thị quyết định hiệu quả tích tụ kinh tế, mức độ đáp ứng hạ tầng và an sinh xã hội; vì vậy nâng chất lượng vừa tăng năng lực cạnh tranh vừa giảm các hệ luỵ của đô thị hoá tự phát. B thu hẹp ý nghĩa sang phần trang trí; C ngược lại, đô thị chất lượng đòi hỏi quản lí tốt hơn; D không phải mục tiêu của đô thị hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "chất lượng đô thị",
+        "định hướng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát triển các đô thị vệ tinh và chuỗi đô thị quanh đô thị hạt nhân nhằm",
+      "options": [
+        {
+          "key": "A",
+          "text": "bỏ trống các đô thị trung tâm để giảm mật độ xây dựng."
+        },
+        {
+          "key": "B",
+          "text": "tăng thêm dân cư nội thị cho riêng các đô thị loại đặc biệt."
+        },
+        {
+          "key": "C",
+          "text": "giảm áp lực cho đô thị hạt nhân, phân bố lại dân cư và hoạt động kinh tế, tạo phát triển cân bằng hơn trong vùng."
+        },
+        {
+          "key": "D",
+          "text": "thu hẹp quy mô của toàn bộ hệ thống đô thị quốc gia."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Đô thị vệ tinh tiếp nhận một phần dân cư, công nghiệp, dịch vụ và đào tạo từ đô thị trung tâm, nhờ đó giảm ùn tắc, ô nhiễm và hình thành cấu trúc đô thị cân bằng, liên kết chặt trong vùng. A sai vì đô thị trung tâm vẫn hoạt động mạnh; B trái mục tiêu giảm áp lực nội thị; D không phải mục đích của liên kết đô thị.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị vệ tinh",
+        "chuỗi đô thị"
+      ]
+    },
+    {
+      "id": "dia12-b09-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** với đặc điểm đô thị hoá ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ lệ dân thành thị có xu hướng tăng dần qua các năm nhưng vẫn thấp hơn nhóm nước phát triển."
+        },
+        {
+          "key": "B",
+          "text": "Đô thị hoá diễn ra đồng đều giữa các vùng kinh tế – xã hội trong cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Quá trình đô thị hoá chưa gắn chặt với công nghiệp hoá, hạ tầng nhiều đô thị chưa theo kịp tốc độ tăng dân số."
+        },
+        {
+          "key": "D",
+          "text": "Số lượng đô thị không thay đổi và dân số thành thị chỉ tăng do di cư."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, C.** Hai phát biểu này diễn tả đúng hai đặc điểm cơ bản: đô thị hoá chuyển biến tích cực nhưng trình độ còn thấp, và chưa gắn chặt với công nghiệp hoá nên hạ tầng thường quá tải. B sai vì trình độ đô thị hoá chênh lệch rõ giữa các vùng; D sai vì số lượng, quy mô đô thị đều tăng và dân thành thị còn tăng do tự nhiên cùng với việc công nhận, nâng cấp đô thị.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đặc điểm đô thị hoá",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về mặt **tiêu cực** của đô thị hoá ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm giảm tỉ trọng khu vực dịch vụ trong cơ cấu kinh tế của đô thị."
+        },
+        {
+          "key": "B",
+          "text": "Tạo sức ép lớn lên nhà ở, việc làm, y tế, giáo dục và hạ tầng giao thông ở các đô thị tập trung đông dân."
+        },
+        {
+          "key": "C",
+          "text": "Góp phần làm giảm ô nhiễm không khí và ô nhiễm nguồn nước ở nội thành."
+        },
+        {
+          "key": "D",
+          "text": "Có thể làm gia tăng tệ nạn xã hội, chênh lệch giàu nghèo và các vấn đề an ninh trật tự."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, D.** Đây là hai hệ luỵ xã hội – hạ tầng điển hình khi dân số đô thị tăng nhanh hơn khả năng đáp ứng. A sai vì đô thị hoá làm **tăng** tỉ trọng dịch vụ; C sai vì ô nhiễm không khí, nước và rác thải thường **trầm trọng thêm**, không giảm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "ảnh hưởng tiêu cực",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về căn cứ phân loại đô thị ở Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quy mô dân số và mật độ dân số là những tiêu chí được dùng để xem xét phân loại đô thị."
+        },
+        {
+          "key": "B",
+          "text": "Tiêu chí duy nhất là số lượng đơn vị hành chính cấp xã trực thuộc đô thị."
+        },
+        {
+          "key": "C",
+          "text": "Đô thị được phân loại chỉ căn cứ vào số năm giữ tên gọi thành phố."
+        },
+        {
+          "key": "D",
+          "text": "Tỉ lệ lao động phi nông nghiệp và mức độ đáp ứng hạ tầng kỹ thuật – hạ tầng xã hội là các tiêu chí quan trọng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, D.** Phân loại đô thị dựa trên nhiều nhóm tiêu chí: dân số và mật độ dân số, cơ cấu lao động phi nông nghiệp, trình độ phát triển kinh tế – xã hội và mức độ đáp ứng hạ tầng, cảnh quan – môi trường. B và C đều cực đoan: không có một tiêu chí duy nhất về số đơn vị hành chính trực thuộc, cũng không có tiêu chí nào dựa vào số năm giữ tên gọi thành phố.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "phân loại đô thị",
+        "tiêu chí"
+      ]
+    },
+    {
+      "id": "dia12-b09-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những định hướng nào sau đây **phù hợp** với phát triển đô thị bền vững ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở rộng đô thị bằng cách chuyển toàn bộ đất nông nghiệp ven đô thành đất ở."
+        },
+        {
+          "key": "B",
+          "text": "Phát triển hệ thống đô thị theo quy hoạch, đồng bộ hạ tầng kỹ thuật – xã hội và nâng cao chất lượng đô thị."
+        },
+        {
+          "key": "C",
+          "text": "Gắn tăng trưởng kinh tế đô thị với bảo vệ môi trường, sử dụng tiết kiệm tài nguyên và thích ứng với biến đổi khí hậu."
+        },
+        {
+          "key": "D",
+          "text": "Ngăn cản dân cư nông thôn vào đô thị và cấm hoàn toàn phương tiện giao thông cá nhân."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C"
+      ],
+      "explanation": "**Đáp án: B, C.** Hai định hướng này kết hợp đủ ba trụ cột của phát triển bền vững: kinh tế (chất lượng, hạ tầng, năng lực cạnh tranh), xã hội và môi trường (tiết kiệm tài nguyên, thích ứng biến đổi khí hậu). A làm mất đất nông nghiệp và tăng chi phí hạ tầng; D là các biện pháp cực đoan, trái với quyền tự do cư trú và xu thế phát triển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "đô thị bền vững",
+        "định hướng"
+      ]
+    },
+    {
+      "id": "dia12-b09-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b09-do-thi-hoa",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về tác động **tích cực** của đô thị hoá tới phát triển kinh tế – xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm chậm lại quá trình chuyển dịch cơ cấu kinh tế và cơ cấu lao động."
+        },
+        {
+          "key": "B",
+          "text": "Khiến nông nghiệp mất vai trò cung cấp lương thực, thực phẩm cho thị trường."
+        },
+        {
+          "key": "C",
+          "text": "Tạo thị trường tiêu thụ lớn, thu hút đầu tư và lao động có trình độ, thúc đẩy tăng trưởng kinh tế."
+        },
+        {
+          "key": "D",
+          "text": "Lan toả lối sống, phương thức sản xuất và dịch vụ đô thị tới nông thôn, góp phần nâng cao mức sống dân cư."
+        }
+      ],
+      "correctAnswer": [
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: C, D.** Đô thị hoá vừa tập trung các yếu tố tăng trưởng (thị trường, vốn, lao động chất lượng cao) vừa lan toả lối sống và cách tổ chức sản xuất – dịch vụ ra nông thôn. A sai vì đô thị hoá **thúc đẩy** chuyển dịch cơ cấu; B sai vì nông nghiệp vẫn giữ vai trò cung ứng lương thực, thực phẩm và nguyên liệu, chỉ giảm dần tỉ trọng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 9",
+        "ảnh hưởng tích cực",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

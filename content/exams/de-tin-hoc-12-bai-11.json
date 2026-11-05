@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-11",
+  "title": "Đề ôn tập Tin học 12 – Bài 11: Chèn tệp tin đa phương tiện và khung nội tuyến",
+  "slug": "de-tin-hoc-12-bai-11",
+  "description": "Đề ôn tập Bài 11 sách Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức): chèn ảnh bằng thẻ `<img>` với các thuộc tính `src`, `alt`, `width`, `height`; chèn video và âm thanh bằng `<video>`, `<audio>`, `<source>`; khung nội tuyến `<iframe>` và các định dạng tệp tin đa phương tiện. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, làm trong 45 phút, mọi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B11",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "updatedAt": "2026-11-05T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b11-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, thẻ `<img>` trong HTML là loại thẻ nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Thẻ kép, bắt buộc phải có thẻ kết thúc để đóng khung hình ảnh." },
+        { "key": "B", "text": "Thẻ đơn nhưng chỉ dùng để đặt ảnh nền cho toàn bộ trang web." },
+        { "key": "C", "text": "Thẻ đơn, không cần thẻ kết thúc; khi gặp thẻ, trình duyệt hiểu là cần đặt một hình ảnh vào vị trí đó." },
+        { "key": "D", "text": "Thẻ kép, ảnh chỉ chèn được khi đặt thẻ trong một bảng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu `<img>` là thẻ đơn dùng để thêm ảnh vào trang web, khi gặp thẻ trình duyệt hiểu là cần đặt một hình ảnh vào đây. Vì là thẻ đơn nên không có thẻ kết thúc và hình ảnh có thể được chen ngay trong dòng văn bản.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["thẻ img", "chèn ảnh", "thẻ đơn"]
+    },
+    {
+      "id": "tinhoc12-b11-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thẻ `<img>`, thuộc tính nào bắt buộc phải có để ảnh hiển thị được?",
+      "options": [
+        { "key": "A", "text": "`src`" },
+        { "key": "B", "text": "`alt`" },
+        { "key": "C", "text": "`width`" },
+        { "key": "D", "text": "`height`" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách ghi `src` là thuộc tính bắt buộc của thẻ `<img>`, dùng để chỉ đường dẫn tới tệp ảnh. Thiếu `src` thì trình duyệt không biết lấy ảnh ở đâu để hiển thị.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["thuộc tính src", "chèn ảnh"]
+    },
+    {
+      "id": "tinhoc12-b11-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thẻ `<img>`, thuộc tính `alt` có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Quy định chiều rộng hiển thị của ảnh tính theo pixel." },
+        { "key": "B", "text": "Chỉ định đường dẫn tuyệt đối tới tệp ảnh trên máy chủ." },
+        { "key": "C", "text": "Quyết định ảnh chen vào dòng văn bản hay xuống dòng riêng." },
+        { "key": "D", "text": "Cung cấp văn bản thay thế khi việc hiển thị ảnh bị lỗi, văn bản này cần giúp người đọc hình dung ra nội dung bức ảnh." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo sách, `alt` là thuộc tính quan trọng nên dùng kèm với `src`, cung cấp văn bản thay thế khi việc hiển thị ảnh bị lỗi và văn bản thay thế cần giúp người đọc hình dung ra nội dung bức ảnh. Kích thước thuộc `width`, `height`, còn đường dẫn thuộc `src`.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["thuộc tính alt", "văn bản thay thế"]
+    },
+    {
+      "id": "tinhoc12-b11-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Một ảnh có kích thước gốc 800 × 600 pixel được chèn vào trang web bằng câu lệnh `<img src=\"images/hoa.png\" alt=\"bông hoa\" height=\"150\">`. Kích thước hiển thị của ảnh trong trang web là",
+      "options": [
+        { "key": "A", "text": "800 × 150 pixel." },
+        { "key": "B", "text": "200 × 150 pixel." },
+        { "key": "C", "text": "150 × 600 pixel." },
+        { "key": "D", "text": "150 × 150 pixel." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu nếu chỉ sử dụng một trong hai thuộc tính `width` hoặc `height` thì chiều còn lại được tính toán để hiển thị theo tỉ lệ của ảnh gốc. Ở đây chiều cao hiển thị bằng một phần tư chiều cao gốc, nên chiều rộng là 800 chia 4 bằng 200 pixel.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["kích thước ảnh", "tỉ lệ ảnh", "tính toán"]
+    },
+    {
+      "id": "tinhoc12-b11-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi đặt thẻ `<img>` xen giữa các từ trong một dòng văn bản, kết quả hiển thị là",
+      "options": [
+        { "key": "A", "text": "Ảnh được chen ngay trong dòng văn bản mà không tạo ra ngắt dòng." },
+        { "key": "B", "text": "Trình duyệt tự động ngắt dòng trước và sau vị trí đặt ảnh." },
+        { "key": "C", "text": "Phần văn bản viết sau thẻ `<img>` không còn được hiển thị." },
+        { "key": "D", "text": "Ảnh bị bỏ qua vì thẻ `<img>` chỉ đặt được trên một dòng riêng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách chỉ rõ hình ảnh chèn bằng thẻ `<img>` có thể được chen ngay trong dòng văn bản mà không tạo ra ngắt dòng. Vì vậy không có hiện tượng ngắt dòng tự động, ảnh không bị bỏ đi và các nội dung xung quanh vẫn hiển thị bình thường.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["chèn ảnh", "dòng văn bản"]
+    },
+    {
+      "id": "tinhoc12-b11-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Thư mục gốc của một website chứa tệp `index.html` và thư mục `images`; trong `images` có thư mục `logo` chứa tệp `banner.png`. Từ `index.html`, thẻ chèn ảnh viết đúng là",
+      "options": [
+        { "key": "A", "text": "`<img src=\"logo/images/banner.png\" alt=\"banner\">`" },
+        { "key": "B", "text": "`<img src=\"banner.png\" alt=\"banner\">`" },
+        { "key": "C", "text": "`<img src=\"../images/logo/banner.png\" alt=\"banner\">`" },
+        { "key": "D", "text": "`<img src=\"images/logo/banner.png\" alt=\"banner\">`" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đường dẫn tương đối gồm tên các thư mục và tên tệp theo thứ tự từ trên xuống, mỗi cấp phân cách bởi dấu /. Từ `index.html` ở thư mục gốc chỉ cần đi qua `images` rồi tới `logo`, nên đường dẫn đúng là `images/logo/banner.png`; `../` chỉ dùng khi muốn quay lại thư mục trên một mức.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["đường dẫn tương đối", "thuộc tính src", "cấu trúc website"]
+    },
+    {
+      "id": "tinhoc12-b11-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về thẻ `<video>` và thẻ `<audio>` trong HTML?",
+      "options": [
+        { "key": "A", "text": "Hai thẻ này chỉ hoạt động trên trình duyệt Google Chrome." },
+        { "key": "B", "text": "Hễ trình duyệt hỗ trợ thẻ `<video>` thì mọi định dạng video đều phát được." },
+        { "key": "C", "text": "Hai thẻ được hỗ trợ trong hầu hết trình duyệt, nhưng một định dạng tệp cụ thể có sử dụng được hay không còn phụ thuộc vào trình duyệt." },
+        { "key": "D", "text": "Muốn chèn âm thanh nhất thiết phải dùng kèm thẻ `<img>`." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách lưu ý thẻ `<video>` và `<audio>` được hỗ trợ trong hầu hết các trình duyệt, tuy nhiên định dạng của các tệp tin đa phương tiện có sử dụng được hay không còn tùy thuộc vào từng trình duyệt. Vì vậy phương án B sai; A và D không phải nội dung sách.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["thẻ video", "thẻ audio", "định dạng tệp"]
+    },
+    {
+      "id": "tinhoc12-b11-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuộc tính `controls` của thẻ `<video>` có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Cho video tự động chạy ngay khi trang được hiển thị." },
+        { "key": "B", "text": "Hiển thị bảng điều khiển đi kèm để người xem tự phát, dừng hoặc điều chỉnh video." },
+        { "key": "C", "text": "Làm video quay lại từ đầu mỗi khi chạy xong." },
+        { "key": "D", "text": "Chỉ định ảnh hiển thị khi video chưa chạy." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "`controls` là thuộc tính boolean, chỉ cần xuất hiện trong thẻ là video được hiển thị kèm bảng điều khiển để người xem tự điều khiển việc phát. Phương án A mô tả `autoplay`, C mô tả `loop`, D mô tả `poster`.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["thuộc tính controls", "thẻ video"]
+    },
+    {
+      "id": "tinhoc12-b11-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách, để video vừa hiển thị đã tự động chạy trên trình duyệt Google Chrome, ngoài `autoplay` ta thường phải thêm thuộc tính nào?",
+      "options": [
+        { "key": "A", "text": "`alt`" },
+        { "key": "B", "text": "`type`" },
+        { "key": "C", "text": "`href`" },
+        { "key": "D", "text": "`muted`" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu một số trình duyệt như Google Chrome thường không cho video chạy ngay hoặc chỉ chạy ngay khi hiển thị nếu có thuộc tính `muted`, tức là video không phát tiếng. Các thuộc tính `alt`, `type`, `href` không có tác dụng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["thuộc tính autoplay", "thuộc tính muted"]
+    },
+    {
+      "id": "tinhoc12-b11-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuộc tính `poster` của thẻ `<video>` được dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Chỉ đường dẫn tới tệp ảnh được hiển thị khi video chưa chạy." },
+        { "key": "B", "text": "Bắt video quay lại từ đầu sau khi chạy xong." },
+        { "key": "C", "text": "Ẩn bảng điều khiển của video." },
+        { "key": "D", "text": "Khai báo định dạng của tệp video." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách mô tả `poster` là thuộc tính chỉ đường dẫn tới tệp ảnh hiển thị khi chưa chạy video. Tác dụng quay lại từ đầu thuộc về `loop`, còn định dạng tệp được khai báo bằng thuộc tính `type` của thẻ `<source>`.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["thuộc tính poster", "thẻ video"]
+    },
+    {
+      "id": "tinhoc12-b11-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thẻ `<video>`, thuộc tính `loop` có ý nghĩa gì?",
+      "options": [
+        { "key": "A", "text": "Video chỉ chạy đúng một lần rồi dừng hẳn." },
+        { "key": "B", "text": "Video tự động quay lại từ đầu mỗi khi chạy xong." },
+        { "key": "C", "text": "Video chỉ chạy khi người xem nháy chuột vào bảng điều khiển." },
+        { "key": "D", "text": "Video chỉ chạy khi máy tính có kết nối mạng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "`loop` là thuộc tính boolean, khi có mặt trong thẻ thì video được phát lặp lại, chạy tiếp từ đầu sau mỗi lần kết thúc. Phương án A là trường hợp không dùng `loop`, còn C, D không phải ý nghĩa của thuộc tính này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["thuộc tính loop", "thẻ video"]
+    },
+    {
+      "id": "tinhoc12-b11-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng khi so sánh thẻ `<audio>` với thẻ `<video>`?",
+      "options": [
+        { "key": "A", "text": "Thẻ `<audio>` không dùng được thuộc tính `controls`." },
+        { "key": "B", "text": "Thẻ `<video>` không chấp nhận thẻ `<source>` đặt bên trong." },
+        { "key": "C", "text": "Thẻ `<audio>` không có các thuộc tính `width`, `height` và `poster`." },
+        { "key": "D", "text": "Thẻ `<audio>` là thẻ đơn, không có thẻ kết thúc." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách ghi rõ thẻ `<audio>` không có thuộc tính `width`, `height` và `poster`, vì âm thanh không có khung hình để hiển thị. Hai thẻ đều là thẻ kép, đều dùng được `controls`, `autoplay`, `loop` và đều chứa được thẻ `<source>`.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["thẻ audio", "thẻ video", "so sánh"]
+    },
+    {
+      "id": "tinhoc12-b11-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong HTML, thẻ `<source>` được dùng như thế nào?",
+      "options": [
+        { "key": "A", "text": "Đặt trong phần head của trang để khai báo tiêu đề trang web." },
+        { "key": "B", "text": "Đặt ngoài cặp thẻ `<video>` để chỉ định tên hiển thị của video." },
+        { "key": "C", "text": "Thay thế hoàn toàn thẻ `<img>` khi chèn ảnh vào trang web." },
+        { "key": "D", "text": "Đặt bên trong cặp thẻ `<video>` hoặc `<audio>` để chỉ định các định dạng khác nhau của cùng một nội dung đa phương tiện." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách dùng thẻ `<source>` đặt trong cặp thẻ `<video>` hoặc `<audio>` để chỉ định các loại định dạng khác nhau của tệp tin đa phương tiện. Các phương án A, B, D sai về vị trí và tác dụng; riêng thẻ khai báo ở phần head không phải `<source>`.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["thẻ source", "đa phương tiện"]
+    },
+    {
+      "id": "tinhoc12-b11-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã `<video controls><source src=\"clip.mp4\" type=\"video/mp4\"/><source src=\"clip.webm\" type=\"video/webm\"/></video>`. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Trình duyệt sẽ tự tìm và hiển thị tệp tin với định dạng mà nó hỗ trợ trong số các định dạng do thẻ `<source>` chỉ định." },
+        { "key": "B", "text": "Trình duyệt sẽ tải và phát lần lượt cả hai tệp trong cùng một lượt xem." },
+        { "key": "C", "text": "Trình duyệt chỉ đọc thẻ `<source>` đầu tiên, các thẻ `<source>` phía sau đều bị bỏ qua." },
+        { "key": "D", "text": "Bắt buộc phải viết thêm `src` vào thẻ `<video>` thì đoạn mã mới chạy được." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu khi có nhiều thẻ `<source>`, trình duyệt tự động tìm và hiển thị tệp tin với định dạng mà nó hỗ trợ, chứ không phát lần lượt mọi tệp và cũng không bỏ qua các thẻ sau. Khi đã dùng thẻ `<source>` thì thẻ `<video>` không cần thuộc tính `src`.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["thẻ source", "đọc mã HTML", "định dạng video"]
+    },
+    {
+      "id": "tinhoc12-b11-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thẻ `<source>`, thuộc tính `type` với giá trị dạng `video/mp4` dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Chỉ kích thước khung hiển thị của video." },
+        { "key": "B", "text": "Chỉ số lần video được phát lặp lại." },
+        { "key": "C", "text": "Khai báo kiểu định dạng của tệp tin mà thẻ `<source>` chỉ tới." },
+        { "key": "D", "text": "Chỉ tên miền của máy chủ chứa tệp video." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giá trị của `type` là kiểu nội dung của tệp, ví dụ `video/mp4` hay `audio/ogg`, để trình duyệt biết định dạng của tệp mà thẻ `<source>` chỉ định. Đường dẫn tới tệp nằm ở `src`, kích thước nằm ở `width` và `height`.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["thuộc tính type", "thẻ source"]
+    },
+    {
+      "id": "tinhoc12-b11-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đoạn mã `<video src=\"nhac.mp4\" controls>Trình duyệt của bạn không hỗ trợ HTML video</video>. Phát biểu nào sau đây đúng về dòng chữ đặt bên trong cặp thẻ `<video>`?",
+      "options": [
+        { "key": "A", "text": "Luôn được hiển thị cùng với video trên mọi trình duyệt." },
+        { "key": "B", "text": "Chỉ được hiển thị khi trình duyệt không hỗ trợ HTML video." },
+        { "key": "C", "text": "Được trình duyệt hiển thị như phụ đề chạy song song với video." },
+        { "key": "D", "text": "Bị trình duyệt bỏ qua hoàn toàn vì thẻ `<video>` không cho chứa văn bản." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách giải thích văn bản đặt trong cặp thẻ `<video>` hay `<audio>` đóng vai trò thông báo thay thế và chỉ xuất hiện khi trình duyệt không hỗ trợ HTML video. Vì vậy A và C sai; D sai vì văn bản này vẫn có tác dụng ở trường hợp trình duyệt không hỗ trợ.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["thẻ video", "đọc mã HTML"]
+    },
+    {
+      "id": "tinhoc12-b11-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách, trong số các định dạng video phổ biến, định dạng nào chạy được trực tiếp trên hầu hết các trình duyệt?",
+      "options": [
+        { "key": "A", "text": "mp4" },
+        { "key": "B", "text": "avi" },
+        { "key": "C", "text": "flv" },
+        { "key": "D", "text": "mkv" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu hai định dạng video phổ biến nhất là mp4 và webm, trong đó mp4 chạy được trực tiếp trên hầu hết các trình duyệt. Avi, flv, mkv là các định dạng thường gặp khi lưu tệp trên máy nhưng không được sách liệt kê cho việc nhúng vào trang web.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["định dạng video", "mp4"]
+    },
+    {
+      "id": "tinhoc12-b11-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Ba định dạng tệp âm thanh phổ biến được hầu hết các trình duyệt hiện nay hỗ trợ, theo sách giáo khoa, là",
+      "options": [
+        { "key": "A", "text": "midi, aac và flac." },
+        { "key": "B", "text": "mp4, webm và avi." },
+        { "key": "C", "text": "mp3, wav và ogg." },
+        { "key": "D", "text": "m4a, amr và wma." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách liệt kê ba định dạng âm thanh phổ biến được hầu hết trình duyệt hiện nay hỗ trợ là mp3, wav và ogg. Phương án B là các định dạng video, không phải định dạng âm thanh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["định dạng âm thanh", "thẻ audio"]
+    },
+    {
+      "id": "tinhoc12-b11-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo sách giáo khoa, thẻ `<iframe>` trong HTML là",
+      "options": [
+        { "key": "A", "text": "thẻ dùng để tạo liên kết mở trang khác trong một cửa sổ trình duyệt mới." },
+        { "key": "B", "text": "thẻ khai báo toàn bộ mẫu định dạng CSS của trang web." },
+        { "key": "C", "text": "thẻ chỉ dùng để chèn một tệp ảnh phủ kín trang." },
+        { "key": "D", "text": "khung nội tuyến, tức là một khung nhìn chứa tài nguyên web khác ngay trong trang web hiện tại." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách giới thiệu iframe là viết tắt của inline frame, nghĩa là khung nội tuyến: một khung nhìn chứa tài nguyên web khác trong trang web hiện tại. Ý A mô tả thẻ `<a>`, ý C mô tả thẻ `<img>`.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": ["khung nội tuyến", "thẻ iframe"]
+    },
+    {
+      "id": "tinhoc12-b11-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặt đoạn mã `<iframe src=\"dai_dien.html\" width=\"600\" height=\"400\"></iframe>` vào trang `gioi_thieu.html`. Kết quả nhận được là",
+      "options": [
+        { "key": "A", "text": "Trang `dai_dien.html` được mở trong một cửa sổ trình duyệt mới." },
+        { "key": "B", "text": "Nội dung trang `dai_dien.html` hiển thị trong một khung kích thước 600 × 400 pixel ngay trong trang `gioi_thieu.html`." },
+        { "key": "C", "text": "Trang `gioi_thieu.html` hiển thị một liên kết tới `dai_dien.html`, người xem phải nháy chuột mới thấy nội dung." },
+        { "key": "D", "text": "Tệp `dai_dien.html` được hiển thị dưới dạng một bức ảnh rộng 600 pixel." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với thẻ `<iframe>`, `src` chỉ đường dẫn tới nội dung hiển thị trong khung, `width` và `height` là chiều rộng và chiều cao của khung nội tuyến, nên nội dung trang `dai_dien.html` xuất hiện ngay trong trang hiện tại. Không có cửa sổ mới nào được mở và cũng không cần nháy chuột như thẻ `<a>`.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["khung nội tuyến", "đọc mã HTML"]
+    },
+    {
+      "id": "tinhoc12-b11-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Các thuộc tính thường dùng của thẻ `<iframe>` là",
+      "options": [
+        { "key": "A", "text": "`href` và `target`, vì khung nội tuyến thực chất là một liên kết." },
+        { "key": "B", "text": "`alt` và `title`, vì khung nội tuyến hiển thị văn bản thay thế." },
+        { "key": "C", "text": "`src` chỉ đường dẫn tới nội dung hiển thị trong khung, `width` và `height` chỉ chiều rộng và chiều cao của khung nội tuyến." },
+        { "key": "D", "text": "`controls`, `autoplay` và `muted`, vì khung nội tuyến luôn chứa video." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu các thuộc tính thường dùng của thẻ `<iframe>` gồm `src` chỉ đường dẫn tới nội dung hiển thị trong khung cùng `width` và `height` quy định kích thước khung nội tuyến. Nhóm thuộc tính ở các phương án còn lại thuộc về thẻ `<a>`, thẻ `<img>` và thẻ `<video>`.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["thẻ iframe", "thuộc tính"]
+    },
+    {
+      "id": "tinhoc12-b11-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây so sánh đúng giữa thẻ `<iframe>` và thẻ `<a>`?",
+      "options": [
+        { "key": "A", "text": "Cả hai thẻ đều nhúng nội dung trang khác vào trang hiện tại nên có thể thay thế cho nhau." },
+        { "key": "B", "text": "Thẻ `<a>` là khung nội tuyến, còn thẻ `<iframe>` là thẻ tạo liên kết." },
+        { "key": "C", "text": "Thẻ `<iframe>` không thể trỏ tới tài nguyên nằm trên máy chủ khác, thẻ `<a>` thì được." },
+        { "key": "D", "text": "Nội dung do `src` của `<iframe>` chỉ định hiển thị ngay trong trang hiện tại, còn `<a>` chỉ tạo liên kết và người dùng phải nháy chuột thì trang khác mới được mở." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Điểm khác biệt là `<iframe>` đặt tài nguyên web khác trong một khung nhìn của chính trang hiện tại, còn `<a>` chỉ hiển thị nội dung liên kết và cần người dùng nháy chuột. Ý C sai vì `src` của `<iframe>` có thể là đường dẫn tuyệt đối tới tài nguyên trên máy chủ khác.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["khung nội tuyến", "liên kết", "so sánh"]
+    },
+    {
+      "id": "tinhoc12-b11-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Tệp `anh.png` nằm trong thư mục `images` của website, nhưng trang web đặt ở thư mục gốc lại chèn ảnh bằng `<img src=\"anh.png\" alt=\"bông hoa\">`. Hiện tượng nào xảy ra?",
+      "options": [
+        { "key": "A", "text": "Ảnh không hiển thị được, vị trí ảnh chỉ còn văn bản bông hoa của thuộc tính `alt`." },
+        { "key": "B", "text": "Ảnh vẫn hiển thị bình thường vì trình duyệt tự tìm tệp trong mọi thư mục con." },
+        { "key": "C", "text": "Trình duyệt báo lỗi cú pháp HTML và không hiển thị trang web." },
+        { "key": "D", "text": "Thẻ `<img>` bị loại bỏ và toàn bộ văn bản xung quanh cũng mất theo." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "`src` phải trỏ đúng tới tệp; ở đây ảnh nằm trong `images` nên phải viết `images/anh.png`. Khi việc hiển thị ảnh bị lỗi, `alt` cung cấp văn bản thay thế; trang web không bị lỗi cú pháp và các nội dung xung quanh vẫn hiển thị.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": ["thuộc tính src", "thuộc tính alt", "đường dẫn"]
+    },
+    {
+      "id": "tinhoc12-b11-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong thẻ `<video width=\"640\" height=\"360\" controls autoplay>`, có bao nhiêu thuộc tính boolean, tức là thuộc tính không cần gán giá trị?",
+      "options": [
+        { "key": "A", "text": "Một, chỉ có `autoplay`." },
+        { "key": "B", "text": "Hai, đó là `controls` và `autoplay`." },
+        { "key": "C", "text": "Ba, đó là `controls`, `autoplay` và `width`." },
+        { "key": "D", "text": "Bốn, vì cả bốn thuộc tính đều không cần giá trị." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách giải thích thuộc tính boolean không cần có giá trị, chỉ cần xuất hiện trong thẻ là có tác dụng; ở thẻ trên đó là `controls` và `autoplay`. Hai thuộc tính `width` và `height` bắt buộc phải kèm giá trị nên không phải thuộc tính boolean.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": ["thuộc tính boolean", "thẻ video", "đọc mã HTML"]
+    },
+    {
+      "id": "tinhoc12-b11-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về thẻ `<img>` khi chèn ảnh vào trang web?",
+      "options": [
+        { "key": "A", "text": "`<img>` là thẻ đơn, không cần thẻ kết thúc, và ảnh có thể chen ngay trong dòng văn bản mà không tạo ra ngắt dòng." },
+        { "key": "B", "text": "Nếu chỉ sử dụng một trong hai thuộc tính `width` hoặc `height` thì chiều còn lại được tính toán để hiển thị theo tỉ lệ của ảnh gốc." },
+        { "key": "C", "text": "Thuộc tính `alt` có giá trị là đường dẫn tới một tệp ảnh khác dùng thay thế khi tệp ảnh gốc bị hỏng." },
+        { "key": "D", "text": "Giá trị của `src` có thể là đường dẫn tương đối tới tệp ảnh trong website hoặc đường dẫn tuyệt đối tới ảnh nằm trên máy chủ khác." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đều là nội dung sách đã nêu về thẻ `<img>`. C sai vì `alt` chứa văn bản thay thế, không phải đường dẫn tới tệp ảnh khác; đường dẫn ảnh là nội dung của `src`.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": ["nhận định đúng sai", "thẻ img", "chèn ảnh"]
+    },
+    {
+      "id": "tinhoc12-b11-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về thẻ `<video>` và thẻ `<audio>`?",
+      "options": [
+        { "key": "A", "text": "`autoplay` là thuộc tính boolean, nhưng một số trình duyệt như Google Chrome chỉ cho video tự chạy khi hiển thị nếu có thêm thuộc tính `muted`." },
+        { "key": "B", "text": "Thẻ `<audio>` cũng có các thuộc tính `width`, `height` và `poster` giống như thẻ `<video>`." },
+        { "key": "C", "text": "Vì định dạng tệp có phát được hay not còn tùy trình duyệt, sách dùng thẻ `<source>` đặt trong thẻ `<video>` hoặc `<audio>` để chỉ định vài định dạng khác nhau." },
+        { "key": "D", "text": "Văn bản đặt bên trong cặp thẻ `<video>` luôn được hiển thị cùng với video trên mọi trình duyệt." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng theo sách. B sai vì thẻ `<audio>` không có `width`, `height` và `poster`. D sai vì văn bản trong cặp thẻ `<video>` chỉ xuất hiện khi trình duyệt không hỗ trợ HTML video; muốn hiển thị bảng điều khiển cho người xem thì dùng `controls`.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": ["nhận định đúng sai", "thẻ video", "thẻ audio"]
+    },
+    {
+      "id": "tinhoc12-b11-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về khung nội tuyến `<iframe>`?",
+      "options": [
+        { "key": "A", "text": "Muốn hiển thị nội dung một trang khác trong trang hiện tại thì phải dùng thẻ `<a>`, vì `<iframe>` chỉ dùng được cho tệp ảnh." },
+        { "key": "B", "text": "`width` và `height` của thẻ `<iframe>` quy định chiều rộng và chiều cao của khung nội tuyến." },
+        { "key": "C", "text": "Nội dung do `src` chỉ định được hiển thị ngay trong trang hiện tại mà người xem không cần nháy chuột." },
+        { "key": "D", "text": "`iframe` là viết tắt của inline frame, có nghĩa là khung nội tuyến." }
+      ],
+      "correctAnswer": ["B", "C", "D"],
+      "explanation": "B, C và D đúng theo sách. A sai vì thẻ `<iframe>` chính là khung nhìn chứa tài nguyên web khác trong trang web hiện tại, còn thẻ `<a>` chỉ tạo liên kết và phải nháy chuột mới chuyển trang.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": ["nhận định đúng sai", "khung nội tuyến", "thẻ iframe"]
+    },
+    {
+      "id": "tinhoc12-b11-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-th-da-phuong-tien",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về định dạng tệp tin đa phương tiện khi chèn vào trang web?",
+      "options": [
+        { "key": "A", "text": "Hai định dạng video phổ biến nhất là mp4 và webm, trong đó mp4 chạy được trực tiếp trên hầu hết các trình duyệt." },
+        { "key": "B", "text": "Chỉ cần trình duyệt hỗ trợ thẻ `<video>` thì mọi định dạng video đều phát được như nhau." },
+        { "key": "C", "text": "Ba định dạng âm thanh phổ biến được hầu hết trình duyệt hiện nay hỗ trợ là mp3, wav và ogg." },
+        { "key": "D", "text": "Trình duyệt tự động chuyển đổi mọi định dạng, nên phần mở rộng của tệp đa phương tiện không ảnh hưởng tới việc hiển thị." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng theo sách. B và D sai vì thẻ `<video>`, `<audio>` tuy được hỗ trợ trong hầu hết trình duyệt nhưng định dạng của tệp tin có sử dụng được hay không vẫn phụ thuộc vào trình duyệt, vì sách mới khuyến khích khai báo nhiều định dạng bằng thẻ `<source>`.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": ["nhận định đúng sai", "định dạng tệp", "đa phương tiện"]
+    }
+  ]
+}

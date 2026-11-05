@@ -1,0 +1,1492 @@
+{
+  "id": "de-dia-12-bai-07",
+  "title": "Đề ôn tập Địa lí 12 – Bài 7: Dân số Việt Nam",
+  "slug": "de-dia-12-bai-07",
+  "description": "Đề ôn tập 45 phút theo Bài 7 Địa lí 12 – Dân số Việt Nam: quy mô và tình hình gia tăng dân số, động lượng dân số, cơ cấu dân số theo tuổi – giới – dân tộc, sự phân bố dân cư, đô thị hoá gắn với dân số, ảnh hưởng của dân số tới phát triển kinh tế – xã hội và các chính sách dân số. Đề gồm 35 câu trắc nghiệm bốn phương án và 5 câu chọn các phát biểu đúng, kèm các câu đọc bảng số liệu và tính mật độ dân số, tỉ suất tăng tự nhiên, cơ cấu theo nhóm tuổi.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B07",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b07-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nổi bật nhất về **quy mô dân số** của nước ta là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dân số giảm liên tục qua các năm do mức sinh hạ thấp."
+        },
+        {
+          "key": "B",
+          "text": "Dân số đông, mỗi năm vẫn tăng thêm một lượng dân số lớn."
+        },
+        {
+          "key": "C",
+          "text": "Dân số ít, phân bố đều khắp trên mọi vùng lãnh thổ."
+        },
+        {
+          "key": "D",
+          "text": "Quy mô dân số đã ổn định, gần như không tăng thêm."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nước ta có quy mô dân số lớn và dù tốc độ tăng đã giảm, lượng tăng tuyệt đối mỗi năm vẫn còn nhiều. A sai vì dân số vẫn tăng chứ không giảm; C sai vì dân số không phân bố đều (đồng bằng rất đông, miền núi thưa); D sai vì quy mô chưa ổn định mà vẫn tiếp tục tăng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "quy mô dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Xu hướng chủ yếu của **tăng dân số** ở nước ta trong những thập kỉ gần đây là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tốc độ tăng ngày càng cao, số tăng thêm mỗi năm ngày càng lớn."
+        },
+        {
+          "key": "B",
+          "text": "Tốc độ tăng có xu hướng giảm nhưng số dân tăng thêm mỗi năm vẫn còn nhiều."
+        },
+        {
+          "key": "C",
+          "text": "Số dân tăng thêm mỗi năm luôn bằng nhau qua mọi giai đoạn."
+        },
+        {
+          "key": "D",
+          "text": "Dân số đã ngừng tăng, quy mô không đổi."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nhờ kết quả của công tác dân số, tốc độ tăng dân số giảm dần, song do quy mô xuất phát điểm lớn nên lượng tăng tuyệt đối mỗi năm còn nhiều. A sai vì tốc độ đang giảm chứ không tăng; C và D sai vì số tăng thêm không bằng nhau và dân số vẫn đang tăng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "gia tăng dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Tốc độ tăng dân số của nước ta đã giảm nhưng quy mô dân số vẫn tiếp tục tăng, chủ yếu vì lí do nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ suất sinh vẫn ở mức rất cao so với trước."
+        },
+        {
+          "key": "B",
+          "text": "Số dân tuyệt đối giảm."
+        },
+        {
+          "key": "C",
+          "text": "Nhập cư quốc tế tăng mạnh."
+        },
+        {
+          "key": "D",
+          "text": "Quy mô dân số đã lớn nên dù tốc độ tăng giảm, số tăng thêm mỗi năm vẫn nhiều."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Đây là biểu hiện của **động lượng dân số**: khi dân số gốc đã lớn thì dù tốc độ phần trăm giảm, lượng người tăng thêm vẫn nhiều. A sai vì tỉ suất sinh đang giảm; B sai vì quy mô tăng chứ không giảm; C không phải nguyên nhân chính của tăng dân số nước ta.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "gia tăng dân số",
+        "động lượng dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây **đúng** khi nói về quá trình **già hoá dân số** ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Già hoá làm giảm hoàn toàn số người trong độ tuổi lao động."
+        },
+        {
+          "key": "B",
+          "text": "Già hoá chỉ xảy ra do tốc độ đô thị hoá tăng nhanh."
+        },
+        {
+          "key": "C",
+          "text": "Già hoá dân số xuất phát từ cả việc giảm mức sinh và tăng tuổi thọ."
+        },
+        {
+          "key": "D",
+          "text": "Già hoá đồng nghĩa với việc quy mô dân số bắt đầu giảm."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Có hai nguồn gốc của già hoá: giảm nhanh nhóm trẻ em (do mức sinh hạ) và tăng nhóm người cao tuổi (do tuổi thọ tăng). A sai vì nhóm lao động chưa giảm hoàn toàn; B sai vì già hoá không do đô thị hoá; D sai vì bản thân già hoá không làm quy mô dân số giảm ngay.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "già hoá dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nổi bật của **cơ cấu dân số theo dân tộc** ở nước ta là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có nhiều thành phần dân tộc; dân tộc Kinh có số dân đông nhất."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ có một thành phần dân tộc duy nhất."
+        },
+        {
+          "key": "C",
+          "text": "Các dân tộc ít người chiếm đa số về dân số."
+        },
+        {
+          "key": "D",
+          "text": "Các dân tộc phân bố hoàn toàn đồng đều ở mọi vùng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nước ta là một quốc gia đa dân tộc (54 thành phần dân tộc), trong đó dân tộc Kinh có số dân đông nhất, các dân tộc ít người cư trú chủ yếu ở vùng núi và cao nguyên. B và C sai vì không phải đơn dân tộc và Kinh chiếm đa số; D sai vì phân bố các dân tộc không đồng đều.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "thành phần dân tộc"
+      ]
+    },
+    {
+      "id": "dia12-b07-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Cơ cấu dân số theo **độ tuổi** của nước ta đang **thay đổi theo xu hướng** nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng tỉ trọng nhóm 0–14 tuổi, giảm tỉ trọng nhóm cao tuổi."
+        },
+        {
+          "key": "B",
+          "text": "Không có sự thay đổi giữa các nhóm tuổi."
+        },
+        {
+          "key": "C",
+          "text": "Tăng nhanh tỉ trọng của mọi nhóm tuổi như nhau."
+        },
+        {
+          "key": "D",
+          "text": "Giảm tỉ trọng nhóm trẻ em, tăng tỉ trọng nhóm trong độ tuổi lao động và nhóm cao tuổi."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Cơ cấu tuổi đang chuyển từ **dân số trẻ** sang **già hoá**: nhóm 0–14 tuổi giảm, nhóm lao động và nhóm cao tuổi tăng. A ngược với thực tế; B và C sai vì cơ cấu đang biến đổi rõ và không đồng đều giữa các nhóm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "cơ cấu tuổi"
+      ]
+    },
+    {
+      "id": "dia12-b07-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao tốc độ tăng dân số nước ta đã giảm nhưng **số dân tăng thêm** mỗi năm vẫn còn lớn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì quy mô dân số đã lớn nên lượng tăng tuyệt đối còn nhiều."
+        },
+        {
+          "key": "B",
+          "text": "Vì tỉ suất sinh vẫn chưa giảm."
+        },
+        {
+          "key": "C",
+          "text": "Vì dân cư tập trung chủ yếu ở nông thôn."
+        },
+        {
+          "key": "D",
+          "text": "Vì điều kiện tự nhiên thuận lợi."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Khi quy mô dân số gốc đã lớn, một tỉ lệ tăng nhỏ vẫn tạo ra lượng người tăng thêm lớn. B sai vì tỉ suất sinh đang giảm; C và D có thể đúng về mặt mô tả nhưng không phải lí do giải thích vì sao **số tăng thêm còn nhiều**.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "gia tăng dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "**Mật độ dân số** của một đơn vị hành chính được tính bằng công thức nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lấy diện tích tự nhiên nhân với số dân."
+        },
+        {
+          "key": "B",
+          "text": "Lấy số dân chia cho diện tích tự nhiên."
+        },
+        {
+          "key": "C",
+          "text": "Lấy số dân nhân với diện tích tự nhiên rồi chia cho 100."
+        },
+        {
+          "key": "D",
+          "text": "Lấy diện tích tự nhiên chia cho số dân."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Mật độ dân số = số dân (người) chia cho diện tích (km²), đơn vị người/km², cho biết mức độ tập trung dân số trên một đơn vị diện tích. A và C sai về phép tính; D cho ra số km² trên một người, ngược với khái niệm mật độ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "mật độ dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Tỉnh X có số dân **500 nghìn người** và diện tích tự nhiên **1000 km²**. Mật độ dân số của tỉnh X là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200 người/km²."
+        },
+        {
+          "key": "B",
+          "text": "1000 người/km²."
+        },
+        {
+          "key": "C",
+          "text": "500 người/km²."
+        },
+        {
+          "key": "D",
+          "text": "0,5 người/km²."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Mật độ = 500 000 người : 1000 km² = **500 người/km²**. A và B không đúng phép tính; D là kết quả của việc lấy diện tích chia cho dân số (ngược công thức).",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "mật độ dân số",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b07-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiện nay, **tỉ suất sinh** và **tỉ suất tử** của nước ta đều đã giảm, nhưng **tỉ suất tăng tự nhiên** vẫn dương và có xu hướng giảm vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ suất tử luôn bằng tỉ suất sinh."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ suất sinh giảm nhanh hơn, nhưng vẫn còn cao hơn tỉ suất tử."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ suất sinh tăng trở lại trong khi tử giảm."
+        },
+        {
+          "key": "D",
+          "text": "Dân số chỉ tăng nhờ nhập cư."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Tỉ suất tăng tự nhiên = tỉ suất sinh − tỉ suất tử. Vì sinh giảm nhanh hơn tử mà vẫn còn lớn hơn tử nên hiệu số dương và ngày càng nhỏ. A sai vì khi đó tăng tự nhiên bằng 0; C sai vì sinh đang giảm; D bỏ qua vai trò của tăng tự nhiên.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "tỉ suất sinh",
+        "tăng tự nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b07-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "**Cơ cấu dân số theo giới** được biểu hiện chủ yếu qua chỉ tiêu nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ số giới tính (số nam trung bình trên 100 nữ hoặc ngược lại)."
+        },
+        {
+          "key": "B",
+          "text": "Mật độ dân số theo đơn vị hành chính."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ lệ dân thành thị trong tổng số dân."
+        },
+        {
+          "key": "D",
+          "text": "Số con trung bình của một phụ nữ trong độ tuổi sinh đẻ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Cơ cấu theo giới phản ánh tương quan nam – nữ, thường dùng **tỉ số giới tính**. B là chỉ tiêu phân bố dân cư; C là mức độ đô thị hoá; D là mức sinh — đều không mô tả cơ cấu theo giới.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "cơ cấu giới",
+        "tỉ số giới tính"
+      ]
+    },
+    {
+      "id": "dia12-b07-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng số liệu về cơ cấu dân số theo nhóm tuổi (đơn vị: %). Nhóm 0–14 tuổi: năm N = 30, năm M = 20; nhóm 15–64 tuổi: năm N = 65, năm M = 67; nhóm từ 65 tuổi trở lên: năm N = 5, năm M = 13. Nhận định nào sau đây **đúng** với giai đoạn từ N đến M?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ cấu dân số đang trẻ hoá nhanh."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ trọng nhóm cao tuổi giảm liên tục."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ trọng nhóm 0–14 tuổi không đổi."
+        },
+        {
+          "key": "D",
+          "text": "Cơ cấu dân số đang già hoá: giảm tỉ trọng nhóm 0–14 tuổi, tăng tỉ trọng nhóm từ 65 tuổi trở lên."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Từ N đến M, nhóm 0–14 giảm (30% → 20%) và nhóm từ 65 trở lên tăng (5% → 13%) là dấu hiệu đặc trưng của **già hoá dân số**. A sai vì ngược xu hướng; B sai vì nhóm cao tuổi tăng; C sai vì nhóm trẻ em đã giảm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đọc bảng số liệu",
+        "già hoá dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng số liệu về các tỉ suất dân số (đơn vị: ‰). Tỉ suất sinh: năm A = 20, năm B = 15, năm C = 12, năm D = 10. Tỉ suất tử: năm A = 8, năm B = 7, năm C = 7, năm D = 6. Nhận định nào sau đây **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ suất sinh tăng dần qua các năm."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ suất tử luôn bằng tỉ suất sinh."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ suất tăng tự nhiên có xu hướng giảm."
+        },
+        {
+          "key": "D",
+          "text": "Tỉ suất tăng tự nhiên tăng liên tục."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Tỉ suất tăng tự nhiên = sinh − tử. Tính ra: A = 12‰, B = 8‰, C = 5‰, D = 4‰, tức có xu hướng giảm. A sai vì sinh giảm; B sai vì sinh luôn lớn hơn tử; D ngược với kết quả tính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đọc bảng số liệu",
+        "tăng tự nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b07-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Vùng Y có **990 nghìn nam** và **1000 nghìn nữ**. Tỉ số giới tính của vùng Y (số nam trên 100 nữ) xấp xỉ bằng",
+      "options": [
+        {
+          "key": "A",
+          "text": "95 nam/100 nữ."
+        },
+        {
+          "key": "B",
+          "text": "110 nam/100 nữ."
+        },
+        {
+          "key": "C",
+          "text": "120 nam/100 nữ."
+        },
+        {
+          "key": "D",
+          "text": "99 nam/100 nữ."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Tỉ số giới tính = (số nam : số nữ) × 100 = (990 000 : 1 000 000) × 100 = **99 nam/100 nữ**. A, B, C không khớp phép tính trên dữ liệu đã cho.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "tỉ số giới tính",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b07-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trong những **hạn chế** lớn của quá trình **đô thị hoá** ở nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ lệ dân thành thị giảm liên tục qua các năm."
+        },
+        {
+          "key": "B",
+          "text": "Đô thị hoá còn tự phát, chưa đồng bộ với quá trình công nghiệp hoá."
+        },
+        {
+          "key": "C",
+          "text": "Cả nước không có đô thị loại đặc biệt."
+        },
+        {
+          "key": "D",
+          "text": "Dân cư chỉ tập trung ở vùng nông thôn."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Đô thị hoá nước ta còn mang tính tự phát, hạ tầng chưa theo kịp tốc độ tăng dân số đô thị và chưa gắn chặt với công nghiệp hoá. A sai vì dân thành thị đang tăng; C và D là phát biểu không đúng thực tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đô thị hoá"
+      ]
+    },
+    {
+      "id": "dia12-b07-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng số liệu (đơn vị: triệu người) của vùng Z. Số dân nông thôn = 18, số dân thành thị = 6, tổng số dân = 24. **Mức độ đô thị hoá** (tỉ lệ dân thành thị so với tổng số dân) của vùng Z bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25%."
+        },
+        {
+          "key": "B",
+          "text": "33%."
+        },
+        {
+          "key": "C",
+          "text": "75%."
+        },
+        {
+          "key": "D",
+          "text": "40%."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Tỉ lệ dân thành thị = 6 : 24 × 100 = **25%**. C là tỉ lệ dân nông thôn (18 : 24 = 75%), dễ nhầm nếu đảo mẫu số; B (lấy 6 : 18) và D không đúng công thức.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đô thị hoá",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b07-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng số liệu (đơn vị: triệu người) về dân số theo thành thị – nông thôn qua các năm. Dân số thành thị: năm A = 20, năm B = 24, năm C = 30, năm D = 35. Dân số nông thôn: năm A = 50, năm B = 48, năm C = 46, năm D = 45. Nhận định nào sau đây **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dân số thành thị giảm, dân số nông thôn tăng."
+        },
+        {
+          "key": "B",
+          "text": "Tổng dân số của vùng giảm liên tục."
+        },
+        {
+          "key": "C",
+          "text": "Dân số thành thị tăng, dân số nông thôn biến động giảm cho thấy quá trình đô thị hoá đang diễn ra."
+        },
+        {
+          "key": "D",
+          "text": "Hai thành phần dân số luôn xấp xỉ bằng nhau."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Dân thành thị tăng đều (20 → 35 triệu) trong khi dân nông thôn giảm dần (50 → 45 triệu) là biểu hiện của quá trình đô thị hoá. A ngược thực tế; B sai vì tổng dân số vẫn tăng (70 → 80 triệu); D sai vì hai thành phần chênh nhau rõ rệt.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đọc bảng số liệu",
+        "đô thị hoá"
+      ]
+    },
+    {
+      "id": "dia12-b07-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai nguyên nhân chính làm **thay đổi cơ cấu dân số theo nhóm tuổi** của nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng tuổi thọ và giảm tỉ suất sinh."
+        },
+        {
+          "key": "B",
+          "text": "Tăng nhập cư và mở rộng diện tích tự nhiên."
+        },
+        {
+          "key": "C",
+          "text": "Tăng tỉ suất sinh và giảm tuổi thọ."
+        },
+        {
+          "key": "D",
+          "text": "Tăng tỉ số giới tính và giảm dân số đô thị."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Tuổi thọ tăng làm nhóm cao tuổi mở rộng; mức sinh giảm làm nhóm trẻ em co lại — cả hai đều đẩy cơ cấu tuổi về phía già hoá. B và D là yếu tố phân bố hoặc giới tính, không trực tiếp làm đổi cơ cấu tuổi; C ngược với thực tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "cơ cấu tuổi",
+        "già hoá dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "**Hậu quả nổi bật nhất** của việc dân số tăng nhanh trong giai đoạn trước đối với phát triển kinh tế – xã hội ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm suy giảm nghiêm trọng số người trong độ tuổi lao động."
+        },
+        {
+          "key": "B",
+          "text": "Gây sức ép tới tài nguyên, môi trường và các vấn đề xã hội như việc làm, nhà ở, y tế, giáo dục."
+        },
+        {
+          "key": "C",
+          "text": "Khiến tỉ lệ dân thành thị giảm mạnh."
+        },
+        {
+          "key": "D",
+          "text": "Làm tuổi thọ trung bình giảm xuống."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Dân số tăng nhanh trong khi kinh tế chưa kịp phát triển tạo áp lực lớn lên tài nguyên, môi trường và hệ thống an sinh xã hội. A và D sai vì số lao động và tuổi thọ không vì thế mà giảm; C sai vì dân thành thị có xu hướng tăng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "ảnh hưởng dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Một vùng có số dân **90 triệu người** với **tỉ lệ tăng dân số 0,8%/năm**. Bỏ qua biến động di cư, sau một năm số dân tăng thêm của vùng đó là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "900 nghìn người."
+        },
+        {
+          "key": "B",
+          "text": "800 nghìn người."
+        },
+        {
+          "key": "C",
+          "text": "720 nghìn người."
+        },
+        {
+          "key": "D",
+          "text": "1720 nghìn người."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Số tăng thêm = 90 000 000 × 0,8% = 90 000 000 × 0,008 = **720 000 người**. A và B không đúng phép tính; D gần gấp đôi kết quả (nhầm 0,8% với 1,6%).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "gia tăng dân số",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b07-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở nước ta, trong tháp dân số, **dấu hiệu** nào sau đây cho thấy dân số đang **già hoá**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phần đáy thu hẹp, phần thân và đỉnh mở rộng dần."
+        },
+        {
+          "key": "B",
+          "text": "Phần đáy mở rộng rất nhanh."
+        },
+        {
+          "key": "C",
+          "text": "Toàn bộ các mức tuổi có bề rộng bằng nhau."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ có nhóm 0–14 tuổi tăng lên."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đáy tháp (nhóm trẻ em) thu hẹp do mức sinh giảm, thân và đỉnh (nhóm lao động, cao tuổi) mở rộng là hình dạng điển hình của dân số đang già hoá. B và D mô tả dân số trẻ; C là dạng cân bằng, không phản ánh già hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "tháp dân số",
+        "già hoá dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Chỉ tiêu nào sau đây phản ánh trực tiếp **quy mô dân số** của một đơn vị hành chính?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mật độ dân số."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ số giới tính."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ lệ dân thành thị."
+        },
+        {
+          "key": "D",
+          "text": "Tổng số dân (tổng số người)."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Quy mô dân số chính là **tổng số người** sinh sống trên lãnh thổ tại một thời điểm. A phản ánh mức độ tập trung; B phản ánh cơ cấu giới; C phản ánh đô thị hoá — đều không đo quy mô.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "quy mô dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây **sai** khi nói về tác động của dân số đến phát triển kinh tế – xã hội ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dân số đông tạo ra thị trường tiêu thụ rộng lớn."
+        },
+        {
+          "key": "B",
+          "text": "Lượng dân tăng thêm mỗi năm còn nhiều gây khó khăn cho việc nâng cao mức sống."
+        },
+        {
+          "key": "C",
+          "text": "Số lao động dồi dào luôn tự động bảo đảm nâng cao chất lượng cuộc sống."
+        },
+        {
+          "key": "D",
+          "text": "Nguồn lao động phong phú là lợi thế phát triển nếu được đào tạo và bố trí việc làm."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C (phát biểu sai).** Lao động chỉ trở thành lợi thế khi có chất lượng và việc làm; số lượng đông không **tự động** nâng cao mức sống. A, B, D đều là nhận định **đúng** về mặt trái – mặt phải của quy mô dân số lớn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "ảnh hưởng dân số",
+        "phát biểu sai"
+      ]
+    },
+    {
+      "id": "dia12-b07-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Để khai thác lợi thế **nguồn lao động dồi dào**, nhà nước cần **chú trọng nhất** biện pháp nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hạn chế mọi dòng di cư vào đô thị."
+        },
+        {
+          "key": "B",
+          "text": "Nâng cao chất lượng lao động thông qua giáo dục và đào tạo nghề."
+        },
+        {
+          "key": "C",
+          "text": "Giảm tuổi nghỉ hưu của tất cả các ngành nghề."
+        },
+        {
+          "key": "D",
+          "text": "Tăng nhanh tỉ suất sinh để bổ sung lao động."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Chất lượng lao động (trình độ, kỹ năng) mới biến 'đông' thành 'mạnh', tăng năng suất và thu nhập. A cản trở phân bổ lao động hợp lí; C làm giảm số năm cống hiến; D chỉ tăng số lượng, không cải thiện chất lượng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "nguồn lao động",
+        "chất lượng dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng số liệu về cơ cấu dân số theo hai nhóm tuổi (đơn vị: %). Năm A: nhóm dưới 15 tuổi = 35, nhóm từ 15 tuổi trở lên = 65. Năm B: nhóm dưới 15 tuổi = 25, nhóm từ 15 tuổi trở lên = 75. Nhận định nào sau đây **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ trọng nhóm dưới 15 tuổi giảm 10 điểm phần trăm từ năm A đến năm B."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ trọng nhóm dưới 15 tuổi tăng 10 điểm phần trăm."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ trọng nhóm từ 15 tuổi trở lên giảm dần."
+        },
+        {
+          "key": "D",
+          "text": "Cơ cấu tuổi không thay đổi giữa hai năm."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nhóm dưới 15 tuổi giảm từ 35% xuống 25%, tức giảm **10 điểm phần trăm** (65 − 75 ở nhóm kia đổi chiều tăng 10 điểm). B và C ngược chiều bảng; D sai vì có biến động rõ rệt.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đọc bảng số liệu",
+        "cơ cấu tuổi"
+      ]
+    },
+    {
+      "id": "dia12-b07-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây **đúng** với **phân bố dân cư** ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dân cư phân bố đồng đều giữa đồng bằng và miền núi."
+        },
+        {
+          "key": "B",
+          "text": "Phần lớn dân cư sinh sống ở khu vực thành thị."
+        },
+        {
+          "key": "C",
+          "text": "Vùng núi và cao nguyên có mật độ dân số cao nhất."
+        },
+        {
+          "key": "D",
+          "text": "Dân cư tập trung đông ở đồng bằng và ven biển, thưa thớt ở vùng núi."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Phân bố dân cư nước ta **chênh lệch**: đông ở đồng bằng, ven biển; thưa ở miền núi, cao nguyên. A sai vì không đồng đều; B sai vì phần lớn dân vẫn ở nông thôn; C ngược thực tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "phân bố dân cư"
+      ]
+    },
+    {
+      "id": "dia12-b07-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bối cảnh dân số đang **già hoá**, chính sách nào sau đây **phù hợp nhất** để bảo đảm nguồn nhân lực cho phát triển?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đẩy mạnh đưa lao động trẻ đi làm việc ở nước ngoài."
+        },
+        {
+          "key": "B",
+          "text": "Nâng cao chất lượng và hiệu quả sử dụng lao động thay vì chỉ dựa vào số lượng."
+        },
+        {
+          "key": "C",
+          "text": "Giữ nguyên chính sách vì quy mô dân số đã đủ lớn."
+        },
+        {
+          "key": "D",
+          "text": "Tăng mạnh mức sinh để giữ dân số luôn trẻ."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Khi dân số già hoá, số lao động sẽ chậm tăng, nên phải dựa vào **chất lượng và năng suất** lao động. A làm giảm nhân lực tại chỗ; C thụ động trước biến đổi; D khó thực hiện và không giải quyết ngay chất lượng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "chính sách dân số",
+        "già hoá dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng số liệu về cơ cấu dân số theo ba nhóm tuổi (đơn vị: %). Năm A: 0–14 = 30, 15–64 = 65, từ 65 trở lên = 5. Năm B: 0–14 = 20, 15–64 = 65, từ 65 trở lên = 15. Tỉ trọng nhóm từ 65 tuổi trở lên và xu hướng chung của cơ cấu tuổi là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ nguyên; dân số đang trẻ hoá."
+        },
+        {
+          "key": "B",
+          "text": "Tăng lên 25%; dân số không đổi."
+        },
+        {
+          "key": "C",
+          "text": "Giảm còn 5%; dân số trẻ hoá."
+        },
+        {
+          "key": "D",
+          "text": "Tăng từ 5% lên 15%; dân số đang già hoá."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Nhóm từ 65 tuổi trở lên tăng từ **5% lên 15%**, đồng thời nhóm trẻ em giảm, là bằng chứng **già hoá**. A và C sai vì nhóm cao tuổi tăng chứ không giảm/nguyên; B sai con số (không phải 25%).",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đọc bảng số liệu",
+        "già hoá dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "**Mục tiêu cơ bản** của chính sách dân số ở nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo đảm quy mô, cơ cấu và phân bố dân số hợp lí, nâng cao chất lượng dân số, phục vụ phát triển bền vững."
+        },
+        {
+          "key": "B",
+          "text": "Làm cho dân số giảm thật nhanh để bớt áp lực việc làm."
+        },
+        {
+          "key": "C",
+          "text": "Tăng nhanh dân số để có nhiều lao động giá rẻ."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ tập trung nâng cao thu nhập cho khu vực thành thị."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Chính sách dân số hướng tới **kết hợp** quy mô hợp lí, cơ cấu cân đối, phân bố hài hoà và chất lượng dân số được nâng lên. B và C cực đoan (giảm hoặc tăng ồ ạt đều có hại); D phiến diện, bỏ qua nông thôn và các khía cạnh khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "chính sách dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây **đúng** về mối quan hệ giữa **đô thị hoá và phát triển kinh tế**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đô thị hoá luôn làm giảm thu nhập của người dân."
+        },
+        {
+          "key": "B",
+          "text": "Phát triển kinh tế không ảnh hưởng đến đô thị hoá."
+        },
+        {
+          "key": "C",
+          "text": "Đô thị hoá gắn với công nghiệp hoá, thúc đẩy chuyển dịch cơ cấu kinh tế và tăng năng suất."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cần mở rộng phạm vi đô thị là kinh tế sẽ phát triển."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Đô thị hoá và công nghiệp hoá là hai mặt của quá trình phát triển: đô thị là nơi tập trung lao động, thị trường và công nghệ, qua đó chuyển dịch cơ cấu và tăng năng suất. A và B phủ nhận quan hệ thực có; D sai vì mở rộng vật lý không tự tạo phát triển.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đô thị hoá",
+        "kinh tế"
+      ]
+    },
+    {
+      "id": "dia12-b07-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiện nay, **hạn chế** nổi bật về **chất lượng nguồn lao động** của nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số lượng lao động quá ít so với nhu cầu phát triển."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ lệ lao động qua đào tạo còn thấp, năng suất lao động chưa cao."
+        },
+        {
+          "key": "C",
+          "text": "Lao động tập trung hoàn toàn ở khu vực thành thị."
+        },
+        {
+          "key": "D",
+          "text": "Lao động chủ yếu làm việc trong các ngành công nghệ cao."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Nước ta đông lao động nhưng **chất lượng** còn hạn chế: tỉ lệ qua đào tạo thấp, năng suất chưa cao. A sai vì lao động dồi dào; C và D không đúng vì phần lớn lao động còn ở nông thôn và trong các ngành thâm dụng lao động.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "nguồn lao động",
+        "chất lượng"
+      ]
+    },
+    {
+      "id": "dia12-b07-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bảng số liệu dân số theo nhóm tuổi tại một thời điểm (đơn vị: triệu người). Tổng số dân = 100; nhóm 0–14 tuổi = 25; nhóm từ 65 tuổi trở lên = 15; nhóm 15–64 tuổi chưa cho biết. Tỉ trọng của nhóm 15–64 tuổi là",
+      "options": [
+        {
+          "key": "A",
+          "text": "60%."
+        },
+        {
+          "key": "B",
+          "text": "40%."
+        },
+        {
+          "key": "C",
+          "text": "50%."
+        },
+        {
+          "key": "D",
+          "text": "70%."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Nhóm 15–64 tuổi = 100 − 25 − 15 = 60 triệu người; chiếm 60 : 100 × 100% = **60%**. B (lấy 25 + 15 + ...), C và D không đúng hiệu số các nhóm còn lại.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "cơ cấu tuổi",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b07-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Vùng T có tổng số dân **80 triệu người**, trong đó nhóm từ 65 tuổi trở lên chiếm **8%**. Số người từ 65 tuổi trở lên của vùng T là",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,8 triệu người."
+        },
+        {
+          "key": "B",
+          "text": "1,6 triệu người."
+        },
+        {
+          "key": "C",
+          "text": "6,4 triệu người."
+        },
+        {
+          "key": "D",
+          "text": "16 triệu người."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Số người cao tuổi = 80 × 8% = 80 × 0,08 = **6,4 triệu người**. A (80 × 1%) và B (80 × 2%) sai tỉ lệ; D (80 × 20%) gấp quá nhiều lần.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "cơ cấu tuổi",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b07-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây **sai** khi nói về **đô thị hoá** ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ lệ dân thành thị có xu hướng tăng lên."
+        },
+        {
+          "key": "B",
+          "text": "Quy mô của các đô thị lớn ngày càng tăng."
+        },
+        {
+          "key": "C",
+          "text": "Đô thị hoá tạo ra thị trường tiêu thụ hàng hoá và dịch vụ lớn."
+        },
+        {
+          "key": "D",
+          "text": "Đô thị hoá ở nước ta đã hoàn toàn đồng bộ với trình độ phát triển công nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D (phát biểu sai).** Đô thị hoá nước ta còn **chưa đồng bộ** với công nghiệp hoá, hạ tầng nhiều nơi không theo kịp. A, B, C đều là nhận định **đúng** về xu hướng và vai trò của đô thị hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đô thị hoá",
+        "phát biểu sai"
+      ]
+    },
+    {
+      "id": "dia12-b07-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "SINGLE_CHOICE",
+      "content": "Để **phát triển bền vững** trong điều kiện dân số đang già hoá, nước ta cần **ưu tiên nhất** điều nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Duy trì dân số trẻ bằng mọi giá, tăng mức sinh thật nhanh."
+        },
+        {
+          "key": "B",
+          "text": "Giảm số người cao tuổi để hạ chi phí cho xã hội."
+        },
+        {
+          "key": "C",
+          "text": "Xây dựng hệ thống an sinh, y tế, hưu trí phù hợp và khai thác hiệu quả giai đoạn cơ cấu dân số vàng đang chuyển dần."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển toàn bộ lao động nông thôn ra thành thị."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Già hoá đòi hỏi thích ứng: bảo đảm an sinh – y tế – hưu trí cho người cao tuổi và tận dụng 'dân số vàng' khi còn. A khó khả thi và không giải quyết gốc; B vô nhân đạo, phi thực tế; D gây quá tải đô thị.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "phát triển bền vững",
+        "già hoá dân số"
+      ]
+    },
+    {
+      "id": "dia12-b07-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về đặc điểm dân số Việt Nam?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Với dân số 50 triệu và tốc độ tăng 6%/năm, số dân tăng thêm trong một năm là 3 triệu người."
+        },
+        {
+          "key": "B",
+          "text": "Quá trình đô thị hoá làm tăng dần tỉ lệ dân thành thị so với tổng số dân."
+        },
+        {
+          "key": "C",
+          "text": "Dân số nước ta đồng nhất, chỉ có duy nhất một thành phần dân tộc."
+        },
+        {
+          "key": "D",
+          "text": "Tốc độ tăng dân số đã giảm, vì vậy quy mô dân số nước ta đang giảm đi."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "**Đáp án: A, B.** A đúng vì 50 × 6% = 3 triệu người; B đúng vì đô thị hoá làm tỉ lệ dân thành thị tăng. C sai vì nước ta có 54 thành phần dân tộc; D sai vì tốc độ giảm nhưng quy mô vẫn tiếp tục tăng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đặc điểm dân số",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b07-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** khi giải thích vì sao dân số nước ta **tăng chậm lại nhưng vẫn tiếp tục tăng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ suất sinh đã giảm mạnh so với giai đoạn trước đây."
+        },
+        {
+          "key": "B",
+          "text": "Do quy mô dân số gốc đã lớn nên số người tăng thêm mỗi năm còn nhiều (động lượng dân số)."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ suất tăng dân số của nước ta đã trở thành số âm."
+        },
+        {
+          "key": "D",
+          "text": "Toàn bộ phần tăng dân số hiện nay là do nhập cư quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "**Đáp án: A, B.** Mức sinh giảm làm tốc độ tăng chậm lại, còn động lượng dân số khiến lượng tăng tuyệt đối vẫn lớn nên quy mô tiếp tục tăng. C sai vì tỉ suất tăng còn dương; D sai vì phần tăng chủ yếu vẫn là tăng tự nhiên.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "gia tăng dân số",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b07-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về **biểu hiện già hoá dân số** ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ trọng nhóm từ 65 tuổi trở lên có xu hướng tăng lên."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ trọng nhóm 0–14 tuổi có xu hướng giảm xuống."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ trọng nhóm trẻ em ngày càng tăng nhanh qua các năm."
+        },
+        {
+          "key": "D",
+          "text": "Nhóm dân số trong độ tuổi lao động biến mất hoàn toàn."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "**Đáp án: A, B.** Già hoá thể hiện ở việc nhóm cao tuổi tăng và nhóm trẻ em giảm tỉ trọng. C ngược với thực tế (đây là dấu hiệu trẻ hoá); D sai vì nhóm lao động chưa biến mất, chỉ chậm tăng tỉ trọng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "già hoá dân số",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b07-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về **phân bố dân cư** ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đồng bằng và vùng ven biển là nơi dân cư tập trung đông đúc."
+        },
+        {
+          "key": "B",
+          "text": "Dân cư phân bố đều giữa các vùng lãnh thổ."
+        },
+        {
+          "key": "C",
+          "text": "Vùng núi và cao nguyên có mật độ dân số thấp hơn đồng bằng."
+        },
+        {
+          "key": "D",
+          "text": "Phần lớn dân cư nước ta đang sinh sống ở khu vực thành thị."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, C.** Dân cư tập trung đông ở đồng bằng, ven biển và thưa thớt ở miền núi, cao nguyên — phản ánh sự phân bố **không đều**. B sai vì phủ nhận tính chênh lệch; D sai vì phần lớn dân số vẫn ở khu vực nông thôn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "phân bố dân cư",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b07-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b07-dan-so",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Cho bảng số liệu về một vùng (đơn vị: ‰): Tỉ suất sinh = 12, Tỉ suất tử = 7. Những phát biểu nào sau đây **đúng**?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ suất tăng tự nhiên của vùng bằng 5‰."
+        },
+        {
+          "key": "B",
+          "text": "Tỉ suất tăng tự nhiên của vùng tương ứng 0,5%."
+        },
+        {
+          "key": "C",
+          "text": "Tỉ suất tăng tự nhiên của vùng bằng 19‰."
+        },
+        {
+          "key": "D",
+          "text": "Với các số liệu trên, quy mô dân số của vùng đang giảm đi."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "**Đáp án: A, B.** Tỉ suất tăng tự nhiên = sinh − tử = 12 − 7 = 5‰, và 5‰ = 0,5%. C sai vì lấy 12 + 7 = 19 (cộng chứ không trừ); D sai vì tăng tự nhiên dương nên dân số vẫn tăng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 7",
+        "đọc bảng số liệu",
+        "tính toán"
+      ]
+    }
+  ]
+}

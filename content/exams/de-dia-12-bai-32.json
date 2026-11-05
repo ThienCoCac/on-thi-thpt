@@ -1,0 +1,1467 @@
+{
+  "id": "de-dia-12-bai-32",
+  "title": "Đề ôn tập Địa lí 12 – Bài 32: Thực hành – Viết báo cáo về biến đổi khí hậu ở Đồng bằng sông Cửu Long",
+  "slug": "de-dia-12-bai-32",
+  "description": "Đề thực hành 40 câu theo Bài 32, Địa lí 12 (Kết nối tri thức, bản chỉnh sửa 2026: 34 tỉnh, thành phố và 6 vùng kinh tế - xã hội). Trọng tâm là kĩ năng viết báo cáo về biến đổi khí hậu ở Đồng bằng sông Cửu Long: nhận biết biểu hiện biến đổi khí hậu (nhiệt tăng, mưa dịch mùa, mực nước biển dâng), đọc và tính bảng số liệu khí hậu - thủy văn, xác định nguồn số liệu và cách trích dẫn, lập dàn ý - viết - trình bày báo cáo, phân tích tác động (xâm nhập mặn, sạt lở, suy giảm phù sa, ngập đô thị, mất rừng ngập mặn) và đề xuất giải pháp công trình, phi công trình, chuyển đổi sinh kế, liên kết vùng. Mọi số liệu khí hậu, thủy văn và diện tích trong đề là giả định do đề tự đặt và đã được tính lại.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B32",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b32-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "biểu hiện biến đổi khí hậu",
+        "nhận biết",
+        "đồng bằng sông cửu long"
+      ],
+      "content": "Trong dự thảo báo cáo về biến đổi khí hậu ở Đồng bằng sông Cửu Long, một học sinh liệt kê năm hiện tượng: (1) nhiệt độ trung bình năm tăng dần qua các thập kỉ; (2) số ngày nắng nóng trên 35 °C trong năm tăng lên; (3) triều cường xuất hiện đều đặn hai kì mỗi tháng ở vùng ven biển; (4) mùa mưa đến muộn hơn và lượng mưa dồn vào ít tháng hơn; (5) mực nước biển trung bình dâng cao so với thời kì trước. Có bao nhiêu hiện tượng trong số trên là biểu hiện của biến đổi khí hậu? (Các số liệu trong câu là giả định do đề tự đặt.)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có một hiện tượng"
+        },
+        {
+          "key": "B",
+          "text": "Có hai hiện tượng"
+        },
+        {
+          "key": "C",
+          "text": "Có năm hiện tượng"
+        },
+        {
+          "key": "D",
+          "text": "Có bốn hiện tượng"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Bốn hiện tượng (1), (2), (4), (5) là biểu hiện của biến đổi khí hậu vì chúng cho thấy xu thế thay đổi của các yếu tố khí hậu. Triều cường ở (3) là dao động thủy văn bình thường do sức hút của Mặt Trăng và Mặt Trời, lặp lại đều đặn hằng tháng nên không phải biểu hiện của khí hậu đang biến đổi."
+    },
+    {
+      "id": "dia12-b32-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "bằng chứng nóng lên",
+        "nhận biết",
+        "biểu hiện biến đổi khí hậu"
+      ],
+      "content": "Bằng chứng nào sau đây thể hiện rõ nhất xu thế nóng lên của khí hậu ở một tỉnh ven biển Đồng bằng sông Cửu Long và nên được đưa vào phần 'biểu hiện' của báo cáo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng diện tích gieo trồng lúa của tỉnh giảm trong ba vụ liên tiếp"
+        },
+        {
+          "key": "B",
+          "text": "Nhiệt độ trung bình nhiều năm tăng, đồng thời số ngày nắng nóng kéo dài hơn"
+        },
+        {
+          "key": "C",
+          "text": "Số đơn vị hành chính cấp xã của tỉnh không thay đổi"
+        },
+        {
+          "key": "D",
+          "text": "Nước biển có màu xanh hơn vào vài ngày mùa khô"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Khí hậu nóng lên phải được chứng minh bằng xu thế tăng của các yếu tố khí hậu, rõ nhất là nhiệt độ trung bình nhiều năm tăng và số ngày nắng nóng tăng về lượng và độ dài. Diện tích lúa, số xã hay màu nước biển không phải yếu tố khí hậu."
+    },
+    {
+      "id": "dia12-b32-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "khái niệm nước biển dâng",
+        "phân biệt hiện tượng",
+        "báo cáo thực hành"
+      ],
+      "content": "Trong phần trình bày khái niệm của báo cáo, 'nước biển dâng' được hiểu đúng nhất là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sự tăng của mực nước biển trung bình so với mức chuẩn nhiều năm, chủ yếu do nước giãn nở vì nhiệt và băng trên lục địa tan"
+        },
+        {
+          "key": "B",
+          "text": "triều cường cao bất thường kéo dài vài ngày trong một tháng"
+        },
+        {
+          "key": "C",
+          "text": "một đợt ngập lụt sau cơn bão lớn ở vùng ven biển"
+        },
+        {
+          "key": "D",
+          "text": "sóng to làm xói lở vài mét bờ biển trong một mùa"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Nước biển dâng là xu thế tăng của mực nước biển trung bình so với thời kì chuẩn, nguyên nhân chủ yếu là nước giãn nở vì nhiệt và băng trên lục địa tan ra. Triều cường, ngập sau bão hay sóng làm xói lở là những hiện tượng khác, chỉ trở nên nặng hơn khi có nước biển dâng."
+    },
+    {
+      "id": "dia12-b32-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "khí nhà kính",
+        "nguyên nhân",
+        "nhận biết"
+      ],
+      "content": "Nhóm nào sau đây gồm toàn bộ các khí nhà kính tăng lên nhiều do hoạt động của con người, thường được nêu trong phần 'nguyên nhân' của báo cáo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khí oxi, khí nitơ, khí hi-đrô"
+        },
+        {
+          "key": "B",
+          "text": "Khí mê-tan, khí hê-li, khí neon"
+        },
+        {
+          "key": "C",
+          "text": "Khí clo, khí flo, khí oxi"
+        },
+        {
+          "key": "D",
+          "text": "Khí cac-đi-ô-xit, khí mê-tan, khí ni-trô-ô-xit"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Cac-đi-ô-xit từ đốt nhiên liệu, mê-tan từ trồng lúa ngập nước và chăn nuôi, ni-trô-ô-xit từ phân bón hóa học là ba khí nhà kính gắn trực tiếp với hoạt động kinh tế - xã hội ở đồng bằng. Oxi, nitơ, hi-đrô, hê-li không phải khí nhà kính quan trọng."
+    },
+    {
+      "id": "dia12-b32-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "xâm nhập mặn",
+        "mùa khô",
+        "phân tích thời điểm"
+      ],
+      "content": "Xâm nhập mặn ở các cửa sông thuộc Đồng bằng sông Cửu Long thường gay gắt nhất vào thời điểm nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đầu mùa mưa, khi các hồ chứa ở thượng nguồn mở van xả"
+        },
+        {
+          "key": "B",
+          "text": "Giữa mùa mưa, khi nước từ thượng nguồn đổ về lớn nhất"
+        },
+        {
+          "key": "C",
+          "text": "Cuối mùa khô, khi lưu lượng nước từ thượng nguồn về hạ lưu thấp nhất"
+        },
+        {
+          "key": "D",
+          "text": "Ngay sau mỗi cơn bão, khi lượng mưa tăng đột ngột"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Muối chỉ lấn sâu được khi dòng chảy từ thượng nguồn về yếu, vì vậy xâm nhập mặn gay gắt nhất vào cuối mùa khô (thường khoảng tháng 2 đến tháng 4), khi lưu lượng nước ngọt thấp nhất và nhu cầu dùng nước lại cao nhất."
+    },
+    {
+      "id": "dia12-b32-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "phân loại số liệu",
+        "số liệu khí hậu",
+        "nguồn số liệu"
+      ],
+      "content": "Trong bốn nhóm số liệu sau, nhóm nào thuộc nhóm số liệu khí hậu và dùng trực tiếp để chứng minh biến đổi khí hậu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Diện tích lúa, năng suất lúa, sản lượng lúa hằng năm"
+        },
+        {
+          "key": "B",
+          "text": "Dân số trung bình, số hộ, số lao động nông nghiệp"
+        },
+        {
+          "key": "C",
+          "text": "Nhiệt độ trung bình năm, lượng mưa năm, số ngày nắng nóng"
+        },
+        {
+          "key": "D",
+          "text": "Số trường học, số trạm y tế, chiều dài đường giao thông"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Nhiệt độ, lượng mưa và số ngày nắng nóng là các yếu tố khí hậu, thể hiện thẳng biểu hiện của biến đổi khí hậu. Ba nhóm còn lại là số liệu kinh tế - xã hội, chỉ dùng để đánh giá tác động hoặc mức dễ bị tổn thương."
+    },
+    {
+      "id": "dia12-b32-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "tính tốc độ tăng nhiệt",
+        "bảng số liệu khí hậu",
+        "kĩ năng xử lí số liệu"
+      ],
+      "content": "**Bảng số liệu nhiệt độ trung bình năm ở Đồng bằng sông Cửu Long (°C):**\n\n- Giai đoạn 1990-1999: 26,8; Giai đoạn 2000-2009: 27,0; Giai đoạn 2010-2019: 27,4\n\n*Nguồn: Niên giám thống kê Việt Nam (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, mức tăng nhiệt độ trung bình cho mỗi thập kỉ trong giai đoạn 1990-2019 là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,2 °C"
+        },
+        {
+          "key": "B",
+          "text": "0,3 °C"
+        },
+        {
+          "key": "C",
+          "text": "0,6 °C"
+        },
+        {
+          "key": "D",
+          "text": "3,0 °C"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Mức tăng cả giai đoạn là 27,4 - 26,8 = 0,6 °C và ứng với 2 thập kỉ, nên trung bình mỗi thập kỉ tăng 0,6 : 2 = 0,3 °C."
+    },
+    {
+      "id": "dia12-b32-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "phát hiện suy luận sai",
+        "bảng số liệu khí hậu",
+        "kĩ năng viết báo cáo"
+      ],
+      "content": "**Bảng số liệu nhiệt độ trung bình năm ở Đồng bằng sông Cửu Long (°C):**\n\n- Giai đoạn 1990-1999: 26,8; Giai đoạn 2000-2009: 27,0; Giai đoạn 2010-2019: 27,4\n\n*Nguồn: Niên giám thống kê Việt Nam (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, một học sinh viết bốn nhận định. Nhận định nào KHÔNG phù hợp với dữ liệu của bảng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt độ trung bình năm tăng qua cả ba thập kỉ được xét"
+        },
+        {
+          "key": "B",
+          "text": "Mức tăng của thập kỉ 2010-2019 lớn gấp đôi mức tăng của thập kỉ 2000-2009"
+        },
+        {
+          "key": "C",
+          "text": "Chênh lệch nhiệt độ giữa giai đoạn 1990-1999 và giai đoạn 2000-2009 là 0,2 °C"
+        },
+        {
+          "key": "D",
+          "text": "Lượng mưa trung bình năm cũng tăng theo nhiệt độ trong cùng giai đoạn"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Bảng chỉ có nhiệt độ nên không cho phép kết luận về lượng mưa; đây là lỗi suy luận vượt quá số liệu hay gặp khi viết báo cáo. Các nhận định còn lại kiểm tra được: 27,0 - 26,8 = 0,2 °C và 27,4 - 27,0 = 0,4 °C, tức 0,4 = 2 × 0,2."
+    },
+    {
+      "id": "dia12-b32-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "cách trích dẫn",
+        "số liệu tự đo",
+        "nguồn số liệu"
+      ],
+      "content": "Nhóm học sinh tự đo độ mặn ở một con sông mỗi tuần và dùng kết quả đó trong báo cáo. Cách trình bày nào sau đây là đúng khi đưa số liệu vào bảng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ghi nguồn là số liệu khí tượng thủy văn quốc gia cho có uy tín"
+        },
+        {
+          "key": "B",
+          "text": "Không cần ghi nguồn vì số liệu do chính nhóm đo"
+        },
+        {
+          "key": "C",
+          "text": "Ghi rõ đây là số liệu sơ cấp do nhóm tự đo, kèm ngày đo và vị trí đo"
+        },
+        {
+          "key": "D",
+          "text": "Đăng bảng lên mạng xã hội rồi lấy đường dẫn mạng xã hội làm nguồn chính thức"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Số liệu do người viết tự thu thập là số liệu sơ cấp và phải được nói rõ, kèm ngày đo, vị trí đo để người đọc kiểm chứng. Gán số liệu tự đo cho nguồn chính thức là sai lệch; bỏ trống nguồn cũng sai vì không xác minh được."
+    },
+    {
+      "id": "dia12-b32-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "chọn cách trình bày",
+        "bảng số liệu",
+        "kĩ năng trình bày"
+      ],
+      "content": "Báo cáo cần trình bày tỉ lệ diện tích bị ngập theo ba kịch bản mực nước biển dâng. Cách trình bày nào sau đây phù hợp nhất để người đọc so sánh được ngay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vẽ biểu đồ cột cho ba kịch bản, đặt cạnh bảng số liệu có ghi nguồn"
+        },
+        {
+          "key": "B",
+          "text": "Vẽ sơ đồ vòng tuần hoàn của nước trong tự nhiên"
+        },
+        {
+          "key": "C",
+          "text": "Đăng ảnh chụp một tuyến đường bị ngập không kèm số liệu"
+        },
+        {
+          "key": "D",
+          "text": "Dùng bản đồ đơn vị hành chính của vùng"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Ba kịch bản là ba đại lượng cùng đơn vị ứng với ba mức tác động, nên biểu đồ cột kèm bảng số liệu và nguồn là cách rõ nhất. Sơ đồ tuần hoàn nước, ảnh ngập hay bản đồ hành chính không thể hiện được so sánh về mức độ."
+    },
+    {
+      "id": "dia12-b32-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "tính độ mặn giảm theo khoảng cách",
+        "bảng số liệu thủy văn",
+        "kĩ năng xử lí số liệu"
+      ],
+      "content": "**Bảng số liệu độ mặn lớn nhất trong mùa khô đo tại ba điểm trên cùng một con sông (phần nghìn):**\n\n- Điểm A cách cửa sông 10 km: 28,5; Điểm B cách cửa sông 30 km: 18,2; Điểm C cách cửa sông 50 km: 9,4\n\n*Nguồn: Số liệu quan trắc thủy văn (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, từ điểm B đến điểm C độ mặn giảm trung bình bao nhiêu phần nghìn cho mỗi ki-lô-mét đi sâu vào nội địa?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,22 phần nghìn"
+        },
+        {
+          "key": "B",
+          "text": "0,44 phần nghìn"
+        },
+        {
+          "key": "C",
+          "text": "2,20 phần nghìn"
+        },
+        {
+          "key": "D",
+          "text": "4,40 phần nghìn"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Lượng giảm là 18,2 - 9,4 = 8,8 phần nghìn trên quãng đường 50 - 30 = 20 km, nên trung bình mỗi ki-lô-mét giảm 8,8 : 20 = 0,44 phần nghìn."
+    },
+    {
+      "id": "dia12-b32-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "đối chiếu ngưỡng mặn",
+        "suy luận từ số liệu",
+        "tác động tới sản xuất"
+      ],
+      "content": "Mùa khô, tại một con sông ở Đồng bằng sông Cửu Long, độ mặn lớn nhất đo được ở điểm cách cửa sông 10 km là 28,5 phần nghìn, cách 30 km là 18,2 phần nghìn và cách 50 km là 9,4 phần nghìn (số liệu giả định do đề tự đặt). Biết rằng chỉ lấy được nước tưới cho lúa khi độ mặn từ 4 phần nghìn trở xuống. Kết luận nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Độ mặn tăng dần khi đi sâu vào nội địa"
+        },
+        {
+          "key": "B",
+          "text": "Ở điểm cách cửa sông 50 km vẫn chưa bảo đảm ngưỡng lấy nước tưới cho lúa"
+        },
+        {
+          "key": "C",
+          "text": "Điểm cách cửa sông 50 km có độ mặn cao nhất trong ba điểm"
+        },
+        {
+          "key": "D",
+          "text": "Ở điểm cách cửa sông 30 km đã đủ ngọt để tưới lúa"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Ngay tại điểm xa nhất là 50 km, độ mặn vẫn là 9,4 phần nghìn, lớn hơn ngưỡng 4 phần nghìn nên chưa dùng để tưới lúa được. Độ mặn giảm dần khi vào nội địa nên hai kết luận về độ mặn tăng và điểm 50 km cao nhất đều sai; tại 30 km độ mặn 18,2 phần nghìn còn xa mới đạt ngưỡng."
+    },
+    {
+      "id": "dia12-b32-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "tính trung bình",
+        "sạt lở bờ sông bờ biển",
+        "bảng số liệu"
+      ],
+      "content": "**Bảng số liệu diện tích đất bị mất do sạt lở bờ sông, bờ biển của một huyện ven biển (ha):**\n\n- Năm 2018: 84; Năm 2019: 96; Năm 2020: 120\n\n*Nguồn: Báo cáo tổng hợp của địa phương (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, trung bình mỗi năm huyện mất bao nhiêu héc-ta đất và xu thế thay đổi như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trung bình 100 ha một năm và diện tích mất tăng dần"
+        },
+        {
+          "key": "B",
+          "text": "Trung bình 96 ha một năm và diện tích mất giảm dần"
+        },
+        {
+          "key": "C",
+          "text": "Trung bình 120 ha một năm và diện tích mất không đổi"
+        },
+        {
+          "key": "D",
+          "text": "Trung bình 300 ha một năm và diện tích mất tăng dần"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Tổng diện tích mất là 84 + 96 + 120 = 300 ha cho 3 năm, trung bình 300 : 3 = 100 ha mỗi năm; dãy số 84, 96, 120 tăng dần qua các năm. Giá trị 96 ha là số của riêng năm 2019, 300 ha là tổng chứ không phải mức trung bình."
+    },
+    {
+      "id": "dia12-b32-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "suy giảm phù sa",
+        "phần nguyên nhân",
+        "liên hệ thượng nguồn"
+      ],
+      "content": "Lượng trầm phù lơ lửng trung bình tại một trạm đo trên sông ở đầu Đồng bằng sông Cửu Long giảm từ 620 mi-li-gam trên lít (năm 2015) xuống 380 mi-li-gam trên lít (năm 2025), số liệu giả định do đề tự đặt. Giải thích nào sau đây hợp lí nhất để đưa vào phần nguyên nhân của báo cáo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nước biển dâng làm tăng bay hơi nên phù sa không vào đồng bằng nữa"
+        },
+        {
+          "key": "B",
+          "text": "Độ mặn tăng làm toàn bộ sét trong nước kết tủa hết"
+        },
+        {
+          "key": "C",
+          "text": "Các hồ, đập ở thượng nguồn giữ lại phần lớn bùn cát, dòng chảy về hạ lưu nghèo phù sa"
+        },
+        {
+          "key": "D",
+          "text": "Rừng ngập mặn mở rộng đã chắn hết bùn cát từ sông"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Bùn cát trên lưu vực bị giữ lại trong lòng các hồ chứa và công trình ở thượng nguồn, nên lượng trầm phù về đồng bằng giảm mạnh, đồng bằng mất nguồn bồi tụ tự nhiên. Bay hơi, kết tủa do mặn hay rừng ngập mặn không phải nguyên nhân chính."
+    },
+    {
+      "id": "dia12-b32-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "tỉ lệ phần trăm giảm",
+        "suy giảm phù sa",
+        "kĩ năng tính toán"
+      ],
+      "content": "**Bảng số liệu lượng trầm phù lơ lửng trung bình tại một trạm đo ở đầu nguồn Đồng bằng sông Cửu Long (mi-li-gam trên lít):**\n\n- Năm 2015: 620; Năm 2025: 380\n\n*Nguồn: Số liệu quan trắc thủy văn (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, lượng trầm phù đã giảm bao nhiêu phần trăm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm 24,0%"
+        },
+        {
+          "key": "B",
+          "text": "Giảm 38,7%"
+        },
+        {
+          "key": "C",
+          "text": "Giảm 61,3%"
+        },
+        {
+          "key": "D",
+          "text": "Giảm 163,2%"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Lượng giảm tuyệt đối là 620 - 380 = 240 mi-li-gam trên lít; lấy 240 : 620 × 100 = 38,7%. Giá trị 61,3% là tỉ lệ còn lại so với số cũ, dễ nhầm nếu chia 380 cho 620."
+    },
+    {
+      "id": "dia12-b32-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "lập dàn ý",
+        "cấu trúc báo cáo",
+        "kĩ năng viết"
+      ],
+      "content": "Khi lập dàn ý cho báo cáo thực hành về biến đổi khí hậu ở Đồng bằng sông Cửu Long, trình tự các phần nào sau đây là hợp lí nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đề xuất giải pháp, mở đầu, biểu hiện, kết luận, tài liệu tham khảo"
+        },
+        {
+          "key": "B",
+          "text": "Mở đầu, kết luận, biểu hiện, tác động, đề xuất giải pháp"
+        },
+        {
+          "key": "C",
+          "text": "Tác động, biểu hiện, mở đầu, đề xuất giải pháp, tài liệu tham khảo"
+        },
+        {
+          "key": "D",
+          "text": "Mở đầu, biểu hiện, nguyên nhân và tác động, đề xuất giải pháp, kết luận, tài liệu tham khảo"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Báo cáo phải mở đầu bằng mục đích, phạm vi và nguồn số liệu; sau đó trình bày biểu hiện, nguyên nhân và tác động rồi mới đề xuất giải pháp; kết luận và tài liệu tham khảo đặt ở cuối. Các trình tự khác đặt kết luận hoặc giải pháp trước nội dung nên logic bị phá vỡ."
+    },
+    {
+      "id": "dia12-b32-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "EASY",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "phân biệt nhận định chủ quan",
+        "kĩ năng viết",
+        "ngôn ngữ báo cáo"
+      ],
+      "content": "Trong phần tác động của báo cáo có bốn câu sau. Câu nào là nhận định chủ quan, không nên đưa vào báo cáo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Em thấy khí hậu như vậy là rất buồn cho bà con nông dân."
+        },
+        {
+          "key": "B",
+          "text": "Diện tích rừng ngập mặn giảm làm mất nơi cư trú của nhiều loài thủy sản."
+        },
+        {
+          "key": "C",
+          "text": "Độ mặn tăng vào cuối mùa khô làm thu hẹp diện tích lúa có thể lấy nước tưới."
+        },
+        {
+          "key": "D",
+          "text": "Mực nước biển dâng làm ngập sâu hơn vào các đợt triều cường hằng năm."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Câu này chỉ bày tỏ cảm xúc, không có số liệu hay căn cứ để kiểm chứng nên là nhận định chủ quan. Ba câu còn lại nêu quan hệ nguyên nhân - kết quả, có thể chứng minh bằng số liệu khí hậu, thủy văn và hiện trạng sử dụng đất."
+    },
+    {
+      "id": "dia12-b32-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "nước biển dâng và sụt lún",
+        "tính mức nước tương đối",
+        "kĩ năng tính toán"
+      ],
+      "content": "Ở một khu vực ven biển Đồng bằng sông Cửu Long, mực nước biển trung bình dâng 0,7 cm mỗi năm, trong khi mặt đất bị sụt lún trung bình 1,5 cm mỗi năm do khai thác nước dưới đất (số liệu giả định do đề tự đặt). Bỏ qua các yếu tố khác, sau 20 năm mức nước biển tương đối so với mặt đất ở khu vực này tăng thêm bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "14,0 cm"
+        },
+        {
+          "key": "B",
+          "text": "30,0 cm"
+        },
+        {
+          "key": "C",
+          "text": "44 cm"
+        },
+        {
+          "key": "D",
+          "text": "440 cm"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Mỗi năm mặt đất thấp tương đối so với biển một lượng 0,7 + 1,5 = 2,2 cm, nên sau 20 năm mức tăng là 2,2 × 20 = 44 cm. Nếu chỉ cộng riêng nước biển dâng thì được 14,0 cm, tức bỏ sót sụt lún là nguyên nhân làm ngập nặng hơn."
+    },
+    {
+      "id": "dia12-b32-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "giải pháp công trình",
+        "ngăn mặn",
+        "phân loại giải pháp"
+      ],
+      "content": "Nhóm giải pháp nào sau đây đều thuộc nhóm giải pháp công trình trong ứng phó với xâm nhập mặn ở Đồng bằng sông Cửu Long?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tập huấn cộng đồng về lịch thời vụ và mua bảo hiểm nông nghiệp"
+        },
+        {
+          "key": "B",
+          "text": "Xây cống ngăn mặn kết hợp âu thuyền, tuyến đê bao và hệ thống kênh dẫn nước ngọt"
+        },
+        {
+          "key": "C",
+          "text": "Tuyên truyền trên loa xã và cấp phát tài liệu hướng dẫn"
+        },
+        {
+          "key": "D",
+          "text": "Quy hoạch lại cơ cấu mùa vụ và phát triển hợp tác xã"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Cống, đê bao, bờ bao và kênh dẫn là các công trình xây dựng nên thuộc nhóm công trình. Tập huấn, bảo hiểm, tuyên truyền, quy hoạch mùa vụ là giải pháp phi công trình vì không xây dựng mới."
+    },
+    {
+      "id": "dia12-b32-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "nông nghiệp thích ứng",
+        "chuyển đổi sinh kế",
+        "đề xuất giải pháp"
+      ],
+      "content": "Nội dung nào sau đây thể hiện đúng hướng nông nghiệp thích ứng với biến đổi khí hậu ở Đồng bằng sông Cửu Long và phù hợp để đưa vào phần đề xuất của báo cáo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng vụ lúa ở toàn bộ diện tích chuyên canh để bù sản lượng đã mất"
+        },
+        {
+          "key": "B",
+          "text": "Khoan thêm nhiều giếng để khai thác nước dưới đất tưới quanh năm"
+        },
+        {
+          "key": "C",
+          "text": "Mở rộng diện tích lúa trên các cù lao giữa sông để tăng vụ"
+        },
+        {
+          "key": "D",
+          "text": "Chuyển một phần đất lúa kém hiệu quả sang mô hình lúa - tôm ở vùng bán ngập mặn và bố trí lịch thời vụ né mặn"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Chuyển đổi cơ cấu sản xuất theo hướng dùng chính điều kiện mặn - ngọt theo mùa, kết hợp lịch thời vụ né mặn là thích ứng thực tế. Tăng vụ lúa hoặc khoan thêm giếng làm cạn kiệt nước ngọt và tăng sụt lún, còn mở lúa trên cù lao làm tăng rủi ro sạt lở."
+    },
+    {
+      "id": "dia12-b32-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "tính mức giảm lượng mưa",
+        "bảng số liệu khí hậu",
+        "kĩ năng xử lí số liệu"
+      ],
+      "content": "**Bảng số liệu lượng mưa trung bình năm ở Đồng bằng sông Cửu Long (mm):**\n\n- Năm 1990: 1580; Năm 2020: 1420\n\n*Nguồn: Niên giám thống kê Việt Nam (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, lượng mưa trung bình năm giảm bao nhiêu mi-li-mét và tương ứng giảm bao nhiêu phần trăm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm 100 mm, tương ứng giảm 6,3%"
+        },
+        {
+          "key": "B",
+          "text": "Giảm 160 mm, tương ứng giảm 10,1%"
+        },
+        {
+          "key": "C",
+          "text": "Giảm 160 mm, tương ứng giảm 11,3%"
+        },
+        {
+          "key": "D",
+          "text": "Giảm 1420 mm, tương ứng giảm 10,1%"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Lượng giảm là 1580 - 1420 = 160 mm; 160 : 1580 × 100 = 10,1%. Phải chia cho giá trị gốc 1580 mm; nếu chia cho 1420 mm sẽ ra 11,3% là kết quả sai."
+    },
+    {
+      "id": "dia12-b32-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "mưa dịch mùa",
+        "đọc bảng số liệu",
+        "nhận định cực đoan"
+      ],
+      "content": "**Bảng số liệu tỉ lệ lượng mưa năm dồn vào ba tháng mưa nhiều nhất ở Đồng bằng sông Cửu Long (%):**\n\n- Năm 1990: 48,5; Năm 2020: 57,2\n\n*Nguồn: Niên giám thống kê Việt Nam (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tỉ lệ tăng 8,7 điểm phần trăm, nghĩa là mưa ngày càng dồn vào ít tháng hơn nên mùa mưa có nguy cơ ngắn và dữ dội hơn"
+        },
+        {
+          "key": "B",
+          "text": "Tỉ lệ giảm 8,7% nên lượng mưa đã phân bố đều hơn trong năm"
+        },
+        {
+          "key": "C",
+          "text": "Tỉ lệ tăng 8,7 lần nên tổng lượng mưa năm tăng gấp gần chín lần"
+        },
+        {
+          "key": "D",
+          "text": "Không rút ra được nhận định nào vì bảng thiếu số liệu dân số"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Chênh lệch là 57,2 - 48,5 = 8,7 điểm phần trăm theo chiều tăng; phần lớn lượng mưa nằm trong ba tháng cho thấy mưa tập trung cực đoan hơn, mùa mưa có dấu hiệu dịch chuyển. Số liệu dân số không liên quan tới phân bố mưa."
+    },
+    {
+      "id": "dia12-b32-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "kịch bản nước biển dâng",
+        "tính chênh lệch điểm phần trăm",
+        "phát hiện nhận định sai"
+      ],
+      "content": "**Bảng số liệu tỉ lệ diện tích tự nhiên của một huyện ven biển Đồng bằng sông Cửu Long bị ngập theo kịch bản mực nước biển dâng (%):**\n\n- Dâng 30 cm: 8,9; Dâng 50 cm: 12,3; Dâng 100 cm: 20,2\n\n*Nguồn: Kịch bản dùng trong báo cáo (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ứng với kịch bản dâng 100 cm, tỉ lệ diện tích ngập gấp đúng 2 lần kịch bản dâng 30 cm"
+        },
+        {
+          "key": "B",
+          "text": "Từ kịch bản dâng 30 cm lên kịch bản dâng 50 cm, tỉ lệ diện tích ngập tăng thêm 20,2 điểm phần trăm"
+        },
+        {
+          "key": "C",
+          "text": "Tỉ lệ diện tích ngập tăng đúng 1,7 điểm phần trăm cho mỗi 10 cm nước biển dâng ở mọi khoảng"
+        },
+        {
+          "key": "D",
+          "text": "Từ kịch bản dâng 30 cm lên kịch bản dâng 100 cm, tỉ lệ diện tích ngập tăng 11,3 điểm phần trăm và đạt mức hơn hai lần giá trị của kịch bản 30 cm"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. 20,2 - 8,9 = 11,3 điểm phần trăm và 20,2 : 8,9 = 2,27 lần nên nói 'hơn hai lần' là đúng, còn 'gấp đúng 2 lần' là sai. Từ 30 cm lên 50 cm chỉ tăng 12,3 - 8,9 = 3,4 điểm phần trăm, tức 1,7 điểm cho mỗi 10 cm; từ 50 cm lên 100 cm tăng 20,2 - 12,3 = 7,9 điểm, tức 1,58 điểm cho mỗi 10 cm, nên mức tăng không đều."
+    },
+    {
+      "id": "dia12-b32-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "nguồn số liệu",
+        "số liệu sơ cấp và thứ cấp",
+        "cách trích dẫn"
+      ],
+      "content": "Trong phần 'nguồn số liệu' của báo cáo, học sinh liệt kê bốn nguồn: (1) Niên giám thống kê Việt Nam; (2) phiếu đo độ mặn hằng tuần do nhóm tự đo tại địa phương; (3) báo cáo khí tượng thủy văn hằng năm của khu vực; (4) lời kể của một người quen, không có ghi chép hay tài liệu kèm theo. Nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ (1) và (2) được phép dùng vì (3) và (4) là thông tin cũ"
+        },
+        {
+          "key": "B",
+          "text": "(1) và (3) là số liệu thứ cấp phải trích dẫn theo nguồn, (2) là số liệu sơ cấp của nhóm, (4) không đủ tin cậy để dùng"
+        },
+        {
+          "key": "C",
+          "text": "(4) vẫn dùng được vì kinh nghiệm thực tế của người dân luôn là số liệu đúng"
+        },
+        {
+          "key": "D",
+          "text": "Cả bốn nguồn trên đều là số liệu thứ cấp như nhau"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Số liệu do người khác công bố là số liệu thứ cấp, phải ghi rõ xuất xứ; số liệu nhóm tự đo là số liệu sơ cấp, phải kèm thời gian và địa điểm đo. Lời kể không có ghi chép không phải số liệu kiểm chứng được, còn báo cáo khí tượng thủy văn của khu vực không vì 'cũ' mà bị loại."
+    },
+    {
+      "id": "dia12-b32-c25",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "suy giảm rừng ngập mặn",
+        "tỉ lệ phần trăm",
+        "bảng số liệu"
+      ],
+      "content": "**Bảng số liệu diện tích rừng ngập mặn của một huyện ven biển Đồng bằng sông Cửu Long (nghìn ha):**\n\n- Năm 1990: 62,1; Năm 2020: 44,8\n\n*Nguồn: Niên giám thống kê Việt Nam (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, diện tích rừng ngập mặn đã giảm bao nhiêu phần trăm so với năm 1990?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm 17,3%"
+        },
+        {
+          "key": "B",
+          "text": "Giảm 28,9%"
+        },
+        {
+          "key": "C",
+          "text": "Giảm 27,9%"
+        },
+        {
+          "key": "D",
+          "text": "Giảm 72,1%"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Lượng giảm là 62,1 - 44,8 = 17,3 nghìn ha; 17,3 : 62,1 × 100 = 27,9%. 17,3 chỉ là lượng giảm tuyệt đối tính bằng nghìn ha, còn 72,1% là tỉ lệ diện tích còn lại so với năm 1990."
+    },
+    {
+      "id": "dia12-b32-c26",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "tác động mất rừng ngập mặn",
+        "sạt lở bờ biển",
+        "chuỗi nguyên nhân - kết quả"
+      ],
+      "content": "Trong phần tác động, học sinh viết: 'Diện tích rừng ngập mặn của huyện giảm 27,9% (số liệu giả định do đề tự đặt)'. Hệ quả nào sau đây rút ra hợp lí nhất từ số liệu đó?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bờ biển mất đai chắn sóng tự nhiên, sóng và triều tác động trực tiếp vào đê và đất liền nên nguy cơ sạt lở khi có bão tăng"
+        },
+        {
+          "key": "B",
+          "text": "Độ mặn trong các con sông giảm xuống nên vùng không còn xâm nhập mặn"
+        },
+        {
+          "key": "C",
+          "text": "Nhiệt độ trung bình năm của toàn vùng giảm theo diện tích rừng"
+        },
+        {
+          "key": "D",
+          "text": "Tổng lượng mưa năm tăng lên nên không còn thiếu nước ngọt vào mùa khô"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Rừng ngập mặn là đai thực vật chắn sóng và giữ bờ; mất rừng làm bờ biển dễ tổn thương hơn trước sóng, triều và bão. Mất rừng không làm giảm mặn, không hạ nhiệt độ và không làm tăng lượng mưa."
+    },
+    {
+      "id": "dia12-b32-c27",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "ngập đô thị",
+        "tỉ lệ tăng phần trăm",
+        "kĩ năng tính toán"
+      ],
+      "content": "**Bảng số liệu số đợt ngập sâu trên 30 cm trong năm tại một đô thị thuộc Đồng bằng sông Cửu Long (đợt):**\n\n- Năm 2015: 6; Năm 2024: 14\n\n*Nguồn: Tổng hợp nhật ký quan sát ngập của địa phương (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, số đợt ngập năm 2024 tăng bao nhiêu phần trăm so với năm 2015?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng 57,1%"
+        },
+        {
+          "key": "B",
+          "text": "Tăng 8,0%"
+        },
+        {
+          "key": "C",
+          "text": "Tăng 233,3%"
+        },
+        {
+          "key": "D",
+          "text": "Tăng 133,3%"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Lượng tăng là 14 - 6 = 8 đợt; lấy 8 : 6 × 100 = 133,3%. Nếu chia 8 cho 14 sẽ ra 57,1% là sai vì phải lấy năm gốc 2015 làm mẫu số."
+    },
+    {
+      "id": "dia12-b32-c28",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "giải pháp phi công trình",
+        "phân loại giải pháp",
+        "ứng phó biến đổi khí hậu"
+      ],
+      "content": "Nhóm giải pháp nào sau đây đều thuộc nhóm giải pháp phi công trình trong ứng phó với biến đổi khí hậu ở Đồng bằng sông Cửu Long?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cống ngăn mặn, đập, hồ chứa nước ngọt"
+        },
+        {
+          "key": "B",
+          "text": "Cảnh báo sớm, diễn tập cộng đồng, bảo hiểm nông nghiệp và quy hoạch lịch thời vụ"
+        },
+        {
+          "key": "C",
+          "text": "Đê bao, kè chống sạt lở, bờ bao"
+        },
+        {
+          "key": "D",
+          "text": "Trạm bơm, kênh dẫn nước ngọt, âu thuyền"
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Phi công trình là các giải pháp về tổ chức, quản lý, con người và chính sách, không xây dựng mới công trình. Cống, đập, hồ chứa, đê bao, kè, bờ bao, trạm bơm, kênh dẫn đều là công trình."
+    },
+    {
+      "id": "dia12-b32-c29",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "liên kết vùng",
+        "lưu vực sông",
+        "đề xuất giải pháp"
+      ],
+      "content": "Ở phần đề xuất, một học sinh viết: 'Ứng phó với biến đổi khí hậu ở Đồng bằng sông Cửu Long bắt buộc phải có liên kết vùng và liên tỉnh'. Lí do hợp lí nhất để bảo vệ nhận định đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nước, phù sa và mặn di chuyển theo lưu vực sông, vượt phạm vi một tỉnh nên một địa phương không thể tự giải quyết nếu thiếu kế hoạch chung"
+        },
+        {
+          "key": "B",
+          "text": "liên kết vùng chỉ là yêu cầu về hình thức trình bày của báo cáo thực hành"
+        },
+        {
+          "key": "C",
+          "text": "các tỉnh trong vùng hoàn toàn khác nhau về khí hậu nên không thể làm chung"
+        },
+        {
+          "key": "D",
+          "text": "mỗi tỉnh phải tự chịu toàn bộ kinh phí nên liên kết chỉ để chia tiền"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Nguồn nước ngọt, lượng phù sa và ranh mặn được quyết định bởi dòng chảy trên toàn lưu vực, nên việc vận hành công trình, lịch thời vụ và phòng chống sạt lở phải phối hợp giữa các địa phương trong vùng. Hai ý về hình thức và về khí hậu khác biệt đều không phải căn cứ."
+    },
+    {
+      "id": "dia12-b32-c30",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "tổ chức lãnh thổ 2026",
+        "phạm vi vùng",
+        "kĩ năng cập nhật số liệu"
+      ],
+      "content": "Theo cách tổ chức lãnh thổ bản chỉnh sửa 2026, cả nước có 34 tỉnh, thành phố và 6 vùng kinh tế - xã hội; vùng Tây Nguyên được tổ chức cùng với Duyên hải Nam Trung Bộ thành một vùng, còn Đồng bằng sông Cửu Long vẫn là một trong 6 vùng kinh tế - xã hội. Khi viết báo cáo theo cách tổ chức này, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đồng bằng sông Cửu Long trở thành một bộ phận của vùng Duyên hải Nam Trung Bộ"
+        },
+        {
+          "key": "B",
+          "text": "Vẫn dùng số liệu 63 tỉnh, thành phố và 7 vùng kinh tế - xã hội vì đó là số liệu quen thuộc"
+        },
+        {
+          "key": "C",
+          "text": "Số liệu về đơn vị hành chính và phạm vi vùng trong báo cáo phải đối chiếu theo cách tổ chức hiện hành, không lấy số liệu cũ"
+        },
+        {
+          "key": "D",
+          "text": "Có thể giữ cách chia 7 vùng kinh tế - xã hội cũ vì báo cáo chỉ nói về Đồng bằng sông Cửu Long"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Bản chỉnh sửa 2026 còn 34 tỉnh, thành phố và 6 vùng kinh tế - xã hội, nên mọi số liệu và tên phạm vi trong báo cáo phải cập nhật theo cách tổ chức hiện hành, không lấy số liệu cũ. B và D vẫn dùng cách chia cũ nên sai. Đồng bằng sông Cửu Long vẫn là một vùng, không bị gộp vào Duyên hải Nam Trung Bộ nên A sai."
+    },
+    {
+      "id": "dia12-b32-c31",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "kĩ năng trình bày",
+        "kiểm chứng số liệu",
+        "báo cáo thực hành"
+      ],
+      "content": "Bốn cách đưa số liệu vào báo cáo: (1) kẻ bảng có ghi đơn vị và nguồn ở dòng cuối; (2) viết con số trực tiếp trong câu văn kèm đơn vị; (3) vẽ biểu đồ có chú thích và ghi xuất xứ số liệu; (4) kể lại bằng lời, không ghi con số. Những cách nào giúp người đọc kiểm chứng được số liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "(1) và (4)"
+        },
+        {
+          "key": "B",
+          "text": "(2) và (4)"
+        },
+        {
+          "key": "C",
+          "text": "(1), (2) và (3)"
+        },
+        {
+          "key": "D",
+          "text": "Chỉ (4)"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Bảng, câu văn có con số và biểu đồ đều lưu lại trị số kèm đơn vị và xuất xứ nên đối chiếu được. Cách (4) không có con số nên không thể kiểm chứng, chỉ mang tính cảm nhận."
+    },
+    {
+      "id": "dia12-b32-c32",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "tính trung bình tháng",
+        "so sánh tỉ lệ",
+        "mùa khô"
+      ],
+      "content": "**Bảng số liệu lượng mưa ba tháng liên tiếp trong mùa khô tại một trạm khí tượng thuộc Đồng bằng sông Cửu Long (mm):**\n\n- Tháng 1: 12; Tháng 2: 25; Tháng 3: 41\n\n*Nguồn: Số liệu quan trắc khí tượng (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, kết luận nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trung bình mỗi tháng 26 mm và tháng 1 có lượng mưa lớn nhất"
+        },
+        {
+          "key": "B",
+          "text": "Trung bình mỗi tháng 78 mm và tháng 3 gấp đúng 4 lần tháng 1"
+        },
+        {
+          "key": "C",
+          "text": "Trung bình mỗi tháng 26 mm và lượng mưa giảm dần qua ba tháng"
+        },
+        {
+          "key": "D",
+          "text": "Trung bình mỗi tháng 26 mm và tháng 3 có lượng mưa gấp hơn 3 lần tháng 1"
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Trung bình là (12 + 25 + 41) : 3 = 78 : 3 = 26 mm mỗi tháng; 41 : 12 = 3,42 lần nên tháng 3 gấp hơn 3 lần tháng 1. 78 mm là tổng ba tháng chứ không phải mức trung bình, và dãy mưa tăng dần chứ không giảm."
+    },
+    {
+      "id": "dia12-b32-c33",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "giảm phát thải và thích ứng",
+        "kĩ năng lập luận",
+        "phần kết luận"
+      ],
+      "content": "Phần kết luận của báo cáo viết: 'Biến đổi khí hậu là xu thế khó đảo ngược trong ngắn hạn, vì vậy Đồng bằng sông Cửu Long phải vừa giảm phát thải khí nhà kính vừa tăng cường thích ứng'. Ý nào sau đây giải thích đúng logic của câu kết luận đó?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm phát thải tác động chậm tới khí hậu nên chưa hết nguy cơ, vì vậy phải thích ứng ngay với những biến đổi đã và đang xảy ra"
+        },
+        {
+          "key": "B",
+          "text": "Thích ứng sẽ làm mất hoàn toàn tác dụng của việc giảm phát thải"
+        },
+        {
+          "key": "C",
+          "text": "Giảm phát thải là việc của nơi khác, đồng bằng chỉ cần thích ứng"
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cần thích ứng vì biến đổi khí hậu rồi sẽ tự dừng lại"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Giảm phát thải là giải pháp dài hạn, kết quả đến chậm nên đồng bằng vẫn phải chịu các tác động đã diễn ra; vì vậy hai hướng phải đi song song. Loại bỏ một trong hai hướng hoặc cho rằng khí hậu tự dừng đều sai logic."
+    },
+    {
+      "id": "dia12-b32-c34",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "thiếu nước ngọt mùa khô",
+        "tỉ lệ phần trăm",
+        "đọc số liệu thủy văn"
+      ],
+      "content": "**Bảng số liệu nhu cầu và nguồn nước ngọt vào mùa khô của một xã ven biển (mét khối mỗi tháng):**\n\n- Nhu cầu cho sản xuất nông nghiệp: 480000; Nguồn nước ngọt tại chỗ đáp ứng được: 300000\n\n*Nguồn: Tổng hợp của nhóm học sinh từ số liệu địa phương (số liệu giả định do đề tự đặt).*\n\nVới bảng số liệu trên, nguồn tại chỗ đáp ứng được bao nhiêu phần trăm nhu cầu nước ngọt?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đáp ứng 37,5%"
+        },
+        {
+          "key": "B",
+          "text": "Đáp ứng 40,0%"
+        },
+        {
+          "key": "C",
+          "text": "Đáp ứng 62,5%"
+        },
+        {
+          "key": "D",
+          "text": "Đáp ứng 160,0%"
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. 300000 : 480000 × 100 = 62,5%; phần còn thiếu là 180000 mét khối, tương ứng 37,5% nhu cầu. Kết luận cho báo cáo: xã thiếu nước ngọt nghiêm trọng vào mùa khô, phải có kế hoạch trữ và dẫn nước ngọt."
+    },
+    {
+      "id": "dia12-b32-c35",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "nhận định sai",
+        "chế độ mưa mùa",
+        "biểu hiện biến đổi khí hậu"
+      ],
+      "content": "Bốn nhận định sau về biểu hiện biến đổi khí hậu ở Đồng bằng sông Cửu Long. Nhận định nào SAI?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mùa mưa và mùa khô của đồng bằng đã hoán đổi hoàn toàn vị trí cho nhau"
+        },
+        {
+          "key": "B",
+          "text": "Nhiệt độ trung bình năm có xu thế tăng qua các thập kỉ"
+        },
+        {
+          "key": "C",
+          "text": "Số ngày nắng nóng có xu thế tăng cả về số lượng lẫn độ dài"
+        },
+        {
+          "key": "D",
+          "text": "Lượng mưa năm biến động mạnh giữa các năm và thay đổi về thời điểm"
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Chế độ gió mùa khiến đồng bằng vẫn có mùa mưa và mùa khô rõ rệt; biến đổi khí hậu làm thay đổi thời điểm bắt đầu, độ dài và cường độ của hai mùa chứ không hoán đổi vị trí cho nhau. Ba nhận định còn lại đều là biểu hiện đã được số liệu khí hậu chứng minh."
+    },
+    {
+      "id": "dia12-b32-c36",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "biểu hiện biến đổi khí hậu",
+        "chọn phát biểu đúng",
+        "đồng bằng sông cửu long"
+      ],
+      "content": "Một học sinh viết phần 'biểu hiện biến đổi khí hậu' trong báo cáo với bốn phát biểu sau (các con số là giả định do đề tự đặt):\n(1) Nhiệt độ trung bình năm tăng, số ngày nắng nóng trên 35 °C kéo dài hơn.\n(2) Lượng mưa năm biến động, mùa mưa có xu thế đến muộn và mưa dồn vào ít tháng hơn.\n(3) Mực nước biển trung bình dâng cao, triều cường và ngập ở đô thị ven biển xảy ra nhiều hơn.\n(4) Toàn bộ vùng ven biển đã chuyển sang khí hậu ôn đới nên không còn xâm nhập mặn.\nNhững phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phát biểu (1)"
+        },
+        {
+          "key": "B",
+          "text": "Phát biểu (2)"
+        },
+        {
+          "key": "C",
+          "text": "Phát biểu (3)"
+        },
+        {
+          "key": "D",
+          "text": "Phát biểu (4)"
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án A, B, C. Ba phát biểu (1), (2), (3) đúng vì nêu đúng các biểu hiện về nhiệt, mưa và mực nước biển. Phát biểu (4) sai: Đồng bằng sông Cửu Long vẫn thuộc khí hậu nhiệt đới ẩm, nóng lên làm xâm nhập mặn gay gắt hơn chứ không xóa bỏ mặn."
+    },
+    {
+      "id": "dia12-b32-c37",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "nguồn số liệu",
+        "cách trích dẫn",
+        "chọn phát biểu đúng"
+      ],
+      "content": "Về nguồn số liệu và cách trích dẫn trong báo cáo thực hành, bốn phát biểu sau được nêu:\n(1) Số liệu trong Niên giám thống kê Việt Nam là số liệu thứ cấp, khi dùng phải ghi rõ nguồn.\n(2) Kết quả đo độ mặn do nhóm học sinh tự đo tại địa phương là số liệu sơ cấp, cần ghi ngày đo và vị trí đo.\n(3) Thông tin không rõ nguồn trên mạng xã hội có thể dùng làm số liệu chính của báo cáo.\n(4) Chỉ cần ghi nguồn đối với những số liệu chưa phù hợp với kết luận của người viết.\nNhững phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phát biểu (1)"
+        },
+        {
+          "key": "B",
+          "text": "Phát biểu (2)"
+        },
+        {
+          "key": "C",
+          "text": "Phát biểu (3)"
+        },
+        {
+          "key": "D",
+          "text": "Phát biểu (4)"
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "Đáp án A, B. Số liệu công bố sẵn là thứ cấp và phải trích theo nguồn; số liệu tự đo là sơ cấp và phải kèm thời gian, địa điểm. Phát biểu (3) sai vì thông tin không rõ nguồn không kiểm chứng được; phát biểu (4) sai vì mọi số liệu đều phải ghi nguồn, không phụ thuộc vào việc nó ủng hộ hay phản đối kết luận."
+    },
+    {
+      "id": "dia12-b32-c38",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "tác động biến đổi khí hậu",
+        "xâm nhập mặn",
+        "chọn phát biểu đúng"
+      ],
+      "content": "Trong phần 'tác động', bốn phát biểu sau được đưa ra (số liệu kèm theo là giả định do đề tự đặt):\n(1) Xâm nhập mặn lấn sâu hơn vào nội đồng cuối mùa khô làm giảm diện tích lúa có thể lấy nước tưới.\n(2) Phù sa về đồng bằng suy giảm khiến đồng bằng mất nguồn bồi tụ tự nhiên, kết hợp với sụt lún làm nguy cơ ngập tăng lên.\n(3) Diện tích rừng ngập mặn giảm làm đai chắn sóng yếu đi, tăng nguy cơ sạt lở bờ biển.\n(4) Nước biển dâng làm giảm hẳn số cơn bão hoạt động trên Biển Đông.\nNhững phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phát biểu (1)"
+        },
+        {
+          "key": "B",
+          "text": "Phát biểu (2)"
+        },
+        {
+          "key": "C",
+          "text": "Phát biểu (3)"
+        },
+        {
+          "key": "D",
+          "text": "Phát biểu (4)"
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án A, B, C. Ba phát biểu đầu là chuỗi tác động hợp lí: mặn tăng làm hẹp diện tích tưới; mất phù sa đi kèm sụt lún làm ngập nặng hơn; mất rừng làm bờ biển dễ tổn thương. Phát biểu (4) sai vì nước biển dâng không làm giảm số cơn bão; nó làm nước dâng cao hơn và ngập sâu hơn khi bão đổ bộ."
+    },
+    {
+      "id": "dia12-b32-c39",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "MEDIUM",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "phân loại giải pháp",
+        "công trình và phi công trình",
+        "chọn phát biểu đúng"
+      ],
+      "content": "Về nhóm giải pháp ứng phó với xâm nhập mặn và hạn hán, bốn phát biểu sau được nêu:\n(1) Cống ngăn mặn có âu thuyền và tuyến đê bao là giải pháp công trình.\n(2) Bảo hiểm nông nghiệp và diễn tập cộng đồng là giải pháp công trình quy mô nhỏ.\n(3) Khoan thêm nhiều giếng khai thác nước dưới đất để tưới quanh năm cho toàn bộ diện tích lúa là giải pháp thích ứng bền vững.\n(4) Quy hoạch lịch thời vụ né mặn và chuyển một phần đất lúa sang mô hình lúa - tôm ở vùng bán ngập mặn là giải pháp phi công trình phù hợp với điều kiện mặn - ngọt theo mùa.\nNhững phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phát biểu (1)"
+        },
+        {
+          "key": "B",
+          "text": "Phát biểu (2)"
+        },
+        {
+          "key": "C",
+          "text": "Phát biểu (3)"
+        },
+        {
+          "key": "D",
+          "text": "Phát biểu (4)"
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "D"
+      ],
+      "explanation": "Đáp án A, D. Cống, âu thuyền, đê bao là công trình xây dựng nên thuộc nhóm công trình; lịch thời vụ và chuyển đổi mô hình sản xuất thuộc nhóm phi công trình. Phát biểu (2) sai vì bảo hiểm và diễn tập là giải pháp phi công trình; phát biểu (3) sai vì tưới quanh năm bằng nước ngầm làm cạn kiệt và gia tăng sụt lún, không bền vững."
+    },
+    {
+      "id": "dia12-b32-c40",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "difficulty": "HARD",
+      "topic": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+      "score": 0.25,
+      "tags": [
+        "lập dàn ý và trình bày",
+        "kĩ năng viết báo cáo",
+        "chọn phát biểu đúng"
+      ],
+      "content": "Bốn phát biểu sau về cách làm một báo cáo thực hành về biến đổi khí hậu ở Đồng bằng sông Cửu Long:\n(1) Dàn ý hợp lí gồm mở đầu về mục đích, phạm vi và nguồn số liệu, sau đó là nội dung về biểu hiện, nguyên nhân và tác động, rồi đề xuất giải pháp, kết luận và tài liệu tham khảo.\n(2) Mọi số liệu đưa vào báo cáo đều phải kèm đơn vị và nguồn để người đọc kiểm chứng được.\n(3) Những nhận định chủ quan không có số liệu nên được thay bằng câu có căn cứ hoặc chuyển sang phần đề xuất dưới dạng giải pháp cụ thể.\n(4) Khi trình bày, nếu bảng còn thiếu số liệu thì được tự đoán một con số cho đủ bảng mà không cần ghi chú.\nNhững phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phát biểu (1)"
+        },
+        {
+          "key": "B",
+          "text": "Phát biểu (2)"
+        },
+        {
+          "key": "C",
+          "text": "Phát biểu (3)"
+        },
+        {
+          "key": "D",
+          "text": "Phát biểu (4)"
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án A, B, C. Ba phát biểu đầu đúng với quy trình viết báo cáo: dàn ý logic, số liệu có đơn vị và nguồn, hạn chế nhận định chủ quan. Phát biểu (4) sai vì tự đoán số liệu là làm sai lệch kết quả; chỗ thiếu phải để trống kèm ghi chú chưa có số liệu."
+    }
+  ]
+}

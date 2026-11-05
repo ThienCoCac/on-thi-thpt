@@ -48,7 +48,7 @@
       "id": "kinh-te-va-phap-luat",
       "name": "Kinh tế và Pháp luật",
       "slug": "kinh-te-va-phap-luat",
-      "description": "Giáo dục Kinh tế và Pháp luật lớp 12: tăng trưởng – phát triển kinh tế, hội nhập kinh tế quốc tế và bảo hiểm.",
+      "description": "Giáo dục Kinh tế và Pháp luật lớp 12 (Kết nối tri thức): tăng trưởng và phát triển kinh tế, hội nhập quốc tế, bảo hiểm, an sinh xã hội, kinh doanh, quản lí thu – chi gia đình, quyền và nghĩa vụ công dân, luật quốc tế và WTO.",
       "order": 1,
       "topics": [
         {
@@ -71,6 +71,104 @@
           "slug": "bao-hiem",
           "description": "Khái niệm, vai trò, các loại hình bảo hiểm và trách nhiệm của công dân.",
           "order": 3
+        },
+        {
+          "id": "topic-ktpl-bai-4",
+          "name": "Bài 4. An sinh xã hội",
+          "slug": "an-sinh-xa-hoi",
+          "description": "Khái niệm, hệ thống lưới an sinh xã hội và trách nhiệm của công dân.",
+          "order": 4
+        },
+        {
+          "id": "topic-ktpl-bai-5",
+          "name": "Bài 5. Lập kế hoạch kinh doanh",
+          "slug": "lap-ke-hoach-kinh-doanh",
+          "description": "Ý tưởng kinh doanh, phân tích thị trường và lập kế hoạch kinh doanh.",
+          "order": 5
+        },
+        {
+          "id": "topic-ktpl-bai-6",
+          "name": "Bài 6. Trách nhiệm xã hội của doanh nghiệp",
+          "slug": "trach-nhiem-xa-hoi-cua-doanh-nghiep",
+          "description": "Trách nhiệm với người lao động, cộng đồng, môi trường và đạo đức kinh doanh.",
+          "order": 6
+        },
+        {
+          "id": "topic-ktpl-bai-7",
+          "name": "Bài 7. Quản lí thu, chi trong gia đình",
+          "slug": "quan-li-thu-chi-trong-gia-dinh",
+          "description": "Cân đối thu – chi gia đình, tiết kiệm và kế hoạch tài chính cá nhân.",
+          "order": 7
+        },
+        {
+          "id": "topic-ktpl-bai-8",
+          "name": "Bài 8. Quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế",
+          "slug": "quyen-va-nghia-vu-ve-kinh-doanh-va-nop-thue",
+          "description": "Tự do kinh doanh, các hình thức tổ chức kinh doanh và nghĩa vụ thuế.",
+          "order": 8
+        },
+        {
+          "id": "topic-ktpl-bai-9",
+          "name": "Bài 9. Quyền và nghĩa vụ về sở hữu tài sản và tôn trọng tài sản người khác",
+          "slug": "quyen-va-nghia-vu-ve-so-huu-tai-san",
+          "description": "Chiếm hữu, sử dụng, định đoạt tài sản và nghĩa vụ tôn trọng tài sản hợp pháp của người khác.",
+          "order": 9
+        },
+        {
+          "id": "topic-ktpl-bai-10",
+          "name": "Bài 10. Quyền và nghĩa vụ của công dân trong hôn nhân và gia đình",
+          "slug": "quyen-va-nghia-vu-trong-hon-nan-va-gia-dinh",
+          "description": "Nguyên tắc hôn nhân, quan hệ nhân thân và quan hệ tài sản giữa vợ chồng, cha mẹ, con.",
+          "order": 10
+        },
+        {
+          "id": "topic-ktpl-bai-11",
+          "name": "Bài 11. Quyền và nghĩa vụ của công dân trong học tập",
+          "slug": "quyen-va-nghia-vu-trong-hoc-tap",
+          "description": "Quyền học tập không hạn chế, học phổ cập, học thường xuyên và nghĩa vụ học tập.",
+          "order": 11
+        },
+        {
+          "id": "topic-ktpl-bai-12",
+          "name": "Bài 12. Quyền và nghĩa vụ về bảo vệ, chăm sóc sức khoẻ và an sinh xã hội",
+          "slug": "quyen-va-nghia-vu-ve-bao-ve-cham-soc-suc-khoe",
+          "description": "Quyền được chăm sóc sức khoẻ, bảo hiểm y tế và nghĩa vụ trong an sinh xã hội.",
+          "order": 12
+        },
+        {
+          "id": "topic-ktpl-bai-13",
+          "name": "Bài 13. Quyền và nghĩa vụ về bảo vệ di sản văn hoá, môi trường và tài nguyên",
+          "slug": "quyen-va-nghia-vu-ve-bao-ve-di-san-van-hoa-moi-truong",
+          "description": "Bảo vệ di sản văn hoá, môi trường và tài nguyên thiên nhiên theo pháp luật.",
+          "order": 13
+        },
+        {
+          "id": "topic-ktpl-bai-14",
+          "name": "Bài 14. Một số vấn đề chung về pháp luật quốc tế",
+          "slug": "mot-so-van-de-chung-ve-phap-luat-quoc-te",
+          "description": "Khái niệm, nguồn, chủ thể và nguyên tắc cơ bản của luật quốc tế.",
+          "order": 14
+        },
+        {
+          "id": "topic-ktpl-bai-15",
+          "name": "Bài 15. Công pháp quốc tế về dân cư, lãnh thổ và chủ quyền quốc gia",
+          "slug": "cong-phap-quoc-te-ve-dan-cu-lanh-tho-va-chu-quyen",
+          "description": "Quốc tịch, lãnh thổ, chủ quyền quốc gia và các vấn đề biên giới, biển, đảo.",
+          "order": 15
+        },
+        {
+          "id": "topic-ktpl-bai-16",
+          "name": "Bài 16. Nguyên tắc của WTO và hợp đồng thương mại quốc tế",
+          "slug": "nguyen-tac-cua-wto-va-hop-dong-thuong-mai-quoc-te",
+          "description": "Các nguyên tắc cơ bản của Tổ chức Thương mại thế giới và kí kết hợp đồng thương mại quốc tế.",
+          "order": 16
+        },
+        {
+          "id": "topic-ktpl-luyen-de",
+          "name": "Luyện thi tốt nghiệp – đề tự soạn",
+          "slug": "luyen-de",
+          "description": "Đề luyện thi tốt nghiệp THPT môn Giáo dục kinh tế và pháp luật do site tự soạn theo đúng cấu trúc 40 câu, phủ đều nội dung kinh tế và pháp luật lớp 12.",
+          "order": 17
         }
       ]
     },
@@ -78,7 +176,7 @@
       "id": "toan",
       "name": "Toán",
       "slug": "toan",
-      "description": "Toán lớp 12: hàm số, mũ – logarit, hình học không gian và đề thi tốt nghiệp THPT các năm.",
+      "description": "Toán lớp 12 (bộ Kết nối tri thức): ứng dụng đạo hàm khảo sát hàm số, nguyên hàm – tích phân, vectơ và hình học toạ độ không gian, thống kê, xác suất, kèm đề thi tốt nghiệp THPT các năm.",
       "order": 2,
       "topics": [
         {
@@ -108,6 +206,139 @@
           "slug": "de-thi-tot-nghiep-thpt-cac-nam",
           "description": "Câu hỏi lấy từ đề chính thức kỳ thi tốt nghiệp THPT các năm, gồm cả dạng đúng – sai và trả lời ngắn của cấu trúc mới.",
           "order": 4
+        },
+        {
+          "id": "topic-toan-b01-don-dieu-cuc-tri",
+          "name": "Bài 1: Tính đơn điệu và cực trị của hàm số",
+          "slug": "bai-1-tinh-don-dieu-va-cuc-tri",
+          "description": "Nhận biết khoảng đồng biến, nghịch biến và điểm cực trị qua dấu đạo hàm.",
+          "order": 5
+        },
+        {
+          "id": "topic-toan-b02-gtlmax-gtnmin",
+          "name": "Bài 2: Giá trị lớn nhất và giá trị nhỏ nhất của hàm số",
+          "slug": "bai-2-gia-tri-lon-nhat-va-nho-nhat",
+          "description": "Tìm GTLN, GTNN của hàm số trên một đoạn hoặc một khoảng.",
+          "order": 6
+        },
+        {
+          "id": "topic-toan-b03-duong-tiem-can",
+          "name": "Bài 3: Đường tiệm cận của đồ thị hàm số",
+          "slug": "bai-3-duong-tiem-can",
+          "description": "Tiệm cận đứng, ngang, xiên của đồ thị hàm số hữu tỉ và vô tỉ.",
+          "order": 7
+        },
+        {
+          "id": "topic-toan-b04-khao-sat-ve-do-thi",
+          "name": "Bài 4: Khảo sát sự biến thiên và vẽ đồ thị của hàm số",
+          "slug": "bai-4-khao-sat-va-ve-do-thi",
+          "description": "Quy trình khảo sát và nhận dạng đồ thị hàm số bậc ba, trùng phương, phân thức.",
+          "order": 8
+        },
+        {
+          "id": "topic-toan-b05-ung-dung-thuc-tien",
+          "name": "Bài 5: Ứng dụng đạo hàm trong thực tiễn",
+          "slug": "bai-5-ung-dung-dao-ham-thuc-tien",
+          "description": "Toán tối ưu hình học và vật lí: thể tích, diện tích, chuyển động.",
+          "order": 9
+        },
+        {
+          "id": "topic-toan-b06-vecto-trong-khong-gian",
+          "name": "Bài 6: Vectơ trong không gian",
+          "slug": "bai-6-vecto-trong-khong-gian",
+          "description": "Vectơ, sự đồng phẳng và các phép toán vectơ trong không gian.",
+          "order": 10
+        },
+        {
+          "id": "topic-toan-b07-he-truc-toa-do",
+          "name": "Bài 7: Hệ trục toạ độ trong không gian",
+          "slug": "bai-7-he-truc-toa-do-trong-khong-gian",
+          "description": "Toạ độ điểm, toạ độ vectơ, khoảng cách giữa hai điểm trong Oxyz.",
+          "order": 11
+        },
+        {
+          "id": "topic-toan-b08-bieu-thuc-toa-do-vecto",
+          "name": "Bài 8: Biểu thức toạ độ của các phép toán vectơ",
+          "slug": "bai-8-bieu-thuc-toa-do-cua-cac-phep-toan-vecto",
+          "description": "Tích có hướng, tích vô hướng và ứng dụng tính diện tích, thể tích.",
+          "order": 12
+        },
+        {
+          "id": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+          "name": "Bài 9: Khoảng biến thiên và khoảng tứ phân vị",
+          "slug": "bai-9-khoang-bien-thien-va-tu-phan-vi",
+          "description": "Số đặc trưng đo mức độ phân tán của mẫu số liệu ghép nhóm.",
+          "order": 13
+        },
+        {
+          "id": "topic-toan-b10-phuong-sai-do-lech-chuan",
+          "name": "Bài 10: Phương sai và độ lệch chuẩn",
+          "slug": "bai-10-phuong-sai-va-do-lech-chuan",
+          "description": "Tính và so sánh phương sai, độ lệch chuẩn của mẫu số liệu ghép nhóm.",
+          "order": 14
+        },
+        {
+          "id": "topic-toan-b11-nguyen-ham",
+          "name": "Bài 11: Nguyên hàm",
+          "slug": "bai-11-nguyen-ham",
+          "description": "Bảng nguyên hàm, phương pháp đổi biến và nguyên hàm từng phần.",
+          "order": 15
+        },
+        {
+          "id": "topic-toan-b12-tich-phan",
+          "name": "Bài 12: Tích phân",
+          "slug": "bai-12-tich-phan",
+          "description": "Tính chất và cách tính tích phân, tích phân đổi biến, từng phần.",
+          "order": 16
+        },
+        {
+          "id": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+          "name": "Bài 13: Ứng dụng hình học của tích phân",
+          "slug": "bai-13-ung-dung-hinh-hoc-cua-tich-phan",
+          "description": "Diện tích hình phẳng và thể tích vật thể, khối tròn xoay.",
+          "order": 17
+        },
+        {
+          "id": "topic-toan-b14-phuong-trinh-mat-phang",
+          "name": "Bài 14: Phương trình mặt phẳng",
+          "slug": "bai-14-phuong-trinh-mat-phang",
+          "description": "Vectơ pháp tuyến và phương trình mặt phẳng trong Oxyz.",
+          "order": 18
+        },
+        {
+          "id": "topic-toan-b15-phuong-trinh-duong-thang",
+          "name": "Bài 15: Phương trình đường thẳng trong không gian",
+          "slug": "bai-15-phuong-trinh-duong-thang",
+          "description": "Phương trình tham số, chính tắc và vị trí tương đối của đường thẳng.",
+          "order": 19
+        },
+        {
+          "id": "topic-toan-b16-cong-thuc-tinh-goc",
+          "name": "Bài 16: Công thức tính góc trong không gian",
+          "slug": "bai-16-cong-thuc-tinh-goc",
+          "description": "Góc giữa hai đường thẳng, giữa đường thẳng và mặt phẳng, giữa hai mặt phẳng.",
+          "order": 20
+        },
+        {
+          "id": "topic-toan-b17-phuong-trinh-mat-cau",
+          "name": "Bài 17: Phương trình mặt cầu",
+          "slug": "bai-17-phuong-trinh-mat-cau",
+          "description": "Tâm, bán kính, phương trình mặt cầu và giao tuyến của mặt cầu với mặt phẳng.",
+          "order": 21
+        },
+        {
+          "id": "topic-toan-b18-xac-suat-co-dieu-kien",
+          "name": "Bài 18: Xác suất có điều kiện",
+          "slug": "bai-18-xac-suat-co-dieu-kien",
+          "description": "Xác suất có điều kiện và tính độc lập của hai biến cố.",
+          "order": 22
+        },
+        {
+          "id": "topic-toan-b19-xac-suat-toan-phan-bayes",
+          "name": "Bài 19: Công thức xác suất toàn phần và công thức Bayes",
+          "slug": "bai-19-xac-suat-toan-phan-va-bayes",
+          "description": "Công thức xác suất toàn phần, công thức Bayes và bài toán suy ngược.",
+          "order": 23
         }
       ]
     },
@@ -194,6 +425,76 @@
           "slug": "ta11-unit-3-cities-of-the-future",
           "description": "Đề ôn Unit 3 sách Tiếng Anh 11: phát âm, trọng âm, stative và linking verbs, tìm lỗi sai, sắp xếp đoạn, cloze và đọc hiểu về thành phố thông minh.",
           "order": 11
+        },
+        {
+          "id": "topic-anh-12-unit1",
+          "name": "Tiếng Anh 12 – Unit 1: Life stories we admire",
+          "slug": "ta12-unit-1-life-stories-we-admire",
+          "description": "Ôn Unit 1 Global Success 12: tiểu sử và tấm gương, thì quá khứ, mệnh đề quan hệ, đọc – viết về câu chuyện truyền cảm hứng.",
+          "order": 12
+        },
+        {
+          "id": "topic-anh-12-unit2",
+          "name": "Tiếng Anh 12 – Unit 2: A multicultural world",
+          "slug": "ta12-unit-2-a-multicultural-world",
+          "description": "Ôn Unit 2 Global Success 12: văn hoá đa văn hoá, từ vựng chủ đề, câu bị động và đọc hiểu về phong tục, lễ hội.",
+          "order": 13
+        },
+        {
+          "id": "topic-anh-12-unit3",
+          "name": "Tiếng Anh 12 – Unit 3: Green living",
+          "slug": "ta12-unit-3-green-living",
+          "description": "Ôn Unit 3 Global Success 12: lối sống xanh, câu điều kiện, mệnh đề chỉ mục đích và đọc hiểu về môi trường.",
+          "order": 14
+        },
+        {
+          "id": "topic-anh-12-unit4",
+          "name": "Tiếng Anh 12 – Unit 4: Urbanisation",
+          "slug": "ta12-unit-4-urbanisation",
+          "description": "Ôn Unit 4 Global Success 12: đô thị hoá, từ vựng thành thị – nông thôn, mệnh đề liên hệ nguyên nhân – kết quả.",
+          "order": 15
+        },
+        {
+          "id": "topic-anh-12-unit5",
+          "name": "Tiếng Anh 12 – Unit 5: The world of work",
+          "slug": "ta12-unit-5-the-world-of-work",
+          "description": "Ôn Unit 5 Global Success 12: thế giới việc làm, phỏng vấn, câu tường thuật và viết email xin việc.",
+          "order": 16
+        },
+        {
+          "id": "topic-anh-12-unit6",
+          "name": "Tiếng Anh 12 – Unit 6: Artificial intelligence",
+          "slug": "ta12-unit-6-artificial-intelligence",
+          "description": "Ôn Unit 6 Global Success 12: trí tuệ nhân tạo, từ vựng công nghệ, tương lai tiếp diễn và hoàn thành.",
+          "order": 17
+        },
+        {
+          "id": "topic-anh-12-unit7",
+          "name": "Tiếng Anh 12 – Unit 7: The world of mass media",
+          "slug": "ta12-unit-7-the-world-of-mass-media",
+          "description": "Ôn Unit 7 Global Success 12: truyền thông đại chúng, từ vựng báo chí, mệnh đề rút gọn và đọc hiểu tin tức.",
+          "order": 18
+        },
+        {
+          "id": "topic-anh-12-unit8",
+          "name": "Tiếng Anh 12 – Unit 8: Wildlife conservation",
+          "slug": "ta12-unit-8-wildlife-conservation",
+          "description": "Ôn Unit 8 Global Success 12: bảo tồn động vật hoang dã, câu điều kiện loại III và đọc hiểu về loài nguy cấp.",
+          "order": 19
+        },
+        {
+          "id": "topic-anh-12-unit9",
+          "name": "Tiếng Anh 12 – Unit 9: Career paths",
+          "slug": "ta12-unit-9-career-paths",
+          "description": "Ôn Unit 9 Global Success 12: con đường nghề nghiệp, từ vựng kỹ năng, câu giả định và viết bài giới thiệu nghề.",
+          "order": 20
+        },
+        {
+          "id": "topic-anh-12-unit10",
+          "name": "Tiếng Anh 12 – Unit 10: Lifelong learning",
+          "slug": "ta12-unit-10-lifelong-learning",
+          "description": "Ôn Unit 10 Global Success 12: học tập suốt đời, từ vựng giáo dục, ngữ pháp nâng cao và đọc hiểu về học trực tuyến.",
+          "order": 21
         }
       ]
     },
@@ -201,7 +502,7 @@
       "id": "lich-su",
       "name": "Lịch sử",
       "slug": "lich-su",
-      "description": "Lịch sử lớp 12: Liên hợp quốc, trật tự thế giới và ASEAN từ sau Chiến tranh thế giới thứ hai.",
+      "description": "Lịch sử lớp 12 (bộ Kết nối tri thức): Liên hợp quốc, trật tự thế giới, ASEAN, cách mạng tháng Tám, hai cuộc kháng chiến, bảo vệ Tổ quốc, công cuộc Đổi mới, đối ngoại và sự nghiệp Hồ Chí Minh.",
       "order": 4,
       "topics": [
         {
@@ -238,6 +539,97 @@
           "slug": "cong-dong-asean-tu-y-tuong-den-hien-thuc",
           "description": "Ba trụ cột của Cộng đồng ASEAN, Cộng đồng Kinh tế ASEAN và tầm nhìn 2025.",
           "order": 5
+        },
+        {
+          "id": "topic-su-bai-6",
+          "name": "Bài 6. Cách mạng tháng Tám năm 1945",
+          "slug": "cach-mang-thang-tam-nam-1945",
+          "description": "Bối cảnh, diễn biến và ý nghĩa của Cách mạng tháng Tám năm 1945.",
+          "order": 6
+        },
+        {
+          "id": "topic-su-bai-7",
+          "name": "Bài 7. Cuộc kháng chiến chống thực dân Pháp (1945 – 1954)",
+          "slug": "khang-chien-chong-phap-1945-1954",
+          "description": "Xây dựng chế độ mới, kháng chiến toàn quốc và chiến thắng Điện Biên Phủ.",
+          "order": 7
+        },
+        {
+          "id": "topic-su-bai-8",
+          "name": "Bài 8. Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975)",
+          "slug": "khang-chien-chong-my-1954-1975",
+          "description": "Hai nhiệm vụ chiến lược, chiến tranh cục bộ và Đại thắng mùa Xuân 1975.",
+          "order": 8
+        },
+        {
+          "id": "topic-su-bai-9",
+          "name": "Bài 9. Bảo vệ Tổ quốc từ sau tháng 4 – 1975 và bài học lịch sử",
+          "slug": "bao-ve-to-quoc-sau-1975-va-bai-hoc-lich-su",
+          "description": "Hai cuộc chiến tranh bảo vệ Tổ quốc và bài học lịch sử của các cuộc kháng chiến từ 1945.",
+          "order": 9
+        },
+        {
+          "id": "topic-su-bai-10",
+          "name": "Bài 10. Khái quát về công cuộc Đổi mới từ năm 1986 đến nay",
+          "slug": "khai-quat-ve-cong-cuoc-doi-moi",
+          "description": "Bối cảnh, nội dung các giai đoạn Đổi mới từ Đại hội VI đến nay.",
+          "order": 10
+        },
+        {
+          "id": "topic-su-bai-11",
+          "name": "Bài 11. Thành tựu và bài học của công cuộc Đổi mới",
+          "slug": "thanh-tuu-va-bai-hoc-cua-doi-moi",
+          "description": "Thành tựu cơ bản trên các lĩnh vực và những bài học kinh nghiệm của Đổi mới.",
+          "order": 11
+        },
+        {
+          "id": "topic-su-bai-12",
+          "name": "Bài 12. Đối ngoại trong đấu tranh giành độc lập (đầu thế kỉ XX – 1945)",
+          "slug": "doi-ngoai-trong-dau-tranh-gianh-doc-lap",
+          "description": "Quan hệ ngoại giai đoạn 1945 – 1946 và đường lối ngoại giao của Chính phủ Việt Nam DCCH.",
+          "order": 12
+        },
+        {
+          "id": "topic-su-bai-13",
+          "name": "Bài 13. Đối ngoại trong kháng chiến chống Pháp và chống Mỹ",
+          "slug": "doi-ngoai-trong-khang-chien-chong-phap-va-chong-my",
+          "description": "Ngoại giao phục vụ kháng chiến 1945 – 1954 và 1954 – 1975, Hội nghị Geneva và Paris.",
+          "order": 13
+        },
+        {
+          "id": "topic-su-bai-14",
+          "name": "Bài 14. Hoạt động đối ngoại của Việt Nam từ năm 1975 đến nay",
+          "slug": "hoat-dong-doi-ngoai-tu-1975-den-nay",
+          "description": "Từ bao vây, cấm vận đến đa phương hoá, hội nhập và đối tác chiến lược.",
+          "order": 14
+        },
+        {
+          "id": "topic-su-bai-15",
+          "name": "Bài 15. Khái quát cuộc đời và sự nghiệp của Hồ Chí Minh",
+          "slug": "khai-quat-cuoi-doi-va-su-nghiep-cua-ho-chi-minh",
+          "description": "Các chặng hoạt động cách mạng chính của Hồ Chí Minh từ 1911 đến 1969.",
+          "order": 15
+        },
+        {
+          "id": "topic-su-bai-16",
+          "name": "Bài 16. Hồ Chí Minh – Anh hùng giải phóng dân tộc",
+          "slug": "ho-chi-minh-anh-hung-giai-phong-dan-toc",
+          "description": "Tư tưởng, con đường giải phóng và vai trò của Hồ Chí Minh với cách mạng Việt Nam.",
+          "order": 16
+        },
+        {
+          "id": "topic-su-bai-17",
+          "name": "Bài 17. Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam",
+          "slug": "dau-an-ho-chi-minh-trong-long-nhan-dan",
+          "description": "Sự công nhận của UNESCO, ảnh hưởng quốc tế và di sản Hồ Chí Minh ở Việt Nam.",
+          "order": 17
+        },
+        {
+          "id": "topic-su-luyen-de",
+          "name": "Luyện thi tốt nghiệp – đề tự soạn",
+          "slug": "luyen-de",
+          "description": "Đề luyện thi tốt nghiệp THPT môn Lịch sử do site tự soạn theo đúng cấu trúc 40 câu, phủ đều chuyên đề thế giới và lịch sử Việt Nam 1945 đến nay.",
+          "order": 18
         }
       ]
     },
@@ -326,6 +718,251 @@
           "slug": "thuc-hanh-ky-nang-dia-li",
           "description": "Nhận dạng biểu đồ, nhận xét bảng số liệu và các phép tính địa lí thường gặp.",
           "order": 5
+        },
+        {
+          "id": "topic-dia-b01-vi-tri-lanh-tho",
+          "name": "Bài 1: Vị trí địa lí và phạm vi lãnh thổ",
+          "slug": "bai-1-vi-tri-dia-li-va-pham-vi-lanh-tho",
+          "description": "Vị trí, lãnh thổ trên đất liền, biển, đảo và ý nghĩa của các yếu tố đó.",
+          "order": 6
+        },
+        {
+          "id": "topic-dia-b02-thien-nhien-gio-mua",
+          "name": "Bài 2: Thiên nhiên nhiệt đới ẩm gió mùa",
+          "slug": "bai-2-thien-nhien-nhiet-doi-am-gio-mua",
+          "description": "Tính chất nhiệt đới ẩm gió mùa của khí hậu, sông ngòi, đất và sinh vật.",
+          "order": 7
+        },
+        {
+          "id": "topic-dia-b03-phan-hoa-thien-nhien",
+          "name": "Bài 3: Sự phân hoá đa dạng của thiên nhiên",
+          "slug": "bai-3-su-phan-hoa-da-dang-cua-thien-nhien",
+          "description": "Phân hoá theo bắc – nam, theo độ cao và theo vùng miền.",
+          "order": 8
+        },
+        {
+          "id": "topic-dia-b04-thuc-hanh-phan-hoa",
+          "name": "Bài 4: Thực hành – Viết báo cáo về sự phân hoá tự nhiên Việt Nam",
+          "slug": "bai-4-thuc-hanh-bao-cao-phan-hoa-tu-nhien",
+          "description": "Kĩ năng khai thác tài liệu, chọn và viết báo cáo về một vấn đề phân hoá tự nhiên.",
+          "order": 9
+        },
+        {
+          "id": "topic-dia-b05-tai-nguyen-moi-truong",
+          "name": "Bài 5: Vấn đề sử dụng hợp lí tài nguyên thiên nhiên và bảo vệ môi trường",
+          "slug": "bai-5-su-dung-hop-li-tai-nguyen-va-bao-ve-moi-truong",
+          "description": "Thực trạng tài nguyên, suy thoái môi trường và định hướng sử dụng bền vững.",
+          "order": 10
+        },
+        {
+          "id": "topic-dia-b06-thuc-hanh-tuyen-truyen",
+          "name": "Bài 6: Thực hành – Tuyên truyền sử dụng hợp lí tài nguyên và bảo vệ môi trường",
+          "slug": "bai-6-thuc-hanh-tuyen-truyen-tai-nguyen-moi-truong",
+          "description": "Thu thập số liệu, viết và trình bày nội dung tuyên truyền ở địa phương.",
+          "order": 11
+        },
+        {
+          "id": "topic-dia-b07-dan-so",
+          "name": "Bài 7: Dân số Việt Nam",
+          "slug": "bai-7-dan-so-viet-nam",
+          "description": "Quy mô, gia tăng, cơ cấu và xu hướng đô thị hoá dân số.",
+          "order": 12
+        },
+        {
+          "id": "topic-dia-b08-lao-dong-viec-lam",
+          "name": "Bài 8: Lao động và việc làm",
+          "slug": "bai-8-lao-dong-va-viec-lam",
+          "description": "Nguồn lao động, chuyển dịch lao động theo ngành và vấn đề việc làm.",
+          "order": 13
+        },
+        {
+          "id": "topic-dia-b09-do-thi-hoa",
+          "name": "Bài 9: Đô thị hoá",
+          "slug": "bai-9-do-thi-hoa",
+          "description": "Đặc điểm đô thị hoá, hệ thống đô thị và ảnh hưởng tới phát triển kinh tế – xã hội.",
+          "order": 14
+        },
+        {
+          "id": "topic-dia-b10-thuc-hanh-dan-cu",
+          "name": "Bài 10: Thực hành – Viết báo cáo về một chủ đề dân cư ở Việt Nam",
+          "slug": "bai-10-thuc-hanh-bao-cao-chu-de-dan-cu",
+          "description": "Khai thác số liệu dân cư – lao động và viết báo cáo theo chủ đề chọn.",
+          "order": 15
+        },
+        {
+          "id": "topic-dia-b11-chuyen-dich-co-cau-kinh-te",
+          "name": "Bài 11: Chuyển dịch cơ cấu kinh tế",
+          "slug": "bai-11-chuyen-dich-co-cau-kinh-te",
+          "description": "Cơ cấu GDP, chuyển dịch theo ngành, theo thành phần kinh tế và theo lãnh thổ.",
+          "order": 16
+        },
+        {
+          "id": "topic-dia-b12-nganh-nong-nghiep",
+          "name": "Bài 12: Vấn đề phát triển ngành nông nghiệp",
+          "slug": "bai-12-van-de-phat-trien-nganh-nong-nghiep",
+          "description": "Trồng trọt, chăn nuôi, chuyển dịch cơ cấu và nền nông nghiệp hàng hoá.",
+          "order": 17
+        },
+        {
+          "id": "topic-dia-b13-lam-nghiep-thuy-san",
+          "name": "Bài 13: Vấn đề phát triển ngành lâm nghiệp và ngành thuỷ sản",
+          "slug": "bai-13-lam-nghiep-va-thuy-san",
+          "description": "Bảo vệ và phát triển rừng, khai thác – nuôi trồng và chế biến thuỷ sản.",
+          "order": 18
+        },
+        {
+          "id": "topic-dia-b14-to-chuc-lanh-tho-nong-nghiep",
+          "name": "Bài 14: Tổ chức lãnh thổ nông nghiệp",
+          "slug": "bai-14-to-chuc-lanh-tho-nong-nghiep",
+          "description": "Các vùng nông nghiệp trọng điểm và chuyên canh theo lợi thế sinh thái.",
+          "order": 19
+        },
+        {
+          "id": "topic-dia-b15-thuc-hanh-nong-lam-thuy-san",
+          "name": "Bài 15: Thực hành – Vai trò và tình hình phát triển nông nghiệp, lâm nghiệp, thuỷ sản",
+          "slug": "bai-15-thuc-hanh-nong-lam-thuy-san",
+          "description": "Vẽ và nhận xét biểu đồ, phân tích bảng số liệu về ba nhóm ngành.",
+          "order": 20
+        },
+        {
+          "id": "topic-dia-b16-chuyen-dich-co-cau-cong-nghiep",
+          "name": "Bài 16: Chuyển dịch cơ cấu ngành công nghiệp",
+          "slug": "bai-16-chuyen-dich-co-cau-nganh-cong-nghiep",
+          "description": "Cơ cấu theo ngành, theo thành phần kinh tế và theo nhóm sản phẩm.",
+          "order": 21
+        },
+        {
+          "id": "topic-dia-b17-mot-so-nganh-cong-nghiep",
+          "name": "Bài 17: Một số ngành công nghiệp",
+          "slug": "bai-17-mot-so-nganh-cong-nghiep",
+          "description": "Năng lượng, chế biến lương thực thực phẩm, công nghiệp trọng điểm khác.",
+          "order": 22
+        },
+        {
+          "id": "topic-dia-b18-hinh-thuc-to-chuc-lanh-tho-cong-nghiep",
+          "name": "Bài 18: Một số hình thức tổ chức lãnh thổ công nghiệp",
+          "slug": "bai-18-hinh-thuc-to-chuc-lanh-tho-cong-nghiep",
+          "description": "Khu công nghiệp, khu chế xuất, khu công nghệ cao và vùng công nghiệp.",
+          "order": 23
+        },
+        {
+          "id": "topic-dia-b19-thuc-hanh-cong-nghiep",
+          "name": "Bài 19: Thực hành – Vẽ biểu đồ, nhận xét và giải thích tình hình phát triển công nghiệp",
+          "slug": "bai-19-thuc-hanh-ve-bieu-do-cong-nghiep",
+          "description": "Chọn dạng biểu đồ phù hợp, nhận xét và giải thích tốc độ tăng trưởng, cơ cấu.",
+          "order": 24
+        },
+        {
+          "id": "topic-dia-b20-dich-vu-nhan-to",
+          "name": "Bài 20: Vai trò và các nhân tố ảnh hưởng đến sự phát triển, phân bố ngành dịch vụ",
+          "slug": "bai-20-vai-tro-va-nhan-to-anh-huong-dich-vu",
+          "description": "Vai trò ngành dịch vụ và các nhân tố tác động tới phát triển, phân bố.",
+          "order": 25
+        },
+        {
+          "id": "topic-dia-b21-giao-thong-buu-chinh",
+          "name": "Bài 21: Giao thông vận tải và bưu chính viễn thông",
+          "slug": "bai-21-giao-thong-van-tai-va-buu-chinh-vien-thong",
+          "description": "Các loại hình vận tải, mạng lưới bưu chính và viễn thông.",
+          "order": 26
+        },
+        {
+          "id": "topic-dia-b22-thuong-mai-du-lich",
+          "name": "Bài 22: Thương mại và du lịch",
+          "slug": "bai-22-thuong-mai-va-du-lich",
+          "description": "Nội thương, ngoại thương, cân cân xuất nhập và ngành du lịch.",
+          "order": 27
+        },
+        {
+          "id": "topic-dia-b23-thuc-hanh-dich-vu",
+          "name": "Bài 23: Thực hành – Tìm hiểu sự phát triển một số ngành dịch vụ",
+          "slug": "bai-23-thuc-hanh-mot-so-nganh-dich-vu",
+          "description": "Phân tích số liệu thương mại, du lịch và xử lí bản đồ.",
+          "order": 28
+        },
+        {
+          "id": "topic-dia-b24-trung-du-mien-nui-phia-bac",
+          "name": "Bài 24: Khai thác thế mạnh ở Trung du và miền núi phía Bắc",
+          "slug": "bai-24-trung-du-va-mien-nui-phia-bac",
+          "description": "Thế mạnh khoáng sản, thuỷ điện, cây công nghiệp và du lịch của vùng.",
+          "order": 29
+        },
+        {
+          "id": "topic-dia-b25-dong-bang-song-hong",
+          "name": "Bài 25: Phát triển kinh tế – xã hội ở Đồng bằng sông Hồng",
+          "slug": "bai-25-dong-bang-song-hong",
+          "description": "Vị thế, thâm canh nông nghiệp, công nghiệp và vùng kinh tế trọng điểm Bắc Bộ.",
+          "order": 30
+        },
+        {
+          "id": "topic-dia-b26-thuc-hanh-kinh-te-bien-dbslh",
+          "name": "Bài 26: Thực hành – Tìm hiểu vấn đề phát triển kinh tế biển ở Đồng bằng sông Hồng",
+          "slug": "bai-26-thuc-hanh-kinh-te-bien-dong-bang-song-hong",
+          "description": "Khai thác số liệu về kinh tế ven biển của vùng và viết báo cáo.",
+          "order": 31
+        },
+        {
+          "id": "topic-dia-b27-bac-trung-bo",
+          "name": "Bài 27: Phát triển kinh tế – xã hội ở Bắc Trung Bộ",
+          "slug": "bai-27-bac-trung-bo",
+          "description": "Thế mạnh rừng, khoáng sản, du lịch biển và công nghiệp của vùng.",
+          "order": 32
+        },
+        {
+          "id": "topic-dia-b28-dhntb-va-tay-nguyen",
+          "name": "Bài 28: Phát triển kinh tế – xã hội ở Duyên hải Nam Trung Bộ và Tây Nguyên",
+          "slug": "bai-28-duyen-hai-nam-trung-bo-va-tay-nguyen",
+          "description": "Kinh tế biển, công nghiệp, cây công nghiệp lâu năm và thuỷ điện của hai vùng.",
+          "order": 33
+        },
+        {
+          "id": "topic-dia-b29-thuc-hanh-dhntb-tay-nguyen",
+          "name": "Bài 29: Thực hành – Ý nghĩa phát triển kinh tế – xã hội đối với quốc phòng, an ninh ở Duyên hải Nam Trung Bộ và Tây Nguyên",
+          "slug": "bai-29-thuc-hanh-y-nghia-kinh-te-quoc-phong-an-ninh",
+          "description": "Phân tích mối liên hệ giữa phát triển kinh tế – xã hội và bảo vệ chủ quyền.",
+          "order": 34
+        },
+        {
+          "id": "topic-dia-b30-dong-nam-bo",
+          "name": "Bài 30: Phát triển kinh tế – xã hội ở Đông Nam Bộ",
+          "slug": "bai-30-dong-nam-bo",
+          "description": "Vị thế công nghiệp, dịch vụ, nông nghiệp hàng hoá và vấn đề môi trường của vùng.",
+          "order": 35
+        },
+        {
+          "id": "topic-dia-b31-dong-bang-song-cuu-long",
+          "name": "Bài 31: Sử dụng hợp lí tự nhiên để phát triển kinh tế ở Đồng bằng sông Cửu Long",
+          "slug": "bai-31-dong-bang-song-cuu-long",
+          "description": "Khai thác đất, nước, sinh vật và thích ứng với ngập mặn, lũ.",
+          "order": 36
+        },
+        {
+          "id": "topic-dia-b32-thuc-hanh-bien-doi-khi-hau-dbscl",
+          "name": "Bài 32: Thực hành – Viết báo cáo về biến đổi khí hậu ở Đồng bằng sông Cửu Long",
+          "slug": "bai-32-thuc-hanh-bao-cao-bien-doi-khi-hau-dbscl",
+          "description": "Nhận diện số liệu xâm nhập mặn, sạt lở và đề xuất giải pháp.",
+          "order": 37
+        },
+        {
+          "id": "topic-dia-b33-bien-dong-va-dao-quan-dao",
+          "name": "Bài 33: Phát triển kinh tế và bảo đảm quốc phòng, an ninh ở Biển Đông và các đảo, quần đảo",
+          "slug": "bai-33-bien-dong-va-cac-dao-quan-dao",
+          "description": "Tiềm năng biển, phát triển kinh tế biển đảo và nhiệm vụ quốc phòng, an ninh.",
+          "order": 38
+        },
+        {
+          "id": "topic-dia-b34-thuc-hanh-chu-quyen-bien-dao",
+          "name": "Bài 34: Thực hành – Viết báo cáo tuyên truyền về bảo vệ chủ quyền biển, đảo",
+          "slug": "bai-34-thuc-hanh-bao-cao-chu-quyen-bien-dao",
+          "description": "Sưu tầm tư liệu và trình bày bằng chứng về chủ quyền của Việt Nam trên biển, đảo.",
+          "order": 39
+        },
+        {
+          "id": "topic-dia-b35-thuc-hanh-dia-li-dia-phuong",
+          "name": "Bài 35: Thực hành – Tìm hiểu Địa lí địa phương",
+          "slug": "bai-35-thuc-hanh-tim-hieu-dia-li-dia-phuong",
+          "description": "Vận dụng kiến thức để tìm hiểu và viết báo cáo về một vấn đề địa lí của địa phương.",
+          "order": 40
         }
       ]
     },
@@ -531,6 +1168,13 @@
           "slug": "bai-28-thuc-hanh-tong-hop",
           "description": "Yêu cầu sản phẩm website hoàn chỉnh, mẫu giao diện, bảng màu, phông chữ và bảng chọn chiều ngang trong Google Sites.",
           "order": 28
+        },
+        {
+          "id": "topic-th-luyen-de",
+          "name": "Luyện thi tốt nghiệp – đề tự soạn",
+          "slug": "luyen-de",
+          "description": "Đề luyện thi tốt nghiệp THPT môn Tin học do site tự soạn theo đúng cấu trúc 40 câu, phủ đều các chủ đề của SGK Tin học lớp 12.",
+          "order": 29
         }
       ]
     }

@@ -1,0 +1,987 @@
+{
+  "id": "de-ktpl-12-bai-04",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 – Bài 4: An sinh xã hội",
+  "slug": "de-ktpl-12-bai-04",
+  "description": "Đề ôn tập bám sát Bài 4 Giáo dục Kinh tế và Pháp luật 12 (Kết nối tri thức): khái niệm, nguyên tắc, vai trò của an sinh xã hội; các bộ phận của hệ thống an sinh xã hội; sự tham gia của các chủ thể, chính sách an sinh xã hội ở địa phương và trách nhiệm của công dân. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-B4",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "ktpl12-b04-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "An sinh xã hội là",
+      "options": [
+        {
+          "key": "A",
+          "text": "hệ thống các chính sách, cơ chế do Nhà nước và cộng đồng cùng tham gia nhằm bảo đảm đáp ứng những nhu cầu cơ bản, thiết yếu của người dân khi gặp rủi ro, biến động."
+        },
+        {
+          "key": "B",
+          "text": "quỹ tiết kiệm do từng hộ gia đình tự lập để chủ động chi tiêu khi bản thân về già hoặc khi trong nhà có người ốm đau."
+        },
+        {
+          "key": "C",
+          "text": "hoạt động đầu tư sinh lời do các doanh nghiệp bảo hiểm thương mại triển khai trong nền kinh tế thị trường."
+        },
+        {
+          "key": "D",
+          "text": "khoản vay ưu đãi của ngân hàng dành cho người lao động mất việc làm chưa có thu nhập ổn định."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "An sinh xã hội là hệ thống chính sách, cơ chế mang tính xã hội, do Nhà nước giữ vai trò chủ đạo và cộng đồng cùng chia sẻ, nhằm bảo đảm nhu cầu cơ bản, thiết yếu của người dân trước rủi ro, biến động. Nó không phải quỹ tiết kiệm riêng của từng gia đình, không phải hoạt động đầu tư sinh lời của doanh nghiệp bảo hiểm và cũng không phải khoản vay của ngân hàng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "khái niệm",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Mục tiêu bao trùm, trước hết của an sinh xã hội đối với người dân là",
+      "options": [
+        {
+          "key": "A",
+          "text": "bảo đảm cho mọi công dân có mức thu nhập và của cải như nhau trong xã hội."
+        },
+        {
+          "key": "B",
+          "text": "bảo đảm nhu cầu sống tối thiểu, giúp người dân duy trì và ổn định cuộc sống khi gặp rủi ro, biến động."
+        },
+        {
+          "key": "C",
+          "text": "xóa bỏ hoàn toàn sự phân tầng xã hội và khoảng cách giàu nghèo giữa các vùng."
+        },
+        {
+          "key": "D",
+          "text": "thay thế trọn vẹn trách nhiệm tự bảo đảm thu nhập của mỗi cá nhân và mỗi gia đình."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trước hết, an sinh xã hội hướng tới bảo đảm mức sống tối thiểu và giúp người dân phục hồi, ổn định cuộc sống khi gặp rủi ro. An sinh xã hội không cào bằng thu nhập, không thể xóa bỏ hoàn toàn phân tầng giàu nghèo và cũng không làm thay trách nhiệm tự lo liệu của mỗi cá nhân.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "mục tiêu",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ thống an sinh xã hội thường được ví như tấm lưới nhiều tầng, nhiều lớp vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhiều chính sách, cơ chế cùng che chắn, người dân được bảo vệ ở những mức độ khác nhau tùy điều kiện tham gia và hoàn cảnh cụ thể."
+        },
+        {
+          "key": "B",
+          "text": "mỗi người dân chỉ được lựa chọn một chính sách duy nhất và áp dụng chính sách đó trong suốt cuộc đời."
+        },
+        {
+          "key": "C",
+          "text": "các tầng, các lớp của lưới an sinh đều có cùng một mức hỗ trợ nên không cần phân biệt đối tượng."
+        },
+        {
+          "key": "D",
+          "text": "chỉ tầng chính sách do Nhà nước thực hiện mới có hiệu lực, các tầng còn lại mang tính hình thức."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lưới an sinh xã hội gồm nhiều tầng, nhiều lớp với các chính sách, cơ chế khác nhau, tác động ở mức độ khác nhau tùy đối tượng và hoàn cảnh. Vì vậy không đúng khi nói mỗi người chỉ được chọn một chính sách, các lớp có cùng mức hỗ trợ hay các tầng ngoài Nhà nước chỉ mang tính hình thức.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "lưới an sinh",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với cá nhân và gia đình, an sinh xã hội có vai trò",
+      "options": [
+        {
+          "key": "A",
+          "text": "bảo đảm để mọi thành viên trong gia đình không còn gặp bất kì rủi ro nào trong cuộc sống."
+        },
+        {
+          "key": "B",
+          "text": "giúp các hộ gia đình mở rộng quy mô sản xuất, kinh doanh và tăng lợi nhuận hằng năm."
+        },
+        {
+          "key": "C",
+          "text": "giúp giảm bớt khó khăn về tài chính, ổn định đời sống khi ốm đau, tai nạn, mất việc làm, tuổi già, thiên tai, dịch bệnh."
+        },
+        {
+          "key": "D",
+          "text": "xóa bỏ khoảng cách thu nhập giữa các nhóm dân cư cư trú ở thành thị và nông thôn."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vai trò trực tiếp của an sinh xã hội với cá nhân, gia đình là chia sẻ khó khăn, ổn định đời sống khi rủi ro xảy ra. Không cơ chế nào ngăn được mọi rủi ro, mục tiêu của an sinh xã hội không phải tăng lợi nhuận kinh doanh và nó cũng không xóa bỏ khoảng cách thu nhập giữa thành thị với nông thôn.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "vai trò",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với sự phát triển kinh tế - xã hội, an sinh xã hội có vai trò",
+      "options": [
+        {
+          "key": "A",
+          "text": "làm giảm động lực làm việc của người lao động vì Nhà nước đã bảo đảm mọi khoản chi tiêu."
+        },
+        {
+          "key": "B",
+          "text": "thay thế vai trò của chính sách tài khóa và chính sách tiền tệ trong điều hành kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "chuyển toàn bộ gánh nặng chi phí xã hội sang khu vực doanh nghiệp có vốn đầu tư nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "góp phần ổn định chính trị - xã hội, tạo nền tảng để người dân yên tâm lao động, sản xuất và phát triển bền vững."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "An sinh xã hội tạo môi trường ổn định, giúp người dân yên tâm lao động, sản xuất, góp phần phát triển đất nước một cách công bằng và bền vững. Nó không làm mất động cơ làm việc, không thay thế chính sách tài khóa, tiền tệ và cũng không chuyển gánh nặng xã hội cho doanh nghiệp có vốn đầu tư nước ngoài.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "vai trò",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tắc rộng khắp của an sinh xã hội được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mọi người dân đều có cơ hội tiếp cận sự bảo vệ của hệ thống an sinh xã hội, không phân biệt vùng miền, giới tính, tôn giáo, mức thu nhập."
+        },
+        {
+          "key": "B",
+          "text": "chỉ những người đã đóng phí bảo hiểm mới có cơ hội được hệ thống an sinh xã hội che chở, bảo vệ."
+        },
+        {
+          "key": "C",
+          "text": "hệ thống an sinh xã hội chỉ hướng vào nhóm người có hoàn cảnh đặc biệt khó khăn nhất trong xã hội."
+        },
+        {
+          "key": "D",
+          "text": "các chính sách an sinh xã hội trước mắt chỉ triển khai ở thành thị, sau đó mới tính tới nông thôn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Rộng khắp nghĩa là mọi người dân đều có cơ hội được bảo vệ, không phân biệt vùng miền, giới tính, tôn giáo hay thu nhập. Thu hẹp hệ thống vào người đóng phí, vào nhóm khó khăn nhất hay riêng khu vực thành thị đều trái với nguyên tắc này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "nguyên tắc",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thể hiện nguyên tắc chia sẻ trong an sinh xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mỗi cá nhân tự lo liệu hoàn toàn cho bản thân, không dựa vào cộng đồng và không trông chờ vào xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Người có việc làm ổn định, ít rủi ro hơn san sẻ một phần nguồn lực cho người yếu thế, nhiều rủi ro hơn thông qua các quỹ do Nhà nước và cộng đồng quản lí."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước bảo đảm trọn đời mọi khoản chi tiêu của công dân, người dân không cần đóng góp gì thêm."
+        },
+        {
+          "key": "D",
+          "text": "Người sử dụng lao động một mình gánh chịu toàn bộ rủi ro của người lao động trong doanh nghiệp mình."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chia sẻ là đặc trưng cốt lõi: rủi ro được san sẻ giữa người may mắn và người không may, giữa người thu nhập cao và thu nhập thấp, giữa các thế hệ, giữa Nhà nước, cộng đồng và cá nhân thông qua các quỹ chung. Tự lo liệu cá nhân, Nhà nước bao cấp toàn bộ hay đổ hết trách nhiệm cho người sử dụng lao động đều không phải nguyên tắc chia sẻ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "nguyên tắc",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hệ thống an sinh xã hội ở nước ta, Nhà nước giữ vai trò",
+      "options": [
+        {
+          "key": "A",
+          "text": "hỗ trợ cuối cùng, chỉ tham gia khi doanh nghiệp bảo hiểm thương mại từ chối chi trả."
+        },
+        {
+          "key": "B",
+          "text": "tham gia thứ yếu, chủ yếu giao cho cộng đồng dân cư tự bảo đảm lẫn nhau."
+        },
+        {
+          "key": "C",
+          "text": "chủ đạo trong hoạch định và tổ chức thực hiện chính sách, đồng thời huy động người dân, doanh nghiệp, các tổ chức cùng tham gia."
+        },
+        {
+          "key": "D",
+          "text": "đơn thuần là người cho vay đối với các đối tượng yếu thế trong xã hội."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhà nước giữ vai trò chủ đạo trong xây dựng khung chính sách, tổ chức thực hiện và bảo đảm nguồn lực, đồng thời huy động sự tham gia của các chủ thể khác. Nhà nước không phải là vai trò thứ yếu, không chỉ can thiệp sau cùng và cũng không chỉ đóng vai người cho vay.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "vai trò của Nhà nước",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Bộ phận được coi là trụ cột chính, quan trọng nhất của hệ thống an sinh xã hội là",
+      "options": [
+        {
+          "key": "A",
+          "text": "bảo hiểm xã hội, bao gồm cả loại hình bắt buộc và loại hình tự nguyện."
+        },
+        {
+          "key": "B",
+          "text": "hoạt động từ thiện, nhân đạo của các quỹ xã hội trong cộng đồng."
+        },
+        {
+          "key": "C",
+          "text": "trợ giúp xã hội đối với người yếu thế và người gặp khó khăn."
+        },
+        {
+          "key": "D",
+          "text": "chính sách ưu đãi đối với người có công với cách mạng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo hiểm xã hội được coi là trụ cột chính vì đây là bộ phận có nhiều người tham gia nhất, nguồn lực lớn nhất, trực tiếp thay thế hoặc bù đắp thu nhập cho người lao động khi bị giảm, mất thu nhập. Các bộ phận khác đều quan trọng nhưng không thay được vai trò trụ cột của bảo hiểm xã hội.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "trụ cột",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hệ thống an sinh xã hội, bảo hiểm y tế là một trụ cột quan trọng vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "bảo hiểm y tế bảo đảm thay thế thu nhập cho người lao động khi đã hết tuổi lao động."
+        },
+        {
+          "key": "B",
+          "text": "bảo hiểm y tế chỉ do các công ty bảo hiểm thương mại tổ chức và thực hiện."
+        },
+        {
+          "key": "C",
+          "text": "bảo hiểm y tế giúp mọi người dân đều có thêm việc làm và mức thu nhập cao hơn."
+        },
+        {
+          "key": "D",
+          "text": "bảo hiểm y tế huy động đóng góp của số đông để san sẻ chi phí khám, chữa bệnh cho người mắc bệnh, góp phần công bằng trong chăm sóc sức khoẻ."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bảo hiểm y tế chia sẻ rủi ro về chi phí y tế giữa nhiều người, giúp người bệnh không rơi vào cảnh khó khăn tài chính và góp phần công bằng trong chăm sóc sức khoẻ. Việc thay thế thu nhập khi hết tuổi lao động thuộc bảo hiểm xã hội; bảo hiểm y tế do Nhà nước tổ chức, không phải của công ty thương mại; nó cũng không trực tiếp tạo thêm việc làm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "bảo hiểm y tế",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trợ giúp xã hội là bộ phận của an sinh xã hội nhằm",
+      "options": [
+        {
+          "key": "A",
+          "text": "hỗ trợ người có hoàn cảnh khó khăn, người yếu thế, người gặp thiên tai, dịch bệnh, sự cố bất ngờ vượt qua khó khăn trước mắt, từng bước ổn định cuộc sống."
+        },
+        {
+          "key": "B",
+          "text": "chi trả lương hưu hằng tháng cho người lao động đã tham gia đủ số năm đóng bảo hiểm xã hội."
+        },
+        {
+          "key": "C",
+          "text": "bồi thường thiệt hại về tài sản cho khách hàng khi xảy ra tai nạn theo hợp đồng đã kí."
+        },
+        {
+          "key": "D",
+          "text": "cấp học bổng cho học sinh, sinh viên có kết quả học tập xuất sắc nhất của địa phương."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trợ giúp xã hội hướng tới người yếu thế, người gặp hoàn cảnh khó khăn hoặc rủi ro bất ngờ, bằng tiền, hiện vật hoặc dịch vụ hỗ trợ tại cộng đồng. Chi trả lương hưu thuộc bảo hiểm xã hội, bồi thường theo hợp đồng thuộc bảo hiểm thương mại, còn học bổng cho người học giỏi không phải chính sách trợ giúp xã hội.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "trợ giúp xã hội",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Trợ giúp xã hội đột xuất khác với trợ giúp xã hội thường xuyên ở điểm",
+      "options": [
+        {
+          "key": "A",
+          "text": "trợ giúp đột xuất được thực hiện định kì hằng tháng cho các đối tượng bảo trợ xã hội tại cộng đồng."
+        },
+        {
+          "key": "B",
+          "text": "trợ giúp đột xuất được tiến hành kịp thời khi xảy ra thiên tai, dịch bệnh, tai nạn, sự cố bất ngờ, giúp đối tượng bị ảnh hưởng vượt qua khó khăn trước mắt."
+        },
+        {
+          "key": "C",
+          "text": "trợ giúp đột xuất chỉ dành cho những người đang hưởng lương hưu hằng tháng của bảo hiểm xã hội."
+        },
+        {
+          "key": "D",
+          "text": "trợ giúp đột xuất đòi hỏi người được giúp phải đóng phí bảo hiểm trước khi sự cố xảy ra."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trợ giúp xã hội đột xuất (cứu trợ) phát sinh khi có rủi ro bất ngờ như thiên tai, dịch bệnh, hỏa hoạn, nhằm hỗ trợ kịp thời cho khoảng khó khăn trước mắt; trợ giúp xã hội thường xuyên mới là hỗ trợ định kì, dài hạn cho đối tượng bảo trợ. Vì vậy không thể coi trợ giúp đột xuất là khoản chi hằng tháng, chỉ dành cho người hưu trí hay đòi hỏi phải đóng phí bảo hiểm trước.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "trợ giúp xã hội đột xuất",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Ưu đãi xã hội đối với người có công với cách mạng thể hiện điều gì trong hệ thống an sinh xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "đây là khoản trợ giúp xã hội đột xuất dành cho người bị thiệt hại do thiên tai, dịch bệnh."
+        },
+        {
+          "key": "B",
+          "text": "đây là hình thức bảo hiểm xã hội tự nguyện mà người có công được lựa chọn mức đóng."
+        },
+        {
+          "key": "C",
+          "text": "đây là sự ghi nhận, đền đáp của Nhà nước và toàn xã hội đối với những người đã cống hiến, hy sinh vì sự nghiệp bảo vệ và xây dựng Tổ quốc."
+        },
+        {
+          "key": "D",
+          "text": "đây là khoản tín dụng ưu đãi do ngân hàng thương mại cấp cho gia đình người có công."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ưu đãi xã hội là bộ phận riêng của an sinh xã hội, thể hiện đạo lý đền đáp đối với người có công với cách mạng. Nó không phải trợ giúp xã hội dành cho người gặp rủi ro, không phải bảo hiểm xã hội tự nguyện và không phải khoản vay của ngân hàng thương mại.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "ưu đãi xã hội",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao chính sách giải quyết việc làm được coi là một bộ phận của an sinh xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "vì có việc làm và thu nhập ổn định giúp người lao động tự bảo đảm cuộc sống, phòng ngừa rủi ro nghèo, thất nghiệp cho bản thân và gia đình."
+        },
+        {
+          "key": "B",
+          "text": "vì có việc làm là điều kiện duy nhất để mọi người dân được nhận trợ giúp xã hội hằng tháng."
+        },
+        {
+          "key": "C",
+          "text": "vì chính sách việc làm do từng doanh nghiệp tự ban hành và tổ chức thực hiện riêng lẻ."
+        },
+        {
+          "key": "D",
+          "text": "vì giải quyết việc làm chỉ nhằm tăng nguồn thu cho ngân sách nhà nước trong năm tài chính."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chính sách việc làm tác động ở tầng phòng ngừa: giúp người dân có thu nhập thường xuyên, tự bảo đảm cuộc sống và giảm nguy cơ rơi vào khó khăn. Có việc làm không phải điều kiện duy nhất để được trợ giúp xã hội, chính sách này do Nhà nước ban hành chứ doanh nghiệp không tự ban hành, và mục tiêu hướng tới người lao động chứ không chỉ riêng ngân sách.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "việc làm",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Chính sách giảm nghèo bền vững khác với trợ giúp xã hội đột xuất chủ yếu ở điểm",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ cấp lương thực, nhu yếu phẩm cho người dân trong thời gian xảy ra thiên tai, dịch bệnh."
+        },
+        {
+          "key": "B",
+          "text": "được thực hiện một lần duy nhất khi hộ gia đình gặp biến cố lớn nhất trong đời."
+        },
+        {
+          "key": "C",
+          "text": "do các tổ chức quốc tế đảm nhiệm, Nhà nước Việt Nam không giữ vai trò chủ đạo."
+        },
+        {
+          "key": "D",
+          "text": "tạo điều kiện để người nghèo tiếp cận dịch vụ xã hội cơ bản và sinh kế, vươn lên tự chủ, không chỉ hỗ trợ tức thời."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Giảm nghèo bền vững tác động lâu dài bằng cách mở rộng cơ hội tiếp cận dịch vụ cơ bản, việc làm, sinh kế để người nghèo tự vươn lên thoát nghèo. Cấp lương thực tức thời là đặc trưng của trợ giúp đột xuất; chính sách giảm nghèo được tiến hành thường xuyên, nhiều nội dung chứ không phải một lần và do Nhà nước chủ trì cùng cộng đồng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "giảm nghèo",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Bà M tham gia bảo hiểm xã hội bắt buộc, khi sinh con bà được nghỉ và nhận trợ cấp theo chế độ thai sản. Trường hợp này bà M được bảo vệ bởi bộ phận nào của an sinh xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "trợ giúp xã hội, vì phụ nữ sau khi sinh con đương nhiên là đối tượng yếu thế cần hỗ trợ."
+        },
+        {
+          "key": "B",
+          "text": "ưu đãi xã hội, vì sinh con là thực hiện nghĩa vụ với đất nước nên được xã hội ghi nhận."
+        },
+        {
+          "key": "C",
+          "text": "bảo hiểm xã hội, vì bà đã tham gia đóng góp và được bù đắp một phần thu nhập trong thời gian nghỉ theo chế độ thai sản."
+        },
+        {
+          "key": "D",
+          "text": "chính sách việc làm, vì nghỉ thai sản được xem là một hình thức chuyển đổi nghề nghiệp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chế độ thai sản do bảo hiểm xã hội chi trả trên cơ sở người lao động đã đóng góp, thể hiện chức năng thay thế, bù đắp một phần thu nhập. Đây không phải trợ giúp xã hội vì bà M không thuộc diện yếu thế cần được trợ giúp, không phải ưu đãi xã hội và cũng không liên quan tới chính sách giải quyết việc làm.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "tình huống",
+        "bảo hiểm xã hội"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Bố mẹ mất vì dịch bệnh, hai em nhỏ không còn nơi nương tựa được Ủy ban nhân dân xã xếp vào diện bảo trợ và hằng tháng nhận trợ cấp tại cộng đồng. Hai em được bảo vệ bởi bộ phận nào của an sinh xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "bảo hiểm xã hội, vì trước đó bố mẹ các em đều có việc làm và có thu nhập ổn định."
+        },
+        {
+          "key": "B",
+          "text": "trợ giúp xã hội thường xuyên, vì các em là trẻ em mồ côi không nơi nương tựa, thuộc diện đối tượng bảo trợ xã hội dài hạn."
+        },
+        {
+          "key": "C",
+          "text": "trợ giúp xã hội đột xuất, vì các em vừa phải chịu tổn thất do dịch bệnh gây ra bất ngờ."
+        },
+        {
+          "key": "D",
+          "text": "bảo hiểm y tế, vì trẻ em nhỏ luôn được chăm sóc sức khoẻ khi không may mắc bệnh."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Việc xét duyệt để hằng tháng nhận trợ cấp tại cộng đồng là trợ giúp xã hội thường xuyên đối với người yếu thế, ở đây là trẻ em mồ côi không nơi nương tựa. Không phải bảo hiểm xã hội vì khoản hỗ trợ này không xuất phát từ đóng góp của cha mẹ các em; cũng không phải trợ giúp đột xuất vì hỗ trợ mang tính lâu dài, định kì; đây không phải nội dung chi trả của bảo hiểm y tế.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "tình huống",
+        "trợ giúp xã hội"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Anh T mất việc làm, làm thủ tục và được nhận trợ cấp trong thời gian chưa tìm được việc mới, đồng thời được giới thiệu học nghề để tìm việc. Chính sách an sinh xã hội áp dụng với anh T là",
+      "options": [
+        {
+          "key": "A",
+          "text": "trợ giúp xã hội đột xuất, vì mất việc làm là sự cố bất ngờ đối với gia đình anh T."
+        },
+        {
+          "key": "B",
+          "text": "ưu đãi xã hội, vì anh T đã có thời gian lao động, cống hiến cho doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "trợ giúp xã hội thường xuyên, vì anh T sẽ nhận trợ cấp cho tới khi hết tuổi lao động."
+        },
+        {
+          "key": "D",
+          "text": "bảo hiểm thất nghiệp, vì anh đã tham gia đóng góp, bị mất việc làm và được hỗ trợ học nghề, tìm việc làm."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bảo hiểm thất nghiệp bù đắp một phần thu nhập và hỗ trợ học nghề, tìm việc làm cho người lao động đã tham gia đóng góp khi mất việc làm. Trợ giúp xã hội hướng tới người yếu thế và không đặt trên cơ sở đóng góp; ưu đãi xã hội dành cho người có công; khoản trợ cấp thất nghiệp có thời hạn nên không phải trợ giúp thường xuyên đến hết tuổi lao động.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "tình huống",
+        "bảo hiểm thất nghiệp"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng về sự tham gia của các chủ thể trong hệ thống an sinh xã hội ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "an sinh xã hội là trách nhiệm riêng của hệ thống cơ quan nhà nước ở trung ương."
+        },
+        {
+          "key": "B",
+          "text": "người dân, doanh nghiệp, các tổ chức chính trị - xã hội và cộng đồng cùng tham gia, trong đó Nhà nước giữ vai trò chủ đạo."
+        },
+        {
+          "key": "C",
+          "text": "các doanh nghiệp bảo hiểm thương mại đảm nhiệm toàn bộ việc bảo đảm an sinh xã hội."
+        },
+        {
+          "key": "D",
+          "text": "an sinh xã hội chỉ hướng tới nhóm đối tượng yếu thế nên chỉ nhóm này có trách nhiệm tham gia."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "An sinh xã hội được xây dựng trên nguyên tắc chia sẻ trách nhiệm: Nhà nước chủ đạo, người dân và doanh nghiệp tham gia đóng góp, các tổ chức chính trị - xã hội và cộng đồng cùng hỗ trợ, giám sát. Vì vậy không thể coi đây là việc riêng của cơ quan nhà nước trung ương hay của doanh nghiệp bảo hiểm, và mọi chủ thể đều có trách nhiệm chứ không chỉ nhóm yếu thế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "chủ thể tham gia",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Một xã thường xuyên bị hạn hán. Trong các hoạt động sau, hoạt động nào thể hiện chức năng trợ giúp xã hội đột xuất của chính sách an sinh xã hội ở địa phương?",
+      "options": [
+        {
+          "key": "A",
+          "text": "khi hạn hán kéo dài gây thiếu ăn, Ủy ban nhân dân xã kịp thời hỗ trợ lương thực, nước sạch cho các hộ bị ảnh hưởng."
+        },
+        {
+          "key": "B",
+          "text": "Ủy ban nhân dân xã mở lớp dạy nghề nông nghiệp, giới thiệu việc làm cho lao động nông nhàn của địa phương."
+        },
+        {
+          "key": "C",
+          "text": "Ủy ban nhân dân xã vận động người lao động trong các doanh nghiệp trên địa bàn tham gia bảo hiểm xã hội đầy đủ."
+        },
+        {
+          "key": "D",
+          "text": "Ủy ban nhân dân xã rà soát, lập danh sách các hộ có hoàn cảnh đặc biệt khó khăn để xét trợ cấp hằng tháng tại cộng đồng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trợ giúp xã hội đột xuất là hỗ trợ kịp thời khi xảy ra thiên tai, hạn hán, giúp người dân vượt qua khó khăn trước mắt. Dạy nghề và giới thiệu việc làm thuộc chính sách việc làm; vận động tham gia bảo hiểm xã hội thuộc trụ cột bảo hiểm xã hội; xét trợ cấp hằng tháng là trợ giúp xã hội thường xuyên.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "chính sách ở địa phương",
+        "vận dụng cao"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Xu hướng nào sau đây đặt ra thách thức đối với hệ thống an sinh xã hội ở nước ta hiện nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước đã bảo đảm đầy đủ đời sống cho mọi công dân nên các chính sách an sinh xã hội chỉ còn mang tính hình thức."
+        },
+        {
+          "key": "B",
+          "text": "Người dân có nhu cầu được bảo đảm an sinh xã hội ngày càng giảm vì đời sống đã được cải thiện."
+        },
+        {
+          "key": "C",
+          "text": "Nhiều lao động khu vực phi chính thức, lao động tự do và người thu nhập thấp chưa tham gia bảo hiểm xã hội, bảo hiểm y tế nên lưới bảo vệ còn bỏ ngỏ."
+        },
+        {
+          "key": "D",
+          "text": "Mọi hộ gia đình đều đã được trợ giúp đột xuất nên rủi ro thiên tai không còn ảnh hưởng tới đời sống."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thách thức lớn của hệ thống an sinh xã hội là mở rộng độ bao phủ, bởi nhiều lao động tự do, lao động khu vực phi chính thức và người thu nhập thấp còn nằm ngoài bảo hiểm xã hội, bảo hiểm y tế. Các phương án còn lại mô tả một hiện thực đã hoàn thiện, trái với yêu cầu phải tiếp tục củng cố lưới an sinh xã hội.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "thách thức",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Để giải quyết thách thức về độ bao phủ, phương hướng hoàn thiện hệ thống an sinh xã hội ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "hạn chế mở rộng đối tượng tham gia để giảm bớt gánh nặng cho ngân sách nhà nước."
+        },
+        {
+          "key": "B",
+          "text": "đa dạng hóa các loại hình và mức độ tham gia, tăng truyền thông cùng sự chia sẻ trách nhiệm để ngày càng nhiều người dân được lưới an sinh che chắn."
+        },
+        {
+          "key": "C",
+          "text": "gộp mọi chính sách hiện hành vào một chính sách hỗ trợ chung áp dụng như nhau cho tất cả mọi người."
+        },
+        {
+          "key": "D",
+          "text": "chờ các tổ chức quốc tế tài trợ đủ lớn rồi mới triển khai việc mở rộng chính sách an sinh xã hội."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hướng hoàn thiện là làm cho hệ thống đa dạng, linh hoạt, dễ tiếp cận để mở rộng độ bao phủ, trên cơ sở chia sẻ trách nhiệm giữa Nhà nước, người dân và xã hội. Thu hẹp đối tượng sẽ làm giảm hiệu quả; gộp chung một mức hỗ trợ như nhau sẽ phá vỡ nguyên tắc nhiều tầng, nhiều lớp; phụ thuộc viện trợ không phải hướng chủ động.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "phương hướng",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Doanh nghiệp A lấy lí do hợp đồng lao động còn ngắn hạn nên không khai báo, không tham gia bảo hiểm xã hội cho anh K, dù anh làm việc thường xuyên tại doanh nghiệp. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "cách làm của doanh nghiệp A phù hợp vì người lao động có quyền tự do lựa chọn hình thức tham gia bảo hiểm xã hội."
+        },
+        {
+          "key": "B",
+          "text": "doanh nghiệp A không có lỗi vì bảo hiểm xã hội tự nguyện dành cho mọi người dân, không gắn với quan hệ lao động."
+        },
+        {
+          "key": "C",
+          "text": "chỉ khi anh K có văn bản yêu cầu thì doanh nghiệp A mới phát sinh trách nhiệm tham gia bảo hiểm xã hội."
+        },
+        {
+          "key": "D",
+          "text": "doanh nghiệp A đã né tránh nghĩa vụ tham gia bảo hiểm xã hội bắt buộc theo quy định, làm giảm hiệu quả của lưới an sinh xã hội."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trong quan hệ lao động, khi thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc thì cả người lao động và người sử dụng lao động đều phải tham gia; việc lách khai báo để không đóng bảo hiểm khiến người lao động bị giảm khả năng được bảo vệ. Các phương án còn lại đều coi nghĩa vụ này là tùy thuộc vào ý chí đơn phương của người lao động hoặc cho rằng doanh nghiệp chỉ có trách nhiệm khi được yêu cầu, trái với nguyên tắc bắt buộc.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "tình huống",
+        "bảo hiểm xã hội"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-4",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thể hiện trách nhiệm của công dân trong việc thực hiện chính sách an sinh xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ hưởng quyền lợi mà an sinh xã hội mang lại, không cần tham gia đóng góp."
+        },
+        {
+          "key": "B",
+          "text": "tự nguyện lựa chọn chính sách tùy theo lợi ích trước mắt của bản thân."
+        },
+        {
+          "key": "C",
+          "text": "chờ Nhà nước chủ động hỗ trợ rồi mới tham gia theo hướng dẫn."
+        },
+        {
+          "key": "D",
+          "text": "tích cực tham gia bảo hiểm xã hội, bảo hiểm y tế và chia sẻ, giúp đỡ những người có hoàn cảnh khó khăn trong cộng đồng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Công dân có trách nhiệm tìm hiểu và tuân thủ pháp luật về an sinh xã hội, chủ động tham gia các chính sách khi thuộc đối tượng, đồng thời tương trợ, chia sẻ với cộng đồng. Thụ hưởng mà không đóng góp, chọn chính sách theo lợi ích trước mắt hay thụ động chờ hỗ trợ đều không phải cách thực hiện trách nhiệm công dân.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "An sinh xã hội",
+        "trách nhiệm công dân",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về khái niệm và đặc điểm của an sinh xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là hệ thống các chính sách, cơ chế, thể chế do Nhà nước và xã hội cùng tham gia thực hiện."
+        },
+        {
+          "key": "B",
+          "text": "Nhằm bảo đảm mức sống tối thiểu, giúp người dân vượt qua rủi ro, biến động trong đời sống."
+        },
+        {
+          "key": "C",
+          "text": "Được tổ chức chủ yếu vì mục tiêu lợi nhuận của các đơn vị cung cấp dịch vụ."
+        },
+        {
+          "key": "D",
+          "text": "Được xây dựng và thực hiện theo các nguyên tắc rộng khắp và chia sẻ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "An sinh xã hội là hệ thống chính sách, cơ chế do Nhà nước và xã hội cùng tham gia, hướng tới bảo đảm mức sống tối thiểu và được tổ chức theo nguyên tắc rộng khắp, chia sẻ. Phương án C sai vì an sinh xã hội mang tính nhân văn, không vì mục đích lợi nhuận.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nhận định đúng sai",
+        "An sinh xã hội",
+        "khái niệm"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các bộ phận của hệ thống an sinh xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo hiểm xã hội được coi là trụ cột chính, thay thế hoặc bù đắp một phần thu nhập của người lao động khi bị giảm hoặc mất thu nhập."
+        },
+        {
+          "key": "B",
+          "text": "Trợ giúp xã hội chỉ được áp dụng với những người lao động đang tham gia bảo hiểm xã hội bắt buộc."
+        },
+        {
+          "key": "C",
+          "text": "Bảo hiểm y tế san sẻ chi phí khám, chữa bệnh, giúp người bệnh không rơi vào khó khăn tài chính."
+        },
+        {
+          "key": "D",
+          "text": "Ưu đãi xã hội hướng tới người có công với cách mạng; chính sách việc làm và giảm nghèo giúp người dân tự bảo đảm thu nhập."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "Hệ thống an sinh xã hội gồm bảo hiểm xã hội, bảo hiểm y tế, trợ giúp xã hội, ưu đãi xã hội cùng các chính sách việc làm và giảm nghèo. Phương án B sai vì trợ giúp xã hội hướng tới người yếu thế, người gặp hoàn cảnh khó khăn hoặc rủi ro bất ngờ, không phụ thuộc vào việc họ có đóng bảo hiểm xã hội hay không.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Nhận định đúng sai",
+        "An sinh xã hội",
+        "các trụ cột"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Xã A tổ chức hội nghị bàn về thực hiện chính sách an sinh xã hội trên địa bàn. Những ý kiến nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việc Ủy ban nhân dân xã rà soát, lập danh sách hộ có hoàn cảnh khó khăn để hỗ trợ kịp thời là thực hiện chính sách an sinh xã hội ở địa phương."
+        },
+        {
+          "key": "B",
+          "text": "Vận động doanh nghiệp trên địa bàn tham gia bảo hiểm xã hội cho người lao động và nhận người yếu thế vào học nghề là huy động sự chia sẻ của cộng đồng."
+        },
+        {
+          "key": "C",
+          "text": "Người dân trong xã chưa tham gia bảo hiểm y tế thì vẫn luôn được Nhà nước chi trả toàn bộ chi phí điều trị nội trú."
+        },
+        {
+          "key": "D",
+          "text": "Các tổ chức chính trị - xã hội cùng giám sát việc thực hiện chính sách để nguồn hỗ trợ đến đúng đối tượng là tham gia vào lưới an sinh xã hội."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Chính quyền cơ sở tổ chức thực hiện chính sách an sinh xã hội, cộng đồng doanh nghiệp và các tổ chức chính trị - xã hội cùng tham gia, giám sát theo nguyên tắc chia sẻ. Phương án C sai vì người chưa tham gia bảo hiểm y tế không đương nhiên được chi trả toàn bộ chi phí điều trị; đây chính là lý do cần vận động người dân tham gia bảo hiểm y tế để được lưới an sinh bảo vệ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nhận định đúng sai",
+        "chính sách ở địa phương",
+        "An sinh xã hội"
+      ]
+    },
+    {
+      "id": "ktpl12-b04-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-4",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về trách nhiệm của công dân trong thực hiện chính sách an sinh xã hội?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp khi thuộc đối tượng theo quy định của pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "Tham gia các hoạt động tương trợ, giúp đỡ thành viên cộng đồng gặp khó khăn, thiên tai, dịch bệnh."
+        },
+        {
+          "key": "C",
+          "text": "Cho rằng an sinh xã hội là trách nhiệm riêng của Nhà nước nên bản thân không cần quan tâm, đóng góp."
+        },
+        {
+          "key": "D",
+          "text": "Tìm hiểu pháp luật về an sinh xã hội, phê phán, đấu tranh với các hành vi trục lợi chính sách."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "Trách nhiệm của công dân gồm chủ động tham gia các chính sách khi thuộc đối tượng, tương trợ cộng đồng và chấp hành, bảo vệ pháp luật về an sinh xã hội. Phương án C sai vì an sinh xã hội dựa trên nguyên tắc chia sẻ trách nhiệm giữa Nhà nước, người dân và xã hội, không phải nhiệm vụ riêng của Nhà nước.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nhận định đúng sai",
+        "trách nhiệm công dân",
+        "An sinh xã hội"
+      ]
+    }
+  ]
+}

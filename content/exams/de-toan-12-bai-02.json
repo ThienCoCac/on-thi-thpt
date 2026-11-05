@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-02",
+  "title": "Đề ôn Toán 12 Bài 2: Giá trị lớn nhất và giá trị nhỏ nhất của hàm số (20 câu)",
+  "slug": "de-toan-12-bai-02",
+  "description": "Đề bám sát Bài 2 sách Toán 12 Kết nối tri thức: tìm GTLN, GTNN của hàm số trên đoạn, trên khoảng và nửa khoảng, hàm chứa căn và hàm phân thức, bài toán tham số cùng vài bài toán thực tế. Gồm 20 câu trắc nghiệm bốn lựa chọn, làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B02",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b02-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị lớn nhất của hàm số $y = x^2 - 4x + 5$ trên đoạn $[0;3]$ bằng",
+      "options": [
+        { "key": "A", "text": "$1$." },
+        { "key": "B", "text": "$5$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$-4$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ta có $y' = 2x - 4$, nên $y' = 0$ tại $x = 2$. Tính ba giá trị: $y(0) = 5$, $y(2) = 1$, $y(3) = 2$. Giá trị lớn nhất trên đoạn là $5$ (đạt tại $x = 0$); giá trị $1$ là giá trị nhỏ nhất còn $2$ chỉ là giá trị tại biên phải.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["GTLN trên đoạn", "tam thức bậc hai"]
+    },
+    {
+      "id": "toan12-b02-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị nhỏ nhất của hàm số $y = x^3$ trên đoạn $[-1;2]$ bằng",
+      "options": [
+        { "key": "A", "text": "$8$." },
+        { "key": "B", "text": "$0$." },
+        { "key": "C", "text": "$-1$." },
+        { "key": "D", "text": "$1$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đạo hàm $y' = 3x^2 \\ge 0$ với mọi $x$ và chỉ bằng $0$ tại một điểm, nên hàm số đồng biến trên $[-1;2]$. Vì vậy giá trị nhỏ nhất đạt tại biên trái: $y(-1) = -1$. Giá trị $0$ là $y(0)$, nơi đạo hàm triệt tiêu nhưng không phải giá trị nhỏ nhất; $8$ là giá trị lớn nhất.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["GTNN trên đoạn", "hàm số đồng biến"]
+    },
+    {
+      "id": "toan12-b02-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị lớn nhất của hàm số $y = -3x + 2$ trên đoạn $[-2;3]$ bằng",
+      "options": [
+        { "key": "A", "text": "$8$." },
+        { "key": "B", "text": "$-7$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$11$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hàm bậc nhất có hệ số $-3 < 0$ nên nghịch biến trên $[-2;3]$, do đó giá trị lớn nhất đạt tại biên trái: $y(-2) = 8$. Giá trị $-7$ bằng $y(3)$ và chính là giá trị nhỏ nhất; $11$ là kết quả thay sai dấu khi tính $y(-3)$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["GTLN trên đoạn", "hàm số bậc nhất"]
+    },
+    {
+      "id": "toan12-b02-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = f(x)$ liên tục trên đoạn $[-2;2]$ và có bảng biến thiên: hàm số đồng biến trên $(-2;-1)$, nghịch biến trên $(-1;1)$, đồng biến trên $(1;2)$, với $f(-2) = -1$, $f(-1) = 3$, $f(1) = 0$, $f(2) = 2$. Khi đó giá trị lớn nhất và giá trị nhỏ nhất của $f(x)$ trên $[-2;2]$ lần lượt là",
+      "options": [
+        { "key": "A", "text": "$3$ và $0$." },
+        { "key": "B", "text": "$2$ và $-1$." },
+        { "key": "C", "text": "$3$ và $-1$." },
+        { "key": "D", "text": "$3$ và $2$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo bảng biến thiên, trên đoạn $[-2;2]$ chỉ cần so sánh các giá trị tại hai biên và tại hai điểm tới hạn: $f(-2) = -1$, $f(-1) = 3$, $f(1) = 0$, $f(2) = 2$. Giá trị lớn nhất là $3$ tại $x = -1$, giá trị nhỏ nhất là $-1$ tại $x = -2$. Quên xét biên hoặc quên xét điểm cực trị sẽ nhầm sang $0$ hoặc $2$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["bảng biến thiên", "GTLN GTNN trên đoạn"]
+    },
+    {
+      "id": "toan12-b02-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị nhỏ nhất của hàm số $y = \\dfrac{1}{x}$ trên đoạn $[1;3]$ bằng",
+      "options": [
+        { "key": "A", "text": "$1$." },
+        { "key": "B", "text": "$0$." },
+        { "key": "C", "text": "Hàm số không có giá trị nhỏ nhất." },
+        { "key": "D", "text": "$\\dfrac{1}{3}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Với $x \\in [1;3]$ ta có $y' = -\\dfrac{1}{x^2} < 0$, nên hàm số nghịch biến và giá trị nhỏ nhất đạt tại biên phải: $y(3) = \\dfrac{1}{3}$. Vì $[1;3]$ là đoạn kín và hàm số liên tục trên đó nên luôn tồn tại cả giá trị lớn nhất (bằng $1$) và giá trị nhỏ nhất (bằng $\\dfrac{1}{3}$).",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["GTNN trên đoạn", "hàm phân thức"]
+    },
+    {
+      "id": "toan12-b02-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị lớn nhất của hàm số $y = -x^2 + 6x + 1$ trên đoạn $[0;2]$ bằng",
+      "options": [
+        { "key": "A", "text": "$9$." },
+        { "key": "B", "text": "$10$." },
+        { "key": "C", "text": "$1$." },
+        { "key": "D", "text": "$8$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm $y' = -2x + 6$ triệt tiêu tại $x = 3$, nhưng điểm này không thuộc đoạn $[0;2]$. Trên $[0;2]$ ta có $y' > 0$ nên hàm số đồng biến, vì vậy giá trị lớn nhất là $y(2) = -4 + 12 + 1 = 9$. Giá trị $10$ bằng $y(3)$, là đỉnh parabol nằm ngoài đoạn đang xét; $1$ là $y(0)$, tức giá trị nhỏ nhất.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["GTLN trên đoạn", "đỉnh nằm ngoài đoạn"]
+    },
+    {
+      "id": "toan12-b02-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Gọi $M$ và $m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của hàm số $y = \\sqrt{x^2 - 4x + 5}$ trên đoạn $[0;4]$. Tổng $M + m$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\sqrt{5}$." },
+        { "key": "B", "text": "$\\sqrt{5} + 1$." },
+        { "key": "C", "text": "$5$." },
+        { "key": "D", "text": "$\\sqrt{5} - 1$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đặt $u = x^2 - 4x + 5 = (x - 2)^2 + 1$. Trên $[0;4]$ có $u(0) = 5$, $u(2) = 1$, $u(4) = 5$, suy ra $1 \\le u \\le 5$. Hàm số căn bậc hai đồng biến nên $m = \\sqrt{1} = 1$ và $M = \\sqrt{5}$, do đó $M + m = \\sqrt{5} + 1$. Quên khai căn ở giá trị nhỏ nhất sẽ ra $5+1$ hoặc $\\sqrt{5}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm chứa căn", "GTLN GTNN trên đoạn"]
+    },
+    {
+      "id": "toan12-b02-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị nhỏ nhất của hàm số $y = x^4 - 4x^2 + 1$ trên đoạn $[-1;3]$ bằng",
+      "options": [
+        { "key": "A", "text": "$-2$." },
+        { "key": "B", "text": "$1$." },
+        { "key": "C", "text": "$-3$." },
+        { "key": "D", "text": "$46$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ta có $y' = 4x^3 - 8x = 4x(x^2 - 2)$, các nghiệm thuộc đoạn $[-1;3]$ là $x = 0$ và $x = \\sqrt{2}$. Tính $y(-1) = -2$, $y(0) = 1$, $y(\\sqrt{2}) = 4 - 8 + 1 = -3$, $y(3) = 81 - 36 + 1 = 46$. Vậy giá trị nhỏ nhất là $-3$; bỏ sót nghiệm $x = \\sqrt{2}$ thì chỉ so sánh hai biên và nhầm sang $-2$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm trùng phương", "GTNN trên đoạn"]
+    },
+    {
+      "id": "toan12-b02-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị lớn nhất của hàm số $y = x + \\sqrt{1 - x}$ trên đoạn $[0;1]$ bằng",
+      "options": [
+        { "key": "A", "text": "$1$." },
+        { "key": "B", "text": "$\\dfrac{3}{4}$." },
+        { "key": "C", "text": "$\\dfrac{3}{2}$." },
+        { "key": "D", "text": "$\\dfrac{5}{4}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hàm số liên tục trên $[0;1]$ và với $0 < x < 1$ có $y' = 1 - \\dfrac{1}{2\\sqrt{1-x}}$. Giải $y' = 0$ được $\\sqrt{1-x} = \\dfrac{1}{2}$, tức $x = \\dfrac{3}{4}$. So sánh ba giá trị: $y(0) = 1$, tại $x = \\dfrac{3}{4}$ thì $y = \\dfrac{3}{4} + \\dfrac{1}{2} = \\dfrac{5}{4}$, và $y(1) = 1$. Giá trị lớn nhất là $\\dfrac{5}{4}$; lấy $1$ là lỗi chỉ so sánh hai biên, lấy $\\dfrac{3}{4}$ là nhầm hoành độ vừa tìm được với giá trị của hàm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm chứa căn", "bảng biến thiên"]
+    },
+    {
+      "id": "toan12-b02-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị lớn nhất của hàm số $y = \\dfrac{2x+1}{x-1}$ trên đoạn $[2;4]$ bằng",
+      "options": [
+        { "key": "A", "text": "$5$." },
+        { "key": "B", "text": "$3$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$9$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Với $x \\ne 1$ ta có $y' = \\dfrac{2(x-1) - (2x+1)}{(x-1)^2} = -\\dfrac{3}{(x-1)^2} < 0$, nên hàm số nghịch biến trên $[2;4]$. Do đó giá trị lớn nhất là $y(2) = 5$, còn $y(4) = 3$ là giá trị nhỏ nhất. Giá trị $9$ là kết quả tính $y(4)$ nhưng quên chia cho $x-1$; giá trị $2$ không phải giá trị của hàm tại hai biên.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm phân thức", "GTLN trên đoạn"]
+    },
+    {
+      "id": "toan12-b02-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét hàm số $y = -x^2 + 2x + 3$ trên khoảng $(0;3)$. Khẳng định nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Giá trị lớn nhất bằng $4$ và giá trị nhỏ nhất bằng $0$." },
+        { "key": "B", "text": "Giá trị lớn nhất bằng $3$ và giá trị nhỏ nhất bằng $0$." },
+        { "key": "C", "text": "Giá trị lớn nhất bằng $4$ và hàm số không có giá trị nhỏ nhất." },
+        { "key": "D", "text": "Hàm số không có giá trị lớn nhất và có giá trị nhỏ nhất bằng $0$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đạo hàm $y' = -2x + 2$ triệt tiêu tại $x = 1$ và điểm này thuộc $(0;3)$, với $y(1) = 4$; đây là giá trị lớn nhất vì parabol có bề lõm hướng xuống. Khi $x$ tiến gần $0$ thì $y$ tiến gần $3$, khi $x$ tiến gần $3$ thì $y$ tiến gần $0$, nhưng không có điểm nào trong khoảng $(0;3)$ đạt hai giá trị ấy. Vậy hàm số có giá trị lớn nhất bằng $4$ và không có giá trị nhỏ nhất.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["GTLN trên khoảng", "không tồn tại GTNN"]
+    },
+    {
+      "id": "toan12-b02-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Gọi $M$ và $m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của hàm số $y = x^3 - 3x + 1$ trên đoạn $[0;2]$. Hiệu $M - m$ bằng",
+      "options": [
+        { "key": "A", "text": "$2$." },
+        { "key": "B", "text": "$4$." },
+        { "key": "C", "text": "$3$." },
+        { "key": "D", "text": "$-4$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ta có $y' = 3x^2 - 3 = 0$ tại $x = 1$ (nghiệm $x = -1$ không thuộc $[0;2]$). Tính $y(0) = 1$, $y(1) = -1$, $y(2) = 3$, nên $M = 3$ và $m = -1$, suy ra $M - m = 4$. Nếu bỏ qua nghiệm $x = 1$ thì chỉ so sánh hai biên và nhận được hiệu $2$; đảo ngược thứ tự sẽ ra $-4$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm bậc ba", "GTLN GTNN trên đoạn"]
+    },
+    {
+      "id": "toan12-b02-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị lớn nhất của hàm số $y = \\sqrt{x+1} + \\sqrt{3-x}$ trên đoạn $[-1;3]$ bằng",
+      "options": [
+        { "key": "A", "text": "$2$." },
+        { "key": "B", "text": "$\\dfrac{3\\sqrt{2}}{2}$." },
+        { "key": "C", "text": "$4$." },
+        { "key": "D", "text": "$2\\sqrt{2}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hàm số liên tục trên $[-1;3]$ và với $-1 < x < 3$ có $y' = \\dfrac{1}{2\\sqrt{x+1}} - \\dfrac{1}{2\\sqrt{3-x}}$. Đạo hàm bằng $0$ khi $\\sqrt{x+1} = \\sqrt{3-x}$, tức $x = 1$. So sánh: $y(-1) = 2$, $y(1) = \\sqrt{2} + \\sqrt{2} = 2\\sqrt{2}$, $y(3) = 2$. Giá trị lớn nhất là $2\\sqrt{2}$, giá trị nhỏ nhất là $2$; lấy $2$ là nhầm giá trị tại biên, lấy $4$ là cộng hai giá trị ở hai biên.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["hàm chứa căn", "GTLN trên đoạn"]
+    },
+    {
+      "id": "toan12-b02-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Gọi $M$ và $m$ lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của hàm số $y = x + \\dfrac{1}{x}$ trên đoạn $[\\dfrac{1}{2}; 2]$. Tổng $M + m$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{9}{2}$." },
+        { "key": "B", "text": "$4$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$5$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm $y' = 1 - \\dfrac{1}{x^2}$, nên $y' = 0$ tại $x = 1$ (nghiệm $x = -1$ không thuộc đoạn). Tính $y(\\dfrac{1}{2}) = \\dfrac{5}{2}$, $y(1) = 2$, $y(2) = \\dfrac{5}{2}$, suy ra $M = \\dfrac{5}{2}$ và $m = 2$, do đó $M + m = \\dfrac{9}{2}$. Bỏ qua nghiệm $x = 1$ thì chỉ thấy hai biên và kết luận sai $M + m = 5$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["hàm dạng tổng nghịch đảo", "GTLN GTNN trên đoạn"]
+    },
+    {
+      "id": "toan12-b02-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ một tấm tôn hình vuông cạnh 12 cm, người ta cắt ở bốn góc bốn hình vuông bằng nhau có cạnh $x$ cm ($0 < x < 6$) rồi gấp lên để tạo thành một hộp không nắp. Thể tích lớn nhất của hộp bằng",
+      "options": [
+        { "key": "A", "text": "100 cm³." },
+        { "key": "B", "text": "108 cm³." },
+        { "key": "C", "text": "128 cm³." },
+        { "key": "D", "text": "216 cm³." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hộp tạo thành có đáy vuông cạnh $12 - 2x$ và chiều cao $x$, nên $V(x) = x(12 - 2x)^2$. Khai triển rồi đạo hàm: $V'(x) = (12 - 2x)(12 - 6x)$, trên $(0;6)$ chỉ có $x = 2$ làm $V'(x) = 0$. Khi đó $V(2) = 2 \\cdot 64 = 128$; thử thêm $V(1) = 100$ và $V(3) = 108$ đều nhỏ hơn, nên thể tích lớn nhất là $128$ cm³. Giá trị $216$ là lấy $(12/2)^3$, không theo công thức thể tích.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["bài toán thực tế", "thể tích hộp", "GTLN trên khoảng"]
+    },
+    {
+      "id": "toan12-b02-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Một chất điểm chuyển động có quãng đường $s(t) = t^3 - 6t^2 + 9t$ (mét), với $t$ tính bằng giây và $t \\in [0;5]$. Vận tốc lớn nhất của chất điểm trên khoảng thời gian đã cho bằng",
+      "options": [
+        { "key": "A", "text": "$9$ m/s." },
+        { "key": "B", "text": "$24$ m/s." },
+        { "key": "C", "text": "$20$ m/s." },
+        { "key": "D", "text": "$3$ m/s." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vận tốc là $v(t) = s'(t) = 3t^2 - 12t + 9$. Xét $v$ trên đoạn $[0;5]$: $v'(t) = 6t - 12$ triệt tiêu tại $t = 2$ với $v(2) = 12 - 24 + 9 = -3$; hai biên cho $v(0) = 9$ và $v(5) = 75 - 60 + 9 = 24$. Vậy vận tốc lớn nhất bằng $24$ m/s, đạt tại $t = 5$. Giá trị $20$ là $s(5)$ (quãng đường, không phải vận tốc), còn $-3$ là giá trị nhỏ nhất của $v$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["bài toán vật lí", "GTLN trên đoạn", "đạo hàm"]
+    },
+    {
+      "id": "toan12-b02-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm $m$ để giá trị lớn nhất của hàm số $y = x^2 - 2x + m$ trên đoạn $[0;3]$ bằng $5$.",
+      "options": [
+        { "key": "A", "text": "$m = 3$." },
+        { "key": "B", "text": "$m = 5$." },
+        { "key": "C", "text": "$m = 6$." },
+        { "key": "D", "text": "$m = 2$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đạo hàm $y' = 2x - 2$ triệt tiêu tại $x = 1$ thuộc $[0;3]$ với $y(1) = m - 1$; hai biên cho $y(0) = m$ và $y(3) = m + 3$. Vì $m + 3 > m > m - 1$ với mọi $m$ nên giá trị lớn nhất bằng $m + 3$. Cho $m + 3 = 5$ suy ra $m = 2$. Đáp án $m = 5$ ứng với việc nhầm giá trị lớn nhất đạt tại $x = 0$, đáp án $m = 6$ ứng với việc nhầm giá trị lớn nhất đạt tại $x = 1$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["bài toán tham số", "GTLN trên đoạn"]
+    },
+    {
+      "id": "toan12-b02-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $m > 0$. Tìm $m$ để giá trị nhỏ nhất của hàm số $y = x + \\dfrac{m}{x}$ trên đoạn $[1;4]$ bằng $3$.",
+      "options": [
+        { "key": "A", "text": "$m = \\dfrac{9}{4}$." },
+        { "key": "B", "text": "$m = 2$." },
+        { "key": "C", "text": "$m = 9$." },
+        { "key": "D", "text": "$m = \\dfrac{3}{2}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm $y' = 1 - \\dfrac{m}{x^2}$ có nghiệm dương $x = \\sqrt{m}$. Nếu $1 \\le \\sqrt{m} \\le 4$ thì giá trị nhỏ nhất đạt tại $x = \\sqrt{m}$ và bằng $2\\sqrt{m}$; cho $2\\sqrt{m} = 3$ được $m = \\dfrac{9}{4}$, thỏa mãn vì $\\sqrt{m} = \\dfrac{3}{2} \\in [1;4]$. Nếu $\\sqrt{m} < 1$ thì hàm số đồng biến trên $[1;4]$, giá trị nhỏ nhất là $1 + m = 3$ cho $m = 2$ nhưng loại vì $\\sqrt{2} > 1$. Nếu $\\sqrt{m} > 4$ thì hàm số nghịch biến, giá trị nhỏ nhất là $4 + \\dfrac{m}{4} = 3$ cho $m = -4$, cũng loại. Vậy chỉ có $m = \\dfrac{9}{4}$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["bài toán tham số", "GTNN trên đoạn", "hàm phân thức"]
+    },
+    {
+      "id": "toan12-b02-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hộp không nắp có đáy là hình vuông và thể tích bằng $32$ dm³. Khi diện tích toàn phần của hộp đạt giá trị nhỏ nhất thì cạnh đáy bằng",
+      "options": [
+        { "key": "A", "text": "$\\sqrt[3]{32}$ dm." },
+        { "key": "B", "text": "$2$ dm." },
+        { "key": "C", "text": "$4$ dm." },
+        { "key": "D", "text": "$8$ dm." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Gọi cạnh đáy là $x$ dm và chiều cao là $h$ dm. Từ $x^2 h = 32$ suy ra $h = \\dfrac{32}{x^2}$. Vì hộp không nắp nên diện tích toàn phần là $S = x^2 + 4xh = x^2 + \\dfrac{128}{x}$ với $x > 0$. Đạo hàm $S' = 2x - \\dfrac{128}{x^2}$ triệt tiêu khi $2x^3 = 128$, tức $x = 4$ và khi đó $h = 2$, $S = 16 + 32 = 48$ dm². Bảng biến thiên cho thấy đây là giá trị nhỏ nhất. Nếu nhầm hộp có nắp ($S = 2x^2 + \\dfrac{128}{x}$) sẽ ra $x = \\sqrt[3]{32}$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["bài toán thực tế", "GTNN trên khoảng", "diện tích toàn phần"]
+    },
+    {
+      "id": "toan12-b02-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b02-gtlmax-gtnmin",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = |x^2 - 6x + m|$ trên đoạn $[0;4]$. Với mỗi $m$ gọi $M(m)$ là giá trị lớn nhất của hàm số. Giá trị nhỏ nhất của $M(m)$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{9}{2}$." },
+        { "key": "B", "text": "$4$." },
+        { "key": "C", "text": "$5$." },
+        { "key": "D", "text": "$\\dfrac{5}{2}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đặt $g(x) = (x-3)^2 + m - 9$. Trên $[0;4]$ có $g(0) = m$, $g(3) = m - 9$, $g(4) = m - 8$; bảng biến thiên cho $m - 9 \\le g(x) \\le m$, nên $M(m) = \\max(|m|, |m - 9|)$. Vì $|m| + |m - 9| \\ge 9$ nên $M(m) \\ge \\dfrac{9}{2}$, dấu bằng xảy ra khi $|m| = |m - 9|$, tức $m = \\dfrac{9}{2}$. Thử lại: với $m = \\dfrac{9}{2}$ thì $g(x) \\in [-\\dfrac{9}{2}; \\dfrac{9}{2}]$ và $M(m) = \\dfrac{9}{2}$. Vậy giá trị nhỏ nhất của $M(m)$ là $\\dfrac{9}{2}$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["giá trị tuyệt đối", "bài toán tham số", "GTLN trên đoạn"]
+    }
+  ]
+}

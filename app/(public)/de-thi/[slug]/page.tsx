@@ -134,6 +134,7 @@ export default function ExamDetailPage({ params }: ExamDetailPageProps) {
       <header className="mt-5">
         <div className="flex flex-wrap items-center gap-1.5">
           <Badge variant="secondary">{exam.subject.name}</Badge>
+          <Badge variant="outline">Lớp {exam.grade}</Badge>
           <Badge variant="outline">{EXAM_TYPE_LABELS[exam.type]}</Badge>
           {exam.isFree ? <Badge variant="success">Miễn phí</Badge> : null}
           {exam.examYear ? (

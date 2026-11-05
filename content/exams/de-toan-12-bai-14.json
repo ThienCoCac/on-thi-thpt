@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-14",
+  "title": "Đề ôn Toán 12 Bài 14: Phương trình mặt phẳng (20 câu)",
+  "slug": "de-toan-12-bai-14",
+  "description": "Bám sát Bài 14 sách Toán 12 Kết nối tri thức: vectơ pháp tuyến, phương trình tổng quát của mặt phẳng, dạng chặn trục, cách viết phương trình mặt phẳng và khoảng cách từ một điểm đến mặt phẳng. 20 câu trắc nghiệm bốn lựa chọn, làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B14",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b14-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, mặt phẳng $(P): 2x-3y+5z-7=0$ có một vectơ pháp tuyến là",
+      "options": [
+        { "key": "A", "text": "$(2;-3;-7)$." },
+        { "key": "B", "text": "$(2;-3;5)$." },
+        { "key": "C", "text": "$(-3;2;5)$." },
+        { "key": "D", "text": "$(2;3;5)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với mặt phẳng có phương trình $Ax+By+Cz+D=0$, một vectơ pháp tuyến là $\\vec n=(A;B;C)$. Ở đây $A=2$, $B=-3$, $C=5$ nên $\\vec n=(2;-3;5)$. Phương án $(2;-3;-7)$ là lỗi lấy hệ số tự do $D$ thay cho thành phần thứ ba.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["vectơ pháp tuyến", "phương trình tổng quát"]
+    },
+    {
+      "id": "toan12-b14-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt phẳng đi qua điểm $M(1;-2;3)$ và nhận vectơ $\\vec n=(2;1;-4)$ làm vectơ pháp tuyến có phương trình là",
+      "options": [
+        { "key": "A", "text": "$2x+y-4z+12=0$." },
+        { "key": "B", "text": "$2x+y-4z-12=0$." },
+        { "key": "C", "text": "$2x+y-4z-16=0$." },
+        { "key": "D", "text": "$2x+y+4z-12=0$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thay vào $A(x-x_0)+B(y-y_0)+C(z-z_0)=0$ ta có $2(x-1)+(y+2)-4(z-3)=0$, khai triển thành $2x+y-4z+12=0$. Thử lại: $2\\cdot1-2-4\\cdot3+12=0$. Phương án mang $-16$ là lỗi quên đổi dấu khi viết $y+2$ và $z-3$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["vectơ pháp tuyến", "viết phương trình mặt phẳng"]
+    },
+    {
+      "id": "toan12-b14-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, mặt phẳng $(Oxy)$ có phương trình là",
+      "options": [
+        { "key": "A", "text": "$x=0$." },
+        { "key": "B", "text": "$y=0$." },
+        { "key": "C", "text": "$z=0$." },
+        { "key": "D", "text": "$x+y+z=0$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mọi điểm thuộc $(Oxy)$ đều có cao độ bằng $0$ và ngược lại, nên $(Oxy): z=0$, nhận $\\vec k=(0;0;1)$ làm vectơ pháp tuyến. Hai phương án $x=0$ và $y=0$ lần lượt là $(Oyz)$ và $(Oxz)$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["mặt phẳng toạ độ", "vectơ pháp tuyến"]
+    },
+    {
+      "id": "toan12-b14-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Vectơ nào sau đây là một vectơ chỉ phương của mặt phẳng $(P): 3x-2z+1=0$?",
+      "options": [
+        { "key": "A", "text": "$(3;0;-2)$." },
+        { "key": "B", "text": "$(3;-2;0)$." },
+        { "key": "C", "text": "$(3;0;2)$." },
+        { "key": "D", "text": "$(0;1;0)$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mặt phẳng có vectơ pháp tuyến $\\vec n=(3;0;-2)$, còn vectơ chỉ phương phải vuông góc với $\\vec n$. Với $(0;1;0)$: $0\\cdot3+1\\cdot0+0\\cdot(-2)=0$, đúng vì $(P)$ thiếu biến $y$ nên song song với trục $Oy$. Phương án $(3;0;-2)$ là lỗi lấy vectơ pháp tuyến làm vectơ chỉ phương; $(3;0;2)$ có tích vô hướng bằng $5$ và $(3;-2;0)$ có tích vô hướng bằng $9$ nên không thoả.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["vectơ chỉ phương", "vectơ pháp tuyến"]
+    },
+    {
+      "id": "toan12-b14-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt phẳng đi qua ba điểm $A(2;0;0)$, $B(0;-3;0)$, $C(0;0;5)$ có phương trình theo dạng chặn trục là",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{x}{2}-\\dfrac{y}{3}+\\dfrac{z}{5}=1$." },
+        { "key": "B", "text": "$\\dfrac{x}{2}+\\dfrac{y}{3}+\\dfrac{z}{5}=1$." },
+        { "key": "C", "text": "$2x-3y+5z=1$." },
+        { "key": "D", "text": "$\\dfrac{x}{2}-\\dfrac{y}{3}+\\dfrac{z}{5}=0$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dạng chặn trục là $\\dfrac{x}{a}+\\dfrac{y}{b}+\\dfrac{z}{c}=1$ với $a=2$, $b=-3$, $c=5$, tức $\\dfrac{x}{2}-\\dfrac{y}{3}+\\dfrac{z}{5}=1$. Thử lại điểm $B$: $0-\\dfrac{-3}{3}+0=1$. Phương án $2x-3y+5z=1$ là lỗi lấy các độ dài chặn làm hệ số.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["dạng chặn trục", "phương trình mặt phẳng"]
+    },
+    {
+      "id": "toan12-b14-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Góc giữa hai mặt phẳng $(P): x+y+z-2=0$ và $(Q): 2x-y-z+3=0$ bằng",
+      "options": [
+        { "key": "A", "text": "$30^{\\circ}$." },
+        { "key": "B", "text": "$60^{\\circ}$." },
+        { "key": "C", "text": "$90^{\\circ}$." },
+        { "key": "D", "text": "$45^{\\circ}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hai vectơ pháp tuyến là $\\vec n_1=(1;1;1)$ và $\\vec n_2=(2;-1;-1)$. Ta có $\\vec n_1\\cdot\\vec n_2=2-1-1=0$, suy ra hai mặt phẳng vuông góc và góc giữa chúng bằng $90^{\\circ}$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["góc giữa hai mặt phẳng", "vectơ pháp tuyến"]
+    },
+    {
+      "id": "toan12-b14-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt phẳng đi qua điểm $M(2;-1;3)$ và song song với mặt phẳng $(Oxz)$ có phương trình là",
+      "options": [
+        { "key": "A", "text": "$y+1=0$." },
+        { "key": "B", "text": "$y-1=0$." },
+        { "key": "C", "text": "$x-2=0$." },
+        { "key": "D", "text": "$z-3=0$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mặt phẳng song song với $(Oxz): y=0$ có dạng $y=d$. Vì đi qua $M$ có tung độ $-1$ nên $d=-1$, tức $y+1=0$. Hai phương án $x-2=0$ và $z-3=0$ là các mặt phẳng qua $M$ nhưng song song với $(Oyz)$ và $(Oxy)$; $y-1=0$ là lỗi quên đổi dấu.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["mặt phẳng song song", "mặt phẳng toạ độ"]
+    },
+    {
+      "id": "toan12-b14-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt phẳng đi qua ba điểm $A(1;0;0)$, $B(0;2;0)$, $C(0;0;3)$ có phương trình tổng quát là",
+      "options": [
+        { "key": "A", "text": "$x+2y+3z-6=0$." },
+        { "key": "B", "text": "$6x+3y+2z+6=0$." },
+        { "key": "C", "text": "$3x+2y+6z-6=0$." },
+        { "key": "D", "text": "$6x+3y+2z-6=0$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Từ dạng chặn trục $\\dfrac{x}{1}+\\dfrac{y}{2}+\\dfrac{z}{3}=1$, nhân hai vế với $6$ ta được $6x+3y+2z-6=0$. Thử lại ba điểm: $6\\cdot1-6=0$, $3\\cdot2-6=0$, $2\\cdot3-6=0$. Phương án $x+2y+3z-6=0$ là lỗi lấy toạ độ các điểm làm hệ số của $x$, $y$, $z$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["dạng chặn trục", "phương trình tổng quát"]
+    },
+    {
+      "id": "toan12-b14-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Khoảng cách từ điểm $M(1;2;3)$ đến mặt phẳng $(P): 3x-6y+2z+7=0$ bằng",
+      "options": [
+        { "key": "A", "text": "$4$." },
+        { "key": "B", "text": "$\\dfrac{4}{7}$." },
+        { "key": "C", "text": "$\\dfrac{4}{49}$." },
+        { "key": "D", "text": "$\\dfrac{10}{7}$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "$d=\\dfrac{|3\\cdot1-6\\cdot2+2\\cdot3+7|}{\\sqrt{3^{2}+(-6)^{2}+2^{2}}}=\\dfrac{|3-12+6+7|}{\\sqrt{49}}=\\dfrac{4}{7}$. Phương án $4$ là lỗi quên chia cho độ dài vectơ pháp tuyến, $\\dfrac{4}{49}$ là lỗi không khai căn, $\\dfrac{10}{7}$ là lỗi đổi dấu hệ số tự do.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["khoảng cách từ điểm đến mặt phẳng", "vectơ pháp tuyến"]
+    },
+    {
+      "id": "toan12-b14-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Vị trí tương đối của hai mặt phẳng $(P): x-2y+3z-6=0$ và $(Q): 2x-4y+6z+1=0$ là",
+      "options": [
+        { "key": "A", "text": "Trùng nhau." },
+        { "key": "B", "text": "Cắt nhau." },
+        { "key": "C", "text": "Song song." },
+        { "key": "D", "text": "Vuông góc." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ta có $\\dfrac{2}{1}=\\dfrac{-4}{-2}=\\dfrac{6}{3}=2$ nhưng $\\dfrac{1}{-6}\\ne2$, nên hai vectơ pháp tuyến cùng phương còn hệ số tự do không cùng tỉ lệ: $(P)$ song song với $(Q)$. Chúng không vuông góc vì $\\vec n_1\\cdot\\vec n_2=2+8+18=28\\ne0$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["vị trí tương đối", "hai mặt phẳng song song"]
+    },
+    {
+      "id": "toan12-b14-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt phẳng trung trực của đoạn thẳng $AB$ với $A(1;2;-3)$ và $B(3;0;1)$ có phương trình là",
+      "options": [
+        { "key": "A", "text": "$x-y+2z+1=0$." },
+        { "key": "B", "text": "$x-y+2z-1=0$." },
+        { "key": "C", "text": "$x-y+2z+7=0$." },
+        { "key": "D", "text": "$2x-2y+4z+1=0$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trung điểm $M(2;1;-1)$ và $\\overrightarrow{AB}=(2;-2;4)$, rút gọn thành $\\vec n=(1;-1;2)$ làm vectơ pháp tuyến. Phương trình: $(x-2)-(y-1)+2(z+1)=0$, tức $x-y+2z+1=0$. Phương án $x-y+2z+7=0$ là mặt phẳng qua $A$ (thay $-3$ thành $+3$ khi khai triển), phương án $2x-2y+4z+1=0$ giữ nguyên $\\overrightarrow{AB}$ nhưng tính sai hệ số tự do.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["mặt phẳng trung trực", "vectơ pháp tuyến"]
+    },
+    {
+      "id": "toan12-b14-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt phẳng đi qua hai điểm $A(2;1;0)$, $B(2;2;-1)$ và song song với trục $Oz$ có phương trình là",
+      "options": [
+        { "key": "A", "text": "$z=0$." },
+        { "key": "B", "text": "$y-z-1=0$." },
+        { "key": "C", "text": "$y-1=0$." },
+        { "key": "D", "text": "$x-2=0$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trục $Oz$ có vectơ chỉ phương $\\vec k=(0;0;1)$ và $\\overrightarrow{AB}=(0;1;-1)$, suy ra $\\left[\\overrightarrow{AB},\\vec k\\right]=(1;0;0)$ là vectơ pháp tuyến. Mặt phẳng cần tìm là $x-2=0$; điểm $B$ có hoành độ $2$ nên thuộc mặt phẳng này. Phương án $z=0$ là lỗi lấy $\\vec k$ làm vectơ pháp tuyến, $y-z-1=0$ là lỗi lấy $\\overrightarrow{AB}$ làm vectơ pháp tuyến.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["mặt phẳng song song với trục", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b14-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt phẳng đi qua $M(1;2;-1)$ và vuông góc với cả hai mặt phẳng $(P): x+y-z+2=0$, $(Q): 2x-y+z-1=0$ có phương trình là",
+      "options": [
+        { "key": "A", "text": "$x+y+z-2=0$." },
+        { "key": "B", "text": "$y+z+1=0$." },
+        { "key": "C", "text": "$y+z-1=0$." },
+        { "key": "D", "text": "$y-z-3=0$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mặt phẳng vuông góc với $(P)$ và $(Q)$ nhận $\\left[\\vec n_1,\\vec n_2\\right]=(0;-3;-3)$, rút gọn thành $\\vec n=(0;1;1)$, làm vectơ pháp tuyến. Phương trình qua $M$: $(y-2)+(z+1)=0$, tức $y+z-1=0$. Thử lại $M$: $2-1-1=0$ và $\\vec n\\cdot\\vec n_1=0+1-1=0$, $\\vec n\\cdot\\vec n_2=0-1+1=0$. Phương án $y+z+1=0$ là lỗi dấu ở hệ số tự do; phương án $x+y+z-2=0$ dù đi qua $M$ nhưng có vectơ pháp tuyến $(1;1;1)$ không vuông góc với $(1;1;-1)$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["hai mặt phẳng vuông góc", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b14-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, phương trình mặt phẳng đi qua ba điểm $A(1;2;0)$, $B(3;0;1)$, $C(2;-1;2)$ là",
+      "options": [
+        { "key": "A", "text": "$x+3y+4z-7=0$." },
+        { "key": "B", "text": "$x-3y-4z-7=0$." },
+        { "key": "C", "text": "$x+3y+4z+7=0$." },
+        { "key": "D", "text": "$x+3y-4z-1=0$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "$\\overrightarrow{AB}=(2;-2;1)$, $\\overrightarrow{AC}=(1;-3;2)$, do đó $\\left[\\overrightarrow{AB},\\overrightarrow{AC}\\right]=(-1;-3;-4)$, lấy $\\vec n=(1;3;4)$. Phương trình $(x-1)+3(y-2)+4z=0$ rút gọn thành $x+3y+4z-7=0$. Thử lại: $B$ cho $3+0+4=7$, $C$ cho $2-3+8=7$. Phương án $x+3y+4z+7=0$ là lỗi dấu hằng số khi khai triển.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["mặt phẳng qua ba điểm", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b14-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị nào của $m$ để hai mặt phẳng $(P): x+2y-z+3=0$ và $(Q): 2x+4y+(m-1)z+m=0$ song song với nhau?",
+      "options": [
+        { "key": "A", "text": "$m=-1$." },
+        { "key": "B", "text": "$m=1$." },
+        { "key": "C", "text": "$m=-3$." },
+        { "key": "D", "text": "$m=2$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Điều kiện là $\\dfrac{2}{1}=\\dfrac{4}{2}=\\dfrac{m-1}{-1}\\ne\\dfrac{m}{3}$. Từ $\\dfrac{m-1}{-1}=2$ suy ra $m=-1$. Khi đó $\\dfrac{m}{3}=-\\dfrac{1}{3}\\ne2$, nên $(P)$ và $(Q)$ thực sự song song chứ không trùng nhau: $(Q)$ trở thành $2x+4y-2z-1=0$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["hai mặt phẳng song song", "mặt phẳng chứa tham số"]
+    },
+    {
+      "id": "toan12-b14-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $A(1;0;0)$, $B(0;2;0)$, $C(0;0;4)$ và $M(2;-1;3)$. Khoảng cách từ $M$ đến mặt phẳng $(ABC)$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{5}{21}$." },
+        { "key": "B", "text": "$5$." },
+        { "key": "C", "text": "$\\dfrac{5\\sqrt{21}}{21}$." },
+        { "key": "D", "text": "$\\dfrac{13\\sqrt{21}}{21}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mặt phẳng $(ABC)$ có dạng $\\dfrac{x}{1}+\\dfrac{y}{2}+\\dfrac{z}{4}=1$, tức $4x+2y+z-4=0$. Khi đó $d=\\dfrac{|4\\cdot2+2\\cdot(-1)+3-4|}{\\sqrt{16+4+1}}=\\dfrac{5}{\\sqrt{21}}=\\dfrac{5\\sqrt{21}}{21}$. Phương án $5$ là lỗi không chia cho $\\sqrt{21}$, $\\dfrac{5}{21}$ là lỗi bình phương mà không khai căn, $\\dfrac{13\\sqrt{21}}{21}$ là lỗi đổi dấu hằng số.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["khoảng cách từ điểm đến mặt phẳng", "dạng chặn trục"]
+    },
+    {
+      "id": "toan12-b14-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị nào của $m$ để hai mặt phẳng $(P): 3x-2y+z-5=0$ và $(Q): 6x-4y+2z+m=0$ trùng nhau?",
+      "options": [
+        { "key": "A", "text": "$m=2$." },
+        { "key": "B", "text": "$m=-5$." },
+        { "key": "C", "text": "$m=10$." },
+        { "key": "D", "text": "$m=-10$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Các hệ số của $x$, $y$, $z$ đã theo tỉ lệ $2$ vì $(6;-4;2)=2(3;-2;1)$. Để hai mặt phẳng trùng nhau thì hằng số cũng phải theo tỉ lệ đó: $m=2\\cdot(-5)=-10$. Khi $m=10$ thì $\\dfrac{m}{-5}=-2\\ne2$ nên hai mặt phẳng chỉ song song phân biệt.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["hai mặt phẳng trùng nhau", "mặt phẳng chứa tham số"]
+    },
+    {
+      "id": "toan12-b14-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt phẳng đi qua hai điểm $A(1;0;0)$, $B(0;2;0)$ và vuông góc với mặt phẳng $(P): x+y+2z-3=0$ có phương trình là",
+      "options": [
+        { "key": "A", "text": "$4x+2y+3z-4=0$." },
+        { "key": "B", "text": "$4x+2y-3z-4=0$." },
+        { "key": "C", "text": "$x+y+2z-1=0$." },
+        { "key": "D", "text": "$4x-2y-3z-4=0$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "$\\overrightarrow{AB}=(-1;2;0)$, $\\vec n_P=(1;1;2)$, suy ra $\\left[\\overrightarrow{AB},\\vec n_P\\right]=(4;2;-3)$. Mặt phẳng đi qua $A(1;0;0)$ là $4(x-1)+2y-3z=0$, tức $4x+2y-3z-4=0$. Thử lại: $\\vec n\\cdot\\vec n_P=4+2-6=0$ và điểm $B$ cho $4-4=0$. Phương án $4x+2y+3z-4=0$ là lỗi dấu ở thành phần thứ ba của tích có hướng; phương án $x+y+2z-1=0$ chỉ song song với $(P)$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["hai mặt phẳng vuông góc", "mặt phẳng qua hai điểm"]
+    },
+    {
+      "id": "toan12-b14-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Mặt phẳng $(P)$ cắt ba tia $Ox$, $Oy$, $Oz$ lần lượt tại $A$, $B$, $C$ sao cho $M(2;1;3)$ là trọng tâm tam giác $ABC$. Phương trình nào sau đây là của $(P)$?",
+      "options": [
+        { "key": "A", "text": "$x+2y+3z-6=0$." },
+        { "key": "B", "text": "$3x+2y+6z-18=0$." },
+        { "key": "C", "text": "$3x+6y+2z+18=0$." },
+        { "key": "D", "text": "$3x+6y+2z-18=0$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đặt $A(a;0;0)$, $B(0;b;0)$, $C(0;0;c)$. Vì $M$ là trọng tâm nên $\\dfrac{a}{3}=2$, $\\dfrac{b}{3}=1$, $\\dfrac{c}{3}=3$, tức $a=6$, $b=3$, $c=9$. Dạng chặn trục cho $\\dfrac{x}{6}+\\dfrac{y}{3}+\\dfrac{z}{9}=1$; nhân với $18$ ta được $3x+6y+2z-18=0$. Thử lại $M$: $6+6+6=18$. Phương án $x+2y+3z-6=0$ là lỗi lấy toạ độ của $M$ làm hệ số chặn.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["dạng chặn trục", "mặt phẳng cắt ba trục"]
+    },
+    {
+      "id": "toan12-b14-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b14-phuong-trinh-mat-phang",
+      "type": "SINGLE_CHOICE",
+      "content": "Có bao nhiêu mặt phẳng song song với mặt phẳng $(P): x+2y-2z+5=0$ và cách gốc toạ độ $O$ một khoảng bằng $3$?",
+      "options": [
+        { "key": "A", "text": "$1$." },
+        { "key": "B", "text": "$4$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$0$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mặt phẳng cần tìm có dạng $x+2y-2z+D=0$ với $D\\ne5$. Khoảng cách từ $O$ là $\\dfrac{|D|}{\\sqrt{1+4+4}}=\\dfrac{|D|}{3}=3$, suy ra $D=9$ hoặc $D=-9$, cả hai đều khác $5$. Vậy có đúng $2$ mặt phẳng. Chọn $1$ là lỗi chỉ lấy nghiệm dương, chọn $4$ là lỗi nhân nhầm độ dài vectơ pháp tuyến thành $\\dfrac{3}{4}$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["khoảng cách từ điểm đến mặt phẳng", "mặt phẳng song song"]
+    }
+  ]
+}

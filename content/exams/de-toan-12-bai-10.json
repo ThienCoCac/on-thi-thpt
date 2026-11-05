@@ -1,0 +1,681 @@
+{
+  "id": "de-toan-12-bai-10",
+  "title": "Đề ôn Toán 12 Bài 10: Phương sai và độ lệch chuẩn (20 câu)",
+  "slug": "de-toan-12-bai-10",
+  "description": "Đề bám sát Bài 10 sách Toán 12 Kết nối tri thức: công thức phương sai và độ lệch chuẩn của mẫu số liệu ghép nhóm theo trung điểm và tần số (hoặc tần số tương đối), ý nghĩa đo mức độ phân tán, quy tắc nhân thêm hằng số và so sánh tính đồng đều của hai mẫu. 20 câu trắc nghiệm bốn lựa chọn làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B10",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b10-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho mẫu số liệu ghép nhóm có cỡ mẫu $n$, trung điểm của nhóm thứ $i$ là $x_i$ và tần số là $n_i$ với $i = 1, 2, \\ldots, k$; gọi $\\bar{x}$ là số trung bình của mẫu. Theo sách giáo khoa, công thức tính phương sai của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$s^2 = \\dfrac{1}{n}\\sum_{i=1}^{k} n_i\\left(x_i - \\bar{x}\\right)$."
+        },
+        {
+          "key": "B",
+          "text": "$s^2 = \\dfrac{1}{n}\\sum_{i=1}^{k} n_i\\left(x_i - \\bar{x}\\right)^2$."
+        },
+        {
+          "key": "C",
+          "text": "$s^2 = \\sum_{i=1}^{k} n_i\\left(x_i - \\bar{x}\\right)^2$."
+        },
+        {
+          "key": "D",
+          "text": "$s^2 = \\dfrac{1}{n}\\sum_{i=1}^{k} \\left(x_i - \\bar{x}\\right)^2$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phương sai là trung bình cộng có trọng số tần số của bình phương các độ lệch so với số trung bình: $s^2 = \\dfrac{1}{n}\\sum_{i=1}^{k} n_i\\left(x_i - \\bar{x}\\right)^2$. Phương án A thiếu bước bình phương nên tổng luôn bằng $0$; C quên chia cho cỡ mẫu $n$; D quên nhân các tần số $n_i$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "phương sai",
+        "công thức",
+        "mẫu ghép nhóm"
+      ]
+    },
+    {
+      "id": "toan12-b10-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu ghép nhóm có phương sai bằng $16$. Độ lệch chuẩn của mẫu đó là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4$."
+        },
+        {
+          "key": "B",
+          "text": "$8$."
+        },
+        {
+          "key": "C",
+          "text": "$16$."
+        },
+        {
+          "key": "D",
+          "text": "$256$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Độ lệch chuẩn là căn bậc hai số học của phương sai: $s = \\sqrt{16} = 4$. Phương án C là nhầm độ lệch chuẩn với chính phương sai, B là lấy một nửa của $16$, D là bình phương của phương sai.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "độ lệch chuẩn",
+        "phương sai"
+      ]
+    },
+    {
+      "id": "toan12-b10-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm số của một bài kiểm tra (thang $30$) ở lớp 12A cho bởi các khoảng và tần số tương ứng: $[0;10)$ có $2$; $[10;20)$ có $12$; $[20;30)$ có $6$. Số trung bình của mẫu số liệu trên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$15$."
+        },
+        {
+          "key": "B",
+          "text": "$17$."
+        },
+        {
+          "key": "C",
+          "text": "$20$."
+        },
+        {
+          "key": "D",
+          "text": "$12$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trung điểm của ba nhóm lần lượt là $5; 15; 25$ và cỡ mẫu $n = 2 + 12 + 6 = 20$. Khi đó $\\bar{x} = \\dfrac{2 \\cdot 5 + 12 \\cdot 15 + 6 \\cdot 25}{20} = \\dfrac{340}{20} = 17$. Giá trị $15$ thu được khi cộng ba trung điểm rồi chia cho $3$ mà không nhân tần số; $20$ là cỡ mẫu còn $12$ là tần số lớn nhất.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "số trung bình",
+        "trung điểm nhóm"
+      ]
+    },
+    {
+      "id": "toan12-b10-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm số của một bài kiểm tra (thang $30$) ở lớp 12A cho bởi các khoảng và tần số tương ứng: $[0;10)$ có $2$; $[10;20)$ có $12$; $[20;30)$ có $6$. Phương sai của mẫu số liệu trên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$36$."
+        },
+        {
+          "key": "B",
+          "text": "$6$."
+        },
+        {
+          "key": "C",
+          "text": "$17$."
+        },
+        {
+          "key": "D",
+          "text": "$720$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trung điểm ba nhóm là $5; 15; 25$, cỡ mẫu $n = 2 + 12 + 6 = 20$ và $\\bar{x} = \\dfrac{2 \\cdot 5 + 12 \\cdot 15 + 6 \\cdot 25}{20} = 17$. Các độ lệch của trung điểm so với số trung bình là $5 - 17 = -12$, $15 - 17 = -2$, $25 - 17 = 8$, nên $s^2 = \\dfrac{2 \\cdot 144 + 12 \\cdot 4 + 6 \\cdot 64}{20} = \\dfrac{288 + 48 + 384}{20} = \\dfrac{720}{20} = 36$. Phương án B là độ lệch chuẩn, C là số trung bình, D là tổng bình phương độ lệch có trọng số chưa chia cho $n$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "phương sai",
+        "mẫu ghép nhóm"
+      ]
+    },
+    {
+      "id": "toan12-b10-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm số của một bài kiểm tra (thang $30$) ở lớp 12A cho bởi các khoảng và tần số tương ứng: $[0;10)$ có $2$; $[10;20)$ có $12$; $[20;30)$ có $6$. Độ lệch chuẩn của mẫu số liệu trên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4,12$."
+        },
+        {
+          "key": "B",
+          "text": "$6$."
+        },
+        {
+          "key": "C",
+          "text": "$6,16$."
+        },
+        {
+          "key": "D",
+          "text": "$36$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mẫu có số trung bình $\\bar{x} = 17$ và phương sai $s^2 = \\dfrac{720}{20} = 36$, do đó $s = \\sqrt{36} = 6$; vì $36$ là số chính phương nên độ lệch chuẩn là số nguyên, không cần làm tròn. Phương án A là nhầm lấy $\\sqrt{17}$ (căn của số trung bình), C là kết quả khi nhầm chia cho $n - 1 = 19$ rồi lấy căn, D là phương sai.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "độ lệch chuẩn",
+        "phương sai"
+      ]
+    },
+    {
+      "id": "toan12-b10-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng khi nói về phương sai và độ lệch chuẩn của mẫu số liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Độ lệch chuẩn đo mức độ phân tán của dữ liệu quanh số trung bình; hai mẫu có cùng số trung bình thì mẫu nào có độ lệch chuẩn nhỏ hơn có dữ liệu đồng đều hơn."
+        },
+        {
+          "key": "B",
+          "text": "Phương sai đo mức độ tập trung trung tâm của dữ liệu nên mẫu nào có phương sai lớn hơn thì dữ liệu đồng đều hơn."
+        },
+        {
+          "key": "C",
+          "text": "Độ lệch chuẩn luôn bằng bình phương của phương sai."
+        },
+        {
+          "key": "D",
+          "text": "Phương sai của mẫu tăng lên $a$ lần khi mỗi giá trị của mẫu cùng nhân với một số $a>1$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phương sai và độ lệch chuẩn đặc trưng cho mức độ phân tán chứ không phải vị trí trung tâm, nên B sai. Hệ thức đúng là $s = \\sqrt{s^2}$ chứ không phải $s = s^2$, nên C sai. Khi nhân mỗi giá trị với $a$ thì phương sai nhân lên $a^2$, nên D sai. Phát biểu A đúng: cùng số trung bình thì độ lệch chuẩn nhỏ hơn nghĩa là các giá trị bám sát trung bình hơn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "ý nghĩa độ lệch chuẩn",
+        "mức độ phân tán"
+      ]
+    },
+    {
+      "id": "toan12-b10-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu ghép nhóm gồm ba nhóm $[0;10)$, $[10;20)$, $[20;30)$ với tần số tương đối lần lượt là $0,20$; $0,50$; $0,30$. Số trung bình của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$7$."
+        },
+        {
+          "key": "B",
+          "text": "$15$."
+        },
+        {
+          "key": "C",
+          "text": "$16$."
+        },
+        {
+          "key": "D",
+          "text": "$49$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trung điểm ba nhóm là $5; 15; 25$. Dùng tần số tương đối làm trọng số: $\\bar{x} = 0,20 \\cdot 5 + 0,50 \\cdot 15 + 0,30 \\cdot 25 = 1 + 7,5 + 7,5 = 16$. Giá trị $15$ là trung bình cộng không trọng số của ba trung điểm; $7$ và $49$ lần lượt là độ lệch chuẩn và phương sai của mẫu này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "tần số tương đối",
+        "số trung bình"
+      ]
+    },
+    {
+      "id": "toan12-b10-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu ghép nhóm gồm ba nhóm $[0;10)$, $[10;20)$, $[20;30)$ với tần số tương đối lần lượt là $0,20$; $0,50$; $0,30$. Phương sai của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$15$."
+        },
+        {
+          "key": "B",
+          "text": "$16$."
+        },
+        {
+          "key": "C",
+          "text": "$7$."
+        },
+        {
+          "key": "D",
+          "text": "$49$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ta có $\\bar{x} = 16$ nên các độ lệch là $5 - 16 = -11$, $15 - 16 = -1$, $25 - 16 = 9$. Vì vậy $s^2 = 0,20 \\cdot 121 + 0,50 \\cdot 1 + 0,30 \\cdot 81 = 24,2 + 0,5 + 24,3 = 49$. Phương án B là số trung bình, C là độ lệch chuẩn $\\sqrt{49} = 7$, A là trung bình cộng không trọng số của các trung điểm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "phương sai",
+        "tần số tương đối"
+      ]
+    },
+    {
+      "id": "toan12-b10-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu ghép nhóm gồm ba nhóm $[0;10)$, $[10;20)$, $[20;30)$ với tần số tương đối lần lượt là $0,20$; $0,50$; $0,30$. Độ lệch chuẩn của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4$."
+        },
+        {
+          "key": "B",
+          "text": "$16$."
+        },
+        {
+          "key": "C",
+          "text": "$7$."
+        },
+        {
+          "key": "D",
+          "text": "$49$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mẫu có số trung bình $\\bar{x} = 16$ và phương sai $s^2 = 49$, do đó $s = \\sqrt{49} = 7$. Phương án A là nhầm lấy $\\sqrt{16}$ (căn của số trung bình), B là số trung bình, D là phương sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "độ lệch chuẩn",
+        "tần số tương đối"
+      ]
+    },
+    {
+      "id": "toan12-b10-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu có số trung bình bằng $16$ và phương sai bằng $49$. Nếu cộng thêm $3$ vào mỗi giá trị của mẫu thì số trung bình và phương sai của mẫu mới lần lượt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$19$ và $49$."
+        },
+        {
+          "key": "B",
+          "text": "$19$ và $52$."
+        },
+        {
+          "key": "C",
+          "text": "$16$ và $49$."
+        },
+        {
+          "key": "D",
+          "text": "$16$ và $52$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cộng cùng một hằng số vào mọi giá trị làm số trung bình tăng thêm đúng hằng số đó: $\\bar{x}' = 16 + 3 = 19$. Mỗi độ lệch $x_i + 3 - \\bar{x}'$ vẫn bằng $x_i - \\bar{x}$ nên phương sai không đổi: $s'^2 = 49$. Nhầm thường gặp là cộng cả $3$ vào phương sai, được $52$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "biến đổi mẫu",
+        "phương sai"
+      ]
+    },
+    {
+      "id": "toan12-b10-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu có độ lệch chuẩn bằng $7$. Nếu nhân mỗi giá trị của mẫu với $2$ thì phương sai của mẫu mới là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$49$."
+        },
+        {
+          "key": "B",
+          "text": "$196$."
+        },
+        {
+          "key": "C",
+          "text": "$14$."
+        },
+        {
+          "key": "D",
+          "text": "$98$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mẫu cũ có phương sai $s^2 = 7^2 = 49$. Nhân mọi giá trị với $2$ làm phương sai nhân lên $2^2 = 4$, nên $s'^2 = 49 \\cdot 4 = 196$. Phương án C là độ lệch chuẩn mới ($7 \\cdot 2 = 14$), D là nhầm chỉ nhân phương sai với $2$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "độ lệch chuẩn",
+        "nhân hằng số"
+      ]
+    },
+    {
+      "id": "toan12-b10-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian làm một thí nghiệm (đơn vị: giây) của $20$ học sinh cho bởi các khoảng và tần số tương ứng: $[0;10)$ có $4$; $[10;20)$ có $6$; $[20;30)$ có $6$; $[30;40)$ có $4$. Độ lệch chuẩn của mẫu số liệu trên (làm tròn đến chữ số thập phân thứ hai) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$10,51$ giây."
+        },
+        {
+          "key": "B",
+          "text": "$20$ giây."
+        },
+        {
+          "key": "C",
+          "text": "$105$ giây."
+        },
+        {
+          "key": "D",
+          "text": "$10,25$ giây."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trung điểm bốn nhóm là $5; 15; 25; 35$ và $n = 20$, suy ra $\\bar{x} = \\dfrac{4 \\cdot 5 + 6 \\cdot 15 + 6 \\cdot 25 + 4 \\cdot 35}{20} = \\dfrac{400}{20} = 20$. Khi đó $s^2 = \\dfrac{4 \\cdot 225 + 6 \\cdot 25 + 6 \\cdot 25 + 4 \\cdot 225}{20} = \\dfrac{2100}{20} = 105$, nên $s = \\sqrt{105} \\approx 10,25$ (giây). Phương án A là kết quả khi nhầm chia cho $n - 1 = 19$; B là số trung bình; C là phương sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "độ lệch chuẩn",
+        "làm tròn",
+        "bốn nhóm"
+      ]
+    },
+    {
+      "id": "toan12-b10-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm kiểm tra môn Toán (thang $10$) của hai tổ lớp 12A cho bởi các khoảng và tần số tương ứng. Tổ 1: $[6;7)$ có $1$; $[7;8)$ có $8$; $[8;9)$ có $1$. Tổ 2: $[6;7)$ có $4$; $[7;8)$ có $2$; $[8;9)$ có $4$. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai tổ có cùng số trung bình $7,5$; điểm của Tổ 1 đồng đều hơn vì độ lệch chuẩn xấp xỉ $0,45$ nhỏ hơn $0,89$ của Tổ 2."
+        },
+        {
+          "key": "B",
+          "text": "Hai tổ có cùng số trung bình $7,5$; điểm của Tổ 2 đồng đều hơn vì độ lệch chuẩn của Tổ 2 lớn hơn."
+        },
+        {
+          "key": "C",
+          "text": "Tổ 1 có số trung bình lớn hơn nên điểm của Tổ 1 vừa cao hơn vừa đồng đều hơn."
+        },
+        {
+          "key": "D",
+          "text": "Độ lệch chuẩn của hai tổ đều bằng $0,89$ nên mức độ phân tán của hai mẫu là như nhau."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trung điểm ba nhóm là $6,5; 7,5; 8,5$, mỗi tổ có $n = 10$. Tổ 1: $\\bar{x}_1 = \\dfrac{6,5 + 8 \\cdot 7,5 + 8,5}{10} = 7,5$ và $s_1^2 = \\dfrac{1 \\cdot 1 + 8 \\cdot 0 + 1 \\cdot 1}{10} = 0,2$, suy ra $s_1 \\approx 0,45$. Tổ 2: $\\bar{x}_2 = \\dfrac{4 \\cdot 6,5 + 2 \\cdot 7,5 + 4 \\cdot 8,5}{10} = 7,5$ và $s_2^2 = \\dfrac{4 \\cdot 1 + 2 \\cdot 0 + 4 \\cdot 1}{10} = 0,8$, suy ra $s_2 \\approx 0,89$. Hai trung bình bằng nhau, mẫu có độ lệch chuẩn nhỏ hơn thì đồng đều hơn.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "so sánh hai mẫu",
+        "tính đồng đều"
+      ]
+    },
+    {
+      "id": "toan12-b10-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian hoàn thành một chi tiết máy (đơn vị: phút) của $30$ công nhân trong một phân xưởng cho bởi các khoảng và tần số tương ứng: $[30;40)$ có $6$; $[40;50)$ có $12$; $[50;60)$ có $9$; $[60;70)$ có $3$. Độ lệch chuẩn của mẫu số liệu trên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$81$ phút."
+        },
+        {
+          "key": "B",
+          "text": "$9,15$ phút."
+        },
+        {
+          "key": "C",
+          "text": "$9$ phút."
+        },
+        {
+          "key": "D",
+          "text": "$48$ phút."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trung điểm bốn nhóm là $35; 45; 55; 65$. Số trung bình $\\bar{x} = \\dfrac{6 \\cdot 35 + 12 \\cdot 45 + 9 \\cdot 55 + 3 \\cdot 65}{30} = \\dfrac{1440}{30} = 48$ (phút). Phương sai $s^2 = \\dfrac{6 \\cdot 169 + 12 \\cdot 9 + 9 \\cdot 49 + 3 \\cdot 289}{30} = \\dfrac{2430}{30} = 81$, do đó $s = \\sqrt{81} = 9$ (phút). Phương án A là phương sai, D là số trung bình, B là kết quả khi nhầm chia cho $n - 1 = 29$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "độ lệch chuẩn",
+        "bài toán thực tế"
+      ]
+    },
+    {
+      "id": "toan12-b10-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu số liệu ghép nhóm có cỡ mẫu $20$, trung điểm nhóm thứ $i$ là $x_i$ và tần số tương ứng là $n_i$; biết $\\sum n_i x_i = 320$ và $\\sum n_i x_i^2 = 5440$. Phương sai của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4$."
+        },
+        {
+          "key": "B",
+          "text": "$256$."
+        },
+        {
+          "key": "C",
+          "text": "$272$."
+        },
+        {
+          "key": "D",
+          "text": "$16$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Số trung bình là $\\bar{x} = \\dfrac{320}{20} = 16$. Khai triển công thức phương sai cho hệ thức $s^2 = \\dfrac{1}{n}\\sum n_i x_i^2 - \\bar{x}^2 = \\dfrac{5440}{20} - 16^2 = 272 - 256 = 16$. Phương án C quên trừ $\\bar{x}^2$, B lấy đúng $\\bar{x}^2$ mà quên số hạng thứ nhất, A là độ lệch chuẩn $\\sqrt{16} = 4$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "phương sai",
+        "tổng bình phương"
+      ]
+    },
+    {
+      "id": "toan12-b10-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu có phương sai bằng $25$. Người ta nhân mỗi giá trị của mẫu với $3$ rồi cộng thêm $4$. Phương sai của mẫu mới là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$79$."
+        },
+        {
+          "key": "B",
+          "text": "$225$."
+        },
+        {
+          "key": "C",
+          "text": "$15$."
+        },
+        {
+          "key": "D",
+          "text": "$25$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhân mỗi giá trị với $3$ làm phương sai nhân lên $3^2 = 9$; cộng thêm $4$ chỉ làm số trung bình dịch chuyển nên phương sai không đổi. Vậy $s'^2 = 25 \\cdot 9 = 225$. Phương án C là độ lệch chuẩn mới ($5 \\cdot 3 = 15$), A là nhầm áp cả hai phép biến đổi vào phương sai ($25 \\cdot 3 + 4$), D là nhầm phương sai luôn bất biến.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "biến đổi mẫu",
+        "phương sai"
+      ]
+    },
+    {
+      "id": "toan12-b10-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu có phương sai bằng $12$. Sau khi nhân mỗi giá trị của mẫu với cùng một số dương $a$, phương sai của mẫu mới bằng $108$. Giá trị của $a$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$9$."
+        },
+        {
+          "key": "B",
+          "text": "$6$."
+        },
+        {
+          "key": "C",
+          "text": "$3$."
+        },
+        {
+          "key": "D",
+          "text": "$18$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhân mọi giá trị với $a$ thì phương sai nhân với $a^2$, do đó $12a^2 = 108$, suy ra $a^2 = 9$ và $a = 3$ vì $a > 0$. Phương án A là tỉ số $108 : 12 = a^2$, chưa phải hệ số nhân vào dữ liệu; các giá trị $6$ và $18$ không thoả mãn phương trình trên.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "phương sai",
+        "tìm tham số"
+      ]
+    },
+    {
+      "id": "toan12-b10-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu số liệu ghép nhóm gồm bốn nhóm $[0;4)$, $[4;8)$, $[8;12)$, $[12;16)$ với tần số tương ứng là $3$; $5$; $m$; $3$. Biết số trung bình của mẫu bằng $8$. Giá trị của $m$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$3$."
+        },
+        {
+          "key": "B",
+          "text": "$4$."
+        },
+        {
+          "key": "C",
+          "text": "$6$."
+        },
+        {
+          "key": "D",
+          "text": "$5$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trung điểm bốn nhóm là $2; 6; 10; 14$, cỡ mẫu $n = 3 + 5 + m + 3 = 11 + m$. Từ $\\bar{x} = 8$ được $\\dfrac{3 \\cdot 2 + 5 \\cdot 6 + 10m + 3 \\cdot 14}{11 + m} = 8$, tức $78 + 10m = 88 + 8m$, nên $2m = 10$ và $m = 5$. Thử lại: $n = 16$ và $\\dfrac{78 + 50}{16} = \\dfrac{128}{16} = 8$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "tìm tần số",
+        "số trung bình"
+      ]
+    },
+    {
+      "id": "toan12-b10-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu số liệu ghép nhóm gồm bốn nhóm $[0;4)$, $[4;8)$, $[8;12)$, $[12;16)$ với tần số tương ứng là $3$; $5$; $5$; $3$. Độ lệch chuẩn của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$4$."
+        },
+        {
+          "key": "B",
+          "text": "$4,13$."
+        },
+        {
+          "key": "C",
+          "text": "$8$."
+        },
+        {
+          "key": "D",
+          "text": "$16$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trung điểm các nhóm là $2; 6; 10; 14$ và $\\bar{x} = \\dfrac{3 \\cdot 2 + 5 \\cdot 6 + 5 \\cdot 10 + 3 \\cdot 14}{16} = \\dfrac{128}{16} = 8$. Độ lệch của các trung điểm là $-6$; $-2$; $2$; $6$, nên $s^2 = \\dfrac{3 \\cdot 36 + 5 \\cdot 4 + 5 \\cdot 4 + 3 \\cdot 36}{16} = \\dfrac{256}{16} = 16$ và $s = \\sqrt{16} = 4$. Phương án D là phương sai, B là kết quả khi nhầm chia cho $n - 1 = 15$, C là số trung bình.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "độ lệch chuẩn",
+        "bốn nhóm"
+      ]
+    },
+    {
+      "id": "toan12-b10-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b10-phuong-sai-do-lech-chuan",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian sáng (đơn vị: giờ) của $100$ bóng đèn loại A và $100$ bóng đèn loại B cho bởi các khoảng và tần số tương ứng. Loại A: $[900;1000)$ có $10$; $[1000;1100)$ có $60$; $[1100;1200)$ có $30$. Loại B: $[950;1050)$ có $20$; $[1050;1150)$ có $60$; $[1150;1250)$ có $20$. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bóng B có số trung bình nhỏ hơn và độ lệch chuẩn nhỏ hơn nên vừa sáng lâu hơn vừa ổn định hơn."
+        },
+        {
+          "key": "B",
+          "text": "Bóng A có số trung bình lớn hơn nên sáng lâu hơn, còn hai loại có độ lệch chuẩn bằng nhau."
+        },
+        {
+          "key": "C",
+          "text": "Bóng B có số trung bình lớn hơn ($1100$ so với $1070$) nhưng độ lệch chuẩn cũng lớn hơn ($63,25$ so với $60$), nên thời gian sáng của bóng A đồng đều hơn."
+        },
+        {
+          "key": "D",
+          "text": "Hai mẫu đều có cỡ mẫu $100$ và nhóm giữa chiếm $60$ nên mức độ phân tán của chúng như nhau."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Loại A có trung điểm $950; 1050; 1150$, $\\bar{x}_A = \\dfrac{10 \\cdot 950 + 60 \\cdot 1050 + 30 \\cdot 1150}{100} = 1070$ và $s_A^2 = \\dfrac{10 \\cdot 14400 + 60 \\cdot 400 + 30 \\cdot 6400}{100} = 3600$, suy ra $s_A = 60$. Loại B có trung điểm $1000; 1100; 1200$, $\\bar{x}_B = 1100$ và $s_B^2 = \\dfrac{20 \\cdot 10000 + 60 \\cdot 0 + 20 \\cdot 10000}{100} = 4000$, suy ra $s_B \\approx 63,25$. Vậy B trung bình cao hơn nhưng A có độ lệch chuẩn nhỏ hơn nên đồng đều hơn.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "so sánh hai mẫu",
+        "bài toán thực tế"
+      ]
+    }
+  ]
+}

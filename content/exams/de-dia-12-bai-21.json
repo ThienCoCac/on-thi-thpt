@@ -1,0 +1,1431 @@
+{
+  "id": "de-dia-12-bai-21",
+  "title": "Đề ôn tập Địa lí 12 – Bài 21: Giao thông vận tải và bưu chính viễn thông",
+  "slug": "de-dia-12-bai-21",
+  "description": "Đề 40 câu về Bài 21: vai trò của giao thông vận tải, ưu – nhược điểm và sự phân bố của các loại hình vận tải, các tuyến và đầu mối quan trọng, cùng bưu chính – viễn thông trong bối cảnh chuyển đổi số và thương mại điện tử (bản chỉnh sửa 2026).",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B21",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b21-c1",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "EASY",
+      "tags": [
+        "vai trò của giao thông vận tải",
+        "khái quát ngành"
+      ],
+      "content": "Phát biểu nào sau đây đúng nhất về vai trò của ngành giao thông vận tải?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giao thông vận tải chỉ phục vụ nhu cầu đi lại của người dân, không ảnh hưởng tới sản xuất."
+        },
+        {
+          "key": "B",
+          "text": "Giao thông vận tải làm tăng chi phí nên cần hạn chế phát triển."
+        },
+        {
+          "key": "C",
+          "text": "Khi mạng lưới đã đồng bộ, giao thông vận tải thay thế hoàn toàn các ngành sản xuất."
+        },
+        {
+          "key": "D",
+          "text": "Giao thông vận tải đi trước một bước mở đường cho sản xuất, góp phần phân bố lại dân cư và lao động, phục vụ quốc phòng, an ninh và hội nhập quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Giao thông vận tải là ngành cơ sở hạ tầng đi trước mở đường: nối sản xuất với tiêu dùng, thúc đẩy phân bố lại dân cư, lao động, bảo đảm cơ động cho quốc phòng và hội nhập. A sai vì GTVT tác động trực tiếp tới chi phí và sức cạnh tranh của hàng hoá. B sai vì GTVT làm GIẢM chi phí lưu thông chứ không phải nguyên nhân cần hạn chế. C sai vì GTVT hỗ trợ chứ không thay thế các ngành sản xuất.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c2",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "EASY",
+      "tags": [
+        "vận tải đường bộ",
+        "ưu nhược điểm"
+      ],
+      "content": "Ưu điểm nổi bật của loại hình vận tải đường bộ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cước rẻ nhất trên quãng đường dài với khối lượng rất lớn."
+        },
+        {
+          "key": "B",
+          "text": "Tính cơ động cao, thích nghi tốt với nhiều loại địa hình, tổ chức vận tải linh hoạt, đưa – nhận hàng và khách ở tận nơi."
+        },
+        {
+          "key": "C",
+          "text": "Tốc độ nhanh nhất, an toàn tuyệt đối, không gây ô nhiễm không khí."
+        },
+        {
+          "key": "D",
+          "text": "Hoàn toàn không phụ thuộc thời tiết và cần vốn đầu tư ban đầu rất nhỏ."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Đường bộ có tính cơ động cao, mạng lưới phủ rộng, phục vụ vận tải 'từ cửa đến cửa', thích hợp cự li ngắn và trung bình. A là ưu điểm của đường biển, đường ống; C là ưu điểm của hàng không nhưng đường bộ không an toàn tuyệt đối và vẫn gây ô nhiễm; D sai vì đường bộ chịu ảnh hưởng của sương mù, bão lũ và tai nạn giao thông cao nhất.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c3",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "EASY",
+      "tags": [
+        "vận tải đường bộ",
+        "hạn chế"
+      ],
+      "content": "Hạn chế lớn nhất của vận tải đường bộ ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gây ô nhiễm môi trường không khí và tiếng ồn, tai nạn giao thông nhiều, chi phí cao trên quãng đường dài."
+        },
+        {
+          "key": "B",
+          "text": "Không có khả năng vận chuyển hàng nặng và hàng siêu trường, siêu trọng."
+        },
+        {
+          "key": "C",
+          "text": "Phụ thuộc quá lớn vào chế độ nước của sông ngòi theo mùa."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ chạy trên tuyến cố định nên tính cơ động rất kém."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Đường bộ tiêu thụ nhiều nhiên liệu, phát thải lớn, là loại hình xảy ra nhiều vụ tai nạn giao thông nhất và cước cao khi đi đường dài. B sai vì đường bộ vẫn chở được hàng nặng bằng xe đầu kéo; C là nhược điểm của đường sông; D là nhược điểm của đường sắt.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c4",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "vận tải đường sắt",
+        "ưu nhược điểm"
+      ],
+      "content": "So với vận tải đường bộ, vận tải đường sắt có nhược điểm chính là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khối lượng vận chuyển của mỗi đoàn tàu rất nhỏ."
+        },
+        {
+          "key": "B",
+          "text": "Cước vận tải luôn cao hơn đường bộ ở mọi cự li."
+        },
+        {
+          "key": "C",
+          "text": "Tính cơ động kém, hàng hoá phải đi trên đường ray cố định nên thường cần phương thức khác hỗ trợ ở hai đầu; vốn đầu tư ban đầu lớn."
+        },
+        {
+          "key": "D",
+          "text": "Tốc độ chạy tàu thấp hơn hẳn vận tải đường sông."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Đường sắt chạy trên tuyến cố định, khả năng 'đưa – nhận tận nơi' kém nên phải kết hợp với đường bộ; nâng cấp, làm mới đường sắt tốn vốn lớn. A sai vì một đoàn tàu chở được khối lượng lớn; B sai vì trên cự li dài đường sắt thường rẻ hơn đường bộ; D sai vì tốc độ tàu hoả nhìn chung cao hơn vận tải sông.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c5",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "EASY",
+      "tags": [
+        "đường sắt Thống Nhất",
+        "các tuyến vận tải"
+      ],
+      "content": "Đường sắt Thống Nhất chạy theo trục Hà Nội – Thành phố Hồ Chí Minh và",
+      "options": [
+        {
+          "key": "A",
+          "text": "dài 1 443 km, khổ đường chủ yếu là 1,0 m."
+        },
+        {
+          "key": "B",
+          "text": "dài khoảng 2 000 km, toàn tuyến đã chuẩn hoá khổ 1,435 m."
+        },
+        {
+          "key": "C",
+          "text": "dài 1 443 km, đi qua cả 7 vùng kinh tế – xã hội của cả nước."
+        },
+        {
+          "key": "D",
+          "text": "dài hơn 1 700 km, chủ yếu phục vụ vận chuyển hành khách quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Đường sắt Thống Nhất dài 1 443 km, phần lớn theo khổ đường 1,0 m nên tốc độ và tải trọng bị hạn chế. B sai về độ dài và khổ đường; C sai vì cả nước hiện có 6 vùng kinh tế – xã hội (bản sửa đổi 2026), không phải 7; D sai vì đây là tuyến nội địa, không phải tuyến quốc tế.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c6",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "quốc lộ 1A",
+        "trục giao thông bắc – nam"
+      ],
+      "content": "Quốc lộ 1A là trục đường bộ xuyên Việt quan trọng nhất vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ chạy trên đoạn Hà Nội – Vinh nên rất dễ nâng cấp."
+        },
+        {
+          "key": "B",
+          "text": "nối các cửa khẩu phía Bắc với khu vực Tây Nam Bộ qua đường Hồ Chí Minh."
+        },
+        {
+          "key": "C",
+          "text": "là tuyến đường cao tốc đầu tiên được xây dựng ở miền Trung."
+        },
+        {
+          "key": "D",
+          "text": "dài hơn 2 300 km, men theo dải đồng bằng ven biển phía Đông, nối Hà Nội với Thành phố Hồ Chí Minh; nhiều đoạn đã được mở rộng, nâng cấp và có cao tốc song song."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Quốc lộ 1A là trục dọc xương sống của cả nước, lưu lượng xe rất lớn, đã được nâng cấp nhiều làn và có các tuyến cao tốc chạy song song. A thu hẹp sai phạm vi tuyến; B lẫn với đường Hồ Chí Minh; C sai vì QL1A không phải đường cao tốc.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c7",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "vận tải đường sông",
+        "ưu điểm"
+      ],
+      "content": "Ưu điểm chủ yếu của vận tải đường sông là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tốc độ nhanh, lịch trình ổn định quanh năm trên mọi tuyến."
+        },
+        {
+          "key": "B",
+          "text": "Cước rẻ, phù hợp hàng cồng kềnh, khối lượng lớn; mạng lưới rộng, phủ đều hai đồng bằng lớn."
+        },
+        {
+          "key": "C",
+          "text": "Không bị ảnh hưởng bởi chế độ nước sông và thời tiết."
+        },
+        {
+          "key": "D",
+          "text": "Kết nối quốc tế thuận lợi hơn cả vận tải đường biển."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Đường sông tận dụng luồng tự nhiên nên chi phí thấp, chở được hàng nặng, cồng kềnh như vật liệu xây dựng, gạo, thủy sản. A và C sai vì tàu thuyền phụ thuộc mực nước theo mùa, tốc độ chậm; D sai vì đường biển mới là loại hình chủ lực kết nối quốc tế.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c8",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "EASY",
+      "tags": [
+        "phân bố vận tải đường sông",
+        "đồng bằng"
+      ],
+      "content": "Vận tải đường sông nhộn nhịp nhất ở nước ta tập trung tại",
+      "options": [
+        {
+          "key": "A",
+          "text": "các sông miền Trung ngắn, dốc và nhiều thác ghềnh."
+        },
+        {
+          "key": "B",
+          "text": "vùng núi Tây Nguyên với nhiều hồ thuỷ điện."
+        },
+        {
+          "key": "C",
+          "text": "đồng bằng sông Hồng và đồng bằng sông Cửu Long, với các tuyến như Hà Nội – Việt Trì, Hà Nội – Hải Phòng, Thành phố Hồ Chí Minh – Cần Thơ và mạng kênh rạch dày đặc ở miền Tây Nam Bộ."
+        },
+        {
+          "key": "D",
+          "text": "vùng biển ven bờ với các cảng nước sâu."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Hai đồng bằng lớn có mạng sông ngòi dày đặc, lượng hàng hoá dồi dào nên là nơi vận tải sông phát triển nhất. A sai vì sông miền Trung ngắn dốc, lắm cát, giá trị vận tải thấp; B sai vì Tây Nguyên chủ yếu phát triển thủy điện; D là đường biển, không phải đường sông.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c9",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "vận tải đường biển",
+        "vai trò"
+      ],
+      "content": "Vai trò nổi bật của vận tải đường biển nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đảm nhiệm phần lớn vận tải quốc tế, chuyên chở khối lượng rất lớn hàng hoá trên các tuyến đường dài, nhất là tuyến bắc – nam."
+        },
+        {
+          "key": "B",
+          "text": "Thích hợp nhất với hàng nhẹ, cần giao nhanh trong nội đô."
+        },
+        {
+          "key": "C",
+          "text": "Cước cao nhất nên chỉ dùng cho hàng giá trị lớn."
+        },
+        {
+          "key": "D",
+          "text": "Không phụ thuộc điều kiện thời tiết, khai thác ổn định cả trong bão."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Đường biển có năng lực xếp hàng lớn, cước cạnh tranh trên cự li dài, gần như độc quyền hàng xuất nhập khẩu đường dài. B là vai trò của đường bộ; C sai vì đường biển có cước thấp; D sai vì tàu biển phải ngừng chạy khi thời tiết xấu.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c10",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "cảng biển",
+        "phân bố"
+      ],
+      "content": "Cụm cảng trung tâm đóng vai trò cửa ngõ ra biển chính cho vùng phía Bắc là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cụm cảng Nha Trang – Cam Ranh."
+        },
+        {
+          "key": "B",
+          "text": "Cụm cảng Hải Phòng – Quảng Ninh, trong đó có khu bến Lạch Huyện tiếp nhận tàu trọng tải lớn."
+        },
+        {
+          "key": "C",
+          "text": "Cụm cảng Cần Thơ – Mỹ Thới."
+        },
+        {
+          "key": "D",
+          "text": "Cụm cảng Quy Nhơn – Nhơn Hội."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Hải Phòng cùng khu bến Lạch Huyện và các bến Quảng Ninh tạo thành cụm cảng cửa ngõ phía Bắc, phục vụ hàng hoá của các tỉnh phía Bắc và hàng quá cảnh. A, D thuộc dải ven biển miền Trung; C thuộc đồng bằng sông Cửu Long.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c11",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "cảng nước sâu",
+        "kết nối quốc tế"
+      ],
+      "content": "Cảng nước sâu ở miền Trung được định hướng kết hợp với khu kinh tế ven biển để trở thành cửa ngõ ra biển cho các hành lang kinh tế Đông – Tây là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cảng Thị Vải – Cái Mép."
+        },
+        {
+          "key": "B",
+          "text": "Cảng Lạch Huyện."
+        },
+        {
+          "key": "C",
+          "text": "Cảng Nha Trang."
+        },
+        {
+          "key": "D",
+          "text": "Cảng Vũng Áng."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Vũng Áng là cảng nước sâu miền Trung, gắn với khu kinh tế cùng tên, có lợi thế kết nối hành lang kinh tế Đông – Tây ra Biển Đông. A thuộc nhóm cảng phía Nam; B thuộc phía Bắc; C là cảng có thế mạnh du lịch và hàng rời nhưng không nổi bật vai trò cửa ngõ Đông – Tây.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c12",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "EASY",
+      "tags": [
+        "cảng container",
+        "phân bố"
+      ],
+      "content": "Nhóm cảng phía Nam, trong đó cụm cảng Sài Gòn – Thị Vải – Cái Mép giữ vai trò cửa ngõ container quốc tế của cả nước, có đặc điểm là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chỉ phục vụ tàu sông trọng tải nhỏ, không có tuyến đi quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "nằm hoàn toàn ở miền Trung, gần các khu kinh tế ven biển."
+        },
+        {
+          "key": "C",
+          "text": "tiếp nhận được tàu container trọng tải lớn, là nơi tập trung lượng hàng xuất nhập khẩu lớn nhất cả nước."
+        },
+        {
+          "key": "D",
+          "text": "chuyên dùng cho vận tải ven biển nội tỉnh, không làm hàng xuất khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Thị Vải – Cái Mép là cụm cảng nước sâu phía Nam, tiếp nhận tàu container cỡ lớn đi trực tiếp tuyến châu Âu, châu Mỹ, gắn với vùng hàng hoá lớn nhất cả nước quanh Thành phố Hồ Chí Minh. A, D hạ thấp quy mô cụm cảng; B đặt sai vị trí địa lí.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c13",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "vận tải hàng không",
+        "hạn chế"
+      ],
+      "content": "Nhược điểm chủ yếu của vận tải hàng không là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tốc độ chậm, hay ách tắc theo mùa nước."
+        },
+        {
+          "key": "B",
+          "text": "Cước cao, khối lượng chuyên chở nhỏ so với đường biển, đòi hỏi vốn và công nghệ lớn, chịu ảnh hưởng của thời tiết."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ vận chuyển được hàng rời, hàng cồng kềnh."
+        },
+        {
+          "key": "D",
+          "text": "Tính cơ động kém nhất, không đi được các cự li dài."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Hàng không nhanh nhất nhưng cước đắt, tải trọng mỗi chuyến hạn chế, cần sân bay hiện đại, đội bay và dịch vụ bảo dưỡng đắt đỏ. A là nhược điểm của đường sông; C trái ngược vì hàng không hợp hàng nhẹ, giá trị cao; D sai vì hàng không vượt cự li dài rất tốt.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c14",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "sân bay",
+        "phân bố"
+      ],
+      "content": "Hai cảng hàng không quốc tế giữ vai trò đầu mối lớn nhất của cả nước là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nội Bài và Tân Sơn Nhất."
+        },
+        {
+          "key": "B",
+          "text": "Đà Nẵng và Cam Ranh."
+        },
+        {
+          "key": "C",
+          "text": "Phú Bài và Liên Khương."
+        },
+        {
+          "key": "D",
+          "text": "Cát Bi và Cần Thơ."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Nội Bài phục vụ Thủ đô Hà Nội và phía Bắc, Tân Sơn Nhất phục vụ Thành phố Hồ Chí Minh và phía Nam; đây là hai cảng hàng không có sản lượng hành khách, hàng hoá lớn nhất và là đầu mối bay quốc tế chính. B, C, D là các cảng quan trọng nhưng quy mô nhỏ hơn.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c15",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "vận tải đường ống",
+        "ưu nhược điểm"
+      ],
+      "content": "Phát biểu nào sau đây đúng về vận tải đường ống?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thích hợp nhất với hàng container và hàng khô đóng gói."
+        },
+        {
+          "key": "B",
+          "text": "Cước cao và tổn thất hàng hoá trong quá trình vận chuyển lớn."
+        },
+        {
+          "key": "C",
+          "text": "Tính cơ động rất cao, có thể đổi hướng tuyến dễ dàng."
+        },
+        {
+          "key": "D",
+          "text": "Chuyên dùng để vận chuyển dầu mỏ, sản phẩm dầu và khí đốt; ổn định, tổn thất nhỏ, nhưng đầu tư ban đầu lớn và gắn với các mỏ, nhà máy, tuyến xuất khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Đường ống chạy liên tục, ít hao hụt, không kén thời tiết, nhưng chỉ nhận hàng lỏng và khí, tuyến đã cố định. A và C sai vì đường ống không chở hàng khô và không linh hoạt; B trái ngược vì đặc trưng của đường ống là chi phí vận hành thấp, tổn thất nhỏ.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c16",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "EASY",
+      "tags": [
+        "bưu chính",
+        "khái niệm"
+      ],
+      "content": "Bưu chính là dịch vụ",
+      "options": [
+        {
+          "key": "A",
+          "text": "chuyển mạch thoại và truyền số liệu qua mạng cáp quang."
+        },
+        {
+          "key": "B",
+          "text": "bán lẻ thiết bị đầu cuối viễn thông tại các cửa hàng."
+        },
+        {
+          "key": "C",
+          "text": "nhận, chuyển và phát thư, gói, kiện, vật phẩm theo địa chỉ, nay mở rộng sang chuyển phát nhanh và các dịch vụ số gắn với thương mại điện tử."
+        },
+        {
+          "key": "D",
+          "text": "cho thuê kênh truyền dẫn viễn thông quốc tế."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Bưu chính xử lý vật phẩm hữu hình (thư, gói, kiện) theo chu trình nhận – khai thác – vận chuyển – phát, đang hiện đại hoá để phục vụ thương mại điện tử. A, D là dịch vụ viễn thông; B là hoạt động kinh doanh thiết bị, không phải bản chất bưu chính.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c17",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "viễn thông",
+        "thành tựu"
+      ],
+      "content": "Thành tựu nổi bật của viễn thông nước ta những năm gần đây là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mạng băng rộng phủ tới hầu hết các xã, dung lượng dữ liệu tăng nhanh, cước ngày càng hợp lí; doanh nghiệp trong nước làm chủ công nghệ 4G, triển khai thương mại 5G."
+        },
+        {
+          "key": "B",
+          "text": "Vẫn phụ thuộc hoàn toàn thiết bị nhập khẩu, chưa có mạng di động thế hệ mới."
+        },
+        {
+          "key": "C",
+          "text": "Dịch vụ chỉ phát triển ở đô thị, vùng nông thôn chưa có kết nối băng rộng."
+        },
+        {
+          "key": "D",
+          "text": "Phát triển tách rời khỏi quá trình chuyển đổi số quốc gia."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Viễn thông Việt Nam đã phủ sóng di động và băng rộng tới hầu hết xã, thương mại hoá 5G, tự chủ thiết bị 4G/5G. B, C phủ nhận đúng thành tựu đã được xác nhận; D sai vì viễn thông là hạ tầng số nền tảng của chuyển đổi số.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c18",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "chuyển đổi số",
+        "bưu chính viễn thông"
+      ],
+      "content": "Ý nào sau đây phản ánh đúng nội dung chuyển đổi số trong ngành bưu chính – viễn thông?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lưu giữ hồ sơ, chứng từ hoàn toàn bằng giấy và xử lý thủ công tại bưu cục."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ nâng cấp cáp truyền dẫn, giữ nguyên quy trình khai thác cũ."
+        },
+        {
+          "key": "C",
+          "text": "Tập trung bán thiết bị đầu cuối, cắt giảm các dịch vụ số."
+        },
+        {
+          "key": "D",
+          "text": "Xây dựng hạ tầng số (mạng 5G, trung tâm dữ liệu, định danh điện tử), cung cấp dịch vụ bưu chính điện tử để hồ sơ, gói hàng và giao dịch được xử lý trên môi trường mạng."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Chuyển đổi số ngành thể hiện ở hạ tầng số, dịch vụ số và quy trình số: bưu chính điện tử, hóa đơn điện tử, hồ sơ trực tuyến, định danh số. A là cách làm thủ công trái ngược; B chỉ phần cứng, thiếu phần dịch vụ; C đi ngược hướng phát triển dịch vụ số.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c19",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "thương mại điện tử",
+        "mạng lưới bưu chính"
+      ],
+      "content": "Tác động rõ rệt nhất của thương mại điện tử tới mạng lưới bưu chính là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm giảm hoàn toàn nhu cầu chuyển phát gói, kiện."
+        },
+        {
+          "key": "B",
+          "text": "Khối lượng chuyển phát tăng mạnh, buộc bưu chính hiện đại hoá: tự động hoá khai thác, số hoá vận đơn, rút ngắn thời gian phát, mở rộng điểm phục vụ kết hợp dịch vụ số."
+        },
+        {
+          "key": "C",
+          "text": "Khiến các bưu cục phải đóng cửa hàng loạt trên toàn quốc."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển trách nhiệm giao hàng hoàn toàn cho người bán tự vận chuyển."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Mua sắm trực tiếp khiến lượng gói kiện bùng nổ, bưu chính trở thành mắt xích hậu cần của thương mại điện tử nên phải hiện đại hoá. A trái thực tế; C quá đoan, bưu cục chuyển đổi chứ không đóng hàng loạt; D sai vì doanh nghiệp bán hàng hầu hết thuê dịch vụ chuyển phát.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c20",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "EASY",
+      "tags": [
+        "xu hướng phát triển",
+        "hiện đại hoá"
+      ],
+      "content": "Xu hướng phát triển của giao thông vận tải nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thu hẹp mạng lưới, chỉ giữ lại một loại hình vận tải duy nhất."
+        },
+        {
+          "key": "B",
+          "text": "Duy trì công nghệ cũ để tiết kiệm chi phí đào tạo."
+        },
+        {
+          "key": "C",
+          "text": "Phát triển đồng bộ và hiện đại: mở rộng đường bộ cao tốc, từng bước xây dựng đường sắt tốc độ cao và đường sắt đô thị, phát triển cảng nước sâu, tăng thị phần vận tải công cộng, đẩy mạnh chuyển đổi số và dịch vụ hậu cần vận tải."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ đầu tư cho đường bộ, ngừng phát triển các loại hình khác."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Định hướng là phát triển đồng bộ mọi loại hình theo hướng hiện đại, xanh và số hoá. A, D thu hẹp phiến diện; B trái ngược với yêu cầu hiện đại hoá và hội nhập.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c21",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "đường cao tốc",
+        "trục bắc – nam"
+      ],
+      "content": "Về mạng lưới đường bộ cao tốc ở nước ta hiện nay, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trục cao tốc Bắc – Nam phía Đông đã cơ bản thông tuyến từ Lạng Sơn đến Cà Mau, nhiều đoạn hoàn chỉnh 6 – 10 làn xe, cùng các tuyến cao tốc ngang kết nối cửa khẩu, cảng biển."
+        },
+        {
+          "key": "B",
+          "text": "Cả nước chưa có tuyến cao tốc nào, mọi vận tải đường bộ đi trên quốc lộ 1A."
+        },
+        {
+          "key": "C",
+          "text": "Cao tốc chỉ được xây dựng ở đồng bằng sông Cửu Long và miền Đông Nam Bộ."
+        },
+        {
+          "key": "D",
+          "text": "Đường cao tốc được quy hoạch thay thế hoàn toàn quốc lộ 1A trên mọi hành lang."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Sau các dự án hoàn thành theo giai đoạn, trục cao tốc Bắc – Nam phía Đông cơ bản thông suốt từ Lạng Sơn tới Cà Mau, song song với QL1A chứ không thay thế. B phủ nhận thành tựu đã có; C thu hẹp sai phạm vi (cao tốc tập trung nhiều ở phía Bắc và miền Trung); D sai vì QL1A vẫn là tuyến đối nội, đối ngoại quan trọng.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c22",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "luân chuyển hàng hoá",
+        "vận tải đường biển"
+      ],
+      "content": "Trong vận tải nội địa, mặc dù khối lượng hàng vận chuyển bằng đường bộ luôn lớn nhất, vận tải đường biển lại chiếm tỉ trọng rất lớn về luân chuyển (tấn.km) vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "hàng hoá bằng đường biển chủ yếu là hành khách và hàng nhẹ."
+        },
+        {
+          "key": "B",
+          "text": "đường biển có cự li ngắn nên quay vòng tàu nhanh."
+        },
+        {
+          "key": "C",
+          "text": "đường biển đưa – nhận hàng tận nơi, không cần phương thức khác hỗ trợ."
+        },
+        {
+          "key": "D",
+          "text": "đặc thù tuyến bắc – nam và hàng container, hàng tổng hợp có khối lượng rất lớn trên cự li rất dài, trong khi phần lớn hàng đường bộ chỉ đi cự li ngắn và trung bình."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Luân chuyển = khối lượng × quãng đường; đường biển chở hàng nặng đi cả nghìn kilômét nên tạo ra khối lượng tấn.km khổng lồ dù số tấn hàng ít hơn đường bộ. A sai vì đường biển chở hàng hoá là chính; B ngược thực tế (cự li dài); C là ưu điểm của đường bộ.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c23",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "đường sắt đô thị",
+        "vận tải công cộng"
+      ],
+      "content": "Đường sắt đô thị được ưu tiên phát triển ở Hà Nội và Thành phố Hồ Chí Minh nhằm",
+      "options": [
+        {
+          "key": "A",
+          "text": "thay thế hoàn toàn xe máy và ô tô cá nhân trong mọi nhu cầu đi lại."
+        },
+        {
+          "key": "B",
+          "text": "tăng năng lực vận chuyển hàng hoá nặng cho hai thành phố."
+        },
+        {
+          "key": "C",
+          "text": "cung cấp vận tải công cộng khối lượng lớn, đúng giờ, giảm ùn tắc và ô nhiễm, từng bước đổi mới phương thức đi lại của cư dân đô thị."
+        },
+        {
+          "key": "D",
+          "text": "kéo giãn khoảng cách và thời gian di chuyển giữa nội đô và ngoại ô."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Đường sắt đô thị là xương sống vận tải công cộng của đô thị lớn: sức chở lớn, chạy nhanh, đúng giờ, phát thải thấp. A quá tuyệt đối, phương tiện cá nhân còn giảm dần chứ chưa thể xoá bỏ; B sai vì đây là tuyến chở khách; D ngược mục tiêu (nhắm rút ngắn thời gian đi lại).",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c24",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "tính toán số liệu",
+        "cơ cấu vận tải"
+      ],
+      "content": "**Bảng khối lượng vận chuyển hàng hoá của ba loại hình ở một vùng giả định (nghìn tấn):**\n\n- Đường bộ: 12 500; Đường sông: 3 200; Đường biển: 4 300\n\n*Nguồn: số liệu giả định phục vụ luyện tập.*\n\nTổng khối lượng vận chuyển và tỉ trọng của vận tải đường bộ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "20 000 nghìn tấn; 52,0%."
+        },
+        {
+          "key": "B",
+          "text": "20 000 nghìn tấn; 62,5%."
+        },
+        {
+          "key": "C",
+          "text": "22 000 nghìn tấn; 62,5%."
+        },
+        {
+          "key": "D",
+          "text": "19 000 nghìn tấn; 65,8%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Tổng = 12 500 + 3 200 + 4 300 = 20 000 (nghìn tấn). Tỉ trọng đường bộ = 12 500 / 20 000 × 100 = 62,5%. A lấy đúng tổng nhưng tính sai tỉ trọng; C, D cộng sai tổng nên mọi tỉ trọng kèm theo đều lệch.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c25",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "bưu chính công ích",
+        "khái niệm"
+      ],
+      "content": "Dịch vụ bưu chính công ích được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "dịch vụ bưu chính thiết yếu mà nhà nước bảo đảm để mọi người dân đều được tiếp cận với chất lượng và cước thống nhất, gồm chuyển thư, bưu thiếp, gói kiện nhỏ và các dịch vụ công do nhà nước đặt hàng."
+        },
+        {
+          "key": "B",
+          "text": "dịch vụ chuyển phát nhanh thương mại do doanh nghiệp tự định giá theo thị trường."
+        },
+        {
+          "key": "C",
+          "text": "dịch vụ cho thuê hạ tầng kênh truyền dẫn viễn thông giữa các doanh nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "dịch vụ huy động và cho vay tiền gửi qua hệ thống bưu cục."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Bưu chính công ích mang tính phổ cập: nhà nước đặt hàng, tiêu chuẩn chất lượng và cước thống nhất, phủ tới cả vùng sâu, vùng xa. B là dịch vụ thương mại cạnh tranh; C thuộc viễn thông; D là chuyển tiền – đại lý tài chính, chỉ là một phần mở rộng, không phải bản chất công ích.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c26",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "định hướng đường sắt",
+        "đường sắt tốc độ cao"
+      ],
+      "content": "Định hướng quan trọng nhất của vận tải đường sắt nước ta trong thời gian tới là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xoá bỏ toàn bộ tuyến Thống Nhất hiện hữu để dành quỹ đất cho đô thị."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ mua thêm toa xe, giữ nguyên nền đường và khổ đường hiện tại."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển đường sắt Thống Nhất sang thuần tải hành khách đô thị vùng ven."
+        },
+        {
+          "key": "D",
+          "text": "Nghiên cứu, đầu tư đường sắt tốc độ cao trục Bắc – Nam theo khổ đường 1 435 mm; từng bước hiện đại hoá các tuyến hiện có và tăng kết nối đường sắt với cảng biển, khu công nghiệp."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Chủ trương đã được thông qua là xây dựng đường sắt tốc độ cao Bắc – Nam khổ tiêu chuẩn 1 435 mm, đồng thời nâng cấp, kết nối các tuyến hiện hữu với cảng và khu công nghiệp. A cực đoan và lãng phí; B không giải quyết được hạn chế hạ tầng; C biến tuyến xuyên quốc gia thành tuyến đô thị là phi thực tế.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c27",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "hàng không",
+        "định hướng"
+      ],
+      "content": "Về vận tải hàng không, định hướng nào sau đây phù hợp với quy hoạch phát triển hiện nay?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thu hẹp số lượng cảng hàng không, chỉ giữ hai cảng quốc tế."
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng, nâng cấp các cảng hàng không quốc tế theo quy hoạch, hình thành thêm cảng cửa ngõ, khai thác hiệu quả các cảng địa phương, hiện đại hoá đội bay và phát triển dịch vụ hậu cần hàng không."
+        },
+        {
+          "key": "C",
+          "text": "Tập bay nội địa, hạn chế cấp quyền bay quốc tế để bảo hộ."
+        },
+        {
+          "key": "D",
+          "text": "Dừng mọi dự án sân bay mới cho đến khi đường sắt tốc độ cao hoàn thành."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. Quy hoạch phát triển hệ thống cảng hàng không theo hướng tăng số lượng, mở rộng các cảng quốc tế thành cảng cửa ngõ, hiện đại hoá đội bay và dịch vụ mặt đất, khai thác cả hàng hoá lẫn hành khách. A trái với quy hoạch mở rộng mạng cảng hàng không; C ngược xu hướng hội nhập và mở đường bay quốc tế; D cực đoan, hai lĩnh vực đường không và đường sắt đều được đầu tư song song.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c28",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "viễn thông",
+        "hạ tầng kết nối"
+      ],
+      "content": "Để nâng cao chất lượng và bảo đảm an toàn kết nối viễn thông, xu hướng đáng chú ý của nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm dung lượng kết nối quốc tế và chỉ truyền thông tin trong nước."
+        },
+        {
+          "key": "B",
+          "text": "Bỏ cáp, chỉ phát triển mạng di động vì tiện lợi."
+        },
+        {
+          "key": "C",
+          "text": "Đa dạng hoá hướng kết nối: bổ sung tuyến cáp quang biển và trạm cập bờ, phát triển các hướng cáp bộ, vệ tinh quỹ đạo thấp, trung tâm dữ liệu lớn, đi đôi với thương mại hoá 5G."
+        },
+        {
+          "key": "D",
+          "text": "Duy trì phụ thuộc vào một tuyến cáp biển duy nhất cho chi phí rẻ."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Việc nhiều lần gián đoạn cáp quang biển đã thúc đẩy xu hướng đa hướng kết nối: thêm tuyến cáp, thêm trạm cập bờ, cáp bộ, vệ tinh và hạ tầng dữ liệu, cùng 5G phủ rộng. A ngược với hội nhập số; B phi thực tế vì lưu lượng cố định chiếm đa số; D chính là điểm yếu đang khắc phục.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c29",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "giao thông và tổ chức lãnh thổ",
+        "hành lang kinh tế"
+      ],
+      "content": "Giao thông vận tải tác động sâu sắc tới tổ chức lãnh thổ kinh tế và phân bố dân cư chủ yếu vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "làm tăng giá thành, ngăn cản sự hình thành khu công nghiệp gần cảng."
+        },
+        {
+          "key": "B",
+          "text": "chỉ tác động tới hoạt động du lịch biển."
+        },
+        {
+          "key": "C",
+          "text": "giữ nguyên hiện trạng các điểm dân cư nông thôn."
+        },
+        {
+          "key": "D",
+          "text": "hạ tầng giao thông mở ra kéo theo dịch chuyển vốn, lao động và hàng hoá, hình thành hành lang kinh tế, dải đô thị dọc trục giao thông và các cụm cảng – khu công nghiệp – dịch vụ hậu cần."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Các trục giao thông mới làm thay đổi lợi thế vị trí, từ đó tái phân bố dân cư và hoạt động kinh tế dọc theo hành lang. A trái ngược (giao thông tốt làm giảm giá thành); B, C quá thu hẹp và phủ nhận vai trò với phân bố dân cư – công nghiệp.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c30",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "giao thông xanh",
+        "bền vững"
+      ],
+      "content": "Yêu cầu phát triển giao thông vận tải xanh, bền vững đặt ra nhiệm vụ nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng vận tải công cộng và phương tiện dùng điện, năng lượng sạch; tối ưu hoá chuỗi hậu cần để giảm tiêu hao nhiên liệu và phát thải."
+        },
+        {
+          "key": "B",
+          "text": "Dùng thuế phí thật cao để hạn chế mọi nhu cầu đi lại của người dân."
+        },
+        {
+          "key": "C",
+          "text": "Bỏ hẳn vận tải đường sông và đường biển để giảm tiếng ồn."
+        },
+        {
+          "key": "D",
+          "text": "Mở rộng làn đường ưu tiên xe cá nhân ở mọi đô thị."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Xu hướng xanh hoá là chuyển dịch phương thức vận tải sang công cộng, điện hoá phương tiện và giảm chi phí – phát thải nhờ chuỗi hậu cần thông minh. B hạn chế đi lại là giải pháp cực đoan, không phải mục tiêu; C loại bỏ hai lợi thế cước rẻ của quốc gia; D làm tăng ùn tắc, đi ngược ưu tiên vận tải công cộng.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c31",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "bưu chính số",
+        "chuyển đổi số quốc gia"
+      ],
+      "content": "Trong tiến trình chuyển đổi số quốc gia, hệ thống bưu chính được kỳ vọng",
+      "options": [
+        {
+          "key": "A",
+          "text": "thu hẹp vai trò vì mọi giao dịch đã chuyển lên mạng xã hội."
+        },
+        {
+          "key": "B",
+          "text": "chỉ dừng ở nhiệm vụ phát thư giấy truyền thống."
+        },
+        {
+          "key": "C",
+          "text": "trở thành hạ tầng hậu cần của thương mại điện tử và dịch vụ công: phát hồ sơ, gói hàng, thu – chi hộ, hỗ trợ lưu chuyển hàng hoá tới tận người dân, kết nối với các nền tảng số dùng chung."
+        },
+        {
+          "key": "D",
+          "text": "tách khỏi viễn thông và hoạt động độc lập với kinh tế số."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Mạng lưới bưu chính phủ khắp, tiếp cận tới từng thôn bản, nên trở thành mắt xích giao nhận của thương mại điện tử và dịch vụ công trực tuyến. A, B hạ thấp vai trò đang mở rộng của bưu chính; D sai vì bưu chính – viễn thông ngày càng tích hợp thành hệ sinh thái số.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c32",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "tính toán số liệu",
+        "chuyển phát"
+      ],
+      "content": "**Bảng sản lượng chuyển phát gói, kiện của một mạng lưới giả định (triệu kiện):**\n\n- Năm thứ nhất: 40; Năm thứ hai: 65\n\n*Nguồn: số liệu giả định phục vụ luyện tập.*\n\nTừ năm thứ nhất tới năm thứ hai, sản lượng chuyển phát tăng gấp bao nhiêu lần và tương ứng tăng bao nhiêu phần trăm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gấp 1,52 lần; tăng 62,5%."
+        },
+        {
+          "key": "B",
+          "text": "Gấp 1,625 lần; tăng 62,5%."
+        },
+        {
+          "key": "C",
+          "text": "Gấp 2,60 lần; tăng 160%."
+        },
+        {
+          "key": "D",
+          "text": "Gấp 0,62 lần; tăng 38,5%."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Đáp án B. 65 : 40 = 1,625 (lần). Mức tăng = 1,625 − 1 = 0,625, tức tăng 62,5%. A nhầm 1,625 thành 1,52; C lấy 65 − 40 = 25 rồi suy ra 2,6 là sai phép tính; D đảo ngược tỉ số 40 : 65 ≈ 0,615 và tính sai phần trăm.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c33",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "vận tải đường sông",
+        "hạn chế"
+      ],
+      "content": "Nhược điểm nổi bật của vận tải đường sông là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cước quá cao nên chỉ doanh nghiệp lớn sử dụng được."
+        },
+        {
+          "key": "B",
+          "text": "Không vận chuyển được hàng container và vật liệu xây dựng."
+        },
+        {
+          "key": "C",
+          "text": "Tốc độ quá cao nên kém an toàn trên các tuyến kênh rạch."
+        },
+        {
+          "key": "D",
+          "text": "Phụ thuộc điều kiện tự nhiên: mực nước thay đổi theo mùa, luồng lạch hay bồi xói phải nạo vét, tốc độ thấp nên khó bảo đảm lịch trình chính xác."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "Đáp án D. Đường sông rẻ nhưng chậm và bị chi phối bởi mùa nước, bồi lắng luồng lạch. A trái đặc trưng cước thấp; B sai vì sà lan chở container, cát đá là hàng chủ lực; C ngược thực tế (tàu sông chạy chậm).",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c34",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "quốc phòng an ninh",
+        "vai trò giao thông"
+      ],
+      "content": "Ở nước ta, giao thông vận tải có vị trí quan trọng về quốc phòng, an ninh vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "giúp giảm chi phí nhập khẩu thiết bị quân sự."
+        },
+        {
+          "key": "B",
+          "text": "làm tăng thu ngân sách từ thuế nhiên liệu."
+        },
+        {
+          "key": "C",
+          "text": "bảo đảm khả năng cơ động lực lượng, tiếp ứng kịp thời cho vùng biên giới, biển đảo và vùng sâu; các tuyến đường chiến lược, đường ra cảng, sân bay được ưu tiên đầu tư."
+        },
+        {
+          "key": "D",
+          "text": "giúp đa dạng hoá sản phẩm nông nghiệp hàng hoá."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "Đáp án C. Vai trò quốc phòng – an ninh của GTVT thể hiện ở khả năng cơ động, bảo đảm giao thông trong tình huống khẩn cấp và bảo vệ chủ quyền ở biên giới, biển đảo. A, B là hệ quả kinh tế phụ; D thuộc về nông nghiệp, không liên quan trực tiếp tới quốc phòng.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c35",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "type": "SINGLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "viễn thông",
+        "khái niệm"
+      ],
+      "content": "Viễn thông được hiểu là dịch vụ",
+      "options": [
+        {
+          "key": "A",
+          "text": "gửi, truyền và nhận thông tin dưới dạng âm thanh, hình ảnh, dữ liệu qua các hạ tầng kỹ thuật như cáp, vô tuyến và vệ tinh."
+        },
+        {
+          "key": "B",
+          "text": "kho vận, bảo quản và đóng gói hàng hoá tại các kho bãi."
+        },
+        {
+          "key": "C",
+          "text": "chuyển phát thư và gói kiện theo địa chỉ người nhận."
+        },
+        {
+          "key": "D",
+          "text": "huy động tiền gửi và cho vay của tổ chức tín dụng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "Đáp án A. Viễn thông truyền đưa thông tin vô hình (thoại, hình ảnh, dữ liệu) trên khoảng cách xa nhờ hạ tầng mạng; ngày nay còn cung cấp dịch vụ truy nhập băng rộng và các dịch vụ số. B là hoạt động kho vận, lưu giữ hàng hoá; C là bưu chính; D là dịch vụ ngân hàng.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c36",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "vai trò giao thông vận tải",
+        "phát biểu đúng"
+      ],
+      "content": "Chọn các phát biểu ĐÚNG về vai trò của ngành giao thông vận tải.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giao thông vận tải đi trước mở đường cho sản xuất, góp phần phân bố lại dân cư và lao động giữa các vùng."
+        },
+        {
+          "key": "B",
+          "text": "Giao thông vận tải không ảnh hưởng tới chi phí và sức cạnh tranh của hàng hoá."
+        },
+        {
+          "key": "C",
+          "text": "Giao thông vận tải bảo đảm khả năng cơ động của nền kinh tế phục vụ quốc phòng, an ninh và thúc đẩy hội nhập quốc tế."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cần mạng lưới đủ dày về số kilômét, chất lượng dịch vụ vận tải không ảnh hưởng tới du lịch và xuất khẩu."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "Đáp án A, C. Hai phát biểu diễn tả đúng vai trò: GTVT là ngành hạ tầng đi trước, tác động tới phân bố dân cư – sản xuất, quốc phòng và hội nhập. B sai vì GTVT góp phần giảm chi phí lưu thông, tăng sức cạnh tranh. D sai vì chất lượng dịch vụ (tốc độ, độ tin cậy, cước) ảnh hưởng trực tiếp tới du lịch và xuất khẩu; câu này còn nhầm giữa 'số lượng' và 'hiệu quả' mạng lưới.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c37",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "difficulty": "MEDIUM",
+      "tags": [
+        "đường bộ",
+        "đường sắt",
+        "so sánh loại hình"
+      ],
+      "content": "Chọn các phát biểu ĐÚNG khi so sánh vận tải đường bộ và vận tải đường sắt.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đường bộ chiếm tỉ trọng lớn nhất về vận chuyển hành khách trong nước nhờ tính cơ động cao và mạng lưới phủ rộng."
+        },
+        {
+          "key": "B",
+          "text": "Đường sắt có nhược điểm lớn về tính cơ động: hàng hoá đi theo đường ray cố định nên thường phải kết hợp với phương thức khác để đưa – nhận tận nơi."
+        },
+        {
+          "key": "C",
+          "text": "Đường bộ thích hợp nhất với hàng cồng kềnh đi cự li cực dài và có cước rẻ hơn đường biển."
+        },
+        {
+          "key": "D",
+          "text": "Đường sắt hầu như không chuyên chở hàng nặng, chỉ phục vụ hành khách."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "Đáp án A, B. Đường bộ đứng đầu về khối lượng hành khách nội địa do mạng lưới rộng và cơ động; đường sắt gắn với tuyến cố định nên hạn chế khâu 'từ cửa đến cửa'. C sai vì hàng cồng kềnh cự li cực dài thuộc thế mạnh đường biển, đường sông; D sai vì đường sắt chở than, xi măng, phân bón, container… với khối lượng lớn.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c38",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "đường biển",
+        "hàng không",
+        "phát biểu đúng"
+      ],
+      "content": "Chọn các phát biểu ĐÚNG về vận tải đường biển và vận tải hàng không ở nước ta.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vận tải đường biển đảm nhiệm phần lớn lượng hàng xuất nhập khẩu theo tuyến đường dài nhờ khối lượng lớn và cước cạnh tranh."
+        },
+        {
+          "key": "B",
+          "text": "Cụm cảng cửa ngõ phía Bắc quanh Hải Phòng – Quảng Ninh và cụm cảng cửa ngõ phía Nam Sài Gòn – Thị Vải – Cái Mép là hai nhóm cảng container lớn nhất cả nước."
+        },
+        {
+          "key": "C",
+          "text": "Vận tải hàng không có tốc độ cao, phù hợp với hàng giá trị lớn, hàng gấp về thời gian và hành khách đi cự li dài."
+        },
+        {
+          "key": "D",
+          "text": "Hàng không là loại hình có thị phần vận chuyển hàng hoá lớn nhất trong nước nhờ cước thấp."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án A, B, C. Ba phát biểu khớp với đặc điểm và phân bố của hai loại hình: đường biển mạnh về hàng dài và quốc tế với hai đầu container Bắc – Nam; hàng không nhanh nhưng hợp hàng giá trị cao. D sai vì hàng không chiếm tỉ trọng rất nhỏ về khối lượng hàng hoá và có cước cao nhất.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c39",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "bưu chính",
+        "viễn thông",
+        "chuyển đổi số"
+      ],
+      "content": "Chọn các phát biểu ĐÚNG về bưu chính và viễn thông nước ta hiện nay.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thương mại điện tử làm tăng nhanh khối lượng chuyển phát, buộc mạng lưới bưu chính đẩy mạnh tự động hoá khai thác và rút ngắn thời gian phát."
+        },
+        {
+          "key": "B",
+          "text": "Dịch vụ bưu chính công ích bảo đảm mọi người dân được tiếp cận dịch vụ bưu chính thiết yếu với chất lượng và cước thống nhất."
+        },
+        {
+          "key": "C",
+          "text": "Viễn thông đã thương mại hoá mạng 5G, phủ sóng di động và băng rộng tới hầu hết các xã, tạo hạ tầng cho chuyển đổi số."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển đổi số ngành bưu chính – viễn thông đồng nghĩa với việc dừng cung cấp dịch vụ chuyển phát gói kiện."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án A, B, C. Đúng theo các thành tựu và đặc điểm dịch vụ: thương mại điện tử kéo bưu chính hiện đại hoá; bưu chính công ích mang tính phổ cập; viễn thông phủ rộng và 5G là hạ tầng số. D sai vì chuyển đổi số làm tăng sản lượng chuyển phát, không dừng dịch vụ này.",
+      "score": 0.25
+    },
+    {
+      "id": "dia12-b21-c40",
+      "topic": "topic-dia-b21-giao-thong-buu-chinh",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "type": "MULTIPLE_CHOICE",
+      "difficulty": "HARD",
+      "tags": [
+        "xu hướng phát triển",
+        "giao thông xanh",
+        "hiện đại hoá"
+      ],
+      "content": "Chọn các phát biểu ĐÚNG về xu hướng phát triển giao thông vận tải và bưu chính – viễn thông theo hướng hiện đại, bền vững.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiện đại hoá thể hiện ở việc mở rộng đường bộ cao tốc, chuẩn bị đầu tư đường sắt tốc độ cao trục Bắc – Nam và phát triển các cảng nước sâu."
+        },
+        {
+          "key": "B",
+          "text": "Phát triển bền vững yêu cầu giảm phát thải, tăng vận tải công cộng và hoàn thiện chuỗi dịch vụ hậu cần."
+        },
+        {
+          "key": "C",
+          "text": "Viễn thông đa dạng hoá hướng kết nối quốc tế: bổ sung tuyến cáp quang biển, phát triển vệ tinh và các trung tâm dữ liệu lớn."
+        },
+        {
+          "key": "D",
+          "text": "Hành lang kinh tế và dải đô thị dọc các trục giao thông hình thành hoàn toàn độc lập, không phụ thuộc vào hạ tầng vận tải."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Đáp án A, B, C. Ba phát biểu phản ánh đúng định hướng: kết cấu hạ tầng hiện đại, xanh hoá vận tải và đa hướng kết nối viễn thông. D sai vì hành lang kinh tế, dải đô thị chính là sản phẩm của các trục giao thông – quan hệ phụ thuộc chứ không độc lập.",
+      "score": 0.25
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-04",
+  "title": "Đề ôn Toán 12 Bài 4: Khảo sát sự biến thiên và vẽ đồ thị của hàm số (20 câu)",
+  "slug": "de-toan-12-bai-04",
+  "description": "Đề bám sát Bài 4 sách Toán 12 Kết nối tri thức: các bước khảo sát, nhận dạng đồ thị hàm bậc ba, trùng phương, phân thức bậc nhất trên bậc nhất, sự tương giao của đồ thị và đường thẳng, tiếp tuyến và tham số m. 20 câu trắc nghiệm bốn lựa chọn, làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B04",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b04-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi khảo sát sự biến thiên và vẽ đồ thị hàm số, bước nào được thực hiện ngay sau bước tìm tập xác định?",
+      "options": [
+        { "key": "A", "text": "Tính đạo hàm, xét dấu đạo hàm rồi lập bảng biến thiên." },
+        { "key": "B", "text": "Xác định các điểm đặc biệt của đồ thị như giao điểm với các trục tọa độ." },
+        { "key": "C", "text": "Tìm giới hạn tại vô cực và các đường tiệm cận (nếu có)." },
+        { "key": "D", "text": "Vẽ đồ thị hàm số." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quy trình khảo sát gồm: tìm tập xác định, xét chiều biến thiên (tính đạo hàm, xét dấu, lập bảng biến thiên), tìm cực trị, tìm giới hạn và tiệm cận, xác định điểm đặc biệt rồi mới vẽ đồ thị. Bước ngay sau tập xác định là xét chiều biến thiên.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["khảo sát hàm số", "quy trình vẽ đồ thị"]
+    },
+    {
+      "id": "toan12-b04-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Tập xác định của hàm số $y=x^3-3x+1$ là",
+      "options": [
+        { "key": "A", "text": "$\\mathbb{R}\\setminus\\{0\\}$." },
+        { "key": "B", "text": "$\\mathbb{R}$." },
+        { "key": "C", "text": "Đoạn $[-1;1]$." },
+        { "key": "D", "text": "Khoảng $(1;+\\infty)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hàm số bậc ba được xác định với mọi giá trị của $x$, nên tập xác định là $\\mathbb{R}$. Học sinh hay nhầm lấy khoảng nghịch biến $[-1;1]$ hoặc nghiệm $x=1$ làm giới hạn của tập xác định.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["tập xác định", "hàm số bậc ba"]
+    },
+    {
+      "id": "toan12-b04-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảng biến thiên của hàm số $y=f(x)$ cho biết $f'(x)>0$ trên $(-\\infty;-1)$ và $(1;+\\infty)$, $f'(x)<0$ trên $(-1;1)$. Hàm số đồng biến trên khoảng nào sau đây?",
+      "options": [
+        { "key": "A", "text": "$(-1;1)$." },
+        { "key": "B", "text": "$(0;1)$." },
+        { "key": "C", "text": "$(1;+\\infty)$." },
+        { "key": "D", "text": "$(-\\infty;1)$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hàm số đồng biến đúng trên các khoảng mà đạo hàm dương, tức $(-\\infty;-1)$ và $(1;+\\infty)$. Đáp án A và B nằm trong khoảng nghịch biến, đáp án D gộp lẫn cả hai khoảng có dấu đạo hàm trái ngược nhau.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["bảng biến thiên", "chiều biến thiên"]
+    },
+    {
+      "id": "toan12-b04-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Số điểm cực trị của đồ thị hàm số $y=2x^4-4x^2+1$ là",
+      "options": [
+        { "key": "A", "text": "$0$." },
+        { "key": "B", "text": "$1$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$3$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đạo hàm $y'=8x^3-8x=8x(x^2-1)=0$ cho ba nghiệm phân biệt $x=0$, $x=1$, $x=-1$, và $y'$ đổi dấu qua từng nghiệm. Vậy hàm số trùng phương này có $3$ điểm cực trị; chọn $2$ là nhầm sang đặc trưng của hàm bậc ba.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["hàm trùng phương", "cực trị"]
+    },
+    {
+      "id": "toan12-b04-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Đồ thị hàm số $y=\\dfrac{2x-1}{x+3}$ có đường tiệm cận đứng là",
+      "options": [
+        { "key": "A", "text": "$x=3$." },
+        { "key": "B", "text": "$x=-3$." },
+        { "key": "C", "text": "$x=\\dfrac{1}{2}$." },
+        { "key": "D", "text": "$y=2$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mẫu bằng $0$ tại $x=-3$ còn tử số bằng $-7$ khác $0$ nên $x=-3$ là tiệm cận đứng. Giá trị $x=\\dfrac{1}{2}$ là nghiệm của tử số, còn $y=2$ là tiệm cận ngang, không phải tiệm cận đứng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["hàm phân thức", "tiệm cận"]
+    },
+    {
+      "id": "toan12-b04-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Đồ thị hàm số $y=x^3-3x^2+2$ cắt trục tung tại điểm có tung độ bằng",
+      "options": [
+        { "key": "A", "text": "$-2$." },
+        { "key": "B", "text": "$0$." },
+        { "key": "C", "text": "$1$." },
+        { "key": "D", "text": "$2$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Giao điểm với trục tung có hoành độ $x=0$, thay vào hàm số được $y=2$. Đáp án $0$ và $1$ xuất hiện do nhầm sang việc giải $y=0$ để tìm giao điểm với trục hoành.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["đồ thị hàm số", "giao trục"]
+    },
+    {
+      "id": "toan12-b04-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Đồ thị một hàm số trùng phương $y=ax^4+bx^2+c$ có dạng chữ W đối xứng qua trục tung, nghịch biến trên $(-\\infty;-2)$ và $(0;2)$, đồng biến trên $(-2;0)$ và $(2;+\\infty)$, hai điểm cực tiểu nằm dưới trục hoành. Hàm số nào sau đây có đồ thị thỏa mãn?",
+      "options": [
+        { "key": "A", "text": "$y=x^4-8x^2+3$." },
+        { "key": "B", "text": "$y=-x^4+8x^2-3$." },
+        { "key": "C", "text": "$y=-x^4+4x^2-3$." },
+        { "key": "D", "text": "$y=x^4+8x^2-3$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Điều kiện $a>0$ đúng với hai hàm A và D; hai hàm B và C có $a<0$ nên đồ thị hình chữ M với chiều biến thiên ngược lại và $\\lim_{x\\to\\pm\\infty}y=-\\infty$. Với $y=x^4-8x^2+3$: $y'=4x^3-16x=4x(x^2-4)$, bằng $0$ tại $x=0$ và $x=\\pm2$; hàm nghịch biến trên $(-\\infty;-2)$ và $(0;2)$, đồng biến trên $(-2;0)$ và $(2;+\\infty)$; hai điểm cực tiểu $y(\\pm2)=-13<0$ nằm dưới trục hoành, cực đại $y(0)=3$. Hàm ở D có $y'=4x(x^2+4)$ chỉ đổi dấu tại $x=0$ nên chỉ có một cực trị, không tạo được chữ W.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm trùng phương", "nhận dạng đồ thị"]
+    },
+    {
+      "id": "toan12-b04-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số nào sau đây có đồ thị đi qua gốc tọa độ và có hai điểm cực trị nằm về hai phía khác nhau của trục tung?",
+      "options": [
+        { "key": "A", "text": "$y=2x^3-3x^2+1$." },
+        { "key": "B", "text": "$y=x^3-3x+2$." },
+        { "key": "C", "text": "$y=-x^3+3x$." },
+        { "key": "D", "text": "$y=x^3+3x$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đồ thị qua gốc tọa độ đòi hỏi hằng số tự do bằng $0$, chỉ còn hai phương án C và D. Hàm ở D có $y'=3x^2+3>0$ với mọi $x$ nên không có cực trị. Hàm ở C có $y'=-3x^2+3=0$ cho $x=\\pm1$, là hai cực trị nằm về hai phía của trục tung.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm bậc ba", "nhận dạng đồ thị"]
+    },
+    {
+      "id": "toan12-b04-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đồ thị hàm số $y=x^3-3x$, biết đồ thị đạt cực đại $y=2$ tại $x=-1$ và cực tiểu $y=-2$ tại $x=1$. Tập hợp các giá trị của $m$ để phương trình $x^3-3x=m$ có ba nghiệm thực phân biệt là",
+      "options": [
+        { "key": "A", "text": "$(-2;2)$." },
+        { "key": "B", "text": "$(-\\infty;-2)\\cup(2;+\\infty)$." },
+        { "key": "C", "text": "Đoạn $[-2;2]$." },
+        { "key": "D", "text": "$(0;+\\infty)$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Số nghiệm của phương trình bằng số giao điểm của đồ thị với đường ngang $y=m$. Đường ngang này cắt đồ thị tại ba điểm phân biệt khi và chỉ khi nó nằm giữa hai tung độ cực trị, tức $-2<m<2$. Tại $m=\\pm2$ đường ngang chỉ cắt đồ thị tại hai điểm phân biệt nên khoảng đóng $[-2;2]$ là sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tương giao", "biện luận số nghiệm"]
+    },
+    {
+      "id": "toan12-b04-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ số góc của tiếp tuyến với đồ thị hàm số $y=x^3-3x^2+2$ tại điểm thuộc đồ thị có hoành độ $x=1$ bằng",
+      "options": [
+        { "key": "A", "text": "$0$." },
+        { "key": "B", "text": "$3$." },
+        { "key": "C", "text": "$-3$." },
+        { "key": "D", "text": "$-5$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đạo hàm $y'=3x^2-6x$, tại $x=1$ có $y'(1)=3-6=-3$, đó chính là hệ số góc cần tìm. Đáp án $0$ là nhầm giữa $y'(1)$ với tung độ $y(1)=1-3+2=0$ của tiếp điểm, đáp án $-5$ là nhầm khi tính đạo hàm của $x^3$ thành $x^2$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tiếp tuyến", "đạo hàm"]
+    },
+    {
+      "id": "toan12-b04-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Tiếp tuyến của đồ thị hàm số $y=\\dfrac{x+1}{x-1}$ tại điểm $M(0;-1)$ có phương trình là",
+      "options": [
+        { "key": "A", "text": "$y=-2x-1$." },
+        { "key": "B", "text": "$y=2x-1$." },
+        { "key": "C", "text": "$y=-2x+1$." },
+        { "key": "D", "text": "$y=-\\dfrac{1}{2}x-1$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm $y'=\\dfrac{(x-1)-(x+1)}{(x-1)^2}=\\dfrac{-2}{(x-1)^2}$ nên $y'(0)=-2$. Phương trình tiếp tuyến là $y=-2(x-0)-1=-2x-1$; đổi sai dấu đạo hàm dẫn tới $y=2x-1$, đổi sai dấu tung độ dẫn tới $y=-2x+1$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tiếp tuyến", "hàm phân thức"]
+    },
+    {
+      "id": "toan12-b04-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đồ thị hàm số $y=-x^4+4x^2$, biết đồ thị đạt cực tiểu $y=0$ tại $x=0$ và cực đại $y=4$ tại $x=\\pm\\sqrt{2}$. Có bao nhiêu giá trị nguyên của $m$ để đường thẳng $y=m$ cắt đồ thị đã cho tại bốn điểm phân biệt?",
+      "options": [
+        { "key": "A", "text": "$2$." },
+        { "key": "B", "text": "$3$." },
+        { "key": "C", "text": "$4$." },
+        { "key": "D", "text": "$5$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đồ thị hàm trùng phương với $a<0$ có dạng chữ M, đường ngang cắt đồ thị tại bốn điểm phân biệt khi và chỉ khi tung độ cực tiểu nhỏ hơn $m$ nhỏ hơn tung độ cực đại, tức $0<m<4$. Các giá trị nguyên của $m$ là $1;2;3$, nên có $3$ giá trị; đếm thêm $m=0$ hay $m=4$ là sai vì tại đó đồ thị chỉ cắt tại $3$ điểm phân biệt.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tương giao", "hàm trùng phương"]
+    },
+    {
+      "id": "toan12-b04-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đồ thị hàm số $y=x^4-2x^2$, biết đồ thị đạt cực đại $y=0$ tại $x=0$ và cực tiểu $y=-1$ tại $x=\\pm1$. Với giá trị nào của $m$ thì phương trình $x^4-2x^2-1=m$ có bốn nghiệm thực phân biệt?",
+      "options": [
+        { "key": "A", "text": "$-1<m<0$." },
+        { "key": "B", "text": "$m<-2$ hoặc $m>-1$." },
+        { "key": "C", "text": "$0<m<1$." },
+        { "key": "D", "text": "$-2<m<-1$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đặt $k=m+1$, phương trình trở thành $x^4-2x^2=k$. Đường ngang $y=k$ cắt đồ thị tại bốn điểm phân biệt khi và chỉ khi $-1<k<0$, tức $-1<m+1<0$, giải ra $-2<m<-1$. Phương án $-1<m<0$ là do quên dịch hạng tử tự do $-1$ sang vế phải khi đặt ẩn phụ.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tương giao", "tham số m"]
+    },
+    {
+      "id": "toan12-b04-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đồ thị hàm số $y=\\dfrac{2x+1}{x-1}$. Phương trình nào dưới đây là phương trình tiếp tuyến của đồ thị, biết tiếp tuyến đó song song với đường thẳng $y=-3x+5$?",
+      "options": [
+        { "key": "A", "text": "$y=-3x+11$ hoặc $y=-3x-1$." },
+        { "key": "B", "text": "$y=-3x+5$ hoặc $y=-3x-1$." },
+        { "key": "C", "text": "$y=3x+11$ hoặc $y=3x-1$." },
+        { "key": "D", "text": "$y=-3x+11$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm $y'=\\dfrac{-3}{(x-1)^2}$. Cho $y'=-3$ được $(x-1)^2=1$ nên $x=2$ (tung độ $5$) hoặc $x=0$ (tung độ $-1$), viết ra hai tiếp tuyến $y=-3x+11$ và $y=-3x-1$. Quên xét một trong hai nghiệm của phương trình bậc hai dẫn tới thiếu một tiếp tuyến; lấy luôn đường thẳng đã cho làm tiếp tuyến dẫn tới phương án còn lại sai.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tiếp tuyến", "hàm phân thức"]
+    },
+    {
+      "id": "toan12-b04-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm tất cả các giá trị thực của $m$ để đồ thị hàm số $y=x^4-2mx^2+2m-1$ cắt trục hoành tại bốn điểm phân biệt.",
+      "options": [
+        { "key": "A", "text": "$m>\\dfrac{1}{2}$ và $m\\neq1$." },
+        { "key": "B", "text": "$m>\\dfrac{1}{2}$." },
+        { "key": "C", "text": "$m>0$ và $m\\neq1$." },
+        { "key": "D", "text": "$\\dfrac{1}{2}<m<1$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đặt $t=x^2\\ge0$, phương trình hoành độ giao điểm thành $t^2-2mt+2m-1=0$ với $\\Delta'=(m-1)^2$. Để có bốn nghiệm $x$ phân biệt cần hai nghiệm $t$ dương và phân biệt, tức $m\\neq1$, $t_1+t_2=2m>0$ và $t_1t_2=2m-1>0$, giải ra $m>\\dfrac{1}{2}$ và $m\\neq1$. Quên điều kiện $m\\neq1$ dẫn tới B, quên điều kiện tích dẫn tới C.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tương giao", "tham số m"]
+    },
+    {
+      "id": "toan12-b04-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một đồ thị hàm số có tiệm cận đứng $x=1$, tiệm cận ngang $y=2$, cắt trục tung tại điểm có tung độ $-4$ và nghịch biến trên từng khoảng xác định. Hàm số nào sau đây có đồ thị thỏa mãn?",
+      "options": [
+        { "key": "A", "text": "$y=\\dfrac{2x-4}{x-1}$." },
+        { "key": "B", "text": "$y=\\dfrac{2x+4}{x-1}$." },
+        { "key": "C", "text": "$y=\\dfrac{2x+4}{x+1}$." },
+        { "key": "D", "text": "$y=\\dfrac{2x-4}{x+1}$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tiệm cận đứng $x=1$ buộc mẫu là $x-1$, tiệm cận ngang $y=2$ buộc thương $a/c=2$; viết $y=\\dfrac{2x+b}{x-1}$, thay $x=0$ được $y=-b$ bằng $-4$ nên $b=4$. Kiểm tra đạo hàm $y'=\\dfrac{-6}{(x-1)^2}<0$, đúng chiều nghịch biến đã cho; phương án A có cùng tiệm cận nhưng cắt trục tung tại $+4$, phương án C và D có tiệm cận đứng sai.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["hàm phân thức", "nhận dạng đồ thị"]
+    },
+    {
+      "id": "toan12-b04-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Tất cả các tiếp tuyến của đồ thị hàm số $y=x^4-2x^2+1$ song song hoặc trùng với trục hoành là",
+      "options": [
+        { "key": "A", "text": "$y=0$." },
+        { "key": "B", "text": "$y=1$." },
+        { "key": "C", "text": "$y=0$ và $y=1$." },
+        { "key": "D", "text": "$y=-1$ và $y=1$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tiếp tuyến nằm ngang (song song hoặc trùng trục hoành) khi $y'=4x^3-4x=4x(x^2-1)=0$, tức $x=0$ hoặc $x=\\pm1$. Tại $x=0$ được $y=1$; tại $x=1$ và $x=-1$ cùng được $y=0$, tức hai tiếp tuyến trùng nhau thành một đường. Vậy tập hợp các tiếp tuyến cần tìm là $y=0$ và $y=1$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tiếp tuyến", "cực trị"]
+    },
+    {
+      "id": "toan12-b04-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đồ thị hàm số $y=x^3-3x+2$, biết đồ thị này cắt trục hoành tại $(-2;0)$, tiếp xúc trục hoành tại $(1;0)$ và đạt cực đại tại $(-1;4)$. Có bao nhiêu giá trị nguyên của $m$ để phương trình $|x^3-3x+2|=m$ có đúng bốn nghiệm thực phân biệt?",
+      "options": [
+        { "key": "A", "text": "$1$." },
+        { "key": "B", "text": "$2$." },
+        { "key": "C", "text": "$4$." },
+        { "key": "D", "text": "$3$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đồ thị $y=|x^3-3x+2|$ được suy từ đồ thị ban đầu bằng cách giữ nguyên phần phía trên trục hoành và lấy đối xứng phần phía dưới qua trục hoành. Phần bị đối xứng nằm trên khoảng $(-\\infty;-2)$, tại đó $y'=3x^2-3>0$ nên hàm số luôn tăng; nhánh đối xứng $y=-x^3+3x-2$ vì thế luôn giảm, không tạo thêm cực trị. Vì vậy đường ngang $y=m$ cắt đồ thị trị tuyệt đối tại bốn điểm phân biệt khi và chỉ khi $0<m<4$. Các giá trị nguyên của $m$ là $1;2;3$, tức có $3$ giá trị.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tương giao", "giá trị tuyệt đối"]
+    },
+    {
+      "id": "toan12-b04-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho đồ thị hàm số $y=\\dfrac{2x+4}{x-1}$ và điểm $A(3;0)$. Có bao nhiêu tiếp tuyến của đồ thị đi qua $A$?",
+      "options": [
+        { "key": "A", "text": "$0$." },
+        { "key": "B", "text": "$1$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$3$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đạo hàm $y'=\\dfrac{-6}{(x-1)^2}$. Gọi tiếp điểm có hoành độ $t$ (khác $1$), tiếp tuyến đi qua $A(3;0)$ khi và chỉ khi $\\dfrac{-6}{(t-1)^2}=\\dfrac{2t+4}{(t-1)(t-3)}$, rút gọn thành $t^2+4t-11=0$. Phương trình này có hai nghiệm $t=-2\\pm\\sqrt{15}$, đều khác $1$ và khác $3$, cho hai hệ số góc khác nhau. Vậy có $2$ tiếp tuyến.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tiếp tuyến", "qua một điểm"]
+    },
+    {
+      "id": "toan12-b04-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b04-khao-sat-ve-do-thi",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hai hàm số $f(x)=x^4-2x^2+1$ và $g(x)=x^3-3x^2+2$. Gọi $S$ là tập hợp tất cả các nghiệm thực của phương trình $f(x)=g(x)$. Số phần tử của $S$ là",
+      "options": [
+        { "key": "A", "text": "$1$." },
+        { "key": "B", "text": "$2$." },
+        { "key": "C", "text": "$3$." },
+        { "key": "D", "text": "$4$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chuyển vế được $f(x)-g(x)=x^4-x^3+x^2-1=(x-1)(x^3+x+1)$. Tam thức $x^3+x+1$ có đạo hàm $3x^2+1>0$ với mọi $x$ nên đồng biến trên $\\mathbb{R}$; nó bằng $-1$ tại $x=-1$ và bằng $1$ tại $x=0$ nên có đúng một nghiệm $\\alpha\\approx-0{,}682$. Tại $x=1$ ta có $1^3+1+1=3\\ne0$, nên $x=1$ là nghiệm đơn của tích — hai đồ thị cắt nhau chứ không tiếp xúc. Vậy $S=\\{\\alpha;1\\}$ có $2$ phần tử; chọn $1$ là lỗi chỉ kể nghiệm nguyên và bỏ nghiệm vô tỉ.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tương giao", "phương trình đồ thị"]
+    }
+  ]
+}

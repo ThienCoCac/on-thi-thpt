@@ -36,6 +36,7 @@ export function ExamCard({ exam }: { exam: ExamSummary }) {
       <CardHeader className="gap-3 pt-5">
         <div className="flex flex-wrap items-center gap-1.5">
           <Badge className={theme.chip}>{exam.subject.name}</Badge>
+          <Badge variant="outline">Lớp {exam.grade}</Badge>
           <Badge variant="outline">{EXAM_TYPE_LABELS[exam.type]}</Badge>
           {exam.isFree ? <Badge variant="success">Miễn phí</Badge> : null}
           {exam.isFeatured ? <Badge variant="accent">Nổi bật</Badge> : null}

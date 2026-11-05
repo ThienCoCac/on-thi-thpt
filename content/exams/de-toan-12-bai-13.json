@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-13",
+  "title": "Đề ôn Toán 12 Bài 13: Ứng dụng hình học của tích phân (20 câu)",
+  "slug": "de-toan-12-bai-13",
+  "description": "Đề bám sát Bài 13 sách Toán 12 Kết nối tri thức: diện tích hình phẳng giới hạn bởi đồ thị và trục hoành (có xét dấu, dùng trị tuyệt đối), diện tích giữa hai đồ thị, thể tích vật thể theo thiết diện hình tròn và hình vuông, thể tích khối tròn xoay quanh $Ox$ và quanh $Oy$, cùng bài toán tham số. 20 câu trắc nghiệm bốn lựa chọn làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B13",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b13-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = f(x)$ liên tục trên đoạn $[a;b]$. Diện tích hình phẳng giới hạn bởi đồ thị hàm số, trục hoành và hai đường thẳng $x = a$, $x = b$ được tính bằng công thức nào sau đây?",
+      "options": [
+        { "key": "A", "text": "$S = \\int_a^b \\left| f(x) \\right| dx$." },
+        { "key": "B", "text": "$S = \\int_a^b f(x) dx$." },
+        { "key": "C", "text": "$S = \\left| \\int_a^b f(x) dx \\right|$." },
+        { "key": "D", "text": "$S = \\pi \\int_a^b \\left| f(x) \\right| dx$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đồ thị có thể nằm phía dưới trục hoành nên phải đặt trị tuyệt đối của $f(x)$ ngay dưới dấu tích phân, tức $S = \\int_a^b \\left| f(x) \\right| dx$. Phương án B chỉ đúng khi $f(x) \\ge 0$ trên cả đoạn; phương án C cho kết quả sai khi $f$ đổi dấu vì hai phần bị triệt tiêu nhau; phương án D thừa hệ số $\\pi$, đó là dạng công thức tính thể tích tròn xoay.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["diện tích hình phẳng", "công thức tổng quát"]
+    },
+    {
+      "id": "toan12-b13-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích hình phẳng giới hạn bởi parabol $y = x^2$, trục hoành và hai đường thẳng $x = 0$, $x = 3$ bằng",
+      "options": [
+        { "key": "A", "text": "$27$." },
+        { "key": "B", "text": "$3$." },
+        { "key": "C", "text": "$9$." },
+        { "key": "D", "text": "$\\dfrac{9}{2}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trên $[0;3]$ ta có $x^2 \\ge 0$ nên $S = \\int_0^3 x^2 dx = \\dfrac{3^3}{3} - \\dfrac{0^3}{3} = 9$. Phương án A xuất hiện khi quên chia cho $3$ khi tìm nguyên hàm, phương án D là kết quả của nguyên hàm sai $\\dfrac{x^2}{2}$, còn phương án B chỉ là độ dài đoạn $[0;3]$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["diện tích hình phẳng", "parabol"]
+    },
+    {
+      "id": "toan12-b13-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích hình phẳng giới hạn bởi đường thẳng $y = 2x$, trục hoành và hai đường thẳng $x = 0$, $x = 2$ bằng",
+      "options": [
+        { "key": "A", "text": "$8$." },
+        { "key": "B", "text": "$4$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$4\\pi$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vì $2x \\ge 0$ trên $[0;2]$ nên $S = \\int_0^2 2x dx = 2^2 - 0^2 = 4$ (đúng bằng diện tích tam giác vuông có hai cạnh góc vuông $2$ và $4$). Phương án A đến từ nguyên hàm sai $2x^2$; phương án C là kết quả khi bỏ hệ số $2$, tức tính $\\int_0^2 x dx$; phương án D nhầm sang công thức thể tích tròn xoay.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["diện tích hình phẳng", "hàm bậc nhất"]
+    },
+    {
+      "id": "toan12-b13-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Quay hình phẳng giới hạn bởi parabol $y = x^2$, trục hoành và hai đường thẳng $x = 0$, $x = 1$ quanh trục $Ox$ ta được một khối tròn xoay có thể tích bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{\\pi}{3}$." },
+        { "key": "B", "text": "$\\dfrac{\\pi}{2}$." },
+        { "key": "C", "text": "$\\pi$." },
+        { "key": "D", "text": "$\\dfrac{\\pi}{5}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bán kính thiết diện tại hoành độ $x$ là $x^2$ nên $V = \\pi \\int_0^1 (x^2)^2 dx = \\pi \\int_0^1 x^4 dx = \\pi \\cdot \\dfrac{1}{5} = \\dfrac{\\pi}{5}$. Phương án A là lỗi quên bình phương bán kính, tức tính $\\pi \\int_0^1 x^2 dx$; phương án B và C đến từ việc lấy nguyên hàm của $x^4$ sai.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["khối tròn xoay", "quanh trục Ox"]
+    },
+    {
+      "id": "toan12-b13-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một vật thể nằm giữa hai mặt phẳng $x = 0$ và $x = 4$. Thiết diện của vật thể với mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ $x$ là một hình vuông có cạnh bằng $\\sqrt{x}$. Thể tích của vật thể bằng",
+      "options": [
+        { "key": "A", "text": "$8$." },
+        { "key": "B", "text": "$8\\pi$." },
+        { "key": "C", "text": "$\\dfrac{16}{3}$." },
+        { "key": "D", "text": "$\\dfrac{64}{3}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Diện tích thiết diện là $S(x) = (\\sqrt{x})^2 = x$ với $0 \\le x \\le 4$, do đó $V = \\int_0^4 x dx = \\dfrac{4^2}{2} = 8$. Phương án B nhầm sang công thức tròn xoay có thừa hệ số $\\pi$; phương án C là kết quả khi tích phân cạnh $\\sqrt{x}$ thay vì diện tích thiết diện; phương án D ứng với việc nhầm diện tích thiết diện bằng $x^2$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["thiết diện", "thể tích vật thể"]
+    },
+    {
+      "id": "toan12-b13-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích hình phẳng giới hạn bởi hai đồ thị $y = x^2$ và $y = x$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{1}{3}$." },
+        { "key": "B", "text": "$\\dfrac{1}{6}$." },
+        { "key": "C", "text": "$\\dfrac{1}{2}$." },
+        { "key": "D", "text": "$1$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hoành độ giao điểm là nghiệm của $x^2 = x$, tức $x = 0$ và $x = 1$; hai giao điểm là $(0;0)$ và $(1;1)$. Trên khoảng $(0;1)$ ta có $x > x^2$ nên $S = \\int_0^1 (x - x^2) dx = \\dfrac{1}{2} - \\dfrac{1}{3} = \\dfrac{1}{6}$. Phương án A và C là kết quả khi chỉ lấy tích phân của một trong hai hàm số, phương án D là diện tích hình vuông đơn vị.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["diện tích hai đồ thị", "giao điểm"]
+    },
+    {
+      "id": "toan12-b13-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích hình phẳng giới hạn bởi parabol $y = x^2 - 1$ và trục hoành bằng",
+      "options": [
+        { "key": "A", "text": "$-\\dfrac{4}{3}$." },
+        { "key": "B", "text": "$\\dfrac{4}{3}$." },
+        { "key": "C", "text": "$-\\dfrac{2}{3}$." },
+        { "key": "D", "text": "$\\dfrac{8}{3}$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Parabol cắt trục hoành tại $x = -1$ và $x = 1$, nằm dưới trục hoành trên khoảng $(-1;1)$ nên $S = \\int_{-1}^{1} \\left| x^2 - 1 \\right| dx = 2 \\int_0^1 (1 - x^2) dx = 2 \\left( 1 - \\dfrac{1}{3} \\right) = \\dfrac{4}{3}$. Phương án A là giá trị của $\\int_{-1}^{1} (x^2 - 1) dx$ khi quên trị tuyệt đối; phương án C là nửa miền tính sai dấu; phương án D là lỗi nhân đôi thiết diện.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["diện tích hình phẳng", "xét dấu"]
+    },
+    {
+      "id": "toan12-b13-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích hình phẳng giới hạn bởi parabol $y = x^2$ và đường thẳng $y = 2x + 3$ bằng",
+      "options": [
+        { "key": "A", "text": "$-\\dfrac{32}{3}$." },
+        { "key": "B", "text": "$\\dfrac{16}{3}$." },
+        { "key": "C", "text": "$9$." },
+        { "key": "D", "text": "$\\dfrac{32}{3}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hoành độ giao điểm: $x^2 = 2x + 3 \\Leftrightarrow x^2 - 2x - 3 = 0$, cho $x = -1$ và $x = 3$, tức hai giao điểm $(-1;1)$ và $(3;9)$. Trên $(-1;3)$ đường thẳng nằm trên parabol nên $S = \\int_{-1}^{3} (2x + 3 - x^2) dx = \\dfrac{32}{3}$. Phương án C ứng với việc lấy cận từ $0$ đến $3$ vì quên giao điểm âm; phương án A là trừ ngược hai hàm; phương án B là lỗi chia đôi kết quả.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["diện tích hai đồ thị", "giao điểm"]
+    },
+    {
+      "id": "toan12-b13-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích hình phẳng giới hạn bởi đồ thị $y = x^3$, trục hoành và hai đường thẳng $x = -1$, $x = 2$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{17}{4}$." },
+        { "key": "B", "text": "$\\dfrac{15}{4}$." },
+        { "key": "C", "text": "$\\dfrac{1}{4}$." },
+        { "key": "D", "text": "$4$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vì $x^3 < 0$ trên $(-1;0)$ nên $S = \\int_{-1}^{0} (-x^3) dx + \\int_0^2 x^3 dx = \\dfrac{1}{4} + 4 = \\dfrac{17}{4}$. Phương án B là kết quả của $\\int_{-1}^{2} x^3 dx$ khi quên trị tuyệt đối, hai phần bị trừ nhau; phương án C và D chính là hai phần riêng lẻ của miền chưa cộng lại.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["diện tích hình phẳng", "trị tuyệt đối"]
+    },
+    {
+      "id": "toan12-b13-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một vật thể nằm giữa hai mặt phẳng $x = 0$ và $x = 2$. Thiết diện của vật thể với mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ $x$ là một hình tròn có bán kính $R(x) = x$. Thể tích của vật thể bằng",
+      "options": [
+        { "key": "A", "text": "$2\\pi$." },
+        { "key": "B", "text": "$\\dfrac{8}{3}$." },
+        { "key": "C", "text": "$\\dfrac{2\\pi}{3}$." },
+        { "key": "D", "text": "$\\dfrac{8\\pi}{3}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Diện tích thiết diện là $S(x) = \\pi x^2$ nên $V = \\pi \\int_0^2 x^2 dx = \\pi \\cdot \\dfrac{8}{3} = \\dfrac{8\\pi}{3}$. Phương án A là lỗi quên bình phương bán kính, tính $\\pi \\int_0^2 x dx$; phương án B là lỗi bỏ quên hệ số $\\pi$; phương án C là lỗi nhầm bán kính bằng $\\dfrac{x}{2}$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["thiết diện hình tròn", "thể tích vật thể"]
+    },
+    {
+      "id": "toan12-b13-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Quay hình phẳng giới hạn bởi đường $y = \\sqrt{x}$, trục hoành và hai đường thẳng $x = 0$, $x = 3$ quanh trục $Ox$ ta được một khối tròn xoay có thể tích bằng",
+      "options": [
+        { "key": "A", "text": "$9\\pi$." },
+        { "key": "B", "text": "$\\dfrac{9\\pi}{2}$." },
+        { "key": "C", "text": "$2\\sqrt{3}\\pi$." },
+        { "key": "D", "text": "$\\dfrac{9}{2}$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bán kính thiết diện là $\\sqrt{x}$ nên $V = \\pi \\int_0^3 (\\sqrt{x})^2 dx = \\pi \\int_0^3 x dx = \\pi \\cdot \\dfrac{9}{2} = \\dfrac{9\\pi}{2}$. Phương án A là lỗi quên chia cho $2$ khi tính $\\int_0^3 x dx$; phương án C là lỗi quên bình phương bán kính, tức $\\pi \\int_0^3 \\sqrt{x} dx = 2\\sqrt{3}\\pi$; phương án D là lỗi bỏ quên hệ số $\\pi$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["khối tròn xoay", "quanh trục Ox"]
+    },
+    {
+      "id": "toan12-b13-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Quay hình phẳng giới hạn bởi parabol $y = x^2$ với $x \\ge 0$, trục $Oy$ và đường thẳng $y = 4$ quanh trục $Oy$ ta được một khối tròn xoay có thể tích bằng",
+      "options": [
+        { "key": "A", "text": "$16\\pi$." },
+        { "key": "B", "text": "$8$." },
+        { "key": "C", "text": "$8\\pi$." },
+        { "key": "D", "text": "$\\dfrac{16\\pi}{3}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với $x \\ge 0$ ta có hàm ngược $x = \\sqrt{y}$, do đó thiết diện vuông góc với $Oy$ tại tung độ $y$ là hình tròn bán kính $\\sqrt{y}$ và $y$ chạy từ $0$ đến $4$. Vì vậy $V = \\pi \\int_0^4 (\\sqrt{y})^2 dy = \\pi \\int_0^4 y dy = \\pi \\cdot \\dfrac{16}{2} = 8\\pi$. Phương án D là lỗi quên bình phương bán kính, phương án A là lỗi nhân đôi, phương án B là lỗi bỏ quên hệ số $\\pi$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["khối tròn xoay", "quanh trục Oy"]
+    },
+    {
+      "id": "toan12-b13-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích hình phẳng giới hạn bởi parabol $y = x^2 - 2x$ và đường thẳng $y = x + 4$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{56}{3}$." },
+        { "key": "B", "text": "$\\dfrac{125}{12}$." },
+        { "key": "C", "text": "$\\dfrac{125}{3}$." },
+        { "key": "D", "text": "$\\dfrac{125}{6}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hoành độ giao điểm: $x^2 - 2x = x + 4 \\Leftrightarrow x^2 - 3x - 4 = 0$, cho $x = -1$ và $x = 4$, tức hai giao điểm $(-1;3)$ và $(4;8)$. Trên $(-1;4)$ đường thẳng nằm trên parabol nên $S = \\int_{-1}^{4} (-x^2 + 3x + 4) dx = \\left[ -\\dfrac{x^3}{3} + \\dfrac{3x^2}{2} + 4x \\right]_{-1}^{4} = \\left( -\\dfrac{64}{3} + 24 + 16 \\right) - \\left( \\dfrac{1}{3} + \\dfrac{3}{2} - 4 \\right) = \\dfrac{56}{3} + \\dfrac{13}{6} = \\dfrac{125}{6}$. Phương án A ứng với việc lấy cận từ $0$ đến $4$ vì quên giao điểm $-1$; phương án C và B là lỗi nhân đôi hoặc chia đôi kết quả.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["diện tích hai đồ thị", "parabol và đường thẳng"]
+    },
+    {
+      "id": "toan12-b13-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích hình phẳng giới hạn bởi parabol $y = x^2 - 1$, trục hoành và hai đường thẳng $x = 0$, $x = 3$ bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{22}{3}$." },
+        { "key": "B", "text": "$6$." },
+        { "key": "C", "text": "$\\dfrac{20}{3}$." },
+        { "key": "D", "text": "$\\dfrac{2}{3}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trên $[0;3]$ biểu thức $x^2 - 1$ đổi dấu tại $x = 1$; trên $(0;1)$ parabol nằm dưới trục hoành. Vì thế $S = \\int_0^1 (1 - x^2) dx + \\int_1^3 (x^2 - 1) dx = \\dfrac{2}{3} + \\dfrac{20}{3} = \\dfrac{22}{3}$. Phương án B là giá trị của $\\int_0^3 (x^2 - 1) dx$ khi quên xét dấu; phương án C và D là hai phần riêng lẻ của miền.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["diện tích hình phẳng", "xét dấu"]
+    },
+    {
+      "id": "toan12-b13-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Quay hình phẳng giới hạn bởi hai đồ thị $y = x^2$ và $y = x$ quanh trục $Ox$ ta được một khối tròn xoay có thể tích bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{\\pi}{30}$." },
+        { "key": "B", "text": "$\\dfrac{\\pi}{6}$." },
+        { "key": "C", "text": "$\\dfrac{2\\pi}{15}$." },
+        { "key": "D", "text": "$\\dfrac{\\pi}{5}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hai đồ thị cắt nhau tại $(0;0)$ và $(1;1)$; trên $(0;1)$ ta có $x > x^2$ nên bán kính ngoài là $x$, bán kính trong là $x^2$. Do đó $V = \\pi \\int_0^1 \\left( x^2 - x^4 \\right) dx = \\pi \\left( \\dfrac{1}{3} - \\dfrac{1}{5} \\right) = \\dfrac{2\\pi}{15}$. Phương án A là lỗi bình phương hiệu: $\\pi \\int_0^1 (x - x^2)^2 dx = \\dfrac{\\pi}{30}$; phương án B là lỗi quên bình phương bán kính; phương án D là lỗi chỉ quay parabol mà quên trừ phần khối rỗng bên trong.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["khối tròn xoay", "hiệu hai bán kính"]
+    },
+    {
+      "id": "toan12-b13-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Với $m > 0$, gọi $S(m)$ là diện tích hình phẳng giới hạn bởi parabol $y = x^2 - 2mx$ và trục hoành. Giá trị $m$ để $S(m) = 36$ là",
+      "options": [
+        { "key": "A", "text": "$m = 9$." },
+        { "key": "B", "text": "$m = 3$." },
+        { "key": "C", "text": "$m = 6$." },
+        { "key": "D", "text": "$m = 27$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Parabol cắt trục hoành tại $x = 0$ và $x = 2m$; trên $(0;2m)$ parabol nằm dưới trục hoành nên $S(m) = \\int_0^{2m} (2mx - x^2) dx = m(2m)^2 - \\dfrac{(2m)^3}{3} = \\dfrac{4m^3}{3}$. Từ $\\dfrac{4m^3}{3} = 36$ suy ra $m^3 = 27$, hay $m = 3$. Phương án D là lỗi nhận $m = 27$ thay vì căn bậc ba của $27$; với $m = 6$ và $m = 9$ thì $S(m)$ lần lượt bằng $288$ và $972$, không thoả mãn.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["bài toán tham số", "diện tích hình phẳng"]
+    },
+    {
+      "id": "toan12-b13-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một vật thể nằm giữa hai mặt phẳng $x = 0$ và $x = 2$. Thiết diện của vật thể với mặt phẳng vuông góc với trục $Ox$ tại điểm có hoành độ $x$ là một nửa hình tròn có đường kính là đoạn thẳng nối điểm thuộc trục hoành với điểm thuộc đường $y = x$. Thể tích của vật thể bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{2\\pi}{3}$." },
+        { "key": "B", "text": "$\\dfrac{4\\pi}{3}$." },
+        { "key": "C", "text": "$\\dfrac{8\\pi}{3}$." },
+        { "key": "D", "text": "$\\dfrac{\\pi}{3}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đường kính thiết diện bằng $x$ nên bán kính bằng $\\dfrac{x}{2}$ và diện tích nửa hình tròn là $S(x) = \\dfrac{1}{2} \\pi \\left( \\dfrac{x}{2} \\right)^2 = \\dfrac{\\pi x^2}{8}$. Suy ra $V = \\dfrac{\\pi}{8} \\int_0^2 x^2 dx = \\dfrac{\\pi}{8} \\cdot \\dfrac{8}{3} = \\dfrac{\\pi}{3}$. Phương án A là lỗi quên lấy nửa hình tròn (coi thiết diện là hình tròn đường kính $x$); phương án B và C là lỗi coi $x$ là bán kính thay vì đường kính.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["thiết diện nửa hình tròn", "thể tích vật thể"]
+    },
+    {
+      "id": "toan12-b13-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Với $m > 0$, gọi $S(m)$ là diện tích hình phẳng giới hạn bởi parabol $y = x^2$ và đường thẳng $y = m$. Giá trị $m$ để $S(m) = \\dfrac{32}{3}$ là",
+      "options": [
+        { "key": "A", "text": "$m = 4$." },
+        { "key": "B", "text": "$m = 8$." },
+        { "key": "C", "text": "$m = 2$." },
+        { "key": "D", "text": "$m = 16$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đường thẳng $y = m$ cắt parabol tại $x = -\\sqrt{m}$ và $x = \\sqrt{m}$ và nằm trên parabol trên khoảng đó, nên $S(m) = \\int_{-\\sqrt{m}}^{\\sqrt{m}} (m - x^2) dx = \\dfrac{4m\\sqrt{m}}{3}$. Phương trình $\\dfrac{4m\\sqrt{m}}{3} = \\dfrac{32}{3}$ cho $m\\sqrt{m} = 8$, suy ra $m = 4$. Thử lại: $S(4) = \\dfrac{32}{3}$, trong khi $S(2) = \\dfrac{8\\sqrt{2}}{3}$ và $S(8) = \\dfrac{64\\sqrt{2}}{3}$; phương án D là lỗi bình phương hai vế sai.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["bài toán tham số", "diện tích hai đồ thị"]
+    },
+    {
+      "id": "toan12-b13-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Diện tích hình phẳng giới hạn bởi đồ thị $y = x^3 - 3x$ và trục hoành bằng",
+      "options": [
+        { "key": "A", "text": "$0$." },
+        { "key": "B", "text": "$\\dfrac{9}{4}$." },
+        { "key": "C", "text": "$\\dfrac{9}{2}$." },
+        { "key": "D", "text": "$\\dfrac{45}{4}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giải $x^3 - 3x = 0$ ta được $x = 0$, $x = -\\sqrt{3}$, $x = \\sqrt{3}$; ba giao điểm là $(-\\sqrt{3};0)$, $(0;0)$, $(\\sqrt{3};0)$. Trên $(-\\sqrt{3};0)$ đồ thị nằm trên trục hoành, trên $(0;\\sqrt{3})$ đồ thị nằm dưới trục hoành, nên $S = \\int_{-\\sqrt{3}}^{0} (x^3 - 3x) dx + \\int_0^{\\sqrt{3}} (3x - x^3) dx = \\dfrac{9}{4} + \\dfrac{9}{4} = \\dfrac{9}{2}$. Phương án A là kết quả khi bỏ trị tuyệt đối rồi tính $\\int_{-\\sqrt{3}}^{\\sqrt{3}} (x^3 - 3x) dx$; phương án B mới cộng một phần miền; phương án D là lỗi tìm giao điểm sai thành $x = 0$ và $x = 3$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["diện tích hình phẳng", "xét dấu", "hàm trùng phương"]
+    },
+    {
+      "id": "toan12-b13-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b13-ung-dung-hinh-hoc-tich-phan",
+      "type": "SINGLE_CHOICE",
+      "content": "Quay hình phẳng giới hạn bởi parabol $y = x^2$ và đường thẳng $y = 2x$ quanh trục $Ox$ ta được một khối tròn xoay có thể tích bằng",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{16\\pi}{15}$." },
+        { "key": "B", "text": "$\\dfrac{32\\pi}{3}$." },
+        { "key": "C", "text": "$\\dfrac{64\\pi}{15}$." },
+        { "key": "D", "text": "$\\dfrac{32\\pi}{5}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hoành độ giao điểm: $x^2 = 2x$, cho $x = 0$ và $x = 2$, tức hai giao điểm $(0;0)$ và $(2;4)$; trên $(0;2)$ đường thẳng nằm trên parabol. Bán kính ngoài là $2x$, bán kính trong là $x^2$, do đó $V = \\pi \\int_0^2 \\left( (2x)^2 - (x^2)^2 \\right) dx = \\pi \\left( \\dfrac{32}{3} - \\dfrac{32}{5} \\right) = \\dfrac{64\\pi}{15}$. Phương án A là lỗi bình phương hiệu $\\pi \\int_0^2 (2x - x^2)^2 dx$; phương án B là lỗi quên trừ khối rỗng bên trong; phương án D là lỗi chỉ quay parabol.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["khối tròn xoay", "hiệu hai bán kính"]
+    }
+  ]
+}

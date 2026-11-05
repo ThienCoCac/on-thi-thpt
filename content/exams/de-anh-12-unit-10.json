@@ -1,0 +1,1340 @@
+{
+  "id": "de-anh-12-unit-10",
+  "title": "Đề ôn tập Tiếng Anh 12 – Unit 10: Lifelong learning",
+  "slug": "de-anh-12-unit-10",
+  "description": "Đề ôn tập Unit 10 - Lifelong learning (Tiếng Anh 12, Global Success): 40 câu gồm phát âm và trọng âm các từ quen thuộc của chủ đề học tập suốt đời, từ vựng - ngữ pháp (thì hiện tại hoàn thành và hoàn thành tiếp diễn, mệnh đề quan hệ, bị động với động từ tường thuật, V-ing và to-infinitive, liên từ chỉ mục đích), một bài cloze về giáo dục thường xuyên, một bài đọc hiểu về người học lớn tuổi và bốn câu sắp xếp câu, sắp xếp đoạn. Chấm điểm ngay trên máy, không cần mạng.",
+  "subject": "tieng-anh",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "EN12-U10",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "de-anh-12-unit-10-c1",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có phần gạch chân (đuôi -ed) đọc khác với những từ còn lại.**",
+      "correctAnswer": "C",
+      "explanation": "Đáp án C: phần -ed trong \"finished\" đọc là /t/ vì động từ \"finish\" kết thúc bằng âm vô thanh /ʃ/. Ba phương án còn lại đọc là /ɪd/: \"started\" /ˈstɑːtɪd/, \"needed\" /ˈniːdɪd/, \"wanted\" /ˈwɒntɪd/, vì các động từ này kết thúc bằng /t/ hoặc /d/ nên phải thêm một âm /ɪd/ để dễ đọc.",
+      "tags": [
+        "pronunciation",
+        "word endings"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "start**ed**"
+        },
+        {
+          "key": "B",
+          "text": "need**ed**"
+        },
+        {
+          "key": "C",
+          "text": "finish**ed**"
+        },
+        {
+          "key": "D",
+          "text": "want**ed**"
+        }
+      ],
+      "partName": "Phần I. Phát âm",
+      "difficulty": "EASY"
+    },
+    {
+      "id": "de-anh-12-unit-10-c2",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "correctAnswer": "A",
+      "explanation": "Đáp án A: \"hear\" có nguyên âm đôi /ɪə/. Ba từ còn lại đều có âm /ɜː/: \"earn\" /ɜːn/, \"early\" /ˈɜːli/, \"learn\" /lɜːn/. Vì vậy phần gạch chân của hear khác hẳn ba phương án kia.",
+      "tags": [
+        "pronunciation",
+        "vowel sounds"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "h**ear**"
+        },
+        {
+          "key": "B",
+          "text": "**ear**n"
+        },
+        {
+          "key": "C",
+          "text": "**ear**ly"
+        },
+        {
+          "key": "D",
+          "text": "l**ear**n"
+        }
+      ],
+      "partName": "Phần I. Phát âm",
+      "difficulty": "EASY"
+    },
+    {
+      "id": "de-anh-12-unit-10-c3",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "correctAnswer": "B",
+      "explanation": "Đáp án B: \"there\" có phụ âm /ð/ (âm hữu thanh), còn \"theory\" /ˈθɪəri/, \"thousand\" /ˈθaʊznd/, \"think\" /θɪŋk/ đều có /θ/ (âm vô thanh). Các từ còn lại sai vì chúng cùng nhóm /θ/.",
+      "tags": [
+        "pronunciation",
+        "consonant sounds"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "**th**eory"
+        },
+        {
+          "key": "B",
+          "text": "**th**ere"
+        },
+        {
+          "key": "C",
+          "text": "**th**ousand"
+        },
+        {
+          "key": "D",
+          "text": "**th**ink"
+        }
+      ],
+      "partName": "Phần I. Phát âm",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c4",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "correctAnswer": "D",
+      "explanation": "Đáp án D: chữ \"c\" trong \"certificate\" /səˈtɪfɪkət/ đọc là /s/ vì đứng trước \"e\". Ba phương án còn lại đọc là /k/: \"course\" /kɔːs/, \"class\" /klɑːs/, \"curriculum\" /kəˈrɪkjələm/.",
+      "tags": [
+        "pronunciation",
+        "consonant sounds"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "**c**ourse"
+        },
+        {
+          "key": "B",
+          "text": "**c**lass"
+        },
+        {
+          "key": "C",
+          "text": "**c**urriculum"
+        },
+        {
+          "key": "D",
+          "text": "**c**ertificate"
+        }
+      ],
+      "partName": "Phần I. Phát âm",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c5",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có phần gạch chân đọc khác với những từ còn lại.**",
+      "correctAnswer": "A",
+      "explanation": "Đáp án A: \"ch\" trong \"technique\" /tekˈniːk/ đọc là /k/. Ba từ còn lại có \"ch\" đọc là /tʃ/: \"challenge\" /ˈtʃælɪndʒ/, \"choose\" /tʃuːz/, \"childcare\" /ˈtʃaɪldkeə(r)/.",
+      "tags": [
+        "pronunciation",
+        "consonant sounds"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "te**ch**nique"
+        },
+        {
+          "key": "B",
+          "text": "**ch**allenge"
+        },
+        {
+          "key": "C",
+          "text": "**ch**oose"
+        },
+        {
+          "key": "D",
+          "text": "**ch**ildcare"
+        }
+      ],
+      "partName": "Phần I. Phát âm",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c6",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có trọng âm chính khác với những từ còn lại.**",
+      "correctAnswer": "D",
+      "explanation": "Đáp án D: \"virtual\" /ˈvɜːtʃuəl/ có trọng âm rơi vào âm tiết thứ nhất. Ba động từ còn lại có trọng âm ở âm tiết thứ hai: \"attain\" /əˈteɪn/, \"maintain\" /meɪnˈteɪn/, \"support\" /səˈpɔːt/. Đây là quy tắc quen thuộc: động từ hai âm tiết thường nhấn âm sau.",
+      "tags": [
+        "stress",
+        "two-syllable words"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "attain"
+        },
+        {
+          "key": "B",
+          "text": "maintain"
+        },
+        {
+          "key": "C",
+          "text": "support"
+        },
+        {
+          "key": "D",
+          "text": "virtual"
+        }
+      ],
+      "partName": "Phần II. Trọng âm",
+      "difficulty": "EASY"
+    },
+    {
+      "id": "de-anh-12-unit-10-c7",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có trọng âm chính khác với những từ còn lại.**",
+      "correctAnswer": "B",
+      "explanation": "Đáp án B: \"revision\" /rɪˈvɪʒn/ nhấn âm tiết thứ hai. Ba từ còn lại nhấn âm tiết thứ nhất: \"lifelong\" /ˈlaɪflɒŋ/, \"textbook\" /ˈtekstbʊk/, \"homework\" /ˈhəʊmwɜːk/. Các danh từ ghép (lifelong, textbook, homework) đều có trọng âm ở thành phần đầu.",
+      "tags": [
+        "stress",
+        "compound words"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "lifelong"
+        },
+        {
+          "key": "B",
+          "text": "revision"
+        },
+        {
+          "key": "C",
+          "text": "textbook"
+        },
+        {
+          "key": "D",
+          "text": "homework"
+        }
+      ],
+      "partName": "Phần II. Trọng âm",
+      "difficulty": "EASY"
+    },
+    {
+      "id": "de-anh-12-unit-10-c8",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có trọng âm chính khác với những từ còn lại.**",
+      "correctAnswer": "C",
+      "explanation": "Đáp án C: \"lesson\" /ˈlesn/ là danh từ hai âm tiết có trọng âm ở âm tiết thứ nhất. Ba động từ còn lại nhấn âm tiết thứ hai: \"develop\" /dɪˈveləp/, \"improve\" /ɪmˈpruːv/, \"reward\" /rɪˈwɔːd/. Đây là thói quen phổ biến: động từ hai âm tiết thường nhấn âm sau, danh từ hai âm tiết thường nhấn âm đầu.",
+      "tags": [
+        "stress",
+        "two-syllable words"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "develop"
+        },
+        {
+          "key": "B",
+          "text": "improve"
+        },
+        {
+          "key": "C",
+          "text": "lesson"
+        },
+        {
+          "key": "D",
+          "text": "reward"
+        }
+      ],
+      "partName": "Phần II. Trọng âm",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c9",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có trọng âm chính khác với những từ còn lại.**",
+      "correctAnswer": "A",
+      "explanation": "Đáp án A: \"attendance\" /əˈtendəns/ có trọng âm ở âm tiết thứ hai. Ba từ còn lại nhấn âm tiết thứ nhất: \"distance\" /ˈdɪstəns/, \"platform\" /ˈplætfɜːm/, \"handout\" /ˈhandaʊt/. Hậu tố -ance thường kéo trọng âm sang âm ngay trước nó.",
+      "tags": [
+        "stress",
+        "three-syllable words"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "attendance"
+        },
+        {
+          "key": "B",
+          "text": "distance"
+        },
+        {
+          "key": "C",
+          "text": "platform"
+        },
+        {
+          "key": "D",
+          "text": "handout"
+        }
+      ],
+      "partName": "Phần II. Trọng âm",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c10",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "**Chọn từ có trọng âm chính khác với những từ còn lại.**",
+      "correctAnswer": "B",
+      "explanation": "Đáp án B: machine /məˈʃiːn/ nhấn âm tiết thứ hai. Ba từ còn lại nhấn âm tiết thứ nhất: lecture /ˈlektʃə(r)/, seminar /ˈsemɪnɑː(r)/, campus /ˈkæmpəs/.",
+      "tags": [
+        "stress",
+        "academic words"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "lecture"
+        },
+        {
+          "key": "B",
+          "text": "machine"
+        },
+        {
+          "key": "C",
+          "text": "seminar"
+        },
+        {
+          "key": "D",
+          "text": "campus"
+        }
+      ],
+      "partName": "Phần II. Trọng âm",
+      "difficulty": "HARD"
+    },
+    {
+      "id": "de-anh-12-unit-10-c11",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "My grandfather ______ more than ten online courses since he retired in 2019.",
+      "correctAnswer": "B",
+      "explanation": "Đáp án B: mốc thời gian mở đầu \"since he retired in 2019\" yêu cầu thì hiện tại hoàn thành, nhấn mạnh kết quả tích luỹ đến hiện tại (hơn mười khoá học). A (quá khứ đơn) chỉ kể lại hành động đã xong trong quá khứ, không nối với hiện tại; C (quá khứ hoàn thành) cần một mốc quá khứ thứ hai làm mốc so sánh; D (hiện tại tiếp diễn) không dùng với \"since\".",
+      "tags": [
+        "grammar",
+        "present perfect"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "completed"
+        },
+        {
+          "key": "B",
+          "text": "has completed"
+        },
+        {
+          "key": "C",
+          "text": "had completed"
+        },
+        {
+          "key": "D",
+          "text": "is completing"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "EASY"
+    },
+    {
+      "id": "de-anh-12-unit-10-c12",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Sara ______ evening classes at the community centre for the last three months.",
+      "correctAnswer": "A",
+      "explanation": "Đáp án A: \"for the last three months\" chỉ một hoạt động lặp lại liên tục từ quá khứ đến nay, phù hợp với hiện tại hoàn thành tiếp diễn. B (hiện tại đơn) chỉ thói quen chung, không nối với khoảng thời gian \"for the last...\"; C (quá khứ đơn) cắt đứt quan hệ với hiện tại; D (quá khứ hoàn thành) cần mốc quá khứ khác làm chuẩn.",
+      "tags": [
+        "grammar",
+        "present perfect continuous"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "has been attending"
+        },
+        {
+          "key": "B",
+          "text": "attends"
+        },
+        {
+          "key": "C",
+          "text": "attended"
+        },
+        {
+          "key": "D",
+          "text": "had attended"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c13",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "The man ______ set up the free community library is my uncle.",
+      "correctAnswer": "C",
+      "explanation": "Đáp án C: chỗ trống cần đại từ quan hệ làm chủ ngữ của \"set up\" và chỉ người (the man), nên dùng \"who\". A sai vì \"which\" chỉ vật; B sai vì \"whose\" cần một danh từ đi sau (whose daughter...); D sai vì \"whom\" chỉ làm tân ngữ, không đứng ở vị trí chủ ngữ.",
+      "tags": [
+        "grammar",
+        "relative clauses"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "whose"
+        },
+        {
+          "key": "C",
+          "text": "who"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "EASY"
+    },
+    {
+      "id": "de-anh-12-unit-10-c14",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "We visited the training centre ______ students build robots in their spare time.",
+      "correctAnswer": "D",
+      "explanation": "Đáp án D: mệnh đề phía sau đã đủ chủ ngữ và tân ngữ (students build robots), thiếu trạng ngữ chỉ nơi chốn, nên dùng \"where\" = centre in which. A sai vì nếu dùng \"which\" thì mệnh đề phải thiếu chủ ngữ hoặc tân ngữ; B sai vì \"who\" chỉ người; C sai vì \"whose\" chỉ quan hệ sở hữu.",
+      "tags": [
+        "grammar",
+        "relative clauses"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "whose"
+        },
+        {
+          "key": "D",
+          "text": "where"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c15",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "This free language app ______ by millions of lifelong learners around the world.",
+      "correctAnswer": "A",
+      "explanation": "Đáp án A: chủ ngữ \"this free language app\" là vật chịu tác động, lại có \"by millions of learners\" nên phải dùng bị động; kết hợp ý nghĩa tích luỹ đến hiện tại cho ra hiện tại hoàn thành bị động \"has been used\". B, C, D đều là chủ động, gán hành động \"use\" cho cái ứng dụng nên sai.",
+      "tags": [
+        "grammar",
+        "passive voice",
+        "present perfect"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "has been used"
+        },
+        {
+          "key": "B",
+          "text": "has used"
+        },
+        {
+          "key": "C",
+          "text": "used"
+        },
+        {
+          "key": "D",
+          "text": "is using"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "EASY"
+    },
+    {
+      "id": "de-anh-12-unit-10-c16",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "The evening school ______ to be the best place for adults to finish their secondary education.",
+      "correctAnswer": "C",
+      "explanation": "Đáp án C: đây là cấu trúc bị động kép với động từ tường thuật, tương đương \"It is said that the evening school is the best place...\"; chủ thể trường học không tự nói nên phải ở dạng bị động \"is said to be\". A, B, D đều là chủ động, ngụ ý ngôi trường đang phát biểu, nên sai.",
+      "tags": [
+        "grammar",
+        "reporting passive"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "says"
+        },
+        {
+          "key": "B",
+          "text": "said"
+        },
+        {
+          "key": "C",
+          "text": "is said"
+        },
+        {
+          "key": "D",
+          "text": "is saying"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c17",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "My parents encouraged me ______ a short online course before I left school.",
+      "correctAnswer": "D",
+      "explanation": "Đáp án D: cấu trúc \"encourage somebody to do something\" (khuyến khích ai làm gì) nên cần to-infinitive. A sai vì sau động từ có tân ngữ \"me\" không dùng V-ing; B thiếu \"to\"; C là dạng quá khứ, không hợp sau tân ngữ.",
+      "tags": [
+        "grammar",
+        "gerund and infinitive"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "taking"
+        },
+        {
+          "key": "B",
+          "text": "take"
+        },
+        {
+          "key": "C",
+          "text": "took"
+        },
+        {
+          "key": "D",
+          "text": "to take"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "EASY"
+    },
+    {
+      "id": "de-anh-12-unit-10-c18",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "If you want to write better, ______ short texts every day really helps.",
+      "correctAnswer": "B",
+      "explanation": "Đáp án B: chỗ trống là chủ ngữ của động từ \"helps\" nên cần danh động từ (gerund) \"practising\"; động từ \"practise\" đi với V-ing (practise doing something). A (to-infinitive) không tự nhiên khi làm chủ ngữ trong câu điều kiện loại một; C là dạng nguyên thể trần; D là quá khứ, không làm chủ ngữ.",
+      "tags": [
+        "grammar",
+        "gerund"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "to practise"
+        },
+        {
+          "key": "B",
+          "text": "practising"
+        },
+        {
+          "key": "C",
+          "text": "practise"
+        },
+        {
+          "key": "D",
+          "text": "practised"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c19",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Many adults go back to college ______ they can change their jobs more easily.",
+      "correctAnswer": "A",
+      "explanation": "Đáp án A: phía sau chỗ trống là một mệnh đề đầy đủ chủ ngữ - vị ngữ (\"they can change...\"), nên cần liên từ chỉ mục đích \"so that\". B và C sai vì \"so as to / in order to\" phải đi với nguyên thể, không đi với mệnh đề; D sai vì \"because of\" chỉ đi với danh từ hoặc V-ing và mang nguyên nhân, không phải mục đích.",
+      "tags": [
+        "grammar",
+        "clauses of purpose"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "so that"
+        },
+        {
+          "key": "B",
+          "text": "so as to"
+        },
+        {
+          "key": "C",
+          "text": "in order to"
+        },
+        {
+          "key": "D",
+          "text": "because of"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "EASY"
+    },
+    {
+      "id": "de-anh-12-unit-10-c20",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "My grandmother took an evening class ______ send emails to her grandchildren abroad.",
+      "correctAnswer": "C",
+      "explanation": "Đáp án C: phía sau chỗ trống là nguyên thể \"send\", cần cấu trúc mục đích \"so as to + V\". D sai vì \"so that\" phải theo sau bởi một mệnh đề; B sai vì \"in order\" thiếu \"to\"; A sai vì \"such as\" dùng để liệt kê ví dụ.",
+      "tags": [
+        "grammar",
+        "clauses of purpose"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "such as"
+        },
+        {
+          "key": "B",
+          "text": "in order"
+        },
+        {
+          "key": "C",
+          "text": "so as to"
+        },
+        {
+          "key": "D",
+          "text": "so that"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "HARD"
+    },
+    {
+      "id": "de-anh-12-unit-10-c21",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Because she left school at sixteen, she went back to finish her ______ education at an evening centre.",
+      "correctAnswer": "D",
+      "explanation": "Đáp án D: \"secondary education\" (giáo dục trung học) là bậc mà người bỏ học năm mười sáu tuổi còn dang dở, và \"finish one's secondary education\" là cụm cố định trong unit. A (tiểu học), B (mầm non trước khi vào lớp một), C (nhà trẻ) đều là bậc của trẻ nhỏ, không hợp với người lớn tuổi nghỉ học.",
+      "tags": [
+        "vocabulary",
+        "types of education"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "primary"
+        },
+        {
+          "key": "B",
+          "text": "preschool"
+        },
+        {
+          "key": "C",
+          "text": "nursery"
+        },
+        {
+          "key": "D",
+          "text": "secondary"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c22",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "This twelve-week course will help you ______ the digital skills you need to change career.",
+      "correctAnswer": "B",
+      "explanation": "Đáp án B: \"acquire skills\" (tiếp thu, rèn luyện kỹ năng) là cụm từ chuẩn của unit về học tập suốt đời. A sai vì \"occur\" (xảy ra) không mang tân ngữ chỉ người học; C sai vì \"retire\" (nghỉ hưu) không đi với skills; D sai vì \"require\" (đòi hỏi) đổi nghĩa câu: khoá học giúp bạn cần kỹ năng là vô nghĩa.",
+      "tags": [
+        "vocabulary",
+        "learning collocations"
+      ],
+      "options": [
+        {
+          "key": "A",
+          "text": "occur"
+        },
+        {
+          "key": "B",
+          "text": "acquire"
+        },
+        {
+          "key": "C",
+          "text": "retire"
+        },
+        {
+          "key": "D",
+          "text": "require"
+        }
+      ],
+      "partName": "Phần III. Từ vựng và ngữ pháp",
+      "difficulty": "MEDIUM"
+    },
+    {
+      "id": "de-anh-12-unit-10-c23",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the letter that best fits each numbered blank.\n\nLifelong learning is the idea that education does not end when we leave school. People of every age may choose to learn something new, and many adults go back to study **(23)** they want to change career or simply keep their minds active. Thanks to the Internet, it is now much easier to take **(24)** courses at home after a long day at work. Evening schools and community centres still play an important role because they offer classes to people who left **(25)** education early and now wish to finish it. Adult learners often find studying later in life **(26)**, since they know exactly why they need each new skill. Of course, it is not always easy: balancing a job, a family and a course **(27)** a lot of self-discipline. Governments are encouraged to invest in adult education, because a workforce that keeps learning is more **(28)** in a fast-changing economy.\n\nChọn phương án đúng nhất cho chỗ trống **(23)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "although"
+        },
+        {
+          "key": "B",
+          "text": "so that"
+        },
+        {
+          "key": "C",
+          "text": "unless"
+        },
+        {
+          "key": "D",
+          "text": "in case"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "EASY",
+      "explanation": "Chỗ trống (23) nối một hành động (go back to study) với một mệnh đề chỉ mục đích (they want to change career), nên \"so that\" là liên từ đúng. A \"although\" chỉ nhượng bộ (mặc dù), C \"unless\" chỉ điều kiện phủ định (trừ khi), D \"in case\" chỉ đề phòng - cả ba đều làm lệch nghĩa câu.",
+      "tags": [
+        "cloze",
+        "clauses of purpose"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c24",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the letter that best fits each numbered blank.\n\nLifelong learning is the idea that education does not end when we leave school. People of every age may choose to learn something new, and many adults go back to study **(23)** they want to change career or simply keep their minds active. Thanks to the Internet, it is now much easier to take **(24)** courses at home after a long day at work. Evening schools and community centres still play an important role because they offer classes to people who left **(25)** education early and now wish to finish it. Adult learners often find studying later in life **(26)**, since they know exactly why they need each new skill. Of course, it is not always easy: balancing a job, a family and a course **(27)** a lot of self-discipline. Governments are encouraged to invest in adult education, because a workforce that keeps learning is more **(28)** in a fast-changing economy.\n\nChọn phương án đúng nhất cho chỗ trống **(24)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "full-time"
+        },
+        {
+          "key": "B",
+          "text": "private"
+        },
+        {
+          "key": "C",
+          "text": "online"
+        },
+        {
+          "key": "D",
+          "text": "face-to-face"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "EASY",
+      "explanation": "Mệnh đề trước mở đầu bằng \"Thanks to the Internet\", lại học \"at home after a long day at work\", nên loại khoá học phù hợp là \"online courses\" (khoá học trực tuyến). A \"full-time\" (toàn thời gian) trái với hoàn cảnh vừa đi làm vừa học; B \"private\" và D \"face-to-face\" không ăn khớp với gợi ý về Internet.",
+      "tags": [
+        "cloze",
+        "online learning"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c25",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the letter that best fits each numbered blank.\n\nLifelong learning is the idea that education does not end when we leave school. People of every age may choose to learn something new, and many adults go back to study **(23)** they want to change career or simply keep their minds active. Thanks to the Internet, it is now much easier to take **(24)** courses at home after a long day at work. Evening schools and community centres still play an important role because they offer classes to people who left **(25)** education early and now wish to finish it. Adult learners often find studying later in life **(26)**, since they know exactly why they need each new skill. Of course, it is not always easy: balancing a job, a family and a course **(27)** a lot of self-discipline. Governments are encouraged to invest in adult education, because a workforce that keeps learning is more **(28)** in a fast-changing economy.\n\nChọn phương án đúng nhất cho chỗ trống **(25)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "primary"
+        },
+        {
+          "key": "B",
+          "text": "preschool"
+        },
+        {
+          "key": "C",
+          "text": "nursery"
+        },
+        {
+          "key": "D",
+          "text": "secondary"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "MEDIUM",
+      "explanation": "Cụm \"left secondary education early\" (bỏ học sớm ở bậc trung học) là nghĩa hợp lí với người lớn đến lớp buổi tối để học tiếp. A \"primary\" (tiểu học), B \"preschool\" (mầm non), C \"nursery\" (nhà trẻ) đều là bậc của trẻ rất nhỏ, không ai \"bỏ học nhà trẻ\" để rồi đi làm.",
+      "tags": [
+        "cloze",
+        "types of education"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c26",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the letter that best fits each numbered blank.\n\nLifelong learning is the idea that education does not end when we leave school. People of every age may choose to learn something new, and many adults go back to study **(23)** they want to change career or simply keep their minds active. Thanks to the Internet, it is now much easier to take **(24)** courses at home after a long day at work. Evening schools and community centres still play an important role because they offer classes to people who left **(25)** education early and now wish to finish it. Adult learners often find studying later in life **(26)**, since they know exactly why they need each new skill. Of course, it is not always easy: balancing a job, a family and a course **(27)** a lot of self-discipline. Governments are encouraged to invest in adult education, because a workforce that keeps learning is more **(28)** in a fast-changing economy.\n\nChọn phương án đúng nhất cho chỗ trống **(26)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "more rewarding"
+        },
+        {
+          "key": "B",
+          "text": "more tiring"
+        },
+        {
+          "key": "C",
+          "text": "less useful"
+        },
+        {
+          "key": "D",
+          "text": "exactly the same"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "HARD",
+      "explanation": "Vế sau \"since they know exactly why they need each new skill\" cho lí do tích cực, nên tính từ so sánh phải mang nghĩa tốt: \"more rewarding\" (thỏa mãn, đáng giá hơn). B \"more tiring\" và C \"less useful\" trái với logic của từ \"since\"; D \"exactly the same\" không hợp với cấu trúc so sánh hơn mà đoạn văn đang xây.",
+      "tags": [
+        "cloze",
+        "adjectives"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c27",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the letter that best fits each numbered blank.\n\nLifelong learning is the idea that education does not end when we leave school. People of every age may choose to learn something new, and many adults go back to study **(23)** they want to change career or simply keep their minds active. Thanks to the Internet, it is now much easier to take **(24)** courses at home after a long day at work. Evening schools and community centres still play an important role because they offer classes to people who left **(25)** education early and now wish to finish it. Adult learners often find studying later in life **(26)**, since they know exactly why they need each new skill. Of course, it is not always easy: balancing a job, a family and a course **(27)** a lot of self-discipline. Governments are encouraged to invest in adult education, because a workforce that keeps learning is more **(28)** in a fast-changing economy.\n\nChọn phương án đúng nhất cho chỗ trống **(27)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "spends"
+        },
+        {
+          "key": "B",
+          "text": "takes"
+        },
+        {
+          "key": "C",
+          "text": "costs"
+        },
+        {
+          "key": "D",
+          "text": "pays"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "MEDIUM",
+      "explanation": "Chủ ngữ là một hoạt động (balancing a job, a family and a course), tân ngữ là \"a lot of self-discipline\" - cấu trúc cố định là \"something takes a lot of self-discipline\" (đòi hỏi nhiều tính tự giác). A \"spends\" và D \"pays\" cần chủ ngữ là người; C \"costs\" thiên về tiền bạc, không hợp với một phẩm chất tinh thần.",
+      "tags": [
+        "cloze",
+        "collocations"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c28",
+      "partName": "Phần IV. Hoàn thành đoạn văn (cloze)",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the letter that best fits each numbered blank.\n\nLifelong learning is the idea that education does not end when we leave school. People of every age may choose to learn something new, and many adults go back to study **(23)** they want to change career or simply keep their minds active. Thanks to the Internet, it is now much easier to take **(24)** courses at home after a long day at work. Evening schools and community centres still play an important role because they offer classes to people who left **(25)** education early and now wish to finish it. Adult learners often find studying later in life **(26)**, since they know exactly why they need each new skill. Of course, it is not always easy: balancing a job, a family and a course **(27)** a lot of self-discipline. Governments are encouraged to invest in adult education, because a workforce that keeps learning is more **(28)** in a fast-changing economy.\n\nChọn phương án đúng nhất cho chỗ trống **(28)**.",
+      "options": [
+        {
+          "key": "A",
+          "text": "dangerous"
+        },
+        {
+          "key": "B",
+          "text": "expensive"
+        },
+        {
+          "key": "C",
+          "text": "competitive"
+        },
+        {
+          "key": "D",
+          "text": "useless"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "MEDIUM",
+      "explanation": "\"A workforce that keeps learning is more competitive in a fast-changing economy\" - lực lượng lao động học liên tục thì cạnh tranh hơn. A \"dangerous\" và D \"useless\" đối lập hoàn toàn với lí lẽ của cả đoạn; B \"expensive\" không hợp vì chủ thể là người lao động, không phải chi phí.",
+      "tags": [
+        "cloze",
+        "work and skills"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c29",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each of the questions.\n\n**Learn at Seventy**\n\nMai was seventy-one when she first logged on to an online course in information technology. She had left school at fourteen to help her family, and for fifty years she had worked as a tailor in a small street market in Ho Chi Minh City. Her grandchildren thought the decision was a joke at first. \"You only need a phone to call your customers,\" one of them said. But Mai had a clear reason. She wanted to manage her own orders, keep records on a computer and learn enough English to read the manuals of the new machines she was buying.\n\nShe studied for thirty minutes every night after dinner. At the beginning, she often forgot her password and had to start the lesson again. Instead of giving up, she wrote each new word on small cards and kept them in her sewing box. Six months later she completed her first certificate, and a local training centre invited her to speak to other adult learners.\n\nToday Mai runs a weekly group for women over sixty who want to learn computer skills. She says the most useful thing she gained was not the certificate. \"When you learn something new, you stop being afraid of the future,\" she explains. Her group now has forty members, and three of them are preparing for an official exam.\n\nWhy did Mai leave school at fourteen?",
+      "options": [
+        {
+          "key": "A",
+          "text": "She had to help her family."
+        },
+        {
+          "key": "B",
+          "text": "She wanted to buy new sewing machines."
+        },
+        {
+          "key": "C",
+          "text": "She failed the exams at school."
+        },
+        {
+          "key": "D",
+          "text": "Her grandchildren needed her at home."
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "EASY",
+      "explanation": "Câu đầu đoạn hai của đoạn thứ nhất viết rõ: \"She had left school at fourteen to help her family\", nên A đúng. B là mục tiêu lúc bà đã 71 tuổi, không phải lí do nghỉ học năm 14; C và D không được đề cập trong bài.",
+      "tags": [
+        "reading",
+        "detail"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c30",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each of the questions.\n\n**Learn at Seventy**\n\nMai was seventy-one when she first logged on to an online course in information technology. She had left school at fourteen to help her family, and for fifty years she had worked as a tailor in a small street market in Ho Chi Minh City. Her grandchildren thought the decision was a joke at first. \"You only need a phone to call your customers,\" one of them said. But Mai had a clear reason. She wanted to manage her own orders, keep records on a computer and learn enough English to read the manuals of the new machines she was buying.\n\nShe studied for thirty minutes every night after dinner. At the beginning, she often forgot her password and had to start the lesson again. Instead of giving up, she wrote each new word on small cards and kept them in her sewing box. Six months later she completed her first certificate, and a local training centre invited her to speak to other adult learners.\n\nToday Mai runs a weekly group for women over sixty who want to learn computer skills. She says the most useful thing she gained was not the certificate. \"When you learn something new, you stop being afraid of the future,\" she explains. Her group now has forty members, and three of them are preparing for an official exam.\n\nHow long did Mai study each night?",
+      "options": [
+        {
+          "key": "A",
+          "text": "For two hours"
+        },
+        {
+          "key": "B",
+          "text": "For a whole weekend"
+        },
+        {
+          "key": "C",
+          "text": "For about half an hour"
+        },
+        {
+          "key": "D",
+          "text": "For six months"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "EASY",
+      "explanation": "Bài viết \"She studied for thirty minutes every night after dinner\", tức khoảng nửa giờ, nên C đúng. A và B không có trong bài; D nhầm lẫn với mốc \"six months later\" - đó là thời gian bà nhận chứng chỉ, không phải thời lượng mỗi buổi học.",
+      "tags": [
+        "reading",
+        "detail"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c31",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each of the questions.\n\n**Learn at Seventy**\n\nMai was seventy-one when she first logged on to an online course in information technology. She had left school at fourteen to help her family, and for fifty years she had worked as a tailor in a small street market in Ho Chi Minh City. Her grandchildren thought the decision was a joke at first. \"You only need a phone to call your customers,\" one of them said. But Mai had a clear reason. She wanted to manage her own orders, keep records on a computer and learn enough English to read the manuals of the new machines she was buying.\n\nShe studied for thirty minutes every night after dinner. At the beginning, she often forgot her password and had to start the lesson again. Instead of giving up, she wrote each new word on small cards and kept them in her sewing box. Six months later she completed her first certificate, and a local training centre invited her to speak to other adult learners.\n\nToday Mai runs a weekly group for women over sixty who want to learn computer skills. She says the most useful thing she gained was not the certificate. \"When you learn something new, you stop being afraid of the future,\" she explains. Her group now has forty members, and three of them are preparing for an official exam.\n\nThe word \"manuals\" in the passage is closest in meaning to ______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "price lists"
+        },
+        {
+          "key": "B",
+          "text": "sewing boxes"
+        },
+        {
+          "key": "C",
+          "text": "instruction guides"
+        },
+        {
+          "key": "D",
+          "text": "job offers"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "MEDIUM",
+      "explanation": "\"Manuals\" là sách hướng dẫn sử dụng máy móc, gần nghĩa nhất với \"instruction guides\". A (bảng giá), B (hộp kim chỉ - chi tiết ở đoạn hai), D (lời mời làm việc) đều không phải loại văn bản cần đọc hiểu bằng tiếng Anh.",
+      "tags": [
+        "reading",
+        "vocabulary in context"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c32",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each of the questions.\n\n**Learn at Seventy**\n\nMai was seventy-one when she first logged on to an online course in information technology. She had left school at fourteen to help her family, and for fifty years she had worked as a tailor in a small street market in Ho Chi Minh City. Her grandchildren thought the decision was a joke at first. \"You only need a phone to call your customers,\" one of them said. But Mai had a clear reason. She wanted to manage her own orders, keep records on a computer and learn enough English to read the manuals of the new machines she was buying.\n\nShe studied for thirty minutes every night after dinner. At the beginning, she often forgot her password and had to start the lesson again. Instead of giving up, she wrote each new word on small cards and kept them in her sewing box. Six months later she completed her first certificate, and a local training centre invited her to speak to other adult learners.\n\nToday Mai runs a weekly group for women over sixty who want to learn computer skills. She says the most useful thing she gained was not the certificate. \"When you learn something new, you stop being afraid of the future,\" she explains. Her group now has forty members, and three of them are preparing for an official exam.\n\nWhy did Mai's grandchildren first think her decision was funny?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because she could not speak any English."
+        },
+        {
+          "key": "B",
+          "text": "Because they thought a phone was enough for her work."
+        },
+        {
+          "key": "C",
+          "text": "Because she did not own a computer."
+        },
+        {
+          "key": "D",
+          "text": "Because they had taken the same course."
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "MEDIUM",
+      "explanation": "Câu nói trực tiếp của một người cháu cho thấy lí do: \"You only need a phone to call your customers\" - họ cho rằng điện thoại là đủ nên việc học tin học là buồn cười. A và C là suy đoán ngoài bài; D không được nhắc tới.",
+      "tags": [
+        "reading",
+        "inference"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c33",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each of the questions.\n\n**Learn at Seventy**\n\nMai was seventy-one when she first logged on to an online course in information technology. She had left school at fourteen to help her family, and for fifty years she had worked as a tailor in a small street market in Ho Chi Minh City. Her grandchildren thought the decision was a joke at first. \"You only need a phone to call your customers,\" one of them said. But Mai had a clear reason. She wanted to manage her own orders, keep records on a computer and learn enough English to read the manuals of the new machines she was buying.\n\nShe studied for thirty minutes every night after dinner. At the beginning, she often forgot her password and had to start the lesson again. Instead of giving up, she wrote each new word on small cards and kept them in her sewing box. Six months later she completed her first certificate, and a local training centre invited her to speak to other adult learners.\n\nToday Mai runs a weekly group for women over sixty who want to learn computer skills. She says the most useful thing she gained was not the certificate. \"When you learn something new, you stop being afraid of the future,\" she explains. Her group now has forty members, and three of them are preparing for an official exam.\n\nWhat did a local training centre do after Mai completed her first certificate?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It invited her to talk to other adult learners."
+        },
+        {
+          "key": "B",
+          "text": "It sold her a new sewing machine."
+        },
+        {
+          "key": "C",
+          "text": "It paid for her next online course."
+        },
+        {
+          "key": "D",
+          "text": "It offered her a job as a teacher."
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "EASY",
+      "explanation": "Đoạn hai kết bằng \"a local training centre invited her to speak to other adult learners\", trùng với A. B, C, D đều là chi tiết bịa: bài chỉ nói bà tự mua máy mới, không nói trung tâm bán máy, trả học phí hay mời dạy.",
+      "tags": [
+        "reading",
+        "detail"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c34",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each of the questions.\n\n**Learn at Seventy**\n\nMai was seventy-one when she first logged on to an online course in information technology. She had left school at fourteen to help her family, and for fifty years she had worked as a tailor in a small street market in Ho Chi Minh City. Her grandchildren thought the decision was a joke at first. \"You only need a phone to call your customers,\" one of them said. But Mai had a clear reason. She wanted to manage her own orders, keep records on a computer and learn enough English to read the manuals of the new machines she was buying.\n\nShe studied for thirty minutes every night after dinner. At the beginning, she often forgot her password and had to start the lesson again. Instead of giving up, she wrote each new word on small cards and kept them in her sewing box. Six months later she completed her first certificate, and a local training centre invited her to speak to other adult learners.\n\nToday Mai runs a weekly group for women over sixty who want to learn computer skills. She says the most useful thing she gained was not the certificate. \"When you learn something new, you stop being afraid of the future,\" she explains. Her group now has forty members, and three of them are preparing for an official exam.\n\nThe phrase \"giving up\" in the passage is closest in meaning to ______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "asking for help"
+        },
+        {
+          "key": "B",
+          "text": "working harder"
+        },
+        {
+          "key": "C",
+          "text": "changing her plan"
+        },
+        {
+          "key": "D",
+          "text": "stopping her studies"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "MEDIUM",
+      "explanation": "\"Instead of giving up\" nghĩa là thay vì bỏ cuộc, tức là ngừng việc học - gần nghĩa nhất với D. A (mời giúp đỡ), B (làm chăm hơn) là hành động bà đã làm thay vì bỏ cuộc nên không phải nghĩa của \"give up\"; C (đổi kế hoạch) lệch nghĩa: bà vẫn giữ nguyên mục tiêu.",
+      "tags": [
+        "reading",
+        "vocabulary in context"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c35",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each of the questions.\n\n**Learn at Seventy**\n\nMai was seventy-one when she first logged on to an online course in information technology. She had left school at fourteen to help her family, and for fifty years she had worked as a tailor in a small street market in Ho Chi Minh City. Her grandchildren thought the decision was a joke at first. \"You only need a phone to call your customers,\" one of them said. But Mai had a clear reason. She wanted to manage her own orders, keep records on a computer and learn enough English to read the manuals of the new machines she was buying.\n\nShe studied for thirty minutes every night after dinner. At the beginning, she often forgot her password and had to start the lesson again. Instead of giving up, she wrote each new word on small cards and kept them in her sewing box. Six months later she completed her first certificate, and a local training centre invited her to speak to other adult learners.\n\nToday Mai runs a weekly group for women over sixty who want to learn computer skills. She says the most useful thing she gained was not the certificate. \"When you learn something new, you stop being afraid of the future,\" she explains. Her group now has forty members, and three of them are preparing for an official exam.\n\nWhat can be inferred about Mai from the passage?",
+      "options": [
+        {
+          "key": "A",
+          "text": "She still works as a tailor and no longer studies."
+        },
+        {
+          "key": "B",
+          "text": "She encourages other older people to keep learning."
+        },
+        {
+          "key": "C",
+          "text": "She has become a computer engineer."
+        },
+        {
+          "key": "D",
+          "text": "She closed her shop to teach at the centre."
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "HARD",
+      "explanation": "Đoạn cuối cho biết bà \"runs a weekly group for women over sixty who want to learn computer skills\", suy ra bà khuyến khích người lớn tuổi khác tiếp tục học. A trái bài vì bà vẫn đang học và chuẩn bị thi; C và D là chi tiết bịa, bài không nói bà làm kỹ sư hay đóng cửa hàng.",
+      "tags": [
+        "reading",
+        "inference"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c36",
+      "partName": "Phần V. Đọc hiểu",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each of the questions.\n\n**Learn at Seventy**\n\nMai was seventy-one when she first logged on to an online course in information technology. She had left school at fourteen to help her family, and for fifty years she had worked as a tailor in a small street market in Ho Chi Minh City. Her grandchildren thought the decision was a joke at first. \"You only need a phone to call your customers,\" one of them said. But Mai had a clear reason. She wanted to manage her own orders, keep records on a computer and learn enough English to read the manuals of the new machines she was buying.\n\nShe studied for thirty minutes every night after dinner. At the beginning, she often forgot her password and had to start the lesson again. Instead of giving up, she wrote each new word on small cards and kept them in her sewing box. Six months later she completed her first certificate, and a local training centre invited her to speak to other adult learners.\n\nToday Mai runs a weekly group for women over sixty who want to learn computer skills. She says the most useful thing she gained was not the certificate. \"When you learn something new, you stop being afraid of the future,\" she explains. Her group now has forty members, and three of them are preparing for an official exam.\n\nWhat is the passage mainly about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The advantages of online courses for teenagers."
+        },
+        {
+          "key": "B",
+          "text": "How to repair a sewing machine."
+        },
+        {
+          "key": "C",
+          "text": "The history of evening schools in Viet Nam."
+        },
+        {
+          "key": "D",
+          "text": "An older woman who returned to learning and now helps others learn."
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "HARD",
+      "explanation": "Toàn đoạn kể việc bà Mai 71 tuổi quay lại học, lấy chứng chỉ và nay lập nhóm cho phụ nữ trên 60, nên ý chính là D. A sai đối tượng (bài nói về người lớn tuổi); B chỉ là chi tiết nghề nghiệp nhỏ; C sai vì bài không thuật lịch sử hệ thống trường buổi tối.",
+      "tags": [
+        "reading",
+        "main idea"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c37",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Rearrange the following parts (1), (2), (3) and (4) in the correct order to make a meaningful sentence.\n\n(1) so quickly\n(2) to retrain their staff\n(3) many companies now decide\n(4) because new technology changes\n\nChọn phương án đúng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "(3) - (4) - (2) - (1)"
+        },
+        {
+          "key": "B",
+          "text": "(2) - (3) - (4) - (1)"
+        },
+        {
+          "key": "C",
+          "text": "(1) - (3) - (2) - (4)"
+        },
+        {
+          "key": "D",
+          "text": "(3) - (2) - (4) - (1)"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "MEDIUM",
+      "explanation": "Câu hoàn chỉnh: \"Many companies now decide to retrain their staff because new technology changes so quickly.\" Mệnh đề chính phải mở đầu (3), tiếp theo là nguyên thể \"to retrain their staff\" (2), rồi liên từ \"because\" mở mệnh đề nguyên nhân (4) và trạng ngữ \"so quickly\" bổ nghĩa cho động từ \"changes\" (1). A chèn mệnh đề \"because\" vào giữa nên động từ \"decide\" mất phần bổ ngữ; B bắt đầu bằng nguyên thể, C bắt đầu bằng trạng ngữ - cả hai đều không tạo được câu có chủ ngữ ở đầu.",
+      "tags": [
+        "sentence ordering",
+        "adverbial clauses"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c38",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Rearrange the following parts (1), (2), (3) and (4) in the correct order to make a meaningful sentence.\n\n(1) has been used by millions of learners\n(2) since it appeared in 2020\n(3) this free language app\n(4) around the world\n\nChọn phương án đúng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "(3) - (2) - (1) - (4)"
+        },
+        {
+          "key": "B",
+          "text": "(1) - (3) - (4) - (2)"
+        },
+        {
+          "key": "C",
+          "text": "(3) - (1) - (4) - (2)"
+        },
+        {
+          "key": "D",
+          "text": "(3) - (1) - (2) - (4)"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "MEDIUM",
+      "explanation": "Câu hoàn chỉnh: \"This free language app has been used by millions of learners around the world since it appeared in 2020.\" Trật tự tự nhiên là chủ ngữ (3) - vị ngữ bị động thì hiện tại hoàn thành (1) - ngữ cảnh nơi chốn (4) - mốc thời gian với \"since\" (2). A chèn \"since it appeared\" vào giữa nên động từ chính bị tách khỏi chủ ngữ; B đặt vị ngữ trước chủ ngữ; D để \"around the world\" cuối câu sau mệnh đề thời gian, khiến cụm nơi chốn bị tách khỏi \"learners\".",
+      "tags": [
+        "sentence ordering",
+        "present perfect passive"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c39",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Rearrange the following sentences (1), (2), (3) and (4) into a meaningful paragraph.\n\n(1) In the past, people believed that education ended when they left school at eighteen.\n(2) As a result, more and more workers now study in their free time.\n(3) Today, however, the skills we learn at school soon become old.\n(4) My grandmother proved this idea at seventy, when she finished her first online course.\n\nChọn phương án đúng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "(1) - (3) - (2) - (4)"
+        },
+        {
+          "key": "B",
+          "text": "(1) - (2) - (3) - (4)"
+        },
+        {
+          "key": "C",
+          "text": "(3) - (1) - (2) - (4)"
+        },
+        {
+          "key": "D",
+          "text": "(2) - (1) - (3) - (4)"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "HARD",
+      "explanation": "Mạch đoạn văn là quá khứ (1) -> tương phản hiện tại với \"however\" (3) -> kết quả \"As a result\" (2) -> ví dụ minh họa (4). B đặt kết quả (2) trước nguyên nhân (3) nên logic đảo ngược; C mở đầu bằng \"Today, however\" khi chưa có ý tương phản phía trước; D bắt đầu bằng \"As a result\" - không thể mở đoạn bằng liên từ kết quả.",
+      "tags": [
+        "paragraph ordering",
+        "cohesion"
+      ]
+    },
+    {
+      "id": "de-anh-12-unit-10-c40",
+      "partName": "Phần VI. Sắp xếp câu và đoạn",
+      "topic": "topic-anh-12-unit10",
+      "type": "SINGLE_CHOICE",
+      "score": 0.25,
+      "content": "Rearrange the following sentences (1), (2), (3) and (4) into a meaningful paragraph.\n\n(1) First of all, it lets people study at any hour of the day.\n(2) To sum up, the Internet has opened education to learners of every age.\n(3) Online learning has changed lifelong education in several ways.\n(4) In addition, students can take courses at universities far from home.\n\nChọn phương án đúng.",
+      "options": [
+        {
+          "key": "A",
+          "text": "(3) - (4) - (1) - (2)"
+        },
+        {
+          "key": "B",
+          "text": "(1) - (3) - (4) - (2)"
+        },
+        {
+          "key": "C",
+          "text": "(4) - (3) - (1) - (2)"
+        },
+        {
+          "key": "D",
+          "text": "(3) - (1) - (4) - (2)"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "HARD",
+      "explanation": "Câu chủ đề phải đứng đầu: (3) nêu ý \"in several ways\". Kế đó là \"First of all\" (1), rồi \"In addition\" (4), và đoạn kết bằng \"To sum up\" (2). A đảo \"In addition\" lên trước \"First of all\" nên mất trật tự đánh số; B và C mở đoạn bằng chi tiết hỗ trợ thay vì câu chủ đề, khiến \"it\" trong (1) không có tiền ngữ.",
+      "tags": [
+        "paragraph ordering",
+        "linking words"
+      ]
+    }
+  ]
+}

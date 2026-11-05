@@ -1,0 +1,680 @@
+{
+  "id": "de-toan-12-bai-09",
+  "title": "Đề ôn Toán 12 Bài 9: Khoảng biến thiên và khoảng tứ phân vị (20 câu)",
+  "slug": "de-toan-12-bai-09",
+  "description": "Đề bám sát Bài 9 sách Toán 12 Kết nối tri thức: khoảng biến thiên, bộ ba tứ phân vị và khoảng tứ phân vị của mẫu số liệu ghép nhóm, quy tắc 1,5 lần khoảng tứ phân vị để phát hiện giá trị bất thường, so sánh hai mẫu. 20 câu trắc nghiệm bốn lựa chọn làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B09",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b09-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian tự học ở nhà mỗi ngày (đơn vị: phút) của 40 học sinh lớp 12A cho bởi các khoảng và tần số tương ứng: $[10;20)$ có 2; $[20;30)$ có 10; $[30;40)$ có 16; $[40;50)$ có 10; $[50;60)$ có 2. Khoảng biến thiên của mẫu số liệu trên, tính theo đầu mút của các khoảng ghép nhóm, là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$16$ phút."
+        },
+        {
+          "key": "B",
+          "text": "$40$ phút."
+        },
+        {
+          "key": "C",
+          "text": "$50$ phút."
+        },
+        {
+          "key": "D",
+          "text": "$60$ phút."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với mẫu số liệu ghép nhóm, khoảng biến thiên lấy hiệu giữa đầu mút trên của nhóm cuối và đầu mút dưới của nhóm đầu: $R = 60 - 10 = 50$ (phút). Giá trị $16$ chỉ là tần số lớn nhất của mẫu, còn $40$ phút là hiệu hai trung điểm $55 - 15$, một cách tính sai thường gặp.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "khoảng biến thiên",
+        "mẫu số liệu ghép nhóm"
+      ]
+    },
+    {
+      "id": "toan12-b09-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian tự học ở nhà mỗi ngày (đơn vị: phút) của 40 học sinh lớp 12A cho bởi các khoảng và tần số tương ứng: $[10;20)$ có 2; $[20;30)$ có 10; $[30;40)$ có 16; $[40;50)$ có 10; $[50;60)$ có 2. Nhóm chứa trung vị $Q_2$ của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$[20;30)$."
+        },
+        {
+          "key": "B",
+          "text": "$[30;40)$."
+        },
+        {
+          "key": "C",
+          "text": "$[40;50)$."
+        },
+        {
+          "key": "D",
+          "text": "$[50;60)$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cỡ mẫu $n = 40$ nên vị trí trung vị là $\\frac{n}{2} = 20$. Tần số tích luỹ đến hết các nhóm lần lượt là $2; 12; 28; 38; 40$. Vì $12 < 20 \\le 28$ nên trung vị nằm trong nhóm $[30;40)$. Nếu nhầm sang $\\frac{n}{4} = 10$ hoặc $\\frac{3n}{4} = 30$ sẽ chọn sai nhóm $[20;30)$ hoặc $[40;50)$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "trung vị",
+        "tần số tích luỹ"
+      ]
+    },
+    {
+      "id": "toan12-b09-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu có tứ phân vị thứ nhất $Q_1 = 12$ và tứ phân vị thứ ba $Q_3 = 20$. Khoảng tứ phân vị của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$8$."
+        },
+        {
+          "key": "B",
+          "text": "$16$."
+        },
+        {
+          "key": "C",
+          "text": "$32$."
+        },
+        {
+          "key": "D",
+          "text": "$4$."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khoảng tứ phân vị là $\\Delta Q = Q_3 - Q_1 = 20 - 12 = 8$. Giá trị $32$ là tổng $Q_1 + Q_3$, giá trị $16$ là gấp đôi hiệu và giá trị $4$ là nửa hiệu, đều không theo định nghĩa.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "khoảng tứ phân vị",
+        "định nghĩa"
+      ]
+    },
+    {
+      "id": "toan12-b09-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Gọi $\\Delta Q$ là khoảng tứ phân vị của một mẫu số liệu. Theo quy tắc thường dùng, một giá trị $x$ của mẫu bị coi là giá trị bất thường khi",
+      "options": [
+        {
+          "key": "A",
+          "text": "$x < Q_1 - \\Delta Q$ hoặc $x > Q_3 + \\Delta Q$."
+        },
+        {
+          "key": "B",
+          "text": "$Q_1 < x < Q_3$."
+        },
+        {
+          "key": "C",
+          "text": "$x < Q_2 - 1{,}5\\Delta Q$ hoặc $x > Q_2 + 1{,}5\\Delta Q$."
+        },
+        {
+          "key": "D",
+          "text": "$x < Q_1 - 1{,}5\\Delta Q$ hoặc $x > Q_3 + 1{,}5\\Delta Q$."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Quy tắc $1{,}5\\Delta Q$ nói rằng giá trị bất thường là giá trị nằm ngoài đoạn $[Q_1 - 1{,}5\\Delta Q;\\, Q_3 + 1{,}5\\Delta Q]$. Phương án A thiếu hệ số $1{,}5$ nên quá nghiêm ngặt, phương án C lấy trung vị $Q_2$ làm tâm nên không phải quy tắc này, còn B mô tả nửa giữa của mẫu chứ không phải giá trị bất thường.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "giá trị bất thường",
+        "quy tắc 1,5 lần khoảng tứ phân vị"
+      ]
+    },
+    {
+      "id": "toan12-b09-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu số liệu có $Q_1 = 30$ và $Q_3 = 50$. Trong các giá trị sau, giá trị nào là giá trị bất thường của mẫu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "$76$."
+        },
+        {
+          "key": "B",
+          "text": "$85$."
+        },
+        {
+          "key": "C",
+          "text": "$30$."
+        },
+        {
+          "key": "D",
+          "text": "$4$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ta có $\\Delta Q = 50 - 30 = 20$, suy ra $1{,}5\\Delta Q = 30$. Mọi giá trị bình thường phải thuộc đoạn $[30 - 30;\\, 50 + 30] = [0;\\, 80]$. Chỉ có $85 > 80$ nên $85$ là giá trị bất thường; các giá trị $76$, $30$ và $4$ đều nằm trong đoạn này.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "giá trị bất thường",
+        "khoảng tứ phân vị"
+      ]
+    },
+    {
+      "id": "toan12-b09-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các số đặc trưng sau, số đặc trưng nào đo mức độ phân tán của mẫu số liệu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khoảng tứ phân vị."
+        },
+        {
+          "key": "B",
+          "text": "Số trung bình cộng."
+        },
+        {
+          "key": "C",
+          "text": "Mốt."
+        },
+        {
+          "key": "D",
+          "text": "Trung vị."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khoảng biến thiên và khoảng tứ phân vị là các số đặc trưng đo mức độ phân tán của mẫu số liệu. Số trung bình cộng, mốt và trung vị là các số đặc trưng đo xu thế trung tâm; trong đó trung vị chính là $Q_2$ chứ không đo độ trải.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "số đặc trưng",
+        "mức độ phân tán"
+      ]
+    },
+    {
+      "id": "toan12-b09-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian tự học ở nhà mỗi ngày (đơn vị: phút) của 40 học sinh lớp 12A cho bởi các khoảng và tần số tương ứng: $[10;20)$ có 2; $[20;30)$ có 10; $[30;40)$ có 16; $[40;50)$ có 10; $[50;60)$ có 2. Tứ phân vị thứ nhất $Q_1$ của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$20$ phút."
+        },
+        {
+          "key": "B",
+          "text": "$25$ phút."
+        },
+        {
+          "key": "C",
+          "text": "$35$ phút."
+        },
+        {
+          "key": "D",
+          "text": "$28$ phút."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Với $n = 40$ ta có $\\frac{n}{4} = 10$. Tần số tích luỹ đến hết nhóm $[10;20)$ là $2$ và đến hết nhóm $[20;30)$ là $12$, mà $2 < 10 \\le 12$ nên $Q_1$ thuộc nhóm $[20;30)$. Khi đó $Q_1 = 20 + \\frac{10 - 2}{10} \\cdot 10 = 28$ (phút). Lấy nhầm tần số nhóm chứa $Q_1$ thành $16$ sẽ ra $25$; dùng $\\frac{n}{2}$ thay $\\frac{n}{4}$ sẽ ra $35$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "tứ phân vị thứ nhất",
+        "công thức nội suy"
+      ]
+    },
+    {
+      "id": "toan12-b09-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian tự học ở nhà mỗi ngày (đơn vị: phút) của 40 học sinh lớp 12A cho bởi các khoảng và tần số tương ứng: $[10;20)$ có 2; $[20;30)$ có 10; $[30;40)$ có 16; $[40;50)$ có 10; $[50;60)$ có 2. Trung vị $Q_2$ của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$28$ phút."
+        },
+        {
+          "key": "B",
+          "text": "$35$ phút."
+        },
+        {
+          "key": "C",
+          "text": "$30$ phút."
+        },
+        {
+          "key": "D",
+          "text": "$40$ phút."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhóm chứa trung vị là $[30;40)$ vì tần số tích luỹ $2; 12; 28$ thoả $12 < 20 \\le 28$. Tần số của nhóm này là $16$ và tần số tích luỹ đứng trước nó là $12$, nên $Q_2 = 30 + \\frac{20 - 12}{16} \\cdot 10 = 35$ (phút). Hai giá trị $30$ và $40$ chỉ là đầu mút của nhóm chứa trung vị, còn $28$ là $Q_1$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "trung vị",
+        "mẫu số liệu ghép nhóm"
+      ]
+    },
+    {
+      "id": "toan12-b09-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian tự học ở nhà mỗi ngày (đơn vị: phút) của 40 học sinh lớp 12A cho bởi các khoảng và tần số tương ứng: $[10;20)$ có 2; $[20;30)$ có 10; $[30;40)$ có 16; $[40;50)$ có 10; $[50;60)$ có 2. Tứ phân vị thứ ba $Q_3$ của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$35$ phút."
+        },
+        {
+          "key": "B",
+          "text": "$40$ phút."
+        },
+        {
+          "key": "C",
+          "text": "$42$ phút."
+        },
+        {
+          "key": "D",
+          "text": "$50$ phút."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ta có $\\frac{3n}{4} = 30$. Tần số tích luỹ đến hết nhóm $[30;40)$ là $28 < 30$ và đến hết nhóm $[40;50)$ là $38 \\ge 30$, nên $Q_3$ thuộc nhóm $[40;50)$. Do đó $Q_3 = 40 + \\frac{30 - 28}{10} \\cdot 10 = 42$ (phút). Lỗi điển hình là lấy đầu mút dưới $40$ của nhóm chứa $Q_3$, hoặc dùng $\\frac{n}{2}$ nên nhận $35$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "tứ phân vị thứ ba",
+        "tần số tích luỹ"
+      ]
+    },
+    {
+      "id": "toan12-b09-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian tự học ở nhà mỗi ngày (đơn vị: phút) của 40 học sinh lớp 12B cho bởi các khoảng và tần số tương ứng: $[10;20)$ có 2; $[20;30)$ có 10; $[30;40)$ có 16; $[40;50)$ có 5; $[50;60)$ có 7. Khoảng tứ phân vị của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$16$ phút."
+        },
+        {
+          "key": "B",
+          "text": "$28$ phút."
+        },
+        {
+          "key": "C",
+          "text": "$44$ phút."
+        },
+        {
+          "key": "D",
+          "text": "$12$ phút."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tần số tích luỹ đến hết các nhóm là $2; 12; 28; 33; 40$. Với $\\frac{n}{4} = 10$ ta có $Q_1 = 20 + \\frac{10 - 2}{10} \\cdot 10 = 28$; với $\\frac{3n}{4} = 30$ (và $28 < 30 \\le 33$) ta có $Q_3 = 40 + \\frac{30 - 28}{5} \\cdot 10 = 44$. Vậy $\\Delta Q = 44 - 28 = 16$ (phút); $28$ và $44$ lần lượt là $Q_1$ và $Q_3$, còn $12$ chỉ là một tần số tích luỹ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "khoảng tứ phân vị",
+        "tứ phân vị"
+      ]
+    },
+    {
+      "id": "toan12-b09-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian tự học ở nhà mỗi ngày (đơn vị: phút) của 40 học sinh lớp 12A cho bởi các khoảng và tần số tương ứng: $[10;20)$ có 2; $[20;30)$ có 10; $[30;40)$ có 16; $[40;50)$ có 10; $[50;60)$ có 2. Bộ ba tứ phân vị của mẫu số liệu ghép nhóm là các giá trị xấp xỉ. Nếu ước lượng $Q_3$ bằng trung điểm của nhóm chứa nó thì giá trị ước lượng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$40$ phút."
+        },
+        {
+          "key": "B",
+          "text": "$50$ phút."
+        },
+        {
+          "key": "C",
+          "text": "$45$ phút."
+        },
+        {
+          "key": "D",
+          "text": "$42$ phút."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vị trí $\\frac{3n}{4} = 30$ rơi vào nhóm $[40;50)$ (vì $28 < 30 \\le 38$), trung điểm của nhóm này là $\\frac{40 + 50}{2} = 45$ (phút). Đó là ước lượng nhanh; nếu dùng công thức nội suy thì $Q_3 = 40 + \\frac{30 - 28}{10} \\cdot 10 = 42$ (phút), tức phương án D, nên hai cách cho kết quả lệch nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "ước lượng tứ phân vị",
+        "trung điểm nhóm"
+      ]
+    },
+    {
+      "id": "toan12-b09-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Khoảng biến thiên của một mẫu số liệu ghép nhóm chỉ là giá trị gần đúng vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "tần số của các nhóm không cộng lại thành cỡ mẫu."
+        },
+        {
+          "key": "B",
+          "text": "trung vị của mẫu luôn khác tứ phân vị thứ nhất."
+        },
+        {
+          "key": "C",
+          "text": "trong mọi mẫu ghép nhóm đều có giá trị bất thường."
+        },
+        {
+          "key": "D",
+          "text": "sau khi ghép nhóm ta chỉ biết mỗi giá trị thuộc khoảng nào, không còn biết giá trị cụ thể của từng số liệu."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ghép nhóm làm mất thông tin chi tiết: giá trị nhỏ nhất chỉ được biết là thuộc nhóm đầu và giá trị lớn nhất chỉ được biết là thuộc nhóm cuối. Vì vậy ta phải lấy hiệu giữa đầu mút trên của nhóm cuối và đầu mút dưới của nhóm đầu và coi đó là giá trị gần đúng của khoảng biến thiên.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "khoảng biến thiên",
+        "giá trị gần đúng"
+      ]
+    },
+    {
+      "id": "toan12-b09-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm thi giữa học kì 1 môn Toán (thang $100$) của 40 học sinh cho bởi các khoảng và tần số tương ứng: $[40;50)$ có 2; $[50;60)$ có 10; $[60;70)$ có 16; $[70;80)$ có 10; $[80;90)$ có 2. Bộ ba tứ phân vị $(Q_1; Q_2; Q_3)$ của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$(55; 65; 75)$."
+        },
+        {
+          "key": "B",
+          "text": "$(58; 65; 72)$."
+        },
+        {
+          "key": "C",
+          "text": "$(50; 60; 70)$."
+        },
+        {
+          "key": "D",
+          "text": "$(58; 65; 70)$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với $n = 40$ ta có $\\frac{n}{4} = 10$, $\\frac{n}{2} = 20$, $\\frac{3n}{4} = 30$ và tần số tích luỹ $2; 12; 28; 38; 40$. Nhóm chứa $Q_1$, $Q_2$, $Q_3$ lần lượt là $[50;60)$, $[60;70)$, $[70;80)$, nên $Q_1 = 50 + \\frac{10 - 2}{10} \\cdot 10 = 58$, $Q_2 = 60 + \\frac{20 - 12}{16} \\cdot 10 = 65$, $Q_3 = 70 + \\frac{30 - 28}{10} \\cdot 10 = 72$. Bộ $(55; 65; 75)$ là lấy trung điểm các nhóm, còn $(50; 60; 70)$ là lấy đầu mút dưới.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "bộ ba tứ phân vị",
+        "mẫu số liệu ghép nhóm"
+      ]
+    },
+    {
+      "id": "toan12-b09-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian tự học ở nhà mỗi ngày (đơn vị: phút) của 40 học sinh lớp 12B cho bởi các khoảng và tần số tương ứng: $[10;20)$ có 2; $[20;30)$ có 10; $[30;40)$ có 16; $[40;50)$ có 5; $[50;60)$ có 7. Người ta muốn xét hai giá trị 65 phút và 70 phút có phải là giá trị bất thường hay không, dựa trên ngưỡng tứ phân vị dựng từ chính mẫu ghép nhóm trên (giữ nguyên mẫu, không nạp thêm hai giá trị này). Phát biểu nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cả hai giá trị 65 phút và 70 phút đều là giá trị bất thường."
+        },
+        {
+          "key": "B",
+          "text": "Giá trị 65 phút là giá trị bất thường, giá trị 70 phút thì không."
+        },
+        {
+          "key": "C",
+          "text": "Giá trị 65 phút không là giá trị bất thường, giá trị 70 phút là giá trị bất thường."
+        },
+        {
+          "key": "D",
+          "text": "Cả hai giá trị 65 phút và 70 phút đều không là giá trị bất thường."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mẫu trên có $Q_1 = 20 + \\frac{10 - 2}{10} \\cdot 10 = 28$ và $Q_3 = 40 + \\frac{30 - 28}{5} \\cdot 10 = 44$, nên $\\Delta Q = 16$ và $1{,}5\\Delta Q = 24$. Ngưỡng dưới là $28 - 24 = 4$, ngưỡng trên là $44 + 24 = 68$. Vì $65 < 68$ nên 65 phút chưa vượt ngưỡng, còn $70 > 68$ nên 70 phút là giá trị bất thường.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "giá trị bất thường",
+        "khoảng tứ phân vị"
+      ]
+    },
+    {
+      "id": "toan12-b09-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Số khách hàng một nhân viên phục vụ trong ngày, ghi lại trong 40 ngày làm việc, cho bởi các khoảng và tần số tương ứng: $[10;20)$ có 2; $[20;30)$ có 10; $[30;40)$ có 14; $[40;60)$ có 8; $[60;70)$ có 6. Tứ phân vị thứ ba $Q_3$ của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$45$ khách hàng."
+        },
+        {
+          "key": "B",
+          "text": "$60$ khách hàng."
+        },
+        {
+          "key": "C",
+          "text": "$50$ khách hàng."
+        },
+        {
+          "key": "D",
+          "text": "$40$ khách hàng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cỡ mẫu $n = 40$, vị trí $\\frac{3n}{4} = 30$; tần số tích luỹ đến hết các nhóm là $2; 12; 26; 34; 40$. Vì $26 < 30 \\le 34$ nên $Q_3$ thuộc nhóm $[40;60)$, nhóm này có bề rộng là $20$ chứ không phải $10$. Do đó $Q_3 = 40 + \\frac{30 - 26}{8} \\cdot 20 = 50$. Nếu lấy nhầm bề rộng bằng $10$ sẽ được $45$, đó là lỗi điển hình khi các nhóm không đều nhau.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "tứ phân vị",
+        "nhóm có bề rộng khác nhau"
+      ]
+    },
+    {
+      "id": "toan12-b09-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian hoàn thành một sản phẩm (đơn vị: phút) của 40 công nhân được ghép thành các nhóm $[0;10)$, $[10;20)$, $[20;30)$, $[30;40)$. Tần số tích luỹ đến hết mỗi nhóm lần lượt là $6; 14; 26; 40$. Trung vị của mẫu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$15$ phút."
+        },
+        {
+          "key": "B",
+          "text": "$26$ phút."
+        },
+        {
+          "key": "C",
+          "text": "$30$ phút."
+        },
+        {
+          "key": "D",
+          "text": "$25$ phút."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhóm $[20;30)$ có tần số là $26 - 14 = 12$ và tần số tích luỹ đứng trước nó là $14$. Vì $\\frac{n}{2} = 20$ và $14 < 20 \\le 26$ nên $Q_2 = 20 + \\frac{20 - 14}{12} \\cdot 10 = 25$ (phút). Giá trị $26$ là tần số tích luỹ chứ không phải trung vị, còn $15$ là $Q_1$ của mẫu này.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "tần số tích luỹ",
+        "trung vị"
+      ]
+    },
+    {
+      "id": "toan12-b09-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Chiều cao (đơn vị: cm) của 40 học sinh lớp 12E cho bởi các khoảng và tần số tương ứng: $[150;160)$ có 3; $[160;170)$ có 10; $[170;180)$ có 10; $[180;190)$ có 10; $[190;200)$ có 7. Dùng công thức tứ phân vị cho mẫu ghép nhóm trong SGK, xét bốn phát biểu: (I) Khoảng biến thiên của mẫu bằng 50. (II) Nhóm chứa $Q_3$ là $[170;180)$. (III) Khoảng tứ phân vị của mẫu bằng 20. (IV) Giá trị 218 cm bị coi là giá trị bất thường. Số phát biểu đúng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$1$."
+        },
+        {
+          "key": "B",
+          "text": "$2$."
+        },
+        {
+          "key": "C",
+          "text": "$3$."
+        },
+        {
+          "key": "D",
+          "text": "$4$."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ta có $R = 200 - 150 = 50$ nên (I) đúng. Tần số tích luỹ là $3; 13; 23; 33; 40$. Với $\\frac{3n}{4} = 30$, vì $23 < 30 \\le 33$ nên $Q_3$ thuộc nhóm $[180;190)$ và $Q_3 = 180 + \\frac{30 - 23}{10} \\cdot 10 = 187$, do đó (II) sai. Với $\\frac{n}{4} = 10$, $Q_1 = 160 + \\frac{10 - 3}{10} \\cdot 10 = 167$, suy ra $\\Delta Q = 187 - 167 = 20$ nên (III) đúng. Ngưỡng trên là $187 + 1{,}5 \\cdot 20 = 217$, mà $218 > 217$ nên (IV) đúng. Vậy có ba phát biểu đúng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "khoảng biến thiên",
+        "khoảng tứ phân vị",
+        "giá trị bất thường"
+      ]
+    },
+    {
+      "id": "toan12-b09-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Thời gian tự học ở nhà mỗi ngày (đơn vị: phút) của hai lớp đều có cỡ mẫu 40 và cùng các nhóm $[10;20)$, $[20;30)$, $[30;40)$, $[40;50)$, $[50;60)$, trong đó mẫu 12A có tần số lần lượt là $2; 10; 16; 10; 2$ còn mẫu 12B có tần số lần lượt là $2; 10; 16; 5; 7$. Kết luận nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai mẫu có cùng khoảng biến thiên và cùng trung vị, nhưng khoảng tứ phân vị của mẫu 12B lớn hơn, nên nửa giữa của mẫu 12B trải rộng hơn."
+        },
+        {
+          "key": "B",
+          "text": "Hai mẫu có cùng khoảng tứ phân vị nên mức độ phân tán của chúng như nhau."
+        },
+        {
+          "key": "C",
+          "text": "Trung vị của mẫu 12B lớn hơn trung vị của mẫu 12A."
+        },
+        {
+          "key": "D",
+          "text": "Khoảng biến thiên của mẫu 12B lớn hơn khoảng biến thiên của mẫu 12A."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cả hai mẫu đều bắt đầu ở $[10;20)$ và kết thúc ở $[50;60)$ nên $R = 50$ như nhau. Tần số tích luỹ của 12A là $2; 12; 28; 38; 40$, của 12B là $2; 12; 28; 33; 40$; với $\\frac{n}{2} = 20$ cả hai đều cho $Q_2 = 30 + \\frac{20 - 12}{16} \\cdot 10 = 35$. Hai mẫu cũng cùng $Q_1 = 28$, nhưng $Q_3$ của 12A là $40 + \\frac{30 - 28}{10} \\cdot 10 = 42$ còn của 12B là $40 + \\frac{30 - 28}{5} \\cdot 10 = 44$, nên $\\Delta Q$ của 12B bằng $16$ và lớn hơn $14$ của 12A.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "so sánh hai mẫu",
+        "khoảng tứ phân vị"
+      ]
+    },
+    {
+      "id": "toan12-b09-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẫu thời gian tự học ở nhà mỗi ngày của 40 học sinh lớp 12A gồm các nhóm $[10;20)$, $[20;30)$, $[30;40)$, $[40;50)$, $[50;60)$ với tần số lần lượt là $2; 10; 16; 10; 2$. Do đồng hồ của các bạn đều chạy chậm 5 phút, mỗi số đo được hiệu chỉnh bằng cách cộng thêm 5 phút. Với mẫu đã hiệu chỉnh, trung vị và khoảng tứ phân vị lần lượt là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$40$ phút và $14$ phút."
+        },
+        {
+          "key": "B",
+          "text": "$40$ phút và $19$ phút."
+        },
+        {
+          "key": "C",
+          "text": "$35$ phút và $14$ phút."
+        },
+        {
+          "key": "D",
+          "text": "$45$ phút và $14$ phút."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mẫu mới có các nhóm $[15;25)$, $[25;35)$, $[35;45)$, $[45;55)$, $[55;65)$ với tần số không đổi, nên các vị trí $\\frac{n}{4} = 10$, $\\frac{n}{2} = 20$, $\\frac{3n}{4} = 30$ vẫn rơi vào nhóm thứ hai, thứ ba, thứ tư. Khi đó $Q_1 = 25 + \\frac{10 - 2}{10} \\cdot 10 = 33$, $Q_2 = 35 + \\frac{20 - 12}{16} \\cdot 10 = 40$, $Q_3 = 45 + \\frac{30 - 28}{10} \\cdot 10 = 47$. Vậy trung vị tăng thêm 5 phút còn $\\Delta Q = 47 - 33 = 14$ không đổi, vì cộng cùng một giá trị vào mọi số liệu không làm thay đổi độ phân tán.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "hiệu chỉnh số liệu",
+        "khoảng tứ phân vị"
+      ]
+    },
+    {
+      "id": "toan12-b09-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b09-khoang-bien-thian-tu-phan-vi",
+      "type": "SINGLE_CHOICE",
+      "content": "Số gói hàng gửi đi trong ngày của một bưu điện văn hoá xã được ghép thành các nhóm $[10;20)$, $[20;30)$, $[30;40)$, $[40;50)$ với tần số lần lượt là $4$; $a$; $10$; $6$, trong đó $a$ là một số tự nhiên. Biết tứ phân vị thứ nhất của mẫu bằng đúng 25 theo công thức nội suy của SGK. Giá trị của $a$ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "$2$."
+        },
+        {
+          "key": "B",
+          "text": "$4$."
+        },
+        {
+          "key": "C",
+          "text": "$6$."
+        },
+        {
+          "key": "D",
+          "text": "$10$."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cỡ mẫu là $n = 20 + a$ nên $\\frac{n}{4} = \\frac{20 + a}{4}$. Để $Q_1$ thuộc nhóm $[20;30)$ thì $4 < \\frac{20 + a}{4} \\le 4 + a$, và công thức nội suy cho $20 + \\frac{\\frac{20 + a}{4} - 4}{a} \\cdot 10 = 25$, suy ra $\\frac{20 + a}{4} - 4 = \\frac{a}{2}$ hay $20 + a = 16 + 2a$, tức $a = 4$. Thử lại: $a = 4$ cho $n = 24$, tần số tích luỹ $4; 8; 18; 24$, $\\frac{n}{4} = 6$ và $Q_1 = 20 + \\frac{6 - 4}{4} \\cdot 10 = 25$ (đúng). Quên rằng cỡ mẫu cũng chứa $a$ (coi $n = 20$) sẽ dẫn tới $a = 2$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": [
+        "tìm tần số chưa biết",
+        "tứ phân vị thứ nhất"
+      ]
+    }
+  ]
+}

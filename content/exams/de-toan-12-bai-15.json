@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-15",
+  "title": "Đề ôn Toán 12 Bài 15: Phương trình đường thẳng trong không gian (20 câu)",
+  "slug": "de-toan-12-bai-15",
+  "description": "Bám sát Bài 15 sách Toán 12 Kết nối tri thức: vectơ chỉ phương, phương trình tham số và chính tắc của đường thẳng, vị trí tương đối của hai đường thẳng kèm tham số m, đường thẳng vuông góc với mặt phẳng, giao tuyến của hai mặt phẳng, hình chiếu của một điểm lên đường thẳng. 20 câu trắc nghiệm bốn lựa chọn, làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B15",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b15-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, đường thẳng $d: x=3+2t,\\ y=-1-4t,\\ z=5+t$ có một vectơ chỉ phương là",
+      "options": [
+        { "key": "A", "text": "$(3;-1;5)$." },
+        { "key": "B", "text": "$(2;-4;1)$." },
+        { "key": "C", "text": "$(2;4;1)$." },
+        { "key": "D", "text": "$(2;-4;-1)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đọc từ phương trình tham số, các hệ số của $t$ tại $x$, $y$, $z$ lập thành vectơ chỉ phương $\\vec u=(2;-4;1)$. Cặp $(3;-1;5)$ chính là điểm mà đường thẳng đi qua, không phải vectơ chỉ phương. Hai phương án còn lại sai dấu nên không cùng phương với $\\vec u$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["vectơ chỉ phương", "phương trình tham số"]
+    },
+    {
+      "id": "toan12-b15-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm nào sau đây thuộc đường thẳng $d: x=1+2t,\\ y=3-t,\\ z=-2+4t$?",
+      "options": [
+        { "key": "A", "text": "$(5;1;6)$." },
+        { "key": "B", "text": "$(3;2;4)$." },
+        { "key": "C", "text": "$(5;-1;6)$." },
+        { "key": "D", "text": "$(3;4;2)$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thử $M(5;1;6)$: từ $x$ suy ra $1+2t=5$ nên $t=2$; khi đó $y=3-2=1$ và $z=-2+8=6$ đều khớp, vậy $M\\in d$. Với $(3;2;4)$ ta có $t=1$ cho $z=2\\ne4$; hai điểm còn lại cũng không thoả đồng thời ba phương trình.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["điểm thuộc đường thẳng", "phương trình tham số"]
+    },
+    {
+      "id": "toan12-b15-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường thẳng đi qua điểm $M(2;-1;3)$ và nhận vectơ $\\vec u=(3;2;-5)$ làm vectơ chỉ phương có phương trình chính tắc là",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{x-2}{3}=\\dfrac{y+1}{2}=\\dfrac{z-3}{-5}$." },
+        { "key": "B", "text": "$\\dfrac{x+2}{3}=\\dfrac{y-1}{2}=\\dfrac{z+3}{-5}$." },
+        { "key": "C", "text": "$\\dfrac{x-2}{3}=\\dfrac{y+1}{2}=\\dfrac{z-3}{5}$." },
+        { "key": "D", "text": "$\\dfrac{x-2}{2}=\\dfrac{y+1}{3}=\\dfrac{z-3}{-5}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phương trình chính tắc có dạng $\\dfrac{x-x_0}{a}=\\dfrac{y-y_0}{b}=\\dfrac{z-z_0}{c}$ với điểm $M(2;-1;3)$ và vectơ chỉ phương $(3;2;-5)$, suy ra $\\dfrac{x-2}{3}=\\dfrac{y+1}{2}=\\dfrac{z-3}{-5}$. Phương án B là lỗi đổi dấu toạ độ điểm, C sai dấu mẫu số $z$, D lấy sai cặp hệ số.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["phương trình chính tắc", "vectơ chỉ phương"]
+    },
+    {
+      "id": "toan12-b15-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường thẳng $d: \\dfrac{x+4}{1}=\\dfrac{y-2}{-3}=\\dfrac{z-5}{2}$ đi qua điểm và có vectơ chỉ phương lần lượt là",
+      "options": [
+        { "key": "A", "text": "$(-4;2;5)$ và $(1;3;2)$." },
+        { "key": "B", "text": "$(4;-2;5)$ và $(1;-3;2)$." },
+        { "key": "C", "text": "$(-4;2;5)$ và $(1;-3;2)$." },
+        { "key": "D", "text": "$(-4;2;5)$ và $(1;-3;-2)$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Viết lại $\\dfrac{x-(-4)}{1}=\\dfrac{y-2}{-3}=\\dfrac{z-5}{2}$, suy ra đường thẳng đi qua $(-4;2;5)$ và có vectơ chỉ phương $(1;-3;2)$. Phương án A, D sai dấu thành phần vectơ, B sai dấu điểm.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["phương trình chính tắc", "vectơ chỉ phương"]
+    },
+    {
+      "id": "toan12-b15-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường thẳng $d$ vuông góc với mặt phẳng $(P): 4x-2y+z-7=0$ thì một vectơ chỉ phương của $d$ là",
+      "options": [
+        { "key": "A", "text": "$(4;-2;1)$." },
+        { "key": "B", "text": "$(4;-2;-7)$." },
+        { "key": "C", "text": "$(4;2;1)$." },
+        { "key": "D", "text": "$(2;-1;1)$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đường thẳng vuông góc mặt phẳng thì vectơ chỉ phương của nó cùng phương với vectơ pháp tuyến của mặt phẳng. Vì $\\vec n=(4;-2;1)$ nên $\\vec u=(4;-2;1)$. Phương án B lấy nhầm hệ số tự do $-7$ làm thành phần thứ ba; C, D không cùng phương với $\\vec n$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["đường thẳng vuông góc mặt phẳng", "vectơ pháp tuyến"]
+    },
+    {
+      "id": "toan12-b15-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai đường thẳng có vectơ chỉ phương $\\vec u=(1;1;0)$ và $\\vec v=(0;1;1)$ thì góc giữa chúng bằng",
+      "options": [
+        { "key": "A", "text": "$90^{\\circ}$." },
+        { "key": "B", "text": "$30^{\\circ}$." },
+        { "key": "C", "text": "$60^{\\circ}$." },
+        { "key": "D", "text": "$45^{\\circ}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ta có $\\vec u\\cdot\\vec v=0+1+0=1$, $|\\vec u|=\\sqrt{2}$, $|\\vec v|=\\sqrt{2}$. Nên $\\cos\\varphi=\\dfrac{|\\vec u\\cdot\\vec v|}{|\\vec u||\\vec v|}=\\dfrac{1}{2}$, suy ra $\\varphi=60^{\\circ}$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["góc giữa hai đường thẳng", "tích vô hướng"]
+    },
+    {
+      "id": "toan12-b15-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Phương trình tham số của đường thẳng đi qua hai điểm $A(1;2;3)$ và $B(4;0;5)$ là",
+      "options": [
+        { "key": "A", "text": "$x=3t,\\ y=-2t,\\ z=2t$." },
+        { "key": "B", "text": "$x=1+3t,\\ y=2+2t,\\ z=3+2t$." },
+        { "key": "C", "text": "$x=1+3t,\\ y=2-2t,\\ z=3+2t$." },
+        { "key": "D", "text": "$x=1-2t,\\ y=2+3t,\\ z=3+2t$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vectơ chỉ phương là $\\overrightarrow{AB}=(3;-2;2)$, chọn điểm đầu $A(1;2;3)$ ta được $x=1+3t,\\ y=2-2t,\\ z=3+2t$. Phương án A bỏ quên điểm $A$ (đi qua gốc $O$), B sai dấu thành phần $y$, D nhầm lẫn các hệ số.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["phương trình tham số", "vectơ chỉ phương"]
+    },
+    {
+      "id": "toan12-b15-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong không gian $Oxyz$, cho $d_1: x=1+t,\\ y=2-t,\\ z=3+t$ và $d_2: x=2+s,\\ y=1+s,\\ z=4$. Vị trí tương đối của $d_1$ và $d_2$ là",
+      "options": [
+        { "key": "A", "text": "chéo nhau." },
+        { "key": "B", "text": "cắt nhau tại $I(2;1;4)$." },
+        { "key": "C", "text": "song song với nhau." },
+        { "key": "D", "text": "trùng nhau." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hai vectơ chỉ phương $(1;-1;1)$ và $(1;1;0)$ không cùng phương nên loại song song, trùng nhau. Giải hệ: $1+t=2+s$, $2-t=1+s$, $3+t=4$ cho $t=1,\\ s=0$. Khi đó $d_1$ đi qua $(2;1;4)$ và $d_2$ cũng đi qua điểm này, vậy hai đường thẳng cắt nhau tại $I(2;1;4)$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["vị trí tương đối", "giao điểm"]
+    },
+    {
+      "id": "toan12-b15-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $d_1: x=1+2t,\\ y=-1+t,\\ z=3-4t$ và $d_2: x=2+ms,\\ y=3+2s,\\ z=1-8s$. Với giá trị nào của $m$ thì $d_1$ song song với $d_2$?",
+      "options": [
+        { "key": "A", "text": "$m=-4$." },
+        { "key": "B", "text": "$m=\\dfrac{1}{4}$." },
+        { "key": "C", "text": "$m=4$." },
+        { "key": "D", "text": "$m=2$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Để song song thì hai vectơ chỉ phương cùng phương: $(m;2;-8)=k(2;1;-4)$. Từ thành phần $y$ suy ra $k=2$; thành phần $z$: $-8=2\\cdot(-4)$ đúng; thành phần $x$: $m=2\\cdot2=4$. Kiểm tra $d_1$ không nằm trên $d_2$ nên chúng song song thật (không trùng).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hai đường thẳng song song", "tham số m"]
+    },
+    {
+      "id": "toan12-b15-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $d_1: x=1+t,\\ y=2-t,\\ z=3+2t$ và $d_2: x=m+2s,\\ y=1+s,\\ z=2+s$. Với giá trị nào của $m$ thì $d_1$ và $d_2$ cắt nhau?",
+      "options": [
+        { "key": "A", "text": "$m=-1$." },
+        { "key": "B", "text": "$m=1$." },
+        { "key": "C", "text": "$m=-3$." },
+        { "key": "D", "text": "$m=2$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai vectơ chỉ phương $(1;-1;2)$ và $(2;1;1)$ không cùng phương nên cắt nhau khi hệ có nghiệm. Từ phương trình $y$: $s=1-t$; thay vào $z$: $3+2t=2+(1-t)$ cho $t=0,\\ s=1$. Khi đó $x$: $1+0=m+2\\cdot1$ nên $m=-1$. Giao điểm là $(1;2;3)$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hai đường thẳng cắt nhau", "tham số m"]
+    },
+    {
+      "id": "toan12-b15-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường thẳng đi qua $M(1;-2;4)$ và vuông góc với mặt phẳng $(P): 3x-y+5z+2=0$ có phương trình chính tắc là",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{x-1}{3}=\\dfrac{y+2}{-1}=\\dfrac{z-4}{5}$." },
+        { "key": "B", "text": "$\\dfrac{x+1}{3}=\\dfrac{y-2}{-1}=\\dfrac{z+4}{5}$." },
+        { "key": "C", "text": "$\\dfrac{x-1}{3}=\\dfrac{y+2}{1}=\\dfrac{z-4}{5}$." },
+        { "key": "D", "text": "$\\dfrac{x-1}{3}=\\dfrac{y+2}{-1}=\\dfrac{z-4}{-5}$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đường thẳng vuông góc $(P)$ nhận $\\vec n=(3;-1;5)$ làm vectơ chỉ phương, lại đi qua $M(1;-2;4)$. Vậy $\\dfrac{x-1}{3}=\\dfrac{y+2}{-1}=\\dfrac{z-4}{5}$. Phương án B sai dấu điểm, C và D sai dấu của vectơ chỉ phương.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["đường thẳng vuông góc mặt phẳng", "phương trình chính tắc"]
+    },
+    {
+      "id": "toan12-b15-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường thẳng nào sau đây nằm trong mặt phẳng $(P): 2x+y-z-3=0$?",
+      "options": [
+        { "key": "A", "text": "$x=t,\\ y=1,\\ z=2t$." },
+        { "key": "B", "text": "$x=1+t,\\ y=1+t,\\ z=0$." },
+        { "key": "C", "text": "$x=1+t,\\ y=1,\\ z=2-2t$." },
+        { "key": "D", "text": "$x=1+t,\\ y=1,\\ z=2t$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đường thẳng nằm trong $(P)$ khi một điểm của nó thuộc $(P)$ và vectơ chỉ phương vuông góc $\\vec n=(2;1;-1)$. Với D: điểm $(1;1;0)$ cho $2+1-0-3=0$ và $\\vec u=(1;0;2)$ có $\\vec u\\cdot\\vec n=2+0-2=0$. A có điểm không thuộc $(P)$; B, C có vectơ chỉ phương không vuông góc $\\vec n$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["đường thẳng nằm trong mặt phẳng", "vectơ chỉ phương"]
+    },
+    {
+      "id": "toan12-b15-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Giao tuyến của hai mặt phẳng $(P): x+y+z-1=0$ và $(Q): x-y=0$ có phương trình chính tắc là",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{x}{1}=\\dfrac{y}{1}=\\dfrac{z-1}{2}$." },
+        { "key": "B", "text": "$\\dfrac{x-1}{1}=\\dfrac{y-1}{1}=\\dfrac{z}{-2}$." },
+        { "key": "C", "text": "$\\dfrac{x}{1}=\\dfrac{y}{1}=\\dfrac{z-1}{-2}$." },
+        { "key": "D", "text": "$\\dfrac{x}{1}=\\dfrac{y}{1}=\\dfrac{z+1}{-2}$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vectơ chỉ phương của giao tuyến là $\\vec u=[\\vec n_P,\\vec n_Q]=[(1;1;1),(1;-1;0)]=(1;1;-2)$. Chọn $y=0$ thì $x=0,\\ z=1$ được điểm $(0;0;1)$ thuộc cả hai mặt phẳng. Vậy $\\dfrac{x}{1}=\\dfrac{y}{1}=\\dfrac{z-1}{-2}$. A, D sai dấu vectơ hoặc điểm, B lấy sai điểm.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["giao tuyến hai mặt phẳng", "phương trình chính tắc"]
+    },
+    {
+      "id": "toan12-b15-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Hình chiếu vuông góc của điểm $M(4;0;2)$ lên đường thẳng $d: x=1+t,\\ y=1+t,\\ z=1+t$ là điểm",
+      "options": [
+        { "key": "A", "text": "$(2;2;2)$." },
+        { "key": "B", "text": "$(4;0;2)$." },
+        { "key": "C", "text": "$(1;1;1)$." },
+        { "key": "D", "text": "$(3;3;3)$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gọi $H(1+t;1+t;1+t)\\in d$. Vectơ $\\overrightarrow{MH}=(t-3;t+1;t-1)$ vuông góc $\\vec u=(1;1;1)$ nên $3t-3=0$, suy ra $t=1$. Do đó $H(2;2;2)$. Phương án B là chính điểm $M$ (không thuộc $d$), C và D là các điểm khác trên $d$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["hình chiếu lên đường thẳng", "vectơ chỉ phương"]
+    },
+    {
+      "id": "toan12-b15-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho điểm $A(2;3;3)$ và đường thẳng $d: x=1+t,\\ y=2t,\\ z=2+2t$. Điểm $M$ thuộc $d$ để $AM$ nhỏ nhất có tọa độ là",
+      "options": [
+        { "key": "A", "text": "$(1;0;2)$." },
+        { "key": "B", "text": "$(3;4;6)$." },
+        { "key": "C", "text": "$(2;3;3)$." },
+        { "key": "D", "text": "$(2;2;4)$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Với $M(1+t;2t;2+2t)$, đặt $f(t)=AM^2=(t-1)^2+(2t-3)^2+(2t-1)^2=9t^2-18t+11$. Hàm bậc hai đạt nhỏ nhất tại $t=-\\dfrac{-18}{2\\cdot9}=1$, cho $M(2;2;4)$ và $AM=\\sqrt{2}$. Phương án A là điểm đầu $t=0$, C chính là $A$ (không thuộc $d$).",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["khoảng cách nhỏ nhất", "điểm thuộc đường thẳng"]
+    },
+    {
+      "id": "toan12-b15-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường thẳng $d$ đi qua gốc tọa độ $O$ và vuông góc với mặt phẳng $(P): x+2y+2z-9=0$ cắt $(P)$ tại điểm",
+      "options": [
+        { "key": "A", "text": "$(1;2;-2)$." },
+        { "key": "B", "text": "$(1;2;2)$." },
+        { "key": "C", "text": "$(2;1;2)$." },
+        { "key": "D", "text": "$(-1;-2;-2)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đường thẳng vuông góc $(P)$ nhận $\\vec n=(1;2;2)$ làm vectơ chỉ phương, qua $O$ nên $d: x=t,\\ y=2t,\\ z=2t$. Thay vào $(P)$: $t+4t+4t-9=0$ cho $9t=9$, tức $t=1$. Giao điểm là $(1;2;2)$. C nhầm lẫn thứ tự thành phần, A và D sai dấu.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["đường thẳng vuông góc mặt phẳng", "giao điểm"]
+    },
+    {
+      "id": "toan12-b15-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $d_1: x=1+t,\\ y=2+2t,\\ z=3+2t$ và $d_2: x=s,\\ y=4-s,\\ z=6+s$. Vị trí tương đối của $d_1$ và $d_2$ là",
+      "options": [
+        { "key": "A", "text": "cắt nhau." },
+        { "key": "B", "text": "song song với nhau." },
+        { "key": "C", "text": "chéo nhau." },
+        { "key": "D", "text": "trùng nhau." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hai vectơ chỉ phương $(1;2;2)$ và $(1;-1;1)$ không cùng phương nên loại song song, trùng. Xét tích vô hướng $\\overrightarrow{M_1M_2}\\cdot[\\vec u_1,\\vec u_2]$ với $\\vec u_1\\times\\vec u_2=(4;1;-3)$ và $\\overrightarrow{M_1M_2}=(-1;2;3)$, ta được $-4+2-9=-11\\ne0$, nên hai đường thẳng không đồng phẳng, tức chéo nhau.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["hai đường thẳng chéo nhau", "vị trí tương đối"]
+    },
+    {
+      "id": "toan12-b15-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Đường thẳng $d$ nằm trong mặt phẳng $(P): 2x-y+2z-7=0$, đi qua $A(2;-1;1)$ và vuông góc với đường thẳng $\\Delta$ có vectơ chỉ phương $(1;1;0)$ có phương trình chính tắc là",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{x-2}{2}=\\dfrac{y+1}{-2}=\\dfrac{z-1}{3}$." },
+        { "key": "B", "text": "$\\dfrac{x+2}{-2}=\\dfrac{y-1}{2}=\\dfrac{z+1}{3}$." },
+        { "key": "C", "text": "$\\dfrac{x-2}{2}=\\dfrac{y+1}{-1}=\\dfrac{z-1}{2}$." },
+        { "key": "D", "text": "$\\dfrac{x-2}{-2}=\\dfrac{y+1}{2}=\\dfrac{z-1}{3}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Vectơ chỉ phương $\\vec u$ của $d$ vuông góc cả $\\vec n=(2;-1;2)$ (để $d$ nằm trong $(P)$) lẫn $\\vec v=(1;1;0)$ (để $d\\perp\\Delta$). Nên $\\vec u=[\\vec n,\\vec v]=(-2;2;3)$. Điểm $A(2;-1;1)$ đã thuộc $(P)$. Vậy $\\dfrac{x-2}{-2}=\\dfrac{y+1}{2}=\\dfrac{z-1}{3}$. C lấy nhầm $\\vec n$ làm vectơ chỉ phương, A lật dấu hai thành phần đầu của $\\vec u$ nhưng giữ nguyên thành phần ba nên không còn nằm trong $(P)$, B lấy sai dấu toạ độ điểm $A$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["đường thẳng nằm trong mặt phẳng", "tích có hướng"]
+    },
+    {
+      "id": "toan12-b15-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $d_1: x=t,\\ y=t,\\ z=t$ và $d_2: x=2+s,\\ y=2s,\\ z=m+3s$. Với giá trị nào của $m$ thì $d_1$ và $d_2$ cắt nhau?",
+      "options": [
+        { "key": "A", "text": "$m=2$." },
+        { "key": "B", "text": "$m=0$." },
+        { "key": "C", "text": "$m=-1$." },
+        { "key": "D", "text": "$m=-2$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hai vectơ chỉ phương $(1;1;1)$ và $(1;2;3)$ không cùng phương. Hai đường thẳng cắt nhau khi đồng phẳng, tức $\\overrightarrow{M_1M_2}\\cdot[\\vec u_1,\\vec u_2]=0$ với $\\vec u_1\\times\\vec u_2=(1;-2;1)$ và $\\overrightarrow{M_1M_2}=(2;0;m)$, cho $2+0+m=0$ nên $m=-2$. Khi đó giao điểm là $(4;4;4)$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["hai đường thẳng cắt nhau", "điều kiện đồng phẳng"]
+    },
+    {
+      "id": "toan12-b15-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b15-phuong-trinh-duong-thang",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $A(1;4;3)$, $B(3;4;4)$ và đường thẳng $d: x=t,\\ y=1+t,\\ z=3+2t$. Điểm $M$ thuộc $d$ để $MA^2+MB^2$ nhỏ nhất có tọa độ là",
+      "options": [
+        { "key": "A", "text": "$(0;1;3)$." },
+        { "key": "B", "text": "$(1;2;5)$." },
+        { "key": "C", "text": "$(2;3;7)$." },
+        { "key": "D", "text": "$(1;4;3)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với $M(t;1+t;3+2t)$, ta có $MA^2=(t-1)^2+(t-3)^2+(2t)^2$ và $MB^2=(t-3)^2+(t-3)^2+(2t-1)^2$, cộng lại được $MA^2+MB^2=12t^2-24t+29=12(t-1)^2+17$. Biểu thức đạt nhỏ nhất tại $t=1$, khi đó $M(1;2;5)$ và giá trị nhỏ nhất bằng $17$ (thử lại $MA^2=8$, $MB^2=9$). Phương án A ứng $t=0$, C ứng $t=2$, D chính là $A$ (không thuộc $d$).",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tổng khoảng cách nhỏ nhất", "điểm thuộc đường thẳng"]
+    }
+  ]
+}

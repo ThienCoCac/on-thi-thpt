@@ -1,0 +1,960 @@
+{
+  "id": "de-ktpl-12-bai-08",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 – Bài 8: Quyền và nghĩa vụ của công dân về kinh doanh và nộp thuế",
+  "slug": "de-ktpl-12-bai-08",
+  "description": "Đề ôn tập bám sát Bài 8 Giáo dục Kinh tế và Pháp luật 12: quyền tự do kinh doanh, ngành nghề cấm và ngành nghề có điều kiện, nghĩa vụ đăng kí kinh doanh, các hình thức tổ chức kinh doanh, khái niệm và đặc điểm của thuế, vai trò của thuế, một số sắc thuế phổ biến, nghĩa vụ và quyền của người nộp thuế. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-B8",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "ktpl12-b08-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Quyền tự do kinh doanh của công dân được hiểu cơ bản là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mọi người được tự do kinh doanh trong những ngành, nghề mà pháp luật không cấm và phải tuân thủ quy định về đăng kí, điều kiện kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "công dân được kinh doanh bất cứ mặt hàng nào mình muốn, kể cả những mặt hàng mà pháp luật nghiêm cấm."
+        },
+        {
+          "key": "C",
+          "text": "chỉ những người có vốn lớn và có quan hệ với cơ quan quản lí mới được thực hiện hoạt động kinh doanh."
+        },
+        {
+          "key": "D",
+          "text": "công dân muốn kinh doanh ngành nghề nào cũng phải chờ cá nhân có thẩm quyền đồng ý bằng lời nói."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quyền tự do kinh doanh là quyền được tự do lựa chọn ngành, nghề, hình thức kinh doanh mà pháp luật không cấm, đồng thời phải thực hiện đúng quy định về đăng kí và điều kiện kinh doanh. B sai vì kinh doanh mặt hàng bị cấm là trái pháp luật; C biến quyền pháp lí thành đặc quyền của người giàu; D hiểu sai vì việc cấp giấy đăng kí do cơ quan nhà nước có thẩm quyền thực hiện theo thủ tục luật định, không phải sự đồng ý cá nhân.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Quyền tự do kinh doanh",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Để hoạt động kinh doanh của một công dân là hợp pháp, điều kiện nào sau đây là đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kinh doanh ngành, nghề không thuộc danh mục cấm, bảo đảm đủ điều kiện theo pháp luật và thực hiện thủ tục đăng kí kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ cần có đủ vốn để nhập hàng và tìm được mặt bằng thuận lợi cho việc bán hàng."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ cần được người quen trong cơ quan quản lí nhắc nhở khi nào cần phải làm thủ tục."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cần bán hàng có nguồn gốc rõ ràng, còn ngành nghề kinh doanh thì không cần đăng kí."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Một hoạt động kinh doanh hợp pháp phải thoả mãn đồng thời yêu cầu: đúng ngành nghề pháp luật cho phép, đủ điều kiện với ngành nghề có điều kiện và có đăng kí kinh doanh theo quy định. B và D mới đề cập điều kiện kinh doanh thực tế, thiếu điều kiện pháp lí; C dựa vào mối quan hệ cá nhân, không phải căn cứ pháp luật.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Điều kiện kinh doanh",
+        "Kinh doanh hợp pháp"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về ngành, nghề cấm đầu tư kinh doanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước cấm đầu tư kinh doanh những ngành, nghề ảnh hưởng xấu đến lợi ích quốc gia, truyền thống văn hoá, sức khoẻ nhân dân và trật tự, an toàn xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Công dân vẫn được kinh doanh ngành, nghề bị cấm nếu đã đăng kí đầy đủ và nộp đủ thuế."
+        },
+        {
+          "key": "C",
+          "text": "Danh mục ngành, nghề cấm do từng doanh nghiệp và hộ kinh doanh tự quyết định."
+        },
+        {
+          "key": "D",
+          "text": "Việc cấm kinh doanh chỉ áp dụng với doanh nghiệp, không áp dụng với cá nhân và hộ gia đình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ngành, nghề cấm đầu tư kinh doanh là những ngành, nghề bị nghiêm cấm vì tác hại đối với lợi ích quốc gia, đạo đức xã hội, sức khoẻ nhân dân và an ninh, trật tự; Nhà nước quy định danh mục này bằng pháp luật. B sai vì đã cấm thì không thể hợp pháp hoá bằng đăng kí hay nộp thuế; C và D hiểu sai về chủ thể ban hành và phạm vi áp dụng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Ngành nghề cấm",
+        "Quyền tự do kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngành, nghề đầu tư kinh doanh có điều kiện là ngành, nghề",
+      "options": [
+        {
+          "key": "A",
+          "text": "mà khi kinh doanh phải bảo đảm đầy đủ điều kiện về cơ sở vật chất, trang thiết bị, năng lực nhân sự theo quy định của pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "mà mọi công dân đều được tự do kinh doanh, không cần tuân theo bất cứ điều kiện nào."
+        },
+        {
+          "key": "C",
+          "text": "bị Nhà nước nghiêm cấm, không một tổ chức, cá nhân nào được thực hiện đầu tư."
+        },
+        {
+          "key": "D",
+          "text": "chỉ dành riêng cho doanh nghiệp có vốn đầu tư nước ngoài hoạt động tại Việt Nam."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ngành, nghề kinh doanh có điều kiện vẫn được phép kinh doanh nhưng phải bảo đảm đủ điều kiện mà pháp luật chuyên ngành quy định, thường về cơ sở vật chất, trang thiết bị, năng lực nhân sự. B sai vì phủ nhận điều kiện do luật định; C nhầm ngành nghề có điều kiện với ngành nghề bị cấm; D thu hẹp sai đối tượng áp dụng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Ngành nghề có điều kiện",
+        "Điều kiện kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Nghĩa vụ đăng kí kinh doanh đòi hỏi người thành lập doanh nghiệp hoặc hộ kinh doanh phải",
+      "options": [
+        {
+          "key": "A",
+          "text": "khai và đăng kí với cơ quan có thẩm quyền theo đúng quy định, đồng thời hoạt động đúng với nội dung đã đăng kí."
+        },
+        {
+          "key": "B",
+          "text": "chỉ đăng kí khi cơ sở đã có lãi, còn giai đoạn mới mở thì chưa cần làm thủ tục."
+        },
+        {
+          "key": "C",
+          "text": "đăng kí càng ít ngành nghề càng tốt để không phải thực hiện nghĩa vụ thuế."
+        },
+        {
+          "key": "D",
+          "text": "mua bán tự do trước, chỉ làm thủ tục đăng kí khi bị kiểm tra và bị xử phạt."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đăng kí kinh doanh là nghĩa vụ phải thực hiện trước và trong suốt quá trình hoạt động; nội dung đã đăng kí là căn cứ để cơ quan nhà nước quản lí. B và D coi đăng kí là việc có thể trì hoãn, trái nghĩa vụ pháp lí; C là cách làm đối phó, không loại trừ được nghĩa vụ thuế.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Đăng kí kinh doanh",
+        "Nghĩa vụ của công dân"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Anh A mở cửa hàng kinh doanh một mặt hàng thuộc danh mục pháp luật cấm, nhờ người khác đứng tên giấy chứng nhận đăng kí hộ kinh doanh với ngành nghề khác và không khai báo doanh thu. Phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anh A vi phạm đồng thời quy định về ngành, nghề cấm kinh doanh và nghĩa vụ đăng kí, kê khai trung thực với cơ quan nhà nước."
+        },
+        {
+          "key": "B",
+          "text": "Anh A không vi phạm gì vì đã có người khác đứng tên giấy chứng nhận đăng kí hợp lệ."
+        },
+        {
+          "key": "C",
+          "text": "Việc không khai doanh thu chỉ là thiếu sót về kế toán, không liên quan tới nghĩa vụ với Nhà nước."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ người đứng tên giấy đăng kí bị xử lí vì anh A không trực tiếp đứng quầy bán hàng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tình huống cho thấy ba sai phạm cùng lúc: kinh doanh mặt hàng bị cấm, đăng kí không đúng thực tế ngành nghề và không kê khai doanh thu để tính thuế. Người nhờ đứng tên hay không trực tiếp bán vẫn là chủ thể thực hiện hoạt động kinh doanh nên phải chịu trách nhiệm, vì vậy B, D sai; bỏ ngoài khai doanh thu ảnh hưởng trực tiếp đến số thuế phải nộp nên C sai.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Tình huống kinh doanh",
+        "Vi phạm nghĩa vụ"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Doanh nghiệp tư nhân có đặc điểm cơ bản là",
+      "options": [
+        {
+          "key": "A",
+          "text": "do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "chủ doanh nghiệp chỉ chịu trách nhiệm về nợ trong phạm vi số vốn đã góp vào doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "do nhiều thành viên cùng hợp danh lập ra và cùng liên đới chịu trách nhiệm vô hạn."
+        },
+        {
+          "key": "D",
+          "text": "có tư cách pháp nhân và được phát hành cổ phần để huy động vốn rộng rãi."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Doanh nghiệp tư nhân do một cá nhân làm chủ, chịu trách nhiệm vô hạn bằng toàn bộ tài sản của mình và không có tư cách pháp nhân, không được phát hành cổ phần. B là đặc điểm của công ty trách nhiệm hữu hạn; C là đặc điểm của công ty hợp danh; D nhầm với công ty cổ phần.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Doanh nghiệp tư nhân",
+        "Hình thức tổ chức kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Công ty trách nhiệm hữu hạn được tổ chức theo nguyên tắc",
+      "options": [
+        {
+          "key": "A",
+          "text": "thành viên chỉ chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác trong phạm vi số vốn đã góp vào doanh nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "chủ doanh nghiệp phải chịu trách nhiệm bằng toàn bộ tài sản riêng của mình."
+        },
+        {
+          "key": "C",
+          "text": "thành viên sáng lập phải thanh toán mọi khoản nợ của công ty bằng tài sản của gia đình mình."
+        },
+        {
+          "key": "D",
+          "text": "công ty không phải thực hiện nghĩa vụ tài chính nào đối với người lao động và ngân sách."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Điểm cốt lõi của công ty trách nhiệm hữu hạn là trách nhiệm hữu hạn: thành viên chỉ chịu trách nhiệm trong phạm vi vốn đã góp, tách biệt với tài sản cá nhân. B và C mô tả trách nhiệm vô hạn của doanh nghiệp tư nhân hoặc thành viên hợp danh; D sai vì công ty vẫn có đầy đủ nghĩa vụ với người lao động và Nhà nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Công ty trách nhiệm hữu hạn",
+        "Trách nhiệm tài sản"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây là đặc điểm của công ty cổ phần?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vốn điều lệ được chia thành nhiều phần bằng nhau gọi là cổ phần và cổ đông chịu trách nhiệm về nợ trong phạm vi số vốn đã góp vào công ty."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ vốn do một cá nhân góp và cá nhân đó chịu trách nhiệm vô hạn bằng tài sản của mình."
+        },
+        {
+          "key": "C",
+          "text": "Công ty cổ phần bắt buộc phải do Nhà nước đầu tư toàn bộ vốn điều lệ."
+        },
+        {
+          "key": "D",
+          "text": "Cổ đông của công ty cổ phần không được chuyển nhượng cổ phần của mình cho người khác."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Công ty cổ phần có vốn điều lệ chia thành các cổ phần bằng nhau, cổ đông chịu trách nhiệm hữu hạn trong phạm vi số vốn đã góp và có thể chuyển nhượng cổ phần theo quy định. B là doanh nghiệp tư nhân; C nhầm với doanh nghiệp nhà nước; D trái với đặc điểm tự do chuyển nhượng vốn của công ty cổ phần.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Công ty cổ phần",
+        "Hình thức tổ chức kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Hộ kinh doanh do một cá nhân là công dân hoặc các thành viên hộ gia đình đăng kí thành lập. Đặc điểm của hộ kinh doanh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chủ hộ phải chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ."
+        },
+        {
+          "key": "B",
+          "text": "hộ kinh doanh có tư cách pháp nhân nên chỉ chịu trách nhiệm hữu hạn."
+        },
+        {
+          "key": "C",
+          "text": "hộ kinh doanh không phải đăng kí kinh doanh và không phải thực hiện nghĩa vụ thuế."
+        },
+        {
+          "key": "D",
+          "text": "hộ kinh doanh được phép bán cả những mặt hàng thuộc danh mục cấm vì quy mô nhỏ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hộ kinh doanh không có tư cách pháp nhân, chủ hộ chịu trách nhiệm vô hạn bằng toàn bộ tài sản của mình và vẫn phải đăng kí, kê khai, nộp thuế theo quy định. B sai về tư cách pháp lí; C phủ nhận nghĩa vụ của hộ kinh doanh; D sai vì danh mục cấm áp dụng cho mọi chủ thể kinh doanh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Hộ kinh doanh",
+        "Trách nhiệm tài sản"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "So sánh doanh nghiệp tư nhân với công ty trách nhiệm hữu hạn về trách nhiệm tài sản, phát biểu nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ doanh nghiệp tư nhân chịu trách nhiệm bằng toàn bộ tài sản của mình, còn thành viên công ty trách nhiệm hữu hạn chỉ chịu trách nhiệm trong phạm vi số vốn đã góp."
+        },
+        {
+          "key": "B",
+          "text": "Cả hai hình thức đều chỉ chịu trách nhiệm trong phạm vi số vốn ghi trên giấy chứng nhận đăng kí."
+        },
+        {
+          "key": "C",
+          "text": "Thành viên công ty trách nhiệm hữu hạn chịu trách nhiệm lớn hơn chủ doanh nghiệp tư nhân."
+        },
+        {
+          "key": "D",
+          "text": "Cả hai hình thức đều không phải chịu trách nhiệm về các khoản nợ phát sinh trong kinh doanh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sự khác biệt căn bản là doanh nghiệp tư nhân gắn với trách nhiệm vô hạn còn công ty trách nhiệm hữu hạn gắn với trách nhiệm hữu hạn trong phạm vi vốn góp. B đồng nhất hai hình thức, C đảo ngược mức độ trách nhiệm, D phủ nhận nghĩa vụ trả nợ, đều trái nội dung bài học.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "So sánh hình thức kinh doanh",
+        "Trách nhiệm tài sản"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Tổ chức, cá nhân kinh doanh có nhiều nghĩa vụ đối với Nhà nước và xã hội. Nội dung nào sau đây không phải là nghĩa vụ của họ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tự do chọn ngành nghề và hình thức kinh doanh mà không cần quan tâm tới các quy định của pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "Thực hiện đúng quy định của pháp luật về đăng kí kinh doanh và điều kiện kinh doanh."
+        },
+        {
+          "key": "C",
+          "text": "Nộp thuế đầy đủ, đúng hạn và chấp hành quy định về kế toán, hoá đơn, chứng từ."
+        },
+        {
+          "key": "D",
+          "text": "Bảo đảm chất lượng hàng hoá, dịch vụ, bảo vệ quyền lợi người tiêu dùng và môi trường."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tự do kinh doanh là quyền, không phải quyền làm gì cũng được: quyền này phải thực hiện trong khuôn khổ pháp luật, nên nội dung A không phải nghĩa vụ mà là cách hiểu sai về quyền. B, C, D đều là những nghĩa vụ cơ bản của tổ chức, cá nhân kinh doanh đã học trong bài.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ của chủ thể kinh doanh",
+        "Phân biệt quyền và nghĩa vụ"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuế là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khoản thu bắt buộc, không hoàn lại trực tiếp cho người nộp, mà tổ chức và cá nhân phải nộp cho Nhà nước theo quy định của pháp luật."
+        },
+        {
+          "key": "B",
+          "text": "khoản tiền do công dân tự nguyện đóng góp hoàn toàn theo ý muốn của mình cho địa phương."
+        },
+        {
+          "key": "C",
+          "text": "khoản vay của Nhà nước dành cho các tổ chức, cá nhân có hoạt động sản xuất, kinh doanh."
+        },
+        {
+          "key": "D",
+          "text": "phí dịch vụ mà người dân trả thêm khi mua một hàng hoá, dịch vụ cụ thể của doanh nghiệp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thuế mang tính bắt buộc, không hoàn lại trực tiếp, được quy định bằng pháp luật và do Nhà nước thu để đáp ứng nhu cầu chi tiêu chung. B bỏ mất tính bắt buộc; C nhầm thuế với khoản vay phải hoàn trả; D nhầm thuế với giá và phí dịch vụ của doanh nghiệp.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Khái niệm thuế",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây thể hiện tính bắt buộc của thuế?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhà nước ban hành nghĩa vụ nộp thuế bằng pháp luật và buộc mọi tổ chức, cá nhân thuộc đối tượng phải thực hiện."
+        },
+        {
+          "key": "B",
+          "text": "Người dân được quyền chọn nộp thuế cho cơ quan này hay cơ quan khác tuỳ thuận tiện."
+        },
+        {
+          "key": "C",
+          "text": "Thuế chỉ thu được ở những người tự nguyện muốn đóng góp cho địa phương mình."
+        },
+        {
+          "key": "D",
+          "text": "Để thu được thuế, Nhà nước phải trao lại người nộp hàng hoá đúng bằng số tiền đã thu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tính bắt buộc của thuế xuất phát từ quyền lực nhà nước: nghĩa vụ thuế do pháp luật quy định, không phụ thuộc vào ý muốn của người nộp, ai vi phạm đều bị xử lí. B và C phủ nhận tính bắt buộc; D trái với đặc điểm không hoàn lại trực tiếp của thuế.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Đặc điểm của thuế",
+        "Tính bắt buộc"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong nền kinh tế, vai trò quan trọng nhất của thuế là",
+      "options": [
+        {
+          "key": "A",
+          "text": "bảo đảm nguồn thu chủ yếu cho ngân sách nhà nước, đáp ứng nhu cầu chi tiêu của bộ máy nhà nước và các công việc chung."
+        },
+        {
+          "key": "B",
+          "text": "tạo ra lợi nhuận cho từng hộ kinh doanh và từng doanh nghiệp trong nền kinh tế."
+        },
+        {
+          "key": "C",
+          "text": "thay thế hoàn toàn mọi nguồn thu khác của ngân sách nhà nước."
+        },
+        {
+          "key": "D",
+          "text": "giúp người tiêu dùng mua được hàng hoá với giá thấp hơn giá thành sản xuất."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thuế là nguồn thu chủ yếu của ngân sách nhà nước, bảo đảm kinh phí cho bộ máy nhà nước, quốc phòng, an ninh, giáo dục, y tế và các dịch vụ công. B nhầm thuế với mục tiêu của bản thân cơ sở kinh doanh; C tuyệt đối hoá vai trò của thuế; D trái với thực tế vì thuế thường làm tăng giá bán.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Vai trò của thuế",
+        "Ngân sách nhà nước"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhà nước sử dụng thuế làm công cụ điều tiết nền kinh tế, thể hiện ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "quy định mức thuế và chính sách miễn, giảm thuế đối với những lĩnh vực cần khuyến khích hoặc cần hạn chế."
+        },
+        {
+          "key": "B",
+          "text": "buộc mọi cơ sở kinh doanh nộp cùng một số tiền thuế như nhau cho dù quy mô khác nhau."
+        },
+        {
+          "key": "C",
+          "text": "xoá bỏ cơ chế thị trường và tự quyết định toàn bộ giá cả hàng hoá, dịch vụ."
+        },
+        {
+          "key": "D",
+          "text": "cho phép người nộp thuế tự ấn định số thuế phải nộp theo điều kiện của mình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thông qua thuế suất, đối tượng chịu thuế và chính sách miễn, giảm, ưu đãi, Nhà nước khuyến khích hoặc hạn chế sản xuất, tiêu dùng, hướng dòng vốn vào lĩnh vực ưu tiên. B bỏ qua căn cứ doanh thu, thu nhập nên không công bằng; C sai vì thuế là công cụ điều tiết trong nền kinh tế thị trường, không xoá bỏ thị trường; D phủ nhận tính bắt buộc của thuế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thuế là công cụ điều tiết",
+        "Vai trò của thuế"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuế giá trị gia tăng là loại thuế",
+      "options": [
+        {
+          "key": "A",
+          "text": "đánh vào phần giá trị tăng thêm của hàng hoá, dịch vụ trong quá trình từ sản xuất, lưu thông đến tiêu dùng."
+        },
+        {
+          "key": "B",
+          "text": "đánh vào toàn bộ doanh thu bán hàng mà không được trừ giá trị hàng hoá, dịch vụ mua vào."
+        },
+        {
+          "key": "C",
+          "text": "đánh vào phần lợi nhuận còn lại của doanh nghiệp sau khi đã trừ mọi chi phí."
+        },
+        {
+          "key": "D",
+          "text": "chỉ áp dụng đối với hàng hoá, dịch vụ mà Việt Nam mua từ nước ngoài."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thuế giá trị gia tăng đánh vào giá trị tăng thêm ở các khâu, người tiêu dùng cuối cùng là người chịu thuế; cách mô tả ở B là thu trên toàn bộ doanh thu, không đúng bản chất. C là mô tả thuế thu nhập doanh nghiệp; B và D thu hẹp hoặc sai đối tượng áp dụng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thuế giá trị gia tăng",
+        "Các sắc thuế phổ biến"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối tượng tính của thuế thu nhập doanh nghiệp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "thu nhập chịu thuế của tổ chức, cá nhân có hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ tài sản cố định mà doanh nghiệp đang quản lí và sử dụng."
+        },
+        {
+          "key": "C",
+          "text": "tiền lương, tiền công mà người lao động nhận được từ doanh nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "phần giá trị tăng thêm của hàng hoá bán ra ở khâu bán lẻ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thuế thu nhập doanh nghiệp đánh trên thu nhập chịu thuế, tức phần thu nhập còn lại sau khi trừ các khoản được trừ theo quy định. B nhầm với thuế tài sản; C là đối tượng của thuế thu nhập cá nhân; D là đối tượng của thuế giá trị gia tăng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thuế thu nhập doanh nghiệp",
+        "Các sắc thuế phổ biến"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây đúng khi nói về thuế thu nhập cá nhân?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nghĩa vụ thuế được xác định trên cơ sở thu nhập thực tế của cá nhân, có tính đến hoàn cảnh gia đình thông qua các khoản giảm trừ."
+        },
+        {
+          "key": "B",
+          "text": "Số thuế được tính như nhau, không phụ thuộc vào thu nhập cao hay thấp của từng người."
+        },
+        {
+          "key": "C",
+          "text": "Loại thuế này chỉ đánh vào thu nhập của người làm việc trong khu vực nhà nước."
+        },
+        {
+          "key": "D",
+          "text": "Doanh nghiệp tự quyết định mức thuế thu nhập cá nhân nộp thay cho toàn bộ người lao động."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thuế thu nhập cá nhân hướng tới công bằng: người có thu nhập cao hơn nộp nhiều hơn và có xét đến các khoản giảm trừ gia cảnh, khoản đóng góp được trừ. B phủ nhận nguyên tắc công bằng; C thu hẹp sai đối tượng; D sai vì nghĩa vụ thuế của cá nhân xác định theo thu nhập của chính cá nhân đó, doanh nghiệp chỉ khấu trừ và nộp thay khi nhận uỷ quyền.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thuế thu nhập cá nhân",
+        "Công bằng xã hội"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuế tiêu thụ đặc biệt thường áp dụng đối với những hàng hoá, dịch vụ",
+      "options": [
+        {
+          "key": "A",
+          "text": "mà Nhà nước cần hạn chế sản xuất, tiêu dùng hoặc cần điều tiết mạnh, ví dụ thuốc lá, rượu, bia."
+        },
+        {
+          "key": "B",
+          "text": "là nhu yếu phẩm thiết yếu phục vụ đời sống hằng ngày của mọi người dân."
+        },
+        {
+          "key": "C",
+          "text": "là tư liệu sản xuất mà mọi doanh nghiệp đều phải mua để sử dụng."
+        },
+        {
+          "key": "D",
+          "text": "được Nhà nước khuyến khích người dân tiêu dùng nhiều hơn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thuế tiêu thụ đặc biệt đánh vào một số hàng hoá, dịch vụ mà Nhà nước cần kiểm soát về tiêu dùng hoặc cần điều tiết thu nhập, thể hiện rõ vai trò định hướng của thuế. B và C là nhóm hàng hoá cần ưu đãi, hạn chế đánh thuế; D trái hoàn toàn mục đích của sắc thuế này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thuế tiêu thụ đặc biệt",
+        "Các sắc thuế phổ biến"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Cơ sở X nhiều kỳ không nộp đủ số thuế đã kê khai và lập hoá đơn không đúng thực tế mua bán nhằm làm giảm doanh thu tính thuế, sau đó bị cơ quan thuế xử lí và chuyển hồ sơ sang cơ quan có thẩm quyền. Hành vi của cơ sở X là",
+      "options": [
+        {
+          "key": "A",
+          "text": "vi phạm nghĩa vụ nộp thuế, có dấu hiệu trốn thuế, gian lận thuế và tuỳ mức độ có thể bị xử phạt hoặc bị truy cứu trách nhiệm hình sự."
+        },
+        {
+          "key": "B",
+          "text": "hoàn toàn hợp pháp vì doanh thu thực tế là chuyện riêng nội bộ của doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "chỉ là sai sót về hình thức kế toán nên không làm phát sinh trách nhiệm pháp lí."
+        },
+        {
+          "key": "D",
+          "text": "được pháp luật cho phép vì doanh nghiệp có quyền tự định đoạt số thuế phải nộp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vừa nộp không đủ số thuế đã kê khai, vừa lập hoá đơn sai thực tế để giảm doanh thu là hành vi vi phạm pháp luật về thuế, có thể bị xử phạt hành chính hoặc xử lí hình sự khi đủ yếu tố cấu thành. B và D phủ nhận tính bắt buộc của nghĩa vụ thuế; C hạ thấp bản chất gian lận, không phải lỗi hình thức.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Trốn thuế",
+        "Vi phạm pháp luật về thuế"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Nghĩa vụ của người nộp thuế được thể hiện ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "đăng kí thuế, khai thuế chính xác, nộp thuế đầy đủ, đúng hạn và chấp hành các quyết định, thông báo của cơ quan thuế."
+        },
+        {
+          "key": "B",
+          "text": "tự ấn định thời điểm nộp thuế theo điều kiện riêng của từng người."
+        },
+        {
+          "key": "C",
+          "text": "giữ bí mật toàn bộ số liệu kinh doanh kể cả với cơ quan thuế có thẩm quyền."
+        },
+        {
+          "key": "D",
+          "text": "chỉ kê khai khi cơ quan thuế tiến hành thanh tra tại trụ sở kinh doanh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Người nộp thuế phải đăng kí thuế, kê khai trung thực, nộp đủ và đúng hạn, chấp hành quyết định của cơ quan thuế, đồng thời lưu giữ sổ sách, chứng từ và tạo điều kiện cho kiểm tra, thanh tra. B và D vi phạm tính thời hạn và tính chủ động của nghĩa vụ kê khai; C nhầm quyền được giữ bí mật thông tin với quyền che giấu số liệu với cơ quan thuế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nghĩa vụ người nộp thuế",
+        "Kê khai và nộp thuế"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây là quyền của người nộp thuế?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Được cơ quan thuế hướng dẫn thực hiện pháp luật về thuế, được giữ bí mật thông tin và được khiếu nại hoặc khởi kiện quyết định về thuế."
+        },
+        {
+          "key": "B",
+          "text": "Được tự quyết định mức thuế suất áp dụng cho hoạt động kinh doanh của mình."
+        },
+        {
+          "key": "C",
+          "text": "Được từ chối mọi yêu cầu thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền."
+        },
+        {
+          "key": "D",
+          "text": "Được tự sử dụng tiền thuế đã nộp vào mục đích do mình lựa chọn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Pháp luật bảo đảm cho người nộp thuế các quyền như được hướng dẫn, được giữ bí mật thông tin, được hoàn thuế khi đủ điều kiện và được khiếu nại, khởi kiện quyết định hành chính về thuế. B thuộc thẩm quyền của Nhà nước; C trái nghĩa vụ hợp tác với cơ quan thanh tra; D sai vì tiền thuế trở thành nguồn thu ngân sách, do Nhà nước quản lí.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Quyền người nộp thuế",
+        "Khiếu nại về thuế"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-8",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận được thông báo nộp thuế của cơ quan thuế, chị B cho rằng số thuế ghi trong thông báo không đúng. Cách xử lí nào sau đây phù hợp nhất với quy định của pháp luật?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chị B nộp số thuế theo thông báo trong thời hạn, đồng thời yêu cầu cơ quan thuế giải thích và làm thủ tục khiếu nại, nếu không đồng ý có thể khởi kiện."
+        },
+        {
+          "key": "B",
+          "text": "Chị B ngừng nộp thuế ngay và tuyên bố không chấp nhận mọi quyết định của cơ quan thuế."
+        },
+        {
+          "key": "C",
+          "text": "Chị B nhờ người khác đứng tên toàn bộ hoạt động kinh doanh để không nhận được thông báo nữa."
+        },
+        {
+          "key": "D",
+          "text": "Chị B đóng trang bán hàng vài tháng cho qua đợt kiểm tra rồi mở lại như cũ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khi chưa đồng ý với quyết định về thuế, người nộp thuế vẫn phải thực hiện quyết định trong thời hạn và có quyền yêu cầu giải thích, khiếu nại hoặc khởi kiện; đó là cách bảo vệ quyền lợi hợp pháp, đúng pháp luật. B trái nghĩa vụ nộp đúng hạn; C là hành vi che giấu, nhờ đứng tên thay; D là đối phó, không giải quyết được vướng mắc và vẫn còn nghĩa vụ thuế.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Tình huống về thuế",
+        "Quyền người nộp thuế"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-8",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về quyền tự do kinh doanh của công dân?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Công dân được tự do kinh doanh trong những ngành, nghề mà pháp luật không cấm."
+        },
+        {
+          "key": "B",
+          "text": "Khi kinh doanh ngành, nghề có điều kiện, cơ sở phải bảo đảm đủ điều kiện theo quy định của pháp luật."
+        },
+        {
+          "key": "C",
+          "text": "Kinh doanh hợp pháp là phải thực hiện đúng nội dung đã đăng kí và chịu sự quản lí của Nhà nước."
+        },
+        {
+          "key": "D",
+          "text": "Công dân được kinh doanh mọi mặt hàng mình có, kể cả mặt hàng thuộc danh mục cấm."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Quyền tự do kinh doanh được pháp luật ghi nhận nhưng là quyền có khuôn khổ: chỉ trong ngành, nghề pháp luật không cấm, phải đủ điều kiện với ngành nghề có điều kiện và phải đăng kí, hoạt động đúng nội dung đã đăng kí. D sai vì kinh doanh mặt hàng bị cấm là hành vi trái pháp luật.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Quyền tự do kinh doanh",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-8",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về thuế và vai trò của thuế?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thuế là khoản thu mang tính bắt buộc và không hoàn lại trực tiếp cho người nộp."
+        },
+        {
+          "key": "B",
+          "text": "Thuế là nguồn thu chủ yếu của ngân sách nhà nước, bảo đảm chi tiêu cho các công việc chung."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước dùng thuế làm công cụ điều tiết kinh tế và góp phần thực hiện công bằng xã hội."
+        },
+        {
+          "key": "D",
+          "text": "Người có thu nhập cao có quyền không nộp thuế vì họ đã tự lo đầy đủ mọi nhu cầu."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Ba nhận định A, B, C phản ánh đúng đặc điểm và vai trò của thuế: bắt buộc, không hoàn lại trực tiếp, là nguồn thu chủ yếu của ngân sách và là công cụ điều tiết, thực hiện công bằng. D sai vì nghĩa vụ thuế do pháp luật quy định, không phụ thuộc ý muốn của người có thu nhập, hơn nữa thu nhập cao thường là đối tượng nộp thuế thu nhập cá nhân.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Vai trò của thuế",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-8",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các hình thức tổ chức kinh doanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doanh nghiệp tư nhân do một cá nhân làm chủ và chịu trách nhiệm bằng toàn bộ tài sản của mình."
+        },
+        {
+          "key": "B",
+          "text": "Thành viên công ty trách nhiệm hữu hạn chịu trách nhiệm trong phạm vi số vốn đã góp vào doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "Trong công ty cổ phần, vốn điều lệ được chia thành nhiều phần bằng nhau gọi là cổ phần."
+        },
+        {
+          "key": "D",
+          "text": "Hộ kinh doanh là doanh nghiệp có tư cách pháp nhân và chủ hộ chịu trách nhiệm hữu hạn."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, C mô tả đúng đặc trưng về chủ thể và mức độ chịu trách nhiệm tài sản của doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn và công ty cổ phần. D sai vì hộ kinh doanh không có tư cách pháp nhân và chủ hộ phải chịu trách nhiệm bằng toàn bộ tài sản của mình.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hình thức tổ chức kinh doanh",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b08-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-8",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Anh K lập công ty trách nhiệm hữu hạn sản xuất bao bì, đã đăng kí kinh doanh và đăng kí thuế. Trong năm, công ty bán một số đơn hàng nhưng không xuất hoá đơn, không kê khai phần doanh thu đó. Chị T góp vốn vào công ty và làm việc theo hợp đồng lao động. Những nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Việc bán hàng không xuất hoá đơn và không kê khai là hành vi vi phạm pháp luật về thuế, có thể bị xử phạt."
+        },
+        {
+          "key": "B",
+          "text": "Công ty vẫn phải thực hiện nghĩa vụ thuế đầy đủ đối với phần doanh thu chưa kê khai đó."
+        },
+        {
+          "key": "C",
+          "text": "Chị T chịu trách nhiệm về các khoản nợ của công ty trong phạm vi số vốn đã góp vào công ty."
+        },
+        {
+          "key": "D",
+          "text": "Cơ quan thuế không có quyền yêu cầu công ty giải trình vì công ty đã đăng kí kinh doanh hợp lệ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Che giấu doanh thu bằng cách không xuất hoá đơn, không kê khai là vi phạm pháp luật về thuế; nghĩa vụ thuế vẫn phát sinh với toàn bộ doanh thu thực tế; là thành viên công ty trách nhiệm hữu hạn, chị T chỉ chịu trách nhiệm trong phạm vi vốn đã góp. D sai vì cơ quan thuế có quyền thanh tra, kiểm tra và yêu cầu giải trình, độc lập với việc doanh nghiệp đã đăng kí hợp lệ.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tình huống thuế",
+        "Nhận định đúng",
+        "Vận dụng cao"
+      ]
+    }
+  ]
+}

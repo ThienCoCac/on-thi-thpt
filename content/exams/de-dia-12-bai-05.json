@@ -1,0 +1,1507 @@
+{
+  "id": "de-dia-12-bai-05",
+  "title": "Đề ôn tập Địa lí 12 – Bài 5: Vấn đề sử dụng hợp lí tài nguyên thiên nhiên và bảo vệ môi trường",
+  "slug": "de-dia-12-bai-05",
+  "description": "Đề ôn tập 45 phút theo Bài 5 Địa lí 12: phân loại tài nguyên thiên nhiên theo khả năng tái tạo và theo thành phần tự nhiên, thực trạng khai thác - sử dụng tài nguyên đất, nước, khoáng sản, rừng và sinh vật biển, các vấn đề ô nhiễm môi trường nước - không khí - đất, chất thải rắn, chất thải nguy hại, biến đổi khí hậu, nước biển dâng, xâm nhập mặn và sạt lở, cùng định hướng sử dụng hợp lí gắn với kinh tế tuần hoàn, năng lượng tái tạo và trách nhiệm của Nhà nước, doanh nghiệp, công dân. Đề gồm 35 câu trắc nghiệm bốn phương án và 5 câu chọn các phát biểu đúng, có các câu tính toán về diện tích đất thoái hóa, sản lượng dòng chảy lưu vực, thời gian khai thác mỏ và diện tích ngập do nước biển dâng.",
+  "subject": "dia-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "DIA12-B05",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "dia12-b05-c1",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Tài nguyên thiên nhiên được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "toàn bộ thành tựu vật chất và tinh thần do con người sáng tạo ra trong quá trình lịch sử."
+        },
+        {
+          "key": "B",
+          "text": "những của cải vật chất có trong tự nhiên mà con người có thể khai thác, sử dụng phục vụ đời sống và sản xuất."
+        },
+        {
+          "key": "C",
+          "text": "các loại hàng hoá được làm ra trong nhà máy, khu công nghiệp và làng nghề."
+        },
+        {
+          "key": "D",
+          "text": "nguồn lực chỉ tồn tại ở dạng khoáng sản nằm trong lòng đất."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Tài nguyên thiên nhiên là giá trị vật chất và năng lượng có sẵn trong tự nhiên, tại một thời điểm và địa điểm nhất định, con người có thể khai thác để phát triển. A là định nghĩa về của cải của nền văn minh (nguồn nhân tạo), C là sản phẩm công nghiệp đã qua chế biến, D thu hẹp sai vì tài nguyên còn gồm đất, nước, khí hậu, sinh vật và tài nguyên biển.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên thiên nhiên",
+        "khái niệm"
+      ]
+    },
+    {
+      "id": "dia12-b05-c2",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các nhóm sau, nhóm gồm **toàn bộ** tài nguyên không tái tạo (không tái sinh) là",
+      "options": [
+        {
+          "key": "A",
+          "text": "năng lượng bức xạ mặt trời, gió và thủy triều."
+        },
+        {
+          "key": "B",
+          "text": "tài nguyên đất, nước mặt và rừng."
+        },
+        {
+          "key": "C",
+          "text": "thủy năng, tài nguyên sinh vật, đất phù sa."
+        },
+        {
+          "key": "D",
+          "text": "dầu mỏ, khí tự nhiên, than đá, quặng sắt."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Khoáng sản và nhiên liệu hoá thạch được hình thành qua các quá trình địa chất kéo dài hàng triệu năm, tốc độ tạo thành chậm hơn rất nhiều so với tốc độ khai thác nên thuộc nhóm không tái tạo. A là nhóm năng lượng vĩnh cửu; B và C chứa các tài nguyên tái tạo được (đất, nước, sinh vật, rừng) nếu sử dụng hợp lí.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "phân loại tài nguyên",
+        "không tái tạo"
+      ]
+    },
+    {
+      "id": "dia12-b05-c3",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây **đúng** khi phân biệt tài nguyên tái tạo và tài nguyên không tái tạo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tài nguyên không tái tạo sẽ cạn kiệt vì tốc độ hình thành chậm hơn nhiều so với tốc độ khai thác của con người."
+        },
+        {
+          "key": "B",
+          "text": "Tài nguyên tái tạo là vô hạn, khai thác đến đâu cũng tự phục hồi đầy đủ đến đó."
+        },
+        {
+          "key": "C",
+          "text": "Tài nguyên tái tạo không thể bị suy thoái nếu đã nằm trong quy hoạch bảo vệ."
+        },
+        {
+          "key": "D",
+          "text": "Cách phân loại theo khả năng tái tạo không có ý nghĩa trong quản lí vì mọi tài nguyên đều phục hồi được."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đây chính là căn cứ để khoáng sản và nhiên liệu hoá thạch phải được khai thác tiết kiệm, có hiệu quả và dự trữ cho tương lai. B và C sai vì tài nguyên tái tạo vẫn suy thoái, cạn kiệt khi khai thác quá khả năng phục hồi (đất bạc màu, nước ngầm hạ thấp, nguồn cá giảm); D sai vì phân loại này là cơ sở để áp dụng chính sách quản lí khác nhau cho từng nhóm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "phân loại tài nguyên",
+        "tái tạo"
+      ]
+    },
+    {
+      "id": "dia12-b05-c4",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo các thành phần tự nhiên, tài nguyên thiên nhiên nước ta được phân thành",
+      "options": [
+        {
+          "key": "A",
+          "text": "tài nguyên vô hạn, tài nguyên hữu hạn và tài nguyên vĩnh cửu."
+        },
+        {
+          "key": "B",
+          "text": "tài nguyên dạng rắn, dạng lỏng và dạng khí."
+        },
+        {
+          "key": "C",
+          "text": "tài nguyên đất, tài nguyên nước, tài nguyên khí hậu, tài nguyên sinh vật và tài nguyên khoáng sản."
+        },
+        {
+          "key": "D",
+          "text": "tài nguyên tái tạo, tài nguyên không tái tạo và tài nguyên nhân văn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Phân theo thành phần tự nhiên ta có năm nhóm quen thuộc: đất, nước, khí hậu, sinh vật và khoáng sản (mở rộng thêm tài nguyên biển). A và D là phân theo khả năng tái tạo/nhóm năng lượng, B là phân theo trạng thái tồn tại, không phải theo thành phần tự nhiên.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "phân loại tài nguyên",
+        "thành phần tự nhiên"
+      ]
+    },
+    {
+      "id": "dia12-b05-c5",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhóm tài nguyên nào sau đây được xếp vào nhóm **năng lượng vĩnh cửu**, ít có nguy cơ cạn kiệt khi khai thác hợp lí?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Năng lượng bức xạ mặt trời, năng lượng gió và năng lượng thủy triều."
+        },
+        {
+          "key": "B",
+          "text": "Dầu mỏ và khí tự nhiên trong các bể trầm tích."
+        },
+        {
+          "key": "C",
+          "text": "Nước ngầm ở các đồng bằng lớn."
+        },
+        {
+          "key": "D",
+          "text": "Quặng apatit và than đá."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Bức xạ mặt trời, gió, thủy triều là nguồn năng lượng liên tục được tự nhiên bổ sung nên được gọi là năng lượng vĩnh cửu (năng lượng tái tạo). B và D là nhiên liệu hoá thạch, khoáng sản không tái tạo; C là nước ngầm, tái tạo nhưng có hạn chế, khai thác quá mức sẽ hạ thấp mực nước, gây nhiễm mặn và sụt lún.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "năng lượng tái tạo",
+        "phân loại tài nguyên"
+      ]
+    },
+    {
+      "id": "dia12-b05-c6",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây là **hạn chế** của đất feralit ở vùng đồi núi nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rất giàu dinh dưỡng, tơi xốp, không cần bón phân và không bị thoái hóa."
+        },
+        {
+          "key": "B",
+          "text": "Hình thành chủ yếu ở vùng ven biển nên nhiễm mặn nặng."
+        },
+        {
+          "key": "C",
+          "text": "Tầng đất rất dày, tích nước quanh năm nên chỉ thích hợp cây lương thực."
+        },
+        {
+          "key": "D",
+          "text": "Tầng đất mỏng, nhiều đá lẫn, chua, nghèo mùn nên dễ bị xói mòn khi mất lớp phủ thực vật."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Đất feralit hình thành trong điều kiện nóng ẩm, mưa nhiều; quá trình laterit hóa làm đất chua, nghèo chất bazơ và mùn, kết cấu kém bền, vì vậy khi rừng bị chặt phá thì đất dốc rất dễ bị rửa trôi, bạc màu. A đánh giá sai độ phì của đất; B nhầm với đất mặn ven biển; C nhầm với đặc điểm đất phù sa ở đồng bằng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên đất",
+        "đất feralit"
+      ]
+    },
+    {
+      "id": "dia12-b05-c7",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Loại hình thoái hóa đất phổ biến nhất ở vùng trung du và miền núi nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhiễm mặn và nhiễm phèn trên diện rộng."
+        },
+        {
+          "key": "B",
+          "text": "xói mòn, rửa trôi dẫn tới bạc màu, giảm độ phì của đất."
+        },
+        {
+          "key": "C",
+          "text": "ngập úng, trũng hóa toàn bộ diện tích đất nông nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "ô nhiễm phóng xạ do chất thải hạt nhân."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Trên sườn dốc đã mất rừng, mưa lớn rửa trôi lớp đất mặt, mang theo mùn và chất dinh dưỡng làm đất bạc màu, năng suất giảm. A và C là vấn đề chủ yếu ở vùng ven biển và vùng trũng đồng bằng; D không phải loại hình thoái hóa phổ biến ở nước ta.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên đất",
+        "thoái hóa đất"
+      ]
+    },
+    {
+      "id": "dia12-b05-c8",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các biện pháp sau, biện pháp nào **góp phần trực tiếp** chống xói mòn, bạc màu đất trên đất dốc vùng đồi núi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đốt nương, phá rừng để mở rộng diện tích cây hằng năm."
+        },
+        {
+          "key": "B",
+          "text": "Tăng vụ liên tục trên các sườn dốc, bỏ hẳn cây lâu năm."
+        },
+        {
+          "key": "C",
+          "text": "Canh tác theo đường đồng mức và theo băng, xây ruộng bậc thang, phủ xanh đất trống đồi trọc."
+        },
+        {
+          "key": "D",
+          "text": "Khai hoang đất ngập nước ven sông, phá rừng ngập mặn."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Ruộng bậc thang cùng canh tác theo băng, theo đường đồng mức làm chậm dòng chảy mặt, giữ đất và giữ nước; phủ xanh đất trống đồi trọc bằng rừng trồng, cây che phủ giúp giảm tác động của mưa. A và B là tập quán làm tăng xói mòn, thoái hóa đất dốc; D phá rừng ngập mặn, đẩy nhanh xói lở bờ sông, bờ biển.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên đất",
+        "chống thoái hóa đất"
+      ]
+    },
+    {
+      "id": "dia12-b05-c9",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Áp lực lớn nhất đối với tài nguyên đất ở các đồng bằng nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "đất nông nghiệp bị thu hẹp do đô thị hoá, công nghiệp hoá, đồng thời bị thoái hóa và ô nhiễm vì dùng nhiều hóa chất."
+        },
+        {
+          "key": "B",
+          "text": "đất đồng bằng phần lớn là cát biển nên không thể trồng cây lương thực."
+        },
+        {
+          "key": "C",
+          "text": "toàn bộ đất đồng bằng đã nhiễm mặn, không còn đất trồng lúa."
+        },
+        {
+          "key": "D",
+          "text": "quỹ đất đồng bằng còn rất rộng, việc mở rộng diện tích gieo trồng rất dễ dàng."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Đất có độ phì cao vốn đã hạn chế lại bị chuyển sang khu đô thị, khu công nghiệp và hạ tầng; phần còn lại mất cân bằng dinh dưỡng, chai cứng, ô nhiễm do phân vô cơ, thuốc bảo vệ thực vật và chất thải. B và C phóng đại sai vì đồng bằng chủ yếu là đất phù sa, vẫn là vùng sản xuất lương thực; D ngược với thực trạng quỹ đất nông nghiệp ngày càng hẹp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên đất",
+        "đồng bằng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c10",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Một huyện miền núi có 320 000 ha đất tự nhiên, trong đó diện tích đất đã bị xói mòn, thoái hóa chiếm 18%. Diện tích đất **chưa** bị thoái hóa của huyện là",
+      "options": [
+        {
+          "key": "A",
+          "text": "57 600 ha."
+        },
+        {
+          "key": "B",
+          "text": "268 400 ha."
+        },
+        {
+          "key": "C",
+          "text": "256 000 ha."
+        },
+        {
+          "key": "D",
+          "text": "262 400 ha."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Đất chưa thoái hóa chiếm 100% − 18% = 82%, nên diện tích là 320 000 × 0,82 = 262 400 ha (thử lại: 320 000 − 57 600 = 262 400). A là diện tích đã bị thoái hóa (320 000 × 0,18); B và C là kết quả tính sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên đất",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b05-c11",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Định hướng sử dụng đất hợp lí ở vùng ven biển và vùng trũng của Đồng bằng sông Cửu Long là",
+      "options": [
+        {
+          "key": "A",
+          "text": "chuyển toàn bộ sang lúa cao sản, tăng vụ quanh năm bất chấp hạn, mặn."
+        },
+        {
+          "key": "B",
+          "text": "kết hợp thủy lợi rửa mặn, cải tạo đất phèn với chuyển đổi cơ cấu cây trồng, vật nuôi theo mô hình lúa – tôm và lâm nghiệp kết hợp nuôi trồng thủy sản."
+        },
+        {
+          "key": "C",
+          "text": "mở rộng đất nông nghiệp bằng cách chặt phá rừng ngập mặn."
+        },
+        {
+          "key": "D",
+          "text": "duy trì quảng canh, không cần cải tạo đất và không cần công trình thủy lợi."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Vùng đất nhiễm mặn, nhiễm phèn chỉ sử dụng có hiệu quả khi cải tạo đi đôi với chọn mô hình sản xuất thích nghi; chuyển sang lúa – tôm, rừng ngập mặn – nuôi trồng thủy sản vừa nâng hiệu quả vừa bảo vệ đất. A làm đất kiệt quệ và rủi ro cao khi thiếu nước ngọt; C phá mất rừng chắn sóng, đẩy nhanh xói lở; D bỏ qua yêu cầu cải tạo bắt buộc của vùng đất yếu.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên đất",
+        "đồng bằng sông cửu long"
+      ]
+    },
+    {
+      "id": "dia12-b05-c12",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân chính khiến nhiều sông ở nước ta cạn kiệt, mực nước hạ thấp nghiêm trọng vào mùa khô là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nước ta mưa nhiều quanh năm nên dòng chảy luôn dồi dào, không thiếu nước."
+        },
+        {
+          "key": "B",
+          "text": "mạng lưới sông ngòi nước ta rất thưa thớt, phần lớn là sông nhỏ."
+        },
+        {
+          "key": "C",
+          "text": "lượng mưa giảm mạnh, nguồn bổ cập suy giảm, rừng đầu nguồn thu hẹp làm khả năng điều tiết nước kém đi trong khi nhu cầu khai thác vẫn tăng."
+        },
+        {
+          "key": "D",
+          "text": "khí hậu nước ta không có mùa khô nên lượng bốc hơi không đáng kể."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Chế độ mưa theo mùa khiến lượng dòng chảy mùa khô chỉ chiếm khoảng 20 – 30% tổng lượng cả năm; rừng đầu nguồn bị giảm nên khả năng giữ nước, điều tiết của lưu vực yếu đi, cộng thêm nhu cầu nước cho nông nghiệp, công nghiệp và sinh hoạt tăng. A và D phủ nhận tính mùa của khí hậu; B sai vì sông ngòi nước ta khá dày và phần lớn thuộc lưu vực nội sinh.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên nước",
+        "mùa khô"
+      ]
+    },
+    {
+      "id": "dia12-b05-c13",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Một lưu vực sông rộng 5 000 km² nhận lượng mưa trung bình năm 1 000 mm; 40% lượng mưa bị bốc hơi, phần còn lại tạo thành dòng chảy. Tổng lượng nước dòng chảy năm của lưu vực là xấp xỉ",
+      "options": [
+        {
+          "key": "A",
+          "text": "3,0 tỉ m³."
+        },
+        {
+          "key": "B",
+          "text": "2,0 tỉ m³."
+        },
+        {
+          "key": "C",
+          "text": "5,0 tỉ m³."
+        },
+        {
+          "key": "D",
+          "text": "1,8 tỉ m³."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Lượng mưa 1 000 mm = 1 m nên tổng nước mưa rơi xuống lưu vực là 1 m × 5 000 km² = 1 × 5 × 10⁹ = 5,0 tỉ m³. Phần tạo dòng chảy là 100% − 40% = 60%, tức 5,0 × 0,6 = 3,0 tỉ m³. B là lượng nước bốc hơi, C là tổng lượng mưa, D tính sai (lấy 40% của 4,5).",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên nước",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b05-c14",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguồn gây ô nhiễm môi trường nước ở các đô thị và khu công nghiệp nước ta hiện nay chủ yếu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nước mưa đầu mùa chảy trên mái nhà dân."
+        },
+        {
+          "key": "B",
+          "text": "nước thải sinh hoạt và nước thải sản xuất chưa được xử lí đạt quy chuẩn trước khi xả vào sông, hồ."
+        },
+        {
+          "key": "C",
+          "text": "nước biển dâng xâm nhập vào các tầng nước ngầm sâu."
+        },
+        {
+          "key": "D",
+          "text": "các ao, hồ tự nhiên nằm sâu trong rừng."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Phần lớn nước thải đô thị và khu công nghiệp chưa được xử lí hoặc xử lí chưa đạt chuẩn, khiến nhiều sông, hồ nội đô bị phú dưỡng, thiếu ô xy, xuất hiện bọt và mùi hôi. A chỉ là nguồn ô nhiễm không đáng kể; C liên quan tới nhiễm mặn nước ngầm chứ không phải ô nhiễm hữu cơ ở sông hồ đô thị; D là nguồn nước tự nhiên chưa chịu tác động lớn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "ô nhiễm nước",
+        "đô thị"
+      ]
+    },
+    {
+      "id": "dia12-b05-c15",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Định hướng nào sau đây **không** phù hợp với yêu cầu sử dụng hợp lí tài nguyên nước?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quản lí tổng hợp theo lưu vực sông, điều hoà phân bổ nước giữa các ngành và các địa phương."
+        },
+        {
+          "key": "B",
+          "text": "Xử lí nước thải đạt quy chuẩn và tăng cường tái sử dụng nước đã qua xử lí."
+        },
+        {
+          "key": "C",
+          "text": "Bảo vệ, phục hồi rừng đầu nguồn và sử dụng nước tiết kiệm, hiệu quả."
+        },
+        {
+          "key": "D",
+          "text": "Tăng khai thác nước ngầm ở các đồng bằng để đáp ứng nhu cầu trước mắt của sản xuất."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Khai thác nước ngầm quá mức gây hạ thấp mực nước, sụt lún mặt đất và tạo điều kiện cho nước mặn xâm nhập vào tầng chứa nước, nên đây là hướng cần kiểm soát. A, B, C đều là định hướng đúng: dùng tổng hợp theo lưu vực, giảm phát thải ô nhiễm và tái sử dụng nước, giữ nguồn bổ cập cùng tiết kiệm nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên nước",
+        "định hướng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c16",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạn chế nổi bật trong khai thác, sử dụng tài nguyên khoáng sản ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khoáng sản nước ta quá nghèo nên phải nhập khẩu toàn bộ nguyên liệu khoáng."
+        },
+        {
+          "key": "B",
+          "text": "các mỏ khoáng sản đều nằm trên đồng bằng nên ít ảnh hưởng tới môi trường."
+        },
+        {
+          "key": "C",
+          "text": "nhiều mỏ khai thác quy mô nhỏ, công nghệ lạc hậu gây tổn thất tài nguyên, sản phẩm chủ yếu ở dạng thô chưa qua chế biến sâu."
+        },
+        {
+          "key": "D",
+          "text": "nước ta không có khoáng sản kim loại, chỉ có vật liệu xây dựng."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Tình trạng khai thác phân tán, mỏ nhỏ ngoài quy hoạch, công nghệ lạc hậu làm tổn thất tài nguyên, tạo nhiều bãi thải và gây ô nhiễm đất, nước; bán quặng thô mang lại giá trị gia tăng thấp. A và D sai vì nước ta khá giàu khoáng sản (than, dầu khí, sắt, thiếc, bôxit, apatit, đá vôi); B sai vì phần lớn mỏ ở vùng đồi núi, khai thác gắn với suy thoái rừng và cảnh quan.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên khoáng sản",
+        "thực trạng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c17",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Trữ lượng còn lại có thể khai thác của một mỏ là 24 triệu tấn, sản lượng khai thác hằng năm ổn định ở mức 1,6 triệu tấn và không phát hiện thêm trữ lượng. Thời gian khai thác còn lại của mỏ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 năm."
+        },
+        {
+          "key": "B",
+          "text": "20 năm."
+        },
+        {
+          "key": "C",
+          "text": "12 năm."
+        },
+        {
+          "key": "D",
+          "text": "38,4 năm."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Thời gian khai thác = trữ lượng chia cho sản lượng một năm: 24 : 1,6 = 15 năm. Đây là minh hoạ cho nguy cơ cạn kiệt của tài nguyên không tái tạo khi khai thác với nhịp độ cao. B và C là kết quả chia sai, D là tích 24 × 1,6.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên khoáng sản",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b05-c18",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Chính sách nào sau đây thể hiện **đúng** định hướng sử dụng hợp lí tài nguyên khoáng sản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng khai khoáng sản thô xuất khẩu để thu nhanh ngoại tệ."
+        },
+        {
+          "key": "B",
+          "text": "Điều tra, quy hoạch thăm dò và cấp phép khai thác gắn với chế biến sâu, thu hồi tối đa khoáng sản đi kèm và cải tạo, phục hồi môi trường sau khai thác."
+        },
+        {
+          "key": "C",
+          "text": "Khai thác bằng mọi giá các mỏ gần tuyến giao thông để giảm chi phí vận tải."
+        },
+        {
+          "key": "D",
+          "text": "Khoán trắng cho doanh nghiệp, không cần tính trữ lượng và không giám sát môi trường mỏ."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Khoáng sản là tài nguyên không tái tạo nên phải khai thác có kế hoạch, nâng cao hiệu quả qua chế biến sâu, tận thu khoáng sản đi kèm và hoàn nguyên môi trường mỏ. A làm mất giá trị gia tăng và đẩy nhanh cạn kiệt; C và D gây khai thác vượt quy hoạch, tổn thất tài nguyên cùng ô nhiễm đất, nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên khoáng sản",
+        "định hướng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c19",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo mục đích sử dụng, rừng ở nước ta được phân thành",
+      "options": [
+        {
+          "key": "A",
+          "text": "rừng tự nhiên, rừng trồng và rừng hỗn giao."
+        },
+        {
+          "key": "B",
+          "text": "rừng lá rộng, rừng lá kim và rừng hỗn lá."
+        },
+        {
+          "key": "C",
+          "text": "rừng ven biển, rừng đồng bằng và rừng núi cao."
+        },
+        {
+          "key": "D",
+          "text": "rừng phòng hộ, rừng đặc dụng và rừng sản xuất."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Ba loại rừng theo mục đích: rừng phòng hộ (bảo vệ đất, nguồn nước, chắn gió, chắn sóng), rừng đặc dụng (bảo tồn hệ sinh thái, nguồn gen, cảnh quan) và rừng sản xuất (cung cấp gỗ, lâm sản). A là phân theo nguồn gốc hình thành, B theo thành phần loài cây, C theo vị trí địa lí.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên rừng",
+        "phân loại rừng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c20",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong một bản báo cáo, tổng diện tích tự nhiên được lấy là 33,6 triệu ha và độ che phủ rừng toàn quốc là 42%. Theo số liệu đó, diện tích rừng toàn quốc xấp xỉ là",
+      "options": [
+        {
+          "key": "A",
+          "text": "13,4 triệu ha."
+        },
+        {
+          "key": "B",
+          "text": "15,1 triệu ha."
+        },
+        {
+          "key": "C",
+          "text": "14,1 triệu ha."
+        },
+        {
+          "key": "D",
+          "text": "16,8 triệu ha."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Diện tích rừng = 33,6 × 0,42 = 14,112 triệu ha, làm tròn 14,1 triệu ha. A là kết quả của 33,6 × 0,40 (nhầm lấy tỉ lệ 40%); B và D không khớp với phép tính trên.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên rừng",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b05-c21",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân chủ yếu làm suy giảm đa dạng sinh học ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mất và chia cắt sinh cảnh do phá rừng, khai thác quá mức, buôn bán trái phép các loài hoang dã cùng với ô nhiễm môi trường."
+        },
+        {
+          "key": "B",
+          "text": "hệ sinh thái rừng nhiệt đới có khả năng tự phục hồi rất nhanh nên không lo suy giảm."
+        },
+        {
+          "key": "C",
+          "text": "việc mở rộng liên tục hệ thống khu bảo tồn là nguyên nhân làm giảm số lượng loài."
+        },
+        {
+          "key": "D",
+          "text": "nước ta không có loài ngoại lai xâm hại nên đa dạng sinh học chỉ phụ thuộc vào khí hậu."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Sinh cảnh bị thu hẹp và chia cắt khiến quần thể mất nơi cư trú; việc săn bắt, khai thác quá mức và buôn bán trái phép trực tiếp làm giảm số lượng cá thể, còn ô nhiễm nước và đất làm suy thoái nơi sống. B đánh giá sai khả năng phục hồi; C ngược lại, khu bảo tồn là giải pháp bảo tồn; D sai vì loài ngoại lai xâm hại là một trong những mối đe dọa thực tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "đa dạng sinh học",
+        "thực trạng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c22",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Biện pháp bảo tồn đa dạng sinh học đang được áp dụng ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "thu hẹp diện tích rừng đặc dụng để lấy đất trồng cây công nghiệp dài ngày."
+        },
+        {
+          "key": "B",
+          "text": "nhập nội các loài ngoại lai để làm phong phú thêm thành phần loài."
+        },
+        {
+          "key": "C",
+          "text": "tổ chức săn bắt có chọn lọc các loài thú lớn trong phạm vi vườn quốc gia."
+        },
+        {
+          "key": "D",
+          "text": "xây dựng và mở rộng hệ thống vườn quốc gia, khu bảo tồn thiên nhiên ở các vùng sinh thái, kiểm soát săn bắt và buôn bán loài hoang dã."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Bảo tồn tại chỗ qua hệ thống vườn quốc gia, khu bảo tồn thiên nhiên (rừng đặc dụng) kèm kiểm soát khai thác, buôn bán trái phép, cứu hộ và nhân giống là hướng chủ đạo; hệ thống này phân bố ở nhiều vùng, từ Trung du và miền núi phía Bắc đến Duyên hải Nam Trung Bộ và Tây Nguyên. A và C phá vỡ chức năng khu bảo tồn; B là nguồn đe dọa đối với loài bản địa.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "đa dạng sinh học",
+        "biện pháp"
+      ]
+    },
+    {
+      "id": "dia12-b05-c23",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Vấn đề nổi bật trong khai thác tài nguyên sinh vật biển ở vùng ven bờ nước ta hiện nay là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nguồn lợi hải sản ven bờ tăng lên nhanh qua các năm nên khai thác thoải mái."
+        },
+        {
+          "key": "B",
+          "text": "khai thác ven bờ hoàn toàn bằng nghề thủ công nên hầu như không ảnh hưởng tới nguồn lợi."
+        },
+        {
+          "key": "C",
+          "text": "cường độ khai thác vượt khả năng tái tạo của vùng ven bờ, cùng với xung điện, chất nổ và lưới mắt nhỏ làm hủy diệt nguồn lợi và nơi cư trú của thủy sản."
+        },
+        {
+          "key": "D",
+          "text": "toàn bộ tàu cá đã chuyển ra vùng biển xa, vùng ven bờ không còn bị khai thác."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Ngư trường ven bờ đã bị khai thác quá mức, nhiều loài có kích thước và sản lượng giảm; các phương tiện mang tính hủy diệt còn phá rạn ngầm, cỏ biển, nơi sinh sản của thủy sản, nên nhà nước cấm và xử lí nghiêm. A và D trái thực tế; B chưa đánh giá đúng sức ép của đội tàu lớn ở vùng gần bờ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên biển",
+        "khai thác quá mức"
+      ]
+    },
+    {
+      "id": "dia12-b05-c24",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Xu hướng nào sau đây phản ánh **đúng** định hướng phát triển năng lượng gắn với bảo vệ môi trường ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng nhanh nhiệt điện than ở mọi vùng để bảo đảm nguồn điện."
+        },
+        {
+          "key": "B",
+          "text": "Dừng hẳn thủy điện, chỉ phát triển nhiệt điện khí."
+        },
+        {
+          "key": "C",
+          "text": "Mở rộng khai trường than lộ thiên làm nguồn nhiên liệu chính cho cả nước."
+        },
+        {
+          "key": "D",
+          "text": "Phát triển điện gió, điện mặt trời, điện sinh khối; sử dụng năng lượng tiết kiệm và hiệu quả, giảm dần tỉ trọng nhiệt điện than."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Định hướng là đa dạng hoá nguồn năng lượng tái tạo, dùng năng lượng hiệu quả và giảm nhiên liệu hoá thạch nhằm cắt giảm phát thải khí nhà kính, đồng thời hạn chế áp lực khai thác khoáng sản. A và C làm tăng phát thải, suy thoái đất và cảnh quan mỏ; B cực đoan vì thủy điện vẫn là nguồn sạch quan trọng, vấn đề là khai thác hợp lí kèm bảo vệ rừng đầu nguồn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "năng lượng tái tạo",
+        "định hướng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c25",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên nhân chủ yếu gây ô nhiễm không khí ở các đô thị lớn của nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "khí thải của các nhà máy điện hạt nhân đang vận hành trong nước."
+        },
+        {
+          "key": "B",
+          "text": "bụi từ các sa mạc trong nội địa châu Á thổi thẳng về đồng bằng nước ta."
+        },
+        {
+          "key": "C",
+          "text": "khí thải từ phương tiện giao thông dùng nhiên liệu hóa thạch, hoạt động xây dựng và sản xuất công nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "hoạt động đánh bắt hải sản trên vùng biển xa."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Mật độ xe máy, ô tô chạy bằng xăng, dầu cùng công trường xây dựng và khu công nghiệp tạo ra bụi mịn, các khí NOx, SOx, CO khiến chất lượng không khí ở nội đô xuống cấp. A sai vì nước ta chưa có nhà máy điện hạt nhân đang vận hành; B không đúng vì bụi sa mạc không phải nguồn chính ở đô thị nước ta; D không liên quan tới ô nhiễm không khí đô thị.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "ô nhiễm không khí",
+        "đô thị"
+      ]
+    },
+    {
+      "id": "dia12-b05-c26",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo mô hình kinh tế tuần hoàn, hướng ưu tiên trong xử lí chất thải rắn sinh hoạt ở đô thị là",
+      "options": [
+        {
+          "key": "A",
+          "text": "gom toàn bộ rác đưa ra bãi chôn lấp không hợp vệ sinh ở vùng ven."
+        },
+        {
+          "key": "B",
+          "text": "phân loại tại nguồn, tái sử dụng, tái chế, ủ sinh học và thu hồi năng lượng, chỉ chôn lấp phần không thể xử lí."
+        },
+        {
+          "key": "C",
+          "text": "đốt rác tự do tại các điểm tập kết để giảm khối lượng."
+        },
+        {
+          "key": "D",
+          "text": "chôn lẫn rác thải nhựa với rác hữu cơ trong cùng một ô chôn lấp."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Phân loại tại nguồn giúp tách rác hữu cơ để compost, rác tái chế để đưa vào sản xuất, phần còn lại mới mang đi chôn lấp hoặc phát điện, qua đó kéo dài vòng đời vật chất và giảm ô nhiễm. A và D làm bãi rác quá tải, sinh khí mê tan và nước rỉ rác; C phát sinh khí độc, tro bụi, không kiểm soát được chất thải nguy hại.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "chất thải rắn",
+        "kinh tế tuần hoàn"
+      ]
+    },
+    {
+      "id": "dia12-b05-c27",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất thải nguy hại như hóa chất bảo vệ thực vật, pin ắc quy, bùn thải công nghiệp, chất thải y tế phải được quản lí như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "chôn chung với rác sinh hoạt tại các bãi rác đô thị để tiết kiệm chi phí."
+        },
+        {
+          "key": "B",
+          "text": "đổ ra sông, kênh rạch để dòng chảy pha loãng."
+        },
+        {
+          "key": "C",
+          "text": "thu gom, phân loại riêng, vận chuyển và xử lí bằng công nghệ phù hợp bởi cơ sở có giấy phép, không trộn lẫn với chất thải sinh hoạt."
+        },
+        {
+          "key": "D",
+          "text": "giao cho từng hộ gia đình tự xử lí bằng cách đốt trong bếp sinh hoạt."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Chất thải nguy hại có tính độc, dễ cháy, ăn mòn, phóng xạ hoặc truyền nhiễm nên phải tách riêng, có nhật ký chuyển giao và được xử lí tại cơ sở đủ điều kiện. A và B phát tán chất độc vào đất, nước, chuỗi thức ăn và rất khó khắc phục; D không kiểm soát được khí độc và tro thải.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "chất thải nguy hại",
+        "quản lí môi trường"
+      ]
+    },
+    {
+      "id": "dia12-b05-c28",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Hướng đi phù hợp để giảm ô nhiễm do phân bón và thuốc bảo vệ thực vật trong nông nghiệp là",
+      "options": [
+        {
+          "key": "A",
+          "text": "bón phân cân đối, dùng thuốc theo nguyên tắc bốn đúng, mở rộng sản xuất theo chứng chỉ thực hành nông nghiệp tốt và phát triển nông nghiệp hữu cơ."
+        },
+        {
+          "key": "B",
+          "text": "phun thuốc trừ dịch hại theo lịch định kỳ quanh năm, không cần theo dõi mật độ sâu."
+        },
+        {
+          "key": "C",
+          "text": "rửa bình phun và dụng cụ sau khi phun trực tiếp ra kênh mương, ao hồ."
+        },
+        {
+          "key": "D",
+          "text": "tăng lượng phân hóa học và thuốc trừ sâu đến mức tối đa để đạt năng suất cao nhất."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Bón đúng lượng, đúng loại, đúng lúc, đúng cách kết hợp quản lí dịch hại tổng hợp và nông nghiệp hữu cơ giúp giảm dư lượng trong đất, nước và nông sản. D và B gây thừa phân, thừa thuốc, tồn dư nitơ và photpho làm phú dưỡng nguồn nước; C là hành vi bị cấm vì đưa trực tiếp hóa chất vào thủy vực.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "ô nhiễm đất",
+        "nông nghiệp"
+      ]
+    },
+    {
+      "id": "dia12-b05-c29",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Biểu hiện của biến đổi khí hậu ở nước ta là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhiệt độ trung bình năm tăng, lượng mưa thay đổi theo hướng cực đoan hơn, mực nước biển dâng và thiên tai xảy ra bất thường hơn."
+        },
+        {
+          "key": "B",
+          "text": "nhiệt độ trung bình năm giảm liên tục qua các thập kỉ gần đây."
+        },
+        {
+          "key": "C",
+          "text": "mực nước biển hạ thấp làm tăng diện tích đất ven biển."
+        },
+        {
+          "key": "D",
+          "text": "khí hậu nước ta ổn định, thiên tai ít xảy ra hơn trước."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Các quan trắc và kịch bản đều chỉ ra nền nhiệt tăng, mùa khô khô hạn hơn, mưa lớn tập trung gây lũ nhanh, kèm theo nước biển dâng và sự bất thường của bão, rét hại, nắng nóng. B và C ngược với xu hướng quan trắc; D phủ nhận thực tế thiên tai đang gia tăng về tần suất và cường độ.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "biến đổi khí hậu",
+        "biểu hiện"
+      ]
+    },
+    {
+      "id": "dia12-b05-c30",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo một kịch bản, nước biển dâng làm ngập 12% diện tích tự nhiên của một xã ven biển thuộc Đồng bằng sông Cửu Long, rộng 6 000 ha. Diện tích đất **không** bị ngập là",
+      "options": [
+        {
+          "key": "A",
+          "text": "720 ha."
+        },
+        {
+          "key": "B",
+          "text": "5 280 ha."
+        },
+        {
+          "key": "C",
+          "text": "5 180 ha."
+        },
+        {
+          "key": "D",
+          "text": "5 300 ha."
+        }
+      ],
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "**Đáp án: B.** Diện tích không bị ngập ứng với 100% − 12% = 88%, tức 6 000 × 0,88 = 5 280 ha. A là phần bị ngập (6 000 × 0,12); C và D là kết quả tính hoặc làm tròn sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "nước biển dâng",
+        "tính toán"
+      ]
+    },
+    {
+      "id": "dia12-b05-c31",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Xâm nhập mặn ở Đồng bằng sông Cửu Long thường gay gắt nhất vào các tháng mùa khô vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "lượng nước ngọt từ thượng nguồn và lượng mưa giảm, mực nước sông hạ thấp nên thủy triều đưa nước mặn sâu vào nội đồng."
+        },
+        {
+          "key": "B",
+          "text": "gió mùa đông bắc tác động trực tiếp gây nước biển dâng."
+        },
+        {
+          "key": "C",
+          "text": "mưa nhiều làm loãng nước sông, đẩy nước mặn ra xa khơi."
+        },
+        {
+          "key": "D",
+          "text": "hệ thống cống đập đã đóng kín toàn bộ nội đồng nên nước mặn không thể xâm nhập."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Về mùa khô, tổng lượng dòng chảy ở hạ du nhỏ nên thế nước ngọt yếu, triều lên đưa mặn đi xa hơn và lâu hơn; hiện tượng còn nặng thêm do suy giảm rừng ven sông, khai thác cát và thiếu công trình trữ nước ngọt. C là đặc điểm của mùa mưa; B nhầm cơ chế của gió mùa; D trái thực tế vì hệ thống thủy lợi chưa bao phủ hết nội đồng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "xâm nhập mặn",
+        "đồng bằng sông cửu long"
+      ]
+    },
+    {
+      "id": "dia12-b05-c32",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Giải thích nào sau đây **đúng** về tình trạng sạt lở bờ sông, bờ biển ở nước ta ngày càng nghiêm trọng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "sông ngòi nước ta ngắn và dốc nên lòng dẫn luôn ổn định, không gây sạt lở."
+        },
+        {
+          "key": "B",
+          "text": "rừng phòng hộ ven biển được mở rộng liên tục nên bờ biển luôn trong trạng thái bồi tụ."
+        },
+        {
+          "key": "C",
+          "text": "mực nước biển hạ thấp làm sóng đánh yếu đi, bờ biển được bồi đắp."
+        },
+        {
+          "key": "D",
+          "text": "khai thác cát quá mức làm hạ thấp lòng dẫn, mất rừng ngập mặn và lớp phủ thực vật ven bờ, cùng các công trình chắn dòng làm thay đổi dòng chảy, chế độ sóng và hải lưu."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Hạ thấp lòng dẫn do khai thác cát làm dốc bờ, tăng năng lượng dòng; mất rừng ngập mặn, rừng phòng hộ mất khả năng tiêu sóng; các công trình trên sông chặn phù sa khiến vùng ven biển mất nguồn bồi lấp, dẫn tới sạt lở cả bờ sông và bờ biển. A và C trái thực tế; B chưa đúng vì nhiều nơi rừng ven biển vẫn bị thu hẹp.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "sạt lở",
+        "bờ sông bờ biển"
+      ]
+    },
+    {
+      "id": "dia12-b05-c33",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây thể hiện **đúng** bản chất của kinh tế tuần hoàn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "chất thải được coi là đầu vào của chu trình sản xuất tiếp theo, tài nguyên được giữ trong vòng tuần hoàn lâu nhất có thể, giảm khai thác tài nguyên nguyên sinh và giảm chôn lấp."
+        },
+        {
+          "key": "B",
+          "text": "mô hình sản xuất – tiêu dùng – thải bỏ, tài nguyên đi một chiều từ khai thác tới bãi rác."
+        },
+        {
+          "key": "C",
+          "text": "tăng khai thác tài nguyên nguyên sinh vì giá thành thường rẻ hơn nguyên liệu tái chế."
+        },
+        {
+          "key": "D",
+          "text": "mở rộng khu công nghiệp để tăng trưởng nhanh, coi nhẹ khâu xử lí chất thải."
+        }
+      ],
+      "correctAnswer": [
+        "A"
+      ],
+      "explanation": "**Đáp án: A.** Kinh tế tuần hoàn khép vòng vật chất bằng tái sử dụng, tái chế, thu hồi năng lượng và thiết kế sản phẩm để dễ tháo dỡ, qua đó giảm áp lực lên tài nguyên và môi trường. B là kinh tế tuyến tính; C và D là cách làm ngược với nguyên tắc tuần hoàn và phát triển bền vững.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "kinh tế tuần hoàn",
+        "định hướng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c34",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Ba trụ cột của phát triển bền vững là",
+      "options": [
+        {
+          "key": "A",
+          "text": "công nghiệp – nông nghiệp – dịch vụ."
+        },
+        {
+          "key": "B",
+          "text": "tăng trưởng – xuất khẩu – đầu tư."
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước – doanh nghiệp – người dân."
+        },
+        {
+          "key": "D",
+          "text": "kinh tế – xã hội – môi trường."
+        }
+      ],
+      "correctAnswer": [
+        "D"
+      ],
+      "explanation": "**Đáp án: D.** Phát triển bền vững đòi hỏi kết hợp hài hoà tăng trưởng kinh tế, công bằng xã hội và bảo vệ môi trường; sử dụng hợp lí tài nguyên chính là để không làm tổn hại khả năng đáp ứng nhu cầu của thế hệ sau. A là cơ cấu ngành kinh tế, B là các chỉ tiêu tăng trưởng, C là các chủ thể tham gia phát triển.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "phát triển bền vững",
+        "ba trụ cột"
+      ]
+    },
+    {
+      "id": "dia12-b05-c35",
+      "partName": "Phần I. Trắc nghiệm bốn phương án",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Luật Bảo vệ môi trường năm 2020 của nước ta có điểm mới nào sau đây trong quản lí chất thải?",
+      "options": [
+        {
+          "key": "A",
+          "text": "cho phép nhập khẩu rác thải công nghiệp về làm nguyên liệu sản xuất."
+        },
+        {
+          "key": "B",
+          "text": "bỏ hẳn thủ tục đánh giá tác động môi trường đối với các dự án đầu tư."
+        },
+        {
+          "key": "C",
+          "text": "quy định bắt buộc phân loại chất thải rắn sinh hoạt tại nguồn, trách nhiệm thu hồi và tái chế sản phẩm hết vòng đời của nhà sản xuất, theo nguyên tắc người gây ô nhiễm phải trả tiền."
+        },
+        {
+          "key": "D",
+          "text": "giao toàn bộ việc xử lí chất thải cho từng hộ gia đình tự lo."
+        }
+      ],
+      "correctAnswer": [
+        "C"
+      ],
+      "explanation": "**Đáp án: C.** Luật 2020 thể chế hóa phân loại rác tại nguồn, trách nhiệm mở rộng của nhà sản xuất trong thu hồi, tái chế và nguyên tắc người gây ô nhiễm phải trả tiền, đồng thời siết quản lí chất thải nguy hại. A trái với quy định về kiểm soát xuyên biên giới chất thải; B sai vì đánh giá tác động môi trường vẫn là thủ tục bắt buộc với nhóm dự án có nguy cơ; D không đúng vì xử lí chất thải là trách nhiệm của tổ chức, cá nhân sản sinh chất thải cùng sự quản lí của Nhà nước.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "bảo vệ môi trường",
+        "chính sách"
+      ]
+    },
+    {
+      "id": "dia12-b05-c36",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về phân loại tài nguyên thiên nhiên theo khả năng tái tạo?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dầu mỏ, than đá và khí tự nhiên là tài nguyên không tái tạo nên cần khai thác tiết kiệm, có hiệu quả và tính đến dự trữ cho tương lai."
+        },
+        {
+          "key": "B",
+          "text": "Đất, nước mặt và tài nguyên rừng là tài nguyên không tái tạo vì một khi đã sử dụng thì mất hẳn, không thể phục hồi."
+        },
+        {
+          "key": "C",
+          "text": "Năng lượng bức xạ mặt trời, gió và thủy triều thuộc nhóm năng lượng vĩnh cửu, không bị cạn kiệt khi khai thác hợp lí."
+        },
+        {
+          "key": "D",
+          "text": "Quặng sắt, quặng đồng được xếp vào tài nguyên tái tạo vì kim loại có thể sản xuất lại trong các nhà máy luyện kim."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "**Đáp án: A, C.** Nhiên liệu hoá thạch và khoáng sản kim loại hình thành chậm qua hàng triệu năm nên thuộc nhóm không tái tạo; năng lượng mặt trời, gió, thủy triều được tự nhiên bổ sung liên tục nên được xếp vào nhóm năng lượng vĩnh cửu. B sai vì đất, nước mặt và rừng là tài nguyên tái tạo được, chỉ mất khả năng phục hồi khi khai thác quá mức; D sai vì nhà máy luyện kim chỉ tái chế sản phẩm, còn quặng trong tự nhiên vẫn là tài nguyên không tái tạo.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "phân loại tài nguyên",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c37",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về thực trạng sử dụng tài nguyên đất và rừng ở vùng trung du, miền núi nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nương rẫy trên đất dốc và mất lớp phủ thực vật khiến đất bị xói mòn, rửa trôi, bạc màu."
+        },
+        {
+          "key": "B",
+          "text": "Khai thác rừng bừa bãi làm giảm diện tích rừng phòng hộ, tăng nguy cơ lũ quét và sạt lở đất."
+        },
+        {
+          "key": "C",
+          "text": "Đất đồi núi nước ta nhìn chung tầng đất dày, màu mỡ và ổn định nên ít bị thoái hóa."
+        },
+        {
+          "key": "D",
+          "text": "Một định hướng quan trọng là thực hiện định canh định cư, phủ xanh đất trống đồi trọc và giao đất, giao rừng cho hộ dân."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, B, D.** Ba phát biểu phản ánh đúng vòng xoắn suy thoái ở miền núi: mất rừng làm lộ đất dốc, mưa rửa trôi lớp đất mặt, đất xấu đi khiến người dân phải mở thêm diện tích canh tác mới; vì vậy các biện pháp canh tác trên đất dốc gắn với lâm nghiệp và giao đất, giao rừng là định hướng chủ đạo. C sai vì đất feralit vùng đồi núi có tầng mỏng, nhiều đá lẫn, chua, nghèo mùn và rất dễ thoái hóa khi mất rừng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "tài nguyên đất",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c38",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về thực trạng ô nhiễm môi trường nước ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nước ngầm ở các đồng bằng không thể bị ô nhiễm vì đã được các tầng đất lọc tự nhiên."
+        },
+        {
+          "key": "B",
+          "text": "Nước thải sinh hoạt đô thị và nước thải khu công nghiệp chưa xử lí đạt chuẩn là nguồn gây ô nhiễm chính cho sông, hồ."
+        },
+        {
+          "key": "C",
+          "text": "Ô nhiễm nguồn nước chỉ xảy ra ở nông thôn, nơi có nhiều ao, hồ tự nhiên."
+        },
+        {
+          "key": "D",
+          "text": "Dư lượng phân bón, thuốc bảo vệ thực vật theo nước mưa chảy tràn xuống sông, kênh rạch và hồ chứa."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, D.** Nguồn thải tập trung từ sinh hoạt, công nghiệp, làng nghề cùng nguồn thải phân tán từ nông nghiệp là hai nhóm tác động lớn nhất, khiến nhiều đoạn sông bị phú dưỡng, thiếu ô xy, xuất hiện bọt và mùi hôi. A sai vì nước ngầm vẫn có thể nhiễm asen, vi sinh, nitrat và hóa chất khi tầng chứa nước nhận chất ô nhiễm từ mặt đất; C sai vì ô nhiễm diễn ra ở cả đô thị, khu công nghiệp, làng nghề và vùng nuôi trồng thủy sản tập trung.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "ô nhiễm nước",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c39",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những phát biểu nào sau đây **đúng** về tác động của biến đổi khí hậu và nước biển dâng ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nền nhiệt tăng làm thay đổi lịch mùa vụ, cơ cấu cây trồng và làm tăng nhu cầu nước cho sản xuất nông nghiệp."
+        },
+        {
+          "key": "B",
+          "text": "Nước biển dâng chỉ ảnh hưởng tới dải ven biển, không tác động tới sản xuất nông nghiệp ở nội đồng."
+        },
+        {
+          "key": "C",
+          "text": "Xâm nhập mặn có xu hướng gay gắt và sâu hơn vào nội đồng, nhất là trong các tháng mùa khô."
+        },
+        {
+          "key": "D",
+          "text": "Các hiện tượng cực đoan như bão, mưa lớn, nắng nóng, hạn hán diễn biến bất thường hơn, làm tăng rủi ro thiên tai."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: A, C, D.** Biến đổi khí hậu tác động theo kiểu dây chuyền: nền nhiệt tăng làm thay đổi mùa vụ và tăng thoát hơi nước của cây trồng; nước biển dâng cùng dòng chảy mùa khô nhỏ lại khiến mặn đi sâu hơn, ảnh hưởng tới cả vùng nội đồng qua hệ thống sông, kênh; các hiện tượng cực đoan làm tăng rủi ro thiên tai về người và tài sản. B sai vì nước biển dâng, thông qua thủy triều, ngập và mặn, tác động rộng vào nội đồng, thu hẹp đất nông nghiệp và buộc chuyển đổi cơ cấu sản xuất.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "biến đổi khí hậu",
+        "phát biểu đúng"
+      ]
+    },
+    {
+      "id": "dia12-b05-c40",
+      "partName": "Phần II. Chọn các phát biểu đúng",
+      "topic": "topic-dia-b05-tai-nguyen-moi-truong",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những định hướng nào sau đây **phù hợp** với việc sử dụng hợp lí tài nguyên thiên nhiên và bảo vệ môi trường ở nước ta?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở rộng khai khoáng sản thô xuất khẩu nhằm thu nhanh nguồn thu cho ngân sách."
+        },
+        {
+          "key": "B",
+          "text": "Chuyển sang mô hình kinh tế tuần hoàn: phân loại chất thải tại nguồn, tái chế, thu hồi năng lượng và giảm chôn lấp."
+        },
+        {
+          "key": "C",
+          "text": "Bảo vệ và phát triển rừng phòng hộ, rừng đặc dụng; quản lí tài nguyên nước theo lưu vực sông và khai thác hải sản có điều tiết."
+        },
+        {
+          "key": "D",
+          "text": "Tăng cường giáo dục, đề cao trách nhiệm của Nhà nước, doanh nghiệp và mỗi công dân; phát triển năng lượng tái tạo, sử dụng năng lượng tiết kiệm và hiệu quả."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "**Đáp án: B, C, D.** Ba định hướng này kết hợp công cụ kinh tế – kĩ thuật (tuần hoàn chất thải, năng lượng sạch), giải pháp sinh thái theo lưu vực và vùng sinh thái (rừng phòng hộ, rừng đặc dụng, khai thác hải sản có điều tiết) với giải pháp xã hội (giáo dục, trách nhiệm của các chủ thể). A sai vì xuất khoáng sản thô làm mất giá trị gia tăng, cạn kiệt nhanh tài nguyên không tái tạo và để lại hậu quả môi trường cho địa phương.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "địa lí 12",
+        "bài 5",
+        "định hướng",
+        "phát biểu đúng"
+      ]
+    }
+  ]
+}

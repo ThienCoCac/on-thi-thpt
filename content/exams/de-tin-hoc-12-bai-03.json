@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-03",
+  "title": "Đề ôn tập Tin học 12 – Bài 3: Một số thiết bị mạng thông dụng",
+  "slug": "de-tin-hoc-12-bai-03",
+  "description": "Đề ôn tập theo Bài 3 SGK Tin học 12: bộ chia tín hiệu hub, bộ chuyển mạch switch, bộ định tuyến router, các loại modem, cáp mạng UTP và trạm thu phát Wi-Fi. Đề có 28 câu làm trong 45 phút, gồm 24 câu trắc nghiệm bốn phương án (0,25 điểm mỗi câu) và 4 câu chọn các nhận định đúng (1 điểm mỗi câu). Mỗi câu đều có lời giải nêu rõ căn cứ theo sách giáo khoa và giải thích vì sao các phương án còn lại sai.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B03",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T08:00:00.000Z",
+  "updatedAt": "2026-11-05T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b03-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "bộ chuyển mạch"],
+      "content": "Trong mạng cục bộ có dây, thiết bị nào tiếp nhận dữ liệu, xác định cổng kết nối của máy gửi và máy nhận rồi thiết lập tạm thời kênh truyền giữa hai cổng đó?",
+      "options": [
+        { "key": "A", "text": "Bộ chia tín hiệu hub." },
+        { "key": "B", "text": "Bộ chuyển mạch switch." },
+        { "key": "C", "text": "Bộ định tuyến router." },
+        { "key": "D", "text": "Modem quang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đó chính là cách hoạt động của switch: xác định cổng của máy gửi và máy nhận, thiết lập tạm thời kênh truyền giữa hai cổng rồi huỷ sau khi truyền xong. Hub chỉ phát tín hiệu ra tất cả các cổng còn lại; router làm nhiệm vụ định tuyến giữa các mạng; modem chỉ biến đổi tín hiệu."
+    },
+    {
+      "id": "tinhoc12-b03-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "hub"],
+      "content": "Khi một máy tính gửi dữ liệu vào một cổng của bộ chia tín hiệu (hub), hub xử lí tín hiệu đó như thế nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ chuyển tín hiệu tới cổng có máy nhận dữ liệu." },
+        { "key": "B", "text": "Lưu tín hiệu lại và chỉ truyền đi khi đường truyền chung đang rảnh." },
+        { "key": "C", "text": "Gửi tín hiệu đến tất cả các cổng còn lại của hub." },
+        { "key": "D", "text": "Biến đổi tín hiệu số thành tín hiệu tương tự rồi mới phát đi." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu đặc điểm của hub là tín hiệu thu được ở một cổng được gửi đến tất cả các cổng còn lại, vì vậy hub được gọi là bộ chia tín hiệu. A là cách hoạt động của switch; B không phải cách hub xử lí tín hiệu; D là chức năng của modem."
+    },
+    {
+      "id": "tinhoc12-b03-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "xung đột"],
+      "content": "Theo Bài 3, hiện tượng xung đột tín hiệu trong mạng dùng đường truyền chung xảy ra khi nào?",
+      "options": [
+        { "key": "A", "text": "Nhiều máy tính đồng thời gửi dữ liệu lên đường truyền chung làm tín hiệu bị hỏng." },
+        { "key": "B", "text": "Máy tính nhận dữ liệu chưa bật nguồn nên không tiếp nhận được khung dữ liệu." },
+        { "key": "C", "text": "Router chọn nhầm cổng WAN khi có nhiều cổng kết nối ra ngoài." },
+        { "key": "D", "text": "Switch huỷ kênh truyền ngay sau khi một cuộc truyền kết thúc." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Xung đột là hiện tượng nhiều máy đồng thời gửi dữ liệu lên đường truyền chung, khiến tín hiệu bị hỏng và các máy không nhận biết được dữ liệu. B chỉ là máy nhận đang offline, không tạo ra xung đột; C là chuyện chọn đường của router; D là việc làm bình thường và đúng chức năng của switch."
+    },
+    {
+      "id": "tinhoc12-b03-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "xung đột"],
+      "content": "Hệ quả của hiện tượng xung đột tín hiệu được mô tả trong Bài 3 là gì?",
+      "options": [
+        { "key": "A", "text": "Dữ liệu bị hỏng được các thiết bị tự động sửa nên hiệu quả mạng không giảm." },
+        { "key": "B", "text": "Các máy tính phải truyền lại dữ liệu, làm giảm hiệu quả hoạt động của mạng." },
+        { "key": "C", "text": "Mạng cục bộ ngừng hoạt động cho tới khi khởi động lại toàn bộ thiết bị." },
+        { "key": "D", "text": "Địa chỉ MAC của máy gửi bị thay đổi nên dữ liệu bị chuyển sai cổng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vì tín hiệu bị hỏng nên các máy không nhận biết được dữ liệu và phải truyền lại, việc truyền lại này làm giảm hiệu quả của mạng. A sai vì dữ liệu hỏng không được tự động sửa; C phóng đại thành tê liệt mạng; D sai vì địa chỉ MAC của thiết bị không thay đổi khi xung đột."
+    },
+    {
+      "id": "tinhoc12-b03-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "bộ định tuyến"],
+      "content": "Phát biểu nào sau đây nói đúng về các cổng của bộ định tuyến (router)?",
+      "options": [
+        { "key": "A", "text": "Mọi cổng của router đều dùng để kết nối trực tiếp với máy tính trong mạng cục bộ." },
+        { "key": "B", "text": "Router chỉ có một cổng duy nhất nên không thể nối tới mạng của nhà cung cấp dịch vụ." },
+        { "key": "C", "text": "Cổng LAN dùng để nối router với router khác, còn cổng WAN dùng để nối vào mạng cục bộ." },
+        { "key": "D", "text": "Router có cổng LAN để kết nối trực tiếp vào mạng cục bộ và cổng WAN để kết nối với router khác." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách mô tả mỗi router có một số cổng LAN nối trực tiếp vào mạng cục bộ và một số cổng WAN nối với router khác, tức nối ra mạng bên ngoài. A và C đảo lẫn vai trò của các loại cổng; B sai vì router có nhiều cổng và chính các cổng đó mới cho phép nối nhiều mạng."
+    },
+    {
+      "id": "tinhoc12-b03-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "bộ định tuyến"],
+      "content": "Ở một bộ định tuyến, cổng WAN có nhiệm vụ gì?",
+      "options": [
+        { "key": "A", "text": "Nối các máy tính trong cùng mạng cục bộ bằng cáp UTP." },
+        { "key": "B", "text": "Phát tán tín hiệu thu được ra tất cả các cổng còn lại." },
+        { "key": "C", "text": "Kết nối router đó với router khác hoặc với mạng của nhà cung cấp dịch vụ." },
+        { "key": "D", "text": "Chuyển đổi tín hiệu số thành tín hiệu tương tự và ngược lại." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cổng WAN là cổng hướng ra ngoài, dùng để kết nối với router khác hay với mạng của nhà cung cấp dịch vụ. A là vai trò của cổng LAN; B là cách hoạt động của hub; D là chức năng của modem, không phải của cổng router."
+    },
+    {
+      "id": "tinhoc12-b03-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "modem"],
+      "content": "Chức năng chính của modem trong kết nối Internet là gì?",
+      "options": [
+        { "key": "A", "text": "Chuyển đổi tín hiệu số thành tín hiệu tương tự và ngược lại, chỉ thay đổi tín hiệu mà không làm thay đổi dữ liệu được mang bởi tín hiệu." },
+        { "key": "B", "text": "Chọn cổng thích hợp để chỉ hướng luồng dữ liệu đi tới đích trên mạng diện rộng." },
+        { "key": "C", "text": "Chia tín hiệu ra tất cả các cổng nhằm mở rộng số máy tính trong mạng cục bộ." },
+        { "key": "D", "text": "Chuyển mạch khung dữ liệu theo địa chỉ MAC của từng thiết bị." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Modem là thiết bị biến đổi tín hiệu số sang tín hiệu tương tự và ngược lại; nó chỉ thay đổi dạng tín hiệu chứ không làm thay đổi dữ liệu mà tín hiệu mang. B là chức năng định tuyến của router; C là cách hoạt động của hub; D là chức năng chuyển mạch của switch."
+    },
+    {
+      "id": "tinhoc12-b03-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "modem"],
+      "content": "Loại modem nào có khe cắm SIM để truy cập Internet qua hệ thống thông tin di động và có thể phát lại qua sóng Wi-Fi?",
+      "options": [
+        { "key": "A", "text": "Modem quay số." },
+        { "key": "B", "text": "Modem ADSL." },
+        { "key": "C", "text": "Modem GSM 3G, 4G, 5G." },
+        { "key": "D", "text": "Modem quang." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách liệt kê modem GSM 3G, 4G, 5G có khe SIM, truy cập Internet qua hệ thống thông tin di động và phát lại qua sóng Wi-Fi hoặc nối vào mạng có dây. A dùng mạng điện thoại công cộng; B dùng đường dây cáp điện thoại; D chuyển đổi tín hiệu số sang tín hiệu quang."
+    },
+    {
+      "id": "tinhoc12-b03-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "modem"],
+      "content": "Theo Bài 3, phát biểu nào sau đây đúng về các loại modem?",
+      "options": [
+        { "key": "A", "text": "Modem quay số truy cập Internet nhờ sóng vô tuyến của mạng thông tin di động." },
+        { "key": "B", "text": "Modem quang làm nhiệm vụ chuyển mạch dữ liệu theo địa chỉ MAC trong mạng cục bộ." },
+        { "key": "C", "text": "Modem ADSL dùng khe cắm SIM để phát Internet ra xung quanh dưới dạng sóng Wi-Fi." },
+        { "key": "D", "text": "Modem ADSL kết nối Internet qua đường dây cáp của mạng điện thoại, còn modem quang chuyển đổi tín hiệu số sang tín hiệu quang." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đáp án D ghép đúng hai đặc điểm mà sách nêu: modem ADSL dùng cáp điện thoại và modem quang biến đổi tín hiệu số thành tín hiệu quang. A sai vì modem quay số dùng mạng điện thoại công cộng, không dùng sóng di động; B gán nhầm chức năng của switch; C gán nhầm đặc điểm của modem GSM."
+    },
+    {
+      "id": "tinhoc12-b03-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "cáp mạng"],
+      "content": "Trong mạng cục bộ có dây, loại cáp và đầu nối nào thường được dùng để cắm vào cổng RJ45 của máy tính và của các thiết bị mạng?",
+      "options": [
+        { "key": "A", "text": "Cáp đồng trục với giắc BNC." },
+        { "key": "B", "text": "Cáp mạng UTP gồm bốn đôi dây xoắn với giắc cắm RJ45." },
+        { "key": "C", "text": "Cáp quang hai sợi với đầu nối LC." },
+        { "key": "D", "text": "Cáp điện thoại RJ11 bốn lõi." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Các mạng LAN thường dùng cáp mạng UTP có bốn đôi dây xoắn với giắc cắm RJ45 để kết nối giữa máy tính và switch, hub hoặc cổng LAN của router. A, C, D là các loại cáp và đầu nối khác, không phải loại dùng với cổng RJ45 trong mạng LAN mà bài học mô tả."
+    },
+    {
+      "id": "tinhoc12-b03-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "cáp mạng"],
+      "content": "Một đầu giắc RJ45 của cáp mạng UTP được cắm vào cổng RJ45 của máy tính; đầu còn lại nên cắm vào đâu để máy gia nhập mạng cục bộ theo hướng dẫn của Bài 3?",
+      "options": [
+        { "key": "A", "text": "Một cổng RJ45 của switch hoặc hub, hay cổng LAN của router." },
+        { "key": "B", "text": "Cổng WAN của router để máy tính nối thẳng ra mạng của nhà cung cấp." },
+        { "key": "C", "text": "Khe cắm SIM của modem di động." },
+        { "key": "D", "text": "Cổng nguồn của bộ định tuyến." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách hướng dẫn cắm đầu còn lại vào cổng RJ45 của switch, của hub hoặc vào cổng LAN của router, vì đó là các cổng dùng để kết nối thiết bị vào mạng cục bộ. B sai vì cổng WAN hướng ra mạng bên ngoài, không dùng để nối máy tính trong LAN; C và D không phải cổng dữ liệu của máy tính."
+    },
+    {
+      "id": "tinhoc12-b03-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "wi-fi"],
+      "content": "Phát biểu nào sau đây đúng về bản chất của Wi-Fi theo Bài 3?",
+      "options": [
+        { "key": "A", "text": "Wi-Fi là tên một thiết bị phần cứng do một hãng sản xuất tạo ra để phát sóng vô tuyến." },
+        { "key": "B", "text": "Wi-Fi là bộ tiêu chuẩn kĩ thuật truyền dữ liệu bằng sóng vô tuyến, không phải tên một thiết bị." },
+        { "key": "C", "text": "Wi-Fi là giao thức định tuyến chỉ dùng cho mạng diện rộng." },
+        { "key": "D", "text": "Wi-Fi là một loại cáp mạng không cần giắc cắm RJ45." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Wi-Fi là bộ tiêu chuẩn kĩ thuật cho truyền dữ liệu bằng sóng vô tuyến, thiết bị phát sóng là trạm thu phát Wi-Fi chứ không phải bản thân Wi-Fi. A nhầm tên tiêu chuẩn với tên thiết bị; C nhầm với giao thức định tuyến của router; D nhầm công nghệ vô tuyến với cáp."
+    },
+    {
+      "id": "tinhoc12-b03-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "thu phát wi-fi"],
+      "content": "Theo Bài 3, trạm thu phát Wi-Fi gắn với mạng cục bộ như thế nào?",
+      "options": [
+        { "key": "A", "text": "Mỗi trạm thu phát Wi-Fi đều nằm ngoài mạng cục bộ và chỉ nối tới cổng WAN của router." },
+        { "key": "B", "text": "Trạm thu phát Wi-Fi thay thế hoàn toàn chức năng định tuyến của router." },
+        { "key": "C", "text": "Mỗi trạm thu phát Wi-Fi nằm trong hoặc tạo ra một mạng cục bộ." },
+        { "key": "D", "text": "Trạm thu phát Wi-Fi chỉ xuất hiện trong mạng có dây dùng cáp quang." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nói mỗi trạm thu phát Wi-Fi nằm trong hoặc tự nó tạo ra một mạng cục bộ, nên các thiết bị thu phát sóng đó gia nhập một LAN. A sai vì trạm thu phát gắn với mạng cục bộ, không nối vào cổng WAN; B sai vì thu phát sóng không phải định tuyến; D mâu thuẫn với bản chất vô tuyến."
+    },
+    {
+      "id": "tinhoc12-b03-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "thu phát wi-fi"],
+      "content": "Muốn một máy tính để bàn hiện chỉ có kết nối có dây tham gia được mạng Wi-Fi, theo Bài 3 thường phải làm gì?",
+      "options": [
+        { "key": "A", "text": "Thay modem quang bằng modem quay số." },
+        { "key": "B", "text": "Cắm thêm cáp UTP vào cổng WAN của router." },
+        { "key": "C", "text": "Gán lại địa chỉ IP cho máy tính đó." },
+        { "key": "D", "text": "Lắp thêm bảng mạch mở rộng có chức năng thu phát sóng vô tuyến." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu máy tính để bàn thường phải lắp thêm bảng mạch mở rộng thì mới kết nối Wi-Fi được, vì chúng thường chưa có sẵn bộ thu phát vô tuyến. A và B chỉ liên quan tới đường truyền ra ngoài, không tạo khả năng thu phát sóng cho máy; C là cấu hình logic, không thay thế phần cứng thu phát."
+    },
+    {
+      "id": "tinhoc12-b03-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "so sánh thiết bị"],
+      "content": "So sánh bộ chuyển mạch switch và bộ chia tín hiệu hub, phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Switch chuyển mạch nên chỉ gửi dữ liệu tới cổng cần nhận và hạn chế xung đột; hub phát tín hiệu ra tất cả các cổng còn lại nên dễ xảy ra xung đột." },
+        { "key": "B", "text": "Switch phát tán dữ liệu ra mọi cổng, còn hub chỉ gửi tới đúng máy nhận." },
+        { "key": "C", "text": "Hub và switch có nguyên tắc hoạt động như nhau, chỉ khác nhau ở số cổng và giá thành." },
+        { "key": "D", "text": "Switch là thiết bị định tuyến giữa các mạng, còn hub là thiết bị chuyển mạch trong mạng cục bộ." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khác biệt cơ bản là switch thiết lập kênh truyền riêng giữa cổng máy gửi và cổng máy nhận, còn hub phát tín hiệu đi mọi cổng nên nhiều máy cùng gửi sẽ xung đột. B đảo ngược đặc điểm của hai thiết bị; C phủ nhận khác biệt về nguyên tắc hoạt động; D nhầm switch với router."
+    },
+    {
+      "id": "tinhoc12-b03-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "địa chỉ mac"],
+      "content": "Trong mạng cục bộ, switch dựa vào địa chỉ nào của thiết bị để xác định cổng cần chuyển dữ liệu tới?",
+      "options": [
+        { "key": "A", "text": "Địa chỉ IP của máy nhận." },
+        { "key": "B", "text": "Tên miền của máy chủ trong mạng." },
+        { "key": "C", "text": "Địa chỉ MAC của thiết bị nhận." },
+        { "key": "D", "text": "Số hiệu cổng WAN của bộ định tuyến." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Switch chuyển mạch dựa trên địa chỉ MAC của thiết bị nên biết được máy nhận nối vào cổng nào, từ đó chỉ gửi dữ liệu tới cổng đó. A và B là địa chỉ, tên dùng ở mức định tuyến và ứng dụng, không phải căn cứ chuyển mạch của switch; D không liên quan tới việc chọn cổng trong LAN."
+    },
+    {
+      "id": "tinhoc12-b03-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "định tuyến"],
+      "content": "Theo Bài 3, thuật ngữ định tuyến (chọn đường) ở bộ định tuyến hàm ý điều gì?",
+      "options": [
+        { "key": "A", "text": "Router phải chọn một cổng thích hợp để gửi dữ liệu sao cho dữ liệu tới được mạng cục bộ của máy nhận." },
+        { "key": "B", "text": "Router phải biến đổi mọi dữ liệu thành tín hiệu tương tự trước khi truyền đi." },
+        { "key": "C", "text": "Router phải phát bản sao dữ liệu tới tất cả các cổng LAN đang có." },
+        { "key": "D", "text": "Router phải gán lại địa chỉ MAC cho từng thiết bị trong mạng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Định tuyến chính là việc router chọn một cổng thích hợp để gửi dữ liệu đi sao cho tới được LAN của máy nhận. B là chức năng của modem; C là cách hoạt động của hub, trái với việc chọn đường; D sai vì router không gán lại địa chỉ MAC của thiết bị."
+    },
+    {
+      "id": "tinhoc12-b03-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "chuyển mạch"],
+      "content": "Khi hai máy tính nằm trong cùng một mạng cục bộ trao đổi dữ liệu với nhau, phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Dữ liệu nhất thiết phải đi qua router và được chọn đường theo địa chỉ IP." },
+        { "key": "B", "text": "Dữ liệu truyền trong cùng mạng dựa trên địa chỉ MAC của thiết bị, không cần router định tuyến." },
+        { "key": "C", "text": "Dữ liệu phải được modem quang biến đổi thành tín hiệu quang mới đi được trong mạng." },
+        { "key": "D", "text": "Dữ liệu chỉ truyền được nếu hub có số cổng đúng bằng số máy của mạng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong cùng một mạng cục bộ, thiết bị chuyển mạch dùng địa chỉ MAC để đưa dữ liệu tới máy nhận nên không phải nhờ router chọn đường. A chỉ đúng khi dữ liệu đi sang mạng khác; C sai vì cáp trong LAN truyền tín hiệu điện, không phải tín hiệu quang; D vô nghĩa vì số cổng hub không quyết định việc truyền trong cùng mạng."
+    },
+    {
+      "id": "tinhoc12-b03-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "bộ định tuyến"],
+      "content": "Thiết bị nào làm nhiệm vụ nối mạng cục bộ của một cơ quan với mạng của nhà cung cấp dịch vụ và chỉ hướng luồng dữ liệu giữa các mạng?",
+      "options": [
+        { "key": "A", "text": "Bộ chia tín hiệu hub." },
+        { "key": "B", "text": "Modem ADSL." },
+        { "key": "C", "text": "Bảng mạch mở rộng Wi-Fi." },
+        { "key": "D", "text": "Bộ định tuyến router." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Router có cổng LAN nối vào mạng cục bộ và cổng WAN nối với router khác hay mạng của nhà cung cấp, đồng thời chỉ hướng luồng dữ liệu giữa các mạng. A chỉ chia tín hiệu trong LAN; B chỉ biến đổi tín hiệu trên đường truyền; C chỉ giúp thiết bị thu phát sóng vô tuyến."
+    },
+    {
+      "id": "tinhoc12-b03-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "vận dụng"],
+      "content": "Một văn phòng dùng hub để nối bốn máy tính vào cùng một mạng cục bộ. Khi cả bốn máy cùng gửi dữ liệu, mạng chạy chậm hẳn. Giải thích và cách khắc phục nào sau đây phù hợp nhất với Bài 3?",
+      "options": [
+        { "key": "A", "text": "Tín hiệu bị xung đột trên đường truyền chung vì hub phát mọi dữ liệu ra tất cả các cổng; thay hub bằng switch sẽ hạn chế xung đột." },
+        { "key": "B", "text": "Địa chỉ IP của các máy bị trùng nhau, chỉ cần khởi động lại router là hết xung đột." },
+        { "key": "C", "text": "Modem chuyển đổi tín hiệu quá chậm, thay bằng modem quang sẽ làm mạng cục bộ nhanh hơn." },
+        { "key": "D", "text": "Cáp UTP chỉ truyền được một khung dữ liệu mỗi lần, phải giảm số máy kết nối xuống còn hai." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hub phát tín hiệu ở một cổng ra mọi cổng còn lại nên nhiều máy cùng gửi gây xung đột và phải truyền lại; switch thiết lập kênh truyền riêng giữa hai cổng nên hạn chế được hiện tượng này. B sai vì nguyên nhân được nêu là xung đột do hub, không phải trùng địa chỉ IP; C và D suy diễn sai chức năng của modem và của cáp mạng."
+    },
+    {
+      "id": "tinhoc12-b03-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "modem"],
+      "content": "Trong các thiết bị sau, thiết bị nào chỉ làm thay đổi dạng tín hiệu mà không làm thay đổi dữ liệu được tín hiệu đó mang?",
+      "options": [
+        { "key": "A", "text": "Bộ chuyển mạch switch." },
+        { "key": "B", "text": "Modem." },
+        { "key": "C", "text": "Bộ định tuyến router." },
+        { "key": "D", "text": "Trạm thu phát Wi-Fi." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách khẳng định modem chỉ thay đổi tín hiệu mà không làm thay đổi dữ liệu được mang bởi tín hiệu. Switch và router xử lí, chọn đường cho dữ liệu chứ không biến đổi dạng tín hiệu; trạm thu phát Wi-Fi thu phát sóng vô tuyến theo bộ tiêu chuẩn Wi-Fi."
+    },
+    {
+      "id": "tinhoc12-b03-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "tổng hợp"],
+      "content": "Bạn An cắm cáp UTP từ máy tính vào một thiết bị trong nhà; thiết bị này vừa có nhiều cổng để nối các máy trong mạng cục bộ, vừa phát sóng vô tuyến và giúp máy tính truy cập Internet. Theo Bài 3, phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Thiết bị đó chỉ là hub vì nó có nhiều cổng kết nối." },
+        { "key": "B", "text": "Thiết bị đó không thể có chức năng router vì router không chuyển đổi tín hiệu." },
+        { "key": "C", "text": "Sóng vô tuyến của thiết bị được tạo ra nhờ switch biến đổi dữ liệu thành tín hiệu tương tự." },
+        { "key": "D", "text": "Thiết bị đó thể hiện chức năng định tuyến của router và chức năng thu phát sóng của trạm thu phát Wi-Fi, còn việc chuyển đổi tín hiệu trên đường truyền là chức năng của modem." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nối được các máy trong mạng cục bộ và đưa dữ liệu tới mạng của nhà cung cấp là việc của router; phát sóng vô tuyến là việc của trạm thu phát Wi-Fi; chuyển đổi tín hiệu là việc của modem, mỗi chức năng một thiết bị đảm nhận. A bỏ sót khả năng định tuyến và thu phát sóng; B suy diễn sai vì router đúng là không chuyển đổi tín hiệu nhưng điều đó không loại trừ chức năng định tuyến; C gán nhầm chức năng của modem cho switch."
+    },
+    {
+      "id": "tinhoc12-b03-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "hub"],
+      "content": "Vì sao hub được gọi là bộ chia tín hiệu?",
+      "options": [
+        { "key": "A", "text": "Vì nó chia dữ liệu thành nhiều gói tin nhỏ có đánh số thứ tự." },
+        { "key": "B", "text": "Vì nó chia băng thông đường truyền cho từng máy theo địa chỉ IP." },
+        { "key": "C", "text": "Vì tín hiệu thu được ở một cổng được chia và phát lại tới tất cả các cổng còn lại." },
+        { "key": "D", "text": "Vì nó chia một mạng cục bộ thành nhiều mạng con nhỏ hơn." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tên gọi bộ chia tín hiệu xuất phát từ cách hub phát tín hiệu thu ở một cổng đi tất cả các cổng còn lại. A mô tả việc chia dữ liệu thành gói của giao thức, không phải của hub; B và D gán cho hub chức năng chia địa chỉ, chia mạng con vốn thuộc về cấu hình và về router."
+    },
+    {
+      "id": "tinhoc12-b03-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "bộ chuyển mạch"],
+      "content": "Theo cách hoạt động của switch, sau khi truyền xong dữ liệu giữa hai cổng thì switch làm gì?",
+      "options": [
+        { "key": "A", "text": "Giữ nguyên kênh truyền giữa hai cổng đó cho tới khi mất điện." },
+        { "key": "B", "text": "Phát lại toàn bộ dữ liệu vừa truyền ra các cổng còn lại." },
+        { "key": "C", "text": "Chuyển kênh truyền đó sang cổng WAN của bộ định tuyến." },
+        { "key": "D", "text": "Huỷ kết nối giữa hai cổng để sẵn sàng thiết lập kênh truyền cho các cuộc truyền khác." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Kênh truyền giữa cổng máy gửi và cổng máy nhận chỉ được thiết lập tạm thời và switch huỷ sau khi hoàn thành việc truyền. A trái với tính tạm thời của kênh truyền; B là cách của hub; C vô nghĩa vì cổng WAN thuộc router, không phải kênh switch dùng để nối hai máy trong LAN."
+    },
+    {
+      "id": "tinhoc12-b03-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "nhận định đúng"],
+      "content": "Những nhận định nào sau đây đúng về hub, switch và router?",
+      "options": [
+        { "key": "A", "text": "Hub phát tín hiệu thu được ở một cổng ra tất cả các cổng còn lại, nên khi nhiều máy cùng gửi dữ liệu sẽ xảy ra xung đột." },
+        { "key": "B", "text": "Router thực hiện chuyển mạch khung dữ liệu theo địa chỉ MAC để nối các máy trong cùng một mạng cục bộ." },
+        { "key": "C", "text": "Switch thiết lập tạm thời kênh truyền giữa cổng của máy gửi và cổng của máy nhận rồi huỷ khi truyền xong." },
+        { "key": "D", "text": "Định tuyến là việc router chọn một cổng thích hợp để gửi dữ liệu sao cho tới được mạng cục bộ của máy nhận." }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "A, C và D đúng vì chúng diễn lại đúng cách hoạt động của hub, của switch và khái niệm định tuyến của router. B sai vì chuyển mạch theo địa chỉ MAC là chức năng của switch; router chỉ hướng luồng dữ liệu giữa các mạng chứ không chuyển mạch trong nội bộ một LAN."
+    },
+    {
+      "id": "tinhoc12-b03-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "modem"],
+      "content": "Chọn các nhận định ĐÚNG về các loại modem được nêu trong Bài 3.",
+      "options": [
+        { "key": "A", "text": "Modem quay số truy cập Internet thông qua mạng điện thoại công cộng." },
+        { "key": "B", "text": "Modem chỉ làm thay đổi dạng tín hiệu mà không làm thay đổi dữ liệu được mang bởi tín hiệu." },
+        { "key": "C", "text": "Modem GSM 3G, 4G, 5G dùng khe cắm SIM nên chỉ phát Internet bằng sóng Wi-Fi, không nối được vào mạng có dây." },
+        { "key": "D", "text": "Modem quang làm nhiệm vụ định tuyến giữa mạng cục bộ và mạng của nhà cung cấp dịch vụ." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng: sách nêu modem quay số dùng mạng điện thoại công cộng và modem chỉ biến đổi tín hiệu, không đổi dữ liệu. C sai vì modem GSM phát lại qua sóng Wi-Fi hoặc nối vào mạng có dây; D sai vì định tuyến là chức năng của router, còn modem quang chuyển đổi tín hiệu số sang tín hiệu quang và ngược lại."
+    },
+    {
+      "id": "tinhoc12-b03-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "kết nối"],
+      "content": "Chọn các nhận định ĐÚNG về kết nối không dây và kết nối có dây trong mạng cục bộ theo Bài 3.",
+      "options": [
+        { "key": "A", "text": "Wi-Fi là tên một thiết bị thu phát sóng vô tuyến do nhà cung cấp dịch vụ Internet sản xuất." },
+        { "key": "B", "text": "Mỗi trạm thu phát Wi-Fi nằm trong hoặc tạo ra một mạng cục bộ." },
+        { "key": "C", "text": "Máy tính để bàn thường phải lắp thêm bảng mạch mở rộng thì mới kết nối được Wi-Fi." },
+        { "key": "D", "text": "Cáp mạng UTP bốn đôi dây xoắn với giắc RJ45 dùng để nối máy tính với cổng của switch, hub hoặc cổng LAN của router." }
+      ],
+      "correctAnswer": ["B", "C", "D"],
+      "explanation": "B, C và D đều là các nội dung sách nêu về trạm thu phát Wi-Fi, bảng mạch mở rộng và cáp UTP với giắc RJ45. A sai vì Wi-Fi là bộ tiêu chuẩn kĩ thuật truyền dữ liệu bằng sóng vô tuyến, không phải tên một thiết bị; thiết bị thu phát sóng là trạm thu phát Wi-Fi."
+    },
+    {
+      "id": "tinhoc12-b03-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-thiet-bi-mang",
+      "tags": ["tin học 12", "bài 3", "thiết bị mạng", "tổng hợp"],
+      "content": "Trong các nhận định sau đây về các thiết bị mạng thông dụng, những nhận định nào ĐÚNG?",
+      "options": [
+        { "key": "A", "text": "Router vừa chỉ hướng luồng dữ liệu tới đích vừa chuyển đổi tín hiệu số sang tín hiệu tương tự, nên có thể thay thế modem." },
+        { "key": "B", "text": "Việc truyền dữ liệu giữa hai máy trong cùng một mạng cục bộ dùng địa chỉ MAC của thiết bị mà không cần router định tuyến." },
+        { "key": "C", "text": "Xung đột tín hiệu làm các máy không nhận biết được dữ liệu và phải truyền lại, nên làm giảm hiệu quả của mạng." },
+        { "key": "D", "text": "Hub hạn chế xung đột tốt hơn switch vì hub xác định được cổng của máy gửi và máy nhận." }
+      ],
+      "correctAnswer": ["B", "C"],
+      "explanation": "B và C đúng theo nội dung bài học về truyền dữ liệu trong cùng mạng LAN và về tác hại của xung đột. A sai vì router không chuyển đổi tín hiệu, việc chuyển đổi tín hiệu số sang tương tự và ngược lại là của modem; D sai vì chính switch mới xác định cổng máy gửi và máy nhận, còn hub phát tín hiệu ra mọi cổng nên dễ xung đột hơn."
+    }
+  ]
+}

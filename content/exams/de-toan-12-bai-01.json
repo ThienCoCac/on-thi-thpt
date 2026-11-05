@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-01",
+  "title": "Đề ôn Toán 12 Bài 1: Tính đơn điệu và cực trị của hàm số (20 câu)",
+  "slug": "de-toan-12-bai-01",
+  "description": "Đề bám sát Bài 1 sách Toán 12 Kết nối tri thức: định lí dấu đạo hàm, khoảng đơn điệu của hàm đa thức và hàm phân thức hữu tỉ, điểm cực trị của hàm trùng phương, đọc bảng biến thiên và bài toán tham số mức vừa. Gồm 20 câu trắc nghiệm bốn lựa chọn, làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b01-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số $y = x^3 - 3x^2 + 1$ nghịch biến trên khoảng nào sau đây?",
+      "options": [
+        { "key": "A", "text": "$(-\\infty;0)$." },
+        { "key": "B", "text": "$(0;2)$." },
+        { "key": "C", "text": "$(2;+\\infty)$." },
+        { "key": "D", "text": "$(-\\infty;2)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ta có $y' = 3x^2 - 6x = 3x(x-2)$, nên $y' < 0$ khi và chỉ khi $0 < x < 2$. Vậy hàm số nghịch biến trên $(0;2)$ và đồng biến trên $(-\\infty;0)$ cùng $(2;+\\infty)$. Khoảng $(-\\infty;2)$ không thỏa vì chứa phần đồng biến $(-\\infty;0)$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["khoảng nghịch biến", "hàm số bậc ba"]
+    },
+    {
+      "id": "toan12-b01-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số nào sau đây đồng biến trên tập số thực $\\mathbb{R}$?",
+      "options": [
+        { "key": "A", "text": "$y = x^3 - 3x + 1$." },
+        { "key": "B", "text": "$y = -x^3 + x - 2$." },
+        { "key": "C", "text": "$y = x^3 + 3x - 2$." },
+        { "key": "D", "text": "$y = x^4 - 2x^2 + 1$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với đáp án C, $y' = 3x^2 + 3 > 0$ với mọi $x$ nên hàm số đồng biến trên $\\mathbb{R}$. Hàm ở đáp án A có $y' = 3x^2 - 3$ đổi dấu tại $x = \\pm 1$; hàm ở B có hệ số bậc ba âm nên có khoảng nghịch biến; hàm trùng phương ở D có ba khoảng đơn điệu.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["hàm số đồng biến", "dấu của đạo hàm"]
+    },
+    {
+      "id": "toan12-b01-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = f(x)$ có đạo hàm $f'(x) = (x+1)(x-3)$. Hàm số đồng biến trên khoảng nào sau đây?",
+      "options": [
+        { "key": "A", "text": "$(-1;3)$." },
+        { "key": "B", "text": "$(-\\infty;3)$." },
+        { "key": "C", "text": "$(1;+\\infty)$." },
+        { "key": "D", "text": "$(-\\infty;-1)$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tam thức $f'(x) = (x+1)(x-3)$ mang dấu dương khi $x < -1$ hoặc $x > 3$, mang dấu âm khi $-1 < x < 3$. Do đó hàm số đồng biến trên $(-\\infty;-1)$ và trên $(3;+\\infty)$. Khoảng $(1;+\\infty)$ bị loại vì chứa đoạn $(1;3)$ nơi $f'(x) < 0$; khoảng $(-\\infty;3)$ bị loại vì chứa $(-1;3)$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["định lí dấu đạo hàm", "khoảng đồng biến"]
+    },
+    {
+      "id": "toan12-b01-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về hàm số $y = \\dfrac{x+1}{x-2}$?",
+      "options": [
+        { "key": "A", "text": "Hàm số nghịch biến trên mỗi khoảng $(-\\infty;2)$ và $(2;+\\infty)$." },
+        { "key": "B", "text": "Hàm số nghịch biến trên $\\mathbb{R}$." },
+        { "key": "C", "text": "Hàm số không đơn điệu trên bất kì khoảng nào." },
+        { "key": "D", "text": "Hàm số đồng biến trên mỗi khoảng xác định." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tập xác định là các số thực khác $2$ và $y' = \\dfrac{(x-2)-(x+1)}{(x-2)^2} = \\dfrac{-3}{(x-2)^2} < 0$ với mọi $x \\ne 2$. Vì vậy hàm số nghịch biến trên từng khoảng $(-\\infty;2)$ và $(2;+\\infty)$. Không thể nói hàm nghịch biến trên $\\mathbb{R}$ vì hàm số không xác định tại $x = 2$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["hàm phân thức hữu tỉ", "tập xác định"]
+    },
+    {
+      "id": "toan12-b01-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị cực tiểu của hàm số $y = x^3 - 12x + 1$ bằng",
+      "options": [
+        { "key": "A", "text": "$-15$." },
+        { "key": "B", "text": "$17$." },
+        { "key": "C", "text": "$1$." },
+        { "key": "D", "text": "$2$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm $y' = 3x^2 - 12$ bằng $0$ tại $x = -2$ và $x = 2$; dấu của $y'$ đổi từ âm sang dương tại $x = 2$ nên hàm số đạt cực tiểu ở đó. Giá trị cực tiểu là $y(2) = 8 - 24 + 1 = -15$. Số $17$ bằng $y(-2)$ và là giá trị cực đại, còn $2$ chỉ là điểm cực tiểu chứ không phải giá trị cực tiểu.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["giá trị cực tiểu", "quy tắc I"]
+    },
+    {
+      "id": "toan12-b01-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số $y = -x^2 + 2x + 3$ đạt cực đại tại $x = 1$. Giá trị cực đại của hàm số bằng",
+      "options": [
+        { "key": "A", "text": "$-4$." },
+        { "key": "B", "text": "$2$." },
+        { "key": "C", "text": "$4$." },
+        { "key": "D", "text": "$3$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đạo hàm $y' = -2x + 2$ đổi dấu từ dương sang âm tại $x = 1$, đúng là điểm cực đại. Thay vào hàm số: $y(1) = -1 + 2 + 3 = 4$. Số $3$ là $y(0)$, số $2$ là hệ số của $x$ trong công thức, còn $-4$ là kết quả tính sai dấu khi thay $x = 1$.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["giá trị cực đại", "hàm số bậc hai"]
+    },
+    {
+      "id": "toan12-b01-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Khoảng nghịch biến của hàm số $y = 2x^3 - 9x^2 + 12x - 3$ là",
+      "options": [
+        { "key": "A", "text": "$(-\\infty;1)$." },
+        { "key": "B", "text": "$(2;+\\infty)$." },
+        { "key": "C", "text": "$(0;1)$." },
+        { "key": "D", "text": "$(1;2)$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ta có $y' = 6x^2 - 18x + 12 = 6(x-1)(x-2)$, nên $y' < 0$ khi $1 < x < 2$. Hàm số nghịch biến trên $(1;2)$, đồng biến trên $(-\\infty;1)$ và $(2;+\\infty)$. Khoảng $(0;1)$ nằm trọn trong khoảng đồng biến nên không thể chọn.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["khoảng nghịch biến", "tam thức bậc hai"]
+    },
+    {
+      "id": "toan12-b01-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về sự biến thiên của hàm số $y = \\dfrac{2x-1}{x+1}$?",
+      "options": [
+        { "key": "A", "text": "Hàm số đồng biến trên $\\mathbb{R}$." },
+        { "key": "B", "text": "Hàm số đồng biến trên mỗi khoảng $(-\\infty;-1)$ và $(-1;+\\infty)$." },
+        { "key": "C", "text": "Hàm số nghịch biến trên mỗi khoảng xác định." },
+        { "key": "D", "text": "Hàm số không có khoảng đơn điệu." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tập xác định là các số thực khác $-1$ và $y' = \\dfrac{2(x+1)-(2x-1)}{(x+1)^2} = \\dfrac{3}{(x+1)^2} > 0$ với mọi $x \\ne -1$. Vậy hàm số đồng biến trên từng khoảng $(-\\infty;-1)$ và $(-1;+\\infty)$. Phát biểu A sai vì hàm số không xác định tại $x = -1$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm phân thức hữu tỉ", "khoảng đồng biến"]
+    },
+    {
+      "id": "toan12-b01-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Số điểm cực trị của hàm số $y = x^4 - 2x^2 + 3$ là",
+      "options": [
+        { "key": "A", "text": "$3$." },
+        { "key": "B", "text": "$1$." },
+        { "key": "C", "text": "$2$." },
+        { "key": "D", "text": "$4$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm $y' = 4x^3 - 4x = 4x(x-1)(x+1)$ có ba nghiệm phân biệt $x = -1$, $x = 0$, $x = 1$ và đổi dấu qua mỗi nghiệm. Do đó hàm số có ba điểm cực trị (cực tiểu tại $x = \\pm 1$ với $y = 2$, cực đại tại $x = 0$ với $y = 3$). Chọn $1$ là lỗi chỉ nhìn nghiệm $x = 0$, chọn $2$ là lỗi bỏ qua cực đại.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm trùng phương", "số điểm cực trị"]
+    },
+    {
+      "id": "toan12-b01-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$ và có $f'(x) > 0$ trên $(-\\infty;-1)$, $f'(x) < 0$ trên $(-1;3)$, $f'(x) > 0$ trên $(3;+\\infty)$, biết $f(-1) = 5$ và $f(3) = 1$. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Hàm số đạt cực đại tại $x = 3$." },
+        { "key": "B", "text": "Hàm số đạt cực tiểu tại $x = -1$." },
+        { "key": "C", "text": "Hàm số đạt cực đại tại $x = -1$, giá trị cực đại bằng $5$." },
+        { "key": "D", "text": "Hàm số không có điểm cực trị." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đạo hàm đổi dấu từ dương sang âm tại $x = -1$ nên hàm số đạt cực đại tại đó, giá trị cực đại là $f(-1) = 5$. Tại $x = 3$ đạo hàm đổi dấu từ âm sang dương nên $x = 3$ là điểm cực tiểu, giá trị cực tiểu bằng $1$. Vì vậy các phát biểu A, B và D đều mâu thuẫn với bảng xét dấu của $f'(x)$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["bảng biến thiên", "điểm cực trị"]
+    },
+    {
+      "id": "toan12-b01-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoành độ các điểm cực tiểu của đồ thị hàm số $y = x^4 - 4x^2 + 1$ là",
+      "options": [
+        { "key": "A", "text": "$x = 0$." },
+        { "key": "B", "text": "$x = 0$ và $x = 2$." },
+        { "key": "C", "text": "$x = -2$ và $x = 2$." },
+        { "key": "D", "text": "$x = -\\sqrt{2}$ và $x = \\sqrt{2}$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đạo hàm $y' = 4x^3 - 8x = 4x(x^2 - 2)$ bằng $0$ tại $x = 0$, $x = \\pm\\sqrt{2}$. Dấu của $y'$ đổi từ âm sang dương tại $x = \\pm\\sqrt{2}$ nên đó là hai điểm cực tiểu (giá trị cực tiểu $y = -3$); tại $x = 0$ đạo hàm đổi từ dương sang âm nên $x = 0$ là điểm cực đại. Nghiệm $\\pm 2$ là lỗi giải $x^2 - 2 = 0$ thành $x^2 = 4$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm trùng phương", "điểm cực tiểu"]
+    },
+    {
+      "id": "toan12-b01-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Hàm số $y = \\dfrac{x^2-x+1}{x-1}$ đồng biến trên khoảng nào sau đây?",
+      "options": [
+        { "key": "A", "text": "$(0;2)$." },
+        { "key": "B", "text": "$(-\\infty;0)$." },
+        { "key": "C", "text": "$(0;1)$." },
+        { "key": "D", "text": "$(1;2)$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tập xác định là các số thực khác $1$ và $y' = \\dfrac{(2x-1)(x-1)-(x^2-x+1)}{(x-1)^2} = \\dfrac{x(x-2)}{(x-1)^2}$. Mẫu luôn dương, nên $y' > 0$ khi $x < 0$ hoặc $x > 2$, tức hàm đồng biến trên $(-\\infty;0)$ và trên $(2;+\\infty)$. Khoảng $(0;2)$ không phải khoảng đồng biến vì hàm số nghịch biến trên $(0;1)$ và $(1;2)$, đồng thời bị gián đoạn tại $x = 1$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["hàm phân thức", "khoảng đồng biến"]
+    },
+    {
+      "id": "toan12-b01-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = f(x)$ liên tục trên $\\mathbb{R}$ và có đạo hàm $f'(x) = x(x-2)^2(x+3)^3$. Số điểm cực trị của hàm số đã cho là",
+      "options": [
+        { "key": "A", "text": "$2$." },
+        { "key": "B", "text": "$3$." },
+        { "key": "C", "text": "$1$." },
+        { "key": "D", "text": "$0$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đạo hàm bằng $0$ tại $x = -3$, $x = 0$, $x = 2$. Xét dấu: nhân tử $(x+3)^3$ và nhân tử $x$ đều có số mũ lẻ nên $f'(x)$ đổi dấu tại $-3$ và tại $0$; nhân tử $(x-2)^2$ luôn không âm nên $f'(x)$ giữ nguyên dấu dương khi qua $x = 2$. Vậy hàm số chỉ có hai điểm cực trị.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["dấu của đạo hàm", "số điểm cực trị"]
+    },
+    {
+      "id": "toan12-b01-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm tất cả các giá trị của tham số $m$ để hàm số $y = x^4 - 2mx^2 + m + 1$ có ba điểm cực trị.",
+      "options": [
+        { "key": "A", "text": "$m \\ge 0$." },
+        { "key": "B", "text": "$m < 0$." },
+        { "key": "C", "text": "$m > 0$." },
+        { "key": "D", "text": "$m > 1$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đạo hàm $y' = 4x^3 - 4mx = 4x(x^2 - m)$; phương trình $y' = 0$ luôn có nghiệm $x = 0$ và có thêm hai nghiệm phân biệt khác $0$ khi và chỉ khi $x^2 = m$ có hai nghiệm, tức $m > 0$. Khi đó $y'$ đổi dấu qua cả ba nghiệm nên đồ thị có ba điểm cực trị. Tại $m = 0$ ta có $y' = 4x^3$ chỉ đổi dấu một lần, hàm chỉ có một cực trị nên phải loại $m \\ge 0$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tham số m", "hàm trùng phương"]
+    },
+    {
+      "id": "toan12-b01-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm $m$ để đồ thị hàm số $y = x^3 - 3x^2 + mx + 1$ có hai điểm cực trị nằm về hai phía của trục tung.",
+      "options": [
+        { "key": "A", "text": "$m > 3$." },
+        { "key": "B", "text": "$0 < m < 3$." },
+        { "key": "C", "text": "$m < 3$." },
+        { "key": "D", "text": "$m < 0$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đạo hàm $y' = 3x^2 - 6x + m$; để có hai điểm cực trị phân biệt cần $\\Delta' = 9 - 3m > 0$, tức $m < 3$. Gọi $x_1, x_2$ là hai nghiệm, theo định lí Viète $x_1x_2 = \\dfrac{m}{3}$. Hai điểm nằm về hai phía trục tung khi và chỉ khi $x_1x_2 < 0$, tức $m < 0$; điều kiện này tự thỏa mãn $m < 3$. Với $0 < m < 3$ hai nghiệm đều dương nên đáp án C và B sai.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tham số m", "định lí Viète"]
+    },
+    {
+      "id": "toan12-b01-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Giá trị cực tiểu của hàm số $y = \\dfrac{2x^2-3x+3}{x-1}$ bằng",
+      "options": [
+        { "key": "A", "text": "$-3$." },
+        { "key": "B", "text": "$5$." },
+        { "key": "C", "text": "$0$." },
+        { "key": "D", "text": "$2$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tập xác định là các số thực khác $1$ và $y' = \\dfrac{(4x-3)(x-1)-(2x^2-3x+3)}{(x-1)^2} = \\dfrac{2x(x-2)}{(x-1)^2}$. Đạo hàm bằng $0$ tại $x = 0$ và $x = 2$; mẫu luôn dương nên $y'$ đổi từ âm sang dương tại $x = 2$, do đó $x = 2$ là điểm cực tiểu với $y(2) = \\dfrac{8-6+3}{1} = 5$. Giá trị $-3$ bằng $y(0)$ và là giá trị cực đại, còn $0$ và $2$ chỉ là hoành độ.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["hàm phân thức", "giá trị cực tiểu"]
+    },
+    {
+      "id": "toan12-b01-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm tất cả các giá trị của tham số $m$ để hàm số $y = \\dfrac{mx-1}{x+2}$ nghịch biến trên mỗi khoảng xác định.",
+      "options": [
+        { "key": "A", "text": "$m < -\\dfrac{1}{2}$." },
+        { "key": "B", "text": "$m > -\\dfrac{1}{2}$." },
+        { "key": "C", "text": "$m \\le -\\dfrac{1}{2}$." },
+        { "key": "D", "text": "$m \\ne -2$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tập xác định là các số thực khác $-2$ và $y' = \\dfrac{m(x+2)-(mx-1)}{(x+2)^2} = \\dfrac{2m+1}{(x+2)^2}$. Để hàm nghịch biến trên mỗi khoảng cần $y' < 0$ với mọi $x \\ne -2$, tức $2m+1 < 0$ hay $m < -\\dfrac{1}{2}$. Tại $m = -\\dfrac{1}{2}$ ta có $y = -\\dfrac{1}{2}$ là hàm hằng nên phải loại, vì vậy đáp án C không đúng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["tham số m", "hàm phân thức"]
+    },
+    {
+      "id": "toan12-b01-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Tìm $m$ để hàm số $y = \\dfrac{x^3}{3} - \\dfrac{mx^2}{2} + (m-1)x + 2$ đạt cực đại tại $x = 1$.",
+      "options": [
+        { "key": "A", "text": "$m < 2$." },
+        { "key": "B", "text": "$m = 2$." },
+        { "key": "C", "text": "$m > 0$." },
+        { "key": "D", "text": "$m > 2$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đạo hàm $y' = x^2 - mx + m - 1 = (x-1)(x-m+1)$, nên $x = 1$ luôn là nghiệm của $y'$. Với $m \\ne 2$, hai nghiệm là $1$ và $m-1$; vì $y'$ là tam thức bậc hai có hệ số dương nên nó đổi từ dương sang âm tại nghiệm nhỏ, do đó $x = 1$ là điểm cực đại khi và chỉ khi $1 < m-1$, tức $m > 2$. Tại $m = 2$ ta có $y' = (x-1)^2 \\ge 0$, hàm số không có cực trị nên đáp án B sai.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tham số m", "điểm cực đại"]
+    },
+    {
+      "id": "toan12-b01-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Có bao nhiêu giá trị nguyên của tham số $m$ để hàm số $y = x^3 - 3mx^2 + 3(m+2)x + 1$ đồng biến trên $\\mathbb{R}$?",
+      "options": [
+        { "key": "A", "text": "$2$." },
+        { "key": "B", "text": "$3$." },
+        { "key": "C", "text": "$4$." },
+        { "key": "D", "text": "$5$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đạo hàm $y' = 3x^2 - 6mx + 3(m+2) = 3(x^2 - 2mx + m + 2)$. Hàm số đồng biến trên $\\mathbb{R}$ khi và chỉ khi $x^2 - 2mx + m + 2 \\ge 0$ với mọi $x$, tức $\\Delta' = m^2 - m - 2 \\le 0$, tương đương $-1 \\le m \\le 2$. Có bốn giá trị nguyên là $m = -1$, $0$, $1$, $2$; đếm thiếu hai giá trị biên là lỗi thường gặp.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tham số nguyên", "hàm số đồng biến"]
+    },
+    {
+      "id": "toan12-b01-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b01-don-dieu-cuc-tri",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hàm số $y = x^3 - 3x^2 - 3mx + 2$. Tìm $m$ để hàm số có hai điểm cực trị $x_1$, $x_2$ thỏa $x_1^2 + x_2^2 = 10$.",
+      "options": [
+        { "key": "A", "text": "$m = -3$." },
+        { "key": "B", "text": "$m = 3$." },
+        { "key": "C", "text": "$m = 1$." },
+        { "key": "D", "text": "$m = -1$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đạo hàm $y' = 3x^2 - 6x - 3m = 3(x^2 - 2x - m)$; hàm có hai cực trị khi và chỉ khi $\\Delta' = 1 + m > 0$, tức $m > -1$. Theo định lí Viète $x_1 + x_2 = 2$ và $x_1x_2 = -m$, suy ra $x_1^2 + x_2^2 = 4 + 2m = 10$ nên $m = 3$, thỏa điều kiện $m > -1$. Giá trị $m = -3$ bị loại vì khi đó $y' > 0$ với mọi $x$, hàm số không có cực trị.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["tham số m", "định lí Viète"]
+    }
+  ]
+}

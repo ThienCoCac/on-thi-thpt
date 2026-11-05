@@ -56,16 +56,30 @@ function buildPageItems(page: number, totalPages: number): (number | 'ellipsis')
 
 export function ExamBrowser({ exams, subjects, years }: ExamBrowserProps) {
   const [subject, setSubject] = useState('');
+  const [grade, setGrade] = useState<number | ''>('');
   const [type, setType] = useState<ExamType | ''>('');
   const [year, setYear] = useState('');
   const [keyword, setKeyword] = useState('');
   const [page, setPage] = useState(1);
+
+  const gradeOptions = useMemo(() => {
+    const counts = new Map<number, number>();
+    for (const exam of exams) {
+      counts.set(exam.grade, (counts.get(exam.grade) ?? 0) + 1);
+    }
+    return Array.from(counts.entries())
+      .sort((a, b) => a[0] - b[0])
+      .map(([grade, examCount]) => ({ grade, examCount }));
+  }, [exams]);
 
   const filtered = useMemo(() => {
     const query = keyword.trim().toLowerCase();
 
     return exams.filter((exam) => {
       if (subject && exam.subject.slug !== subject) {
+        return false;
+      }
+      if (grade && exam.grade !== grade) {
         return false;
       }
       if (type && exam.type !== type) {
@@ -89,20 +103,26 @@ export function ExamBrowser({ exams, subjects, years }: ExamBrowserProps) {
       }
       return true;
     });
-  }, [exams, subject, type, year, keyword]);
+  }, [exams, subject, grade, type, year, keyword]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   const currentPage = Math.min(page, totalPages);
   const items = filtered.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE);
 
   const activeSubject = subjects.find((item) => item.slug === subject);
-  const hasFilters = Boolean(subject || type || year || keyword.trim());
+  const hasFilters = Boolean(subject || grade || type || year || keyword.trim());
 
   function resetFilters() {
     setSubject('');
+    setGrade('');
     setType('');
     setYear('');
     setKeyword('');
+    setPage(1);
+  }
+
+  function chooseGrade(value: number | '') {
+    setGrade(value);
     setPage(1);
   }
 
@@ -114,6 +134,47 @@ export function ExamBrowser({ exams, subjects, years }: ExamBrowserProps) {
   return (
     <div>
       <div className="mt-7 space-y-3">
+        <div className="flex flex-wrap gap-2" role="group" aria-label="Lọc theo lớp">
+          <button
+            type="button"
+            onClick={() => chooseGrade('')}
+            aria-pressed={!grade}
+            className={cn(
+              tabClassName,
+              grade ? 'hover:bg-secondary' : 'border-primary bg-primary text-primary-foreground',
+            )}
+          >
+            Mọi lớp
+          </button>
+          {gradeOptions.map((option) => {
+            const active = grade === option.grade;
+            return (
+              <button
+                key={option.grade}
+                type="button"
+                onClick={() => chooseGrade(option.grade)}
+                aria-pressed={active}
+                className={cn(
+                  tabClassName,
+                  active
+                    ? 'border-primary bg-primary text-primary-foreground'
+                    : 'hover:bg-secondary',
+                )}
+              >
+                Lớp {option.grade}
+                <span
+                  className={cn(
+                    'text-xs',
+                    active ? 'text-primary-foreground/80' : 'text-muted-foreground',
+                  )}
+                >
+                  {option.examCount}
+                </span>
+              </button>
+            );
+          })}
+        </div>
+
         <div className="flex flex-wrap gap-2">
           <button
             type="button"
@@ -228,6 +289,7 @@ export function ExamBrowser({ exams, subjects, years }: ExamBrowserProps) {
           {hasFilters ? 'Tìm thấy ' : 'Tổng cộng '}
           <span className="font-semibold text-foreground">{formatNumber(filtered.length)}</span>{' '}
           đề
+          {grade ? ` lớp ${grade}` : ''}
           {activeSubject ? ` môn ${activeSubject.name}` : ''}
           {type ? ` · ${EXAM_TYPE_LABELS[type]}` : ''}
           {year ? ` · năm ${year}` : ''}

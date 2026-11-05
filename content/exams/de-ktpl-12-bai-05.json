@@ -1,0 +1,959 @@
+{
+  "id": "de-ktpl-12-bai-05",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 – Bài 5: Lập kế hoạch kinh doanh",
+  "slug": "de-ktpl-12-bai-05",
+  "description": "Đề ôn tập bám sát Bài 5 Giáo dục Kinh tế và Pháp luật 12 (Kết nối tri thức): khái niệm, vai trò của kế hoạch kinh doanh, các nội dung chủ yếu của bản kế hoạch, phân biệt kế hoạch kinh doanh với ý tưởng kinh doanh và dự án đầu tư, các nguyên tắc khi lập kế hoạch cùng vận dụng vào tình huống lập kế hoạch nhỏ. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, làm trong 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-B5",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "ktpl12-b05-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Kế hoạch kinh doanh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "một văn bản trình bày có hệ thống mục tiêu kinh doanh cùng các nguồn lực, phương tiện, trình tự thời gian và biện pháp cần thực hiện để đạt tới mục tiêu đó."
+        },
+        {
+          "key": "B",
+          "text": "một loại giấy tờ chứng minh quyền sở hữu tài sản của người kinh doanh."
+        },
+        {
+          "key": "C",
+          "text": "bảng tổng hợp toàn bộ chi phí và thu nhập thực tế đã phát sinh trong năm của doanh nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "điều lệ do các thành viên cùng thống nhất ban hành khi thành lập doanh nghiệp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kế hoạch kinh doanh là văn bản xác định rõ mục tiêu cùng cách thức, nguồn lực, thời gian để thực hiện mục tiêu, được lập ra trước khi tiến hành hoạt động kinh doanh. Bảng tổng hợp chi phí – thu nhập thực tế là kết quả đã qua, còn giấy tờ chứng minh quyền sở hữu tài sản và điều lệ doanh nghiệp là văn bản thuộc nội dung khác.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Khái niệm kế hoạch kinh doanh",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Lập kế hoạch kinh doanh được hiểu là quá trình",
+      "options": [
+        {
+          "key": "A",
+          "text": "xác định mục tiêu kinh doanh và xây dựng cách thức, nguồn lực, tiến độ nhằm thực hiện các mục tiêu đã định."
+        },
+        {
+          "key": "B",
+          "text": "ghi lại đầy đủ kết quả bán hàng của doanh nghiệp trong thời gian đã qua."
+        },
+        {
+          "key": "C",
+          "text": "chờ cho thị trường ổn định rồi mới quyết định sẽ bán mặt hàng nào."
+        },
+        {
+          "key": "D",
+          "text": "liên hệ khách hàng của doanh nghiệp khác để chuyển khách về phía mình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lập kế hoạch kinh doanh là quá trình xác định mục tiêu và cách thức, nguồn lực, tiến độ thực hiện mục tiêu đó; đây là công việc chuẩn bị tiến hành trước khi bắt đầu kinh doanh. Ghi lại kết quả bán hàng là việc thống kê sau kinh doanh; chờ thị trường ổn định hay chèo kéo khách của doanh nghiệp khác không phải quá trình lập kế hoạch.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Khái niệm kế hoạch kinh doanh",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bản kế hoạch kinh doanh, nội dung thường được xác định trước tiên là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mục tiêu kinh doanh mà người kinh doanh hướng tới."
+        },
+        {
+          "key": "B",
+          "text": "địa điểm đặt cửa hàng và số giờ mở cửa mỗi ngày."
+        },
+        {
+          "key": "C",
+          "text": "danh sách nhà cung cấp nguyên liệu và mức lương người bán hàng."
+        },
+        {
+          "key": "D",
+          "text": "màu sắc, kích thước của biển hiệu quảng cáo."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mục tiêu là căn cứ để lựa chọn thị trường, sản phẩm, nguồn lực và dự toán nên thường được xác định trước tiên. Địa điểm, giờ mở cửa, nhà cung cấp, nhân sự, biển hiệu là những khâu triển khai cụ thể, chỉ có cơ sở quyết định sau khi mục tiêu đã rõ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nội dung kế hoạch kinh doanh",
+        "Trình tự lập kế hoạch"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với người kinh doanh, vai trò cơ bản của kế hoạch kinh doanh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "giúp xác định rõ hướng đi, cách làm và là căn cứ để tổ chức, kiểm soát hoạt động kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "bảo đảm chắc chắn có lợi nhuận ngay từ ngày đầu bán hàng."
+        },
+        {
+          "key": "C",
+          "text": "miễn cho người kinh doanh khỏi phải tìm hiểu thị trường."
+        },
+        {
+          "key": "D",
+          "text": "thay thế hoàn toàn vốn và nhân lực của người kinh doanh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kế hoạch kinh doanh giúp người kinh doanh xác định rõ mục tiêu, cách làm, đồng thời là căn cứ để tổ chức thực hiện, kiểm tra và điều chỉnh hoạt động. Kế hoạch chỉ là bước chuẩn bị nên không bảo đảm chắc chắn lợi nhuận, không thay thế việc tìm hiểu thị trường, cũng không thay thế vốn và nhân lực.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Vai trò kế hoạch kinh doanh",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Phân tích thị trường và khách hàng trong kế hoạch kinh doanh giúp người kinh doanh",
+      "options": [
+        {
+          "key": "A",
+          "text": "nắm được nhu cầu, thị hiếu, khả năng chi trả của khách hàng để chọn sản phẩm, giá bán và kênh phân phối phù hợp."
+        },
+        {
+          "key": "B",
+          "text": "làm tăng thêm chi phí quản lí bắt buộc của doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "bảo đảm khách hàng sẽ mua hết toàn bộ sản phẩm đã dự tính."
+        },
+        {
+          "key": "D",
+          "text": "không cần tìm hiểu hoạt động của các đối thủ cạnh tranh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phân tích thị trường và khách hàng cung cấp căn cứ để chọn sản phẩm, giá bán, kênh phân phối cho phù hợp nhu cầu thực tế. Việc này không xoá bỏ cạnh tranh, không bảo đảm bán hết hàng; tuy tốn thời gian, công sức nhưng giúp tránh những khoản chi phí lãng phí lớn hơn, nên không coi là chi phí quản lí bắt buộc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thị trường và khách hàng",
+        "Nội dung kế hoạch kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Khách hàng mục tiêu trong kế hoạch kinh doanh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "nhóm khách hàng có nhu cầu và khả năng chi trả phù hợp với sản phẩm, dịch vụ mà người kinh doanh dự định cung cấp."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ dân cư trong độ tuổi lao động ở địa phương."
+        },
+        {
+          "key": "C",
+          "text": "các tổ chức cung cấp nguyên liệu cho doanh nghiệp."
+        },
+        {
+          "key": "D",
+          "text": "toàn bộ khách hàng đã mua sản phẩm của đối thủ cạnh tranh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khách hàng mục tiêu là nhóm người vừa có nhu cầu vừa có khả năng thanh toán mà người kinh doanh hướng sản phẩm tới phục vụ. Toàn bộ dân cư trong độ tuổi lao động là thị trường rộng, chưa phải nhóm mục tiêu; tổ chức cung cấp nguyên liệu là người bán đầu vào; khách hàng của đối thủ cạnh tranh chỉ là một phần thị trường tiềm năng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Thị trường và khách hàng",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Dự toán thu – chi trong kế hoạch kinh doanh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "bảng ước tính các khoản chi phí dự kiến và doanh thu dự kiến theo từng khoảng thời gian, làm cơ sở để tính hiệu quả kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "bảng tổng hợp số liệu lãi, lỗ đã được kiểm chứng của những năm trước."
+        },
+        {
+          "key": "C",
+          "text": "đơn đề nghị cấp giấy phép kinh doanh gửi cơ quan có thẩm quyền."
+        },
+        {
+          "key": "D",
+          "text": "danh mục tài sản mà doanh nghiệp đang thế chấp để vay vốn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dự toán thu – chi là bảng ước tính chi phí và doanh thu dự kiến theo thời gian, dựa vào đó người kinh doanh tính được hiệu quả dự kiến của phương án kinh doanh. Số liệu lãi, lỗ của các năm trước là kết quả đã qua; đơn đề nghị cấp giấy phép và danh mục tài sản thế chấp là giấy tờ thuộc việc khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Dự toán thu chi",
+        "Nội dung kế hoạch kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Các nguồn lực cần xác định trong kế hoạch kinh doanh gồm",
+      "options": [
+        {
+          "key": "A",
+          "text": "tiền vốn, lao động, cơ sở vật chất – kĩ thuật cùng các điều kiện về thời gian và thị trường."
+        },
+        {
+          "key": "B",
+          "text": "chỉ có tiền vốn và mặt bằng để bày bán hàng hoá."
+        },
+        {
+          "key": "C",
+          "text": "uy tín của người bán và thị hiếu của khách hàng."
+        },
+        {
+          "key": "D",
+          "text": "chính sách thuế và số lượng người bán trên thị trường."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nguồn lực để thực hiện kế hoạch là những điều kiện người kinh doanh có thể huy động và sử dụng: vốn, lao động, cơ sở vật chất – kĩ thuật, thời gian, thị trường. Mặt bằng chỉ là một phần của cơ sở vật chất; thị hiếu khách hàng, chính sách thuế và số người bán khác thuộc môi trường kinh doanh, là yếu tố khách quan chứ không phải nguồn lực của bản thân người kinh doanh.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Nguồn lực kinh doanh",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Phần xác định sản phẩm, dịch vụ trong kế hoạch kinh doanh trả lời cho câu hỏi",
+      "options": [
+        {
+          "key": "A",
+          "text": "bán cái gì, sản phẩm đó có đặc điểm và lợi ích gì để đáp ứng nhu cầu của khách hàng."
+        },
+        {
+          "key": "B",
+          "text": "bán cho nhóm khách hàng nào và làm sao để họ biết đến cửa hàng."
+        },
+        {
+          "key": "C",
+          "text": "bán vào thời điểm nào và trong bao lâu thì hoàn thành đợt hàng."
+        },
+        {
+          "key": "D",
+          "text": "ai sẽ trực tiếp giữ sổ sách thu – chi của cửa hàng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phần sản phẩm, dịch vụ xác định bán cái gì và lợi ích mà sản phẩm mang lại cho khách hàng. Bán cho ai, làm sao khách biết đến thuộc phần thị trường, khách hàng và kênh phân phối; bán khi nào thuộc tiến độ thực hiện; ai giữ sổ sách thuộc phần tổ chức nhân lực và tài chính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Sản phẩm và dịch vụ",
+        "Nội dung kế hoạch kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Tiến độ thực hiện trong kế hoạch kinh doanh cho biết",
+      "options": [
+        {
+          "key": "A",
+          "text": "trình tự công việc và mốc thời gian hoàn thành từng giai đoạn của kế hoạch."
+        },
+        {
+          "key": "B",
+          "text": "số tiền lãi thực nhận sau khi đã trừ mọi chi phí."
+        },
+        {
+          "key": "C",
+          "text": "danh sách khách hàng mua hàng trong từng tháng."
+        },
+        {
+          "key": "D",
+          "text": "mức độ hài lòng của khách hàng sau khi sử dụng dịch vụ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tiến độ thực hiện là bảng sắp xếp công việc theo trình tự và mốc thời gian hoàn thành của từng giai đoạn. Số lãi thực nhận thuộc dự toán thu – chi và kết quả kinh doanh; danh sách khách hàng và mức độ hài lòng là thông tin phát sinh trong quá trình bán hàng, không phải nội dung của tiến độ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Tiến độ thực hiện",
+        "Nội dung kế hoạch kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Dự báo rủi ro và chuẩn bị phương án dự phòng trong kế hoạch kinh doanh nhằm",
+      "options": [
+        {
+          "key": "A",
+          "text": "giúp người kinh doanh chủ động ứng phó, giảm tổn thất khi xảy ra biến động bất lợi."
+        },
+        {
+          "key": "B",
+          "text": "xoá bỏ hoàn toàn khả năng xảy ra rủi ro trong kinh doanh."
+        },
+        {
+          "key": "C",
+          "text": "chứng minh kế hoạch đã lập là không cần sửa đổi."
+        },
+        {
+          "key": "D",
+          "text": "tăng thêm khoản chi phí quản lí bắt buộc của doanh nghiệp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Rủi ro trong kinh doanh mang tính khách quan, khó lường hết; dự báo rủi ro và phương án dự phòng giúp người kinh doanh chủ động ứng phó, giảm tổn thất chứ không xoá bỏ được rủi ro. Việc này không có nghĩa kế hoạch bất biến và cũng không phải khoản chi phí quản lí bắt buộc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Rủi ro trong kinh doanh",
+        "Nội dung kế hoạch kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Ý tưởng kinh doanh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "định hướng ban đầu về lĩnh vực, sản phẩm hoặc cách thức kinh doanh mà người kinh doanh dự định theo đuổi, chưa được cụ thể hoá bằng các tính toán chi tiết."
+        },
+        {
+          "key": "B",
+          "text": "bản thuyết minh chi tiết về nhu cầu vay vốn gửi tổ chức tín dụng."
+        },
+        {
+          "key": "C",
+          "text": "kết quả kinh doanh đã được cơ quan có thẩm quyền xác nhận."
+        },
+        {
+          "key": "D",
+          "text": "các khoản chi phí phát sinh ngoài dự kiến của doanh nghiệp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ý tưởng kinh doanh là dự định ban đầu về hướng kinh doanh, còn mang tính khái quát, chưa được kiểm chứng bằng hệ thống tính toán chi tiết; muốn biến thành kế hoạch thì phải cụ thể hoá bằng mục tiêu, nguồn lực, tiến độ và dự toán. Bản thuyết minh vay vốn, kết quả đã được xác nhận và chi phí phát sinh ngoài dự kiến đều là khái niệm khác.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Ý tưởng kinh doanh",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Điểm khác nhau cơ bản giữa ý tưởng kinh doanh và kế hoạch kinh doanh là",
+      "options": [
+        {
+          "key": "A",
+          "text": "ý tưởng mới dừng ở dự định về hướng kinh doanh, còn kế hoạch cụ thể hoá dự định đó bằng mục tiêu, nguồn lực, tiến độ, dự toán có thể đo lường và tổ chức thực hiện được."
+        },
+        {
+          "key": "B",
+          "text": "ý tưởng luôn có quy mô lớn hơn kế hoạch kinh doanh."
+        },
+        {
+          "key": "C",
+          "text": "kế hoạch kinh doanh không cần dựa trên ý tưởng."
+        },
+        {
+          "key": "D",
+          "text": "chỉ có kế hoạch kinh doanh mới được coi là hoạt động kinh doanh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ý tưởng là bước khởi đầu mang tính định hướng; kế hoạch kinh doanh là sản phẩm của việc lập kế hoạch, đã được cụ thể hoá bằng chỉ tiêu, nguồn lực, tiến độ và dự toán nên đo lường và tổ chức thực hiện được. Ý tưởng không lớn hơn kế hoạch, kế hoạch luôn xuất phát từ ý tưởng, và bản thân kế hoạch mới là chuẩn bị, chưa phải hoạt động kinh doanh thực tế.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Ý tưởng kinh doanh",
+        "Phân biệt khái niệm"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "So với kế hoạch kinh doanh của một cửa hàng nhỏ, dự án đầu tư kinh doanh thường",
+      "options": [
+        {
+          "key": "A",
+          "text": "có quy mô lớn hơn, thời gian thực hiện dài hơn và phải tính toán chi tiết về vốn, hiệu quả, phương án hoàn trả vốn."
+        },
+        {
+          "key": "B",
+          "text": "đơn giản hơn, chỉ cần nêu ý tưởng bán hàng là đủ."
+        },
+        {
+          "key": "C",
+          "text": "không liên quan đến thị trường tiêu thụ sản phẩm."
+        },
+        {
+          "key": "D",
+          "text": "không cần xác định mục tiêu cụ thể."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dự án đầu tư kinh doanh là một kế hoạch ở quy mô lớn, thời gian dài, đòi hỏi tính toán chi tiết về vốn, hiệu quả và phương án hoàn trả vốn. Dự án không đơn giản hơn, luôn phải phân tích thị trường tiêu thụ và phải có mục tiêu cụ thể, nên ba phương án còn lại không đúng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Dự án đầu tư kinh doanh",
+        "Phân biệt khái niệm"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Yêu cầu bám sát thực tế và có tính khả thi khi lập kế hoạch kinh doanh thể hiện ở chỗ",
+      "options": [
+        {
+          "key": "A",
+          "text": "kế hoạch xuất phát từ nhu cầu thực của thị trường và vừa với khả năng về vốn, nhân lực, trình độ của người kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "chép nguyên kế hoạch của doanh nghiệp lớn đang làm ăn phát đạt."
+        },
+        {
+          "key": "C",
+          "text": "tính toán theo điều thuận lợi nhất để tạo thêm quyết tâm."
+        },
+        {
+          "key": "D",
+          "text": "càng liệt kê nhiều đầu việc thì kế hoạch càng thể hiện được tham vọng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kế hoạch khả thi là kế hoạch dựa trên nhu cầu thị trường và điều kiện thực tế về vốn, nhân lực, trình độ của người lập. Kế hoạch của doanh nghiệp lớn không phù hợp quy mô và nguồn lực của mình; tính theo điều thuận lợi nhất dễ dẫn tới dự toán quá lạc quan; liệt kê nhiều việc vượt khả năng khiến kế hoạch không thực hiện được.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nguyên tắc lập kế hoạch",
+        "Tính khả thi"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Sang tháng thứ hai của kế hoạch bán hàng, nhà cung cấp tăng giá nguyên liệu làm giá vốn đội lên. Việc làm nào sau đây phù hợp nhất với yêu cầu linh hoạt của kế hoạch kinh doanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xem lại dự toán, điều chỉnh giá bán hoặc cơ cấu sản phẩm và thực hiện phương án dự phòng đã chuẩn bị."
+        },
+        {
+          "key": "B",
+          "text": "Giữ nguyên mọi chỉ tiêu đã định và chờ thị trường tự ổn định trở lại."
+        },
+        {
+          "key": "C",
+          "text": "Bỏ hẳn việc lập kế hoạch vì thực tế đã thay đổi, kế hoạch trở nên vô nghĩa."
+        },
+        {
+          "key": "D",
+          "text": "Tăng gấp đôi sản lượng để bù đắp phần chênh lệch giá vốn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kế hoạch kinh doanh cần linh hoạt: khi hoàn cảnh thay đổi, người kinh doanh căn cứ vào dự toán và phương án dự phòng để điều chỉnh cho phù hợp. Chờ thị trường tự ổn định là bị động; bỏ luôn kế hoạch là phủ nhận vai trò của kế hoạch; tăng gấp đôi sản lượng khi giá vốn đã tăng có thể làm tăng tồn kho và thua lỗ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nguyên tắc lập kế hoạch",
+        "Tình huống kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong các cách diễn đạt mục tiêu sau, cách nào đáp ứng yêu cầu mục tiêu phải cụ thể và đo lường được?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bán được 300 sản phẩm mỗi tháng trong 6 tháng đầu và thu hồi đủ vốn sau 10 tháng."
+        },
+        {
+          "key": "B",
+          "text": "Tăng doanh số bán hàng của cửa hàng trong thời gian tới."
+        },
+        {
+          "key": "C",
+          "text": "Trở thành cửa hàng có uy tín nhất trong khu vực."
+        },
+        {
+          "key": "D",
+          "text": "Kinh doanh mặt hàng chất lượng, được khách hàng yêu mến."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cách A nêu rõ chỉ tiêu số lượng (300 sản phẩm mỗi tháng), khoảng thời gian áp dụng (6 tháng đầu) và mốc hoàn thành (thu hồi vốn sau 10 tháng) nên kiểm đếm được mức độ thực hiện. Các cách còn lại chỉ diễn đạt chung chung về tăng doanh số, uy tín, chất lượng mà không có chỉ tiêu và thời hạn nên không đo lường, không làm căn cứ kiểm tra được.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Nguyên tắc lập kế hoạch",
+        "Mục tiêu kinh doanh"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi học sinh lập kế hoạch kinh doanh nhỏ theo nhóm, ví dụ bán sản phẩm thủ công để gây quỹ, điều cần lưu ý là",
+      "options": [
+        {
+          "key": "A",
+          "text": "kế hoạch phải vừa với khả năng tài chính và thời gian của bản thân, không ảnh hưởng việc học, tuân thủ quy định của pháp luật và nội quy nhà trường."
+        },
+        {
+          "key": "B",
+          "text": "càng huy động nhiều tiền của gia đình thì kế hoạch càng có giá trị."
+        },
+        {
+          "key": "C",
+          "text": "có thể tạm nghỉ học một thời gian để tập trung bán hàng."
+        },
+        {
+          "key": "D",
+          "text": "chỉ cần bán cho bạn trong lớp, không cần tính đến chi phí."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kế hoạch của học sinh phải bảo đảm vừa sức về tiền và thời gian, không làm ảnh hưởng việc học và phải tuân thủ quy định pháp luật cùng nội quy nhà trường. Huy động quá khả năng, nghỉ học để bán hàng hay bỏ qua chi phí đều phá vỡ tính khả thi và mục tiêu của hoạt động trải nghiệm này.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Vận dụng lập kế hoạch",
+        "Tình huống học sinh"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong quá trình thực hiện kế hoạch kinh doanh, việc thường xuyên đối chiếu kết quả đạt được với các chỉ tiêu đã định nhằm",
+      "options": [
+        {
+          "key": "A",
+          "text": "phát hiện sớm sai lệch để điều chỉnh biện pháp thực hiện hoặc điều chỉnh kế hoạch cho phù hợp."
+        },
+        {
+          "key": "B",
+          "text": "chứng minh kế hoạch ban đầu luôn đúng như dự tính."
+        },
+        {
+          "key": "C",
+          "text": "làm tăng khối lượng giấy tờ lưu trữ của cửa hàng."
+        },
+        {
+          "key": "D",
+          "text": "thay thế hoàn toàn hoạt động bán hàng ngoài thị trường."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đối chiếu kết quả với chỉ tiêu là khâu kiểm tra, giám sát, giúp phát hiện sớm sai lệch để điều chỉnh biện pháp hoặc điều chỉnh kế hoạch. Việc này không nhằm chứng minh kế hoạch ban đầu luôn đúng, không phải để tăng giấy tờ lưu trữ và cũng không thay thế hoạt động kinh doanh trên thị trường.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Kiểm tra kế hoạch",
+        "Điều chỉnh kế hoạch"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây KHÔNG phải vai trò của kế hoạch kinh doanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Là căn cứ để người kinh doanh huy động các nguồn lực cho hoạt động kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "Là căn cứ để kiểm tra, đánh giá và điều chỉnh hoạt động kinh doanh."
+        },
+        {
+          "key": "C",
+          "text": "Giúp người kinh doanh chủ động dự phòng và hạn chế rủi ro."
+        },
+        {
+          "key": "D",
+          "text": "Thay thế việc tổ chức thực hiện và tiếp cận thị trường của người kinh doanh."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Kế hoạch kinh doanh có vai trò định hướng, làm căn cứ huy động nguồn lực, tổ chức – kiểm soát hoạt động và dự phòng rủi ro; nó chỉ là bước chuẩn bị, muốn có kết quả vẫn phải tổ chức thực hiện và tiếp cận thị trường. Vì vậy nhận định D không phải vai trò của kế hoạch kinh doanh.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Vai trò kế hoạch kinh doanh",
+        "Nhận diện phát biểu sai"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao bản kế hoạch kinh doanh có thể trở thành căn cứ để người kinh doanh vay vốn hoặc kêu gọi góp vốn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì bản kế hoạch trình bày rõ mục tiêu, thị trường, dự toán thu – chi và phương án hoàn trả vốn, giúp người cho vay hoặc góp vốn đánh giá được khả năng sinh lời và mức độ an toàn."
+        },
+        {
+          "key": "B",
+          "text": "Vì bản kế hoạch kinh doanh là giấy tờ chứng minh quyền sở hữu tài sản của người vay."
+        },
+        {
+          "key": "C",
+          "text": "Vì pháp luật quy định mọi tổ chức tín dụng đều phải cho vay theo kế hoạch kinh doanh."
+        },
+        {
+          "key": "D",
+          "text": "Vì chỉ cần có bản kế hoạch kinh doanh thì không phải thực hiện các thủ tục vay vốn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kế hoạch kinh doanh cho thấy mục tiêu, thị trường, dự toán thu – chi và phương án hoàn trả, nên người cho vay hoặc góp vốn có cơ sở để đánh giá tính khả thi, khả năng sinh lời và mức an toàn của phương án. Kế hoạch không phải giấy tờ chứng minh quyền sở hữu tài sản, không làm phát sinh nghĩa vụ phải cho vay của tổ chức tín dụng và không thay thế thủ tục vay vốn.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Vai trò kế hoạch kinh doanh",
+        "Huy động nguồn lực"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Nội dung nào sau đây KHÔNG thuộc các nội dung chủ yếu của một bản kế hoạch kinh doanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dự toán thu – chi theo từng khoảng thời gian."
+        },
+        {
+          "key": "B",
+          "text": "Phương án dự phòng rủi ro."
+        },
+        {
+          "key": "C",
+          "text": "Danh sách khách hàng đang mua sản phẩm của doanh nghiệp khác."
+        },
+        {
+          "key": "D",
+          "text": "Tiến độ thực hiện các giai đoạn của kế hoạch."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bản kế hoạch kinh doanh thường gồm mục tiêu, thị trường và khách hàng, sản phẩm, nguồn lực, dự toán thu – chi, tiến độ và phương án dự phòng rủi ro. Danh sách khách hàng của doanh nghiệp khác không phải nội dung của kế hoạch, hơn nữa khai thác danh sách đó còn có thể xâm phạm lợi ích hợp pháp của người khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Nội dung kế hoạch kinh doanh",
+        "Nhận diện phát biểu sai"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bạn học sinh dự tính đặt in 60 tấm bưu thiếp với giá in 5 000 đồng một tấm, thuê bàn bày bán hết 150 000 đồng và dự kiến bán hết với giá 12 000 đồng một tấm. Theo dự toán đó, tổng chi phí và doanh thu dự kiến là",
+      "options": [
+        {
+          "key": "A",
+          "text": "450 000 đồng chi phí và 720 000 đồng doanh thu, lợi nhuận dự kiến 270 000 đồng."
+        },
+        {
+          "key": "B",
+          "text": "300 000 đồng chi phí và 720 000 đồng doanh thu, lợi nhuận dự kiến 420 000 đồng."
+        },
+        {
+          "key": "C",
+          "text": "450 000 đồng chi phí và 600 000 đồng doanh thu, lợi nhuận dự kiến 150 000 đồng."
+        },
+        {
+          "key": "D",
+          "text": "465 000 đồng chi phí và 720 000 đồng doanh thu, lợi nhuận dự kiến 255 000 đồng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chi phí in là 60 x 5 000 = 300 000 đồng, cộng tiền thuê bàn 150 000 đồng nên tổng chi phí là 450 000 đồng; doanh thu dự kiến là 60 x 12 000 = 720 000 đồng; lợi nhuận dự kiến là 720 000 − 450 000 = 270 000 đồng. Phương án B quên tính tiền thuê bàn, C tính sai doanh thu, D cộng nhầm chi phí thành 465 000 đồng.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Dự toán thu chi",
+        "Vận dụng lập kế hoạch"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-5",
+      "type": "SINGLE_CHOICE",
+      "content": "Trình tự nào sau đây hợp lí khi lập kế hoạch kinh doanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xác định mục tiêu, phân tích thị trường và nguồn lực, xây dựng phương án kinh doanh, lập dự toán thu – chi và tiến độ, dự báo rủi ro và chuẩn bị phương án dự phòng, tổ chức thực hiện rồi kiểm tra, điều chỉnh."
+        },
+        {
+          "key": "B",
+          "text": "Lập dự toán thu – chi, xác định mục tiêu, xây dựng phương án, phân tích thị trường, tổ chức thực hiện, kiểm tra và điều chỉnh."
+        },
+        {
+          "key": "C",
+          "text": "Phân tích thị trường, tổ chức thực hiện, xác định mục tiêu, lập dự toán, chuẩn bị phương án dự phòng, kiểm tra và điều chỉnh."
+        },
+        {
+          "key": "D",
+          "text": "Xác định mục tiêu, tổ chức thực hiện, phân tích nguồn lực, dự báo rủi ro, lập dự toán, kiểm tra và điều chỉnh."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Logic của việc lập kế hoạch là xác định mục tiêu trước để định hướng, phân tích thị trường và nguồn lực để tìm căn cứ, xây dựng phương án, lượng hoá bằng dự toán và tiến độ, dự báo rủi ro, cuối cùng mới tổ chức thực hiện và điều chỉnh. Các phương án còn lại đặt dự toán hoặc việc tổ chức thực hiện trước khi có mục tiêu và căn cứ nên trình tự bị đảo lộn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Trình tự lập kế hoạch",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-5",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về khái niệm và vai trò của kế hoạch kinh doanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kế hoạch kinh doanh xác định mục tiêu và cách thức, nguồn lực, thời gian để thực hiện mục tiêu đó."
+        },
+        {
+          "key": "B",
+          "text": "Kế hoạch kinh doanh là căn cứ để người kinh doanh huy động vốn và các nguồn lực khác."
+        },
+        {
+          "key": "C",
+          "text": "Nhờ có kế hoạch, người kinh doanh chủ động hơn trước những biến động của thị trường."
+        },
+        {
+          "key": "D",
+          "text": "Có kế hoạch kinh doanh là bảo đảm chắc chắn thu được lợi nhuận."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "Ba nhận định A, B, C đúng: kế hoạch kinh doanh vừa xác định mục tiêu và phương tiện thực hiện, vừa là căn cứ huy động nguồn lực và giúp người kinh doanh chủ động trước biến động. Nhận định D sai vì kế hoạch chỉ là bước chuẩn bị, kết quả kinh doanh còn phụ thuộc thị trường và quá trình tổ chức thực hiện.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Khái niệm kế hoạch kinh doanh",
+        "Nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-5",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các nội dung chủ yếu của một bản kế hoạch kinh doanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mục tiêu kinh doanh cần cụ thể, lượng hoá được bằng chỉ tiêu và mốc thời gian."
+        },
+        {
+          "key": "B",
+          "text": "Phân tích thị trường và khách hàng giúp lựa chọn đúng nhóm khách hàng để phục vụ."
+        },
+        {
+          "key": "C",
+          "text": "Dự toán thu – chi là cơ sở để tính hiệu quả kinh doanh dự kiến của phương án."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cần ghi ý tưởng kinh doanh, không cần xác định nguồn lực và tiến độ."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, C là những nội dung cốt lõi của bản kế hoạch: mục tiêu đo lường được, thị trường và khách hàng, dự toán thu – chi. Nhận định D sai vì ý tưởng chưa được cụ thể hoá bằng nguồn lực, tiến độ và dự toán thì chưa phải là kế hoạch kinh doanh.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Nội dung kế hoạch kinh doanh",
+        "Nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-5",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Một nhóm học sinh lập kế hoạch bán lịch tự thiết kế để gây quỹ cho câu lạc bộ. Những nhận định nào sau đây đúng với việc lập kế hoạch của nhóm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mục tiêu bán hết 120 cuốn lịch trong hai tuần trước kỳ nghỉ Tết là mục tiêu cụ thể, đo lường được."
+        },
+        {
+          "key": "B",
+          "text": "Vì nhóm còn đang đi học nên không cần tìm hiểu nhu cầu của khách hàng trong trường."
+        },
+        {
+          "key": "C",
+          "text": "Nhóm nên chuẩn bị phương án giảm số lượng đặt in nếu bán chậm để tránh tồn kho và giảm lỗ."
+        },
+        {
+          "key": "D",
+          "text": "Trong dự toán thu – chi, tiền đặt in và tiền thuê bàn bày bán là chi phí, còn tiền bán lịch là doanh thu."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": "A đúng vì có chỉ tiêu số lượng và mốc thời gian; C đúng vì đó là phương án dự phòng theo yêu cầu linh hoạt; D đúng vì phân biệt được chi phí và doanh thu trong dự toán. Nhận định B sai vì kế hoạch vẫn phải bám sát thực tế, tức là phải tìm hiểu nhu cầu và khả năng chi trả của khách hàng dù nhóm chỉ kinh doanh quy mô nhỏ.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tình huống học sinh",
+        "Nguyên tắc lập kế hoạch",
+        "Nhận định đúng sai"
+      ]
+    },
+    {
+      "id": "ktpl12-b05-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-5",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng khi phân biệt ý tưởng kinh doanh, kế hoạch kinh doanh và dự án đầu tư kinh doanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ý tưởng kinh doanh mới là định hướng ban đầu, chưa được kiểm chứng bằng các tính toán cụ thể."
+        },
+        {
+          "key": "B",
+          "text": "Kế hoạch kinh doanh là bản cụ thể hoá ý tưởng kinh doanh thành các nội dung có thể tổ chức thực hiện."
+        },
+        {
+          "key": "C",
+          "text": "Mọi ý tưởng kinh doanh đều đương nhiên trở thành kế hoạch kinh doanh khả thi."
+        },
+        {
+          "key": "D",
+          "text": "Dự án đầu tư kinh doanh luôn có quy mô nhỏ hơn kế hoạch của một cửa hàng."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A và B đúng: ý tưởng là điểm xuất phát, kế hoạch kinh doanh là bước cụ thể hoá ý tưởng đó bằng mục tiêu, nguồn lực, tiến độ và dự toán. C sai vì ý tưởng phải được phân tích thị trường và tính toán nguồn lực mới trở thành kế hoạch khả thi; D sai vì dự án đầu tư kinh doanh thường có quy mô lớn hơn và thời gian thực hiện dài hơn kế hoạch của một cửa hàng nhỏ.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Phân biệt khái niệm",
+        "Nhận định đúng sai"
+      ]
+    }
+  ]
+}

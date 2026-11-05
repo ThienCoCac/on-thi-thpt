@@ -113,7 +113,7 @@ export default function HomePage() {
               </h1>
               <p className="mt-5 max-w-2xl text-base leading-relaxed text-muted-foreground md:text-lg">
                 Đề thi chuẩn cấu trúc, đồng hồ đếm ngược và lời giải chi tiết theo từng bước
-                tư duy — giúp học sinh lớp 12 biết mình sai ở đâu và sửa đúng cách. Không cần
+                tư duy — giúp học sinh cấp 3 biết mình sai ở đâu và sửa đúng cách. Không cần
                 đăng nhập, làm bài ngay trên trình duyệt.
               </p>
               <div className="mt-8 flex flex-wrap gap-3">
@@ -151,6 +151,7 @@ export default function HomePage() {
                 ))}
               </dl>
               <p className="relative mt-6 border-t pt-4 text-xs leading-relaxed text-muted-foreground">
+                Chia theo lớp: {stats.grades.map((item) => `lớp ${item.grade} · ${item.exams} đề`).join(' — ')}.
                 Toàn bộ đề thi được đóng gói sẵn trong website, tải nhanh và dùng được ngay cả
                 khi mạng chập chờn.
               </p>

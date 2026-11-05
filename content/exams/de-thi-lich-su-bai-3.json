@@ -4,6 +4,7 @@
   "slug": "de-on-tap-lich-su-bai-3-trat-tu-the-gioi-sau-chien-tranh-lanh",
   "description": "Bộ câu hỏi bám sát Bài 3 Lịch sử 12: xu thế đa cực, đa trung tâm và cục diện quan hệ quốc tế sau khi Chiến tranh lạnh kết thúc.",
   "subject": "lich-su",
+  "grade": 12,
   "type": "TOPIC_TEST",
   "durationMinutes": 90,
   "totalScore": 108,
@@ -3448,12 +3449,12 @@
       "id": "q-su-bai3-099",
       "partName": "Phần II. Trắc nghiệm đúng – sai",
       "topic": "topic-su-bai-3",
-      "type": "MULTIPLE_CHOICE",
+      "type": "SINGLE_CHOICE",
       "content": "Cho đoạn tư liệu sau đây: “Bài học của thời kỳ chiến tranh lạnh đã chứng tỏ phương thức quan hệ quốc tế lấy đối đầu chính trị - quân sự là chủ yếu không còn phù hợp, phải chịu nhiều tổn thất hoặc thất bại như hai nước Mỹ - Xô và “một bị thương, một bị mất”. Trong khi đó, phương thức lấy hợp tác và cạnh tranh về kinh tế - chính trị là chính lại thu được nhiều tiến bộ, kết quả như các nước Đức, Nhật và NIC. Sự hưng thịnh hay suy vong của một quốc gia quyết định bởi sức mạnh tổng hợp của quốc gia đó, mà chủ yếu là thực lực kinh tế và khoa học - kỹ thuật.” (Vũ Dương Ninh (Chủ biên): Một số chuyên đề lịch sử thế giới, Nxb. Đại học Quốc gia Hà Nội, Hà Nội, 2008, tr.401)",
       "options": [
         {
           "key": "A",
-          "text": "Đoạn tư liệu đề cập đến xu thế phát triển lấy kinh tế làm trung tâm trong Chiến tranh lạnh."
+          "text": "Đoạn tư liệu khẳng định phương thức đối đầu chính trị – quân sự vẫn là lựa chọn đúng đắn sau Chiến tranh lạnh."
         },
         {
           "key": "B",

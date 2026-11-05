@@ -4,6 +4,7 @@
   "slug": "de-tin-hoc-12-so-04",
   "description": "Đề ôn tập Bài 10, 11, 12 về HTML (tạo liên kết, chèn tệp tin đa phương tiện và khung nội tuyến, tạo biểu mẫu) và Bài 13 về khái niệm, vai trò của CSS trong sách Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức). Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút.",
   "subject": "tin-hoc",
+  "grade": 12,
   "type": "TOPIC_TEST",
   "durationMinutes": 45,
   "totalScore": 10,
@@ -807,7 +808,7 @@
         },
         {
           "key": "B",
-          "text": "Thuộc tính id dùng làm mã định danh đoạn được phép trùng nhau giữa các trang trong cùng một website."
+          "text": "Thuộc tính id dùng làm mã định danh đoạn được phép trùng nhau giữa các vị trí khác nhau trong cùng một trang."
         },
         {
           "key": "C",

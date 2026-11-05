@@ -104,6 +104,29 @@
   .article-content .math-display {
     @apply text-center;
   }
+
+  .map-scroll {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--border)) transparent;
+  }
+
+  .map-scroll[data-scrollable='true'] {
+    -webkit-mask-image: linear-gradient(to bottom, #000 calc(100% - 28px), transparent);
+    mask-image: linear-gradient(to bottom, #000 calc(100% - 28px), transparent);
+  }
+
+  .map-scroll::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  .map-scroll::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .map-scroll::-webkit-scrollbar-thumb {
+    border-radius: 9999px;
+    background-color: hsl(var(--border));
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {

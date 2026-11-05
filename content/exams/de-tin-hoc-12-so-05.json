@@ -4,6 +4,7 @@
   "slug": "de-tin-hoc-12-so-05",
   "description": "Đề ôn tập Bài 14, 15, 16 sách Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức): định dạng văn bản bằng CSS, tạo màu cho chữ và nền, định dạng khung. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút.",
   "subject": "tin-hoc",
+  "grade": 12,
   "type": "TOPIC_TEST",
   "durationMinutes": 45,
   "totalScore": 10,
@@ -448,7 +449,7 @@
       "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
       "topic": "topic-th-mau-chu-va-nen",
       "type": "SINGLE_CHOICE",
-      "content": "Theo bảng tên màu cơ bản của CSS trong Bài 16, màu có mã thập lục phân #FFA500 và bộ ba rgb(255,165,0) là màu",
+      "content": "Trong hệ màu CSS, màu có mã thập lục phân #FFA500, tức rgb(255,165,0), mang tên là",
       "options": [
         {
           "key": "A",
@@ -468,7 +469,7 @@
         }
       ],
       "correctAnswer": "B",
-      "explanation": "Bảng tên màu CSS ghi orange là #FFA500 tức rgb(255,165,0). Các màu khác: olive là #808000, yellow là #FFFF00, maroon là #800000.",
+      "explanation": "Bài 15, mục c (Các tên màu có sẵn trong CSS, trang 84) liệt kê 16 tên màu chuẩn; trong đó orange có mã #FFA500 = rgb(255,165,0). Các màu khác: olive #808000, yellow #FFFF00, maroon #800000.",
       "difficulty": "HARD",
       "score": 0.25,
       "tags": [
@@ -716,7 +717,7 @@
       "options": [
         {
           "key": "A",
-          "text": "h1 {border: solid 2px red;}"
+          "text": "h1 {border: 2px;}"
         },
         {
           "key": "B",
@@ -724,15 +725,17 @@
         },
         {
           "key": "C",
-          "text": "h1 {border: red 2px solid;}"
+          "text": "h1 {border-width: 2px; border-color: red;}"
         },
         {
           "key": "D",
-          "text": "h1 {border: 2px red solid;}"
+          "text": "h1 {border: solid red;}"
         }
       ],
-      "correctAnswer": "B",
-      "explanation": "Sách minh hoạ thuộc tính border có thể gán cùng lúc giá trị của border-width, border-style và border-color theo ví dụ {border: 2px solid red;}.",
+      "correctAnswer": [
+        "B"
+      ],
+      "explanation": "Theo Bảng 16.2, thuộc tính border viết tắt gán đồng thời cả ba giá trị border-width, border-style và border-color. Mẫu B {border: 2px solid red;} đủ cả ba. Mẫu A chỉ có width (thiếu style và color — viền không hiển thị), mẫu C dùng hai thuộc tính dài nhưng thiếu border-style, mẫu D chỉ có style và color (thiếu width).",
       "difficulty": "MEDIUM",
       "score": 0.25,
       "tags": [
@@ -827,7 +830,7 @@
         },
         {
           "key": "D",
-          "text": "Ki hiệu !important cần viết ngay sau thuộc tính cần đánh dấu ưu tiên và mang lại mức ưu tiên cao nhất cho thuộc tính đó."
+          "text": "Kí hiệu !important cần viết ngay sau thuộc tính cần đánh dấu ưu tiên và mang lại mức ưu tiên cao nhất cho thuộc tính đó."
         }
       ],
       "correctAnswer": [

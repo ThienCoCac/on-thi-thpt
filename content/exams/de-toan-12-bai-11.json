@@ -1,0 +1,379 @@
+{
+  "id": "de-toan-12-bai-11",
+  "title": "Đề ôn Toán 12 Bài 11: Nguyên hàm (20 câu)",
+  "slug": "de-toan-12-bai-11",
+  "description": "Đề bám sát Bài 11 sách Toán 12 Kết nối tri thức: định nghĩa nguyên hàm và họ nguyên hàm, bảng nguyên hàm của hằng số, lũy thừa, lượng giác, hàm mũ, tính chất tuyến tính, đổi biến đơn giản và nguyên hàm từng phần. 20 câu trắc nghiệm bốn lựa chọn làm trong 30 phút, mỗi câu có lời giải.",
+  "subject": "toan",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "T12-B11",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T09:00:00.000Z",
+  "updatedAt": "2026-11-04T09:00:00.000Z",
+  "questions": [
+    {
+      "id": "toan12-b11-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = x^2$ là",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{x^3}{3} + C$." },
+        { "key": "B", "text": "$2x + C$." },
+        { "key": "C", "text": "$x^3 + C$." },
+        { "key": "D", "text": "$\\dfrac{x^2}{2} + C$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo công thức lũy thừa $\\int x^a\\,dx = \\dfrac{x^{a+1}}{a+1} + C$ với $a = 2$, ta được $\\int x^2\\,dx = \\dfrac{x^3}{3} + C$. Đáp án B là đạo hàm của $x^2$, còn C quên chia cho số mũ mới.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["họ nguyên hàm", "công thức lũy thừa"]
+    },
+    {
+      "id": "toan12-b11-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nguyên hàm của hàm số $f(x) = \\cos x$ là",
+      "options": [
+        { "key": "A", "text": "$-\\sin x$." },
+        { "key": "B", "text": "$\\cos x$." },
+        { "key": "C", "text": "$\\sin x$." },
+        { "key": "D", "text": "$-\\cos x$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vì $(\\sin x)' = \\cos x$ nên $\\sin x$ là một nguyên hàm của $\\cos x$. Ngược lại $(-\\sin x)' = -\\cos x$, nên $-\\sin x$ là nguyên hàm của $-\\cos x$ chứ không phải của $\\cos x$; hai phương án mang dấu trừ chính là lỗi nhớ sai bảng nguyên hàm lượng giác.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["nguyên hàm", "hàm lượng giác"]
+    },
+    {
+      "id": "toan12-b11-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = e^x$ là",
+      "options": [
+        { "key": "A", "text": "$x e^{x-1} + C$." },
+        { "key": "B", "text": "$e^x + C$." },
+        { "key": "C", "text": "$e^x$." },
+        { "key": "D", "text": "$e^{x+1} + C$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ta có $(e^x)' = e^x$ nên $\\int e^x\\,dx = e^x + C$. Đáp án C thiếu hằng số $C$ nên chưa phải họ nguyên hàm, còn A áp dụng sai công thức lũy thừa cho hàm mũ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["họ nguyên hàm", "hàm mũ"]
+    },
+    {
+      "id": "toan12-b11-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = \\dfrac{1}{x}$ trên khoảng $(0; +\\infty)$ là",
+      "options": [
+        { "key": "A", "text": "$-\\dfrac{1}{x^2} + C$." },
+        { "key": "B", "text": "$\\ln x$." },
+        { "key": "C", "text": "$\\dfrac{\\ln x}{x} + C$." },
+        { "key": "D", "text": "$\\ln x + C$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Với $x > 0$ thì $(\\ln x)' = \\dfrac{1}{x}$, do đó $\\int \\dfrac{1}{x}\\,dx = \\ln x + C$. Đáp án B thiếu $+C$, còn A chính là đạo hàm của $\\dfrac{1}{x}$ chứ không phải nguyên hàm.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["họ nguyên hàm", "logarit"]
+    },
+    {
+      "id": "toan12-b11-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = 3x^2$ là",
+      "options": [
+        { "key": "A", "text": "$x^3 + C$." },
+        { "key": "B", "text": "$6x + C$." },
+        { "key": "C", "text": "$3x^3 + C$." },
+        { "key": "D", "text": "$\\dfrac{x^3}{3} + C$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Do $(x^3)' = 3x^2$ nên $\\int 3x^2\\,dx = x^3 + C$. Học sinh hay nhầm B vì lấy đạo hàm thay vì nguyên hàm, hoặc nhầm C do giữ nguyên hệ số $3$ khi tích phân.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["họ nguyên hàm", "tính chất tuyến tính"]
+    },
+    {
+      "id": "toan12-b11-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = \\sin x$ là",
+      "options": [
+        { "key": "A", "text": "$\\cos x + C$." },
+        { "key": "B", "text": "$-\\sin x + C$." },
+        { "key": "C", "text": "$-\\cos x + C$." },
+        { "key": "D", "text": "$\\sin x + C$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vì $(-\\cos x)' = \\sin x$ nên $\\int \\sin x\\,dx = -\\cos x + C$. Đáp án A sai dấu (đạo hàm của $\\cos x$ là $-\\sin x$), đây là lỗi dấu điển hình khi nguyên hàm hàm sin.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["họ nguyên hàm", "hàm lượng giác"]
+    },
+    {
+      "id": "toan12-b11-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = 3x^2 - 4x + 5$ là",
+      "options": [
+        { "key": "A", "text": "$6x - 4 + C$." },
+        { "key": "B", "text": "$x^3 - 2x^2 + 5x + C$." },
+        { "key": "C", "text": "$x^3 - 2x^2 + 5x$." },
+        { "key": "D", "text": "$x^3 + 2x^2 + 5x + C$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dùng tính chất tuyến tính: $\\int (3x^2 - 4x + 5)\\,dx = x^3 - 2x^2 + 5x + C$. Đáp án C thiếu $+C$, còn D sai dấu ở hạng tử $-2x^2$.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tính chất tuyến tính", "đa thức"]
+    },
+    {
+      "id": "toan12-b11-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = \\dfrac{1}{3x - 1}$ (với $x \\neq \\dfrac{1}{3}$) là",
+      "options": [
+        { "key": "A", "text": "$3\\ln|3x - 1| + C$." },
+        { "key": "B", "text": "$\\ln|3x - 1| + C$." },
+        { "key": "C", "text": "$\\dfrac{1}{3x - 1} + C$." },
+        { "key": "D", "text": "$\\dfrac{1}{3}\\ln|3x - 1| + C$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo công thức $\\int \\dfrac{dx}{ax + b} = \\dfrac{1}{a}\\ln|ax + b| + C$ với $a = 3$, ta được $\\dfrac{1}{3}\\ln|3x - 1| + C$. Học sinh hay quên chia cho hệ số $a = 3$ dẫn tới đáp án B.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["đổi biến", "dạng 1 trên ax+b"]
+    },
+    {
+      "id": "toan12-b11-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = \\cos 2x$ là",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{1}{2}\\sin 2x + C$." },
+        { "key": "B", "text": "$2\\sin 2x + C$." },
+        { "key": "C", "text": "$\\sin 2x + C$." },
+        { "key": "D", "text": "$-\\dfrac{1}{2}\\sin 2x + C$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đặt $t = 2x$ thì $dt = 2\\,dx$, suy ra $\\int \\cos 2x\\,dx = \\dfrac{1}{2}\\sin 2x + C$. Học sinh thường quên chia cho hệ số $2$ nên chọn C, hoặc nhớ nhầm dấu nên chọn D.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["đổi biến", "hàm lượng giác"]
+    },
+    {
+      "id": "toan12-b11-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = (3x + 1)^2$ là",
+      "options": [
+        { "key": "A", "text": "$(3x + 1)^3 + C$." },
+        { "key": "B", "text": "$\\dfrac{(3x + 1)^3}{9} + C$." },
+        { "key": "C", "text": "$\\dfrac{(3x + 1)^3}{3} + C$." },
+        { "key": "D", "text": "$3(3x + 1)^2 + C$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đặt $t = 3x + 1$, $dt = 3\\,dx$ nên $dx = \\dfrac{dt}{3}$. Khi đó $\\int t^2\\,\\dfrac{dt}{3} = \\dfrac{t^3}{9} + C = \\dfrac{(3x+1)^3}{9} + C$. Lỗi phổ biến là chỉ chia cho $3$ mà quên số mũ mới, ra đáp án C.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["đổi biến", "lũy thừa"]
+    },
+    {
+      "id": "toan12-b11-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = 2x + \\dfrac{1}{x}$ trên khoảng $(0; +\\infty)$ là",
+      "options": [
+        { "key": "A", "text": "$x^2 - \\dfrac{1}{x^2} + C$." },
+        { "key": "B", "text": "$x^2 + \\dfrac{1}{x^2} + C$." },
+        { "key": "C", "text": "$x^2 - \\ln x + C$." },
+        { "key": "D", "text": "$x^2 + \\ln x + C$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo tính chất tuyến tính: $\\int 2x\\,dx = x^2$ và $\\int \\dfrac{1}{x}\\,dx = \\ln x$ (vì $x > 0$). Cộng lại ta được $x^2 + \\ln x + C$. Sai dấu ở hạng tử logarit dẫn tới đáp án C.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tính chất tuyến tính", "logarit"]
+    },
+    {
+      "id": "toan12-b11-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho $F$ là một nguyên hàm của $f(x) = 3x^2$ và $F(1) = 5$. Khi đó $F(x)$ là",
+      "options": [
+        { "key": "A", "text": "$x^3 + 5$." },
+        { "key": "B", "text": "$x^3 - 4$." },
+        { "key": "C", "text": "$x^3 + 4$." },
+        { "key": "D", "text": "$x^3 + 1$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ta có $F(x) = x^3 + C$. Từ $F(1) = 1 + C = 5$ suy ra $C = 4$. Vậy $F(x) = x^3 + 4$. Kiểm tra: $(x^3 + 4)' = 3x^2$ và $F(1) = 5$ đều thỏa mãn.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["tìm hằng số", "điều kiện đầu"]
+    },
+    {
+      "id": "toan12-b11-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = \\sin x \\cos x$ là",
+      "options": [
+        { "key": "A", "text": "$\\dfrac{1}{2}\\cos^2 x + C$." },
+        { "key": "B", "text": "$\\dfrac{1}{2}\\sin^2 x + C$." },
+        { "key": "C", "text": "$\\sin^2 x + C$." },
+        { "key": "D", "text": "$-\\dfrac{1}{2}\\sin^2 x + C$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đặt $t = \\sin x$, $dt = \\cos x\\,dx$, ta có $\\int t\\,dt = \\dfrac{t^2}{2} + C = \\dfrac{1}{2}\\sin^2 x + C$. Kiểm tra: $\\left(\\dfrac{1}{2}\\sin^2 x\\right)' = \\sin x\\cos x$. Đáp án A sai dấu vì $\\left(\\dfrac{1}{2}\\cos^2 x\\right)' = -\\sin x\\cos x$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["đổi biến", "hàm lượng giác"]
+    },
+    {
+      "id": "toan12-b11-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = \\dfrac{e^{\\sqrt{x}}}{\\sqrt{x}}$ (với $x > 0$) là",
+      "options": [
+        { "key": "A", "text": "$2e^{\\sqrt{x}} + C$." },
+        { "key": "B", "text": "$e^{\\sqrt{x}} + C$." },
+        { "key": "C", "text": "$2\\sqrt{x}\\,e^{\\sqrt{x}} + C$." },
+        { "key": "D", "text": "$\\dfrac{e^{\\sqrt{x}}}{\\sqrt{x}} + C$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đặt $t = \\sqrt{x}$ thì $dt = \\dfrac{dx}{2\\sqrt{x}}$, hay $\\dfrac{dx}{\\sqrt{x}} = 2\\,dt$. Khi đó $\\int \\dfrac{e^{\\sqrt{x}}}{\\sqrt{x}}\\,dx = 2\\int e^t\\,dt = 2e^{\\sqrt{x}} + C$. Kiểm tra: $(2e^{\\sqrt{x}})' = 2e^{\\sqrt{x}}\\cdot\\dfrac{1}{2\\sqrt{x}} = \\dfrac{e^{\\sqrt{x}}}{\\sqrt{x}}$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["đổi biến", "hàm mũ"]
+    },
+    {
+      "id": "toan12-b11-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = x e^x$ là",
+      "options": [
+        { "key": "A", "text": "$(x + 1)e^x + C$." },
+        { "key": "B", "text": "$x e^x + C$." },
+        { "key": "C", "text": "$\\dfrac{x^2}{2}e^x + C$." },
+        { "key": "D", "text": "$(x - 1)e^x + C$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nguyên hàm từng phần: đặt $u = x$, $dv = e^x\\,dx$ thì $du = dx$, $v = e^x$. Ta có $\\int x e^x\\,dx = x e^x - \\int e^x\\,dx = x e^x - e^x + C = (x - 1)e^x + C$. Kiểm tra: $\\left[(x-1)e^x\\right]' = e^x + (x-1)e^x = x e^x$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["nguyên hàm từng phần", "đa thức nhân mũ"]
+    },
+    {
+      "id": "toan12-b11-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = x\\cos x$ là",
+      "options": [
+        { "key": "A", "text": "$x\\sin x - \\cos x + C$." },
+        { "key": "B", "text": "$x\\sin x + C$." },
+        { "key": "C", "text": "$x\\sin x + \\cos x + C$." },
+        { "key": "D", "text": "$-\\dfrac{x^2}{2}\\sin x + C$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đặt $u = x$, $dv = \\cos x\\,dx$ thì $du = dx$, $v = \\sin x$. Suy ra $\\int x\\cos x\\,dx = x\\sin x - \\int \\sin x\\,dx = x\\sin x + \\cos x + C$. Kiểm tra: $(x\\sin x + \\cos x)' = \\sin x + x\\cos x - \\sin x = x\\cos x$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["nguyên hàm từng phần", "đa thức nhân lượng giác"]
+    },
+    {
+      "id": "toan12-b11-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = \\sin x \\cos^2 x$ là",
+      "options": [
+        { "key": "A", "text": "$-\\dfrac{\\cos^3 x}{3} + C$." },
+        { "key": "B", "text": "$\\dfrac{\\cos^3 x}{3} + C$." },
+        { "key": "C", "text": "$\\cos^3 x + C$." },
+        { "key": "D", "text": "$-\\dfrac{\\cos^2 x}{2} + C$." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đặt $t = \\cos x$, $dt = -\\sin x\\,dx$. Khi đó $\\int \\sin x\\cos^2 x\\,dx = -\\int t^2\\,dt = -\\dfrac{t^3}{3} + C = -\\dfrac{\\cos^3 x}{3} + C$. Kiểm tra: $\\left(-\\dfrac{\\cos^3 x}{3}\\right)' = -\\cos^2 x\\cdot(-\\sin x) = \\sin x\\cos^2 x$.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["đổi biến", "hàm lượng giác"]
+    },
+    {
+      "id": "toan12-b11-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = x^2 e^x$ là",
+      "options": [
+        { "key": "A", "text": "$e^x(x^2 + 2x + 2) + C$." },
+        { "key": "B", "text": "$e^x(x^2 - 2x + 2) + C$." },
+        { "key": "C", "text": "$e^x(x^2 - 2x) + C$." },
+        { "key": "D", "text": "$\\dfrac{x^3}{3}e^x + C$." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lấy từng phần hai lần: $\\int x^2 e^x\\,dx = x^2 e^x - 2\\int x e^x\\,dx = x^2 e^x - 2(x - 1)e^x + C = e^x(x^2 - 2x + 2) + C$. Kiểm tra: $\\left[e^x(x^2 - 2x + 2)\\right]' = e^x(x^2 - 2x + 2) + e^x(2x - 2) = x^2 e^x$.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["nguyên hàm từng phần", "hai lần từng phần"]
+    },
+    {
+      "id": "toan12-b11-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = \\dfrac{e^x}{1 + e^x}$ là",
+      "options": [
+        { "key": "A", "text": "$\\ln(1 + e^x)$." },
+        { "key": "B", "text": "$e^x\\ln(1 + e^x) + C$." },
+        { "key": "C", "text": "$\\ln(1 + e^x) + C$." },
+        { "key": "D", "text": "$-\\ln(1 + e^x) + C$." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đặt $t = 1 + e^x$ thì $dt = e^x\\,dx$, do đó $\\int \\dfrac{e^x}{1 + e^x}\\,dx = \\int \\dfrac{dt}{t} = \\ln|t| + C = \\ln(1 + e^x) + C$ (vì $1 + e^x > 0$). Đáp án A thiếu $+C$ nên chưa phải họ nguyên hàm.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["đổi biến", "hàm mũ"]
+    },
+    {
+      "id": "toan12-b11-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-toan-b11-nguyen-ham",
+      "type": "SINGLE_CHOICE",
+      "content": "Họ nguyên hàm của hàm số $f(x) = (2x + 1)e^{x^2 + x}$ là",
+      "options": [
+        { "key": "A", "text": "$e^{x^2 + x}$." },
+        { "key": "B", "text": "$(2x + 1)e^{x^2 + x} + C$." },
+        { "key": "C", "text": "$(x^2 + x)e^{x^2 + x} + C$." },
+        { "key": "D", "text": "$e^{x^2 + x} + C$." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đặt $t = x^2 + x$ thì $dt = (2x + 1)\\,dx$, nên $\\int (2x + 1)e^{x^2 + x}\\,dx = \\int e^t\\,dt = e^t + C = e^{x^2 + x} + C$. Đáp án A thiếu $+C$, còn B chính là hàm ban đầu chứ không phải nguyên hàm.",
+      "difficulty": "VERY_HARD",
+      "score": 0.5,
+      "tags": ["đổi biến", "hàm mũ"]
+    }
+  ]
+}

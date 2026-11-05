@@ -1,0 +1,960 @@
+{
+  "id": "de-ktpl-12-bai-16",
+  "title": "Đề ôn tập Kinh tế và Pháp luật 12 – Bài 16: Nguyên tắc của WTO và hợp đồng thương mại quốc tế",
+  "slug": "de-ktpl-12-bai-16",
+  "description": "Đề ôn tập bám sát Bài 16 Giáo dục Kinh tế và Pháp luật 12: bản chất và vai trò của Tổ chức Thương mại thế giới; các nguyên tắc cơ bản (tự do hoá thương mại, đối xử tối huệ quốc, đối xử quốc gia, thương mại minh bạch và dự đoán được, cạnh tranh công bằng, hỗ trợ và ưu đãi dành cho thành viên đang phát triển); tác động của toàn cầu hoá thương mại đối với quốc gia đang phát triển; khái niệm, đặc điểm, các điều khoản chủ yếu và nguyên tắc giao kết hợp đồng thương mại quốc tế; các hình thức giải quyết tranh chấp bằng thương lượng, hoà giải, trọng tài và toà án. Gồm 24 câu trắc nghiệm và 4 câu chọn nhận định đúng, 60 phút.",
+  "subject": "kinh-te-va-phap-luat",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 60,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "KTPL12-B16",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-04T08:00:00+07:00",
+  "updatedAt": "2026-11-04T08:00:00+07:00",
+  "questions": [
+    {
+      "id": "ktpl12-b16-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Tổ chức Thương mại thế giới (WTO) là tổ chức quốc tế hoạt động chủ yếu trong lĩnh vực nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "thương mại giữa các quốc gia, đặt ra khuôn khổ luật chơi chung, là diễn đàn đàm phán mở cửa thị trường và xử lí bất đồng thương mại giữa các thành viên."
+        },
+        {
+          "key": "B",
+          "text": "cho các quốc gia thành viên vay vốn dài hạn để khắc phục khó khăn về cán cân thanh toán và xoá đói, giảm nghèo."
+        },
+        {
+          "key": "C",
+          "text": "bảo đảm an ninh tập thể, ngăn ngừa và chấm dứt các cuộc xung đột vũ trang giữa các quốc gia trên thế giới."
+        },
+        {
+          "key": "D",
+          "text": "quy định mức lương tối thiểu, thời giờ làm việc và điều kiện lao động tại doanh nghiệp ở mọi quốc gia thành viên."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tổ chức này điều hành hệ thống thương mại đa phương, bao gồm thương mại hàng hoá, dịch vụ và các khía cạnh liên quan tới sở hữu trí tuệ, đồng thời là diễn đàn đàm phán và là nơi giải quyết tranh chấp thương mại giữa các thành viên. B là chức năng của định chế tài chính – tiền tệ quốc tế; C thuộc lĩnh vực chính trị, an ninh; D thuộc lĩnh vực lao động. Đây là căn cứ để phân biệt tổ chức thương mại với các tổ chức quốc tế khác.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Tổ chức Thương mại thế giới",
+        "Giáo dục KTPL 12"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoạt động nào sau đây thể hiện đúng vai trò của Tổ chức Thương mại thế giới đối với thương mại toàn cầu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ấn định một biểu thuế nhập khẩu chung và bắt buộc mọi quốc gia thành viên áp dụng như nhau đối với tất cả mặt hàng."
+        },
+        {
+          "key": "B",
+          "text": "Tổ chức các vòng đàm phán thương mại, giám sát việc thực hiện cam kết và giải quyết tranh chấp thương mại giữa các thành viên."
+        },
+        {
+          "key": "C",
+          "text": "Cấp tín dụng ưu đãi trực tiếp cho doanh nghiệp xuất khẩu của các quốc gia đang phát triển."
+        },
+        {
+          "key": "D",
+          "text": "Thống nhất sản lượng và giá bán của các mặt hàng chủ lực trên thị trường thế giới theo từng thời kì."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vai trò của tổ chức này là làm diễn đàn đàm phán, đặt ra và giám sát việc thực hiện các quy tắc chung, đồng thời giải quyết bất đồng thương mại giữa các thành viên. A sai vì mức thuế do từng thành viên tự thương lượng và cam kết, không có biểu thuế chung nào bị áp đặt cho mọi mặt hàng; C là hoạt động của định chế tài chính, không thuộc chức năng của tổ chức thương mại; D trái với tinh thần cạnh tranh công bằng, vì đó là kiểu thoả thuận về sản lượng và giá bán.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Vai trò của Tổ chức Thương mại thế giới",
+        "Hợp tác thương mại quốc tế"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hệ thống nguyên tắc cơ bản của Tổ chức Thương mại thế giới, nguyên tắc không phân biệt đối xử được thể hiện qua hai nội dung nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "đối xử tối huệ quốc và đối xử quốc gia, tức là không phân biệt giữa các bạn hàng nước ngoài với nhau và không phân biệt giữa hàng nhập khẩu với hàng sản xuất trong nước."
+        },
+        {
+          "key": "B",
+          "text": "tự do hoá thuế quan và hạn ngạch số lượng, tức là chỉ dùng hàng rào thuế quan và chỉ áp dụng hạn ngạch cho nhóm hàng hoá thiết yếu."
+        },
+        {
+          "key": "C",
+          "text": "bảo hộ có chọn lọc và ưu đãi tuyệt đối, tức là dành toàn bộ quyền lợi thương mại cho doanh nghiệp đang sản xuất trong nước."
+        },
+        {
+          "key": "D",
+          "text": "minh bạch hoá chi phí và dự đoán được lợi nhuận, tức là công khai giá thành và lợi nhuận của từng doanh nghiệp tham gia xuất khẩu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nguyên tắc không phân biệt đối xử gồm đối xử tối huệ quốc (giữa các thành viên với nhau) và đối xử quốc gia (giữa hàng hoá, dịch vụ nước ngoài với hàng hoá, dịch vụ trong nước sau khi đã vào thị trường). B lẫn hai biện pháp quản lí thương mại khác nhau và gán chúng cho nguyên tắc này; C đi ngược lại bản chất của nguyên tắc không phân biệt đối xử; D hiểu sai nguyên tắc minh bạch, vì minh bạch hướng tới quy định, chính sách của cơ quan nhà nước, không phải bí mật kinh doanh của từng doanh nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Không phân biệt đối xử",
+        "Nguyên tắc của Tổ chức Thương mại thế giới"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tắc đối xử tối huệ quốc (MFN) trong Tổ chức Thương mại thế giới có nội dung cơ bản là",
+      "options": [
+        {
+          "key": "A",
+          "text": "mọi ưu đãi thương mại mà một thành viên dành cho hàng hoá, dịch vụ của một nước cũng phải được dành ngay và vô điều kiện cho hàng hoá, dịch vụ của tất cả các thành viên khác."
+        },
+        {
+          "key": "B",
+          "text": "hàng hoá nhập khẩu sau khi đã hoàn thành nghĩa vụ vào thị trường được chịu thuế, phí và quy định không kém phần thuận lợi so với hàng sản xuất trong nước."
+        },
+        {
+          "key": "C",
+          "text": "mỗi quốc gia chỉ dành ưu đãi thương mại cho những nước đã cùng mình kí văn kiện hợp tác tư pháp và phải xin phép trước khi mở rộng ưu đãi."
+        },
+        {
+          "key": "D",
+          "text": "các thành viên được tự do áp dụng mức thuế khác nhau cho từng bạn hàng tuỳ theo mức độ thân thiết về quan hệ chính trị giữa hai quốc gia."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nguyên tắc tối huệ quốc yêu cầu không phân biệt giữa các đối tác nước ngoài: điều kiện tốt nhất dành cho một thành viên thì phải được dành chung cho các thành viên khác. B là nội dung của nguyên tắc đối xử quốc gia, khác ở chỗ so sánh hàng nhập khẩu với hàng nội địa. C đặt thêm điều kiện không có trong nguyên tắc; D trái hẳn với yêu cầu không phân biệt đối xử trong thương mại.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Đối xử tối huệ quốc",
+        "Nguyên tắc của Tổ chức Thương mại thế giới"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo nguyên tắc đối xử quốc gia, khi áp dụng thuế, phí và quy định quản lí đối với hàng hoá nhập khẩu, một quốc gia thành viên phải bảo đảm",
+      "options": [
+        {
+          "key": "A",
+          "text": "không đối xử với hàng nhập khẩu kém thuận lợi hơn so với hàng hoá tương tự sản xuất trong nước, sau khi hàng nhập đã hoàn thành nghĩa vụ vào thị trường nội địa."
+        },
+        {
+          "key": "B",
+          "text": "cấm hẳn việc tiêu thụ hàng nhập khẩu cùng loại tại những cơ sở bán lẻ do Nhà nước sở hữu để dành thị trường cho hàng nội."
+        },
+        {
+          "key": "C",
+          "text": "buộc thương nhân nhập khẩu phải bán hàng theo mức giá do cơ quan quản lí giá trong nước ấn định cho từng lô hàng cụ thể."
+        },
+        {
+          "key": "D",
+          "text": "yêu cầu hàng nhập khẩu phải sử dụng bao bì sản xuất trong nước nhằm bảo hộ cho ngành bao bì của quốc gia mình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nguyên tắc này bảo đảm cạnh tranh bình đẳng giữa hàng nhập khẩu và hàng nội địa trên thị trường trong nước, nên không được đặt thêm gánh nặng về thuế, phí, quy định kĩ thuật hay điều kiện lưu thông chỉ vì hàng đó là hàng nhập khẩu. B là biện pháp cấm đoán tuyệt đối, không phải yêu cầu của nguyên tắc; C can thiệp vào quyền định giá của thương nhân; D là cách phân biệt đối xử nhằm bảo hộ một ngành trong nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Đối xử quốc gia",
+        "Nguyên tắc của Tổ chức Thương mại thế giới"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quốc gia áp dụng mức thuế nhập khẩu như nhau đối với hàng hoá của tất cả các thành viên, nhưng lại thu lệ phí lưu thông trong nước cao hơn đối với rượu nhập khẩu so với rượu sản xuất trong nước. Cách làm này trái với nguyên tắc nào sau đây của Tổ chức Thương mại thế giới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguyên tắc đối xử quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "Nguyên tắc đối xử tối huệ quốc."
+        },
+        {
+          "key": "C",
+          "text": "Nguyên tắc thương mại minh bạch và dự đoán được."
+        },
+        {
+          "key": "D",
+          "text": "Nguyên tắc hỗ trợ và ưu đãi dành cho thành viên đang phát triển."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "So sánh giữa rượu nhập khẩu và rượu sản xuất trong nước thuộc phạm vi điều chỉnh của nguyên tắc đối xử quốc gia; lệ phí lưu thông cao hơn tạo ra sự phân biệt đối xử ngay sau khi hàng đã vào thị trường nội địa. B không bị vi phạm trong tình huống này, vì thuế nhập khẩu được áp dụng như nhau cho mọi thành viên. C và D không liên quan tới tình tiết đã cho, nên không phải đáp án.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Phân biệt hai nguyên tắc đối xử",
+        "Tình huống vận dụng"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tắc tự do hoá thương mại trong Tổ chức Thương mại thế giới được hiểu cơ bản là",
+      "options": [
+        {
+          "key": "A",
+          "text": "các thành viên cùng giảm dần hàng rào thuế quan và các hạn chế về số lượng đối với thương mại hàng hoá, dịch vụ thông qua đàm phán, theo lộ trình và có kiểm soát."
+        },
+        {
+          "key": "B",
+          "text": "mọi quốc gia phải xoá bỏ hoàn toàn thuế nhập khẩu và toàn bộ quy định quản lí chuyên ngành ngay tại thời điểm trở thành thành viên."
+        },
+        {
+          "key": "C",
+          "text": "chỉ các nước đã phát triển mới mở cửa thị trường, còn các nước đang phát triển được giữ nguyên mọi biện pháp bảo hộ đang áp dụng."
+        },
+        {
+          "key": "D",
+          "text": "doanh nghiệp nước ngoài được kinh doanh mọi ngành nghề ở nước sở tại mà không phải tuân thủ bất kì quy định nội địa nào."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tự do hoá thương mại là quá trình nhiều bên cùng thương lượng để cắt giảm rào cản theo lộ trình, có tính tới trình độ phát triển và lợi ích chính đáng của từng thành viên, chứ không phải xoá bỏ tức thời mọi hàng rào. B cực đoan về thời điểm và mức độ; C trái với tính áp dụng chung của quy tắc; D nhầm mở cửa thị trường với việc miễn trừ hoàn toàn quy định nội địa, trong khi hàng hoá, dịch vụ nước ngoài vẫn chịu quy tắc chung áp dụng như nhau.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Tự do hoá thương mại",
+        "Nguyên tắc của Tổ chức Thương mại thế giới"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Yêu cầu của nguyên tắc thương mại minh bạch và dự đoán được đối với một quốc gia thành viên thể hiện ở chỗ",
+      "options": [
+        {
+          "key": "A",
+          "text": "công khai các văn bản, quy định, chính sách liên quan tới thương mại, thông báo cho các thành viên khi có thay đổi và giữ vững những cam kết về thuế quan đã đưa ra."
+        },
+        {
+          "key": "B",
+          "text": "tiết lộ cho đối tác nước ngoài toàn bộ bí mật kinh doanh và danh sách khách hàng của doanh nghiệp trong nước."
+        },
+        {
+          "key": "C",
+          "text": "chỉ áp dụng quy định về thương mại sau khi đã phổ biến nội bộ cho một số doanh nghiệp quen thuộc trong ngành."
+        },
+        {
+          "key": "D",
+          "text": "thay đổi tuỳ tiện chính sách quản lí xuất, nhập khẩu khi thấy không thuận lợi mà không cần báo trước cho ai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Minh bạch và dự đoán được giúp thương nhân biết và tin vào luật chơi chung: quy tắc phải công khai, dễ tiếp cận, có thay đổi phải báo trước, cam kết về thuế quan phải được giữ ổn định. B lẫn lộn tính minh bạch của cơ quan nhà nước với bí mật kinh doanh của doanh nghiệp; C tạo ra sự ưu tiên không bình đẳng và giữ kín quy tắc; D trái trực tiếp với yêu cầu thông báo và tính ổn định của cam kết.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Minh bạch và dự đoán được",
+        "Nguyên tắc của Tổ chức Thương mại thế giới"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo nguyên tắc cạnh tranh công bằng, hành vi nào sau đây của một thành viên bị coi là gây méo mó thương mại và có thể khiến các thành viên khác áp dụng biện pháp phòng vệ hợp pháp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cấp trợ cấp trực tiếp cho hoạt động xuất khẩu hoặc bán hàng ra nước ngoài với giá thấp một cách nhân tạo, gây thiệt hại cho nhà sản xuất nội địa của thành viên nhập khẩu."
+        },
+        {
+          "key": "B",
+          "text": "Công khai đầy đủ quy trình, thủ tục hải quan và biểu mẫu hành chính trên trang thông tin chính thức của cơ quan quản lí."
+        },
+        {
+          "key": "C",
+          "text": "Áp dụng cùng mức thuế và cùng loại phí lưu thông đối với hàng nhập khẩu và hàng hoá tương tự sản xuất trong nước."
+        },
+        {
+          "key": "D",
+          "text": "Tiến hành đối thoại thương mại định kì với các đối tác để tháo gỡ vướng mắc về thủ tục xuất, nhập khẩu."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cạnh tranh công bằng hạn chế những cách làm không lành mạnh như trợ cấp cho xuất khẩu hoặc bán phá giá, vì chúng tạo ra lợi thế nhân tạo và gây thiệt hại cho nhà sản xuất của nước nhập khẩu. B là biểu hiện của nguyên tắc minh bạch; C là biểu hiện của nguyên tắc đối xử quốc gia; D là hoạt động hợp tác bình thường, không làm méo mó cạnh tranh.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Cạnh tranh công bằng",
+        "Nguyên tắc của Tổ chức Thương mại thế giới"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tắc hỗ trợ và ưu đãi dành cho các thành viên đang phát triển trong Tổ chức Thương mại thế giới thể hiện ở việc",
+      "options": [
+        {
+          "key": "A",
+          "text": "các thành viên này được dành thời gian chuyển đổi dài hơn, linh hoạt hơn trong thực hiện cam kết và được hỗ trợ kĩ thuật, xây dựng năng lực thương mại."
+        },
+        {
+          "key": "B",
+          "text": "miễn hoàn toàn nghĩa vụ tuân thủ các nguyên tắc chung cho mọi quốc gia có thu nhập thấp trong suốt thời gian còn là thành viên."
+        },
+        {
+          "key": "C",
+          "text": "buộc các nước đã phát triển phải nhập toàn bộ hàng hoá của nước đang phát triển với mức giá cao hơn giá thị trường thế giới."
+        },
+        {
+          "key": "D",
+          "text": "hạn chế quyền tham gia đàm phán của các thành viên đang phát triển để quá trình thương lượng giữa các nước chung được nhanh chóng hơn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ưu đãi dành cho thành viên đang phát triển là một bộ phận của hệ thống nguyên tắc, thể hiện ở lộ trình dài hơn, nghĩa vụ linh hoạt hơn và hỗ trợ về năng lực. B tuyệt đối hoá sự ưu đãi và làm mất hiệu lực chung của bộ quy tắc; C là biện pháp phi thị trường, không thuộc nội dung nguyên tắc; D đi ngược quyền bình đẳng của các thành viên trong hoạt động đàm phán.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Ưu đãi thành viên đang phát triển",
+        "Nguyên tắc của Tổ chức Thương mại thế giới"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây KHÔNG phải là nguyên tắc cơ bản của Tổ chức Thương mại thế giới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mọi thành viên phải áp dụng một mức thuế nhập khẩu thống nhất do tổ chức này ấn định đối với tất cả các loại hàng hoá."
+        },
+        {
+          "key": "B",
+          "text": "Mọi ưu đãi thương mại dành cho một thành viên cũng phải được dành cho các thành viên khác."
+        },
+        {
+          "key": "C",
+          "text": "Hàng hoá, dịch vụ nước ngoài sau khi vào thị trường nội địa được đối xử không kém thuận lợi hơn hàng hoá, dịch vụ trong nước."
+        },
+        {
+          "key": "D",
+          "text": "Quy định, chính sách liên quan tới thương mại phải được công khai, ổn định và thông báo cho các thành viên."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A không phải nguyên tắc, vì mức thuế do từng thành viên tự thương lượng và cam kết theo lộ trình của mình; không có mức thuế thống nhất nào bị áp đặt cho mọi thành viên và mọi mặt hàng. B là nội dung nguyên tắc đối xử tối huệ quốc; C là nguyên tắc đối xử quốc gia; D là nguyên tắc thương mại minh bạch và dự đoán được.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Hệ thống nguyên tắc",
+        "Nhận diện nội dung sai"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Đối với một quốc gia đang phát triển, việc tham gia sâu vào hệ thống thương mại đa phương mang lại tác động nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mở rộng thị trường xuất khẩu, tạo áp lực tích cực để hoàn thiện thể chế, thuận lợi hơn trong tiếp cận công nghệ và nguồn lực bên ngoài cho sản xuất, kinh doanh."
+        },
+        {
+          "key": "B",
+          "text": "Xoá bỏ hoàn toàn nghĩa vụ nộp thuế của doanh nghiệp xuất khẩu và bảo đảm lợi nhuận cho mọi mặt hàng mang bán ra nước ngoài."
+        },
+        {
+          "key": "C",
+          "text": "Được miễn mọi quy định về chất lượng, an toàn và bảo vệ môi trường khi đưa hàng hoá vào thị trường của các thành viên khác."
+        },
+        {
+          "key": "D",
+          "text": "Chấm dứt hẳn sự liên kết và tuỳ thuộc của nền kinh tế nước mình vào thị trường, nguồn vốn của các quốc gia khác."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Toàn cầu hoá thương mại tạo cơ hội về thị trường, vốn, công nghệ và quản trị, đồng thời đòi hỏi nâng cao năng lực cạnh tranh và hoàn thiện thể chế trong nước. B và C nói quá quyền lợi thực tế, vì doanh nghiệp vẫn phải thực hiện nghĩa vụ thuế và tuân thủ quy định về chất lượng, an toàn của thị trường nhập khẩu; D không đúng, vì hội nhập làm tăng mức độ liên kết, tuỳ thuộc lẫn nhau giữa các nền kinh tế.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Tác động của toàn cầu hoá thương mại",
+        "Cơ hội và thách thức"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi thị trường mở cửa, một số ngành sản xuất trong nước gặp khó khăn vì không cạnh tranh được với hàng nhập khẩu. Theo tinh thần các nguyên tắc đã học, cách ứng xử nào sau đây phù hợp?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ cấu lại ngành hàng, nâng chất lượng và hạ chi phí, đồng thời sử dụng các biện pháp phòng vệ thương mại hợp pháp và chính sách hỗ trợ chuyển đổi nghề cho người lao động bị ảnh hưởng."
+        },
+        {
+          "key": "B",
+          "text": "Đóng cửa hoàn toàn thị trường, ngừng mọi hoạt động xuất khẩu, nhập khẩu cho tới khi các doanh nghiệp trong nước tự ổn định trở lại."
+        },
+        {
+          "key": "C",
+          "text": "Yêu cầu các đối tác nước ngoài cam kết không bán hàng hoá cùng loại vào thị trường trong nước để dành chỗ cho doanh nghiệp nội."
+        },
+        {
+          "key": "D",
+          "text": "Bỏ mặc người lao động ở các ngành thua lỗ, vì mở cửa thị trường là xu thế khách quan không thể đảo ngược và không ai phải chịu trách nhiệm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mở cửa gắn liền với cạnh tranh, nên ứng xử đúng là nâng năng lực cạnh tranh, tận dụng công cụ phòng vệ hợp pháp mà khuôn khổ chung cho phép và hỗ trợ nhóm yếu thế trong quá trình chuyển đổi. B là bảo hộ cực đoan, trái với cam kết tự do hoá và gây thiệt hại cho người tiêu dùng; C là đòi hỏi phân biệt đối xử, trái với nguyên tắc không phân biệt đối xử; D vô trách nhiệm, vì Nhà nước có nghĩa vụ hỗ trợ người lao động thích ứng với hội nhập.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Thách thức của hội nhập",
+        "Vận dụng cao"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Hợp đồng thương mại quốc tế được hiểu cơ bản là",
+      "options": [
+        {
+          "key": "A",
+          "text": "sự thoả thuận giữa các chủ thể có trụ sở hoặc quốc tịch ở những quốc gia khác nhau nhằm xác lập, thay đổi hoặc chấm dứt quyền và nghĩa vụ trong hoạt động mua bán hàng hoá, cung ứng dịch vụ có yếu tố nước ngoài."
+        },
+        {
+          "key": "B",
+          "text": "văn bản do cơ quan nhà nước có thẩm quyền ban hành để cho phép một doanh nghiệp cụ thể được xuất khẩu một mặt hàng nhất định."
+        },
+        {
+          "key": "C",
+          "text": "biên bản ghi nhận kết quả hội đàm giữa hai cơ quan đại diện ngoại giao về quan hệ chính trị, an ninh giữa hai quốc gia."
+        },
+        {
+          "key": "D",
+          "text": "thoả thuận nội bộ của một công ty về việc phân chia lợi nhuận và quyền biểu quyết giữa những người cùng góp vốn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bản chất của hợp đồng này là thoả thuận tự nguyện giữa các chủ thể thương nhân, có yếu tố nước ngoài và làm phát sinh quyền, nghĩa vụ trong hoạt động thương mại. B là giấy phép do cơ quan nhà nước cấp, không phải hợp đồng; C thuộc quan hệ ngoại giao giữa các quốc gia, không phải quan hệ thương mại giữa các chủ thể kinh doanh; D là quan hệ nội bộ của một tổ chức, không có yếu tố quốc tế về chủ thể.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Hợp đồng thương mại quốc tế",
+        "Khái niệm"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Dấu hiệu cơ bản nhất để nhận biết một hợp đồng mua bán hàng hoá là hợp đồng thương mại quốc tế là",
+      "options": [
+        {
+          "key": "A",
+          "text": "hợp đồng có yếu tố nước ngoài, thể hiện ở việc các bên có trụ sở hoặc quốc tịch ở những quốc gia khác nhau, hàng hoá được mua bán qua biên giới quốc gia."
+        },
+        {
+          "key": "B",
+          "text": "hợp đồng được lập thành nhiều bản, có đầy đủ chữ kí của đại diện hai bên và dấu của doanh nghiệp."
+        },
+        {
+          "key": "C",
+          "text": "một trong các bên là doanh nghiệp có vốn điều lệ lớn và có nhiều năm kinh nghiệm trên thương trường."
+        },
+        {
+          "key": "D",
+          "text": "hợp đồng có điều khoản về phạt vi phạm và bồi thường thiệt hại khi một bên không thực hiện nghĩa vụ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Yếu tố nước ngoài về chủ thể hoặc về đối tượng mua bán là căn cứ phân biệt hợp đồng thương mại quốc tế với hợp đồng thương mại trong nước. B và D là đặc điểm chung của hợp đồng thương mại nói chung, kể cả hợp đồng thuần tuý nội địa; C dựa vào quy mô và kinh nghiệm của doanh nghiệp, không phải căn cứ pháp lí để xác định tính chất quốc tế của hợp đồng.",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "tags": [
+        "Đặc điểm của hợp đồng thương mại quốc tế",
+        "Yếu tố nước ngoài"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "So với hợp đồng mua bán hàng hoá trong nước, việc giao kết và thực hiện hợp đồng thương mại quốc tế thường phức tạp hơn chủ yếu vì",
+      "options": [
+        {
+          "key": "A",
+          "text": "các bên chịu sự chi phối của những hệ thống pháp luật và tập quán thương mại khác nhau, hàng hoá vận chuyển qua nhiều chặng, lại khác biệt về ngôn ngữ và đồng tiền thanh toán."
+        },
+        {
+          "key": "B",
+          "text": "hợp đồng quốc tế không cần nêu điều khoản về chất lượng, số lượng và giá cả vì thông lệ quốc tế đã quyết định sẵn toàn bộ."
+        },
+        {
+          "key": "C",
+          "text": "pháp luật của mọi quốc gia đều cấm doanh nghiệp trong nước giao kết hợp đồng với thương nhân mang quốc tịch nước ngoài."
+        },
+        {
+          "key": "D",
+          "text": "hợp đồng quốc tế chỉ có hiệu lực khi có văn bản bảo lãnh của một cơ quan nhà nước ở cả hai quốc gia."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chính sự khác biệt về luật áp dụng, ngôn ngữ, đơn vị tiền tệ, cách thức vận chuyển và tập quán thương mại làm phát sinh nhiều rủi ro, nên các điều khoản phải được thoả thuận chặt chẽ. B sai vì các điều khoản chủ yếu vẫn do các bên tự thoả thuận và ghi rõ trong hợp đồng; C trái với quyền tự do kinh doanh và tinh thần tự do hoá thương mại; D đặt thêm một điều kiện không có trong thực tiễn giao kết hợp đồng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Hợp đồng thương mại quốc tế",
+        "So sánh với hợp đồng trong nước"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hợp đồng thương mại quốc tế, điều khoản về hàng hoá thường phải ghi rõ những nội dung nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tên hàng, số lượng, trọng lượng, chất lượng và quy cách phẩm chất, bao bì, kí mã hiệu cùng cách thức xác định các chỉ tiêu đó."
+        },
+        {
+          "key": "B",
+          "text": "Họ, tên và số giấy tờ tuỳ thân của toàn bộ người lao động đang làm việc tại xưởng sản xuất ra lô hàng."
+        },
+        {
+          "key": "C",
+          "text": "Lịch sử góp vốn và tình hình nộp thuế thu nhập doanh nghiệp của mỗi bên qua nhiều năm liên tục."
+        },
+        {
+          "key": "D",
+          "text": "Màu sơn trụ sở, biển hiệu và vị trí đặt máy chủ quản trị mạng của hai doanh nghiệp tham gia hợp đồng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Điều khoản về hàng hoá xác định chính xác đối tượng của hợp đồng; trong đó tên hàng, số lượng, chất lượng và cách đo lường là căn cứ để giao nhận, thanh toán và giải quyết khiếu nại về sau. B, C, D nêu những thông tin thuộc tổ chức, quản trị nội bộ hoặc nhân thân của doanh nghiệp, không phải nội dung của điều khoản về hàng hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Điều khoản của hợp đồng",
+        "Đối tượng hàng hoá"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Điều khoản giá cả trong hợp đồng thương mại quốc tế cần xác định rõ những yếu tố nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mức giá cho một đơn vị hàng hoá và tổng giá, đơn vị tiền tệ để tính giá và thanh toán, điều kiện giao hàng gắn với chi phí và rủi ro được tính vào giá, các trường hợp được giảm giá."
+        },
+        {
+          "key": "B",
+          "text": "Giá bán lẻ trung bình của mặt hàng đó tại thị trường nước nhập khẩu do một cơ quan thống kê công bố hằng tháng."
+        },
+        {
+          "key": "C",
+          "text": "Số tiền mà bên bán đã chi cho hoạt động quảng cáo sản phẩm ở thị trường nội địa trong năm trước đó."
+        },
+        {
+          "key": "D",
+          "text": "Mức thu nhập của người đứng đầu doanh nghiệp bên bán tại thời điểm hai bên tiến hành đàm phán hợp đồng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giá trong hợp đồng quốc tế luôn gắn với điều kiện giao hàng, vì cùng một mặt hàng nhưng chi phí vận tải, bảo hiểm và rủi ro ở các thời điểm khác nhau thì cấu thành giá khác nhau; ngoài ra còn phải xác định đơn vị tiền tệ dùng để tính giá và trả tiền. B là số liệu tham khảo của thị trường, không phải mức giá các bên thoả thuận; C và D là chi phí, thông tin nội bộ của bên bán, không đương nhiên được tính vào giá đã cam kết.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Điều khoản giá cả",
+        "Điều khoản của hợp đồng"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong điều khoản thanh toán của hợp đồng thương mại quốc tế, các bên thường thoả thuận về",
+      "options": [
+        {
+          "key": "A",
+          "text": "đồng tiền thanh toán, thời hạn và địa điểm trả tiền, phương thức chuyển tiền, nhờ thu hoặc tín dụng chứng từ, cùng ngân hàng phục vụ việc trả tiền."
+        },
+        {
+          "key": "B",
+          "text": "mệnh giá các loại tiền tệ mà quốc gia của bên bán sẽ phát hành trong năm thực hiện hợp đồng."
+        },
+        {
+          "key": "C",
+          "text": "giá vàng trong nước tại thời điểm hai bên bắt đầu quá trình đàm phán hợp đồng."
+        },
+        {
+          "key": "D",
+          "text": "danh sách khách hàng của bên mua tại các tỉnh, thành phố khác trong lãnh thổ quốc gia mình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thanh toán là điều khoản chứa nhiều rủi ro nên cần chốt rõ tiền tệ, thời hạn, phương thức và kênh ngân hàng; các phương thức nhờ thu và tín dụng chứng từ được dùng phổ biến vì gắn việc trả tiền với bộ chứng từ hàng hoá. B thuộc chính sách tiền tệ của một quốc gia, không phải nội dung hai bên được quyền thoả thuận; C là giá vàng, thường không dùng làm căn cứ trả tiền trong hợp đồng thương mại; D là thông tin kinh doanh của bên mua, không liên quan tới nghĩa vụ thanh toán.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Điều khoản thanh toán",
+        "Điều khoản của hợp đồng"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Điều khoản giao hàng trong hợp đồng thương mại quốc tế có ý nghĩa quan trọng vì nó xác định",
+      "options": [
+        {
+          "key": "A",
+          "text": "thời hạn, địa điểm và cách thức giao nhận hàng, qua đó xác định thời điểm rủi ro về mất mát, hư hỏng chuyển từ bên bán sang bên mua và phần chi phí mỗi bên phải chịu."
+        },
+        {
+          "key": "B",
+          "text": "toàn bộ lợi nhuận mà bên mua sẽ thu được khi bán lại lô hàng đó tại thị trường trong nước."
+        },
+        {
+          "key": "C",
+          "text": "nghĩa vụ nộp thuế thu nhập doanh nghiệp của mỗi bên đối với Nhà nước nơi doanh nghiệp đó đặt trụ sở chính."
+        },
+        {
+          "key": "D",
+          "text": "số lượng nhân viên mà hai bên buộc phải cử sang làm việc tại kho hàng của bên kia trong thời gian thực hiện hợp đồng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chậm giao, giao thiếu hay để hàng hư hỏng đều liên quan trực tiếp tới điều khoản này; việc thống nhất thời điểm chuyển giao rủi ro giúp xác định ai chịu trách nhiệm khi xảy ra mất mát, hư hỏng và ai trả các chi phí phát sinh. B thuộc quan hệ bán lại của riêng bên mua; C là nghĩa vụ thuế với Nhà nước của từng bên, không do hợp đồng quy định; D là sắp xếp nhân sự nội bộ, không phải nội dung của điều khoản giao hàng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Điều khoản giao hàng",
+        "Chuyển giao rủi ro"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Điều khoản bất khả kháng trong hợp đồng thương mại quốc tế thường được hiểu là trường hợp",
+      "options": [
+        {
+          "key": "A",
+          "text": "xảy ra sự kiện khách quan, không thể lường trước và không thể khắc phục dù đã áp dụng mọi biện pháp hợp lí, làm một bên không thực hiện được nghĩa vụ và bên đó được miễn trách nhiệm tương ứng."
+        },
+        {
+          "key": "B",
+          "text": "một bên gặp khó khăn về tài chính vì đã chi quá nhiều cho quảng cáo nên tự cho quyền không giao hàng cho bên kia."
+        },
+        {
+          "key": "C",
+          "text": "thị trường giảm giá mạnh khiến bên mua không muốn nhận hàng nữa thì được coi là sự kiện bất khả kháng."
+        },
+        {
+          "key": "D",
+          "text": "bên bán thay đổi chiến lược kinh doanh và muốn dành lô hàng cho khách hàng khác trả giá cao hơn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sự kiện bất khả kháng mang tính khách quan, xảy ra ngoài khả năng kiểm soát của các bên, nên bên bị ảnh hưởng được miễn trách nhiệm trong phạm vi tương ứng, nhưng phải thông báo kịp thời và chứng minh sự kiện đó. B là khó khăn chủ quan về tài chính; C là biến động thị trường thuộc rủi ro kinh doanh bình thường; D là lựa chọn thương mại của bên bán — cả ba đều không phải sự kiện khách quan không thể khắc phục.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Bất khả kháng",
+        "Điều khoản của hợp đồng"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Các biện pháp xử lí vi phạm thường được ghi nhận trong điều khoản chế tài của hợp đồng thương mại quốc tế là",
+      "options": [
+        {
+          "key": "A",
+          "text": "phạt vi phạm, bồi thường thiệt hại, tạm ngừng hoặc huỷ hợp đồng theo thoả thuận của các bên và theo pháp luật được chọn làm luật áp dụng."
+        },
+        {
+          "key": "B",
+          "text": "bắt giám đốc của bên vi phạm phải chịu trách nhiệm hình sự ngay tại cửa khẩu nơi làm thủ tục thông quan."
+        },
+        {
+          "key": "C",
+          "text": "tịch thu toàn bộ tài sản của cả hai doanh nghiệp để sung vào ngân sách nhà nước nơi kí kết hợp đồng."
+        },
+        {
+          "key": "D",
+          "text": "buộc bên bị vi phạm phải tiếp tục nhận hàng cho dù lô hàng không phù hợp với thoả thuận trong hợp đồng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chế tài hợp đồng là biện pháp dân sự, thương mại do các bên thoả thuận hoặc do luật áp dụng quy định, nhằm bù đắp tổn thất và răn đe hành vi vi phạm. B là trách nhiệm hình sự do cơ quan có thẩm quyền xem xét theo pháp luật hình sự, không phải chế tài hợp đồng; C là biện pháp xử lí tài sản mang tính công quyền; D vô lí, vì bên bị vi phạm có quyền từ chối hàng không phù hợp và yêu cầu áp dụng chế tài.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "Chế tài hợp đồng",
+        "Điều khoản của hợp đồng"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tắc tự do ý chí thể hiện ở việc các bên được tự do lựa chọn đối tác, tự do đàm phán và thoả thuận các điều khoản của hợp đồng thương mại quốc tế. Tuy nhiên, sự tự do này bị giới hạn bởi",
+      "options": [
+        {
+          "key": "A",
+          "text": "điều cấm của pháp luật, đạo đức xã hội, quyền và lợi ích hợp pháp của bên thứ ba, đồng thời nội dung thoả thuận không được trái với cam kết quốc tế mà quốc gia liên quan là thành viên."
+        },
+        {
+          "key": "B",
+          "text": "ý chí của riêng bên có vốn lớn hơn, vì bên góp nhiều vốn đương nhiên được quyền quyết định mọi điều khoản của hợp đồng."
+        },
+        {
+          "key": "C",
+          "text": "quyết định của người môi giới đã giới thiệu hai bên biết nhau trong quá trình tiếp xúc, đàm phán ban đầu."
+        },
+        {
+          "key": "D",
+          "text": "sở thích cá nhân của người đứng ra kí hợp đồng, miễn là người đó có đủ thẩm quyền đại diện theo giấy uỷ quyền."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tự do ý chí không đồng nghĩa với tự do tuyệt đối: các bên chỉ được thoả thuận trong khuôn khổ pháp luật và không được xâm phạm lợi ích công cộng, quyền, lợi ích hợp pháp của người thứ ba. B là sự áp đặt của bên mạnh hơn, trái với nguyên tắc bình đẳng; C lấy ý chí của chủ thể không phải là bên có quyền quyết định nội dung hợp đồng; D tuyệt đối hoá ý chí cá nhân người đại diện, trong khi người này phải nhân danh và vì lợi ích của doanh nghiệp.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Tự do ý chí",
+        "Nguyên tắc giao kết hợp đồng"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "topic": "topic-ktpl-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai doanh nghiệp ở hai quốc gia khác nhau phát sinh tranh chấp về chất lượng lô hàng. Trong hợp đồng có điều khoản thoả thuận mọi tranh chấp được giải quyết bằng trọng tài thương mại. Nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai bên trước hết nên thương lượng trên cơ sở hợp đồng và thiện chí hợp tác; nếu không đạt kết quả, tranh chấp được đưa ra giải quyết theo thủ tục trọng tài như đã thoả thuận."
+        },
+        {
+          "key": "B",
+          "text": "Vì đã có điều khoản trọng tài nên một bên có thể tuỳ ý khởi kiện vụ việc ra toà án của nước mình để yêu cầu giải quyết."
+        },
+        {
+          "key": "C",
+          "text": "Bên bán có quyền đơn phương sửa lại điều khoản về chất lượng rồi coi như tranh chấp đã được giải quyết xong."
+        },
+        {
+          "key": "D",
+          "text": "Tranh chấp thương mại giữa hai doanh nghiệp chỉ có thể được giải quyết bằng con đường ngoại giao giữa hai quốc gia."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thoả thuận trọng tài là căn cứ để hội đồng trọng tài giải quyết tranh chấp và thường loại trừ việc toà án thụ lí cùng tranh chấp đó; thương lượng là bước nên ưu tiên vì nhanh, ít tốn kém và giữ được quan hệ hợp tác. B trái với hiệu lực của thoả thuận trọng tài; C là hành vi đơn phương thay đổi hợp đồng, vi phạm nguyên tắc tự do ý chí và thiện chí; D sai vì tranh chấp giữa các thương nhân được giải quyết bằng thương lượng, hoà giải, trọng tài hoặc toà án theo thoả thuận và quy định của pháp luật.",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "tags": [
+        "Giải quyết tranh chấp",
+        "Trọng tài thương mại"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c25",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các nguyên tắc cơ bản của Tổ chức Thương mại thế giới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguyên tắc đối xử tối huệ quốc yêu cầu mọi ưu đãi thương mại dành cho một thành viên cũng phải được dành cho các thành viên khác."
+        },
+        {
+          "key": "B",
+          "text": "Nguyên tắc thương mại minh bạch và dự đoán được buộc các thành viên công khai quy định liên quan tới thương mại và giữ vững cam kết đã đưa ra."
+        },
+        {
+          "key": "C",
+          "text": "Nguyên tắc cạnh tranh công bằng hạn chế các hành vi gây méo mó thương mại như trợ cấp xuất khẩu hoặc bán hàng ra nước ngoài với giá thấp một cách nhân tạo."
+        },
+        {
+          "key": "D",
+          "text": "Nguyên tắc tự do hoá thương mại cho phép mỗi thành viên tuỳ ý đặt ra hạn chế số lượng với hàng nhập khẩu mà không cần thương lượng với ai."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, C nêu đúng nội dung ba nguyên tắc đã học trong bài. D sai vì tự do hoá thương mại là quá trình cùng giảm dần rào cản qua đàm phán theo lộ trình; việc đặt hạn chế số lượng tuỳ tiện trái với cam kết chung và cả nguyên tắc không phân biệt đối xử.",
+      "difficulty": "EASY",
+      "score": 1,
+      "tags": [
+        "Hệ thống nguyên tắc",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c26",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về hợp đồng thương mại quốc tế?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hợp đồng thương mại quốc tế là thoả thuận tự nguyện giữa các chủ thể, làm phát sinh quyền và nghĩa vụ trong hoạt động thương mại."
+        },
+        {
+          "key": "B",
+          "text": "Điểm khác biệt cơ bản của loại hợp đồng này là có yếu tố nước ngoài về chủ thể hoặc về việc mua bán hàng hoá qua biên giới quốc gia."
+        },
+        {
+          "key": "C",
+          "text": "Khi soạn thảo hợp đồng, các bên cần xác định rõ pháp luật áp dụng và cơ quan giải quyết tranh chấp để hạn chế rủi ro do khác biệt về luật lệ."
+        },
+        {
+          "key": "D",
+          "text": "Hợp đồng thương mại quốc tế có thể bỏ qua điều khoản về chất lượng và số lượng vì nguyên tắc tự do ý chí cho phép suy đoán tuỳ ý."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A đúng về bản chất thoả thuận; B đúng về dấu hiệu đặc trưng; C đúng về yêu cầu thực tiễn khi soạn thảo hợp đồng có yếu tố nước ngoài. D sai vì các điều khoản chủ yếu như hàng hoá, giá cả, thanh toán, giao hàng phải được ghi rõ; tự do ý chí là tự do thoả thuận chứ không phải quyền bỏ trống nội dung then chốt của hợp đồng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Hợp đồng thương mại quốc tế",
+        "Nhận định đúng"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c27",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Những nhận định nào sau đây đúng về các điều khoản chủ yếu và nguyên tắc giao kết hợp đồng thương mại quốc tế?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các điều khoản về hàng hoá, giá cả, phương thức thanh toán, giao hàng, bất khả kháng, chế tài và giải quyết tranh chấp thường được coi là những điều khoản chủ yếu cần thoả thuận chặt chẽ."
+        },
+        {
+          "key": "B",
+          "text": "Khi giao kết và thực hiện hợp đồng, các bên phải bảo đảm bình đẳng, thiện chí và hợp tác, không được lợi dụng khó khăn của bên kia để áp đặt điều khoản bất lợi."
+        },
+        {
+          "key": "C",
+          "text": "Ngoài pháp luật quốc gia và các cam kết quốc tế, tập quán thương mại quốc tế được chấp nhận rộng rãi cũng là nguồn mà các bên có thể viện dẫn để xác định quyền và nghĩa vụ của mình."
+        },
+        {
+          "key": "D",
+          "text": "Sau khi hợp đồng đã có hiệu lực, mỗi bên được quyền đơn phương sửa đổi bất kì điều khoản nào nếu thấy không còn phù hợp với lợi ích của mình."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A liệt kê đúng nhóm điều khoản chủ yếu của hợp đồng; B nêu đúng nguyên tắc ứng xử giữa các bên; C phản ánh thực tế về nguồn điều chỉnh, trong đó có tập quán thương mại quốc tế được thừa nhận rộng rãi. D sai vì việc sửa đổi hợp đồng phải do hai bên cùng thoả thuận và thường phải được lập thành văn bản; đơn phương thay đổi nội dung đã cam kết là vi phạm hợp đồng.",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "tags": [
+        "Điều khoản của hợp đồng",
+        "Nguyên tắc giao kết hợp đồng"
+      ]
+    },
+    {
+      "id": "ktpl12-b16-c28",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "topic": "topic-ktpl-bai-16",
+      "type": "MULTIPLE_CHOICE",
+      "content": "Doanh nghiệp X ở Việt Nam kí hợp đồng mua một lô nguyên liệu của doanh nghiệp Y ở nước ngoài. Hợp đồng có điều khoản về bất khả kháng và điều khoản thoả thuận tranh chấp được giải quyết bằng trọng tài. Khi bên Y chuẩn bị giao hàng thì một cơn bão lớn làm hệ thống cảng ở nước đó tê liệt, việc giao hàng bị chậm nhiều tuần. Bên Y gửi thông báo ngay cho bên X kèm tài liệu chứng minh. Những nhận định nào sau đây đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nếu chứng minh được đây là sự kiện khách quan, không thể lường trước và không thể khắc phục dù đã áp dụng biện pháp hợp lí, bên Y có thể được miễn trách nhiệm đối với phần nghĩa vụ bị ảnh hưởng."
+        },
+        {
+          "key": "B",
+          "text": "Việc bên Y thông báo kịp thời cho bên X và gửi tài liệu chứng minh là phù hợp với yêu cầu thường thấy của điều khoản bất khả kháng."
+        },
+        {
+          "key": "C",
+          "text": "Hai bên nên trước hết thương lượng về việc gia hạn thời gian giao hàng; nếu thương lượng không thành, tranh chấp được đưa ra giải quyết theo thủ tục trọng tài như đã thoả thuận."
+        },
+        {
+          "key": "D",
+          "text": "Bên X đương nhiên có quyền đơn phương chấm dứt hợp đồng và yêu cầu bên Y bồi thường toàn bộ khoản lợi nhuận dự kiến, kể cả khi sự kiện bất khả kháng đã được chứng minh."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A và B đúng vì bất khả kháng là căn cứ miễn trách nhiệm trong phạm vi tương ứng với phần nghĩa vụ bị ảnh hưởng, đi kèm nghĩa vụ thông báo kịp thời và chứng minh sự kiện; C đúng vì thương lượng là bước nên ưu tiên, còn thoả thuận trọng tài là căn cứ để giải quyết tranh chấp. D sai vì khi sự kiện bất khả kháng được chấp nhận thì bên bị ảnh hưởng được miễn trách nhiệm tương ứng, không đương nhiên phải bồi thường toàn bộ lợi nhuận dự kiến; việc chấm dứt hợp đồng cũng phải theo điều khoản đã thoả thuận và pháp luật áp dụng.",
+      "difficulty": "HARD",
+      "score": 1,
+      "tags": [
+        "Tình huống vận dụng",
+        "Bất khả kháng",
+        "Nhận định đúng"
+      ]
+    }
+  ]
+}
