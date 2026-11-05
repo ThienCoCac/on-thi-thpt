@@ -1,0 +1,1435 @@
+{
+  "id": "de-tin-hoc-tn-2025-ma-de-0526",
+  "title": "Đề chính thức tốt nghiệp THPT 2025 môn Tin học – Mã đề 0526",
+  "slug": "de-tin-hoc-tn-2025-ma-de-0526",
+  "description": "Đề thi chính thức kì thi tốt nghiệp THPT năm 2025 môn Tin học, mã đề 0526, chép nguyên văn 24 câu Phần I và 6 câu đúng – sai Phần II. Bộ GD&ĐT công bố đáp án chính thức theo bảng mã đề 0501–0524, riêng mã 0526 không có trong bảng đó nên đáp án ở đây do nhóm biên soạn tự giải và đã soát độc lập. Đề gốc tính 10 điểm vì mỗi thí sinh chỉ làm 4 trong 6 câu Phần II; bản trên trang giữ cả hai định hướng (Khoa học máy tính, Tin học ứng dụng) nên tổng điểm là 12.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "FULL_EXAM",
+  "durationMinutes": 50,
+  "totalScore": 12,
+  "examYear": 2025,
+  "examCode": "0526",
+  "isFree": true,
+  "isFeatured": true,
+  "publishedAt": "2026-11-05T10:00:00.000Z",
+  "updatedAt": "2026-11-05T10:00:00.000Z",
+  "questions": [
+    {
+      "id": "tin-tn2025-0526-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 1.** Tên phông chữ của văn bản được thiết lập bởi thuộc tính CSS nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`font-size`"
+        },
+        {
+          "key": "B",
+          "text": "`font-style`"
+        },
+        {
+          "key": "C",
+          "text": "`font-weight`"
+        },
+        {
+          "key": "D",
+          "text": "`font-family`"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "`font-family` khai báo danh sách phông chữ dùng để hiển thị chữ. `font-size` chỉnh cỡ chữ, `font-style` chọn kiểu thường/nghiêng, `font-weight` chỉnh độ đậm của nét chữ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 2.** Đoạn mã CSS nào sau đây thiết lập đường viền có độ dày 5 pixel và kiểu nét liền đậm bao quanh các đối tượng nội dung khi hiển thị trên trình duyệt?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`p.border {border-width: 5px; border-style: dashed;}`"
+        },
+        {
+          "key": "B",
+          "text": "`p.border {border-width: 5px; border-style: groove;}`"
+        },
+        {
+          "key": "C",
+          "text": "`p.border {border-width: 5px; border-style: double;}`"
+        },
+        {
+          "key": "D",
+          "text": "`p.border {border-width: 5px; border-style: solid;}`"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đường viền nét liền đậm tương ứng `border-style: solid`. `dashed` là nét đứt, `double` là nét kép, `groove` là nét rãnh 3D.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 3.** Trí tuệ nhân tạo **chưa** thực hiện được công việc nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giao tiếp với con người bằng ngôn ngữ tự nhiên."
+        },
+        {
+          "key": "B",
+          "text": "Gợi ý sản phẩm cho người mua hàng trực tuyến."
+        },
+        {
+          "key": "C",
+          "text": "Chẩn đoán bệnh với độ chính xác tuyệt đối."
+        },
+        {
+          "key": "D",
+          "text": "Nhận dạng được chữ viết tay tiếng Việt."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "AI hiện vẫn có sai số nên không thể chẩn đoán bệnh \"với độ chính xác tuyệt đối\"; kết quả của AI chỉ mang tính hỗ trợ chuyên gia. Giao tiếp bằng ngôn ngữ tự nhiên, gợi ý sản phẩm và nhận dạng chữ viết tay đều là những việc AI đã làm được.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 4.** Khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo được thể hiện trong hệ thống nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dự báo cháy rừng qua ảnh vệ tinh."
+        },
+        {
+          "key": "B",
+          "text": "Tóm tắt nội dung văn bản."
+        },
+        {
+          "key": "C",
+          "text": "Dự báo thời tiết dựa trên ảnh vệ tinh."
+        },
+        {
+          "key": "D",
+          "text": "Nhận dạng khuôn mặt."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tóm tắt văn bản là xử lý ngôn ngữ tự nhiên nên thể hiện rõ khả năng hiểu ngôn ngữ. Ba phương án còn lại là xử lý ảnh, không phải ngôn ngữ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 5.** Đoạn mã CSS nào sau đây quy định tiêu đề cấp một và nội dung văn bản được hiển thị theo khối?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`h1, p {display: flex;}`"
+        },
+        {
+          "key": "B",
+          "text": "`h1, p {display: block;}`"
+        },
+        {
+          "key": "C",
+          "text": "`h1, p {display: none;}`"
+        },
+        {
+          "key": "D",
+          "text": "`h1, p {display: inline;}`"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "`display: block` cho phần tử hiển thị theo khối, chiếm trọn một dòng. `flex` là bố cục linh hoạt, `none` ẩn phần tử, `inline` hiển thị theo dòng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 6.** Một người nhận được Email thông báo trúng thưởng từ một công ty với yêu cầu truy cập vào một đường liên kết (link) để làm thủ tục nhận thưởng. Trong tình huống này, cách ứng xử nào sau đây đảm bảo sự an toàn trong giao tiếp trên không gian mạng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thận trọng xác minh thông tin trước khi đưa ra quyết định."
+        },
+        {
+          "key": "B",
+          "text": "Mượn máy tính của người khác để truy cập vào đường link."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển tiếp Email cho bạn bè để cùng biết thông tin."
+        },
+        {
+          "key": "D",
+          "text": "Truy cập ngay vào đường link và làm theo chỉ dẫn."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đây là dạng lừa đảo trúng thưởng (phishing) điển hình. Cách an toàn nhất là xác minh thông tin qua kênh chính thức trước khi làm bất cứ việc gì; mượn máy khác, chuyển tiếp cho bạn bè hay bấm link ngay đều có thể làm lộ dữ liệu hoặc lây lan mã độc.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 7.** Cho đoạn mã HTML sau:\n\n`<table border=\"1\" width=\"50%\" height=\"30%\">`\n`<tr> <th> </th> <th> </th> </tr>`\n`<tr> <td> </td> <td> </td> </tr>`\n`<tr> <td> </td> <td> </td> </tr>`\n`</table>`\n\nPhương án nào sau đây nêu đúng số lượng hàng và cột của một bảng được tạo bởi đoạn mã trên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 hàng, 2 cột."
+        },
+        {
+          "key": "B",
+          "text": "2 hàng, 3 cột."
+        },
+        {
+          "key": "C",
+          "text": "3 hàng, 3 cột."
+        },
+        {
+          "key": "D",
+          "text": "3 hàng, 1 cột."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi cặp `<tr>…</tr>` là một hàng, trong đó có hai ô `<th>` hoặc `<td>` nên bảng có 3 hàng và 2 cột.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 8.** Công việc nào sau đây **không phải** là trách nhiệm chính của người làm nghề sửa chữa và bảo trì máy tính?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tư vấn việc nâng cấp phần cứng và phần mềm."
+        },
+        {
+          "key": "B",
+          "text": "Xây dựng các phần mềm nghiệp vụ."
+        },
+        {
+          "key": "C",
+          "text": "Hướng dẫn sử dụng phần cứng và phần mềm."
+        },
+        {
+          "key": "D",
+          "text": "Duy trì sự ổn định của hệ thống máy tính."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Xây dựng phần mềm nghiệp vụ là công việc của lập trình viên/phát triển phần mềm. Nghề sửa chữa và bảo trì tập trung vào phần cứng, cài đặt, hướng dẫn sử dụng và giữ hệ thống hoạt động ổn định.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 9.** Đoạn mã HTML nào sau đây được dùng để tạo một danh sách có thứ tự là chữ số La Mã bắt đầu từ II?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<ol type=\"I\" start=\"2\"> <li> Mục A </li> <li> Mục B </li> </ol>`"
+        },
+        {
+          "key": "B",
+          "text": "`<ol style=\"I\" begin=\"2\"> <li> Mục A </li> <li> Mục B </li> </ol>`"
+        },
+        {
+          "key": "C",
+          "text": "`<ol type=\"I\" start=\"II\"> <li> Mục A </li> <li> Mục B </li> </ol>`"
+        },
+        {
+          "key": "D",
+          "text": "`<ol type=\"1\" start=\"II\"> <li> Mục A </li> <li> Mục B </li> </ol>`"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "`type=\"I\"` chọn kiểu số La Mã viết hoa, `start=\"2\"` quy định phần tử đầu tiên là số thứ 2 nên danh sách bắt đầu từ II. Phương án B sai vì `style` và `begin` không phải thuộc tính của `<ol>`; phương án C và D sai vì `start` chỉ nhận số nguyên, giá trị \"II\" bị trình duyệt bỏ qua nên danh sách lại bắt đầu từ I (phương án D còn dùng `type=\"1\"` nên đánh số Ả Rập, không phải số La Mã).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 10.** Một bạn học sinh đăng bài lên mạng xã hội kèm theo hình ảnh mình đang trồng cây tại vườn nhà với thông điệp \"Tôi bảo vệ môi trường\". Hành động nào sau đây của một số bạn trong lớp thể hiện ứng xử có văn hóa?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chia sẻ bài đăng của bạn đó lên trang cá nhân để lan tỏa thông điệp đến bạn bè."
+        },
+        {
+          "key": "B",
+          "text": "Bình luận rằng việc làm của bạn đó chỉ nhằm mục đích phô trương bản thân."
+        },
+        {
+          "key": "C",
+          "text": "Đăng ảnh chụp của những người khác trồng để so bì với cây của bạn đó."
+        },
+        {
+          "key": "D",
+          "text": "Nhắn riêng rằng việc trồng một vài cây không có tác dụng gì đến môi trường."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chia sẻ bài đăng để lan tỏa thông điệp tích cực là ứng xử văn minh, tôn trọng người khác. Ba phương án còn lại là bình luận tiêu cực, so bì hoặc hạ thấp việc làm của bạn, không phù hợp chuẩn mực giao tiếp trên mạng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 11.** Trong một mạng LAN có máy tính X được kết nối trực tiếp với máy in qua dây cáp. Để tất cả các máy tính trong mạng sử dụng được máy in này, công việc nào sau đây **không nhất thiết** phải thực hiện?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chia sẻ thư mục chứa trình điều khiển máy in trên máy tính X."
+        },
+        {
+          "key": "B",
+          "text": "Chia sẻ quyền truy cập máy in qua mạng trên máy tính X."
+        },
+        {
+          "key": "C",
+          "text": "Cài đặt máy in (đã được máy tính X chia sẻ) cho các máy tính còn lại."
+        },
+        {
+          "key": "D",
+          "text": "Cài đặt trình điều khiển máy in cho máy tính X."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Muốn chia sẻ máy in thì bắt buộc phải cài trình điều khiển trên máy X (D), chia sẻ máy in qua mạng (B) rồi cài máy in đã chia sẻ cho các máy còn lại (C). Chia sẻ thêm thư mục chứa trình điều khiển (A) là không bắt buộc, vì trình điều khiển được truyền kèm khi các máy khác kết nối tới máy in chia sẻ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 12.** Nếu nhận được một sản phẩm mua trực tuyến không đúng như đã mô tả khi đặt hàng, cách ứng xử nào sau đây thể hiện tính nhân văn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tố cáo và khởi kiện bên bán hàng."
+        },
+        {
+          "key": "B",
+          "text": "Phản ánh với bộ phận chăm sóc khách hàng."
+        },
+        {
+          "key": "C",
+          "text": "Kêu gọi cộng đồng tẩy chay."
+        },
+        {
+          "key": "D",
+          "text": "Đổ lỗi cho đơn vị vận chuyển."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phản ánh với bộ phận chăm sóc khách hàng là cách xử lý ôn hòa, tạo cơ hội để bên bán kiểm tra và khắc phục, thể hiện tính nhân văn. Tố cáo, kêu gọi tẩy chay hay đổ lỗi khi chưa có kết luận dễ gây tổn hại cho người khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 13.** Người sửa chữa và bảo trì máy tính thực hiện công việc nào sau đây liên quan đến phần mềm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tư vấn nâng cấp phần cứng."
+        },
+        {
+          "key": "B",
+          "text": "Cập nhật hệ điều hành."
+        },
+        {
+          "key": "C",
+          "text": "Lắp đặt thiết bị mạng."
+        },
+        {
+          "key": "D",
+          "text": "Thay thế linh kiện hỏng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cập nhật hệ điều hành là việc làm trên phần mềm. Tư vấn nâng cấp phần cứng, lắp đặt thiết bị mạng và thay thế linh kiện đều thuộc phần cứng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 14.** Trí tuệ nhân tạo có thể gây ra khó khăn đối với công việc nào sau đây của giáo viên?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đánh giá mức độ đóng góp của học sinh thông qua sản phẩm học tập."
+        },
+        {
+          "key": "B",
+          "text": "Chuẩn bị hình ảnh và video minh họa cho các bài giảng trên lớp."
+        },
+        {
+          "key": "C",
+          "text": "Mở rộng và đào sâu kiến thức trong quá trình nâng cao chuyên môn."
+        },
+        {
+          "key": "D",
+          "text": "Tìm hướng tiếp cận hiệu quả và thú vị cho việc tổ chức dạy học trên lớp."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đánh giá mức độ đóng góp của từng học sinh qua sản phẩm học tập đòi hỏi hiểu ngữ cảnh, thái độ và quá trình làm việc nên AI khó thay thế và dễ gây khó khăn. Ba việc còn lại AI đang hỗ trợ giáo viên khá tốt.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 15.** Thiết bị nào sau đây là điểm truy cập không dây trong mạng LAN?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Access Point."
+        },
+        {
+          "key": "B",
+          "text": "Router."
+        },
+        {
+          "key": "C",
+          "text": "Hub."
+        },
+        {
+          "key": "D",
+          "text": "Switch."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Access Point là thiết bị phát sóng Wi-Fi để các thiết bị không dây kết nối vào mạng LAN. Router định tuyến giữa các mạng, Hub và Switch chỉ chia sẻ kết nối có dây.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 16.** Khi thực hiện đoạn mã HTML sau, dòng chữ \"Chúc các em thi tốt!\" sẽ được hiển thị trên trình duyệt theo định dạng nào dưới đây?\n\n`<html><head><style> #mau{color: red; font-weight: bold;}`\n`            .mau{color: green; font-style: italic;}`\n`</style></head><body><p class=\"mau\">Chúc các em thi tốt!</p></body></html>`",
+      "options": [
+        {
+          "key": "A",
+          "text": "Màu xanh lá cây, in nghiêng."
+        },
+        {
+          "key": "B",
+          "text": "Màu xanh lá cây, in đậm."
+        },
+        {
+          "key": "C",
+          "text": "Màu đỏ, in nghiêng."
+        },
+        {
+          "key": "D",
+          "text": "Màu đỏ, in đậm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thẻ `<p class=\"mau\">` chỉ có thuộc tính `class` nên chỉ áp dụng quy tắc `.mau` (chọn theo lớp): chữ màu xanh lá cây, in nghiêng. Quy tắc `#mau` chọn theo id nên không ảnh hưởng tới đoạn văn này.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 17.** Lựa chọn ngôn ngữ Python hoặc C++ để tìm hiểu đoạn chương trình sau:\n\n**Đoạn chương trình viết bằng Python:**\n\n1. `n, i, S = 11, 7, 0`\n2. `while i < n:`\n3. `    S = S + i`\n4. `    i = i + 2`\n5. `print(S)`\n\n**Đoạn chương trình viết bằng C++:**\n\n1. `int n = 11, i = 7, S = 0;`\n2. `while (i < n) {`\n3. `    S = S + i;`\n4. `    i = i + 2;`\n5. `}`\n6. `cout << S;`\n\nPhương án nào sau đây chỉ ra đúng số lần lặp của câu lệnh `while` ở Dòng 2?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2."
+        },
+        {
+          "key": "B",
+          "text": "1."
+        },
+        {
+          "key": "C",
+          "text": "0."
+        },
+        {
+          "key": "D",
+          "text": "3."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ban đầu i = 7 < 11 nên lặp lần 1, sau đó i = 9 < 11 nên lặp lần 2, tiếp theo i = 11 không còn nhỏ hơn 11 nên dừng. Vậy vòng lặp chạy 2 lần và S = 7 + 9 = 16.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 18.** Lựa chọn ngôn ngữ Python hoặc C++ để tìm hiểu đoạn chương trình sau:\n\n**Đoạn chương trình viết bằng Python:**\n\n1. `s = \"DOI_MOI_SANG_TAO\"`\n2. `x = 6`\n3. `for i in range(5, 8):`\n4. `    if i % 2 == 0: x = x * 3`\n5. `    else: x = x // 2`\n6. `print(s[x])`\n\n**Đoạn chương trình viết bằng C++:**\n\n1. `char s[] = \"DOI_MOI_SANG_TAO\";`\n2. `int x = 6;`\n3. `for (int i = 5; i < 8; i++) {`\n4. `    if (i % 2 == 0) x = x * 3;`\n5. `    else x = x / 2;`\n6. `}`\n7. `cout << s[x];`\n\nSau khi thực hiện đoạn chương trình trên, kí tự nào sau đây được hiển thị trên màn hình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "N."
+        },
+        {
+          "key": "B",
+          "text": "S."
+        },
+        {
+          "key": "C",
+          "text": "M."
+        },
+        {
+          "key": "D",
+          "text": "T."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với i = 5 (lẻ) thì x = 6 // 2 = 3; i = 6 (chẵn) thì x = 3 * 3 = 9; i = 7 (lẻ) thì x = 9 // 2 = 4. Xâu s có chỉ số 4 là kí tự M (D=0, O=1, I=2, _=3, M=4) nên màn hình hiện M.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 19.** Trí tuệ nhân tạo hẹp **không** có khả năng nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Học và giải quyết được tất cả các vấn đề trong tự nhiên và xã hội."
+        },
+        {
+          "key": "B",
+          "text": "Giải quyết được một số vấn đề cụ thể nhờ học từ dữ liệu huấn luyện."
+        },
+        {
+          "key": "C",
+          "text": "Đưa ra được các gợi ý hỗ trợ con người giải quyết vấn đề."
+        },
+        {
+          "key": "D",
+          "text": "Thực hiện được những nhiệm vụ nhất định trong một số lĩnh vực."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "AI hẹp chỉ giỏi trong một lĩnh vực được huấn luyện, không có khả năng học và giải quyết mọi vấn đề như trí tuệ con người. Ba phương án còn lại đúng là những gì AI hẹp làm được.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 20.** Nghề nào sau đây thuộc nhóm nghề quản trị trong ngành Công nghệ thông tin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo mật hệ thống thông tin."
+        },
+        {
+          "key": "B",
+          "text": "Thiết kế đồ họa."
+        },
+        {
+          "key": "C",
+          "text": "Sửa chữa, bảo trì máy tính."
+        },
+        {
+          "key": "D",
+          "text": "Kiểm thử phần mềm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo mật hệ thống thông tin thuộc nhóm quản trị và bảo đảm an toàn hệ thống. Thiết kế đồ họa thuộc nhóm thiết kế, sửa chữa – bảo trì là nhóm dịch vụ, kiểm thử là nhóm phát triển phần mềm.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c21",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 21.** Trong bộ giao thức TCP/IP, giao thức TCP có vai trò nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đảm bảo truyền dữ liệu tin cậy và đúng thứ tự."
+        },
+        {
+          "key": "B",
+          "text": "Cấp phát địa chỉ IP cho các thiết bị trong mạng."
+        },
+        {
+          "key": "C",
+          "text": "Loại bỏ các kết nối có nguy cơ chứa mã độc."
+        },
+        {
+          "key": "D",
+          "text": "Đảm bảo gửi thư điện tử đến đúng địa chỉ nhận."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "TCP kiểm soát việc truyền để dữ liệu đến đầy đủ, đúng thứ tự và tin cậy. Cấp phát địa chỉ IP là việc của DHCP, loại bỏ kết nối nguy hiểm là của tường lửa, gửi thư điện tử dùng giao thức SMTP.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c22",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 22.** Thẻ HTML nào sau đây được dùng để chèn tệp ảnh vào trang web?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<p>`"
+        },
+        {
+          "key": "B",
+          "text": "`<ol>`"
+        },
+        {
+          "key": "C",
+          "text": "`<img>`"
+        },
+        {
+          "key": "D",
+          "text": "`<i>`"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thẻ `<img>` với thuộc tính `src` dùng để nhúng ảnh vào trang web. `<p>` là đoạn văn, `<ol>` là danh sách có thứ tự, `<i>` là chữ nghiêng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c23",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 23.** Switch có chức năng chính nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thiết lập các kết nối để truyền dữ liệu trong mạng LAN."
+        },
+        {
+          "key": "B",
+          "text": "Định tuyến cho gói dữ liệu khi truyền đi giữa các mạng."
+        },
+        {
+          "key": "C",
+          "text": "Thiết lập kết nối không dây giữa các thiết bị trong mạng."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển từ tín hiệu số sang tín hiệu tương tự và ngược lại."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Switch nhận dữ liệu từ một cổng và chuyển tới đúng cổng của máy nhận, tạo các kết nối trong nội bộ mạng LAN. Định tuyến giữa các mạng là việc của Router, kết nối không dây là của Access Point, chuyển đổi tín hiệu số – tương tự là của Modem.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-c24",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 24.** Trong các phần tử HTML sau, phần tử nào chứa các phần tử còn lại?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`html`"
+        },
+        {
+          "key": "B",
+          "text": "`body`"
+        },
+        {
+          "key": "C",
+          "text": "`style`"
+        },
+        {
+          "key": "D",
+          "text": "`head`"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phần tử `html` là gốc của toàn bộ trang, chứa `head` (và trong `head` là `style`) cùng `body`, nên mọi phần tử còn lại đều nằm trong `html`.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c1a",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 1, ý a** (Phần chung).\n\nMột gia đình chuyển đến căn nhà mới có bốn tầng. Họ được nhà cung cấp dịch vụ viễn thông lắp đặt một Modem để sử dụng Internet trong nhà. Các thành viên trong gia đình thường sử dụng điện thoại thông minh để truy cập Internet, tuy nhiên, tín hiệu Internet không ổn định tại một số phòng. Hơn nữa, gia đình còn có nhu cầu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau:\n\na) Việc truy cập Internet bằng điện thoại thông minh mà không dùng dữ liệu mạng di động chứng tỏ Modem của gia đình đã được tích hợp chức năng phát Wi-Fi.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này ĐÚNG. Điện thoại vẫn vào được Internet khi tắt dữ liệu di động nghĩa là nó đang nhận sóng Wi-Fi do Modem phát ra, tức Modem đã tích hợp chức năng phát Wi-Fi.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "phần chung"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c1b",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 1, ý b** (Phần chung).\n\nMột gia đình chuyển đến căn nhà mới có bốn tầng. Họ được nhà cung cấp dịch vụ viễn thông lắp đặt một Modem để sử dụng Internet trong nhà. Các thành viên trong gia đình thường sử dụng điện thoại thông minh để truy cập Internet, tuy nhiên, tín hiệu Internet không ổn định tại một số phòng. Hơn nữa, gia đình còn có nhu cầu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau:\n\nb) Để tránh tình trạng tín hiệu Internet không ổn định trong một số phòng, có thể dùng thêm Access Point để kết nối với Modem và đặt Access Point này ở vị trí gần các phòng đó.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này ĐÚNG. Access Point mở rộng vùng phủ sóng không dây; đặt gần nơi sóng yếu sẽ giúp các phòng đó nhận tín hiệu ổn định hơn.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "phần chung"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c1c",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 1, ý c** (Phần chung).\n\nMột gia đình chuyển đến căn nhà mới có bốn tầng. Họ được nhà cung cấp dịch vụ viễn thông lắp đặt một Modem để sử dụng Internet trong nhà. Các thành viên trong gia đình thường sử dụng điện thoại thông minh để truy cập Internet, tuy nhiên, tín hiệu Internet không ổn định tại một số phòng. Hơn nữa, gia đình còn có nhu cầu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau:\n\nc) Nếu gia đình muốn sử dụng Internet bằng máy tính để bàn thì cách đơn giản nhất là dùng cáp mạng để kết nối giữa máy tính đó với Modem.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này ĐÚNG. Máy để bàn không có chức năng kết nối không dây nên nối cáp mạng trực tiếp vào cổng LAN của Modem là cách đơn giản nhất, không cần thêm thiết bị.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "phần chung"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c1d",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 1, ý d** (Phần chung).\n\nMột gia đình chuyển đến căn nhà mới có bốn tầng. Họ được nhà cung cấp dịch vụ viễn thông lắp đặt một Modem để sử dụng Internet trong nhà. Các thành viên trong gia đình thường sử dụng điện thoại thông minh để truy cập Internet, tuy nhiên, tín hiệu Internet không ổn định tại một số phòng. Hơn nữa, gia đình còn có nhu cầu sử dụng Internet trên các máy tính để bàn không có chức năng kết nối mạng không dây. Các thành viên trong gia đình đã đưa ra các ý kiến sau:\n\nd) Để tất cả các máy tính để bàn truy cập được Internet, gia đình cần kết nối các máy tính đó với nhau thông qua một Switch nhưng không kết nối Switch với Modem.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này SAI. Switch chỉ giúp các máy trong cùng mạng nói chuyện với nhau, không tạo được đường ra Internet. Bắt buộc phải nối Switch với Modem (qua cổng LAN) thì các máy mới dùng được Internet.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "phần chung"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c2a",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 2, ý a** (Phần chung).\n\nDữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau:\n\n- TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất.\n- MUA (maTram, nam, thang, luongMua): lưu thông tin mã trạm quan trắc, năm, tháng và lượng mưa của tháng trong năm.\n- NHIETDO (maTram, nam, nhietDoTB): lưu thông tin mã trạm quan trắc, năm và nhiệt độ trung bình của năm.\n\nSau khi tìm hiểu cơ sở dữ liệu trên, một số bạn học sinh đưa ra các nhận xét sau:\n\na) Trường maTram là khóa chính của bảng TRAM.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này ĐÚNG. Mỗi trạm quan trắc có một mã duy nhất và mã trạm xác định duy nhất một bản ghi trong TRAM nên maTram là khóa chính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "phần chung"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c2b",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 2, ý b** (Phần chung).\n\nDữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau:\n\n- TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất.\n- MUA (maTram, nam, thang, luongMua): lưu thông tin mã trạm quan trắc, năm, tháng và lượng mưa của tháng trong năm.\n- NHIETDO (maTram, nam, nhietDoTB): lưu thông tin mã trạm quan trắc, năm và nhiệt độ trung bình của năm.\n\nSau khi tìm hiểu cơ sở dữ liệu trên, một số bạn học sinh đưa ra các nhận xét sau:\n\nb) Nhóm hai trường maTram và nam là khóa chính của bảng MUA.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này SAI. Mỗi trạm có số liệu lượng mưa của từng tháng trong năm nên với một cặp (maTram, nam) có tới 12 bản ghi (12 tháng). Khóa chính phải là bộ ba (maTram, nam, thang).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "phần chung"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c2c",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 2, ý c** (Phần chung).\n\nDữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau:\n\n- TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất.\n- MUA (maTram, nam, thang, luongMua): lưu thông tin mã trạm quan trắc, năm, tháng và lượng mưa của tháng trong năm.\n- NHIETDO (maTram, nam, nhietDoTB): lưu thông tin mã trạm quan trắc, năm và nhiệt độ trung bình của năm.\n\nSau khi tìm hiểu cơ sở dữ liệu trên, một số bạn học sinh đưa ra các nhận xét sau:\n\nc) Chỉ cần liên kết hai bảng TRAM và MUA theo khóa maTram là có thể kết xuất được thông tin gồm: tên trạm quan trắc, năm, tháng và lượng mưa của tháng trong năm.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này ĐÚNG. TRAM cho tenTram, MUA cho nam, thang, luongMua; hai bảng liên kết theo maTram nên đủ các trường cần kết xuất.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "phần chung"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c2d",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 2, ý d** (Phần chung).\n\nDữ liệu về thời tiết ở nước ta từ năm 2019 đến năm 2023 có trong niên giám số liệu thống kê của Tổng cục thống kê. Nguồn dữ liệu này được thu thập từ các trạm quan trắc đặt tại nhiều địa điểm khác nhau. Trong đó, lượng mưa từng tháng và nhiệt độ trung bình hàng năm là các dữ liệu thường được quan tâm nhiều nhất. Để lưu trữ và khai thác nguồn dữ liệu này, có thể tạo cơ sở dữ liệu với các bảng sau:\n\n- TRAM (maTram, tenTram): lưu thông tin mã trạm quan trắc và tên trạm quan trắc; mỗi trạm có một mã duy nhất.\n- MUA (maTram, nam, thang, luongMua): lưu thông tin mã trạm quan trắc, năm, tháng và lượng mưa của tháng trong năm.\n- NHIETDO (maTram, nam, nhietDoTB): lưu thông tin mã trạm quan trắc, năm và nhiệt độ trung bình của năm.\n\nSau khi tìm hiểu cơ sở dữ liệu trên, một số bạn học sinh đưa ra các nhận xét sau:\n\nd) Để đưa ra được thông tin gồm tên trạm quan trắc, năm và nhiệt độ trung bình của năm 2020, cần thực hiện câu truy vấn với các thành phần sau:\n\nCác thành phần của câu truy vấn:\n\n- Các bảng và trường được chọn: TRAM.tenTram, NHIETDO.nam, NHIETDO.nhietDoTB.\n- Các bảng được liên kết qua khóa: TRAM liên kết MUA qua khóa maTram.\n- Điều kiện kết xuất dữ liệu: NHIETDO.nam = 2020.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này SAI. Thông tin cần lấy nằm ở TRAM và NHIETDO, nhưng phần liên kết lại nêu TRAM liên kết MUA. Phải liên kết TRAM với NHIETDO qua maTram thì câu truy vấn mới chạy đúng.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "phần chung"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c3a",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 3, ý a** (Khoa học máy tính).\n\nMột quỹ đầu tư (sau đây gọi tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyết định mua hoặc bán cổ phiếu. Quỹ tiến hành tổng hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các công ty có niêm yết cổ phiếu. Sau đó, mỗi mẫu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \"tích cực\" hoặc \"tiêu cực\". Dữ liệu sau gán nhãn được tổng hợp để huấn luyện mô hình. Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh chóng ra quyết định mua hoặc bán cổ phiếu.\n\nSau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau:\n\na) Mô hình học máy trong tình huống này thể hiện khả năng hiểu ngôn ngữ của Trí tuệ nhân tạo.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này ĐÚNG. Đầu vào là tin tức, bài đăng bằng ngôn ngữ tự nhiên và mô hình phải hiểu nội dung để phân loại tích cực/tiêu cực — đúng là khả năng hiểu ngôn ngữ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "khoa học máy tính"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c3b",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 3, ý b** (Khoa học máy tính).\n\nMột quỹ đầu tư (sau đây gọi tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyết định mua hoặc bán cổ phiếu. Quỹ tiến hành tổng hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các công ty có niêm yết cổ phiếu. Sau đó, mỗi mẫu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \"tích cực\" hoặc \"tiêu cực\". Dữ liệu sau gán nhãn được tổng hợp để huấn luyện mô hình. Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh chóng ra quyết định mua hoặc bán cổ phiếu.\n\nSau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau:\n\nb) Phải sử dụng phương pháp Học không giám sát để huấn luyện mô hình học máy nói trên.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này SAI. Dữ liệu đã được gán nhãn \"tích cực\"/\"tiêu cực\" nên đây là bài toán học có giám sát (phân loại), không phải học không giám sát.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "khoa học máy tính"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c3c",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 3, ý c** (Khoa học máy tính).\n\nMột quỹ đầu tư (sau đây gọi tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyết định mua hoặc bán cổ phiếu. Quỹ tiến hành tổng hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các công ty có niêm yết cổ phiếu. Sau đó, mỗi mẫu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \"tích cực\" hoặc \"tiêu cực\". Dữ liệu sau gán nhãn được tổng hợp để huấn luyện mô hình. Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh chóng ra quyết định mua hoặc bán cổ phiếu.\n\nSau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau:\n\nc) Cần phải sử dụng toàn bộ các tin tức và bài đăng đã thu thập để làm tập dữ liệu huấn luyện cho mô hình.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này SAI. Phải chia dữ liệu thành tập huấn luyện và tập kiểm thử (đôi khi thêm tập kiểm định). Dùng toàn bộ dữ liệu để huấn luyện thì không còn dữ liệu độc lập để đánh giá mô hình.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "khoa học máy tính"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c3d",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 3, ý d** (Khoa học máy tính).\n\nMột quỹ đầu tư (sau đây gọi tắt là Quỹ) muốn xây dựng mô hình học máy để tự động hóa việc ra quyết định mua hoặc bán cổ phiếu. Quỹ tiến hành tổng hợp các tin tức trên báo chí và bài đăng trên mạng xã hội liên quan đến các công ty có niêm yết cổ phiếu. Sau đó, mỗi mẫu dữ liệu (tin tức, bài đăng) sẽ được gán nhãn là \"tích cực\" hoặc \"tiêu cực\". Dữ liệu sau gán nhãn được tổng hợp để huấn luyện mô hình. Cuối cùng, kết quả dự đoán của mô hình sẽ được sử dụng để hỗ trợ Quỹ nhanh chóng ra quyết định mua hoặc bán cổ phiếu.\n\nSau khi tìm hiểu về mô hình trên, một số nhân sự của Quỹ đưa ra các nhận định sau:\n\nd) Sau khi triển khai, mô hình có thể được đánh giá chất lượng bằng lợi nhuận giao dịch thực tế của Quỹ.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này ĐÚNG. Trước khi triển khai, chất lượng mô hình được đo trên tập kiểm thử (độ chính xác, độ hồi tưởng, F1…). Sau khi đưa vào vận hành thì hiệu quả thực tế là một căn cứ đánh giá bổ sung, và với một quỹ đầu tư thì lợi nhuận giao dịch chính là thước đo hiệu quả đó. Nhận định dùng từ \"có thể\" nên đúng; nếu đề khẳng định chỉ được đánh giá bằng lợi nhuận, bỏ qua tập kiểm thử, thì mới sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "khoa học máy tính"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c4a",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 4, ý a** (Khoa học máy tính).\n\nCho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++:\n\n**Hàm viết bằng ngôn ngữ Python:**\n\n1. `def F(A, n):`\n2. `    for i in range(1, n):`\n3. `        x = A[i]`\n4. `        j = i - 1`\n5. `        while j >= 0 and A[j] > x:`\n6. `            A[j + 1] = A[j]`\n7. `            j = j - 1`\n8. `        A[j + 1] = x`\n9. `    return (A[0] + A[n // 2]) / 2`\n\n**Hàm viết bằng ngôn ngữ C++:**\n\n1. `float F(int A[], int n) {`\n2. `    for (int i = 1; i < n; i++) {`\n3. `        int x = A[i];`\n4. `        int j = i - 1;`\n5. `        while (j >= 0 && A[j] > x) {`\n6. `            A[j + 1] = A[j];`\n7. `            j = j - 1;`\n8. `        }`\n9. `        A[j + 1] = x;`\n10. `    }`\n11. `    return (A[0] + A[n / 2]) / 2.0;`\n12. `}`\n\nSau khi chọn một trong hai ngôn ngữ Python hoặc C++ để tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau:\n\na) Mảng A biểu diễn cấu trúc dữ liệu hàng đợi (Queue).\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này SAI. Hàm truy cập trực tiếp phần tử theo chỉ số A[i], A[j] và sắp xếp tại chỗ — đó là mảng, không có thao tác thêm vào cuối và lấy ra ở đầu như hàng đợi.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "khoa học máy tính"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c4b",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 4, ý b** (Khoa học máy tính).\n\nCho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++:\n\n**Hàm viết bằng ngôn ngữ Python:**\n\n1. `def F(A, n):`\n2. `    for i in range(1, n):`\n3. `        x = A[i]`\n4. `        j = i - 1`\n5. `        while j >= 0 and A[j] > x:`\n6. `            A[j + 1] = A[j]`\n7. `            j = j - 1`\n8. `        A[j + 1] = x`\n9. `    return (A[0] + A[n // 2]) / 2`\n\n**Hàm viết bằng ngôn ngữ C++:**\n\n1. `float F(int A[], int n) {`\n2. `    for (int i = 1; i < n; i++) {`\n3. `        int x = A[i];`\n4. `        int j = i - 1;`\n5. `        while (j >= 0 && A[j] > x) {`\n6. `            A[j + 1] = A[j];`\n7. `            j = j - 1;`\n8. `        }`\n9. `        A[j + 1] = x;`\n10. `    }`\n11. `    return (A[0] + A[n / 2]) / 2.0;`\n12. `}`\n\nSau khi chọn một trong hai ngôn ngữ Python hoặc C++ để tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau:\n\nb) Nếu dữ liệu đầu vào là mảng A gồm n phần tử đã được sắp xếp theo chiều không giảm thì các câu lệnh tại Dòng 6 và Dòng 7 không được thực hiện lần nào.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này ĐÚNG. Khi mảng đã sắp xếp không giảm, với mọi i ta luôn có A[j] ≤ x nên điều kiện `A[j] > x` của vòng while sai ngay, thân while (Dòng 6, 7) không chạy lần nào.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "khoa học máy tính"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c4c",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 4, ý c** (Khoa học máy tính).\n\nCho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++:\n\n**Hàm viết bằng ngôn ngữ Python:**\n\n1. `def F(A, n):`\n2. `    for i in range(1, n):`\n3. `        x = A[i]`\n4. `        j = i - 1`\n5. `        while j >= 0 and A[j] > x:`\n6. `            A[j + 1] = A[j]`\n7. `            j = j - 1`\n8. `        A[j + 1] = x`\n9. `    return (A[0] + A[n // 2]) / 2`\n\n**Hàm viết bằng ngôn ngữ C++:**\n\n1. `float F(int A[], int n) {`\n2. `    for (int i = 1; i < n; i++) {`\n3. `        int x = A[i];`\n4. `        int j = i - 1;`\n5. `        while (j >= 0 && A[j] > x) {`\n6. `            A[j + 1] = A[j];`\n7. `            j = j - 1;`\n8. `        }`\n9. `        A[j + 1] = x;`\n10. `    }`\n11. `    return (A[0] + A[n / 2]) / 2.0;`\n12. `}`\n\nSau khi chọn một trong hai ngôn ngữ Python hoặc C++ để tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau:\n\nc) Nếu dữ liệu đầu vào là n = 6 và mảng A là (9, 7, 5, 2, 4, 6) thì sau khi câu lệnh for tại Dòng 2 thực hiện lần lặp thứ 2, giá trị của mảng A là (2, 5, 7, 9, 4, 6).\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này SAI. Lần lặp 1 (i = 1) đưa 7 về trước 9 được (7, 9, 5, 2, 4, 6). Lần lặp 2 (i = 2) chèn 5 vào đầu được (5, 7, 9, 2, 4, 6), không phải (2, 5, 7, 9, 4, 6) — số 2 còn nằm ở vị trí thứ tư.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "khoa học máy tính"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c4d",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 4, ý d** (Khoa học máy tính).\n\nCho hàm sau đây được viết bằng ngôn ngữ lập trình Python và C++:\n\n**Hàm viết bằng ngôn ngữ Python:**\n\n1. `def F(A, n):`\n2. `    for i in range(1, n):`\n3. `        x = A[i]`\n4. `        j = i - 1`\n5. `        while j >= 0 and A[j] > x:`\n6. `            A[j + 1] = A[j]`\n7. `            j = j - 1`\n8. `        A[j + 1] = x`\n9. `    return (A[0] + A[n // 2]) / 2`\n\n**Hàm viết bằng ngôn ngữ C++:**\n\n1. `float F(int A[], int n) {`\n2. `    for (int i = 1; i < n; i++) {`\n3. `        int x = A[i];`\n4. `        int j = i - 1;`\n5. `        while (j >= 0 && A[j] > x) {`\n6. `            A[j + 1] = A[j];`\n7. `            j = j - 1;`\n8. `        }`\n9. `        A[j + 1] = x;`\n10. `    }`\n11. `    return (A[0] + A[n / 2]) / 2.0;`\n12. `}`\n\nSau khi chọn một trong hai ngôn ngữ Python hoặc C++ để tìm hiểu hàm trên, một số bạn học sinh đã nêu các ý kiến sau:\n\nd) Nếu dữ liệu đầu vào là n = 7 và mảng A là (8, 6, 4, 2, 3, 5, 7) thì hàm trả về giá trị 3.5.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này ĐÚNG. Hàm sắp xếp tăng dần được (2, 3, 4, 5, 6, 7, 8). Với n = 7, A[0] = 2 và A[n // 2] = A[3] = 5, nên kết quả là (2 + 5) / 2 = 3.5 (bản C++ chia cho 2.0 cũng ra 3.5).",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "khoa học máy tính"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c5a",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 5, ý a** (Tin học ứng dụng).\n\nCâu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web để quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu để học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiểu một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau:\n\na) Phần mềm tạo trang web không hỗ trợ chức năng chèn biểu mẫu đăng ký tham gia CLB vào trang web.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này SAI. Các phần mềm tạo trang web hiện nay đều có phần tử biểu mẫu (form) để chèn vào trang, nên nhận định này sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "tin học ứng dụng"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c5b",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 5, ý b** (Tin học ứng dụng).\n\nCâu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web để quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu để học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiểu một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau:\n\nb) Nếu muốn chèn ảnh banner của CLB vào trang web bằng phần mềm tạo trang web thì tệp ảnh đó phải có định dạng PNG.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này SAI. Không bắt buộc PNG; các định dạng phổ biến như JPG, GIF, WEBP… đều chèn được miễn trình duyệt hỗ trợ.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "tin học ứng dụng"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c5c",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 5, ý c** (Tin học ứng dụng).\n\nCâu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web để quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu để học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiểu một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau:\n\nc) Để đạt được yêu cầu đặt ra, nên chọn phần mềm tạo trang web có tính năng tùy biến giao diện và bố cục của trang web một cách hợp lý trên các máy tính và điện thoại thông minh.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này ĐÚNG. Yêu cầu đặt ra là giao diện hiển thị hợp lý trên cả máy tính và điện thoại, nên phần mềm phải cho tùy biến giao diện và bố cục theo kích thước màn hình.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "tin học ứng dụng"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c5d",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 5, ý d** (Tin học ứng dụng).\n\nCâu lạc bộ (CLB) Tin học của một trường học cần tạo một trang web để quảng bá CLB trên Internet với các thông tin về lịch sinh hoạt, hình ảnh, video hoạt động của CLB và các nội dung khác. Trang web cần có biểu mẫu để học sinh đăng ký tham gia CLB. Ngoài ra, giao diện và bố cục của trang web phải được hiển thị một cách hợp lý trên máy tính và điện thoại thông minh. Khi tìm hiểu một số phần mềm tạo trang web, một số bạn học sinh đưa ra các ý kiến sau:\n\nd) Để hiển thị video trên trang web, có thể thực hiện theo hai bước sau: (1) Tải video lên YouTube, (2) Sao chép và dán đường liên kết đến video đã tải vào trang web.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này ĐÚNG. Đây là cách nhúng video phổ biến: lưu video trên YouTube rồi dán đường liên kết vào phần tử nhúng của trang, trình duyệt sẽ hiển thị trình phát video.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "tin học ứng dụng"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c6a",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 6, ý a** (Tin học ứng dụng).\n\nTrong niên giám số liệu thống kê của Tổng cục thống kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời điểm 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Để lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây:\n\n- NHOM (maNhom, tenNhom): lưu thông tin mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất.\n- LOAI (maLoai, tenLoai, maNhom): lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình.\n- LAODONG (maLoai, nam, soLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm.\n\nSau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau:\n\na) Phần mềm bảng tính có thể lưu trữ cơ sở dữ liệu đã nêu trong một trang tính duy nhất gồm các cột: maNhom, tenNhom, maLoai, tenLoai, nam, soLaoDong.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này ĐÚNG. Bảng tính lưu được dữ liệu dạng bảng phẳng; gộp ba bảng thành một trang tính với các cột trên là làm được, dù dữ liệu sẽ bị lặp lại nhiều lần.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "tin học ứng dụng"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c6b",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 6, ý b** (Tin học ứng dụng).\n\nTrong niên giám số liệu thống kê của Tổng cục thống kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời điểm 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Để lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây:\n\n- NHOM (maNhom, tenNhom): lưu thông tin mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất.\n- LOAI (maLoai, tenLoai, maNhom): lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình.\n- LAODONG (maLoai, nam, soLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm.\n\nSau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau:\n\nb) Khi tạo bảng LAODONG trong phần mềm quản trị cơ sở dữ liệu, chọn maLoai và nam rồi thiết lập hai trường này làm khóa chính của bảng.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhận định này ĐÚNG. Mỗi loại hình doanh nghiệp chỉ có một dòng số lao động cho mỗi năm, nên cặp (maLoai, nam) xác định duy nhất một bản ghi và hợp thành khóa chính.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "tin học ứng dụng"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c6c",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 6, ý c** (Tin học ứng dụng).\n\nTrong niên giám số liệu thống kê của Tổng cục thống kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời điểm 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Để lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây:\n\n- NHOM (maNhom, tenNhom): lưu thông tin mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất.\n- LOAI (maLoai, tenLoai, maNhom): lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình.\n- LAODONG (maLoai, nam, soLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm.\n\nSau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau:\n\nc) Trong phần mềm quản trị cơ sở dữ liệu, mối quan hệ của 3 bảng đã cho được thiết lập dựa trên việc liên kết từ bảng NHOM đến bảng LOAI và liên kết từ bảng NHOM đến bảng LAODONG.\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này SAI. LAODONG không có trường maNhom nên không liên kết trực tiếp với NHOM được. Quan hệ đúng là NHOM – LOAI qua maNhom và LOAI – LAODONG qua maLoai.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "tin học ứng dụng"
+      ]
+    },
+    {
+      "id": "tin-tn2025-0526-p2c6d",
+      "partName": "Phần II. Trắc nghiệm đúng – sai",
+      "topic": "topic-th-de-thi-that",
+      "type": "SINGLE_CHOICE",
+      "content": "**Câu 6, ý d** (Tin học ứng dụng).\n\nTrong niên giám số liệu thống kê của Tổng cục thống kê có dữ liệu từ năm 2019 đến năm 2023 về tổng số lao động của các doanh nghiệp đang hoạt động (có kết quả sản xuất kinh doanh tại thời điểm 31/12 hàng năm). Dữ liệu này được phân loại theo loại hình doanh nghiệp. Để lưu trữ và khai thác nguồn dữ liệu này, cần tạo một cơ sở dữ liệu với các bảng sau đây:\n\n- NHOM (maNhom, tenNhom): lưu thông tin mã nhóm và tên nhóm doanh nghiệp; mỗi nhóm có một mã nhóm duy nhất.\n- LOAI (maLoai, tenLoai, maNhom): lưu thông tin mã loại hình, tên loại hình và mã nhóm doanh nghiệp; mỗi loại hình thuộc về một nhóm và mỗi nhóm có thể có nhiều loại hình.\n- LAODONG (maLoai, nam, soLaoDong): lưu thông tin mã loại hình, năm, số lượng lao động của loại hình doanh nghiệp trong năm.\n\nSau khi tìm hiểu các phần mềm để quản trị cơ sở dữ liệu trên, một số bạn học sinh đưa ra các ý kiến sau:\n\nd) Để đưa ra thông tin gồm tên nhóm doanh nghiệp, tên loại hình doanh nghiệp, năm và số lượng lao động của loại hình doanh nghiệp năm 2022, thực hiện truy vấn sau:\n\nCâu truy vấn được đề xuất:\n\n`SELECT NHOM.tenNhom, LOAI.tenLoai, LAODONG.nam, LAODONG.soLaoDong`\n`FROM NHOM INNER JOIN LOAI ON NHOM.maNhom = LOAI.maNhom`\n`WHERE LAODONG.nam = 2022`\n\nNhận định trên đúng hay sai?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sai."
+        },
+        {
+          "key": "B",
+          "text": "Đúng."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận định này SAI. Câu truy vấn đầu tiên chỉ nối NHOM với LOAI nên chưa có bảng LAODONG, mà các trường nam và soLaoDong lại lấy từ LAODONG. Phải nối thêm LAODONG theo maLoai thì truy vấn mới chạy được.",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "tags": [
+        "đề chính thức 2025",
+        "mã đề 0526",
+        "tin học ứng dụng"
+      ]
+    }
+  ]
+}

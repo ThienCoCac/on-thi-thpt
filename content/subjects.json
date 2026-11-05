@@ -41,6 +41,13 @@
           "slug": "ky-nang-viet-bai-van",
           "description": "Bài nghị luận văn học khoảng 600 chữ: mở bài, thân bài, kết bài.",
           "order": 5
+        },
+        {
+          "id": "topic-van-de-thi-that",
+          "name": "Đề thi tốt nghiệp THPT chính thức",
+          "slug": "de-thi-tot-nghiep-chinh-thuc",
+          "description": "Đề chính thức của Bộ GD&ĐT, giữ nguyên ngữ liệu và hệ thống câu hỏi.",
+          "order": 6
         }
       ]
     },
@@ -495,6 +502,13 @@
           "slug": "ta12-unit-10-lifelong-learning",
           "description": "Ôn Unit 10 Global Success 12: học tập suốt đời, từ vựng giáo dục, ngữ pháp nâng cao và đọc hiểu về học trực tuyến.",
           "order": 21
+        },
+        {
+          "id": "topic-anh-de-thi-that",
+          "name": "Đề thi tốt nghiệp THPT chính thức",
+          "slug": "de-thi-tot-nghiep-chinh-thuc",
+          "description": "Đề chính thức của Bộ GD&ĐT, giữ nguyên 40 câu và đáp án đã công bố.",
+          "order": 22
         }
       ]
     },
@@ -630,6 +644,13 @@
           "slug": "luyen-de",
           "description": "Đề luyện thi tốt nghiệp THPT môn Lịch sử do site tự soạn theo đúng cấu trúc 40 câu, phủ đều chuyên đề thế giới và lịch sử Việt Nam 1945 đến nay.",
           "order": 18
+        },
+        {
+          "id": "topic-su-de-thi-that",
+          "name": "Đề thi tốt nghiệp THPT chính thức",
+          "slug": "de-thi-tot-nghiep-chinh-thuc",
+          "description": "Đề chính thức của Bộ GD&ĐT, giữ nguyên 24 câu trắc nghiệm và 4 câu đúng – sai cùng đáp án đã công bố.",
+          "order": 19
         }
       ]
     },
@@ -1175,6 +1196,13 @@
           "slug": "luyen-de",
           "description": "Đề luyện thi tốt nghiệp THPT môn Tin học do site tự soạn theo đúng cấu trúc 40 câu, phủ đều các chủ đề của SGK Tin học lớp 12.",
           "order": 29
+        },
+        {
+          "id": "topic-th-de-thi-that",
+          "name": "Đề thi tốt nghiệp THPT các năm",
+          "slug": "de-thi-tot-nghiep-thpt-cac-nam",
+          "description": "Câu hỏi chép từ đề thi tốt nghiệp THPT do Bộ GD&ĐT công bố, gồm cả dạng đúng – sai của cấu trúc thi từ năm 2025.",
+          "order": 30
         }
       ]
     }

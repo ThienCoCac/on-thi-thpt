@@ -35,9 +35,9 @@ export PATH="/c/Users/trinh/.qoder/tmp/node20/node-v20.18.1-win-x64:$PATH"
 ## Bốn tầng kiểm tra
 
 - Soạn đề (nhanh nhất, không mở trình duyệt): `node scripts/check-exam.mjs content/exams/de-<môn>-....json`
-  hoặc `--all` cho cả 151 đề, không tham số thì tự lấy file đề vừa sửa theo `git diff`. Script soi Zod,
+  hoặc `--all` cho cả 164 đề, không tham số thì tự lấy file đề vừa sửa theo `git diff`. Script soi Zod,
   đáp án có trong phương án, chuyên đề thuộc môn, ảnh tồn tại trong `public/`, công thức KaTeX lỗi,
-  marker TODO, chuỗi `\n` thô — chạy hết 151 đề trong khoảng 2 giây. `WARN` chỉ để soát nội dung, `LỖI` mới tính.
+  marker TODO, chuỗi `\n` thô — chạy hết 164 đề trong khoảng 2 giây. `WARN` chỉ để soát nội dung, `LỖI` mới tính.
 - Nhanh (giữa các bước sửa): `node scripts/verify.mjs --scope=ui`, hoặc `--scope=<môn>`, hoặc `--files=<vừa sửa>`.
 - Đủ (trước khi báo hoàn thành / trước khi commit): `node scripts/verify.mjs --scope=all`.
 - Deploy (trước khi push + `wrangler deploy`): `node scripts/verify.mjs --scope=deploy --build`.
@@ -46,7 +46,7 @@ Mặc định `node scripts/verify.mjs` tự chọn phạm vi từ `git diff`. X
 `--help` để xem tùy chọn. Có alias npm: `verify`, `verify:all`, `verify:deploy`.
 
 Các bộ test chạy **song song**, mặc định 4 bộ một lúc (`--jobs=<n>`; `--jobs=1` để tuần tự cho dễ đọc log).
-Thời gian thực đo: một bộ test môn 14–100 giây khi chạy riêng, `--scope=all` (11 bộ, 782 kiểm tra) hết
+Thời gian thực đo: một bộ test môn 14–100 giây khi chạy riêng, `--scope=all` (11 bộ, 807 kiểm tra) hết
 khoảng 4 phút 17 giây vì bộ Tiếng Anh phải làm trọn nhiều đề (3 phút 37 một mình), `--scope=live` ≈ 50 giây;
 build toàn site khoảng 91 giây và `out/` còn 28 MB thay vì 74 MB,
 nên `wrangler deploy` cũng nhẹ đi tương ứng.
@@ -65,8 +65,8 @@ Script ánh xạ tự động, nắm quy tắc để đoán thời gian:
 - `content/exams/de-<môn>.json` → bộ test của môn đó + `static` + `features` (đổi số câu làm đổi tổng ở trang danh sách).
 - `docs/**`, `scripts/**`, `README.md`, `AGENTS.md` → không cần mở trình duyệt (`--scope=none`).
 
-Mười một bộ test puppeteer và số kiểm tra hiện tại: `static` 45, `features` 94, `van` 45, `ktpl` 42,
-`anh` 89, `mini` 27, `su` 139, `vact` 18, `dia` 88, `tinhoc` 53, `toan` 142 (tổng 782). Bộ `toan` kiểm
+Mười một bộ test puppeteer và số kiểm tra hiện tại: `static` 45, `features` 94, `van` 49, `ktpl` 42,
+`anh` 97, `mini` 27, `su` 151, `vact` 18, `dia` 88, `tinhoc` 54, `toan` 142 (tổng 807). Bộ `toan` kiểm
 tra cả 8 đề tốt nghiệp thật lẫn 19 đề ôn theo bài SGK; số bài và số chuyên đề nó đọc thẳng từ
 `content/subjects.json` + `content/exams/` nên thêm bài mới không phải sửa suite. Hai suite live
 (`shot/verify-live.js`, `su/verify-live.js`) chỉ chạy với `--scope=live` hoặc `--scope=deploy`, kiểm tra
