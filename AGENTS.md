@@ -7,6 +7,7 @@ người dùng. Trang làm bài `/de-thi/[slug]/lam-bai` và luyện tập `/de-
 `/data/exams/<slug>.json` rồi mới hiện câu hỏi (`components/data/exam-loader.tsx`, `lib/use-static-data.ts`);
 ngân hàng luyện tập xuất riêng `/data/bank/<môn>.json` nên một đề mới không làm phình trang nào khác.
 Bản công khai: `https://on-thi-thpt.thiencogemini1.workers.dev` (Cloudflare, `npx wrangler deploy`).
+Trạng thái hiện tại, việc còn lại và sự cố đã gặp: xem `BAN-GIAO.md` trước khi bắt tay làm.
 
 ## Ràng buộc luôn đúng
 
