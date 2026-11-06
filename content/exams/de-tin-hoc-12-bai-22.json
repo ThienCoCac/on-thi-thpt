@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-22",
+  "title": "Đề ôn tập Tin học 12 – Bài 22: Thực hành kết nối các thiết bị số",
+  "slug": "de-tin-hoc-12-bai-22",
+  "description": "Đề ôn tập Bài 22 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về thực hành kết nối các thiết bị số: thiết bị hiển thị, cổng VGA và HDMI, tổ hợp phím Windows + P với bốn chế độ hiển thị, truyền tệp qua bluetooth và các bước kết nối thiết bị trong nhà thông minh. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B22",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b22-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["thiết bị hiển thị", "khái niệm"],
+      "content": "Theo Bài 22, thiết bị hiển thị là gì?",
+      "options": [
+        { "key": "A", "text": "Thiết bị chỉ dùng để nhập dữ liệu vào máy tính." },
+        { "key": "B", "text": "Thiết bị dùng để kết nối máy tính với mạng Internet." },
+        { "key": "C", "text": "Thiết bị điện tử được sử dụng để hiển thị hình ảnh, văn bản hoặc thông tin trực quan trên màn hình cho người dùng quan sát." },
+        { "key": "D", "text": "Phần mềm trình chiếu được cài trên máy tính." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách định nghĩa thiết bị hiển thị là các thiết bị điện tử dùng để hiển thị hình ảnh, văn bản hoặc thông tin trực quan trên màn hình cho người dùng quan sát. Thiết bị nhập dữ liệu, thiết bị mạng hay phần mềm trình chiếu không thuộc định nghĩa này."
+    },
+    {
+      "id": "tinhoc12-b22-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["thiết bị hiển thị", "ví dụ"],
+      "content": "Nhóm nào sau đây chỉ gồm các thiết bị hiển thị được Bài 22 nêu?",
+      "options": [
+        { "key": "A", "text": "Ti vi, máy chiếu, bảng cảm ứng, bảng LED." },
+        { "key": "B", "text": "Bàn phím, chuột, loa." },
+        { "key": "C", "text": "Router, modem, bộ chuyển mạch." },
+        { "key": "D", "text": "Máy in, máy quét, ổ cứng di động." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 22 nêu ví dụ thiết bị hiển thị là ti vi, máy chiếu, bảng cảm ứng, bảng LED. Bàn phím và chuột là thiết bị nhập, router và modem là thiết bị mạng, còn máy in, máy quét, ổ cứng di động không thuộc nhóm thiết bị hiển thị."
+    },
+    {
+      "id": "tinhoc12-b22-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["cổng VGA", "cổng kết nối"],
+      "content": "Theo Bài 22, cổng VGA là viết tắt của cụm từ nào?",
+      "options": [
+        { "key": "A", "text": "Video Game Application." },
+        { "key": "B", "text": "Virtual Ground Array." },
+        { "key": "C", "text": "Visual Guidance Adapter." },
+        { "key": "D", "text": "Vector Graphic Arrays." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách ghi cổng VGA tương ứng cụm từ Vector Graphic Arrays, dùng với cáp VGA để kết nối máy tính với thiết bị hiển thị. Ba cụm còn lại chỉ là cách ghép chữ cái đầu, không phải cụm từ mà bài nêu."
+    },
+    {
+      "id": "tinhoc12-b22-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["cổng HDMI", "cổng kết nối"],
+      "content": "Theo Bài 22, cổng HDMI là viết tắt của cụm từ nào?",
+      "options": [
+        { "key": "A", "text": "High-Density Media Interface." },
+        { "key": "B", "text": "High-Definition Multimedia Interface." },
+        { "key": "C", "text": "High-Digital Multi Input." },
+        { "key": "D", "text": "Hyper Definition Media Integration." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách ghi HDMI là viết tắt của High-Definition Multimedia Interface, dùng với cáp HDMI để nối máy tính với ti vi hay máy chiếu. Các phương án còn lại không phải cụm từ được nêu trong bài."
+    },
+    {
+      "id": "tinhoc12-b22-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["kết nối có dây", "thiết lập thiết bị hiển thị"],
+      "content": "Bước đầu tiên khi kết nối máy tính với ti vi bằng cáp tín hiệu là gì?",
+      "options": [
+        { "key": "A", "text": "Cài thêm phần mềm điều khiển lên ti vi." },
+        { "key": "B", "text": "Thay cáp HDMI bằng cáp VGA vì ti vi không có cổng HDMI." },
+        { "key": "C", "text": "Thiết lập chế độ làm việc của thiết bị hiển thị và chọn cổng kết nối phù hợp với cáp." },
+        { "key": "D", "text": "Nhấn tổ hợp phím Windows + P trước khi cắm cáp." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hướng dẫn bước 1 là thiết lập thiết bị hiển thị: chọn chế độ làm việc của thiết bị và dùng cáp phù hợp với cổng kết nối, vì ti vi hay máy chiếu thường có vài cổng HDMI nên phải chọn đúng cổng. Cài phần mềm lên ti vi hay đổi cáp không nằm trong hướng dẫn, còn Windows + P là bước 2 sau khi đã nối cáp."
+    },
+    {
+      "id": "tinhoc12-b22-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["máy chiếu", "chọn cổng kết nối"],
+      "content": "Vì sao khi kết nối máy chiếu phải chọn cổng kết nối bằng nút trên thân máy?",
+      "options": [
+        { "key": "A", "text": "Vì máy chiếu không có cổng HDMI." },
+        { "key": "B", "text": "Vì điều khiển từ xa của máy chiếu không dùng được." },
+        { "key": "C", "text": "Vì máy chiếu luôn tự động chọn cổng VGA." },
+        { "key": "D", "text": "Vì máy chiếu thường không có màn hình để xác nhận lựa chọn." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu ti vi có thể dùng điều khiển từ xa để chọn nguồn kết nối, còn máy chiếu thường không có màn hình để xác nhận lựa chọn nên phải dùng nút trên thân máy. Vì vậy các lí do về thiếu cổng HDMI, hỏng điều khiển hay tự chọn cổng VGA đều không đúng."
+    },
+    {
+      "id": "tinhoc12-b22-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["tổ hợp phím", "màn hình mở rộng"],
+      "content": "Tổ hợp phím nào mở giao diện thiết lập chế độ hiển thị màn hình mở rộng trên Windows?",
+      "options": [
+        { "key": "A", "text": "Windows + P." },
+        { "key": "B", "text": "Windows + D." },
+        { "key": "C", "text": "Alt + Tab." },
+        { "key": "D", "text": "Ctrl + P." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách hướng dẫn nhấn tổ hợp phím Windows + P để làm xuất hiện giao diện thiết lập chế độ hiển thị màn hình mở rộng. Windows + D dùng để hiện màn hình nền, Alt + Tab chuyển đổi cửa sổ, Ctrl + P mở hộp thoại in nên đều không đúng."
+    },
+    {
+      "id": "tinhoc12-b22-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["chế độ Extend", "màn hình mở rộng"],
+      "content": "Chế độ nào cho phép đặt cửa sổ ứng dụng sang màn hình thứ hai và con trỏ chuột chạy tiếp khi tới biên màn hình?",
+      "options": [
+        { "key": "A", "text": "PC screen only." },
+        { "key": "B", "text": "Extend." },
+        { "key": "C", "text": "Duplicate." },
+        { "key": "D", "text": "Second Only." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ở chế độ Extend, ti vi hay máy chiếu là phần mở rộng của màn hình máy tính: cửa sổ ứng dụng có thể đặt ở một trong hai màn hình và con trỏ chuột chạy tiếp khi đến biên. PC screen only tắt màn hình mở rộng, Duplicate chỉ tạo bản sao, còn Second Only tắt màn hình máy tính."
+    },
+    {
+      "id": "tinhoc12-b22-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["chế độ Duplicate", "màn hình mở rộng"],
+      "content": "Chế độ Duplicate có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Chỉ dùng màn hình thứ hai và tắt màn hình máy tính." },
+        { "key": "B", "text": "Mở rộng vùng làm việc sang màn hình thứ hai." },
+        { "key": "C", "text": "Tắt màn hình mở rộng, chỉ dùng màn hình máy tính." },
+        { "key": "D", "text": "Tạo bản sao màn hình máy tính trên màn hình mở rộng với kích thước lớn hơn, hiển thị đồng thời ở cả hai màn hình." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Duplicate nghĩa là sao chép: màn hình mở rộng trở thành bản sao của màn hình máy tính với kích thước lớn hơn và hình ảnh hiện đồng thời ở cả hai màn hình. Tắt màn hình mở rộng là PC screen only, mở rộng vùng làm việc là Extend, còn chỉ dùng màn hình thứ hai là Second Only."
+    },
+    {
+      "id": "tinhoc12-b22-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["chế độ Second Only", "màn hình mở rộng"],
+      "content": "Chế độ Second Only khác PC screen only ở điểm nào?",
+      "options": [
+        { "key": "A", "text": "Second Only hiển thị đồng thời cả hai màn hình." },
+        { "key": "B", "text": "Second Only mở rộng vùng làm việc sang màn hình thứ hai." },
+        { "key": "C", "text": "Second Only chỉ dùng màn hình thứ hai và tắt màn hình máy tính, còn PC screen only làm ngược lại." },
+        { "key": "D", "text": "Hai chế độ này hoàn toàn giống nhau về cách hiển thị." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "PC screen only chỉ dùng màn hình máy tính và tắt màn hình mở rộng; Second Only thì chỉ dùng màn hình thứ hai và tắt màn hình máy tính. Hiển thị đồng thời là Duplicate, mở rộng vùng làm việc là Extend nên A và B sai, còn D sai vì hai chế độ ngược nhau."
+    },
+    {
+      "id": "tinhoc12-b22-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["bluetooth", "kết nối không dây"],
+      "content": "Phát biểu nào sau đây đúng về công nghệ bluetooth theo Bài 22?",
+      "options": [
+        { "key": "A", "text": "Là công nghệ kết nối không dây qua sóng vô tuyến điện, dùng để truyền tải dữ liệu giữa các thiết bị số, bao gồm cả âm thanh và hình ảnh, trong phạm vi gần." },
+        { "key": "B", "text": "Là công nghệ kết nối có dây tốc độ cao dùng để nối máy tính với máy chiếu." },
+        { "key": "C", "text": "Là công nghệ chỉ truyền được dữ liệu dạng văn bản, không truyền được âm thanh." },
+        { "key": "D", "text": "Là công nghệ bắt buộc phải có router của mạng cục bộ mới dùng được." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách mô tả bluetooth là công nghệ kết nối không dây qua sóng vô tuyến điện, truyền tải dữ liệu giữa các thiết bị số gồm cả âm thanh và hình ảnh, trong phạm vi gần. Vì thế các phương án nói có dây, chỉ truyền văn bản hay cần router đều sai."
+    },
+    {
+      "id": "tinhoc12-b22-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["nhà thông minh", "đăng kí tài khoản"],
+      "content": "Khi cài ứng dụng điều khiển nhà thông minh, bước đăng kí tài khoản thường dùng thông tin nào?",
+      "options": [
+        { "key": "A", "text": "Số căn cước công dân của phụ huynh." },
+        { "key": "B", "text": "Số điện thoại hoặc địa chỉ thư điện tử của người dùng, sau đó đặt mật khẩu." },
+        { "key": "C", "text": "Mã số học sinh do nhà trường cấp." },
+        { "key": "D", "text": "Địa chỉ IP của router trong nhà." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách hướng dẫn: khi cài đặt, ứng dụng yêu cầu đăng kí tài khoản, thường là số điện thoại hoặc địa chỉ thư điện tử của người dùng, sau đó đặt mật khẩu để đăng nhập. Các thông tin còn lại không được dùng để đăng kí tài khoản."
+    },
+    {
+      "id": "tinhoc12-b22-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["bluetooth", "phiên bản tiêu chuẩn"],
+      "content": "Vì sao bluetooth có nhiều phiên bản và tiêu chuẩn khác nhau?",
+      "options": [
+        { "key": "A", "text": "Để mỗi hãng sản xuất có tên gọi riêng cho sản phẩm." },
+        { "key": "B", "text": "Để giảm chi phí sản xuất thiết bị." },
+        { "key": "C", "text": "Để thay thế hoàn toàn kết nối có dây trong mọi trường hợp." },
+        { "key": "D", "text": "Để đáp ứng các yêu cầu khác nhau về tốc độ truyền dữ liệu và khoảng cách kết nối." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu bluetooth có nhiều phiên bản và tiêu chuẩn khác nhau nhằm đáp ứng các yêu cầu về tốc độ truyền dữ liệu và khoảng cách kết nối. Việc đặt tên riêng, giảm chi phí hay thay thế hoàn toàn kết nối có dây không phải lí do được nêu."
+    },
+    {
+      "id": "tinhoc12-b22-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["ghép đôi bluetooth", "mã kết nối"],
+      "content": "Trong quá trình ghép đôi máy tính với điện thoại, sau khi máy tính hiện mã ngẫu nhiên, thao tác tiếp theo là gì?",
+      "options": [
+        { "key": "A", "text": "Nhập mã đó vào điện thoại rồi bấm Ghép đôi trên máy tính." },
+        { "key": "B", "text": "Chọn Cancel trên máy tính rồi bật lại bluetooth." },
+        { "key": "C", "text": "Chọn Connect trên máy tính để gửi mã sang điện thoại, sau đó trên điện thoại chọn Ghép đôi." },
+        { "key": "D", "text": "Chờ máy tính tự ghép đôi mà không cần thao tác." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sau khi quét và thấy tên điện thoại, máy tính tạo một mã ngẫu nhiên; ta chọn Connect trên máy tính để gửi mã sang điện thoại, rồi trên điện thoại chọn Ghép đôi để chấp nhận. Nhập mã trên điện thoại hay chờ máy tự ghép đôi đều không đúng quy trình, còn Cancel sẽ huỷ việc kết nối."
+    },
+    {
+      "id": "tinhoc12-b22-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["bluetooth", "máy tính để bàn"],
+      "content": "Máy tính để bàn muốn dùng bluetooth thì phải làm gì?",
+      "options": [
+        { "key": "A", "text": "Không thể dùng bluetooth trên máy tính để bàn." },
+        { "key": "B", "text": "Cắm thêm bảng mạch mở rộng có chức năng bluetooth." },
+        { "key": "C", "text": "Chỉ cần cài thêm phần mềm điều khiển vì máy để bàn luôn có sẵn bluetooth." },
+        { "key": "D", "text": "Thay màn hình khác có tích hợp bluetooth." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu máy tính xách tay thường có sẵn khả năng kết nối bluetooth, còn máy tính để bàn thường không có; muốn dùng phải cắm thêm bảng mạch mở rộng có chức năng đó. Vì vậy nói máy để bàn không dùng được, chỉ cần cài phần mềm hay thay màn hình đều sai."
+    },
+    {
+      "id": "tinhoc12-b22-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["truyền tệp", "bluetooth"],
+      "content": "Để gửi một tệp từ máy tính sang điện thoại qua bluetooth, sau khi mở bảng chọn làm việc với bluetooth ta chọn lệnh nào?",
+      "options": [
+        { "key": "A", "text": "Send a file." },
+        { "key": "B", "text": "Receive a file." },
+        { "key": "C", "text": "Join a Personal Area Network." },
+        { "key": "D", "text": "Add a Bluetooth Device." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Để gửi tệp, ta mở bảng chọn làm việc với bluetooth trên máy tính và chọn Send a file, sau đó chọn thiết bị nhận. Receive a file dùng để nhận tệp, Join a Personal Area Network để tham gia mạng cá nhân, còn Add a Bluetooth Device dùng khi ghép đôi thiết bị mới."
+    },
+    {
+      "id": "tinhoc12-b22-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["truyền tệp", "xác thực"],
+      "content": "Trong hộp thoại gửi tệp qua bluetooth, tuỳ chọn Use authentication có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Nén tệp trước khi gửi để truyền nhanh hơn." },
+        { "key": "B", "text": "Tự động chọn thiết bị nhận thay cho người dùng." },
+        { "key": "C", "text": "Tăng cường mức độ an toàn khi gửi tệp." },
+        { "key": "D", "text": "Chia tệp thành nhiều phần nhỏ để gửi dần." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách ghi có thể thêm chế độ Use authentication để tăng cường mức độ an toàn khi gửi tệp. Tuỳ chọn này không nén tệp, không tự chọn thiết bị nhận và không chia nhỏ tệp."
+    },
+    {
+      "id": "tinhoc12-b22-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["truyền tệp", "giao diện gửi tệp"],
+      "content": "Trong giao diện gửi tệp, sau khi chọn tệp bằng nút Browse, tên tệp xuất hiện ở đâu?",
+      "options": [
+        { "key": "A", "text": "Ở ô Send to." },
+        { "key": "B", "text": "Ở thanh trạng thái của máy tính." },
+        { "key": "C", "text": "Ở hộp thoại xác nhận trên điện thoại." },
+        { "key": "D", "text": "Ở ô File names." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sau khi chọn tệp bằng trình duyệt tệp Browse, tên tệp được chọn xuất hiện ở ô File names, rồi chọn Next để bắt đầu gửi. Hộp thoại trên điện thoại chỉ xuất hiện khi máy tính đã gửi yêu cầu nhận tệp, không phải nơi hiện tên tệp trên máy tính."
+    },
+    {
+      "id": "tinhoc12-b22-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["truyền tệp", "thông báo"],
+      "content": "Máy tính thông báo gì khi truyền tệp qua bluetooth thành công?",
+      "options": [
+        { "key": "A", "text": "File successfully transferred." },
+        { "key": "B", "text": "Your device is ready to go." },
+        { "key": "C", "text": "Add a device." },
+        { "key": "D", "text": "Show Bluetooth Devices." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sau khi truyền xong, máy tính thông báo File successfully transferred, nghĩa là tệp đã được chuyển thành công. Your device is ready to go là thông báo khi ghép đôi hoàn tất, còn Add a device và Show Bluetooth Devices là các mục trong bảng chọn làm việc với bluetooth."
+    },
+    {
+      "id": "tinhoc12-b22-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["nhà thông minh", "khái niệm"],
+      "content": "Theo Bài 22, nhà thông minh là gì?",
+      "options": [
+        { "key": "A", "text": "Ngôi nhà được xây bằng vật liệu đặc biệt có khả năng tự sản xuất điện." },
+        { "key": "B", "text": "Loại nhà được trang bị các thiết bị và hệ thống công nghệ thông minh để tăng cường tiện ích, hiệu suất, bảo mật và khả năng quản lí." },
+        { "key": "C", "text": "Ngôi nhà chỉ dùng thiết bị không dây, không có bất kì thiết bị có dây nào." },
+        { "key": "D", "text": "Ngôi nhà có hệ thống chiếu sáng chạy bằng năng lượng mặt trời." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách định nghĩa nhà thông minh là loại nhà được trang bị các thiết bị và hệ thống công nghệ thông minh để tăng cường tiện ích, hiệu suất, bảo mật và khả năng quản lí. Vật liệu xây dựng, kiểu kết nối hay hệ thống điện mặt trời không phải nội dung của định nghĩa này."
+    },
+    {
+      "id": "tinhoc12-b22-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["nhà thông minh", "mục tiêu"],
+      "content": "Mục tiêu của nhà thông minh theo Bài 22 là gì?",
+      "options": [
+        { "key": "A", "text": "Tăng số lượng thiết bị điện lắp đặt trong nhà." },
+        { "key": "B", "text": "Thay thế hoàn toàn con người trong việc nấu ăn." },
+        { "key": "C", "text": "Giảm số người sử dụng điện thoại thông minh trong gia đình." },
+        { "key": "D", "text": "Tạo ra một môi trường sống thoải mái, tiết kiệm năng lượng và an toàn hơn cho người sử dụng." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu mục tiêu của nhà thông minh là tạo ra một môi trường sống thoải mái, tiết kiệm năng lượng và an toàn hơn cho người sử dụng. Tăng số thiết bị, thay con người nấu ăn hay giảm số người dùng điện thoại đều không phải mục tiêu được nêu."
+    },
+    {
+      "id": "tinhoc12-b22-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["nhà thông minh", "giao diện điều khiển"],
+      "content": "Cách giao tiếp phổ biến nhất giữa người dùng và hệ thống điều khiển nhà thông minh là gì?",
+      "options": [
+        { "key": "A", "text": "Bảng cảm ứng gắn cố định trên tường." },
+        { "key": "B", "text": "Giao diện web mở trên máy tính để bàn." },
+        { "key": "C", "text": "Giao diện ứng dụng trên điện thoại thông minh hay máy tính bảng." },
+        { "key": "D", "text": "Công tắc cơ học truyền thống của ngôi nhà." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hệ thống điều khiển nhà thông minh có thể giao tiếp qua bảng cảm ứng hoặc các ứng dụng có giao diện web, nhưng phổ biến hơn cả là qua giao diện ứng dụng trên điện thoại thông minh hay máy tính bảng. Bảng cảm ứng và giao diện web là cách khác, còn công tắc cơ học không thuộc hệ thống điều khiển thông minh."
+    },
+    {
+      "id": "tinhoc12-b22-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["kết nối lần đầu", "thiết bị thông minh"],
+      "content": "Khi lắp đặt thiết bị thông minh lần đầu, phần mềm điều khiển trên điện thoại kết nối với thiết bị bằng cách nào?",
+      "options": [
+        { "key": "A", "text": "Bằng một kết nối gần qua bluetooth hay sóng Wi-Fi, không dùng Internet." },
+        { "key": "B", "text": "Bằng cáp tín hiệu nối trực tiếp điện thoại với thiết bị." },
+        { "key": "C", "text": "Qua Internet ngay từ đầu nhờ router của mạng cục bộ." },
+        { "key": "D", "text": "Qua cơ sở dữ liệu trên đám mây của nhà cung cấp dịch vụ." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lần đầu lắp đặt, phần mềm điều khiển trên điện thoại kết nối với thiết bị thông minh mà không dùng Internet, bằng một kết nối gần qua bluetooth hay sóng Wi-Fi. Sau đó phần mềm mới thiết lập kết nối giữa thiết bị với mạng cục bộ và đăng kí thiết bị với đám mây, nên các phương án dùng cáp, qua Internet ngay hay qua đám mây ngay đều sai thứ tự."
+    },
+    {
+      "id": "tinhoc12-b22-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["hẹn giờ", "nhà thông minh"],
+      "content": "Trong ví dụ ở Bài 22, lịch hoạt động của công tắc đèn bảo vệ được đặt như thế nào?",
+      "options": [
+        { "key": "A", "text": "Bật đèn lúc 5 giờ sáng và tắt đèn lúc 18 giờ 30 hằng ngày." },
+        { "key": "B", "text": "Bật đèn lúc 18 giờ 30 các ngày từ thứ Hai đến thứ Sáu, tắt đèn lúc 5 giờ sáng các ngày từ thứ Ba đến thứ Bảy." },
+        { "key": "C", "text": "Bật đèn lúc 6 giờ 30 và tắt đèn lúc 17 giờ vào tất cả các ngày trong tuần." },
+        { "key": "D", "text": "Không đặt lịch mà chỉ bật tắt bằng tay trên ứng dụng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách hướng dẫn đặt lịch cho công tắc đèn bảo vệ: bật đèn lúc 18 giờ 30 phút các ngày từ thứ Hai đến thứ Sáu, tắt đèn lúc 5 giờ sáng các ngày từ thứ Ba đến thứ Bảy. Các phương án còn lại đảo giờ bật tắt hoặc bỏ hẳn chế độ hẹn giờ."
+    },
+    {
+      "id": "tinhoc12-b22-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["nhận định đúng", "thiết bị hiển thị", "cổng kết nối"],
+      "content": "Những nhận định nào sau đây đúng về thiết bị hiển thị và cổng kết nối theo Bài 22?",
+      "options": [
+        { "key": "A", "text": "Ti vi, máy chiếu, bảng cảm ứng, bảng LED là những thiết bị hiển thị dùng để hiển thị hình ảnh, văn bản hoặc thông tin trực quan cho người dùng quan sát." },
+        { "key": "B", "text": "Cổng VGA và cổng HDMI dùng chung một loại cáp kết nối nên có thể cắm lẫn cho nhau." },
+        { "key": "C", "text": "Phần lớn các thiết bị hiển thị có nhiều loại cổng kết nối như VGA, HDMI và sử dụng với các loại cáp kết nối tương ứng." },
+        { "key": "D", "text": "Máy chiếu luôn có màn hình hiển thị để xác nhận cổng kết nối đã chọn." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng: ti vi, máy chiếu, bảng cảm ứng, bảng LED là thiết bị hiển thị, và phần lớn thiết bị hiển thị có nhiều loại cổng như VGA, HDMI dùng với cáp tương ứng. B sai vì mỗi cổng dùng loại cáp riêng, không cắm lẫn được. D sai vì máy chiếu thường không có màn hình để xác nhận mà phải dùng nút trên thân máy."
+    },
+    {
+      "id": "tinhoc12-b22-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["nhận định đúng", "bốn chế độ hiển thị", "Windows + P"],
+      "content": "Những nhận định nào sau đây đúng về bốn chế độ hiển thị của tổ hợp phím Windows + P?",
+      "options": [
+        { "key": "A", "text": "PC screen only chỉ dùng màn hình máy tính và tắt màn hình mở rộng." },
+        { "key": "B", "text": "Extend dùng ti vi hay máy chiếu như phần mở rộng của màn hình máy tính và cho phép con trỏ chuột chạy tiếp giữa hai màn hình." },
+        { "key": "C", "text": "Second Only hiển thị đồng thời cả màn hình máy tính và màn hình thứ hai." },
+        { "key": "D", "text": "Duplicate tạo bản sao màn hình máy tính trên màn hình mở rộng với kích thước lớn hơn, hiển thị đồng thời ở cả hai màn hình." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng theo mô tả bốn chế độ trong bài: PC screen only tắt màn hình mở rộng, Extend mở rộng vùng làm việc và cho chuột chạy tiếp, Duplicate tạo bản sao hiển thị đồng thời. C sai vì Second Only chỉ dùng màn hình thứ hai và tắt màn hình máy tính; hiển thị đồng thời là Duplicate."
+    },
+    {
+      "id": "tinhoc12-b22-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["nhận định đúng", "kết nối lần đầu", "nhà thông minh"],
+      "content": "Những nhận định nào sau đây đúng về việc kết nối một thiết bị trong nhà thông minh?",
+      "options": [
+        { "key": "A", "text": "Lần đầu lắp đặt, phần mềm trên điện thoại kết nối với thiết bị thông minh bằng một kết nối gần qua bluetooth hay sóng Wi-Fi, không dùng Internet." },
+        { "key": "B", "text": "Sau khi kết nối được, phần mềm thiết lập kết nối giữa thiết bị với mạng cục bộ để thiết bị ra Internet qua router." },
+        { "key": "C", "text": "Phần mềm đăng kí thiết bị vào cơ sở dữ liệu trên đám mây của nhà cung cấp dịch vụ để thiết bị cập nhật trạng thái và sẵn sàng làm việc." },
+        { "key": "D", "text": "Thiết bị thông minh chỉ hoạt động được khi điện thoại kết nối bluetooth trực tiếp với nó trong mỗi lần sử dụng." }
+      ],
+      "correctAnswer": ["A", "B", "C"],
+      "explanation": "A, B và C đúng theo trình tự trong bài: kết nối gần qua bluetooth hay Wi-Fi trước, rồi thiết lập kết nối với mạng cục bộ qua router, cùng lúc phần mềm đăng kí thiết bị vào cơ sở dữ liệu trên đám mây. D sai vì những lần sau phần mềm chỉ truy cập cơ sở dữ liệu để lấy trạng thái thiết bị rồi thiết lập kết nối, không cần ghép bluetooth trực tiếp mỗi lần."
+    },
+    {
+      "id": "tinhoc12-b22-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-ket-noi-thiet-bi-so",
+      "tags": ["nhận định đúng", "ghép đôi bluetooth", "truyền tệp"],
+      "content": "Những nhận định nào sau đây đúng về việc kết nối và truyền tệp qua bluetooth?",
+      "options": [
+        { "key": "A", "text": "Máy tính xách tay thường có sẵn bluetooth, còn máy tính để bàn thường không có nên phải cắm thêm bảng mạch mở rộng nếu muốn dùng." },
+        { "key": "B", "text": "Để truyền tệp, sau khi chọn Send a file ta chọn thiết bị nhận, chọn tệp bằng nút Browse rồi chọn Next để bắt đầu gửi." },
+        { "key": "C", "text": "Trong quá trình ghép đôi, điện thoại tạo ra mã ngẫu nhiên và máy tính phải nhập đúng mã đó." },
+        { "key": "D", "text": "Khi nhận tệp, điện thoại chỉ cần bật bluetooth là tệp tự động được lưu, không cần chọn Chấp nhận." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng theo hướng dẫn thực hành: máy tính xách tay thường có sẵn bluetooth còn máy để bàn phải cắm thêm bảng mạch mở rộng, và quy trình gửi tệp là chọn Send a file, chọn thiết bị nhận, chọn tệp bằng Browse rồi Next. C sai vì máy tính mới là bên tạo mã ngẫu nhiên để gửi sang điện thoại. D sai vì trên điện thoại phải chọn Chấp nhận thì tệp mới được nhận."
+    }
+  ]
+}

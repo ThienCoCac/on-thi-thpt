@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-13",
+  "title": "Đề ôn tập Tin học 12 – Bài 13: Khái niệm, vai trò của CSS",
+  "slug": "de-tin-hoc-12-bai-13",
+  "description": "Đề ôn tập Bài 13 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về CSS: khái niệm và vai trò của CSS, cấu trúc một mẫu định dạng gồm bộ chọn và vùng mô tả, ba cách thiết lập CSS trong, CSS ngoài và CSS nội tuyến. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, câu nào cũng có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B13",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b13-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["khái niệm CSS", "định nghĩa CSS"],
+      "content": "Theo sách giáo khoa, CSS là gì?",
+      "options": [
+        { "key": "A", "text": "Một ngôn ngữ đánh dấu dùng để tạo cấu trúc cho trang web, thay thế hoàn toàn HTML." },
+        { "key": "B", "text": "Một chuẩn tệp dùng để lưu hình ảnh, âm thanh và video của trang web." },
+        { "key": "C", "text": "Một định dạng độc lập với chuẩn HTML, được dùng để thiết lập các mẫu định dạng dùng trong trang web." },
+        { "key": "D", "text": "Một phần mềm soạn thảo giúp tô màu cú pháp khi viết mã HTML." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách định nghĩa CSS là định dạng độc lập với chuẩn HTML, được dùng để thiết lập các mẫu định dạng dùng trong trang web. Ý A nhầm CSS với ngôn ngữ đánh dấu cấu trúc, ý B mô tả một chuẩn tệp đa phương tiện, còn ý D nói về công cụ soạn thảo chứ không phải ngôn ngữ định dạng."
+    },
+    {
+      "id": "tinhoc12-b13-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["khái niệm CSS", "tên viết tắt"],
+      "content": "CSS là tên viết tắt của cụm từ nào?",
+      "options": [
+        { "key": "A", "text": "Cascading Style Sheet." },
+        { "key": "B", "text": "Cascading Web Sheet." },
+        { "key": "C", "text": "Computer Style Sheet." },
+        { "key": "D", "text": "Creative Style System." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CSS là viết tắt của Cascading Style Sheet. Ba cụm còn lại đều ghép sai từ: B đổi Style thành Web, C đổi Cascading thành Computer, D vừa đổi từ đầu vừa đổi từ cuối, nên không phải tên đầy đủ của CSS."
+    },
+    {
+      "id": "tinhoc12-b13-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["vai trò CSS", "mẫu định dạng"],
+      "content": "Phát biểu nào sau đây đúng về vai trò của CSS trong việc định dạng trang web?",
+      "options": [
+        { "key": "A", "text": "CSS chỉ dùng để khai báo cấu trúc các khối nội dung, không liên quan tới màu sắc hay phông chữ." },
+        { "key": "B", "text": "CSS buộc mỗi trang web phải có một tệp định dạng riêng và không được dùng chung với trang khác." },
+        { "key": "C", "text": "CSS chỉ có tác dụng với các phần tử nội tuyến, không áp dụng được cho phần tử khối." },
+        { "key": "D", "text": "CSS cho phép định nghĩa một lần mẫu định dạng rồi sử dụng nhiều lần, nhờ đó việc định dạng trang web nhanh và thuận tiện hơn." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mẫu định dạng của CSS được định nghĩa một lần và dùng lại nhiều lần, đó chính là lợi ích chính của CSS. Ý A và C hiểu sai phạm vi của CSS, vì mẫu định dạng áp dụng được cho mọi loại phần tử và điều khiển cả màu sắc, phông chữ; ý B trái với khả năng dùng chung một tệp định dạng cho nhiều trang."
+    },
+    {
+      "id": "tinhoc12-b13-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["vai trò CSS", "tệp CSS dùng chung"],
+      "content": "Toàn bộ mẫu định dạng của một website được đặt trong một tệp .css dùng chung cho mọi trang. Muốn đổi màu tiêu đề ở tất cả các trang, cách làm nào hợp lý nhất?",
+      "options": [
+        { "key": "A", "text": "Mở từng trang HTML rồi sửa thuộc tính style của từng thẻ tiêu đề." },
+        { "key": "B", "text": "Sửa một lần mẫu định dạng trong tệp CSS dùng chung, mọi trang liên kết tới tệp đó đều nhận định dạng mới." },
+        { "key": "C", "text": "Tạo lại toàn bộ các trang HTML rồi liên kết lại với tệp CSS." },
+        { "key": "D", "text": "Không thể đổi đồng thời, vì mỗi trang HTML giữ một bản sao riêng của mẫu định dạng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khi các trang cùng liên kết tới một tệp định dạng, ta chỉ cần sửa tệp đó một lần là định dạng của cả website thay đổi theo. Cách A vừa chậm vừa dễ bỏ sót trang; C không cần thiết vì tệp HTML không phải tạo lại; D sai vì mẫu định dạng nằm ở tệp dùng chung chứ không được sao chép vào từng trang."
+    },
+    {
+      "id": "tinhoc12-b13-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["cấu trúc CSS", "bộ chọn", "vùng mô tả"],
+      "content": "Cấu trúc tổng quát của một mẫu định dạng CSS gồm những thành phần nào?",
+      "options": [
+        { "key": "A", "text": "Một thẻ HTML mở và một thẻ HTML đóng tương ứng." },
+        { "key": "B", "text": "Một đường dẫn tới tệp .css và một thuộc tính của tệp đó." },
+        { "key": "C", "text": "Bộ chọn (selector) và vùng mô tả (declaration block) đặt trong cặp dấu ngoặc nhọn." },
+        { "key": "D", "text": "Tên thuộc tính và tên thẻ HTML, hai phần ngăn cách bởi dấu hai chấm." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu cấu trúc tổng quát của mẫu định dạng gồm bộ chọn và vùng mô tả, vùng mô tả được đặt trong cặp dấu ngoặc nhọn. Ý A mô tả cấu trúc của một phần tử HTML, ý B và D lẫn các thành phần của mẫu định dạng với đường dẫn tệp hoặc với tên thẻ."
+    },
+    {
+      "id": "tinhoc12-b13-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["vùng mô tả", "cú pháp CSS"],
+      "content": "Trong vùng mô tả của mẫu định dạng CSS, mỗi quy định dạng được viết theo dạng nào và các quy định dạng ngăn cách nhau bởi dấu gì?",
+      "options": [
+        { "key": "A", "text": "Dạng thuộc tính : giá trị; các quy định dạng ngăn cách nhau bởi dấu chấm phẩy." },
+        { "key": "B", "text": "Dạng thuộc tính = giá trị; các quy định dạng ngăn cách nhau bởi dấu phẩy." },
+        { "key": "C", "text": "Dạng giá trị : thuộc tính; các quy định dạng ngăn cách nhau bởi dấu chấm." },
+        { "key": "D", "text": "Dạng thuộc tính : giá trị, các quy định dạng ngăn cách nhau bởi dấu hai chấm." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi quy định dạng có dạng thuộc tính : giá trị, và các quy định dạng trong cùng vùng mô tả được viết cách nhau bởi dấu chấm phẩy. Ý B dùng dấu bằng và dấu phẩy nên sai cú pháp; ý C đảo ngược vị trí thuộc tính với giá trị; ý D dùng dấu hai chấm để ngăn cách các quy định dạng trong khi dấu hai chấm chỉ đứng giữa thuộc tính và giá trị."
+    },
+    {
+      "id": "tinhoc12-b13-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["bộ chọn", "cấu trúc CSS"],
+      "content": "Bộ chọn của một mẫu định dạng CSS quy định điều gì?",
+      "options": [
+        { "key": "A", "text": "Thời điểm trình duyệt tải mẫu định dạng về máy." },
+        { "key": "B", "text": "Những thẻ HTML nào sẽ được chọn để áp dụng định dạng." },
+        { "key": "C", "text": "Số lần mẫu định dạng được sử dụng trong tệp HTML." },
+        { "key": "D", "text": "Tên tệp CSS đang chứa mẫu định dạng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bộ chọn xác định những thẻ HTML nào được chọn để áp dụng định dạng, còn phần nằm trong ngoặc nhọn mô tả định dạng cụ thể. Thời điểm tải tệp và tên tệp CSS không do bộ chọn quy định nên A và D sai; số lần sử dụng mẫu định dạng không phải thông tin bộ chọn khai báo nên C sai."
+    },
+    {
+      "id": "tinhoc12-b13-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["bộ chọn", "đọc mã CSS"],
+      "content": "Mẫu định dạng `h1, h2 {color: red;}` có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Chỉ thẻ h2 nhận màu chữ đỏ vì nó đứng sau trong danh sách." },
+        { "key": "B", "text": "Chỉ thẻ h1 nhận màu chữ đỏ, còn thẻ h2 giữ màu mặc định." },
+        { "key": "C", "text": "Chỉ thẻ h1 lồng bên trong thẻ h2 mới nhận màu chữ đỏ." },
+        { "key": "D", "text": "Cả hai loại thẻ h1 và h2 đều nhận màu chữ đỏ." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bộ chọn có thể gồm nhiều thẻ viết cách nhau bởi dấu phẩy, khi đó mẫu định dạng áp dụng cho tất cả các thẻ được liệt kê. Vì vậy cả h1 và h2 đều nhận màu đỏ; các ý A, B chỉ chọn một thẻ, còn ý C hiểu dấu phẩy thành quan hệ lồng nhau nên đều sai."
+    },
+    {
+      "id": "tinhoc12-b13-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["vùng mô tả", "đọc mã CSS"],
+      "content": "Mẫu định dạng `p {color: blue; text-indent: 20px;}` được hiểu như thế nào?",
+      "options": [
+        { "key": "A", "text": "Hai quy định dạng cùng áp dụng cho mọi phần tử p: chữ màu xanh và thụt đầu dòng 20 pixel." },
+        { "key": "B", "text": "Một quy định dạng duy nhất có thuộc tính tên là color và giá trị là chuỗi blue; text-indent: 20px." },
+        { "key": "C", "text": "Chỉ quy định dạng viết sau cùng là text-indent có hiệu lực." },
+        { "key": "D", "text": "Chỉ đoạn văn đầu tiên trong trang có chữ màu xanh, các đoạn còn lại giữ nguyên." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vùng mô tả chứa hai quy định dạng ngăn cách bởi dấu chấm phẩy và cả hai đều áp dụng cho bộ chọn p. Ý B hiểu sai cách ngăn cách các quy định dạng, ý C cho rằng quy định dạng trước bị bỏ, còn ý D tự thêm giới hạn chỉ đoạn văn đầu tiên nên đều sai."
+    },
+    {
+      "id": "tinhoc12-b13-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS trong", "ba cách thiết lập CSS"],
+      "content": "Cách thiết lập CSS đưa toàn bộ mẫu định dạng vào bên trong thẻ `<style>` đặt ở phần head của tệp HTML, và các mẫu định dạng chỉ áp dụng cho tệp HTML hiện thời, được gọi là gì?",
+      "options": [
+        { "key": "A", "text": "CSS ngoài (external CSS)." },
+        { "key": "B", "text": "CSS nội tuyến (inline CSS)." },
+        { "key": "C", "text": "CSS trong (internal CSS)." },
+        { "key": "D", "text": "CSS toàn cục." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "CSS trong đặt mẫu định dạng trong thẻ style ở phần head và chỉ áp dụng cho tệp HTML hiện thời. CSS ngoài dùng tệp .css riêng nên A sai; CSS nội tuyến gắn thuộc tính style cho từng phần tử nên B sai; không có cách thiết lập nào tên là CSS toàn cục trong ba cách sách trình bày nên D sai."
+    },
+    {
+      "id": "tinhoc12-b13-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS ngoài", "thẻ link"],
+      "content": "Để một tệp HTML dùng tệp định dạng `style.css` nằm bên ngoài, ta đặt đoạn mã nào trong vùng head?",
+      "options": [
+        { "key": "A", "text": "`<a href=\"style.css\">`" },
+        { "key": "B", "text": "`<link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\">`" },
+        { "key": "C", "text": "`<style src=\"style.css\">`" },
+        { "key": "D", "text": "`<script href=\"style.css\">`" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách hướng dẫn liên kết tệp HTML với tệp CSS ngoài bằng thẻ link đặt trong vùng head, với href là tên tệp css, rel=\"stylesheet\" và type=\"text/css\". Ý A dùng thẻ liên kết nên chỉ tạo siêu liên kết; ý C sai vì thẻ style không có thuộc tính src; ý D dùng thẻ script dành cho mã kịch bản chứ không nạp tệp định dạng."
+    },
+    {
+      "id": "tinhoc12-b13-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS ngoài", "@import"],
+      "content": "Ngoài thẻ `<link>`, sách còn nêu cách thứ hai để kết nối tệp HTML với tệp CSS ngoài. Đó là cách nào?",
+      "options": [
+        { "key": "A", "text": "Gắn thuộc tính style cho từng phần tử HTML cần định dạng." },
+        { "key": "B", "text": "Đặt mẫu định dạng trong thẻ `<script>` ở phần body." },
+        { "key": "C", "text": "Dùng thẻ `<iframe>` để nhúng tệp CSS vào trang." },
+        { "key": "D", "text": "Dùng lệnh `@import` đặt trong phần tử `<style>` nằm ở phần head." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu hai cách kết nối tệp HTML với tệp CSS ngoài: dùng thẻ link trong vùng head hoặc dùng lệnh @import trong phần tử style đặt ở head. Ý A mô tả CSS nội tuyến, ý B và C dùng những thẻ không có chức năng nạp tệp định dạng nên đều sai."
+    },
+    {
+      "id": "tinhoc12-b13-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS nội tuyến", "thuộc tính style"],
+      "content": "Cách thiết lập CSS nội tuyến (inline CSS) được thực hiện bằng cách nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ ra các thuộc tính và giá trị cho thuộc tính style của chính phần tử HTML cần định dạng." },
+        { "key": "B", "text": "Đặt tệp .css cùng thư mục với tệp HTML đang dùng." },
+        { "key": "C", "text": "Khai báo mẫu định dạng trong thẻ `<style>` ở phần head." },
+        { "key": "D", "text": "Khai báo mẫu định dạng trong thẻ `<title>` của tệp HTML." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CSS nội tuyến ghi trực tiếp các cặp thuộc tính và giá trị vào thuộc tính style của chính phần tử cần định dạng. Ý B vẫn là CSS ngoài nhưng nêu thiếu thẻ liên kết, ý C mô tả CSS trong, còn thẻ title chỉ dùng cho tiêu đề trang nên D sai."
+    },
+    {
+      "id": "tinhoc12-b13-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS nội tuyến", "đọc mã HTML"],
+      "content": "Cho đoạn mã `<p style=\"color: green;\">Đoạn văn</p>`. Đây là cách thiết lập CSS nào?",
+      "options": [
+        { "key": "A", "text": "CSS trong, vì mẫu định dạng nằm ngay trong tệp HTML." },
+        { "key": "B", "text": "CSS ngoài, vì thuộc tính style được nạp từ một tệp riêng." },
+        { "key": "C", "text": "CSS dùng lệnh @import." },
+        { "key": "D", "text": "CSS nội tuyến, vì các thuộc tính được chỉ ra ngay trong thuộc tính style của phần tử." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mẫu định dạng nằm trong thuộc tính style của chính phần tử p, đúng với định nghĩa CSS nội tuyến. CSS trong phải nằm trong thẻ style ở phần head nên A sai; đoạn mã không nhắc tới tệp .css hay lệnh @import nên B và C sai."
+    },
+    {
+      "id": "tinhoc12-b13-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["ba cách thiết lập CSS", "phân loại"],
+      "content": "Ba cách thiết lập CSS được sách trình bày là",
+      "options": [
+        { "key": "A", "text": "CSS trong, CSS ngoài và CSS máy chủ." },
+        { "key": "B", "text": "CSS trong, CSS ngoài và CSS nội tuyến." },
+        { "key": "C", "text": "CSS đầu trang, CSS cuối trang và CSS nội tuyến." },
+        { "key": "D", "text": "CSS theo thẻ, CSS theo lớp và CSS theo mã định danh." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách phân biệt ba cách thiết lập CSS là CSS trong, CSS ngoài và CSS nội tuyến. Các cụm CSS máy chủ, CSS đầu trang hay CSS cuối trang không có trong bài; còn CSS theo thẻ, theo lớp hay theo mã định danh là cách phân loại bộ chọn chứ không phải cách thiết lập CSS."
+    },
+    {
+      "id": "tinhoc12-b13-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS trong", "phạm vi áp dụng"],
+      "content": "Phát biểu nào sau đây đúng về phạm vi áp dụng của CSS trong?",
+      "options": [
+        { "key": "A", "text": "Áp dụng cho mọi tệp HTML của website đang mở." },
+        { "key": "B", "text": "Chỉ áp dụng cho phần tử được gắn thuộc tính style." },
+        { "key": "C", "text": "Chỉ áp dụng cho tệp HTML chứa thẻ `<style>` khai báo mẫu định dạng đó." },
+        { "key": "D", "text": "Áp dụng cho mọi website cùng tên miền với tệp HTML." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách ghi rõ khi dùng CSS trong thì các mẫu định dạng chỉ được áp dụng cho tệp HTML hiện thời, tức tệp chứa thẻ style đó. Muốn dùng chung cho nhiều trang phải dùng CSS ngoài nên A và D sai; phạm vi theo từng phần tử là của CSS nội tuyến nên B sai."
+    },
+    {
+      "id": "tinhoc12-b13-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["quy định dạng", "đọc mã CSS"],
+      "content": "Trong mẫu định dạng `h1 {font-size: 20px;}`, đâu là thuộc tính và đâu là giá trị?",
+      "options": [
+        { "key": "A", "text": "Thuộc tính là font-size, giá trị là 20px." },
+        { "key": "B", "text": "Thuộc tính là 20px, giá trị là font-size." },
+        { "key": "C", "text": "Thuộc tính là h1, giá trị là font-size." },
+        { "key": "D", "text": "Thuộc tính là font-size, giá trị là h1." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi quy định dạng viết theo dạng thuộc tính : giá trị, nên font-size đứng trước dấu hai chấm là thuộc tính còn 20px đứng sau là giá trị. Ý B đảo ngược hai phần; h1 là bộ chọn chứ không phải thuộc tính hay giá trị nên C và D sai."
+    },
+    {
+      "id": "tinhoc12-b13-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["cú pháp CSS", "tìm lỗi"],
+      "content": "Mẫu định dạng nào sau đây viết đúng cú pháp CSS?",
+      "options": [
+        { "key": "A", "text": "`p {color red;}`" },
+        { "key": "B", "text": "`p {color: red;}`" },
+        { "key": "C", "text": "`p [color: red;]`" },
+        { "key": "D", "text": "`p {color = red;}`" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mẫu đúng phải có bộ chọn p, vùng mô tả đặt trong ngoặc nhọn và cặp thuộc tính : giá trị cách nhau bằng dấu hai chấm. Ý A thiếu dấu hai chấm, ý C dùng ngoặc vuông thay cho ngoặc nhọn, ý D dùng dấu bằng nên cả ba đều sai cú pháp."
+    },
+    {
+      "id": "tinhoc12-b13-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS độc lập với HTML", "khái niệm CSS"],
+      "content": "Vì sao nói CSS là định dạng độc lập với chuẩn HTML?",
+      "options": [
+        { "key": "A", "text": "Vì CSS không thể định dạng các thẻ HTML." },
+        { "key": "B", "text": "Vì CSS chỉ hoạt động khi trang web tắt mã kịch bản." },
+        { "key": "C", "text": "Vì CSS bắt buộc phải nằm bên trong tệp HTML." },
+        { "key": "D", "text": "Vì CSS là định dạng riêng, có thể viết thành tệp riêng và dùng chung cho nhiều trang HTML." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "CSS không phải một phần của chuẩn HTML mà là định dạng riêng, có thể viết trong tệp .css và dùng chung cho nhiều trang. Ý A nói ngược, vì CSS chính là để định dạng các phần tử HTML; ý B và C không liên quan đến tính độc lập của CSS."
+    },
+    {
+      "id": "tinhoc12-b13-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS ngoài", "vai trò CSS"],
+      "content": "Nhờ đặc điểm nào mà một tệp CSS có thể được thiết lập để đồng thời áp dụng cho nhiều trang web, thậm chí cả một website?",
+      "options": [
+        { "key": "A", "text": "Vì mỗi mẫu định dạng được trình duyệt sao chép vào từng trang khi mở trang." },
+        { "key": "B", "text": "Vì CSS lưu mẫu định dạng vào bộ nhớ đệm của máy chủ." },
+        { "key": "C", "text": "Vì mẫu định dạng có thể viết trong tệp .css bên ngoài và nhiều trang HTML cùng liên kết tới tệp đó." },
+        { "key": "D", "text": "Vì CSS tự động chèn mẫu định dạng vào mọi tệp HTML trong cùng thư mục." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tệp CSS ngoài được nhiều trang HTML cùng liên kết nên mẫu định dạng dùng chung cho cả website, và khi cần chỉnh sửa ta chỉ sửa một lần trong tệp đó. Ý A và D mô tả cơ chế tự động chép hay tự động chèn mà CSS không có; bộ nhớ đệm máy chủ không phải cơ chế giúp dùng chung định dạng nên B sai."
+    },
+    {
+      "id": "tinhoc12-b13-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS trong", "CSS nội tuyến"],
+      "content": "Phát biểu nào sau đây đúng khi so sánh CSS trong với CSS nội tuyến?",
+      "options": [
+        { "key": "A", "text": "CSS trong đặt mẫu định dạng trong thẻ `<style>` của một tệp HTML, còn CSS nội tuyến đặt mẫu định dạng ngay trong thuộc tính style của một phần tử." },
+        { "key": "B", "text": "CSS trong chỉ áp dụng cho một phần tử, còn CSS nội tuyến áp dụng cho toàn bộ tệp HTML." },
+        { "key": "C", "text": "Cả hai cách đều bắt buộc phải có một tệp .css riêng." },
+        { "key": "D", "text": "Cả hai cách đều chỉ dùng được cho các phần tử nội tuyến." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CSS trong gom mẫu định dạng vào thẻ style ở phần head nên áp dụng cho cả tệp HTML, còn CSS nội tuyến chỉ gắn định dạng cho đúng phần tử mang thuộc tính style. Ý B đảo ngược phạm vi của hai cách; cả hai đều không cần tệp .css riêng nên C sai; phạm vi áp dụng không phụ thuộc phần tử khối hay nội tuyến nên D sai."
+    },
+    {
+      "id": "tinhoc12-b13-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["ba cách thiết lập CSS", "chọn cách làm"],
+      "content": "Muốn định dạng riêng cho đúng một đoạn văn trong trang mà không làm đổi các đoạn văn khác, cách nào phù hợp nhất trong ba cách thiết lập CSS?",
+      "options": [
+        { "key": "A", "text": "Viết mẫu `p {…}` trong thẻ `<style>` ở phần head." },
+        { "key": "B", "text": "Dùng CSS nội tuyến, tức gắn thuộc tính style cho chính đoạn văn đó." },
+        { "key": "C", "text": "Tạo tệp .css riêng chỉ chứa mẫu `p {…}` rồi liên kết tệp đó vào trang." },
+        { "key": "D", "text": "Dùng lệnh `@import` trong thẻ `<style>` để nạp mẫu `p {…}`." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "CSS nội tuyến gắn định dạng vào đúng phần tử mang thuộc tính style nên các đoạn văn khác không bị ảnh hưởng. Ba cách còn lại đều dùng bộ chọn p nên mọi đoạn văn trong trang đều bị đổi định dạng, không đáp ứng yêu cầu chỉ đổi một đoạn."
+    },
+    {
+      "id": "tinhoc12-b13-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["CSS trong", "thẻ style"],
+      "content": "Trong tệp HTML, thẻ `<style>` chứa các mẫu định dạng CSS được đặt ở phần nào?",
+      "options": [
+        { "key": "A", "text": "Trong phần body, ngay sau thẻ mở body." },
+        { "key": "B", "text": "Trong thẻ `<title>` của trang." },
+        { "key": "C", "text": "Sau thẻ đóng `</html>`." },
+        { "key": "D", "text": "Trong phần head của tệp HTML." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Khi dùng CSS trong, toàn bộ mẫu định dạng được đưa vào bên trong thẻ style và thẻ này đặt ở phần head của tệp HTML. Đặt trong body, trong title hay sau thẻ đóng html đều không đúng vị trí mà sách hướng dẫn, nên A, B, C sai."
+    },
+    {
+      "id": "tinhoc12-b13-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["vai trò CSS", "quan hệ HTML và CSS"],
+      "content": "Phát biểu nào sau đây đúng về quan hệ giữa HTML và CSS?",
+      "options": [
+        { "key": "A", "text": "CSS là một tập thẻ HTML mới, dùng thay cho các thẻ HTML cũ." },
+        { "key": "B", "text": "HTML và CSS là hai tên gọi của cùng một ngôn ngữ đánh dấu." },
+        { "key": "C", "text": "HTML tạo nội dung và cấu trúc cho trang, còn CSS thiết lập mẫu định dạng cho các phần tử của trang." },
+        { "key": "D", "text": "CSS chỉ dùng để viết mã xử lí dữ liệu biểu mẫu trên máy chủ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HTML xác định nội dung và cấu trúc trang, CSS là định dạng độc lập dùng để thiết lập mẫu định dạng cho các phần tử do HTML tạo ra. CSS không thêm thẻ HTML mới nên A sai; hai ngôn ngữ này khác nhau và độc lập nên B sai; xử lí dữ liệu biểu mẫu thuộc phần mềm hoặc script trên máy chủ nên D sai."
+    },
+    {
+      "id": "tinhoc12-b13-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["nhận định đúng sai", "khái niệm CSS", "vai trò CSS"],
+      "content": "Những nhận định nào sau đây đúng về khái niệm và vai trò của CSS?",
+      "options": [
+        { "key": "A", "text": "CSS là định dạng độc lập với chuẩn HTML, được dùng để thiết lập các mẫu định dạng dùng trong trang web." },
+        { "key": "B", "text": "CSS là ngôn ngữ đánh dấu dùng để tạo cấu trúc nội dung và thay thế hoàn toàn HTML." },
+        { "key": "C", "text": "Nhờ CSS, mẫu định dạng được định nghĩa một lần và sử dụng nhiều lần nên việc định dạng nhanh và thuận tiện hơn." },
+        { "key": "D", "text": "Mỗi trang HTML bắt buộc phải có một tệp CSS riêng và không được dùng chung tệp với trang khác." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A đúng với định nghĩa CSS trong sách, C đúng với lợi ích của việc dùng mẫu định dạng. B sai vì CSS không tạo cấu trúc nội dung và không thay thế HTML. D sai vì một tệp CSS có thể được nhiều trang cùng liên kết, thậm chí dùng cho cả website."
+    },
+    {
+      "id": "tinhoc12-b13-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["nhận định đúng sai", "cấu trúc CSS", "vùng mô tả"],
+      "content": "Những nhận định nào sau đây đúng về cấu trúc một mẫu định dạng CSS?",
+      "options": [
+        { "key": "A", "text": "Mẫu định dạng gồm bộ chọn và vùng mô tả, vùng mô tả được đặt trong cặp dấu ngoặc nhọn." },
+        { "key": "B", "text": "Bộ chọn có thể gồm nhiều thẻ, các thẻ được viết cách nhau bởi dấu phẩy." },
+        { "key": "C", "text": "Trong vùng mô tả, tên thuộc tính và giá trị được ngăn cách bởi dấu bằng." },
+        { "key": "D", "text": "Các quy định dạng trong cùng vùng mô tả được viết cách nhau bởi dấu chấm phẩy." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng với cấu trúc mà sách trình bày: bộ chọn đứng trước, vùng mô tả trong ngoặc nhọn, bộ chọn có thể liệt kê nhiều thẻ bằng dấu phẩy và các quy định dạng ngăn cách bằng dấu chấm phẩy. C sai vì thuộc tính và giá trị phải ngăn cách bởi dấu hai chấm, dấu bằng không phải cú pháp CSS."
+    },
+    {
+      "id": "tinhoc12-b13-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["nhận định đúng sai", "ba cách thiết lập CSS"],
+      "content": "Những nhận định nào sau đây đúng về ba cách thiết lập CSS?",
+      "options": [
+        { "key": "A", "text": "CSS trong đặt các mẫu định dạng trong thẻ `<style>` ở phần head và chỉ áp dụng cho tệp HTML hiện thời." },
+        { "key": "B", "text": "CSS nội tuyến đặt mẫu định dạng trong một tệp .css riêng rồi liên kết tệp đó vào trang." },
+        { "key": "C", "text": "CSS ngoài cho phép nhiều trang HTML cùng liên kết tới một tệp .css nên cả website dùng chung một bộ định dạng." },
+        { "key": "D", "text": "Tệp HTML có thể dùng tệp CSS ngoài bằng thẻ `<link>` trong vùng head hoặc bằng lệnh `@import` trong thẻ `<style>`." }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "A, C và D đều đúng theo bài học: CSS trong nằm trong thẻ style ở head và chỉ dùng cho tệp hiện thời, CSS ngoài cho phép nhiều trang dùng chung một tệp, và có hai cách kết nối là thẻ link hoặc lệnh @import. B sai vì việc dùng tệp .css riêng là CSS ngoài; CSS nội tuyến gắn thuộc tính style cho từng phần tử."
+    },
+    {
+      "id": "tinhoc12-b13-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-css-khai-niem",
+      "tags": ["nhận định đúng sai", "đọc mã CSS", "CSS nội tuyến"],
+      "content": "Những nhận định nào sau đây đúng khi đọc các đoạn mã CSS và HTML sau?",
+      "options": [
+        { "key": "A", "text": "`<p style=\"color: red;\">` là CSS trong vì mẫu định dạng nằm trong tệp HTML." },
+        { "key": "B", "text": "`<p style=\"color: red;\">` là CSS nội tuyến vì các thuộc tính được chỉ ra ngay trong thuộc tính style của phần tử." },
+        { "key": "C", "text": "Mẫu `h1, h2 {color: red;}` chỉ áp dụng cho thẻ h1." },
+        { "key": "D", "text": "Mẫu `h1, h2 {color: red;}` áp dụng cho cả thẻ h1 và thẻ h2." }
+      ],
+      "correctAnswer": ["B", "D"],
+      "explanation": "B đúng vì thuộc tính style gắn trực tiếp vào phần tử chính là CSS nội tuyến, không phải CSS trong. D đúng vì dấu phẩy trong bộ chọn liệt kê nhiều thẻ cùng nhận định dạng. A sai do nhầm CSS trong với CSS nội tuyến, C sai vì bộ chọn liệt kê hai thẻ thì cả hai đều được áp dụng."
+    }
+  ]
+}

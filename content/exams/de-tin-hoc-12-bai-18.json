@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-18",
+  "title": "Đề ôn tập Tin học 12 – Bài 18: Thực hành tổng hợp thiết kế trang web",
+  "slug": "de-tin-hoc-12-bai-18",
+  "description": "Đề ôn tập Bài 18 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về thực hành tổng hợp thiết kế trang web: dựng website giới thiệu câu lạc bộ ngoại khoá với khối banner, khối slogan, nội dung chính, chân trang và tệp style.css dùng chung. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B18",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b18-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["dự án website", "cấu trúc trang"],
+      "content": "Ở mức đơn giản, dự án website giới thiệu các câu lạc bộ ngoại khoá của trường trong Bài 18 được tổ chức thành ba trang nào?",
+      "options": [
+        { "key": "A", "text": "Trang chủ, trang tin tức và trang liên hệ." },
+        { "key": "B", "text": "Trang chủ, trang giới thiệu các câu lạc bộ thể thao và trang giới thiệu các câu lạc bộ nghệ thuật." },
+        { "key": "C", "text": "Trang đăng kí, trang thư viện ảnh và trang video." },
+        { "key": "D", "text": "Trang giới thiệu, trang lịch hoạt động và trang thành tích." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Website câu lạc bộ ngoại khoá ở mức đơn giản gồm trang chủ, trang giới thiệu các câu lạc bộ thể thao và trang giới thiệu các câu lạc bộ nghệ thuật. Trang dang_ki.html chứa biểu mẫu đăng kí là trang được tạo thêm, không nằm trong ba trang chính nên C sai; A và D là những trang không có trong dự án."
+    },
+    {
+      "id": "tinhoc12-b18-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["trang đăng kí", "biểu mẫu"],
+      "content": "Trong dự án website câu lạc bộ ngoại khoá của Bài 18, tệp dang_ki.html có nội dung chính là gì?",
+      "options": [
+        { "key": "A", "text": "Danh sách các câu lạc bộ thể thao kèm lịch sinh hoạt hằng tuần." },
+        { "key": "B", "text": "Trang chủ giới thiệu chung về trường và các câu lạc bộ." },
+        { "key": "C", "text": "Bộ sưu tập ảnh hoạt động của các câu lạc bộ." },
+        { "key": "D", "text": "Biểu mẫu đăng kí tham gia câu lạc bộ." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trang dang_ki.html chứa biểu mẫu đăng kí để người xem gửi thông tin tham gia câu lạc bộ, đây là trang được tạo thêm ngoài ba trang chính. Giới thiệu chung về trường là nội dung của trang chủ nên B sai; danh sách câu lạc bộ thể thao nằm ở trang riêng về thể thao nên A sai; còn C mô tả một thư viện ảnh không có trong dự án."
+    },
+    {
+      "id": "tinhoc12-b18-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["style.css", "thống nhất trình bày"],
+      "content": "Vì sao các trang của website trong dự án nên liên kết tới cùng một tệp style.css?",
+      "options": [
+        { "key": "A", "text": "Để mọi trang tuân theo phong cách trình bày chung, bảo đảm sự thống nhất của cả website." },
+        { "key": "B", "text": "Để giảm số tệp HTML cần tạo cho website." },
+        { "key": "C", "text": "Để các trang không cần dùng thẻ div khi dựng bố cục." },
+        { "key": "D", "text": "Để trình duyệt không phải tải ảnh và video của trang." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dùng chung một tệp CSS giúp mọi trang có cùng phông chữ, màu sắc, bố cục và khoảng cách nên website trông thống nhất. Số tệp HTML không liên quan tới tệp CSS nên B sai; thẻ div vẫn là công cụ dựng khối bố cục nên C sai; ảnh và video vẫn phải tải bình thường nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["chân trang", "liên kết điều hướng"],
+      "content": "Trong dự án, liên kết tới trang đăng kí cần được bố trí ở đâu để người xem có thể đăng kí từ bất kì trang nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ đặt trong phần nội dung chính của trang chủ." },
+        { "key": "B", "text": "Chỉ đặt trong khối banner ở đầu trang chủ." },
+        { "key": "C", "text": "Đặt trong phần cuối trang của tất cả các trang." },
+        { "key": "D", "text": "Chỉ đặt trong trang giới thiệu câu lạc bộ thể thao." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Liên kết tới trang đăng kí được bổ sung trong phần cuối trang của tất cả các trang, nhờ vậy người xem ở trang nào cũng thấy đường dẫn đăng kí. Đặt riêng ở trang chủ hoặc chỉ ở trang thể thao thì người xem ở trang khác sẽ không thấy nên A, B, D đều sai."
+    },
+    {
+      "id": "tinhoc12-b18-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["bố cục", "lớp Row", "block_3"],
+      "content": "Khối slogan gồm ba ô giống nhau, mỗi ô đã được định dạng bằng lớp block_3. Vì sao vẫn phải tạo thêm lớp Row?",
+      "options": [
+        { "key": "A", "text": "Vì lớp block_3 không quy định được độ rộng cho các ô." },
+        { "key": "B", "text": "Vì khi dùng thẻ div các ô sẽ xếp theo chiều dọc, cần một khối chứa có độ rộng bằng độ rộng trang để ba ô nằm ngang." },
+        { "key": "C", "text": "Vì ba ô chỉ hiển thị được khi đặt bên trong một bảng." },
+        { "key": "D", "text": "Vì block_3 chỉ dùng được cho phần nội dung chính, không dùng cho slogan." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thẻ div mặc định là khối nên các div liên tiếp xếp chồng theo chiều dọc; muốn ba ô nằm ngang phải đặt chúng trong một khối chứa có độ rộng bằng độ rộng trang, đó là lớp Row. Lớp block_3 vẫn quy định độ rộng cho từng ô nên A sai; không cần bảng và block_3 không bị giới hạn ở phần nội dung chính nên C, D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["block_3", "độ rộng", "bố cục ngang"],
+      "content": "Lớp block_3 quy định mỗi ô trong khối slogan rộng bằng 1/3 độ rộng trang. Điều này có ý nghĩa gì khi hiển thị?",
+      "options": [
+        { "key": "A", "text": "Ba ô vừa khít một hàng ngang, mỗi ô chiếm một phần ba chiều rộng trang." },
+        { "key": "B", "text": "Mỗi ô cao bằng một phần ba chiều cao trang." },
+        { "key": "C", "text": "Mỗi ô chỉ chứa được tối đa ba dòng văn bản." },
+        { "key": "D", "text": "Ba ô tự động xếp thành ba hàng dọc." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Độ rộng 1/3 độ rộng trang của mỗi ô khiến ba ô cộng lại vừa đúng một hàng ngang. Con số này nói về chiều rộng chứ không phải chiều cao nên B sai; nó cũng không giới hạn số dòng văn bản nên C sai; nếu ba ô xếp dọc thì đã không cần quy định độ rộng theo hàng ngang nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["ảnh nền", "banner", "background-size"],
+      "content": "Mẫu định dạng .banner dùng thuộc tính background với giá trị no-repeat center center kết hợp background-size: cover. Kết quả hiển thị là gì?",
+      "options": [
+        { "key": "A", "text": "Ảnh nền lặp kín khối và bị cắt bớt ở bốn góc." },
+        { "key": "B", "text": "Ảnh nền chỉ hiện một lần ở góc trên bên trái khối và giữ nguyên kích thước gốc." },
+        { "key": "C", "text": "Ảnh nền lặp theo chiều dọc và thu nhỏ vừa khít chiều cao khối." },
+        { "key": "D", "text": "Ảnh nền không lặp, được canh giữa khối và phóng to để phủ kín toàn bộ khối." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "no-repeat ngăn ảnh lặp lại, center center canh ảnh vào giữa khối, còn background-size: cover phóng ảnh đủ lớn để phủ kín khối. Vì vậy các phương án nói ảnh lặp kín khối hoặc lặp theo chiều dọc đều sai ở A và C; B sai vì ảnh không còn nằm ở góc trên bên trái với kích thước gốc."
+    },
+    {
+      "id": "tinhoc12-b18-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["thẻ div", "khối bố cục"],
+      "content": "Trong bố cục trang của dự án, thẻ div thường được dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Tạo liên kết từ trang này sang trang khác." },
+        { "key": "B", "text": "Chèn ảnh minh hoạ cho khối slogan." },
+        { "key": "C", "text": "Nhóm các phần tử thành một khối để định dạng và sắp xếp bố cục." },
+        { "key": "D", "text": "Khai báo tệp CSS dùng chung cho cả website." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "div là thẻ khối dùng để gom các phần tử lại thành một vùng, nhờ đó gán được lớp định dạng và sắp xếp vị trí cho cả vùng. Liên kết dùng thẻ a nên A sai; ảnh dùng thẻ img nên B sai; khai báo tệp CSS dùng thẻ link đặt trong vùng head nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["class", "bộ chọn lớp"],
+      "content": "Muốn nhiều khối khác nhau trong các trang cùng nhận một mẫu định dạng đã viết trong style.css, ta gán cho chúng thuộc tính nào?",
+      "options": [
+        { "key": "A", "text": "id, mỗi khối một giá trị riêng." },
+        { "key": "B", "text": "class, với cùng một giá trị tên lớp." },
+        { "key": "C", "text": "src, trỏ tới tệp style.css." },
+        { "key": "D", "text": "alt, ghi tên của mẫu định dạng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mẫu định dạng của lớp được viết một lần trong style.css và áp dụng cho mọi phần tử có cùng giá trị thuộc tính class. id dùng để định danh duy nhất một phần tử nên không chia sẻ được cho nhiều khối, vì vậy A sai; src là thuộc tính của ảnh, video hay thẻ link nên C sai; alt là văn bản thay thế của ảnh nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["thẻ link", "CSS ngoài"],
+      "content": "Đoạn mã nào đặt trong vùng head để trang HTML dùng tệp style.css bên ngoài?",
+      "options": [
+        { "key": "A", "text": "`<style href=\"style.css\"></style>`" },
+        { "key": "B", "text": "`<script src=\"style.css\"></script>`" },
+        { "key": "C", "text": "`<a href=\"style.css\">style.css</a>`" },
+        { "key": "D", "text": "`<link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\">`" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thẻ link với rel=\"stylesheet\" nối trang với tệp CSS bên ngoài, thuộc tính href chỉ đường dẫn tới tệp style.css. Thẻ style chứa mã CSS trực tiếp chứ không nhận thuộc tính href nên A sai; script dùng cho mã kịch bản nên B sai; thẻ a chỉ tạo liên kết cho người dùng bấm nên C sai."
+    },
+    {
+      "id": "tinhoc12-b18-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["chân trang", "bố cục trang"],
+      "content": "Phần chân trang của website câu lạc bộ trong dự án thường đảm nhận nội dung nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Liên kết tới trang đăng kí để người xem có thể đăng kí tham gia câu lạc bộ." },
+        { "key": "B", "text": "Khối banner lớn với ảnh nền phủ kín chiều ngang trang." },
+        { "key": "C", "text": "Ba ô slogan giới thiệu khẩu hiệu của trường." },
+        { "key": "D", "text": "Toàn bộ nội dung giới thiệu các câu lạc bộ thể thao." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chân trang là vùng cuối trang, nơi đặt các liên kết phụ và đường dẫn đăng kí để người xem thấy ở mọi trang. Banner nằm ở đầu trang nên B sai; khối slogan là một khối riêng phía trên nội dung chính nên C sai; nội dung giới thiệu câu lạc bộ thể thao thuộc phần nội dung chính của trang tương ứng nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["độ rộng phần trăm", "thiết kế co giãn"],
+      "content": "Lớp block_3 đặt độ rộng khoảng 33,33% thay vì một số pixel cố định. Cách làm này có ưu điểm gì?",
+      "options": [
+        { "key": "A", "text": "Ba ô luôn cao bằng nhau dù nội dung dài ngắn khác nhau." },
+        { "key": "B", "text": "Ảnh nền trong các ô tự động phủ kín khối." },
+        { "key": "C", "text": "Ba ô luôn chia đều chiều ngang của khối chứa, kể cả khi cửa sổ trình duyệt đổi kích thước." },
+        { "key": "D", "text": "Trình duyệt không cần tải tệp style.css nữa." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Độ rộng tính theo phần trăm gắn với khối chứa, nên khi cửa sổ rộng ra hay hẹp lại thì ba ô vẫn chia đều chiều ngang. Chiều cao của ô phụ thuộc nội dung chứ không do độ rộng phần trăm quyết định nên A sai; ảnh nền cần thuộc tính riêng để phủ kín nên B sai; tệp style.css vẫn phải được tải và liên kết nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["đọc mã HTML", "lồng khối"],
+      "content": "Cho đoạn mã `<div class=\"Row\"><div class=\"block_3\">A</div><div class=\"block_3\">B</div><div class=\"block_3\">C</div></div>`. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Ba khối A, B, C nằm trong ba khối Row riêng biệt." },
+        { "key": "B", "text": "Khối Row chứa ba khối con cùng dùng lớp block_3, nhờ vậy ba khối được trình bày thành một hàng ngang." },
+        { "key": "C", "text": "Lớp Row được gán cho từng khối con, còn block_3 gán cho khối cha." },
+        { "key": "D", "text": "Đoạn mã không hợp lệ vì mỗi trang chỉ được có một thẻ div." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đoạn mã có một khối cha mang lớp Row bao ngoài ba khối con đều mang lớp block_3, đúng cách dựng hàng ba ô ngang. Chỉ có một khối Row duy nhất nên A sai; thứ tự lớp bị đảo ngược so với mã nên C sai; HTML cho phép lồng nhiều thẻ div nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["CSS", "ảnh nền"],
+      "content": "Thuộc tính CSS nào dùng để đặt một ảnh làm nền cho khối banner?",
+      "options": [
+        { "key": "A", "text": "color." },
+        { "key": "B", "text": "font-size." },
+        { "key": "C", "text": "border." },
+        { "key": "D", "text": "background-image." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "background-image nhận đường dẫn tới tệp ảnh và dùng ảnh đó làm nền cho khối. color chỉ đổi màu chữ nên A sai; font-size đổi cỡ chữ nên B sai; border chỉ vẽ đường viền quanh khối nên C sai."
+    },
+    {
+      "id": "tinhoc12-b18-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["bộ chọn lớp", "cú pháp CSS"],
+      "content": "Trong tệp style.css, muốn viết mẫu định dạng áp dụng cho mọi phần tử có `class=\"banner\"`, dòng chọn phải được viết như thế nào?",
+      "options": [
+        { "key": "A", "text": "banner { }" },
+        { "key": "B", "text": "#banner { }" },
+        { "key": "C", "text": ".banner { }" },
+        { "key": "D", "text": "<banner> { }" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bộ chọn lớp bắt đầu bằng dấu chấm rồi tới tên lớp, nên .banner mới đúng. Không có dấu chấm thì banner được hiểu là tên thẻ nên A sai; dấu thăng dùng cho id nên B sai; dấu nhọn là cú pháp HTML, không dùng trong tệp CSS nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["CSS ngoài", "bảo trì"],
+      "content": "Vì sao nên đặt các mẫu định dạng chung trong style.css thay vì viết CSS trực tiếp trong từng thẻ?",
+      "options": [
+        { "key": "A", "text": "Sửa một chỗ trong style.css là mọi trang liên kết tới tệp đó cùng thay đổi, thuận tiện khi bảo trì." },
+        { "key": "B", "text": "Vì CSS viết trực tiếp trong thẻ không được trình duyệt hiển thị." },
+        { "key": "C", "text": "Vì mỗi tệp HTML chỉ được phép chứa tối đa một mẫu định dạng." },
+        { "key": "D", "text": "Vì style.css tự động tạo liên kết giữa các trang." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tách CSS ra tệp riêng giúp sửa một lần và áp dụng cho mọi trang đang liên kết tới tệp, giảm công sửa lặp lại và tránh lệch nhau. CSS viết trong thẻ vẫn hiển thị bình thường nên B sai; một tệp HTML có thể chứa nhiều mẫu định dạng nên C sai; tệp CSS không tạo liên kết giữa các trang, việc đó do thẻ a đảm nhiệm nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["trang chủ", "nội dung trang"],
+      "content": "Nội dung chính của trang chủ trong website câu lạc bộ nên tập trung vào việc gì?",
+      "options": [
+        { "key": "A", "text": "Liệt kê toàn bộ mã HTML của các trang còn lại." },
+        { "key": "B", "text": "Giới thiệu chung về trường, về hoạt động ngoại khoá và dẫn người xem tới các trang câu lạc bộ." },
+        { "key": "C", "text": "Chỉ chứa biểu mẫu đăng kí tham gia câu lạc bộ." },
+        { "key": "D", "text": "Chỉ chứa khối banner không kèm nội dung nào khác." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trang chủ là điểm vào của website nên cần giới thiệu khái quát và đặt các liên kết dẫn tới trang thể thao, trang nghệ thuật. Mã HTML không hiển thị cho người xem nên A sai; biểu mẫu đăng kí nằm ở trang dang_ki.html nên C sai; trang chỉ có banner thì người xem không biết đi đâu tiếp nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["liên kết điều hướng", "trải nghiệm người dùng"],
+      "content": "Mỗi trang riêng về câu lạc bộ thể thao hay nghệ thuật cần có gì để người xem quay lại trang chủ?",
+      "options": [
+        { "key": "A", "text": "Một tệp CSS riêng không dùng chung với các trang khác." },
+        { "key": "B", "text": "Một khối banner có ảnh nền khác hoàn toàn với trang chủ." },
+        { "key": "C", "text": "Liên kết điều hướng về trang chủ, thường đặt ở phần đầu hoặc phần cuối trang." },
+        { "key": "D", "text": "Một biểu mẫu đăng kí mới thay cho trang dang_ki.html." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Liên kết điều hướng về trang chủ giúp người xem không bị lạc khi đang ở trang con, và thường đặt ở đầu trang hoặc chân trang. Tệp CSS riêng làm mất tính thống nhất nên A sai; đổi ảnh nền banner không tạo đường dẫn về trang chủ nên B sai; biểu mẫu đăng kí chỉ cần một trang chung nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["style.css", "tệp dùng chung"],
+      "content": "Tệp nào trong dự án được dùng chung để định dạng cho cả ba trang chính?",
+      "options": [
+        { "key": "A", "text": "dang_ki.html." },
+        { "key": "B", "text": "thethao.html." },
+        { "key": "C", "text": "banner.html." },
+        { "key": "D", "text": "style.css." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "style.css là tệp định dạng dùng chung, cả ba trang đều liên kết tới tệp này để có phong cách trình bày thống nhất. dang_ki.html và thethao.html là các trang nội dung chứ không chứa bộ định dạng chung nên A, B sai; banner.html không có trong dự án, banner là một khối của trang nên C sai."
+    },
+    {
+      "id": "tinhoc12-b18-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["thẻ a", "liên kết nội bộ"],
+      "content": "Muốn từ trang chủ mở trang giới thiệu câu lạc bộ thể thao có tên tệp thethao.html, ta viết đoạn mã nào?",
+      "options": [
+        { "key": "A", "text": "`<a href=\"thethao.html\">Câu lạc bộ thể thao</a>`" },
+        { "key": "B", "text": "`<link href=\"thethao.html\">Câu lạc bộ thể thao</link>`" },
+        { "key": "C", "text": "`<img src=\"thethao.html\" alt=\"Câu lạc bộ thể thao\">`" },
+        { "key": "D", "text": "`<div class=\"thethao.html\">Câu lạc bộ thể thao</div>`" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thẻ a với thuộc tính href tạo liên kết để người dùng bấm và mở trang khác, phần chữ giữa hai thẻ là nội dung hiển thị. Thẻ link dùng để nối tài nguyên như tệp CSS, không phải liên kết cho người dùng nên B sai; thẻ img dùng để chèn ảnh nên C sai; div chỉ tạo khối, không tạo liên kết nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["style.css", "mở rộng website"],
+      "content": "Khi thêm một trang mới vào website, muốn trang này có ngay phong cách trình bày như các trang cũ, ta làm gì?",
+      "options": [
+        { "key": "A", "text": "Chép toàn bộ mẫu định dạng vào từng thẻ của trang mới." },
+        { "key": "B", "text": "Tạo một tệp CSS mới có nội dung giống hệt style.css." },
+        { "key": "C", "text": "Liên kết trang mới tới tệp style.css đang dùng chung." },
+        { "key": "D", "text": "Đổi tên trang mới thành style.css." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chỉ cần thêm thẻ link tới style.css trong vùng head của trang mới là trang nhận được toàn bộ định dạng chung. Chép định dạng vào từng thẻ rất mất công và dễ lệch nên A sai; tạo tệp CSS trùng lặp khiến sau này phải sửa hai nơi nên B sai; đổi tên trang thành style.css là sai hoàn toàn vì mất trang HTML nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["background-size", "banner"],
+      "content": "Vì sao ảnh nền của banner cần đặt background-size: cover thay vì để kích thước mặc định?",
+      "options": [
+        { "key": "A", "text": "Để ảnh nền lặp lại thành nhiều ô nhỏ trong khối." },
+        { "key": "B", "text": "Để ảnh phủ kín toàn bộ khối dù kích thước ảnh khác kích thước khối." },
+        { "key": "C", "text": "Để ảnh nền tự động chuyển thành ảnh động." },
+        { "key": "D", "text": "Để trình duyệt không phải tải ảnh nền." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với background-size: cover, ảnh được phóng to theo tỉ lệ để không còn khoảng trống nào trong khối banner. Kết hợp với no-repeat thì ảnh không lặp, vì vậy A sai; cover không tạo ảnh động nên C sai; ảnh vẫn phải tải về nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["đường dẫn tương đối", "thẻ link"],
+      "content": "Trong dự án, các tệp HTML và tệp style.css được đặt cùng một thư mục. Vì sao có thể viết `href=\"style.css\"` trong thẻ link?",
+      "options": [
+        { "key": "A", "text": "Vì trình duyệt tự tìm tệp CSS ở bất kì thư mục nào trên máy." },
+        { "key": "B", "text": "Vì style.css là tên tệp bắt buộc của mọi website." },
+        { "key": "C", "text": "Vì thẻ link không cần đường dẫn tới tệp CSS." },
+        { "key": "D", "text": "Vì đường dẫn tương đối được tính từ vị trí tệp HTML đang mở, hai tệp cùng thư mục nên chỉ cần ghi tên tệp." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đường dẫn tương đối lấy thư mục chứa tệp HTML làm gốc, nên khi hai tệp nằm cùng thư mục chỉ cần ghi tên tệp style.css. Trình duyệt không tự dò khắp máy nên A sai; tên tệp CSS do người thiết kế đặt, không bắt buộc là style.css nên B sai; thẻ link luôn cần href chỉ tới tệp nên C sai."
+    },
+    {
+      "id": "tinhoc12-b18-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["thống nhất trình bày", "bố cục"],
+      "content": "Cách làm nào giúp website câu lạc bộ có phong cách trình bày thống nhất giữa các trang?",
+      "options": [
+        { "key": "A", "text": "Dùng chung một tệp style.css và lặp lại cùng cấu trúc khối banner, slogan, nội dung chính, chân trang." },
+        { "key": "B", "text": "Mỗi trang dùng một phông chữ và bảng màu riêng." },
+        { "key": "C", "text": "Đặt mỗi trang trong một thư mục riêng với tệp CSS riêng." },
+        { "key": "D", "text": "Viết toàn bộ định dạng trực tiếp trong từng thẻ của mỗi trang." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sự thống nhất đến từ hai yếu tố: cùng tệp CSS định dạng và cùng khuôn bố cục gồm banner, slogan, nội dung chính, chân trang. Phông chữ và bảng màu riêng cho từng trang làm website rời rạc nên B sai; mỗi trang một tệp CSS riêng thì không còn định dạng chung nên C sai; viết định dạng trong từng thẻ rất dễ lệch giữa các trang nên D sai."
+    },
+    {
+      "id": "tinhoc12-b18-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["nhận định đúng sai", "cấu trúc website", "trang đăng kí"],
+      "content": "Những nhận định nào sau đây đúng về cấu trúc website câu lạc bộ ngoại khoá trong Bài 18?",
+      "options": [
+        { "key": "A", "text": "Ba trang chính gồm trang chủ, trang giới thiệu các câu lạc bộ thể thao và trang giới thiệu các câu lạc bộ nghệ thuật." },
+        { "key": "B", "text": "Trang dang_ki.html thay thế trang chủ vì chứa biểu mẫu đăng kí." },
+        { "key": "C", "text": "Trang dang_ki.html chứa biểu mẫu đăng kí và được liên kết từ phần cuối của các trang." },
+        { "key": "D", "text": "Mỗi trang phải có một tệp CSS riêng để không ảnh hưởng tới các trang khác." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng: ba trang chính là trang chủ, trang thể thao, trang nghệ thuật; trang đăng kí là trang tạo thêm chứa biểu mẫu và được liên kết ở phần cuối mọi trang. B sai vì trang đăng kí không thay thế trang chủ. D sai vì các trang dùng chung một tệp style.css để bảo đảm phong cách thống nhất."
+    },
+    {
+      "id": "tinhoc12-b18-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["nhận định đúng sai", "bố cục", "style.css"],
+      "content": "Những nhận định nào sau đây đúng về bố cục và định dạng trong dự án website?",
+      "options": [
+        { "key": "A", "text": "Ba ô slogan giống nhau về định dạng nên chỉ cần tạo một lớp block_3 dùng chung." },
+        { "key": "B", "text": "Khi dùng thẻ div, các ô mặc định xếp theo chiều dọc nên cần thêm lớp Row để ba ô nằm ngang." },
+        { "key": "C", "text": "Mẫu .banner dùng background với no-repeat center center và background-size: cover để ảnh nền không lặp và phủ kín khối." },
+        { "key": "D", "text": "Lớp block_3 quy định mỗi ô rộng bằng toàn bộ độ rộng trang nên ba ô tự động xuống dòng." }
+      ],
+      "correctAnswer": ["A", "B", "C"],
+      "explanation": "A, B, C đúng theo hướng dẫn thực hành: một lớp block_3 cho ba ô giống nhau, thêm lớp Row để các div nằm ngang, và mẫu .banner kết hợp no-repeat center center với background-size: cover. D sai vì block_3 quy định mỗi ô rộng khoảng 1/3 độ rộng trang, không phải toàn bộ độ rộng trang."
+    },
+    {
+      "id": "tinhoc12-b18-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["nhận định đúng sai", "tệp CSS dùng chung", "bộ chọn lớp"],
+      "content": "Những nhận định nào sau đây đúng về việc dùng chung tệp style.css trong dự án?",
+      "options": [
+        { "key": "A", "text": "Các trang liên kết tới cùng một tệp style.css để thống nhất phong cách trình bày." },
+        { "key": "B", "text": "Khi sửa một mẫu định dạng trong style.css, phải chép lại thay đổi đó cho từng tệp HTML." },
+        { "key": "C", "text": "Muốn một khối nhận mẫu định dạng của lớp, ta gán thuộc tính class với đúng tên lớp đó." },
+        { "key": "D", "text": "Tệp style.css phải được đặt trong vùng body của mỗi trang thì mới có hiệu lực." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng: tệp CSS dùng chung giữ phong cách thống nhất, và mẫu định dạng của lớp áp dụng cho phần tử có thuộc tính class trùng tên. B sai vì chỉ cần sửa một lần trong style.css là mọi trang liên kết đều đổi theo. D sai vì thẻ link khai báo tệp CSS được đặt trong vùng head, không phải trong body."
+    },
+    {
+      "id": "tinhoc12-b18-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-thuc-hanh-thiet-ke-web",
+      "tags": ["nhận định đúng sai", "kiểm tra website", "ảnh nền"],
+      "content": "Những nhận định nào sau đây đúng khi hoàn thiện website câu lạc bộ?",
+      "options": [
+        { "key": "A", "text": "Trước khi hoàn thiện nên mở từng trang để kiểm tra các liên kết điều hướng hoạt động đúng." },
+        { "key": "B", "text": "Đặt liên kết về trang chủ ở các trang con giúp người xem dễ quay lại trang chủ." },
+        { "key": "C", "text": "Ba ô slogan chỉ hiển thị ngang hàng khi mỗi ô được đặt bên trong một bảng." },
+        { "key": "D", "text": "Khi ảnh nền nhỏ hơn khối banner, background-size: cover giúp ảnh phủ kín khối." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B, D đúng: kiểm tra liên kết là bước bắt buộc khi hoàn thiện, liên kết về trang chủ giúp điều hướng, và cover phóng ảnh để phủ kín khối. C sai vì ba ô nằm ngang nhờ khối chứa lớp Row chứ không cần bảng."
+    }
+  ]
+}

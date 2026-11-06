@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-21",
+  "title": "Đề ôn tập Tin học 12 – Bài 21: Hội thảo hướng nghiệp",
+  "slug": "de-tin-hoc-12-bai-21",
+  "description": "Đề ôn tập Bài 21 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về tổ chức hội thảo hướng nghiệp: kế hoạch và chương trình 45 phút, các nhiệm vụ chuẩn bị, xây dựng bài trình bày theo dàn ý năm phần và bảng tiêu chí đánh giá nhóm, đánh giá cá nhân. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B21",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b21-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["kế hoạch hội thảo", "thời lượng"],
+      "content": "Theo gợi ý kế hoạch tổ chức hội thảo ở Bài 21, thời lượng của hội thảo hướng nghiệp là bao nhiêu?",
+      "options": [
+        { "key": "A", "text": "Hai tiết, tức 90 phút." },
+        { "key": "B", "text": "Một tiết, tức 45 phút." },
+        { "key": "C", "text": "Ba mươi phút." },
+        { "key": "D", "text": "Sáu mươi phút." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kế hoạch gợi ý ghi rõ thời lượng là 1 tiết (45 phút), vừa khớp với bảng chương trình bảy mục cộng lại đúng 45 phút. Các mốc 90 phút, 30 phút và 60 phút đều không xuất hiện trong kế hoạch của bài."
+    },
+    {
+      "id": "tinhoc12-b21-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["kế hoạch hội thảo", "chủ đề hội thảo"],
+      "content": "Chủ đề của hội thảo hướng nghiệp trong kế hoạch gợi ý ở Bài 21 là gì?",
+      "options": [
+        { "key": "A", "text": "An toàn thông tin trong trường học." },
+        { "key": "B", "text": "Nghề quản trị hệ thống mạng." },
+        { "key": "C", "text": "Kĩ năng thuyết trình trước đám đông." },
+        { "key": "D", "text": "Nhân lực công nghệ thông tin: cơ hội và thách thức trong kỉ nguyên số." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Kế hoạch gợi ý ghi chủ đề là Nhân lực công nghệ thông tin: cơ hội và thách thức trong kỉ nguyên số. Ba phương án còn lại là những chủ đề khác, không có trong kế hoạch của bài."
+    },
+    {
+      "id": "tinhoc12-b21-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["ban tổ chức", "thành phần hội thảo"],
+      "content": "Theo kế hoạch gợi ý, ban tổ chức hội thảo gồm những ai?",
+      "options": [
+        { "key": "A", "text": "Bốn thành viên là đại diện từ mỗi nhóm." },
+        { "key": "B", "text": "Ba thành viên do giáo viên chỉ định." },
+        { "key": "C", "text": "Toàn bộ học sinh của lớp." },
+        { "key": "D", "text": "Giáo viên và các khách mời." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kế hoạch ghi ban tổ chức gồm 4 thành viên là đại diện từ mỗi nhóm, tương ứng với bốn nhóm phụ trách bốn lĩnh vực. Ba thành viên là số lượng của chủ toạ chứ không phải ban tổ chức, còn toàn bộ học sinh và khách mời thuộc thành phần tham dự."
+    },
+    {
+      "id": "tinhoc12-b21-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["chủ toạ hội thảo", "ban tổ chức"],
+      "content": "Ba thành viên làm chủ toạ hội thảo được lựa chọn như thế nào?",
+      "options": [
+        { "key": "A", "text": "Giáo viên bộ môn chọn trực tiếp ba học sinh có điểm cao nhất lớp." },
+        { "key": "B", "text": "Các nhóm bầu chọn trong buổi họp nhóm." },
+        { "key": "C", "text": "Ban tổ chức chọn cử ba thành viên trong lớp." },
+        { "key": "D", "text": "Khách mời đề cử ngay tại buổi hội thảo." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kế hoạch ghi chủ toạ gồm 3 thành viên do ban tổ chức chọn cử trong lớp. Việc bầu chọn ở từng nhóm chỉ áp dụng cho nhóm trưởng và thư kí nên B sai; giáo viên và khách mời không phải người chọn cử chủ toạ nên A và D sai."
+    },
+    {
+      "id": "tinhoc12-b21-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["hình thức tổ chức", "kế hoạch hội thảo"],
+      "content": "Hình thức tổ chức hội thảo trong kế hoạch gợi ý được mô tả thế nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ tổ chức trực tuyến vì có khách mời ở xa." },
+        { "key": "B", "text": "Tổ chức trực tiếp, có thể kết hợp trực tuyến với một số khách mời ở xa." },
+        { "key": "C", "text": "Chỉ tổ chức trực tiếp và không dùng bất kì thiết bị kĩ thuật nào." },
+        { "key": "D", "text": "Tổ chức tại hội trường lớn của trường thay cho phòng học của lớp." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kế hoạch ghi hình thức trực tiếp, có thể kết hợp trực tuyến với một số khách mời ở xa, và địa điểm là phòng học của lớp. Vì vậy hội thảo không chỉ trực tuyến, không cấm thiết bị kĩ thuật và không tổ chức ở hội trường nên A, C, D đều sai."
+    },
+    {
+      "id": "tinhoc12-b21-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["nội dung hội thảo", "kế hoạch hội thảo"],
+      "content": "Mục Nội dung chính trong kế hoạch hội thảo gồm những gì?",
+      "options": [
+        { "key": "A", "text": "Thảo luận về một số ngành nghề, lĩnh vực có sử dụng nhân lực công nghệ thông tin; vai trò và công việc của chuyên viên công nghệ thông tin trong các ngành nghề đó; chia sẻ thông tin ngành đào tạo của một số cơ sở đào tạo công nghệ thông tin phù hợp." },
+        { "key": "B", "text": "Chỉ thảo luận về mức lương và phúc lợi của chuyên viên công nghệ thông tin." },
+        { "key": "C", "text": "Chỉ giới thiệu danh sách các trường đại học có ngành công nghệ thông tin." },
+        { "key": "D", "text": "Tổ chức thi chọn học sinh giỏi tin học của lớp để trao giải." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nội dung chính gồm ba mục: ngành nghề và lĩnh vực có sử dụng nhân lực công nghệ thông tin, vai trò và công việc của chuyên viên công nghệ thông tin, thông tin ngành đào tạo của cơ sở đào tạo phù hợp. Phương án B và C chỉ nêu một phần rất hẹp, còn D là hoạt động thi đua không có trong kế hoạch."
+    },
+    {
+      "id": "tinhoc12-b21-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["chương trình hội thảo", "bài trình bày"],
+      "content": "Theo bảng chương trình gợi ý, bốn bài trình bày theo lĩnh vực chiếm tổng cộng bao nhiêu phút?",
+      "options": [
+        { "key": "A", "text": "45 phút." },
+        { "key": "B", "text": "20 phút." },
+        { "key": "C", "text": "40 phút." },
+        { "key": "D", "text": "32 phút." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chương trình có bốn bài trình bày của Nhóm 1 đến Nhóm 4, mỗi bài 8 phút, nên tổng là 4 nhân 8 bằng 32 phút. Con số 45 phút là thời lượng toàn chương trình, 20 phút là tổng hai phiên thảo luận (5 cộng 5), còn 40 phút không xuất hiện trong bảng."
+    },
+    {
+      "id": "tinhoc12-b21-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["chương trình hội thảo", "phiên thảo luận"],
+      "content": "Trong chương trình hội thảo, hai phiên thảo luận do ai thực hiện?",
+      "options": [
+        { "key": "A", "text": "Chỉ ban tổ chức." },
+        { "key": "B", "text": "Chỉ giáo viên bộ môn." },
+        { "key": "C", "text": "Chủ toạ, chuyên gia và các nhóm." },
+        { "key": "D", "text": "Chỉ hai nhóm có bài trình bày đầu tiên." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảng chương trình ghi hai phiên thảo luận ở mục 3 và mục 6, mỗi phiên 5 phút, do chủ toạ, chuyên gia và các nhóm thực hiện. Ban tổ chức lo khâu chuẩn bị, giáo viên đánh giá kết quả, còn việc giới hạn cho hai nhóm đầu tiên không có trong bảng."
+    },
+    {
+      "id": "tinhoc12-b21-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["lĩnh vực trình bày", "chương trình hội thảo"],
+      "content": "Bốn lĩnh vực được gợi ý để các nhóm trình bày là gì?",
+      "options": [
+        { "key": "A", "text": "Y tế, giáo dục, tài chính và kinh doanh, truyền thông và giải trí." },
+        { "key": "B", "text": "Y tế, giáo dục, giao thông, quốc phòng." },
+        { "key": "C", "text": "Ngân hàng, bảo hiểm, du lịch, nông nghiệp." },
+        { "key": "D", "text": "Y tế, thể thao, âm nhạc, xây dựng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phần gợi ý lựa chọn nội dung nêu bốn lĩnh vực y tế, giáo dục, tài chính và kinh doanh, truyền thông và giải trí; bảng chương trình phân công đúng bốn nhóm theo bốn lĩnh vực này. Các phương án còn lại thay bằng lĩnh vực không có trong gợi ý."
+    },
+    {
+      "id": "tinhoc12-b21-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["chọn nội dung", "thời lượng hội thảo"],
+      "content": "Vì thời gian hội thảo có hạn, sách gợi ý các nhóm nên làm gì khi chọn nội dung?",
+      "options": [
+        { "key": "A", "text": "Trình bày tất cả các lĩnh vực có sử dụng nhân lực công nghệ thông tin." },
+        { "key": "B", "text": "Chọn ra một vài lĩnh vực mà các em quan tâm nhất để trao đổi." },
+        { "key": "C", "text": "Bỏ hai phiên thảo luận để tăng thời gian trình bày." },
+        { "key": "D", "text": "Mời thật nhiều khách mời để có thêm thông tin." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách ghi rõ vì thời gian hội thảo có hạn nên chọn ra một vài lĩnh vực mà các em quan tâm nhất để trao đổi. Trình bày tất cả các lĩnh vực là không khả thi trong 45 phút, còn bỏ phiên thảo luận hay mời thật nhiều khách mời đều không phải gợi ý của bài."
+    },
+    {
+      "id": "tinhoc12-b21-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["nhiệm vụ học tập", "chuẩn bị hội thảo"],
+      "content": "Nhiệm vụ 1 trong bài yêu cầu các em làm gì?",
+      "options": [
+        { "key": "A", "text": "Xây dựng bài trình bày của nhóm theo phân công." },
+        { "key": "B", "text": "Tổ chức hội thảo và đánh giá kết quả." },
+        { "key": "C", "text": "Chuẩn bị hội thảo: thành lập các nhóm và ban tổ chức, thảo luận lập kế hoạch tổ chức hội thảo." },
+        { "key": "D", "text": "Viết báo cáo thu hoạch cá nhân sau hội thảo." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhiệm vụ 1 có tên Chuẩn bị hội thảo, yêu cầu thành lập các nhóm và ban tổ chức hội thảo, thảo luận và lập kế hoạch tổ chức. Xây dựng bài trình bày là nhiệm vụ 2, tổ chức và đánh giá là nhiệm vụ 3, còn báo cáo thu hoạch không nằm trong ba nhiệm vụ của bài."
+    },
+    {
+      "id": "tinhoc12-b21-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["chia nhóm", "chuẩn bị hội thảo"],
+      "content": "Sau khi chia lớp thành bốn nhóm theo bốn lĩnh vực, mỗi nhóm bầu ai?",
+      "options": [
+        { "key": "A", "text": "Bầu một khách mời làm cố vấn của nhóm." },
+        { "key": "B", "text": "Bầu ba chủ toạ của hội thảo." },
+        { "key": "C", "text": "Bầu giáo viên phụ trách nhóm." },
+        { "key": "D", "text": "Bầu nhóm trưởng và thư kí." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách hướng dẫn các nhóm thảo luận nhanh về kế hoạch sơ bộ, bầu nhóm trưởng và thư kí, sau đó cử một đại diện tham gia ban tổ chức. Chủ toạ do ban tổ chức chọn cử nên B sai; khách mời và giáo viên không do nhóm bầu nên A và C sai."
+    },
+    {
+      "id": "tinhoc12-b21-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["ban tổ chức", "hoàn thiện kế hoạch"],
+      "content": "Sau khi họp thống nhất nội dung, ban tổ chức xử lí ý kiến của các nhóm như thế nào?",
+      "options": [
+        { "key": "A", "text": "Bỏ qua vì ban tổ chức đã quyết định xong." },
+        { "key": "B", "text": "Tiếp thu ý kiến các nhóm để hoàn thiện kế hoạch, lập danh sách chuyên gia và khách mời." },
+        { "key": "C", "text": "Chuyển toàn bộ ý kiến cho giáo viên quyết định thay." },
+        { "key": "D", "text": "Chỉ ghi lại để lưu hồ sơ mà không sửa kế hoạch." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu ban tổ chức họp và thống nhất các nội dung, tiếp thu ý kiến các nhóm để hoàn thiện kế hoạch, lập danh sách chuyên gia và khách mời. Vì vậy bỏ qua ý kiến, đẩy toàn bộ cho giáo viên hay chỉ lưu hồ sơ đều trái với hướng dẫn."
+    },
+    {
+      "id": "tinhoc12-b21-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["quy định trình bày", "chuẩn bị hội thảo"],
+      "content": "Ban tổ chức đưa ra quy định chung cho bài trình bày của các nhóm. Ví dụ nào sau đây đúng với quy định đó?",
+      "options": [
+        { "key": "A", "text": "Bài trình bày dưới dạng bài trình chiếu hoặc video clip." },
+        { "key": "B", "text": "Bài trình bày phải viết tay trên giấy A0." },
+        { "key": "C", "text": "Bài trình bày chỉ được dùng bảng số liệu, không dùng hình ảnh." },
+        { "key": "D", "text": "Bài trình bày phải dài ít nhất ba mươi trang chiếu." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu ví dụ quy định chung là bài trình bày dưới dạng bài trình chiếu hoặc video clip. Viết tay trên giấy A0, cấm dùng hình ảnh hay ấn định số trang chiếu tối thiểu đều không có trong hướng dẫn."
+    },
+    {
+      "id": "tinhoc12-b21-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["hạn nộp bài", "chuẩn bị hội thảo"],
+      "content": "Vì sao bài trình bày phải nộp trước hội thảo hai ngày?",
+      "options": [
+        { "key": "A", "text": "Để các nhóm có thêm thời gian nghỉ ngơi trước hội thảo." },
+        { "key": "B", "text": "Để chuyên gia sửa lại nội dung bài trình bày của các nhóm." },
+        { "key": "C", "text": "Để ban tổ chức tập hợp tài liệu, nộp cho giáo viên và gửi trước cho các chuyên gia." },
+        { "key": "D", "text": "Để in bài trình bày thành tài liệu phát cho khách mời." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách ghi yêu cầu về thời hạn nộp bài trước hội thảo 2 ngày để ban tổ chức tập hợp tài liệu hội thảo, nộp cho giáo viên và gửi trước cho các chuyên gia. Việc nghỉ ngơi, sửa nội dung hay in tài liệu không phải lí do được nêu."
+    },
+    {
+      "id": "tinhoc12-b21-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["hội thảo trực tuyến", "kĩ thuật"],
+      "content": "Nếu hội thảo kết hợp trực tiếp với trực tuyến cho chuyên gia ở xa, ban tổ chức cần lưu ý điều gì?",
+      "options": [
+        { "key": "A", "text": "Không cần chuẩn bị thêm vì máy tính đã có sẵn mọi thứ." },
+        { "key": "B", "text": "Chỉ cần thêm một micro cho chủ toạ là đủ." },
+        { "key": "C", "text": "Phải huỷ các phiên thảo luận trực tiếp để chuyển hết lên mạng." },
+        { "key": "D", "text": "Cần lưu ý về trang thiết bị, kĩ thuật cần thiết và phân công một số thành viên phụ trách kĩ thuật." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách lưu ý nếu hội thảo có kết hợp trực tiếp và trực tuyến với chuyên gia ở xa thì cần quan tâm trang thiết bị, kĩ thuật cần thiết và phân công một số thành viên phụ trách kĩ thuật. Các phương án còn lại hoặc phủ nhận việc chuẩn bị, hoặc chỉ tính một thiết bị, hoặc huỷ nội dung trực tiếp nên đều sai."
+    },
+    {
+      "id": "tinhoc12-b21-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["xây dựng bài trình bày", "các bước thực hiện"],
+      "content": "Bước đầu tiên trong việc xây dựng bài trình bày của nhóm là gì?",
+      "options": [
+        { "key": "A", "text": "Lập dàn ý bài trình bày." },
+        { "key": "B", "text": "Thu thập thông tin từ các nguồn." },
+        { "key": "C", "text": "Chọn báo cáo viên cho nhóm." },
+        { "key": "D", "text": "Báo cáo thử trước các thành viên." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhiệm vụ 2 gồm bốn bước: lập dàn ý, thu thập thông tin, chọn lọc và xây dựng bài trình bày, báo cáo thử và hoàn thiện. Vì thế lập dàn ý là bước đầu, thu thập thông tin là bước 2, còn chọn báo cáo viên và báo cáo thử thuộc bước 4."
+    },
+    {
+      "id": "tinhoc12-b21-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["dàn ý bài trình bày", "thời lượng"],
+      "content": "Dàn ý bài trình bày gồm năm phần với thời lượng 1, 2, 2, 2 và 1 phút. Tổng thời lượng này nói lên điều gì?",
+      "options": [
+        { "key": "A", "text": "Tổng là 6 phút nên ngắn hơn thời lượng dành cho mỗi bài." },
+        { "key": "B", "text": "Tổng là 10 phút nên dài hơn thời lượng dành cho mỗi bài." },
+        { "key": "C", "text": "Tổng là 8 phút, vừa khớp với 8 phút của mỗi bài trình bày trong chương trình." },
+        { "key": "D", "text": "Tổng là 8 phút, nhưng chương trình chỉ dành 5 phút cho mỗi bài." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cộng năm phần của dàn ý: 1 cộng 2 cộng 2 cộng 2 cộng 1 bằng 8 phút, đúng bằng thời lượng 8 phút mà bảng chương trình dành cho mỗi bài trình bày. Vì vậy các phương án nêu 6 phút, 10 phút hay 5 phút đều sai."
+    },
+    {
+      "id": "tinhoc12-b21-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["đánh giá cá nhân", "tiêu chí"],
+      "content": "Một tiêu chí trong bảng đánh giá cá nhân là Hoàn thành nhiệm vụ được giao, đúng hạn, đảm bảo chất lượng. Tiêu chí này có điểm tối đa là bao nhiêu?",
+      "options": [
+        { "key": "A", "text": "20 điểm." },
+        { "key": "B", "text": "30 điểm." },
+        { "key": "C", "text": "10 điểm." },
+        { "key": "D", "text": "50 điểm." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng đánh giá cá nhân có năm tiêu chí: hoàn thành nhiệm vụ được giao, đúng hạn, đảm bảo chất lượng 30 điểm; có tinh thần trách nhiệm, nhiệt tình 20 điểm; có nhiều ý kiến đóng góp cho sản phẩm 20 điểm; phối kết hợp tốt với các thành viên trong nhóm 20 điểm; tham gia đầy đủ các buổi họp nhóm 10 điểm. Tổng cộng đúng 100 điểm nên 20, 10 và 50 không phải mức tối đa của tiêu chí này."
+    },
+    {
+      "id": "tinhoc12-b21-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["nguồn thông tin", "xây dựng bài trình bày"],
+      "content": "Nguồn thông tin nào sau đây KHÔNG nằm trong các nguồn gợi ý ở bước thu thập thông tin?",
+      "options": [
+        { "key": "A", "text": "Trang web chính thức của các tổ chức, công ti, cơ sở đào tạo liên quan tới lĩnh vực thảo luận." },
+        { "key": "B", "text": "Các nghiên cứu, bài báo của các tổ chức uy tín." },
+        { "key": "C", "text": "Tin tuyển dụng liên quan đến ngành nghề và ý kiến từ các diễn đàn, chuyên gia trong ngành." },
+        { "key": "D", "text": "Đề kiểm tra học kì của lớp do giáo viên cung cấp." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bốn nguồn gợi ý là trang web chính thức của tổ chức, công ti, cơ sở đào tạo; các nghiên cứu, bài báo của tổ chức uy tín; tin tuyển dụng liên quan đến ngành nghề; ý kiến từ diễn đàn, chuyên gia trong ngành. Đề kiểm tra học kì của lớp không nằm trong danh sách này."
+    },
+    {
+      "id": "tinhoc12-b21-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["biểu diễn thông tin", "xây dựng bài trình bày"],
+      "content": "Khi xây dựng bài trình bày từ thông tin đã chọn, sách lưu ý điều gì?",
+      "options": [
+        { "key": "A", "text": "Không cần ghi nguồn để bài trình bày gọn hơn." },
+        { "key": "B", "text": "Chỉ dùng văn bản, không dùng bảng biểu hay hình ảnh." },
+        { "key": "C", "text": "Lựa chọn cách biểu diễn phù hợp như bảng, biểu đồ, sơ đồ, ảnh minh hoạ để thông tin rõ ràng, dễ hiểu và nêu rõ nguồn của thông tin." },
+        { "key": "D", "text": "Chép nguyên văn toàn bộ tài liệu đã thu thập được." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bước 3 yêu cầu lựa chọn cách biểu diễn phù hợp như bảng, biểu đồ, sơ đồ, ảnh minh hoạ để thông tin rõ ràng, dễ hiểu và lưu ý nêu rõ nguồn của thông tin sử dụng. Bỏ nguồn, chỉ dùng văn bản hay chép nguyên văn đều trái với hướng dẫn."
+    },
+    {
+      "id": "tinhoc12-b21-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["báo cáo thử", "xây dựng bài trình bày"],
+      "content": "Việc báo cáo thử trong nhóm ở bước 4 nhằm mục đích gì?",
+      "options": [
+        { "key": "A", "text": "Để các thành viên nhận xét, góp ý rồi chỉnh sửa và hoàn thiện bài trình bày." },
+        { "key": "B", "text": "Để chấm điểm nhóm trước khi hội thảo diễn ra." },
+        { "key": "C", "text": "Để chọn khách mời tham dự hội thảo." },
+        { "key": "D", "text": "Để thay đổi chương trình hội thảo đã thống nhất." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bước 4 gồm chọn báo cáo viên, báo cáo thử để các thành viên nhận xét góp ý, rồi chỉnh sửa nội dung và hoàn thiện bài trình bày. Việc chấm điểm do giáo viên thực hiện tại hội thảo, còn khách mời và chương trình do ban tổ chức lo nên B, C, D sai."
+    },
+    {
+      "id": "tinhoc12-b21-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["đánh giá nhóm", "mức đánh giá"],
+      "content": "Điểm của nhóm được đánh giá theo năm tiêu chí, mỗi tiêu chí có mức Giỏi là 2 điểm. Điểm nhóm tối đa là bao nhiêu?",
+      "options": [
+        { "key": "A", "text": "5 điểm." },
+        { "key": "B", "text": "8 điểm." },
+        { "key": "C", "text": "2 điểm." },
+        { "key": "D", "text": "10 điểm." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Năm tiêu chí là Nội dung, Hình thức, Tính chuyên nghiệp, Báo cáo viên và Thảo luận; mỗi tiêu chí tối đa 2 điểm nên điểm nhóm tối đa là 5 nhân 2 bằng 10 điểm. Con số 5 là số tiêu chí, 8 là thời lượng mỗi bài trình bày, còn 2 là điểm tối đa của một tiêu chí."
+    },
+    {
+      "id": "tinhoc12-b21-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["điểm cá nhân", "hệ số cá nhân"],
+      "content": "Một nhóm được 8 điểm, một thành viên được các bạn trong nhóm đánh giá tổng 90 điểm. Điểm cá nhân của thành viên đó bằng bao nhiêu?",
+      "options": [
+        { "key": "A", "text": "8,9 điểm." },
+        { "key": "B", "text": "7,2 điểm." },
+        { "key": "C", "text": "0,9 điểm." },
+        { "key": "D", "text": "9,0 điểm." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hệ số cá nhân bằng tổng điểm cá nhân chia cho 100%, tức 90 chia 100 bằng 0,9. Điểm cá nhân bằng điểm nhóm nhân với hệ số: 8 nhân 0,9 bằng 7,2 điểm. Phương án 8,9 và 9,0 tính sai phép tính, còn 0,9 chỉ là hệ số chứ chưa nhân với điểm nhóm."
+    },
+    {
+      "id": "tinhoc12-b21-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["nhận định đúng", "kế hoạch hội thảo", "chương trình"],
+      "content": "Những nhận định nào sau đây đúng về kế hoạch và chương trình hội thảo hướng nghiệp ở Bài 21?",
+      "options": [
+        { "key": "A", "text": "Hội thảo được tổ chức tại phòng học của lớp, thành phần gồm giáo viên, khách mời và học sinh của lớp." },
+        { "key": "B", "text": "Ban tổ chức gồm ba thành viên, mỗi thành viên phụ trách một nhóm." },
+        { "key": "C", "text": "Chương trình gồm bốn bài trình bày mỗi bài 8 phút, hai phiên thảo luận mỗi phiên 5 phút và phần kết luận 3 phút, tổng cộng 45 phút." },
+        { "key": "D", "text": "Phần kết luận của hội thảo do đại diện nhóm 4 thực hiện." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng theo kế hoạch: địa điểm là phòng học của lớp với thành phần giáo viên, khách mời, học sinh; chương trình cộng lại đúng 45 phút. B sai vì ban tổ chức có bốn thành viên là đại diện từ mỗi nhóm. D sai vì phần kết luận do chủ toạ thực hiện, không phải đại diện nhóm 4."
+    },
+    {
+      "id": "tinhoc12-b21-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["nhận định đúng", "xây dựng bài trình bày", "dàn ý"],
+      "content": "Những nhận định nào sau đây đúng về việc xây dựng bài trình bày của nhóm?",
+      "options": [
+        { "key": "A", "text": "Dàn ý bài trình bày gồm năm phần, trong đó phần giới thiệu lĩnh vực và vai trò của công nghệ thông tin dành 1 phút." },
+        { "key": "B", "text": "Thông tin thu thập cần được phân tích, kiểm chứng, chọn lọc và tổng hợp trước khi đưa vào bài trình bày." },
+        { "key": "C", "text": "Bài trình bày chỉ được dựng bằng văn bản thuần, không được dùng phần mềm trình chiếu." },
+        { "key": "D", "text": "Sau khi báo cáo thử và nhận góp ý, nhóm chỉnh sửa nội dung, hoàn thiện bài trình bày và lên phương án trình bày." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng theo các bước của nhiệm vụ 2: dàn ý năm phần mở đầu bằng phần giới thiệu lĩnh vực và vai trò công nghệ thông tin dành 1 phút, thông tin phải được phân tích và chọn lọc, sau báo cáo thử thì chỉnh sửa và hoàn thiện. C sai vì sách hướng dẫn dùng phần mềm trình chiếu để xây dựng bài trình bày theo dàn ý."
+    },
+    {
+      "id": "tinhoc12-b21-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["nhận định đúng", "tiêu chí đánh giá nhóm", "mức đánh giá"],
+      "content": "Những nhận định nào sau đây đúng về bảng tiêu chí đánh giá nhóm ở Bài 21?",
+      "options": [
+        { "key": "A", "text": "Tiêu chí Nội dung đạt mức Khá (1,5 điểm) khi nhóm giới thiệu được 80% nội dung như dàn ý." },
+        { "key": "B", "text": "Tiêu chí Thảo luận đạt mức Giỏi khi nhóm chỉ cần tham gia nhiệt tình, sôi nổi, không cần ý kiến có chất lượng." },
+        { "key": "C", "text": "Tiêu chí Hình thức đạt mức Trung bình (1 điểm) khi bài chỉ có thông tin dạng văn bản và có ít lỗi chính tả (dưới 5 lỗi)." },
+        { "key": "D", "text": "Năm tiêu chí đánh giá nhóm đều dùng chung bốn mức Giỏi 2 điểm, Khá 1,5 điểm, Trung bình 1 điểm, Chưa đạt 0,5 điểm." }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "A, C và D đúng với bảng tiêu chí: mức Khá của Nội dung là 80% nội dung như dàn ý, mức Trung bình của Hình thức là chỉ có văn bản với ít lỗi chính tả dưới 5 lỗi, và cả năm tiêu chí dùng chung bốn mức điểm. B sai vì mức Giỏi của Thảo luận đòi hỏi nhiệt tình, sôi nổi và có ý kiến chất lượng; chỉ nhiệt tình, sôi nổi là mức Khá."
+    },
+    {
+      "id": "tinhoc12-b21-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-hoi-thao-huong-nghiep",
+      "tags": ["nhận định đúng", "điểm cá nhân", "hệ số cá nhân"],
+      "content": "Những nhận định nào sau đây đúng về cách tính điểm cá nhân ở Bài 21?",
+      "options": [
+        { "key": "A", "text": "Điểm cá nhân được tính bằng điểm nhóm cộng với hệ số cá nhân." },
+        { "key": "B", "text": "Hệ số cá nhân bằng tổng điểm cá nhân chia cho 100%." },
+        { "key": "C", "text": "Điểm cá nhân do giáo viên tự cho, không cần ý kiến của các thành viên trong nhóm." },
+        { "key": "D", "text": "Bảng đánh giá cá nhân có năm tiêu chí với tổng điểm tối đa là 100 điểm." }
+      ],
+      "correctAnswer": ["B", "D"],
+      "explanation": "B và D đúng: hệ số cá nhân bằng tổng điểm cá nhân chia cho 100%, và bảng đánh giá cá nhân gồm năm tiêu chí với tổng tối đa 100 điểm. A sai vì điểm cá nhân bằng điểm nhóm nhân với hệ số chứ không phải cộng. C sai vì điểm cá nhân do các thành viên trong nhóm đánh giá, lớp chỉ thống nhất thêm điểm thưởng cho ban tổ chức và chủ toạ."
+    }
+  ]
+}

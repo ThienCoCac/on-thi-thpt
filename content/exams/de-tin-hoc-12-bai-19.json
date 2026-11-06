@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-19",
+  "title": "Đề ôn tập Tin học 12 – Bài 19: Dịch vụ sửa chữa và bảo trì máy tính",
+  "slug": "de-tin-hoc-12-bai-19",
+  "description": "Đề ôn tập Bài 19 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về dịch vụ sửa chữa và bảo trì máy tính: nội dung nghề, các nhóm công việc phần cứng và phần mềm, bốn kĩ năng mềm, đào tạo ở bậc Cao đẳng và Đại học, quy trình sửa chữa và bảo trì định kì. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B19",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b19-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["khái niệm nghề", "bảo trì"],
+      "content": "Theo Bài 19, nội dung của nghề sửa chữa và bảo trì máy tính bao gồm những công việc nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ những việc can thiệp trực tiếp vào linh kiện phần cứng của máy tính." },
+        { "key": "B", "text": "Chỉ những việc cài đặt và gỡ bỏ phần mềm cho người dùng." },
+        { "key": "C", "text": "Tất cả các công việc để bảo đảm máy tính hoạt động một cách ổn định, hiệu quả." },
+        { "key": "D", "text": "Chỉ những việc sửa chữa khi máy tính đã hỏng hoàn toàn." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 19 xác định nội dung nghề là tất cả các công việc để bảo đảm máy tính hoạt động ổn định, hiệu quả, gồm cả phần cứng, phần mềm và môi trường hoạt động của hệ thống. Chỉ giới hạn ở linh kiện hoặc ở phần mềm là quá hẹp nên A, B sai; công việc bảo trì vẫn phải làm khi máy còn tốt nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["phần mềm", "an toàn hệ thống"],
+      "content": "Công việc nào sau đây thuộc nhóm công việc liên quan tới phần mềm của nghề sửa chữa và bảo trì máy tính?",
+      "options": [
+        { "key": "A", "text": "Quét mã độc và cấu hình phần mềm phòng chống virus cho hệ thống." },
+        { "key": "B", "text": "Thay ổ cứng bằng loại có dung lượng lớn hơn." },
+        { "key": "C", "text": "Bổ sung thêm thanh RAM cho máy tính để bàn." },
+        { "key": "D", "text": "Thay màn hình có độ phân giải cao hơn theo yêu cầu." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quét mã độc và cấu hình phần mềm phòng chống virus là việc làm trên phần mềm và nhằm bảo đảm an toàn cho hệ thống, nên thuộc nhóm công việc liên quan tới phần mềm. Thay ổ cứng, bổ sung RAM và thay màn hình đều là thay thế, nâng cấp linh kiện nên B, C, D thuộc nhóm công việc liên quan tới phần cứng."
+    },
+    {
+      "id": "tinhoc12-b19-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["phần cứng", "nâng cấp thiết bị"],
+      "content": "Nhóm công việc liên quan tới phần cứng của nghề sửa chữa, bảo trì gồm công việc nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Cập nhật bản vá cho hệ điều hành của máy." },
+        { "key": "B", "text": "Cài đặt driver mới cho máy in." },
+        { "key": "C", "text": "Sao lưu dữ liệu của người dùng ra ổ đĩa ngoài." },
+        { "key": "D", "text": "Nâng cấp ổ cứng hoặc bổ sung RAM có dung lượng lớn hơn." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nâng cấp ổ cứng, bổ sung RAM là thay đổi trực tiếp linh kiện bên trong máy nên thuộc nhóm công việc liên quan tới phần cứng. Cập nhật bản vá, cài driver và sao lưu dữ liệu đều thực hiện trên phần mềm hoặc dữ liệu nên A, B, C thuộc nhóm liên quan tới phần mềm."
+    },
+    {
+      "id": "tinhoc12-b19-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["kĩ năng mềm", "quản lí thời gian"],
+      "content": "Kĩ năng mềm nào thể hiện khả năng hoàn thành dự án sửa chữa, bảo trì trong thời gian quy định và đáp ứng yêu cầu của khách hàng?",
+      "options": [
+        { "key": "A", "text": "Kĩ năng giao tiếp." },
+        { "key": "B", "text": "Kĩ năng quản lí thời gian." },
+        { "key": "C", "text": "Kĩ năng giải quyết vấn đề." },
+        { "key": "D", "text": "Kĩ năng học hỏi, cập nhật kiến thức." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Quản lí thời gian là kĩ năng sắp xếp công việc để hoàn thành dự án đúng thời hạn và vẫn đáp ứng yêu cầu khách hàng. Giao tiếp thiên về trao đổi thông tin, giải quyết vấn đề thiên về tìm cách khắc phục sự cố, học hỏi thiên về tiếp thu kiến thức mới nên A, C, D không mô tả đúng nội dung câu hỏi."
+    },
+    {
+      "id": "tinhoc12-b19-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["kĩ năng mềm", "giao tiếp"],
+      "content": "Khi khách hàng mô tả chưa rõ hiện tượng hỏng, người làm nghề cần dùng kĩ năng mềm nào để hỏi lại cho đúng vấn đề?",
+      "options": [
+        { "key": "A", "text": "Kĩ năng quản lí thời gian." },
+        { "key": "B", "text": "Kĩ năng học hỏi, cập nhật kiến thức." },
+        { "key": "C", "text": "Kĩ năng giao tiếp." },
+        { "key": "D", "text": "Kĩ năng lập trình." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giao tiếp tốt giúp người làm nghề đặt câu hỏi đúng trọng tâm, lắng nghe và diễn giải lại để nắm chính xác hiện tượng mà khách hàng gặp phải. Quản lí thời gian và học hỏi kiến thức không giải quyết việc trao đổi thông tin nên A, B sai; lập trình không nằm trong bốn kĩ năng mềm của nghề nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["đào tạo", "hướng nghiệp"],
+      "content": "Nhận định nào đúng khi so sánh đào tạo nghề sửa chữa, bảo trì ở bậc Cao đẳng và bậc Đại học?",
+      "options": [
+        { "key": "A", "text": "Bậc Đại học chú trọng rèn kĩ năng sửa chữa thiết bị cụ thể nhiều hơn bậc Cao đẳng." },
+        { "key": "B", "text": "Hai bậc đào tạo hoàn toàn giống nhau về nội dung và mức độ thực hành." },
+        { "key": "C", "text": "Bậc Cao đẳng chỉ dạy lí thuyết, không có giờ thực hành thiết bị." },
+        { "key": "D", "text": "Bậc Cao đẳng thường có nhiều điều kiện bảo đảm mức độ thành thạo; bậc Đại học ít chú ý kĩ năng sửa chữa thiết bị cụ thể nhưng đào tạo tốt về nguyên lí hoạt động." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 19 nêu trường dạy nghề ở bậc Cao đẳng thường có nhiều điều kiện hơn để bảo đảm mức độ thành thạo, còn bậc Đại học ít chú ý kĩ năng sửa chữa thiết bị cụ thể nhưng sinh viên được đào tạo tốt về nguyên lí hoạt động. Vì vậy A nói ngược lại; B sai vì hai bậc có định hướng khác nhau; C sai vì Cao đẳng là bậc đào tạo nghề gắn với thực hành."
+    },
+    {
+      "id": "tinhoc12-b19-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["tổ chức công việc", "chuyên trách"],
+      "content": "Vì sao các đơn vị sửa chữa, bảo trì thường phân công chuyên trách cho từng chuyên viên?",
+      "options": [
+        { "key": "A", "text": "Vì không ai có thể sửa chữa và bảo trì thành thạo mọi thiết bị công nghệ thông tin, nên mỗi người phụ trách chuyên sâu một số mảng thiết bị và phần mềm." },
+        { "key": "B", "text": "Vì mọi chuyên viên đều có trình độ như nhau nên chỉ cần chia đều số việc." },
+        { "key": "C", "text": "Vì quy định của nhà nước buộc mỗi chuyên viên chỉ được sửa một loại thiết bị." },
+        { "key": "D", "text": "Vì phân công chuyên trách giúp giảm số kĩ năng mềm mà người làm nghề cần có." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chủng loại thiết bị công nghệ thông tin rất đa dạng nên không ai thành thạo tất cả; phân công chuyên trách giúp mỗi người đi sâu vào một số mảng và xử lí hiệu quả hơn. Trình độ chuyên viên không giống nhau nên B sai; không có quy định nào giới hạn mỗi người chỉ sửa một loại thiết bị nên C sai; kĩ năng mềm vẫn bắt buộc với mọi người nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["báo cáo vận dụng", "yêu cầu bài học"],
+      "content": "Báo cáo vận dụng của Bài 19 được trình bày ngắn gọn trong phạm vi nào?",
+      "options": [
+        { "key": "A", "text": "Tối đa 1 trang A3." },
+        { "key": "B", "text": "Tối đa 1 trang A4." },
+        { "key": "C", "text": "Tối thiểu 3 trang A4." },
+        { "key": "D", "text": "Không giới hạn số trang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Yêu cầu của bài là trình bày báo cáo vận dụng ngắn gọn trong tối đa 1 trang A4 để tập trung vào nội dung cốt lõi. Các phương án nêu khổ A3, tối thiểu 3 trang hoặc không giới hạn đều sai vì vượt quá phạm vi bài yêu cầu."
+    },
+    {
+      "id": "tinhoc12-b19-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["phần mềm", "cập nhật"],
+      "content": "Việc cập nhật bản vá hệ điều hành và cập nhật driver cho máy tính thuộc nhóm công việc nào trong nghề sửa chữa, bảo trì?",
+      "options": [
+        { "key": "A", "text": "Nhóm công việc liên quan tới phần cứng." },
+        { "key": "B", "text": "Nhóm công việc thiết kế đồ hoạ." },
+        { "key": "C", "text": "Nhóm công việc đào tạo người dùng." },
+        { "key": "D", "text": "Nhóm công việc liên quan tới phần mềm." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bản vá hệ điều hành và driver đều là phần mềm, trong đó driver là phần mềm giúp hệ điều hành điều khiển thiết bị, nên công việc này thuộc nhóm liên quan tới phần mềm. Cập nhật phần mềm không phải thay linh kiện nên A sai; thiết kế đồ hoạ và đào tạo người dùng là công việc khác hẳn nên B, C sai."
+    },
+    {
+      "id": "tinhoc12-b19-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["bảo trì phần cứng", "vệ sinh máy"],
+      "content": "Việc vệ sinh máy, tra keo tản nhiệt và kiểm tra quạt làm mát thuộc công việc nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Xử lí sự cố phần mềm độc hại." },
+        { "key": "B", "text": "Sao lưu và phục hồi dữ liệu." },
+        { "key": "C", "text": "Bảo trì phần cứng định kì." },
+        { "key": "D", "text": "Thiết lập chính sách bảo mật cho tổ chức." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vệ sinh máy, tra keo tản nhiệt, kiểm tra quạt là những việc làm trực tiếp trên linh kiện nhằm giữ máy chạy ổn định, thuộc bảo trì phần cứng định kì. Đây không phải xử lí mã độc, không liên quan sao lưu dữ liệu và không phải thiết lập chính sách bảo mật nên A, B, D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["quy trình", "sao lưu dữ liệu"],
+      "content": "Trước khi can thiệp phần cứng của máy khách hàng, việc nào nên làm để hạn chế rủi ro mất dữ liệu?",
+      "options": [
+        { "key": "A", "text": "Sao lưu dữ liệu quan trọng nếu máy vẫn còn đọc được." },
+        { "key": "B", "text": "Tháo ngay ổ cứng ra khỏi máy để kiểm tra." },
+        { "key": "C", "text": "Cài lại hệ điều hành cho máy chạy nhanh hơn." },
+        { "key": "D", "text": "Xoá các tệp tạm để giải phóng dung lượng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sao lưu trước khi tháo lắp là cách đơn giản nhất để dữ liệu khách hàng không bị mất nếu quá trình sửa gặp sự cố. Tháo ổ cứng ngay khi chưa sao lưu làm tăng rủi ro nên B sai; cài lại hệ điều hành có thể xoá dữ liệu nên C sai; xoá tệp tạm không bảo vệ được dữ liệu quan trọng và còn làm mất dấu vết chẩn đoán nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["bảo trì định kì", "phòng ngừa sự cố"],
+      "content": "Vì sao bảo trì định kì lại quan trọng với một máy tính đang hoạt động tốt?",
+      "options": [
+        { "key": "A", "text": "Vì bảo trì định kì làm tăng dung lượng ổ cứng của máy." },
+        { "key": "B", "text": "Vì bảo trì định kì giúp phát hiện sớm dấu hiệu hỏng hóc và giảm nguy cơ sự cố bất ngờ." },
+        { "key": "C", "text": "Vì không bảo trì định kì thì máy sẽ mất bản quyền hệ điều hành." },
+        { "key": "D", "text": "Vì bảo trì định kì thay thế hoàn toàn việc sao lưu dữ liệu." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảo trì định kì là làm chủ động: kiểm tra, vệ sinh, cập nhật để phát hiện dấu hiệu xuống cấp trước khi thành hỏng hóc lớn. Bảo trì không làm tăng dung lượng ổ cứng nên A sai; bản quyền phần mềm không phụ thuộc việc bảo trì nên C sai; sao lưu dữ liệu vẫn phải làm riêng nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["quy trình sửa chữa", "kiểm tra sau sửa"],
+      "content": "Sau khi sửa xong một máy, bước nào cần làm trước khi bàn giao cho khách hàng?",
+      "options": [
+        { "key": "A", "text": "Chạy thử các chức năng chính để kiểm tra máy hoạt động ổn định." },
+        { "key": "B", "text": "Xoá toàn bộ dữ liệu của khách hàng để bảo mật." },
+        { "key": "C", "text": "Gỡ hệ điều hành để khách hàng tự cài lại." },
+        { "key": "D", "text": "Thay thêm linh kiện mới dù máy đã chạy tốt." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chạy thử là bước bắt buộc để chắc chắn sự cố đã được khắc phục và không phát sinh lỗi mới trước khi giao máy. Xoá dữ liệu khách hàng là hành vi gây thiệt hại nên B sai; gỡ hệ điều hành khiến máy không dùng được nên C sai; thay linh kiện không cần thiết làm tăng chi phí vô ích nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["phần mềm", "xử lí sự cố"],
+      "content": "Khi máy tính khởi động chậm, công việc nào sau đây thuộc nhóm xử lí phần mềm?",
+      "options": [
+        { "key": "A", "text": "Thay ổ cứng bằng ổ cứng có dung lượng lớn hơn." },
+        { "key": "B", "text": "Bổ sung thêm một thanh RAM." },
+        { "key": "C", "text": "Rà soát các phần mềm khởi động cùng hệ thống và quét mã độc." },
+        { "key": "D", "text": "Thay quạt tản nhiệt bị kêu to." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhiều phần mềm tự khởi động cùng hệ thống hoặc có mã độc là nguyên nhân phần mềm phổ biến làm máy chậm, nên rà soát và quét mã độc là việc xử lí phần mềm. Thay ổ cứng, bổ sung RAM, thay quạt đều là can thiệp linh kiện nên A, B, D thuộc nhóm xử lí phần cứng."
+    },
+    {
+      "id": "tinhoc12-b19-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["kĩ năng mềm", "học hỏi"],
+      "content": "Người làm nghề sửa chữa, bảo trì cần kĩ năng mềm nào để tự tìm hiểu công nghệ, thiết bị mới khi gặp loại máy chưa từng sửa?",
+      "options": [
+        { "key": "A", "text": "Kĩ năng quản lí thời gian." },
+        { "key": "B", "text": "Kĩ năng học hỏi, cập nhật kiến thức." },
+        { "key": "C", "text": "Kĩ năng giao tiếp." },
+        { "key": "D", "text": "Kĩ năng trang trí đồ hoạ." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Công nghệ thay đổi liên tục nên người làm nghề phải chủ động đọc tài liệu, học thiết bị mới, đó chính là kĩ năng học hỏi và cập nhật kiến thức. Quản lí thời gian và giao tiếp không giúp nắm công nghệ mới nên A, C sai; trang trí đồ hoạ không thuộc bốn kĩ năng mềm của nghề nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["phần cứng", "phần mềm", "hệ thống"],
+      "content": "Vì sao nói sửa chữa, bảo trì phần cứng không tách rời việc duy trì phần mềm đi kèm?",
+      "options": [
+        { "key": "A", "text": "Vì phần cứng và phần mềm là hai lĩnh vực hoàn toàn độc lập, không liên quan tới nhau." },
+        { "key": "B", "text": "Vì mọi hỏng hóc của máy tính đều do phần mềm gây ra." },
+        { "key": "C", "text": "Vì chỉ cần cài lại phần mềm là mọi lỗi phần cứng đều được khắc phục." },
+        { "key": "D", "text": "Vì một hệ thống chỉ hoạt động ổn định khi cả thiết bị và phần mềm điều khiển nó đều ở trạng thái tốt." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thiết bị chỉ dùng được khi hệ điều hành, driver và ứng dụng đi kèm hoạt động đúng, nên bảo trì phần cứng luôn gắn với duy trì phần mềm và môi trường hoạt động. A nói ngược với thực tế; không phải mọi hỏng hóc đều do phần mềm nên B sai; cài lại phần mềm không sửa được linh kiện hỏng nên C sai."
+    },
+    {
+      "id": "tinhoc12-b19-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["driver", "xử lí sự cố"],
+      "content": "Một máy tính không nhận được máy in sau khi vừa cài lại hệ điều hành. Hướng xử lí nào phù hợp nhất?",
+      "options": [
+        { "key": "A", "text": "Thay màn hình của máy tính." },
+        { "key": "B", "text": "Thay nguồn máy tính vì cho rằng nguồn đã hỏng." },
+        { "key": "C", "text": "Cài driver cho máy in rồi kiểm tra lại kết nối." },
+        { "key": "D", "text": "Tăng dung lượng RAM cho máy tính." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sau khi cài lại hệ điều hành, driver của máy in thường chưa có nên hệ điều hành không điều khiển được thiết bị; cài driver đúng phiên bản là cách xử lí trực tiếp. Màn hình, nguồn, RAM không liên quan tới việc nhận máy in nên A, B, D đều là thay linh kiện không cần thiết."
+    },
+    {
+      "id": "tinhoc12-b19-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["bảo trì", "sửa chữa"],
+      "content": "Bảo trì khác sửa chữa ở điểm nào?",
+      "options": [
+        { "key": "A", "text": "Bảo trì là công việc chủ động làm định kì để máy hoạt động tốt, còn sửa chữa là khắc phục khi thiết bị hoặc phần mềm đã gặp sự cố." },
+        { "key": "B", "text": "Bảo trì chỉ áp dụng cho phần mềm, sửa chữa chỉ áp dụng cho phần cứng." },
+        { "key": "C", "text": "Bảo trì chỉ làm khi máy đã hỏng, còn sửa chữa là việc làm định kì." },
+        { "key": "D", "text": "Bảo trì và sửa chữa là hai tên gọi của cùng một công việc." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo trì nhằm giữ máy ở trạng thái tốt và được làm theo kế hoạch, còn sửa chữa diễn ra khi đã có sự cố cần khắc phục. Cả hai đều áp dụng cho phần cứng lẫn phần mềm nên B sai; C đảo ngược vai trò của hai công việc nên sai; hai khái niệm khác nhau nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["giao tiếp", "tư vấn khách hàng"],
+      "content": "Khi phát hiện máy tính của khách hàng cần thay một linh kiện đắt tiền, người làm nghề nên làm gì?",
+      "options": [
+        { "key": "A", "text": "Tự thay linh kiện rồi báo giá sau khi đã hoàn thành." },
+        { "key": "B", "text": "Từ chối sửa vì công việc quá khó." },
+        { "key": "C", "text": "Thay bằng linh kiện đã qua sử dụng mà không thông báo." },
+        { "key": "D", "text": "Trao đổi với khách hàng về nguyên nhân, phương án sửa hoặc thay và chi phí dự kiến trước khi thực hiện." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trao đổi trước giúp khách hàng hiểu nguyên nhân, lựa chọn phương án phù hợp và chủ động về chi phí, đồng thời thể hiện kĩ năng giao tiếp của người làm nghề. Tự thay rồi báo giá sau là ép khách hàng chấp nhận nên A sai; từ chối vì khó là thiếu trách nhiệm nên B sai; thay linh kiện cũ mà không thông báo là gian dối nên C sai."
+    },
+    {
+      "id": "tinhoc12-b19-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["kĩ năng mềm", "giải quyết vấn đề"],
+      "content": "Kĩ năng mềm nào giúp người làm nghề tìm ra cách khắc phục khi gặp sự cố chưa có trong tài liệu hướng dẫn?",
+      "options": [
+        { "key": "A", "text": "Kĩ năng quản lí thời gian." },
+        { "key": "B", "text": "Kĩ năng giải quyết vấn đề." },
+        { "key": "C", "text": "Kĩ năng giao tiếp." },
+        { "key": "D", "text": "Kĩ năng thuyết trình." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giải quyết vấn đề là khả năng phân tích hiện tượng, đặt giả thuyết, thử nghiệm và chọn cách khắc phục, rất cần khi sự cố chưa có trong tài liệu. Quản lí thời gian chỉ giúp sắp xếp tiến độ nên A sai; giao tiếp giúp trao đổi nhưng không trực tiếp tìm ra cách sửa nên C sai; thuyết trình không nằm trong bốn kĩ năng mềm của nghề nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["phần mềm", "hệ điều hành"],
+      "content": "Hệ điều hành và các ứng dụng văn phòng thuộc thành phần nào của máy tính?",
+      "options": [
+        { "key": "A", "text": "Phần cứng." },
+        { "key": "B", "text": "Thiết bị ngoại vi." },
+        { "key": "C", "text": "Phần mềm." },
+        { "key": "D", "text": "Linh kiện điện tử." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hệ điều hành và ứng dụng văn phòng là các chương trình chạy trên máy nên thuộc phần mềm; hệ điều hành là phần mềm hệ thống, ứng dụng văn phòng là phần mềm ứng dụng. Phần cứng và linh kiện điện tử là các bộ phận vật lí nên A, D sai; thiết bị ngoại vi như bàn phím, chuột, máy in cũng là phần cứng nên B sai."
+    },
+    {
+      "id": "tinhoc12-b19-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["chẩn đoán", "kiến thức nghề"],
+      "content": "Vì sao một chuyên viên sửa chữa cần hiểu cả phần cứng lẫn phần mềm?",
+      "options": [
+        { "key": "A", "text": "Vì cùng một hiện tượng như máy chạy chậm có thể do linh kiện xuống cấp hoặc do phần mềm, mã độc, nên cần phân biệt đúng nguyên nhân." },
+        { "key": "B", "text": "Vì phần cứng và phần mềm luôn hỏng cùng một lúc." },
+        { "key": "C", "text": "Vì mọi khách hàng đều yêu cầu thay linh kiện mới." },
+        { "key": "D", "text": "Vì chỉ cần biết phần mềm là đủ để thay thế linh kiện." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhiều hiện tượng có nguyên nhân khác nhau, chỉ khi hiểu cả hai phía mới chẩn đoán đúng và tránh thay linh kiện không cần thiết. Phần cứng và phần mềm không hỏng đồng thời nên B sai; không phải khách hàng nào cũng đòi thay linh kiện nên C sai; thay linh kiện đòi hỏi kiến thức phần cứng nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["biên bản bàn giao", "trách nhiệm nghề"],
+      "content": "Biên bản bàn giao sau khi sửa chữa có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Thay thế cho việc kiểm tra máy trước khi bàn giao." },
+        { "key": "B", "text": "Ghi nhận tình trạng máy, việc đã làm và linh kiện đã thay để hai bên đối chiếu khi cần." },
+        { "key": "C", "text": "Cho phép bỏ qua bước sao lưu dữ liệu." },
+        { "key": "D", "text": "Là tài liệu bắt buộc phải gửi lên cơ quan quản lí nhà nước." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Biên bản ghi lại tình trạng trước và sau khi sửa, các việc đã thực hiện và linh kiện đã thay, nhờ đó hai bên có căn cứ đối chiếu khi phát sinh thắc mắc. Giấy tờ không thay được việc kiểm tra máy nên A sai; sao lưu vẫn phải làm trước khi can thiệp nên C sai; biên bản bàn giao là thoả thuận giữa hai bên, không phải hồ sơ nộp cơ quan nhà nước nên D sai."
+    },
+    {
+      "id": "tinhoc12-b19-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["yêu cầu nghề", "thành thạo"],
+      "content": "Theo Bài 19, yếu tố nào được xem là quan trọng nhất trong công việc sửa chữa, bảo trì?",
+      "options": [
+        { "key": "A", "text": "Số lượng thiết bị đã sửa được trong một ngày." },
+        { "key": "B", "text": "Giá dịch vụ thấp nhất trên thị trường." },
+        { "key": "C", "text": "Thời gian hoàn thành càng nhanh càng tốt, không cần kiểm tra lại." },
+        { "key": "D", "text": "Mức độ thành thạo trong công việc." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 19 nhấn mạnh mức độ thành thạo trong công việc là yếu tố quan trọng nhất, và đây cũng là căn cứ để đánh giá các bậc đào tạo nghề. Số lượng thiết bị sửa trong ngày không nói lên chất lượng nên A sai; giá thấp không bảo đảm máy được sửa đúng nên B sai; làm nhanh mà bỏ qua kiểm tra dễ khiến sự cố tái diễn nên C sai."
+    },
+    {
+      "id": "tinhoc12-b19-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["nhận định đúng sai", "kĩ năng mềm", "chuyên trách"],
+      "content": "Những nhận định nào sau đây đúng về yêu cầu đối với người làm nghề sửa chữa, bảo trì máy tính?",
+      "options": [
+        { "key": "A", "text": "Cần kĩ năng giao tiếp để hiểu đúng yêu cầu của khách hàng và giải thích phương án xử lí." },
+        { "key": "B", "text": "Cần kĩ năng quản lí thời gian để hoàn thành dự án sửa chữa, bảo trì đúng thời hạn." },
+        { "key": "C", "text": "Chỉ cần kiến thức về phần cứng, không cần kiến thức về phần mềm." },
+        { "key": "D", "text": "Các đơn vị thường phân công chuyên trách vì không ai có thể thành thạo mọi thiết bị công nghệ thông tin." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B, D đúng: giao tiếp và quản lí thời gian là hai trong bốn kĩ năng mềm của nghề, còn phân công chuyên trách xuất phát từ việc chủng loại thiết bị quá đa dạng. C sai vì nghề yêu cầu kiến thức cả phần cứng, phần mềm và môi trường hoạt động của hệ thống."
+    },
+    {
+      "id": "tinhoc12-b19-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["nhận định đúng sai", "quy trình", "bảo trì định kì"],
+      "content": "Những nhận định nào sau đây đúng về quy trình sửa chữa và bảo trì máy tính?",
+      "options": [
+        { "key": "A", "text": "Sao lưu dữ liệu quan trọng trước khi can thiệp phần cứng giúp hạn chế rủi ro mất dữ liệu." },
+        { "key": "B", "text": "Bảo trì định kì giúp phát hiện sớm dấu hiệu hỏng hóc của máy." },
+        { "key": "C", "text": "Sau khi sửa xong không cần chạy thử vì khách hàng sẽ tự kiểm tra." },
+        { "key": "D", "text": "Bảo trì định kì làm giảm dung lượng ổ cứng của máy." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng: sao lưu trước khi tháo lắp là biện pháp phòng ngừa mất dữ liệu, còn bảo trì định kì giúp phát hiện sớm dấu hiệu xuống cấp. C sai vì người làm nghề phải chạy thử và kiểm tra trước khi bàn giao. D sai vì bảo trì không làm giảm dung lượng ổ cứng, ngược lại còn giúp máy hoạt động ổn định hơn."
+    },
+    {
+      "id": "tinhoc12-b19-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["nhận định đúng sai", "đào tạo", "hướng nghiệp"],
+      "content": "Những nhận định nào sau đây đúng về đào tạo và yêu cầu của nghề sửa chữa, bảo trì?",
+      "options": [
+        { "key": "A", "text": "Bậc Cao đẳng thường có nhiều điều kiện bảo đảm mức độ thành thạo tay nghề." },
+        { "key": "B", "text": "Bậc Đại học chú trọng kĩ năng sửa chữa thiết bị cụ thể hơn bậc Cao đẳng." },
+        { "key": "C", "text": "Bậc Đại học đào tạo tốt về nguyên lí hoạt động nên sinh viên có thể giải quyết các vấn đề phức tạp." },
+        { "key": "D", "text": "Mức độ thành thạo là yếu tố quan trọng trong công việc sửa chữa, bảo trì." }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "A, C, D đúng theo nội dung Bài 19: Cao đẳng có điều kiện hơn để bảo đảm thành thạo, Đại học mạnh về nguyên lí hoạt động nên xử lí được vấn đề phức tạp, và mức độ thành thạo là yếu tố quan trọng nhất của nghề. B sai vì bậc Đại học lại ít chú ý kĩ năng sửa chữa thiết bị cụ thể hơn bậc Cao đẳng."
+    },
+    {
+      "id": "tinhoc12-b19-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-sua-chua-bao-tri",
+      "tags": ["nhận định đúng sai", "chẩn đoán", "driver"],
+      "content": "Những nhận định nào sau đây đúng khi xử lí sự cố máy tính?",
+      "options": [
+        { "key": "A", "text": "Máy không nhận máy in ngay sau khi cài lại hệ điều hành có thể do thiếu driver của máy in." },
+        { "key": "B", "text": "Mọi hiện tượng máy chạy chậm đều phải xử lí bằng cách thay ổ cứng." },
+        { "key": "C", "text": "Cùng một hiện tượng có thể do phần cứng hoặc phần mềm nên cần chẩn đoán trước khi thay linh kiện." },
+        { "key": "D", "text": "Xoá dữ liệu của người dùng là bước bắt buộc trước khi sửa phần cứng." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng: driver là phần mềm giúp hệ điều hành điều khiển thiết bị nên thiếu driver thì máy in không được nhận; chẩn đoán đúng nguyên nhân giúp tránh thay linh kiện lãng phí. B sai vì máy chậm có thể do phần mềm, mã độc hoặc nhiều nguyên nhân khác. D sai vì phải bảo toàn dữ liệu khách hàng, chỉ sao lưu chứ không xoá."
+    }
+  ]
+}

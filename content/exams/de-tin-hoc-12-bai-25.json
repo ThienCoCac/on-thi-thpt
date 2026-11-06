@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-25",
+  "title": "Đề ôn tập Tin học 12 – Bài 25: Xây dựng phần thân và chân trang web",
+  "slug": "de-tin-hoc-12-bai-25",
+  "description": "Đề ôn tập Bài 25 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về xây dựng phần thân và chân trang web bằng Google Sites: bảng chọn Chèn với ba nhóm lệnh, chèn văn bản, hình ảnh, bản đồ và video, chỉnh sửa đối tượng đã chèn, tạo chân trang với thông tin bản quyền và liên hệ. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B25",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b25-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["bảng chọn Chèn", "phần thân trang"],
+      "content": "Trong cửa sổ thiết kế Google Sites, muốn đưa nội dung vào phần thân trang ta làm việc chủ yếu với bảng chọn nào?",
+      "options": [
+        { "key": "A", "text": "Bảng chọn Trang, vì bảng chọn này liệt kê toàn bộ nội dung của các trang." },
+        { "key": "B", "text": "Bảng chọn Giao diện, vì bảng chọn này chứa các khối nội dung." },
+        { "key": "C", "text": "Bảng chọn Chèn, vì các lệnh chèn nội dung vào thân trang nằm ở bảng chọn này." },
+        { "key": "D", "text": "Nút Công bố, vì mọi nội dung chỉ được thêm vào lúc xuất bản." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 25 hướng dẫn xây dựng phần thân trang thông qua bảng chọn Chèn, nơi tập hợp các lệnh chèn văn bản, hình ảnh và các đối tượng khác. Bảng chọn Trang dùng để quản lí danh sách trang, bảng chọn Giao diện dùng để đổi mẫu hiển thị, còn nút Công bố chỉ dùng để xuất bản trang web."
+    },
+    {
+      "id": "tinhoc12-b25-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["bảng chọn Chèn", "nhóm lệnh đầu tiên"],
+      "content": "Nhóm lệnh đầu tiên trong bảng chọn Chèn của Google Sites gồm những lệnh nào?",
+      "options": [
+        { "key": "A", "text": "Hộp văn bản, Hình ảnh, Nhúng, Drive." },
+        { "key": "B", "text": "Phần giữ chỗ, YouTube, Lịch, Bản đồ." },
+        { "key": "C", "text": "Sao chép trang, Thuộc tính, Thêm trang con." },
+        { "key": "D", "text": "Mục lục, Bảng chuyển hình ảnh, Liên kết." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhóm lệnh đầu tiên của bảng chọn Chèn gồm Hộp văn bản, Hình ảnh, Nhúng và Drive, tức các lệnh chèn nhanh những đối tượng thường dùng. Ba phương án còn lại trộn lẫn thành phần nội dung, lệnh quản lí trang và các đối tượng của nhóm lệnh thứ ba nên không đúng."
+    },
+    {
+      "id": "tinhoc12-b25-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["lệnh Drive", "chèn tư liệu"],
+      "content": "Lệnh Drive trong bảng chọn Chèn được dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Chèn một bản đồ vị trí vào giữa trang." },
+        { "key": "B", "text": "Nhúng dữ liệu từ các ứng dụng Internet khác như thời tiết, âm nhạc." },
+        { "key": "C", "text": "Xuất bản trang web lên Google Drive để lưu trữ." },
+        { "key": "D", "text": "Chèn văn bản, hình ảnh, video hay tư liệu tạo bằng ứng dụng Google đang lưu trên Google Drive." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Lệnh Drive lấy tư liệu từ Google Drive: văn bản, hình ảnh, video hay sản phẩm của các ứng dụng Google đang lưu ở đó. Nhúng dữ liệu từ ứng dụng Internet khác là việc của lệnh Nhúng; chèn bản đồ có lệnh Bản đồ; còn xuất bản trang web là chức năng của nút Công bố."
+    },
+    {
+      "id": "tinhoc12-b25-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["lệnh Nhúng", "nhúng dữ liệu"],
+      "content": "Lệnh Nhúng trong bảng chọn Chèn có tác dụng nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Chèn tư liệu đang lưu trên Google Drive vào trang." },
+        { "key": "B", "text": "Chèn dữ liệu nhúng từ ứng dụng Internet khác, chẳng hạn thời tiết hay âm nhạc." },
+        { "key": "C", "text": "Tạo một khối văn bản có thể thu gọn trong thân trang." },
+        { "key": "D", "text": "Tải toàn bộ trang web lên máy chủ của Google." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lệnh Nhúng dùng để đưa vào trang những dữ liệu nhúng từ ứng dụng Internet khác như thời tiết, âm nhạc. Chèn tư liệu trên Drive là lệnh Drive; khối văn bản thu gọn nằm ở nhóm lệnh thứ ba; việc đưa trang lên máy chủ do nút Công bố đảm nhiệm chứ không phải lệnh Nhúng."
+    },
+    {
+      "id": "tinhoc12-b25-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["chèn bản đồ", "Google Maps"],
+      "content": "Muốn đưa nhanh một bản đồ Google Maps vào phần thân trang, ta dùng lệnh nào?",
+      "options": [
+        { "key": "A", "text": "Lệnh Bản đồ ở nhóm lệnh thứ ba của bảng chọn Chèn." },
+        { "key": "B", "text": "Lệnh Hộp văn bản rồi dán địa chỉ của địa điểm vào." },
+        { "key": "C", "text": "Lệnh Drive rồi chọn một tệp ảnh chụp bản đồ." },
+        { "key": "D", "text": "Lệnh Liên kết rồi trỏ tới trang Google Maps." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chèn bản đồ thực chất là nhúng một ứng dụng bản đồ, và để nhúng Google Maps ta chọn lệnh Bản đồ ở nhóm lệnh thứ ba của bảng chọn Chèn, sau đó xác định vị trí trong cửa sổ Chọn bản đồ. Hộp văn bản chỉ nhận chữ, Drive chỉ lấy tệp đã lưu, còn Liên kết chỉ tạo đường dẫn chứ không hiển thị bản đồ trên trang."
+    },
+    {
+      "id": "tinhoc12-b25-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["cửa sổ Chọn bản đồ", "xác định vị trí"],
+      "content": "Trong cửa sổ Chọn bản đồ, ngoài việc gõ địa điểm vào ô Nhập vị trí, ta còn có thể làm gì để xác định vị trí cần hiển thị?",
+      "options": [
+        { "key": "A", "text": "Chỉ có thể chọn trong danh sách các địa điểm mà Google Maps gợi ý sẵn." },
+        { "key": "B", "text": "Phải tải ảnh bản đồ từ Drive lên rồi đánh dấu bằng tay." },
+        { "key": "C", "text": "Nháy nút Đặt dấu vị trí để chọn địa điểm bằng cách nháy chuột, đồng thời chuyển được giữa chế độ Bản đồ và Vệ tinh." },
+        { "key": "D", "text": "Buộc phải nhập toạ độ số của địa điểm thay cho tên địa điểm." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ngoài ô Nhập vị trí, cửa sổ Chọn bản đồ còn có nút Đặt dấu vị trí để xác định địa điểm bằng thao tác nháy chuột, và cho phép chuyển giữa chế độ Bản đồ và Vệ tinh. Vì vậy các phương án nói phải gõ toạ độ, phải tải ảnh từ Drive hay chỉ chọn trong danh sách gợi ý đều sai."
+    },
+    {
+      "id": "tinhoc12-b25-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["chỉnh sửa đối tượng", "kéo thả"],
+      "content": "Sau khi đã chèn một hình ảnh vào thân trang, muốn đổi kích thước hoặc di chuyển hình ảnh đó ta thực hiện thế nào?",
+      "options": [
+        { "key": "A", "text": "Mở bảng chọn Chèn rồi chọn lại lệnh Hình ảnh để đặt hình ở vị trí mới." },
+        { "key": "B", "text": "Chọn đối tượng rồi kéo thả để đổi kích thước và di chuyển." },
+        { "key": "C", "text": "Mở cửa sổ Cài đặt, mục Điều hướng rồi chỉnh kích thước." },
+        { "key": "D", "text": "Nháy nút Công bố để Google Sites tự sắp xếp lại hình ảnh." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách hướng dẫn chọn đối tượng đã chèn rồi kéo thả để thay đổi kích thước và di chuyển đối tượng. Chèn lại hình ảnh chỉ tạo thêm một đối tượng mới; mục Điều hướng liên quan tới bảng chọn trên thanh điều hướng; nút Công bố chỉ xuất bản trang nên A, C, D đều sai."
+    },
+    {
+      "id": "tinhoc12-b25-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["bảng chọn tắt", "sao chép đối tượng"],
+      "content": "Muốn sao chép hoặc xoá một đối tượng đã chèn vào trang, thao tác theo sách là gì?",
+      "options": [
+        { "key": "A", "text": "Nhấn giữ phím Ctrl và kéo thả đối tượng sang vị trí khác." },
+        { "key": "B", "text": "Mở hộp thoại Thuộc tính của trang rồi chọn lệnh tương ứng." },
+        { "key": "C", "text": "Xuất bản trang rồi sửa trực tiếp tệp trong Google Drive." },
+        { "key": "D", "text": "Chọn đối tượng rồi nháy nút sao chép hoặc nút xoá trên bảng chọn tắt vừa hiện ra." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Khi chọn một đối tượng, bảng chọn tắt của đối tượng hiện ra với nút sao chép và nút xoá; nháy nút cần dùng để thực hiện thao tác. Ctrl kéo thả, hộp thoại Thuộc tính và việc sửa tệp trong Drive đều không phải cách sách hướng dẫn cho hai thao tác này."
+    },
+    {
+      "id": "tinhoc12-b25-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["undo", "redo"],
+      "content": "Vừa lỡ tay xoá mất một khối nội dung quan trọng trong phần thân trang. Cách xử lí nào đúng theo bài học?",
+      "options": [
+        { "key": "A", "text": "Dùng biểu tượng undo trên thanh trên cùng để huỷ bỏ lệnh vừa thực hiện, và có thể dùng redo để làm lại khi cần." },
+        { "key": "B", "text": "Không thể khôi phục, buộc phải chèn và nhập lại khối nội dung từ đầu." },
+        { "key": "C", "text": "Phải công bố lại trang rồi mở trang bằng trình duyệt khác." },
+        { "key": "D", "text": "Phải nhúng lại toàn bộ trang vào Google Drive rồi tải xuống." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài học lưu ý có thể huỷ bỏ một lệnh vừa thực hiện bằng undo và thực hiện lại một lệnh trước đó bằng redo nhờ hai biểu tượng trên thanh trên cùng. Vì vậy không cần nhập lại từ đầu, cũng không phải công bố lại hay nhúng lại trang."
+    },
+    {
+      "id": "tinhoc12-b25-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["chân trang", "thông tin bản quyền"],
+      "content": "Nội dung phổ biến nhất của phần chân trang là gì?",
+      "options": [
+        { "key": "A", "text": "Thanh điều hướng và chức năng tìm kiếm của website." },
+        { "key": "B", "text": "Toàn bộ nội dung các bài viết chuyên đề của trang." },
+        { "key": "C", "text": "Tuyên bố về bản quyền và thông tin liên lạc như địa chỉ email, số điện thoại." },
+        { "key": "D", "text": "Bộ câu hỏi của biểu mẫu lấy ý kiến người xem." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu nội dung phổ biến nhất của chân trang là tuyên bố về bản quyền và thông tin liên lạc; ngoài ra có thể chèn liên kết tới mạng xã hội của chủ thể. Thanh điều hướng thuộc phần đầu trang, bài viết và biểu mẫu thuộc phần thân trang nên A, B, D sai."
+    },
+    {
+      "id": "tinhoc12-b25-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["thêm chân trang", "thao tác Google Sites"],
+      "content": "Không gian dành cho phần chân trang trong Google Sites được mở bằng cách nào?",
+      "options": [
+        { "key": "A", "text": "Chọn lệnh Bản đồ ở nhóm lệnh thứ ba của bảng chọn Chèn." },
+        { "key": "B", "text": "Di chuyển xuống cuối trang rồi nháy nút Thêm chân trang." },
+        { "key": "C", "text": "Mở bảng chọn Trang rồi chọn Thuộc tính của Trang chủ." },
+        { "key": "D", "text": "Chọn Loại tiêu đề là Chỉ có tiêu đề trong phần đầu trang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Di chuyển xuống cuối trang sẽ thấy nút Thêm chân trang; nháy vào nút đó để xuất hiện không gian chân trang. Các phương án còn lại nhắc tới lệnh chèn bản đồ, thuộc tính trang và kiểu đầu trang, đều không liên quan tới việc mở chân trang."
+    },
+    {
+      "id": "tinhoc12-b25-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["chân trang", "khối văn bản"],
+      "content": "Sau khi nháy nút Thêm chân trang, ta làm gì để hoàn thiện chân trang?",
+      "options": [
+        { "key": "A", "text": "Chờ Google Sites tự điền sẵn dòng tuyên bố bản quyền rồi công bố trang." },
+        { "key": "B", "text": "Chỉ nhập được một dòng chữ duy nhất, không chèn thêm được liên kết." },
+        { "key": "C", "text": "Chèn các khối văn bản vào không gian chân trang và sắp xếp chúng theo ý muốn." },
+        { "key": "D", "text": "Chuyển toàn bộ chân trang sang phần đầu trang để hiển thị." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sau khi chân trang xuất hiện, ta chèn các khối văn bản như dòng bản quyền, địa chỉ liên hệ hay liên kết mạng xã hội rồi sắp xếp theo ý muốn. Google Sites không tự điền nội dung, chân trang chứa được nhiều khối chứ không chỉ một dòng, và việc chuyển chân trang lên đầu trang không phải thao tác của bài."
+    },
+    {
+      "id": "tinhoc12-b25-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["bảng chọn Chèn", "nhóm lệnh"],
+      "content": "Lệnh nào sau đây KHÔNG nằm trong nhóm lệnh đầu tiên của bảng chọn Chèn?",
+      "options": [
+        { "key": "A", "text": "Hộp văn bản." },
+        { "key": "B", "text": "Hình ảnh." },
+        { "key": "C", "text": "Drive." },
+        { "key": "D", "text": "Mục lục." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhóm lệnh đầu tiên gồm Hộp văn bản, Hình ảnh, Nhúng và Drive nên ba lệnh này đều thuộc nhóm một. Mục lục là đối tượng nằm ở nhóm lệnh thứ ba, cùng với khối văn bản thu gọn, bảng chuyển hình ảnh, bản đồ, video YouTube và liên kết."
+    },
+    {
+      "id": "tinhoc12-b25-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["phần thân trang", "cấu trúc trang"],
+      "content": "Theo cách phân chia một trang web thành các phần, phần thân trang chứa gì?",
+      "options": [
+        { "key": "A", "text": "Nội dung của trang, tức phần thông tin chính mà người xem cần đọc." },
+        { "key": "B", "text": "Thông tin bản quyền và thông tin liên lạc của chủ thể." },
+        { "key": "C", "text": "Bảng chọn giúp người xem đi tới các trang khác của website." },
+        { "key": "D", "text": "Dải thông báo ngắn đặt trước phần đầu trang." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong ba phần của trang web, phần thân trang là nơi chứa nội dung của trang. Bản quyền và thông tin liên lạc thuộc chân trang, bảng chọn thuộc phần đầu trang, còn dải thông báo là phần thông báo đặt trước phần đầu trang nên B, C, D sai."
+    },
+    {
+      "id": "tinhoc12-b25-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["video YouTube", "nhóm lệnh thứ ba"],
+      "content": "Muốn chèn một video có sẵn trên YouTube vào phần thân trang, ta dùng cách nào?",
+      "options": [
+        { "key": "A", "text": "Dùng lệnh Hộp văn bản rồi dán đường liên kết của video vào khối chữ." },
+        { "key": "B", "text": "Dùng lệnh YouTube ở nhóm lệnh thứ ba của bảng chọn Chèn, sau đó chọn video cần chèn." },
+        { "key": "C", "text": "Dùng lệnh Hình ảnh rồi chọn ảnh đại diện của video." },
+        { "key": "D", "text": "Dùng lệnh Drive rồi chọn tệp video đã tải lên Drive." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Video từ YouTube là một trong các đối tượng của nhóm lệnh thứ ba trong bảng chọn Chèn, nên ta chọn lệnh YouTube rồi chọn video. Hộp văn bản chỉ tạo chữ, Hình ảnh chỉ chèn ảnh tĩnh, còn Drive dùng cho tệp đã lưu trên Drive chứ không lấy video từ YouTube."
+    },
+    {
+      "id": "tinhoc12-b25-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["chân trang", "mạng xã hội"],
+      "content": "Ngoài tuyên bố bản quyền và thông tin liên lạc, phần chân trang còn có thể chứa nội dung nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Biểu mẫu thu thập ý kiến của người xem." },
+        { "key": "B", "text": "Mục lục tự động của toàn bộ website." },
+        { "key": "C", "text": "Bảng chuyển hình ảnh quảng bá sản phẩm." },
+        { "key": "D", "text": "Liên kết tới các trang mạng xã hội của chủ thể." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu chân trang có thể chứa liên kết tới mạng xã hội của chủ thể website bên cạnh dòng bản quyền và thông tin liên lạc. Biểu mẫu, mục lục và bảng chuyển hình ảnh là những đối tượng chèn vào phần thân trang, không phải nội dung đặc trưng của chân trang."
+    },
+    {
+      "id": "tinhoc12-b25-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["lệnh Drive", "lệnh Nhúng"],
+      "content": "Phát biểu nào sau đây phân biệt đúng lệnh Drive và lệnh Nhúng trong bảng chọn Chèn?",
+      "options": [
+        { "key": "A", "text": "Cả hai lệnh đều chỉ chèn được hình ảnh đã lưu trên máy tính." },
+        { "key": "B", "text": "Drive dùng cho dữ liệu từ ứng dụng Internet khác, còn Nhúng dùng cho tệp trên Google Drive." },
+        { "key": "C", "text": "Drive chèn tư liệu của các ứng dụng Google đang lưu trên Drive, còn Nhúng chèn dữ liệu từ ứng dụng Internet khác như thời tiết, âm nhạc." },
+        { "key": "D", "text": "Hai lệnh hoàn toàn giống nhau nên chỉ cần dùng một lệnh là đủ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Drive lấy tư liệu đang lưu trên Google Drive, còn Nhúng đưa vào trang dữ liệu nhúng từ các ứng dụng Internet khác như thời tiết hay âm nhạc. Phương án B đảo ngược vai trò của hai lệnh; A thu hẹp sai chức năng; D phủ nhận sự khác biệt vốn có."
+    },
+    {
+      "id": "tinhoc12-b25-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["lệnh Nhúng", "tình huống thực hành"],
+      "content": "Website của lớp cần hiển thị dự báo thời tiết của thành phố ngay trong trang chủ. Nên dùng lệnh nào trong bảng chọn Chèn?",
+      "options": [
+        { "key": "A", "text": "Lệnh Nhúng." },
+        { "key": "B", "text": "Lệnh Hình ảnh." },
+        { "key": "C", "text": "Lệnh Bản đồ." },
+        { "key": "D", "text": "Nút Thêm chân trang." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dữ liệu thời tiết là dữ liệu nhúng từ một ứng dụng Internet khác, đúng chức năng của lệnh Nhúng. Hình ảnh chỉ chèn ảnh tĩnh nên không tự cập nhật; Bản đồ dùng cho vị trí địa lí; Thêm chân trang chỉ mở không gian chân trang chứ không đưa dữ liệu thời tiết vào."
+    },
+    {
+      "id": "tinhoc12-b25-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["cấu trúc trang", "chân trang"],
+      "content": "Phát biểu nào sau đây đúng về phần chân trang của một trang web?",
+      "options": [
+        { "key": "A", "text": "Chân trang là nơi chứa nội dung chính mà người xem cần đọc." },
+        { "key": "B", "text": "Chân trang chứa bảng chọn giúp đi tới các trang con." },
+        { "key": "C", "text": "Chân trang chỉ dùng để chứa hình nền và logo của website." },
+        { "key": "D", "text": "Chân trang chứa thông tin ngắn gọn về chủ thể và bản quyền của website." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chân trang được dành cho những thông tin ngắn gọn về chủ thể như bản quyền, bảo mật, liên hệ và liên kết mạng xã hội. Nội dung chính thuộc phần thân trang, bảng chọn thuộc phần đầu trang, còn logo và ảnh nền cũng là thành phần của phần đầu trang nên A, B, C sai."
+    },
+    {
+      "id": "tinhoc12-b25-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["chân trang", "nội dung không phù hợp"],
+      "content": "Thông tin nào sau đây thường KHÔNG được đặt ở phần chân trang?",
+      "options": [
+        { "key": "A", "text": "Dòng tuyên bố về bản quyền của website." },
+        { "key": "B", "text": "Toàn văn nội dung chi tiết của từng bài viết trong website." },
+        { "key": "C", "text": "Địa chỉ email và số điện thoại liên hệ." },
+        { "key": "D", "text": "Liên kết tới trang mạng xã hội của chủ thể." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chân trang chỉ dành cho thông tin ngắn gọn như bản quyền, liên hệ, liên kết mạng xã hội, còn toàn văn bài viết là nội dung của phần thân trang. Ba phương án còn lại đều là những nội dung phổ biến của chân trang theo bài học."
+    },
+    {
+      "id": "tinhoc12-b25-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["bảng chọn tắt", "đối tượng đã chèn"],
+      "content": "Khi chọn một đối tượng đã chèn trong phần thân trang, bảng chọn tắt hiện ra thường có những nút nào?",
+      "options": [
+        { "key": "A", "text": "Nút sao chép và nút xoá đối tượng." },
+        { "key": "B", "text": "Nút Công bố và nút Xem trước trang." },
+        { "key": "C", "text": "Nút Thêm chân trang và nút Thêm trang con." },
+        { "key": "D", "text": "Nút đổi mật khẩu và nút chia sẻ quyền chỉnh sửa." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảng chọn tắt của đối tượng có nút sao chép và nút xoá, đúng hai thao tác sách hướng dẫn cho đối tượng đã chèn. Công bố, Xem trước, Thêm chân trang, Thêm trang con và các nút về quyền truy cập đều không nằm trong bảng chọn tắt của đối tượng."
+    },
+    {
+      "id": "tinhoc12-b25-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["lệnh Drive", "tư liệu Google"],
+      "content": "Muốn đưa một tệp trình chiếu đang lưu trên Google Drive vào phần thân trang, ta dùng lệnh nào?",
+      "options": [
+        { "key": "A", "text": "Lệnh Hình ảnh." },
+        { "key": "B", "text": "Lệnh Bản đồ." },
+        { "key": "C", "text": "Lệnh Drive." },
+        { "key": "D", "text": "Nút Thêm chân trang." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Lệnh Drive chèn văn bản, hình ảnh, video hay tư liệu tạo bằng ứng dụng Google đang lưu trên Google Drive, nên tệp trình chiếu được chèn bằng lệnh này. Hình ảnh chỉ nhận ảnh, Bản đồ dùng cho vị trí địa lí, còn Thêm chân trang chỉ mở không gian chân trang."
+    },
+    {
+      "id": "tinhoc12-b25-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["bố cục thân trang", "nhiều đối tượng"],
+      "content": "Nhận định nào sau đây đúng về việc chèn nội dung vào phần thân trang?",
+      "options": [
+        { "key": "A", "text": "Mỗi trang chỉ được chèn duy nhất một đối tượng nội dung." },
+        { "key": "B", "text": "Chỉ chèn được văn bản, không chèn được hình ảnh hay video." },
+        { "key": "C", "text": "Đối tượng đã chèn không thể di chuyển hay đổi kích thước." },
+        { "key": "D", "text": "Có thể chèn nhiều đối tượng khác nhau như văn bản, hình ảnh, bản đồ, video và sắp xếp chúng theo ý muốn." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phần thân trang chứa nội dung của trang nên có thể gồm nhiều khối văn bản, hình ảnh, bản đồ, video và được sắp xếp theo ý người thiết kế. Các giới hạn nêu ở A, B, C đều trái với bài học, vì đối tượng đã chèn còn được kéo thả để đổi kích thước và di chuyển."
+    },
+    {
+      "id": "tinhoc12-b25-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["bảng chọn Chèn", "thành phần nội dung"],
+      "content": "Nhóm lệnh thứ hai của bảng chọn Chèn gồm những gì?",
+      "options": [
+        { "key": "A", "text": "Hộp văn bản, Hình ảnh, Nhúng, Drive." },
+        { "key": "B", "text": "Các thành phần nội dung, tức những mẫu bố cục khối để trình bày nội dung trong thân trang." },
+        { "key": "C", "text": "Các đối tượng như mục lục, bảng chuyển hình ảnh, bản đồ, video YouTube." },
+        { "key": "D", "text": "Sao chép trang, Thuộc tính, Thêm trang con." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng chọn Chèn có ba nhóm: nhóm một là Hộp văn bản, Hình ảnh, Nhúng, Drive; nhóm hai là các thành phần nội dung, tức các mẫu bố cục khối; nhóm ba là các đối tượng khác như mục lục, bảng chuyển hình ảnh, bản đồ, video YouTube, liên kết. Vì vậy A và C mô tả nhóm một và nhóm ba, còn D là các lệnh của bảng chọn Trang."
+    },
+    {
+      "id": "tinhoc12-b25-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["nhận định đúng sai", "bảng chọn Chèn", "ba nhóm lệnh"],
+      "content": "Những nhận định nào sau đây đúng về bảng chọn Chèn khi xây dựng phần thân trang?",
+      "options": [
+        { "key": "A", "text": "Nhóm lệnh đầu tiên gồm Hộp văn bản, Hình ảnh, Nhúng, Drive." },
+        { "key": "B", "text": "Lệnh Bản đồ nằm ở nhóm lệnh thứ ba và cho phép nhúng bản đồ Google Maps vào trang." },
+        { "key": "C", "text": "Lệnh Nhúng chỉ dùng để chèn tệp đang lưu trên Google Drive." },
+        { "key": "D", "text": "Có thể chèn video từ YouTube bằng lệnh YouTube ở nhóm lệnh thứ ba." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng: nhóm một gồm bốn lệnh chèn nhanh, nhóm ba chứa bản đồ và video YouTube trong số các đối tượng khác. C sai vì chèn tệp trên Google Drive là chức năng của lệnh Drive, còn lệnh Nhúng dành cho dữ liệu từ ứng dụng Internet khác như thời tiết, âm nhạc."
+    },
+    {
+      "id": "tinhoc12-b25-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["nhận định đúng sai", "chỉnh sửa đối tượng", "undo"],
+      "content": "Những nhận định nào sau đây đúng về việc chỉnh sửa các đối tượng đã chèn vào trang?",
+      "options": [
+        { "key": "A", "text": "Chọn đối tượng rồi kéo thả là cách đổi kích thước và di chuyển đối tượng." },
+        { "key": "B", "text": "Bảng chọn tắt của đối tượng có nút sao chép và nút xoá." },
+        { "key": "C", "text": "Đã xoá một đối tượng thì không thể khôi phục bằng undo." },
+        { "key": "D", "text": "Muốn sửa chữ trong một hộp văn bản bắt buộc phải xoá hộp rồi chèn lại." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B là hai thao tác sách hướng dẫn: kéo thả để đổi kích thước, di chuyển; bảng chọn tắt có nút sao chép và nút xoá. C sai vì có thể huỷ bỏ lệnh vừa thực hiện bằng undo trên thanh trên cùng. D sai vì hộp văn bản vẫn sửa được nội dung trực tiếp, không cần xoá rồi chèn lại."
+    },
+    {
+      "id": "tinhoc12-b25-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["nhận định đúng sai", "chân trang", "bản quyền"],
+      "content": "Những nhận định nào sau đây đúng về phần chân trang trong Google Sites?",
+      "options": [
+        { "key": "A", "text": "Chân trang thường chứa tuyên bố về bản quyền và thông tin liên lạc." },
+        { "key": "B", "text": "Không gian chân trang được mở bằng nút Thêm chân trang khi di chuyển xuống cuối trang." },
+        { "key": "C", "text": "Chân trang không thể chứa liên kết tới mạng xã hội của chủ thể." },
+        { "key": "D", "text": "Sau khi thêm, có thể chèn các khối văn bản vào chân trang và sắp xếp theo ý muốn." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng: chân trang dành cho bản quyền và thông tin liên lạc, được mở bằng nút Thêm chân trang ở cuối trang, sau đó chèn và sắp xếp các khối văn bản. C sai vì sách nêu rõ chân trang có thể chứa liên kết tới các trang mạng xã hội của chủ thể."
+    },
+    {
+      "id": "tinhoc12-b25-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-than-chan-trang-web",
+      "tags": ["nhận định đúng sai", "lệnh Drive", "bản đồ"],
+      "content": "Những nhận định nào sau đây đúng khi làm việc với nội dung đã chèn vào trang?",
+      "options": [
+        { "key": "A", "text": "Lệnh Drive chèn được văn bản, hình ảnh, video hay tư liệu của ứng dụng Google đang lưu trên Drive." },
+        { "key": "B", "text": "Lệnh Hình ảnh nằm ở nhóm lệnh thứ ba của bảng chọn Chèn." },
+        { "key": "C", "text": "Trong cửa sổ Chọn bản đồ chỉ có thể xác định vị trí bằng cách gõ chữ vào ô Nhập vị trí." },
+        { "key": "D", "text": "Bảng chọn Chèn có ba nhóm lệnh, trong đó nhóm thứ ba chứa các đối tượng như mục lục, bảng chuyển hình ảnh, bản đồ." }
+      ],
+      "correctAnswer": ["A", "D"],
+      "explanation": "A và D đúng theo bài: lệnh Drive lấy tư liệu trên Drive; nhóm lệnh thứ ba chứa mục lục, bảng chuyển hình ảnh, bản đồ và các đối tượng khác. B sai vì Hình ảnh thuộc nhóm lệnh đầu tiên. C sai vì cửa sổ Chọn bản đồ còn có nút Đặt dấu vị trí để chọn địa điểm bằng cách nháy chuột."
+    }
+  ]
+}

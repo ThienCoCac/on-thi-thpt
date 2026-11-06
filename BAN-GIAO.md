@@ -4,22 +4,22 @@ Cập nhật 06/11/2026. Mở task mới thì đọc file này trước, rồi t
 
 ## Trạng thái hiện tại
 
-- **Đang LIVE, sạch, không còn việc dở bắt buộc.** Commit `b62941a`, đã push `origin/main`, deploy Cloudflare version `8bf76f15-d88b-4864-ac4c-0e7dd1c279dd` tại https://on-thi-thpt.thiencogemini1.workers.dev
-- Cổng kiểm tra lúc deploy: `check-exam --all` = `OK: 190 đề, 7089 câu, 6 cảnh báo` (6 WARN đều là 5 đề Sử cũ chuyển từ DOCX, bình thường); `--scope=all` = **12 bộ / 848 kiểm tra xanh**; `--scope=live` = **41/41**.
-- Nội dung trên đĩa và trên live: **190 đề / 7.089 câu** — Toán 28, Địa lí 37, Tiếng Anh 25, Hóa học 25, Tin học 21, Lịch sử 20, KTPL 19, Ngữ văn 14, V-ACT 1.
+- **Bản LIVE**: commit `b62941a`, đã push `origin/main`, deploy Cloudflare version `8bf76f15-d88b-4864-ac4c-0e7dd1c279dd` tại https://on-thi-thpt.thiencogemini1.workers.dev — 190 đề / 7.089 câu, `--scope=live` = **41/41**.
+- **Đợt mới (đã commit, chưa deploy)**: **201 đề / 7.397 câu**, thêm 11 đề Tin học 12 theo bài; bản live vẫn là `b62941a` với 190 đề. Cổng kiểm tra trước khi commit: `check-exam --all` = `OK: 201 đề, 7397 câu, 6 cảnh báo` (6 WARN đều là 5 đề Sử cũ chuyển từ DOCX, bình thường); `--scope=all` = **12 bộ / 848 kiểm tra xanh**.
+- Nội dung trên đĩa: **201 đề / 7.397 câu** — Địa lí 37, Tin học 32, Toán 28, Tiếng Anh 25, Hóa học 25, Lịch sử 20, KTPL 19, Ngữ văn 14, V-ACT 1.
 - Đề tốt nghiệp chính thức đã có: Văn, Anh, Sử, KTPL, Tin (2 mã), Toán (8 mã 2023–2026). Địa lí và Hóa **chưa** có bản 2025 chính thức.
-- Batch gần nhất: môn mới **Hóa học 11** (slug `hoa-hoc`, 25 chuyên đề KNTT Bài 1–25, 25 đề 20 câu / 30 phút / 10 điểm = 500 câu, màu cyan trong `lib/subject-theme.ts`, suite `hoa` 30 kiểm tra) và **đề KTPL tốt nghiệp 2025 chính thức** mã 1007 (`de-ktpl-tn-2025`, 28 câu / 50 phút / 10 điểm).
+- Batch gần nhất: **11 đề Tin học 12 theo bài** (Bài 13, 15, 16, 18, 19, 20, 21, 22, 25, 26, 27 — 28 câu / 45 phút / 10 điểm mỗi đề, 308 câu), đã soát đáp án độc lập từng đề. Trước đó: môn mới **Hóa học 11** (slug `hoa-hoc`, 25 đề 20 câu, suite `hoa` 30 kiểm tra) và **đề KTPL tốt nghiệp 2025 chính thức** mã 1007.
 
 ## Việc còn lại
 
-Bắt buộc: không có.
+Bắt buộc: không có. 11 đề Tin học đã commit và test xanh, **chưa deploy** — cần deploy thì chạy `node scripts/verify.mjs --scope=deploy --build` rồi `npx wrangler deploy` và `--scope=live`.
 
-Đang treo theo yêu cầu cũ, chỉ làm khi được nhắc:
+Đang treo, chỉ làm khi được nhắc:
 
-- Task #159 — Tin học 12 đề theo bài, lô 2: Bài 13, 15, 16, 18, 19, 20, 21, 22.
-- Task #160 — Tin học 12 đề theo bài, lô 3: Bài 25, 26, 27.
+- Tin học 12 còn 9 bài chưa có đề riêng: Bài 1, 4, 7, 10, 14, 17, 23, 24, 28 (8 đề tổng hợp `so-01`…`so-08` vẫn phủ đủ 28 bài nên suite `tinhoc` không thiếu).
+- Đề giữa kì / tổng hợp cho Hóa 11; đề luyện thi tốt nghiệp cho Địa lí; bổ sung đề 2025 Hóa, Địa nếu tìm được nguồn công bố của Bộ GD&ĐT và đối chiếu chéo đáp án trước khi chép vào `content/`.
 
-Hiện Tin học đã có 8 đề theo bài (Bài 2, 3, 5, 6, 8, 9, 11, 12); 8 đề tổng hợp `so-01`…`so-08` vẫn phủ đủ 28 bài nên suite `tinhoc` đang xanh 54/54. Quy ước mỗi đề mới: file `content/exams/de-tin-hoc-12-bai-NN.json`, `TOPIC_TEST`, lớp 12, 28 câu / 45 phút / 10 điểm = 24 SINGLE_CHOICE × 0,25 + 4 MULTIPLE_CHOICE × 1, `partName` "Phần I. Trắc nghiệm nhiều phương án lựa chọn", topic theo bảng:
+Tin học hiện có **19 đề theo bài** (Bài 2, 3, 5, 6, 8, 9, 11, 12, 13, 15, 16, 18, 19, 20, 21, 22, 25, 26, 27). Quy ước mỗi đề mới: file `content/exams/de-tin-hoc-12-bai-NN.json`, `TOPIC_TEST`, lớp 12, 28 câu / 45 phút / 10 điểm = 24 SINGLE_CHOICE × 0,25 + 4 MULTIPLE_CHOICE × 1, `partName` "Phần I. Trắc nghiệm nhiều lựa chọn" và "Phần II. Chọn các nhận định đúng", phân bố đáp án A/B/C/D đúng 6/6/6/6, mỗi đề 2 câu phần II có 2 đáp án và 2 câu có 3 đáp án, topic theo bảng:
 
 - Bài 13 → `topic-th-css-khai-niem`
 - Bài 15 → `topic-th-mau-chu-va-nen`
@@ -32,8 +32,6 @@ Hiện Tin học đã có 8 đề theo bài (Bài 2, 3, 5, 6, 8, 9, 11, 12); 8 �
 - Bài 25 → `topic-th-than-chan-trang-web`
 - Bài 26 → `topic-th-lien-ket-dieu-huong`
 - Bài 27 → `topic-th-bieu-mau-google-forms`
-
-Gợi ý chưa được duyệt: đề giữa kì / tổng hợp cho Hóa 11; đề luyện thi tốt nghiệp cho Địa lí; bổ sung đề 2025 Hóa, Địa nếu tìm được nguồn công bố của Bộ GD&ĐT và đối chiếu chéo đáp án trước khi chép vào `content/`.
 
 ## Lệnh làm việc
 
@@ -63,6 +61,7 @@ npx wrangler deploy
 - **Deploy lỗi DNS `EAI_AGAIN dash.cloudflare.com`**: mạng/WARP chập chờn, không phải lỗi token; chờ vài phút rồi chạy lại `npx wrangler deploy`.
 - **Live báo 404 chunk sau deploy**: chạy `npx wrangler deploy` lần thứ hai. **502**: chờ rồi chạy lại `--scope=live`.
 - Suite môn nào đó báo thiếu `hoa-hoc` trong danh sách ngân hàng: các suite `anh`, `ktpl`, `van`, `tinhoc`, `su/verify-live.js` có mảng slug cứng, thêm môn mới thì phải thêm vào đó.
+- Suite báo `Danh sách đề có tổng 190 đề — 201`: một suite còn ghi tay tổng số đề. Không sửa số thành 201, phải đổi sang đọc từ `content/exams/` (đã sửa ở `hoa/verify-hoa.js`, cả dòng tổng đề lẫn số đề trong bộ lọc Hóa; `tinhoc` đã tự tính `TOTAL_DE`).
 
 ## Nguồn tham khảo
 

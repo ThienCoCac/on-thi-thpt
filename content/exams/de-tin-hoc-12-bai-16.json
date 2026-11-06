@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-16",
+  "title": "Đề ôn tập Tin học 12 – Bài 16: Định dạng khung",
+  "slug": "de-tin-hoc-12-bai-16",
+  "description": "Đề ôn tập Bài 16 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về định dạng khung bằng CSS: phần tử khối và phần tử nội tuyến, thuộc tính display, width, height, padding, margin, border, cùng bộ chọn lớp, bộ chọn id và bộ chọn thuộc tính. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian 45 phút, có lời giải cho mọi câu.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B16",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b16-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["phần tử khối", "phân loại phần tử"],
+      "content": "Theo Bảng 16.1 về phân loại phần tử, thẻ nào sau đây thuộc nhóm phần tử khối?",
+      "options": [
+        { "key": "A", "text": "`span`" },
+        { "key": "B", "text": "`a`" },
+        { "key": "C", "text": "`img`" },
+        { "key": "D", "text": "`div`" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bảng 16.1 xếp div vào nhóm phần tử khối, cùng với các thẻ như h1 đến h6, p, table, ul, li. Ba thẻ span, a và img đều thuộc nhóm phần tử nội tuyến nên A, B, C sai."
+    },
+    {
+      "id": "tinhoc12-b16-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["phần tử nội tuyến", "thẻ span"],
+      "content": "Thẻ `span` thuộc nhóm phần tử nào và hiển thị ra sao?",
+      "options": [
+        { "key": "A", "text": "Phần tử nội tuyến, nằm trong dòng văn bản và chỉ chiếm khoảng không gian vừa đủ nội dung của nó." },
+        { "key": "B", "text": "Phần tử khối, luôn bắt đầu trên một dòng mới." },
+        { "key": "C", "text": "Phần tử khối, luôn chiếm toàn bộ chiều rộng của trang." },
+        { "key": "D", "text": "Phần tử ẩn, nội dung bên trong không bao giờ được hiển thị." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảng 16.1 xếp span vào nhóm phần tử nội tuyến, nghĩa là nó nằm trong dòng văn bản và chỉ rộng bằng phần nội dung của nó. Vì vậy B và C sai khi gán span cho nhóm phần tử khối; span vẫn hiển thị bình thường nên D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["phần tử khối", "phần tử nội tuyến"],
+      "content": "Phần tử khối khác phần tử nội tuyến ở điểm cơ bản nào?",
+      "options": [
+        { "key": "A", "text": "Phần tử khối chỉ chứa được văn bản, còn phần tử nội tuyến chứa được mọi loại nội dung." },
+        { "key": "B", "text": "Phần tử khối thường bắt đầu trên một dòng mới và chiếm hết chiều rộng khả dụng, còn phần tử nội tuyến nằm trong dòng văn bản và chỉ rộng bằng nội dung." },
+        { "key": "C", "text": "Phần tử nội tuyến luôn có đường viền, còn phần tử khối thì không thể có đường viền." },
+        { "key": "D", "text": "Hai loại chỉ khác nhau ở tên thẻ, còn cách hiển thị hoàn toàn giống nhau." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Điểm khác biệt cơ bản là cách chiếm chỗ trên trang: phần tử khối tạo ra dòng mới và chiếm hết chiều rộng khả dụng, phần tử nội tuyến nằm trong dòng và rộng bằng nội dung. A sai vì cả hai loại đều chứa được nhiều loại nội dung; C sai vì đường viền có thể đặt cho cả hai loại; D sai vì cách hiển thị khác nhau rõ rệt."
+    },
+    {
+      "id": "tinhoc12-b16-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["thuộc tính display", "kiểu hiển thị"],
+      "content": "Thuộc tính `display` dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Đặt độ dày cho đường viền của khung." },
+        { "key": "B", "text": "Đặt khoảng cách từ vùng chữ tới đường viền của khung." },
+        { "key": "C", "text": "Quy định kiểu hiển thị của phần tử, ví dụ hiển thị như phần tử khối, như phần tử nội tuyến hoặc không hiển thị." },
+        { "key": "D", "text": "Đặt màu nền cho phần tử." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "display quy định kiểu hiển thị của phần tử, nhờ đó có thể đổi cách một phần tử chiếm chỗ trên trang hoặc làm nó không hiển thị. Độ dày viền thuộc border-width, khoảng cách từ vùng chữ tới viền thuộc padding, màu nền thuộc background-color nên A, B, D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["thuộc tính display", "đọc mã CSS"],
+      "content": "Mẫu định dạng `p {display: none;}` cho kết quả nào?",
+      "options": [
+        { "key": "A", "text": "Các đoạn văn hiển thị đậm hơn bình thường." },
+        { "key": "B", "text": "Các đoạn văn được hiển thị như phần tử nội tuyến." },
+        { "key": "C", "text": "Các đoạn văn chỉ hiện ra khi rê chuột vào." },
+        { "key": "D", "text": "Các đoạn văn không được hiển thị trên trang." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Giá trị none của display làm phần tử không được hiển thị, và các đoạn văn cũng không còn chiếm chỗ trên trang. Muốn hiển thị như phần tử nội tuyến phải dùng display: inline nên B sai; display không điều khiển độ đậm của chữ hay hiệu ứng rê chuột nên A và C sai."
+    },
+    {
+      "id": "tinhoc12-b16-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["padding", "vùng đệm"],
+      "content": "Theo Bảng 16.2, thuộc tính `padding` có ý nghĩa là gì?",
+      "options": [
+        { "key": "A", "text": "Lề khung, khoảng cách từ đường viền ngoài của khung đến văn bản xung quanh." },
+        { "key": "B", "text": "Vùng đệm, khoảng cách từ vùng chữ đến đường viền ngoài của khung." },
+        { "key": "C", "text": "Độ dày của đường viền khung." },
+        { "key": "D", "text": "Chiều cao của phần tử dạng khối." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng 16.2 định nghĩa padding là vùng đệm, tức khoảng cách từ vùng chữ ra tới đường viền ngoài của khung. Khoảng cách từ đường viền ra văn bản xung quanh là margin nên A sai; độ dày đường viền là border-width nên C sai; chiều cao phần tử là height nên D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["margin", "lề khung"],
+      "content": "Theo Bảng 16.2, thuộc tính `margin` có ý nghĩa là gì?",
+      "options": [
+        { "key": "A", "text": "Lề khung, khoảng cách từ đường viền ngoài của khung đến văn bản xung quanh nếu có." },
+        { "key": "B", "text": "Vùng đệm nằm giữa vùng chữ và đường viền của khung." },
+        { "key": "C", "text": "Màu của đường viền khung." },
+        { "key": "D", "text": "Kiểu nét vẽ của đường viền khung." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảng 16.2 ghi margin là lề khung, khoảng cách từ đường viền ngoài của khung đến văn bản xung quanh nếu có. Vùng đệm bên trong khung là padding nên B sai; màu đường viền là border-color nên C sai; kiểu nét vẽ là border-style nên D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["padding", "viết tắt bốn cạnh"],
+      "content": "Trong mẫu `padding: 10px 20px 5px 15px;`, bốn giá trị lần lượt ứng với các phía nào của phần tử?",
+      "options": [
+        { "key": "A", "text": "Trái, phải, trên, dưới." },
+        { "key": "B", "text": "Trên, dưới, trái, phải." },
+        { "key": "C", "text": "Trên, phải, dưới, trái." },
+        { "key": "D", "text": "Dưới, trên, trái, phải." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khi padding nhận bốn giá trị, thứ tự quy ước là trên, phải, dưới, trái theo chiều kim đồng hồ, nên vùng đệm trên 10px, phải 20px, dưới 5px và trái 15px. Các phương án còn lại đảo thứ tự các phía nên cho kết quả hiển thị khác."
+    },
+    {
+      "id": "tinhoc12-b16-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["width", "height", "kích thước"],
+      "content": "Mẫu định dạng `div {width: 300px; height: 100px;}` đặt kích thước cho một phần tử div. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "width và height chỉ có tác dụng khi phần tử đã có đường viền." },
+        { "key": "B", "text": "width và height có tính kế thừa nên phần tử con cũng rộng 300 pixel và cao 100 pixel." },
+        { "key": "C", "text": "Giá trị height 100px là tổng chiều cao gồm cả vùng đệm và đường viền của phần tử." },
+        { "key": "D", "text": "Phần tử div có chiều rộng 300 pixel và chiều cao 100 pixel." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "width đặt chiều rộng, height đặt chiều cao của phần tử nên div rộng 300 pixel và cao 100 pixel. Hai thuộc tính này dùng được cả khi phần tử không có viền nên A sai; bài học lưu ý các thuộc tính khung đều không có tính kế thừa nên B sai; height là chiều cao phần nội dung, chưa tính thêm vùng đệm và viền, nên C sai."
+    },
+    {
+      "id": "tinhoc12-b16-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["border", "thuộc tính viết tắt"],
+      "content": "Thuộc tính viết tắt `border` gán giá trị đồng thời cho ba thuộc tính nào?",
+      "options": [
+        { "key": "A", "text": "border-width, border-style và border-color." },
+        { "key": "B", "text": "width, height và padding." },
+        { "key": "C", "text": "padding, margin và border-color." },
+        { "key": "D", "text": "border-style, padding và margin." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo Bảng 16.2, border là thuộc tính viết tắt cho ba thuộc tính độ dày, kiểu nét vẽ và màu của đường viền, tức border-width, border-style và border-color. Các phương án còn lại trộn lẫn thuộc tính kích thước hoặc thuộc tính khoảng cách vào nhóm của border."
+    },
+    {
+      "id": "tinhoc12-b16-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["border", "border-style"],
+      "content": "Mẫu định dạng `h2 {border: 2px solid red;}` tạo ra khung như thế nào?",
+      "options": [
+        { "key": "A", "text": "Khung dày 2 pixel, nét đứt, màu đỏ." },
+        { "key": "B", "text": "Khung dày 2 pixel, nét liền, màu đỏ." },
+        { "key": "C", "text": "Khung dày 2 pixel nhưng không hiển thị vì thiếu thuộc tính riêng." },
+        { "key": "D", "text": "Chỉ tô màu đỏ cho chữ, không tạo khung." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong mẫu này 2px là độ dày, solid là kiểu nét liền và red là màu đường viền, đủ cả ba thành phần nên khung hiển thị liền nét màu đỏ. Nét đứt phải dùng giá trị dashed nên A sai; thiếu thành phần mới không hiển thị, còn ở đây đủ ba nên C sai; border không tác động tới màu chữ nên D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["border-style", "khung không hiển thị"],
+      "content": "Giá trị nào của `border-style` làm cho đường viền không được hiển thị?",
+      "options": [
+        { "key": "A", "text": "`solid`" },
+        { "key": "B", "text": "`dashed`" },
+        { "key": "C", "text": "`none`" },
+        { "key": "D", "text": "`double`" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giá trị none của border-style quy định không vẽ đường viền, nên dù có đặt độ dày hay màu thì khung vẫn không hiện. Ba giá trị còn lại đều là kiểu nét vẽ có hiển thị: solid là nét liền, dashed là nét đứt, double là nét đôi."
+    },
+    {
+      "id": "tinhoc12-b16-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["tính kế thừa", "thuộc tính khung"],
+      "content": "Theo lưu ý của bài học về các thuộc tính liên quan đến khung, phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "width, height, padding, margin, border-color, border-width, border-style và border đều không có tính kế thừa." },
+        { "key": "B", "text": "Chỉ width và height không có tính kế thừa, các thuộc tính khung còn lại đều kế thừa." },
+        { "key": "C", "text": "padding và margin có tính kế thừa nên phần tử con tự nhận vùng đệm và lề của phần tử cha." },
+        { "key": "D", "text": "Chỉ border-color có tính kế thừa, còn border-width và border-style thì không." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài học lưu ý rõ các thuộc tính liên quan đến khung trong Bảng 16.2 đều không có tính kế thừa. Vì vậy B, C và D đều sai khi cho rằng một phần hay toàn bộ các thuộc tính khung được kế thừa từ phần tử cha sang phần tử con."
+    },
+    {
+      "id": "tinhoc12-b16-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["border", "viền một phía"],
+      "content": "Muốn một đoạn văn chỉ có đường viền ở phía trên, ta dùng thuộc tính nào?",
+      "options": [
+        { "key": "A", "text": "`padding-top`" },
+        { "key": "B", "text": "`margin-top`" },
+        { "key": "C", "text": "`border`" },
+        { "key": "D", "text": "`border-top`" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "border-top đặt đường viền riêng cho phía trên của phần tử, nên chỉ phía trên có khung. padding-top và margin-top chỉ tạo khoảng cách, không vẽ đường viền; còn border đặt viền cho cả bốn phía nên không đáp ứng yêu cầu."
+    },
+    {
+      "id": "tinhoc12-b16-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["bộ chọn lớp", "class"],
+      "content": "Theo Bảng 16.3, bộ chọn `.test` áp dụng cho",
+      "options": [
+        { "key": "A", "text": "phần tử có mã định danh id là test." },
+        { "key": "B", "text": "mọi phần tử có tên lớp là test." },
+        { "key": "C", "text": "chỉ các phần tử p có lớp test." },
+        { "key": "D", "text": "mọi phần tử nằm bên trong phần tử có lớp test." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dấu chấm đứng trước tên là cách viết bộ chọn lớp, nên .test áp dụng cho mọi phần tử có lớp tên là test, không phân biệt loại thẻ. Bộ chọn id dùng dấu thăng nên A sai; giới hạn ở thẻ p là cách viết p.test nên C sai; bộ chọn không xét các phần tử con bên trong nên D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["bộ chọn lớp", "p.test"],
+      "content": "Bộ chọn `p.test` áp dụng cho",
+      "options": [
+        { "key": "A", "text": "mọi phần tử có lớp test, kể cả không phải thẻ p." },
+        { "key": "B", "text": "các phần tử p nằm bên trong phần tử có lớp test." },
+        { "key": "C", "text": "các phần tử p có gắn lớp test." },
+        { "key": "D", "text": "phần tử p có mã định danh id là test." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo Bảng 16.3, p.test chỉ áp dụng cho những phần tử p có gắn lớp test, tức phải thỏa cả hai điều kiện về tên thẻ và tên lớp. Chỉ xét tên lớp là .test nên A sai; quan hệ nằm bên trong không được xét ở bộ chọn này nên B sai; id là test phải viết p#test nên D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["bộ chọn id", "mã định danh"],
+      "content": "Bộ chọn theo mã định danh id được viết theo cấu trúc nào?",
+      "options": [
+        { "key": "A", "text": "`#idname {thuộc tính : giá trị;}`" },
+        { "key": "B", "text": "`.idname {thuộc tính : giá trị;}`" },
+        { "key": "C", "text": "`idname {thuộc tính : giá trị;}`" },
+        { "key": "D", "text": "`#idname[thuộc tính : giá trị;]`" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bộ chọn id viết bằng dấu thăng đặt ngay trước tên mã định danh, tiếp đó là vùng mô tả trong ngoặc nhọn. Dấu chấm là của bộ chọn lớp nên B sai; bỏ dấu thăng thì trình duyệt hiểu thành bộ chọn thẻ nên C sai; vùng mô tả phải trong ngoặc nhọn chứ không phải ngoặc vuông nên D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["id", "class", "so sánh"],
+      "content": "Phát biểu nào sau đây đúng về mã định danh id và tên lớp class?",
+      "options": [
+        { "key": "A", "text": "Một lớp chỉ dùng được cho đúng một phần tử, còn id dùng được cho nhiều phần tử." },
+        { "key": "B", "text": "Cả id và class đều bắt buộc phải là duy nhất trong một trang." },
+        { "key": "C", "text": "id có thể đặt trùng cho nhiều phần tử miễn là chúng cùng loại thẻ." },
+        { "key": "D", "text": "Mỗi phần tử chỉ có một id duy nhất trong trang, còn cùng một tên lớp có thể gán cho nhiều phần tử." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mỗi phần tử chỉ có một mã định danh id duy nhất trong trang, trong khi một tên lớp dùng chung được cho nhiều phần tử để chúng nhận cùng định dạng. Vì vậy A đảo ngược tính chất của hai loại, B sai với class, còn C trái với yêu cầu id duy nhất."
+    },
+    {
+      "id": "tinhoc12-b16-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["bộ chọn thuộc tính", "href"],
+      "content": "Mẫu định dạng `[href] {color: green;}` áp dụng cho",
+      "options": [
+        { "key": "A", "text": "chỉ các phần tử a có thuộc tính href." },
+        { "key": "B", "text": "mọi phần tử có thuộc tính href." },
+        { "key": "C", "text": "mọi phần tử có tên lớp là href." },
+        { "key": "D", "text": "mọi phần tử có mã định danh id là href." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bộ chọn thuộc tính đặt trong ngoặc vuông áp dụng cho mọi phần tử có thuộc tính được nêu, không phụ thuộc tên thẻ. Muốn giới hạn ở thẻ a phải viết a[href] nên A sai; tên lớp phải viết .href và id phải viết #href nên C và D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["bộ chọn thuộc tính", "ô nhập văn bản"],
+      "content": "Muốn tạo mẫu định dạng chỉ áp dụng cho các ô nhập văn bản một dòng trong biểu mẫu, mẫu nào sau đây phù hợp nhất?",
+      "options": [
+        { "key": "A", "text": "`a[type] {…}`" },
+        { "key": "B", "text": "`.text {…}`" },
+        { "key": "C", "text": "`input[type=\"text\"] {…}`" },
+        { "key": "D", "text": "`#text {…}`" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mẫu C kết hợp bộ chọn thẻ input với bộ chọn thuộc tính type có giá trị text, nên chỉ chọn các ô nhập văn bản một dòng. Ý A chọn thẻ a có thuộc tính type, ý B chỉ chọn phần tử mang lớp text, ý D chỉ chọn phần tử có id là text, cả ba đều không bám vào loại ô nhập."
+    },
+    {
+      "id": "tinhoc12-b16-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["đặt tên id và class", "quy tắc"],
+      "content": "Quy tắc đặt tên cho id và class được bài học nêu là",
+      "options": [
+        { "key": "A", "text": "phân biệt chữ hoa với chữ thường, phải có ít nhất một kí tự không phải số, không bắt đầu bằng chữ số và không chứa dấu cách hay kí tự đặc biệt." },
+        { "key": "B", "text": "không phân biệt chữ hoa với chữ thường và được phép bắt đầu bằng chữ số." },
+        { "key": "C", "text": "phải bắt đầu bằng dấu chấm và được phép chứa dấu cách giữa các từ." },
+        { "key": "D", "text": "phải viết hoa toàn bộ và được phép dùng kí tự @ ở giữa tên." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tên id và class phân biệt chữ hoa với chữ thường, cần ít nhất một kí tự không phải số, không bắt đầu bằng chữ số và không chứa dấu cách hay kí tự đặc biệt. Các phương án B, C, D đều vi phạm ít nhất một trong các quy tắc này, ví dụ cho phép bắt đầu bằng số hoặc chứa dấu cách, kí tự @."
+    },
+    {
+      "id": "tinhoc12-b16-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["bộ chọn lớp", "nhiều lớp", "đọc mã HTML"],
+      "content": "Cho đoạn mã `<p class=\"test warning\">Cảnh báo</p>` và mẫu `.test.warning {color: red;}`. Kết quả nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Mẫu không áp dụng vì mỗi phần tử chỉ được gắn một lớp." },
+        { "key": "B", "text": "Mẫu chỉ áp dụng khi phần tử có id là test." },
+        { "key": "C", "text": "Mẫu áp dụng cho mọi phần tử có lớp test, kể cả phần tử không có lớp warning." },
+        { "key": "D", "text": "Mẫu áp dụng vì phần tử có đồng thời hai lớp test và warning." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo Bảng 16.3, .test.warning yêu cầu phần tử có tên lớp đồng thời là test và warning; đoạn văn trong đề có đúng hai lớp đó nên nhận màu đỏ. Một phần tử được gắn nhiều lớp nên A sai; mẫu này dùng lớp chứ không dùng id nên B sai; chỉ phần tử có đủ cả hai lớp mới được chọn nên C sai."
+    },
+    {
+      "id": "tinhoc12-b16-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["border-width", "border-style", "đọc mã CSS"],
+      "content": "Mẫu định dạng `div {border-width: 3px; border-style: dashed;}` cho kết quả nào?",
+      "options": [
+        { "key": "A", "text": "Khung nét liền dày 3 pixel, màu đen." },
+        { "key": "B", "text": "Khung nét đứt dày 3 pixel, màu đường viền lấy theo giá trị mặc định." },
+        { "key": "C", "text": "Không có khung vì thiếu thuộc tính border." },
+        { "key": "D", "text": "Khung dày 3 pixel nhưng chỉ có ở phía trên của phần tử." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mẫu đã có độ dày 3 pixel và kiểu nét đứt nên khung hiển thị; màu đường viền không khai báo thì lấy theo giá trị mặc định. Nét liền phải dùng solid nên A sai; dùng ba thuộc tính riêng vẫn tạo được khung, không bắt buộc phải viết thuộc tính viết tắt border nên C sai; muốn chỉ có viền phía trên phải dùng border-top nên D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["bộ chọn lớp", "lợi ích"],
+      "content": "Vì sao gán cùng một tên lớp cho nhiều phần tử lại thuận tiện khi định dạng khung?",
+      "options": [
+        { "key": "A", "text": "Vì mỗi phần tử có lớp sẽ tự động được gán thêm một id duy nhất." },
+        { "key": "B", "text": "Vì lớp làm cho phần tử chuyển thành phần tử khối." },
+        { "key": "C", "text": "Vì chỉ cần viết một mẫu định dạng cho lớp là mọi phần tử mang lớp đó cùng nhận định dạng." },
+        { "key": "D", "text": "Vì lớp giúp phần tử kế thừa mọi thuộc tính khung của phần tử cha." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bộ chọn lớp áp dụng cho mọi phần tử mang lớp đó, nên một mẫu định dạng khung viết một lần là dùng được cho nhiều phần tử. Việc gán lớp không sinh ra id và không đổi kiểu hiển thị của phần tử nên A và B sai; các thuộc tính khung không có tính kế thừa nên D sai."
+    },
+    {
+      "id": "tinhoc12-b16-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["nhận định đúng sai", "phần tử khối", "phần tử nội tuyến"],
+      "content": "Những nhận định nào sau đây đúng về phần tử khối và phần tử nội tuyến?",
+      "options": [
+        { "key": "A", "text": "div, p, h1 thuộc nhóm phần tử khối, còn span, a, img thuộc nhóm phần tử nội tuyến." },
+        { "key": "B", "text": "Thẻ img là phần tử khối vì hình ảnh luôn chiếm trọn một dòng riêng." },
+        { "key": "C", "text": "Phần tử khối thường bắt đầu trên một dòng mới và chiếm hết chiều rộng khả dụng." },
+        { "key": "D", "text": "Phần tử nội tuyến luôn bắt đầu trên một dòng mới giống phần tử khối." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A đúng với phân loại trong Bảng 16.1, C đúng với cách hiển thị của phần tử khối. B sai vì img thuộc nhóm phần tử nội tuyến và có thể chen ngay trong dòng văn bản. D sai vì phần tử nội tuyến nằm trong dòng văn bản, không tự tạo dòng mới."
+    },
+    {
+      "id": "tinhoc12-b16-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["nhận định đúng sai", "padding", "margin", "border"],
+      "content": "Những nhận định nào sau đây đúng về các thuộc tính định dạng khung trong Bảng 16.2?",
+      "options": [
+        { "key": "A", "text": "padding là khoảng cách từ vùng chữ đến đường viền ngoài của khung." },
+        { "key": "B", "text": "margin là khoảng cách từ đường viền ngoài của khung đến văn bản xung quanh nếu có." },
+        { "key": "C", "text": "padding và margin đều có tính kế thừa nên phần tử con tự nhận vùng đệm và lề của phần tử cha." },
+        { "key": "D", "text": "Thuộc tính border viết tắt gán đồng thời border-width, border-style và border-color." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng với định nghĩa và ví dụ của Bảng 16.2. C sai vì bài học lưu ý các thuộc tính khung trong bảng này, trong đó có padding và margin, đều không có tính kế thừa."
+    },
+    {
+      "id": "tinhoc12-b16-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["nhận định đúng sai", "bộ chọn lớp", "bộ chọn id"],
+      "content": "Những nhận định nào sau đây đúng về bộ chọn lớp và bộ chọn id?",
+      "options": [
+        { "key": "A", "text": "Bộ chọn id viết bằng dấu chấm đặt trước tên, ví dụ `.menu`." },
+        { "key": "B", "text": "Bộ chọn lớp viết bằng dấu chấm đặt trước tên lớp, ví dụ `.test`." },
+        { "key": "C", "text": "Một mã id có thể gán cho nhiều phần tử trong cùng một trang." },
+        { "key": "D", "text": "Nhiều phần tử khác nhau có thể cùng mang một tên lớp." }
+      ],
+      "correctAnswer": ["B", "D"],
+      "explanation": "B đúng với cách viết bộ chọn lớp, D đúng vì tên lớp dùng chung được cho nhiều phần tử. A sai vì bộ chọn id dùng dấu thăng, còn dấu chấm là của bộ chọn lớp. C sai vì mỗi phần tử chỉ có một mã định danh id duy nhất trong một trang."
+    },
+    {
+      "id": "tinhoc12-b16-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-khung",
+      "tags": ["nhận định đúng sai", "bộ chọn thuộc tính", "đặt tên id và class"],
+      "content": "Những nhận định nào sau đây đúng về bộ chọn thuộc tính và cách đặt tên id, class?",
+      "options": [
+        { "key": "A", "text": "Bộ chọn `[href]` áp dụng cho mọi phần tử có thuộc tính href, không chỉ riêng thẻ a." },
+        { "key": "B", "text": "Bộ chọn `a[href]` chỉ áp dụng cho các thẻ a có thuộc tính href." },
+        { "key": "C", "text": "Tên id và class phân biệt chữ hoa với chữ thường và không được bắt đầu bằng chữ số." },
+        { "key": "D", "text": "Để áp dụng cho thẻ p có lớp test, ta viết bộ chọn `#p.test`." }
+      ],
+      "correctAnswer": ["A", "B", "C"],
+      "explanation": "A và B đúng với cách bộ chọn thuộc tính kết hợp với bộ chọn thẻ, C đúng với quy tắc đặt tên. D sai vì dấu thăng dùng cho id, muốn chọn thẻ p có lớp test phải viết p.test; viết #p.test sẽ bị hiểu là phần tử có id p và lớp test."
+    }
+  ]
+}

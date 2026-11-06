@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-20",
+  "title": "Đề ôn tập Tin học 12 – Bài 20: Nhóm nghề quản trị thuộc ngành Công nghệ thông tin",
+  "slug": "de-tin-hoc-12-bai-20",
+  "description": "Đề ôn tập Bài 20 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về nhóm nghề quản trị thuộc ngành Công nghệ thông tin: quản trị mạng, bảo mật hệ thống thông tin, quản trị và bảo trì hệ thống, các nguy cơ tấn công mạng và ngành học liên quan. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B20",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b20-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["nhóm nghề quản trị", "khái niệm"],
+      "content": "Nhóm nghề quản trị thuộc ngành Công nghệ thông tin ở Bài 20 gồm ba nghề nào?",
+      "options": [
+        { "key": "A", "text": "Quản trị mạng; bảo mật hệ thống thông tin; quản trị và bảo trì hệ thống." },
+        { "key": "B", "text": "Lập trình ứng dụng; kiểm thử phần mềm; thiết kế đồ hoạ." },
+        { "key": "C", "text": "Quản trị mạng; lập trình web; phân tích dữ liệu." },
+        { "key": "D", "text": "Quản trị cơ sở dữ liệu; quản trị website; bảo trì máy tính cá nhân." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 20 giới thiệu ba nghề quản trị: quản trị mạng, bảo mật hệ thống thông tin, quản trị và bảo trì hệ thống. Lập trình, kiểm thử phần mềm và thiết kế đồ hoạ thuộc nhóm nghề khác nên B và C sai; quản trị cơ sở dữ liệu không nằm trong ba nghề được nêu nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["quản trị hệ thống", "bảo trì"],
+      "content": "Nghề nào trong nhóm nghề quản trị có nhiệm vụ quản lí và duy trì toàn bộ hệ thống thông tin của tổ chức, gồm cả phần cứng và phần mềm?",
+      "options": [
+        { "key": "A", "text": "Quản trị mạng." },
+        { "key": "B", "text": "Bảo mật hệ thống thông tin." },
+        { "key": "C", "text": "Quản trị và bảo trì hệ thống." },
+        { "key": "D", "text": "Lập trình viên ứng dụng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Quản trị và bảo trì hệ thống là nghề quản lí, duy trì toàn bộ hệ thống thông tin của tổ chức, bao gồm cả phần cứng và phần mềm. Quản trị mạng tập trung vào hệ thống mạng nên A sai; bảo mật hệ thống thông tin tập trung vào an toàn thông tin nên B sai; lập trình viên không thuộc nhóm nghề quản trị nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["quản trị mạng", "vận hành hệ thống"],
+      "content": "Công việc đặc trưng của nghề quản trị mạng là gì?",
+      "options": [
+        { "key": "A", "text": "Viết mã nguồn cho các ứng dụng quản lí bán hàng của tổ chức." },
+        { "key": "B", "text": "Thiết lập, vận hành và giám sát hệ thống mạng; xử lí sự cố đường truyền, thiết bị mạng và chia sẻ tài nguyên." },
+        { "key": "C", "text": "Thiết kế giao diện và bố cục cho website của tổ chức." },
+        { "key": "D", "text": "Soạn thảo hợp đồng và chăm sóc khách hàng của công ty." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Quản trị mạng là nghề bảo đảm hệ thống mạng hoạt động: cấu hình thiết bị, theo dõi đường truyền, xử lí sự cố kết nối và quản lí việc chia sẻ tài nguyên. Viết mã nguồn là việc của lập trình viên nên A sai; thiết kế giao diện thuộc thiết kế web nên C sai; soạn hợp đồng, chăm sóc khách hàng không phải công việc kĩ thuật của nghề này nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["bảo mật thông tin", "an toàn hệ thống"],
+      "content": "Nghề bảo mật hệ thống thông tin tập trung vào công việc nào?",
+      "options": [
+        { "key": "A", "text": "Cài đặt máy tính và phần mềm văn phòng cho nhân viên." },
+        { "key": "B", "text": "Lập trình các trang web bán hàng cho tổ chức." },
+        { "key": "C", "text": "Thiết kế cơ sở dữ liệu cho hệ thống quản lí nhân sự." },
+        { "key": "D", "text": "Bảo vệ hệ thống trước các nguy cơ tấn công, rò rỉ và mất an toàn thông tin." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bảo mật hệ thống thông tin nhằm giữ cho dữ liệu và hệ thống không bị truy cập, sửa đổi hay đánh cắp trái phép. Cài đặt máy và phần mềm văn phòng là việc hỗ trợ người dùng nên A sai; lập trình web và thiết kế cơ sở dữ liệu là công việc phát triển phần mềm nên B, C sai."
+    },
+    {
+      "id": "tinhoc12-b20-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["WannaCry", "an ninh mạng"],
+      "content": "Theo nội dung mở đầu Bài 20, WannaCry được giới thiệu là gì?",
+      "options": [
+        { "key": "A", "text": "Một trong những phần mềm độc hại đáng chú ý nhất trong lịch sử máy tính, gây tấn công vào tháng 5 năm 2017." },
+        { "key": "B", "text": "Một hệ thống phát hiện xâm nhập do một hãng hàng không ở Anh triển khai." },
+        { "key": "C", "text": "Một phần mềm phòng chống virus dùng để quét mã độc cho hệ thống." },
+        { "key": "D", "text": "Một phần mềm quản lí mạng của một hãng điện tử Nhật Bản." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 20 mở đầu bằng WannaCry, một trong những phần mềm độc hại đáng chú ý nhất trong lịch sử máy tính với cuộc tấn công vào tháng 5 năm 2017. Hệ thống phát hiện xâm nhập là IDS chứ không phải WannaCry nên B sai; WannaCry gây hại chứ không phải phần mềm diệt virus nên C sai; D gán sai bản chất và xuất xứ của nó."
+    },
+    {
+      "id": "tinhoc12-b20-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["IDS", "bảo mật thông tin"],
+      "content": "Viết tắt IDS trong lĩnh vực bảo mật thông tin tương ứng với thuật ngữ nào?",
+      "options": [
+        { "key": "A", "text": "Hệ thống phòng thủ tường lửa." },
+        { "key": "B", "text": "Tấn công từ chối dịch vụ." },
+        { "key": "C", "text": "Hệ thống phát hiện xâm nhập." },
+        { "key": "D", "text": "Tấn công dò lỗ hổng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "IDS là viết tắt của Intrusion Detection System, tiếng Việt là hệ thống phát hiện xâm nhập, có nhiệm vụ theo dõi và báo hiệu các dấu hiệu truy cập bất thường. Tường lửa là một hệ thống riêng nên A sai; tấn công từ chối dịch vụ là DoS và tấn công dò lỗ hổng là Vulnerability scanning nên B, D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["tường lửa", "bảo mật"],
+      "content": "Hệ thống phòng thủ tường lửa có chức năng chính là gì?",
+      "options": [
+        { "key": "A", "text": "Quét và diệt toàn bộ mã độc đã nhiễm trong các tệp dữ liệu." },
+        { "key": "B", "text": "Sao lưu dữ liệu của hệ thống theo lịch định kì." },
+        { "key": "C", "text": "Phân quyền cho từng người dùng truy cập các thư mục." },
+        { "key": "D", "text": "Kiểm soát lưu lượng mạng vào ra theo các quy tắc đặt trước để chặn truy cập trái phép." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tường lửa đặt giữa hệ thống và bên ngoài, kiểm tra lưu lượng vào ra theo bộ quy tắc để cho phép hoặc chặn kết nối. Diệt mã độc là chức năng của phần mềm diệt virus nên A sai; sao lưu dữ liệu là nghiệp vụ riêng nên B sai; cấp quyền truy cập thư mục thuộc quản trị hệ thống chứ không phải tường lửa nên C sai."
+    },
+    {
+      "id": "tinhoc12-b20-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["DoS", "tấn công mạng"],
+      "content": "Tấn công từ chối dịch vụ (DoS) nhằm mục đích gì?",
+      "options": [
+        { "key": "A", "text": "Đánh cắp dữ liệu cá nhân của người dùng." },
+        { "key": "B", "text": "Làm hệ thống hoặc dịch vụ quá tải, không thể phục vụ người dùng bình thường." },
+        { "key": "C", "text": "Dò tìm các lỗ hổng bảo mật trong mã nguồn." },
+        { "key": "D", "text": "Cài đặt phần mềm hợp pháp lên máy chủ của tổ chức." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "DoS gửi lượng yêu cầu rất lớn hoặc khai thác điểm yếu khiến hệ thống không còn khả năng phục vụ, đó chính là từ chối dịch vụ. Đánh cắp dữ liệu là mục tiêu của kiểu tấn công khác nên A sai; dò lỗ hổng là Vulnerability scanning nên C sai; cài phần mềm hợp pháp không phải hành vi tấn công nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["dò lỗ hổng", "bảo mật"],
+      "content": "Tấn công dò lỗ hổng là gì?",
+      "options": [
+        { "key": "A", "text": "Rà soát hệ thống để tìm ra những điểm yếu có thể bị khai thác." },
+        { "key": "B", "text": "Gửi lượng truy cập khổng lồ làm máy chủ ngừng phục vụ." },
+        { "key": "C", "text": "Mã hoá dữ liệu của nạn nhân rồi đòi tiền chuộc." },
+        { "key": "D", "text": "Cài đặt bản cập nhật hợp pháp cho hệ điều hành." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dò lỗ hổng là bước rà soát nhằm phát hiện điểm yếu trong hệ thống, từ đó kẻ tấn công chọn cách khai thác. Làm quá tải máy chủ là DoS nên B sai; mã hoá dữ liệu đòi tiền chuộc là mã độc tống tiền nên C sai; cài bản cập nhật hợp pháp là việc bảo mật của quản trị viên nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["ngành học", "hướng nghiệp"],
+      "content": "Ngành học nào sau đây KHÔNG có trong danh mục ngành học liên quan tới nhóm nghề quản trị ở Bài 20?",
+      "options": [
+        { "key": "A", "text": "An ninh mạng." },
+        { "key": "B", "text": "Hệ thống thông tin." },
+        { "key": "C", "text": "Quản trị cơ sở dữ liệu." },
+        { "key": "D", "text": "Mạng máy tính và truyền thông dữ liệu." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Danh mục ngành học liên quan gồm Quản trị mạng máy tính, Quản trị hệ thống, An ninh mạng, Hệ thống thông tin, Mạng máy tính và truyền thông dữ liệu, không có ngành Quản trị cơ sở dữ liệu. An ninh mạng, Hệ thống thông tin và Mạng máy tính và truyền thông dữ liệu đều có trong danh mục nên A, B, D không phải đáp án."
+    },
+    {
+      "id": "tinhoc12-b20-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["quản trị mạng", "phân biệt nghề"],
+      "content": "Công việc nào sau đây gắn với nghề quản trị mạng hơn là với nghề lập trình viên?",
+      "options": [
+        { "key": "A", "text": "Viết mã nguồn cho một trang thương mại điện tử." },
+        { "key": "B", "text": "Thiết kế giao diện người dùng của một ứng dụng di động." },
+        { "key": "C", "text": "Xây dựng thuật toán xử lí dữ liệu cho phần mềm kế toán." },
+        { "key": "D", "text": "Cấu hình thiết bị mạng, theo dõi đường truyền và xử lí sự cố kết nối cho cả hệ thống." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Quản trị mạng làm việc trên hạ tầng đang vận hành: cấu hình thiết bị, giám sát đường truyền, khắc phục sự cố kết nối, khác với việc tạo ra phần mềm. Viết mã nguồn, thiết kế giao diện và xây dựng thuật toán đều là công việc phát triển phần mềm nên A, B, C thuộc nghề lập trình."
+    },
+    {
+      "id": "tinhoc12-b20-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["sao lưu dữ liệu", "quản trị hệ thống"],
+      "content": "Công việc sao lưu và phục hồi dữ liệu của hệ thống thường thuộc nghề nào trong nhóm nghề quản trị?",
+      "options": [
+        { "key": "A", "text": "Quản trị và bảo trì hệ thống." },
+        { "key": "B", "text": "Lập trình viên ứng dụng." },
+        { "key": "C", "text": "Thiết kế đồ hoạ." },
+        { "key": "D", "text": "Biên tập nội dung website." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sao lưu và phục hồi dữ liệu là một phần của việc duy trì hệ thống thông tin hoạt động liên tục, thuộc nghề quản trị và bảo trì hệ thống. Lập trình viên, thiết kế đồ hoạ và biên tập nội dung không đảm nhận việc vận hành hệ thống nên B, C, D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["bảo mật", "tài sản thông tin"],
+      "content": "Vì sao tổ chức cần đầu tư cho bảo mật hệ thống thông tin?",
+      "options": [
+        { "key": "A", "text": "Vì bảo mật giúp máy tính chạy nhanh hơn rõ rệt." },
+        { "key": "B", "text": "Vì dữ liệu và hệ thống thông tin là tài sản quan trọng; khi bị tấn công, dữ liệu mất hoặc sai lệch sẽ gây thiệt hại lớn." },
+        { "key": "C", "text": "Vì bảo mật là điều kiện để tăng dung lượng ổ cứng của máy chủ." },
+        { "key": "D", "text": "Vì chỉ khi có bảo mật thì nhân viên mới dùng được máy tính." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hệ thống thông tin lưu dữ liệu kinh doanh, hồ sơ khách hàng, thông tin nội bộ; mất hay sai lệch dữ liệu đều gây thiệt hại về kinh tế và uy tín. Bảo mật không làm máy nhanh hơn nên A sai; không liên quan dung lượng ổ cứng nên C sai; nhân viên vẫn dùng được máy khi chưa có giải pháp bảo mật, chỉ là rủi ro cao hơn nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["sự cố an ninh", "WannaCry"],
+      "content": "Bài 20 nhắc tới sự cố hệ thống máy tính của một hãng hàng không ở Anh. Sự cố này được nêu trong bối cảnh nào?",
+      "options": [
+        { "key": "A", "text": "Là nguyên nhân khiến WannaCry ra đời." },
+        { "key": "B", "text": "Là sự cố xảy ra vào năm 2014 tại một hãng điện tử Nhật Bản." },
+        { "key": "C", "text": "Là sự cố xảy ra cùng thời điểm với cuộc tấn công WannaCry năm 2017." },
+        { "key": "D", "text": "Là sự cố do hệ thống phát hiện xâm nhập gây ra." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 20 nêu sự cố của một hãng hàng không ở Anh xảy ra cùng thời điểm với cuộc tấn công WannaCry tháng 5 năm 2017, cho thấy mức độ ảnh hưởng rộng của các sự cố an ninh mạng. WannaCry là phần mềm độc hại chứ không do sự cố này sinh ra nên A sai; sự cố năm 2014 là của một hãng điện tử Nhật Bản nên B sai; IDS là công cụ phát hiện chứ không gây sự cố nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["sự cố an ninh", "lịch sử tấn công mạng"],
+      "content": "Vụ tấn công được Bài 20 nhắc tới vào năm 2014 nhắm vào đối tượng nào?",
+      "options": [
+        { "key": "A", "text": "Một hãng hàng không ở Anh." },
+        { "key": "B", "text": "Một trường đại học ở châu Âu." },
+        { "key": "C", "text": "Một ngân hàng trung ương ở châu Á." },
+        { "key": "D", "text": "Một hãng điện tử lâu đời của Nhật Bản." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài 20 dẫn hai sự cố tiêu biểu: vụ tấn công năm 2014 vào hệ thống máy tính của một hãng điện tử lâu đời của Nhật Bản và sự cố của một hãng hàng không ở Anh cùng thời điểm với WannaCry năm 2017. Vì vậy A sai vì đó là sự cố năm 2017; B và C là những đối tượng không được bài nêu."
+    },
+    {
+      "id": "tinhoc12-b20-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["xử lí sự cố", "bảo mật"],
+      "content": "Khi phát hiện hệ thống có dấu hiệu bị xâm nhập, việc nào nên làm trước?",
+      "options": [
+        { "key": "A", "text": "Đăng thông tin sự cố lên mạng xã hội để cảnh báo mọi người." },
+        { "key": "B", "text": "Cô lập khu vực bị ảnh hưởng, ghi nhận hiện tượng và báo cáo người phụ trách." },
+        { "key": "C", "text": "Tắt toàn bộ hệ thống của tổ chức trong nhiều ngày." },
+        { "key": "D", "text": "Xoá toàn bộ dữ liệu trên máy chủ để cắt nguồn lây lan." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cô lập vùng bị ảnh hưởng giúp chặn đà lây lan, còn ghi nhận hiện tượng và báo cáo là căn cứ để phân tích, khắc phục đúng người đúng việc. Công bố lên mạng xã hội khi chưa xác minh làm lộ thông tin hệ thống nên A sai; tắt cả hệ thống nhiều ngày gây gián đoạn lớn nên C sai; xoá dữ liệu máy chủ phá huỷ bằng chứng và dữ liệu của tổ chức nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["phân quyền", "quản trị hệ thống"],
+      "content": "Công việc cấp quyền truy cập cho từng nhân viên theo đúng vai trò thuộc nghề nào?",
+      "options": [
+        { "key": "A", "text": "Quản trị và bảo trì hệ thống." },
+        { "key": "B", "text": "Thiết kế giao diện web." },
+        { "key": "C", "text": "Lập trình ứng dụng di động." },
+        { "key": "D", "text": "Kiểm thử phần mềm." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cấp quyền theo vai trò là việc quản lí tài khoản và tài nguyên của hệ thống, thuộc nghề quản trị và bảo trì hệ thống. Thiết kế giao diện, lập trình di động và kiểm thử phần mềm đều là công việc phát triển phần mềm, không đảm nhận quản trị tài khoản hệ thống nên B, C, D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["phối hợp", "hệ thống thông tin"],
+      "content": "Ba nghề quản trị trong Bài 20 thường phải phối hợp với nhau vì lí do chính nào?",
+      "options": [
+        { "key": "A", "text": "Vì cả ba nghề đều viết mã nguồn cho cùng một phần mềm." },
+        { "key": "B", "text": "Vì mỗi nghề chỉ được làm việc vào một ngày cố định trong tuần." },
+        { "key": "C", "text": "Vì cả ba nghề đều do một người duy nhất đảm nhiệm." },
+        { "key": "D", "text": "Vì chúng cùng vận hành một hệ thống thông tin, nên sự cố ở mạng, bảo mật hay hệ thống đều ảnh hưởng lẫn nhau." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hệ thống mạng, hệ thống thông tin và an toàn thông tin gắn chặt với nhau, một sự cố ở mạng có thể làm mất an toàn dữ liệu nên ba nghề phải phối hợp. Không nghề nào trong nhóm này chủ yếu viết mã nguồn nên A sai; không có quy định về ngày làm việc riêng nên B sai; ba nghề là ba vị trí khác nhau nên C sai."
+    },
+    {
+      "id": "tinhoc12-b20-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["ngành học", "quản trị mạng"],
+      "content": "Học ngành Mạng máy tính và truyền thông dữ liệu phù hợp nhất với nghề nào trong nhóm nghề quản trị?",
+      "options": [
+        { "key": "A", "text": "Bảo mật hệ thống thông tin." },
+        { "key": "B", "text": "Quản trị và bảo trì hệ thống." },
+        { "key": "C", "text": "Quản trị mạng." },
+        { "key": "D", "text": "Thiết kế đồ hoạ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ngành Mạng máy tính và truyền thông dữ liệu trang bị kiến thức về hạ tầng mạng, giao thức và truyền dữ liệu, sát với công việc quản trị mạng. Bảo mật hệ thống thông tin gắn với ngành An ninh mạng nên A sai; quản trị và bảo trì hệ thống gắn với ngành Quản trị hệ thống nên B sai; thiết kế đồ hoạ không thuộc nhóm nghề quản trị nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["ngành học", "bảo mật"],
+      "content": "Học ngành An ninh mạng phù hợp nhất với nghề nào trong nhóm nghề quản trị?",
+      "options": [
+        { "key": "A", "text": "Quản trị mạng." },
+        { "key": "B", "text": "Bảo mật hệ thống thông tin." },
+        { "key": "C", "text": "Quản trị và bảo trì hệ thống." },
+        { "key": "D", "text": "Lập trình game." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "An ninh mạng đào tạo về phòng chống tấn công, bảo vệ dữ liệu và ứng phó sự cố, đúng với nghề bảo mật hệ thống thông tin. Quản trị mạng gắn với hạ tầng kết nối nên A sai; quản trị và bảo trì hệ thống gắn với vận hành toàn hệ thống nên C sai; lập trình game không thuộc nhóm nghề quản trị nên D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["kiến thức nghề", "nền tảng"],
+      "content": "Khối kiến thức nào cần thiết cho cả ba nghề quản trị trong Bài 20?",
+      "options": [
+        { "key": "A", "text": "Hiểu biết về hệ điều hành, mạng máy tính và các nguy cơ mất an toàn thông tin." },
+        { "key": "B", "text": "Kĩ năng vẽ tranh và phối màu." },
+        { "key": "C", "text": "Kĩ năng viết kịch bản quảng cáo." },
+        { "key": "D", "text": "Kiến thức về luật giao thông đường bộ." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cả ba nghề đều làm việc trên hệ thống thông tin, nên phải hiểu hệ điều hành, mạng máy tính và các nguy cơ mất an toàn thông tin; đây là nền tảng chung. Vẽ tranh, viết kịch bản quảng cáo và luật giao thông không liên quan tới vận hành hệ thống nên B, C, D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["quản trị mạng", "mô tả nghề"],
+      "content": "Phát biểu nào sau đây đúng về công việc của người quản trị mạng?",
+      "options": [
+        { "key": "A", "text": "Chủ yếu viết mã nguồn cho các ứng dụng của tổ chức." },
+        { "key": "B", "text": "Chủ yếu thiết kế logo và ấn phẩm truyền thông." },
+        { "key": "C", "text": "Chủ yếu bảo đảm hệ thống mạng hoạt động ổn định, an toàn và đáp ứng nhu cầu sử dụng." },
+        { "key": "D", "text": "Chủ yếu soạn thảo văn bản hành chính cho tổ chức." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Người quản trị mạng chịu trách nhiệm cho hạ tầng kết nối: cấu hình, giám sát, xử lí sự cố để mọi người dùng được hệ thống mạng ổn định và an toàn. Viết mã nguồn là việc của lập trình viên nên A sai; thiết kế ấn phẩm và soạn văn bản hành chính không thuộc chuyên môn của nghề nên B, D sai."
+    },
+    {
+      "id": "tinhoc12-b20-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["quản trị hệ thống", "ghi chép cấu hình"],
+      "content": "Vì sao công việc quản trị hệ thống cần ghi chép và lưu lại lịch sử thay đổi cấu hình?",
+      "options": [
+        { "key": "A", "text": "Để tăng tốc độ đường truyền mạng của tổ chức." },
+        { "key": "B", "text": "Để thay thế hoàn toàn hệ thống sao lưu dữ liệu." },
+        { "key": "C", "text": "Để không phải cài đặt phần mềm phòng chống virus." },
+        { "key": "D", "text": "Để khi có sự cố có thể đối chiếu, tìm nguyên nhân và khôi phục cấu hình trước đó." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Lịch sử thay đổi cho biết ai đã sửa gì và khi nào, nhờ đó khoanh vùng nguyên nhân sự cố và quay lại cấu hình đã chạy tốt. Ghi chép không làm tăng tốc đường truyền nên A sai; nó không thay thế sao lưu dữ liệu nên B sai; và cũng không thể thay việc cài phần mềm phòng chống virus nên C sai."
+    },
+    {
+      "id": "tinhoc12-b20-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["phân biệt nghề", "quản trị hệ thống"],
+      "content": "Nghề quản trị và bảo trì hệ thống khác nghề quản trị mạng ở điểm nào?",
+      "options": [
+        { "key": "A", "text": "Quản trị và bảo trì hệ thống chỉ làm việc với phần mềm, không liên quan tới phần cứng." },
+        { "key": "B", "text": "Quản trị và bảo trì hệ thống quản lí toàn bộ hệ thống thông tin gồm cả phần cứng và phần mềm, còn quản trị mạng tập trung vào hệ thống mạng và kết nối." },
+        { "key": "C", "text": "Quản trị mạng quản lí toàn bộ máy chủ và máy trạm, còn quản trị hệ thống chỉ quản lí đường truyền Internet." },
+        { "key": "D", "text": "Hai nghề này hoàn toàn giống nhau về nhiệm vụ nên có thể dùng lẫn tên gọi." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Quản trị và bảo trì hệ thống bao quát toàn bộ hệ thống thông tin, cả phần cứng lẫn phần mềm; quản trị mạng tập trung vào hạ tầng mạng và các kết nối. Vì vậy A sai khi nói nghề này không liên quan phần cứng; C đảo ngược phạm vi của hai nghề; D sai vì hai nghề có trọng tâm công việc khác nhau."
+    },
+    {
+      "id": "tinhoc12-b20-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["nhận định đúng sai", "nhóm nghề quản trị"],
+      "content": "Những nhận định nào sau đây đúng về nhóm nghề quản trị thuộc ngành Công nghệ thông tin?",
+      "options": [
+        { "key": "A", "text": "Nhóm nghề gồm ba nghề: quản trị mạng, bảo mật hệ thống thông tin, quản trị và bảo trì hệ thống." },
+        { "key": "B", "text": "Quản trị và bảo trì hệ thống quản lí và duy trì toàn bộ hệ thống thông tin, gồm cả phần cứng và phần mềm." },
+        { "key": "C", "text": "Quản trị mạng chủ yếu là công việc viết mã nguồn cho các ứng dụng mạng." },
+        { "key": "D", "text": "Nghề bảo mật hệ thống thông tin gắn với việc phòng chống tấn công và bảo vệ dữ liệu của tổ chức." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B, D đúng theo Bài 20: ba nghề quản trị được nêu đúng tên, quản trị và bảo trì hệ thống bao quát cả phần cứng lẫn phần mềm, bảo mật hệ thống thông tin gắn với phòng chống tấn công và bảo vệ dữ liệu. C sai vì viết mã nguồn là công việc của lập trình viên, không phải nhiệm vụ chính của quản trị mạng."
+    },
+    {
+      "id": "tinhoc12-b20-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["nhận định đúng sai", "bảo mật", "tấn công mạng"],
+      "content": "Những nhận định nào sau đây đúng về nguy cơ và biện pháp bảo mật thông tin?",
+      "options": [
+        { "key": "A", "text": "WannaCry là một trong những phần mềm độc hại đáng chú ý nhất, tấn công vào tháng 5 năm 2017." },
+        { "key": "B", "text": "Tấn công từ chối dịch vụ làm hệ thống quá tải và không phục vụ được người dùng bình thường." },
+        { "key": "C", "text": "IDS là viết tắt của hệ thống phòng thủ tường lửa." },
+        { "key": "D", "text": "Tấn công dò lỗ hổng là việc cài bản vá hợp pháp cho hệ điều hành." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng: WannaCry là phần mềm độc hại gây tấn công tháng 5 năm 2017, còn DoS làm quá tải khiến hệ thống không phục vụ được. C sai vì IDS là hệ thống phát hiện xâm nhập, tường lửa là một hệ thống khác. D sai vì dò lỗ hổng là hành vi rà soát điểm yếu để khai thác, không phải cài bản vá."
+    },
+    {
+      "id": "tinhoc12-b20-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["nhận định đúng sai", "ngành học", "hướng nghiệp"],
+      "content": "Những nhận định nào sau đây đúng về ngành học liên quan tới nhóm nghề quản trị?",
+      "options": [
+        { "key": "A", "text": "An ninh mạng là một trong các ngành học liên quan tới nhóm nghề quản trị." },
+        { "key": "B", "text": "Hệ thống thông tin là một trong các ngành học liên quan tới nhóm nghề quản trị." },
+        { "key": "C", "text": "Quản trị cơ sở dữ liệu nằm trong danh mục ngành học liên quan tới nhóm nghề quản trị." },
+        { "key": "D", "text": "Mạng máy tính và truyền thông dữ liệu là một trong các ngành học liên quan tới nhóm nghề quản trị." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B, D đúng vì An ninh mạng, Hệ thống thông tin, Mạng máy tính và truyền thông dữ liệu đều có trong danh mục ngành học liên quan tới nhóm nghề quản trị. C sai vì Quản trị cơ sở dữ liệu không nằm trong danh mục này."
+    },
+    {
+      "id": "tinhoc12-b20-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-nghe-quan-tri-cn",
+      "tags": ["nhận định đúng sai", "quản trị mạng", "quản trị hệ thống"],
+      "content": "Những nhận định nào sau đây đúng về công việc của các nghề quản trị?",
+      "options": [
+        { "key": "A", "text": "Quản trị mạng tập trung vào vận hành, giám sát hệ thống mạng và xử lí sự cố kết nối." },
+        { "key": "B", "text": "Quản trị và bảo trì hệ thống chỉ quản lí phần mềm, không liên quan tới phần cứng." },
+        { "key": "C", "text": "Cấp quyền truy cập theo vai trò và sao lưu, phục hồi dữ liệu là công việc thường gặp của quản trị và bảo trì hệ thống." },
+        { "key": "D", "text": "Người quản trị mạng phải viết mã nguồn cho mọi phần mềm mà tổ chức sử dụng." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng: quản trị mạng bám vào hạ tầng kết nối, còn quản trị và bảo trì hệ thống đảm nhận quản lí tài khoản, phân quyền, sao lưu và phục hồi dữ liệu. B sai vì nghề này quản lí cả phần cứng lẫn phần mềm. D sai vì viết mã nguồn thuộc công việc lập trình, không phải nhiệm vụ của quản trị mạng."
+    }
+  ]
+}

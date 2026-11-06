@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-26",
+  "title": "Đề ôn tập Tin học 12 – Bài 26: Liên kết và thanh điều hướng",
+  "slug": "de-tin-hoc-12-bai-26",
+  "description": "Đề ôn tập Bài 26 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về liên kết và thanh điều hướng trong Google Sites: khái niệm trang con, cấu trúc cây các trang, cách thêm trang con, truy cập trang con từ bảng chọn và cách bảng chọn hiển thị trên thiết bị di động. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B26",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b26-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["trang con", "khái niệm"],
+      "content": "Theo bài học, các trang con của trang chủ là gì?",
+      "options": [
+        { "key": "A", "text": "Các trang chứa thông tin bản quyền, được đặt ở cuối trang chủ." },
+        { "key": "B", "text": "Các trang web được mở từ bảng chọn của trang chủ." },
+        { "key": "C", "text": "Các trang chỉ truy cập được khi gõ địa chỉ URL, không hiện trong bảng chọn." },
+        { "key": "D", "text": "Các trang chứa toàn bộ tư liệu đa phương tiện của website." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài học định nghĩa các trang web được mở từ bảng chọn của trang chủ là trang con của trang chủ. Chân trang chỉ chứa thông tin ngắn gọn về chủ thể, trang con vẫn hiện trong bảng chọn chứ không chỉ mở bằng URL, và không có quy định trang con phải chứa toàn bộ tư liệu đa phương tiện."
+    },
+    {
+      "id": "tinhoc12-b26-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["cấu trúc cây", "tổ chức trang"],
+      "content": "Vì các trang con cũng có thể có trang con của mình nên các trang của một website thường được tổ chức, sắp xếp theo cấu trúc tương tự",
+      "options": [
+        { "key": "A", "text": "một bảng gồm nhiều hàng và nhiều cột." },
+        { "key": "B", "text": "một dãy trang tính nối tiếp nhau." },
+        { "key": "C", "text": "một danh sách phẳng không phân cấp." },
+        { "key": "D", "text": "cây thư mục." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài học kết luận các trang web có thể được tổ chức, sắp xếp theo cấu trúc tương tự cây thư mục, trong đó trang chủ là gốc và trang con là các nhánh. Bảng, dãy trang tính và danh sách phẳng đều không thể hiện được quan hệ cha – con nhiều cấp này."
+    },
+    {
+      "id": "tinhoc12-b26-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["bảng chọn Trang", "quản lí trang"],
+      "content": "Trong cửa sổ thiết kế Google Sites, bảng chọn nào dùng để xem danh sách các trang và tạo thêm trang mới?",
+      "options": [
+        { "key": "A", "text": "Bảng chọn Trang." },
+        { "key": "B", "text": "Bảng chọn Chèn." },
+        { "key": "C", "text": "Bảng chọn Giao diện." },
+        { "key": "D", "text": "Nút Công bố ở góc trên bên phải cửa sổ thiết kế." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảng chọn Trang liệt kê các trang của website và là nơi thực hiện việc thêm trang, thêm trang con. Bảng chọn Chèn dùng để chèn nội dung vào thân trang, bảng chọn Giao diện dùng để đổi mẫu hiển thị, còn nút Công bố chỉ dùng để xuất bản trang web."
+    },
+    {
+      "id": "tinhoc12-b26-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["bảng chọn Trang", "menu ba chấm"],
+      "content": "Trong bảng chọn Trang, nháy chuột vào dấu ba chấm dọc cạnh Trang chủ sẽ hiện ra menu gồm ba mục nào?",
+      "options": [
+        { "key": "A", "text": "Trang mới, Mục trình đơn mới, Đường liên kết mới." },
+        { "key": "B", "text": "Xoá trang, Đổi tên trang, Công bố trang." },
+        { "key": "C", "text": "Sao chép trang, Thuộc tính, Thêm trang con." },
+        { "key": "D", "text": "Nhúng toàn bộ trang, Nhân bản trang, Di chuyển trang." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Menu bật ra từ dấu ba chấm cạnh Trang chủ gồm Sao chép trang, Thuộc tính và Thêm trang con; muốn tạo trang con thì chọn Thêm trang con. Ba phương án còn lại trộn các lệnh của những vị trí khác như danh sách bật ra từ dấu cộng hay các thao tác không có trong menu này."
+    },
+    {
+      "id": "tinhoc12-b26-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["thêm trang con", "thao tác"],
+      "content": "Muốn tạo một trang con của Trang chủ, trong menu vừa mở ra ta chọn lệnh nào?",
+      "options": [
+        { "key": "A", "text": "Sao chép trang." },
+        { "key": "B", "text": "Thêm trang con." },
+        { "key": "C", "text": "Thuộc tính." },
+        { "key": "D", "text": "Nhúng toàn bộ trang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thêm trang con là lệnh tạo trang con của trang đang chọn, sau đó hộp thoại Trang con mới mở ra để nhập tên. Sao chép trang chỉ nhân bản một trang đã có, Thuộc tính dùng để xem và chỉnh thiết lập của trang, còn Nhúng toàn bộ trang là lệnh khác không dùng để tạo trang con."
+    },
+    {
+      "id": "tinhoc12-b26-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["hộp thoại Trang con mới", "hoàn thành"],
+      "content": "Trong hộp thoại Trang con mới, sau khi nhập tên trang vào ô Tên, ta nháy nút nào để hoàn thành việc tạo trang con?",
+      "options": [
+        { "key": "A", "text": "Áp dụng." },
+        { "key": "B", "text": "Chèn." },
+        { "key": "C", "text": "Lưu." },
+        { "key": "D", "text": "Xong." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài học hướng dẫn nhập tên trang con vào ô Tên của hộp thoại Trang con mới rồi chọn Xong để kết thúc. Áp dụng, Chèn và Lưu là những nút của các hộp thoại khác như chèn biểu mẫu hay lưu tệp, không phải nút của hộp thoại này."
+    },
+    {
+      "id": "tinhoc12-b26-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["thanh điều hướng", "truy cập trang con"],
+      "content": "Theo hướng dẫn của bài, muốn truy cập một trang con từ thanh điều hướng ta thực hiện thế nào?",
+      "options": [
+        { "key": "A", "text": "Đưa con trỏ chuột đến Trang chủ để bảng chọn mở ra, nháy biểu tượng bên trái tên trang cha để hiện các trang con rồi nháy tên trang con cần mở." },
+        { "key": "B", "text": "Nháy chuột phải vào Trang chủ rồi chọn lệnh Mở trang con trong menu vừa hiện." },
+        { "key": "C", "text": "Cuộn xuống cuối trang chủ rồi nháy vào liên kết ở chân trang." },
+        { "key": "D", "text": "Mở bảng chọn Trang trong cửa sổ thiết kế rồi nháy tên trang con." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trên thanh điều hướng, đưa con trỏ chuột đến Trang chủ thì bảng chọn mở ra; nháy biểu tượng bên trái tên trang cha để thấy các trang con và nháy tên trang con cần mở. Các phương án còn lại dùng chuột phải, dùng chân trang hay dùng bảng chọn Trang trong cửa sổ thiết kế, đều không phải cách bài học hướng dẫn cho người xem."
+    },
+    {
+      "id": "tinhoc12-b26-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["bảng chọn", "biểu tượng mở rộng"],
+      "content": "Trong bảng chọn mở ra từ một trang cha, biểu tượng nằm bên trái tên trang cha có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Xoá trang cha khỏi bảng chọn Trang." },
+        { "key": "B", "text": "Đổi tên của trang cha." },
+        { "key": "C", "text": "Mở rộng để hiện danh sách các trang con của trang đó." },
+        { "key": "D", "text": "Chuyển trang cha thành Trang chủ của website." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Biểu tượng bên trái tên trang là nút mở rộng, nháy vào đó sẽ thấy các lựa chọn trang con nằm dưới trang cha. Việc xoá, đổi tên hay đổi vai trò trang chủ đều thực hiện ở bảng chọn Trang hoặc phần thuộc tính, không dùng biểu tượng này trong bảng chọn trên thanh điều hướng."
+    },
+    {
+      "id": "tinhoc12-b26-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["thiết bị di động", "bảng chọn"],
+      "content": "Khi người xem truy cập website bằng điện thoại, Google Sites hiển thị bảng chọn trên thanh điều hướng như thế nào?",
+      "options": [
+        { "key": "A", "text": "Giữ nguyên vị trí và cách hiển thị như trên máy tính, chỉ phóng to chữ." },
+        { "key": "B", "text": "Thu bảng chọn thành biểu tượng ba gạch nằm ngang, người xem nháy vào đó để mở bảng chọn." },
+        { "key": "C", "text": "Bỏ bảng chọn và thay bằng một ô tìm kiếm." },
+        { "key": "D", "text": "Chuyển bảng chọn xuống dưới phần chân trang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trên điện thoại, bảng chọn được thu lại thành biểu tượng ba gạch nằm ngang và chỉ hiện ra khi người xem nháy vào biểu tượng đó. Việc phóng to chữ, thay bằng ô tìm kiếm hay chuyển xuống chân trang đều không phải cách Google Sites tự động điều chỉnh giao diện cho thiết bị di động."
+    },
+    {
+      "id": "tinhoc12-b26-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["thiết bị di động", "vị trí bảng chọn"],
+      "content": "Trên điện thoại, bảng chọn dạng ba gạch nằm ngang được đặt ở vị trí nào trên thanh điều hướng?",
+      "options": [
+        { "key": "A", "text": "Bên dưới logo của trang." },
+        { "key": "B", "text": "Ở giữa thanh điều hướng, ngay trên tiêu đề trang." },
+        { "key": "C", "text": "Ở phía trái, trước cả tiêu đề trang." },
+        { "key": "D", "text": "Ở phía phải, ngay trước logo của trang." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài học nêu bảng chọn được tự động chuyển sang phía phải, ngay trước logo của trang và có dạng biểu tượng ba gạch nằm ngang. Các vị trí bên dưới logo, ở giữa thanh hay phía trái đều không đúng với mô tả này."
+    },
+    {
+      "id": "tinhoc12-b26-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["Cài đặt", "Điều hướng", "máy tính"],
+      "content": "Muốn bảng chọn trên máy tính hiển thị giống như trên điện thoại, trong cửa sổ Cài đặt ta chọn đường nào?",
+      "options": [
+        { "key": "A", "text": "Điều hướng, rồi chọn Trên cùng ở mục Phần tử xuất hiện nhiều nhất." },
+        { "key": "B", "text": "Hình ảnh thương hiệu, rồi chọn Biểu trưng." },
+        { "key": "C", "text": "Điều hướng, mục Phần tử xuất hiện nhiều nhất, rồi chọn Bên." },
+        { "key": "D", "text": "Phân tích, rồi bật theo dõi lượt truy cập." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài học hướng dẫn mở Cài đặt, chọn Điều hướng, đến mục Phần tử xuất hiện nhiều nhất và chọn Bên để bảng chọn trên máy tính giống như trên điện thoại. Trên cùng là tuỳ chọn bố trí khác, còn Hình ảnh thương hiệu và Phân tích thuộc những mục không liên quan tới bảng chọn."
+    },
+    {
+      "id": "tinhoc12-b26-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["Cài đặt", "tuỳ chọn bố trí"],
+      "content": "Phát biểu nào sau đây đúng về hai tuỳ chọn Bên và Trên cùng trong mục Điều hướng của cửa sổ Cài đặt?",
+      "options": [
+        { "key": "A", "text": "Chọn Bên cho bảng chọn hiển thị giống như trên điện thoại, còn Trên cùng là một tuỳ chọn bố trí khác." },
+        { "key": "B", "text": "Cả hai tuỳ chọn luôn cho kết quả hiển thị hoàn toàn giống nhau." },
+        { "key": "C", "text": "Trên cùng là tuỳ chọn duy nhất được phép dùng trên máy tính." },
+        { "key": "D", "text": "Chọn Bên chỉ có tác dụng với người xem dùng điện thoại." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Muốn bảng chọn trên máy tính hiển thị giống như trên điện thoại thì chọn Bên; Trên cùng là một tuỳ chọn bố trí khác chứ không cho kết quả tương tự. Vì vậy B sai, C sai vì không có quy định chỉ được dùng Trên cùng, và D sai vì tuỳ chọn này áp dụng cho giao diện trên máy tính."
+    },
+    {
+      "id": "tinhoc12-b26-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["phần đầu trang con", "tạo tự động"],
+      "content": "Phần đầu của một trang con vừa được khởi tạo trong Google Sites có đặc điểm gì?",
+      "options": [
+        { "key": "A", "text": "Hoàn toàn trống nên phải tạo mới từ đầu bằng tay." },
+        { "key": "B", "text": "Không có tiêu đề vì trang con không được đặt tiêu đề." },
+        { "key": "C", "text": "Giống hệt trang chủ và không thể chỉnh sửa được." },
+        { "key": "D", "text": "Được tạo tự động với hình nền của trang chủ và tiêu đề tương ứng với tên trang." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài học cho biết phần đầu của trang mới được tạo tự động, dùng hình nền của trang chủ và có tiêu đề tương ứng. Vì vậy không phải tạo tay từ đầu, trang con vẫn có tiêu đề, và phần đầu này còn chỉnh sửa được chứ không đóng băng như trang chủ."
+    },
+    {
+      "id": "tinhoc12-b26-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["phần đầu trang con", "chỉnh sửa"],
+      "content": "Sau khi tạo trang con, nên chỉnh sửa phần đầu trang của trang con như thế nào?",
+      "options": [
+        { "key": "A", "text": "Tăng chiều cao phần đầu lên mức tối đa để giống kiểu Bia." },
+        { "key": "B", "text": "Giảm chiều cao phần đầu và thay hình nền để phân biệt với trang chủ." },
+        { "key": "C", "text": "Xoá tiêu đề để phần đầu chỉ còn hình nền." },
+        { "key": "D", "text": "Đổi toàn bộ phông chữ của website sang phông có chân." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vì là trang con nên phần đầu thường được giảm chiều cao và thay hình nền để người xem phân biệt với trang chủ. Tăng chiều cao tối đa, xoá tiêu đề hay đổi toàn bộ phông chữ đều không phải việc bài học hướng dẫn khi chỉnh phần đầu trang con."
+    },
+    {
+      "id": "tinhoc12-b26-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["thanh điều hướng", "vai trò"],
+      "content": "Thanh điều hướng nằm ở đâu và có chức năng gì?",
+      "options": [
+        { "key": "A", "text": "Nằm ở phần đầu trang, chứa bảng chọn giúp người xem đi tới các trang của website." },
+        { "key": "B", "text": "Nằm ở chân trang, chứa thông tin bản quyền và địa chỉ liên hệ." },
+        { "key": "C", "text": "Nằm trong phần thân trang, chứa nội dung chi tiết của bài viết." },
+        { "key": "D", "text": "Nằm trong cửa sổ Cài đặt, dùng để đổi tên website." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thanh điều hướng thuộc phần đầu trang và mang bảng chọn để người xem chuyển giữa các trang, kể cả các trang con. Thông tin bản quyền và liên hệ thuộc chân trang, nội dung bài viết thuộc phần thân trang, còn cửa sổ Cài đặt là nơi thiết lập chứ không phải thanh điều hướng."
+    },
+    {
+      "id": "tinhoc12-b26-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["tình huống", "trang con nhiều cấp"],
+      "content": "Website có Trang chủ, bên dưới là trang Tây Bắc – Đông Bắc, trong trang đó có trang con Mù Cang Chải. Người xem muốn vào trang Mù Cang Chải từ thanh điều hướng thì làm thế nào?",
+      "options": [
+        { "key": "A", "text": "Nháy trực tiếp vào Trang chủ vì mọi trang con đều hiện ngay ở mục đầu tiên." },
+        { "key": "B", "text": "Mở bảng chọn Trang trong cửa sổ thiết kế rồi nháy tên trang." },
+        { "key": "C", "text": "Đưa con trỏ chuột đến Trang chủ, nháy biểu tượng mở rộng bên trái tên trang Tây Bắc – Đông Bắc rồi nháy tên Mù Cang Chải." },
+        { "key": "D", "text": "Nháy vào dòng liên kết bản quyền ở chân trang." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Muốn tới trang con của một trang cha, người xem phải mở bảng chọn từ Trang chủ, mở rộng trang cha rồi nháy tên trang con. Nháy Trang chủ chỉ mở trang chủ, bảng chọn Trang trong cửa sổ thiết kế dành cho người chỉnh sửa, còn chân trang chứa thông tin bản quyền chứ không phải bảng chọn."
+    },
+    {
+      "id": "tinhoc12-b26-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["trang chủ", "cấu trúc trang"],
+      "content": "Trong cấu trúc cây các trang của một website, trang chủ có vai trò gì?",
+      "options": [
+        { "key": "A", "text": "Là trang con của mọi trang khác trong website." },
+        { "key": "B", "text": "Không hiển thị trên thanh điều hướng nên không ai truy cập được." },
+        { "key": "C", "text": "Chỉ chứa thông tin bản quyền và thông tin liên lạc." },
+        { "key": "D", "text": "Là trang gốc, các trang được mở từ bảng chọn của nó là trang con." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trang chủ là gốc của cây, các trang mở từ bảng chọn của trang chủ được gọi là trang con và có thể có trang con riêng. Trang chủ không phải trang con của trang nào, vẫn xuất hiện trên thanh điều hướng, và nội dung của nó không giới hạn ở phần bản quyền."
+    },
+    {
+      "id": "tinhoc12-b26-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["cấu trúc cây", "lợi ích"],
+      "content": "Tổ chức các trang của website theo cấu trúc cây đem lại lợi ích chính nào?",
+      "options": [
+        { "key": "A", "text": "Làm cho dung lượng của website nhỏ đi rõ rệt." },
+        { "key": "B", "text": "Thể hiện quan hệ cha – con giữa các trang và giúp người xem tìm được trang cần mở." },
+        { "key": "C", "text": "Tự động tạo favicon cho toàn bộ website." },
+        { "key": "D", "text": "Giảm số trang bắt buộc phải có trong website." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cấu trúc cây làm rõ trang nào là cha, trang nào là con và nhờ đó người xem lần theo bảng chọn để tới đúng trang. Cấu trúc này không làm giảm dung lượng, không tạo favicon và cũng không làm giảm số trang của website."
+    },
+    {
+      "id": "tinhoc12-b26-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["hộp thoại Trang con mới", "đặt tên"],
+      "content": "Tên của trang con mới được nhập vào ô nào trong hộp thoại Trang con mới?",
+      "options": [
+        { "key": "A", "text": "Ô Tên." },
+        { "key": "B", "text": "Ô Tiêu đề trang ở phần đầu trang." },
+        { "key": "C", "text": "Ô Lời nhắn của phần thông báo." },
+        { "key": "D", "text": "Ô tìm kiếm trên thanh điều hướng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hộp thoại Trang con mới có ô Tên để nhập tên trang con, kèm mục Nâng cao và nút Xong. Ô Tiêu đề trang thuộc phần đầu trang, Lời nhắn thuộc phần thông báo, còn ô tìm kiếm dùng để tìm nội dung chứ không đặt tên trang."
+    },
+    {
+      "id": "tinhoc12-b26-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["hộp thoại Trang con mới", "mục Nâng cao"],
+      "content": "Ngoài ô Tên, hộp thoại Trang con mới còn có mục nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Bảng màu của trang." },
+        { "key": "B", "text": "Hình ảnh thương hiệu của website." },
+        { "key": "C", "text": "Nâng cao." },
+        { "key": "D", "text": "Phân tích lượt truy cập." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hộp thoại Trang con mới gồm ô Tên và mục Nâng cao để thiết lập thêm thông tin cho trang con. Bảng màu, hình ảnh thương hiệu và phân tích lượt truy cập nằm trong cửa sổ Cài đặt của website, không có trong hộp thoại tạo trang con."
+    },
+    {
+      "id": "tinhoc12-b26-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["thanh điều hướng", "người xem"],
+      "content": "Bảng chọn trên thanh điều hướng giúp người xem làm gì?",
+      "options": [
+        { "key": "A", "text": "Xem mã HTML của trang đang mở." },
+        { "key": "B", "text": "Di chuyển giữa các trang của website, kể cả tới các trang con." },
+        { "key": "C", "text": "Sửa trực tiếp nội dung của trang đang xem." },
+        { "key": "D", "text": "Tải xuống các tệp đính kèm trong trang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng chọn trên thanh điều hướng là danh sách các trang để người xem chuyển từ trang này sang trang khác, trong đó có cả trang con. Người xem không dùng bảng chọn để xem mã HTML, sửa nội dung hay tải tệp đính kèm."
+    },
+    {
+      "id": "tinhoc12-b26-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["trang con", "nhiều cấp"],
+      "content": "Phát biểu nào sau đây đúng về số cấp của các trang trong một website?",
+      "options": [
+        { "key": "A", "text": "Mỗi website chỉ có trang chủ và các trang con trực tiếp, không thể có cấp thứ ba." },
+        { "key": "B", "text": "Trang con không thể có trang con của mình." },
+        { "key": "C", "text": "Cấu trúc các trang luôn là một danh sách phẳng, không phân cấp." },
+        { "key": "D", "text": "Trang con cũng có thể có trang con của mình nên cây các trang có thể có nhiều cấp." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài học nêu rõ trang con cũng có thể có các trang con của mình, vì thế cây các trang có thể sâu nhiều cấp như cây thư mục. Ba phương án còn lại đều phủ nhận khả năng phân cấp nhiều mức, trái với nội dung bài."
+    },
+    {
+      "id": "tinhoc12-b26-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["sao chép trang", "bảng chọn Trang"],
+      "content": "Muốn sao chép một trang đã có trong website, thao tác bắt đầu từ đâu?",
+      "options": [
+        { "key": "A", "text": "Bảng chọn Chèn, nháy lệnh Hộp văn bản." },
+        { "key": "B", "text": "Nút Công bố ở góc trên bên phải." },
+        { "key": "C", "text": "Nháy dấu ba chấm dọc cạnh tên trang trong bảng chọn Trang rồi chọn Sao chép trang." },
+        { "key": "D", "text": "Cửa sổ Cài đặt, mục Hình ảnh thương hiệu." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sao chép trang là một mục trong menu mở ra từ dấu ba chấm cạnh tên trang ở bảng chọn Trang. Bảng chọn Chèn chỉ chèn nội dung, nút Công bố chỉ xuất bản trang, còn Hình ảnh thương hiệu dùng để đặt logo và favicon."
+    },
+    {
+      "id": "tinhoc12-b26-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["thanh điều hướng", "nhận định sai"],
+      "content": "Điều nào sau đây KHÔNG đúng về thanh điều hướng của website tạo bằng Google Sites?",
+      "options": [
+        { "key": "A", "text": "Người xem buộc phải gõ địa chỉ URL của từng trang con vì bảng chọn không hiển thị trang con." },
+        { "key": "B", "text": "Trên máy tính, đưa con trỏ chuột đến một mục trong bảng chọn thì bảng chọn của mục đó mở ra." },
+        { "key": "C", "text": "Trên điện thoại, bảng chọn được thu thành biểu tượng ba gạch nằm ngang." },
+        { "key": "D", "text": "Có thể thiết lập để bảng chọn trên máy tính hiển thị giống như trên điện thoại." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảng chọn trên thanh điều hướng có hiển thị cả trang con, người xem chỉ cần mở rộng trang cha rồi nháy tên trang con nên không buộc phải gõ URL. Ba phương án còn lại đúng: bảng chọn mở ra khi đưa con trỏ tới, trên điện thoại thu thành ba gạch, và có thiết lập để máy tính hiển thị giống điện thoại."
+    },
+    {
+      "id": "tinhoc12-b26-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["nhận định đúng sai", "trang con"],
+      "content": "Những nhận định nào sau đây đúng về trang con của một website?",
+      "options": [
+        { "key": "A", "text": "Trang con của trang chủ là các trang được mở từ bảng chọn của trang chủ." },
+        { "key": "B", "text": "Trang con cũng có thể có trang con của mình." },
+        { "key": "C", "text": "Muốn tạo trang con bắt buộc phải sao chép Trang chủ rồi đổi tên trang vừa sao chép." },
+        { "key": "D", "text": "Mỗi website chỉ được phép có tối đa hai cấp trang." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng theo định nghĩa trang con và mô hình cấu trúc hình cây của bài học. C sai vì trang con được tạo bằng lệnh Thêm trang con trong menu của bảng chọn Trang. D sai vì trang con có thể có trang con nên số cấp không bị giới hạn ở hai."
+    },
+    {
+      "id": "tinhoc12-b26-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["nhận định đúng sai", "tạo trang con", "thanh điều hướng"],
+      "content": "Những nhận định nào sau đây đúng về việc tạo và truy cập trang con trong Google Sites?",
+      "options": [
+        { "key": "A", "text": "Trong bảng chọn Trang, nháy dấu ba chấm cạnh Trang chủ sẽ thấy mục Thêm trang con." },
+        { "key": "B", "text": "Hộp thoại Trang con mới có ô Tên để nhập tên trang và nút Xong để hoàn thành." },
+        { "key": "C", "text": "Sau khi tạo, trang con xuất hiện trong bảng chọn mở ra từ Trang chủ trên thanh điều hướng." },
+        { "key": "D", "text": "Trang con mới tạo có phần đầu hoàn toàn trống và không có tiêu đề." }
+      ],
+      "correctAnswer": ["A", "B", "C"],
+      "explanation": "A, B và C đúng theo các bước của bài học: thêm trang con từ menu ba chấm, nhập tên rồi chọn Xong, sau đó trang con hiện trong bảng chọn của Trang chủ. D sai vì phần đầu trang con được tạo tự động với hình nền của trang chủ và tiêu đề tương ứng."
+    },
+    {
+      "id": "tinhoc12-b26-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["nhận định đúng sai", "thiết bị di động", "Cài đặt Điều hướng"],
+      "content": "Những nhận định nào sau đây đúng về bảng chọn trên thanh điều hướng?",
+      "options": [
+        { "key": "A", "text": "Trên điện thoại, bảng chọn được chuyển sang phía phải, ngay trước logo và có dạng biểu tượng ba gạch nằm ngang." },
+        { "key": "B", "text": "Trong cửa sổ Cài đặt, mở mục Điều hướng và chọn Bên ở Phần tử xuất hiện nhiều nhất để bảng chọn trên máy tính giống như trên điện thoại." },
+        { "key": "C", "text": "Chọn Trên cùng ở mục Điều hướng cho kết quả hiển thị giống hệt như chọn Bên." },
+        { "key": "D", "text": "Bảng chọn trên thanh điều hướng chỉ hiển thị Trang chủ, không bao giờ có trang con." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng theo mô tả của bài về giao diện điện thoại và cách thiết lập trong mục Điều hướng. C sai vì Trên cùng là tuỳ chọn bố trí khác, không cho kết quả như chọn Bên. D sai vì bảng chọn mở rộng được để hiện các trang con của trang cha."
+    },
+    {
+      "id": "tinhoc12-b26-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-lien-ket-dieu-huong",
+      "tags": ["nhận định đúng sai", "cấu trúc cây", "trang chủ"],
+      "content": "Những nhận định nào sau đây đúng về cấu trúc các trang của một website?",
+      "options": [
+        { "key": "A", "text": "Các trang web có thể được tổ chức, sắp xếp theo cấu trúc tương tự cây thư mục." },
+        { "key": "B", "text": "Trang chủ là trang gốc, các trang được mở từ bảng chọn của trang chủ gọi là trang con." },
+        { "key": "C", "text": "Mọi trang con đều bắt buộc phải có ít nhất ba trang con của mình." },
+        { "key": "D", "text": "Cây các trang có thể có nhiều cấp vì trang con cũng có thể có trang con." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng theo nội dung bài: cấu trúc cây thư mục, trang chủ là gốc và các trang con có thể phân cấp tiếp. C sai vì bài học chỉ nói trang con có thể có trang con, không quy định bắt buộc mỗi trang con phải có ba trang con."
+    }
+  ]
+}

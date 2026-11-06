@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-27",
+  "title": "Đề ôn tập Tin học 12 – Bài 27: Biểu mẫu trên trang web",
+  "slug": "de-tin-hoc-12-bai-27",
+  "description": "Đề ôn tập Bài 27 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về biểu mẫu trên trang web: tạo biểu mẫu bằng Google Forms, soạn câu hỏi trắc nghiệm và câu trả lời ngắn, nhúng biểu mẫu vào trang Google Sites và xem thống kê kết quả ở tab Câu trả lời hoặc Trang tính. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B27",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "updatedAt": "2026-11-06T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b27-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["bản chất biểu mẫu", "Google Forms"],
+      "content": "Theo bài học, bản chất của việc tạo biểu mẫu lấy ý kiến phản hồi trên trang web là gì?",
+      "options": [
+        { "key": "A", "text": "Tạo biểu mẫu bằng ứng dụng Forms của Google rồi nhúng vào trang web được thiết kế bằng Google Sites." },
+        { "key": "B", "text": "Tạo biểu mẫu ngay trong cửa sổ chỉnh sửa của Google Sites." },
+        { "key": "C", "text": "Viết mã HTML cho biểu mẫu rồi dán vào khối văn bản của trang." },
+        { "key": "D", "text": "Dùng một ứng dụng khảo sát của bên thứ ba không thuộc Google." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài học khẳng định biểu mẫu được tạo bằng ứng dụng Forms của Google rồi nhúng vào trang web thiết kế bằng Google Sites; đây cũng là điểm dễ nhầm vì không thể tạo biểu mẫu ngay trong Google Sites. Các phương án còn lại mô tả những cách không có trong bài."
+    },
+    {
+      "id": "tinhoc12-b27-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["chuẩn bị câu hỏi", "bộ câu hỏi"],
+      "content": "Bộ câu hỏi chuẩn bị cho một biểu mẫu có thể gồm những dạng nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ gồm các câu hỏi trắc nghiệm có đúng bốn lựa chọn." },
+        { "key": "B", "text": "Chỉ gồm các câu trả lời ngắn." },
+        { "key": "C", "text": "Có thể gồm các câu hỏi trắc nghiệm hoặc các câu trả lời ngắn." },
+        { "key": "D", "text": "Chỉ gồm các câu hỏi chấm điểm kèm đáp án đúng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trước khi tạo biểu mẫu, ta chuẩn bị một bộ câu hỏi, có thể là câu hỏi trắc nghiệm hoặc câu trả lời ngắn. Câu hỏi trắc nghiệm bốn lựa chọn trong sách chỉ là ví dụ minh hoạ nên không phải dạng duy nhất, còn câu hỏi chấm điểm kèm đáp án không phải yêu cầu của bài."
+    },
+    {
+      "id": "tinhoc12-b27-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["tạo biểu mẫu", "thao tác Forms"],
+      "content": "Trong ứng dụng Forms, để bắt đầu một biểu mẫu mới ta thực hiện thế nào?",
+      "options": [
+        { "key": "A", "text": "Mở Google Sites, chọn Chèn rồi chọn Biểu mẫu." },
+        { "key": "B", "text": "Nháy biểu tượng dấu cộng rồi chọn Mẫu không có tiêu đề để nhập tiêu đề cho biểu mẫu." },
+        { "key": "C", "text": "Mở tab Câu trả lời rồi nháy nút Tạo mới." },
+        { "key": "D", "text": "Mở cửa sổ Cài đặt của Google Sites, mục Điều hướng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài học hướng dẫn nháy biểu tượng dấu cộng rồi chọn Mẫu không có tiêu đề để tạo biểu mẫu trống và nhập tiêu đề. Chèn Biểu mẫu trong Google Sites chỉ dùng để nhúng biểu mẫu đã có, tab Câu trả lời dùng để xem kết quả, còn mục Điều hướng thuộc phần đầu trang."
+    },
+    {
+      "id": "tinhoc12-b27-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["giao diện Forms", "ba tab"],
+      "content": "Ba tab hiển thị trên một biểu mẫu trong ứng dụng Forms là gì?",
+      "options": [
+        { "key": "A", "text": "Nội dung, Thiết kế, Phản hồi." },
+        { "key": "B", "text": "Tệp, Chỉnh sửa, Xem." },
+        { "key": "C", "text": "Câu hỏi, Chủ đề, Trả lời." },
+        { "key": "D", "text": "Câu hỏi, Câu trả lời, Cài đặt." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Biểu mẫu trong Forms có ba tab: Câu hỏi để soạn thảo, Câu trả lời để xem thống kê phản hồi và Cài đặt để thiết lập tuỳ chọn. Các nhóm tên khác như Nội dung, Thiết kế, Phản hồi hay Tệp, Chỉnh sửa, Xem không phải ba tab của biểu mẫu."
+    },
+    {
+      "id": "tinhoc12-b27-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["tab Câu hỏi", "soạn câu hỏi"],
+      "content": "Tab Câu hỏi của biểu mẫu được dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Soạn thảo các câu hỏi của biểu mẫu." },
+        { "key": "B", "text": "Xem thống kê các câu trả lời đã nhận." },
+        { "key": "C", "text": "Thiết lập các tuỳ chọn chung của biểu mẫu." },
+        { "key": "D", "text": "Xuất dữ liệu trả lời ra bảng tính." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tab Câu hỏi là nơi soạn nội dung câu hỏi và các tuỳ chọn trả lời. Xem thống kê và xuất dữ liệu thuộc tab Câu trả lời, còn các tuỳ chọn chung của biểu mẫu nằm ở tab Cài đặt."
+    },
+    {
+      "id": "tinhoc12-b27-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["câu hỏi bắt buộc", "thiết lập câu hỏi"],
+      "content": "Muốn người trả lời không được bỏ qua một câu hỏi, ta thực hiện thế nào?",
+      "options": [
+        { "key": "A", "text": "Đặt câu hỏi đó ở vị trí đầu tiên của biểu mẫu." },
+        { "key": "B", "text": "Chọn kiểu câu hỏi Trắc nghiệm và bật tuỳ chọn Bắt buộc." },
+        { "key": "C", "text": "Thêm tuỳ chọn Câu trả lời khác cho câu hỏi đó." },
+        { "key": "D", "text": "Viết nội dung câu hỏi bằng chữ in hoa để gây chú ý." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài học hướng dẫn chọn câu hỏi kiểu Trắc nghiệm rồi bật tuỳ chọn Bắt buộc để người trả lời phải trả lời câu đó. Vị trí câu hỏi, tuỳ chọn Câu trả lời khác hay cách viết chữ in hoa đều không tạo ra ràng buộc bắt buộc trả lời."
+    },
+    {
+      "id": "tinhoc12-b27-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["thêm câu hỏi", "thao tác Forms"],
+      "content": "Sau khi nhập xong một câu hỏi, muốn thêm câu hỏi tiếp theo vào biểu mẫu ta làm gì?",
+      "options": [
+        { "key": "A", "text": "Tạo một biểu mẫu mới rồi sao chép câu hỏi sang." },
+        { "key": "B", "text": "Mở tab Câu trả lời để thêm câu hỏi." },
+        { "key": "C", "text": "Nháy nút dấu cộng ở bảng chọn bên phải để chèn thêm câu hỏi." },
+        { "key": "D", "text": "Quay lại Google Sites và chèn thêm một biểu mẫu nữa." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sau câu hỏi đầu tiên, ta nháy nút dấu cộng ở bảng chọn bên phải để tiếp tục nhập các câu hỏi khác trong cùng biểu mẫu. Vì thế không cần tạo biểu mẫu mới, không thêm câu hỏi từ tab Câu trả lời và cũng không cần nhúng thêm biểu mẫu vào trang."
+    },
+    {
+      "id": "tinhoc12-b27-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["nhúng biểu mẫu", "bảng chọn Chèn"],
+      "content": "Để đưa biểu mẫu đã tạo vào trang chủ của website, ta thực hiện thế nào?",
+      "options": [
+        { "key": "A", "text": "Mở bảng chọn Chèn, nháy nút lệnh Biểu mẫu, chọn biểu mẫu cần dùng rồi nháy nút Chèn." },
+        { "key": "B", "text": "Mở bảng chọn Trang rồi chọn Thêm trang con." },
+        { "key": "C", "text": "Mở bảng chọn Giao diện rồi chọn một mẫu giao diện." },
+        { "key": "D", "text": "Mở cửa sổ Cài đặt rồi chọn mục Điều hướng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài học hướng dẫn nháy nút lệnh Biểu mẫu trong bảng chọn Chèn của Google Sites, chọn biểu mẫu cần nhúng rồi nháy nút Chèn ở góc dưới bên phải hộp chọn. Các bảng chọn Trang, Giao diện và mục Điều hướng không dùng để nhúng biểu mẫu."
+    },
+    {
+      "id": "tinhoc12-b27-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["vị trí biểu mẫu", "trang chủ"],
+      "content": "Theo các bước trong bài, sau khi nhúng thì biểu mẫu nằm ở vị trí nào của trang chủ?",
+      "options": [
+        { "key": "A", "text": "Ngay trên cùng, thay thế phần đầu trang." },
+        { "key": "B", "text": "Trên thanh điều hướng, cạnh bảng chọn các trang." },
+        { "key": "C", "text": "Trong một cửa sổ riêng do Google Sites tự tạo." },
+        { "key": "D", "text": "Ở cuối trang chủ." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài học hướng dẫn nhúng biểu mẫu vào cuối trang chủ, sau đó biểu mẫu hiển thị ngay trong trang web để người xem điền. Biểu mẫu không thay phần đầu trang, không nằm trên thanh điều hướng và không mở trong cửa sổ riêng."
+    },
+    {
+      "id": "tinhoc12-b27-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["trả lời biểu mẫu", "trải nghiệm người xem"],
+      "content": "Người xem muốn trả lời biểu mẫu đã được nhúng vào trang chủ thì làm thế nào?",
+      "options": [
+        { "key": "A", "text": "Phải mở ứng dụng Forms bằng tài khoản Google của mình." },
+        { "key": "B", "text": "Phải tải biểu mẫu về máy rồi điền vào tệp đã tải." },
+        { "key": "C", "text": "Điền ngay trên trang web đang xem, không cần mở ứng dụng Forms." },
+        { "key": "D", "text": "Phải yêu cầu chủ website công bố lại trang rồi mới điền được." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Biểu mẫu đã nhúng hiển thị ngay trong trang nên người xem điền trực tiếp trên trang web, không phải mở ứng dụng Forms. Việc tải tệp về máy hay công bố lại trang cũng không cần thiết cho thao tác trả lời."
+    },
+    {
+      "id": "tinhoc12-b27-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["tab Câu trả lời", "bản tóm tắt"],
+      "content": "Trong tab Câu trả lời, mục Bản tóm tắt cho biết điều gì?",
+      "options": [
+        { "key": "A", "text": "Thông tin chi tiết về câu trả lời của từng người." },
+        { "key": "B", "text": "Thống kê các câu trả lời dưới dạng biểu đồ." },
+        { "key": "C", "text": "Nội dung chi tiết của từng câu hỏi trong biểu mẫu." },
+        { "key": "D", "text": "Danh sách các tuỳ chọn trong tab Cài đặt." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bản tóm tắt thống kê câu trả lời dưới dạng biểu đồ để thấy nhanh xu hướng trả lời. Thông tin chi tiết của từng người nằm ở mục Cá nhân, thông tin chi tiết cho từng câu hỏi nằm ở mục Câu hỏi, còn tab Cài đặt chứa các tuỳ chọn của biểu mẫu."
+    },
+    {
+      "id": "tinhoc12-b27-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["tab Câu trả lời", "mục Cá nhân"],
+      "content": "Muốn xem thông tin chi tiết về câu trả lời của từng người, trong tab Câu trả lời ta chọn mục nào?",
+      "options": [
+        { "key": "A", "text": "Bản tóm tắt." },
+        { "key": "B", "text": "Câu hỏi." },
+        { "key": "C", "text": "Xem trong Trang tính." },
+        { "key": "D", "text": "Cá nhân." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mục Cá nhân cho biết thông tin chi tiết về câu trả lời của từng người. Bản tóm tắt hiển thị biểu đồ thống kê, mục Câu hỏi tổng hợp theo từng câu hỏi, còn Xem trong Trang tính mở toàn bộ dữ liệu dưới dạng bảng tính."
+    },
+    {
+      "id": "tinhoc12-b27-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["tab Câu trả lời", "mục Câu hỏi"],
+      "content": "Trong tab Câu trả lời, mục Câu hỏi cho biết điều gì?",
+      "options": [
+        { "key": "A", "text": "Thông tin chi tiết cho từng câu hỏi của biểu mẫu." },
+        { "key": "B", "text": "Danh sách những người đã trả lời biểu mẫu." },
+        { "key": "C", "text": "Các tuỳ chọn thiết lập của biểu mẫu." },
+        { "key": "D", "text": "Nội dung câu hỏi đang soạn trong tab Câu hỏi." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mục Câu hỏi trong tab Câu trả lời tổng hợp kết quả theo từng câu hỏi để xem chi tiết cách người trả lời lựa chọn. Danh sách người trả lời và chi tiết câu trả lời của từng người thuộc mục Cá nhân, còn các tuỳ chọn thiết lập nằm ở tab Cài đặt."
+    },
+    {
+      "id": "tinhoc12-b27-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["Trang tính", "xem dữ liệu"],
+      "content": "Muốn xem toàn bộ dữ liệu trả lời dưới dạng bảng tính, ta chọn mục nào?",
+      "options": [
+        { "key": "A", "text": "Cá nhân." },
+        { "key": "B", "text": "Bản tóm tắt." },
+        { "key": "C", "text": "Xem trong Trang tính." },
+        { "key": "D", "text": "Cài đặt." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mục Xem trong Trang tính mở bảng tính chứa toàn bộ dữ liệu trả lời của biểu mẫu. Cá nhân và Bản tóm tắt chỉ hiển thị những góc nhìn tổng hợp trong tab Câu trả lời, còn Cài đặt dùng để thiết lập tuỳ chọn chứ không chứa dữ liệu trả lời."
+    },
+    {
+      "id": "tinhoc12-b27-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["Trang tính", "dấu thời gian"],
+      "content": "Trong bảng tính chứa dữ liệu trả lời của biểu mẫu, cột A là gì?",
+      "options": [
+        { "key": "A", "text": "Tên người trả lời." },
+        { "key": "B", "text": "Tiêu đề của biểu mẫu." },
+        { "key": "C", "text": "Câu hỏi đầu tiên của biểu mẫu." },
+        { "key": "D", "text": "Dấu thời gian." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dữ liệu trả lời được tập hợp vào bảng tính với cột A là Dấu thời gian, ghi nhận thời điểm mỗi lượt trả lời được gửi. Tên người trả lời, tiêu đề biểu mẫu hay nội dung câu hỏi không phải nội dung của cột A."
+    },
+    {
+      "id": "tinhoc12-b27-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["Trang tính", "cấu trúc dữ liệu"],
+      "content": "Trong bảng tính dữ liệu trả lời, các cột đứng sau cột Dấu thời gian tương ứng với nội dung nào?",
+      "options": [
+        { "key": "A", "text": "Thứ tự người trả lời theo thời gian gửi." },
+        { "key": "B", "text": "Các câu hỏi của biểu mẫu." },
+        { "key": "C", "text": "Ba tab Câu hỏi, Câu trả lời, Cài đặt." },
+        { "key": "D", "text": "Các mẫu giao diện của Google Sites." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sau cột Dấu thời gian, mỗi cột trong bảng tính ứng với một câu hỏi của biểu mẫu, nhờ đó ta đọc được câu trả lời theo hàng ngang của từng người. Các phương án còn lại không phải cách bảng tính được tổ chức."
+    },
+    {
+      "id": "tinhoc12-b27-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["tab Cài đặt", "tuỳ chọn biểu mẫu"],
+      "content": "Tab Cài đặt của biểu mẫu được dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Thiết lập các tuỳ chọn cho biểu mẫu." },
+        { "key": "B", "text": "Soạn nội dung các câu hỏi." },
+        { "key": "C", "text": "Xem biểu đồ thống kê câu trả lời." },
+        { "key": "D", "text": "Nhúng biểu mẫu vào trang Google Sites." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tab Cài đặt dùng để thiết lập các tuỳ chọn của biểu mẫu. Soạn câu hỏi thuộc tab Câu hỏi, xem thống kê thuộc tab Câu trả lời, còn việc nhúng biểu mẫu thực hiện trong Google Sites chứ không nằm trong tab này."
+    },
+    {
+      "id": "tinhoc12-b27-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["vì sao dùng Forms", "nhúng"],
+      "content": "Vì sao không thể tạo biểu mẫu ngay trong cửa sổ chỉnh sửa của Google Sites?",
+      "options": [
+        { "key": "A", "text": "Vì Google Sites không có khả năng hiển thị biểu mẫu trên trang." },
+        { "key": "B", "text": "Vì biểu mẫu chỉ dùng được trên điện thoại." },
+        { "key": "C", "text": "Vì Google Sites chỉ nhúng được biểu mẫu đã tạo bằng ứng dụng Forms của Google." },
+        { "key": "D", "text": "Vì biểu mẫu đòi hỏi phải cài thêm tiện ích mở rộng cho trình duyệt." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Google Sites chỉ có lệnh nhúng biểu mẫu đã tạo bằng ứng dụng Forms, nên biểu mẫu phải được soạn trong Forms trước. Google Sites vẫn hiển thị được biểu mẫu sau khi nhúng, không phụ thuộc thiết bị và không cần tiện ích mở rộng nào."
+    },
+    {
+      "id": "tinhoc12-b27-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["mục đích biểu mẫu", "phản hồi"],
+      "content": "Việc nhúng biểu mẫu vào trang chủ đem lại lợi ích gì cho website?",
+      "options": [
+        { "key": "A", "text": "Thay thế được thanh điều hướng của website." },
+        { "key": "B", "text": "Thu thập ý kiến phản hồi của người xem ngay trên trang." },
+        { "key": "C", "text": "Tự động tạo thêm các trang con cho website." },
+        { "key": "D", "text": "Tự động đổi hình nền của phần đầu trang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Biểu mẫu nhúng giúp người xem gửi ý kiến phản hồi ngay tại trang chủ mà không phải rời website. Biểu mẫu không thay thanh điều hướng, không tạo trang con và không làm thay đổi hình nền phần đầu trang."
+    },
+    {
+      "id": "tinhoc12-b27-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["hộp chọn biểu mẫu", "thao tác nhúng"],
+      "content": "Sau khi nháy nút lệnh Biểu mẫu trong bảng chọn Chèn, ta làm gì để chọn đúng biểu mẫu cần nhúng?",
+      "options": [
+        { "key": "A", "text": "Nhập mã HTML của biểu mẫu vào ô văn bản." },
+        { "key": "B", "text": "Tải tệp biểu mẫu từ máy tính lên trang." },
+        { "key": "C", "text": "Gõ địa chỉ URL của trang chứa biểu mẫu." },
+        { "key": "D", "text": "Chọn biểu mẫu trong danh sách hiện ra rồi nháy nút Chèn." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hộp chọn hiện danh sách các biểu mẫu đã tạo trong Forms; ta chọn biểu mẫu cần dùng rồi nháy nút Chèn để đưa vào trang. Nhập mã HTML, tải tệp từ máy hay gõ URL đều không phải cách bài học hướng dẫn."
+    },
+    {
+      "id": "tinhoc12-b27-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["nút Chèn", "vị trí nút"],
+      "content": "Trong hộp chọn biểu mẫu để nhúng vào trang, nút Chèn nằm ở đâu?",
+      "options": [
+        { "key": "A", "text": "Trên thanh trên cùng của cửa sổ thiết kế." },
+        { "key": "B", "text": "Trong phần chân trang của website." },
+        { "key": "C", "text": "Ở góc dưới bên phải của hộp chọn." },
+        { "key": "D", "text": "Trong bảng chọn Trang, cạnh tên Trang chủ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nút Chèn nằm ở góc dưới bên phải của hộp chọn biểu mẫu, nháy vào đó để hoàn tất việc nhúng. Thanh trên cùng và bảng chọn Trang là những khu vực khác của cửa sổ thiết kế, còn chân trang chỉ chứa thông tin ngắn gọn về chủ thể."
+    },
+    {
+      "id": "tinhoc12-b27-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["nhận định sai", "tạo biểu mẫu"],
+      "content": "Điều nào sau đây KHÔNG đúng về biểu mẫu trên trang web?",
+      "options": [
+        { "key": "A", "text": "Có thể tạo và chỉnh sửa biểu mẫu trực tiếp trong Google Sites mà không cần dùng Forms." },
+        { "key": "B", "text": "Biểu mẫu được tạo bằng ứng dụng Forms rồi nhúng vào trang web." },
+        { "key": "C", "text": "Bộ câu hỏi của biểu mẫu có thể gồm câu hỏi trắc nghiệm hoặc câu trả lời ngắn." },
+        { "key": "D", "text": "Kết quả trả lời có thể xem trong tab Câu trả lời của biểu mẫu." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Không thể tạo biểu mẫu trực tiếp trong Google Sites vì Sites chỉ có lệnh nhúng biểu mẫu do Forms tạo ra, nên A sai. Ba phương án còn lại đúng: biểu mẫu tạo bằng Forms rồi nhúng, bộ câu hỏi có thể là trắc nghiệm hoặc trả lời ngắn, và kết quả xem ở tab Câu trả lời."
+    },
+    {
+      "id": "tinhoc12-b27-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["tình huống", "xem câu trả lời từng người"],
+      "content": "Sau khi gửi biểu mẫu cho người xem, muốn biết từng người đã trả lời thế nào ta vào đâu?",
+      "options": [
+        { "key": "A", "text": "Tab Câu hỏi của biểu mẫu." },
+        { "key": "B", "text": "Tab Cài đặt của biểu mẫu." },
+        { "key": "C", "text": "Bảng chọn Chèn của Google Sites." },
+        { "key": "D", "text": "Tab Câu trả lời, mục Cá nhân." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mục Cá nhân trong tab Câu trả lời cho biết thông tin chi tiết về câu trả lời của từng người. Tab Câu hỏi chỉ để soạn câu hỏi, tab Cài đặt chứa tuỳ chọn của biểu mẫu, còn bảng chọn Chèn dùng để chèn nội dung vào trang."
+    },
+    {
+      "id": "tinhoc12-b27-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["bảng tính", "lưu dữ liệu trả lời"],
+      "content": "Dữ liệu trả lời của biểu mẫu được tập hợp ở đâu để xem được toàn bộ?",
+      "options": [
+        { "key": "A", "text": "Trong tab Câu hỏi của biểu mẫu." },
+        { "key": "B", "text": "Trong bảng tính gắn với biểu mẫu." },
+        { "key": "C", "text": "Trong phần chân trang của trang Google Sites." },
+        { "key": "D", "text": "Trong cửa sổ Cài đặt của Google Sites." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dữ liệu trả lời được tập hợp vào bảng tính gắn với biểu mẫu, mở từ mục Xem trong Trang tính để thấy toàn bộ các lượt trả lời. Tab Câu hỏi chỉ chứa câu hỏi, còn chân trang và cửa sổ Cài đặt của Google Sites không lưu dữ liệu trả lời."
+    },
+    {
+      "id": "tinhoc12-b27-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["nhận định đúng sai", "tạo biểu mẫu", "câu hỏi bắt buộc"],
+      "content": "Những nhận định nào sau đây đúng về việc tạo biểu mẫu trên trang web?",
+      "options": [
+        { "key": "A", "text": "Bản chất là tạo biểu mẫu bằng ứng dụng Forms của Google rồi nhúng vào trang web thiết kế bằng Google Sites." },
+        { "key": "B", "text": "Bộ câu hỏi của biểu mẫu có thể gồm câu hỏi trắc nghiệm hoặc câu trả lời ngắn." },
+        { "key": "C", "text": "Mỗi biểu mẫu chỉ chứa được duy nhất một câu hỏi." },
+        { "key": "D", "text": "Có thể bật tuỳ chọn Bắt buộc cho một câu hỏi để người trả lời không được bỏ qua câu đó." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng theo nội dung bài về cách tạo biểu mẫu, dạng câu hỏi chuẩn bị và tuỳ chọn Bắt buộc. C sai vì sau câu hỏi đầu tiên có thể nháy nút dấu cộng ở bảng chọn bên phải để nhập thêm nhiều câu hỏi khác."
+    },
+    {
+      "id": "tinhoc12-b27-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["nhận định đúng sai", "nhúng biểu mẫu"],
+      "content": "Những nhận định nào sau đây đúng về việc nhúng biểu mẫu vào trang web?",
+      "options": [
+        { "key": "A", "text": "Trong bảng chọn Chèn của Google Sites có nút lệnh Biểu mẫu để chọn biểu mẫu cần nhúng." },
+        { "key": "B", "text": "Biểu mẫu sau khi nhúng nằm ở cuối trang chủ và người xem điền được ngay trên trang." },
+        { "key": "C", "text": "Muốn nhúng biểu mẫu, phải chép mã nguồn của ứng dụng Forms vào tệp HTML của trang." },
+        { "key": "D", "text": "Sau khi nhúng, biểu mẫu không còn liên kết với biểu mẫu gốc trong Forms." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng theo các bước của bài: chọn Biểu mẫu trong bảng chọn Chèn, biểu mẫu được đặt ở cuối trang chủ và hiển thị ngay để người xem điền. C sai vì không phải chép mã nguồn vào tệp HTML. D sai vì biểu mẫu nhúng chính là biểu mẫu đã tạo trong Forms, dữ liệu trả lời vẫn tập hợp về đó."
+    },
+    {
+      "id": "tinhoc12-b27-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["nhận định đúng sai", "xem kết quả", "Trang tính"],
+      "content": "Những nhận định nào sau đây đúng về việc xem kết quả trả lời của biểu mẫu?",
+      "options": [
+        { "key": "A", "text": "Bản tóm tắt thống kê câu trả lời dưới dạng biểu đồ." },
+        { "key": "B", "text": "Mục Cá nhân cho biết thông tin chi tiết về câu trả lời của từng người." },
+        { "key": "C", "text": "Trong bảng tính dữ liệu trả lời, cột A là Dấu thời gian." },
+        { "key": "D", "text": "Tab Câu hỏi là nơi xem thống kê các câu trả lời đã nhận." }
+      ],
+      "correctAnswer": ["A", "B", "C"],
+      "explanation": "A, B và C đúng theo bài: Bản tóm tắt hiển thị biểu đồ, Cá nhân cho biết chi tiết từng người, còn cột A của bảng tính là Dấu thời gian. D sai vì tab Câu hỏi dùng để soạn câu hỏi; thống kê câu trả lời nằm ở tab Câu trả lời."
+    },
+    {
+      "id": "tinhoc12-b27-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-bieu-mau-google-forms",
+      "tags": ["nhận định đúng sai", "giao diện Forms", "ba tab"],
+      "content": "Những nhận định nào sau đây đúng về giao diện ứng dụng Forms?",
+      "options": [
+        { "key": "A", "text": "Một biểu mẫu có ba tab là Câu hỏi, Câu trả lời và Cài đặt." },
+        { "key": "B", "text": "Tab Câu hỏi dùng để soạn thảo nội dung các câu hỏi." },
+        { "key": "C", "text": "Tab Cài đặt dùng để xem biểu đồ thống kê câu trả lời." },
+        { "key": "D", "text": "Muốn thêm câu hỏi mới bắt buộc phải tạo một biểu mẫu mới." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng: biểu mẫu có ba tab Câu hỏi, Câu trả lời, Cài đặt và tab Câu hỏi là nơi soạn câu hỏi. C sai vì biểu đồ thống kê nằm ở tab Câu trả lời, còn tab Cài đặt chứa các tuỳ chọn của biểu mẫu. D sai vì có thể nháy nút dấu cộng để thêm câu hỏi trong cùng biểu mẫu."
+    }
+  ]
+}
