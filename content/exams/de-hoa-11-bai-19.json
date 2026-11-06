@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-19",
+  "title": "Hóa học 11 – Bài 19. Dẫn xuất halogen",
+  "slug": "de-hoa-11-bai-19",
+  "description": "20 câu trắc nghiệm bám sát Bài 19 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-19-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Dẫn xuất halogen là",
+      "options": [
+        { "key": "A", "text": "hợp chất mà trong phân tử có nguyên tử halogen liên kết ion với nguyên tử kim loại." },
+        { "key": "B", "text": "hỗn hợp của hydrocarbon với hydrogen halide." },
+        { "key": "C", "text": "hợp chất hữu cơ mà trong phân tử có nguyên tử halogen liên kết trực tiếp với nguyên tử carbon." },
+        { "key": "D", "text": "hợp chất hữu cơ mà trong phân tử có nhóm –OH liên kết với nguyên tử carbon no." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dẫn xuất halogen có công thức chung R–X, trong đó nguyên tử halogen (F, Cl, Br, I) thay thế nguyên tử H của hydrocarbon và liên kết cộng hoá trị với carbon. Phương án A mô tả muối halide vô cơ, phương án D mô tả alcohol, phương án B chỉ là hỗn hợp chứ không phải một hợp chất.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là dẫn xuất halogen của hydrocarbon thơm?",
+      "options": [
+        { "key": "A", "text": "C₆H₅Cl" },
+        { "key": "B", "text": "CH₂=CH–Cl" },
+        { "key": "C", "text": "CH₃CH₂CH₂Cl" },
+        { "key": "D", "text": "CH₃CH₂Br" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "C₆H₅Cl (chlorobenzene) có nguyên tử Cl gắn vào vòng benzene nên thuộc dẫn xuất halogen của hydrocarbon thơm. CH₂=CH–Cl là dẫn xuất của hydrocarbon không no, còn CH₃CH₂CH₂Cl và CH₃CH₂Br là dẫn xuất của hydrocarbon no.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Dẫn xuất halogen (CH₃)₃CBr thuộc loại bậc nào?",
+      "options": [
+        { "key": "A", "text": "Bậc I" },
+        { "key": "B", "text": "Bậc II" },
+        { "key": "C", "text": "Bậc III" },
+        { "key": "D", "text": "Bậc IV" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bậc của dẫn xuất halogen bằng bậc của nguyên tử carbon liên kết với halogen. Trong (CH₃)₃CBr, nguyên tử carbon mang Br liên kết trực tiếp với ba nguyên tử carbon khác nên là bậc III. Không tồn tại dẫn xuất halogen bậc IV vì carbon chỉ tạo được tối đa bốn liên kết.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của hợp chất CH₃–CHBr–CH₃ là",
+      "options": [
+        { "key": "A", "text": "1-bromopropane" },
+        { "key": "B", "text": "2-bromopropane" },
+        { "key": "C", "text": "2-bromobutane" },
+        { "key": "D", "text": "1-bromo-2-methylpropane" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mạch chính có ba nguyên tử carbon (propane); đánh số từ phía gần nguyên tử Br nên Br nằm ở carbon số 2, tên là 2-bromopropane. 1-bromopropane ứng với CH₃CH₂CH₂Br, còn 2-bromobutane và 1-bromo-2-methylpropane có khung carbon khác (bốn carbon).",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của hợp chất CHCl₃ là",
+      "options": [
+        { "key": "A", "text": "chloromethane" },
+        { "key": "B", "text": "dichloromethane" },
+        { "key": "C", "text": "trichloromethane" },
+        { "key": "D", "text": "tetrachloromethane" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "CHCl₃ có một nguyên tử carbon gắn ba nguyên tử Cl nên tên gồm tiếp đầu ngữ trichloro ghép với tên hydrocarbon methane: trichloromethane (thường gọi là chloroform). Dichloromethane là CH₂Cl₂, còn tetrachloromethane là CCl₄.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về tính tan của dẫn xuất halogen?",
+      "options": [
+        { "key": "A", "text": "Hầu hết dẫn xuất halogen tan tốt trong nước và không tan trong dung môi hữu cơ." },
+        { "key": "B", "text": "Hầu hết dẫn xuất halogen không tan trong nước nhưng tan tốt trong dung môi hữu cơ." },
+        { "key": "C", "text": "Mọi dẫn xuất halogen đều tan vô hạn trong nước." },
+        { "key": "D", "text": "Dẫn xuất halogen tan tốt trong nước vì phân tử phân cực mạnh." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phân tử dẫn xuất halogen chỉ phân cực yếu và không tạo được liên kết hydrogen với nước nên hầu như không tan trong nước, nhưng tan tốt trong các dung môi hữu cơ như ether, benzene. Chính đặc điểm này khiến nhiều dẫn xuất halogen được dùng làm dung môi.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "So với alkane có cùng số nguyên tử carbon, dẫn xuất halogen thường có nhiệt độ sôi",
+      "options": [
+        { "key": "A", "text": "cao hơn, do khối lượng phân tử lớn hơn và phân tử phân cực hơn." },
+        { "key": "B", "text": "cao hơn, do các phân tử tạo được liên kết hydrogen với nhau." },
+        { "key": "C", "text": "thấp hơn, do phân tử phân cực hơn nên dễ bay hơi." },
+        { "key": "D", "text": "thấp hơn, do khối lượng phân tử lớn hơn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nguyên tử halogen nặng hơn nguyên tử H nên phân tử dẫn xuất halogen có khối lượng lớn hơn alkane tương ứng; liên kết C–X phân cực làm tăng tương tác giữa các phân tử, vì vậy nhiệt độ sôi cao hơn. Dẫn xuất halogen không có H linh động nên không tạo liên kết hydrogen giữa các phân tử, do đó phương án B sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bromoethane tác dụng với dung dịch NaOH, đun nóng. Sản phẩm hữu cơ thu được là",
+      "options": [
+        { "key": "A", "text": "ethene" },
+        { "key": "B", "text": "ethanol" },
+        { "key": "C", "text": "ethanal" },
+        { "key": "D", "text": "ethane" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong môi trường kiềm, nguyên tử Br bị thế bởi nhóm OH: CH₃CH₂Br + NaOH → (t°) CH₃CH₂OH + NaBr, sản phẩm hữu cơ là ethanol. Ethene chỉ tạo thành khi đun với KOH trong ethanol vì đó là phản ứng tách HBr, còn ethanal và ethane không sinh ra trong phản ứng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các dẫn xuất halogen: (1) CH₃CH₂Br; (2) (CH₃)₂CHBr; (3) (CH₃)₃CBr; (4) C₆H₅Br. Chất phản ứng với dung dịch NaOH khi đun nóng dễ nhất là",
+      "options": [
+        { "key": "A", "text": "(1)" },
+        { "key": "B", "text": "(2)" },
+        { "key": "C", "text": "(3)" },
+        { "key": "D", "text": "(4)" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phản ứng thế nguyên tử halogen bằng nhóm OH xảy ra càng dễ khi bậc của dẫn xuất halogen càng thấp, vì các nhóm alkyl cồng kềnh cản trở tác nhân nucleophile tấn công vào carbon mang halogen. (1) là bậc I nên dễ nhất; (2) bậc II và (3) bậc III khó hơn; C₆H₅Br gần như không phản ứng vì liên kết C–Br gắn với vòng thơm rất bền.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng bromoethane với dung dịch KOH trong ethanol, sản phẩm hữu cơ thu được là",
+      "options": [
+        { "key": "A", "text": "C₂H₄" },
+        { "key": "B", "text": "C₂H₅OH" },
+        { "key": "C", "text": "C₂H₆" },
+        { "key": "D", "text": "C₂H₄Br₂" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong ethanol, KOH ưu tiên gây phản ứng tách HBr: CH₃CH₂Br + KOH → (ethanol, t°) CH₂=CH₂↑ + KBr + H₂O, sản phẩm là ethene. Muốn thay Br bằng OH phải dùng dung dịch NaOH trong nước, khi đó mới thu được C₂H₅OH.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Polymer nào sau đây được điều chế bằng phản ứng trùng hợp vinyl chloride (CH₂=CHCl)?",
+      "options": [
+        { "key": "A", "text": "Polyethylene" },
+        { "key": "B", "text": "Poly(vinyl chloride)" },
+        { "key": "C", "text": "Polystyrene" },
+        { "key": "D", "text": "Polypropylene" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trùng hợp vinyl chloride thu được poly(vinyl chloride), viết tắt PVC: nCH₂=CHCl → (t°, xt) (–CH₂–CHCl–)ₙ. Polyethylene đi từ ethene, polystyrene từ styrene, polypropylene từ propene nên đều không phải sản phẩm của vinyl chloride.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây từng được dùng làm chất làm lạnh trong tủ lạnh, máy điều hoà nhưng nay bị hạn chế vì gây hại tầng ozone?",
+      "options": [
+        { "key": "A", "text": "CH₂Cl₂" },
+        { "key": "B", "text": "CF₂Cl₂" },
+        { "key": "C", "text": "C₂H₅Cl" },
+        { "key": "D", "text": "CHCl₃" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "CF₂Cl₂ là một chlorofluorocarbon (CFC) có nhiệt độ hoá hơi thấp, từng được dùng phổ biến làm chất làm lạnh. Khi khuếch tán lên tầng cao khí quyển, CFC giải phóng nguyên tử chlorine có khả năng phá huỷ ozone nên ngày nay bị cấm dần. Các chất còn lại chủ yếu dùng làm dung môi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuốc trừ sâu DDT, 666 (hexachlorocyclohexane) bị cấm sử dụng ở nhiều nước chủ yếu vì",
+      "options": [
+        { "key": "A", "text": "chúng dễ bay hơi và gây cháy nổ trong kho thuốc." },
+        { "key": "B", "text": "chúng khó phân huỷ, tích luỹ trong môi trường và mô mỡ sinh vật, gây ô nhiễm nguồn nước." },
+        { "key": "C", "text": "chúng tan vô hạn trong nước nên không bám được lên cây trồng." },
+        { "key": "D", "text": "chúng dễ bị vi sinh vật phân huỷ thành chất độc hơn." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "DDT và 666 là thuốc trừ sâu clo hữu cơ, rất bền với vi sinh vật nên tồn lưu lâu trong đất, nước và tích luỹ trong mô mỡ của sinh vật rồi đi vào chuỗi thức ăn. Chính đặc tính khó phân huỷ, tích luỹ sinh học này khiến chúng bị hạn chế, không phải vì dễ bay hơi hay tan vô hạn trong nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bromoethane tác dụng với magnesium trong ether khan, thu được hợp chất Grignard có công thức là",
+      "options": [
+        { "key": "A", "text": "C₂H₅MgBr" },
+        { "key": "B", "text": "C₂H₅MgBr₂" },
+        { "key": "C", "text": "C₂H₆" },
+        { "key": "D", "text": "C₂H₅OH" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Magnesium chen vào liên kết C–Br trong môi trường ether khan: CH₃CH₂Br + Mg → (ether khan) CH₃CH₂MgBr. Đây là hợp chất Grignard (alkylmagnesium halide), trong đó Mg liên kết trực tiếp với carbon. C₂H₆ tạo thành khi khử bằng hydrogen, còn C₂H₅OH là sản phẩm thuỷ phân dẫn xuất halogen trong NaOH.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 0,1 mol bromoethane tác dụng hoàn toàn với dung dịch NaOH dư, đun nóng. Khối lượng ethanol thu được là",
+      "options": [
+        { "key": "A", "text": "2,3 gam" },
+        { "key": "B", "text": "4,6 gam" },
+        { "key": "C", "text": "9,2 gam" },
+        { "key": "D", "text": "46 gam" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phương trình CH₃CH₂Br + NaOH → (t°) CH₃CH₂OH + NaBr có tỉ lệ mol 1 : 1 nên thu được 0,1 mol C₂H₅OH. m = 0,1 × 46 = 4,6 gam. Giá trị 9,2 gam ứng với 0,2 mol (nhân đôi số mol), còn 46 gam là khối lượng của 1 mol ethanol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của hợp chất CH₂=CH–CH₂Cl là",
+      "options": [
+        { "key": "A", "text": "1-chloroprop-1-ene" },
+        { "key": "B", "text": "3-chloroprop-1-ene" },
+        { "key": "C", "text": "3-chloropropane" },
+        { "key": "D", "text": "1-chloroprop-2-ene" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mạch chính có ba carbon và một liên kết đôi; phải đánh số sao cho liên kết đôi nhận số nhỏ nhất, nên nhóm CH₂Cl nằm ở carbon số 3: 3-chloroprop-1-ene. Tên 1-chloroprop-1-ene ứng với CHCl=CH–CH₃, còn 3-chloropropane sai vì phân tử có liên kết đôi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho bromoethane lần lượt vào hai ống nghiệm: (a) dung dịch NaOH, đun nóng; (b) dung dịch KOH trong ethanol, đun nóng. Sản phẩm hữu cơ chính của (a) và (b) lần lượt là",
+      "options": [
+        { "key": "A", "text": "ethene và ethanol" },
+        { "key": "B", "text": "ethanol và ethene" },
+        { "key": "C", "text": "ethanol và ethanal" },
+        { "key": "D", "text": "ethene và ethane" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dung dịch NaOH trong nước thiên về phản ứng thế: CH₃CH₂Br + NaOH → (t°) C₂H₅OH + NaBr. Dung dịch KOH trong ethanol thiên về phản ứng tách HBr: CH₃CH₂Br + KOH → (ethanol, t°) C₂H₄ + KBr + H₂O. Cùng một dẫn xuất halogen nhưng dung môi quyết định hướng phản ứng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng 2-bromobutane với dung dịch KOH trong ethanol. Sản phẩm hữu cơ chính thu được là",
+      "options": [
+        { "key": "A", "text": "but-1-ene" },
+        { "key": "B", "text": "but-2-ene" },
+        { "key": "C", "text": "butan-2-ol" },
+        { "key": "D", "text": "butane" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phản ứng tách HBr ưu tiên lấy nguyên tử H ở carbon bậc cao hơn (carbon có ít H hơn) nên tạo alkene nhiều nhóm thế hơn: CH₃–CHBr–CH₂–CH₃ → CH₃–CH=CH–CH₃ (but-2-ene) là sản phẩm chính, but-1-ene chỉ là sản phẩm phụ. Butan-2-ol tạo thành khi thuỷ phân trong dung dịch NaOH, không phải khi đun với KOH trong ethanol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đồng phân cấu tạo của dẫn xuất halogen mạch hở có công thức phân tử C₃H₇Cl là",
+      "options": [
+        { "key": "A", "text": "2" },
+        { "key": "B", "text": "3" },
+        { "key": "C", "text": "4" },
+        { "key": "D", "text": "5" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khung carbon của C₃H₇Cl chỉ có thể là mạch thẳng ba carbon; nguyên tử Cl nằm ở carbon đầu mạch hoặc carbon giữa, tương ứng CH₃CH₂CH₂Cl (1-chloropropane) và CH₃CHClCH₃ (2-chloropropane). Vậy có 2 đồng phân cấu tạo.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-19-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-19",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng 0,1 mol 2-bromopropane với dung dịch KOH dư trong ethanol, hiệu suất phản ứng đạt 80%. Thể tích alkene thu được ở điều kiện chuẩn (24,79 L/mol) là",
+      "options": [
+        { "key": "A", "text": "1,24 lít" },
+        { "key": "B", "text": "1,98 lít" },
+        { "key": "C", "text": "2,48 lít" },
+        { "key": "D", "text": "2,24 lít" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phản ứng tách HBr: CH₃–CHBr–CH₃ + KOH → (ethanol, t°) CH₃–CH=CH₂↑ + KBr + H₂O; mạch đối xứng nên chỉ tạo propene. Số mol propene = 0,1 × 80% = 0,08 mol, V = 0,08 × 24,79 ≈ 1,98 lít. Giá trị 2,48 lít ứng với trường hợp hiệu suất 100%, còn 1,24 lít ứng với 0,05 mol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 19", "Dẫn xuất halogen"]
+    }
+  ]
+}

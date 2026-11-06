@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-24",
+  "title": "Hóa học 11 – Bài 24. Carboxylic acid",
+  "slug": "de-hoa-11-bai-24",
+  "description": "20 câu trắc nghiệm bám sát Bài 24 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-24-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Carboxylic acid no, đơn chức, mạch hở có công thức chung là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ₊₁COOH (n ≥ 0)" },
+        { "key": "B", "text": "CₙH₂ₙ₋₁COOH (n ≥ 1)" },
+        { "key": "C", "text": "CₙH₂ₙ₊₁CHO (n ≥ 0)" },
+        { "key": "D", "text": "CₙH₂ₙ₊₂O₂ (n ≥ 1)" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Carboxylic acid no, đơn chức, mạch hở tương ứng với alkane bị thay một nguyên tử H bằng nhóm –COOH nên có dạng CₙH₂ₙ₊₁COOH, nhỏ nhất là HCOOH (n = 0). CₙH₂ₙ₋₁COOH là acid không no, CₙH₂ₙ₊₁CHO là aldehyde, còn CₙH₂ₙ₊₂O₂ không phù hợp hoá trị.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là carboxylic acid?",
+      "options": [
+        { "key": "A", "text": "CH₃CHO" },
+        { "key": "B", "text": "C₂H₅OH" },
+        { "key": "C", "text": "CH₃COOH" },
+        { "key": "D", "text": "CH₃COOCH₃" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Carboxylic acid là hợp chất hữu cơ có nhóm –COOH; CH₃COOH (acetic acid) thoả mãn. CH₃CHO là aldehyde, C₂H₅OH là alcohol, CH₃COOCH₃ là ester nên đều không phải carboxylic acid.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của hợp chất CH₃COOH là",
+      "options": [
+        { "key": "A", "text": "methanoic acid" },
+        { "key": "B", "text": "propanoic acid" },
+        { "key": "C", "text": "butanoic acid" },
+        { "key": "D", "text": "ethanoic acid" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mạch chính có 2 nguyên tử carbon tính cả carbon của nhóm –COOH nên tên thay thế là eth + anoic acid → ethanoic acid. Methanoic acid là HCOOH (1 C), propanoic acid là C₂H₅COOH (3 C); acetic acid chỉ là tên thông thường.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Dung dịch CH₃COOH làm quỳ tím chuyển sang màu",
+      "options": [
+        { "key": "A", "text": "xanh" },
+        { "key": "B", "text": "đỏ" },
+        { "key": "C", "text": "vàng" },
+        { "key": "D", "text": "không đổi màu" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "CH₃COOH phân li thuận nghịch cho H⁺ nên dung dịch có tính acid và làm quỳ tím hoá đỏ (hồng). Chỉ môi trường base mới làm quỳ tím hoá xanh.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Giấm ăn là dung dịch acetic acid có nồng độ khoảng",
+      "options": [
+        { "key": "A", "text": "2% – 5%" },
+        { "key": "B", "text": "10% – 15%" },
+        { "key": "C", "text": "0,5% – 1%" },
+        { "key": "D", "text": "30% – 40%" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giấm ăn là dung dịch acetic acid loãng, nồng độ khoảng 2% – 5%, được tạo ra khi lên men ethanol. Dung dịch đặc hơn nhiều không dùng làm giấm ăn vì gây bỏng, kích ứng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Các carboxylic acid có phân tử khối nhỏ như HCOOH, CH₃COOH tan tốt trong nước chủ yếu là do",
+      "options": [
+        { "key": "A", "text": "phân tử có khối lượng nhỏ nên dễ khuếch tán" },
+        { "key": "B", "text": "phân tử hoàn toàn không phân cực" },
+        { "key": "C", "text": "bị nước phân huỷ thành các chất tan" },
+        { "key": "D", "text": "tạo được liên kết hydrogen với các phân tử nước" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhóm –COOH vừa cho vừa nhận liên kết hydrogen nên phân tử acid gắn được với nước, giúp các acid mạch ngắn tan tốt. Phân tử acid phân cực chứ không phải không phân cực, và acid không bị nước phân huỷ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiệt độ sôi của CH₃COOH cao hơn C₂H₅OH dù hai chất có cùng số nguyên tử carbon là do",
+      "options": [
+        { "key": "A", "text": "CH₃COOH là acid mạnh nên phân tử phân cực mạnh hơn ethanol" },
+        { "key": "B", "text": "các phân tử CH₃COOH tạo liên kết hydrogen bền hơn và tồn tại dạng dimer" },
+        { "key": "C", "text": "CH₃COOH không tan trong nước nên khó bay hơi" },
+        { "key": "D", "text": "CH₃COOH có nhiều nguyên tử carbon hơn ethanol" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mỗi phân tử CH₃COOH có cả nhóm cho và nhóm nhận liên kết hydrogen nên tạo cặp dimer bền, làm nhiệt độ sôi cao hơn alcohol cùng số carbon. CH₃COOH là acid yếu chứ không phải acid mạnh, lại tan tốt trong nước; hai chất đều có 2 nguyên tử carbon.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đồng phân carboxylic acid ứng với công thức phân tử C₄H₈O₂ là",
+      "options": [
+        { "key": "A", "text": "2" },
+        { "key": "B", "text": "3" },
+        { "key": "C", "text": "4" },
+        { "key": "D", "text": "1" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gồm butanoic acid CH₃CH₂CH₂COOH và 2-methylpropanoic acid (CH₃)₂CHCOOH, tổng cộng 2 đồng phân. Mạch 4 carbon chỉ có một cách đặt nhóm –COOH ở đầu mạch, còn ester và hydroxy aldehyde không thuộc loại carboxylic acid.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho CH₃COOH tác dụng với kim loại Na dư, khí thoát ra là",
+      "options": [
+        { "key": "A", "text": "CO₂" },
+        { "key": "B", "text": "CH₄" },
+        { "key": "C", "text": "H₂" },
+        { "key": "D", "text": "O₂" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kim loại đứng trước hydrogen đẩy được H ra khỏi nhóm –COOH: 2CH₃COOH + 2Na → 2CH₃COONa + H₂↑. CO₂ chỉ sinh ra khi acid gặp muối carbonate, còn CH₄ và O₂ không phải sản phẩm của phản ứng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoá chất nào sau đây tác dụng với dung dịch CH₃COOH và giải phóng khí CO₂?",
+      "options": [
+        { "key": "A", "text": "NaOH" },
+        { "key": "B", "text": "Na₂CO₃" },
+        { "key": "C", "text": "NaCl" },
+        { "key": "D", "text": "Cu" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Acid tác dụng với muối carbonate tạo muối mới, CO₂ và nước: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + CO₂↑ + H₂O. NaOH chỉ trung hoà tạo muối và nước, NaCl và Cu không phản ứng với CH₃COOH.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho CH₃COOH tác dụng với CuO, sản phẩm thu được là",
+      "options": [
+        { "key": "A", "text": "(CH₃COO)₂Cu và H₂O" },
+        { "key": "B", "text": "CH₃COONa và H₂O" },
+        { "key": "C", "text": "CH₃CHO và Cu" },
+        { "key": "D", "text": "CH₃COOC₂H₅ và H₂O" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Acid phản ứng với oxide base tạo muối và nước: 2CH₃COOH + CuO → (CH₃COO)₂Cu + H₂O. Sản phẩm chứa Na là của phản ứng với NaOH, ester là của phản ứng ester hoá, còn CH₃CHO không sinh ra ở đây.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Dãy nào sau đây sắp xếp đúng theo chiều giảm dần lực acid?",
+      "options": [
+        { "key": "A", "text": "HCl > H₂CO₃ > CH₃COOH > phenol" },
+        { "key": "B", "text": "CH₃COOH > HCl > H₂CO₃ > phenol" },
+        { "key": "C", "text": "phenol > CH₃COOH > H₂CO₃ > HCl" },
+        { "key": "D", "text": "HCl > CH₃COOH > H₂CO₃ > phenol" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "HCl là acid mạnh nên đứng đầu; CH₃COOH là acid yếu (Ka ≈ 1,8.10⁻⁵) nhưng vẫn mạnh hơn H₂CO₃ (Ka₁ ≈ 4,5.10⁻⁷), còn phenol là acid rất yếu. Vì vậy thứ tự đúng là HCl > CH₃COOH > H₂CO₃ > phenol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng CH₃COOH với C₂H₅OH (xúc tác H₂SO₄ đặc) thu được ester có công thức là",
+      "options": [
+        { "key": "A", "text": "CH₃COOCH₃" },
+        { "key": "B", "text": "HCOOC₂H₅" },
+        { "key": "C", "text": "CH₃COOC₂H₅" },
+        { "key": "D", "text": "C₂H₅COOCH₃" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong phản ứng ester hoá, nhóm –OH của acid kết hợp với H của alcohol tạo nước, phần còn lại ghép thành CH₃COOC₂H₅ (ethyl acetate). CH₃COOCH₃ sinh ra từ CH₃COOH và CH₃OH, còn HCOOC₂H₅ từ HCOOH và C₂H₅OH.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng ester hoá giữa CH₃COOH và C₂H₅OH có đặc điểm là",
+      "options": [
+        { "key": "A", "text": "xảy ra hoàn toàn, không cần xúc tác" },
+        { "key": "B", "text": "phản ứng thuận nghịch, cần H₂SO₄ đặc làm xúc tác" },
+        { "key": "C", "text": "chỉ xảy ra khi có mặt nước" },
+        { "key": "D", "text": "tạo ra alcohol và carboxylic acid" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ester hoá là phản ứng thuận nghịch, cần đun nóng và H₂SO₄ đặc vừa xúc tác vừa hút nước để cân bằng chuyển dịch về phía ester. Phản ứng không xảy ra hoàn toàn và không tạo alcohol, carboxylic acid mà tạo ester và nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Carboxylic acid có nhiều trong quả chanh, được dùng làm chất tạo vị chua và chất bảo quản trong thực phẩm là",
+      "options": [
+        { "key": "A", "text": "acetic acid" },
+        { "key": "B", "text": "formic acid" },
+        { "key": "C", "text": "propanoic acid" },
+        { "key": "D", "text": "citric acid" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Citric acid có nhiều trong chanh, cam, quýt nên được dùng làm chất tạo vị chua và chất bảo quản thực phẩm. Acetic acid là thành phần giấm ăn, formic acid có trong nọc kiến, propanoic acid được dùng chủ yếu làm chất bảo quản thức ăn chăn nuôi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp, acetic acid được điều chế từ ethanol bằng phương pháp lên men giấm, bản chất của quá trình này là",
+      "options": [
+        { "key": "A", "text": "ethanol bị oxi hoá bởi oxygen nhờ xúc tác men giấm" },
+        { "key": "B", "text": "ethanol bị khử thành ethane" },
+        { "key": "C", "text": "ethanol tác dụng với NaOH tạo muối" },
+        { "key": "D", "text": "ethanol bị thuỷ phân thành glucose" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Lên men giấm là oxi hoá không hoàn toàn ethanol: C₂H₅OH + O₂ → (men giấm, 25 – 30 °C) CH₃COOH + H₂O. Quá trình này không khử ethanol thành ethane, không cần NaOH và không phải phản ứng thuỷ phân.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 6,0 gam CH₃COOH tác dụng hết với Na dư, thể tích khí H₂ thu được ở điều kiện chuẩn (24,79 L/mol) là",
+      "options": [
+        { "key": "A", "text": "2,48 lít" },
+        { "key": "B", "text": "0,62 lít" },
+        { "key": "C", "text": "1,24 lít" },
+        { "key": "D", "text": "4,96 lít" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "n(CH₃COOH) = 6,0 : 60 = 0,1 mol; theo 2CH₃COOH + 2Na → 2CH₃COONa + H₂↑ thì n(H₂) = 0,05 mol, V = 0,05 × 24,79 ≈ 1,24 lít. Giá trị 2,48 lít ứng với việc quên chia đôi tỉ lệ mol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các acid: HCOOH, CH₃COOH, C₂H₅COOH, C₃H₇COOH. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Độ tan trong nước tăng dần từ HCOOH đến C₃H₇COOH." },
+        { "key": "B", "text": "Độ tan trong nước giảm dần khi mạch carbon dài ra." },
+        { "key": "C", "text": "Cả bốn acid đều tan vô hạn trong nước." },
+        { "key": "D", "text": "Nhiệt độ sôi giảm dần từ HCOOH đến C₃H₇COOH." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhóm –COOH ưa nước còn phần hydrocarbon kị nước; mạch carbon càng dài thì phần kị nước càng lớn nên độ tan trong nước giảm dần. Chỉ các acid đầu dãy tan vô hạn, còn nhiệt độ sôi lại tăng dần theo chiều tăng phân tử khối.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol carboxylic acid X no, đơn chức, mạch hở thu được 0,2 mol CO₂. Công thức của X là",
+      "options": [
+        { "key": "A", "text": "HCOOH" },
+        { "key": "B", "text": "C₂H₅COOH" },
+        { "key": "C", "text": "C₃H₇COOH" },
+        { "key": "D", "text": "CH₃COOH" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Số nguyên tử C trong X là 0,2 : 0,1 = 2, tính cả carbon của nhóm –COOH, nên X là CH₃COOH. HCOOH có 1 C, C₂H₅COOH có 3 C, C₃H₇COOH có 4 C nên không phù hợp với dữ kiện.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-24-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-24",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng 0,1 mol CH₃COOH với lượng dư C₂H₅OH (xúc tác H₂SO₄ đặc), thu được 6,6 gam CH₃COOC₂H₅. Hiệu suất của phản ứng ester hoá là (cho M(CH₃COOC₂H₅) = 88 g/mol)",
+      "options": [
+        { "key": "A", "text": "75%" },
+        { "key": "B", "text": "60%" },
+        { "key": "C", "text": "80%" },
+        { "key": "D", "text": "88%" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "n(ester) = 6,6 : 88 = 0,075 mol; theo tỉ lệ 1 : 1, hiệu suất H = 0,075 : 0,1 = 75%. Các giá trị khác không khớp với lượng ester thực tế thu được.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 24", "Carboxylic acid"]
+    }
+  ]
+}

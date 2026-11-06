@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-18",
+  "title": "Hóa học 11 – Bài 18. Ôn tập chương 4",
+  "slug": "de-hoa-11-bai-18",
+  "description": "20 câu trắc nghiệm bám sát Bài 18 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-18-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức chung của các alkane là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ₋₆ (n ≥ 6)" },
+        { "key": "B", "text": "CₙH₂ₙ₊₂ (n ≥ 1)" },
+        { "key": "C", "text": "CₙH₂ₙ (n ≥ 2)" },
+        { "key": "D", "text": "CₙH₂ₙ₋₂ (n ≥ 2)" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Alkane là hydrocarbon no, mạch hở, có công thức chung CₙH₂ₙ₊₂ với n ≥ 1.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức chung của các alkene (mạch hở, một liên kết đôi) là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ₊₂ (n ≥ 1)" },
+        { "key": "B", "text": "CₙH₂ₙ₋₂ (n ≥ 2)" },
+        { "key": "C", "text": "CₙH₂ₙ (n ≥ 2)" },
+        { "key": "D", "text": "CₙH₂ₙ₋₆ (n ≥ 6)" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Alkene mạch hở có một liên kết đôi nên công thức chung là CₙH₂ₙ với n ≥ 2; CₙH₂ₙ₋₂ ứng với alkyne hoặc cycloalkene.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây làm mất màu nước bromine ở điều kiện thường?",
+      "options": [
+        { "key": "A", "text": "ethene" },
+        { "key": "B", "text": "methane" },
+        { "key": "C", "text": "benzene" },
+        { "key": "D", "text": "ethane" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ethene có liên kết đôi nên cộng bromine, làm mất màu nước bromine. Methane, ethane là alkane; benzene không phản ứng với nước bromine ở điều kiện thường.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng về benzene?",
+      "options": [
+        { "key": "A", "text": "Benzene làm mất màu nước bromine ở điều kiện thường." },
+        { "key": "B", "text": "Benzene cộng hydrogen ở điều kiện thường không cần xúc tác." },
+        { "key": "C", "text": "Benzene có phản ứng cộng với bromine giống ethene." },
+        { "key": "D", "text": "Benzene không làm mất màu nước bromine ở điều kiện thường." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Vòng benzene bền nên benzene không phản ứng với nước bromine ở điều kiện thường; phản ứng cộng hydrogen cần xúc tác Ni và đun nóng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng hoá học đặc trưng của alkane là",
+      "options": [
+        { "key": "A", "text": "phản ứng cộng" },
+        { "key": "B", "text": "phản ứng thế" },
+        { "key": "C", "text": "phản ứng trùng hợp" },
+        { "key": "D", "text": "phản ứng tách" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Alkane chỉ có liên kết đơn nên đặc trưng bằng phản ứng thế (ví dụ thế halogen dưới ánh sáng), ngoài ra có phản ứng cracking và cháy.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Thành phần chính của khí thiên nhiên là",
+      "options": [
+        { "key": "A", "text": "ethane" },
+        { "key": "B", "text": "propane" },
+        { "key": "C", "text": "methane" },
+        { "key": "D", "text": "butane" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khí thiên nhiên có thành phần chính là methane, thường chiếm trên 80% thể tích, ngoài ra còn ethane, propane, butane và tạp chất.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đồng phân cấu tạo của alkane C₄H₁₀ là",
+      "options": [
+        { "key": "A", "text": "2" },
+        { "key": "B", "text": "3" },
+        { "key": "C", "text": "4" },
+        { "key": "D", "text": "5" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "C₄H₁₀ có butane (mạch thẳng) và 2-methylpropane (mạch nhánh), tổng cộng 2 đồng phân cấu tạo.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên gọi của hợp chất CH₃–CH(CH₃)–CH₃ là",
+      "options": [
+        { "key": "A", "text": "butane" },
+        { "key": "B", "text": "2-methylbutane" },
+        { "key": "C", "text": "propane" },
+        { "key": "D", "text": "2-methylpropane" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mạch dài nhất có ba nguyên tử C, nhánh methyl ở vị trí C2, nên tên là 2-methylpropane.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ethene tác dụng với nước (xúc tác H⁺, đun nóng), sản phẩm thu được là",
+      "options": [
+        { "key": "A", "text": "ethanal" },
+        { "key": "B", "text": "ethanol" },
+        { "key": "C", "text": "ethanoic acid" },
+        { "key": "D", "text": "ethane" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "C₂H₄ + H₂O → (H⁺, t°) C₂H₅OH. Đây là phản ứng cộng nước tạo ethanol, không tạo ethanal hay ethanoic acid.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ethyne tác dụng với dung dịch AgNO₃ trong NH₃, thu được kết tủa",
+      "options": [
+        { "key": "A", "text": "màu vàng của AgC≡CAg" },
+        { "key": "B", "text": "màu trắng của AgCl" },
+        { "key": "C", "text": "màu vàng nhạt của AgBr" },
+        { "key": "D", "text": "màu trắng của Ag₂CO₃" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ethyne có nguyên tử H gắn với carbon mang liên kết ba nên thế được bằng Ag, tạo kết tủa vàng AgC≡CAg; đây là phản ứng nhận biết alkyne có liên kết ba đầu mạch.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Trùng hợp ethene thu được polymer là",
+      "options": [
+        { "key": "A", "text": "PVC" },
+        { "key": "B", "text": "polystyrene" },
+        { "key": "C", "text": "polyethylene" },
+        { "key": "D", "text": "polypropylene" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "nCH₂=CH₂ → (-CH₂-CH₂-)ₙ, polymer thu được là polyethylene (PE). PVC tạo từ vinyl chloride, polystyrene từ styrene, polypropylene từ propene.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi đốt cháy hoàn toàn một alkane, so sánh số mol CO₂ và H₂O thu được ta có",
+      "options": [
+        { "key": "A", "text": "n(CO₂) = n(H₂O)" },
+        { "key": "B", "text": "n(CO₂) > n(H₂O)" },
+        { "key": "C", "text": "n(CO₂) = 2n(H₂O)" },
+        { "key": "D", "text": "n(CO₂) < n(H₂O)" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Alkane CₙH₂ₙ₊₂ cháy tạo n mol CO₂ và (n + 1) mol H₂O, nên n(CO₂) < n(H₂O). Với alkene thì hai số mol bằng nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho benzene lần lượt tác dụng với bromine khan (xúc tác FeBr₃) và hydrogen dư (xúc tác Ni, đun nóng). Sản phẩm hữu cơ chính thu được lần lượt là",
+      "options": [
+        { "key": "A", "text": "benzyl bromide và hexane" },
+        { "key": "B", "text": "1,2-dibromobenzene và cyclohexene" },
+        { "key": "C", "text": "bromobenzene và cyclohexane" },
+        { "key": "D", "text": "nitrobenzene và cyclohexane" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với Br₂/FeBr₃, benzene thế một H tạo bromobenzene. Với H₂ dư/Ni, benzene cộng 3 H₂ tạo cyclohexane.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Dùng nước bromine và dung dịch AgNO₃ trong NH₃ có thể phân biệt được nhóm chất nào sau đây?",
+      "options": [
+        { "key": "A", "text": "ethane, ethene, ethyne" },
+        { "key": "B", "text": "methane, ethane, propane" },
+        { "key": "C", "text": "benzene, toluene, xylene" },
+        { "key": "D", "text": "ethane, propane, butane" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ethyne làm mất màu nước bromine và tạo kết tủa vàng với AgNO₃/NH₃; ethene chỉ làm mất màu nước bromine; ethane không phản ứng với cả hai thuốc thử. Các nhóm còn lại đều là chất không phản ứng hoặc không phân biệt được.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho propene tác dụng với HCl, sản phẩm chính thu được là",
+      "options": [
+        { "key": "A", "text": "1-chloropropane" },
+        { "key": "B", "text": "2-chloropropane" },
+        { "key": "C", "text": "1,2-dichloropropane" },
+        { "key": "D", "text": "3-chloropropene" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo quy tắc Markovnikov, H cộng vào carbon của liên kết đôi có nhiều H hơn (C1), Cl cộng vào C2, tạo 2-chloropropane.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho toluene tác dụng với bromine khan dưới ánh sáng, sản phẩm thế ở nhánh thu được là",
+      "options": [
+        { "key": "A", "text": "2-bromotoluene" },
+        { "key": "B", "text": "4-bromotoluene" },
+        { "key": "C", "text": "2,4-dibromotoluene" },
+        { "key": "D", "text": "benzyl bromide" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dưới ánh sáng, bromine thế nguyên tử H của nhóm methyl tạo benzyl bromide C₆H₅CH₂Br; thế vào vòng cần xúc tác FeBr₃.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol một alkane thu được 0,3 mol CO₂. Alkane đó là",
+      "options": [
+        { "key": "A", "text": "C₃H₈" },
+        { "key": "B", "text": "C₂H₆" },
+        { "key": "C", "text": "C₄H₁₀" },
+        { "key": "D", "text": "CH₄" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Số nguyên tử C = 0,3 : 0,1 = 3, nên alkane là C₃H₈ (propane).",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 2,24 lít ethene (đktc) tác dụng vừa đủ với dung dịch bromine. Khối lượng 1,2-dibromoethane thu được là",
+      "options": [
+        { "key": "A", "text": "9,4 gam" },
+        { "key": "B", "text": "18,8 gam" },
+        { "key": "C", "text": "28,2 gam" },
+        { "key": "D", "text": "37,6 gam" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(C₂H₄) = 2,24 : 22,4 = 0,1 mol. C₂H₄ + Br₂ → C₂H₄Br₂, n(C₂H₄Br₂) = 0,1 mol, khối lượng = 0,1 × 188 = 18,8 gam.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 4,4 gam propane, khối lượng CO₂ thu được là",
+      "options": [
+        { "key": "A", "text": "4,4 gam" },
+        { "key": "B", "text": "8,8 gam" },
+        { "key": "C", "text": "13,2 gam" },
+        { "key": "D", "text": "17,6 gam" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "n(C₃H₈) = 4,4 : 44 = 0,1 mol. C₃H₈ + 5O₂ → 3CO₂ + 4H₂O, n(CO₂) = 0,3 mol, khối lượng = 0,3 × 44 = 13,2 gam.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    },
+    {
+      "id": "de-hoa-11-bai-18-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-18",
+      "type": "SINGLE_CHOICE",
+      "content": "Hỗn hợp gồm 0,1 mol ethene và 0,1 mol ethyne tác dụng tối đa với bao nhiêu mol Br₂?",
+      "options": [
+        { "key": "A", "text": "0,1 mol" },
+        { "key": "B", "text": "0,2 mol" },
+        { "key": "C", "text": "0,4 mol" },
+        { "key": "D", "text": "0,3 mol" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ethene cộng 1 mol Br₂ cho mỗi mol (0,1 mol), ethyne cộng 2 mol Br₂ cho mỗi mol (0,2 mol). Tổng cộng 0,3 mol Br₂.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 18", "Ôn tập chương 4"]
+    }
+  ]
+}

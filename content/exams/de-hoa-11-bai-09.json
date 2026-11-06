@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-09",
+  "title": "Hóa học 11 – Bài 9. Ôn tập chương 2",
+  "slug": "de-hoa-11-bai-09",
+  "description": "20 câu trắc nghiệm ôn tập chương 2 (Nitrogen – Sulfur), trải đều Bài 4 đến Bài 8 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-09-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tử nitrogen (Z = 7) có bao nhiêu electron ở lớp ngoài cùng?",
+      "options": [
+        { "key": "A", "text": "3" },
+        { "key": "B", "text": "5" },
+        { "key": "C", "text": "2" },
+        { "key": "D", "text": "7" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cấu hình electron của N là 1s²2s²2p³ nên lớp ngoài cùng (lớp 2) có 5 electron. Phương án 3 là số electron độc thân, 2 là số electron lớp K, 7 là số hiệu nguyên tử.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở điều kiện thường, nitrogen khá trơ về mặt hoá học vì",
+      "options": [
+        { "key": "A", "text": "phân tử N₂ có liên kết ba rất bền giữa hai nguyên tử nitrogen" },
+        { "key": "B", "text": "phân tử N₂ chỉ có liên kết đơn kém bền" },
+        { "key": "C", "text": "nguyên tử nitrogen có bán kính lớn nên khó tham gia phản ứng" },
+        { "key": "D", "text": "nitrogen là chất khí không màu, không mùi" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phân tử N₂ gồm hai nguyên tử liên kết với nhau bằng liên kết ba (N≡N) có năng lượng liên kết lớn, cần nhiệt độ cao hoặc xúc tác mới bị phá vỡ. Màu, mùi và bán kính nguyên tử không quyết định độ bền hoá học.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Sulfur có hai dạng thù hình chính là",
+      "options": [
+        { "key": "A", "text": "sulfur rắn và sulfur lỏng" },
+        { "key": "B", "text": "sulfur trắng và sulfur đen" },
+        { "key": "C", "text": "sulfur tự nhiên và sulfur tổng hợp" },
+        { "key": "D", "text": "sulfur tà phương và sulfur đơn tà" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sulfur tạo hai dạng tinh thể thù hình là sulfur tà phương (bền dưới 95,5 °C) và sulfur đơn tà (bền trên 95,5 °C), đều cấu tạo từ phân tử S₈. Trạng thái rắn – lỏng hay nguồn gốc không phải là thù hình.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Khí ammonia tan rất tốt trong nước vì",
+      "options": [
+        { "key": "A", "text": "phân tử NH₃ có khối lượng mol lớn" },
+        { "key": "B", "text": "NH₃ phản ứng với nước và giải phóng một chất khí mới" },
+        { "key": "C", "text": "phân tử NH₃ phân cực và tạo được liên kết hydrogen với phân tử nước" },
+        { "key": "D", "text": "trong phân tử NH₃ có liên kết ba N≡N" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "NH₃ phân cực mạnh, cặp electron chưa liên kết trên N tạo liên kết hydrogen với nước nên tan rất nhiều (khoảng 700 thể tích NH₃ trong 1 thể tích nước). Khối lượng mol của NH₃ nhỏ, phân tử không chứa liên kết N≡N.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Kim loại nào sau đây không phản ứng với dung dịch H₂SO₄ loãng?",
+      "options": [
+        { "key": "A", "text": "Mg" },
+        { "key": "B", "text": "Zn" },
+        { "key": "C", "text": "Cu" },
+        { "key": "D", "text": "Fe" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dung dịch H₂SO₄ loãng chỉ oxi hoá được các kim loại đứng trước hydrogen trong dãy hoạt động hoá học. Cu đứng sau H nên không giải phóng được H₂; Mg, Zn, Fe đều tan và có khí H₂ thoát ra.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là oxide của nitrogen?",
+      "options": [
+        { "key": "A", "text": "SO₃" },
+        { "key": "B", "text": "N₂O" },
+        { "key": "C", "text": "P₂O₅" },
+        { "key": "D", "text": "CO" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Oxide của nitrogen là hợp chất chỉ gồm nitrogen và oxygen, ví dụ N₂O, NO, NO₂. SO₃ là oxide của sulfur, P₂O₅ là oxide của phosphorus, CO là oxide của carbon.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp, nitrogen được sản xuất chủ yếu bằng cách",
+      "options": [
+        { "key": "A", "text": "chưng cất phân đoạn không khí lỏng" },
+        { "key": "B", "text": "nhiệt phân muối NH₄NO₂" },
+        { "key": "C", "text": "đốt cháy NH₃ trong oxygen" },
+        { "key": "D", "text": "điện phân dung dịch NH₄Cl" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Không khí được hoá lỏng rồi chưng cất phân đoạn; N₂ sôi ở −196 °C, thấp hơn O₂ (−183 °C) nên bay ra trước và được tách riêng. Nhiệt phân NH₄NO₂ chỉ dùng trong phòng thí nghiệm với lượng nhỏ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Hấp thụ hoàn toàn khí SO₂ vào dung dịch NaOH dư, muối thu được là",
+      "options": [
+        { "key": "A", "text": "NaHSO₃" },
+        { "key": "B", "text": "Na₂SO₄" },
+        { "key": "C", "text": "Na₂S" },
+        { "key": "D", "text": "Na₂SO₃" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Với NaOH dư, SO₂ bị hấp thụ hoàn toàn theo SO₂ + 2NaOH → Na₂SO₃ + H₂O nên thu được muối trung hoà Na₂SO₃. NaHSO₃ chỉ tạo thành khi SO₂ dư; Na₂SO₄ và Na₂S không phải sản phẩm của phản ứng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng nào sau đây chứng tỏ SO₂ có tính oxi hoá?",
+      "options": [
+        { "key": "A", "text": "SO₂ + Br₂ + 2H₂O → H₂SO₄ + 2HBr" },
+        { "key": "B", "text": "2SO₂ + O₂ ⇌ (V₂O₅, t°) 2SO₃" },
+        { "key": "C", "text": "SO₂ + 2H₂S → 3S↓ + 2H₂O" },
+        { "key": "D", "text": "SO₂ + NaOH → NaHSO₃" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong phản ứng với H₂S, sulfur trong SO₂ từ +4 xuống 0 (bị khử), tức SO₂ đã oxi hoá H₂S thành S. Ở hai phản ứng với Br₂ và O₂, SO₂ từ +4 lên +6 nên thể hiện tính khử; phản ứng với NaOH chỉ là phản ứng acid – base.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuốc thử dùng để nhận biết ion NH₄⁺ trong dung dịch là",
+      "options": [
+        { "key": "A", "text": "dung dịch HCl" },
+        { "key": "B", "text": "dung dịch NaOH, đun nóng" },
+        { "key": "C", "text": "dung dịch BaCl₂" },
+        { "key": "D", "text": "nước bromine" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đun nóng dung dịch với NaOH, ion NH₄⁺ chuyển thành NH₃ có mùi khai, làm xanh giấy quỳ tím ẩm: NH₄⁺ + OH⁻ → NH₃↑ + H₂O. HCl, BaCl₂ và nước bromine không cho hiện tượng đặc trưng với NH₄⁺.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho từ từ dung dịch NH₃ đến dư vào dung dịch AlCl₃, hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "kết tủa trắng xuất hiện rồi tan hết thành dung dịch trong suốt" },
+        { "key": "B", "text": "kết tủa xanh lam" },
+        { "key": "C", "text": "không có hiện tượng gì" },
+        { "key": "D", "text": "kết tủa trắng keo xuất hiện và không tan khi NH₃ dư" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "AlCl₃ + 3NH₃ + 3H₂O → Al(OH)₃↓ + 3NH₄Cl. Al(OH)₃ là kết tủa trắng keo, chỉ tan trong base mạnh như NaOH dư, không tan trong NH₃ dư vì NH₃ là base yếu.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Kim loại nào sau đây không bị hoà tan trong dung dịch HNO₃ đặc, nguội?",
+      "options": [
+        { "key": "A", "text": "Fe" },
+        { "key": "B", "text": "Cu" },
+        { "key": "C", "text": "Ag" },
+        { "key": "D", "text": "Zn" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Fe (và Al) bị thụ động hoá trong HNO₃ đặc, nguội do bề mặt kim loại phủ lớp oxide mỏng bền, nên không tan. Cu, Ag, Zn đều bị HNO₃ đặc oxi hoá, có khí NO₂ màu nâu đỏ thoát ra.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Có thể dùng H₂SO₄ đặc để làm khô khí nào sau đây?",
+      "options": [
+        { "key": "A", "text": "NH₃" },
+        { "key": "B", "text": "H₂S" },
+        { "key": "C", "text": "CO₂" },
+        { "key": "D", "text": "cả ba khí trên" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "CO₂ không phản ứng với H₂SO₄ đặc nên được làm khô. NH₃ là base nên bị H₂SO₄ hấp thụ tạo (NH₄)₂SO₄; H₂S bị H₂SO₄ đặc oxi hoá thành S, không giữ được nguyên chất.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Khí nào sau đây là nguyên nhân chính gây mưa acid?",
+      "options": [
+        { "key": "A", "text": "N₂ và O₂" },
+        { "key": "B", "text": "SO₂ và NO₂" },
+        { "key": "C", "text": "CH₄ và CO₂" },
+        { "key": "D", "text": "H₂ và NH₃" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "SO₂ và NO₂ bị oxi hoá trong không khí ẩm tạo H₂SO₄ và HNO₃, tan vào nước mưa làm pH giảm. CH₄, CO₂ gây hiệu ứng nhà kính; N₂, O₂, H₂ không tạo acid trong nước mưa.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Nitrogen được dùng để tạo môi trường trơ khi bảo quản thực phẩm vì ở nhiệt độ thường nitrogen",
+      "options": [
+        { "key": "A", "text": "rất kém hoạt động hoá học, không duy trì sự cháy và sự hô hấp" },
+        { "key": "B", "text": "có tính oxi hoá mạnh nên tiêu diệt vi khuẩn" },
+        { "key": "C", "text": "phản ứng với oxygen trong túi bảo quản" },
+        { "key": "D", "text": "nhẹ hơn không khí nên đẩy hết không khí ra ngoài" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Liên kết ba trong N₂ rất bền nên nitrogen gần như không phản ứng ở điều kiện thường, đồng thời không duy trì cháy và hô hấp, nhờ đó hạn chế oxi hoá và phát triển của vi sinh vật. Khối lượng mol trung bình của không khí (29) lớn hơn N₂ (28) không đáng kể.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 12,8 g Cu tác dụng hoàn toàn với dung dịch H₂SO₄ đặc, nóng, dư. Thể tích khí SO₂ thu được (đkc, 24,79 L/mol) là",
+      "options": [
+        { "key": "A", "text": "2,479 L" },
+        { "key": "B", "text": "9,916 L" },
+        { "key": "C", "text": "4,48 L" },
+        { "key": "D", "text": "4,958 L" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "n(Cu) = 12,8 : 64 = 0,2 mol. Phản ứng Cu + 2H₂SO₄ → CuSO₄ + SO₂↑ + 2H₂O có tỉ lệ Cu : SO₂ = 1 : 1 nên n(SO₂) = 0,2 mol; V = 0,2 × 24,79 = 4,958 L.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 9,6 g Cu tác dụng hoàn toàn với dung dịch HNO₃ loãng, dư (sản phẩm khử duy nhất là NO). Thể tích khí NO thu được (đkc, 24,79 L/mol) là",
+      "options": [
+        { "key": "A", "text": "4,958 L" },
+        { "key": "B", "text": "1,240 L" },
+        { "key": "C", "text": "2,479 L" },
+        { "key": "D", "text": "7,437 L" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "n(Cu) = 9,6 : 64 = 0,15 mol. Theo 3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO↑ + 4H₂O, n(NO) = 2/3 × 0,15 = 0,1 mol; V = 0,1 × 24,79 = 2,479 L.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng nào sau đây chứng tỏ H₂SO₄ đặc có tính oxi hoá mạnh?",
+      "options": [
+        { "key": "A", "text": "H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O" },
+        { "key": "B", "text": "Cu + 2H₂SO₄ (đặc, t°) → CuSO₄ + SO₂↑ + 2H₂O" },
+        { "key": "C", "text": "H₂SO₄ + BaCl₂ → BaSO₄↓ + 2HCl" },
+        { "key": "D", "text": "H₂SO₄ + FeO → FeSO₄ + H₂O" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ở phản ứng với Cu, sulfur trong H₂SO₄ từ +6 xuống +4 trong SO₂, tức H₂SO₄ đã oxi hoá Cu thành Cu²⁺. Ba phản ứng còn lại chỉ là phản ứng trao đổi, số oxi hoá không đổi.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 5,35 g NH₄Cl tác dụng hết với dung dịch NaOH dư, đun nóng. Thể tích khí NH₃ thu được (đkc, 24,79 L/mol) là",
+      "options": [
+        { "key": "A", "text": "4,958 L" },
+        { "key": "B", "text": "1,240 L" },
+        { "key": "C", "text": "0,248 L" },
+        { "key": "D", "text": "2,479 L" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "M(NH₄Cl) = 14 + 4 + 35,5 = 53,5 g/mol nên n = 5,35 : 53,5 = 0,1 mol. Phản ứng NH₄Cl + NaOH → NaCl + NH₃↑ + H₂O cho n(NH₃) = 0,1 mol; V = 0,1 × 24,79 = 2,479 L.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    },
+    {
+      "id": "de-hoa-11-bai-09-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-09",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuốc thử dùng để nhận biết ion SO₄²⁻ trong dung dịch là",
+      "options": [
+        { "key": "A", "text": "dung dịch BaCl₂" },
+        { "key": "B", "text": "dung dịch AgNO₃" },
+        { "key": "C", "text": "dung dịch NaOH" },
+        { "key": "D", "text": "quỳ tím" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ba²⁺ tạo với SO₄²⁻ kết tủa trắng BaSO₄ không tan trong acid mạnh: Ba²⁺ + SO₄²⁻ → BaSO₄↓. AgNO₃ cho kết tủa với Cl⁻ chứ không đặc trưng cho SO₄²⁻; NaOH và quỳ tím không có phản ứng nhận biết.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 9", "Ôn tập chương 2"]
+    }
+  ]
+}

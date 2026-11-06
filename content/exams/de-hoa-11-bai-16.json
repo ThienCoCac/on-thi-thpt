@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-16",
+  "title": "Hóa học 11 – Bài 16. Hydrocarbon không no",
+  "slug": "de-hoa-11-bai-16",
+  "description": "20 câu trắc nghiệm bám sát Bài 16 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-16-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức chung của alkene (hydrocarbon không no, mạch hở, phân tử có một liên kết đôi) là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ₊₂ (n ≥ 2)" },
+        { "key": "B", "text": "CₙH₂ₙ₋₂ (n ≥ 2)" },
+        { "key": "C", "text": "CₙH₂ₙ (n ≥ 2)" },
+        { "key": "D", "text": "CₙH₂ₙ (n ≥ 1)" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Alkene có một liên kết đôi C=C trên mạch hở nên so với alkane cùng số C mất 2 nguyên tử H: số H = 2n, ứng với CₙH₂ₙ. Điều kiện n ≥ 2 vì cần tối thiểu hai nguyên tử C cho liên kết đôi, phân tử nhỏ nhất là C₂H₄ (CH₂ không tồn tại). CₙH₂ₙ₊₂ là alkane, CₙH₂ₙ₋₂ là alkyne.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức chung của alkyne (hydrocarbon không no, mạch hở, phân tử có một liên kết ba) là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ₊₂ (n ≥ 2)" },
+        { "key": "B", "text": "CₙH₂ₙ (n ≥ 2)" },
+        { "key": "C", "text": "CₙH₂ₙ₋₄ (n ≥ 3)" },
+        { "key": "D", "text": "CₙH₂ₙ₋₂ (n ≥ 2)" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Một liên kết ba làm mất 4 nguyên tử H so với alkane cùng số C: (2n + 2) − 4 = 2n − 2, nên alkyne có công thức CₙH₂ₙ₋₂ với n ≥ 2 (nhỏ nhất là C₂H₂). CₙH₂ₙ₋₄ ứng với phân tử có hai liên kết bội, không phải alkyne có một liên kết ba.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Khí nào sau đây làm mất màu dung dịch bromine ở nhiệt độ thường?",
+      "options": [
+        { "key": "A", "text": "CH₄" },
+        { "key": "B", "text": "C₂H₄" },
+        { "key": "C", "text": "C₂H₆" },
+        { "key": "D", "text": "C₃H₈" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "C₂H₄ có liên kết đôi nên cộng Br₂: C₂H₄ + Br₂ → C₂H₄Br₂, làm mất màu da cam của dung dịch. CH₄, C₂H₆, C₃H₈ là alkane, không phản ứng với Br₂ ở điều kiện thường.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ethylene tác dụng với hydrogen (xúc tác Ni, đun nóng), sản phẩm thu được là",
+      "options": [
+        { "key": "A", "text": "ethane" },
+        { "key": "B", "text": "ethanol" },
+        { "key": "C", "text": "ethylene glycol" },
+        { "key": "D", "text": "ethyl chloride" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CH₂=CH₂ + H₂ → (Ni, t°) CH₃–CH₃: liên kết π kém bền bị phá vỡ nên một phân tử H₂ cộng vào liên kết đôi, tạo ethane. Cộng HCl cho ethyl chloride, cộng H₂O (xúc tác acid) cho ethanol, còn ethylene glycol sinh ra khi ethylene bị KMnO₄ oxi hoá.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Liên kết đôi C=C trong phân tử alkene gồm",
+      "options": [
+        { "key": "A", "text": "một liên kết σ và một liên kết π" },
+        { "key": "B", "text": "hai liên kết σ" },
+        { "key": "C", "text": "một liên kết σ và hai liên kết π" },
+        { "key": "D", "text": "hai liên kết π" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Liên kết đôi gồm một liên kết σ bền và một liên kết π kém bền; liên kết ba gồm một σ và hai π (phương án C). Chính liên kết π làm alkene, alkyne dễ tham gia phản ứng cộng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận xét đúng về tính chất vật lí của ethylene và acetylene ở điều kiện thường là",
+      "options": [
+        { "key": "A", "text": "tan nhiều trong nước, nặng hơn không khí" },
+        { "key": "B", "text": "tan nhiều trong nước, nhẹ hơn không khí" },
+        { "key": "C", "text": "hầu như không tan trong nước, nhẹ hơn không khí" },
+        { "key": "D", "text": "hầu như không tan trong nước, nặng hơn không khí" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hai chất đều là phân tử không phân cực nên hầu như không tan trong nước. M(C₂H₄) = 28 g/mol và M(C₂H₂) = 26 g/mol, đều nhỏ hơn 29 g/mol nên nhẹ hơn không khí.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của CH₂=CH–CH₂–CH₃ là",
+      "options": [
+        { "key": "A", "text": "but-2-ene" },
+        { "key": "B", "text": "but-1-ene" },
+        { "key": "C", "text": "2-metylpropene" },
+        { "key": "D", "text": "butane" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mạch chính có 4 nguyên tử C và một liên kết đôi; đánh số từ phía gần liên kết đôi để liên kết đôi nằm giữa C1 và C2 nên tên là but-1-ene. But-2-ene là đồng phân có liên kết đôi ở C2, 2-metylpropene là đồng phân mạch nhánh, còn butane không có liên kết đôi nên cả ba đều không đúng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đồng phân cấu tạo mạch hở của C₄H₈ là",
+      "options": [
+        { "key": "A", "text": "1" },
+        { "key": "B", "text": "2" },
+        { "key": "C", "text": "4" },
+        { "key": "D", "text": "3" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "C₄H₈ có ba đồng phân cấu tạo: but-1-ene, but-2-ene và 2-metylpropene. Ngoài ra but-2-ene còn có hai đồng phân hình học cis và trans, nhưng đó là đồng phân lập thể, không làm tăng số đồng phân cấu tạo.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây có đồng phân hình học cis–trans?",
+      "options": [
+        { "key": "A", "text": "but-1-ene" },
+        { "key": "B", "text": "propene" },
+        { "key": "C", "text": "2-metylpropene" },
+        { "key": "D", "text": "but-2-ene" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Điều kiện có đồng phân hình học là mỗi nguyên tử C của liên kết đôi gắn với hai nhóm khác nhau. Ở but-2-ene, C2 gắn CH₃ và H, C3 gắn CH₃ và H nên có cis, trans. Các chất còn lại đều có một carbon của C=C gắn hai nguyên tử H hoặc hai nhóm CH₃ giống nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho propene tác dụng với HCl, sản phẩm chính thu được là",
+      "options": [
+        { "key": "A", "text": "1-cloropropane" },
+        { "key": "B", "text": "1,2-đicloropropane" },
+        { "key": "C", "text": "2-cloropropane" },
+        { "key": "D", "text": "2,2-đicloropropane" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo quy tắc Markovnikov, H của HCl cộng vào carbon của liên kết đôi có nhiều H hơn (C1), Cl cộng vào C2: CH₃–CH=CH₂ + HCl → CH₃–CHCl–CH₃ (2-cloropropane). Mỗi phân tử chỉ cộng một HCl nên không tạo sản phẩm điclo.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho propene tác dụng với nước (xúc tác H⁺, đun nóng), sản phẩm chính thu được là",
+      "options": [
+        { "key": "A", "text": "propan-1-ol" },
+        { "key": "B", "text": "propan-2-ol" },
+        { "key": "C", "text": "propanal" },
+        { "key": "D", "text": "propanoic acid" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phản ứng cộng H₂O theo Markovnikov: H vào C1 (carbon nhiều H hơn), nhóm OH vào C2 tạo CH₃–CH(OH)–CH₃ là propan-2-ol. Propan-1-ol chỉ là sản phẩm phụ; propanal và propanoic acid là sản phẩm của phản ứng oxi hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ba monomer: (1) CH₂=CH₂; (2) CH₂=CH–CH₃; (3) CH₂=CHCl. Polymer tạo thành khi trùng hợp lần lượt ba monomer này là",
+      "options": [
+        { "key": "A", "text": "polyethylene, polypropylene, poly(vinyl chloride)" },
+        { "key": "B", "text": "polyethylene, poly(vinyl chloride), polypropylene" },
+        { "key": "C", "text": "polypropylene, polyethylene, poly(vinyl chloride)" },
+        { "key": "D", "text": "poly(vinyl chloride), polypropylene, polyethylene" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khi trùng hợp, liên kết π của monomer mở ra và các phân tử nối lại với nhau, mạch carbon và nhóm thế giữ nguyên: (1) cho PE (–CH₂–CH₂–)ₙ, (2) cho PP (–CH₂–CH(CH₃)–)ₙ, (3) cho PVC (–CH₂–CHCl–)ₙ. Ba phương án còn lại đều gán sai cặp monomer – polymer.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Sục khí ethylene vào dung dịch KMnO₄ loãng ở nhiệt độ thường thấy dung dịch mất màu tím. Phản ứng xảy ra thuộc loại",
+      "options": [
+        { "key": "A", "text": "phản ứng thế" },
+        { "key": "B", "text": "phản ứng trùng hợp" },
+        { "key": "C", "text": "oxi hoá không hoàn toàn" },
+        { "key": "D", "text": "phản ứng cracking" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "KMnO₄ oxi hoá liên kết đôi tạo ethylene glycol C₂H₄(OH)₂, mạch carbon không bị phá vỡ nên gọi là oxi hoá không hoàn toàn. Đây là phản ứng dùng để nhận biết alkene.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phòng thí nghiệm, ethene được điều chế bằng cách đun nóng ethanol với sulfuric acid đặc ở khoảng 170 °C. Phương trình hoá học của phản ứng là",
+      "options": [
+        { "key": "A", "text": "C₂H₅OH → (H₂SO₄ đặc, 170 °C) C₂H₄ + H₂O" },
+        { "key": "B", "text": "C₂H₅OH + H₂SO₄ → C₂H₅OSO₃H + H₂O" },
+        { "key": "C", "text": "2C₂H₅OH → (Al₂O₃, 400 °C) C₂H₅OC₂H₅ + H₂O" },
+        { "key": "D", "text": "C₂H₄ + H₂O → (H⁺, t°) C₂H₅OH" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ở 170 °C, H₂SO₄ đặc xúc tác cho phản ứng tách nước của ethanol tạo ethene: C₂H₅OH → C₂H₄ + H₂O. Phương án B là phản ứng tạo ester sulfat trung gian, phương án C là phản ứng tạo diethyl ether (ưu thế ở khoảng 140 °C), phương án D là phản ứng hydrat hoá ethene – chiều ngược lại. Trong công nghiệp, ethene chủ yếu thu được bằng cracking alkane.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuốc thử dùng để phân biệt acetylene với ethylene là",
+      "options": [
+        { "key": "A", "text": "dung dịch bromine" },
+        { "key": "B", "text": "dung dịch AgNO₃ trong NH₃" },
+        { "key": "C", "text": "nước vôi trong" },
+        { "key": "D", "text": "dung dịch sodium chloride" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Acetylene có nguyên tử H linh động ở carbon đầu mạch nên tạo kết tủa vàng nhạt C₂Ag₂ với AgNO₃/NH₃: C₂H₂ + 2AgNO₃ + 2NH₃ → C₂Ag₂↓ + 2NH₄NO₃. Cả hai khí đều làm mất màu bromine nên bromine không phân biệt được.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn một alkene, sản phẩm cháy có đặc điểm",
+      "options": [
+        { "key": "A", "text": "nCO₂ > nH₂O" },
+        { "key": "B", "text": "nCO₂ < nH₂O" },
+        { "key": "C", "text": "nCO₂ = 2nH₂O" },
+        { "key": "D", "text": "nCO₂ = nH₂O" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "CₙH₂ₙ + 1,5n O₂ → n CO₂ + n H₂O nên số mol CO₂ bằng số mol H₂O. Với alkane nCO₂ < nH₂O, với alkyne nCO₂ > nH₂O.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol alkene X thu được 8,96 lít CO₂ (đktc). Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₂H₄" },
+        { "key": "B", "text": "C₃H₆" },
+        { "key": "C", "text": "C₄H₈" },
+        { "key": "D", "text": "C₅H₁₀" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "nCO₂ = 8,96/22,4 = 0,4 mol, số C = 0,4/0,1 = 4 nên X là C₄H₈. C₃H₆ chỉ cho 0,3 mol CO₂, C₅H₁₀ cho 0,5 mol CO₂.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 0,1 mol hỗn hợp gồm ethylene và acetylene tác dụng vừa đủ với 0,15 mol Br₂ trong dung dịch. Phần trăm số mol của ethylene trong hỗn hợp là",
+      "options": [
+        { "key": "A", "text": "50%" },
+        { "key": "B", "text": "40%" },
+        { "key": "C", "text": "60%" },
+        { "key": "D", "text": "75%" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ethylene cộng 1 Br₂, acetylene cộng 2 Br₂. Gọi x, y là số mol C₂H₄, C₂H₂: x + y = 0,1 và x + 2y = 0,15 → y = 0,05; x = 0,05. Vậy ethylene chiếm 50% số mol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Dẫn 0,2 mol hỗn hợp gồm ethylene và acetylene qua lượng dư dung dịch AgNO₃ trong NH₃, thu được 24,0 gam kết tủa. Số mol ethylene trong hỗn hợp là",
+      "options": [
+        { "key": "A", "text": "0,05 mol" },
+        { "key": "B", "text": "0,15 mol" },
+        { "key": "C", "text": "0,20 mol" },
+        { "key": "D", "text": "0,10 mol" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chỉ acetylene phản ứng tạo kết tủa C₂Ag₂ (M = 240 g/mol): nC₂Ag₂ = 24,0/240 = 0,1 mol → nC₂H₂ = 0,1 mol. Do đó nC₂H₄ = 0,2 − 0,1 = 0,1 mol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    },
+    {
+      "id": "de-hoa-11-bai-16-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-16",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn hỗn hợp gồm 0,1 mol C₂H₄ và 0,1 mol C₂H₂, dẫn toàn bộ sản phẩm cháy vào dung dịch Ca(OH)₂ dư. Khối lượng kết tủa thu được là",
+      "options": [
+        { "key": "A", "text": "20 gam" },
+        { "key": "B", "text": "40 gam" },
+        { "key": "C", "text": "30 gam" },
+        { "key": "D", "text": "50 gam" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mỗi chất có 2 nguyên tử C nên nCO₂ = 2.0,1 + 2.0,1 = 0,4 mol. Với Ca(OH)₂ dư, toàn bộ CO₂ tạo kết tủa: mCaCO₃ = 0,4.100 = 40 gam.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 16", "Hydrocarbon không no"]
+    }
+  ]
+}

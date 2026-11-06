@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-06",
+  "title": "Hóa học 11 – Bài 6. Ammonia và một số hợp chất ammonium",
+  "slug": "de-hoa-11-bai-06",
+  "description": "20 câu trắc nghiệm bám sát Bài 6 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-06-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở điều kiện thường, ammonia là",
+      "options": [
+        { "key": "A", "text": "chất lỏng không màu, mùi khai, nặng hơn không khí." },
+        { "key": "B", "text": "chất khí không màu, mùi khai, nhẹ hơn không khí." },
+        { "key": "C", "text": "chất khí màu vàng lục, mùi hắc, nặng hơn không khí." },
+        { "key": "D", "text": "chất khí không màu, không mùi, tan ít trong nước." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "NH₃ là chất khí không màu, mùi khai; M = 17 < 29 nên nhẹ hơn không khí và tan rất nhiều trong nước. Khí màu vàng lục là Cl₂.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Phân tử ammonia có đặc điểm cấu tạo nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Dạng chóp tam giác, nguyên tử N còn một cặp electron chưa liên kết." },
+        { "key": "B", "text": "Dạng thẳng H–N–H với góc liên kết 180°." },
+        { "key": "C", "text": "Dạng tam giác phẳng, nguyên tử N không còn electron chưa liên kết." },
+        { "key": "D", "text": "Dạng tứ diện đều, nguyên tử N liên kết với bốn nguyên tử H." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "NH₃ có ba liên kết N–H phân cực và một cặp electron chưa liên kết trên N, phân tử có dạng chóp tam giác. Cặp electron này quyết định tính base và khả năng tạo phức của ammonia.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Mẩu giấy quỳ tím ẩm đặt trong khí ammonia hoặc nhúng vào dung dịch ammonia sẽ",
+      "options": [
+        { "key": "A", "text": "hoá đỏ." },
+        { "key": "B", "text": "bị mất màu." },
+        { "key": "C", "text": "hoá xanh." },
+        { "key": "D", "text": "giữ nguyên màu tím." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dung dịch NH₃ có môi trường base yếu (NH₃ + H₂O ⇌ NH₄⁺ + OH⁻) nên quỳ tím hoá xanh. Quỳ hoá đỏ là môi trường acid.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Ammonia được sử dụng chủ yếu để",
+      "options": [
+        { "key": "A", "text": "làm nhiên liệu cho động cơ ô tô." },
+        { "key": "B", "text": "sản xuất thuỷ tinh và gốm sứ." },
+        { "key": "C", "text": "tẩy trắng giấy và bột giấy." },
+        { "key": "D", "text": "sản xuất phân bón đạm và nitric acid." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phần lớn ammonia dùng để sản xuất phân đạm (NH₄NO₃, (NH₄)₂SO₄, urê) và HNO₃; ngoài ra còn dùng làm chất làm lạnh, sản xuất xođa. Tẩy trắng giấy là ứng dụng của SO₂.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp, ammonia được tổng hợp trực tiếp từ",
+      "options": [
+        { "key": "A", "text": "nitrogen và hydrogen với xúc tác iron, ở nhiệt độ và áp suất cao." },
+        { "key": "B", "text": "nitrogen và oxygen dưới tác dụng của tia lửa điện." },
+        { "key": "C", "text": "ammonium chloride và calcium hydroxide khi đun nóng." },
+        { "key": "D", "text": "nitric acid và hydrogen ở nhiệt độ thường." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "N₂ + 3H₂ ⇌ (Fe, t°, p) 2NH₃ là phương pháp tổng hợp ammonia trong công nghiệp. Đun NH₄Cl với Ca(OH)₂ chỉ dùng trong phòng thí nghiệm.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào đúng về tính tan của muối ammonium trong nước?",
+      "options": [
+        { "key": "A", "text": "Chỉ muối ammonium của acid mạnh mới tan được trong nước." },
+        { "key": "B", "text": "Hầu hết muối ammonium đều tan tốt trong nước." },
+        { "key": "C", "text": "Tất cả muối ammonium đều không tan, tạo kết tủa trắng." },
+        { "key": "D", "text": "Muối ammonium chỉ tan trong dung dịch acid, không tan trong nước." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đa số muối ammonium như NH₄Cl, NH₄NO₃, (NH₄)₂SO₄, NH₄HCO₃ đều dễ tan trong nước; đây là điểm khác biệt so với nhiều muối của kim loại nặng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhỏ dung dịch ammonia vào bình kín đang chứa khí hydrogen chloride, hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "xuất hiện khí màu nâu đỏ." },
+        { "key": "B", "text": "có kết tủa trắng bền trong nước." },
+        { "key": "C", "text": "xuất hiện khói trắng." },
+        { "key": "D", "text": "dung dịch chuyển sang màu xanh lam." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "NH₃ + HCl → NH₄Cl, muối tạo thành ở dạng hạt rắn li ti lơ lửng trong không khí nên thấy khói trắng. Khí nâu đỏ là NO₂, không liên quan phản ứng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy ammonia trong khí oxygen (không có xúc tác) thu được nitrogen và hơi nước. Trong phản ứng này, ammonia thể hiện",
+      "options": [
+        { "key": "A", "text": "tính base." },
+        { "key": "B", "text": "tính acid." },
+        { "key": "C", "text": "tính oxi hoá." },
+        { "key": "D", "text": "tính khử." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "4NH₃ + 3O₂ → (t°) 2N₂ + 6H₂O: N tăng số oxi hoá từ –3 lên 0 nên NH₃ nhường electron, thể hiện tính khử; O₂ là chất oxi hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Dẫn khí ammonia qua ống đựng copper(II) oxide đang được nung nóng, hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "chất rắn màu đen chuyển dần sang màu đỏ, có khí không màu thoát ra." },
+        { "key": "B", "text": "chất rắn màu đen tan dần tạo dung dịch màu xanh lam." },
+        { "key": "C", "text": "chất rắn chuyển sang màu trắng và có khí mùi khai bay ra." },
+        { "key": "D", "text": "không có hiện tượng gì vì hai chất không phản ứng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "2NH₃ + 3CuO → (t°) 3Cu + N₂ + 3H₂O: CuO màu đen bị khử thành Cu màu đỏ, khí N₂ không màu thoát ra. Dung dịch xanh lam là Cu²⁺ trong nước, không xuất hiện ở đây.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiệt phân hoàn toàn muối ammonium nào sau đây thu được khí dinitrogen oxide (N₂O)?",
+      "options": [
+        { "key": "A", "text": "NH₄Cl." },
+        { "key": "B", "text": "NH₄NO₃." },
+        { "key": "C", "text": "NH₄HCO₃." },
+        { "key": "D", "text": "(NH₄)₂SO₄." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "NH₄NO₃ → (t°) N₂O↑ + 2H₂O, được dùng điều chế N₂O trong phòng thí nghiệm. NH₄Cl nhiệt phân cho NH₃ và HCl, không tạo N₂O.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Để nhận biết ion ammonium (NH₄⁺) trong dung dịch muối ammonium, có thể dùng",
+      "options": [
+        { "key": "A", "text": "dung dịch barium chloride." },
+        { "key": "B", "text": "dung dịch silver nitrate." },
+        { "key": "C", "text": "dung dịch sodium hydroxide, đun nhẹ, kèm giấy quỳ tím ẩm." },
+        { "key": "D", "text": "dung dịch hydrochloric acid." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "NH₄⁺ + OH⁻ → (t°) NH₃↑ + H₂O; khí NH₃ làm quỳ tím ẩm hoá xanh và có mùi khai đặc trưng. BaCl₂ chỉ nhận biết ion sulfate.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Ammonia tan rất nhiều trong nước chủ yếu là do",
+      "options": [
+        { "key": "A", "text": "NH₃ có khối lượng mol nhỏ nên khuếch tán nhanh vào nước." },
+        { "key": "B", "text": "NH₃ phản ứng hoàn toàn với nước tạo base mạnh." },
+        { "key": "C", "text": "NH₃ tạo liên kết cộng hoá trị với nước thành H₂N–OH." },
+        { "key": "D", "text": "phân tử NH₃ phân cực, tạo được liên kết hydrogen với nước và phản ứng một phần với nước." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "NH₃ phân cực nên tạo liên kết hydrogen với H₂O, đồng thời phản ứng một phần với nước (NH₃ + H₂O ⇌ NH₄⁺ + OH⁻), nhờ đó tan được tới khoảng 700 thể tích trong 1 thể tích nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhỏ từ từ dung dịch ammonia đến dư vào dung dịch aluminium chloride, hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "xuất hiện kết tủa trắng keo, kết tủa không tan khi ammonia dư." },
+        { "key": "B", "text": "xuất hiện kết tủa trắng keo, sau đó kết tủa tan hết khi ammonia dư." },
+        { "key": "C", "text": "xuất hiện kết tủa màu nâu đỏ." },
+        { "key": "D", "text": "không thấy hiện tượng gì." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "AlCl₃ + 3NH₃ + 3H₂O → Al(OH)₃↓ + 3NH₄Cl. Al(OH)₃ là hydroxide lưỡng tính nhưng chỉ tan trong base mạnh, không tan trong ammonia vì ammonia là base yếu.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Có thể làm khô khí ammonia bằng chất nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Dung dịch sulfuric acid đặc." },
+        { "key": "B", "text": "Calcium oxide (vôi sống)." },
+        { "key": "C", "text": "Phosphorus pentoxide (P₂O₅)." },
+        { "key": "D", "text": "Copper(II) sulfate khan." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "CaO là oxide base, chỉ hút ẩm mà không phản ứng với NH₃. H₂SO₄ đặc và P₂O₅ có tính acid nên hấp thụ NH₃ thành muối ammonium; CuSO₄ khan tạo phức màu xanh với NH₃.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho dung dịch chứa 0,1 mol (NH₄)₂SO₄ tác dụng với dung dịch NaOH dư, đun nóng. Thể tích khí ammonia sinh ra ở đktc là",
+      "options": [
+        { "key": "A", "text": "2,24 lít." },
+        { "key": "B", "text": "1,12 lít." },
+        { "key": "C", "text": "4,48 lít." },
+        { "key": "D", "text": "6,72 lít." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "(NH₄)₂SO₄ + 2NaOH → Na₂SO₄ + 2NH₃↑ + 2H₂O, nên n(NH₃) = 2 × 0,1 = 0,2 mol; V = 0,2 × 22,4 = 4,48 lít.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phòng thí nghiệm, ammonia được điều chế bằng cách",
+      "options": [
+        { "key": "A", "text": "cho nitrogen tác dụng với hydrogen ở nhiệt độ cao." },
+        { "key": "B", "text": "nhiệt phân ammonium chloride." },
+        { "key": "C", "text": "cho ammonium chloride tác dụng với dung dịch hydrochloric acid." },
+        { "key": "D", "text": "đun nóng hỗn hợp ammonium chloride với calcium hydroxide." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "2NH₄Cl + Ca(OH)₂ → (t°) CaCl₂ + 2NH₃↑ + 2H₂O; base đẩy NH₃ ra khỏi muối ammonium. Nhiệt phân NH₄Cl cho hỗn hợp NH₃ và HCl nên không thu được NH₃ tinh khiết.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Tổng hợp ammonia theo phản ứng N₂ + 3H₂ ⇌ 2NH₃. Để thu được 0,5 mol NH₃ với hiệu suất 25%, lượng hydrogen cần lấy ban đầu là",
+      "options": [
+        { "key": "A", "text": "3,0 mol." },
+        { "key": "B", "text": "0,75 mol." },
+        { "key": "C", "text": "1,5 mol." },
+        { "key": "D", "text": "0,25 mol." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo phương trình, 0,5 mol NH₃ cần 0,75 mol H₂ về lí thuyết. Hiệu suất 25% nên lượng thực tế phải lấy: 0,75 : 0,25 = 3,0 mol. Phương án 0,75 mol là quên tính hiệu suất.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong dung dịch ammonia 0,1 M, nồng độ ion OH⁻ so với 0,1 M như thế nào?",
+      "options": [
+        { "key": "A", "text": "Bằng 0,1 M vì mỗi phân tử NH₃ nhường ra một OH⁻." },
+        { "key": "B", "text": "Nhỏ hơn 0,1 M vì NH₃ là base yếu, chỉ một phần phân tử phản ứng với nước." },
+        { "key": "C", "text": "Lớn hơn 0,1 M vì NH₃ tan rất nhiều trong nước." },
+        { "key": "D", "text": "Bằng 0 vì NH₃ không phản ứng với nước." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "NH₃ + H₂O ⇌ NH₄⁺ + OH⁻ là cân bằng lệch mạnh về phía nghịch nên chỉ một phần nhỏ NH₃ phản ứng, do đó [OH⁻] < 0,1 M và pH của dung dịch khoảng 11, không phải base mạnh.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 0,15 mol ammonia tác dụng vừa hết với dung dịch chứa 0,10 mol H₂SO₄. Cô cạn dung dịch sau phản ứng, khối lượng muối khan thu được là",
+      "options": [
+        { "key": "A", "text": "11,50 g." },
+        { "key": "B", "text": "13,20 g." },
+        { "key": "C", "text": "12,35 g." },
+        { "key": "D", "text": "6,60 g." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tỉ lệ n(NH₃) : n(H₂SO₄) = 1,5 nên tạo hai muối. Đặt x, y là số mol NH₄HSO₄ và (NH₄)₂SO₄: x + 2y = 0,15 và x + y = 0,10 → x = 0,05; y = 0,05. m = 0,05 × 115 + 0,05 × 132 = 5,75 + 6,60 = 12,35 g.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    },
+    {
+      "id": "de-hoa-11-bai-06-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-06",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiệt phân hoàn toàn 0,1 mol ammonium hydrogencarbonate (NH₄HCO₃), dẫn toàn bộ khí sinh ra vào dung dịch Ca(OH)₂ dư. Khối lượng kết tủa thu được là",
+      "options": [
+        { "key": "A", "text": "5,0 g." },
+        { "key": "B", "text": "20,0 g." },
+        { "key": "C", "text": "4,4 g." },
+        { "key": "D", "text": "10,0 g." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "NH₄HCO₃ → (t°) NH₃↑ + CO₂↑ + H₂O; chỉ CO₂ phản ứng với Ca(OH)₂ dư tạo CaCO₃: CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O. n(CaCO₃) = 0,1 mol, m = 0,1 × 100 = 10,0 g.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 6", "Ammonia"]
+    }
+  ]
+}

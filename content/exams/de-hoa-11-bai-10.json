@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-10",
+  "title": "Hóa học 11 – Bài 10. Khái niệm về hợp chất hữu cơ và hoá học hữu cơ",
+  "slug": "de-hoa-11-bai-10",
+  "description": "20 câu trắc nghiệm bám sát Bài 10 SGK Hóa học 11 (Kết nối tri thức): khái niệm, đặc điểm chung, phân loại hợp chất hữu cơ và vai trò trong đời sống.",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-10-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây không phải là hợp chất hữu cơ?",
+      "options": [
+        { "key": "A", "text": "CH₄" },
+        { "key": "B", "text": "C₂H₅OH" },
+        { "key": "C", "text": "Na₂CO₃" },
+        { "key": "D", "text": "CH₃COOH" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hợp chất hữu cơ là hợp chất của carbon, trừ oxide của carbon, acid carbonic, muối carbonate, cyanide và carbide. Na₂CO₃ là muối carbonate nên thuộc hợp chất vô cơ; CH₄, C₂H₅OH, CH₃COOH đều là hợp chất hữu cơ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tố nào luôn có mặt trong thành phần của mọi hợp chất hữu cơ?",
+      "options": [
+        { "key": "A", "text": "Carbon" },
+        { "key": "B", "text": "Hydrogen" },
+        { "key": "C", "text": "Oxygen" },
+        { "key": "D", "text": "Nitrogen" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hợp chất hữu cơ được định nghĩa là hợp chất của carbon, nên carbon bắt buộc có mặt. Hydrogen không bắt buộc (ví dụ CCl₄), oxygen và nitrogen chỉ có trong một số dẫn xuất.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phân tử hợp chất hữu cơ, các nguyên tử liên kết với nhau chủ yếu bằng loại liên kết nào?",
+      "options": [
+        { "key": "A", "text": "Liên kết ion" },
+        { "key": "B", "text": "Liên kết kim loại" },
+        { "key": "C", "text": "Liên kết hydrogen" },
+        { "key": "D", "text": "Liên kết cộng hoá trị" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Các nguyên tử trong phân tử hợp chất hữu cơ góp chung electron tạo liên kết cộng hoá trị (đơn, đôi, ba). Liên kết ion chỉ gặp ở một số ít hợp chất, liên kết kim loại không có trong phân tử hữu cơ; liên kết hydrogen chỉ là tương tác giữa các phân tử.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng hoá học của các hợp chất hữu cơ thường có đặc điểm",
+      "options": [
+        { "key": "A", "text": "xảy ra nhanh và hoàn toàn" },
+        { "key": "B", "text": "xảy ra chậm, không hoàn toàn và theo nhiều hướng khác nhau" },
+        { "key": "C", "text": "không cần xúc tác và chỉ tạo ra một sản phẩm duy nhất" },
+        { "key": "D", "text": "chỉ xảy ra trong dung dịch nước" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Do liên kết cộng hoá trị kém phân cực và phân tử lớn, phản ứng hữu cơ thường chậm, cần đun nóng hoặc xúc tác, không hoàn toàn và tạo hỗn hợp nhiều sản phẩm (phản ứng phụ). Phản ứng vô cơ trong dung dịch nước mới thường nhanh, hoàn toàn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là hydrocarbon?",
+      "options": [
+        { "key": "A", "text": "CH₃Cl" },
+        { "key": "B", "text": "C₂H₅OH" },
+        { "key": "C", "text": "C₆H₆" },
+        { "key": "D", "text": "CH₃COOH" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hydrocarbon là hợp chất hữu cơ chỉ chứa carbon và hydrogen, ví dụ C₆H₆. CH₃Cl có chlorine, C₂H₅OH có oxygen, CH₃COOH có oxygen nên đều là dẫn xuất của hydrocarbon.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Dẫn xuất của hydrocarbon là hợp chất hữu cơ mà trong phân tử, ngoài carbon và hydrogen còn có",
+      "options": [
+        { "key": "A", "text": "nguyên tố khác như oxygen, nitrogen, halogen" },
+        { "key": "B", "text": "thêm nguyên tử carbon so với hydrocarbon tương ứng" },
+        { "key": "C", "text": "thêm liên kết đôi giữa các nguyên tử carbon" },
+        { "key": "D", "text": "thêm nguyên tử hydrogen trong mạch" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dẫn xuất của hydrocarbon được tạo ra khi thay một hay nhiều nguyên tử hydrogen trong hydrocarbon bằng nguyên tử của nguyên tố khác như O, N, S, halogen. Việc thêm carbon hay thêm liên kết đôi vẫn chỉ cho hydrocarbon.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng với tính chất vật lí của phần lớn hợp chất hữu cơ?",
+      "options": [
+        { "key": "A", "text": "Nhiệt độ nóng chảy và nhiệt độ sôi cao, tan tốt trong nước" },
+        { "key": "B", "text": "Dẫn điện tốt ở trạng thái nóng chảy" },
+        { "key": "C", "text": "Ở điều kiện thường đều là chất khí" },
+        { "key": "D", "text": "Nhiệt độ nóng chảy, nhiệt độ sôi thấp, ít tan trong nước nhưng tan trong nhiều dung môi hữu cơ" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phân tử hữu cơ liên kết cộng hoá trị, không tạo ion nên nhiệt độ nóng chảy, nhiệt độ sôi thấp, không dẫn điện; phần lớn không tan trong nước nhưng tan trong dung môi hữu cơ như ethanol, ether, benzene.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoá học hữu cơ là ngành hoá học nghiên cứu",
+      "options": [
+        { "key": "A", "text": "tính chất của các kim loại và hợp kim" },
+        { "key": "B", "text": "thành phần, cấu tạo, tính chất, ứng dụng và sự chuyển hoá của hợp chất hữu cơ" },
+        { "key": "C", "text": "phản ứng của các hợp chất vô cơ trong dung dịch" },
+        { "key": "D", "text": "cấu tạo của các khoáng vật trong tự nhiên" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hoá học hữu cơ nghiên cứu hợp chất hữu cơ về thành phần, cấu tạo, tính chất vật lí, tính chất hoá học, ứng dụng và các quá trình chuyển hoá. Nghiên cứu kim loại, khoáng vật thuộc hoá học vô cơ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây thuộc loại hydrocarbon no?",
+      "options": [
+        { "key": "A", "text": "C₂H₄" },
+        { "key": "B", "text": "C₂H₂" },
+        { "key": "C", "text": "CH₄" },
+        { "key": "D", "text": "C₆H₆" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hydrocarbon no chỉ chứa liên kết đơn trong phân tử, điển hình là CH₄. C₂H₄ có liên kết đôi, C₂H₂ có liên kết ba nên là hydrocarbon không no; C₆H₆ thuộc hydrocarbon thơm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Dựa vào đặc điểm cấu tạo, hydrocarbon được chia thành",
+      "options": [
+        { "key": "A", "text": "hydrocarbon no, hydrocarbon không no và hydrocarbon thơm" },
+        { "key": "B", "text": "hydrocarbon ở thể khí, thể lỏng và thể rắn" },
+        { "key": "C", "text": "hydrocarbon đơn chức và hydrocarbon đa chức" },
+        { "key": "D", "text": "hydrocarbon tự nhiên và hydrocarbon tổng hợp" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo cấu tạo, hydrocarbon gồm loại no (chỉ liên kết đơn), không no (có liên kết đôi, ba) và thơm (có vòng benzene). Cách chia theo thể, theo số nhóm chức hay theo nguồn gốc không phải cách phân loại hydrocarbon trong bài.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây không đúng với hợp chất hữu cơ?",
+      "options": [
+        { "key": "A", "text": "Thành phần nguyên tố thường gồm C, H, O, N, halogen" },
+        { "key": "B", "text": "Liên kết trong phân tử chủ yếu là liên kết cộng hoá trị" },
+        { "key": "C", "text": "Phản ứng hoá học thường cần đun nóng hoặc có xúc tác" },
+        { "key": "D", "text": "Phần lớn tan tốt trong nước và dẫn điện khi tan trong nước" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phần lớn hợp chất hữu cơ không tan hoặc ít tan trong nước và không phân li thành ion nên dung dịch không dẫn điện. Ba đặc điểm còn lại đúng với hợp chất hữu cơ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn một hợp chất hữu cơ chỉ chứa carbon và hydrogen thường thu được",
+      "options": [
+        { "key": "A", "text": "CO và H₂" },
+        { "key": "B", "text": "CO₂ và H₂O" },
+        { "key": "C", "text": "CO₂ và H₂" },
+        { "key": "D", "text": "CH₄ và H₂O" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khi cháy hoàn toàn, carbon chuyển thành CO₂ và hydrogen chuyển thành H₂O. CO chỉ là sản phẩm của quá trình cháy không hoàn toàn, còn H₂ và CH₄ không phải sản phẩm của phản ứng đốt cháy hoàn toàn hydrocarbon.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Dãy nào sau đây chỉ gồm các dẫn xuất của hydrocarbon?",
+      "options": [
+        { "key": "A", "text": "CH₄, C₂H₆, C₃H₈" },
+        { "key": "B", "text": "C₂H₄, C₂H₂, C₆H₆" },
+        { "key": "C", "text": "CH₃Cl, C₂H₅OH, CH₃COOH" },
+        { "key": "D", "text": "CH₄, C₂H₅OH, C₆H₆" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dẫn xuất của hydrocarbon phải chứa thêm nguyên tố khác ngoài C, H: CH₃Cl (Cl), C₂H₅OH và CH₃COOH (O). Các dãy A, B chỉ gồm hydrocarbon; dãy D có lẫn CH₄ và C₆H₆ là hydrocarbon.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguồn nguyên liệu chính cho công nghiệp hoá học hữu cơ hiện nay là",
+      "options": [
+        { "key": "A", "text": "dầu mỏ và khí thiên nhiên" },
+        { "key": "B", "text": "quặng sắt và than cốc" },
+        { "key": "C", "text": "nước biển và đá vôi" },
+        { "key": "D", "text": "không khí và cát trắng" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dầu mỏ và khí thiên nhiên cung cấp hydrocarbon làm nguyên liệu sản xuất nhiên liệu, polymer, dung môi, phân bón, dược phẩm. Quặng sắt, than cốc, đá vôi, cát trắng là nguyên liệu của công nghiệp vô cơ (luyện kim, silicate).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất hữu cơ nào sau đây là thành phần chính của gạo, ngô, khoai và được dùng làm lương thực?",
+      "options": [
+        { "key": "A", "text": "NaCl" },
+        { "key": "B", "text": "CaCO₃" },
+        { "key": "C", "text": "H₂O" },
+        { "key": "D", "text": "Tinh bột" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tinh bột là carbohydrate thiên nhiên có công thức (C₆H₁₀O₅)n, là thành phần chính của gạo, ngô, khoai. NaCl, CaCO₃, H₂O đều là chất vô cơ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây không đúng?",
+      "options": [
+        { "key": "A", "text": "Hợp chất hữu cơ nhất thiết phải chứa nguyên tố carbon" },
+        { "key": "B", "text": "Mọi hợp chất chứa carbon đều là hợp chất hữu cơ" },
+        { "key": "C", "text": "Trong hợp chất hữu cơ, carbon thường có hoá trị IV" },
+        { "key": "D", "text": "Hợp chất hữu cơ có thể chứa oxygen, nitrogen, sulfur, phosphorus hoặc halogen" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "CO, CO₂, H₂CO₃, muối carbonate, cyanide, carbide đều chứa carbon nhưng là hợp chất vô cơ. Vì vậy không phải mọi hợp chất chứa carbon đều là hợp chất hữu cơ; các phát biểu còn lại đúng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 3,0 g hợp chất hữu cơ X (chỉ chứa C, H, O), thu được 0,1 mol CO₂ và 0,15 mol H₂O. Phần trăm khối lượng oxygen trong X là",
+      "options": [
+        { "key": "A", "text": "20%" },
+        { "key": "B", "text": "40%" },
+        { "key": "C", "text": "50%" },
+        { "key": "D", "text": "60%" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảo toàn nguyên tố: n(C) = 0,1 mol → m(C) = 1,2 g; n(H) = 2 × 0,15 = 0,3 mol → m(H) = 0,3 g. Suy ra m(O) = 3,0 − 1,2 − 0,3 = 1,5 g, tức 1,5 : 3,0 = 50%.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho dãy chất: CH₄, CH₃Cl, CO₂, C₂H₅OH, CaCO₃, C₆H₆, HCN. Số hợp chất hữu cơ trong dãy là",
+      "options": [
+        { "key": "A", "text": "4" },
+        { "key": "B", "text": "3" },
+        { "key": "C", "text": "5" },
+        { "key": "D", "text": "6" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bốn hợp chất hữu cơ là CH₄, CH₃Cl, C₂H₅OH, C₆H₆. CO₂ và CaCO₃ là oxide, muối carbonate của carbon; HCN là cyanide, cả ba đều xếp vào hợp chất vô cơ.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Số lượng hợp chất hữu cơ lớn hơn rất nhiều so với hợp chất vô cơ chủ yếu vì",
+      "options": [
+        { "key": "A", "text": "carbon có khối lượng nguyên tử nhỏ nhất" },
+        { "key": "B", "text": "carbon chỉ tạo được liên kết đơn với các nguyên tố khác" },
+        { "key": "C", "text": "carbon không thể liên kết với chính nguyên tử carbon" },
+        { "key": "D", "text": "carbon có thể liên kết với chính nó tạo mạch dài và liên kết bền với nhiều nguyên tố khác" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Carbon có hoá trị IV, tạo được liên kết cộng hoá trị bền với C, H, O, N, halogen… và liên kết với nhau thành mạch hở, mạch vòng với số lượng nguyên tử rất lớn, nhờ đó tạo ra vô số hợp chất hữu cơ.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-10-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-10",
+      "type": "SINGLE_CHOICE",
+      "content": "Dãy nào sau đây chỉ gồm các hợp chất hữu cơ?",
+      "options": [
+        { "key": "A", "text": "CO₂, CH₄, C₂H₄" },
+        { "key": "B", "text": "CH₄, C₂H₅OH, CH₃COOH" },
+        { "key": "C", "text": "Na₂CO₃, C₆H₆, CH₃Cl" },
+        { "key": "D", "text": "HCN, C₂H₅OH, CH₄" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dãy B chỉ gồm hợp chất của carbon không thuộc nhóm loại trừ nên đều là hợp chất hữu cơ. CO₂, Na₂CO₃, HCN lần lượt là oxide, muối carbonate và cyanide của carbon, xếp vào hợp chất vô cơ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 10", "Hoá học hữu cơ"]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-21",
+  "title": "Hóa học 11 – Bài 21. Phenol",
+  "slug": "de-hoa-11-bai-21",
+  "description": "20 câu trắc nghiệm bám sát Bài 21 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-21-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng với khái niệm phenol?",
+      "options": [
+        { "key": "A", "text": "Hợp chất hữu cơ có nhóm –OH gắn vào nguyên tử carbon no của mạch nhánh" },
+        { "key": "B", "text": "Hợp chất hữu cơ có nhóm –OH gắn trực tiếp vào nguyên tử carbon của vòng benzene" },
+        { "key": "C", "text": "Hợp chất hữu cơ có nhóm –OH gắn vào nguyên tử carbon của vòng cyclohexane" },
+        { "key": "D", "text": "Hợp chất hữu cơ có vòng benzene và ít nhất một nhóm –OH trong phân tử" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phenol là hợp chất hữu cơ trong phân tử có nhóm –OH liên kết trực tiếp với nguyên tử carbon của vòng benzene. Phương án A mô tả alcohol thơm như C₆H₅CH₂OH, phương án C mô tả alcohol vòng no như cyclohexanol; D sai vì hợp chất có vòng benzene và nhóm –OH nhưng OH nằm ở mạch nhánh vẫn không phải phenol.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức cấu tạo thu gọn của phenol là",
+      "options": [
+        { "key": "A", "text": "C₆H₅CH₂OH" },
+        { "key": "B", "text": "C₆H₁₁OH" },
+        { "key": "C", "text": "CH₃C₆H₄OH" },
+        { "key": "D", "text": "C₆H₅OH" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phenol có nhóm –OH gắn trực tiếp vào vòng benzene nên công thức thu gọn là C₆H₅OH, tương ứng công thức phân tử C₆H₆O. C₆H₅CH₂OH là alcohol thơm (nhóm OH ở mạch nhánh), C₆H₁₁OH là cyclohexanol, CH₃C₆H₄OH là cresol – đồng đẳng của phenol chứ không phải phenol.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở điều kiện thường, phenol là",
+      "options": [
+        { "key": "A", "text": "chất rắn kết tinh, không màu, ít tan trong nước lạnh" },
+        { "key": "B", "text": "chất lỏng không màu, tan vô hạn trong nước" },
+        { "key": "C", "text": "chất khí có mùi hắc, ít tan trong nước" },
+        { "key": "D", "text": "chất rắn màu nâu đen, không tan trong nước" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phenol nóng chảy ở 43 °C nên ở điều kiện thường là tinh thể không màu; phenol ít tan trong nước lạnh nhưng tan nhiều trong nước nóng và ethanol. Phenol không phải chất khí, cũng không có màu nâu đen.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Phenol tan tốt nhất trong dung môi nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Nước lạnh" },
+        { "key": "B", "text": "Dung dịch NaCl" },
+        { "key": "C", "text": "Ethanol" },
+        { "key": "D", "text": "Dung dịch NaHCO₃" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phenol ít tan trong nước lạnh nhưng tan tốt trong ethanol và nước nóng. Phenol có tính acid yếu hơn carbonic acid nên không phản ứng với NaHCO₃, do đó không tan trong dung dịch này; dung dịch NaCl cũng không hoà tan được phenol.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhúng quỳ tím vào dung dịch phenol, hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "Quỳ tím hoá đỏ" },
+        { "key": "B", "text": "Quỳ tím không đổi màu" },
+        { "key": "C", "text": "Quỳ tím hoá xanh" },
+        { "key": "D", "text": "Quỳ tím bị mất màu" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phenol có tính acid rất yếu, yếu hơn cả carbonic acid nên không làm đổi màu quỳ tím. Phenol chỉ phản ứng được với base mạnh như NaOH, không đủ mạnh để chuyển màu chất chỉ thị.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phenol vào dung dịch NaOH, lắc đều đến khi tan hết. Sản phẩm của phản ứng là",
+      "options": [
+        { "key": "A", "text": "natri phenoxide và khí H₂" },
+        { "key": "B", "text": "không có phản ứng, phenol không tan" },
+        { "key": "C", "text": "natri phenoxide và nước" },
+        { "key": "D", "text": "natri phenoxide, khí CO₂ và nước" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "C₆H₅OH + NaOH → C₆H₅ONa + H₂O: phenol thể hiện tính acid yếu nên phản ứng được với base mạnh. Khí H₂ chỉ thoát ra khi phenol tác dụng với kim loại Na; khí CO₂ chỉ sinh ra khi một acid mạnh hơn carbonic acid phản ứng với muối hydrocarbonate, phenol không có khả năng đó.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 9,4 g phenol phản ứng hoàn toàn với Na (dư). Số mol khí H₂ thu được là",
+      "options": [
+        { "key": "A", "text": "0,20 mol" },
+        { "key": "B", "text": "0,10 mol" },
+        { "key": "C", "text": "0,025 mol" },
+        { "key": "D", "text": "0,05 mol" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "n(C₆H₅OH) = 9,4 : 94 = 0,1 mol. Phản ứng 2C₆H₅OH + 2Na → 2C₆H₅ONa + H₂↑ cho tỉ lệ 2 : 1 nên n(H₂) = 0,05 mol. Giá trị 0,1 mol là nhầm tỉ lệ 1 : 1, còn 0,2 mol là nhầm với số mol Na tham gia.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Có hai lọ mất nhãn đựng dung dịch phenol và dung dịch acetic acid. Thuốc thử dùng để phân biệt hai dung dịch này là",
+      "options": [
+        { "key": "A", "text": "dung dịch NaHCO₃" },
+        { "key": "B", "text": "dung dịch NaCl" },
+        { "key": "C", "text": "dung dịch NaOH" },
+        { "key": "D", "text": "kim loại Na" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "NaHCO₃ chỉ phản ứng với acetic acid và giải phóng CO₂ (có bọt khí): CH₃COOH + NaHCO₃ → CH₃COONa + CO₂↑ + H₂O; phenol không phản ứng vì tính acid yếu hơn carbonic acid. NaOH và Na phản ứng với cả hai chất, NaCl không phản ứng với chất nào nên đều không phân biệt được.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây về ứng dụng của phenol là đúng?",
+      "options": [
+        { "key": "A", "text": "Phenol là nguyên liệu sản xuất nhựa phenol – formaldehyde và được dùng làm chất diệt khuẩn" },
+        { "key": "B", "text": "Phenol là nguyên liệu chính để sản xuất ethylic alcohol trong công nghiệp" },
+        { "key": "C", "text": "Phenol được dùng làm nhiên liệu lỏng cho động cơ ô tô" },
+        { "key": "D", "text": "Phenol được dùng làm phân bón chứa đạm cho cây trồng" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phenol chủ yếu được dùng để sản xuất nhựa phenol – formaldehyde, chất diệt khuẩn, phẩm nhuộm và thuốc nổ. Phenol không dùng làm nhiên liệu, làm phân bón, cũng không phải nguyên liệu sản xuất ethylic alcohol.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhỏ từ từ nước bromine vào dung dịch phenol, hiện tượng xảy ra là",
+      "options": [
+        { "key": "A", "text": "dung dịch chuyển sang màu xanh lam" },
+        { "key": "B", "text": "nước bromine mất màu và xuất hiện kết tủa trắng" },
+        { "key": "C", "text": "có khí không màu thoát ra" },
+        { "key": "D", "text": "xuất hiện kết tủa vàng, nước bromine vẫn giữ nguyên màu" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phenol phản ứng với Br₂ tạo 2,4,6-tribromophenol là chất kết tủa trắng, đồng thời Br₂ bị tiêu hao nên màu nâu đỏ của nước bromine nhạt dần rồi mất. Phản ứng không giải phóng khí và không tạo kết tủa vàng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 0,1 mol phenol phản ứng vừa đủ với nước bromine. Số mol Br₂ đã phản ứng là",
+      "options": [
+        { "key": "A", "text": "0,10 mol" },
+        { "key": "B", "text": "0,20 mol" },
+        { "key": "C", "text": "0,40 mol" },
+        { "key": "D", "text": "0,30 mol" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phản ứng C₆H₅OH + 3Br₂ → C₆H₂Br₃OH↓ + 3HBr có tỉ lệ 1 : 3 vì ba nguyên tử H ở vị trí ortho và para đều bị thay thế, nên cần 0,3 mol Br₂. Các giá trị 0,1 và 0,2 mol ứng với tỉ lệ thế một hoặc hai nguyên tử H.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phản ứng thế của phenol với nước bromine, nhóm –OH định hướng các nguyên tử Br vào vị trí nào trên vòng benzene?",
+      "options": [
+        { "key": "A", "text": "chỉ vị trí meta" },
+        { "key": "B", "text": "chỉ vị trí ortho" },
+        { "key": "C", "text": "vị trí ortho và para" },
+        { "key": "D", "text": "chỉ vị trí para" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhóm –OH đẩy electron vào vòng, làm tăng mật độ electron ở các vị trí ortho và para nên Br thế vào hai vị trí này, tạo 2,4,6-tribromophenol. Nhóm –OH không định hướng vào vị trí meta như nhóm hút electron.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phenol tác dụng với lượng dư dung dịch HNO₃ đặc (xúc tác H₂SO₄ đặc, đun nóng). Sản phẩm hữu cơ thu được là",
+      "options": [
+        { "key": "A", "text": "2,4,6-trinitrophenol" },
+        { "key": "B", "text": "2-nitrophenol" },
+        { "key": "C", "text": "3,5-dinitrophenol" },
+        { "key": "D", "text": "4-nitrophenol" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhóm –OH hoạt hoá vòng benzene và ưu tiên định hướng thế vào ortho, para; với HNO₃ đặc dư, cả ba vị trí 2, 4, 6 đều bị thay thế bởi nhóm –NO₂ tạo 2,4,6-trinitrophenol (picric acid). Các phương án còn lại chỉ là sản phẩm thế một phần hoặc sai vị trí.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tử H trong nhóm –OH của phenol linh động hơn trong ethanol, bằng chứng là",
+      "options": [
+        { "key": "A", "text": "phenol phản ứng được với nước bromine còn ethanol thì không" },
+        { "key": "B", "text": "phenol phản ứng được với dung dịch NaOH còn ethanol thì không" },
+        { "key": "C", "text": "phenol là chất rắn còn ethanol là chất lỏng ở điều kiện thường" },
+        { "key": "D", "text": "phenol tan tốt trong ethanol" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vòng benzene làm liên kết O–H trong phenol phân cực mạnh hơn, H dễ tách ra nên phenol có tính acid: tác dụng được với NaOH tạo natri phenoxide, trong khi ethanol không phản ứng với NaOH. Phản ứng với nước bromine là phản ứng thế ở vòng nên không chứng minh độ linh động của H trong nhóm OH; trạng thái và khả năng tan không liên quan.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Có hai lọ mất nhãn đựng ethanol và phenol. Thuốc thử dùng để phân biệt hai chất là",
+      "options": [
+        { "key": "A", "text": "dung dịch NaCl" },
+        { "key": "B", "text": "kim loại Na" },
+        { "key": "C", "text": "dung dịch NaOH" },
+        { "key": "D", "text": "nước bromine" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nước bromine tạo kết tủa trắng 2,4,6-tribromophenol với phenol, còn ethanol không có hiện tượng. Na phản ứng với cả hai chất và đều giải phóng H₂; NaCl không phản ứng với chất nào; NaOH hoà tan phenol nhưng ethanol cũng tan hoàn toàn nên không có hiện tượng khác biệt rõ ràng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Khối lượng NaOH vừa đủ để phản ứng hết với 0,2 mol phenol là",
+      "options": [
+        { "key": "A", "text": "16,0 g" },
+        { "key": "B", "text": "4,0 g" },
+        { "key": "C", "text": "8,0 g" },
+        { "key": "D", "text": "40,0 g" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "C₆H₅OH + NaOH → C₆H₅ONa + H₂O có tỉ lệ 1 : 1 nên n(NaOH) = 0,2 mol; m(NaOH) = 0,2 × 40 = 8,0 g. Giá trị 40,0 g là khối lượng mol của NaOH chứ không phải khối lượng chất đã dùng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 14,0 g hỗn hợp gồm phenol và ethanol tác dụng hết với Na (dư), thu được 2,479 lít khí H₂ (đkc). Số mol phenol trong hỗn hợp là",
+      "options": [
+        { "key": "A", "text": "0,10 mol" },
+        { "key": "B", "text": "0,05 mol" },
+        { "key": "C", "text": "0,15 mol" },
+        { "key": "D", "text": "0,20 mol" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "n(H₂) = 2,479 : 24,79 = 0,1 mol; mỗi phân tử phenol và ethanol đều có một H linh động nên n(hỗn hợp) = 2n(H₂) = 0,2 mol. Gọi x là số mol phenol: 94x + 46(0,2 − x) = 14,0, suy ra 48x = 4,8 và x = 0,1 mol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho dung dịch chứa 9,4 g phenol tác dụng với nước bromine (dư). Khối lượng kết tủa 2,4,6-tribromophenol (M = 331 g/mol) thu được là",
+      "options": [
+        { "key": "A", "text": "16,55 g" },
+        { "key": "B", "text": "33,1 g" },
+        { "key": "C", "text": "9,9 g" },
+        { "key": "D", "text": "66,2 g" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(C₆H₅OH) = 9,4 : 94 = 0,1 mol; mỗi phân tử phenol tạo một phân tử kết tủa nên n(kết tủa) = 0,1 mol và m = 0,1 × 331 = 33,1 g. Giá trị 16,55 g ứng với 0,05 mol, còn 9,9 g là bỏ qua khối lượng bromine trong kết tủa.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Phenol phản ứng thế bromine dễ hơn nhiều so với benzene chủ yếu vì",
+      "options": [
+        { "key": "A", "text": "phenol tan tốt trong nước bromine" },
+        { "key": "B", "text": "khối lượng phân tử của phenol lớn hơn của benzene" },
+        { "key": "C", "text": "liên kết O–H trong phenol phân cực mạnh" },
+        { "key": "D", "text": "nhóm –OH đẩy electron vào vòng benzene làm vòng giàu electron hơn" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhóm –OH đẩy electron vào vòng benzene, làm tăng mật độ electron ở các vị trí ortho và para nên tác nhân electrophile như Br₂ tấn công dễ hơn; benzene chỉ phản ứng với Br₂ khi có xúc tác FeBr₃. Độ phân cực của liên kết O–H giải thích tính acid chứ không giải thích khả năng thế ở vòng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    },
+    {
+      "id": "de-hoa-11-bai-21-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-21",
+      "type": "SINGLE_CHOICE",
+      "content": "Phenol là chất độc, dễ gây bỏng khi tiếp xúc với da. Cách bảo quản phenol trong phòng thí nghiệm nào sau đây là phù hợp?",
+      "options": [
+        { "key": "A", "text": "Đựng trong lọ hở miệng để hơi phenol không tích tụ" },
+        { "key": "B", "text": "Để cạnh nguồn nhiệt để phenol không bị đông đặc" },
+        { "key": "C", "text": "Đựng trong lọ kín, để nơi thoáng mát, tránh ánh sáng và dùng găng tay khi lấy hoá chất" },
+        { "key": "D", "text": "Pha loãng phenol bằng nước rồi đựng trong chai nhựa mềm" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phenol độc, dễ bay hơi và gây bỏng da nên phải đựng trong lọ kín, bảo quản nơi thoáng mát, tránh ánh sáng và tránh tiếp xúc trực tiếp với da. Lọ hở làm hơi phenol phát tán vào không khí, để gần nguồn nhiệt không cần thiết và không an toàn, còn pha loãng không làm mất tính độc của phenol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 21", "Phenol"]
+    }
+  ]
+}

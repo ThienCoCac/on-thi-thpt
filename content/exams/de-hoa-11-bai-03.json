@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-03",
+  "title": "Hóa học 11 – Bài 3. Ôn tập chương 1",
+  "slug": "de-hoa-11-bai-03",
+  "description": "20 câu trắc nghiệm ôn tập chương 1 SGK Hóa học 11 (Kết nối tri thức): cân bằng hoá học, hằng số cân bằng Kc, chuyển dịch cân bằng theo nguyên lí Le Chatelier, chất xúc tác; sự điện li, thuyết Bronsted – Lowry, pH, chất chỉ thị acid – base và tích số tan.",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-03-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các phản ứng sau:\n(1) N₂(k) + 3H₂(k) ⇌ 2NH₃(k)\n(2) 2KClO₃(r) → 2KCl(r) + 3O₂(k)\n(3) H₂(k) + I₂(k) ⇌ 2HI(k)\n(4) Zn(r) + 2HCl(aq) → ZnCl₂(aq) + H₂(k)\nSố phản ứng thuận nghịch là",
+      "options": [
+        { "key": "A", "text": "1." },
+        { "key": "B", "text": "2." },
+        { "key": "C", "text": "3." },
+        { "key": "D", "text": "4." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phản ứng thuận nghịch được viết bằng mũi tên hai chiều: đó là (1) và (3). Phản ứng (2) nhiệt phân KClO₃ và (4) Zn tan trong HCl chỉ xảy ra theo một chiều trong điều kiện thường nên không phải phản ứng thuận nghịch.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong một bình kín đang xảy ra phản ứng thuận nghịch, tại một thời điểm tốc độ phản ứng thuận lớn hơn tốc độ phản ứng nghịch. Kết luận nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Hệ đã đạt trạng thái cân bằng." },
+        { "key": "B", "text": "Hệ chưa đạt cân bằng và nồng độ sản phẩm đang tăng." },
+        { "key": "C", "text": "Hệ chưa đạt cân bằng và nồng độ sản phẩm đang giảm." },
+        { "key": "D", "text": "Phản ứng đã dừng lại ở chiều nghịch." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khi tốc độ thuận lớn hơn tốc độ nghịch, sản phẩm được tạo ra nhanh hơn bị tiêu thụ nên nồng độ sản phẩm tăng và hệ chưa đạt cân bằng. A sai vì cân bằng chỉ có khi hai tốc độ bằng nhau; C ngược dấu; D sai vì chiều nghịch vẫn đang xảy ra.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phản ứng PCl₅(k) ⇌ PCl₃(k) + Cl₂(k). Ban đầu trong bình kín chỉ có PCl₅ với nồng độ 1,0 mol/L. Khi đạt cân bằng, nồng độ PCl₃ là 0,4 mol/L. Hằng số cân bằng Kc của phản ứng là",
+      "options": [
+        { "key": "A", "text": "0,27." },
+        { "key": "B", "text": "0,40." },
+        { "key": "C", "text": "0,16." },
+        { "key": "D", "text": "0,67." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "PCl₃ tạo 0,4 mol/L nên Cl₂ cũng 0,4 mol/L và PCl₅ còn 1,0 - 0,4 = 0,6 mol/L. Kc = (0,4.0,4)/0,6 ≈ 0,27. B lấy nồng độ PCl₃ làm Kc; C chỉ nhân nồng độ hai sản phẩm mà quên chia cho PCl₅; D lấy 0,4/0,6.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: CaCO₃(r) ⇌ CaO(r) + CO₂(k), ΔH > 0. Khi tăng nhiệt độ của hệ (các điều kiện khác giữ nguyên), nhận định nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Cân bằng dịch chuyển theo chiều nghịch và Kc giảm." },
+        { "key": "B", "text": "Cân bằng dịch chuyển theo chiều thuận và Kc tăng." },
+        { "key": "C", "text": "Cân bằng không dịch chuyển vì CaCO₃ và CaO là chất rắn." },
+        { "key": "D", "text": "Cân bằng dịch chuyển theo chiều thuận nhưng Kc không đổi." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chiều thuận là chiều thu nhiệt (ΔH > 0) nên tăng nhiệt độ làm cân bằng chuyển dịch theo chiều thuận, nồng độ CO₂ tăng và Kc = [CO₂] tăng. C sai vì chất rắn tuy không có mặt trong biểu thức Kc nhưng nhiệt độ vẫn làm chuyển dịch cân bằng; D sai vì Kc phụ thuộc nhiệt độ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp tổng hợp ammonia từ N₂ và H₂ (ΔH < 0), người ta thường duy trì nhiệt độ khoảng 450 °C dù nhiệt độ thấp hơn có lợi cho cân bằng. Lí do chính là",
+      "options": [
+        { "key": "A", "text": "Ở nhiệt độ thấp, cân bằng dịch chuyển theo chiều nghịch." },
+        { "key": "B", "text": "Ở nhiệt độ thấp, tốc độ phản ứng quá nhỏ nên cần thời gian rất dài mới đạt hiệu suất cao." },
+        { "key": "C", "text": "Ở nhiệt độ thấp, hằng số cân bằng Kc giảm mạnh." },
+        { "key": "D", "text": "Ở nhiệt độ thấp, ammonia bị phân huỷ hoàn toàn thành N₂ và H₂." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giảm nhiệt độ làm cân bằng dịch chuyển thêm theo chiều thuận (chiều toả nhiệt) nên về nguyên tắc có lợi, nhưng tốc độ phản ứng giảm mạnh, cần rất lâu mới đạt cân bằng; vì vậy phải duy trì nhiệt độ đủ cao kèm xúc tác và áp suất cao. A sai về chiều dịch chuyển; C sai vì giảm nhiệt độ làm Kc tăng; D sai vì ammonia không bị phân huỷ hoàn toàn ở nhiệt độ thấp.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai bình kín dung tích bằng nhau, ở cùng nhiệt độ, mỗi bình chứa 1 mol H₂ và 1 mol I₂. Bình (1) có thêm một ít chất xúc tác, bình (2) không có xúc tác. Sau thời gian đủ dài, cả hai bình đều đạt trạng thái cân bằng. So sánh nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Bình (1) có nồng độ HI lớn hơn bình (2)." },
+        { "key": "B", "text": "Bình (1) đạt cân bằng nhanh hơn, nồng độ HI ở cân bằng bằng bình (2)." },
+        { "key": "C", "text": "Bình (2) có nồng độ HI lớn hơn vì xúc tác làm giảm hiệu suất." },
+        { "key": "D", "text": "Hai bình đạt cân bằng cùng lúc nhưng nồng độ HI khác nhau." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chất xúc tác làm giảm năng lượng hoạt hoá nên cả hai chiều đều nhanh hơn, bình (1) đạt cân bằng sớm hơn; vị trí cân bằng và Kc không đổi nên nồng độ HI cuối cùng như nhau. A và C sai vì xúc tác không làm thay đổi hiệu suất; D sai vì tốc độ đạt cân bằng khác nhau dù nồng độ cân bằng giống nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: N₂O₄(k) ⇌ 2NO₂(k), trong đó N₂O₄ không màu còn NO₂ có màu nâu đỏ. Nén hỗn hợp đang ở cân bằng trong bình kín để thể tích giảm một nửa (giữ nguyên nhiệt độ). Hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "Màu nâu đỏ đậm lên ngay khi nén và giữ nguyên như vậy." },
+        { "key": "B", "text": "Màu nâu đỏ đậm lên ngay khi nén, sau đó nhạt dần tới trạng thái cân bằng mới." },
+        { "key": "C", "text": "Màu nâu đỏ nhạt đi ngay khi nén rồi nhạt dần tiếp." },
+        { "key": "D", "text": "Màu nâu đỏ không thay đổi vì nhiệt độ được giữ nguyên." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khi nén, nồng độ các khí tăng tức thời nên màu đậm lên ngay; sau đó tăng áp suất làm cân bằng chuyển dịch về phía ít phân tử khí là N₂O₄, số mol NO₂ giảm nên màu nhạt dần tới cân bằng mới. A bỏ qua sự chuyển dịch; C sai vì ngay sau khi nén nồng độ NO₂ tăng; D sai vì áp suất thay đổi vẫn làm chuyển dịch cân bằng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phản ứng 2SO₂(k) + O₂(k) ⇌ 2SO₃(k). Ban đầu cho SO₂ và O₂ vào bình kín dung tích 1 lít với nồng độ mỗi chất đều bằng 0,4 mol/L. Khi đạt cân bằng, nồng độ SO₃ là 0,2 mol/L. Giá trị Kc của phản ứng là",
+      "options": [
+        { "key": "A", "text": "3,33." },
+        { "key": "B", "text": "5,00." },
+        { "key": "C", "text": "0,83." },
+        { "key": "D", "text": "0,30." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "SO₂ đã phản ứng 0,2 mol/L nên còn 0,2 mol/L; O₂ chỉ phản ứng 0,1 mol/L nên còn 0,3 mol/L. Kc = (0,2)²/((0,2)².0,3) ≈ 3,33. B trừ nhầm O₂ 0,2 mol/L; C không trừ lượng SO₂ đã phản ứng; D là nghịch đảo của Kc.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng CO(k) + H₂O(k) ⇌ CO₂(k) + H₂(k) có Kc = 4,0 ở nhiệt độ T. Trộn 1,0 mol CO và 1,0 mol H₂O vào bình kín dung tích 1 lít ở nhiệt độ T. Số mol CO₂ khi hệ đạt cân bằng là",
+      "options": [
+        { "key": "A", "text": "0,50 mol." },
+        { "key": "B", "text": "0,67 mol." },
+        { "key": "C", "text": "0,80 mol." },
+        { "key": "D", "text": "0,33 mol." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gọi x là nồng độ CO đã phản ứng, tại cân bằng [CO] = [H₂O] = 1,0 - x và [CO₂] = [H₂] = x. Kc = x²/(1,0 - x)² = 4, lấy căn hai vế được x/(1,0 - x) = 2, suy ra x = 2/3 ≈ 0,67 mol. A ứng với Kc = 1; D là lượng CO còn lại; C không có cơ sở.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: 2SO₂(k) + O₂(k) ⇌ 2SO₃(k), ΔH < 0. Biện pháp nào sau đây làm tăng hiệu suất tạo SO₃?",
+      "options": [
+        { "key": "A", "text": "Tăng nhiệt độ của hệ." },
+        { "key": "B", "text": "Giảm nồng độ O₂ trong hệ." },
+        { "key": "C", "text": "Tăng nồng độ SO₂ và giảm nhiệt độ." },
+        { "key": "D", "text": "Thêm chất xúc tác cho hệ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tăng nồng độ SO₂ đẩy cân bằng sang phải; giảm nhiệt độ cũng đẩy cân bằng sang phải vì chiều thuận toả nhiệt (ΔH < 0), nên hiệu suất tăng. A và B làm cân bằng chuyển dịch theo chiều nghịch; D chỉ rút ngắn thời gian đạt cân bằng, không làm đổi vị trí cân bằng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là chất điện li yếu?",
+      "options": [
+        { "key": "A", "text": "NaCl." },
+        { "key": "B", "text": "HCl." },
+        { "key": "C", "text": "CH₃COOH." },
+        { "key": "D", "text": "NaOH." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "CH₃COOH là acid yếu, trong dung dịch chỉ phân li một phần nên là chất điện li yếu. NaCl là muối tan, HCl là acid mạnh, NaOH là base mạnh nên cả ba đều là chất điện li mạnh.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoà tan 0,1 mol Na₂SO₄ vào nước, thu được 1 lít dung dịch. Nồng độ ion Na⁺ trong dung dịch là",
+      "options": [
+        { "key": "A", "text": "0,05 mol/L." },
+        { "key": "B", "text": "0,10 mol/L." },
+        { "key": "C", "text": "0,20 mol/L." },
+        { "key": "D", "text": "0,40 mol/L." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Na₂SO₄ → 2Na⁺ + SO₄²⁻ nên 0,1 mol Na₂SO₄ cho 0,2 mol Na⁺; thể tích 1 lít nên [Na⁺] = 0,2 mol/L. A và B lấy sai hệ số tỉ lượng, D nhân đôi thêm một lần.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo thuyết Bronsted – Lowry, ion HCO₃⁻ có thể",
+      "options": [
+        { "key": "A", "text": "chỉ đóng vai trò acid." },
+        { "key": "B", "text": "chỉ đóng vai trò base." },
+        { "key": "C", "text": "vừa đóng vai trò acid, vừa đóng vai trò base." },
+        { "key": "D", "text": "không đóng vai trò acid và cũng không đóng vai trò base." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "HCO₃⁻ có thể cho H⁺ để tạo CO₃²⁻ (đóng vai trò acid) và có thể nhận H⁺ để tạo H₂CO₃ (đóng vai trò base), nên là ion lưỡng tính. A và B chỉ nêu một khả năng; D sai vì HCO₃⁻ có cả hai khả năng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ba dung dịch cùng nồng độ 0,1 mol/L: (1) HCl, (2) NaCl, (3) NaOH. Thứ tự pH tăng dần của ba dung dịch là",
+      "options": [
+        { "key": "A", "text": "(1), (2), (3)." },
+        { "key": "B", "text": "(3), (2), (1)." },
+        { "key": "C", "text": "(2), (1), (3)." },
+        { "key": "D", "text": "(1), (3), (2)." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "HCl là acid mạnh nên pH nhỏ hơn 7; NaCl là muối của acid mạnh và base mạnh nên pH = 7; NaOH là base mạnh nên pH lớn hơn 7. Vì vậy pH tăng dần theo thứ tự (1), (2), (3).",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: HSO₄⁻ + H₂O ⇌ SO₄²⁻ + H₃O⁺. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "HSO₄⁻ là acid, H₂O là base; SO₄²⁻ là base liên hợp của HSO₄⁻." },
+        { "key": "B", "text": "HSO₄⁻ là base, H₂O là acid; H₃O⁺ là base liên hợp của H₂O." },
+        { "key": "C", "text": "HSO₄⁻ và H₂O đều đóng vai trò acid." },
+        { "key": "D", "text": "HSO₄⁻ là acid, H₂O là base; H₃O⁺ là base liên hợp của H₂O." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "HSO₄⁻ nhường H⁺ nên là acid, H₂O nhận H⁺ nên là base; sau khi nhường H⁺, HSO₄⁻ tạo SO₄²⁻ là base liên hợp của nó. B đảo vai trò; C sai vì H₂O nhận proton; D sai vì H₃O⁺ là acid liên hợp của H₂O.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Trộn 100 mL dung dịch HCl 0,01 mol/L với 100 mL dung dịch NaOH 0,03 mol/L, coi thể tích dung dịch thu được là 200 mL. pH của dung dịch sau khi trộn là",
+      "options": [
+        { "key": "A", "text": "2." },
+        { "key": "B", "text": "7." },
+        { "key": "C", "text": "12." },
+        { "key": "D", "text": "12,7." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "n(H⁺) = 0,1.0,01 = 0,001 mol; n(OH⁻) = 0,1.0,03 = 0,003 mol nên OH⁻ dư 0,002 mol. [OH⁻] = 0,002/0,2 = 0,01 mol/L, pOH = 2 nên pH = 12. A lấy nhầm giá trị pOH; B coi phản ứng vừa đủ; D tính sai nồng độ OH⁻ sau khi trộn.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhỏ vài giọt phenolphthalein vào dung dịch NaOH, dung dịch có màu hồng. Thêm từ từ dung dịch HCl cho tới dư. Hiện tượng xảy ra là",
+      "options": [
+        { "key": "A", "text": "Màu hồng đậm dần." },
+        { "key": "B", "text": "Màu hồng nhạt dần rồi mất hẳn." },
+        { "key": "C", "text": "Màu hồng không thay đổi." },
+        { "key": "D", "text": "Dung dịch chuyển từ màu hồng sang màu xanh." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HCl trung hoà NaOH làm pH giảm dần; phenolphthalein chuyển từ hồng sang không màu khi pH xuống dưới khoảng 8,3 nên khi acid dư chất chỉ thị mất màu. A và C sai vì pH giảm chứ không tăng; D sai vì phenolphthalein không có màu xanh.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở nhiệt độ xác định, một dung dịch AgCl đang bão hoà. Thêm một lượng nhỏ NaCl rắn vào dung dịch (coi thể tích dung dịch không đổi). Hiện tượng nào sau đây xảy ra?",
+      "options": [
+        { "key": "A", "text": "AgCl tan thêm cho tới khi hết chất rắn." },
+        { "key": "B", "text": "Có thêm AgCl kết tủa và độ tan của AgCl giảm." },
+        { "key": "C", "text": "Không có hiện tượng gì vì dung dịch đã bão hoà." },
+        { "key": "D", "text": "AgCl tan hết do nồng độ ion Cl⁻ tăng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thêm Cl⁻ làm Q = [Ag⁺][Cl⁻] vượt Ks nên AgCl tiếp tục kết tủa, cân bằng tan chuyển dịch sang trái và độ tan giảm. A và D sai vì ion chung làm giảm độ tan; C sai vì dung dịch bão hoà sẽ có thêm kết tủa khi Q lớn hơn Ks.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Dung dịch HCl có pH = 2. Cần pha loãng dung dịch này bằng nước bao nhiêu lần để thu được dung dịch có pH = 4 (bỏ qua sự điện li của nước)?",
+      "options": [
+        { "key": "A", "text": "2 lần." },
+        { "key": "B", "text": "10 lần." },
+        { "key": "C", "text": "100 lần." },
+        { "key": "D", "text": "1000 lần." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "pH = 2 ứng với [H⁺] = 10⁻² mol/L, pH = 4 ứng với [H⁺] = 10⁻⁴ mol/L, tức nồng độ giảm 100 lần nên phải pha loãng 100 lần. A và B ứng với giảm nồng độ 2 và 10 lần; D là pha loãng 1000 lần, cho pH = 5.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    },
+    {
+      "id": "de-hoa-11-bai-03-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-03",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở nhiệt độ xác định, tích số tan của PbI₂ là 7,1.10⁻⁹. Trộn 100 mL dung dịch Pb(NO₃)₂ 1,0.10⁻³ mol/L với 100 mL dung dịch KI 2,0.10⁻³ mol/L. Kết luận nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Có kết tủa PbI₂ vì Q = 5,0.10⁻¹⁰ nhỏ hơn Ks." },
+        { "key": "B", "text": "Không có kết tủa vì Q = 5,0.10⁻¹⁰ nhỏ hơn Ks." },
+        { "key": "C", "text": "Có kết tủa vì Q = 5,0.10⁻⁷ lớn hơn Ks." },
+        { "key": "D", "text": "Không có kết tủa vì Q = 5,0.10⁻⁷ nhỏ hơn Ks." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sau khi trộn, thể tích gấp đôi nên [Pb²⁺] = 5,0.10⁻⁴ mol/L và [I⁻] = 1,0.10⁻³ mol/L. Q = [Pb²⁺][I⁻]² = 5,0.10⁻⁴.(1,0.10⁻³)² = 5,0.10⁻¹⁰ nhỏ hơn Ks nên chưa có kết tủa. A kết luận sai dù số liệu đúng; C và D tính Q mà quên bình phương nồng độ I⁻.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 3", "Ôn tập chương 1"]
+    }
+  ]
+}

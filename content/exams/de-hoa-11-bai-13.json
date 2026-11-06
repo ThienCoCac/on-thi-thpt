@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-13",
+  "title": "Hóa học 11 – Bài 13. Cấu tạo hoá học của hợp chất hữu cơ",
+  "slug": "de-hoa-11-bai-13",
+  "description": "20 câu trắc nghiệm bám sát Bài 13 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-13-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Cấu tạo hoá học của một hợp chất hữu cơ là",
+      "options": [
+        { "key": "A", "text": "trật tự liên kết và cách thức liên kết giữa các nguyên tử trong phân tử." },
+        { "key": "B", "text": "thành phần phần trăm khối lượng của các nguyên tố trong phân tử." },
+        { "key": "C", "text": "số nguyên tử của mỗi nguyên tố có trong một phân tử." },
+        { "key": "D", "text": "khối lượng của một mol phân tử chất đó." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cấu tạo hoá học là trật tự liên kết và cách thức liên kết (đơn, đôi, ba) giữa các nguyên tử trong phân tử. Phần trăm khối lượng và số nguyên tử mỗi nguyên tố thuộc về công thức phân tử, khối lượng mol là một đại lượng khác.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong hợp chất hữu cơ, nguyên tử carbon luôn có hoá trị",
+      "options": [
+        { "key": "A", "text": "II." },
+        { "key": "B", "text": "III." },
+        { "key": "C", "text": "IV." },
+        { "key": "D", "text": "V." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Carbon có 4 electron ở lớp ngoài cùng nên trong hợp chất hữu cơ luôn thể hiện hoá trị IV, tạo được 4 liên kết cộng hoá trị.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Cặp chất nào sau đây là đồng đẳng của nhau?",
+      "options": [
+        { "key": "A", "text": "CH₄ và C₂H₆." },
+        { "key": "B", "text": "C₂H₆ và C₂H₄." },
+        { "key": "C", "text": "CH₃OH và CH₃OCH₃." },
+        { "key": "D", "text": "C₂H₅OH và CH₃COOH." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đồng đẳng là những chất có tính chất hoá học tương tự nhau và thành phần phân tử hơn kém nhau một hay nhiều nhóm CH₂. CH₄ và C₂H₆ hơn kém nhau đúng một nhóm CH₂ và đều là alkane. C₂H₆ với C₂H₄ khác nhau 2H, hai cặp còn lại khác nhóm chức nên không đồng đẳng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Những hợp chất hữu cơ có cùng công thức phân tử nhưng công thức cấu tạo khác nhau được gọi là",
+      "options": [
+        { "key": "A", "text": "đồng vị." },
+        { "key": "B", "text": "đồng đẳng." },
+        { "key": "C", "text": "đồng phân." },
+        { "key": "D", "text": "thù hình." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đồng phân là các chất cùng công thức phân tử nhưng cấu tạo khác nhau nên tính chất khác nhau. Đồng vị là các nguyên tử cùng nguyên tố khác số neutron, đồng đẳng hơn kém nhau nhóm CH₂, thù hình là các dạng đơn chất của cùng một nguyên tố.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức nào sau đây là công thức cấu tạo thu gọn của butane?",
+      "options": [
+        { "key": "A", "text": "CH₃–CH(CH₃)–CH₃." },
+        { "key": "B", "text": "CH₃–CH₂–CH₃." },
+        { "key": "C", "text": "CH₂=CH–CH₂–CH₃." },
+        { "key": "D", "text": "CH₃–CH₂–CH₂–CH₃." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Butane có 4 nguyên tử carbon nối thành mạch không nhánh: CH₃–CH₂–CH₂–CH₃. Phương án A là 2-methylpropane (mạch nhánh), B là propane (3 carbon), C là but-1-ene (có liên kết đôi).",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của CH₃–CH₂–CH₃ là",
+      "options": [
+        { "key": "A", "text": "ethane." },
+        { "key": "B", "text": "propane." },
+        { "key": "C", "text": "butane." },
+        { "key": "D", "text": "methane." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mạch chính có 3 nguyên tử carbon nên phần nền là prop-, phân tử không có liên kết bội nên thêm đuôi -ane, được propane.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "C₄H₁₀ có bao nhiêu đồng phân cấu tạo?",
+      "options": [
+        { "key": "A", "text": "1." },
+        { "key": "B", "text": "2." },
+        { "key": "C", "text": "3." },
+        { "key": "D", "text": "4." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "C₄H₁₀ có butane (mạch không nhánh) và 2-methylpropane (mạch nhánh), tổng cộng 2 đồng phân cấu tạo.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Cặp chất nào sau đây là đồng phân vị trí nhóm chức của nhau?",
+      "options": [
+        { "key": "A", "text": "CH₃–CH₂–CH₂–OH và CH₃–CH(OH)–CH₃." },
+        { "key": "B", "text": "CH₃–CH₂–OH và CH₃–O–CH₃." },
+        { "key": "C", "text": "CH₃–CH₂–CH₃ và CH₃–CH₂–CH₂–CH₃." },
+        { "key": "D", "text": "CH₃–CH₂–Cl và CH₃–CH₂–Br." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai chất ở A đều có công thức C₃H₈O, cùng nhóm –OH nhưng nhóm chức nằm ở carbon số 1 và số 2, nên là đồng phân vị trí nhóm chức. B là đồng phân nhóm chức, C là đồng đẳng hơn kém một nhóm CH₂, D khác thành phần nguyên tố.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai chất CH₃–CH₂–OH và CH₃–O–CH₃ đều có công thức phân tử C₂H₆O. Quan hệ giữa hai chất là",
+      "options": [
+        { "key": "A", "text": "đồng phân mạch carbon." },
+        { "key": "B", "text": "đồng đẳng." },
+        { "key": "C", "text": "đồng phân nhóm chức." },
+        { "key": "D", "text": "hai cách viết của cùng một chất." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hai chất cùng công thức phân tử C₂H₆O nhưng nhóm chức khác nhau: –OH của alcohol và –O– của ether, nên là đồng phân nhóm chức. Mạch carbon của cả hai đều không phân nhánh nên không phải đồng phân mạch carbon.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây không đúng theo thuyết cấu tạo hoá học?",
+      "options": [
+        { "key": "A", "text": "Trong phân tử hợp chất hữu cơ, các nguyên tử liên kết với nhau theo đúng hoá trị." },
+        { "key": "B", "text": "Nguyên tử carbon có thể liên kết với nhau tạo thành mạch carbon." },
+        { "key": "C", "text": "Tính chất của hợp chất hữu cơ phụ thuộc vào thành phần phân tử và cấu tạo hoá học." },
+        { "key": "D", "text": "Các nguyên tử trong phân tử hợp chất hữu cơ liên kết với nhau theo thứ tự bất kì, miễn là đủ hoá trị." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thuyết cấu tạo hoá học khẳng định các nguyên tử liên kết theo đúng hoá trị và theo một thứ tự nhất định; chính thứ tự liên kết quyết định tính chất của chất nên phát biểu D sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của CH₃–CH(CH₃)–CH₃ là",
+      "options": [
+        { "key": "A", "text": "butane." },
+        { "key": "B", "text": "propane." },
+        { "key": "C", "text": "2-methylbutane." },
+        { "key": "D", "text": "2-methylpropane." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mạch chính dài nhất có 3 nguyên tử carbon (propane) và một nhánh methyl ở carbon số 2, nên tên là 2-methylpropane. Đánh số mạch từ phía gần nhánh để chỉ số nhánh nhỏ nhất.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của CH₃–CH(OH)–CH₃ là",
+      "options": [
+        { "key": "A", "text": "propan-1-ol." },
+        { "key": "B", "text": "propan-2-ol." },
+        { "key": "C", "text": "propan-2-one." },
+        { "key": "D", "text": "propanal." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mạch chính có 3 carbon, nhóm –OH nằm ở carbon số 2 khi đánh số từ đầu gần nhóm –OH, nên tên là propan-2-ol. Propan-1-ol có –OH ở carbon đầu mạch; propan-2-one và propanal là hợp chất carbonyl, không phải alcohol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của CH₃–CHBr–CH₃ là",
+      "options": [
+        { "key": "A", "text": "2-bromopropane." },
+        { "key": "B", "text": "1-bromopropane." },
+        { "key": "C", "text": "3-bromopropane." },
+        { "key": "D", "text": "bromopropane." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mạch chính có 3 carbon, nguyên tử Br gắn ở carbon số 2 (đánh số từ phía gần Br) nên tên là 2-bromopropane. 1-bromopropane có Br ở carbon đầu mạch, tên không kèm chỉ số vị trí là thiếu thông tin.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phân tử CH₃–CH(CH₃)–CH₂–CH₃ có bao nhiêu nguyên tử hydrogen?",
+      "options": [
+        { "key": "A", "text": "10." },
+        { "key": "B", "text": "11." },
+        { "key": "C", "text": "12." },
+        { "key": "D", "text": "14." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đếm hydrogen theo hoá trị IV của carbon: 3 (C đầu) + 1 (C có nhánh) + 3 (nhánh) + 2 (CH₂) + 3 (C cuối) = 12, phù hợp với công thức C₅H₁₂.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Số liên kết cộng hoá trị trong phân tử propane (C₃H₈) là",
+      "options": [
+        { "key": "A", "text": "8." },
+        { "key": "B", "text": "9." },
+        { "key": "C", "text": "10." },
+        { "key": "D", "text": "11." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Propane có 3 nguyên tử carbon nối với nhau bằng 2 liên kết C–C và 8 nguyên tử H tạo 8 liên kết C–H, tổng cộng 10 liên kết cộng hoá trị.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Có bao nhiêu đồng phân cấu tạo của C₃H₈O thuộc loại alcohol?",
+      "options": [
+        { "key": "A", "text": "1." },
+        { "key": "B", "text": "2." },
+        { "key": "C", "text": "3." },
+        { "key": "D", "text": "4." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hai alcohol là propan-1-ol (CH₃–CH₂–CH₂–OH) và propan-2-ol (CH₃–CH(OH)–CH₃). Chất CH₃–O–CH₂–CH₃ cùng công thức C₃H₈O nhưng là ether nên không tính.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "C₅H₁₂ có bao nhiêu đồng phân cấu tạo?",
+      "options": [
+        { "key": "A", "text": "2." },
+        { "key": "B", "text": "3." },
+        { "key": "C", "text": "4." },
+        { "key": "D", "text": "5." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ba đồng phân cấu tạo là pentane (mạch không nhánh), 2-methylbutane (một nhánh methyl) và 2,2-dimethylpropane (hai nhánh methyl trên cùng một carbon).",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai chất hữu cơ X và Y đều có công thức phân tử C₄H₁₀; X có mạch carbon không phân nhánh, Y có mạch carbon phân nhánh. Tên thay thế của X và Y lần lượt là",
+      "options": [
+        { "key": "A", "text": "2-methylpropane và butane." },
+        { "key": "B", "text": "butane và 2-methylbutane." },
+        { "key": "C", "text": "propane và 2-methylpropane." },
+        { "key": "D", "text": "butane và 2-methylpropane." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "C₄H₁₀ có hai đồng phân: butane với mạch thẳng 4 carbon và 2-methylpropane với mạch chính 3 carbon cùng một nhánh methyl. 2-methylbutane là công thức C₅H₁₂, propane là C₃H₈.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các chất:\n- (1) CH₃–CH₂–CH₂–CH₃\n- (2) CH₃–CH(CH₃)–CH₃\n- (3) CH₃–CH₂–CH₂–CH₂–CH₃\n- (4) CH₃–CH₂–OH\n\nNhững chất nào là đồng đẳng của nhau?",
+      "options": [
+        { "key": "A", "text": "(1), (2) và (3)." },
+        { "key": "B", "text": "(1) và (2)." },
+        { "key": "C", "text": "(1), (2), (3) và (4)." },
+        { "key": "D", "text": "(2) và (4)." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "(1), (2), (3) đều là alkane nên có tính chất hoá học tương tự và thành phần hơn kém nhau nhóm CH₂, do đó là đồng đẳng của nhau; riêng (1) và (2) còn là đồng phân vì cùng C₄H₁₀. Chất (4) là alcohol nên không đồng đẳng với các alkane.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-13-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-13",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của CH₃–CH₂–CH(CH₃)–CH₂–CH₃ là",
+      "options": [
+        { "key": "A", "text": "2-methylpentane." },
+        { "key": "B", "text": "3-methylbutane." },
+        { "key": "C", "text": "2-ethylbutane." },
+        { "key": "D", "text": "3-methylpentane." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mạch dài nhất có 5 nguyên tử carbon (pentane) và nhánh methyl ở carbon số 3, nên tên là 3-methylpentane. Mạch 4 carbon ở B và C không phải mạch dài nhất nên tên tương ứng sai.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 13", "Cấu tạo hoá học"]
+    }
+  ]
+}

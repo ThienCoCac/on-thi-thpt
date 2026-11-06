@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-22",
+  "title": "Hóa học 11 – Bài 22. Ôn tập chương 5",
+  "slug": "de-hoa-11-bai-22",
+  "description": "20 câu trắc nghiệm ôn tập chương 5 (Bài 19 – Bài 21) SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-22-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là dẫn xuất halogen của hydrocarbon?",
+      "options": [
+        { "key": "A", "text": "CH₃OH" },
+        { "key": "B", "text": "CH₃COOH" },
+        { "key": "C", "text": "CH₃Cl" },
+        { "key": "D", "text": "CH₄" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dẫn xuất halogen là hợp chất hữu cơ trong phân tử có nguyên tử halogen (F, Cl, Br, I) liên kết với nguyên tử carbon; CH₃Cl (chloromethane) thoả mãn. CH₃OH là alcohol, CH₃COOH là carboxylic acid, CH₄ là hydrocarbon nên không phải dẫn xuất halogen.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Việc sử dụng chlorofluorocarbon (CFC) trong tủ lạnh, máy điều hoà đã bị hạn chế vì CFC",
+      "options": [
+        { "key": "A", "text": "gây mưa acid" },
+        { "key": "B", "text": "phá huỷ tầng ozone" },
+        { "key": "C", "text": "làm đất bị nhiễm mặn" },
+        { "key": "D", "text": "gây cháy rừng" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "CFC khi khuếch tán lên tầng bình lưu sinh ra gốc chlorine có khả năng phá huỷ ozone nên việc sản xuất và sử dụng CFC bị hạn chế theo các công ước quốc tế. CFC không gây mưa acid, không làm nhiễm mặn đất và không gây cháy rừng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Bậc của dẫn xuất halogen (CH₃)₃CBr là",
+      "options": [
+        { "key": "A", "text": "bậc I" },
+        { "key": "B", "text": "bậc II" },
+        { "key": "C", "text": "bậc IV" },
+        { "key": "D", "text": "bậc III" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bậc của dẫn xuất halogen là bậc của nguyên tử carbon liên kết với nguyên tử halogen. Trong (CH₃)₃CBr, nguyên tử carbon mang Br liên kết trực tiếp với ba nguyên tử carbon khác nên là carbon bậc III, do đó dẫn xuất halogen này có bậc III.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng bromoethane với dung dịch NaOH, sản phẩm hữu cơ thu được là",
+      "options": [
+        { "key": "A", "text": "ethanol" },
+        { "key": "B", "text": "ethylene" },
+        { "key": "C", "text": "ethanal" },
+        { "key": "D", "text": "ethanoic acid" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CH₃CH₂Br + NaOH → (t°) CH₃CH₂OH + NaBr: nguyên tử Br bị thay thế bởi nhóm OH nên sản phẩm là ethanol. Ethylene chỉ tạo thành khi tách HBr bằng KOH trong ethanol; ethanal và ethanoic acid là sản phẩm oxi hoá ethanol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng 2-bromopropane với KOH trong ethanol, sản phẩm chính thu được là",
+      "options": [
+        { "key": "A", "text": "propan-2-ol" },
+        { "key": "B", "text": "propene" },
+        { "key": "C", "text": "propane" },
+        { "key": "D", "text": "propanal" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "KOH trong ethanol kết hợp đun nóng là điều kiện tách HBr: CH₃CHBrCH₃ → (KOH/ethanol, t°) CH₃CH=CH₂ + HBr, sản phẩm là propene. Propan-2-ol tạo thành khi thuỷ phân trong dung dịch NaOH (thế Br bằng OH), còn propane và propanal không phải sản phẩm của phản ứng tách HBr.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Trùng hợp chất nào sau đây thu được poly(vinyl chloride) (PVC)?",
+      "options": [
+        { "key": "A", "text": "CH₃CH₂Cl" },
+        { "key": "B", "text": "C₆H₅Cl" },
+        { "key": "C", "text": "CH₂=CHCl" },
+        { "key": "D", "text": "CH₂Cl–CH₂Cl" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "PVC được tạo thành khi trùng hợp vinyl chloride nhờ liên kết đôi: nCH₂=CHCl → (–CH₂–CHCl–)ₙ. CH₃CH₂Cl và CH₂Cl–CH₂Cl là dẫn xuất halogen no, không có liên kết đôi để trùng hợp; C₆H₅Cl là dẫn xuất halogen của hydrocarbon thơm, cũng không trùng hợp theo cách này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức chung của alcohol no, đơn chức, mạch hở là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ₊₁OH (n ≥ 1)" },
+        { "key": "B", "text": "CₙH₂ₙ₋₁OH (n ≥ 2)" },
+        { "key": "C", "text": "CₙH₂ₙ₋₂OH (n ≥ 3)" },
+        { "key": "D", "text": "CₙH₂ₙ(OH)₂ (n ≥ 2)" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Alcohol no, đơn chức, mạch hở gồm gốc alkyl no CₙH₂ₙ₊₁ liên kết với một nhóm –OH nên có công thức CₙH₂ₙ₊₁OH (n ≥ 1), tương đương CₙH₂ₙ₊₂O. CₙH₂ₙ₋₁OH ứng với alcohol không no một liên kết đôi, CₙH₂ₙ(OH)₂ là alcohol hai chức.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Ethanol tan vô hạn trong nước là do",
+      "options": [
+        { "key": "A", "text": "khối lượng phân tử của ethanol nhỏ" },
+        { "key": "B", "text": "liên kết C–C trong ethanol kém bền" },
+        { "key": "C", "text": "ethanol là chất lỏng ở điều kiện thường" },
+        { "key": "D", "text": "phân tử ethanol tạo được liên kết hydrogen với phân tử nước" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhóm –OH của ethanol tạo được liên kết hydrogen với phân tử nước nên ethanol tan vô hạn trong nước. Khối lượng phân tử nhỏ hay trạng thái lỏng không giải thích được khả năng tan, còn liên kết C–C không liên quan đến sự hoà tan.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đồng phân alcohol bậc I có công thức phân tử C₄H₉OH là",
+      "options": [
+        { "key": "A", "text": "4" },
+        { "key": "B", "text": "3" },
+        { "key": "C", "text": "2" },
+        { "key": "D", "text": "1" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "C₄H₉OH có 4 đồng phân: butan-1-ol (bậc I), butan-2-ol (bậc II), 2-methylpropan-1-ol (bậc I) và 2-methylpropan-2-ol (bậc III). Vậy chỉ có 2 alcohol bậc I; con số 4 là tổng số đồng phân, không phải số đồng phân bậc I.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng ethanol với H₂SO₄ đặc ở 170 °C, sản phẩm chính thu được là",
+      "options": [
+        { "key": "A", "text": "diethyl ether" },
+        { "key": "B", "text": "ethylene" },
+        { "key": "C", "text": "ethanal" },
+        { "key": "D", "text": "ethanoic acid" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ở 170 °C, H₂SO₄ đặc xúc tác phản ứng tách nước: C₂H₅OH → (H₂SO₄ đặc, 170 °C) C₂H₄ + H₂O. Ở 140 °C sản phẩm chính là diethyl ether; ethanal và ethanoic acid là sản phẩm của phản ứng oxi hoá.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hơi ethanol đi qua CuO nung nóng, sản phẩm hữu cơ thu được là",
+      "options": [
+        { "key": "A", "text": "ethanal" },
+        { "key": "B", "text": "ethanoic acid" },
+        { "key": "C", "text": "ethylene" },
+        { "key": "D", "text": "diethyl ether" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "C₂H₅OH + CuO → (t°) CH₃CHO + Cu + H₂O: alcohol bậc I bị oxi hoá không hoàn toàn thành aldehyde. Muốn tạo ethanoic acid cần tác nhân oxi hoá mạnh hơn; ethylene sinh ra khi tách nước ở 170 °C, diethyl ether khi đun với H₂SO₄ đặc ở 140 °C.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 9,2 g ethanol tác dụng hết với Na (dư). Khối lượng natri ethoxide (C₂H₅ONa, M = 68 g/mol) thu được là",
+      "options": [
+        { "key": "A", "text": "6,8 g" },
+        { "key": "B", "text": "4,6 g" },
+        { "key": "C", "text": "27,2 g" },
+        { "key": "D", "text": "13,6 g" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "n(C₂H₅OH) = 9,2 : 46 = 0,2 mol. Phản ứng 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑ giữ nguyên số mol gốc alcohol nên n(C₂H₅ONa) = 0,2 mol, m = 0,2 × 68 = 13,6 g. Giá trị 4,6 g là khối lượng ethanol đã dùng chứ không phải khối lượng muối.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Lên men 180 g glucose với hiệu suất 80%, khối lượng ethanol thu được là",
+      "options": [
+        { "key": "A", "text": "92,0 g" },
+        { "key": "B", "text": "73,6 g" },
+        { "key": "C", "text": "46,0 g" },
+        { "key": "D", "text": "36,8 g" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "C₆H₁₂O₆ → (enzyme) 2C₂H₅OH + 2CO₂; n(glucose) = 180 : 180 = 1 mol nên theo lí thuyết thu được 2 mol ethanol, tức 2 × 46 = 92 g. Hiệu suất 80% nên khối lượng thực tế là 92 × 0,8 = 73,6 g; giá trị 92 g là kết quả khi bỏ qua hiệu suất.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây tác dụng được với dung dịch NaOH ở nhiệt độ thường?",
+      "options": [
+        { "key": "A", "text": "benzene" },
+        { "key": "B", "text": "ethanol" },
+        { "key": "C", "text": "phenol" },
+        { "key": "D", "text": "ethane" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phenol có tính acid yếu nên tác dụng được với base mạnh: C₆H₅OH + NaOH → C₆H₅ONa + H₂O. Ethanol, benzene và ethane đều không phản ứng với dung dịch NaOH ở điều kiện thường.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây tác dụng được với Na nhưng không tác dụng với dung dịch NaOH?",
+      "options": [
+        { "key": "A", "text": "acetic acid" },
+        { "key": "B", "text": "phenol" },
+        { "key": "C", "text": "benzene" },
+        { "key": "D", "text": "ethanol" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ethanol có nguyên tử H linh động trong nhóm –OH nên tác dụng với Na giải phóng H₂, nhưng không phản ứng với NaOH. Acetic acid và phenol tác dụng được với cả Na lẫn NaOH; benzene không phản ứng với chất nào trong hai chất này.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Có ba lọ mất nhãn đựng riêng biệt chlorobenzene, ethanol và phenol. Thuốc thử dùng để phân biệt cả ba chất là",
+      "options": [
+        { "key": "A", "text": "kim loại Na" },
+        { "key": "B", "text": "dung dịch NaOH" },
+        { "key": "C", "text": "nước bromine" },
+        { "key": "D", "text": "quỳ tím" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với nước bromine: phenol cho kết tủa trắng 2,4,6-tribromophenol; ethanol tan hoàn toàn, không có hiện tượng; chlorobenzene không tan nên tách thành lớp riêng. Na chỉ phân biệt được nhóm có H linh động với chlorobenzene; NaOH không cho hiện tượng khác biệt rõ giữa ethanol và phenol; cả ba chất đều không làm đổi màu quỳ tím.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng giữa phenol và dung dịch HNO₃ đặc (xúc tác H₂SO₄ đặc, đun nóng) thuộc loại phản ứng nào sau đây?",
+      "options": [
+        { "key": "A", "text": "phản ứng thế nguyên tử H ở vòng benzene" },
+        { "key": "B", "text": "phản ứng cộng vào vòng benzene" },
+        { "key": "C", "text": "phản ứng thế nguyên tử H của nhóm –OH" },
+        { "key": "D", "text": "phản ứng oxi hoá – khử" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhóm –OH hoạt hoá vòng nên nguyên tử H ở các vị trí ortho, para bị thay thế bởi nhóm –NO₂, tạo 2,4,6-trinitrophenol; đây là phản ứng thế ở vòng benzene. Vòng benzene không cộng HNO₃, nhóm –OH vẫn được giữ nguyên và số oxi hoá các nguyên tố không thay đổi nên không phải phản ứng oxi hoá – khử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng về ảnh hưởng qua lại giữa nhóm –OH và vòng benzene trong phân tử phenol?",
+      "options": [
+        { "key": "A", "text": "Nhóm –OH hút electron làm vòng benzene nghèo electron nên khó bị thế hơn benzene" },
+        { "key": "B", "text": "Vòng benzene làm nguyên tử H của nhóm –OH kém linh động hơn so với trong ethanol" },
+        { "key": "C", "text": "Nhóm –OH và vòng benzene không ảnh hưởng lẫn nhau" },
+        { "key": "D", "text": "Nhóm –OH đẩy electron làm vòng benzene giàu electron nên dễ bị thế hơn; đồng thời vòng benzene làm nguyên tử H của nhóm –OH linh động hơn so với ethanol" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nhóm –OH đẩy electron vào vòng benzene làm mật độ electron ở vị trí ortho, para tăng nên phản ứng thế với Br₂, HNO₃ diễn ra dễ hơn benzene; ngược lại vòng benzene làm H của nhóm –OH linh động hơn trong ethanol, nhờ đó phenol có tính acid và tác dụng được với NaOH. Vì vậy các nhận định A, B, C đều trái với hai chiều ảnh hưởng này.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các chất: ethanol (1), phenol (2), acetic acid (3). Thứ tự tính acid tăng dần là",
+      "options": [
+        { "key": "A", "text": "(1) < (2) < (3)" },
+        { "key": "B", "text": "(2) < (1) < (3)" },
+        { "key": "C", "text": "(3) < (2) < (1)" },
+        { "key": "D", "text": "(1) < (3) < (2)" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ethanol không thể hiện tính acid trong nước (không tác dụng với NaOH); phenol có tính acid yếu, tác dụng được với NaOH nhưng không đẩy được CO₂ khỏi NaHCO₃; acetic acid mạnh hơn nên tác dụng được cả với NaHCO₃. Vậy tính acid tăng theo thứ tự (1) < (2) < (3).",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    },
+    {
+      "id": "de-hoa-11-bai-22-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-22",
+      "type": "SINGLE_CHOICE",
+      "content": "Hợp chất hữu cơ X có công thức phân tử C₇H₈O. X không tác dụng với dung dịch NaOH nhưng tác dụng với Na giải phóng khí H₂. Công thức cấu tạo của X là",
+      "options": [
+        { "key": "A", "text": "2-methylphenol" },
+        { "key": "B", "text": "benzyl alcohol (C₆H₅CH₂OH)" },
+        { "key": "C", "text": "3-methylphenol" },
+        { "key": "D", "text": "methoxybenzene (C₆H₅OCH₃)" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "X tác dụng với Na nên phải có nhóm –OH, loại methoxybenzene vì không có H linh động. X không tác dụng với NaOH nên nhóm –OH không gắn trực tiếp vào vòng benzene, loại 2-methylphenol và 3-methylphenol (đều là phenol). Chỉ benzyl alcohol C₆H₅CH₂OH thoả mãn và đúng công thức C₇H₈O.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 22", "Ôn tập chương 5"]
+    }
+  ]
+}

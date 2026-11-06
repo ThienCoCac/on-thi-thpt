@@ -32,6 +32,7 @@ const SUITES = [
   { id: 'vact', file: 'vact/verify-vact.js', title: 'Đề Đánh giá năng lực V-ACT', lane: 'subject' },
   { id: 'dia', file: 'dia/verify-dia.js', title: 'Đề Địa lí 12', lane: 'subject' },
   { id: 'tinhoc', file: 'tinhoc/verify-tinhoc.js', title: 'Đề Tin học 12', lane: 'subject' },
+  { id: 'hoa', file: 'hoa/verify-hoa.js', title: 'Đề Hóa học 11', lane: 'subject' },
   { id: 'toan', file: 'toan/verify-toan.js', title: 'Đề Toán tốt nghiệp THPT các năm', lane: 'subject' },
   { id: 'live', file: 'shot/verify-live.js', title: 'Bản đã deploy trên Cloudflare', lane: 'live' },
 ];
@@ -66,6 +67,7 @@ const EXAM_PATTERNS = [
   [/^content\/exams\/de-thi-thu-toan/, ['static']],
   [/^content\/exams\/de-toan-tn-/, ['toan']],
   [/^content\/exams\/de-tin-hoc-/, ['tinhoc']],
+  [/^content\/exams\/de-hoa-/, ['hoa']],
 ];
 
 // Tài liệu, script nội bộ: không cần mở trình duyệt.

@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-07",
+  "title": "Hóa học 11 – Bài 7. Các hợp chất của nitrogen với oxygen",
+  "slug": "de-hoa-11-bai-07",
+  "description": "20 câu trắc nghiệm bám sát Bài 7 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-07-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Nitrogen(I) oxide (N₂O) được dùng làm chất gây mê trong y học và nạp vào bình kem tươi. Tên thông thường của khí này là",
+      "options": [
+        { "key": "A", "text": "khí than." },
+        { "key": "B", "text": "khí lò cốc." },
+        { "key": "C", "text": "khí cười." },
+        { "key": "D", "text": "khí trơ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "N₂O là khí không màu, có vị ngọt, gây tê và tạo cảm giác hưng phấn nên được gọi là khí cười. Khí than và khí lò cốc chứa CO, còn khí trơ là các khí hiếm như He, Ne, Ar.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Nitrogen monoxide (NO) ở điều kiện thường là khí không màu. Khi để khí NO ngoài không khí một thời gian, hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "khí chuyển dần sang màu nâu đỏ." },
+        { "key": "B", "text": "khí chuyển sang màu vàng lục." },
+        { "key": "C", "text": "xuất hiện kết tủa trắng." },
+        { "key": "D", "text": "khí tan hoàn toàn vào hơi nước tạo dung dịch acid." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "NO bị oxygen trong không khí oxi hoá thành NO₂: 2NO + O₂ → 2NO₂, khí NO₂ có màu nâu đỏ nên khí trong bình chuyển màu. Màu vàng lục là của Cl₂; NO không phản ứng với nước để tạo acid.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở điều kiện thường, khí nào sau đây có màu nâu đỏ và mùi hắc?",
+      "options": [
+        { "key": "A", "text": "N₂O" },
+        { "key": "B", "text": "NO₂" },
+        { "key": "C", "text": "NO" },
+        { "key": "D", "text": "N₂" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "NO₂ là khí màu nâu đỏ, mùi hắc, rất độc, là một trong các khí gây ô nhiễm không khí. N₂O và NO không màu, còn N₂ không màu và không mùi.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phân tử nitric acid, số nguyên tử oxygen liên kết trực tiếp với nguyên tử nitrogen là",
+      "options": [
+        { "key": "A", "text": "1" },
+        { "key": "B", "text": "2" },
+        { "key": "C", "text": "3" },
+        { "key": "D", "text": "4" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Công thức cấu tạo của HNO₃ là H–O–NO₂: nitrogen ở trung tâm liên kết với cả ba nguyên tử oxygen, trong đó một oxygen nối với hydrogen tạo nhóm –OH. Phân tử chỉ có ba nguyên tử oxygen nên không thể có bốn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp, nitric acid được sản xuất từ ammonia theo sơ đồ nào sau đây?",
+      "options": [
+        { "key": "A", "text": "NH₃ → N₂ → NO → HNO₃" },
+        { "key": "B", "text": "NH₃ → NO → NO₂ → HNO₃" },
+        { "key": "C", "text": "NH₃ → N₂O → HNO₃" },
+        { "key": "D", "text": "NH₃ → HNO₂ → HNO₃" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Quá trình gồm ba công đoạn: 4NH₃ + 5O₂ → (Pt, t°) 4NO + 6H₂O; 2NO + O₂ → 2NO₂; 4NO₂ + O₂ + 2H₂O → 4HNO₃. N₂, N₂O và HNO₂ không phải sản phẩm trung gian của sơ đồ này.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Ứng dụng nào sau đây là của nitric acid?",
+      "options": [
+        { "key": "A", "text": "Sản xuất phân bón, thuốc nổ và thuốc nhuộm." },
+        { "key": "B", "text": "Sản xuất ắc quy chì và chất tẩy rửa." },
+        { "key": "C", "text": "Làm chất gây mê trong y học." },
+        { "key": "D", "text": "Làm khí bảo vệ khi hàn kim loại." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "HNO₃ là nguyên liệu sản xuất phân bón như NH₄NO₃, Ca(NO₃)₂, đồng thời dùng điều chế thuốc nổ, thuốc nhuộm và dược phẩm. Ắc quy chì dùng H₂SO₄, chất gây mê là N₂O.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Phương trình hoá học nào sau đây đúng với phản ứng oxi hoá NO thành NO₂ trong không khí?",
+      "options": [
+        { "key": "A", "text": "NO + O₂ → NO₂" },
+        { "key": "B", "text": "2NO + O₂ → 2NO₂" },
+        { "key": "C", "text": "NO + O → NO₂" },
+        { "key": "D", "text": "2NO + 2O₂ → 2NO₂" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mỗi phân tử O₂ cần hai phân tử NO để bảo toàn số nguyên tử: 2NO + O₂ → 2NO₂. Phản ứng xảy ra ngay ở điều kiện thường; oxygen nguyên tử không tồn tại trong không khí nên phương án C không đúng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Khí NO₂ tan trong nước tạo ra hỗn hợp hai acid. Phương trình hoá học nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "2NO₂ + H₂O → HNO₃ + HNO₂" },
+        { "key": "B", "text": "NO₂ + H₂O → HNO₃ + H₂" },
+        { "key": "C", "text": "2NO₂ + 2H₂O → 2HNO₃ + H₂" },
+        { "key": "D", "text": "NO₂ + H₂O → HNO₂ + O₂" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "NO₂ là anhydride hỗn hợp nên 2NO₂ + H₂O → HNO₃ + HNO₂. Nếu có oxygen hoà tan, HNO₂ bị oxi hoá tiếp: 4NO₂ + O₂ + 2H₂O → 4HNO₃. Các phương án còn lại sai sản phẩm hoặc không cân bằng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong tự nhiên, một lượng đáng kể NO được tạo ra trong không khí khi có sấm sét là do phản ứng nào sau đây?",
+      "options": [
+        { "key": "A", "text": "N₂ + 2O₂ → 2NO₂" },
+        { "key": "B", "text": "2NO₂ + H₂O → HNO₃ + HNO₂" },
+        { "key": "C", "text": "N₂ + O₂ → (tia lửa điện) 2NO" },
+        { "key": "D", "text": "4NH₃ + 5O₂ → (Pt, t°) 4NO + 6H₂O" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tia lửa điện trong sấm sét cung cấp năng lượng đủ lớn để phá vỡ liên kết ba bền của N₂, tạo ra NO: N₂ + O₂ → (tia lửa điện) 2NO. NO tiếp tục bị oxi hoá thành NO₂ rồi hoà vào nước mưa thành HNO₃, bổ sung đạm nitrate cho đất. Phản ứng ở phương án D là phản ứng oxi hoá NH₃ trong công nghiệp, cần xúc tác Pt và không xảy ra trong không khí khi có sấm sét.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngoài sulfur dioxide, khí nào sau đây góp phần chính vào việc tạo mưa acid nitrate?",
+      "options": [
+        { "key": "A", "text": "N₂" },
+        { "key": "B", "text": "NO₂" },
+        { "key": "C", "text": "N₂O" },
+        { "key": "D", "text": "CH₄" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "NO₂ bị oxi hoá và hoà tan trong nước mưa tạo HNO₃, làm pH nước mưa giảm xuống dưới 5,6 — gọi là mưa acid nitrate. N₂, N₂O và CH₄ không tạo ra acid mạnh trong nước mưa.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "NO và NO₂ có mặt trong khí thải của động cơ đốt trong chủ yếu do nguyên nhân nào sau đây?",
+      "options": [
+        { "key": "A", "text": "N₂ và O₂ trong không khí phản ứng với nhau ở nhiệt độ cao của buồng đốt." },
+        { "key": "B", "text": "Nhiên liệu cháy không hết sinh ra NO." },
+        { "key": "C", "text": "Nitric acid có sẵn trong nhiên liệu bị bay hơi." },
+        { "key": "D", "text": "Ammonia trong không khí bị oxi hoá bởi hơi nước." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ở nhiệt độ rất cao trong buồng đốt, N₂ và O₂ của không khí phản ứng tạo NO, một phần NO tiếp tục thành NO₂. Đây là nguồn NOx chính của xe cộ, góp phần gây mưa acid nitrate và sương mù quang hoá; bộ chuyển đổi xúc tác giúp khử NOx trong khí thải.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho copper tác dụng với dung dịch HNO₃ đặc, nóng. Phương trình hoá học nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO + 4H₂O" },
+        { "key": "B", "text": "Cu + 4HNO₃ → Cu(NO₃)₂ + 2NO₂ + 2H₂O" },
+        { "key": "C", "text": "Cu + 4HNO₃ → Cu(NO₃)₂ + 2NO + 2H₂O" },
+        { "key": "D", "text": "Cu + 2HNO₃ → Cu(NO₃)₂ + H₂" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với HNO₃ đặc, sản phẩm khử là NO₂ màu nâu đỏ: Cu + 4HNO₃ → Cu(NO₃)₂ + 2NO₂ + 2H₂O, các nguyên tố đều được bảo toàn. Phương án A ứng với HNO₃ loãng (cho NO), C không cân bằng, D sai vì HNO₃ không giải phóng H₂ khi tác dụng với kim loại.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng nào sau đây chứng tỏ nitric acid có tính acid mà không thể hiện tính oxi hoá?",
+      "options": [
+        { "key": "A", "text": "CuO + 2HNO₃ → Cu(NO₃)₂ + H₂O" },
+        { "key": "B", "text": "3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO + 4H₂O" },
+        { "key": "C", "text": "C + 4HNO₃ → CO₂ + 4NO₂ + 2H₂O" },
+        { "key": "D", "text": "S + 6HNO₃ → H₂SO₄ + 6NO₂ + 2H₂O" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phản ứng giữa oxide base và acid là phản ứng trao đổi, số oxi hoá của mọi nguyên tố không đổi nên HNO₃ chỉ thể hiện tính acid. Ba phản ứng còn lại đều có nitrogen +5 bị khử xuống +2 hoặc +4, thể hiện tính oxi hoá mạnh.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho carbon tác dụng với dung dịch HNO₃ đặc, nóng, dư. Các sản phẩm khí của phản ứng là",
+      "options": [
+        { "key": "A", "text": "CO₂ và NO₂" },
+        { "key": "B", "text": "CO và NO₂" },
+        { "key": "C", "text": "CO₂ và N₂" },
+        { "key": "D", "text": "CO₂ và SO₂" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "C + 4HNO₃ → (t°) CO₂↑ + 4NO₂↑ + 2H₂O: carbon bị oxi hoá lên +4 trong CO₂, nitrogen +5 bị khử xuống +4 trong NO₂. Với sulfur, HNO₃ đặc cũng oxi hoá S lên +6, sản phẩm chứa lưu huỳnh là H₂SO₄.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Để nhận biết ion nitrate (NO₃⁻) trong dung dịch, có thể đun nóng mẫu thử với",
+      "options": [
+        { "key": "A", "text": "dung dịch BaCl₂." },
+        { "key": "B", "text": "dung dịch AgNO₃." },
+        { "key": "C", "text": "Cu và dung dịch H₂SO₄ loãng." },
+        { "key": "D", "text": "dung dịch NaOH." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong môi trường acid, Cu khử NO₃⁻: 3Cu + 8H⁺ + 2NO₃⁻ → 3Cu²⁺ + 2NO↑ + 4H₂O; khí NO không màu lập tức hoá nâu đỏ ngoài không khí nên dễ nhận ra. BaCl₂ dùng nhận biết SO₄²⁻, AgNO₃ dùng nhận biết Cl⁻.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Kim loại nào sau đây không tan trong dung dịch HNO₃ đặc, nguội do bị thụ động hoá?",
+      "options": [
+        { "key": "A", "text": "Cu" },
+        { "key": "B", "text": "Ag" },
+        { "key": "C", "text": "Zn" },
+        { "key": "D", "text": "Fe" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "HNO₃ đặc, nguội oxi hoá bề mặt Fe và Al tạo lớp oxide đặc, bền, ngăn acid tiếp xúc với kim loại nên chúng bị thụ động hoá. Cu, Ag, Zn không có hiện tượng này, riêng Cu vẫn tan trong HNO₃ đặc, nóng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 3,84 g Cu tác dụng hết với dung dịch HNO₃ loãng, dư, thu được khí NO là sản phẩm khử duy nhất. Thể tích khí NO (đktc) thu được là",
+      "options": [
+        { "key": "A", "text": "0,448 lít" },
+        { "key": "B", "text": "0,896 lít" },
+        { "key": "C", "text": "1,344 lít" },
+        { "key": "D", "text": "1,792 lít" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(Cu) = 3,84/64 = 0,06 mol; theo 3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO + 4H₂O, n(NO) = 2/3 × 0,06 = 0,04 mol; V = 0,04 × 22,4 = 0,896 lít.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoà tan hoàn toàn 21,6 g Ag bằng dung dịch HNO₃ đặc, nóng, dư. Khối lượng muối AgNO₃ thu được là",
+      "options": [
+        { "key": "A", "text": "17,0 g" },
+        { "key": "B", "text": "85,0 g" },
+        { "key": "C", "text": "34,0 g" },
+        { "key": "D", "text": "68,0 g" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "n(Ag) = 21,6/108 = 0,20 mol; theo Ag + 2HNO₃ → AgNO₃ + NO₂↑ + H₂O, n(AgNO₃) = 0,20 mol; m = 0,20 × 170 = 34,0 g.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Để sản xuất 1 tấn dung dịch HNO₃ 63% từ ammonia với hiệu suất toàn quá trình 90%, khối lượng ammonia cần dùng là",
+      "options": [
+        { "key": "A", "text": "170,0 kg" },
+        { "key": "B", "text": "188,9 kg" },
+        { "key": "C", "text": "212,5 kg" },
+        { "key": "D", "text": "153,0 kg" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "1 tấn dung dịch 63% chứa 630 kg HNO₃, tức 10 000 mol. Sơ đồ NH₃ → NO → NO₂ → HNO₃ bảo toàn một nguyên tử nitrogen nên lí thuyết cần 10 000 mol NH₃ = 170 kg; hiệu suất 90% nên thực tế cần 170/0,9 ≈ 188,9 kg.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    },
+    {
+      "id": "de-hoa-11-bai-07-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-07",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 6,4 g Cu tác dụng hết với dung dịch HNO₃ loãng, dư, thu được khí NO là sản phẩm khử duy nhất. Thể tích khí O₂ (đktc) tối thiểu cần để oxi hoá hoàn toàn lượng NO trên thành NO₂ là",
+      "options": [
+        { "key": "A", "text": "1,493 lít" },
+        { "key": "B", "text": "0,373 lít" },
+        { "key": "C", "text": "1,120 lít" },
+        { "key": "D", "text": "0,747 lít" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "n(Cu) = 6,4/64 = 0,10 mol; theo 3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO + 4H₂O, n(NO) = 2/3 × 0,10 ≈ 0,0667 mol. Phản ứng 2NO + O₂ → 2NO₂ cần n(O₂) = 0,0667/2 ≈ 0,0333 mol, tương ứng 0,0333 × 22,4 ≈ 0,747 lít.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 7", "Nitrogen oxide và nitric acid"]
+    }
+  ]
+}

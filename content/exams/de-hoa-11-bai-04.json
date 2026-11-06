@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-04",
+  "title": "Hóa học 11 – Bài 4. Nitrogen",
+  "slug": "de-hoa-11-bai-04",
+  "description": "20 câu trắc nghiệm bám sát Bài 4 SGK Hóa học 11 (Kết nối tri thức): trạng thái tự nhiên, tính chất vật lí, cấu tạo phân tử N₂, tính chất hoá học đặc trưng (tác dụng với H₂, O₂, kim loại ở nhiệt độ cao), ứng dụng và cách điều chế nitrogen trong công nghiệp.",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-04-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Nitrogen chiếm khoảng bao nhiêu phần trăm thể tích không khí khô?",
+      "options": [
+        { "key": "A", "text": "Khoảng 78%." },
+        { "key": "B", "text": "Khoảng 21%." },
+        { "key": "C", "text": "Khoảng 1%." },
+        { "key": "D", "text": "Khoảng 50%." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Không khí khô gồm khoảng 78% thể tích nitrogen, 21% oxygen, 1% các khí khác (argon, carbon dioxide, hơi nước). Phương án B là tỉ lệ oxygen, C là nhóm khí hiếm và CO₂, D không tương ứng thành phần nào của không khí.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Liên kết giữa hai nguyên tử nitrogen trong phân tử N₂ là",
+      "options": [
+        { "key": "A", "text": "liên kết đơn gồm một liên kết σ." },
+        { "key": "B", "text": "liên kết đôi gồm một liên kết σ và một liên kết π." },
+        { "key": "C", "text": "liên kết ba gồm một liên kết σ và hai liên kết π." },
+        { "key": "D", "text": "liên kết ion giữa hai ion N³⁻." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mỗi nguyên tử N có 5 electron lớp ngoài cùng, góp chung 3 electron tạo liên kết ba N≡N gồm một σ và hai π, công thức cấu tạo N≡N. A và B mô tả thiếu bậc liên kết; D sai vì N₂ là phân tử cộng hoá trị, không phải hợp chất ion.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở điều kiện thường, nitrogen là",
+      "options": [
+        { "key": "A", "text": "khí màu nâu đỏ, mùi hắc, tan nhiều trong nước." },
+        { "key": "B", "text": "khí không màu, không mùi, ít tan trong nước." },
+        { "key": "C", "text": "chất lỏng không màu, sôi ở 100 °C." },
+        { "key": "D", "text": "chất rắn màu trắng, tan tốt trong nước." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "N₂ là khí không màu, không mùi, không vị, hơi nhẹ hơn không khí (M = 28 so với 29) và rất ít tan trong nước. A mô tả NO₂; C và D sai thể trạng vì nitrogen hoá lỏng ở khoảng −196 °C.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Tính chất nào sau đây đúng với nitrogen ở điều kiện thường?",
+      "options": [
+        { "key": "A", "text": "Duy trì sự cháy và sự hô hấp." },
+        { "key": "B", "text": "Cháy được trong không khí và toả nhiều nhiệt." },
+        { "key": "C", "text": "Có mùi khai đặc trưng, làm quỳ tím ẩm hoá xanh." },
+        { "key": "D", "text": "Không duy trì sự cháy và không duy trì sự sống." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "N₂ trơ ở điều kiện thường nên không duy trì sự cháy, không duy trì sự sống; đây là cơ sở dùng nitrogen để dập cháy và bảo quản. A là tính chất của oxygen; B sai vì N₂ bền, chỉ phản ứng với O₂ ở khoảng 3000 °C; C là tính chất của ammonia.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Nitrogen được bơm vào bao bì để bảo quản thực phẩm chủ yếu vì",
+      "options": [
+        { "key": "A", "text": "nitrogen có tính sát khuẩn mạnh." },
+        { "key": "B", "text": "nitrogen tạo mùi dễ chịu cho thực phẩm." },
+        { "key": "C", "text": "nitrogen tạo môi trường trơ, hạn chế quá trình oxi hoá thực phẩm." },
+        { "key": "D", "text": "nitrogen phản ứng với oxygen trong bao bì." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "N₂ rất kém hoạt động nên khi được nạp đầy bao bì sẽ đẩy oxygen ra, hạn chế oxi hoá và hô hấp của thực phẩm. A và B không phải tính chất của N₂; D sai vì N₂ không phản ứng với O₂ ở điều kiện thường.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Số oxi hoá của nitrogen trong phân tử N₂ và trong ion NH₄⁺ lần lượt là",
+      "options": [
+        { "key": "A", "text": "0 và −3." },
+        { "key": "B", "text": "0 và +3." },
+        { "key": "C", "text": "−3 và 0." },
+        { "key": "D", "text": "+5 và −3." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong đơn chất N₂, số oxi hoá của nitrogen bằng 0; trong NH₄⁺, gọi x là số oxi hoá của N thì x + 4(+1) = +1, suy ra x = −3. B và D gán sai giá trị dương cho nitrogen trong NH₄⁺; C đảo ngược hai giá trị.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở nhiệt độ thường, nitrogen khá trơ về mặt hoá học chủ yếu do",
+      "options": [
+        { "key": "A", "text": "phân tử N₂ có khối lượng mol nhỏ nên dễ khuếch tán." },
+        { "key": "B", "text": "liên kết ba N≡N có năng lượng liên kết rất lớn (khoảng 945 kJ/mol)." },
+        { "key": "C", "text": "N₂ tan rất ít trong nước nên không gặp chất phản ứng." },
+        { "key": "D", "text": "N₂ có cấu trúc tinh thể bền vững ở điều kiện thường." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Liên kết ba trong N₂ rất bền (năng lượng liên kết khoảng 945 kJ/mol) nên cần nhiệt độ rất cao hoặc xúc tác đặc biệt mới bẻ gãy được, vì thế N₂ kém hoạt động. A và C không giải thích được độ bền hoá học; D sai vì N₂ là chất khí, không có cấu trúc tinh thể.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng của nitrogen với hydrogen tạo ammonia cần điều kiện",
+      "options": [
+        { "key": "A", "text": "nhiệt độ thường, áp suất thường, không cần xúc tác." },
+        { "key": "B", "text": "nhiệt độ cao, áp suất thấp, xúc tác là kim loại copper." },
+        { "key": "C", "text": "nhiệt độ thấp, áp suất cao, xúc tác là acid sulfuric." },
+        { "key": "D", "text": "nhiệt độ cao, áp suất cao, xúc tác trên cơ sở iron." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "N₂ + 3H₂ ⇌ 2NH₃ cần nhiệt độ cao (khoảng 400–500 °C), áp suất cao và xúc tác iron (quá trình Haber). A sai vì ở điều kiện thường phản ứng không xảy ra; B sai vì áp suất thấp bất lợi cho chiều tạo NH₃; C sai điều kiện nhiệt độ và loại xúc tác.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở khoảng 3000 °C hoặc trong tia lửa điện, nitrogen phản ứng với oxygen tạo ra",
+      "options": [
+        { "key": "A", "text": "nitrogen monoxide (NO)." },
+        { "key": "B", "text": "nitrogen dioxide (NO₂)." },
+        { "key": "C", "text": "dinitrogen monoxide (N₂O)." },
+        { "key": "D", "text": "dinitrogen pentoxide (N₂O₅)." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "N₂ + O₂ → (tia lửa điện, khoảng 3000 °C) 2NO; NO sinh ra là khí không màu, kém bền, dễ bị oxygen hoá tiếp thành NO₂. B, C, D là các oxide khác của nitrogen, không phải sản phẩm trực tiếp của phản ứng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi nung nóng, nitrogen tác dụng được với magnesium theo phương trình nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Mg + N₂ → MgN₂." },
+        { "key": "B", "text": "2Mg + N₂ → Mg₂N₂." },
+        { "key": "C", "text": "3Mg + N₂ → Mg₃N₂." },
+        { "key": "D", "text": "Mg + 2N₂ → MgN₄." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Magnesium cháy trong nitrogen tạo magnesium nitride Mg₃N₂: 3Mg + N₂ → Mg₃N₂, trong đó N có số oxi hoá −3. A, B, D sai công thức nitride: nitrogen hoá trị III còn Mg hoá trị II nên tỉ lệ Mg : N = 3 : 2.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phản ứng 3Mg + N₂ → Mg₃N₂, nitrogen đóng vai trò",
+      "options": [
+        { "key": "A", "text": "chất khử, vì số oxi hoá của nitrogen tăng từ 0 lên +3." },
+        { "key": "B", "text": "chất oxi hoá, vì số oxi hoá của nitrogen giảm từ 0 xuống −3." },
+        { "key": "C", "text": "chất xúc tác, vì phản ứng chỉ xảy ra khi có nitrogen." },
+        { "key": "D", "text": "chất vừa oxi hoá vừa khử." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong N₂ nitrogen có số oxi hoá 0, trong Mg₃N₂ là −3, tức nitrogen nhận electron nên là chất oxi hoá; Mg nhường electron nên là chất khử. A đảo vai trò và chiều biến đổi số oxi hoá; C sai vì nitrogen là chất tham gia; D sai vì chỉ một nguyên tố bị khử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp, nitrogen được sản xuất chủ yếu bằng cách",
+      "options": [
+        { "key": "A", "text": "cho ammonia phản ứng với oxygen ở nhiệt độ cao." },
+        { "key": "B", "text": "nhiệt phân muối ammonium nitrate." },
+        { "key": "C", "text": "cho nitric acid loãng tác dụng với kim loại copper." },
+        { "key": "D", "text": "hoá lỏng không khí rồi chưng cất phân đoạn." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Không khí được hoá lỏng và chưng cất phân đoạn; nitrogen có nhiệt độ sôi thấp hơn nên bay ra trước, cho nitrogen khá tinh khiết với giá thành thấp. A và C là phản ứng điều chế các oxide của nitrogen; B dùng điều chế N₂ trong phòng thí nghiệm, không phải quy mô công nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Có thể thu khí nitrogen bằng phương pháp đẩy nước vì nitrogen",
+      "options": [
+        { "key": "A", "text": "nặng hơn không khí." },
+        { "key": "B", "text": "tan rất tốt trong nước." },
+        { "key": "C", "text": "rất ít tan trong nước." },
+        { "key": "D", "text": "phản ứng với nước tạo acid." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khí ít tan trong nước có thể dẫn qua nước mà không bị hoà tan đáng kể, nên thu được bằng cách đẩy nước. A sai vì N₂ hơi nhẹ hơn không khí, đó là lí do dùng đẩy không khí úp bình chứ không liên quan đẩy nước; B ngược thực tế; D sai vì N₂ không phản ứng với nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Nitrogen lỏng (hoá lỏng ở khoảng −196 °C) được dùng chủ yếu để",
+      "options": [
+        { "key": "A", "text": "tạo môi trường lạnh sâu, bảo quản mẫu sinh học và thực phẩm." },
+        { "key": "B", "text": "làm nhiên liệu đốt trong động cơ." },
+        { "key": "C", "text": "làm chất oxi hoá trong hàn cắt kim loại." },
+        { "key": "D", "text": "làm dung môi pha sơn và keo dán." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nitrogen lỏng có nhiệt độ rất thấp và trơ nên được dùng làm chất làm lạnh sâu, bảo quản mẫu sinh học, thực phẩm, mô và tế bào trong y học. B sai vì N₂ không cháy; C là vai trò của oxygen; D sai vì nitrogen lỏng bay hơi ngay, không dùng làm dung môi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhận định nào sau đây đúng về trạng thái tự nhiên của nitrogen?",
+      "options": [
+        { "key": "A", "text": "Nitrogen chỉ tồn tại ở dạng đơn chất trong không khí." },
+        { "key": "B", "text": "Ngoài đơn chất N₂ trong không khí, nitrogen còn có trong protein, nucleic acid và các muối nitrate trong đất." },
+        { "key": "C", "text": "Nitrogen chỉ có trong khoáng vật nitride của kim loại." },
+        { "key": "D", "text": "Nitrogen không có trong cơ thể sinh vật." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong tự nhiên nitrogen tồn tại cả dạng đơn chất (N₂ chiếm phần lớn không khí) và dạng hợp chất: protein, nucleic acid trong cơ thể sống, muối nitrate trong đất và mỏ diêm tiêu. A, C, D đều phủ nhận một trong hai dạng tồn tại này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Thể tích khí nitrogen có trong 200 lít không khí khô là bao nhiêu? Coi nitrogen chiếm 78% thể tích không khí và các khí đo ở cùng điều kiện.",
+      "options": [
+        { "key": "A", "text": "21 lít." },
+        { "key": "B", "text": "78 lít." },
+        { "key": "C", "text": "44 lít." },
+        { "key": "D", "text": "156 lít." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "V(N₂) = 200 × 78/100 = 156 lít. A lấy 21% của 100 lít (tỉ lệ oxygen nhân sai thể tích); B là thể tích nitrogen trong 100 lít không khí; C là phần khí còn lại sau khi trừ nitrogen (200 − 156 = 44).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Nung nóng hoàn toàn 7,2 gam magnesium trong bình chứa nitrogen dư. Khối lượng magnesium nitride thu được là bao nhiêu? Cho Mg = 24, N = 14.",
+      "options": [
+        { "key": "A", "text": "10,0 gam." },
+        { "key": "B", "text": "7,2 gam." },
+        { "key": "C", "text": "20,0 gam." },
+        { "key": "D", "text": "30,0 gam." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "n(Mg) = 7,2/24 = 0,3 mol; theo 3Mg + N₂ → Mg₃N₂ thì n(Mg₃N₂) = 0,1 mol. Khối lượng mol Mg₃N₂ = 3×24 + 2×14 = 100 g/mol nên m = 0,1 × 100 = 10,0 gam. B bỏ qua lượng nitrogen đã cộng vào; C dùng tỉ lệ 2Mg : 1Mg₃N₂; D đồng nhất số mol Mg với số mol Mg₃N₂.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 1 mol N₂ và 3 mol H₂ vào bình kín rồi thực hiện phản ứng tổng hợp ammonia. Khi hệ đạt cân bằng, thu được 0,4 mol NH₃. Hiệu suất phản ứng tính theo N₂ là",
+      "options": [
+        { "key": "A", "text": "40%." },
+        { "key": "B", "text": "60%." },
+        { "key": "C", "text": "20%." },
+        { "key": "D", "text": "13,3%." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo N₂ + 3H₂ ⇌ 2NH₃, để tạo 0,4 mol NH₃ cần 0,2 mol N₂. Hiệu suất tính theo N₂ là 0,2/1 = 20%. A lấy nhầm tỉ lệ 0,4/1; B lấy phần N₂ còn lại; D chia 0,4 cho 3 mol H₂ ban đầu.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở nhiệt độ cao, lithium phản ứng với nitrogen theo phương trình nào sau đây?",
+      "options": [
+        { "key": "A", "text": "2Li + N₂ → 2LiN." },
+        { "key": "B", "text": "6Li + N₂ → 2Li₃N." },
+        { "key": "C", "text": "Li + N₂ → LiN₂." },
+        { "key": "D", "text": "3Li + N₂ → Li₃N₂." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lithium tác dụng với nitrogen tạo lithium nitride Li₃N; cân bằng đúng là 6Li + N₂ → 2Li₃N (mỗi vế 6 Li và 2 N). A, C, D sai công thức nitride: trong Li₃N, lithium hoá trị I còn nitrogen hoá trị III.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    },
+    {
+      "id": "de-hoa-11-bai-04-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-04",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi chưng cất phân đoạn không khí lỏng, nitrogen bay hơi và được tách ra trước oxygen vì",
+      "options": [
+        { "key": "A", "text": "nitrogen có khối lượng mol lớn hơn oxygen." },
+        { "key": "B", "text": "nitrogen phản ứng được với oxygen ở nhiệt độ thấp." },
+        { "key": "C", "text": "nitrogen có nhiệt độ sôi cao hơn oxygen." },
+        { "key": "D", "text": "nitrogen có nhiệt độ sôi thấp hơn oxygen (−196 °C so với −183 °C)." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trong tháp chưng cất, chất có nhiệt độ sôi thấp hơn bay hơi trước; N₂ sôi ở khoảng −196 °C, O₂ ở khoảng −183 °C nên nitrogen thoát ra ở đỉnh tháp. A sai vì M(N₂) = 28 < M(O₂) = 32; B sai vì hỗn hợp chỉ được làm lạnh, không xảy ra phản ứng; C ngược với thực tế.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 4", "Nitrogen"]
+    }
+  ]
+}

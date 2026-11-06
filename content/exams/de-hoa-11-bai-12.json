@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-12",
+  "title": "Hóa học 11 – Bài 12. Công thức phân tử hợp chất hữu cơ",
+  "slug": "de-hoa-11-bai-12",
+  "description": "20 câu trắc nghiệm bám sát Bài 12 SGK Hóa học 11 (Kết nối tri thức): phân tích định tính, định lượng, công thức đơn giản nhất, công thức phân tử và phổ khối lượng.",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-12-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phân tích định tính, carbon trong hợp chất hữu cơ được chuyển thành CO₂ rồi dẫn vào nước vôi trong dư. Hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "dung dịch bị vẩn đục." },
+        { "key": "B", "text": "dung dịch chuyển sang màu xanh lam." },
+        { "key": "C", "text": "xuất hiện kết tủa màu vàng." },
+        { "key": "D", "text": "có khí mùi khai thoát ra." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O, kết tủa trắng làm dung dịch vẩn đục, chứng tỏ hợp chất ban đầu có carbon. Màu xanh lam là hiện tượng của CuSO₄ khan gặp nước, kết tủa vàng là của AgI, còn khí mùi khai là NH₃ dùng để nhận biết nitrogen.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Để nhận biết hydrogen trong hợp chất hữu cơ, người ta dẫn sản phẩm cháy qua CuSO₄ khan. Hiện tượng chứng tỏ có hơi nước là",
+      "options": [
+        { "key": "A", "text": "chất rắn màu trắng chuyển sang màu xanh lam." },
+        { "key": "B", "text": "chất rắn màu xanh lam chuyển sang màu trắng." },
+        { "key": "C", "text": "dung dịch trong suốt chuyển sang vẩn đục." },
+        { "key": "D", "text": "xuất hiện kết tủa trắng lắng xuống đáy." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CuSO₄ khan màu trắng hấp thụ nước tạo CuSO₄.5H₂O màu xanh lam, chứng tỏ sản phẩm cháy có H₂O, tức hợp chất ban đầu có hydrogen. Chiều chuyển màu ngược lại là sai; vẩn đục và kết tủa trắng là hiện tượng nhận biết CO₂ hoặc ion chloride.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức đơn giản nhất của một hợp chất hữu cơ cho biết",
+      "options": [
+        { "key": "A", "text": "tỉ lệ tối giản về số nguyên tử của các nguyên tố trong phân tử." },
+        { "key": "B", "text": "số nguyên tử của mỗi nguyên tố trong một phân tử." },
+        { "key": "C", "text": "khối lượng mol phân tử của hợp chất." },
+        { "key": "D", "text": "trật tự liên kết giữa các nguyên tử trong phân tử." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Công thức đơn giản nhất chỉ biểu diễn tỉ lệ tối giản số nguyên tử các nguyên tố, ví dụ CH₂O. Số nguyên tử thực trong phân tử là công thức phân tử, khối lượng mol do phổ khối lượng cho biết, còn trật tự liên kết thuộc công thức cấu tạo.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức phân tử và công thức đơn giản nhất của cùng một hợp chất có mối quan hệ",
+      "options": [
+        { "key": "A", "text": "CTPT = (CTĐGN)ₙ với n là số nguyên dương." },
+        { "key": "B", "text": "CTPT = CTĐGN + n." },
+        { "key": "C", "text": "CTĐGN = (CTPT)ₙ với n là số nguyên dương." },
+        { "key": "D", "text": "CTPT luôn trùng với CTĐGN." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Công thức phân tử là bội nguyên của công thức đơn giản nhất, tức CTPT = (CTĐGN)ₙ, trong đó n bằng phân tử khối chia cho khối lượng mol của công thức đơn giản nhất. Ví dụ CTĐGN CH₂O ứng với C₂H₄O₂ khi n = 2; chỉ khi n = 1 thì hai công thức mới trùng nhau.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Trên phổ khối lượng, peak có giá trị m/z lớn nhất (không kể peak đồng vị) tương ứng với",
+      "options": [
+        { "key": "A", "text": "ion phân tử và cho biết phân tử khối của hợp chất." },
+        { "key": "B", "text": "ion mảnh có khối lượng nhỏ nhất." },
+        { "key": "C", "text": "số nguyên tử carbon trong phân tử." },
+        { "key": "D", "text": "số nhóm chức trong phân tử." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phân tử bị ion hoá mất một electron tạo ion phân tử M⁺; peak của ion này có m/z lớn nhất và bằng phân tử khối. Các peak còn lại là mảnh phân huỷ có khối lượng nhỏ hơn nên không dùng để đọc trực tiếp giá trị phân tử khối.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Phần trăm khối lượng của carbon trong methane (CH₄) là",
+      "options": [
+        { "key": "A", "text": "75%." },
+        { "key": "B", "text": "25%." },
+        { "key": "C", "text": "80%." },
+        { "key": "D", "text": "12%." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "M(CH₄) = 12 + 4 = 16 g/mol nên %C = 12/16 × 100% = 75%. Phương án 25% là phần trăm của hydrogen, 80% là %C của C₂H₆, còn 12% là nhầm lấy khối lượng mol nguyên tử carbon làm phần trăm.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol hợp chất hữu cơ X thu được 0,3 mol CO₂. Số nguyên tử carbon trong một phân tử X là",
+      "options": [
+        { "key": "A", "text": "3." },
+        { "key": "B", "text": "0,3." },
+        { "key": "C", "text": "1." },
+        { "key": "D", "text": "6." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo toàn carbon: nC trong X = nCO₂ = 0,3 mol. Số nguyên tử C = 0,3/0,1 = 3. Phương án 0,3 là số mol carbon chứ không phải số nguyên tử, 1 là bỏ qua lượng chất đã đốt, 6 là nhân đôi sai tỉ lệ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 3,0 g hợp chất hữu cơ X (chứa C, H, O) thu được 4,4 g CO₂ và 1,8 g H₂O. Phần trăm khối lượng của hydrogen trong X là",
+      "options": [
+        { "key": "A", "text": "6,67%." },
+        { "key": "B", "text": "40,00%." },
+        { "key": "C", "text": "60,00%." },
+        { "key": "D", "text": "3,33%." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "nH₂O = 1,8/18 = 0,1 mol nên nH = 0,2 mol, mH = 0,2 g; %H = 0,2/3,0 × 100% = 6,67%. Cùng dữ kiện có nCO₂ = 0,1 mol nên %C = 40,00% (phương án B), 60,00% là lấy khối lượng nước chia khối lượng mẫu, 3,33% là quên nhân 2 khi chuyển H₂O thành H.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Hợp chất hữu cơ X chứa C, H, O với %C = 40,00%; %H = 6,67%; %O = 53,33%. Công thức đơn giản nhất của X là",
+      "options": [
+        { "key": "A", "text": "CH₂O." },
+        { "key": "B", "text": "C₂H₄O₂." },
+        { "key": "C", "text": "CHO." },
+        { "key": "D", "text": "CH₄O." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "nC : nH : nO = 40/12 : 6,67/1 : 53,33/16 = 3,33 : 6,67 : 3,33 = 1 : 2 : 1 nên công thức đơn giản nhất là CH₂O. C₂H₄O₂ là bội của CH₂O (ứng với phân tử khối 60), còn CHO và CH₄O sai tỉ lệ nguyên tử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Hợp chất hữu cơ X có công thức đơn giản nhất là CH₂O và phân tử khối bằng 90. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₃H₆O₃." },
+        { "key": "B", "text": "C₂H₄O₂." },
+        { "key": "C", "text": "CH₂O." },
+        { "key": "D", "text": "C₆H₁₂O₆." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khối lượng mol của CH₂O là 30 g/mol nên n = 90/30 = 3, do đó CTPT = (CH₂O)₃ = C₃H₆O₃. Phương án C₂H₄O₂ ứng với phân tử khối 60, CH₂O ứng với 30, C₆H₁₂O₆ ứng với 180.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi phân tích định tính nitrogen, hợp chất hữu cơ được chuyển hoá thành NH₃. Thuốc thử dùng để nhận ra NH₃ là",
+      "options": [
+        { "key": "A", "text": "quỳ tím ẩm, thấy quỳ chuyển sang màu xanh." },
+        { "key": "B", "text": "nước vôi trong, thấy dung dịch vẩn đục." },
+        { "key": "C", "text": "dung dịch AgNO₃, thấy kết tủa trắng." },
+        { "key": "D", "text": "CuSO₄ khan, thấy chất rắn chuyển màu xanh lam." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "NH₃ là base yếu, làm quỳ tím ẩm hoá xanh nên được dùng để nhận biết nitrogen. Vẩn đục nước vôi là do CO₂ (carbon), kết tủa trắng với AgNO₃ là do ion chloride (halogen), CuSO₄ khan hoá xanh là do hơi nước (hydrogen).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng dẫn xuất halogen với dung dịch NaOH, acid hoá bằng HNO₃ rồi thêm dung dịch AgNO₃. Hiện tượng chứng tỏ có nguyên tử chlorine là",
+      "options": [
+        { "key": "A", "text": "kết tủa màu trắng." },
+        { "key": "B", "text": "kết tủa màu vàng đậm." },
+        { "key": "C", "text": "kết tủa màu vàng nhạt." },
+        { "key": "D", "text": "dung dịch chuyển sang màu xanh lam." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ag⁺ + Cl⁻ → AgCl↓ màu trắng; AgBr là kết tủa vàng nhạt, AgI là kết tủa vàng đậm nên hai phương án vàng dùng cho bromine và iodine. Màu xanh lam là của ion Cu²⁺, không liên quan đến phép thử halogenua.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Trước khi thêm AgNO₃ để nhận biết ion halogenua, cần acid hoá dung dịch bằng HNO₃ nhằm",
+      "options": [
+        { "key": "A", "text": "trung hoà NaOH dư, tránh tạo kết tủa Ag₂O gây sai lệch kết quả." },
+        { "key": "B", "text": "tạo môi trường base để kết tủa halogenua hoàn toàn." },
+        { "key": "C", "text": "chuyển ion halogenua thành halogen đơn chất." },
+        { "key": "D", "text": "loại bỏ ion chloride có sẵn trong thuốc thử." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sau khi thuỷ phân bằng NaOH, dung dịch còn kiềm; ion OH⁻ tạo kết tủa Ag₂O với Ag⁺ nên dễ lẫn với kết tủa halogenua. HNO₃ trung hoà lượng kiềm dư, không oxi hoá ion halogenua và cũng không loại được chloride.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Dẫn sản phẩm cháy của một hợp chất hữu cơ lần lượt qua bình (1) đựng CuSO₄ khan và bình (2) đựng nước vôi trong dư; khối lượng bình (1) tăng 5,4 g. Số mol nguyên tử hydrogen trong mẫu đã cháy là",
+      "options": [
+        { "key": "A", "text": "0,6 mol." },
+        { "key": "B", "text": "0,3 mol." },
+        { "key": "C", "text": "1,2 mol." },
+        { "key": "D", "text": "0,15 mol." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bình CuSO₄ khan giữ H₂O nên nH₂O = 5,4/18 = 0,3 mol; mỗi phân tử H₂O có 2 nguyên tử H nên nH = 0,6 mol. Phương án 0,3 là số mol nước, 0,15 là chia đôi sai, 1,2 là nhân đôi hai lần.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Hợp chất hữu cơ X có công thức đơn giản nhất là C₂H₅ và phân tử khối bằng 58. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₄H₁₀." },
+        { "key": "B", "text": "C₂H₅." },
+        { "key": "C", "text": "C₃H₇." },
+        { "key": "D", "text": "C₄H₈." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khối lượng mol của C₂H₅ là 29 g/mol nên n = 58/29 = 2, do đó CTPT = (C₂H₅)₂ = C₄H₁₀, phù hợp hoá trị carbon. C₂H₅ và C₃H₇ không phải công thức phân tử của hydrocarbon no, C₄H₈ có phân tử khối 56 nên không khớp dữ kiện.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Với hợp chất hữu cơ chứa C, H, O, phần trăm khối lượng oxygen thường được xác định bằng cách",
+      "options": [
+        { "key": "A", "text": "lấy 100% trừ đi tổng %C và %H (và %N nếu có)." },
+        { "key": "B", "text": "cân trực tiếp khối lượng oxygen có trong mẫu." },
+        { "key": "C", "text": "đo thể tích O₂ sinh ra khi đốt cháy mẫu." },
+        { "key": "D", "text": "dựa vào số mol nước tạo thành khi đốt cháy." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phân tích định lượng xác định trực tiếp %C qua CO₂ và %H qua H₂O; oxygen không có phép thử riêng nên được suy ra từ phần còn lại: %O = 100% − %C − %H. Khi đốt cháy, oxygen trong mẫu không tách thành O₂ riêng, còn số mol nước chỉ cho biết hydrogen.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 4,4 g hợp chất hữu cơ X (chứa C, H, O) thu được 8,8 g CO₂ và 3,6 g H₂O. Phổ khối lượng cho biết phân tử khối của X bằng 88. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₄H₈O₂." },
+        { "key": "B", "text": "C₂H₄O₂." },
+        { "key": "C", "text": "C₄H₈O." },
+        { "key": "D", "text": "C₃H₆O₂." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "nCO₂ = 0,2 mol nên nC = 0,2; nH₂O = 0,2 mol nên nH = 0,4; mO = 4,4 − 0,2×12 − 0,4×1 = 1,6 g, tức nO = 0,1. Tỉ lệ C : H : O = 2 : 4 : 1 nên CTĐGN là C₂H₄O (M = 44); với M = 88 thì n = 2 và CTPT là C₄H₈O₂. Các phương án còn lại sai tỉ lệ hoặc sai phân tử khối.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Hợp chất hữu cơ X (chứa C, H, O) có %C = 62,07%; %H = 10,34%; %O = 27,59%. Phổ khối lượng của X có peak ion phân tử tại m/z = 58. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₃H₆O." },
+        { "key": "B", "text": "C₂H₆O." },
+        { "key": "C", "text": "C₃H₈O." },
+        { "key": "D", "text": "C₄H₈O." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Với M = 58: nC = 58×0,6207/12 = 3; nH = 58×0,1034/1 = 6; nO = 58×0,2759/16 = 1, nên X là C₃H₆O. Phương án C₂H₆O có M = 46, C₃H₈O có M = 60 (và %C chỉ 60%), C₄H₈O có M = 72 nên đều không khớp dữ kiện.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Phổ khối lượng của hợp chất hữu cơ X (chứa C, H, O) có peak ion phân tử tại m/z = 60; phân tích nguyên tố cho %C = 40,00%. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₂H₄O₂." },
+        { "key": "B", "text": "C₃H₈O." },
+        { "key": "C", "text": "C₂H₆O." },
+        { "key": "D", "text": "C₄H₁₀O." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "M = 60 nên mC = 60 × 40% = 24 g, tức nC = 2; phần còn lại 36 g ứng với 4 nguyên tử H và 2 nguyên tử O, được C₂H₄O₂ (%H = 6,67%; %O = 53,33%). C₃H₈O cũng có M = 60 nhưng %C = 60%, còn C₂H₆O (M = 46) và C₄H₁₀O (M = 74) sai phân tử khối.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-12-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-12",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 2,3 g hợp chất hữu cơ X (chứa C, H, O) thu được 4,4 g CO₂ và 2,7 g H₂O; phân tử khối của X bằng 46. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₂H₆O." },
+        { "key": "B", "text": "CH₂O." },
+        { "key": "C", "text": "C₂H₄O₂." },
+        { "key": "D", "text": "C₃H₆O." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "nC = nCO₂ = 0,1 mol (1,2 g); nH = 2 × 0,15 = 0,3 mol (0,3 g); mO = 2,3 − 1,5 = 0,8 g nên nO = 0,05. Tỉ lệ 0,1 : 0,3 : 0,05 = 2 : 6 : 1, CTĐGN là C₂H₆O có M = 46, trùng phân tử khối nên CTPT là C₂H₆O. Ba phương án còn lại có phân tử khối 30, 60 và 58.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 12", "Công thức phân tử hợp chất hữu cơ"]
+    }
+  ]
+}

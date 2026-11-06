@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-08",
+  "title": "Hóa học 11 – Bài 8. Sulfuric acid và muối sulfate",
+  "slug": "de-hoa-11-bai-08",
+  "description": "20 câu trắc nghiệm bám sát Bài 8 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-08-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở điều kiện thường, sulfuric acid nguyên chất là",
+      "options": [
+        { "key": "A", "text": "chất khí không màu, mùi hắc, tan nhiều trong nước." },
+        { "key": "B", "text": "chất lỏng không màu, nhẹ hơn nước, bay hơi mạnh." },
+        { "key": "C", "text": "chất rắn màu trắng, hút ẩm mạnh." },
+        { "key": "D", "text": "chất lỏng không màu, sánh, nặng gần gấp đôi nước." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "H₂SO₄ nguyên chất là chất lỏng không màu, sánh, khối lượng riêng khoảng 1,84 g/mL nên nặng gần gấp đôi nước. Acid này khó bay hơi, khác với HCl hay HNO₃.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi pha loãng sulfuric acid đặc, cách làm nào sau đây an toàn?",
+      "options": [
+        { "key": "A", "text": "Rót từ từ acid đặc vào nước, khuấy đều." },
+        { "key": "B", "text": "Rót từ từ nước vào acid đặc, khuấy đều." },
+        { "key": "C", "text": "Đổ nhanh acid đặc vào nước đá." },
+        { "key": "D", "text": "Trộn acid đặc với nước trong bình kín rồi lắc mạnh." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "H₂SO₄ đặc tan trong nước toả nhiệt rất mạnh; rót từ từ acid vào nước và khuấy đều giúp nhiệt phân tán trong khối nước lớn. Làm ngược lại, nước trong acid bị đun nóng cục bộ đến sôi và bắn acid ra ngoài gây bỏng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Số oxi hoá của sulfur trong phân tử H₂SO₄ là",
+      "options": [
+        { "key": "A", "text": "+2" },
+        { "key": "B", "text": "+4" },
+        { "key": "C", "text": "+6" },
+        { "key": "D", "text": "–2" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong H₂SO₄, hai nguyên tử hydrogen có số oxi hoá +1, bốn nguyên tử oxygen là –2, nên sulfur có số oxi hoá +6. Đây là mức oxi hoá cao nhất của sulfur, tạo cho H₂SO₄ đặc tính oxi hoá mạnh.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Sulfuric acid loãng tác dụng với kim loại nào sau đây giải phóng khí hydrogen?",
+      "options": [
+        { "key": "A", "text": "Cu" },
+        { "key": "B", "text": "Zn" },
+        { "key": "C", "text": "Ag" },
+        { "key": "D", "text": "Au" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "H₂SO₄ loãng chỉ tác dụng với kim loại đứng trước hydrogen như Zn, Fe, Mg, tạo muối sulfate và H₂: Zn + H₂SO₄ → ZnSO₄ + H₂↑. Cu, Ag, Au đứng sau hydrogen nên không phản ứng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuốc thử dùng để nhận biết ion sulfate (SO₄²⁻) trong dung dịch là",
+      "options": [
+        { "key": "A", "text": "dung dịch NaCl." },
+        { "key": "B", "text": "dung dịch HCl." },
+        { "key": "C", "text": "dung dịch BaCl₂." },
+        { "key": "D", "text": "dung dịch AgNO₃." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ba²⁺ + SO₄²⁻ → BaSO₄↓ trắng, kết tủa không tan trong HNO₃ và HCl nên nhận biết được cả khi dung dịch có acid. NaCl và HCl không cho hiện tượng với SO₄²⁻, còn AgNO₃ dùng nhận biết Cl⁻.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phương pháp tiếp xúc sản xuất sulfuric acid, chất xúc tác cho phản ứng oxi hoá SO₂ thành SO₃ là",
+      "options": [
+        { "key": "A", "text": "Pt" },
+        { "key": "B", "text": "Fe" },
+        { "key": "C", "text": "Ni" },
+        { "key": "D", "text": "V₂O₅" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "2SO₂ + O₂ ⇌ (V₂O₅, t°) 2SO₃. Pt là xúc tác của phản ứng oxi hoá NH₃ thành NO trong sản xuất HNO₃, không dùng cho công đoạn này.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phân tử sulfuric acid, nguyên tử sulfur liên kết với hai nguyên tử oxygen bằng liên kết đôi và với hai nhóm hydroxy. Số nhóm –OH trong phân tử H₂SO₄ là",
+      "options": [
+        { "key": "A", "text": "1" },
+        { "key": "B", "text": "2" },
+        { "key": "C", "text": "3" },
+        { "key": "D", "text": "4" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Công thức cấu tạo của H₂SO₄ có sulfur ở trung tâm, hai liên kết S=O và hai nhóm –OH. Chính hai hydrogen linh động này phân li tạo H⁺, nên H₂SO₄ là acid hai nấc.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Dãy gồm các chất đều tác dụng được với dung dịch H₂SO₄ loãng là",
+      "options": [
+        { "key": "A", "text": "CuO, NaOH, BaCl₂" },
+        { "key": "B", "text": "Cu, Ag, Au" },
+        { "key": "C", "text": "CO₂, SO₂, N₂" },
+        { "key": "D", "text": "NaCl, NaNO₃, BaSO₄" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CuO + H₂SO₄ → CuSO₄ + H₂O; 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O; BaCl₂ + H₂SO₄ → BaSO₄↓ + 2HCl. Các dãy còn lại gồm kim loại sau hydrogen, oxide acid cùng khí trơ hoặc muối không phản ứng với H₂SO₄ loãng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhỏ dung dịch H₂SO₄ đặc vào đường saccharose, đường dần hoá đen và khối chất phồng lên. Hiện tượng này chứng tỏ H₂SO₄ đặc có tính chất nào?",
+      "options": [
+        { "key": "A", "text": "Tính acid mạnh." },
+        { "key": "B", "text": "Tính háo nước." },
+        { "key": "C", "text": "Tính oxi hoá mạnh." },
+        { "key": "D", "text": "Tính bay hơi mạnh." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "H₂SO₄ đặc hút nước liên kết trong saccharose: C₁₂H₂₂O₁₁ → (H₂SO₄ đặc) 12C + 11H₂O, carbon tạo thành có màu đen; hơi nước và khí sinh ra làm khối chất phồng lên. Đây là tính háo nước, không phải phản ứng oxi hoá – khử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho copper tác dụng với dung dịch H₂SO₄ đặc, nóng. Phương trình hoá học nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Cu + H₂SO₄ → CuSO₄ + H₂" },
+        { "key": "B", "text": "Cu + 2H₂SO₄ → CuSO₄ + SO₂ + 2H₂O" },
+        { "key": "C", "text": "Cu + 2H₂SO₄ → CuSO₄ + 2SO₂ + 2H₂O" },
+        { "key": "D", "text": "3Cu + 4H₂SO₄ → 3CuSO₄ + S + 4H₂O" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "H₂SO₄ đặc, nóng oxi hoá Cu lên +2, sulfur +6 bị khử xuống +4 trong SO₂: Cu + 2H₂SO₄ → CuSO₄ + SO₂↑ + 2H₂O, hệ số bảo toàn Cu, S, H, O. Cu đứng sau hydrogen nên không tác dụng với H₂SO₄ loãng, không sinh ra H₂.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Có hai lọ mất nhãn đựng dung dịch H₂SO₄ loãng và H₂SO₄ đặc. Cách phân biệt đơn giản, an toàn là",
+      "options": [
+        { "key": "A", "text": "cho quỳ tím vào mỗi lọ." },
+        { "key": "B", "text": "cho một mẩu Cu vào mỗi lọ rồi đun nóng." },
+        { "key": "C", "text": "cho dung dịch BaCl₂ vào mỗi lọ." },
+        { "key": "D", "text": "cho dung dịch Na₂CO₃ vào mỗi lọ." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cu không phản ứng với H₂SO₄ loãng nhưng tan trong H₂SO₄ đặc, nóng và sinh khí SO₂ mùi hắc. Quỳ tím, BaCl₂ và Na₂CO₃ đều cho hiện tượng giống nhau ở hai dung dịch nên không phân biệt được.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Kim loại nào sau đây bị thụ động hoá, không tan trong H₂SO₄ đặc, nguội?",
+      "options": [
+        { "key": "A", "text": "Cu" },
+        { "key": "B", "text": "Zn" },
+        { "key": "C", "text": "Mg" },
+        { "key": "D", "text": "Al" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Al và Fe bị H₂SO₄ đặc, nguội oxi hoá tạo màng oxide đặc, bền trên bề mặt, ngăn acid tiếp xúc với kim loại nên không tan thêm. Cu, Zn, Mg không có hiện tượng này; Cu chỉ tan trong H₂SO₄ đặc, nóng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Muối sulfate nào sau đây không tan trong nước?",
+      "options": [
+        { "key": "A", "text": "Na₂SO₄" },
+        { "key": "B", "text": "MgSO₄" },
+        { "key": "C", "text": "BaSO₄" },
+        { "key": "D", "text": "(NH₄)₂SO₄" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hầu hết muối sulfate tan tốt trong nước, trừ BaSO₄, SrSO₄, PbSO₄ không tan và CaSO₄ ít tan. BaSO₄ cũng không tan trong acid mạnh nên được dùng để nhận biết ion SO₄²⁻.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên liệu chính để sản xuất sulfuric acid trong công nghiệp theo phương pháp tiếp xúc là",
+      "options": [
+        { "key": "A", "text": "S hoặc quặng pyrite (FeS₂)." },
+        { "key": "B", "text": "NaCl hoặc KCl." },
+        { "key": "C", "text": "CaCO₃ hoặc CaO." },
+        { "key": "D", "text": "NH₃ hoặc N₂." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đốt S hoặc quặng pyrite trong không khí thu SO₂: S + O₂ → (t°) SO₂; 4FeS₂ + 11O₂ → (t°) 2Fe₂O₃ + 8SO₂. Sau đó 2SO₂ + O₂ ⇌ (V₂O₅, t°) 2SO₃ và SO₃ + H₂O → H₂SO₄.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong sản xuất sulfuric acid, khi hấp thụ SO₃ bằng H₂SO₄ đặc thu được",
+      "options": [
+        { "key": "A", "text": "dung dịch H₂SO₄ loãng." },
+        { "key": "B", "text": "khí SO₂." },
+        { "key": "C", "text": "oleum H₂SO₄.nSO₃." },
+        { "key": "D", "text": "khí H₂S." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "SO₃ + H₂SO₄ → H₂SO₄.nSO₃ (oleum). Không cho SO₃ tác dụng trực tiếp với nước vì phản ứng toả nhiệt mạnh, tạo sương mù acid rất khó thu hồi; oleum sau đó được pha loãng bằng nước để thu H₂SO₄ đặc.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Ứng dụng nào sau đây là của sulfuric acid?",
+      "options": [
+        { "key": "A", "text": "Làm chất gây mê trong y học." },
+        { "key": "B", "text": "Làm chất oxi hoá cho nhiên liệu tên lửa." },
+        { "key": "C", "text": "Sản xuất phân bón và ắc quy." },
+        { "key": "D", "text": "Làm khí bảo vệ trong hàn kim loại." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "H₂SO₄ là nguyên liệu chính sản xuất phân bón như superphosphate, ammonium sulfate, đồng thời dùng cho ắc quy chì, chất tẩy rửa, thuốc nhuộm và luyện kim. Chất gây mê là N₂O, chất oxi hoá cho tên lửa là NO₂/N₂O₄.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 6,4 g Cu tác dụng hết với dung dịch H₂SO₄ đặc, nóng, dư. Khối lượng muối CuSO₄ thu được là",
+      "options": [
+        { "key": "A", "text": "8,0 g" },
+        { "key": "B", "text": "16,0 g" },
+        { "key": "C", "text": "32,0 g" },
+        { "key": "D", "text": "12,8 g" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(Cu) = 6,4/64 = 0,10 mol; theo Cu + 2H₂SO₄ → CuSO₄ + SO₂ + 2H₂O, n(CuSO₄) = n(Cu) = 0,10 mol; m = 0,10 × 160 = 16,0 g. Các giá trị còn lại không tương ứng với 0,10 mol CuSO₄.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 0,20 mol Fe tác dụng hết với dung dịch H₂SO₄ đặc, nóng, dư. Thể tích khí SO₂ (đktc) thu được là",
+      "options": [
+        { "key": "A", "text": "2,24 lít" },
+        { "key": "B", "text": "4,48 lít" },
+        { "key": "C", "text": "6,72 lít" },
+        { "key": "D", "text": "8,96 lít" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với H₂SO₄ đặc, nóng, Fe bị oxi hoá lên +3: 2Fe + 6H₂SO₄ → (t°) Fe₂(SO₄)₃ + 3SO₂↑ + 6H₂O. Theo tỉ lệ 2 : 3, n(SO₂) = 3/2 × 0,20 = 0,30 mol; V = 0,30 × 22,4 = 6,72 lít.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Trung hoà hoàn toàn 100 mL dung dịch H₂SO₄ 0,10 mol/L cần vừa đủ V mL dung dịch NaOH 0,20 mol/L. Giá trị của V là",
+      "options": [
+        { "key": "A", "text": "50 mL" },
+        { "key": "B", "text": "200 mL" },
+        { "key": "C", "text": "100 mL" },
+        { "key": "D", "text": "25 mL" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "n(H₂SO₄) = 0,10 × 0,10 = 0,010 mol; H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O nên cần 0,020 mol NaOH; V = 0,020/0,20 = 0,10 lít = 100 mL. Phương án 50 mL bỏ qua hệ số 2 của NaOH.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    },
+    {
+      "id": "de-hoa-11-bai-08-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-08",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 1 tấn sulfur rồi chuyển toàn bộ SO₂ thành H₂SO₄ với hiệu suất chung 80%. Khối lượng H₂SO₄ thu được là",
+      "options": [
+        { "key": "A", "text": "2,45 tấn" },
+        { "key": "B", "text": "3,06 tấn" },
+        { "key": "C", "text": "1,53 tấn" },
+        { "key": "D", "text": "2,24 tấn" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sơ đồ S → SO₂ → SO₃ → H₂SO₄ cho 1 mol S ứng với 1 mol H₂SO₄. Từ 1 tấn S: n = 1000/32 = 31,25 kmol, khối lượng H₂SO₄ lí thuyết = 31,25 × 98 ≈ 3062,5 kg ≈ 3,06 tấn; hiệu suất 80% nên thực tế thu 3,06 × 0,8 ≈ 2,45 tấn.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 8", "Sulfuric acid và muối sulfate"]
+    }
+  ]
+}

@@ -176,6 +176,13 @@
           "slug": "luyen-de",
           "description": "Đề luyện thi tốt nghiệp THPT môn Giáo dục kinh tế và pháp luật do site tự soạn theo đúng cấu trúc 40 câu, phủ đều nội dung kinh tế và pháp luật lớp 12.",
           "order": 17
+        },
+        {
+          "id": "topic-ktpl-de-thi-that",
+          "name": "Đề thi tốt nghiệp THPT chính thức",
+          "slug": "de-thi-tot-nghiep-chinh-thuc",
+          "description": "Đề chính thức của Bộ GD&ĐT, giữ nguyên 24 câu trắc nghiệm và 4 câu đúng – sai cùng đáp án đã công bố.",
+          "order": 18
         }
       ]
     },
@@ -1203,6 +1210,190 @@
           "slug": "de-thi-tot-nghiep-thpt-cac-nam",
           "description": "Câu hỏi chép từ đề thi tốt nghiệp THPT do Bộ GD&ĐT công bố, gồm cả dạng đúng – sai của cấu trúc thi từ năm 2025.",
           "order": 30
+        }
+      ]
+    },
+    {
+      "id": "hoa-hoc",
+      "name": "Hóa học",
+      "slug": "hoa-hoc",
+      "description": "Hóa học lớp 11 (Kết nối tri thức): 25 bài trắc nghiệm bám sát SGK, từ cân bằng hoá học, nitrogen – sulfur đến hydrocarbon và dẫn xuất.",
+      "order": 8,
+      "topics": [
+        {
+          "id": "topic-hoa-11-bai-01",
+          "name": "Bài 1. Khái niệm về cân bằng hoá học",
+          "slug": "bai-01-khai-niem-ve-can-bang-hoa-hoc",
+          "description": "Phản ứng thuận nghịch, trạng thái cân bằng và hằng số cân bằng Kc.",
+          "order": 1
+        },
+        {
+          "id": "topic-hoa-11-bai-02",
+          "name": "Bài 2. Cân bằng trong dung dịch nước",
+          "slug": "bai-02-can-bang-trong-dung-dich-nuoc",
+          "description": "Sự điện li, acid – base theo Brønsted – Lowry, pH và chất chỉ thị.",
+          "order": 2
+        },
+        {
+          "id": "topic-hoa-11-bai-03",
+          "name": "Bài 3. Ôn tập chương 1",
+          "slug": "bai-03-on-tap-chuong-1",
+          "description": "Tổng hợp cân bằng hoá học và cân bằng trong dung dịch nước.",
+          "order": 3
+        },
+        {
+          "id": "topic-hoa-11-bai-04",
+          "name": "Bài 4. Nitrogen",
+          "slug": "bai-04-nitrogen",
+          "description": "Trạng thái tự nhiên, tính chất vật lí – hoá học và ứng dụng của nitrogen.",
+          "order": 4
+        },
+        {
+          "id": "topic-hoa-11-bai-05",
+          "name": "Bài 5. Sulfur và sulfur dioxide",
+          "slug": "bai-05-sulfur-va-sulfur-dioxide",
+          "description": "Tính chất của sulfur, sulfur dioxide và vấn đề mưa acid.",
+          "order": 5
+        },
+        {
+          "id": "topic-hoa-11-bai-06",
+          "name": "Bài 6. Ammonia và một số hợp chất ammonium",
+          "slug": "bai-06-ammonia-va-hop-chat-ammonium",
+          "description": "Tính base yếu của ammonia, muối ammonium và phản ứng nhận biết.",
+          "order": 6
+        },
+        {
+          "id": "topic-hoa-11-bai-07",
+          "name": "Bài 7. Các hợp chất của nitrogen với oxygen",
+          "slug": "bai-07-hop-chat-cua-nitrogen-voi-oxygen",
+          "description": "Nitrogen oxide, nitrogen dioxide, nitric acid và vòng tuần hoàn nitrogen.",
+          "order": 7
+        },
+        {
+          "id": "topic-hoa-11-bai-08",
+          "name": "Bài 8. Sulfuric acid và muối sulfate",
+          "slug": "bai-08-sulfuric-acid-va-muoi-sulfate",
+          "description": "Tính acid mạnh, tính oxi hoá của H₂SO₄ đặc và nhận biết ion sulfate.",
+          "order": 8
+        },
+        {
+          "id": "topic-hoa-11-bai-09",
+          "name": "Bài 9. Ôn tập chương 2",
+          "slug": "bai-09-on-tap-chuong-2",
+          "description": "Tổng hợp nitrogen – sulfur và các hợp chất quan trọng.",
+          "order": 9
+        },
+        {
+          "id": "topic-hoa-11-bai-10",
+          "name": "Bài 10. Khái niệm về hợp chất hữu cơ và hoá học hữu cơ",
+          "slug": "bai-10-khai-niem-hop-chat-huu-co",
+          "description": "Hợp chất hữu cơ, đặc điểm liên kết và vai trò của hoá học hữu cơ.",
+          "order": 10
+        },
+        {
+          "id": "topic-hoa-11-bai-11",
+          "name": "Bài 11. Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+          "slug": "bai-11-tach-biet-tinh-che-hop-chat-huu-co",
+          "description": "Chưng cất, chiết, kết tinh và sắc kí cột.",
+          "order": 11
+        },
+        {
+          "id": "topic-hoa-11-bai-12",
+          "name": "Bài 12. Công thức phân tử hợp chất hữu cơ",
+          "slug": "bai-12-cong-thuc-phan-tu-hop-chat-huu-co",
+          "description": "Phân tích nguyên tố, công thức đơn giản nhất và công thức phân tử.",
+          "order": 12
+        },
+        {
+          "id": "topic-hoa-11-bai-13",
+          "name": "Bài 13. Cấu tạo hoá học của hợp chất hữu cơ",
+          "slug": "bai-13-cau-tao-hoa-hoc-hop-chat-huu-co",
+          "description": "Thuyết cấu tạo hoá học, đồng đẳng, đồng phân và liên kết hoá học.",
+          "order": 13
+        },
+        {
+          "id": "topic-hoa-11-bai-14",
+          "name": "Bài 14. Ôn tập chương 3",
+          "slug": "bai-14-on-tap-chuong-3",
+          "description": "Tổng hợp đại cương hoá học hữu cơ.",
+          "order": 14
+        },
+        {
+          "id": "topic-hoa-11-bai-15",
+          "name": "Bài 15. Alkane",
+          "slug": "bai-15-alkane",
+          "description": "Đồng đẳng, danh pháp, tính chất và phản ứng thế của alkane.",
+          "order": 15
+        },
+        {
+          "id": "topic-hoa-11-bai-16",
+          "name": "Bài 16. Hydrocarbon không no",
+          "slug": "bai-16-hydrocarbon-khong-no",
+          "description": "Alkene, alkyne: đồng phân, phản ứng cộng, trùng hợp và oxi hoá.",
+          "order": 16
+        },
+        {
+          "id": "topic-hoa-11-bai-17",
+          "name": "Bài 17. Arene (hydrocarbon thơm)",
+          "slug": "bai-17-arene-hydrocarbon-thom",
+          "description": "Cấu trúc benzene, phản ứng thế electrophin và ứng dụng của arene.",
+          "order": 17
+        },
+        {
+          "id": "topic-hoa-11-bai-18",
+          "name": "Bài 18. Ôn tập chương 4",
+          "slug": "bai-18-on-tap-chuong-4",
+          "description": "Tổng hợp hydrocarbon no, không no và thơm.",
+          "order": 18
+        },
+        {
+          "id": "topic-hoa-11-bai-19",
+          "name": "Bài 19. Dẫn xuất halogen",
+          "slug": "bai-19-dan-xuat-halogen",
+          "description": "Danh pháp, tính chất và phản ứng thế của dẫn xuất halogen.",
+          "order": 19
+        },
+        {
+          "id": "topic-hoa-11-bai-20",
+          "name": "Bài 20. Alcohol",
+          "slug": "bai-20-alcohol",
+          "description": "Đồng phân, danh pháp, tính chất của alcohol và phản ứng tách nước.",
+          "order": 20
+        },
+        {
+          "id": "topic-hoa-11-bai-21",
+          "name": "Bài 21. Phenol",
+          "slug": "bai-21-phenol",
+          "description": "Cấu trúc, tính acid yếu và phản ứng thế ở vòng benzene của phenol.",
+          "order": 21
+        },
+        {
+          "id": "topic-hoa-11-bai-22",
+          "name": "Bài 22. Ôn tập chương 5",
+          "slug": "bai-22-on-tap-chuong-5",
+          "description": "Tổng hợp dẫn xuất halogen, alcohol và phenol.",
+          "order": 22
+        },
+        {
+          "id": "topic-hoa-11-bai-23",
+          "name": "Bài 23. Hợp chất carbonyl",
+          "slug": "bai-23-hop-chat-carbonyl",
+          "description": "Aldehyde và ketone: danh pháp, phản ứng tráng bạc và cộng hydrogen.",
+          "order": 23
+        },
+        {
+          "id": "topic-hoa-11-bai-24",
+          "name": "Bài 24. Carboxylic acid",
+          "slug": "bai-24-carboxylic-acid",
+          "description": "Tính acid, phản ứng ester hoá và ứng dụng của carboxylic acid.",
+          "order": 24
+        },
+        {
+          "id": "topic-hoa-11-bai-25",
+          "name": "Bài 25. Ôn tập chương 6",
+          "slug": "bai-25-on-tap-chuong-6",
+          "description": "Tổng hợp hợp chất carbonyl và carboxylic acid.",
+          "order": 25
         }
       ]
     }

@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-25",
+  "title": "Hóa học 11 – Bài 25. Ôn tập chương 6",
+  "slug": "de-hoa-11-bai-25",
+  "description": "20 câu trắc nghiệm ôn tập chương 6 Hóa học 11 (Kết nối tri thức): aldehyde và ketone (danh pháp, tráng bạc, phản ứng với Cu(OH)₂/NaOH, cộng H₂, oxi hóa, đốt cháy) cùng carboxylic acid (tính acid, ester hoá, nhận biết, điều chế acetic acid).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-25-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của hợp chất CH₃CHO là",
+      "options": [
+        { "key": "A", "text": "ethanal." },
+        { "key": "B", "text": "methanal." },
+        { "key": "C", "text": "ethanoic acid." },
+        { "key": "D", "text": "propanone." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CH₃CHO có mạch 2 nguyên tử carbon gắn nhóm –CHO nên tên thay thế là ethanal (tên thông thường là acetaldehyde). Methanal ứng với HCHO, ethanoic acid là CH₃COOH, propanone là CH₃COCH₃ nên đều sai.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Formalin dùng để bảo quản mẫu sinh vật là dung dịch trong nước của chất nào sau đây?",
+      "options": [
+        { "key": "A", "text": "HCHO." },
+        { "key": "B", "text": "CH₃CHO." },
+        { "key": "C", "text": "CH₃COOH." },
+        { "key": "D", "text": "CH₃COCH₃." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Formalin là dung dịch formaldehyde (HCHO) trong nước, nồng độ thường 37–40%, có tác dụng diệt khuẩn và làm cứng mô nên được dùng bảo quản mẫu. CH₃CHO, CH₃COOH và CH₃COCH₃ không tạo nên formalin.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho vài giọt CH₃CHO vào ống nghiệm chứa thuốc thử Tollens rồi đun nóng nhẹ. Hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "thành ống nghiệm có lớp bạc kim loại sáng như gương." },
+        { "key": "B", "text": "xuất hiện kết tủa đỏ gạch." },
+        { "key": "C", "text": "có bọt khí không màu thoát ra mạnh." },
+        { "key": "D", "text": "dung dịch chuyển dần sang màu xanh lam." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Aldehyde bị oxi hóa bởi thuốc thử Tollens [Ag(NH₃)₂]OH thành muối ammonium của acid, ion Ag⁺ bị khử thành Ag kim loại bám vào thành ống nghiệm tạo lớp gương bạc. Kết tủa đỏ gạch Cu₂O là hiện tượng với Cu(OH)₂/NaOH; khí thoát ra và màu xanh lam không phải hiện tượng của phản ứng này.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng nhẹ dung dịch chất nào sau đây với Cu(OH)₂ trong môi trường NaOH thấy xuất hiện kết tủa đỏ gạch?",
+      "options": [
+        { "key": "A", "text": "HCHO." },
+        { "key": "B", "text": "CH₃COCH₃." },
+        { "key": "C", "text": "CH₃COOH." },
+        { "key": "D", "text": "C₂H₅OH." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhóm –CHO của aldehyde bị oxi hóa bởi Cu(OH)₂ khi đun nóng, Cu²⁺ bị khử thành Cu₂O kết tủa đỏ gạch; HCHO cho phản ứng này. Acetone là ketone nên không khử Cu(OH)₂ trong điều kiện đó; CH₃COOH chỉ hòa tan Cu(OH)₂ tạo dung dịch xanh lam, C₂H₅OH không phản ứng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Hiđro hóa hoàn toàn CH₃COCH₃ (xúc tác Ni, đun nóng) thu được sản phẩm là",
+      "options": [
+        { "key": "A", "text": "propan-2-ol." },
+        { "key": "B", "text": "propan-1-ol." },
+        { "key": "C", "text": "propanal." },
+        { "key": "D", "text": "propanoic acid." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ketone cộng H₂ vào liên kết C=O tạo alcohol bậc II, nên CH₃COCH₃ cho CH₃CH(OH)CH₃ (propan-2-ol). Propan-1-ol là alcohol bậc I, propanal và propanoic acid là sản phẩm oxi hóa chứ không phải sản phẩm khử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Oxi hóa CH₃CHO bằng nước bromine (Br₂/H₂O), sản phẩm hữu cơ thu được là",
+      "options": [
+        { "key": "A", "text": "CH₃COOH." },
+        { "key": "B", "text": "C₂H₅OH." },
+        { "key": "C", "text": "CH₃COCH₃." },
+        { "key": "D", "text": "HCOOH." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Aldehyde bị oxi hóa thành carboxylic acid có cùng số nguyên tử carbon: CH₃CHO + Br₂ + H₂O → CH₃COOH + 2HBr, đồng thời nước bromine mất màu. C₂H₅OH là sản phẩm khử, CH₃COCH₃ là ketone, HCOOH chỉ tạo ra từ HCHO.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol CH₃CHO cần vừa đủ số mol O₂ là",
+      "options": [
+        { "key": "A", "text": "0,15 mol." },
+        { "key": "B", "text": "0,20 mol." },
+        { "key": "C", "text": "0,25 mol." },
+        { "key": "D", "text": "0,50 mol." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phương trình: C₂H₄O + 5/2 O₂ → 2CO₂ + 2H₂O. Theo tỉ lệ 1 : 2,5, đốt 0,1 mol CH₃CHO cần 0,25 mol O₂. Các giá trị 0,15; 0,20 và 0,50 không tương ứng với hệ số cân bằng nào của phương trình.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 4,4 gam CH₃CHO tác dụng hoàn toàn với lượng dư dung dịch AgNO₃ trong NH₃, đun nóng. Khối lượng Ag thu được là",
+      "options": [
+        { "key": "A", "text": "10,8 gam." },
+        { "key": "B", "text": "21,6 gam." },
+        { "key": "C", "text": "32,4 gam." },
+        { "key": "D", "text": "43,2 gam." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(CH₃CHO) = 4,4 : 44 = 0,1 mol. Mỗi phân tử CH₃CHO khử 2 ion Ag⁺ (tỉ lệ 1 : 2) nên n(Ag) = 0,2 mol, m(Ag) = 0,2 × 108 = 21,6 gam. Các phương án còn lại ứng với tỉ lệ 1 : 1, 1 : 3 và 1 : 4, không đúng với aldehyde đơn chức.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Có ba lọ mất nhãn đựng riêng biệt CH₃CHO, CH₃COCH₃ và CH₃COOH. Cách nào sau đây phân biệt được cả ba chất?",
+      "options": [
+        { "key": "A", "text": "Dùng quỳ tím, sau đó dùng thuốc thử Tollens cho hai chất còn lại." },
+        { "key": "B", "text": "Dùng dung dịch NaHCO₃, chất nào có khí thoát ra là CH₃CHO." },
+        { "key": "C", "text": "Dùng thuốc thử Tollens, chất nào cho kết tủa đỏ gạch là CH₃COCH₃." },
+        { "key": "D", "text": "Dùng nước bromine, chất nào làm mất màu là CH₃COOH." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quỳ tím chuyển đỏ với CH₃COOH nên nhận ra acid; hai chất còn lại đem thử Tollens, lọ cho lớp bạc là CH₃CHO, lọ không phản ứng là CH₃COCH₃. Phương án B sai vì NaHCO₃ chỉ cho khí với acid; C sai vì Tollens cho bạc với aldehyde và không cho kết tủa đỏ gạch với ketone; D sai vì CH₃COOH không làm mất màu nước bromine.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi đốt cháy hoàn toàn một aldehyde no, đơn chức, mạch hở bất kì, sản phẩm cháy luôn có",
+      "options": [
+        { "key": "A", "text": "số mol CO₂ bằng số mol H₂O." },
+        { "key": "B", "text": "số mol CO₂ lớn hơn số mol H₂O." },
+        { "key": "C", "text": "số mol CO₂ nhỏ hơn số mol H₂O." },
+        { "key": "D", "text": "số mol CO₂ gấp hai lần số mol H₂O." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Aldehyde no, đơn chức, mạch hở có công thức CₙH₂ₙO, đốt cháy cho nCO₂ = nH₂O vì số nguyên tử H gấp đôi số nguyên tử C. Với hydrocarbon no thì CO₂ nhỏ hơn H₂O, còn alkyne lại cho CO₂ lớn hơn H₂O, nên B và C không đúng; D chỉ đúng với vài hợp chất cụ thể.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Dung dịch chất nào sau đây làm quỳ tím chuyển sang màu đỏ?",
+      "options": [
+        { "key": "A", "text": "CH₃COOH." },
+        { "key": "B", "text": "CH₃CHO." },
+        { "key": "C", "text": "CH₃COCH₃." },
+        { "key": "D", "text": "CH₃OH." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Carboxylic acid phân li cho H⁺ nên làm quỳ tím chuyển đỏ; CH₃COOH là acid yếu nhưng vẫn có tính acid rõ. Aldehyde, ketone và alcohol không phân li H⁺ nên không làm đổi màu quỳ tím.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhỏ từ từ dung dịch CH₃COOH vào ống nghiệm chứa dung dịch NaHCO₃, hiện tượng xảy ra là",
+      "options": [
+        { "key": "A", "text": "sủi bọt khí không màu." },
+        { "key": "B", "text": "xuất hiện kết tủa trắng." },
+        { "key": "C", "text": "xuất hiện kết tủa đỏ gạch." },
+        { "key": "D", "text": "không có hiện tượng gì." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CH₃COOH có tính acid mạnh hơn H₂CO₃ nên đẩy được CO₂ ra khỏi muối hydrogencarbonate: CH₃COOH + NaHCO₃ → CH₃COONa + CO₂↑ + H₂O, thấy bọt khí không màu. Phản ứng không tạo kết tủa nên B và C sai.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "CH₃COOH và C₂H₅OH đều có phân tử khối 60 nhưng CH₃COOH sôi ở 118 °C còn C₂H₅OH sôi ở 78 °C. Nguyên nhân chính là do",
+      "options": [
+        { "key": "A", "text": "hai phân tử CH₃COOH tạo được hai liên kết hydrogen với nhau thành dime bền." },
+        { "key": "B", "text": "CH₃COOH có khối lượng riêng lớn hơn C₂H₅OH." },
+        { "key": "C", "text": "CH₃COOH là acid nên bay hơi dễ hơn alcohol." },
+        { "key": "D", "text": "CH₃COOH không tan trong nước còn C₂H₅OH tan vô hạn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhóm –COOH chứa cả C=O và O–H nên mỗi phân tử acid tạo được hai liên kết hydrogen liên phân tử, hình thành dime làm nhiệt độ sôi tăng mạnh. Khối lượng riêng không quyết định nhiệt độ sôi; acid khó bay hơi hơn chứ không dễ hơn; cả hai chất đều tan tốt trong nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng hỗn hợp CH₃COOH và C₂H₅OH với xúc tác H₂SO₄ đặc, sản phẩm hữu cơ chính thu được là",
+      "options": [
+        { "key": "A", "text": "CH₃COOC₂H₅." },
+        { "key": "B", "text": "C₂H₅COOCH₃." },
+        { "key": "C", "text": "CH₃COCH₃." },
+        { "key": "D", "text": "CH₃CH₂COOH." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phản ứng ester hóa thay nhóm –OH của acid bằng nhóm –OC₂H₅: CH₃COOH + C₂H₅OH ⇌ (H₂SO₄ đặc, t°) CH₃COOC₂H₅ + H₂O. Đảo vai trò hai gốc sẽ được ester khác (B), còn C và D không phải sản phẩm của phản ứng này.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 6,0 gam CH₃COOH tác dụng hết với dung dịch NaHCO₃ dư. Thể tích khí CO₂ thoát ra ở điều kiện chuẩn là",
+      "options": [
+        { "key": "A", "text": "1,2395 lít." },
+        { "key": "B", "text": "2,479 lít." },
+        { "key": "C", "text": "4,958 lít." },
+        { "key": "D", "text": "24,79 lít." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(CH₃COOH) = 6,0 : 60 = 0,1 mol; theo phương trình tỉ lệ 1 : 1 nên n(CO₂) = 0,1 mol. Ở điều kiện chuẩn (25 °C, 1 bar), V = 0,1 × 24,79 = 2,479 lít. Các phương án khác sai do chia đôi, nhân đôi hoặc lấy sai thể tích mol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Để trung hòa hoàn toàn 50 mL dung dịch CH₃COOH cần 100 mL dung dịch NaOH 0,10 mol/L. Nồng độ mol/L của dung dịch CH₃COOH là",
+      "options": [
+        { "key": "A", "text": "0,05." },
+        { "key": "B", "text": "0,10." },
+        { "key": "C", "text": "0,20." },
+        { "key": "D", "text": "0,40." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "n(NaOH) = 0,100 × 0,10 = 0,01 mol. Phản ứng trung hòa theo tỉ lệ 1 : 1 nên n(CH₃COOH) = 0,01 mol, suy ra C = 0,01 : 0,05 = 0,20 mol/L. Phương án 0,10 lấy nhầm thể tích dung dịch NaOH thay cho thể tích dung dịch acid, còn 0,05 và 0,40 là chia đôi hoặc nhân đôi kết quả.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng 6,0 gam CH₃COOH với 4,6 gam C₂H₅OH (xúc tác H₂SO₄ đặc), thu được m gam ester với hiệu suất 60%. Giá trị của m là",
+      "options": [
+        { "key": "A", "text": "3,52." },
+        { "key": "B", "text": "4,40." },
+        { "key": "C", "text": "5,28." },
+        { "key": "D", "text": "8,80." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "n(CH₃COOH) = 0,1 mol, n(C₂H₅OH) = 0,1 mol nên phản ứng vừa đủ theo tỉ lệ 1 : 1. Khối lượng ester lý thuyết = 0,1 × 88 = 8,8 gam; hiệu suất 60% cho m = 8,8 × 0,6 = 5,28 gam. Phương án 8,80 bỏ qua hiệu suất, 4,40 và 3,52 dùng sai M hoặc sai hiệu suất.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp, acetic acid được tổng hợp từ methanol. Phương trình hóa học đúng của quá trình này là",
+      "options": [
+        { "key": "A", "text": "CH₃OH + CO → (t°, xt) CH₃COOH." },
+        { "key": "B", "text": "CH₃OH + CO₂ → CH₃COOH." },
+        { "key": "C", "text": "CH₃OH + H₂O → CH₃COOH + H₂." },
+        { "key": "D", "text": "2CH₃OH + O₂ → 2HCOOH + 2H₂." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phản ứng carbon hóa methanol cộng CO vào CH₃OH dưới tác dụng của xúc tác và nhiệt độ: CH₃OH + CO → CH₃COOH, cân bằng nguyên tố hai vế. Phương án B thừa một nguyên tử O, C và D không cân bằng nguyên tố hydrogen và oxygen.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây vừa làm quỳ tím chuyển đỏ, vừa tham gia phản ứng tráng bạc?",
+      "options": [
+        { "key": "A", "text": "HCOOH." },
+        { "key": "B", "text": "CH₃COOH." },
+        { "key": "C", "text": "CH₃CHO." },
+        { "key": "D", "text": "C₂H₅OH." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "HCOOH có nhóm –COOH nên làm quỳ tím chuyển đỏ, đồng thời trong phân tử còn nhóm –CHO nên tham gia phản ứng tráng bạc. CH₃COOH chỉ có tính acid, CH₃CHO chỉ tráng bạc, C₂H₅OH không có tính chất nào trong hai tính chất trên.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    },
+    {
+      "id": "de-hoa-11-bai-25-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-25",
+      "type": "SINGLE_CHOICE",
+      "content": "Dung dịch CH₃COOH tác dụng được với tất cả các chất trong dãy nào sau đây?",
+      "options": [
+        { "key": "A", "text": "NaOH, CaCO₃, Zn." },
+        { "key": "B", "text": "NaCl, Cu, CaCO₃." },
+        { "key": "C", "text": "NaOH, Cu, Na₂SO₄." },
+        { "key": "D", "text": "Na₂SO₄, Zn, CaCO₃." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tính acid của CH₃COOH thể hiện qua phản ứng với base (NaOH), với muối của acid yếu hơn (CaCO₃ giải phóng CO₂) và với kim loại đứng trước hydrogen (Zn giải phóng H₂). NaCl, Na₂SO₄ là muối của acid mạnh hơn nên không phản ứng; Cu đứng sau hydrogen nên không tác dụng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 25", "Ôn tập chương 6"]
+    }
+  ]
+}

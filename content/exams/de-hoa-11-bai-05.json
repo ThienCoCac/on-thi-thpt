@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-05",
+  "title": "Hóa học 11 – Bài 5. Sulfur và sulfur dioxide",
+  "slug": "de-hoa-11-bai-05",
+  "description": "20 câu trắc nghiệm bám sát Bài 5 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-05-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong tự nhiên, sulfur tồn tại ở dạng nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ ở dạng đơn chất, tập trung trong các mỏ sulfur." },
+        { "key": "B", "text": "Chỉ ở dạng hợp chất trong quặng sulfide và quặng sulfate." },
+        { "key": "C", "text": "Cả dạng đơn chất (mỏ sulfur) và dạng hợp chất (quặng sulfide, sulfate)." },
+        { "key": "D", "text": "Chỉ ở dạng hợp chất trong dầu mỏ và khí thiên nhiên." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sulfur gặp ở dạng đơn chất trong các mỏ sulfur và ở dạng hợp chất như FeS₂, ZnS, CaSO₄, nên cả hai dạng đều có trong tự nhiên. Các phương án chỉ nêu một dạng đều thiếu.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào đúng về tính chất vật lí của sulfur ở điều kiện thường?",
+      "options": [
+        { "key": "A", "text": "Chất rắn màu vàng, không tan trong nước, tan ít trong ethanol." },
+        { "key": "B", "text": "Chất lỏng màu vàng nhạt, tan nhiều trong nước." },
+        { "key": "C", "text": "Chất khí màu vàng lục, mùi hắc, nặng hơn không khí." },
+        { "key": "D", "text": "Chất rắn màu trắng, dễ tan trong nước và dẫn điện tốt." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sulfur là chất rắn màu vàng, không tan trong nước, tan ít trong ethanol và benzene, nóng chảy ở 113 °C. Sulfur không dẫn điện và không phải chất khí ở điều kiện thường.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Phân tử sulfur ở điều kiện thường có cấu tạo như thế nào?",
+      "options": [
+        { "key": "A", "text": "Hai nguyên tử S liên kết với nhau thành phân tử S₂ có dạng thẳng." },
+        { "key": "B", "text": "Tám nguyên tử S liên kết cộng hoá trị tạo vòng khép kín S₈." },
+        { "key": "C", "text": "Sáu nguyên tử S tạo vòng S₆ tương tự vòng của cyclohexane." },
+        { "key": "D", "text": "Mỗi nguyên tử S tồn tại độc lập như một khí hiếm." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phân tử sulfur ở điều kiện thường là S₈: tám nguyên tử S liên kết cộng hoá trị không phân cực tạo vòng khép kín, mạch không phải dạng thẳng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở điều kiện thường, sulfur dioxide là chất khí có đặc điểm nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Không màu, không mùi, nhẹ hơn không khí." },
+        { "key": "B", "text": "Màu nâu đỏ, mùi hắc, nhẹ hơn không khí." },
+        { "key": "C", "text": "Không màu, mùi trứng thối, nặng hơn không khí." },
+        { "key": "D", "text": "Không màu, mùi hắc, nặng hơn không khí, tan được trong nước." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "M(SO₂) = 64 > 29 nên SO₂ nặng hơn không khí; khí không màu, mùi hắc và tan trong nước. Mùi trứng thối là đặc trưng của H₂S, không phải SO₂.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Ứng dụng công nghiệp quan trọng nhất của sulfur là gì?",
+      "options": [
+        { "key": "A", "text": "Sản xuất gang, thép từ quặng hematite." },
+        { "key": "B", "text": "Làm chất chống cháy cho vật liệu xây dựng." },
+        { "key": "C", "text": "Sản xuất sulfuric acid, chiếm phần lớn lượng sulfur tiêu thụ." },
+        { "key": "D", "text": "Sản xuất khí đốt dùng trong đun nấu." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khoảng 90% sulfur khai thác được dùng để sản xuất H₂SO₄; phần còn lại dùng lưu hoá cao su, diệt nấm, chế tạo diêm. Sulfur không dùng làm nhiên liệu đốt hay chất chống cháy.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Sulfur dioxide thuộc loại oxide nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Oxide acid." },
+        { "key": "B", "text": "Oxide base." },
+        { "key": "C", "text": "Oxide lưỡng tính." },
+        { "key": "D", "text": "Oxide trung tính." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "SO₂ tác dụng với nước tạo acid yếu H₂SO₃ và tác dụng với dung dịch base tạo muối sulfite, nên là oxide acid. Oxide base là CaO, oxide lưỡng tính là Al₂O₃.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng 3,2 g sulfur với iron (sắt) dư cho đến khi phản ứng xảy ra hoàn toàn. Khối lượng iron(II) sulfide thu được là",
+      "options": [
+        { "key": "A", "text": "4,4 g." },
+        { "key": "B", "text": "8,8 g." },
+        { "key": "C", "text": "17,6 g." },
+        { "key": "D", "text": "6,4 g." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(S) = 3,2 : 32 = 0,1 mol; Fe + S → (t°) FeS nên n(FeS) = 0,1 mol; m = 0,1 × 88 = 8,8 g. Phương án 4,4 g là lấy sai M(FeS) = 44.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy sulfur trong khí oxygen dư, hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "Ngọn lửa màu vàng chói kèm khói trắng dày đặc." },
+        { "key": "B", "text": "Chất rắn chuyển dần sang màu nâu đỏ, không có ngọn lửa." },
+        { "key": "C", "text": "Ngọn lửa màu xanh mờ, khí có mùi hắc thoát ra." },
+        { "key": "D", "text": "Ngọn lửa màu tím, đồng thời có kết tủa vàng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "S + O₂ → (t°) SO₂: sulfur cháy với ngọn lửa xanh mờ, khí SO₂ sinh ra có mùi hắc. Khói trắng dày đặc là hiện tượng của phosphorus cháy trong oxygen.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Số oxi hoá của sulfur trong H₂S, SO₂ và H₂SO₄ lần lượt là",
+      "options": [
+        { "key": "A", "text": "–2; +2; +6." },
+        { "key": "B", "text": "–2; +4; +4." },
+        { "key": "C", "text": "+2; +4; +6." },
+        { "key": "D", "text": "–2; +4; +6." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trong H₂S: 2(+1) + x = 0 → x = –2; trong SO₂: x + 2(–2) = 0 → x = +4; trong H₂SO₄: 2(+1) + x + 4(–2) = 0 → x = +6.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phản ứng: 2SO₂ + O₂ ⇌ (V₂O₅, t°) 2SO₃. Trong phản ứng này, sulfur dioxide thể hiện tính chất nào?",
+      "options": [
+        { "key": "A", "text": "Tính khử, vì số oxi hoá của S tăng từ +4 lên +6." },
+        { "key": "B", "text": "Tính oxi hoá, vì số oxi hoá của S giảm từ +4 xuống +2." },
+        { "key": "C", "text": "Tính acid, vì SO₂ nhường proton cho O₂." },
+        { "key": "D", "text": "Không thể hiện tính oxi hoá – khử vì đây là phản ứng trao đổi." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong SO₂, S có số oxi hoá +4; trong SO₃ là +6. S nhường electron nên SO₂ là chất khử, O₂ là chất oxi hoá. Đây là phản ứng oxi hoá – khử, không phải trao đổi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Sục khí sulfur dioxide vào dung dịch hydrogen sulfide thấy xuất hiện kết tủa vàng. Trong phản ứng này, sulfur dioxide đóng vai trò",
+      "options": [
+        { "key": "A", "text": "chất khử, bị oxi hoá thành H₂SO₄." },
+        { "key": "B", "text": "chất oxi hoá, bị khử từ S(+4) về S(0)." },
+        { "key": "C", "text": "chất acid, làm dung dịch chuyển sang môi trường acid." },
+        { "key": "D", "text": "chất xúc tác cho phản ứng phân huỷ H₂S." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "SO₂ + 2H₂S → 3S↓ + 2H₂O. S trong SO₂ giảm từ +4 về 0 nên SO₂ là chất oxi hoá, còn H₂S (S từ –2 lên 0) là chất khử; kết tủa vàng là sulfur.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Hấp thụ hoàn toàn 0,1 mol sulfur dioxide vào dung dịch Ca(OH)₂ dư. Khối lượng kết tủa thu được là",
+      "options": [
+        { "key": "A", "text": "6 g." },
+        { "key": "B", "text": "24 g." },
+        { "key": "C", "text": "12 g." },
+        { "key": "D", "text": "8,4 g." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "SO₂ + Ca(OH)₂ → CaSO₃↓ + H₂O; base dư nên chỉ tạo muối trung hoà. n(CaSO₃) = 0,1 mol, M = 120 g/mol, m = 0,1 × 120 = 12 g.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Mưa acid được hình thành chủ yếu từ nguyên nhân nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Khí CO₂ và hơi nước có sẵn trong khí quyển." },
+        { "key": "B", "text": "Khí CH₄ và hơi nước do núi lửa phun ra." },
+        { "key": "C", "text": "Khí N₂ và O₂ phản ứng với nhau dưới tia chớp." },
+        { "key": "D", "text": "Khí SO₂ và NO₂ bị oxi hoá trong khí quyển rồi tan vào nước mưa." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "SO₂ bị oxi hoá thành SO₃ rồi thành H₂SO₄, NO₂ thành HNO₃; các acid này tan vào nước mưa làm pH giảm xuống dưới 5,6. CO₂ chỉ gây mưa acid rất nhẹ, không phải nguyên nhân chính.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi nhiệt kế thuỷ ngân bị vỡ, thuỷ ngân lỏng rơi vãi có thể được thu gom bằng cách rắc lên đó bột chất nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Bột sulfur." },
+        { "key": "B", "text": "Bột than gỗ." },
+        { "key": "C", "text": "Bột đá vôi." },
+        { "key": "D", "text": "Bột muối ăn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hg + S → HgS xảy ra ngay ở nhiệt độ thường, tạo chất rắn không bay hơi nên hạn chế hơi thuỷ ngân độc. Than, đá vôi, muối ăn không phản ứng với thuỷ ngân.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Sulfur dioxide được dùng để tẩy trắng giấy và bột giấy trong công nghiệp. Tính chất nào của SO₂ gây ra hiệu ứng này?",
+      "options": [
+        { "key": "A", "text": "Tính acid: SO₂ tạo H₂SO₃ hoà tan chất màu." },
+        { "key": "B", "text": "Tính khử: SO₂ khử chất màu thành dạng không màu." },
+        { "key": "C", "text": "Tính oxi hoá mạnh: SO₂ phá huỷ cấu trúc chất màu." },
+        { "key": "D", "text": "Khả năng thăng hoa: SO₂ cuốn chất màu bay theo khí." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tác dụng tẩy trắng của SO₂ là do tính khử, khử chất màu hữu cơ thành dạng không màu; màu có thể trở lại khi tiếp xúc với oxygen. SO₂ không có tính oxi hoá mạnh và không thăng hoa.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Sulfur có hai dạng thù hình chính, đó là",
+      "options": [
+        { "key": "A", "text": "sulfur tà phương và sulfur đơn tà." },
+        { "key": "B", "text": "sulfur tà phương và sulfur dẻo." },
+        { "key": "C", "text": "sulfur đơn tà và sulfur vô định hình." },
+        { "key": "D", "text": "sulfur S₈ và sulfur S₂." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai dạng thù hình của sulfur là sulfur tà phương (bền dưới 95,5 °C) và sulfur đơn tà (bền trên 95,5 °C); cả hai đều cấu tạo từ phân tử S₈ nhưng khác kiểu sắp xếp tinh thể.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy 6,4 g sulfur trong bình chứa oxygen, hiệu suất phản ứng đạt 80%. Khối lượng sulfur dioxide thu được là",
+      "options": [
+        { "key": "A", "text": "8,00 g." },
+        { "key": "B", "text": "12,80 g." },
+        { "key": "C", "text": "10,24 g." },
+        { "key": "D", "text": "6,40 g." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "n(S) = 6,4 : 32 = 0,2 mol; S + O₂ → SO₂ nên lượng SO₂ theo lí thuyết là 0,2 mol. Thực tế: 0,2 × 80% = 0,16 mol, m = 0,16 × 64 = 10,24 g. Phương án 12,80 g là quên nhân hiệu suất.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 1,6 g sulfur trong oxygen dư, hấp thụ toàn bộ khí sinh ra vào nước brom dư. Khối lượng sulfuric acid tạo thành là",
+      "options": [
+        { "key": "A", "text": "2,45 g." },
+        { "key": "B", "text": "9,80 g." },
+        { "key": "C", "text": "6,40 g." },
+        { "key": "D", "text": "4,90 g." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "n(S) = 1,6 : 32 = 0,05 mol → n(SO₂) = 0,05 mol. SO₂ + Br₂ + 2H₂O → H₂SO₄ + 2HBr nên n(H₂SO₄) = 0,05 mol; m = 0,05 × 98 = 4,90 g.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Nung nóng 4,8 g magnesium với sulfur dư. Hoà tan hoàn toàn chất rắn thu được vào dung dịch HCl dư, thể tích khí hydrogen sulfide sinh ra ở đktc là",
+      "options": [
+        { "key": "A", "text": "2,24 lít." },
+        { "key": "B", "text": "4,48 lít." },
+        { "key": "C", "text": "6,72 lít." },
+        { "key": "D", "text": "1,12 lít." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(Mg) = 4,8 : 24 = 0,2 mol; Mg + S → (t°) MgS nên n(MgS) = 0,2 mol. MgS + 2HCl → MgCl₂ + H₂S↑ cho n(H₂S) = 0,2 mol; V = 0,2 × 22,4 = 4,48 lít.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    },
+    {
+      "id": "de-hoa-11-bai-05-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-05",
+      "type": "SINGLE_CHOICE",
+      "content": "Sục 0,05 mol sulfur dioxide vào dung dịch chứa 0,08 mol NaOH. Cô cạn dung dịch sau phản ứng, khối lượng chất rắn khan thu được là",
+      "options": [
+        { "key": "A", "text": "3,78 g." },
+        { "key": "B", "text": "6,30 g." },
+        { "key": "C", "text": "5,20 g." },
+        { "key": "D", "text": "5,86 g." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tỉ lệ n(NaOH) : n(SO₂) = 1,6 nên tạo hai muối. Đặt x, y là số mol Na₂SO₃ và NaHSO₃: x + y = 0,05 và 2x + y = 0,08 → x = 0,03; y = 0,02. m = 0,03 × 126 + 0,02 × 104 = 3,78 + 2,08 = 5,86 g.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 5", "Sulfur"]
+    }
+  ]
+}

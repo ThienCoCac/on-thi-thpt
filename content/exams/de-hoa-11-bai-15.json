@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-15",
+  "title": "Hóa học 11 – Bài 15. Alkane",
+  "slug": "de-hoa-11-bai-15",
+  "description": "20 câu trắc nghiệm bám sát Bài 15 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-15-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức chung của alkane (hydrocarbon no, mạch hở) là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ (n ≥ 2)" },
+        { "key": "B", "text": "CₙH₂ₙ₊₂ (n ≥ 1)" },
+        { "key": "C", "text": "CₙH₂ₙ₋₂ (n ≥ 2)" },
+        { "key": "D", "text": "CₙH₂ₙ₊₂ (n ≥ 2)" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Alkane chỉ có liên kết đơn C–C và C–H nên số nguyên tử H bằng 2n + 2, ứng với CₙH₂ₙ₊₂. Vì CH₄ (n = 1) cũng là alkane nên điều kiện là n ≥ 1, không phải n ≥ 2. CₙH₂ₙ là công thức của alkene hoặc cycloalkane, CₙH₂ₙ₋₂ của alkyne hoặc alkadiene.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây thuộc dãy đồng đẳng của alkane?",
+      "options": [
+        { "key": "A", "text": "C₃H₆" },
+        { "key": "B", "text": "C₃H₈" },
+        { "key": "C", "text": "C₃H₄" },
+        { "key": "D", "text": "C₄H₈" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "C₃H₈ ứng với công thức CₙH₂ₙ₊₂ nên là alkane. C₃H₆ và C₄H₈ ứng với CₙH₂ₙ (alkene hoặc cycloalkane), C₃H₄ ứng với CₙH₂ₙ₋₂ (alkyne hoặc alkadiene).",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phân tử alkane, các nguyên tử carbon liên kết với nhau bằng",
+      "options": [
+        { "key": "A", "text": "một liên kết đôi C=C" },
+        { "key": "B", "text": "một liên kết ba C≡C" },
+        { "key": "C", "text": "liên kết đôi và liên kết đơn xen kẽ nhau" },
+        { "key": "D", "text": "chỉ liên kết đơn C–C" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Alkane là hydrocarbon no, mạch hở: mỗi nguyên tử carbon tạo bốn liên kết đơn σ (với C hoặc H), không có liên kết π nên không xuất hiện C=C hay C≡C.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở nhiệt độ thường, alkane có tính tan trong nước như thế nào?",
+      "options": [
+        { "key": "A", "text": "Tan tốt, tạo dung dịch đồng nhất" },
+        { "key": "B", "text": "Tan ít, dung dịch bị vẩn đục" },
+        { "key": "C", "text": "Hầu như không tan và nổi thành lớp phía trên mặt nước" },
+        { "key": "D", "text": "Chỉ tan khi đun nóng đến sôi" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phân tử alkane không phân cực, không tạo được liên kết hydrogen với nước nên hầu như không tan trong nước; khối lượng riêng nhỏ hơn nước nên lớp alkane nổi phía trên.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong dãy đồng đẳng của alkane, hai chất liền kề nhau hơn kém nhau",
+      "options": [
+        { "key": "A", "text": "một nhóm CH₂" },
+        { "key": "B", "text": "một nguyên tử carbon" },
+        { "key": "C", "text": "một nhóm CH₃" },
+        { "key": "D", "text": "hai nhóm CH₂" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dãy CH₄, C₂H₆, C₃H₈, C₄H₁₀,... lập thành cấp số cộng với công sai là nhóm CH₂, tức hơn kém nhau 14 đơn vị khối lượng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Dưới tác dụng của ánh sáng, alkane phản ứng với chlorine theo kiểu",
+      "options": [
+        { "key": "A", "text": "cộng" },
+        { "key": "B", "text": "tách" },
+        { "key": "C", "text": "trùng hợp" },
+        { "key": "D", "text": "thế" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ánh sáng phân cắt Cl₂ thành nguyên tử Cl, nguyên tử này thay thế nguyên tử H trong alkane: CH₄ + Cl₂ → (ánh sáng) CH₃Cl + HCl. Alkane không có liên kết π nên không cộng và không trùng hợp.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của CH₃–CH(CH₃)–CH₂–CH₃ là",
+      "options": [
+        { "key": "A", "text": "2-metylpropan" },
+        { "key": "B", "text": "3-metylbutan" },
+        { "key": "C", "text": "2-metylbutan" },
+        { "key": "D", "text": "pentan" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mạch carbon dài nhất có 4 nguyên tử C nên tên mạch chính là butan; đánh số từ phía gần nhánh hơn thì nhánh metyl nằm ở C2, được 2-metylbutan. Đánh số từ đầu kia cho 3-metylbutan là vi phạm quy tắc chọn số chỉ vị trí nhỏ nhất.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đồng phân cấu tạo của C₅H₁₂ là",
+      "options": [
+        { "key": "A", "text": "2" },
+        { "key": "B", "text": "3" },
+        { "key": "C", "text": "4" },
+        { "key": "D", "text": "5" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "C₅H₁₂ có ba đồng phân cấu tạo: pentan (mạch thẳng), 2-metylbutan (mạch nhánh một nhóm CH₃) và 2,2-đimetylpropan (mạch nhánh hai nhóm CH₃).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 2,2-đimetylpropan tác dụng với Cl₂ theo tỉ lệ mol 1 : 1, chiếu sáng. Số dẫn xuất monoclo tối đa thu được là",
+      "options": [
+        { "key": "A", "text": "1" },
+        { "key": "B", "text": "2" },
+        { "key": "C", "text": "3" },
+        { "key": "D", "text": "4" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "2,2-đimetylpropan là C(CH₃)₄: bốn nhóm CH₃ hoàn toàn tương đương nên phân tử chỉ có một loại nguyên tử H, do đó chỉ tạo một dẫn xuất monoclo là C(CH₃)₃CH₂Cl.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho ba alkane cùng công thức phân tử C₅H₁₂: pentan (1), 2-metylbutan (2), 2,2-đimetylpropan (3). Chiều giảm nhiệt độ sôi là",
+      "options": [
+        { "key": "A", "text": "3 > 2 > 1" },
+        { "key": "B", "text": "2 > 1 > 3" },
+        { "key": "C", "text": "1 > 2 > 3" },
+        { "key": "D", "text": "1 = 2 = 3" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ba chất là đồng phân nên khối lượng phân tử bằng nhau; mạch càng phân nhánh thì diện tích bề mặt tiếp xúc giữa các phân tử càng nhỏ, lực hút van der Waals yếu, nhiệt độ sôi giảm dần: pentan > 2-metylbutan > 2,2-đimetylpropan.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Cracking butane (C₄H₁₀) có thể cho cặp sản phẩm nào sau đây?",
+      "options": [
+        { "key": "A", "text": "CH₄ và C₃H₈" },
+        { "key": "B", "text": "C₂H₆ và C₃H₆" },
+        { "key": "C", "text": "C₂H₄ và C₃H₈" },
+        { "key": "D", "text": "CH₄ và C₃H₆" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cracking bẻ gãy liên kết C–C tạo một alkane nhỏ và một alkene: C₄H₁₀ → (t°, xúc tác) CH₄ + C₃H₆ hoặc C₂H₆ + C₂H₄. Phương án A và C cho tổng thành C₄H₁₂ (thừa H), phương án B cho tổng thành C₅H₁₂ (thừa C).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Mục đích chính của quá trình reforming alkane là",
+      "options": [
+        { "key": "A", "text": "tăng số nguyên tử carbon trong phân tử" },
+        { "key": "B", "text": "chuyển alkane mạch không phân nhánh thành mạch phân nhánh, nâng cao chỉ số octane của xăng" },
+        { "key": "C", "text": "chuyển alkane thành alkene để trùng hợp" },
+        { "key": "D", "text": "loại bỏ lưu huỳnh khỏi nhiên liệu" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Reforming sắp xếp lại mạch carbon (đồng phân hoá) ở nhiệt độ, áp suất cao có xúc tác, không thêm bớt nguyên tử C. Alkane mạch nhánh cháy êm hơn nên chỉ số octane cao hơn; tách H₂ tạo alkene thuộc phản ứng tách, khử lưu huỳnh là quá trình khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn a mol một alkane thu được x mol CO₂ và y mol H₂O. Hệ thức liên hệ đúng là",
+      "options": [
+        { "key": "A", "text": "x = y" },
+        { "key": "B", "text": "y = x + 2a" },
+        { "key": "C", "text": "y − x = a" },
+        { "key": "D", "text": "x − y = a" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "CₙH₂ₙ₊₂ + (3n + 1)/2 O₂ → n CO₂ + (n + 1) H₂O. Với a mol alkane: x = na, y = (n + 1)a nên y − x = a, tức số mol H₂O luôn lớn hơn số mol CO₂ đúng bằng số mol alkane.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol alkane X thu được 0,3 mol CO₂. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₃H₈" },
+        { "key": "B", "text": "C₂H₆" },
+        { "key": "C", "text": "C₄H₁₀" },
+        { "key": "D", "text": "CH₄" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo toàn carbon: số C = 0,3/0,1 = 3 nên X là C₃H₈. C₂H₆ chỉ cho 0,2 mol CO₂, C₄H₁₀ cho 0,4 mol, CH₄ cho 0,1 mol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Khí thiên nhiên khai thác từ các mỏ khí có thành phần chính là",
+      "options": [
+        { "key": "A", "text": "methane" },
+        { "key": "B", "text": "ethane" },
+        { "key": "C", "text": "propane" },
+        { "key": "D", "text": "butane" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khí thiên nhiên và khí đồng hành (khai thác cùng dầu mỏ) đều chứa chủ yếu methane, thường chiếm trên 80% thể tích; ethane, propane, butane, CO₂, N₂ chỉ là thành phần nhỏ nên không phải thành phần chính.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về ứng dụng của alkane?",
+      "options": [
+        { "key": "A", "text": "Trùng hợp trực tiếp để sản xuất polyethylene, polypropylene" },
+        { "key": "B", "text": "Dùng làm chất tẩy màu dung dịch bromine trong phòng thí nghiệm" },
+        { "key": "C", "text": "Cộng nước tạo thành alcohol dùng làm nhiên liệu" },
+        { "key": "D", "text": "Dùng làm nhiên liệu (gas, xăng, dầu hoả) và làm dung môi hoà tan nhiều chất hữu cơ" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Alkane cháy toả nhiều nhiệt nên là nhiên liệu chính (gas, xăng, dầu hoả, dầu diesel); phân tử không phân cực nên hoà tan tốt các chất hữu cơ, được dùng làm dung môi. Alkane không có liên kết π nên không trùng hợp, không cộng nước và không làm mất màu nước bromine; polyethylene, polypropylene được tạo ra từ alkene.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn hỗn hợp gồm CH₄ và C₂H₆ thu được 0,3 mol CO₂ và 0,5 mol H₂O. Số mol CH₄ và C₂H₆ trong hỗn hợp lần lượt là",
+      "options": [
+        { "key": "A", "text": "0,1 mol và 0,1 mol" },
+        { "key": "B", "text": "0,15 mol và 0,05 mol" },
+        { "key": "C", "text": "0,05 mol và 0,15 mol" },
+        { "key": "D", "text": "0,08 mol và 0,12 mol" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tổng số mol alkane = nH₂O − nCO₂ = 0,5 − 0,3 = 0,2 mol. Gọi x, y là số mol CH₄, C₂H₆: x + y = 0,2 và x + 2y = 0,3, suy ra x = y = 0,1. Kiểm tra lại: nH₂O = 2x + 3y = 0,2 + 0,3 = 0,5 mol, đúng với dữ kiện; các phương án còn lại đều cho số mol CO₂ hoặc H₂O khác 0,3 và 0,5.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Một alkane X có thành phần khối lượng carbon bằng 83,33%. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₃H₈" },
+        { "key": "B", "text": "C₄H₁₀" },
+        { "key": "C", "text": "C₅H₁₂" },
+        { "key": "D", "text": "C₆H₁₄" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với CₙH₂ₙ₊₂: 12n/(14n + 2) = 0,8333 → 12n = 11,666n + 1,6666 → n = 5, vậy X là C₅H₁₂ (kiểm tra: 60/72 = 83,33%). C₄H₁₀ chỉ đạt 82,76% còn C₆H₁₄ là 83,72%.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 2,9 gam alkane X thu được 4,48 lít CO₂ (đktc). Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₂H₆" },
+        { "key": "B", "text": "C₃H₈" },
+        { "key": "C", "text": "C₅H₁₂" },
+        { "key": "D", "text": "C₄H₁₀" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "nCO₂ = 4,48/22,4 = 0,2 mol. Với CₙH₂ₙ₊₂: nX = 2,9/(14n + 2) và n·nX = 0,2 → 2,9n = 2,8n + 0,4 → n = 4. Thử lại C₄H₁₀: M = 58 g/mol, 2,9 g ứng 0,05 mol, cháy cho 0,05.4 = 0,2 mol CO₂, phù hợp.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    },
+    {
+      "id": "de-hoa-11-bai-15-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-15",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 1 lít hỗn hợp gồm CH₄ và C₂H₆ (thể tích các khí đo ở cùng điều kiện) cần vừa đủ 2,75 lít O₂. Phần trăm thể tích của CH₄ trong hỗn hợp là",
+      "options": [
+        { "key": "A", "text": "25%" },
+        { "key": "B", "text": "50%" },
+        { "key": "C", "text": "60%" },
+        { "key": "D", "text": "75%" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gọi x, y là thể tích CH₄, C₂H₆: x + y = 1 và 2x + 3,5y = 2,75 → y = 0,5; x = 0,5. Kiểm tra: 0,5 lít CH₄ cần 1 lít O₂, 0,5 lít C₂H₆ cần 1,75 lít O₂, tổng 2,75 lít. Vậy CH₄ chiếm 50% thể tích.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 15", "Alkane"]
+    }
+  ]
+}

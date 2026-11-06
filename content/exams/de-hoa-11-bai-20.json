@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-20",
+  "title": "Hóa học 11 – Bài 20. Alcohol",
+  "slug": "de-hoa-11-bai-20",
+  "description": "20 câu trắc nghiệm bám sát Bài 20 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-20-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức chung của alcohol no, đơn chức, mạch hở là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ₊₁OH (n ≥ 1)" },
+        { "key": "B", "text": "CₙH₂ₙ₋₁OH (n ≥ 2)" },
+        { "key": "C", "text": "CₙH₂ₙ(OH)₂ (n ≥ 2)" },
+        { "key": "D", "text": "CₙH₂ₙ₊₂O (n ≥ 1)" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Alcohol no, đơn chức, mạch hở gồm gốc alkyl no CₙH₂ₙ₊₁ gắn với một nhóm –OH, phân tử nhỏ nhất là CH₃OH (n = 1). CₙH₂ₙ₋₁OH ứng với alcohol không no hoặc alcohol thơm, còn CₙH₂ₙ(OH)₂ là alcohol hai chức.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Alcohol là hợp chất hữu cơ mà trong phân tử có",
+      "options": [
+        { "key": "A", "text": "nhóm –OH liên kết trực tiếp với nguyên tử carbon no." },
+        { "key": "B", "text": "nhóm –OH liên kết trực tiếp với nguyên tử carbon của vòng benzene." },
+        { "key": "C", "text": "nhóm –CHO liên kết với gốc hydrocarbon." },
+        { "key": "D", "text": "nguyên tử oxygen liên kết với hai gốc hydrocarbon." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Alcohol có nhóm –OH gắn trực tiếp vào nguyên tử carbon no. Nhóm –OH gắn vào vòng benzene thuộc về phenol, nhóm –CHO là đặc trưng của aldehyde, còn nguyên tử oxygen nối hai gốc hydrocarbon là ether.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Alcohol nào sau đây là alcohol bậc II?",
+      "options": [
+        { "key": "A", "text": "propan-1-ol" },
+        { "key": "B", "text": "propan-2-ol" },
+        { "key": "C", "text": "2-methylpropan-1-ol" },
+        { "key": "D", "text": "2-methylpropan-2-ol" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bậc alcohol là bậc của nguyên tử carbon mang nhóm –OH. Trong propan-2-ol, CH₃–CH(OH)–CH₃, carbon mang OH liên kết với hai nguyên tử carbon khác nên là bậc II. Propan-1-ol và 2-methylpropan-1-ol là bậc I, còn 2-methylpropan-2-ol là bậc III.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của hợp chất CH₃–CH₂–CH₂OH là",
+      "options": [
+        { "key": "A", "text": "propan-1-ol" },
+        { "key": "B", "text": "propan-2-ol" },
+        { "key": "C", "text": "propanal" },
+        { "key": "D", "text": "propane-1,2-diol" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mạch chính có ba carbon, đánh số từ phía gần nhóm –OH nên nhóm OH nằm ở carbon số 1, tên là propan-1-ol. Propan-2-ol ứng với CH₃CH(OH)CH₃, propanal là CH₃CH₂CHO (nhóm –CHO), propane-1,2-diol có hai nhóm OH.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Ethanol tan vô hạn trong nước chủ yếu do",
+      "options": [
+        { "key": "A", "text": "phân tử ethanol tạo được liên kết hydrogen với phân tử nước." },
+        { "key": "B", "text": "ethanol có khối lượng phân tử nhỏ hơn nước." },
+        { "key": "C", "text": "ethanol là hợp chất hữu cơ nên tan được trong mọi dung môi." },
+        { "key": "D", "text": "ethanol phản ứng hoá học với nước tạo dung dịch." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhóm –OH của ethanol vừa cho vừa nhận liên kết hydrogen với H₂O nên hai chất trộn lẫn vô hạn. Khối lượng phân tử nhỏ không quyết định tính tan; các alcohol mạch carbon dài hơn chỉ tan hạn chế vì phần gốc hydrocarbon kị nước tăng lên, và ethanol không phản ứng hoá học với nước.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho một mẩu sodium vào ống nghiệm đựng ethanol khan, hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "sodium tan dần, có khí không màu thoát ra." },
+        { "key": "B", "text": "có kết tủa trắng xuất hiện." },
+        { "key": "C", "text": "có khí màu vàng lục thoát ra." },
+        { "key": "D", "text": "không có hiện tượng gì." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phản ứng 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑ xảy ra êm hơn so với khi cho Na vào nước: sodium tan dần và giải phóng khí hydrogen không màu. Sodium ethoxide sinh ra tan trong ethanol nên không có kết tủa; khí màu vàng lục là chlorine, không xuất hiện ở đây.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Ethanol và dimethyl ether (CH₃–O–CH₃) đều có công thức phân tử C₂H₆O, M = 46 g/mol, nhưng ethanol sôi ở 78,3 °C còn dimethyl ether sôi ở –24 °C. Nguyên nhân là",
+      "options": [
+        { "key": "A", "text": "các phân tử ethanol tạo được liên kết hydrogen với nhau, dimethyl ether thì không." },
+        { "key": "B", "text": "dimethyl ether là phân tử không phân cực nên không có tương tác giữa các phân tử." },
+        { "key": "C", "text": "ethanol có nhiều nguyên tử hydrogen hơn dimethyl ether." },
+        { "key": "D", "text": "ethanol có khối lượng phân tử lớn hơn dimethyl ether." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ethanol có nhóm –OH nên giữa các phân tử hình thành liên kết hydrogen, cần nhiều năng lượng hơn để hoá hơi, do đó nhiệt độ sôi cao hơn hẳn. Dimethyl ether vẫn phân cực nhưng không có nguyên tử H linh động gắn với oxygen nên không tạo liên kết hydrogen; hai chất có cùng số nguyên tử H và cùng khối lượng phân tử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đồng phân alcohol bậc I ứng với công thức phân tử C₄H₉OH là",
+      "options": [
+        { "key": "A", "text": "1" },
+        { "key": "B", "text": "2" },
+        { "key": "C", "text": "3" },
+        { "key": "D", "text": "4" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "C₄H₉OH có 4 đồng phân alcohol: butan-1-ol và 2-methylpropan-1-ol (nhóm OH ở carbon bậc I), butan-2-ol (bậc II) và 2-methylpropan-2-ol (bậc III). Như vậy chỉ có 2 đồng phân bậc I, còn 4 là tổng số đồng phân.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng ethanol với sulfuric acid đặc ở 140 °C, sản phẩm hữu cơ chính thu được là",
+      "options": [
+        { "key": "A", "text": "ethene" },
+        { "key": "B", "text": "diethyl ether" },
+        { "key": "C", "text": "ethanal" },
+        { "key": "D", "text": "ethyl acetate" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ở 140 °C xảy ra phản ứng tạo ether: 2C₂H₅OH → (H₂SO₄ đặc, 140 °C) C₂H₅–O–C₂H₅ + H₂O. Phản ứng tách nước tạo ethene cần nhiệt độ cao hơn (170 °C); ethanal là sản phẩm oxi hoá bởi CuO, ethyl acetate là ester tạo với acetic acid.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng ethanol với sulfuric acid đặc ở 170 °C, sản phẩm hữu cơ chính thu được là",
+      "options": [
+        { "key": "A", "text": "ethene" },
+        { "key": "B", "text": "diethyl ether" },
+        { "key": "C", "text": "ethane" },
+        { "key": "D", "text": "ethanal" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ở 170 °C, sulfuric acid đặc xúc tác cho phản ứng tách nước: C₂H₅OH → (H₂SO₄ đặc, 170 °C) CH₂=CH₂↑ + H₂O. Ở 140 °C mới thu được diethyl ether; ethane và ethanal không tạo thành trong điều kiện này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho acetic acid tác dụng với ethanol (xúc tác H₂SO₄ đặc, đun nóng), sản phẩm hữu cơ thu được là",
+      "options": [
+        { "key": "A", "text": "CH₃COOC₂H₅" },
+        { "key": "B", "text": "C₂H₅OC₂H₅" },
+        { "key": "C", "text": "CH₃COOCH₃" },
+        { "key": "D", "text": "CH₃CH₂COOCH₃" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phản ứng ester hoá: CH₃COOH + C₂H₅OH ⇌ (H₂SO₄ đặc, t°) CH₃COOC₂H₅ + H₂O, sản phẩm là ethyl acetate. C₂H₅OC₂H₅ là ether sinh ra khi đun riêng ethanol ở 140 °C, còn CH₃COOCH₃ là methyl acetate tạo từ methanol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng ethanol với copper(II) oxide (CuO), sản phẩm hữu cơ thu được là",
+      "options": [
+        { "key": "A", "text": "CH₃CHO" },
+        { "key": "B", "text": "CH₃COOH" },
+        { "key": "C", "text": "CH₂=CH₂" },
+        { "key": "D", "text": "CH₃COCH₃" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Alcohol bậc I bị CuO nung nóng oxi hoá thành aldehyde: C₂H₅OH + CuO → (t°) CH₃CHO + Cu + H₂O, CuO màu đen chuyển thành Cu màu đỏ. CH₃COOH cần tác nhân oxi hoá mạnh hơn, CH₃COCH₃ là ketone chỉ tạo từ alcohol bậc II, còn CH₂=CH₂ là sản phẩm tách nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Alcohol nào sau đây khi bị oxi hoá bởi CuO, đun nóng, tạo ra ketone?",
+      "options": [
+        { "key": "A", "text": "propan-1-ol" },
+        { "key": "B", "text": "propan-2-ol" },
+        { "key": "C", "text": "ethanol" },
+        { "key": "D", "text": "methanol" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chỉ alcohol bậc II mới bị oxi hoá thành ketone: CH₃–CH(OH)–CH₃ + CuO → (t°) CH₃–CO–CH₃ + Cu + H₂O. Propan-1-ol, ethanol và methanol đều là alcohol bậc I nên cho aldehyde (propanal, ethanal, formaldehyde).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp, ethanol được điều chế từ ethene bằng phản ứng",
+      "options": [
+        { "key": "A", "text": "trùng hợp ethene." },
+        { "key": "B", "text": "hydrat hoá ethene (cộng nước) với xúc tác acid." },
+        { "key": "C", "text": "oxi hoá ethene bằng oxygen." },
+        { "key": "D", "text": "lên men ethene." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "C₂H₄ + H₂O ⇌ (H⁺, t°) C₂H₅OH: ethene cộng nước tạo ethanol. Trùng hợp ethene cho polyethylene, oxi hoá ethene cho ethanal hoặc CO₂ tuỳ điều kiện, còn lên men chỉ áp dụng cho glucose chứ không áp dụng cho ethene.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Ứng dụng nào sau đây không phải của ethanol?",
+      "options": [
+        { "key": "A", "text": "Làm dung môi pha sơn, nước hoa." },
+        { "key": "B", "text": "Làm nhiên liệu, pha vào xăng." },
+        { "key": "C", "text": "Sát trùng dụng cụ y tế bằng cồn 70–75°." },
+        { "key": "D", "text": "Làm chất làm lạnh trong tủ lạnh." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ethanol được dùng làm dung môi, nhiên liệu, chất sát trùng và nguyên liệu tổng hợp acetic acid, ester... Chất làm lạnh trong tủ lạnh là các dẫn xuất halogen như CF₂Cl₂ chứ không phải ethanol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Methanol rất độc, khi vào cơ thể có thể gây tổn thương thần kinh thị giác, dẫn tới mù hoặc tử vong vì methanol",
+      "options": [
+        { "key": "A", "text": "bị chuyển hoá thành formaldehyde và formic acid, hai chất rất độc." },
+        { "key": "B", "text": "bị chuyển hoá thành ethanol nên gây say nặng." },
+        { "key": "C", "text": "bay hơi quá nhanh làm lạnh cơ thể." },
+        { "key": "D", "text": "phản ứng với nước tạo khí độc." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong gan, methanol bị oxi hoá thành formaldehyde (HCHO) rồi thành formic acid (HCOOH); hai chất này ức chế hô hấp tế bào và gây tổn thương thần kinh, đặc biệt là dây thần kinh thị giác. Methanol không chuyển hoá thành ethanol và không phản ứng với nước tạo khí độc.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol alcohol X no, đơn chức, mạch hở thu được 0,3 mol CO₂. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "CH₄O" },
+        { "key": "B", "text": "C₂H₆O" },
+        { "key": "C", "text": "C₃H₈O" },
+        { "key": "D", "text": "C₄H₁₀O" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Số nguyên tử C trong X = n(CO₂) : n(X) = 0,3 : 0,1 = 3. Với alcohol no, đơn chức, mạch hở, công thức là C₃H₈O (propan-1-ol hoặc propan-2-ol). CH₄O, C₂H₆O, C₄H₁₀O sẽ cho 0,1 ; 0,2 ; 0,4 mol CO₂.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Lên men 360 gam glucose với hiệu suất 80%, khối lượng ethanol thu được là",
+      "options": [
+        { "key": "A", "text": "92 gam" },
+        { "key": "B", "text": "147,2 gam" },
+        { "key": "C", "text": "184 gam" },
+        { "key": "D", "text": "230 gam" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phương trình C₆H₁₂O₆ → (enzyme) 2C₂H₅OH + 2CO₂. Số mol glucose = 360 : 180 = 2 mol nên lí thuyết thu 4 mol C₂H₅OH, tức 4 × 46 = 184 gam. Với hiệu suất 80%: m = 184 × 0,8 = 147,2 gam; giá trị 184 gam là khi bỏ qua hiệu suất.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 4,6 gam ethanol tác dụng hết với sodium dư. Thể tích khí hydrogen thu được ở điều kiện chuẩn (24,79 L/mol) là",
+      "options": [
+        { "key": "A", "text": "0,56 lít" },
+        { "key": "B", "text": "1,24 lít" },
+        { "key": "C", "text": "2,48 lít" },
+        { "key": "D", "text": "4,96 lít" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Số mol C₂H₅OH = 4,6 : 46 = 0,1 mol. Phương trình 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑ cho n(H₂) = 0,05 mol, V = 0,05 × 24,79 ≈ 1,24 lít. Giá trị 2,48 lít ứng với việc lấy sai n(H₂) = 0,1 mol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    },
+    {
+      "id": "de-hoa-11-bai-20-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-20",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng hỗn hợp methanol và ethanol với sulfuric acid đặc ở 140 °C. Số ether tối đa có thể tạo thành là",
+      "options": [
+        { "key": "A", "text": "1" },
+        { "key": "B", "text": "2" },
+        { "key": "C", "text": "3" },
+        { "key": "D", "text": "4" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mỗi phân tử ether được tạo từ hai phân tử alcohol, hai phân tử này có thể cùng loại hoặc khác loại: CH₃–O–CH₃, C₂H₅–O–C₂H₅ và CH₃–O–C₂H₅. Như vậy tối đa có 3 ether.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 20", "Alcohol"]
+    }
+  ]
+}

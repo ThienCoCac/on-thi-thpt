@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-23",
+  "title": "Hóa học 11 – Bài 23. Hợp chất carbonyl",
+  "slug": "de-hoa-11-bai-23",
+  "description": "20 câu trắc nghiệm bám sát Bài 23 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-23-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Hợp chất carbonyl là hợp chất hữu cơ mà phân tử có chứa",
+      "options": [
+        { "key": "A", "text": "nhóm –OH" },
+        { "key": "B", "text": "nhóm –CHO" },
+        { "key": "C", "text": "nhóm >C=O" },
+        { "key": "D", "text": "nhóm –COOH" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hợp chất carbonyl gồm aldehyde (nhóm –CHO) và ketone (nhóm >C=O), điểm chung là nhóm carbonyl >C=O nên định nghĩa dựa vào nhóm này. –OH là nhóm của alcohol, –COOH là nhóm của carboxylic acid.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây thuộc loại ketone?",
+      "options": [
+        { "key": "A", "text": "HCHO" },
+        { "key": "B", "text": "CH₃CHO" },
+        { "key": "C", "text": "CH₃COOH" },
+        { "key": "D", "text": "CH₃COCH₃" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ketone có nhóm >C=O liên kết với hai gốc hydrocarbon; CH₃COCH₃ (propanone) thoả mãn. HCHO và CH₃CHO có nhóm –CHO nên là aldehyde, CH₃COOH là carboxylic acid.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của hợp chất CH₃CHO là",
+      "options": [
+        { "key": "A", "text": "methanal" },
+        { "key": "B", "text": "ethanal" },
+        { "key": "C", "text": "propanal" },
+        { "key": "D", "text": "ethanone" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mạch chính có 2 nguyên tử carbon và có nhóm –CHO nên tên gồm phần hydrocarbon eth + đuôi al: ethanal. Methanal là HCHO (1 C), propanal là CH₃CH₂CHO (3 C); ethanone không tồn tại vì ketone phải có ít nhất 3 nguyên tử carbon.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở điều kiện thường, formaldehyde (HCHO) tồn tại ở thể",
+      "options": [
+        { "key": "A", "text": "khí" },
+        { "key": "B", "text": "lỏng" },
+        { "key": "C", "text": "rắn" },
+        { "key": "D", "text": "keo" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Formaldehyde là chất khí ở điều kiện thường (sôi ở khoảng –19 °C) và có mùi xốc. Trong thực tế chất này thường được dùng ở dạng dung dịch nước gọi là formalin, nhưng bản thân HCHO không phải chất lỏng hay chất rắn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Aldehyde no, đơn chức, mạch hở có công thức chung là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ₋₁CHO (n ≥ 1)" },
+        { "key": "B", "text": "CₙH₂ₙO (n ≥ 3)" },
+        { "key": "C", "text": "CₙH₂ₙ₊₁CHO (n ≥ 0)" },
+        { "key": "D", "text": "CₙH₂ₙ₊₂O (n ≥ 1)" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Aldehyde no, đơn chức, mạch hở tương ứng với alkane bị thay một nguyên tử H bằng nhóm –CHO nên có dạng CₙH₂ₙ₊₁CHO, nhỏ nhất là HCHO (n = 0). CₙH₂ₙO là công thức của ketone no, đơn chức, mạch hở (n ≥ 3); CₙH₂ₙ₋₁CHO là aldehyde không no.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Acetone (propanone) được sử dụng phổ biến làm",
+      "options": [
+        { "key": "A", "text": "chất bảo quản thực phẩm" },
+        { "key": "B", "text": "nhiên liệu cho động cơ ô tô" },
+        { "key": "C", "text": "nguyên liệu sản xuất phân đạm" },
+        { "key": "D", "text": "dung môi trong sản xuất sơn, tơ, nhựa" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Acetone hoà tan được nhiều chất hữu cơ và bay hơi nhanh nên được dùng làm dung môi cho sơn, tơ, nhựa, keo dán. Acetone không dùng bảo quản thực phẩm, không làm nhiên liệu động cơ và không phải nguyên liệu phân đạm.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là đồng phân của propanal?",
+      "options": [
+        { "key": "A", "text": "propanone" },
+        { "key": "B", "text": "propan-1-ol" },
+        { "key": "C", "text": "propanoic acid" },
+        { "key": "D", "text": "propane" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Propanal CH₃CH₂CHO có công thức phân tử C₃H₆O; propanone CH₃COCH₃ cũng là C₃H₆O nên hai chất là đồng phân của nhau. Propan-1-ol là C₃H₈O, propanoic acid là C₃H₆O₂, propane là C₃H₈ — khác công thức phân tử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiệt độ sôi của ethanal cao hơn nhiều so với ethane (hai chất có cùng số nguyên tử carbon) chủ yếu là do",
+      "options": [
+        { "key": "A", "text": "khối lượng phân tử của ethanal lớn hơn hẳn" },
+        { "key": "B", "text": "phân tử ethanal phân cực nên có tương tác lưỡng cực giữa các phân tử" },
+        { "key": "C", "text": "ethanal tạo được liên kết hydrogen liên phân tử" },
+        { "key": "D", "text": "liên kết đôi C=O bền hơn liên kết đơn C–C" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhóm C=O phân cực mạnh làm xuất hiện tương tác lưỡng cực giữa các phân tử ethanal nên nhiệt độ sôi cao hơn hydrocarbon cùng số carbon. Ethanal không có hydrogen linh động gắn với O nên không tạo liên kết hydrogen liên phân tử; khối lượng hai chất chỉ chênh nhau 14 g/mol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây không đúng về hợp chất carbonyl?",
+      "options": [
+        { "key": "A", "text": "Propanone là chất lỏng ở điều kiện thường." },
+        { "key": "B", "text": "Acetone tan tốt trong nước." },
+        { "key": "C", "text": "Các hợp chất carbonyl tạo được liên kết hydrogen với nhau nên có nhiệt độ sôi cao hơn alcohol cùng số carbon." },
+        { "key": "D", "text": "Nhiệt độ sôi của ethanal thấp hơn của ethanol." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phân tử aldehyde, ketone không có nhóm –OH nên không tạo liên kết hydrogen với nhau, vì vậy nhiệt độ sôi thấp hơn alcohol cùng số carbon. Ba phát biểu còn lại đúng: propanone là chất lỏng, tan tốt trong nước; ethanal sôi ở 20,8 °C còn ethanol sôi ở 78,3 °C.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho CH₃COCH₃ tác dụng với H₂ (xúc tác Ni, t°) thu được sản phẩm là",
+      "options": [
+        { "key": "A", "text": "propan-1-ol" },
+        { "key": "B", "text": "propane" },
+        { "key": "C", "text": "propanoic acid" },
+        { "key": "D", "text": "propan-2-ol" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "H₂ cộng vào liên kết đôi C=O: CH₃COCH₃ + H₂ → (Ni, t°) CH₃CH(OH)CH₃ (propan-2-ol). Ketone cộng H₂ cho alcohol bậc II, còn aldehyde cộng H₂ cho alcohol bậc I; phản ứng không tạo hydrocarbon hay carboxylic acid.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng CH₃CHO với Cu(OH)₂ trong dung dịch NaOH, hiện tượng quan sát được là xuất hiện kết tủa",
+      "options": [
+        { "key": "A", "text": "đỏ gạch Cu₂O" },
+        { "key": "B", "text": "trắng của Cu" },
+        { "key": "C", "text": "xanh lam của Cu(OH)₂" },
+        { "key": "D", "text": "đen của CuO" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Aldehyde khử Cu(OH)₂ thành copper(I) oxide kết tủa đỏ gạch: CH₃CHO + 2Cu(OH)₂ + NaOH → (t°) CH₃COONa + Cu₂O↓ + 3H₂O. Kết tủa xanh lam là Cu(OH)₂ ban đầu, không phải sản phẩm; phản ứng không sinh Cu hay CuO.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Có hai ống nghiệm mất nhãn, mỗi ống đựng một trong hai chất lỏng CH₃CHO và CH₃COCH₃. Hoá chất dùng để phân biệt hai chất là",
+      "options": [
+        { "key": "A", "text": "nước cất" },
+        { "key": "B", "text": "dung dịch NaOH" },
+        { "key": "C", "text": "thuốc thử Tollens (AgNO₃ trong NH₃)" },
+        { "key": "D", "text": "dung dịch NaCl" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "CH₃CHO phản ứng với thuốc thử Tollens tạo lớp bạc kim loại bám vào thành ống nghiệm, còn CH₃COCH₃ không phản ứng nên không có hiện tượng. Nước cất, dung dịch NaOH và dung dịch NaCl không gây hiện tượng khác nhau với hai chất.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn một aldehyde no, đơn chức, mạch hở luôn thu được",
+      "options": [
+        { "key": "A", "text": "n(CO₂) > n(H₂O)" },
+        { "key": "B", "text": "n(CO₂) = n(H₂O)" },
+        { "key": "C", "text": "n(CO₂) < n(H₂O)" },
+        { "key": "D", "text": "n(CO₂) = 2n(H₂O)" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Aldehyde no, đơn chức, mạch hở có dạng CₙH₂ₙO nên số nguyên tử H gấp đôi số nguyên tử C, khi cháy cho n(CO₂) = n(H₂O). Muốn có n(CO₂) < n(H₂O) phải là chất no có thêm nhóm –OH hoặc nhiều nhóm –CHO hơn.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Formaldehyde là nguyên liệu chính để sản xuất",
+      "options": [
+        { "key": "A", "text": "nhựa phenol-formaldehyde và nhựa urea-formaldehyde" },
+        { "key": "B", "text": "xà phòng và chất giặt rửa" },
+        { "key": "C", "text": "giấm ăn" },
+        { "key": "D", "text": "thuỷ tinh hữu cơ (PMMA)" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Formaldehyde phản ứng với phenol hoặc urea tạo nhựa nhiệt rắn dùng làm keo dán, vật liệu composite. Xà phòng điều chế từ chất béo, giấm ăn từ ethanol, thuỷ tinh hữu cơ từ methyl methacrylate nên không liên quan trực tiếp đến formaldehyde.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi tiếp xúc, sử dụng formaldehyde cần lưu ý điều gì sau đây?",
+      "options": [
+        { "key": "A", "text": "Có thể uống dung dịch formaldehyde loãng để sát khuẩn đường ruột." },
+        { "key": "B", "text": "Formaldehyde độc, có thể gây ung thư nên tránh hít phải hơi và tránh tiếp xúc trực tiếp với da." },
+        { "key": "C", "text": "Formaldehyde chỉ gây cháy nổ, không ảnh hưởng đến sức khoẻ." },
+        { "key": "D", "text": "Formaldehyde không bay hơi nên không cần thông gió khi sử dụng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Formaldehyde là chất độc, có khả năng gây ung thư, kích ứng mắt và đường hô hấp, nên phải dùng ở nơi thoáng khí và có bảo hộ. Dung dịch formaldehyde chỉ dùng để sát khuẩn, bảo quản mẫu vật ngoài cơ thể, tuyệt đối không dùng để uống.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Oxi hoá CH₃CHO bằng oxygen (xúc tác Mn²⁺, t°) thu được sản phẩm là",
+      "options": [
+        { "key": "A", "text": "C₂H₅OH" },
+        { "key": "B", "text": "CH₃COOH" },
+        { "key": "C", "text": "CH₃COCH₃" },
+        { "key": "D", "text": "HCOOH" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Aldehyde bị oxi hoá thành carboxylic acid: 2CH₃CHO + O₂ → (Mn²⁺, t°) 2CH₃COOH. C₂H₅OH là sản phẩm của phản ứng cộng H₂ (khử), còn CH₃COCH₃ và HCOOH không tạo ra từ phản ứng này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol aldehyde X no, đơn chức, mạch hở thu được 0,4 mol CO₂. Công thức của X là",
+      "options": [
+        { "key": "A", "text": "HCHO" },
+        { "key": "B", "text": "CH₃CHO" },
+        { "key": "C", "text": "CH₃CH₂CHO" },
+        { "key": "D", "text": "CH₃CH₂CH₂CHO" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Số nguyên tử C trong X bằng 0,4 : 0,1 = 4, ứng với C₄H₈O là CH₃CH₂CH₂CHO (butanal). HCHO có 1 C, CH₃CHO có 2 C, CH₃CH₂CHO có 3 C nên đốt 0,1 mol chỉ cho tương ứng 0,1; 0,2 và 0,3 mol CO₂.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 0,05 mol aldehyde X tác dụng hết với lượng dư thuốc thử Tollens, thu được 0,20 mol Ag. Chất X là",
+      "options": [
+        { "key": "A", "text": "HCHO" },
+        { "key": "B", "text": "CH₃CHO" },
+        { "key": "C", "text": "CH₃CH₂CHO" },
+        { "key": "D", "text": "CH₃COCH₃" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "0,05 mol X sinh 0,20 mol Ag, tức mỗi phân tử cho 4 Ag — chỉ HCHO có đặc điểm này vì HCHO + 4[Ag(NH₃)₂]OH → (NH₄)₂CO₃ + 4Ag↓ + 6NH₃ + 2H₂O. CH₃CHO và CH₃CH₂CHO chỉ cho 2 Ag mỗi phân tử (0,10 mol Ag), còn CH₃COCH₃ là ketone, không phản ứng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đồng phân carbonyl (gồm aldehyde và ketone) ứng với công thức phân tử C₄H₈O là",
+      "options": [
+        { "key": "A", "text": "2" },
+        { "key": "B", "text": "3" },
+        { "key": "C", "text": "4" },
+        { "key": "D", "text": "5" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gồm butanal CH₃CH₂CH₂CHO, 2-methylpropanal (CH₃)₂CHCHO và butan-2-one CH₃COCH₂CH₃. Mạch 4 carbon chỉ có một vị trí nhóm C=O không thuộc đầu mạch nên butan-3-one trùng với butan-2-one, vì vậy có 3 đồng phân.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    },
+    {
+      "id": "de-hoa-11-bai-23-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-23",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun nóng 0,1 mol CH₃CHO với lượng dư Cu(OH)₂ trong dung dịch NaOH, thu được m gam kết tủa Cu₂O. Giá trị của m là (cho M(Cu₂O) = 144 g/mol)",
+      "options": [
+        { "key": "A", "text": "7,2" },
+        { "key": "B", "text": "28,8" },
+        { "key": "C", "text": "1,44" },
+        { "key": "D", "text": "14,4" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo CH₃CHO + 2Cu(OH)₂ + NaOH → (t°) CH₃COONa + Cu₂O↓ + 3H₂O, 0,1 mol CH₃CHO sinh 0,1 mol Cu₂O, khối lượng m = 0,1 × 144 = 14,4 g. Giá trị 7,2 g và 28,8 g ứng với việc chia đôi hay nhân đôi tỉ lệ mol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 23", "Hợp chất carbonyl"]
+    }
+  ]
+}

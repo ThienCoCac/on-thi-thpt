@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-17",
+  "title": "Hóa học 11 – Bài 17. Arene (hydrocarbon thơm)",
+  "slug": "de-hoa-11-bai-17",
+  "description": "20 câu trắc nghiệm bám sát Bài 17 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-17-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức chung của các arene (hydrocarbon thơm) là",
+      "options": [
+        { "key": "A", "text": "CₙH₂ₙ₊₂ (n ≥ 1)" },
+        { "key": "B", "text": "CₙH₂ₙ₋₆ (n ≥ 6)" },
+        { "key": "C", "text": "CₙH₂ₙ (n ≥ 2)" },
+        { "key": "D", "text": "CₙH₂ₙ₋₂ (n ≥ 2)" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Arene là hydrocarbon thơm có vòng benzene, công thức chung CₙH₂ₙ₋₆ với n ≥ 6. CₙH₂ₙ₊₂ là alkane, CₙH₂ₙ là alkene, CₙH₂ₙ₋₂ là alkyne hoặc cycloalkene.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức phân tử của benzene là",
+      "options": [
+        { "key": "A", "text": "C₆H₁₂" },
+        { "key": "B", "text": "C₆H₁₀" },
+        { "key": "C", "text": "C₆H₆" },
+        { "key": "D", "text": "C₇H₈" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Benzene có công thức phân tử C₆H₆. C₆H₁₂ là cyclohexane, C₆H₁₀ là cyclohexene, C₇H₈ là toluene.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phân tử toluene C₆H₅CH₃ có bao nhiêu nguyên tử hydrogen?",
+      "options": [
+        { "key": "A", "text": "8" },
+        { "key": "B", "text": "7" },
+        { "key": "C", "text": "6" },
+        { "key": "D", "text": "5" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Toluene có 5 nguyên tử H trên vòng benzene và 3 nguyên tử H trong nhóm methyl, tổng cộng 8 nguyên tử H, ứng với C₇H₈.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là hydrocarbon thơm?",
+      "options": [
+        { "key": "A", "text": "Cyclohexane" },
+        { "key": "B", "text": "Hex-1-ene" },
+        { "key": "C", "text": "Hexane" },
+        { "key": "D", "text": "Benzene" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Benzene có vòng sáu cạnh với hệ liên hợp nên là hydrocarbon thơm. Cyclohexane và hexane là hydrocarbon no, hex-1-ene là hydrocarbon không no.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở điều kiện thường, benzene là",
+      "options": [
+        { "key": "A", "text": "chất khí, tan nhiều trong nước" },
+        { "key": "B", "text": "chất lỏng, không tan trong nước" },
+        { "key": "C", "text": "chất rắn, tan tốt trong nước" },
+        { "key": "D", "text": "chất lỏng, tan vô hạn trong nước" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Benzene là chất lỏng ở điều kiện thường, nhẹ hơn nước và gần như không tan trong nước, tan tốt trong nhiều dung môi hữu cơ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng hoá học đặc trưng nhất của benzene là",
+      "options": [
+        { "key": "A", "text": "phản ứng thế" },
+        { "key": "B", "text": "phản ứng cộng" },
+        { "key": "C", "text": "phản ứng trùng hợp" },
+        { "key": "D", "text": "phản ứng tách" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Do vòng benzene bền, benzene ưu tiên phản ứng thế (vào vòng hoặc nhánh) hơn phản ứng cộng; phản ứng cộng chỉ xảy ra ở điều kiện khắc nghiệt.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Số đồng phân arene có công thức phân tử C₈H₁₀ là",
+      "options": [
+        { "key": "A", "text": "2" },
+        { "key": "B", "text": "3" },
+        { "key": "C", "text": "4" },
+        { "key": "D", "text": "5" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "C₈H₁₀ có ba đồng phân xylene (o-xylene, m-xylene, p-xylene) và ethylbenzene, tổng cộng 4 đồng phân arene.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên gọi của hợp chất C₆H₅CH₃ là",
+      "options": [
+        { "key": "A", "text": "benzene" },
+        { "key": "B", "text": "styrene" },
+        { "key": "C", "text": "aniline" },
+        { "key": "D", "text": "toluene" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "C₆H₅CH₃ là toluene (methylbenzene). Styrene là C₆H₅CH=CH₂, aniline là C₆H₅NH₂.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho benzene tác dụng với bromine khan có xúc tác FeBr₃, sản phẩm hữu cơ thu được là",
+      "options": [
+        { "key": "A", "text": "bromobenzene" },
+        { "key": "B", "text": "benzyl bromide" },
+        { "key": "C", "text": "1,2-dibromobenzene" },
+        { "key": "D", "text": "cyclohexyl bromide" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Có xúc tác FeBr₃, bromine thế một nguyên tử H trên vòng benzene tạo bromobenzene và HBr. Benzyl bromide chỉ tạo thành khi thế ở nhánh của toluene dưới ánh sáng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho benzene tác dụng với dung dịch nitric acid đặc trong sulfuric acid đặc, đun nóng. Sản phẩm hữu cơ chính thu được là",
+      "options": [
+        { "key": "A", "text": "aniline" },
+        { "key": "B", "text": "nitrobenzene" },
+        { "key": "C", "text": "phenylammonium nitrate" },
+        { "key": "D", "text": "benzyl nitrate" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đây là phản ứng nitro hoá: một nguyên tử H trên vòng benzene bị thay bằng nhóm –NO₂, tạo nitrobenzene và nước. Aniline chỉ thu được khi khử nitrobenzene.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho benzene tác dụng với hydrogen dư (xúc tác Ni, đun nóng) thu được",
+      "options": [
+        { "key": "A", "text": "cyclohexene" },
+        { "key": "B", "text": "hex-1-ene" },
+        { "key": "C", "text": "cyclohexane" },
+        { "key": "D", "text": "hexane" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Benzene cộng 3 phân tử H₂ tạo cyclohexane: C₆H₆ + 3H₂ → (Ni, t°) C₆H₁₂. Sản phẩm giữ nguyên mạch vòng nên không phải hexane.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Thuốc thử dùng để phân biệt benzene và hex-1-ene là",
+      "options": [
+        { "key": "A", "text": "dung dịch NaCl" },
+        { "key": "B", "text": "dung dịch HCl" },
+        { "key": "C", "text": "nước vôi trong" },
+        { "key": "D", "text": "nước bromine" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hex-1-ene có liên kết đôi nên làm mất màu nước bromine; benzene không phản ứng với nước bromine ở điều kiện thường nên không làm mất màu.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho toluene tác dụng với bromine khan dưới ánh sáng. Sản phẩm thế chủ yếu thu được là",
+      "options": [
+        { "key": "A", "text": "benzyl bromide" },
+        { "key": "B", "text": "2-bromotoluene" },
+        { "key": "C", "text": "4-bromotoluene" },
+        { "key": "D", "text": "2,4-dibromotoluene" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dưới ánh sáng, bromine thế nguyên tử H ở nhóm methyl tạo benzyl bromide C₆H₅CH₂Br. Thế vào vòng xảy ra khi có xúc tác FeBr₃.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn benzene, tỉ lệ số mol CO₂ : H₂O thu được là",
+      "options": [
+        { "key": "A", "text": "1 : 1" },
+        { "key": "B", "text": "2 : 1" },
+        { "key": "C", "text": "1 : 3" },
+        { "key": "D", "text": "3 : 2" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "C₆H₆ + 15/2 O₂ → 6CO₂ + 3H₂O, nên n(CO₂) : n(H₂O) = 6 : 3 = 2 : 1.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây làm mất màu nước bromine ở điều kiện thường?",
+      "options": [
+        { "key": "A", "text": "benzene" },
+        { "key": "B", "text": "toluene" },
+        { "key": "C", "text": "styrene" },
+        { "key": "D", "text": "nitrobenzene" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Styrene C₆H₅CH=CH₂ có liên kết đôi ở nhánh nên cộng bromine, làm mất màu nước bromine. Benzene, toluene và nitrobenzene không có liên kết đôi ngoài vòng nên không làm mất màu.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Toluene được dùng để sản xuất TNT (2,4,6-trinitrotoluene) bằng phản ứng với",
+      "options": [
+        { "key": "A", "text": "dung dịch Br₂" },
+        { "key": "B", "text": "dung dịch NaOH" },
+        { "key": "C", "text": "H₂ (xúc tác Ni)" },
+        { "key": "D", "text": "HNO₃ đặc trong H₂SO₄ đặc" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "TNT tạo thành khi nitro hoá toluene bằng hỗn hợp HNO₃ đặc và H₂SO₄ đặc, ba nguyên tử H ở vị trí 2, 4, 6 bị thay bằng nhóm –NO₂.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol benzene cần vừa đủ bao nhiêu mol O₂?",
+      "options": [
+        { "key": "A", "text": "0,75 mol" },
+        { "key": "B", "text": "0,15 mol" },
+        { "key": "C", "text": "0,45 mol" },
+        { "key": "D", "text": "0,90 mol" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "C₆H₆ + 15/2 O₂ → 6CO₂ + 3H₂O. Với 0,1 mol benzene, n(O₂) = 0,1 × 7,5 = 0,75 mol.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Nitro hoá 39 gam benzene bằng hỗn hợp HNO₃ đặc và H₂SO₄ đặc, hiệu suất phản ứng đạt 80%. Khối lượng nitrobenzene thu được là",
+      "options": [
+        { "key": "A", "text": "61,5 gam" },
+        { "key": "B", "text": "49,2 gam" },
+        { "key": "C", "text": "39,4 gam" },
+        { "key": "D", "text": "30,8 gam" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(benzene) = 39 : 78 = 0,5 mol. Theo phương trình, n(nitrobenzene) lí thuyết = 0,5 mol; thực tế = 0,5 × 80% = 0,4 mol. Khối lượng = 0,4 × 123 = 49,2 gam.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho 0,05 mol toluene tác dụng với bromine dưới ánh sáng, hiệu suất phản ứng 100%. Khối lượng benzyl bromide (C₆H₅CH₂Br) thu được là",
+      "options": [
+        { "key": "A", "text": "4,28 gam" },
+        { "key": "B", "text": "9,40 gam" },
+        { "key": "C", "text": "8,55 gam" },
+        { "key": "D", "text": "17,10 gam" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "C₆H₅CH₃ + Br₂ → (ánh sáng) C₆H₅CH₂Br + HBr. n(benzyl bromide) = 0,05 mol, khối lượng = 0,05 × 171 = 8,55 gam.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    },
+    {
+      "id": "de-hoa-11-bai-17-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-17",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy hoàn toàn 0,1 mol một arene thu được 0,8 mol CO₂ và 0,5 mol H₂O. Arene đó là",
+      "options": [
+        { "key": "A", "text": "C₆H₆" },
+        { "key": "B", "text": "C₇H₈" },
+        { "key": "C", "text": "C₉H₁₂" },
+        { "key": "D", "text": "C₈H₁₀" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Số nguyên tử C = 0,8 : 0,1 = 8; số nguyên tử H = 2 × 0,5 : 0,1 = 10. Arene là C₈H₁₀ (xylene hoặc ethylbenzene).",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 17", "Arene"]
+    }
+  ]
+}

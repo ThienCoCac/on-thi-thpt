@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-14",
+  "title": "Hóa học 11 – Bài 14. Ôn tập chương 3",
+  "slug": "de-hoa-11-bai-14",
+  "description": "20 câu trắc nghiệm bám sát Bài 14 SGK Hóa học 11 (Kết nối tri thức).",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-14-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là hợp chất hữu cơ?",
+      "options": [
+        { "key": "A", "text": "CO₂." },
+        { "key": "B", "text": "Na₂CO₃." },
+        { "key": "C", "text": "CH₃COOH." },
+        { "key": "D", "text": "CaC₂." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hợp chất hữu cơ là hợp chất của carbon, trừ một số hợp chất như oxide carbon, carbide, carbonate, cyanide. CH₃COOH là hợp chất hữu cơ; CO₂, Na₂CO₃, CaC₂ đều thuộc loại hợp chất vô cơ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Đặc điểm nào sau đây đúng với phần lớn hợp chất hữu cơ?",
+      "options": [
+        { "key": "A", "text": "Kém bền với nhiệt, dễ cháy và thường ít tan trong nước." },
+        { "key": "B", "text": "Rất bền với nhiệt, không cháy và tan tốt trong nước." },
+        { "key": "C", "text": "Có nhiệt độ nóng chảy cao và dẫn điện tốt khi nóng chảy." },
+        { "key": "D", "text": "Chỉ gồm hai nguyên tố carbon và hydrogen." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phần lớn hợp chất hữu cơ kém bền với nhiệt, dễ bay hơi, dễ cháy, thường không tan hoặc ít tan trong nước nhưng tan trong dung môi hữu cơ. Chúng có thể chứa cả O, N, halogen nên D sai.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất nào sau đây là dẫn xuất của hydrocarbon?",
+      "options": [
+        { "key": "A", "text": "CH₄." },
+        { "key": "B", "text": "C₂H₄." },
+        { "key": "C", "text": "C₂H₂." },
+        { "key": "D", "text": "CH₃Cl." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Dẫn xuất hydrocarbon là chất thu được khi thay thế một hay nhiều nguyên tử H trong hydrocarbon bằng nguyên tử hay nhóm nguyên tử khác. CH₃Cl là dẫn xuất halogen; CH₄, C₂H₄, C₂H₂ chỉ chứa C và H nên là hydrocarbon.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Phương pháp phù hợp để tách hai chất lỏng có nhiệt độ sôi khác nhau khá xa là",
+      "options": [
+        { "key": "A", "text": "kết tinh." },
+        { "key": "B", "text": "chưng cất." },
+        { "key": "C", "text": "chiết." },
+        { "key": "D", "text": "sắc ký." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chưng cất dựa trên nhiệt độ sôi khác nhau nên tách được các chất lỏng có nhiệt độ sôi khác nhau khá xa. Kết tinh dùng cho chất rắn, chiết dùng dung môi không tan lẫn, sắc ký dùng cho lượng nhỏ chất.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức đơn giản nhất của một hợp chất hữu cơ cho biết",
+      "options": [
+        { "key": "A", "text": "khối lượng mol phân tử của hợp chất." },
+        { "key": "B", "text": "số nguyên tử của mỗi nguyên tố trong một phân tử." },
+        { "key": "C", "text": "tỉ lệ tối giản về số nguyên tử của các nguyên tố trong phân tử." },
+        { "key": "D", "text": "trật tự liên kết giữa các nguyên tử trong phân tử." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Công thức đơn giản nhất biểu diễn tỉ lệ tối giản về số nguyên tử của các nguyên tố trong phân tử. Số nguyên tử thực tế trong một phân tử là nội dung của công thức phân tử, còn trật tự liên kết thuộc công thức cấu tạo.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Công thức phân tử của một hợp chất hữu cơ cho biết",
+      "options": [
+        { "key": "A", "text": "số nguyên tử của mỗi nguyên tố có trong một phân tử." },
+        { "key": "B", "text": "tỉ lệ tối giản về số nguyên tử của các nguyên tố." },
+        { "key": "C", "text": "trật tự liên kết giữa các nguyên tử trong phân tử." },
+        { "key": "D", "text": "khối lượng riêng của chất ở điều kiện thường." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Công thức phân tử cho biết số nguyên tử của từng nguyên tố trong một phân tử, từ đó tính được khối lượng mol phân tử. Tỉ lệ tối giản là công thức đơn giản nhất, trật tự liên kết thuộc công thức cấu tạo.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Đốt cháy một hợp chất hữu cơ rồi dẫn toàn bộ sản phẩm khí lần lượt qua ống đựng CuSO₄ khan (thấy chất rắn từ màu trắng chuyển sang màu xanh) và bình đựng dung dịch Ca(OH)₂ dư (thấy có kết tủa trắng). Kết luận đúng là hợp chất đó",
+      "options": [
+        { "key": "A", "text": "chỉ chứa carbon." },
+        { "key": "B", "text": "chỉ chứa hydrogen." },
+        { "key": "C", "text": "chứa carbon nhưng không chứa hydrogen." },
+        { "key": "D", "text": "chứa cả carbon và hydrogen." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "CuSO₄ khan hút nước và chuyển sang màu xanh, chứng tỏ sản phẩm cháy có H₂O nên chất có hydrogen. Kết tủa trắng trong nước vôi trong là CaCO₃, chứng tỏ có CO₂ nên chất có carbon.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Để tách iodine (I₂) ra khỏi dung dịch nước iodine, người ta lắc dung dịch với hexane rồi tách riêng lớp hexane. Phương pháp đã dùng là",
+      "options": [
+        { "key": "A", "text": "chưng cất." },
+        { "key": "B", "text": "chiết." },
+        { "key": "C", "text": "kết tinh." },
+        { "key": "D", "text": "sắc ký." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chiết là phương pháp dùng một dung môi không tan lẫn để hoà tan chất cần tách từ dung dịch ban đầu. I₂ tan tốt trong hexane và hexane không tan trong nước nên I₂ chuyển sang lớp hexane, tách được bằng phễu chiết.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Kết tinh là phương pháp dùng để",
+      "options": [
+        { "key": "A", "text": "tách các chất lỏng có nhiệt độ sôi khác nhau." },
+        { "key": "B", "text": "tách chất tan bằng dung môi không tan lẫn với dung dịch." },
+        { "key": "C", "text": "tách chất rắn ra khỏi dung dịch dựa trên độ tan giảm khi hạ nhiệt độ." },
+        { "key": "D", "text": "tách các chất có khả năng hấp phụ khác nhau trên chất hấp phụ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kết tinh dựa trên độ tan của chất rắn giảm khi hạ nhiệt độ: làm nguội dung dịch bão hoà thì chất tan kết tinh ra. Chưng cất dựa trên nhiệt độ sôi, chiết dùng dung môi không tan lẫn, sắc ký dựa trên hấp phụ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Phương pháp sắc ký dựa trên",
+      "options": [
+        { "key": "A", "text": "khả năng hấp phụ khác nhau của các chất trên chất hấp phụ." },
+        { "key": "B", "text": "nhiệt độ sôi khác nhau của các chất." },
+        { "key": "C", "text": "độ tan khác nhau của các chất trong nước nóng." },
+        { "key": "D", "text": "khối lượng riêng khác nhau của các chất." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong sắc ký, các chất di chuyển qua pha tĩnh với tốc độ khác nhau do khả năng hấp phụ khác nhau, nhờ đó được tách riêng. Đây là phương pháp thích hợp để tách lượng nhỏ chất, ví dụ tách các chất màu trong lá cây.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Phần trăm khối lượng của carbon trong methane (CH₄) là",
+      "options": [
+        { "key": "A", "text": "25,0%." },
+        { "key": "B", "text": "50,0%." },
+        { "key": "C", "text": "66,7%." },
+        { "key": "D", "text": "75,0%." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Khối lượng mol của CH₄ là 12 + 4 = 16 g/mol; phần trăm C = 12 : 16 × 100% = 75,0%. Các giá trị còn lại ứng với chia sai khối lượng mol hoặc tính phần trăm của hydrogen.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Tỉ khối hơi của chất khí X so với khí H₂ bằng 15. Khối lượng mol phân tử của X là",
+      "options": [
+        { "key": "A", "text": "15 g/mol." },
+        { "key": "B", "text": "30 g/mol." },
+        { "key": "C", "text": "45 g/mol." },
+        { "key": "D", "text": "2 g/mol." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tỉ khối hơi so với H₂ bằng M(X) : 2, nên M(X) = 15 × 2 = 30 g/mol. Giá trị 15 g/mol là tỉ khối chứ không phải khối lượng mol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Hợp chất hữu cơ X có %C = 40,00%; %H = 6,67%; %O = 53,33%. Công thức đơn giản nhất của X là",
+      "options": [
+        { "key": "A", "text": "C₂H₄O." },
+        { "key": "B", "text": "CH₄O." },
+        { "key": "C", "text": "CH₂O." },
+        { "key": "D", "text": "C₂H₆O." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Lập tỉ lệ số mol nguyên tử: nC : nH : nO = 40,00/12 : 6,67/1 : 53,33/16 = 3,33 : 6,67 : 3,33 = 1 : 2 : 1. Vậy công thức đơn giản nhất là CH₂O.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hợp chất hữu cơ có công thức đơn giản nhất là CH₂O và khối lượng mol phân tử bằng 60 g/mol. Công thức phân tử của hợp chất là",
+      "options": [
+        { "key": "A", "text": "C₂H₄O₂." },
+        { "key": "B", "text": "CH₂O." },
+        { "key": "C", "text": "C₃H₆O₃." },
+        { "key": "D", "text": "C₂H₄O." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đặt công thức phân tử là (CH₂O)n, khối lượng mol bằng 30n = 60 nên n = 2, thu được C₂H₄O₂. Các phương án còn lại có khối lượng mol lần lượt 30, 90 và 44 g/mol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của CH₃–CH₂–CH₂–OH là",
+      "options": [
+        { "key": "A", "text": "propan-2-ol." },
+        { "key": "B", "text": "propanal." },
+        { "key": "C", "text": "butan-1-ol." },
+        { "key": "D", "text": "propan-1-ol." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mạch chính có 3 carbon, nhóm –OH nằm ở carbon số 1, nên tên là propan-1-ol. Propan-2-ol có –OH ở carbon số 2, propanal là aldehyde, butan-1-ol có 4 carbon.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Tên thay thế của CH₃–CH₂–Cl là",
+      "options": [
+        { "key": "A", "text": "methyl chloride." },
+        { "key": "B", "text": "chloroethane." },
+        { "key": "C", "text": "1-chloroethane." },
+        { "key": "D", "text": "ethane." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mạch chính có 2 carbon (ethane) và một nguyên tử Cl thế H, nên tên thay thế là chloroethane. Methyl chloride là tên thông thường của CH₃Cl, 1-chloroethane thừa chỉ số vì ethane chỉ có một vị trí thế, ethane là hydrocarbon.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Hợp chất hữu cơ X chứa C, H, O, có %C = 52,17%; %H = 13,04% và khối lượng mol phân tử bằng 46 g/mol. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "CH₂O." },
+        { "key": "B", "text": "C₂H₄O." },
+        { "key": "C", "text": "C₂H₆O." },
+        { "key": "D", "text": "C₃H₈O." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Số nguyên tử C = 52,17 × 46 : (100 × 12) = 2; số nguyên tử H = 13,04 × 46 : (100 × 1) = 6; khối lượng O = 46 − 24 − 6 = 16 g ứng với 1 nguyên tử O. Vậy X là C₂H₆O.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Phổ khối lượng của một hydrocarbon no, mạch hở X cho tín hiệu ion phân tử có m/z = 58. Công thức phân tử của X là",
+      "options": [
+        { "key": "A", "text": "C₄H₁₀." },
+        { "key": "B", "text": "C₄H₈." },
+        { "key": "C", "text": "C₅H₁₂." },
+        { "key": "D", "text": "C₃H₈." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tín hiệu ion phân tử có m/z bằng khối lượng mol phân tử, nên M = 58 g/mol. Trong các phương án, C₄H₁₀ có M = 58 g/mol; C₄H₈ là 56, C₅H₁₂ là 72, C₃H₈ là 44 g/mol và C₄H₈ còn không phải hydrocarbon no.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai chất hữu cơ X và Y đều có công thức phân tử C₃H₈O, trong đó X là alcohol còn Y là ether. Số công thức cấu tạo phù hợp của X và Y lần lượt là",
+      "options": [
+        { "key": "A", "text": "1 và 2." },
+        { "key": "B", "text": "2 và 2." },
+        { "key": "C", "text": "3 và 1." },
+        { "key": "D", "text": "2 và 1." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "C₃H₈O có hai alcohol là propan-1-ol và propan-2-ol, cùng một ether là CH₃–O–CH₂–CH₃. Vậy X có 2 công thức cấu tạo, Y có 1.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    },
+    {
+      "id": "de-hoa-11-bai-14-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-14",
+      "type": "SINGLE_CHOICE",
+      "content": "Chưng cất phân đoạn hỗn hợp gồm ethanol (nhiệt độ sôi 78,3 °C) và nước (nhiệt độ sôi 100 °C). Chất nào thu được trước ở phần ngưng tụ?",
+      "options": [
+        { "key": "A", "text": "Nước, vì nước có khối lượng mol phân tử lớn hơn." },
+        { "key": "B", "text": "Ethanol, vì ethanol có nhiệt độ sôi thấp hơn." },
+        { "key": "C", "text": "Cả hai chất thu được cùng lúc vì chúng tan lẫn vào nhau." },
+        { "key": "D", "text": "Không tách được vì hai chất tan hoàn toàn vào nhau." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chưng cất phân đoạn tách các chất theo nhiệt độ sôi: khi đun nóng, cấu tử có nhiệt độ sôi thấp hơn bay hơi trước nên ethanol (78,3 °C) được ngưng tụ và thu trước nước (100 °C). Tan lẫn vào nhau không ngăn được việc chưng cất.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 14", "Ôn tập chương 3"]
+    }
+  ]
+}

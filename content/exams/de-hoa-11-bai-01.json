@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-01",
+  "title": "Hóa học 11 – Bài 1. Khái niệm về cân bằng hoá học",
+  "slug": "de-hoa-11-bai-01",
+  "description": "20 câu trắc nghiệm bám sát Bài 1 SGK Hóa học 11 (Kết nối tri thức): phản ứng thuận nghịch và trạng thái cân bằng, hằng số cân bằng Kc, nguyên lí chuyển dịch cân bằng Le Chatelier cùng ảnh hưởng của nồng độ, áp suất, nhiệt độ và chất xúc tác.",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-01-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào sau đây đúng về phản ứng thuận nghịch?",
+      "options": [
+        { "key": "A", "text": "Trong cùng một điều kiện, phản ứng xảy ra đồng thời theo cả chiều thuận và chiều nghịch." },
+        { "key": "B", "text": "Phản ứng chỉ xảy ra theo chiều thuận cho tới khi hết hoàn toàn chất phản ứng." },
+        { "key": "C", "text": "Phản ứng không bao giờ đạt tới trạng thái cân bằng." },
+        { "key": "D", "text": "Khi đạt trạng thái cân bằng, cả hai chiều đều dừng lại." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phản ứng thuận nghịch diễn ra đồng thời theo hai chiều trái ngược nhau trong cùng điều kiện. B mô tả phản ứng một chiều; C sai vì hệ thuận nghịch luôn tiến tới cân bằng; D sai vì tại cân bằng hai chiều vẫn xảy ra với tốc độ bằng nhau.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở trạng thái cân bằng hoá học của một phản ứng thuận nghịch, điều nào sau đây luôn đúng?",
+      "options": [
+        { "key": "A", "text": "Nồng độ các chất phản ứng bằng nồng độ các sản phẩm." },
+        { "key": "B", "text": "Tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch." },
+        { "key": "C", "text": "Khối lượng các chất trong hệ bằng nhau." },
+        { "key": "D", "text": "Phản ứng đã dừng hoàn toàn." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tại cân bằng, tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch nên nồng độ các chất giữ nguyên; đây là cân bằng động, phản ứng không dừng. A và C sai vì nồng độ, khối lượng cân bằng phụ thuộc hằng số cân bằng và lượng chất ban đầu, nói chung không bằng nhau.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi một phản ứng thuận nghịch đã đạt trạng thái cân bằng, nồng độ các chất trong hệ",
+      "options": [
+        { "key": "A", "text": "tiếp tục thay đổi theo thời gian." },
+        { "key": "B", "text": "chỉ còn lại chất sản phẩm." },
+        { "key": "C", "text": "không đổi theo thời gian." },
+        { "key": "D", "text": "giảm dần về không." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tại cân bằng, tốc độ hai chiều bằng nhau nên nồng độ mỗi chất giữ nguyên một giá trị không đổi, dù phản ứng vẫn tiếp diễn. A mô tả giai đoạn trước khi đạt cân bằng; B sai vì chất phản ứng vẫn còn trong hệ; D sai vì nồng độ các chất giữ nguyên, không giảm về không.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phản ứng N₂(k) + 3H₂(k) ⇌ 2NH₃(k). Biểu thức hằng số cân bằng Kc của phản ứng là",
+      "options": [
+        { "key": "A", "text": "Kc = [N₂][H₂]³/[NH₃]²." },
+        { "key": "B", "text": "Kc = [NH₃]/([N₂][H₂])." },
+        { "key": "C", "text": "Kc = [NH₃]²/([N₂][H₂])." },
+        { "key": "D", "text": "Kc = [NH₃]²/([N₂][H₂]³)." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Kc bằng tích nồng độ sản phẩm chia tích nồng độ chất phản ứng, mỗi nồng độ luỹ thừa đúng hệ số tỉ lượng: Kc = [NH₃]²/([N₂][H₂]³). A là nghịch đảo của biểu thức đúng; B thiếu số mũ 2 và 3; C thiếu số mũ 3 của H₂.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Hằng số cân bằng Kc của một phản ứng thuận nghịch xác định phụ thuộc vào yếu tố nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Nhiệt độ." },
+        { "key": "B", "text": "Nồng độ các chất." },
+        { "key": "C", "text": "Áp suất của hệ." },
+        { "key": "D", "text": "Chất xúc tác." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi giá trị Kc gắn với một nhiệt độ xác định nên Kc chỉ phụ thuộc nhiệt độ. Thay đổi nồng độ hay áp suất chỉ làm cân bằng chuyển dịch, còn chất xúc tác chỉ rút ngắn thời gian đạt cân bằng; cả ba đều không làm đổi Kc.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Thêm chất xúc tác vào một hệ phản ứng đang ở trạng thái cân bằng. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Cân bằng dịch chuyển theo chiều thuận nên hiệu suất tăng." },
+        { "key": "B", "text": "Cân bằng không dịch chuyển nhưng hệ đạt cân bằng nhanh hơn." },
+        { "key": "C", "text": "Cân bằng dịch chuyển theo chiều nghịch nên hiệu suất giảm." },
+        { "key": "D", "text": "Hằng số cân bằng Kc tăng lên." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chất xúc tác làm giảm năng lượng hoạt hoá nên cả hai chiều đều nhanh hơn, hệ đạt cân bằng sớm hơn nhưng vị trí cân bằng và Kc không đổi. A và C sai vì xúc tác không làm chuyển dịch cân bằng; D sai vì Kc chỉ phụ thuộc nhiệt độ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: Fe³⁺(aq) + SCN⁻(aq) ⇌ FeSCN²⁺(aq). Ion FeSCN²⁺ làm dung dịch có màu đỏ. Thêm vài giọt dung dịch FeCl₃ vào hệ đang ở trạng thái cân bằng, hiện tượng quan sát được là",
+      "options": [
+        { "key": "A", "text": "màu đỏ của dung dịch đậm lên." },
+        { "key": "B", "text": "màu đỏ của dung dịch nhạt dần." },
+        { "key": "C", "text": "màu đỏ không đổi vì FeCl₃ không tham gia phản ứng." },
+        { "key": "D", "text": "dung dịch mất màu hoàn toàn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "FeCl₃ làm tăng nồng độ Fe³⁺ nên cân bằng dịch chuyển theo chiều thuận, tạo thêm FeSCN²⁺ và màu đỏ đậm lên. B ứng với chiều nghịch, tức khi làm giảm nồng độ Fe³⁺; C sai vì Fe³⁺ chính là chất phản ứng; D sai vì cân bằng chỉ chuyển dịch chứ không làm mất hết FeSCN²⁺.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: 2SO₂(k) + O₂(k) ⇌ 2SO₃(k), ΔH < 0. Khi tăng áp suất của hệ bằng cách nén (giữ nguyên nhiệt độ), cân bằng dịch chuyển",
+      "options": [
+        { "key": "A", "text": "theo chiều nghịch." },
+        { "key": "B", "text": "không dịch chuyển vì hai vế đều có chất khí." },
+        { "key": "C", "text": "theo chiều tăng số phân tử khí." },
+        { "key": "D", "text": "theo chiều thuận." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Vế trái có 3 mol khí, vế phải có 2 mol khí; tăng áp suất làm cân bằng dịch chuyển về phía ít phân tử khí hơn, tức chiều thuận. B sai vì chính sự chênh lệch số mol khí quyết định chiều dịch chuyển; C là chiều ngược lại (chiều nghịch).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: 2NO₂(k) ⇌ N₂O₄(k), ΔH < 0. Khi tăng nhiệt độ của hệ, cân bằng dịch chuyển",
+      "options": [
+        { "key": "A", "text": "theo chiều nghịch." },
+        { "key": "B", "text": "theo chiều thuận." },
+        { "key": "C", "text": "không dịch chuyển vì phản ứng đã ở trạng thái cân bằng." },
+        { "key": "D", "text": "theo chiều tăng số phân tử khí." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phản ứng thuận toả nhiệt nên chiều nghịch là chiều thu nhiệt; tăng nhiệt độ, cân bằng dịch chuyển theo chiều thu nhiệt, tức chiều nghịch. C sai vì với ΔH khác 0, nhiệt độ luôn làm đổi giá trị Kc và chuyển dịch cân bằng; D không phải một chiều của cân bằng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phản ứng H₂(k) + I₂(k) ⇌ 2HI(k). Tại cân bằng ở nhiệt độ T, nồng độ các chất là [H₂] = 0,2 mol/L, [I₂] = 0,2 mol/L, [HI] = 0,6 mol/L. Giá trị Kc của phản ứng là",
+      "options": [
+        { "key": "A", "text": "3." },
+        { "key": "B", "text": "9." },
+        { "key": "C", "text": "1,5." },
+        { "key": "D", "text": "0,11." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kc = [HI]²/([H₂][I₂]) = 0,6²/(0,2 × 0,2) = 0,36/0,04 = 9. A là kết quả bỏ bình phương nồng độ HI; C lấy 0,6 chia cho 0,4; D là nghịch đảo của Kc.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng dị thể: CaCO₃(r) ⇌ CaO(r) + CO₂(k). Biểu thức hằng số cân bằng Kc của phản ứng là",
+      "options": [
+        { "key": "A", "text": "Kc = [CaO][CO₂]/[CaCO₃]." },
+        { "key": "B", "text": "Kc = [CaCO₃]/([CaO][CO₂])." },
+        { "key": "C", "text": "Kc = [CO₂]." },
+        { "key": "D", "text": "Kc = [CaO][CO₂]." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nồng độ chất rắn được coi là hằng số nên không có mặt trong biểu thức Kc, chỉ còn khí CO₂: Kc = [CO₂]. A và B vẫn đưa chất rắn vào biểu thức; D giữ lại CaO dù CaO là chất rắn.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Với một phản ứng thuận nghịch ở nhiệt độ xác định, nếu Kc rất lớn thì",
+      "options": [
+        { "key": "A", "text": "phản ứng nghịch xảy ra thuận lợi hơn phản ứng thuận." },
+        { "key": "B", "text": "hệ không đạt tới trạng thái cân bằng." },
+        { "key": "C", "text": "tốc độ phản ứng nghịch lớn hơn tốc độ phản ứng thuận." },
+        { "key": "D", "text": "tại cân bằng, nồng độ sản phẩm lớn hơn nhiều so với chất phản ứng." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Kc là tỉ số giữa tích nồng độ sản phẩm và tích nồng độ chất phản ứng, nên Kc lớn cho thấy cân bằng nghiêng mạnh về phía sản phẩm. A và C mô tả ưu thế của chiều nghịch, ứng với Kc nhỏ; B sai vì hệ vẫn đạt cân bằng, chỉ là vị trí cân bằng lệch về sản phẩm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng N₂(k) + 3H₂(k) ⇌ 2NH₃(k) có ΔH < 0. Khi tăng nhiệt độ (các điều kiện khác giữ nguyên), hằng số cân bằng Kc của phản ứng",
+      "options": [
+        { "key": "A", "text": "giảm." },
+        { "key": "B", "text": "tăng." },
+        { "key": "C", "text": "không đổi." },
+        { "key": "D", "text": "tăng rồi sau đó giảm." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tăng nhiệt độ, cân bằng dịch chuyển theo chiều thu nhiệt là chiều nghịch, nên nồng độ NH₃ giảm còn N₂, H₂ tăng; do đó Kc = [NH₃]²/([N₂][H₂]³) giảm. B là chiều ngược lại; C sai vì Kc phụ thuộc nhiệt độ; D không có cơ sở.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: N₂(k) + 3H₂(k) ⇌ 2NH₃(k). Khi lấy bớt NH₃ ra khỏi hệ (giữ nguyên nhiệt độ), cân bằng dịch chuyển",
+      "options": [
+        { "key": "A", "text": "theo chiều nghịch." },
+        { "key": "B", "text": "theo chiều thuận." },
+        { "key": "C", "text": "không dịch chuyển." },
+        { "key": "D", "text": "theo chiều làm tăng số phân tử khí." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lấy bớt NH₃ (sản phẩm), cân bằng dịch chuyển theo chiều tạo thêm NH₃, tức chiều thuận. A và D cùng ứng với chiều nghịch, là chiều làm tăng số phân tử khí; C sai vì thay đổi nồng độ luôn làm chuyển dịch cân bằng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: H₂(k) + I₂(k) ⇌ 2HI(k). Nén hệ để tăng áp suất (giữ nguyên nhiệt độ) thì cân bằng",
+      "options": [
+        { "key": "A", "text": "dịch chuyển theo chiều thuận." },
+        { "key": "B", "text": "dịch chuyển theo chiều nghịch." },
+        { "key": "C", "text": "không dịch chuyển." },
+        { "key": "D", "text": "dịch chuyển theo chiều làm giảm nồng độ HI." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hai vế đều có 2 mol khí nên khi nén, nồng độ các chất tăng theo cùng một tỉ lệ, tỉ số nồng độ trong biểu thức Kc không đổi và cân bằng không dịch chuyển. A, B và D đều ứng với một chiều dịch chuyển, chỉ xảy ra khi số mol khí hai vế khác nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phản ứng 2SO₂(k) + O₂(k) ⇌ 2SO₃(k) có Kc = 4,0.10² ở nhiệt độ T. Ở cùng nhiệt độ đó, hằng số cân bằng của phản ứng 2SO₃(k) ⇌ 2SO₂(k) + O₂(k) là",
+      "options": [
+        { "key": "A", "text": "4,0.10²." },
+        { "key": "B", "text": "8,0.10²." },
+        { "key": "C", "text": "2,5.10²." },
+        { "key": "D", "text": "2,5.10⁻³." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phản ứng nghịch có biểu thức Kc là nghịch đảo biểu thức của phản ứng thuận nên Kc' = 1/(4,0.10²) = 2,5.10⁻³. A giữ nguyên giá trị, B nhân đôi, C tính sai luỹ thừa của 10.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Trộn 0,6 mol CO với 0,6 mol H₂O trong bình kín dung tích 2 lít ở nhiệt độ T, xảy ra phản ứng CO(k) + H₂O(k) ⇌ CO₂(k) + H₂(k). Khi đạt cân bằng, nồng độ CO₂ là 0,2 mol/L. Hằng số cân bằng Kc của phản ứng là",
+      "options": [
+        { "key": "A", "text": "4." },
+        { "key": "B", "text": "2." },
+        { "key": "C", "text": "0,25." },
+        { "key": "D", "text": "1." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nồng độ ban đầu: [CO] = [H₂O] = 0,6/2 = 0,3 mol/L. CO₂ tạo ra 0,2 mol/L nên CO và H₂O còn 0,1 mol/L, H₂ cũng bằng 0,2 mol/L. Kc = (0,2 × 0,2)/(0,1 × 0,1) = 0,04/0,01 = 4. B lấy tỉ số nồng độ mà không bình phương; C là nghịch đảo của Kc.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: 2NO(k) + O₂(k) ⇌ 2NO₂(k), ΔH < 0. Để cân bằng dịch chuyển mạnh hơn theo chiều tạo NO₂, nên",
+      "options": [
+        { "key": "A", "text": "tăng nhiệt độ và tăng áp suất." },
+        { "key": "B", "text": "giảm nhiệt độ và tăng áp suất." },
+        { "key": "C", "text": "tăng nhiệt độ và giảm áp suất." },
+        { "key": "D", "text": "giảm nhiệt độ và giảm áp suất." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chiều thuận toả nhiệt và làm giảm số mol khí (3 mol xuống 2 mol), nên giảm nhiệt độ và tăng áp suất đều thúc đẩy chiều thuận. Ba phương án còn lại đều chứa ít nhất một yếu tố kéo cân bằng về chiều nghịch.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho phản ứng H₂(k) + I₂(k) ⇌ 2HI(k) có Kc = 64 ở nhiệt độ T. Ban đầu cho H₂ và I₂ vào bình với nồng độ mỗi chất đều bằng 0,5 mol/L. Nồng độ HI tại cân bằng là",
+      "options": [
+        { "key": "A", "text": "0,4 mol/L." },
+        { "key": "B", "text": "0,5 mol/L." },
+        { "key": "C", "text": "0,8 mol/L." },
+        { "key": "D", "text": "1,0 mol/L." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Gọi x là nồng độ H₂ đã phản ứng, tại cân bằng [H₂] = [I₂] = 0,5 – x và [HI] = 2x. Kc = (2x)²/(0,5 – x)² = 64, lấy căn hai vế được 2x/(0,5 – x) = 8, suy ra x = 0,4. Vậy [HI] = 0,8 mol/L. A chính là x, D ứng với giả thiết H₂ phản ứng hết.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    },
+    {
+      "id": "de-hoa-11-bai-01-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-01",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hệ phản ứng thuận nghịch đang ở trạng thái cân bằng. Khi tăng nhiệt độ của hệ, nhận định nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Tốc độ phản ứng nghịch tăng còn tốc độ phản ứng thuận giảm nên cân bằng chuyển ngay về chiều nghịch." },
+        { "key": "B", "text": "Hằng số cân bằng không đổi vì chất xúc tác không bị tiêu hao trong phản ứng." },
+        { "key": "C", "text": "Cả hai tốc độ tăng như nhau nên cân bằng không dịch chuyển." },
+        { "key": "D", "text": "Cả hai tốc độ đều tăng, nhưng tốc độ của chiều thu nhiệt tăng nhiều hơn nên cân bằng dịch chuyển về phía phản ứng thu nhiệt." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tăng nhiệt độ làm cả hai tốc độ đều tăng, nhưng chiều thu nhiệt tăng mạnh hơn nên cân bằng dịch chuyển theo chiều thu nhiệt và Kc thay đổi. A sai vì tốc độ thuận cũng tăng; B sai vì Kc phụ thuộc nhiệt độ; C sai vì hai tốc độ tăng không như nhau.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 1", "Cân bằng hoá học"]
+    }
+  ]
+}

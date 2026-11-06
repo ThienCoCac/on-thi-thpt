@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-11",
+  "title": "Hóa học 11 – Bài 11. Phương pháp tách biệt và tinh chế hợp chất hữu cơ",
+  "slug": "de-hoa-11-bai-11",
+  "description": "20 câu trắc nghiệm bám sát Bài 11 SGK Hóa học 11 (Kết nối tri thức): nguyên tắc chọn phương pháp, chưng cất, chiết, kết tinh lại, sắc kí cột, lọc – sấy và ứng dụng thực tế.",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-11-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tắc chung của các phương pháp tách biệt và tinh chế hợp chất hữu cơ là dựa vào",
+      "options": [
+        { "key": "A", "text": "sự khác nhau về tính chất vật lí của các chất trong hỗn hợp." },
+        { "key": "B", "text": "sự khác nhau về khối lượng mol phân tử của các chất." },
+        { "key": "C", "text": "sự giống nhau về thành phần nguyên tố của các chất." },
+        { "key": "D", "text": "sự khác nhau về số nguyên tử carbon trong phân tử." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi phương pháp khai thác một tính chất vật lí khác biệt: nhiệt độ sôi (chưng cất), độ tan (kết tinh, chiết), khả năng hấp phụ (sắc kí), khối lượng riêng (chiết, gạn). Khối lượng mol, thành phần nguyên tố hay số nguyên tử carbon không phải căn cứ để chọn phương pháp.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Phương pháp chưng cất thường được dùng để",
+      "options": [
+        { "key": "A", "text": "tách chất lỏng dễ bay hơi khỏi tạp chất không bay hơi hoặc khỏi chất lỏng có nhiệt độ sôi khác xa." },
+        { "key": "B", "text": "tách hai chất lỏng có nhiệt độ sôi gần như nhau và tan hoàn toàn vào nhau." },
+        { "key": "C", "text": "tinh chế chất rắn có độ tan tăng mạnh khi đun nóng." },
+        { "key": "D", "text": "tách chất rắn không tan ra khỏi chất lỏng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chưng cất thường chỉ hiệu quả khi các cấu tử có nhiệt độ sôi chênh lệch đáng kể: chất dễ bay hơi đi sang ống sinh hàn trước rồi được ngưng tụ, thu riêng. Hai chất lỏng sôi gần nhau cần chưng cất phân đoạn, chất rắn tan theo nhiệt độ dùng kết tinh lại, chất rắn không tan dùng lọc.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Dung môi dùng để chiết lỏng – lỏng cần có đặc điểm nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Không trộn lẫn với dung dịch ban đầu và hoà tan chất cần tách tốt hơn dung dịch ban đầu." },
+        { "key": "B", "text": "Trộn lẫn hoàn toàn với dung dịch ban đầu để tạo một pha đồng nhất." },
+        { "key": "C", "text": "Có nhiệt độ sôi cao hơn nhiệt độ sôi của chất cần tách." },
+        { "key": "D", "text": "Tan vô hạn trong nước và có khối lượng riêng lớn hơn nước." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chiết lỏng – lỏng dựa trên sự phân bố khác nhau của chất tan trong hai dung môi không trộn lẫn: chất tan chuyển sang dung môi hoà tan nó tốt hơn. Hai dung môi trộn lẫn thì không tạo hai lớp để tách; nhiệt độ sôi và khối lượng riêng chỉ ảnh hưởng đến cách thu lớp chất lỏng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Dụng cụ thích hợp để thực hiện chiết lỏng – lỏng trong phòng thí nghiệm là",
+      "options": [
+        { "key": "A", "text": "phễu chiết đặt trên giá, có khoá ở cuống." },
+        { "key": "B", "text": "bình cầu đáy tròn lắp ống sinh hàn." },
+        { "key": "C", "text": "cột thuỷ tinh nhồi silica gel." },
+        { "key": "D", "text": "chén sứ đặt trên lưới amiăng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phễu chiết (bình gạn) cho phép lắc hỗn hợp với dung môi rồi xả riêng từng lớp chất lỏng qua khoá. Bình cầu có ống sinh hàn dùng khi chưng cất, cột nhồi dùng cho sắc kí cột, chén sứ dùng để nung hoặc đun bay hơi dung dịch.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Để tách tinh dầu từ vỏ cam hoặc lá bạc hà, phương pháp phù hợp là",
+      "options": [
+        { "key": "A", "text": "chưng cất lôi cuốn hơi nước." },
+        { "key": "B", "text": "kết tinh lại trong ethanol nóng." },
+        { "key": "C", "text": "lọc nóng rồi sấy khô." },
+        { "key": "D", "text": "chiết bằng dung dịch nước muối bão hoà." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tinh dầu là chất lỏng không tan trong nước, nhiệt độ sôi cao và dễ phân huỷ khi đun nóng mạnh; hơi nước cuốn tinh dầu sang ống sinh hàn nên tách được ở nhiệt độ thấp hơn. Kết tinh chỉ dùng cho chất rắn, lọc chỉ giữ được chất rắn không tan, nước muối không hoà tan chọn lọc tinh dầu.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Kết tinh lại là phương pháp được dùng để",
+      "options": [
+        { "key": "A", "text": "tinh chế chất rắn dựa trên độ tan của nó thay đổi theo nhiệt độ." },
+        { "key": "B", "text": "tách hai chất lỏng không trộn lẫn thành hai lớp riêng." },
+        { "key": "C", "text": "tách chất khí hoà tan ra khỏi chất lỏng." },
+        { "key": "D", "text": "phân tách các chất dựa trên khả năng hấp phụ khác nhau." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kết tinh lại hoà tan chất rắn trong dung môi nóng, lọc nóng loại tạp không tan rồi làm lạnh để chất cần tinh chế kết tinh trở lại. Tách hai chất lỏng không trộn lẫn là chiết, tách chất khí hoà tan là đun nóng, còn hấp phụ là cơ sở của sắc kí.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghiệp, để chia dầu mỏ thành xăng, dầu hoả, dầu diesel..., người ta dùng",
+      "options": [
+        { "key": "A", "text": "chưng cất phân đoạn trên tháp chưng cất." },
+        { "key": "B", "text": "chiết lỏng – lỏng bằng nước." },
+        { "key": "C", "text": "kết tinh lại ở nhiệt độ thấp." },
+        { "key": "D", "text": "sắc kí cột với pha tĩnh là alumina." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Các cấu tử của dầu mỏ là những chất lỏng có nhiệt độ sôi khác nhau nhưng gần nhau, nên phải chưng cất phân đoạn: hơi đi lên trong tháp, cấu tử sôi thấp nhất ra ở đỉnh, các phân đoạn nặng hơn lấy ở những đĩa thấp hơn. Chiết, kết tinh và sắc kí không dùng để chia cắt dầu mỏ ở quy mô công nghiệp.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong sắc kí cột, các chất của hỗn hợp được tách riêng là nhờ",
+      "options": [
+        { "key": "A", "text": "mức độ hấp phụ khác nhau của chúng trên pha tĩnh." },
+        { "key": "B", "text": "nhiệt độ sôi khác nhau của chúng." },
+        { "key": "C", "text": "khối lượng riêng khác nhau của chúng." },
+        { "key": "D", "text": "khả năng kết tinh khác nhau của chúng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Pha tĩnh (silica gel, alumina...) hấp phụ các chất với mức độ khác nhau, còn pha động là dung môi rửa giải chảy qua cột. Chất bị hấp phụ yếu di chuyển nhanh hơn và ra khỏi cột trước, nhờ đó tách được hỗn hợp. Nhiệt độ sôi, khối lượng riêng, khả năng kết tinh là cơ sở của các phương pháp khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Chưng cất lôi cuốn hơi nước tách được chất có nhiệt độ sôi cao vì",
+      "options": [
+        { "key": "A", "text": "hơi nước cuốn chất đó theo ở nhiệt độ thấp hơn nhiệt độ sôi của nó, hạn chế sự phân huỷ." },
+        { "key": "B", "text": "nước hoà tan hoàn toàn chất đó nên làm hạ nhiệt độ sôi của hỗn hợp." },
+        { "key": "C", "text": "áp suất trong bình tăng mạnh làm chất bay hơi nhanh hơn." },
+        { "key": "D", "text": "chất đó kết tinh lại ngay trong ống sinh hàn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chất cần tách không tan trong nước nên hỗn hợp sôi ở nhiệt độ thấp hơn nhiệt độ sôi của từng cấu tử; hơi nước kéo chất đi, sau khi ngưng tụ lại tách thành hai lớp. Nhờ đun ở nhiệt độ thấp nên những hợp chất dễ phân huỷ vẫn giữ được, đó là ưu điểm so với chưng cất thường.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi chưng cất đơn giản, bầu nhiệt kế được đặt ngang với nhánh chưng nhằm",
+      "options": [
+        { "key": "A", "text": "đo nhiệt độ của hơi thoát ra, tức nhiệt độ sôi của chất đang được thu." },
+        { "key": "B", "text": "đo nhiệt độ của chất lỏng ở đáy bình cầu." },
+        { "key": "C", "text": "tránh cho nhiệt kế tiếp xúc với hơi nóng." },
+        { "key": "D", "text": "đo nhiệt độ của nước làm lạnh trong ống sinh hàn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhiệt độ cần theo dõi là nhiệt độ của hơi bay sang ống sinh hàn, tương ứng nhiệt độ sôi của cấu tử đang chưng. Nếu bầu nhiệt kế ngập trong chất lỏng, số đọc bị lệch do quá nhiệt và không phản ánh nhiệt độ của hơi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho hỗn hợp và dung môi vào phễu chiết, lắc đều rồi để yên cho tách thành hai lớp. Thao tác tiếp theo là",
+      "options": [
+        { "key": "A", "text": "mở nút phễu rồi mở khoá cho lớp chất lỏng phía dưới chảy xuống bình hứng." },
+        { "key": "B", "text": "lắc mạnh thêm cho đến khi chỉ còn một lớp đồng nhất." },
+        { "key": "C", "text": "đun nóng phễu chiết để hai lớp hoà vào nhau." },
+        { "key": "D", "text": "đổ cả hỗn hợp qua giấy lọc để giữ lại lớp dưới." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai lớp tách theo khối lượng riêng, lớp nặng hơn ở dưới; mở nút phễu để cân bằng áp suất rồi xả từ từ lớp dưới, sau đó thu lớp trên qua miệng phễu. Lắc thêm hay đun nóng sẽ làm hai dung môi trộn lại, còn lọc không tách được hai chất lỏng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Ngâm lá cây đã nghiền nhỏ trong ethanol để hoà tan các chất màu là ví dụ của phương pháp",
+      "options": [
+        { "key": "A", "text": "chiết rắn – lỏng." },
+        { "key": "B", "text": "chưng cất phân đoạn." },
+        { "key": "C", "text": "kết tinh lại." },
+        { "key": "D", "text": "sắc kí cột." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chiết rắn – lỏng dùng dung môi lỏng hoà tan chọn lọc chất cần lấy ra khỏi pha rắn, sau đó lọc bỏ bã và thu hồi dung môi. Chưng cất, kết tinh lại và sắc kí đều không phải quá trình hoà tan chất rắn bằng dung môi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong bước tinh chế chất rắn bằng kết tinh lại, than hoạt tính được thêm vào dung dịch nóng nhằm",
+      "options": [
+        { "key": "A", "text": "hấp phụ các tạp chất màu, sau đó bị loại bỏ cùng với than khi lọc nóng." },
+        { "key": "B", "text": "hoà tan thêm chất cần tinh chế để tăng hiệu suất." },
+        { "key": "C", "text": "làm giảm nhiệt độ sôi của dung môi." },
+        { "key": "D", "text": "tạo mầm kết tinh cho chất rắn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Than hoạt tính có bề mặt riêng rất lớn, hấp phụ mạnh các phân tử tạp chất màu; lọc nóng giữ than và tạp trên giấy lọc, dung dịch trong đi qua. Than không hoà tan chất cần tinh chế, không làm đổi nhiệt độ sôi của dung môi và không phải chất tạo mầm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Thứ tự thao tác đúng khi tinh chế một chất rắn bằng kết tinh lại là",
+      "options": [
+        { "key": "A", "text": "hoà tan trong dung môi nóng ở nhiệt độ sôi, lọc nóng, để nguội cho kết tinh, lọc lấy tinh thể rồi sấy khô." },
+        { "key": "B", "text": "hoà tan trong dung môi lạnh, đun sôi dung dịch, lọc rồi sấy khô." },
+        { "key": "C", "text": "đun nóng chảy chất rắn, lọc nóng, để nguội rồi hoà tan vào nước." },
+        { "key": "D", "text": "hoà tan trong dung môi nóng, sấy khô ngay rồi mới lọc lấy tinh thể." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chất cần tinh chế tan nhiều trong dung môi nóng và ít tan khi lạnh, nên phải hoà tan ở nhiệt độ sôi và lọc nóng để loại tạp không tan; làm nguội thì chất kết tinh, lọc lấy tinh thể rồi sấy. Hoà tan trong dung môi lạnh hoặc sấy trước khi lọc đều không thu được tinh thể sạch.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau khi lọc hút lấy tinh thể, để loại dung môi còn bám trên bề mặt tinh thể, người ta",
+      "options": [
+        { "key": "A", "text": "sấy tinh thể trong tủ sấy ở nhiệt độ thích hợp." },
+        { "key": "B", "text": "đun nóng chảy hoàn toàn tinh thể." },
+        { "key": "C", "text": "rửa tinh thể bằng nước rồi để nguyên trạng thái ướt." },
+        { "key": "D", "text": "hoà tan tinh thể vào dung môi rồi lọc lại." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sấy ở nhiệt độ vừa phải làm bay hơi dung môi mà không phá huỷ tinh thể, đây là bước cuối của quy trình lọc – sấy. Đun nóng chảy sẽ mất chất, rửa rồi để ướt thì chưa loại được dung môi, hoà tan lại là làm hỏng sản phẩm vừa tinh chế.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Một chất lỏng không tan trong nước, có nhiệt độ sôi 180 °C và bị phân huỷ khi đun ở nhiệt độ đó. Để tách chất này khỏi hỗn hợp, nên dùng",
+      "options": [
+        { "key": "A", "text": "chưng cất lôi cuốn hơi nước." },
+        { "key": "B", "text": "chưng cất thường ở 180 °C." },
+        { "key": "C", "text": "kết tinh lại trong nước nóng." },
+        { "key": "D", "text": "chiết bằng dung dịch acid loãng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chất không tan trong nước và nhạy cảm với nhiệt nên chưng cất lôi cuốn hơi nước là lựa chọn phù hợp: hỗn hợp sôi dưới 100 °C, hơi nước cuốn chất sang ống sinh hàn. Chưng cất thường ở 180 °C sẽ phân huỷ chất, kết tinh lại chỉ dùng cho chất rắn, chiết bằng acid loãng không tách được chất không tan trong nước.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Hỗn hợp gồm dầu ăn (không tan trong nước, nhẹ hơn nước) và nước muối. Trình tự hợp lí để thu riêng dầu ăn và muối ăn là",
+      "options": [
+        { "key": "A", "text": "chiết lỏng – lỏng bằng phễu chiết để lấy lớp dầu ăn, rồi cô cạn phần nước muối để thu muối ăn." },
+        { "key": "B", "text": "lọc hỗn hợp để giữ dầu ăn trên giấy lọc, rồi chưng cất phần nước." },
+        { "key": "C", "text": "kết tinh lại hỗn hợp để dầu ăn kết tinh trước muối ăn." },
+        { "key": "D", "text": "chưng cất lôi cuốn hơi nước để tách muối ăn khỏi dầu ăn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dầu ăn và nước muối là hai chất lỏng không trộn lẫn, phân thành hai lớp nên tách bằng phễu chiết (chiết lỏng – lỏng); muối ăn tan trong nước được thu bằng cách cô cạn dung dịch. Dầu ăn ở dạng lỏng nên lọc không giữ được, còn muối ăn không bay hơi theo hơi nước.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi lựa chọn dung môi để kết tinh lại một chất rắn, yêu cầu đúng là",
+      "options": [
+        { "key": "A", "text": "chất cần tinh chế tan tốt trong dung môi nóng và tan kém trong dung môi lạnh." },
+        { "key": "B", "text": "chất cần tinh chế tan kém trong dung môi nóng và tan tốt trong dung môi lạnh." },
+        { "key": "C", "text": "chất cần tinh chế tan vô hạn trong dung môi ở mọi nhiệt độ." },
+        { "key": "D", "text": "dung môi phải có nhiệt độ sôi thấp hơn nhiệt độ nóng chảy của chất." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Kết tinh lại khai thác độ tan giảm khi hạ nhiệt độ: hoà tan trong dung môi nóng, làm lạnh thì chất kết tinh, phần lớn tạp chất nằm lại trong nước cái. Nếu chất tan kém khi nóng thì không hoà tan được, nếu tan vô hạn ở mọi nhiệt độ thì không có gì kết tinh; nhiệt độ sôi của dung môi không cần thấp hơn nhiệt độ nóng chảy của chất.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai chất lỏng A (nhiệt độ sôi 56 °C) và B (nhiệt độ sôi 58 °C) tan hoàn toàn vào nhau. Nhận định nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Không tách được bằng chưng cất thường vì nhiệt độ sôi quá gần nhau; cần chưng cất phân đoạn với cột chưng dài." },
+        { "key": "B", "text": "Tách được dễ dàng bằng phễu chiết vì hai chất có khối lượng riêng khác nhau." },
+        { "key": "C", "text": "Tách được bằng cách làm lạnh để một chất kết tinh." },
+        { "key": "D", "text": "Tách được bằng cách lọc qua giấy lọc mịn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chưng cất thường chỉ tách tốt khi nhiệt độ sôi chênh lệch rõ; hai chất sôi cách nhau 2 °C sẽ bay hơi gần như đồng thời nên phải dùng tháp chưng phân đoạn có nhiều đĩa. A và B tan vào nhau nên không có hai lớp để chiết, cả hai đều là chất lỏng ở nhiệt độ thường nên không lọc và không kết tinh được.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    },
+    {
+      "id": "de-hoa-11-bai-11-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-11",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau khi chưng cất lôi cuốn hơi nước và ngưng tụ, thu được hỗn hợp nước và tinh dầu tách thành hai lớp. Để lấy riêng tinh dầu, thao tác tiếp theo là",
+      "options": [
+        { "key": "A", "text": "chiết lỏng – lỏng bằng phễu chiết, thu riêng lớp tinh dầu." },
+        { "key": "B", "text": "kết tinh lại hỗn hợp trong ethanol nóng." },
+        { "key": "C", "text": "lọc nóng hỗn hợp qua giấy lọc." },
+        { "key": "D", "text": "chưng cất phân đoạn hỗn hợp ở áp suất thường." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tinh dầu không tan trong nước nên sau ngưng tụ tạo hai lớp, dùng phễu chiết tách lớp tinh dầu là thao tác đơn giản và phù hợp. Kết tinh chỉ dùng cho chất rắn, lọc không giữ được chất lỏng, còn chưng cất phân đoạn ở áp suất thường cần nhiệt độ cao nên dễ làm tinh dầu phân huỷ.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 11", "Tách biệt và tinh chế hợp chất hữu cơ"]
+    }
+  ]
+}

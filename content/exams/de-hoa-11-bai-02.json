@@ -1,0 +1,377 @@
+{
+  "id": "de-hoa-11-bai-02",
+  "title": "Hóa học 11 – Bài 2. Cân bằng trong dung dịch nước",
+  "slug": "de-hoa-11-bai-02",
+  "description": "20 câu trắc nghiệm bám sát Bài 2 SGK Hóa học 11 (Kết nối tri thức): sự điện li và chất điện li mạnh, yếu; thuyết Brønsted – Lowry; hằng số phân li acid Ka; tích số ion của nước, pH và chất chỉ thị acid – base; tính pH dung dịch acid mạnh, base mạnh và ý nghĩa thực tiễn của pH.",
+  "subject": "hoa-hoc",
+  "grade": 11,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 30,
+  "totalScore": 10,
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "updatedAt": "2026-11-05T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-hoa-11-bai-02-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Chất điện li là chất",
+      "options": [
+        { "key": "A", "text": "dẫn điện được ở trạng thái rắn." },
+        { "key": "B", "text": "khi tan trong nước phân li ra các ion." },
+        { "key": "C", "text": "chỉ gồm các hợp chất ion, không gồm hợp chất cộng hoá trị." },
+        { "key": "D", "text": "tan trong nước nhưng không phân li ra ion." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Chất điện li khi tan trong nước phân li ra ion, chính các ion chuyển động tự do làm dung dịch dẫn điện. A sai vì chất rắn ion không dẫn điện; C sai vì HCl là hợp chất cộng hoá trị phân cực nhưng vẫn là chất điện li mạnh; D mô tả chất không điện li.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Dãy nào sau đây chỉ gồm các chất điện li mạnh?",
+      "options": [
+        { "key": "A", "text": "HCl, CH₃COOH, NaOH." },
+        { "key": "B", "text": "NaCl, H₂O, C₂H₅OH." },
+        { "key": "C", "text": "HCl, NaOH, NaCl." },
+        { "key": "D", "text": "CH₃COOH, H₂CO₃, Al(OH)₃." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chất điện li mạnh gồm acid mạnh, base mạnh và hầu hết muối tan, nên HCl, NaOH, NaCl đều điện li mạnh. A có CH₃COOH điện li yếu; B có H₂O và C₂H₅OH là chất điện li yếu và không điện li; D gồm toàn chất điện li yếu.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Phương trình điện li nào sau đây được viết đúng?",
+      "options": [
+        { "key": "A", "text": "H₂SO₄ → H⁺ + SO₄²⁻" },
+        { "key": "B", "text": "CH₃COOH → CH₃COO⁻ + H⁺" },
+        { "key": "C", "text": "NaOH ⇌ Na⁺ + OH⁻" },
+        { "key": "D", "text": "Na₂SO₄ → 2Na⁺ + SO₄²⁻" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Na₂SO₄ là muối tan, điện li hoàn toàn đúng tỉ lượng thành 2Na⁺ và 1SO₄²⁻. A sai vì H₂SO₄ phân li cho 2H⁺, phương trình đã viết không bảo toàn điện tích; B sai vì CH₃COOH điện li yếu nên phải dùng mũi tên thuận nghịch; C sai vì NaOH là base mạnh, dùng mũi tên một chiều.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở 25 °C, dung dịch có pH = 5 thuộc môi trường",
+      "options": [
+        { "key": "A", "text": "acid." },
+        { "key": "B", "text": "base." },
+        { "key": "C", "text": "trung tính." },
+        { "key": "D", "text": "không xác định được vì thiếu nồng độ." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ở 25 °C, pH = 7 là trung tính; pH = 5 nghĩa là [H⁺] = 10⁻⁵ mol/L lớn hơn 10⁻⁷ mol/L nên môi trường acid. B ứng với pH lớn hơn 7; C ứng với pH đúng bằng 7; D sai vì chỉ số pH đã cho biết môi trường.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhúng quỳ tím vào dung dịch NaOH 0,01 M, quỳ tím chuyển sang màu",
+      "options": [
+        { "key": "A", "text": "đỏ." },
+        { "key": "B", "text": "xanh." },
+        { "key": "C", "text": "tím, không đổi màu." },
+        { "key": "D", "text": "mất màu." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "NaOH là base mạnh nên dung dịch có pH lớn hơn 7, quỳ tím hoá xanh. Đỏ ứng với môi trường acid; tím ứng với môi trường trung tính; quỳ tím không bị mất màu trong dung dịch base loãng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở 25 °C, tích số ion của nước Kw = [H⁺][OH⁻] bằng",
+      "options": [
+        { "key": "A", "text": "10⁻⁷." },
+        { "key": "B", "text": "10⁻⁵." },
+        { "key": "C", "text": "10⁻¹⁴." },
+        { "key": "D", "text": "10⁻¹²." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong nước nguyên chất ở 25 °C, [H⁺] = [OH⁻] = 10⁻⁷ mol/L nên Kw = 10⁻⁷ × 10⁻⁷ = 10⁻¹⁴. A là nồng độ của mỗi ion chứ không phải tích số; B và D không ứng với số liệu của nước ở 25 °C.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "So sánh dung dịch HCl 0,1 M và dung dịch CH₃COOH 0,1 M ở cùng nhiệt độ. Nhận định nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Hai dung dịch có pH bằng nhau." },
+        { "key": "B", "text": "Dung dịch CH₃COOH có pH nhỏ hơn." },
+        { "key": "C", "text": "Dung dịch CH₃COOH dẫn điện tốt hơn." },
+        { "key": "D", "text": "Dung dịch HCl có pH nhỏ hơn." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "HCl là acid mạnh phân li hoàn toàn nên nồng độ H⁺ lớn, pH nhỏ; CH₃COOH là acid yếu chỉ phân li một phần nên nồng độ H⁺ nhỏ hơn, pH lớn hơn và dẫn điện kém hơn. Vì vậy A, B và C đều sai.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "pH của dung dịch HCl 0,01 M ở 25 °C là",
+      "options": [
+        { "key": "A", "text": "2." },
+        { "key": "B", "text": "1." },
+        { "key": "C", "text": "12." },
+        { "key": "D", "text": "0,01." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "HCl điện li hoàn toàn: [H⁺] = 0,01 = 10⁻² mol/L nên pH = -log(10⁻²) = 2. D là nồng độ mol chứ không phải pH; C là pH của dung dịch base cùng nồng độ; B ứng với dung dịch HCl 0,1 M.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "pH của dung dịch NaOH 0,001 M ở 25 °C là",
+      "options": [
+        { "key": "A", "text": "3." },
+        { "key": "B", "text": "11." },
+        { "key": "C", "text": "10." },
+        { "key": "D", "text": "14." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "NaOH điện li hoàn toàn: [OH⁻] = 10⁻³ mol/L nên pOH = 3, suy ra pH = 14 - 3 = 11. A là giá trị pOH; C và D không ứng với nồng độ đã cho.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Dung dịch có pH = 4 thì nồng độ H⁺ trong dung dịch là",
+      "options": [
+        { "key": "A", "text": "4 mol/L." },
+        { "key": "B", "text": "10⁻¹⁰ mol/L." },
+        { "key": "C", "text": "10⁻⁴ mol/L." },
+        { "key": "D", "text": "10⁻⁷ mol/L." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Từ pH = -log[H⁺], với pH = 4 suy ra [H⁺] = 10⁻⁴ mol/L. B là nồng độ OH⁻ của chính dung dịch này; A hiểu nhầm pH là nồng độ; D là nồng độ H⁺ trong nước nguyên chất.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhỏ phenolphthalein lần lượt vào dung dịch có pH = 3 và dung dịch có pH = 12. Màu của chất chỉ thị trong hai dung dịch lần lượt là",
+      "options": [
+        { "key": "A", "text": "hồng và không màu." },
+        { "key": "B", "text": "hồng và hồng." },
+        { "key": "C", "text": "không màu và không màu." },
+        { "key": "D", "text": "không màu và hồng." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phenolphthalein không màu trong môi trường acid (pH = 3) và chuyển hồng trong môi trường base (pH = 12). A đảo ngược kết quả; B và C sai vì màu của chỉ thị phụ thuộc pH của dung dịch.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong dung dịch CH₃COOH 0,1 M, tiểu phân nào có nồng độ lớn nhất?",
+      "options": [
+        { "key": "A", "text": "CH₃COOH, tức phân tử chưa phân li." },
+        { "key": "B", "text": "H⁺." },
+        { "key": "C", "text": "CH₃COO⁻." },
+        { "key": "D", "text": "OH⁻." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "CH₃COOH là chất điện li yếu, chỉ một phần nhỏ phân li nên phần lớn vẫn ở dạng phân tử, do đó nồng độ CH₃COOH lớn nhất. B và C nhỏ và xấp xỉ bằng nhau; D rất nhỏ vì dung dịch có môi trường acid.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Dung dịch H₂SO₄ 0,005 M (phân li hoàn toàn theo cả hai nấc) có pH bằng",
+      "options": [
+        { "key": "A", "text": "2,3." },
+        { "key": "B", "text": "2." },
+        { "key": "C", "text": "12." },
+        { "key": "D", "text": "1." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "H₂SO₄ → 2H⁺ + SO₄²⁻ nên [H⁺] = 2 × 0,005 = 0,01 = 10⁻² mol/L, pH = 2. A là kết quả khi quên hệ số 2 (ứng với [H⁺] = 0,005 mol/L); C là pH của dung dịch base; D ứng với [H⁺] = 0,1 mol/L.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho cân bằng: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻. Theo thuyết Brønsted – Lowry, trong phản ứng trên H₂O đóng vai trò",
+      "options": [
+        { "key": "A", "text": "base, vì nhận H⁺ từ NH₃." },
+        { "key": "B", "text": "base, vì phản ứng sinh ra OH⁻." },
+        { "key": "C", "text": "acid, vì nhường H⁺ cho NH₃." },
+        { "key": "D", "text": "vừa acid vừa base trong cùng một phản ứng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "H₂O nhường H⁺ cho NH₃ nên là acid; NH₃ nhận H⁺ nên là base, tương ứng NH₄⁺ là acid liên hợp của NH₃ và OH⁻ là base liên hợp của H₂O. A mô tả ngược vai trò; B nhầm việc sinh ra OH⁻ với vai trò base; D sai vì trong phản ứng này H₂O chỉ nhường H⁺.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong nước, CH₃COOH phân li theo cân bằng CH₃COOH ⇌ CH₃COO⁻ + H⁺. Hằng số phân li acid Ka của CH₃COOH là",
+      "options": [
+        { "key": "A", "text": "Ka = [CH₃COOH]/([CH₃COO⁻][H⁺])." },
+        { "key": "B", "text": "Ka = [CH₃COO⁻][H⁺]/[CH₃COOH]." },
+        { "key": "C", "text": "Ka = [CH₃COO⁻][H⁺]." },
+        { "key": "D", "text": "Ka = [CH₃COOH][H⁺]/[CH₃COO⁻]." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ka là tỉ số giữa tích nồng độ sản phẩm và nồng độ acid chưa phân li: Ka = [CH₃COO⁻][H⁺]/[CH₃COOH]. A là nghịch đảo của biểu thức đúng; C thiếu nồng độ CH₃COOH ở mẫu; D đặt sai chất ở tử số và mẫu số.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Nồng độ H⁺ trong dung dịch Ba(OH)₂ 0,005 M ở 25 °C là",
+      "options": [
+        { "key": "A", "text": "10⁻¹² mol/L." },
+        { "key": "B", "text": "10⁻² mol/L." },
+        { "key": "C", "text": "10⁻⁷ mol/L." },
+        { "key": "D", "text": "10⁻¹⁴ mol/L." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ba(OH)₂ → Ba²⁺ + 2OH⁻ nên [OH⁻] = 2 × 0,005 = 0,01 = 10⁻² mol/L; từ Kw = 10⁻¹⁴ suy ra [H⁺] = 10⁻¹⁴/10⁻² = 10⁻¹² mol/L. B là nồng độ OH⁻ của dung dịch; C là nồng độ H⁺ trong nước nguyên chất; D là giá trị Kw.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Trộn 100 mL dung dịch HCl 0,2 M với 100 mL dung dịch NaOH 0,1 M, coi thể tích dung dịch thu được là 200 mL. pH của dung dịch sau khi trộn là",
+      "options": [
+        { "key": "A", "text": "7." },
+        { "key": "B", "text": "1,3." },
+        { "key": "C", "text": "12,7." },
+        { "key": "D", "text": "2." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "n(H⁺) = 0,1 × 0,2 = 0,02 mol; n(OH⁻) = 0,1 × 0,1 = 0,01 mol nên H⁺ dư 0,01 mol. [H⁺] = 0,01/0,2 = 0,05 mol/L, pH = –log(0,05) xấp xỉ 1,3. A ứng với trường hợp trung hoà vừa đủ; C là pH khi base dư; D ứng với [H⁺] = 0,01 mol/L.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở 25 °C, pH của một số môi trường như sau: dịch dạ dày 2,0; đất chua 4,5; nước mưa bình thường 5,6; máu người 7,4. Dãy nào sau đây sắp xếp đúng theo chiều nồng độ H⁺ tăng dần?",
+      "options": [
+        { "key": "A", "text": "Dịch dạ dày, đất chua, nước mưa, máu người." },
+        { "key": "B", "text": "Nước mưa, máu người, dịch dạ dày, đất chua." },
+        { "key": "C", "text": "Đất chua, dịch dạ dày, máu người, nước mưa." },
+        { "key": "D", "text": "Máu người, nước mưa, đất chua, dịch dạ dày." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "pH càng nhỏ thì nồng độ H⁺ càng lớn; sắp theo pH giảm dần 7,4 → 5,6 → 4,5 → 2,0 được dãy máu người, nước mưa, đất chua, dịch dạ dày. A xếp ngược hoàn toàn; B và C không theo trật tự pH nào của bốn môi trường đã cho.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Pha loãng dung dịch NaOH có pH = 12 bằng nước cất thành thể tích gấp 100 lần. pH của dung dịch thu được là",
+      "options": [
+        { "key": "A", "text": "10." },
+        { "key": "B", "text": "4." },
+        { "key": "C", "text": "2." },
+        { "key": "D", "text": "12." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "pH = 12 nên pOH = 2 và [OH⁻] = 10⁻² mol/L; pha loãng 100 lần thì [OH⁻] = 10⁻⁴ mol/L, pOH = 4, suy ra pH = 14 – 4 = 10. B là giá trị pOH của dung dịch sau pha loãng; C là pOH ban đầu; D cho rằng pha loãng không làm đổi pH.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    },
+    {
+      "id": "de-hoa-11-bai-02-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-hoa-11-bai-02",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho các phát biểu về dung dịch nước ở 25 °C:\n(1) Theo thuyết Brønsted – Lowry, NH₃ là base vì có khả năng nhận H⁺.\n(2) Dung dịch NaCl 0,1 M có pH = 7.\n(3) Dung dịch CH₃COOH 0,1 M có pH lớn hơn 7.\n(4) Dung dịch có pH = 9 thì nồng độ H⁺ nhỏ hơn nồng độ OH⁻.\nSố phát biểu đúng là",
+      "options": [
+        { "key": "A", "text": "1." },
+        { "key": "B", "text": "2." },
+        { "key": "C", "text": "4." },
+        { "key": "D", "text": "3." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "(1) đúng theo định nghĩa base của Brønsted – Lowry; (2) đúng vì NaCl là muối của acid mạnh và base mạnh nên dung dịch trung tính; (3) sai vì CH₃COOH là acid nên pH nhỏ hơn 7; (4) đúng vì pH = 9 lớn hơn 7 nên môi trường base, [H⁺] < [OH⁻]. Vậy có 3 phát biểu đúng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": ["Hóa học 11", "Bài 2", "Cân bằng trong dung dịch nước"]
+    }
+  ]
+}

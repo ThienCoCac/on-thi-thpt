@@ -35,9 +35,9 @@ export PATH="/c/Users/trinh/.qoder/tmp/node20/node-v20.18.1-win-x64:$PATH"
 ## Bốn tầng kiểm tra
 
 - Soạn đề (nhanh nhất, không mở trình duyệt): `node scripts/check-exam.mjs content/exams/de-<môn>-....json`
-  hoặc `--all` cho cả 164 đề, không tham số thì tự lấy file đề vừa sửa theo `git diff`. Script soi Zod,
+  hoặc `--all` cho cả 190 đề, không tham số thì tự lấy file đề vừa sửa theo `git diff`. Script soi Zod,
   đáp án có trong phương án, chuyên đề thuộc môn, ảnh tồn tại trong `public/`, công thức KaTeX lỗi,
-  marker TODO, chuỗi `\n` thô — chạy hết 164 đề trong khoảng 2 giây. `WARN` chỉ để soát nội dung, `LỖI` mới tính.
+  marker TODO, chuỗi `\n` thô — chạy hết 190 đề trong khoảng 2 giây. `WARN` chỉ để soát nội dung, `LỖI` mới tính.
 - Nhanh (giữa các bước sửa): `node scripts/verify.mjs --scope=ui`, hoặc `--scope=<môn>`, hoặc `--files=<vừa sửa>`.
 - Đủ (trước khi báo hoàn thành / trước khi commit): `node scripts/verify.mjs --scope=all`.
 - Deploy (trước khi push + `wrangler deploy`): `node scripts/verify.mjs --scope=deploy --build`.
@@ -46,8 +46,8 @@ Mặc định `node scripts/verify.mjs` tự chọn phạm vi từ `git diff`. X
 `--help` để xem tùy chọn. Có alias npm: `verify`, `verify:all`, `verify:deploy`.
 
 Các bộ test chạy **song song**, mặc định 4 bộ một lúc (`--jobs=<n>`; `--jobs=1` để tuần tự cho dễ đọc log).
-Thời gian thực đo: một bộ test môn 14–100 giây khi chạy riêng, `--scope=all` (11 bộ, 807 kiểm tra) hết
-khoảng 4 phút 17 giây vì bộ Tiếng Anh phải làm trọn nhiều đề (3 phút 37 một mình), `--scope=live` ≈ 50 giây;
+Thời gian thực đo: một bộ test môn 14–100 giây khi chạy riêng, `--scope=all` (12 bộ, 848 kiểm tra) hết
+khoảng 3 phút 30 giây vì bộ Tiếng Anh phải làm trọn nhiều đề (3 phút 02 một mình), `--scope=live` ≈ 50 giây;
 build toàn site khoảng 91 giây và `out/` còn 28 MB thay vì 74 MB,
 nên `wrangler deploy` cũng nhẹ đi tương ứng.
 Typecheck chỉ khoảng 2 giây nên luôn nên chạy; `--no-lint` chỉ dùng khi vừa lint xong vài giây trước đó.
@@ -59,19 +59,20 @@ Một bộ test in ra `0/0 kiểm tra` hoặc "không đọc được dòng tổ
 
 Script ánh xạ tự động, nắm quy tắc để đoán thời gian:
 
-- `lib/**`, `content/subjects.json`, `app/globals.css`, `tailwind.config.ts`, `next.config.mjs`, `package.json`, `tsconfig.json`, `components/ui/**` → chạy hết 11 bộ (lõi dữ liệu/chấm điểm/style toàn site).
+- `lib/**`, `content/subjects.json`, `app/globals.css`, `tailwind.config.ts`, `next.config.mjs`, `package.json`, `tsconfig.json`, `components/ui/**` → chạy hết 12 bộ (lõi dữ liệu/chấm điểm/style toàn site).
 - `app/**`, `components/**`, `public/**` → `static` + `features`. Riêng `app/data/**` là route sinh
   `/data/exams/*.json` và `/data/bank/*.json` nên sửa xong phải chạy thêm `--scope=all`, không chỉ `ui`.
 - `content/exams/de-<môn>.json` → bộ test của môn đó + `static` + `features` (đổi số câu làm đổi tổng ở trang danh sách).
 - `docs/**`, `scripts/**`, `README.md`, `AGENTS.md` → không cần mở trình duyệt (`--scope=none`).
 
-Mười một bộ test puppeteer và số kiểm tra hiện tại: `static` 45, `features` 94, `van` 49, `ktpl` 42,
-`anh` 97, `mini` 27, `su` 151, `vact` 18, `dia` 88, `tinhoc` 54, `toan` 142 (tổng 807). Bộ `toan` kiểm
+Mười hai bộ test puppeteer và số kiểm tra hiện tại: `static` 45, `features` 94, `van` 49, `ktpl` 53,
+`anh` 97, `mini` 27, `su` 151, `vact` 18, `dia` 88, `tinhoc` 54, `hoa` 30, `toan` 142 (tổng 848). Bộ `toan` kiểm
 tra cả 8 đề tốt nghiệp thật lẫn 19 đề ôn theo bài SGK; số bài và số chuyên đề nó đọc thẳng từ
-`content/subjects.json` + `content/exams/` nên thêm bài mới không phải sửa suite. Hai suite live
+`content/subjects.json` + `content/exams/` nên thêm bài mới không phải sửa suite. Bộ `hoa` kiểm 25 đề Hóa 11
+theo bài (20 câu, 10 điểm mỗi đề), ngân hàng 500 câu và bộ lọc Hóa học. Hai suite live
 (`shot/verify-live.js`, `su/verify-live.js`) chỉ chạy với `--scope=live` hoặc `--scope=deploy`, kiểm tra
 bản trên Cloudflare gồm cả việc file `/data/...` mới tải được và trang làm bài hết hiện "Đang tải nội dung".
-File đặt ngoài repo, trong `C:/Users/trinh/.qoder/tmp/` (`shot/`, `su/`, `ktpl/`, `english/`, `vact/`, `dia/`, `tinhoc/`, `toan/`).
+File đặt ngoài repo, trong `C:/Users/trinh/.qoder/tmp/` (`shot/`, `su/`, `ktpl/`, `english/`, `vact/`, `dia/`, `tinhoc/`, `hoa/`, `toan/`).
 Nếu mất file, verify.mjs in `THIẾU FILE` và tính là lỗi — tuyệt đối không xóa kiểm tra để "cho qua".
 
 Bẫy khi viết suite: phòng thi chặn `beforeunload` (`components/exams/exam-runner.tsx`), nên sau khi bấm

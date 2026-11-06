@@ -55,6 +55,12 @@ const SUBJECT_THEMES: Record<string, SubjectTheme> = {
     hoverBorder: 'hover:border-emerald-300',
     glow: 'bg-emerald-500/10',
   },
+  'hoa-hoc': {
+    chip: 'border-transparent bg-cyan-100 text-cyan-800',
+    bar: 'bg-gradient-to-r from-cyan-400 to-cyan-600',
+    hoverBorder: 'hover:border-cyan-300',
+    glow: 'bg-cyan-500/10',
+  },
 };
 
 const FALLBACK_THEME: SubjectTheme = {
