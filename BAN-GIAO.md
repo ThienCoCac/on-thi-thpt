@@ -4,17 +4,17 @@ Cập nhật 07/11/2026. Mở task mới thì đọc file này trước, rồi t
 
 ## Trạng thái hiện tại
 
-- **Bản LIVE**: commit `54c4eba`, đã push `origin/main`, deploy Cloudflare version `acfd6c0c-4b6a-4277-9e3d-6c25ea45f60e` tại https://on-thi-thpt.thiencogemini1.workers.dev — **201 đề / 7.397 câu**, `--scope=live` = **41/41**. Bản live và nội dung trên đĩa đã trùng nhau, không còn đợt nào chờ deploy.
-- Cổng kiểm tra của đợt này: `check-exam --all` = `OK: 201 đề, 7397 câu, 6 cảnh báo` (6 WARN đều là 5 đề Sử cũ chuyển từ DOCX, bình thường); `--scope=all` = **12 bộ / 848 kiểm tra xanh**; `--scope=deploy --build` xanh 12 bộ local (riêng bộ `live` khi đó còn chấm bản cũ 190 đề nên trượt — xem mục sự cố).
-- Nội dung trên đĩa: **210 đề / 7.649 câu** — Địa lí 37, Tin học 41, Toán 28, Tiếng Anh 25, Hóa học 25, Lịch sử 20, KTPL 19, Ngữ văn 14, V-ACT 1. Đợt 9 đề Tin học mới đã commit ở `b273054` (chưa deploy).
+- **Bản LIVE**: commit `9913413`, đã push `origin/main`, deploy Cloudflare version `a4c240a8-ce17-4cdc-9923-e1d13f758cc0` tại https://on-thi-thpt.thiencogemini1.workers.dev — **210 đề / 7.649 câu**, `--scope=live` = **41/41**. Bản live và nội dung trên đĩa đã trùng nhau, không còn đợt nào chờ deploy.
+- Cổng kiểm tra của đợt này: `check-exam --all` = `OK: 210 đề, 7649 câu, 6 cảnh báo` (6 WARN đều là đề Sử cũ, bình thường); `--scope=all` = **12 bộ / 848 kiểm tra xanh**; `--scope=deploy --build` xanh 12 bộ local, bộ `live` lúc đó trượt vì lỗi DNS tạm thời (`ERR_NAME_NOT_RESOLVED`) rồi chạy lại thành công sau deploy.
+- Nội dung trên đĩa: **210 đề / 7.649 câu** — Địa lí 37, Tin học 41, Toán 28, Tiếng Anh 25, Hóa học 25, Lịch sử 20, KTPL 19, Ngữ văn 14, V-ACT 1. Đợt 9 đề Tin học mới đã commit ở `b273054` và lên live cùng ngày.
 - Đề tốt nghiệp chính thức đã có: Văn, Anh, Sử, KTPL, Tin (2 mã), Toán (8 mã 2023–2026). Địa lí và Hóa **chưa** có bản 2025 chính thức.
 - Batch gần nhất: **9 đề Tin học 12 theo bài còn lại** (Bài 1, 4, 7, 10, 14, 17, 23, 24, 28 — mỗi đề 28 câu / 45 phút / 10 điểm, tổng 252 câu), đã soát đáp án độc lập từng đề và đối chiếu SGK, commit `b273054`. Trước đó: **11 đề Tin học theo bài** (Bài 13, 15, 16, 18…22, 25, 26, 27) đã lên live, môn mới **Hóa học 11** (slug `hoa-hoc`, 25 đề 20 câu, suite `hoa` 30 kiểm tra) và **đề KTPL tốt nghiệp 2025 chính thức** mã 1007.
 
-Cổng kiểm tra của đợt 9 đề mới (đo ngày 07/11): `node scripts/check-exam.mjs --all` = `OK: 210 đề, 7649 câu, 6 cảnh báo` (6 WARN vẫn là 5 đề Sử cũ + 1 MULTIPLE_CHOICE một đáp án ở đề Sử, không liên quan đợt này); `node scripts/verify.mjs --scope=tinhoc,static,features --build` = **3 bộ xanh, 193 kiểm tra** (tinhoc 54/54, static 45/45, features 94/94); `node scripts/verify.mjs --scope=all --no-build` = **"Tất cả 12 bộ test đều xanh.", tổng 848 kiểm tra, 220 giây**. Không phải sửa suite nào: `tinhoc` tự tính `TOTAL_DE`, tổng đề/câu đọc từ `content/exams/`. Việc còn lại chỉ là commit (khi được yêu cầu) rồi deploy.
+Cổng kiểm tra của đợt 9 đề mới (đo ngày 07/11): `node scripts/check-exam.mjs --all` = `OK: 210 đề, 7649 câu, 6 cảnh báo` (6 WARN vẫn là 5 đề Sử cũ + 1 MULTIPLE_CHOICE một đáp án ở đề Sử, không liên quan đợt này); `node scripts/verify.mjs --scope=tinhoc,static,features --build` = **3 bộ xanh, 193 kiểm tra** (tinhoc 54/54, static 45/45, features 94/94); `node scripts/verify.mjs --scope=all --no-build` = **"Tất cả 12 bộ test đều xanh.", tổng 848 kiểm tra, 220 giây**. Không phải sửa suite nào: `tinhoc` tự tính `TOTAL_DE`, tổng đề/câu đọc từ `content/exams/`. Sau đó đã commit, push và deploy thành công, `--scope=live` = 41/41.
 
 ## Việc còn lại
 
-Bắt buộc: không còn việc gì treo. Đợt 9 đề Tin học đã commit ở `b273054` sau khi `check-exam --all` và `--scope=all` (12 bộ / 848 kiểm tra) xanh; bản live vẫn là 201 đề cho tới khi được yêu cầu deploy: `--scope=deploy --build` → `npx wrangler deploy` → `--scope=live`.
+Bắt buộc: không còn việc gì. Đợt 9 đề Tin học đã commit `b273054` + `9913413`, push `origin/main` và deploy version `a4c240a8` ngày 07/11, `--scope=live` = 41/41. Bản live đã đủ 210 đề / 7.649 câu, trùng nội dung trên đĩa.
 
 Đang treo, chỉ làm khi được nhắc:
 
