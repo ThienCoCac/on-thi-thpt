@@ -1,0 +1,961 @@
+{
+  "id": "de-tin-hoc-12-bai-07",
+  "title": "Đề ôn tập Tin học 12 – Bài 7: HTML và cấu trúc trang web",
+  "slug": "de-tin-hoc-12-bai-07",
+  "description": "Đề ôn tập Bài 7 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về HTML và cấu trúc trang web: bản chất HTML là ngôn ngữ đánh dấu mô tả cấu trúc, thẻ mở và thẻ đóng, phần tử, cấu trúc tối thiểu html – head – title – body, sự khác nhau giữa title và các thẻ tiêu đề, thẻ đoạn văn, chú thích và việc định dạng giao diện thuộc về CSS. Đề gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, thang điểm 10, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B07",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-07T08:00:00.000Z",
+  "updatedAt": "2026-11-07T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b07-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "bản chất HTML",
+        "Bài 7"
+      ],
+      "content": "Bản chất của HTML trong bài học là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một ngôn ngữ lập trình chạy trên máy chủ để tạo trang web động."
+        },
+        {
+          "key": "B",
+          "text": "Một ngôn ngữ đánh dấu dùng để mô tả cấu trúc nội dung của trang web."
+        },
+        {
+          "key": "C",
+          "text": "Một phần mềm soạn thảo văn bản dùng riêng để viết trang web."
+        },
+        {
+          "key": "D",
+          "text": "Một hệ quản trị cơ sở dữ liệu lưu toàn bộ nội dung trang web."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 7 khẳng định HTML là ngôn ngữ đánh dấu được dùng để mô tả cấu trúc nội dung của trang web. HTML không chạy trên máy chủ, không phải một phần mềm soạn thảo và cũng không phải hệ quản trị cơ sở dữ liệu, nên ba phương án còn lại đều sai."
+    },
+    {
+      "id": "tinhoc12-b07-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "cấu trúc trang web",
+        "thẻ body"
+      ],
+      "content": "Trong một tệp HTML, nội dung hiển thị cho người xem trên trang được đặt trong phần tử nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<head>`."
+        },
+        {
+          "key": "B",
+          "text": "`<title>`."
+        },
+        {
+          "key": "C",
+          "text": "`<body>`."
+        },
+        {
+          "key": "D",
+          "text": "`<meta>`."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phần tử `<body>` chứa nội dung hiển thị trên trang nên người xem đọc được các thành phần đặt trong nó. `<head>`, `<title>` và `<meta>` thuộc phần đầu trang, khai báo thông tin mô tả chứ không chứa nội dung hiển thị."
+    },
+    {
+      "id": "tinhoc12-b07-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "cấu trúc trang web",
+        "thẻ title"
+      ],
+      "content": "Phần tử `<title>` của trang web thường được đặt ngay bên trong phần tử nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<head>`."
+        },
+        {
+          "key": "B",
+          "text": "`<body>`."
+        },
+        {
+          "key": "C",
+          "text": "`<p>`."
+        },
+        {
+          "key": "D",
+          "text": "`<footer>`."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong cấu trúc tối thiểu, `<title>` nằm trong `<head>` cùng với các mô tả khác của trang. `<body>` chứa nội dung hiển thị, còn `<p>` và `<footer>` không phải nơi khai báo tiêu đề trang."
+    },
+    {
+      "id": "tinhoc12-b07-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "thẻ title",
+        "vai trò title"
+      ],
+      "content": "Văn bản trong phần tử `<title>` được trình duyệt hiển thị ở đâu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngay đầu trang, dưới dạng dòng chữ lớn như tiêu đề `<h1>`."
+        },
+        {
+          "key": "B",
+          "text": "Ở cuối trang, ngay tại phần chân trang."
+        },
+        {
+          "key": "C",
+          "text": "Giữa trang, che lên các đoạn văn bản khác."
+        },
+        {
+          "key": "D",
+          "text": "Trên nhãn (tab) của trang và trên thanh tiêu đề của trình duyệt."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Văn bản của `<title>` được dùng làm tên trang, hiển thị trên nhãn tab và thanh tiêu đề của trình duyệt chứ không xuất hiện trong nội dung trang. Vì vậy nó không phải dòng chữ lớn đầu trang, không ở chân trang và cũng không che lên đoạn văn bản."
+    },
+    {
+      "id": "tinhoc12-b07-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "thẻ title",
+        "thẻ tiêu đề"
+      ],
+      "content": "Phát biểu nào sau đây đúng khi so sánh `<title>` và các thẻ tiêu đề `<h1>` đến `<h6>`?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<title>` và `<h1>` đều hiển thị trong nội dung trang nên hoàn toàn giống nhau."
+        },
+        {
+          "key": "B",
+          "text": "Nội dung `<title>` không hiển thị trong thân trang, còn các thẻ `<h1>` đến `<h6>` hiển thị trong `<body>`."
+        },
+        {
+          "key": "C",
+          "text": "Các thẻ `<h1>` đến `<h6>` đặt trong `<head>`, còn `<title>` đặt trong `<body>`."
+        },
+        {
+          "key": "D",
+          "text": "Một trang HTML tối thiểu bắt buộc có `<h1>` và không cần `<title>`."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "`<title>` cho tên trang trên tab trình duyệt, còn `<h1>` đến `<h6>` là tiêu đề hiển thị trong nội dung ở `<body>`, nên B đúng. A sai vì bản chất hai loại khác nhau; C sai vì đảo vị trí khai báo; D sai vì `<title>` mới thuộc cấu trúc tối thiểu, `<h1>` không bắt buộc."
+    },
+    {
+      "id": "tinhoc12-b07-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "thẻ đoạn văn",
+        "thẻ p"
+      ],
+      "content": "Trong HTML, cặp thẻ nào sau đây được dùng để đánh dấu một đoạn văn bản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<p>...</p>`."
+        },
+        {
+          "key": "B",
+          "text": "`<h1>...</h1>`."
+        },
+        {
+          "key": "C",
+          "text": "`<title>...</title>`."
+        },
+        {
+          "key": "D",
+          "text": "`<head>...</head>`."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cặp thẻ `<p>...</p>` dùng để đánh dấu một đoạn văn bản trong thân trang. `<h1>...</h1>` là thẻ tiêu đề, `<title>` khai báo tên trang, còn `<head>` chứa thông tin mô tả chứ không phải thẻ đoạn văn."
+    },
+    {
+      "id": "tinhoc12-b07-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "chú thích",
+        "cú pháp HTML"
+      ],
+      "content": "Trong tệp HTML, phần chú thích (không hiển thị trên trang) được viết theo cú pháp nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`// chú thích //`."
+        },
+        {
+          "key": "B",
+          "text": "`/* chú thích */`."
+        },
+        {
+          "key": "C",
+          "text": "`<!-- chú thích -->`."
+        },
+        {
+          "key": "D",
+          "text": "`# chú thích #`."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chú thích trong HTML được bọc giữa `<!--` và `-->` nên trình duyệt bỏ qua, không hiển thị trên trang. Kiểu `//` và `#` không phải cú pháp chú thích của HTML, còn `/* */` là cú pháp chú thích của CSS."
+    },
+    {
+      "id": "tinhoc12-b07-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "chú thích",
+        "mục đích chú thích"
+      ],
+      "content": "Mục đích của việc dùng chú thích trong tệp HTML là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "In nội dung ghi chú ra trang để người xem đọc được."
+        },
+        {
+          "key": "B",
+          "text": "Thay thế phần tử `<title>` hiển thị trên tab trình duyệt."
+        },
+        {
+          "key": "C",
+          "text": "Tạo liên kết tới một trang web khác."
+        },
+        {
+          "key": "D",
+          "text": "Ghi chú cho người đọc mã nguồn mà trình duyệt không hiển thị trên trang."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chú thích giúp người soạn và người đọc mã nguồn ghi lại ghi chú, và vì nằm trong `<!-- -->` nên trình duyệt không hiển thị nó trên trang. Chú thích không in ra trang, không thay được `<title>` và không tạo liên kết."
+    },
+    {
+      "id": "tinhoc12-b07-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "HTML và CSS",
+        "bản chất HTML"
+      ],
+      "content": "Phát biểu nào sau đây đúng về khả năng của HTML?",
+      "options": [
+        {
+          "key": "A",
+          "text": "HTML tự làm trang có màu sắc và phông chữ đẹp mà không cần công nghệ khác."
+        },
+        {
+          "key": "B",
+          "text": "HTML mô tả cấu trúc trang, còn việc định dạng giao diện đẹp do CSS đảm nhiệm."
+        },
+        {
+          "key": "C",
+          "text": "HTML chỉ dùng để thực hiện các phép tính và lưu dữ liệu của trang."
+        },
+        {
+          "key": "D",
+          "text": "HTML là một cơ sở dữ liệu chứa toàn bộ nội dung của trang web."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài học nhấn mạnh HTML mô tả cấu trúc, còn định dạng giao diện cho đẹp là vai trò của CSS. HTML không tự tạo màu sắc phông chữ đẹp, không dùng để tính toán lưu dữ liệu và không phải cơ sở dữ liệu."
+    },
+    {
+      "id": "tinhoc12-b07-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "mở bằng trình duyệt",
+        "phần mở rộng"
+      ],
+      "content": "Sau khi soạn xong một tệp HTML, để xem trang web ngay trên máy ta làm thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nháy đúp vào tệp có phần mở rộng `.html` hoặc `.htm` để mở bằng trình duyệt."
+        },
+        {
+          "key": "B",
+          "text": "Chạy tệp như một chương trình thực thi `.exe` của Windows."
+        },
+        {
+          "key": "C",
+          "text": "Bắt buộc phải tải lên Internet rồi mới xem được trang."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ có thể mở tệp bằng phần mềm soạn thảo Notepad++."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tệp HTML mang phần mở rộng `.html` hoặc `.htm` và được mở bằng trình duyệt để hiển thị trang, nên nháy đúp là xem được ngay trên máy. Tệp HTML không phải chương trình thực thi, không bắt buộc đưa lên Internet, và Notepad++ chỉ dùng để soạn chứ không phải cách duy nhất để xem."
+    },
+    {
+      "id": "tinhoc12-b07-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "thẻ đóng",
+        "thẻ mở"
+      ],
+      "content": "Thẻ đóng (thẻ kết thúc) của một phần tử HTML có đặc điểm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giống hệt thẻ mở, không có kí tự nào khác."
+        },
+        {
+          "key": "B",
+          "text": "Là tên thẻ đặt trong cặp dấu ngoặc nhọn `{ }`."
+        },
+        {
+          "key": "C",
+          "text": "Có dấu gạch chéo (/) trước tên thẻ, ví dụ `</p>`."
+        },
+        {
+          "key": "D",
+          "text": "Luôn có thêm dấu chấm phẩy (;) ở cuối thẻ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thẻ đóng được viết bằng cách thêm dấu gạch chéo trước tên thẻ, ví dụ `</p>`, để phân biệt với thẻ mở `<p>`. Thẻ đóng không giống thẻ mở, không dùng ngoặc nhọn và không có dấu chấm phẩy ở cuối."
+    },
+    {
+      "id": "tinhoc12-b07-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "cấu trúc trang web",
+        "lồng nhau"
+      ],
+      "content": "Đâu là trình tự đúng của các phần tử trong cấu trúc tối thiểu một trang web?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<title>` chứa `<html>`, `<html>` chứa `<body>`."
+        },
+        {
+          "key": "B",
+          "text": "`<body>` chứa `<head>`, `<head>` chứa `<title>`."
+        },
+        {
+          "key": "C",
+          "text": "`<head>` và `<body>` nằm ngoài `<html>`."
+        },
+        {
+          "key": "D",
+          "text": "`<html>` chứa `<head>` và `<body>`, trong đó `<head>` chứa `<title>`."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cấu trúc tối thiểu có `<html>` là phần tử gốc bao ngoài `<head>` và `<body>`, còn `<title>` nằm trong `<head>`. Các phương án còn lại đảo sai quan hệ lồng nhau: `<title>` không chứa `<html>`, `<body>` không chứa `<head>`, và `<head>`, `<body>` không thể nằm ngoài `<html>`."
+    },
+    {
+      "id": "tinhoc12-b07-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "thẻ head",
+        "cấu trúc trang web"
+      ],
+      "content": "Thông tin nào sau đây thường được khai báo trong phần tử `<head>` của trang web?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Văn bản của `<title>` và các mô tả như `<meta>`."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ nội dung đoạn văn mà người xem đọc được trên trang."
+        },
+        {
+          "key": "C",
+          "text": "Các thẻ tiêu đề `<h1>` đến `<h6>` hiển thị trong nội dung trang."
+        },
+        {
+          "key": "D",
+          "text": "Hình ảnh và đoạn văn bản đặt trong các thẻ `<p>`."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "`<head>` chứa thông tin mô tả của trang như `<title>` và `<meta>`, không hiển thị trực tiếp trong nội dung. Đoạn văn, tiêu đề `<h1>` đến `<h6>`, hình ảnh và `<p>` là nội dung hiển thị, thuộc `<body>` chứ không thuộc `<head>`."
+    },
+    {
+      "id": "tinhoc12-b07-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "thẻ đơn",
+        "thẻ hr"
+      ],
+      "content": "Trong HTML, thẻ đơn `<hr/>` thường được dùng để làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngắt nội dung xuống một dòng mới mà không tạo thêm đường kẻ, như thẻ `<br/>`."
+        },
+        {
+          "key": "B",
+          "text": "Tạo một đoạn văn bản mới."
+        },
+        {
+          "key": "C",
+          "text": "Vẽ một đường kẻ ngang phân cách trong nội dung."
+        },
+        {
+          "key": "D",
+          "text": "Mở liên kết tới một trang web khác."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "`<hr/>` là thẻ đơn vẽ một đường kẻ ngang phân cách nội dung, không có thẻ kết thúc. Ngắt xuống dòng là vai trò của `<br/>`, tạo đoạn văn là `<p>`, còn mở liên kết là thẻ `<a>`."
+    },
+    {
+      "id": "tinhoc12-b07-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "bản chất HTML",
+        "thuật ngữ"
+      ],
+      "content": "Vì sao HTML được gọi là một \"ngôn ngữ đánh dấu\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vì các thẻ HTML phải viết toàn bộ bằng chữ in hoa."
+        },
+        {
+          "key": "B",
+          "text": "Vì các thẻ HTML đánh dấu và mô tả cấu trúc của nội dung trang web."
+        },
+        {
+          "key": "C",
+          "text": "Vì HTML bắt buộc kết thúc mỗi thẻ bằng dấu chấm."
+        },
+        {
+          "key": "D",
+          "text": "Vì HTML tự động kiểm tra lỗi chính tả cho trang web."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HTML được gọi là ngôn ngữ đánh dấu vì các thẻ của nó dùng để đánh dấu và mô tả cấu trúc nội dung trang web. Tên thẻ không phân biệt chữ hoa hay chữ thường, thẻ không kết thúc bằng dấu chấm, và HTML không có chức năng kiểm tra lỗi chính tả."
+    },
+    {
+      "id": "tinhoc12-b07-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "phần mở rộng",
+        "bản chất HTML"
+      ],
+      "content": "Xét về bản chất tệp, một trang HTML là",
+      "options": [
+        {
+          "key": "A",
+          "text": "một tệp ảnh mô tả giao diện của trang web."
+        },
+        {
+          "key": "B",
+          "text": "một chương trình chạy trực tiếp như tệp thực thi."
+        },
+        {
+          "key": "C",
+          "text": "một tệp cơ sở dữ liệu nhị phân của trình duyệt."
+        },
+        {
+          "key": "D",
+          "text": "một tệp văn bản thuần chứa các thẻ đánh dấu, lưu với phần mở rộng `.html` hoặc `.htm`."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trang HTML thực chất là một tệp văn bản thuần chứa các thẻ đánh dấu, được lưu với phần mở rộng `.html` hoặc `.htm`. Nó không phải tệp ảnh, không phải chương trình thực thi chạy trực tiếp và cũng không phải tệp cơ sở dữ liệu nhị phân."
+    },
+    {
+      "id": "tinhoc12-b07-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "thẻ đoạn văn",
+        "đọc mã HTML"
+      ],
+      "content": "Cho đoạn mã `<p>Xin chào</p>`. Nội dung \"Xin chào\" được hiểu là",
+      "options": [
+        {
+          "key": "A",
+          "text": "một đoạn văn bản nằm trong thân trang."
+        },
+        {
+          "key": "B",
+          "text": "tiêu đề của trang hiển thị trên tab trình duyệt."
+        },
+        {
+          "key": "C",
+          "text": "một chú thích bị trình duyệt bỏ qua."
+        },
+        {
+          "key": "D",
+          "text": "một đường kẻ ngang phân cách nội dung."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đoạn `<p>Xin chào</p>` tạo một đoạn văn bản hiển thị trong thân trang, vì thẻ `<p>` đánh dấu đoạn văn. Tiêu đề trên tab là nội dung `<title>`, chú thích nằm trong `<!-- -->`, còn đường kẻ ngang do `<hr/>` tạo ra."
+    },
+    {
+      "id": "tinhoc12-b07-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "thẻ meta",
+        "thẻ head"
+      ],
+      "content": "Phần tử `<meta>` trong `<head>` thường được dùng để làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiển thị tiêu đề lớn ở đầu trang cho người xem đọc."
+        },
+        {
+          "key": "B",
+          "text": "Chèn một đoạn văn bản vào thân trang."
+        },
+        {
+          "key": "C",
+          "text": "Mô tả thông tin bổ sung của trang như cách mã hoá, từ khoá tìm kiếm, tên tác giả."
+        },
+        {
+          "key": "D",
+          "text": "Vẽ đường kẻ ngang phân cách các nội dung."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "`<meta>` nằm trong `<head>` dùng để mô tả các thông tin bổ sung của trang như cách mã hoá kí tự, từ khoá tìm kiếm và tên tác giả. Tiêu đề lớn đầu trang là `<h1>`, đoạn văn là `<p>`, còn đường kẻ ngang là `<hr/>`; cả ba đều thuộc `<body>`."
+    },
+    {
+      "id": "tinhoc12-b07-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "chú thích",
+        "đọc mã HTML"
+      ],
+      "content": "Trong đoạn mã `<!-- bản nháp -->`, dòng \"bản nháp\" có đặc điểm gì khi trang hiển thị?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiện thành một đoạn văn bản trong trang."
+        },
+        {
+          "key": "B",
+          "text": "Hiện trên nhãn (tab) của trình duyệt."
+        },
+        {
+          "key": "C",
+          "text": "Hiện dưới dạng tiêu đề mức một ở đầu trang."
+        },
+        {
+          "key": "D",
+          "text": "Không hiện trên trang vì nó nằm trong chú thích."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "`<!-- bản nháp -->` là một chú thích nên trình duyệt bỏ qua và không hiển thị trên trang. Vì không hiển thị, nó không thể hiện thành đoạn văn, không hiện trên tab và không trở thành tiêu đề mức một."
+    },
+    {
+      "id": "tinhoc12-b07-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "dấu cách",
+        "dấu xuống dòng"
+      ],
+      "content": "Khi soạn tệp HTML, nếu gõ liên tiếp nhiều dấu cách hoặc nhấn phím Enter để xuống dòng thì trình duyệt hiển thị thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ nguyên đúng số dấu cách và số lần xuống dòng như trong tệp."
+        },
+        {
+          "key": "B",
+          "text": "Hiểu nhiều dấu cách liên tiếp thành một dấu cách và không nhận biết dấu xuống dòng khi nhấn Enter."
+        },
+        {
+          "key": "C",
+          "text": "Bỏ toàn bộ dấu cách nhưng vẫn giữ nguyên mọi lần xuống dòng."
+        },
+        {
+          "key": "D",
+          "text": "Báo lỗi cú pháp vì tệp HTML không cho phép gõ nhiều dấu cách liên tiếp."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài học lưu ý HTML và trình duyệt không nhận biết nhiều dấu cách: gõ nhiều dấu cách liên tiếp chỉ được hiểu là một dấu cách, và dấu xuống dòng khi nhấn Enter cũng không được nhận biết, muốn xuống dòng phải dùng thẻ `<br/>`. A sai vì trình duyệt không giữ nguyên; C sai vì dấu cách không bị bỏ hết và xuống dòng không được giữ; D sai vì đây không phải lỗi cú pháp."
+    },
+    {
+      "id": "tinhoc12-b07-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "cấu trúc trang web",
+        "phần tử gốc"
+      ],
+      "content": "Trong cây cấu trúc của một trang web, phần tử nào là phần tử gốc chứa các phần tử khác của trang?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<html>`."
+        },
+        {
+          "key": "B",
+          "text": "`<title>`."
+        },
+        {
+          "key": "C",
+          "text": "`<p>`."
+        },
+        {
+          "key": "D",
+          "text": "`<hr>`."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phần tử `<html>` là nút gốc của cây cấu trúc, bao ngoài `<head>` và `<body>` cùng các phần tử bên trong. `<title>`, `<p>` và `<hr>` đều là những phần tử nằm trong cây chứ không phải phần tử gốc."
+    },
+    {
+      "id": "tinhoc12-b07-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "thẻ title",
+        "vai trò title"
+      ],
+      "content": "Muốn đổi tên hiển thị trên tab của trình duyệt cho một trang, người soạn cần sửa nội dung phần tử nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "`<body>`."
+        },
+        {
+          "key": "B",
+          "text": "`<p>`."
+        },
+        {
+          "key": "C",
+          "text": "`<title>`."
+        },
+        {
+          "key": "D",
+          "text": "`<hr>`."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tên hiển thị trên tab trình duyệt lấy từ nội dung `<title>`, nên muốn đổi tên phải sửa phần tử này. `<body>` chứa nội dung trang, `<p>` là đoạn văn và `<hr>` là đường kẻ ngang, đều không quyết định nhãn tab."
+    },
+    {
+      "id": "tinhoc12-b07-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "cấu trúc trang web",
+        "cấu trúc tối thiểu"
+      ],
+      "content": "Bộ phần tử nào sau đây tạo thành cấu trúc tối thiểu để một trang HTML hiển thị được, theo bài học?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ cần `<title>` đứng một mình, không cần `<body>`."
+        },
+        {
+          "key": "B",
+          "text": "`<p>` đặt trực tiếp ngoài `<html>` mà không có `<body>`."
+        },
+        {
+          "key": "C",
+          "text": "`<head>` chứa toàn bộ nội dung đoạn văn hiển thị trên trang."
+        },
+        {
+          "key": "D",
+          "text": "`<html>` bao quanh `<head>` (chứa `<title>`) và `<body>`."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cấu trúc tối thiểu gồm `<html>` bao ngoài `<head>` (trong đó có `<title>`) và `<body>` chứa nội dung hiển thị. Không thể thiếu `<body>` như A và B mô tả, còn `<head>` chứa thông tin mô tả chứ không chứa nội dung đoạn văn nên C sai."
+    },
+    {
+      "id": "tinhoc12-b07-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "HTML và CSS",
+        "tình huống"
+      ],
+      "content": "Một bạn học sinh viết tệp HTML rồi nói: \"Chữ trên trang chưa đẹp, cần đổi màu và cỡ chữ.\" Theo bài học, để làm việc đó bạn ấy cần",
+      "options": [
+        {
+          "key": "A",
+          "text": "soạn lại toàn bộ trang bằng một phiên bản HTML mới hơn."
+        },
+        {
+          "key": "B",
+          "text": "viết thêm CSS để định dạng, vì HTML chỉ mô tả cấu trúc trang."
+        },
+        {
+          "key": "C",
+          "text": "chụp trang lại thành ảnh rồi nhúng vào trang web."
+        },
+        {
+          "key": "D",
+          "text": "xoá bỏ phần tử `<body>` khỏi tệp HTML."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HTML chỉ mô tả cấu trúc, còn màu sắc và cỡ chữ thuộc về định dạng nên phải dùng CSS. Đổi phiên bản HTML không tạo ra màu và cỡ chữ, chụp thành ảnh làm mất cấu trúc trang, và xoá `<body>` sẽ xoá luôn nội dung hiển thị."
+    },
+    {
+      "id": "tinhoc12-b07-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "nhận định đúng sai",
+        "cấu trúc trang web",
+        "thẻ title"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về cấu trúc tối thiểu của một trang web.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một trang HTML tối thiểu có phần tử `<html>` bao quanh `<head>` và `<body>`."
+        },
+        {
+          "key": "B",
+          "text": "Phần tử `<title>` được đặt trong `<head>` và hiển thị trên tab trình duyệt."
+        },
+        {
+          "key": "C",
+          "text": "Nội dung đoạn văn đặt trong `<body>` mới được hiển thị trên trang."
+        },
+        {
+          "key": "D",
+          "text": "Phần tử `<title>` đồng thời là thẻ tiêu đề `<h1>` hiển thị trong thân trang."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explanation": "A, B, C đúng: `<html>` bao ngoài `<head>` và `<body>`, `<title>` nằm trong `<head>` và hiển thị trên tab, còn nội dung đoạn văn đặt trong `<body>`. D sai vì `<title>` cho tên trang trên tab, khác với thẻ tiêu đề `<h1>` hiển thị trong thân trang."
+    },
+    {
+      "id": "tinhoc12-b07-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "nhận định đúng sai",
+        "bản chất HTML",
+        "HTML và CSS"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về bản chất của HTML và tệp trang web.",
+      "options": [
+        {
+          "key": "A",
+          "text": "HTML là ngôn ngữ đánh dấu mô tả cấu trúc nội dung trang web."
+        },
+        {
+          "key": "B",
+          "text": "HTML tự quyết định được mọi chi tiết trình bày của trang, từ màu sắc, phông chữ đến cỡ chữ, nên không cần CSS."
+        },
+        {
+          "key": "C",
+          "text": "Trang HTML được lưu dưới dạng tệp văn bản với phần mở rộng `.html` hoặc `.htm`."
+        },
+        {
+          "key": "D",
+          "text": "HTML là một ngôn ngữ lập trình có biến và vòng lặp như Python."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "C"
+      ],
+      "explanation": "A và C đúng theo bài: HTML là ngôn ngữ đánh dấu mô tả cấu trúc, còn tệp trang web lưu dạng văn bản với phần mở rộng `.html` hoặc `.htm`. B sai vì HTML chỉ mô tả cấu trúc, các chi tiết trình bày như màu sắc, phông chữ, cỡ chữ do CSS quy định, không phải do HTML tự lo hết; D sai vì HTML không phải ngôn ngữ lập trình có biến và vòng lặp."
+    },
+    {
+      "id": "tinhoc12-b07-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "nhận định đúng sai",
+        "thẻ mở thẻ đóng",
+        "chú thích"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về thẻ, phần tử và chú thích trong HTML.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phần tử `<body>` nằm ngoài `<html>` và chứa phần tử `<title>`."
+        },
+        {
+          "key": "B",
+          "text": "Thẻ đóng có dấu gạch chéo trước tên thẻ, ví dụ `</p>`."
+        },
+        {
+          "key": "C",
+          "text": "Chú thích được viết trong `<!-- ... -->` và trình duyệt không hiển thị nó trên trang."
+        },
+        {
+          "key": "D",
+          "text": "Thẻ đơn như `<hr/>` chỉ có thẻ bắt đầu, không có thẻ kết thúc."
+        }
+      ],
+      "correctAnswer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "explanation": "B, C, D đúng: thẻ đóng thêm dấu gạch chéo trước tên thẻ, chú thích đặt trong `<!-- -->` và không hiển thị, thẻ đơn như `<hr/>` không có thẻ kết thúc. A sai vì `<body>` nằm trong `<html>` và `<title>` thuộc `<head>`, không phải `<body>`."
+    },
+    {
+      "id": "tinhoc12-b07-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-html-cau-truc",
+      "tags": [
+        "nhận định đúng sai",
+        "thẻ title",
+        "dấu cách"
+      ],
+      "content": "Chọn các nhận định ĐÚNG về tiêu đề trang và cách trình duyệt đọc tệp HTML.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Văn bản trong `<title>` hiển thị trên thanh tiêu đề hoặc tab trình duyệt, không phải tiêu đề trong trang."
+        },
+        {
+          "key": "B",
+          "text": "Trình duyệt coi nhiều dấu cách liên tiếp trong tệp HTML chỉ là một dấu cách."
+        },
+        {
+          "key": "C",
+          "text": "Các thẻ tiêu đề `<h1>` đến `<h6>` được khai báo trong `<head>` và không hiển thị trong trang."
+        },
+        {
+          "key": "D",
+          "text": "Mỗi lần nhấn Enter trong tệp HTML luôn tạo một dòng mới trên trang như trong soạn thảo văn bản."
+        }
+      ],
+      "correctAnswer": [
+        "A",
+        "B"
+      ],
+      "explanation": "A và B đúng: `<title>` cho tên trên tab chứ không phải tiêu đề trong trang, và nhiều dấu cách liên tiếp được trình duyệt gộp thành một dấu cách. C sai vì các thẻ `<h1>` đến `<h6>` đặt trong `<body>` và có hiển thị trong trang; D sai vì trình duyệt không nhận dấu xuống dòng khi nhấn Enter, muốn ngắt dòng phải dùng thẻ."
+    }
+  ]
+}

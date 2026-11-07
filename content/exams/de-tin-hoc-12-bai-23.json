@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-23",
+  "title": "Đề ôn tập Tin học 12 – Bài 23: Chuẩn bị xây dựng trang web",
+  "slug": "de-tin-hoc-12-bai-23",
+  "description": "Đề ôn tập Bài 23 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về chuẩn bị xây dựng trang web: ba bước định hình ý tưởng, xây dựng thiết kế, chuẩn bị tư liệu và lựa chọn phần mềm; cấu trúc trang web gồm đầu trang, thân trang, chân trang cùng favicon và URL; yêu cầu mĩ thuật về phông chữ, cỡ chữ, bảng màu; đặc điểm công cụ làm trang web của Google là Google Sites. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, làm trong 45 phút, tổng 10 điểm. Mỗi câu đều có lời giải nêu rõ vì sao đáp án đúng và vì sao các phương án còn lại sai.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B23",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-07T08:00:00.000Z",
+  "updatedAt": "2026-11-07T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b23-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["định hình ý tưởng", "các bước chuẩn bị"],
+      "content": "Trong giai đoạn chuẩn bị xây dựng trang web, bước nào trả lời câu hỏi 'làm trang web để làm gì và hướng tới những ai'?",
+      "options": [
+        { "key": "A", "text": "Định hình ý tưởng." },
+        { "key": "B", "text": "Xây dựng thiết kế." },
+        { "key": "C", "text": "Chuẩn bị tư liệu và lựa chọn phần mềm." },
+        { "key": "D", "text": "Công bố trang web trên Internet." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Định hình ý tưởng là bước đầu tiên, nơi ta xác định mục đích, đối tượng người dùng và các yêu cầu về nội dung, kiến trúc thông tin, giao diện. Xây dựng thiết kế chỉ lo dàn ý và mĩ thuật sau khi đã có ý tưởng, còn chuẩn bị tư liệu và lựa chọn phần mềm là bước cuối của giai đoạn chuẩn bị; công bố trang web không thuộc giai đoạn này."
+    },
+    {
+      "id": "tinhoc12-b23-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["xây dựng thiết kế", "bảng màu"],
+      "content": "Theo sách, việc chọn bảng màu và phông chữ cho trang web được thực hiện ở bước nào của giai đoạn chuẩn bị?",
+      "options": [
+        { "key": "A", "text": "Bước định hình ý tưởng." },
+        { "key": "B", "text": "Bước chuẩn bị tư liệu." },
+        { "key": "C", "text": "Bước xây dựng thiết kế." },
+        { "key": "D", "text": "Bước lựa chọn phần mềm." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bước xây dựng thiết kế gồm dàn ý, kiến trúc nội dung, mĩ thuật, bảng màu và phông chữ, nên chuyện chọn màu và chữ thuộc bước này. Định hình ý tưởng mới xác định mục đích, đối tượng và yêu cầu chung; chuẩn bị tư liệu lo thu thập nội dung; lựa chọn phần mềm chỉ quyết định công cụ dùng để làm trang."
+    },
+    {
+      "id": "tinhoc12-b23-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["chuẩn bị tư liệu", "công cụ"],
+      "content": "Việc thu thập, biên tập hình ảnh và tối ưu dung lượng tư liệu thuộc bước nào?",
+      "options": [
+        { "key": "A", "text": "Bước định hình ý tưởng." },
+        { "key": "B", "text": "Bước xây dựng thiết kế." },
+        { "key": "C", "text": "Bước kiểm tra và bảo trì trang web." },
+        { "key": "D", "text": "Bước chuẩn bị tư liệu, lựa chọn phần mềm." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thu thập và biên tập tư liệu, tối ưu dung lượng hình ảnh là nội dung của bước cuối trong ba bước chuẩn bị, đồng thời chọn luôn phần mềm để làm trang. Định hình ý tưởng chỉ trả lời làm gì và cho ai, xây dựng thiết kế lo dàn ý và mĩ thuật, còn kiểm tra, bảo trì là việc sau khi trang đã hoạt động."
+    },
+    {
+      "id": "tinhoc12-b23-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["website nhiều trang", "quản trị website"],
+      "content": "Bạn Minh cho rằng xây dựng một website gồm nhiều trang cũng chỉ cần đúng ba bước chuẩn bị như làm một trang web đơn giản. Theo sách, nhận định đó thế nào?",
+      "options": [
+        { "key": "A", "text": "Chưa đúng, vì xây dựng website có thể đòi hỏi thêm bước, đặc biệt là tổ chức vận hành và quản trị website." },
+        { "key": "B", "text": "Đúng, vì mọi trang web và website đều phải tuân thủ đúng ba bước đã định." },
+        { "key": "C", "text": "Đúng, vì website chỉ là tập hợp các trang web đơn giản ghép lại nên không thêm việc gì." },
+        { "key": "D", "text": "Chưa đúng, vì làm website bỏ hẳn bước định hình ý tưởng, chỉ cần thiết kế và tư liệu." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách lưu ý xây dựng một website có thể đòi hỏi thêm bước, nhất là tổ chức vận hành và quản trị, nên nói chỉ đúng ba bước là chưa đủ. Ba bước định hình ý tưởng, xây dựng thiết kế, chuẩn bị tư liệu vẫn là nền chứ không bị bỏ, vì thế cách nói 'đúng' hay 'bỏ hẳn bước định hình ý tưởng' đều sai."
+    },
+    {
+      "id": "tinhoc12-b23-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["ba phần trang web", "thân trang"],
+      "content": "Trong cấu trúc một trang web, phần nào chứa nội dung chính của trang?",
+      "options": [
+        { "key": "A", "text": "Phần đầu trang." },
+        { "key": "B", "text": "Phần thân trang." },
+        { "key": "C", "text": "Phần chân trang." },
+        { "key": "D", "text": "Thanh điều hướng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thân trang là phần chứa nội dung của trang, được tổ chức thành các khối nội dung. Đầu trang chỉ chứa thông tin chung nhất, chân trang dành cho thông tin ngắn gọn về chủ thể, còn thanh điều hướng mang các liên kết tới trang khác chứ không chứa nội dung chính."
+    },
+    {
+      "id": "tinhoc12-b23-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["bố cục thân trang", "khối nội dung"],
+      "content": "Theo sách, phần thân trang thường được bố cục như thế nào?",
+      "options": [
+        { "key": "A", "text": "Thành một khối văn bản liền mạch, không tách mục và không có tiêu đề riêng." },
+        { "key": "B", "text": "Thành hai cột cố định, cột trái chứa liên kết mạng xã hội, cột phải chứa thông tin bản quyền." },
+        { "key": "C", "text": "Thành chuỗi tab do trình duyệt tự sinh theo số trang của website." },
+        { "key": "D", "text": "Thành các khối hình chữ nhật, mỗi khối trình bày một nội dung với tiêu đề riêng." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách mô tả thân trang được chia thành các khối hình chữ nhật, mỗi khối trình bày một nội dung và có tiêu đề riêng. Cách bố cục một khối văn bản liền mạch sẽ mất điểm tựa trực quan, còn hai cột mặc định hay tab do trình duyệt sinh ra không phải cách sách nói tới; liên kết mạng xã hội thuộc chân trang."
+    },
+    {
+      "id": "tinhoc12-b23-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["đầu trang", "loại thông tin"],
+      "content": "Phần đầu trang của một trang web thường chứa loại thông tin nào?",
+      "options": [
+        { "key": "A", "text": "Toàn bộ nội dung bài viết của trang." },
+        { "key": "B", "text": "Thông tin tóm tắt về thương hiệu và bản quyền của chủ thể." },
+        { "key": "C", "text": "Các thông tin chung nhất của trang." },
+        { "key": "D", "text": "Vài dòng thông báo trang đang được xây dựng hoặc bảo trì." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đầu trang dành cho các thông tin chung nhất của trang, ví dụ tên và hình ảnh nhận diện. Nội dung bài viết thuộc thân trang, thương hiệu và bản quyền thuộc chân trang, còn vài dòng thông báo quan trọng được đặt trước phần đầu trang và gọi là phần thông báo."
+    },
+    {
+      "id": "tinhoc12-b23-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["chân trang", "phần thông báo"],
+      "content": "Nhận định nào sau đây KHÔNG đúng về phần chân trang của một trang web?",
+      "options": [
+        { "key": "A", "text": "Dành cho các thông tin ngắn gọn về chủ thể của website." },
+        { "key": "B", "text": "Là nơi đặt vài dòng thông báo quan trọng kiểu trang đang được xây dựng hay bảo trì." },
+        { "key": "C", "text": "Thường chứa thông tin về thương hiệu, bản quyền và bảo mật." },
+        { "key": "D", "text": "Thường chứa thông tin liên hệ và liên kết tới các trang mạng xã hội." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vài dòng thông báo quan trọng được đặt trước phần đầu trang và gọi là phần thông báo, không phải nội dung của chân trang, nên B là nhận định sai. Ba nhận định còn lại đều đúng: chân trang mang thông tin ngắn gọn về chủ thể cùng thương hiệu, bản quyền, bảo mật, thông tin liên hệ và liên kết mạng xã hội."
+    },
+    {
+      "id": "tinhoc12-b23-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["tên tiếng Anh", "cấu trúc trang web"],
+      "content": "Trong cấu trúc trang web, 'header' là tên tiếng Anh của phần nào?",
+      "options": [
+        { "key": "A", "text": "Phần chân trang." },
+        { "key": "B", "text": "Phần thân trang." },
+        { "key": "C", "text": "Phần đầu trang." },
+        { "key": "D", "text": "Phần thông báo." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách gọi ba phần chính của trang web là đầu trang (header), thân trang (body) và chân trang (footer), nên header là phần đầu trang. Body mới là thân trang, footer là chân trang, còn phần thông báo là vài dòng đặt trước đầu trang và không mang tên header."
+    },
+    {
+      "id": "tinhoc12-b23-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["favicon", "nhận diện website"],
+      "content": "Phát biểu nào sau đây đúng về favicon của một website?",
+      "options": [
+        { "key": "A", "text": "Là biểu tượng nhỏ hiển thị ở tiêu đề tab trình duyệt, phía trước tên trang, đại diện cho các trang trong website." },
+        { "key": "B", "text": "Là ảnh nền phủ toàn bộ phần đầu trang và thay đổi theo từng trang con." },
+        { "key": "C", "text": "Là biểu tượng của chức năng tìm kiếm nằm trên thanh điều hướng." },
+        { "key": "D", "text": "Là tên viết tắt của trang chủ do phần mềm làm trang web tự đặt." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Favicon là logo nhỏ hiển thị ở tiêu đề tab trình duyệt, ngay phía trước tên trang, dùng chung để đại diện cho tất cả các trang trong một website. Nó không phải ảnh nền của đầu trang, không phải biểu tượng tìm kiếm trên thanh điều hướng và cũng không phải tên viết tắt của trang chủ; favicon có thể thiết kế riêng mà không nhất thiết thu gọn từ logo."
+    },
+    {
+      "id": "tinhoc12-b23-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["URL", "địa chỉ truy cập"],
+      "content": "Trong các tên gọi sau, tên nào chỉ địa chỉ truy cập của một trang web trên Internet?",
+      "options": [
+        { "key": "A", "text": "Thanh địa chỉ." },
+        { "key": "B", "text": "Siêu liên kết." },
+        { "key": "C", "text": "Tên miền." },
+        { "key": "D", "text": "URL." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Địa chỉ truy cập của mỗi trang web hay website trên Internet được gọi là URL và có thể đọc được qua các trình duyệt như Chrome, Firefox, Edge, Safari. Thanh địa chỉ chỉ là ô của trình duyệt dùng để hiển thị và nhập URL, siêu liên kết là đối tượng dẫn người xem sang trang khác, còn tên miền chỉ là một phần của địa chỉ."
+    },
+    {
+      "id": "tinhoc12-b23-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["thanh điều hướng", "phông chữ"],
+      "content": "Vì sao bảng chọn trên thanh điều hướng nên dùng phông không chân, hẹp ngang?",
+      "options": [
+        { "key": "A", "text": "Vì phông có chân không hiển thị được trên màn hình máy tính." },
+        { "key": "B", "text": "Vì chữ dễ đọc và tiết kiệm được diện tích cho thanh điều hướng." },
+        { "key": "C", "text": "Vì thanh điều hướng buộc phải dùng cỡ chữ rất lớn." },
+        { "key": "D", "text": "Vì phông không chân tự động đổi màu theo bảng màu của trang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách khuyên bảng chọn trên thanh điều hướng dùng phông không chân hẹp ngang, chẳng hạn Arial Condensed, vì dễ đọc và tiết kiệm diện tích. Phông có chân vẫn hiển thị được nhưng khó nhận diện trên màn hình nên chỉ nên dùng ở cỡ lớn như tiêu đề; thanh điều hướng không buộc dùng cỡ rất lớn và phông chữ không tự đổi màu."
+    },
+    {
+      "id": "tinhoc12-b23-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["phông có chân", "tiêu đề"],
+      "content": "Theo sách, phông có chân như Times New Roman nên được dùng ở vị trí nào của trang web?",
+      "options": [
+        { "key": "A", "text": "Nội dung bài viết ở cỡ thường." },
+        { "key": "B", "text": "Chú thích không cần nhấn mạnh." },
+        { "key": "C", "text": "Ở cỡ lớn, chẳng hạn cho tiêu đề." },
+        { "key": "D", "text": "Bảng chọn trên thanh điều hướng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phông có chân khó nhận diện trên màn hình nên sách chỉ dùng ở cỡ lớn, ví dụ cho tiêu đề. Nội dung bài viết và chú thích nên dùng phông không chân ở cỡ thường và cỡ nhỏ nhất, còn bảng chọn trên thanh điều hướng cần phông không chân hẹp ngang để dễ đọc và tiết kiệm diện tích."
+    },
+    {
+      "id": "tinhoc12-b23-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["nội dung bài viết", "phông không chân"],
+      "content": "Theo sách, phần nội dung bài viết trên trang web nên dùng loại phông nào?",
+      "options": [
+        { "key": "A", "text": "Phông chữ viết tay mô phỏng nét ký." },
+        { "key": "B", "text": "Phông có chân đặt ở cỡ rất lớn." },
+        { "key": "C", "text": "Phông in hoa toàn bộ, hẹp ngang." },
+        { "key": "D", "text": "Phông không chân, chẳng hạn Calibri hay Arial." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách khuyên nội dung bài viết dùng phông không chân như Calibri, Arial, Verdana, Tahoma vì dễ nhận diện trên màn hình. Phông có chân chỉ hợp với cỡ lớn như tiêu đề, còn phông viết tay hay in hoa toàn bộ đều không phải khuyến nghị của bài học cho phần bài viết."
+    },
+    {
+      "id": "tinhoc12-b23-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["cỡ chữ", "chú thích"],
+      "content": "Theo sách, cỡ chữ nhỏ nhất trong một trang web dành cho loại văn bản nào?",
+      "options": [
+        { "key": "A", "text": "Chú thích không cần nhấn mạnh." },
+        { "key": "B", "text": "Nội dung bài viết." },
+        { "key": "C", "text": "Tiêu đề nổi bật." },
+        { "key": "D", "text": "Tên các mục trên thanh điều hướng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách quy định tối thiểu bốn cỡ chữ, trong đó cỡ nhỏ nhất dành cho chú thích không cần nhấn mạnh. Nội dung bài viết dùng cỡ thường, tiêu đề dùng cỡ lớn, tiêu đề nổi bật dùng cỡ rất lớn; bảng chọn trên thanh điều hướng được nói tới về kiểu phông chứ không được gán cho cỡ nhỏ nhất."
+    },
+    {
+      "id": "tinhoc12-b23-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["bốn cỡ chữ", "tiêu đề nổi bật"],
+      "content": "Nhận định nào sau đây đúng về quy định cỡ chữ của một trang web theo sách?",
+      "options": [
+        { "key": "A", "text": "Chỉ cần dùng một cỡ chữ duy nhất để trang thống nhất." },
+        { "key": "B", "text": "Cỡ rất lớn dành cho tiêu đề nổi bật." },
+        { "key": "C", "text": "Cỡ thường dành riêng cho chú thích không cần nhấn mạnh." },
+        { "key": "D", "text": "Cỡ lớn dành cho nội dung bài viết." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bốn cỡ chữ tối thiểu gồm nhỏ nhất cho chú thích không cần nhấn mạnh, cỡ thường cho bài viết, cỡ lớn cho tiêu đề và cỡ rất lớn cho tiêu đề nổi bật, nên nhận định B đúng. Không dùng một cỡ duy nhất, cỡ thường là của bài viết chứ không phải chú thích, còn cỡ lớn là dành cho tiêu đề."
+    },
+    {
+      "id": "tinhoc12-b23-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["bảng màu", "trắng và đen"],
+      "content": "Theo sách, ngoài các màu chính của bảng màu, hai màu nào thường được dùng thêm?",
+      "options": [
+        { "key": "A", "text": "Trắng và đen." },
+        { "key": "B", "text": "Vàng và tím." },
+        { "key": "C", "text": "Xanh lá và đỏ." },
+        { "key": "D", "text": "Cam và nâu." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi bảng màu thường có năm màu pha trộn giữa gam ấm, lạnh và trung tính, chưa kể hai màu trắng và đen, nên A đúng. Các cặp màu còn lại không phải cặp màu sách nêu thêm: chúng có thể nằm hoặc không nằm trong năm màu được chọn, tùy đề tài của trang."
+    },
+    {
+      "id": "tinhoc12-b23-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["phối màu", "mĩ thuật trang web"],
+      "content": "Yêu cầu về cách phối màu trong bảng màu của một trang web là gì?",
+      "options": [
+        { "key": "A", "text": "Các màu cần tương phản mạnh để gây chú ý người xem." },
+        { "key": "B", "text": "Mỗi trang con phải dùng một bảng màu hoàn toàn khác nhau." },
+        { "key": "C", "text": "Chỉ dùng duy nhất một gam màu lạnh trên toàn trang." },
+        { "key": "D", "text": "Các màu cần tương phản nhẹ nhàng và hài hoà." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu các màu trong bảng màu cần tương phản nhẹ nhàng và hài hoà, pha trộn giữa gam ấm, lạnh và trung tính, nên D đúng. A sai vì tương phản mạnh dễ gây mệt mắt; B sai vì sách không đặt ra chuyện mỗi trang con phải dùng một bảng màu riêng; C sai vì bảng màu cần pha đủ cả gam ấm, gam lạnh và gam trung tính chứ không khu trú vào một gam lạnh."
+    },
+    {
+      "id": "tinhoc12-b23-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["Google Drive", "lưu trữ trang web"],
+      "content": "Trang web tạo bằng phần mềm làm trang web của Google được lưu ở đâu?",
+      "options": [
+        { "key": "A", "text": "Trong ứng dụng Forms của người dùng." },
+        { "key": "B", "text": "Trên Google Drive." },
+        { "key": "C", "text": "Chỉ trên ổ cứng của máy tính người dùng." },
+        { "key": "D", "text": "Trong bộ nhớ tạm của trình duyệt web." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phần mềm làm trang web của Google lưu trang web trên Google Drive, nhờ đó trang có thể được chia sẻ và công bố trực tuyến. Forms là ứng dụng tạo biểu mẫu, còn việc chỉ giữ trang trên ổ cứng máy tính hay trong bộ nhớ tạm của trình duyệt không đúng vì trang nằm trên hệ thống của Google."
+    },
+    {
+      "id": "tinhoc12-b23-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["tài khoản Google Mail", "điều kiện dùng"],
+      "content": "Theo sách, yêu cầu đối với người dùng muốn tạo trang web bằng phần mềm làm trang web của Google là gì?",
+      "options": [
+        { "key": "A", "text": "Phải mua bản quyền phần mềm." },
+        { "key": "B", "text": "Phải biết viết mã HTML và CSS." },
+        { "key": "C", "text": "Cần có tài khoản Google Mail." },
+        { "key": "D", "text": "Phải cài thêm tiện ích mở rộng cho trình duyệt." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nói phần mềm làm trang web của Google là miễn phí và yêu cầu duy nhất với người dùng là có tài khoản Google Mail. Không phải mua bản quyền, không đòi hỏi biết lập trình HTML hay CSS, và cũng không cần cài tiện ích mở rộng cho trình duyệt."
+    },
+    {
+      "id": "tinhoc12-b23-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["phát biểu sai", "công cụ làm web"],
+      "content": "Phát biểu nào sau đây SAI khi nói về giai đoạn chuẩn bị và công cụ xây dựng trang web?",
+      "options": [
+        { "key": "A", "text": "Muốn dùng phần mềm làm trang web của Google thì phải biết lập trình." },
+        { "key": "B", "text": "Phần mềm làm trang web của Google có giao diện hoàn toàn trực quan." },
+        { "key": "C", "text": "Định hình ý tưởng, xây dựng thiết kế, chuẩn bị tư liệu và lựa chọn phần mềm là các bước của giai đoạn chuẩn bị." },
+        { "key": "D", "text": "Trang web tạo bằng phần mềm của Google được lưu trên Google Drive." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A sai vì phần mềm làm trang web của Google có giao diện hoàn toàn trực quan và chỉ đòi hỏi người dùng có tài khoản Google Mail, không đòi hỏi biết lập trình. Ba phát biểu còn lại đều đúng: trực quan, đúng trình tự ba bước chuẩn bị và trang web được lưu trên Google Drive."
+    },
+    {
+      "id": "tinhoc12-b23-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["kết nối ứng dụng", "tư liệu"],
+      "content": "Phần mềm làm trang web của Google được sách nêu là kết nối dễ dàng với nhóm ứng dụng nào?",
+      "options": [
+        { "key": "A", "text": "Calendar, Keep, Contacts, Classroom." },
+        { "key": "B", "text": "Translate, Meet, Books, Scholar." },
+        { "key": "C", "text": "Ads, Analytics, Merchant Center." },
+        { "key": "D", "text": "Docs, Sheets, Slides, Maps, Photos, YouTube." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu phần mềm làm trang web của Google kết nối dễ dàng với Docs, Sheets, Slides, Maps, Photos và YouTube, thuận tiện khi chuẩn bị và đưa tư liệu vào trang. Các nhóm ứng dụng còn lại không phải nhóm được bài học liệt kê cho việc kết nối này."
+    },
+    {
+      "id": "tinhoc12-b23-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["Google Sites", "công cụ"],
+      "content": "Ứng dụng nào của Google được bài học giới thiệu để xây dựng trang web?",
+      "options": [
+        { "key": "A", "text": "Google Forms." },
+        { "key": "B", "text": "Google Sites." },
+        { "key": "C", "text": "Google Meet." },
+        { "key": "D", "text": "Google Keep." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Google Sites là phần mềm làm trang web của Google, miễn phí, giao diện trực quan, trang tạo ra lưu trên Google Drive và cần tài khoản Google Mail. Forms dùng để tạo biểu mẫu, Meet dùng cho họp trực tuyến, Keep dùng ghi chú, nên không phải công cụ xây dựng trang web."
+    },
+    {
+      "id": "tinhoc12-b23-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["xây dựng thiết kế", "kiến trúc nội dung"],
+      "content": "Việc nào sau đây thuộc bước xây dựng thiết kế trong giai đoạn chuẩn bị?",
+      "options": [
+        { "key": "A", "text": "Xác định đối tượng người dùng mà trang web hướng tới." },
+        { "key": "B", "text": "Thu thập và biên tập tư liệu hình ảnh cho trang." },
+        { "key": "C", "text": "Xác định dàn ý, kiến trúc nội dung và mĩ thuật của trang." },
+        { "key": "D", "text": "Lựa chọn phần mềm sẽ dùng để làm trang web." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bước xây dựng thiết kế gồm dàn ý, kiến trúc nội dung, mĩ thuật cùng bảng màu và phông chữ, nên C đúng. Xác định mục đích và đối tượng thuộc bước định hình ý tưởng, còn thu thập, biên tập tư liệu và lựa chọn phần mềm thuộc bước cuối của giai đoạn chuẩn bị."
+    },
+    {
+      "id": "tinhoc12-b23-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["nhận định đúng sai", "các bước chuẩn bị"],
+      "content": "Những nhận định nào sau đây đúng về các bước chuẩn bị xây dựng trang web?",
+      "options": [
+        { "key": "A", "text": "Định hình ý tưởng là bước xác định mục đích, đối tượng người dùng và các yêu cầu về nội dung, kiến trúc thông tin, giao diện." },
+        { "key": "B", "text": "Xây dựng thiết kế là bước xác định dàn ý, kiến trúc nội dung, mĩ thuật, bảng màu và phông chữ." },
+        { "key": "C", "text": "Khi chuẩn bị, việc chọn bảng màu và phông chữ phải làm trước khi xác định trang web hướng tới những ai." },
+        { "key": "D", "text": "Chuẩn bị tư liệu và lựa chọn phần mềm là bước tiếp theo, sau khi đã định hình ý tưởng và xây dựng thiết kế." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đúng theo thứ tự ba bước của sách: định hình ý tưởng, xây dựng thiết kế, rồi chuẩn bị tư liệu và lựa chọn phần mềm. C sai vì định hình ý tưởng, tức xác định mục đích và đối tượng người dùng, phải đi trước việc chọn bảng màu và phông chữ thuộc bước xây dựng thiết kế."
+    },
+    {
+      "id": "tinhoc12-b23-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["nhận định đúng sai", "cấu trúc trang web"],
+      "content": "Những nhận định nào sau đây đúng về cấu trúc của một trang web đầy đủ?",
+      "options": [
+        { "key": "A", "text": "Phần thân trang chứa nội dung của trang và thường được bố cục thành các khối hình chữ nhật có tiêu đề riêng." },
+        { "key": "B", "text": "Vài dòng thông báo quan trọng được đặt ở cuối phần chân trang của website." },
+        { "key": "C", "text": "Phần đầu trang chứa thông tin chung nhất, phần chân trang chứa thông tin ngắn gọn về chủ thể." },
+        { "key": "D", "text": "Favicon là ảnh nền của phần đầu trang và bắt buộc thu gọn từ logo của website." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng: thân trang mang nội dung với các khối hình chữ nhật có tiêu đề riêng, đầu trang mang thông tin chung nhất còn chân trang mang thông tin ngắn gọn về chủ thể. B sai vì phần thông báo được đặt trước phần đầu trang chứ không ở cuối chân trang. D sai vì favicon là biểu tượng nhỏ ở tiêu đề tab trình duyệt và có thể thiết kế riêng, không nhất thiết thu gọn từ logo."
+    },
+    {
+      "id": "tinhoc12-b23-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["nhận định đúng sai", "phông chữ", "bảng màu"],
+      "content": "Những nhận định nào sau đây đúng về trình bày chữ và màu trên trang web?",
+      "options": [
+        { "key": "A", "text": "Một trang web chỉ cần dùng một cỡ chữ duy nhất cho mọi loại nội dung." },
+        { "key": "B", "text": "Bảng chọn trên thanh điều hướng nên dùng phông không chân hẹp ngang, chẳng hạn Arial Condensed." },
+        { "key": "C", "text": "Phông có chân như Times New Roman khó nhận diện trên màn hình nên chỉ nên dùng ở cỡ lớn như tiêu đề." },
+        { "key": "D", "text": "Mỗi bảng màu thường gồm năm màu pha trộn giữa gam ấm, lạnh và trung tính, chưa kể hai màu trắng và đen." }
+      ],
+      "correctAnswer": ["B", "C", "D"],
+      "explanation": "B, C và D đều là khuyến nghị của sách về phông chữ ở thanh điều hướng, cách dùng phông có chân và cấu tạo bảng màu. A sai vì sách quy định một trang web cần tối thiểu bốn cỡ chữ, từ nhỏ nhất cho chú thích không cần nhấn mạnh tới rất lớn cho tiêu đề nổi bật."
+    },
+    {
+      "id": "tinhoc12-b23-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-chuan-bi-web",
+      "tags": ["nhận định đúng sai", "công cụ của Google"],
+      "content": "Những nhận định nào sau đây đúng về phần mềm làm trang web của Google?",
+      "options": [
+        { "key": "A", "text": "Là phần mềm thương mại, người dùng phải mua bản quyền trước khi tạo trang." },
+        { "key": "B", "text": "Có giao diện hoàn toàn trực quan, kết nối dễ dàng với Docs, Sheets, Slides, Maps, Photos, YouTube." },
+        { "key": "C", "text": "Đòi hỏi người dùng phải thành thạo HTML và CSS mới tạo được trang." },
+        { "key": "D", "text": "Trang web tạo ra được lưu trên Google Drive và người dùng cần có tài khoản Google Mail." }
+      ],
+      "correctAnswer": ["B", "D"],
+      "explanation": "B và D đúng: phần mềm miễn phí với giao diện hoàn toàn trực quan, kết nối dễ với Docs, Sheets, Slides, Maps, Photos, YouTube; trang web lưu trên Google Drive và yêu cầu duy nhất là có tài khoản Google Mail. A sai vì đây là phần mềm Google cung cấp miễn phí, không phải phần mềm thương mại phải mua bản quyền. C sai vì công cụ không đòi hỏi biết lập trình."
+    }
+  ]
+}

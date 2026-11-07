@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-28",
+  "title": "Đề ôn tập Tin học 12 – Bài 28: Thực hành tổng hợp",
+  "slug": "de-tin-hoc-12-bai-28",
+  "description": "Đề ôn tập Bài 28 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về thực hành tổng hợp: làm trọn một website bằng Google Sites từ chuẩn bị tới công bố. Phần nền hỏi yêu cầu sản phẩm về tư liệu đa phương tiện, bảng chọn trên thanh điều hướng, biểu mẫu, bài thuyết minh; hình thức làm việc cá nhân hoặc nhóm không quá 3 người trong khoảng 3 tiết thực hành; phương án thiết kế theo ví dụ website Địa lí Việt Nam cùng mẫu giao diện, bảng màu, phông chữ và các thuật ngữ favicon, cây HTML, trọng số CSS. Phần thực hành hỏi trình tự thao tác tạo trang, sắp xếp cây các trang bằng bảng chọn Trang, bố cục khối nội dung ở phần thân, hoàn thiện chân trang, kiểm tra liên kết, xem thử trên các cỡ màn hình và công bố website. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, thang điểm 10, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B28",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-07T08:00:00.000Z",
+  "updatedAt": "2026-11-07T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b28-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["trình tự nhiệm vụ", "thực hành tổng hợp"],
+      "content": "Theo Bài 28, trình tự hợp lí nhất khi thực hiện thực hành tổng hợp xây dựng website là",
+      "options": [
+        { "key": "A", "text": "Chọn chủ đề và chuẩn bị tư liệu, xác định phương án thiết kế, rồi mới dựng các trang trên Google Sites." },
+        { "key": "B", "text": "Dựng các trang trên Google Sites, sau đó mới chọn chủ đề và chuẩn bị tư liệu." },
+        { "key": "C", "text": "Xác định phương án thiết kế, dựng các trang, cuối cùng mới chọn chủ đề cho website." },
+        { "key": "D", "text": "Chuẩn bị tư liệu, công bố website, sau đó mới dựng trang và thiết kế bố cục." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài 28 tổ chức thành ba nhiệm vụ theo thứ tự: chọn chủ đề và chuẩn bị tư liệu, xác định phương án thiết kế theo kiểu ví dụ website Địa lí Việt Nam, rồi mới thực hiện dựng trang bằng Google Sites. B và C đặt việc dựng trang trước khi có chủ đề nên không thể biết dựng nội dung gì; D công bố website khi chưa dựng trang, tức là đảo bước cuối lên trước."
+    },
+    {
+      "id": "tinhoc12-b28-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["phần thân trang", "khối nội dung"],
+      "content": "Khi xây dựng phần thân trang cho các trang của sản phẩm, nội dung nên được bố cục như thế nào?",
+      "options": [
+        { "key": "A", "text": "Để nguyên một khối văn bản duy nhất cho mỗi trang, không tách thành nhiều khối." },
+        { "key": "B", "text": "Chỉ chèn hình ảnh, phần lời dẫn để ra ngoài website trong bài thuyết minh." },
+        { "key": "C", "text": "Đưa toàn bộ nội dung xuống phần chân trang cho thân trang gọn nhẹ." },
+        { "key": "D", "text": "Chia thành các khối hình chữ nhật, mỗi khối trình bày một nội dung có tiêu đề riêng, xen kẽ khối chữ và khối ảnh." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phần thân trang thường được bố cục thành các khối hình chữ nhật, mỗi khối trình bày một nội dung với tiêu đề riêng; vì bài yêu cầu mọi trang đều có dữ liệu đa phương tiện nên ta xen kẽ khối văn bản và khối hình ảnh. A bỏ qua cách tách khối nên khó đọc; B trái yêu cầu vì website phải có bài viết; C sai vì chân trang chỉ dành cho thông tin ngắn gọn về chủ thể."
+    },
+    {
+      "id": "tinhoc12-b28-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["yêu cầu sản phẩm", "tư liệu đa phương tiện"],
+      "content": "Yêu cầu của Bài 28 về dữ liệu đa phương tiện đối với các trang của website là",
+      "options": [
+        { "key": "A", "text": "Chỉ cần có ở Trang chủ và ở trang chứa biểu mẫu." },
+        { "key": "B", "text": "Tất cả các trang của website đều phải có dữ liệu đa phương tiện." },
+        { "key": "C", "text": "Chỉ bắt buộc với những trang có bài viết dài." },
+        { "key": "D", "text": "Có thể bỏ qua nếu trang đã có bảng chọn trên thanh điều hướng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bài 28 yêu cầu tất cả các trang của website đều có dữ liệu đa phương tiện, không chấp nhận trang chỉ thuần văn bản. A và C thu hẹp phạm vi xuống một vài trang; D sai vì bảng chọn chỉ giúp di chuyển giữa các trang chứ không thay cho tư liệu đa phương tiện."
+    },
+    {
+      "id": "tinhoc12-b28-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["nhiệm vụ 1", "hình thức làm việc"],
+      "content": "Bốn bạn trong một tổ muốn cùng nhau làm một sản phẩm của Bài 28. Theo quy định về hình thức làm việc, cách xử lí nào phù hợp?",
+      "options": [
+        { "key": "A", "text": "Bốn bạn vẫn làm chung vì Bài 28 không giới hạn số thành viên của nhóm." },
+        { "key": "B", "text": "Bốn bạn phải tách thành bốn sản phẩm riêng vì Bài 28 chỉ cho làm cá nhân." },
+        { "key": "C", "text": "Nhóm thu gọn lại còn không quá 3 người, một bạn chuyển sang làm sản phẩm cá nhân." },
+        { "key": "D", "text": "Bốn bạn muốn làm chung thì phải đăng kí thực hiện hoàn toàn ngoài giờ học." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài 28 cho phép làm việc cá nhân hoặc làm việc nhóm với điều kiện nhóm không quá 3 người, nên cách xử lí đúng là thu gọn nhóm và một bạn làm sản phẩm cá nhân. A bỏ qua giới hạn số người; B trái vì làm nhóm vẫn được cho phép; D đặt thêm điều kiện thời gian không có trong bài."
+    },
+    {
+      "id": "tinhoc12-b28-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["chọn chủ đề", "thời lượng thực hành"],
+      "content": "Theo Bài 28, vì sao chủ đề của sản phẩm không nên quá rộng?",
+      "options": [
+        { "key": "A", "text": "Vì cần bảo đảm chuẩn bị tư liệu nhanh chóng và thực hiện được trong khoảng 3 tiết thực hành trên lớp." },
+        { "key": "B", "text": "Vì Google Sites chỉ cho phép một website có tối đa 3 trang." },
+        { "key": "C", "text": "Vì biểu mẫu chỉ chứa được một số câu hỏi rất giới hạn." },
+        { "key": "D", "text": "Vì các trang con không được phép cùng nói về một chủ đề." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách hướng dẫn chọn chủ đề vừa phải để có thể nhanh chóng chuẩn bị tư liệu và dùng Google Sites hoàn thành sản phẩm trong khoảng 3 tiết thực hành trên lớp. B sai vì số trang của website không bị giới hạn ở con số 3; C là ràng buộc của biểu mẫu, không liên quan tới phạm vi chủ đề; D trái với cách tổ chức cây các trang của website."
+    },
+    {
+      "id": "tinhoc12-b28-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["thuyết minh sản phẩm", "yêu cầu sản phẩm"],
+      "content": "Bài thuyết minh kèm theo sản phẩm của thực hành tổng hợp cần trình bày nội dung nào?",
+      "options": [
+        { "key": "A", "text": "Toàn bộ mã HTML của các trang trong website." },
+        { "key": "B", "text": "Danh sách các tư liệu đã tải từ Internet về máy tính." },
+        { "key": "C", "text": "Mục đích, ý nghĩa của sản phẩm cùng các yêu cầu đã đạt được." },
+        { "key": "D", "text": "Địa chỉ máy chủ nơi lưu tệp website của nhóm." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sản phẩm của Bài 28 phải kèm thuyết minh dưới dạng một bài giới thiệu ngắn gọn về mục đích, ý nghĩa của sản phẩm và các yêu cầu đã đạt được. A sai vì bài không yêu cầu nộp mã nguồn; B chỉ là một phần của khâu chuẩn bị tư liệu; D là thông tin kĩ thuật không thuộc nội dung thuyết minh."
+    },
+    {
+      "id": "tinhoc12-b28-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["bảng màu", "website Địa lí Việt Nam"],
+      "content": "Trong ví dụ website Địa lí Việt Nam của Bài 28, bảng màu cho toàn website được chọn theo tiêu chí nào?",
+      "options": [
+        { "key": "A", "text": "Tương phản mạnh để làm nổi bật mọi tiêu đề trên trang." },
+        { "key": "B", "text": "Nhẹ nhàng và tươi tắn." },
+        { "key": "C", "text": "Chỉ dùng hai màu đen và trắng cho toàn bộ các trang." },
+        { "key": "D", "text": "Mỗi trang dùng một bảng màu riêng để tạo cảm giác mới lạ." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ví dụ của sách chọn bảng màu nhẹ nhàng và tươi tắn, đi cùng phông chữ Sans Serif với các kích thước 10, 12, 18. A trái với tiêu chí nhẹ nhàng; C thu hẹp quá mức so với bảng màu được chọn; D phá vỡ tính thống nhất mà mẫu giao diện đã quy định cho toàn website."
+    },
+    {
+      "id": "tinhoc12-b28-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["tiêu đề trên ảnh nền", "thiết kế đầu trang"],
+      "content": "Theo Bài 28, kích thước và màu sắc của tiêu đề hiển thị trên ảnh nền của phần đầu trang được quy định như thế nào?",
+      "options": [
+        { "key": "A", "text": "Phải dùng một cỡ chữ duy nhất cho mọi trang của website." },
+        { "key": "B", "text": "Do Google Sites tự đặt và người thiết kế không thay đổi được." },
+        { "key": "C", "text": "Bắt buộc trùng với cỡ chữ đang dùng cho nội dung bài viết." },
+        { "key": "D", "text": "Có thể thay đổi cho phù hợp, không bị cố định." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu kích thước và màu sắc của tiêu đề trên ảnh nền có thể thay đổi cho phù hợp chứ không bị cố định, dù phông chữ chung của website là Sans Serif với các kích thước 10, 12, 18. A và B phủ nhận khả năng thay đổi này; C đặt ra ràng buộc giữa tiêu đề và nội dung mà bài không nêu."
+    },
+    {
+      "id": "tinhoc12-b28-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["thanh điều hướng", "bảng chọn"],
+      "content": "Trong ví dụ website Địa lí Việt Nam, mỗi lựa chọn trên bảng chọn của thanh điều hướng có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Mở một cửa sổ trình duyệt mới chứa đúng trang chủ." },
+        { "key": "B", "text": "Dẫn đến những trang với nội dung tương ứng." },
+        { "key": "C", "text": "Hiển thị biểu đồ thống kê số lượt xem của trang." },
+        { "key": "D", "text": "Áp dụng một mẫu giao diện khác cho toàn website." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng chọn của ví dụ gồm Trang chủ, Địa lí Tự nhiên, Địa lí Kinh tế – Xã hội, Trắc nghiệm và mỗi lựa chọn dẫn đến trang có nội dung tương ứng. A sai vì bảng chọn chuyển trang ngay trong website chứ không mở cửa sổ mới; C là việc của biểu mẫu hoặc công cụ thống kê; D sai vì đổi mẫu giao diện là thiết lập riêng, không gắn với từng mục trên bảng chọn."
+    },
+    {
+      "id": "tinhoc12-b28-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["tạo trang mới", "bảng chọn Trang"],
+      "content": "Trong Bước 1 của Nhiệm vụ 3, sau khi nháy dấu cộng ở bảng chọn Trang và chọn Trang mới, em làm gì để tạo xong trang?",
+      "options": [
+        { "key": "A", "text": "Nhập tên cho trang rồi nháy nút Xong." },
+        { "key": "B", "text": "Nháy nút Công bố để trang hiện ra trên thanh điều hướng." },
+        { "key": "C", "text": "Kéo thả trang vừa tạo vào một thư mục trong Google Drive." },
+        { "key": "D", "text": "Mở cửa sổ Cài đặt rồi chọn mục Điều hướng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hướng dẫn của bài là chọn Trang mới, nhập tên rồi nháy nút Xong để trang xuất hiện trong bảng chọn Trang. Nút Công bố chỉ dùng khi xuất bản website; kéo thả trong bảng chọn Trang nhằm thay đổi trình tự và mức hiển thị của trang chứ không liên quan thư mục Drive; mục Điều hướng thuộc cửa sổ Cài đặt dùng để chỉnh cách hiển thị bảng chọn."
+    },
+    {
+      "id": "tinhoc12-b28-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["bảng chọn Trang", "dấu cộng"],
+      "content": "Lựa chọn nào sau đây KHÔNG có trong danh sách bật ra khi nháy dấu cộng trong bảng chọn Trang?",
+      "options": [
+        { "key": "A", "text": "Mục trình đơn mới." },
+        { "key": "B", "text": "Nhúng toàn bộ trang." },
+        { "key": "C", "text": "Đường liên kết mới." },
+        { "key": "D", "text": "Trang cha mới." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Danh sách bật ra từ dấu cộng trong bảng chọn Trang chỉ có bốn lựa chọn là Mục trình đơn mới, Nhúng toàn bộ trang, Đường liên kết mới và Trang mới, nên không tồn tại lựa chọn Trang cha mới. Ba phương án còn lại đều là những lựa chọn có thật trong danh sách này."
+    },
+    {
+      "id": "tinhoc12-b28-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["kéo thả", "cấu trúc cây các trang"],
+      "content": "Theo lưu ý in nghiêng của Bài 28, thao tác kéo thả trang trong bảng chọn Trang được so sánh với việc nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Sao chép một khối văn bản trong phần thân trang." },
+        { "key": "B", "text": "Đổi kích thước ảnh nền ở phần đầu trang." },
+        { "key": "C", "text": "Di chuyển thư mục trong cây thư mục." },
+        { "key": "D", "text": "Tải một tệp trình chiếu từ Google Drive lên trang." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách so sánh thao tác này với việc di chuyển thư mục trong cây thư mục, vì kéo thả giúp đổi vị trí, trình tự và mức hiển thị của trang trong cấu trúc cây các trang. A, B và D là những thao tác thuộc phần thân trang, phần đầu trang hoặc bảng chọn Chèn, không phải phép so sánh mà bài nêu."
+    },
+    {
+      "id": "tinhoc12-b28-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["chân trang", "hoàn thiện website"],
+      "content": "Khi hoàn thiện sản phẩm, phần chân trang của website thường chứa những thông tin nào?",
+      "options": [
+        { "key": "A", "text": "Tuyên bố về bản quyền và thông tin liên lạc như email, số điện thoại." },
+        { "key": "B", "text": "Toàn văn nội dung chi tiết của các bài viết trong website." },
+        { "key": "C", "text": "Bảng chọn dùng để đi tới các trang con của website." },
+        { "key": "D", "text": "Bộ câu hỏi của biểu mẫu lấy ý kiến người xem." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Chân trang dành cho thông tin ngắn gọn về chủ thể, phổ biến nhất là tuyên bố bản quyền và thông tin liên lạc, có thể thêm liên kết tới mạng xã hội. Toàn văn bài viết thuộc phần thân trang nên B sai; bảng chọn nằm trên thanh điều hướng nên C sai; bộ câu hỏi của biểu mẫu thuộc trang chứa biểu mẫu nên D sai."
+    },
+    {
+      "id": "tinhoc12-b28-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["mẫu giao diện", "giao diện thống nhất"],
+      "content": "Trong thực hành tổng hợp, sau khi chọn một mẫu giao diện cho website trong Google Sites, kết quả là",
+      "options": [
+        { "key": "A", "text": "Chỉ phần đầu trang thay đổi, còn các phần khác giữ nguyên như trước." },
+        { "key": "B", "text": "Toàn bộ giao diện được điều khiển hiển thị mặc định, thống nhất theo các quy định của mẫu." },
+        { "key": "C", "text": "Nội dung các bài viết được Google Sites tự động tạo ra theo mẫu đã chọn." },
+        { "key": "D", "text": "Không còn cách nào thay đổi màu sắc hay phông chữ của bất kỳ phần nào." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mẫu giao diện là tập hợp quy định về bảng màu, phông chữ và thiết kế đầu trang, nên khi chọn mẫu thì toàn bộ giao diện hiển thị mặc định và thống nhất theo mẫu. A thu hẹp phạm vi tác động của mẫu sang riêng phần đầu trang; C sai vì mẫu không tự sinh nội dung bài viết; D sai vì trong quá trình thiết lập vẫn có thể thay đổi riêng màu sắc, phông chữ của một phần nào đó."
+    },
+    {
+      "id": "tinhoc12-b28-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["mẫu giao diện", "thay đổi riêng"],
+      "content": "Bạn Minh khẳng định: đã chọn mẫu giao diện thì không thể đổi màu nền hoặc phông chữ của riêng một khối nội dung. Theo Bài 28, nhận định đó đúng hay sai?",
+      "options": [
+        { "key": "A", "text": "Đúng, vì mọi thiết lập riêng đều bị mẫu giao diện ghi đè." },
+        { "key": "B", "text": "Đúng, vì muốn đổi thì phải huỷ mẫu giao diện đang dùng." },
+        { "key": "C", "text": "Sai, vì mỗi khối nội dung luôn có một bảng màu riêng của nó." },
+        { "key": "D", "text": "Sai, vì vẫn có thể thay đổi riêng về màu sắc, phông chữ của một phần nào đó trong quá trình thiết lập." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nói rõ dù đã chọn mẫu, người thiết kế vẫn thay đổi riêng được màu sắc và phông chữ của một phần nào đó trong quá trình thiết lập, nên nhận định của Minh là sai và D diễn đạt đúng lí do. A và B cùng kết luận nhận định của Minh là đúng nên sai; C kết luận sai nhưng vì lí do không có trong bài, sách không nói mỗi khối có bảng màu riêng."
+    },
+    {
+      "id": "tinhoc12-b28-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["bảng màu của mẫu", "phông chữ của mẫu"],
+      "content": "Theo Bài 28, trong các quy định cụ thể của một mẫu giao diện có sẵn, chi tiết nào điều chỉnh được?",
+      "options": [
+        { "key": "A", "text": "Cả ba màu trong bảng màu của mẫu." },
+        { "key": "B", "text": "Các phông chữ và kiểu chữ mà mẫu đã quy định." },
+        { "key": "C", "text": "Màu tông đậm trong bảng màu gồm ba màu của mẫu." },
+        { "key": "D", "text": "Số lượng phông chữ mà mẫu sử dụng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mỗi mẫu có bảng màu gồm 3 màu, trong đó 2 màu tông nhẹ cố định và 1 màu tông đậm điều chỉnh được; vì vậy chỉ có màu tông đậm là thay đổi theo ý người thiết kế. A sai vì hai màu tông nhẹ không đổi được; B và D sai vì phông chữ của mẫu gồm 3 phông với kiểu cố định, người dùng không đổi kiểu cũng không đổi số phông của mẫu."
+    },
+    {
+      "id": "tinhoc12-b28-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["favicon", "thuật ngữ"],
+      "content": "Muốn biểu tượng riêng của website hiển thị trên tab của cửa sổ trình duyệt, em cần thêm thành phần nào?",
+      "options": [
+        { "key": "A", "text": "Favicon." },
+        { "key": "B", "text": "Thanh điều hướng." },
+        { "key": "C", "text": "Bảng chọn Trang." },
+        { "key": "D", "text": "Khối nội dung ở phần thân trang." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo bảng giải thích thuật ngữ, Favicon là viết tắt của Favorite Icon, tức biểu tượng của website và hiển thị trên tab của cửa sổ trình duyệt. Thanh điều hướng chứa bảng chọn để chuyển trang, bảng chọn Trang dùng để tạo và sắp xếp các trang, khối nội dung chỉ bày nội dung trong phần thân trang; không thành phần nào trong ba thành phần đó xuất hiện trên tab."
+    },
+    {
+      "id": "tinhoc12-b28-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["trọng số CSS", "thuật ngữ"],
+      "content": "Theo Bảng giải thích thuật ngữ của sách, trọng số của định dạng CSS là gì?",
+      "options": [
+        { "key": "A", "text": "Số lần một định dạng xuất hiện trong tệp style." },
+        { "key": "B", "text": "Kích thước tính theo pixels của văn bản trong trang." },
+        { "key": "C", "text": "Diện tích mà một khối nội dung chiếm trên màn hình." },
+        { "key": "D", "text": "Thứ tự ưu tiên từ cao xuống thấp khi được chọn mẫu định dạng của CSS." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trọng số của định dạng CSS là thứ tự ưu tiên từ cao xuống thấp khi được chọn mẫu định dạng của CSS, tức là định dạng nào thắng khi có nhiều định dạng cùng áp dụng. A là hiểu nhầm phổ biến vì trọng số không đếm số lần xuất hiện; B là đơn vị cỡ chữ; C là vấn đề bố cục của khối nội dung."
+    },
+    {
+      "id": "tinhoc12-b28-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["cây HTML", "thuật ngữ"],
+      "content": "Trong Bảng giải thích thuật ngữ, cấu trúc hình cây thể hiện quan hệ phân tầng cha – con của các phần tử html được gọi là",
+      "options": [
+        { "key": "A", "text": "thanh điều hướng." },
+        { "key": "B", "text": "cây HTML." },
+        { "key": "C", "text": "mẫu giao diện." },
+        { "key": "D", "text": "bảng chọn Trang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Định nghĩa trên đúng với cây HTML: cấu trúc hình cây biểu diễn quan hệ phân tầng cha – con giữa các phần tử html. Thanh điều hướng là nơi đặt bảng chọn để chuyển trang, mẫu giao diện quy định bảng màu và phông chữ, còn bảng chọn Trang là khu vực liệt kê các trang trong cửa sổ thiết kế; cả ba đều không phải cấu trúc phân tầng của phần tử html."
+    },
+    {
+      "id": "tinhoc12-b28-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["biểu mẫu", "Google Forms"],
+      "content": "Sản phẩm của Bài 28 yêu cầu website có biểu mẫu với nội dung hợp lí. Biểu mẫu ấy được tạo theo cách nào?",
+      "options": [
+        { "key": "A", "text": "Soạn trực tiếp trong cửa sổ chỉnh sửa của Google Sites." },
+        { "key": "B", "text": "Chép mã HTML của biểu mẫu vào một khối văn bản trong trang." },
+        { "key": "C", "text": "Tạo bằng ứng dụng Forms của Google rồi nhúng vào trang web." },
+        { "key": "D", "text": "Tải một tệp biểu mẫu từ máy tính lên bảng chọn Trang." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo các bước đã học, biểu mẫu được soạn trong ứng dụng Forms của Google rồi nhúng vào trang bằng nút lệnh Biểu mẫu trong bảng chọn Chèn của Google Sites. A sai vì Google Sites không cho tạo biểu mẫu trực tiếp; B sai vì không chép mã HTML vào khối văn bản; D sai vì bảng chọn Trang chỉ quản lí danh sách các trang, không nhận tệp biểu mẫu."
+    },
+    {
+      "id": "tinhoc12-b28-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["kiểm tra liên kết", "thanh điều hướng"],
+      "content": "Trước khi công bố, cách nào kiểm tra được mỗi mục trên bảng chọn dẫn đúng tới trang có nội dung cần thiết?",
+      "options": [
+        { "key": "A", "text": "Nháy lần lượt từng mục trên bảng chọn rồi đối chiếu trang mở ra với nội dung tương ứng." },
+        { "key": "B", "text": "Đổi màu của thanh điều hướng rồi quan sát xem mục nào đổi màu." },
+        { "key": "C", "text": "Mở bảng chọn Trang và đếm số trang có trong cây các trang." },
+        { "key": "D", "text": "Chèn thêm một biểu mẫu rồi xem số lượt trả lời của người xem." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vì mỗi lựa chọn trên bảng chọn phải dẫn đến trang có nội dung tương ứng nên cách kiểm tra là nháy từng mục và đối chiếu trang mở ra. B chỉ là thay đổi giao diện, không kiểm tra được đường đi của liên kết; C chỉ cho biết số lượng trang chứ không cho biết liên kết đúng hay sai; D là việc của biểu mẫu, không liên quan tới liên kết trên thanh điều hướng."
+    },
+    {
+      "id": "tinhoc12-b28-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["xem thử", "cỡ màn hình"],
+      "content": "Trong Google Sites, biểu tượng Xem trước được dùng để làm gì khi hoàn thiện sản phẩm?",
+      "options": [
+        { "key": "A", "text": "Lưu phiên bản đang làm thành một tệp riêng trong Google Drive." },
+        { "key": "B", "text": "Cấp quyền chỉnh sửa website cho các bạn trong nhóm." },
+        { "key": "C", "text": "Hiển thị biểu đồ thống kê số lượt truy cập của website." },
+        { "key": "D", "text": "Xem thử website trên các cỡ màn hình của điện thoại, máy tính bảng và máy tính." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Biểu tượng Xem trước cho phép xem thử trang trên điện thoại, máy tính bảng và máy tính, nhờ đó thấy được bảng chọn co lại trên màn hình nhỏ trước khi công bố. Việc lưu trang, cấp quyền chỉnh sửa và xem số liệu truy cập đều không do biểu tượng này đảm nhiệm, nên A, B, C sai."
+    },
+    {
+      "id": "tinhoc12-b28-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["công bố website", "địa chỉ URL"],
+      "content": "Một nhóm đã dựng xong website và muốn cả lớp truy cập được bằng một địa chỉ URL. Thao tác nào sau đây là đúng?",
+      "options": [
+        { "key": "A", "text": "Gửi tệp trang cho các bạn để các bạn tự mở trang trên máy của mình." },
+        { "key": "B", "text": "Nháy biểu tượng Xem trước rồi đề nghị người xem tự gõ tên trang." },
+        { "key": "C", "text": "Nháy nút Công bố để xuất bản trang, đặt tên trang ngắn gọn vì tên được gán vào địa chỉ URL." },
+        { "key": "D", "text": "Chọn một mẫu giao diện mới để Google Sites tự tạo ra địa chỉ URL cho website." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Muốn người khác truy cập bằng URL thì phải nháy nút Công bố để xuất bản website, và sách lưu ý tên trang nên ngắn gọn vì tên này được gán vào địa chỉ URL của trang. A chỉ chia sẻ tệp tại chỗ chứ không tạo website trực tuyến; B nhầm Xem trước với việc công bố; D sai vì mẫu giao diện chỉ quy định bảng màu, phông chữ, thiết kế đầu trang, không sinh ra địa chỉ URL."
+    },
+    {
+      "id": "tinhoc12-b28-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["trình tự hoàn thiện", "công bố website"],
+      "content": "Trong bước cuối của thực hành tổng hợp, vì sao việc kiểm tra các mục trên bảng chọn và xem thử trên các cỡ màn hình phải làm trước khi nháy nút Công bố?",
+      "options": [
+        { "key": "A", "text": "Vì sau khi đã công bố thì không thể tiếp tục chỉnh sửa nội dung của các trang nữa." },
+        { "key": "B", "text": "Vì sau khi công bố, người xem truy cập website bằng địa chỉ URL nên mọi sai sót về liên kết và hiển thị sẽ tới ngay với người xem." },
+        { "key": "C", "text": "Vì Google Sites chỉ cho phép kiểm tra liên kết và xem thử sau khi website đã được công bố." },
+        { "key": "D", "text": "Vì việc công bố làm thay đổi bảng màu và phông chữ mà mẫu giao diện đã quy định." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Công bố là bước đưa website lên trực tuyến để người khác truy cập bằng địa chỉ URL, nên sai sót về liên kết và về cách hiển thị trên các cỡ màn hình cần được phát hiện và sửa trước khi công bố; B diễn đạt đúng lí do đó. A sai vì sau khi công bố vẫn tiếp tục chỉnh sửa rồi công bố lại được; C sai vì việc kiểm tra và xem thử thực hiện ngay trong cửa sổ thiết kế, không chờ tới sau khi công bố; D sai vì công bố chỉ xuất bản website chứ không làm đổi bảng màu, phông chữ của mẫu giao diện."
+    },
+    {
+      "id": "tinhoc12-b28-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["nhận định đúng sai", "yêu cầu sản phẩm", "thuyết minh"],
+      "content": "Những nhận định nào sau đây đúng về yêu cầu sản phẩm của thực hành tổng hợp trong Bài 28?",
+      "options": [
+        { "key": "A", "text": "Sản phẩm kèm theo một bài thuyết minh ngắn gọn nêu mục đích, ý nghĩa của sản phẩm và các yêu cầu đã đạt được." },
+        { "key": "B", "text": "Website cần có bảng chọn trên thanh điều hướng để đi tới các trang con và có biểu mẫu với nội dung hợp lí." },
+        { "key": "C", "text": "Nội dung website gồm các bài viết ngắn gọn, tối thiểu 3 đến 4 bài, kèm tư liệu đa phương tiện." },
+        { "key": "D", "text": "Chỉ riêng Trang chủ cần có dữ liệu đa phương tiện, các trang con để văn bản thuần chữ." }
+      ],
+      "correctAnswer": ["A", "B", "C"],
+      "explanation": "A, B và C đúng theo phần yêu cầu của Bài 28: có bài thuyết minh về mục đích, ý nghĩa và các yêu cầu đạt được, có bảng chọn dẫn tới trang con cùng biểu mẫu hợp lí, và nội dung gồm các tư liệu đa phương tiện với ít nhất 3 đến 4 bài viết ngắn gọn. D sai vì sách yêu cầu tất cả các trang của website đều có dữ liệu đa phương tiện, không chỉ Trang chủ."
+    },
+    {
+      "id": "tinhoc12-b28-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["nhận định đúng sai", "nhiệm vụ 1", "phương án thiết kế"],
+      "content": "Những nhận định nào sau đây đúng về tổ chức thực hiện và phương án thiết kế trong Bài 28?",
+      "options": [
+        { "key": "A", "text": "Có thể làm việc cá nhân hoặc làm việc nhóm, với điều kiện nhóm không quá 3 người." },
+        { "key": "B", "text": "Phải dựng xong các trang trên Google Sites rồi mới chọn bảng màu và phông chữ cho website." },
+        { "key": "C", "text": "Chủ đề không nên quá rộng để chuẩn bị tư liệu nhanh và làm xong trong khoảng 3 tiết thực hành trên lớp." },
+        { "key": "D", "text": "Trong ví dụ website Địa lí Việt Nam, bảng màu chọn theo hướng tương phản mạnh và tiêu đề dùng phông chữ thảo." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng: hình thức làm việc là cá nhân hoặc nhóm không quá 3 người, còn chủ đề vừa phải giúp chuẩn bị tư liệu nhanh và thực hiện được trong khoảng 3 tiết thực hành trên lớp. B sai vì phương án thiết kế được xác định trước khi dựng trang, theo đúng thứ tự các nhiệm vụ của bài. D sai vì ví dụ chọn bảng màu nhẹ nhàng, tươi tắn và phông chữ Sans Serif với các kích thước 10, 12, 18."
+    },
+    {
+      "id": "tinhoc12-b28-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["nhận định đúng sai", "mẫu giao diện", "bảng chọn Trang"],
+      "content": "Những nhận định nào sau đây đúng về mẫu giao diện và cách làm việc với bảng chọn Trang?",
+      "options": [
+        { "key": "A", "text": "Mẫu giao diện quy định bảng màu, phông chữ và thiết kế đầu trang cho toàn bộ website." },
+        { "key": "B", "text": "Trong bảng màu của mỗi mẫu, cả ba màu đều có thể điều chỉnh tự do." },
+        { "key": "C", "text": "Ở bảng chọn Trang, thao tác kéo thả giúp di chuyển, thay đổi trình tự và mức hiển thị của trang trong cấu trúc cây các trang." },
+        { "key": "D", "text": "Danh sách bật ra từ dấu cộng ở bảng chọn Trang gồm Mục trình đơn mới, Nhúng toàn bộ trang, Đường liên kết mới và Trang mới." }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "A, C và D đều đúng: mẫu giao diện là tập hợp quy định về bảng màu, phông chữ, thiết kế đầu trang; kéo thả trong bảng chọn Trang làm thay đổi trình tự và mức hiển thị của trang như di chuyển thư mục trong cây thư mục; danh sách từ dấu cộng có đúng bốn lựa chọn đã nêu. B sai vì trong ba màu của mẫu chỉ có 1 màu tông đậm điều chỉnh được, còn 2 màu tông nhẹ là cố định."
+    },
+    {
+      "id": "tinhoc12-b28-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-thuc-hanh-tong-hop",
+      "tags": ["nhận định đúng sai", "xem thử", "hoàn thiện sản phẩm"],
+      "content": "Những nhận định nào sau đây đúng khi kiểm tra và hoàn thiện sản phẩm website?",
+      "options": [
+        { "key": "A", "text": "Trước khi công bố nên dùng biểu tượng Xem trước để xem thử website trên các cỡ màn hình của điện thoại, máy tính bảng và máy tính." },
+        { "key": "B", "text": "Chỉ cần xem thử trên máy tính, vì điện thoại và máy tính bảng luôn hiển thị giống như trên máy tính." },
+        { "key": "C", "text": "Không cần thử lại các mục trên bảng chọn vì Google Sites tự kiểm tra liên kết khi công bố." },
+        { "key": "D", "text": "Phần chân trang có thể chứa nhiều khối văn bản như dòng bản quyền, địa chỉ liên hệ và liên kết mạng xã hội của chủ thể." }
+      ],
+      "correctAnswer": ["A", "D"],
+      "explanation": "A và D đúng: Xem trước giúp thấy giao diện trên các cỡ màn hình khác nhau, còn chân trang chứa các thông tin ngắn gọn về chủ thể như bản quyền, liên hệ và liên kết mạng xã hội, sắp xếp trong các khối văn bản. B sai vì trên điện thoại bảng chọn được tự động chuyển sang phía phải, ngay trước logo và có dạng ba gạch nằm ngang, nên phải xem thử cả trên các cỡ màn hình nhỏ; C sai vì mỗi lựa chọn trên bảng chọn phải dẫn tới trang có nội dung tương ứng nên người làm phải tự kiểm tra từng mục trước khi công bố."
+    }
+  ]
+}

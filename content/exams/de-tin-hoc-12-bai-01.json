@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-01",
+  "title": "Đề ôn tập Tin học 12 – Bài 1: Làm quen với Trí tuệ nhân tạo",
+  "slug": "de-tin-hoc-12-bai-01",
+  "description": "Đề ôn tập Bài 1 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về làm quen với Trí tuệ nhân tạo: khái niệm AI và dấu hiệu “công việc mang tính trí tuệ”, năm đặc trưng cơ bản (học, suy luận, nhận thức, hiểu ngôn ngữ, giải quyết vấn đề), cách phân loại AI theo chức năng (AI hẹp/yếu và AI tổng quát/mạnh) và theo thế hệ, các mốc 1950 với phép thử Turing, 1956 với Hội thảo Dartmouth, 1972 với hệ chuyên gia MYCIN cùng khoảng 600 luật suy diễn, rô-bốt Asimo xuất hiện lần đầu năm 1986 và các ứng dụng Google Dịch, nhận dạng chữ viết tay, trợ lí ảo, hệ thống khuyến nghị. Đề cũng ôn ba điều kiện để một chương trình AI học được là dữ liệu, mô hình và huấn luyện, kèm hạn chế và yêu cầu an toàn khi dùng AI. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, làm trong 45 phút, tổng điểm 10, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-07T08:00:00.000Z",
+  "updatedAt": "2026-11-07T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b01-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["khái niệm AI", "công việc mang tính trí tuệ"],
+      "content": "Theo sách giáo khoa, những công việc nào sau đây được nêu làm ví dụ cho các công việc mang tính trí tuệ khi định nghĩa AI?",
+      "options": [
+        { "key": "A", "text": "đọc chữ, hiểu tiếng nói, dịch thuật, lái xe, có khả năng học và ra quyết định." },
+        { "key": "B", "text": "sao lưu dữ liệu, nén tệp, chống phân mảnh ổ cứng và in tài liệu hàng loạt." },
+        { "key": "C", "text": "kết nối các bộ xử lí, tăng xung nhịp và mở rộng dung lượng bộ nhớ của máy tính." },
+        { "key": "D", "text": "lắp ráp cơ khí, đóng gói và vận chuyển hàng hoá trong kho theo chương trình cố định." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khi định nghĩa AI, sách nêu các công việc mang tính trí tuệ của con người như đọc chữ, hiểu tiếng nói, dịch thuật, lái xe hay khả năng học và ra quyết định. Phương án B và C là công việc của hệ điều hành và của phần cứng, còn D là việc của dây chuyền tự động hoá; đó đều là những việc chạy theo quy tắc đã lập trình sẵn nên không được coi là trí tuệ."
+    },
+    {
+      "id": "tinhoc12-b01-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["năm đặc trưng", "đặc trưng trí tuệ"],
+      "content": "Đặc trưng nào sau đây KHÔNG nằm trong năm đặc trưng cơ bản của AI được nhắc tới nhiều nhất trong sách giáo khoa?",
+      "options": [
+        { "key": "A", "text": "khả năng học." },
+        { "key": "B", "text": "khả năng biểu diễn mọi dữ liệu bằng mã nhị phân." },
+        { "key": "C", "text": "khả năng nhận thức." },
+        { "key": "D", "text": "khả năng hiểu ngôn ngữ." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Năm đặc trưng cơ bản của AI là học, suy luận, nhận thức, hiểu ngôn ngữ và giải quyết vấn đề, nên biểu diễn dữ liệu bằng mã nhị phân không thuộc danh sách này. Việc mã hoá dữ liệu thành nhị phân là đặc điểm chung của máy tính số, không phải dấu hiệu trí tuệ; ba phương án A, C, D đều là đặc trưng được sách nêu."
+    },
+    {
+      "id": "tinhoc12-b01-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["hiểu ngôn ngữ", "máy tìm kiếm"],
+      "content": "Máy tìm kiếm trên Internet hiểu được yêu cầu tra cứu của người dùng đưa vào bằng văn bản hoặc bằng tiếng nói. Đây là biểu hiện của đặc trưng nào?",
+      "options": [
+        { "key": "A", "text": "khả năng suy luận." },
+        { "key": "B", "text": "khả năng giải quyết vấn đề." },
+        { "key": "C", "text": "khả năng hiểu ngôn ngữ." },
+        { "key": "D", "text": "khả năng nhận thức." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khả năng hiểu ngôn ngữ của AI bao gồm cả văn bản viết lẫn tiếng nói, vì thế máy tìm kiếm hiểu yêu cầu nhập bằng chữ hay bằng giọng nói là biểu hiện của đặc trưng này. Suy luận là vận dụng logic và tri thức để kết luận, nhận thức là cảm nhận môi trường qua cảm biến và dữ liệu đầu vào, còn khả năng giải quyết vấn đề gắn với việc tìm cách đạt mục tiêu chứ không phải việc hiểu câu chữ."
+    },
+    {
+      "id": "tinhoc12-b01-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["khả năng nhận thức", "định nghĩa"],
+      "content": "Theo sách giáo khoa, khả năng nhận thức của AI được hiểu như thế nào?",
+      "options": [
+        { "key": "A", "text": "vận dụng logic và tri thức để đưa ra quyết định hoặc kết luận." },
+        { "key": "B", "text": "cảm nhận và hiểu biết môi trường xung quanh thông qua các cảm biến và dữ liệu đầu vào." },
+        { "key": "C", "text": "nắm bắt thông tin từ dữ liệu và điều chỉnh hành vi dựa trên thông tin mới." },
+        { "key": "D", "text": "thực hiện lặp đi lặp lại một vài thao tác cố định với hiệu suất cao." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Khả năng nhận thức là cảm nhận và hiểu biết môi trường xung quanh nhờ cảm biến và dữ liệu đầu vào; ví dụ trong sách là xe tự lái dùng radar và camera để nhận biết xe xung quanh, biển báo và người đi bộ. Phương án A là định nghĩa của khả năng suy luận, C là định nghĩa của khả năng học, còn D mô tả hệ thống tự động hoá chứ không phải nhận thức."
+    },
+    {
+      "id": "tinhoc12-b01-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["AI và tự động hoá", "đặc trưng kết hợp"],
+      "content": "Theo bài học, điều gì làm nên sự khác biệt giữa một ứng dụng AI và một hệ thống tự động hoá thông thường?",
+      "options": [
+        { "key": "A", "text": "Ứng dụng AI có sự kết hợp ở các mức độ khác nhau của những đặc trưng trí tuệ đã nêu." },
+        { "key": "B", "text": "Ứng dụng AI luôn chạy trên máy tính có bộ nhớ lớn hơn hệ thống tự động hoá." },
+        { "key": "C", "text": "Hệ thống tự động hoá không xử lí dữ liệu, còn ứng dụng AI luôn xử lí dữ liệu." },
+        { "key": "D", "text": "Ứng dụng AI chỉ tồn tại dưới dạng rô-bốt, còn hệ thống tự động hoá chỉ tồn tại dưới dạng phần mềm." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phần nội dung cần ghi nhớ của bài khẳng định mọi ứng dụng AI trong thực tế đều cần sự kết hợp các đặc trưng trí tuệ ở những mức độ khác nhau, và chính điều đó tạo nên khác biệt giữa AI và tự động hoá. Dung lượng bộ nhớ, việc có xử lí dữ liệu hay không, hoặc hình thái rô-bốt hay phần mềm đều không phải tiêu chí mà bài nêu."
+    },
+    {
+      "id": "tinhoc12-b01-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["phân loại AI", "AI hẹp"],
+      "content": "Trong các cặp tên gọi sau, cặp nào chỉ cùng một loại AI theo sách giáo khoa?",
+      "options": [
+        { "key": "A", "text": "trí tuệ nhân tạo hẹp và trí tuệ nhân tạo yếu." },
+        { "key": "B", "text": "trí tuệ nhân tạo tổng quát và trí tuệ nhân tạo yếu." },
+        { "key": "C", "text": "trí tuệ nhân tạo mạnh và trí tuệ nhân tạo chuyên biệt." },
+        { "key": "D", "text": "hệ chuyên gia và trí tuệ nhân tạo tổng quát." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách dùng trí tuệ nhân tạo hẹp như tên gọi khác của trí tuệ nhân tạo yếu, còn trí tuệ nhân tạo tổng quát ứng với trí tuệ nhân tạo mạnh. Vì vậy B và C ghép nhầm tên, D cũng sai vì hệ chuyên gia như MYCIN chỉ là một dạng chương trình chạy theo luật suy diễn trong phạm vi AI hẹp."
+    },
+    {
+      "id": "tinhoc12-b01-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["tiêu chí phân loại", "AI tổng quát"],
+      "content": "Tiêu chí nào được sách giáo khoa dùng để chia AI thành trí tuệ nhân tạo hẹp và trí tuệ nhân tạo tổng quát?",
+      "options": [
+        { "key": "A", "text": "Phạm vi nhiệm vụ mà hệ thống được thiết kế để thực hiện." },
+        { "key": "B", "text": "Tốc độ tính toán và dung lượng bộ nhớ của máy chạy hệ thống." },
+        { "key": "C", "text": "Số lượng luật suy diễn được viết ra trong chương trình." },
+        { "key": "D", "text": "Ngôn ngữ giao diện mà hệ thống hiển thị với người dùng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tiêu chí phân biệt là phạm vi năng lực: AI hẹp làm một hoặc một nhóm nhiệm vụ cụ thể trong phạm vi xác định, còn AI tổng quát hướng tới sự linh hoạt trên nhiều lĩnh vực như trí tuệ con người. Tốc độ máy, số luật suy diễn hay ngôn ngữ giao diện chỉ là các yếu tố kĩ thuật, không phải căn cứ để phân loại AI."
+    },
+    {
+      "id": "tinhoc12-b01-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["phân loại theo thế hệ", "AI thế hệ mới"],
+      "content": "Theo bài học, khả năng học của AI được hiểu như thế nào?",
+      "options": [
+        { "key": "A", "text": "Là khả năng máy tính lưu giữ nguyên vẹn mọi dữ liệu đã được nạp vào bộ nhớ." },
+        { "key": "B", "text": "Là khả năng máy tính chạy lại đúng chương trình đã cài đặt sẵn mà không thay đổi gì." },
+        { "key": "C", "text": "Là khả năng máy tính tiếp nhận dữ liệu mới để rút ra tri thức và điều chỉnh hành vi cho phù hợp." },
+        { "key": "D", "text": "Là khả năng máy tính xử lí nhanh hơn khi được nâng cấp phần cứng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Học là một trong các đặc trưng trí tuệ của AI: hệ thống tiếp nhận dữ liệu mới, rút ra tri thức rồi điều chỉnh hành vi của mình, như hệ thống khuyến nghị cải thiện dần nhờ phản hồi của người dùng. A chỉ là lưu trữ, B là thực hiện lại một chương trình cố định, còn D là chuyện tốc độ phần cứng, cả ba đều không phải học."
+    },
+    {
+      "id": "tinhoc12-b01-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["phép thử Turing", "mốc lịch sử"],
+      "content": "Phép thử dùng để đánh giá khả năng tương tác ngôn ngữ tự nhiên của máy tính với con người được Alan Turing đưa ra vào năm nào?",
+      "options": [
+        { "key": "A", "text": "Năm 1956." },
+        { "key": "B", "text": "Năm 1950." },
+        { "key": "C", "text": "Năm 1972." },
+        { "key": "D", "text": "Năm 2006." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Alan Turing đưa ra phép thử mang tên ông vào năm 1950. Các mốc còn lại thuộc sự kiện khác: 1956 là Hội thảo Dartmouth đánh dấu sự ra đời của thuật ngữ AI, 1972 là năm bắt đầu phát triển hệ chuyên gia MYCIN, còn 2006 là năm Google Dịch ra đời."
+    },
+    {
+      "id": "tinhoc12-b01-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["Hội thảo Dartmouth", "sự ra đời của AI"],
+      "content": "Hội thảo được sách giáo khoa coi là điểm mốc ghi nhận sự ra đời của thuật ngữ Trí tuệ nhân tạo được tổ chức ở đâu?",
+      "options": [
+        { "key": "A", "text": "Tại Đại học Stanford, bang California, Mỹ." },
+        { "key": "B", "text": "Tại Viện Hàn lâm Khoa học Anh quốc ở London." },
+        { "key": "C", "text": "Tại Đại học Harvard, bang Massachusetts, Mỹ." },
+        { "key": "D", "text": "Tại Đại học Dartmouth, bang New Hampshire, Mỹ." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hội thảo năm 1956 tại Đại học Dartmouth, bang New Hampshire, Mỹ với chủ đề phát triển máy tính có khả năng thực hiện các tác vụ thông minh được coi là điểm mốc khai sinh lĩnh vực AI. Stanford là nơi hệ chuyên gia MYCIN được phát triển từ năm 1972, còn Harvard và London không xuất hiện trong các mốc của bài."
+    },
+    {
+      "id": "tinhoc12-b01-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["hệ chuyên gia MYCIN", "tương tác người dùng"],
+      "content": "Người dùng làm việc với hệ chuyên gia MYCIN theo cách nào?",
+      "options": [
+        { "key": "A", "text": "gửi ảnh chụp chiếu để hệ thống tự phân tích hình ảnh." },
+        { "key": "B", "text": "ra lệnh cho hệ thống bằng tiếng nói như với trợ lí ảo." },
+        { "key": "C", "text": "trả lời các câu hỏi của hệ thống theo dạng có hoặc không về triệu chứng bệnh." },
+        { "key": "D", "text": "tải các tệp dữ liệu lớn lên để hệ thống tự học thêm luật mới." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu người dùng của MYCIN trả lời các câu hỏi dạng có hoặc không về triệu chứng, sau đó hệ thống đối chiếu với tập luật để đưa ra kết luận. MYCIN không phân tích ảnh chiếu và không nhận lệnh bằng tiếng nói; phương án D sai vì hệ không tự học từ dữ liệu mà dùng luật do con người xây dựng."
+    },
+    {
+      "id": "tinhoc12-b01-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["hệ chuyên gia MYCIN", "luật suy diễn"],
+      "content": "Theo sách giáo khoa, hệ chuyên gia MYCIN sử dụng khoảng bao nhiêu luật suy diễn?",
+      "options": [
+        { "key": "A", "text": "khoảng 60 luật." },
+        { "key": "B", "text": "khoảng 150 luật." },
+        { "key": "C", "text": "khoảng 600 luật." },
+        { "key": "D", "text": "khoảng 6000 luật." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "MYCIN được xây dựng với khoảng 600 luật suy diễn theo dạng nếu có các triệu chứng A1, A2 thì có kết luận B. Các phương án 60, 150 và 6000 luật đều là những con số không xuất hiện trong bài nên đều sai."
+    },
+    {
+      "id": "tinhoc12-b01-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["rô-bốt Asimo", "Honda"],
+      "content": "Thông tin nào sau đây đúng về rô-bốt Asimo được sách giáo khoa nhắc tới?",
+      "options": [
+        { "key": "A", "text": "Là trợ lí ảo của Apple tích hợp trên điện thoại thông minh." },
+        { "key": "B", "text": "Là robot hình người đầu tiên trên thế giới tích hợp một loạt ứng dụng AI, do Honda phát triển." },
+        { "key": "C", "text": "Là hệ chuyên gia chẩn đoán bệnh truyền nhiễm của Đại học Stanford." },
+        { "key": "D", "text": "Là dây chuyền lắp ráp tự động đầu tiên trong ngành ô tô." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu Asimo là robot hình người đầu tiên trên thế giới tích hợp một loạt ứng dụng AI và là sản phẩm của hãng Honda. Trợ lí ảo của Apple là Siri, hệ chuyên gia của Stanford là MYCIN, còn D sai vì một dây chuyền lắp ráp chỉ lặp lại thao tác cố định thì không được xếp vào ứng dụng AI."
+    },
+    {
+      "id": "tinhoc12-b01-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["trợ lí ảo", "hãng phát triển"],
+      "content": "Trong các trợ lí ảo sau, trợ lí ảo nào là sản phẩm của Microsoft?",
+      "options": [
+        { "key": "A", "text": "Siri." },
+        { "key": "B", "text": "Google Assistant." },
+        { "key": "C", "text": "Bixby." },
+        { "key": "D", "text": "Cortana." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách nêu Google Assistant là của Google, Siri là của Apple, Bixby là của Samsung và Cortana là của Microsoft, nên phương án D đúng. Ba phương án còn lại bị gán nhầm hãng."
+    },
+    {
+      "id": "tinhoc12-b01-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["nhận dạng chữ viết tay", "xử lí hoá đơn"],
+      "content": "Một công ty chuyển hình ảnh chữ viết tay trên hoá đơn giấy thành dữ liệu văn bản để xử lí trong phần mềm. Ứng dụng AI nào đã được sử dụng?",
+      "options": [
+        { "key": "A", "text": "Nhận dạng chữ viết tay." },
+        { "key": "B", "text": "Nhận dạng khuôn mặt." },
+        { "key": "C", "text": "Hệ thống khuyến nghị." },
+        { "key": "D", "text": "Xe tự lái." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhận dạng chữ viết tay chuyển đổi hình ảnh chữ viết tay thành dữ liệu văn bản có thể xử lí được và được dùng rộng rãi trong xử lí hoá đơn cùng các giao dịch thương mại điện tử. Ba ứng dụng còn lại đều là ứng dụng AI nhưng không liên quan tới việc đọc chữ viết tay trên giấy."
+    },
+    {
+      "id": "tinhoc12-b01-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["Google Dịch", "xử lí ngôn ngữ"],
+      "content": "Theo phần một số ứng dụng của AI, bản phổ biến hiện nay của dịch vụ Google Dịch dịch được những dạng nội dung nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ dịch các từ đơn lẻ nằm trong một câu." },
+        { "key": "B", "text": "Chỉ dịch tên riêng của người và tổ chức." },
+        { "key": "C", "text": "Chỉ dịch nội dung tin nhắn trên điện thoại." },
+        { "key": "D", "text": "Nhiều dạng văn bản như từ, cụm từ, tệp văn bản và trang web." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Google Dịch là dịch vụ dịch thuật miễn phí do Google phát triển vào tháng 4 năm 2006; bản phổ biến hiện nay dịch được nhiều dạng văn bản, từ từ, cụm từ tới tệp văn bản và cả trang web. Các từ “chỉ dịch” ở ba phương án đầu thu hẹp sai phạm vi của dịch vụ này."
+    },
+    {
+      "id": "tinhoc12-b01-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["dữ liệu", "huấn luyện mô hình"],
+      "content": "Một chương trình nhận thông tin về điểm số, số buổi vắng và hạnh kiểm của học sinh, đối chiếu với quy chế của nhà trường rồi đưa ra kết luận xếp loại. Công việc đó thể hiện rõ nhất đặc trưng nào của AI?",
+      "options": [
+        { "key": "A", "text": "Khả năng ghi nhớ." },
+        { "key": "B", "text": "Khả năng hiểu ngôn ngữ tự nhiên." },
+        { "key": "C", "text": "Khả năng suy luận." },
+        { "key": "D", "text": "Khả năng nhận thức." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chương trình lấy thông tin và quy chế đã có làm căn cứ rồi rút ra kết luận xếp loại, đó là suy luận — một trong các đặc trưng trí tuệ của AI. Ghi nhớ chỉ là giữ lại thông tin, hiểu ngôn ngữ tự nhiên là nắm được văn bản hay tiếng nói, còn nhận thức là thu nhận và hiểu thông tin từ môi trường bên ngoài."
+    },
+    {
+      "id": "tinhoc12-b01-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["hạn chế của AI", "kiểm chứng kết quả"],
+      "content": "Vì sao không nên tin tuyệt đối vào kết luận do một hệ thống AI đưa ra?",
+      "options": [
+        { "key": "A", "text": "Vì AI luôn kết luận sai mỗi khi gặp dữ liệu mới." },
+        { "key": "B", "text": "Vì kết luận của AI phụ thuộc vào dữ liệu và tri thức được nạp vào, những thứ ấy có thể thiếu hoặc chưa đầy đủ." },
+        { "key": "C", "text": "Vì AI không bao giờ làm việc với thông tin dạng số." },
+        { "key": "D", "text": "Vì AI chỉ mô phỏng được thao tác cơ khí, không làm được việc nào khác." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kết luận của hệ AI dựa trên dữ liệu và tri thức mà nó có, nên khi những thứ đó thiếu hoặc không đại diện thì kết luận có thể sai và con người vẫn phải kiểm chứng. Phương án A khẳng định tuyệt đối hoá nên sai; C sai vì AI xử lí thông tin dạng số; D sai vì AI làm nhiều việc trí tuệ chứ không chỉ thao tác cơ khí."
+    },
+    {
+      "id": "tinhoc12-b01-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["đạo đức", "an toàn khi dùng AI"],
+      "content": "Trong các việc sau, việc nào phù hợp với yêu cầu an toàn và đạo đức khi sử dụng AI?",
+      "options": [
+        { "key": "A", "text": "Tin ngay kết quả của AI khi kết quả đó trùng với điều mình muốn nghĩ." },
+        { "key": "B", "text": "Không dùng AI trong bất kì ứng dụng giải trí nào." },
+        { "key": "C", "text": "Che giấu không cho người dùng biết họ đang tương tác với máy tính." },
+        { "key": "D", "text": "Kiểm chứng lại kết luận của AI và cân nhắc tác động tới người khác trước khi quyết định." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nguyên tắc an toàn khi dùng AI là kiểm chứng lại kết luận và cân nhắc tác động trước khi quyết định, vì hệ thống có thể sai và quyết định vẫn thuộc trách nhiệm con người. A là thói quen cả tin; B thái quá vì AI vẫn dùng được trong giải trí; C là hành vi không trung thực với người dùng."
+    },
+    {
+      "id": "tinhoc12-b01-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["hệ thống khuyến nghị", "khả năng học"],
+      "content": "Hệ thống khuyến nghị tích hợp trên YouTube đề xuất video mới cho từng người dùng chủ yếu dựa vào căn cứ nào?",
+      "options": [
+        { "key": "A", "text": "Độ dài tệp video và dung lượng lưu trữ còn trống của thiết bị." },
+        { "key": "B", "text": "Số lượng quảng cáo xuất hiện trước mỗi video." },
+        { "key": "C", "text": "Thông tin do hệ thống nắm bắt được từ hoạt động xem video của chính người dùng đó." },
+        { "key": "D", "text": "Độ phân giải màn hình của thiết bị đang phát video." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hệ thống khuyến nghị của YouTube là ví dụ sách nêu cho khả năng học: nó nắm bắt thông tin từ dữ liệu xem video rồi điều chỉnh đề xuất theo sở thích của từng người dùng. Độ dài tệp, số quảng cáo và độ phân giải màn hình là các yếu tố kĩ thuật không phải căn cứ để hệ thống học sở thích."
+    },
+    {
+      "id": "tinhoc12-b01-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["AI hẹp", "trạng thái hiện tại"],
+      "content": "Vì sao nói các thành tựu AI đang được sử dụng hiện nay đều thuộc phạm vi trí tuệ nhân tạo hẹp?",
+      "options": [
+        { "key": "A", "text": "Vì mỗi thành tựu chỉ làm được một hoặc một nhóm nhiệm vụ cụ thể trong phạm vi xác định." },
+        { "key": "B", "text": "Vì tất cả các thành tựu ấy đều chạy trên rô-bốt hình người." },
+        { "key": "C", "text": "Vì trí tuệ nhân tạo tổng quát không còn là mục tiêu nghiên cứu của lĩnh vực AI." },
+        { "key": "D", "text": "Vì các thành tựu ấy đều dựa vào tập luật suy diễn do con người lập trình sẵn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Đặc trưng của AI hẹp là được thiết kế cho một hoặc một nhóm nhiệm vụ cụ thể trong phạm vi xác định, và mọi thành tựu hiện nay đều có giới hạn đó. B sai về mặt hiện thực, C sai vì AI tổng quát vẫn là mục tiêu dài hạn, D sai vì nhiều thành tựu hiện nay dùng Học máy chứ không dùng tập luật như hệ chuyên gia."
+    },
+    {
+      "id": "tinhoc12-b01-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["phép thử Turing", "giao tiếp ngôn ngữ"],
+      "content": "Theo sách giáo khoa, điều kiện nào cho thấy một máy tính vượt qua phép thử Turing?",
+      "options": [
+        { "key": "A", "text": "Máy tính thực hiện các phép tính nhanh hơn hẳn người tham gia." },
+        { "key": "B", "text": "Máy tính tự thiết kế được một luật chơi cờ mới." },
+        { "key": "C", "text": "Máy tính dịch được một tệp văn bản lớn trong thời gian ngắn." },
+        { "key": "D", "text": "Người tham gia trò chuyện không nhận ra mình đang nói chuyện với máy tính." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phép thử Turing kiểm tra khả năng tương tác ngôn ngữ tự nhiên với con người; nếu người chơi không nhận ra đang trò chuyện với máy tính thì máy tính được coi là vượt qua phép thử. Tốc độ tính toán, việc soạn luật chơi cờ hay dịch nhanh một tệp văn bản đều không phải nội dung của phép thử."
+    },
+    {
+      "id": "tinhoc12-b01-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["hệ chuyên gia", "AI trong y học"],
+      "content": "MYCIN được sách giáo khoa giới thiệu là một hệ thống thuộc loại nào?",
+      "options": [
+        { "key": "A", "text": "Trợ lí ảo trên điện thoại." },
+        { "key": "B", "text": "Hệ chuyên gia trong y học." },
+        { "key": "C", "text": "Rô-bốt hình người." },
+        { "key": "D", "text": "Hệ quản trị cơ sở dữ liệu." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "MYCIN là hệ chuyên gia: tri thức của chuyên gia được biểu diễn thành các luật suy diễn để đưa ra chẩn đoán và đề xuất kháng sinh. Trợ lí ảo là Siri hay Cortana, rô-bốt hình người là Asimo, còn hệ quản trị cơ sở dữ liệu không được bài học xếp vào các ứng dụng AI."
+    },
+    {
+      "id": "tinhoc12-b01-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["tự động hoá", "không phải AI"],
+      "content": "Trường hợp nào sau đây KHÔNG được coi là ứng dụng AI theo sách giáo khoa?",
+      "options": [
+        { "key": "A", "text": "Chương trình máy tính chơi cờ thành thạo một trò chơi cụ thể." },
+        { "key": "B", "text": "Trợ lí ảo nhận yêu cầu bằng tiếng nói để tìm kiếm thông tin." },
+        { "key": "C", "text": "Hệ thống nhận dạng khuôn mặt dùng để mở khoá điện thoại." },
+        { "key": "D", "text": "Dây chuyền lắp ráp và rô-bốt cơ giới hoá chỉ lặp lại vài thao tác cố định." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách khẳng định không phải bất kì hệ thống tự động hoá nào cũng là AI: dây chuyền lắp ráp và rô-bốt cơ giới hoá lặp lại vài thao tác cố định dù hiệu suất cao vẫn không được coi là ứng dụng AI. Chơi cờ, trợ lí ảo và nhận dạng khuôn mặt là những ví dụ AI hẹp mà bài đã nêu."
+    },
+    {
+      "id": "tinhoc12-b01-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["nhận định đúng sai", "khái niệm AI", "đặc trưng trí tuệ"],
+      "content": "Những nhận định nào sau đây đúng về khái niệm AI và các đặc trưng trí tuệ?",
+      "options": [
+        { "key": "A", "text": "AI là khả năng của máy tính làm những công việc mang tính trí tuệ của con người như đọc chữ, hiểu tiếng nói, dịch thuật, lái xe, học và ra quyết định." },
+        { "key": "B", "text": "Năm đặc trưng cơ bản của AI thường được nhắc tới nhiều nhất là học, suy luận, nhận thức, hiểu ngôn ngữ và giải quyết vấn đề." },
+        { "key": "C", "text": "Khả năng hiểu ngôn ngữ của AI chỉ giới hạn ở văn bản viết, không bao gồm tiếng nói." },
+        { "key": "D", "text": "Mọi ứng dụng AI trong thực tế đều cần sự kết hợp ở các mức độ khác nhau của những đặc trưng trí tuệ đã nêu." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đều đúng theo định nghĩa AI, danh sách năm đặc trưng và phần nội dung cần ghi nhớ của Bài 1. C sai vì khả năng hiểu ngôn ngữ bao gồm cả văn bản viết lẫn tiếng nói, ví dụ máy tìm kiếm hiểu yêu cầu nhập bằng giọng nói."
+    },
+    {
+      "id": "tinhoc12-b01-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["nhận định đúng sai", "mốc lịch sử", "hệ chuyên gia"],
+      "content": "Những nhận định nào sau đây đúng về các mốc lịch sử và về hệ chuyên gia MYCIN?",
+      "options": [
+        { "key": "A", "text": "Hội thảo Dartmouth năm 1956 là điểm mốc ghi nhận sự ra đời của trí tuệ nhân tạo tổng quát." },
+        { "key": "B", "text": "Phép thử Turing do Alan Turing đưa ra năm 1950 kiểm tra khả năng tương tác ngôn ngữ tự nhiên của máy tính với con người." },
+        { "key": "C", "text": "Hệ chuyên gia MYCIN được bắt đầu phát triển tại Đại học Stanford từ năm 1972, dựa trên tập luật suy diễn do con người đưa ra." },
+        { "key": "D", "text": "Hệ chuyên gia MYCIN dùng các kĩ thuật Học máy để tự tạo ra khoảng 600 luật suy diễn của mình." }
+      ],
+      "correctAnswer": ["B", "C"],
+      "explanation": "B và C đúng theo các mốc lịch sử và mô tả MYCIN trong bài. A sai vì Hội thảo Dartmouth ghi nhận sự ra đời của thuật ngữ AI và khởi đầu lĩnh vực AI, còn trí tuệ nhân tạo tổng quát đến nay vẫn chưa đạt được. D sai vì sách nêu rõ MYCIN không sử dụng các kĩ thuật Học máy, các luật suy diễn là do con người xây dựng."
+    },
+    {
+      "id": "tinhoc12-b01-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["nhận định đúng sai", "phân loại AI", "AI tổng quát"],
+      "content": "Những nhận định nào sau đây đúng về các cách phân loại AI?",
+      "options": [
+        { "key": "A", "text": "Trí tuệ nhân tạo hẹp, còn gọi là trí tuệ nhân tạo yếu, được thiết kế để thực hiện một nhiệm vụ cụ thể." },
+        { "key": "B", "text": "Trí tuệ nhân tạo mạnh đã được hiện thực hoá trong các chương trình chơi cờ và nhận dạng khuôn mặt." },
+        { "key": "C", "text": "Trí tuệ nhân tạo tổng quát hướng tới khả năng tự học, tự thích nghi và thực hiện nhiều công việc giống con người." },
+        { "key": "D", "text": "Các thành tựu AI mà ta đang dùng hiện nay đều thuộc phạm vi trí tuệ nhân tạo hẹp." }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "A, C và D đúng theo phần phân loại AI: AI hẹp đồng nghĩa với AI yếu và làm một nhiệm vụ cụ thể, AI tổng quát nhắm tới sự linh hoạt như con người, còn thành tựu thực tế hiện nay đều là AI hẹp. B sai vì chơi cờ và nhận dạng khuôn mặt là ví dụ của AI hẹp; trí tuệ nhân tạo mạnh là mục tiêu dài hạn và chưa đạt được."
+    },
+    {
+      "id": "tinhoc12-b01-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-ai-lam-quen",
+      "tags": ["nhận định đúng sai", "ứng dụng AI", "an toàn"],
+      "content": "Những nhận định nào sau đây đúng về ứng dụng của AI và việc sử dụng AI?",
+      "options": [
+        { "key": "A", "text": "Dây chuyền lắp ráp tự động là ứng dụng AI điển hình vì nó thay thế phần lớn sức người trong sản xuất." },
+        { "key": "B", "text": "Google Dịch và nhận dạng chữ viết tay là hai ứng dụng AI được sách nêu trong phần một số ứng dụng của AI." },
+        { "key": "C", "text": "Kết luận của một hệ thống AI luôn đúng vì hệ thống không phụ thuộc vào dữ liệu nạp vào." },
+        { "key": "D", "text": "Người dùng nên kiểm chứng lại kết quả do AI đưa ra và thận trọng với thông tin cá nhân mà hệ thống thu thập." }
+      ],
+      "correctAnswer": ["B", "D"],
+      "explanation": "B đúng vì Google Dịch và nhận dạng chữ viết tay đều nằm trong phần một số ứng dụng của AI; D đúng vì kết quả của AI phụ thuộc vào dữ liệu nên con người cần kiểm chứng và bảo vệ thông tin cá nhân. A sai vì dây chuyền lắp ráp chỉ lặp lại thao tác cố định thì không được coi là ứng dụng AI. C sai vì dữ liệu và tri thức nạp vào thiếu hoặc lệch sẽ làm kết luận của AI sai."
+    }
+  ]
+}

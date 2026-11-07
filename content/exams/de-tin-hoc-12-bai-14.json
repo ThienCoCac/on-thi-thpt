@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-14",
+  "title": "Đề ôn tập Tin học 12 – Bài 14: Định dạng văn bản bằng CSS",
+  "slug": "de-tin-hoc-12-bai-14",
+  "description": "Đề ôn tập Bài 14 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về định dạng văn bản bằng CSS: các thuộc tính định dạng chữ font-family, font-size, font-weight, font-style, color; các thuộc tính định dạng đoạn văn text-align, text-indent, line-height, letter-spacing, word-spacing; cùng text-decoration, năm loại phông chữ, kí hiệu !important, đơn vị px, pt, em và cú pháp khai báo thuộc tính trong khối ngoặc nhọn. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, tổng điểm 10. Mọi câu đều có lời giải nêu rõ vì sao đáp án đúng và vì sao các phương án còn lại sai.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B14",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-07T08:00:00.000Z",
+  "updatedAt": "2026-11-07T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b14-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["font-family", "định dạng chữ"],
+      "content": "Trong CSS, thuộc tính font-family được dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Xác định họ chữ (phông chữ) sẽ được trình duyệt dùng để hiển thị văn bản." },
+        { "key": "B", "text": "Xác định cỡ chữ sẽ được trình duyệt dùng để hiển thị văn bản." },
+        { "key": "C", "text": "Xác định độ đậm nhạt của chữ trong văn bản." },
+        { "key": "D", "text": "Xác định khoảng cách giữa các dòng chữ của văn bản." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "font-family là thuộc tính quy định họ chữ, tức phông chữ mà trình duyệt dùng để hiển thị văn bản. Các phương án còn lại là tác dụng của thuộc tính khác: font-size đặt cỡ chữ, font-weight đặt độ đậm nhạt, line-height đặt khoảng cách giữa các dòng."
+    },
+    {
+      "id": "tinhoc12-b14-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["font-family", "phông dự phòng"],
+      "content": "Trong khai báo `p {font-family: Arial, sans-serif;}`, giá trị `sans-serif` có vai trò gì?",
+      "options": [
+        { "key": "A", "text": "Tên phông chữ bắt buộc, mọi trình duyệt đều phải hiển thị đúng một phông này." },
+        { "key": "B", "text": "Tên một tệp phông chữ mà trình duyệt sẽ tải về máy khi mở trang." },
+        { "key": "C", "text": "Loại phông dự phòng: nếu không tìm thấy Arial, trình duyệt sẽ chọn một phông chữ không chân bất kì." },
+        { "key": "D", "text": "Cỡ chữ mặc định của đoạn văn khi người dùng chưa chọn phông chữ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Theo sách, danh sách giá trị của font-family gồm các tên phông ưu tiên theo thứ tự và tên loại phông đặt ở vị trí cuối cùng để làm dự phòng; sans-serif là loại chữ không chân. Vì vậy khi máy không có Arial, trình duyệt chọn một phông không chân bất kì. A sai vì đây không phải một phông cố định bắt buộc; B sai vì giá trị này không phải tên tệp phông; D sai vì cỡ chữ do font-size quy định chứ không liên quan tới font-family."
+    },
+    {
+      "id": "tinhoc12-b14-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["font-size", "đơn vị px"],
+      "content": "Mẫu định dạng `h1 {font-size: 24px;}` có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Đặt độ đậm của các thẻ h1 ở mức 24." },
+        { "key": "B", "text": "Đặt cỡ chữ của các thẻ h1 thành 24 pixel." },
+        { "key": "C", "text": "Đặt khoảng cách giữa hai thẻ h1 liền nhau là 24 pixel." },
+        { "key": "D", "text": "Đặt chiều cao dòng của thẻ h1 gấp 24 lần cỡ chữ." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "font-size quy định cỡ chữ và 24px nghĩa là 24 pixel, một đơn vị đo chính xác tuyệt đối. A sai vì độ đậm do font-weight quy định; C sai vì font-size không đặt khoảng cách giữa các thẻ; D sai vì chiều cao dòng là việc của line-height."
+    },
+    {
+      "id": "tinhoc12-b14-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["đơn vị cỡ chữ", "em"],
+      "content": "Theo sách giáo khoa, trong các đơn vị đo cỡ chữ sau, đơn vị nào thuộc nhóm đơn vị đo tương đối?",
+      "options": [
+        { "key": "A", "text": "px." },
+        { "key": "B", "text": "pt." },
+        { "key": "C", "text": "cm." },
+        { "key": "D", "text": "em." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách xếp cm, mm, in, px và pt vào nhóm đơn vị đo chính xác tuyệt đối, còn em, ex, rem và tỉ lệ phần trăm thuộc nhóm đơn vị tương đối vì cỡ chữ suy ra từ một cỡ chữ gốc. Vì thế em là đơn vị tương đối, ba phương án px, pt và cm đều là đơn vị tuyệt đối nên A, B, C sai."
+    },
+    {
+      "id": "tinhoc12-b14-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["đơn vị em", "font-size"],
+      "content": "Theo bài học, đơn vị em được dùng để xác định cỡ chữ so với",
+      "options": [
+        { "key": "A", "text": "cỡ chữ của phần tử gốc html của tệp HTML." },
+        { "key": "B", "text": "cỡ chữ hiện thời tại vị trí áp dụng định dạng." },
+        { "key": "C", "text": "chiều cao chữ x của cỡ chữ hiện thời." },
+        { "key": "D", "text": "cỡ chữ của phần tử đứng ngay sau phần tử được định dạng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách định nghĩa em xác định cỡ chữ so với cỡ chữ hiện thời tại vị trí áp dụng định dạng, nên khi cỡ chữ của ngữ cảnh xung quanh thay đổi thì cỡ chữ tính theo em cũng thay đổi theo. A là cách tính của đơn vị rem dựa vào phần tử gốc html, C là định nghĩa của đơn vị ex, còn cỡ chữ của phần tử đứng sau không ảnh hưởng tới phần tử đang được định dạng."
+    },
+    {
+      "id": "tinhoc12-b14-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["font-weight", "định dạng chữ"],
+      "content": "Trong CSS, thuộc tính font-weight dùng để",
+      "options": [
+        { "key": "A", "text": "quy định độ đậm nhạt của chữ trong văn bản." },
+        { "key": "B", "text": "quy định độ nghiêng của chữ trong văn bản." },
+        { "key": "C", "text": "quy định chiều rộng của mỗi kí tự trong văn bản." },
+        { "key": "D", "text": "quy định khoảng cách giữa các từ trong văn bản." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "font-weight quy định độ đậm nhạt của chữ, với các giá trị thường dùng là normal và bold. B là tác dụng của font-style, D là tác dụng của word-spacing, còn chiều rộng từng kí tự không do font-weight đặt nên C sai."
+    },
+    {
+      "id": "tinhoc12-b14-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["font-weight", "giá trị bold"],
+      "content": "Trong khai báo `p {font-weight: bold;}`, giá trị `bold` có ý nghĩa gì?",
+      "options": [
+        { "key": "A", "text": "Chữ trong đoạn văn hiển thị theo kiểu nghiêng." },
+        { "key": "B", "text": "Chữ trong đoạn văn hiển thị toàn bộ bằng chữ in hoa." },
+        { "key": "C", "text": "Chữ trong đoạn văn hiển thị ở cỡ chữ lớn nhất." },
+        { "key": "D", "text": "Chữ trong đoạn văn hiển thị đậm hơn mức bình thường." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "bold là giá trị của font-weight, làm chữ đậm hơn mức bình thường (normal). A sai vì độ nghiêng do font-style quy định chứ không phải font-weight; B sai vì font-weight không đổi kiểu hoa hay thường của chữ; C sai vì font-weight không thay đổi cỡ chữ, cỡ chữ do font-size quy định."
+    },
+    {
+      "id": "tinhoc12-b14-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["font-style", "in nghiêng"],
+      "content": "Muốn chữ trong các đoạn văn hiển thị theo kiểu in nghiêng bằng CSS, ta dùng khai báo nào?",
+      "options": [
+        { "key": "A", "text": "`p {font-weight: italic;}`" },
+        { "key": "B", "text": "`p {text-decoration: italic;}`" },
+        { "key": "C", "text": "`p {font-style: italic;}`" },
+        { "key": "D", "text": "`p {font-family: italic;}`" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "italic là giá trị của font-style nên chỉ khai báo ở C tạo được chữ nghiêng. A sai vì font-weight chỉ nhận các giá trị độ đậm như normal, bold; B sai vì text-decoration nhận các giá trị trang trí như underline, none chứ không nhận italic; D sai vì font-family nhận tên phông chữ, không nhận italic."
+    },
+    {
+      "id": "tinhoc12-b14-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["color", "màu chữ"],
+      "content": "Trong CSS, thuộc tính color của một phần tử văn bản quy định điều gì?",
+      "options": [
+        { "key": "A", "text": "Màu của chữ trong phần tử đó." },
+        { "key": "B", "text": "Cỡ của chữ trong phần tử đó." },
+        { "key": "C", "text": "Kiểu chữ viết tay hay chữ in của phần tử đó." },
+        { "key": "D", "text": "Khoảng cách giữa các chữ cái trong phần tử đó." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "color là thuộc tính đặt màu cho chữ của phần tử được chọn. B là tác dụng của font-size, C là việc của font-family và font-style, D là tác dụng của letter-spacing nên cả ba phương án còn lại sai."
+    },
+    {
+      "id": "tinhoc12-b14-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["text-align", "căn lề"],
+      "content": "Giá trị nào của thuộc tính text-align làm cho văn bản trong đoạn được căn đều hai bên lề?",
+      "options": [
+        { "key": "A", "text": "left." },
+        { "key": "B", "text": "center." },
+        { "key": "C", "text": "right." },
+        { "key": "D", "text": "justify." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "justify là giá trị căn đều hai bên lề của khối văn bản. left căn trái, center căn giữa và right căn phải nên A, B, C đều không cho kết quả cần tìm."
+    },
+    {
+      "id": "tinhoc12-b14-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["text-align", "đọc mã CSS"],
+      "content": "Mẫu định dạng `h2 {text-align: center;}` tạo ra kết quả gì?",
+      "options": [
+        { "key": "A", "text": "Toàn bộ trang web được dịch vào giữa màn hình." },
+        { "key": "B", "text": "Cỡ chữ của các thẻ h2 được phóng to lên hai lần." },
+        { "key": "C", "text": "Chữ trong các thẻ h2 được căn giữa trong vùng chứa nó." },
+        { "key": "D", "text": "Các chữ cái trong thẻ h2 được viết hoa toàn bộ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "text-align: center căn giữa dòng chữ, chỉ áp dụng cho các phần tử do bộ chọn h2 xác định. A sai vì mẫu không làm thay đổi vị trí của cả trang; B sai vì cỡ chữ do font-size quy định; D sai vì text-align chỉ đặt cách căn lề, không đổi chữ thành in hoa."
+    },
+    {
+      "id": "tinhoc12-b14-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["text-indent", "thụt đầu dòng"],
+      "content": "Mẫu định dạng `p {text-indent: 40px;}` có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Toàn bộ đoạn văn được lùi vào trong 40 pixel so với lề." },
+        { "key": "B", "text": "Chỉ dòng đầu tiên của đoạn văn được thụt vào trong 40 pixel." },
+        { "key": "C", "text": "Chỉ dòng cuối cùng của đoạn văn được thụt vào trong 40 pixel." },
+        { "key": "D", "text": "Khoảng cách giữa các dòng của đoạn văn tăng thêm 40 pixel." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "text-indent định dạng thụt lề cho dòng đầu tiên của đoạn văn, giá trị dương làm dòng đầu thụt vào trong. A sai vì các dòng còn lại không bị thụt theo; C sai vì dòng bị thụt là dòng đầu chứ không phải dòng cuối; D là tác dụng của line-height."
+    },
+    {
+      "id": "tinhoc12-b14-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["line-height", "khoảng cách dòng"],
+      "content": "Trong CSS, thuộc tính line-height dùng để làm gì?",
+      "options": [
+        { "key": "A", "text": "Quy định chiều cao của vùng nội dung trang web." },
+        { "key": "B", "text": "Quy định khoảng cách giữa hai đoạn văn liền nhau." },
+        { "key": "C", "text": "Quy định cỡ chữ của văn bản trong đoạn." },
+        { "key": "D", "text": "Quy định chiều cao dòng, tức khoảng cách giữa các dòng chữ trong đoạn." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "line-height đặt chiều cao dòng, quyết định khoảng cách giữa các dòng chữ trong cùng một phần tử văn bản. A sai vì line-height không đo chiều cao vùng nội dung của trang; B sai vì khoảng cách giữa hai đoạn do các thuộc tính lề quyết định chứ không phải line-height; C là tác dụng của font-size."
+    },
+    {
+      "id": "tinhoc12-b14-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["line-height", "đọc mã CSS"],
+      "content": "Ý nghĩa của mẫu định dạng `p {line-height: 2;}` theo sách giáo khoa là",
+      "options": [
+        { "key": "A", "text": "Chiều cao của mỗi đoạn văn đặt bằng 2 pixel." },
+        { "key": "B", "text": "Chiều cao dòng bằng 2 lần cỡ chữ hiện thời của đoạn văn." },
+        { "key": "C", "text": "Khoảng cách giữa hai đoạn văn gấp 2 lần cỡ chữ của đoạn." },
+        { "key": "D", "text": "Cỡ chữ của đoạn văn được nhân đôi so với cỡ chữ mặc định." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách giải thích line-height viết một số không kèm đơn vị là số lần của cỡ chữ hiện thời, nên giá trị 2 cho chiều cao dòng gấp 2 lần cỡ chữ. A sai vì số này không phải độ dài tính bằng pixel; C sai vì khoảng cách được tính giữa các dòng trong đoạn chứ không phải giữa hai đoạn; D sai vì cỡ chữ không đổi, chỉ có chiều cao dòng thay đổi."
+    },
+    {
+      "id": "tinhoc12-b14-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["letter-spacing", "word-spacing"],
+      "content": "Hai thuộc tính letter-spacing và word-spacing khác nhau ở điểm nào?",
+      "options": [
+        { "key": "A", "text": "letter-spacing đặt khoảng cách giữa các chữ cái, còn word-spacing đặt khoảng cách giữa các từ." },
+        { "key": "B", "text": "letter-spacing đặt khoảng cách giữa các từ, còn word-spacing đặt khoảng cách giữa các chữ cái." },
+        { "key": "C", "text": "letter-spacing đặt khoảng cách giữa các dòng, còn word-spacing đặt khoảng cách giữa các đoạn." },
+        { "key": "D", "text": "letter-spacing đặt cỡ chữ in hoa, còn word-spacing đặt cỡ chữ in thường." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "letter-spacing giãn khoảng giữa các chữ cái còn word-spacing giãn khoảng giữa các từ, nên A đúng và B đã đảo vai trò hai thuộc tính. C sai vì khoảng cách giữa các dòng do line-height quy định; D sai vì cả hai thuộc tính chỉ đặt khoảng cách theo chiều ngang, không thuộc tính nào đặt cỡ chữ."
+    },
+    {
+      "id": "tinhoc12-b14-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["letter-spacing", "đọc mã CSS"],
+      "content": "Mẫu định dạng `h3 {letter-spacing: 3px;}` làm cho",
+      "options": [
+        { "key": "A", "text": "các chữ cái trong thẻ h3 giãn ra theo chiều dọc một khoảng 3 pixel." },
+        { "key": "B", "text": "cỡ chữ của các thẻ h3 tăng thêm 3 pixel so với cỡ chữ ban đầu." },
+        { "key": "C", "text": "khoảng cách giữa các chữ cái trong thẻ h3 được nới ra 3 pixel." },
+        { "key": "D", "text": "khoảng cách giữa các từ trong thẻ h3 được nới ra 3 pixel." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "letter-spacing đặt khoảng cách giữa các chữ cái theo chiều ngang, giá trị 3px nới khoảng ấy ra 3 pixel. A sai vì đây không phải khoảng cách theo chiều dọc; B sai vì cỡ chữ do font-size quy định; D là tác dụng của word-spacing."
+    },
+    {
+      "id": "tinhoc12-b14-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["text-decoration", "trang trí chữ"],
+      "content": "Thuộc tính text-decoration trong CSS có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Quy định độ đậm nhạt của chữ trong văn bản." },
+        { "key": "B", "text": "Quy định kiểu viết hoa hay viết thường của văn bản." },
+        { "key": "C", "text": "Quy định khoảng cách giữa các dòng của văn bản." },
+        { "key": "D", "text": "Thêm hoặc bỏ đường trang trí cho chữ, như gạch chân, kẻ trên hay gạch ngang chữ." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "text-decoration thêm hoặc bỏ các đường trang trí cho chữ với các giá trị thường dùng là none, underline, overline và line-through. A là tác dụng của font-weight, C là tác dụng của line-height, còn B sai vì kiểu viết hoa hay viết thường của văn bản không nằm trong phạm vi của text-decoration."
+    },
+    {
+      "id": "tinhoc12-b14-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["text-decoration", "line-through"],
+      "content": "Giá trị `line-through` của thuộc tính text-decoration tạo ra kết quả nào?",
+      "options": [
+        { "key": "A", "text": "Một đường kẻ gạch ngang giữa dòng chữ." },
+        { "key": "B", "text": "Một đường kẻ nằm phía trên dòng chữ." },
+        { "key": "C", "text": "Một đường kẻ nằm phía dưới dòng chữ." },
+        { "key": "D", "text": "Không có đường kẻ nào được thêm vào dòng chữ." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "line-through kẻ một đường nằm giữa, gạch ngang qua dòng chữ. B là tác dụng của overline, C là tác dụng của underline, còn D là kết quả của giá trị none nên cả ba phương án kia đều sai."
+    },
+    {
+      "id": "tinhoc12-b14-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["font-family", "loại phông chữ"],
+      "content": "Theo cách phân loại phông chữ trên máy tính của sách giáo khoa, loại phông serif là loại",
+      "options": [
+        { "key": "A", "text": "chữ không chân, tiêu biểu là phông Arial." },
+        { "key": "B", "text": "chữ có chân, cuối mỗi nét chữ có thêm các nét gạch nhỏ." },
+        { "key": "C", "text": "chữ viết tay, mô phỏng nét chữ của con người." },
+        { "key": "D", "text": "chữ trừu tượng theo kiểu sáng tạo, không theo khuôn mẫu thông thường." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách chia phông chữ thành năm loại: serif là chữ có chân, sans-serif là chữ không chân, monospace là các kí tự có chiều rộng đều nhau, cursive là chữ viết tay và fantasy là chữ trừu tượng. Vì vậy B đúng; A là mô tả của sans-serif, C là mô tả của cursive, D là mô tả của fantasy."
+    },
+    {
+      "id": "tinhoc12-b14-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["!important", "tính kế thừa và ưu tiên"],
+      "content": "Trong khai báo `p {color: blue !important;}`, bộ phận `!important` có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Buộc trình duyệt nạp lại tệp CSS mỗi khi mở trang web." },
+        { "key": "B", "text": "Làm cho cỡ chữ của các đoạn văn lớn hơn mức bình thường." },
+        { "key": "C", "text": "Đánh dấu quy định dạng có mức ưu tiên cao nhất để ghi đè các quy định dạng khác cùng áp dụng cho phần tử." },
+        { "key": "D", "text": "Khiến mẫu định dạng chỉ áp dụng cho đoạn văn đầu tiên trong trang." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ở mục 2 của Bài 14, sách nêu muốn một quy định dạng được ưu tiên nhất thì viết thêm !important vào cuối quy định dạng đó, ngay trước dấu chấm phẩy; khi nhiều mẫu cùng đặt màu cho phần tử, quy định dạng có !important được thực hiện. A sai vì !important không liên quan tới việc nạp tệp CSS; B sai vì cỡ chữ do font-size quy định; D sai vì bộ chọn p áp dụng mẫu định dạng cho mọi phần tử p trong trang, không riêng đoạn đầu."
+    },
+    {
+      "id": "tinhoc12-b14-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["cú pháp khai báo", "mẫu định dạng"],
+      "content": "Khi viết một mẫu định dạng CSS để định dạng văn bản, phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Bộ chọn đứng trước, các quy định dạng thuộc tính : giá trị đặt trong cặp dấu ngoặc nhọn và ngăn cách nhau bằng dấu chấm phẩy." },
+        { "key": "B", "text": "Thuộc tính đứng trước, giá trị đặt trong ngoặc nhọn, bộ chọn viết ở cuối mẫu định dạng." },
+        { "key": "C", "text": "Tên thuộc tính và giá trị ngăn cách nhau bằng dấu bằng, các quy định dạng cách nhau bằng dấu phẩy." },
+        { "key": "D", "text": "Bộ chọn đặt trong cặp dấu ngoặc nhọn, còn thuộc tính và giá trị viết ngay sau bộ chọn." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mẫu định dạng gồm bộ chọn và vùng mô tả; vùng mô tả nằm trong ngoặc nhọn, mỗi quy định dạng viết theo dạng thuộc tính : giá trị và các quy định dạng ngăn cách nhau bằng dấu chấm phẩy. B sai vì đặt nhầm vị trí bộ chọn và giá trị; C sai vì dùng dấu bằng để ngăn cách thuộc tính với giá trị; D sai vì nội dung nằm trong ngoặc nhọn là các quy định dạng, không phải bộ chọn."
+    },
+    {
+      "id": "tinhoc12-b14-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["CSS và thẻ HTML", "định dạng thủ công"],
+      "content": "Điểm khác biệt cơ bản giữa định dạng văn bản bằng CSS và định dạng thủ công bằng thẻ HTML là gì?",
+      "options": [
+        { "key": "A", "text": "CSS chỉ định dạng được phần chữ, còn thẻ HTML định dạng được cả ảnh và bảng." },
+        { "key": "B", "text": "Thẻ HTML cho phép đổi định dạng hàng loạt, còn CSS chỉ đổi định dạng được một phần tử." },
+        { "key": "C", "text": "CSS tách nội dung khỏi định dạng nên một mẫu định dạng dùng được cho nhiều phần tử, còn định dạng thủ công phải gắn thẻ định dạng vào từng chỗ." },
+        { "key": "D", "text": "Muốn dùng CSS thì phải viết lại toàn bộ nội dung văn bản bằng tiếng Anh." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Với CSS, mẫu định dạng được định nghĩa một lần rồi áp dụng cho nhiều phần tử theo bộ chọn nên sửa một chỗ là mọi nơi đổi theo, còn định dạng thủ công phải bọc nội dung trong thẻ ngay tại từng chỗ. B đảo ngược thực tế của hai cách; A sai vì CSS không giới hạn ở phần chữ; D sai vì ngôn ngữ của nội dung không liên quan tới việc dùng CSS."
+    },
+    {
+      "id": "tinhoc12-b14-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["text-decoration", "giá trị none"],
+      "content": "Theo mặc định, trình duyệt gạch chân phần văn bản là siêu liên kết. Muốn bỏ kiểu gạch chân đó, ta viết mẫu CSS nào?",
+      "options": [
+        { "key": "A", "text": "`a {text-decoration: no-underline;}`" },
+        { "key": "B", "text": "`a {text-decoration: none;}`" },
+        { "key": "C", "text": "`a {font-style: none;}`" },
+        { "key": "D", "text": "`a {line-height: none;}`" }
+      ],
+      "correctAnswer": "B",
+      "explanation": "none là giá trị của text-decoration và có tác dụng bỏ mọi đường trang trí, kể cả gạch chân mặc định của siêu liên kết. A sai vì no-underline không phải giá trị hợp lệ của CSS; C sai vì font-style chỉ nhận các giá trị như normal, italic, oblique; D sai vì line-height nhận số hoặc đơn vị độ dài chứ không nhận none."
+    },
+    {
+      "id": "tinhoc12-b14-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["định dạng đoạn văn", "tổng hợp thuộc tính"],
+      "content": "Một đoạn văn cần được căn đều hai bên, dòng đầu thụt vào và khoảng cách giữa các dòng nới rộng. Bộ ba thuộc tính nào đáp ứng đủ cả ba yêu cầu?",
+      "options": [
+        { "key": "A", "text": "`text-indent, font-family, letter-spacing`" },
+        { "key": "B", "text": "`font-family, color, font-size`" },
+        { "key": "C", "text": "`line-height, font-weight, word-spacing`" },
+        { "key": "D", "text": "`text-align, text-indent, line-height`" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "text-align với giá trị justify căn đều hai bên, text-indent thụt dòng đầu, line-height nới khoảng cách giữa các dòng nên D thỏa cả ba yêu cầu. A thiếu căn lề và khoảng cách dòng vì font-family chọn họ chữ, letter-spacing giãn khoảng giữa các chữ cái; B chỉ gồm họ chữ, màu chữ và cỡ chữ, không có thuộc tính nào căn lề hay thụt dòng đầu; C có line-height nhưng font-weight đặt độ đậm, word-spacing giãn giữa các từ nên không đủ."
+    },
+    {
+      "id": "tinhoc12-b14-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "EASY",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["nhận định đúng sai", "định dạng chữ", "font"],
+      "content": "Những nhận định nào sau đây đúng về các thuộc tính định dạng chữ trong CSS?",
+      "options": [
+        { "key": "A", "text": "`font-family` quy định họ chữ của văn bản, còn `font-size` quy định cỡ chữ của văn bản." },
+        { "key": "B", "text": "`font-weight` quy định độ nghiêng của chữ, còn `font-style` quy định độ đậm nhạt của chữ." },
+        { "key": "C", "text": "Khai báo `h1 {font-style: italic;}` là cách khai báo để chữ trong thẻ h1 hiển thị nghiêng." },
+        { "key": "D", "text": "Theo tính kế thừa mà sách nêu, các thuộc tính định dạng chữ áp dụng cho một phần tử cũng được các phần tử con, cháu nhận theo, trừ khi chính phần tử con đã có mẫu định dạng riêng cho thuộc tính đó." }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "A đúng vì font-family chọn họ chữ còn font-size đặt cỡ chữ; C đúng vì italic là giá trị của font-style; D đúng theo mục 2 của Bài 14 về tính kế thừa, kèm lưu ý của sách là có thuộc tính không kế thừa như text-decoration nên muốn phần tử con gạch chân phải đặt mẫu riêng cho chúng. B sai vì hai vai trò bị đảo cho nhau: font-weight quy định độ đậm nhạt còn font-style quy định độ nghiêng."
+    },
+    {
+      "id": "tinhoc12-b14-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["nhận định đúng sai", "định dạng đoạn văn", "text-indent"],
+      "content": "Những nhận định nào sau đây đúng về định dạng đoạn văn bằng CSS?",
+      "options": [
+        { "key": "A", "text": "`text-align` đặt cách căn lề cho văn bản trong phần tử, còn `text-indent` đặt độ thụt đầu dòng cho dòng đầu tiên." },
+        { "key": "B", "text": "`line-height` quy định chiều cao dòng, tức khoảng cách giữa các dòng chữ của đoạn văn." },
+        { "key": "C", "text": "`text-indent: -2em;` làm dòng đầu tiên của đoạn thụt vào trong một khoảng 2 đơn vị em." },
+        { "key": "D", "text": "`letter-spacing` quy định khoảng cách giữa các dòng, còn `word-spacing` quy định khoảng cách giữa các đoạn." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng: text-align căn lề, text-indent thụt dòng đầu tiên, line-height đặt khoảng cách giữa các dòng. C sai vì giá trị âm làm dòng đầu lùi ra ngoài so với các dòng còn lại, gọi là thụt lề treo; D sai vì letter-spacing giãn giữa các chữ cái, word-spacing giãn giữa các từ, không liên quan tới khoảng cách dòng hay đoạn."
+    },
+    {
+      "id": "tinhoc12-b14-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["nhận định đúng sai", "đơn vị đo", "cú pháp khai báo"],
+      "content": "Những nhận định nào sau đây đúng về đơn vị đo cỡ chữ và cách khai báo thuộc tính định dạng?",
+      "options": [
+        { "key": "A", "text": "Các đơn vị cm, mm, in, px và pt đều là đơn vị đo tương đối, thay đổi theo cỡ chữ của trình duyệt." },
+        { "key": "B", "text": "`px` và `pt` là những đơn vị đo chính xác tuyệt đối, còn `em`, `rem` và tỉ lệ phần trăm là đơn vị tương đối." },
+        { "key": "C", "text": "Mỗi quy định dạng trong vùng mô tả có dạng thuộc tính : giá trị và các quy định dạng ngăn cách nhau bằng dấu chấm phẩy." },
+        { "key": "D", "text": "Các quy định dạng đặt trong cặp dấu ngoặc nhọn đi sau bộ chọn, và mẫu định dạng áp dụng cho những phần tử do bộ chọn xác định." }
+      ],
+      "correctAnswer": ["B", "C", "D"],
+      "explanation": "B đúng vì sách xếp cm, mm, in, px, pt vào nhóm tuyệt đối còn em, ex, rem và phần trăm vào nhóm tương đối; C và D đúng theo cú pháp một mẫu định dạng gồm bộ chọn và vùng mô tả trong ngoặc nhọn. A sai vì nó xếp nhầm các đơn vị tuyệt đối vào nhóm tương đối."
+    },
+    {
+      "id": "tinhoc12-b14-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-dinh-dang-van-ban-css",
+      "tags": ["nhận định đúng sai", "text-decoration", "ưu thế của CSS"],
+      "content": "Những nhận định nào sau đây đúng về thuộc tính text-decoration và việc dùng CSS định dạng văn bản?",
+      "options": [
+        { "key": "A", "text": "Giá trị `underline` của `text-decoration` kẻ một đường phía trên dòng chữ." },
+        { "key": "B", "text": "Giá trị `line-through` của `text-decoration` kẻ một đường gạch ngang giữa dòng chữ." },
+        { "key": "C", "text": "Vì CSS tách nội dung khỏi định dạng, một mẫu định dạng dùng cho nhiều phần tử nên chỉ cần sửa một lần là mọi phần tử đổi theo." },
+        { "key": "D", "text": "Giá trị `none` của `text-decoration` chỉ đổi màu chữ, không bỏ được đường gạch chân mặc định của siêu liên kết." }
+      ],
+      "correctAnswer": ["B", "C"],
+      "explanation": "B đúng vì line-through kẻ đường gạch ngang giữa dòng chữ; C đúng với ưu thế của CSS là mẫu định dạng dùng chung và sửa một lần áp dụng cho nhiều phần tử. A sai vì underline kẻ đường phía dưới chữ, còn kẻ phía trên là overline; D sai vì none chính là giá trị bỏ mọi đường trang trí, chứ không liên quan tới màu chữ."
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-04",
+  "title": "Đề ôn tập Tin học 12 – Bài 4: Giao thức mạng",
+  "slug": "de-tin-hoc-12-bai-04",
+  "description": "Đề ôn tập Bài 4 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về giao thức mạng: vì sao các thiết bị cần một tập quy tắc chung, hai nội dung chính của giao thức IP, vai trò chia gói và xác nhận của TCP, cổng ứng dụng, địa chỉ MAC và địa chỉ IP cùng cách viết dot decimal, định tuyến theo bảng định tuyến tĩnh, hệ thống tên miền DNS và các giao thức thông dụng TCP/IP, HTTP, HTTPS, FTP, SMTP, POP3, ICMP, DNS. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, mỗi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B04",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-07T08:00:00.000Z",
+  "updatedAt": "2026-11-07T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b04-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["vì sao cần giao thức", "bản chất giao thức"],
+      "content": "Theo bài học, vì sao các máy tính tham gia cùng một mạng bắt buộc phải dùng chung giao thức?",
+      "options": [
+        { "key": "A", "text": "Vì giao thức quy định tốc độ đường truyền vật lí, đổi sang giao thức khác thì mạng sẽ truyền nhanh hơn." },
+        { "key": "B", "text": "Vì giao thức là tập hợp các quy tắc chung về cách thức giao tiếp, giúp các thiết bị truyền và nhận dữ liệu chính xác, tin cậy và hiệu quả." },
+        { "key": "C", "text": "Vì giao thức chính là mật khẩu dùng để mở kết nối mạng không dây của mỗi thiết bị." },
+        { "key": "D", "text": "Vì giao thức do nhà cung cấp dịch vụ thay đổi tuỳ ý nên mọi thiết bị đều phải làm theo." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Các thiết bị có phần cứng và phần mềm khác nhau chỉ trao đổi được dữ liệu nếu cùng theo một tập quy tắc chung về cách thức giao tiếp, nhờ việc gửi và nhận trở nên chính xác, tin cậy và hiệu quả. Giao thức không quy định tốc độ đường truyền vật lí, không phải mật khẩu kết nối và cũng không phải thứ được thay đổi tuỳ tiện."
+    },
+    {
+      "id": "tinhoc12-b04-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["nội dung giao thức", "định dạng dữ liệu"],
+      "content": "Các quy định trong một giao thức mạng liên quan tới những nội dung nào?",
+      "options": [
+        { "key": "A", "text": "Kiểu dáng vỏ máy và hãng sản xuất card mạng của mỗi thiết bị tham gia mạng." },
+        { "key": "B", "text": "Số cửa sổ ứng dụng đang mở trên màn hình của máy tính gửi dữ liệu." },
+        { "key": "C", "text": "Định dạng, ý nghĩa và cách xử lí dữ liệu khi truyền và nhận giữa các bên tham gia." },
+        { "key": "D", "text": "Tên đăng nhập và mật khẩu của người dùng trên máy chủ thư điện tử." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài học nêu các quy định của giao thức truyền thông liên quan tới định dạng, ý nghĩa và cách xử lí dữ liệu, nhằm làm cho việc gửi và nhận dữ liệu qua mạng diễn ra chính xác và tin cậy. Hình dáng thiết bị, số cửa sổ ứng dụng hay thông tin đăng nhập hộp thư không phải nội dung mà giao thức quy định."
+    },
+    {
+      "id": "tinhoc12-b04-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["Ethernet", "địa chỉ MAC", "mạng cục bộ"],
+      "content": "Hai máy tính M1 và M2 nằm trong cùng một mạng LAN của phòng máy cần trao đổi dữ liệu với nhau. Theo bài học, phát biểu nào đúng?",
+      "options": [
+        { "key": "A", "text": "Dữ liệu nhất thiết phải đi qua router rồi mới tới được máy nhận." },
+        { "key": "B", "text": "Dữ liệu phải được đưa ra Internet rồi mới quay về mạng cục bộ." },
+        { "key": "C", "text": "Hai máy phải dùng chung một địa chỉ IP thì mới gửi được dữ liệu cho nhau." },
+        { "key": "D", "text": "Việc truyền nhận chỉ cần căn cứ vào địa chỉ MAC, dữ liệu không phải đi qua router và không cần định tuyến theo địa chỉ IP." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo Ethernet, trong cùng một mạng cục bộ thì nơi nhận được xác định bằng địa chỉ MAC, nên dữ liệu giữa hai máy cùng LAN không phải đi qua router và không cần định tuyến theo IP. Router và địa chỉ IP chỉ cần thiết khi dữ liệu phải đi từ mạng này sang mạng khác; còn hai máy phân biệt nhau không bao giờ dùng chung một địa chỉ IP."
+    },
+    {
+      "id": "tinhoc12-b04-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["địa chỉ MAC", "địa chỉ IP", "độ dài byte"],
+      "content": "Theo bài học, độ dài tính theo byte của địa chỉ MAC và của địa chỉ IP lần lượt là bao nhiêu?",
+      "options": [
+        { "key": "A", "text": "Địa chỉ MAC gồm 6 byte, địa chỉ IP gồm 4 byte." },
+        { "key": "B", "text": "Địa chỉ MAC gồm 4 byte, địa chỉ IP gồm 6 byte." },
+        { "key": "C", "text": "Cả hai loại địa chỉ đều gồm 4 byte." },
+        { "key": "D", "text": "Cả hai loại địa chỉ đều gồm 6 byte." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Sách nêu địa chỉ MAC là địa chỉ 6 byte gắn theo phần cứng, còn địa chỉ IP là địa chỉ 4 byte được gán cho thiết bị. Vì thế phương án hoán đổi số byte cho nhau và hai phương án cho rằng hai địa chỉ dài bằng nhau đều sai."
+    },
+    {
+      "id": "tinhoc12-b04-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["địa chỉ logic", "địa chỉ vật lí"],
+      "content": "Vì sao địa chỉ MAC được gọi là địa chỉ vật lí còn địa chỉ IP được gọi là địa chỉ logic?",
+      "options": [
+        { "key": "A", "text": "Vì MAC chỉ dùng cho mạng không dây còn IP chỉ dùng cho mạng có dây." },
+        { "key": "B", "text": "Vì MAC gắn với phần cứng của thiết bị và không thay đổi được, còn IP được gán cho thiết bị và có thể thay đổi nếu ta gán lại." },
+        { "key": "C", "text": "Vì IP có nhiều byte hơn nên không thể nhìn thấy trực tiếp bằng mắt." },
+        { "key": "D", "text": "Vì MAC chỉ tồn tại ở máy chủ còn IP chỉ tồn tại ở máy trạm." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Địa chỉ MAC do nhà sản xuất gắn theo phần cứng nên không thay đổi được, còn địa chỉ IP là do con người gán cho thiết bị và có thể gán lại; đó là lý do một bên gọi là địa chỉ vật lí, một bên gọi là địa chỉ logic. Hai loại địa chỉ này đều dùng được cho cả mạng có dây và mạng không dây, trên máy chủ lẫn máy trạm, và IP chỉ có 4 byte nên không thể nói IP dài hơn MAC."
+    },
+    {
+      "id": "tinhoc12-b04-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["dot decimal", "đổi nhị phân"],
+      "content": "Một địa chỉ IP gồm bốn byte nhị phân 10101100 00010010 00000000 00000001. Viết theo kiểu dot decimal, địa chỉ này là",
+      "options": [
+        { "key": "A", "text": "172.18.1.0" },
+        { "key": "B", "text": "18.172.0.1" },
+        { "key": "C", "text": "172.18.0.1" },
+        { "key": "D", "text": "172.8.0.1" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bốn byte 10101100, 00010010, 00000000, 00000001 đổi sang thập phân lần lượt là 172, 18, 0, 1 nên địa chỉ viết theo kiểu dot decimal là 172.18.0.1. Phương án A và B sai vì đảo thứ tự các byte, phương án D sai vì ghi nhầm giá trị byte thứ hai thành 8."
+    },
+    {
+      "id": "tinhoc12-b04-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["dot decimal", "cách viết địa chỉ IP"],
+      "content": "Theo kiểu dot decimal, một địa chỉ IP được viết như thế nào?",
+      "options": [
+        { "key": "A", "text": "Bốn số thập phân phân tách với nhau bằng dấu hai chấm." },
+        { "key": "B", "text": "Bốn số nhị phân viết liền nhau, không có kí hiệu phân cách." },
+        { "key": "C", "text": "Sáu số thập phân phân tách với nhau bằng dấu gạch ngang." },
+        { "key": "D", "text": "Bốn số thập phân, mỗi số tương ứng một byte, phân tách với nhau bằng dấu chấm." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Kiểu dot decimal viết mỗi byte của địa chỉ IP thành một số thập phân và đặt dấu chấm giữa các byte; vì địa chỉ IP có bốn byte nên ta được bốn số thập phân. Dấu hai chấm và dấu gạch ngang không phải kí hiệu phân cách mà kiểu dot decimal quy định, viết liền không phân cách cũng sai, còn sáu số thập phân là nhầm sang độ dài của địa chỉ MAC."
+    },
+    {
+      "id": "tinhoc12-b04-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["giao thức IP", "định tuyến"],
+      "content": "Theo bài học, giao thức IP gồm hai nội dung chính nào?",
+      "options": [
+        { "key": "A", "text": "Cách đánh địa chỉ và cách định tuyến để dẫn dữ liệu từ mạng của máy gửi đến mạng của máy nhận." },
+        { "key": "B", "text": "Cách chia khối dữ liệu thành các gói và cách đánh số thứ tự cho từng gói." },
+        { "key": "C", "text": "Cách biểu diễn nội dung trang web và cách mã hoá dữ liệu giữa trình duyệt và máy chủ." },
+        { "key": "D", "text": "Cách phân giải tên miền và cách chuyển tên bằng chữ thành địa chỉ số." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai nội dung chính của IP là quy định cách đánh địa chỉ và cách định tuyến, nhằm dẫn dữ liệu từ mạng cục bộ của máy gửi đến mạng cục bộ của máy nhận. Chia gói và đánh số thứ tự thuộc TCP, biểu diễn và mã hoá trang web thuộc HTTP cùng lớp mã hoá của HTTPS, còn phân giải tên miền là việc của DNS."
+    },
+    {
+      "id": "tinhoc12-b04-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["giao thức TCP", "gửi lại gói"],
+      "content": "Trong lúc truyền một tệp, một gói dữ liệu bị thất lạc trên đường đi. Theo bài học, việc phát hiện và tổ chức truyền lại gói đó là nhiệm vụ của giao thức nào?",
+      "options": [
+        { "key": "A", "text": "IP, vì IP là giao thức dẫn dữ liệu đi qua nhiều mạng." },
+        { "key": "B", "text": "TCP, vì TCP dùng thông báo xác nhận và yêu cầu truyền lại những gói chưa được xác nhận." },
+        { "key": "C", "text": "DNS, vì DNS chuyển tên miền thành địa chỉ IP của máy chủ." },
+        { "key": "D", "text": "HTTP, vì HTTP truyền nội dung trang web giữa trình duyệt và máy chủ." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "TCP gắn thông báo xác nhận cho từng gói: bên nhận báo đã nhận được gói nào, những gói chưa được xác nhận sẽ truyền lại, nên độ tin cậy là vai trò của TCP. IP chỉ lo đánh địa chỉ và định tuyến mà không bảo đảm giao nhận đủ dữ liệu, còn DNS và HTTP không có cơ chế truyền lại gói."
+    },
+    {
+      "id": "tinhoc12-b04-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["giao thức TCP", "thứ tự gói"],
+      "content": "Vì sao giao thức TCP đánh số thứ tự cho mỗi gói dữ liệu?",
+      "options": [
+        { "key": "A", "text": "Để gói tin buộc phải đi qua nhiều router hơn." },
+        { "key": "B", "text": "Để tăng độ dài tối đa của mỗi gói dữ liệu." },
+        { "key": "C", "text": "Để bên nhận ghép các gói lại thành khối dữ liệu đúng thứ tự như lúc gửi đi." },
+        { "key": "D", "text": "Để giấu địa chỉ IP của máy gửi khi dữ liệu đi trên mạng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "TCP cắt một khối dữ liệu thành nhiều gói và các gói có thể tới nơi theo thứ tự lộn xộn, nên đánh số thứ tự giúp bên nhận ráp lại đúng nội dung ban đầu. Việc đánh số này không làm tăng độ dài gói, không liên quan tới số router đi qua và cũng không có tác dụng ẩn địa chỉ IP."
+    },
+    {
+      "id": "tinhoc12-b04-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["cổng ứng dụng", "TCP"],
+      "content": "Một máy tính đang mở trình duyệt web đồng thời chạy thêm một ứng dụng nhận thư. Nhờ đâu các gói dữ liệu tới máy này không bị lẫn giữa hai ứng dụng?",
+      "options": [
+        { "key": "A", "text": "Vì mỗi ứng dụng có một địa chỉ MAC riêng trên card mạng." },
+        { "key": "B", "text": "Vì mỗi ứng dụng được gán một địa chỉ IP riêng cho máy." },
+        { "key": "C", "text": "Vì router phân loại gói dữ liệu theo tên miền của ứng dụng." },
+        { "key": "D", "text": "Vì TCP cấp phát cho mỗi ứng dụng một cổng ứng dụng và gắn nhãn cổng đó lên các gói dữ liệu chuyển đi." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo TCP, mỗi ứng dụng được cấp phát một số hiệu gọi là cổng ứng dụng và các gói dữ liệu được gắn nhãn cổng ứng dụng để không bị lẫn giữa các ứng dụng. Địa chỉ MAC thuộc phần cứng của thiết bị chứ không thuộc ứng dụng, một máy chỉ có một địa chỉ IP trong một mạng tại một thời điểm, còn router định tuyến theo địa chỉ IP chứ không theo tên miền của ứng dụng."
+    },
+    {
+      "id": "tinhoc12-b04-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["định tuyến", "IP và MAC"],
+      "content": "Một gói tin đi từ máy tính của em tới một máy chủ ở nước ngoài và phải qua nhiều router trên Internet. Phát biểu nào đúng?",
+      "options": [
+        { "key": "A", "text": "Địa chỉ IP nguồn và IP đích được giữ nguyên suốt hành trình, còn địa chỉ MAC của thiết bị gửi và thiết bị nhận ở từng chặng thì thay đổi." },
+        { "key": "B", "text": "Địa chỉ MAC nguồn và MAC đích được giữ nguyên suốt hành trình, còn địa chỉ IP thay đổi sau mỗi router." },
+        { "key": "C", "text": "Cả địa chỉ IP lẫn địa chỉ MAC đều thay đổi sau mỗi router." },
+        { "key": "D", "text": "Cả địa chỉ IP lẫn địa chỉ MAC đều không đổi, router chỉ dựa vào thứ tự gói để chuyển tiếp." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Địa chỉ IP nguồn và IP đích cho biết điểm khởi đầu và đích đến cuối cùng nên được giữ nguyên từ lúc gửi tới lúc nhận; ở mỗi chặng, gói tin được đóng gói lại với địa chỉ MAC của thiết bị gửi và thiết bị nhận kế tiếp nên cặp địa chỉ MAC thay đổi. Vì vậy các phương án nói MAC không đổi, IP đổi, hoặc nói cả hai cùng đổi, cùng không đổi đều không đúng với quá trình định tuyến."
+    },
+    {
+      "id": "tinhoc12-b04-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["định tuyến tĩnh", "bảng định tuyến"],
+      "content": "Theo bảng định tuyến ở bài học với phương pháp định tuyến tĩnh, một gói dữ liệu có địa chỉ đến không khớp với mẫu địa chỉ của bất kì dòng nào trong bảng sẽ được xử lý thế nào?",
+      "options": [
+        { "key": "A", "text": "Được gửi theo cổng 1 vì đây là cổng có chỉ số nhỏ nhất trong bảng." },
+        { "key": "B", "text": "Được gửi theo cổng mặc định." },
+        { "key": "C", "text": "Được giữ lại cho tới khi bảng xuất hiện một dòng khớp." },
+        { "key": "D", "text": "Được nhân bản và gửi ra tất cả các cổng." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong định tuyến tĩnh, chỉ những địa chỉ không khớp với dòng nào của bảng mới được gửi theo cổng mặc định, nhờ đó dữ liệu vẫn có đường đi ra các mạng chưa được liệt kê. A sai vì bảng không có quy tắc chọn cổng theo chỉ số nhỏ nhất; C và D cũng không phải cách xử lí nào có trong bài học."
+    },
+    {
+      "id": "tinhoc12-b04-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["hệ thống tên miền", "DNS"],
+      "content": "Theo bài học, vì sao người dùng được phép dùng hệ thống tên bằng chữ thay cho việc phải nhớ địa chỉ IP?",
+      "options": [
+        { "key": "A", "text": "Vì tên bằng chữ truyền đi nhanh hơn nhiều so với địa chỉ IP." },
+        { "key": "B", "text": "Vì địa chỉ IP chỉ cấp cho máy chủ, không cấp cho máy cá nhân." },
+        { "key": "C", "text": "Vì địa chỉ IP dạng số khó nhớ nên hệ thống tên bằng chữ giúp việc gọi tên thiết bị thuận tiện hơn." },
+        { "key": "D", "text": "Vì tên bằng chữ chính là địa chỉ phần cứng nên an toàn hơn địa chỉ IP." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bài học giới thiệu giao thức DNS chính vì địa chỉ IP gồm các con số rất khó nhớ, nên hệ thống tên bằng chữ được dùng để thay thế cho tiện. Tên miền không phải một loại dữ liệu truyền đi nên không bàn chuyện nhanh chậm, máy cá nhân vẫn có địa chỉ IP, và tên miền là địa chỉ logic do con người đặt chứ không phải địa chỉ phần cứng."
+    },
+    {
+      "id": "tinhoc12-b04-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["phân giải tên miền", "DNS"],
+      "content": "Khi em nhập tên miền của một trang web vào trình duyệt, dịch vụ nào có nhiệm vụ tìm địa chỉ IP tương ứng của máy chủ để máy tính kết nối tới?",
+      "options": [
+        { "key": "A", "text": "FTP." },
+        { "key": "B", "text": "SMTP." },
+        { "key": "C", "text": "ICMP." },
+        { "key": "D", "text": "DNS." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "DNS truy vấn và chuyển tên miền thành địa chỉ IP dạng số của máy chủ, nếu không có bước này thì máy tính không biết gửi gói tin tới đâu. FTP dùng để truyền tệp, SMTP dùng để gửi thư điện tử, còn ICMP dùng để gửi yêu cầu lấy thông tin phản hồi như trong lệnh ping."
+    },
+    {
+      "id": "tinhoc12-b04-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["HTTP", "trình duyệt web"],
+      "content": "Giao thức HTTP được dùng trong tình huống nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Trình duyệt yêu cầu và nhận nội dung một trang web từ máy chủ web." },
+        { "key": "B", "text": "Chuyển một tệp dữ liệu từ máy tính cá nhân lên máy chủ lưu trữ tệp." },
+        { "key": "C", "text": "Máy tính gửi một bức thư điện tử tới máy chủ thư điện tử." },
+        { "key": "D", "text": "Hai máy tính dùng lệnh ping để kiểm tra xem có kết nối được với nhau không." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "HTTP là giao thức quy định cách biểu diễn và truyền nội dung trang web giữa trình duyệt và máy chủ web. Việc chuyển tệp lên máy chủ lưu trữ thuộc FTP, gửi thư điện tử thuộc SMTP còn lệnh ping dựa trên ICMP."
+    },
+    {
+      "id": "tinhoc12-b04-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["HTTPS", "mã hoá"],
+      "content": "Vì sao truy cập một trang web theo địa chỉ bắt đầu bằng https được coi là an toàn hơn theo http?",
+      "options": [
+        { "key": "A", "text": "Vì HTTPS truyền dữ liệu với tốc độ cao hơn nên dữ liệu ít bị đánh cắp hơn." },
+        { "key": "B", "text": "Vì HTTPS là HTTP chạy trên một lớp mã hoá bảo mật thông tin giữa trình duyệt và máy chủ." },
+        { "key": "C", "text": "Vì HTTPS cho phép ẩn hoàn toàn địa chỉ IP của người dùng." },
+        { "key": "D", "text": "Vì HTTPS thay thế DNS nên trình duyệt không cần phân giải tên miền." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "HTTPS tích hợp thêm tầng mã hoá giữa trình duyệt và máy chủ nên dữ liệu trao đổi được bảo mật, đó là điểm hơn hẳn HTTP. Tốc độ truyền không phải yếu tố bảo mật, HTTPS vẫn phải dùng DNS để phân giải tên miền và vẫn cần địa chỉ IP của hai đầu nối nên không thể ẩn địa chỉ IP người dùng."
+    },
+    {
+      "id": "tinhoc12-b04-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["FTP", "truyền tệp"],
+      "content": "Một nhóm bạn thường xuyên chuyển các tệp dữ liệu lớn giữa máy tính cá nhân và một máy chủ lưu trữ qua mạng. Theo bài học, giao thức nào được thiết kế cho việc truyền tệp?",
+      "options": [
+        { "key": "A", "text": "HTTP." },
+        { "key": "B", "text": "SMTP." },
+        { "key": "C", "text": "FTP." },
+        { "key": "D", "text": "DNS." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "FTP là giao thức truyền tệp giữa hai máy tính qua mạng, dùng khi cần chuyển lên hoặc lấy về các tệp từ máy chủ lưu trữ. HTTP phục vụ truyền nội dung trang web, SMTP dùng gửi thư điện tử còn DNS làm nhiệm vụ phân giải tên miền."
+    },
+    {
+      "id": "tinhoc12-b04-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["SMTP", "POP3", "thư điện tử"],
+      "content": "Phát biểu nào đúng về vai trò của SMTP và POP3 trong hệ thống thư điện tử?",
+      "options": [
+        { "key": "A", "text": "SMTP dùng để nhận thư về máy người dùng, còn POP3 dùng để gửi thư đi." },
+        { "key": "B", "text": "Cả hai giao thức đều chỉ dùng để truyền tệp giữa các máy chủ với nhau." },
+        { "key": "C", "text": "SMTP phân giải tên máy chủ thư điện tử, còn POP3 mã hoá nội dung bức thư." },
+        { "key": "D", "text": "SMTP dùng để gửi thư điện tử, còn POP3 được dùng khi lấy thư từ máy chủ thư điện tử về máy của người nhận." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trong hệ thống thư điện tử, SMTP là giao thức dùng để gửi thư, còn POP3 là giao thức để lấy thư đã nằm trên máy chủ về máy của người nhận. Phương án A đảo vai trò của hai giao thức, B sai vì truyền tệp là việc của FTP, C sai vì phân giải tên miền thuộc DNS và nội dung thư không phải do POP3 mã hoá."
+    },
+    {
+      "id": "tinhoc12-b04-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["ICMP", "lệnh ping"],
+      "content": "Lệnh ping trên máy tính gửi một yêu cầu tới máy đích rồi chờ thông tin phản hồi để biết máy đó có kết nối được hay không. Hoạt động đó dựa trên giao thức nào?",
+      "options": [
+        { "key": "A", "text": "ICMP." },
+        { "key": "B", "text": "HTTP." },
+        { "key": "C", "text": "FTP." },
+        { "key": "D", "text": "POP3." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "ICMP là giao thức dùng để gửi yêu cầu lấy thông tin phản hồi, ví dụ điển hình chính là lệnh ping kiểm tra kết nối. HTTP truyền nội dung trang web, FTP truyền tệp còn POP3 lấy thư từ máy chủ về, không giao thức nào trong ba giao thức này tạo ra yêu cầu phản hồi như ping."
+    },
+    {
+      "id": "tinhoc12-b04-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["TCP/IP", "nền của Internet"],
+      "content": "Bộ giao thức nào là nền tảng của Internet, giúp các máy tính khác nhau về phần cứng và phần mềm vẫn trao đổi được dữ liệu với nhau?",
+      "options": [
+        { "key": "A", "text": "Bộ giao thức Ethernet và Wi-Fi." },
+        { "key": "B", "text": "Bộ giao thức TCP/IP." },
+        { "key": "C", "text": "Bộ giao thức HTTP và DNS." },
+        { "key": "D", "text": "Bộ giao thức SMTP và POP3." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "TCP/IP là bộ giao thức nền của Internet, trong đó IP lo đánh địa chỉ và định tuyến còn TCP lo chia gói, xác nhận giao nhận và cổng ứng dụng. Ethernet và Wi-Fi là các công nghệ kết nối mạng; HTTP và DNS tuy đều là giao thức thuộc bộ TCP/IP nhưng riêng chúng không hợp thành bộ giao thức nền, còn SMTP và POP3 chỉ phục vụ việc gửi và nhận thư điện tử."
+    },
+    {
+      "id": "tinhoc12-b04-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["vai trò TCP", "vai trò IP", "phát biểu sai"],
+      "content": "Phát biểu nào sau đây SAI về vai trò của giao thức TCP và giao thức IP?",
+      "options": [
+        { "key": "A", "text": "TCP chia khối dữ liệu thành các gói, đánh số thứ tự và có cơ chế xác nhận để yêu cầu gửi lại." },
+        { "key": "B", "text": "IP làm nhiệm vụ đánh địa chỉ và định tuyến để dữ liệu đi từ mạng này đến mạng khác." },
+        { "key": "C", "text": "IP bảo đảm dữ liệu được chuyển tới đúng một ứng dụng cụ thể trên một máy cụ thể." },
+        { "key": "D", "text": "TCP gắn nhãn cổng ứng dụng cho các gói dữ liệu để chúng không bị lẫn giữa các ứng dụng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "IP chỉ bảo đảm chuyển dữ liệu từ mạng này đến mạng kia, còn việc đưa dữ liệu tới đúng ứng dụng cụ thể trên một máy cụ thể là do TCP đảm nhiệm thông qua cổng ứng dụng, nên phát biểu C sai. Ba phát biểu còn lại đều đúng theo bài: A và D là các vai trò của TCP, B là hai nội dung chính của IP."
+    },
+    {
+      "id": "tinhoc12-b04-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["định tuyến", "vai trò địa chỉ IP"],
+      "content": "Vì sao hai máy tính nằm ở hai mạng cục bộ khác nhau bắt buộc phải có địa chỉ IP thì mới trao đổi dữ liệu được?",
+      "options": [
+        { "key": "A", "text": "Vì địa chỉ IP cho phép hai máy dùng chung một máy in." },
+        { "key": "B", "text": "Vì địa chỉ IP cho biết hãng sản xuất card mạng của mỗi máy." },
+        { "key": "C", "text": "Vì địa chỉ IP làm tăng tốc độ đường truyền giữa hai mạng." },
+        { "key": "D", "text": "Vì router dựa vào địa chỉ IP để định tuyến, xác định đường đi của dữ liệu từ mạng này sang mạng khác." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Khi dữ liệu phải vượt khỏi mạng cục bộ, định tuyến theo địa chỉ IP là cách duy nhất để router chọn đường đi từ mạng của máy gửi tới mạng của máy nhận, nên hai máy khác mạng cần có địa chỉ IP. Việc chia sẻ máy in không đòi hỏi hai máy khác mạng phải có IP, địa chỉ IP không cho biết hãng sản xuất thiết bị và cũng không làm tăng tốc độ đường truyền."
+    },
+    {
+      "id": "tinhoc12-b04-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["giao thức thông dụng", "phát biểu sai"],
+      "content": "Phát biểu nào sau đây SAI về các giao thức mạng thông dụng?",
+      "options": [
+        { "key": "A", "text": "HTTP là giao thức dùng để phân giải tên miền của máy chủ thành địa chỉ IP." },
+        { "key": "B", "text": "FTP là giao thức dùng để truyền tệp giữa hai máy tính qua mạng." },
+        { "key": "C", "text": "HTTPS bảo vệ dữ liệu giữa trình duyệt và máy chủ nhờ tích hợp thêm lớp mã hoá." },
+        { "key": "D", "text": "SMTP và POP3 là hai giao thức liên quan tới việc gửi và nhận thư điện tử." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phân giải tên miền thành địa chỉ IP là nhiệm vụ của DNS, còn HTTP quy định cách biểu diễn và truyền nội dung trang web giữa trình duyệt và máy chủ, nên phát biểu A sai. Ba phát biểu còn lại đều đúng: FTP dùng truyền tệp, HTTPS là HTTP kèm lớp mã hoá, SMTP và POP3 lần lượt dùng để gửi và lấy thư điện tử."
+    },
+    {
+      "id": "tinhoc12-b04-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["nhận định đúng sai", "TCP", "IP", "cổng ứng dụng"],
+      "content": "Những nhận định nào sau đây đúng về giao thức TCP và giao thức IP?",
+      "options": [
+        { "key": "A", "text": "TCP chia khối dữ liệu thành các gói có đánh số thứ tự và dùng thông báo xác nhận để yêu cầu gửi lại gói chưa được xác nhận." },
+        { "key": "B", "text": "IP gồm hai nội dung chính là cách đánh địa chỉ và cách định tuyến dẫn dữ liệu từ mạng của máy gửi đến mạng của máy nhận." },
+        { "key": "C", "text": "IP bảo đảm dữ liệu được chuyển tới đúng một ứng dụng cụ thể trên một máy cụ thể." },
+        { "key": "D", "text": "Mỗi ứng dụng được TCP cấp phát một số hiệu gọi là cổng ứng dụng để các gói dữ liệu không bị lẫn giữa các ứng dụng." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đều đúng theo bài: TCP lo chia gói kèm đánh số thứ tự và cơ chế xác nhận, IP lo đánh địa chỉ cùng định tuyến, còn cổng ứng dụng của TCP phân biệt các ứng dụng trên cùng một máy. C sai vì IP chỉ bảo đảm chuyển dữ liệu từ mạng này đến mạng kia, việc giao tới đúng ứng dụng cụ thể trên một máy cụ thể là vai trò của TCP."
+    },
+    {
+      "id": "tinhoc12-b04-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["nhận định đúng sai", "địa chỉ MAC", "địa chỉ IP"],
+      "content": "Những nhận định nào sau đây đúng về địa chỉ MAC và địa chỉ IP?",
+      "options": [
+        { "key": "A", "text": "Địa chỉ IP được gán cho thiết bị và có thể thay đổi nếu gán lại, còn địa chỉ MAC gắn với phần cứng và không thay đổi được." },
+        { "key": "B", "text": "Muốn hai máy trong cùng một mạng LAN trao đổi dữ liệu thì dữ liệu bắt buộc phải đi qua router và dùng địa chỉ IP." },
+        { "key": "C", "text": "Theo kiểu dot decimal, mỗi byte của địa chỉ IP được viết thành một số thập phân và các byte phân tách nhau bằng dấu chấm." },
+        { "key": "D", "text": "Địa chỉ MAC gồm 4 byte còn địa chỉ IP gồm 6 byte nên IP dài hơn MAC." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng: MAC là địa chỉ vật lí gắn theo phần cứng còn IP là địa chỉ logic có thể gán lại, và dot decimal viết từng byte của IP thành một số thập phân phân tách bằng dấu chấm. B sai vì trong cùng một mạng cục bộ thì chỉ cần căn cứ vào địa chỉ MAC, dữ liệu không phải đi qua router; D sai vì số byte bị đảo, thực tế MAC dài 6 byte còn IP dài 4 byte."
+    },
+    {
+      "id": "tinhoc12-b04-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["nhận định đúng sai", "HTTP", "HTTPS", "DNS"],
+      "content": "Những nhận định nào sau đây đúng về HTTP, HTTPS và DNS?",
+      "options": [
+        { "key": "A", "text": "Máy chủ web gửi toàn bộ trang web thành một khối dữ liệu duy nhất mà không cần chia thành các gói." },
+        { "key": "B", "text": "HTTPS an toàn hơn HTTP vì nó là HTTP chạy thêm trên một lớp mã hoá bảo mật thông tin giữa trình duyệt và máy chủ." },
+        { "key": "C", "text": "Dịch vụ DNS có vai trò truy vấn và chuyển tên miền của máy chủ thành địa chỉ IP dạng số tương ứng." },
+        { "key": "D", "text": "HTTP là giao thức quy định cách biểu diễn và truyền nội dung trang web giữa trình duyệt và máy chủ web." }
+      ],
+      "correctAnswer": ["B", "C", "D"],
+      "explanation": "B, C và D đúng: HTTPS là HTTP kèm lớp mã hoá, DNS phân giải tên miền thành địa chỉ IP, còn HTTP là giao thức truyền nội dung trang web giữa trình duyệt và máy chủ. A sai vì khối dữ liệu của trang web cũng được TCP cắt thành nhiều gói có đánh số thứ tự để truyền đi và ráp lại ở bên nhận, không gửi cả một khối duy nhất."
+    },
+    {
+      "id": "tinhoc12-b04-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-giao-thuc-mang",
+      "tags": ["nhận định đúng sai", "FTP", "ICMP", "giao thức thông dụng"],
+      "content": "Những nhận định nào sau đây đúng về một số giao thức mạng thông dụng?",
+      "options": [
+        { "key": "A", "text": "FTP là giao thức được thiết kế để truyền tệp giữa hai máy tính qua mạng." },
+        { "key": "B", "text": "ICMP được dùng để gửi yêu cầu lấy thông tin phản hồi, ví dụ như trong lệnh ping." },
+        { "key": "C", "text": "SMTP là giao thức dùng để lấy thư điện tử từ máy chủ về máy của người nhận." },
+        { "key": "D", "text": "Ethernet là giao thức dùng để phân giải tên miền trong mạng cục bộ." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng vì FTP phục vụ truyền tệp còn ICMP gửi yêu cầu lấy thông tin phản hồi như lệnh ping. C sai vì SMTP dùng để gửi thư điện tử, việc lấy thư từ máy chủ về máy người nhận do POP3 đảm nhiệm; D sai vì Ethernet là giao thức của mạng cục bộ dùng địa chỉ MAC để xác định nơi nhận, còn phân giải tên miền là việc của DNS."
+    }
+  ]
+}

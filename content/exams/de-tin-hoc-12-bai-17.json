@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-17",
+  "title": "Đề ôn tập Tin học 12 – Bài 17: Các mức ưu tiên của bộ chọn",
+  "slug": "de-tin-hoc-12-bai-17",
+  "description": "Đề ôn tập Bài 17 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về các mức ưu tiên của bộ chọn CSS: lý do cần ưu tiên khi nhiều bộ chọn cùng áp dụng vào một phần tử, thứ tự ưu tiên từ cao xuống thấp giữa khai báo !important, CSS trực tiếp, bộ chọn id, bộ chọn lớp và bộ chọn thẻ, trọng số của bộ chọn, cùng nguyên tắc khai báo đến sau thắng khi hai khai báo cùng độ ưu tiên. Đề còn luyện cách dự đoán giao diện trang khi hai quy tắc CSS xung đột. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, thời gian làm bài 45 phút, tổng điểm 10, mọi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B17",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-07T08:00:00.000Z",
+  "updatedAt": "2026-11-07T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b17-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["vì sao cần ưu tiên", "xung đột bộ chọn"],
+      "content": "Vì sao trong CSS cần xác định các mức ưu tiên giữa những bộ chọn?",
+      "options": [
+        { "key": "A", "text": "Vì một phần tử có thể được nhiều bộ chọn cùng áp dụng các mẫu định dạng mâu thuẫn nhau, cần có quy tắc quyết định định dạng nào được sử dụng." },
+        { "key": "B", "text": "Vì mỗi trang HTML chỉ được phép chứa đúng một mẫu định dạng CSS." },
+        { "key": "C", "text": "Vì trình duyệt không đọc được nhiều hơn một tệp CSS trong cùng một trang." },
+        { "key": "D", "text": "Vì các thuộc tính CSS không được trùng tên nhau trong một trang web." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài học nêu lý do cần ưu tiên: nhiều bộ chọn có thể cùng trỏ vào một phần tử với các định dạng trái nhau, nên phải có quy tắc chọn định dạng thắng. B sai vì một trang có thể chứa nhiều mẫu định dạng; C sai vì trình duyệt nạp được đồng thời nhiều tệp CSS; D sai vì các thuộc tính trùng tên là chuyện bình thường và được phân định bằng ưu tiên."
+    },
+    {
+      "id": "tinhoc12-b17-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["bảng 17.3", "important"],
+      "content": "Theo bảng các mức ưu tiên trong bài học, mức nào sau đây có ưu tiên cao nhất?",
+      "options": [
+        { "key": "A", "text": "CSS trực tiếp (inline CSS) viết trong thuộc tính style của thẻ." },
+        { "key": "B", "text": "Khai báo có ghi !important." },
+        { "key": "C", "text": "CSS liên quan đến kích thước thiết bị (Media type)." },
+        { "key": "D", "text": "Trọng số của bộ chọn." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng ưu tiên của bài học xếp khai báo !important ở vị trí cao nhất, trên cả CSS trực tiếp. A sai vì CSS trực tiếp đứng thứ hai; C sai vì Media type đứng sau CSS trực tiếp; D sai vì trọng số chỉ được dùng khi các mức trên không phân định được."
+    },
+    {
+      "id": "tinhoc12-b17-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["thứ tự ưu tiên", "bộ chọn cụ thể"],
+      "content": "Sắp xếp nào sau đây đúng thứ tự ưu tiên từ cao xuống thấp giữa các dạng định dạng đã học?",
+      "options": [
+        { "key": "A", "text": "Bộ chọn thẻ, bộ chọn lớp, bộ chọn id, CSS trực tiếp." },
+        { "key": "B", "text": "CSS trực tiếp, bộ chọn thẻ, bộ chọn id, bộ chọn lớp." },
+        { "key": "C", "text": "CSS trực tiếp, bộ chọn id, bộ chọn lớp, bộ chọn thẻ." },
+        { "key": "D", "text": "Bộ chọn id, CSS trực tiếp, bộ chọn lớp, bộ chọn thẻ." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bộ chọn càng cụ thể thì ưu tiên càng cao, nên thứ tự đúng là CSS trực tiếp, bộ chọn id, bộ chọn lớp rồi bộ chọn thẻ. A đảo ngược hoàn toàn thứ tự; B và D đặt sai vị trí của CSS trực tiếp và bộ chọn id nên đều sai."
+    },
+    {
+      "id": "tinhoc12-b17-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["bộ chọn lớp", "bộ chọn thẻ"],
+      "content": "Cho hai mẫu `p {color: red;}` và `.bai {color: blue;}` cùng áp dụng vào `<p class=\"bai\">Chào</p>`. Từ \"Chào\" hiển thị thế nào và vì sao?",
+      "options": [
+        { "key": "A", "text": "Màu đỏ, vì bộ chọn p tác động trực tiếp vào thẻ chứa chữ." },
+        { "key": "B", "text": "Màu đỏ, vì hai mẫu có cùng trọng số nên mẫu viết trước thắng." },
+        { "key": "C", "text": "Màu xanh lam, vì mẫu .bai luôn được đặt sau mẫu p trong tệp." },
+        { "key": "D", "text": "Màu xanh lam, vì bộ chọn lớp cụ thể hơn nên có ưu tiên cao hơn bộ chọn thẻ." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phần tử vừa là p vừa mang lớp bai, nhưng bộ chọn lớp .bai cụ thể hơn (trọng số 10) so với bộ chọn thẻ p (trọng số 1), nên chữ có màu xanh lam. A và B sai vì bộ chọn thẻ không ưu tiên hơn bộ chọn lớp; C sai vì ở đây thứ tự viết không quyết định, chính độ ưu tiên quyết định."
+    },
+    {
+      "id": "tinhoc12-b17-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["thứ tự cuối cùng", "khai báo cùng ưu tiên"],
+      "content": "Khi hai khai báo cùng áp dụng cho một phần tử và có cùng độ ưu tiên, nguyên tắc thứ tự của bài học quy định điều gì?",
+      "options": [
+        { "key": "A", "text": "Khai báo được viết sau sẽ thắng và được áp dụng." },
+        { "key": "B", "text": "Khai báo được viết trước sẽ thắng và được áp dụng." },
+        { "key": "C", "text": "Cả hai khai báo đều bị bỏ, trình duyệt dùng định dạng mặc định." },
+        { "key": "D", "text": "Cả hai khai báo cùng có hiệu lực và trình duyệt chọn một cách ngẫu nhiên." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bài học nêu nguyên tắc: khi độ ưu tiên bằng nhau thì khai báo đến sau (viết cuối) được áp dụng. B sai vì ngược nguyên tắc; C và D sai vì xung đột kiểu này luôn được phân định bằng thứ tự viết, không phải bỏ trắng hay chọn ngẫu nhiên."
+    },
+    {
+      "id": "tinhoc12-b17-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["important", "css trực tiếp"],
+      "content": "Trang có mẫu định dạng `p {color: red !important;}` và đoạn mã `<p style=\"color: blue;\">Tin học 12</p>`. Cụm từ \"Tin học 12\" có màu gì?",
+      "options": [
+        { "key": "A", "text": "Màu xanh lam, vì thuộc tính style viết ngay trong thẻ luôn có ưu tiên cao nhất." },
+        { "key": "B", "text": "Màu đỏ, vì khai báo có !important đứng trên cả CSS trực tiếp trong bảng ưu tiên." },
+        { "key": "C", "text": "Màu xanh lam, vì !important chỉ có tác dụng với tệp CSS ngoài." },
+        { "key": "D", "text": "Màu đỏ, vì bộ chọn thẻ p có ưu tiên cao hơn thuộc tính style." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bảng ưu tiên xếp khai báo !important cao hơn CSS trực tiếp, nên màu đỏ thắng dù định dạng xanh lam nằm ngay trong thẻ. A sai vì CSS trực tiếp chỉ đứng thứ hai; C sai vì !important không phụ thuộc cách đưa CSS vào trang; D sai vì bộ chọn thẻ thông thường thua cả CSS trực tiếp lẫn !important."
+    },
+    {
+      "id": "tinhoc12-b17-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["cú pháp", "important"],
+      "content": "Cách viết nào sau đây là một khai báo CSS dùng !important đúng cú pháp?",
+      "options": [
+        { "key": "A", "text": "`color: red important!;`" },
+        { "key": "B", "text": "`color: important red;`" },
+        { "key": "C", "text": "`color: red !important;`" },
+        { "key": "D", "text": "`color: !important red;`" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khai báo !important đúng cú pháp ghi từ khóa !important ngay sau giá trị, trước dấu chấm phẩy, dạng `color: red !important;`. A viết sai thành important!; B và D đặt !important vào vị trí của giá trị nên đều sai cú pháp."
+    },
+    {
+      "id": "tinhoc12-b17-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["bộ chọn id", "thứ tự viết"],
+      "content": "Trong khối `<style>` có hai mẫu viết theo thứ tự: `#menu {color: orange;}` rồi `.menu {color: green;}`. Phần tử `<div id=\"menu\" class=\"menu\">Bảng chọn</div>` hiển thị thế nào?",
+      "options": [
+        { "key": "A", "text": "Màu xanh lá, vì hai mẫu có cùng trọng số và mẫu .menu viết sau nên thắng." },
+        { "key": "B", "text": "Màu xanh lá, vì bộ chọn lớp áp đúng vào phần tử mang lớp menu." },
+        { "key": "C", "text": "Màu cam, vì bộ chọn id có ưu tiên cao hơn bộ chọn lớp bất kể thứ tự viết." },
+        { "key": "D", "text": "Màu cam, vì mẫu #menu được viết trước nên được ưu tiên áp dụng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phần tử mang cả id là menu và lớp là menu; bộ chọn id (trọng số 100) hơn bộ chọn lớp (trọng số 10) nên chữ màu cam. A và B sai vì hai mẫu không cùng trọng số; D có kết luận đúng nhưng lí giải sai: mẫu viết trước không tự thắng, ở đây màu cam thắng do độ ưu tiên của id, không do vị trí."
+    },
+    {
+      "id": "tinhoc12-b17-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["css trực tiếp", "bộ chọn lớp"],
+      "content": "Khối `<style>` chứa `.dich {color: purple;}`, còn đoạn thân trang là `<p style=\"color: green;\" class=\"dich\">Đoạn văn</p>`. Dòng \"Đoạn văn\" có màu gì?",
+      "options": [
+        { "key": "A", "text": "Màu tím, vì bộ chọn lớp áp dụng cho mọi phần tử có lớp dich." },
+        { "key": "B", "text": "Màu xanh lá, vì CSS trực tiếp có ưu tiên cao hơn định dạng qua bộ chọn lớp." },
+        { "key": "C", "text": "Màu xanh lá, vì hai mẫu cùng trọng số và phần thân trang luôn được coi là viết sau." },
+        { "key": "D", "text": "Màu tím, vì thuộc tính style không ghi được màu chữ." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "CSS trực tiếp trong thuộc tính style xếp trên bộ chọn lớp trong bảng ưu tiên, nên đoạn văn màu xanh lá. A sai vì tuy .dich có áp vào phần tử nhưng thua về ưu tiên; C sai vì hai mẫu không cùng trọng số và nguyên tắc thứ tự chỉ dùng khi cùng ưu tiên; D sai vì color trong style là hợp lệ."
+    },
+    {
+      "id": "tinhoc12-b17-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["css trực tiếp", "thuộc tính style"],
+      "content": "Trong bảng các mức ưu tiên, \"CSS trực tiếp\" (inline CSS) được hiểu là gì?",
+      "options": [
+        { "key": "A", "text": "CSS viết trong một tệp .css riêng rồi liên kết vào trang." },
+        { "key": "B", "text": "CSS viết ngay trong thuộc tính style của thẻ HTML cần định dạng." },
+        { "key": "C", "text": "CSS viết trong thẻ `<style>` đặt ở phần head của tệp HTML." },
+        { "key": "D", "text": "CSS do trình duyệt tự đặt sẵn cho từng loại thẻ." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "CSS trực tiếp là các định dạng ghi ngay trong thuộc tính style của chính thẻ HTML. A là CSS ngoài; C là CSS trong; D là định dạng mặc định của trình duyệt, mức thấp nhất trong bảng ưu tiên."
+    },
+    {
+      "id": "tinhoc12-b17-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["trọng số", "bộ chọn dấu sao"],
+      "content": "Theo bảng trọng số của bài học, bộ chọn dấu sao (*) đóng góp giá trị bao nhiêu?",
+      "options": [
+        { "key": "A", "text": "0." },
+        { "key": "B", "text": "1." },
+        { "key": "C", "text": "10." },
+        { "key": "D", "text": "100." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bộ chọn dấu sao áp cho mọi phần tử nên không cụ thể và đóng góp trọng số 0. B là giá trị của bộ chọn thẻ; C là giá trị của lớp, lớp giả và bộ chọn thuộc tính; D là giá trị của mã định danh id."
+    },
+    {
+      "id": "tinhoc12-b17-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["trọng số", "mã định danh"],
+      "content": "Trong cách tính trọng số của bài học, mã định danh id đóng góp giá trị bao nhiêu?",
+      "options": [
+        { "key": "A", "text": "0, vì id không phải là một bộ chọn." },
+        { "key": "B", "text": "1, vì id được tính như một thẻ HTML." },
+        { "key": "C", "text": "100, vì id là bộ chọn cụ thể nhất trong các bộ chọn thông thường." },
+        { "key": "D", "text": "10, vì id được tính như một lớp." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảng trọng số gán cho mã định danh id giá trị 100, cao nhất trong các bộ chọn thông thường vì id xác định đúng một phần tử. A sai vì id là bộ chọn hợp lệ; B nhầm id với bộ chọn thẻ (giá trị 1); D nhầm id với bộ chọn lớp (giá trị 10)."
+    },
+    {
+      "id": "tinhoc12-b17-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["trọng số", "p.test"],
+      "content": "Theo cách tính trọng số trong bài học, bộ chọn `p.test` có trọng số là bao nhiêu?",
+      "options": [
+        { "key": "A", "text": "1, vì chỉ cần đếm thẻ p." },
+        { "key": "B", "text": "10, vì chỉ cần đếm lớp test." },
+        { "key": "C", "text": "100, vì test bị tính như một id." },
+        { "key": "D", "text": "11, gồm 1 của thẻ p cộng 10 của lớp test." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trọng số của một bộ chọn là tổng các thành phần: `p.test` gồm bộ chọn thẻ p (1) và bộ chọn lớp test (10), nên tổng là 11. A và B mỗi ý chỉ đếm một thành phần; C sai vì test là lớp chứ không phải id, giá trị 100 không xuất hiện ở đây."
+    },
+    {
+      "id": "tinhoc12-b17-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["trọng số", "bộ chọn lồng"],
+      "content": "Bộ chọn `p.test em.more` có trọng số bao nhiêu theo cách tính của bài học?",
+      "options": [
+        { "key": "A", "text": "2, vì chỉ có hai phần tử p và em." },
+        { "key": "B", "text": "22, gồm hai bộ chọn thẻ (1+1) và hai bộ chọn lớp (10+10)." },
+        { "key": "C", "text": "20, vì lớp không được tính vào trọng số của bộ chọn lồng." },
+        { "key": "D", "text": "102, vì test và more bị tính như các id." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bộ chọn gồm hai thẻ p, em (mỗi thẻ đóng góp 1) và hai lớp test, more (mỗi lớp đóng góp 10), tổng là 1 + 10 + 1 + 10 = 22. A bỏ sót lớp; C bỏ sót thẻ; D nhầm bộ chọn lớp với bộ chọn id nên đều sai."
+    },
+    {
+      "id": "tinhoc12-b17-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["bảng 17.3", "mặc định trình duyệt"],
+      "content": "Trong bảng các mức ưu tiên của bài học, mức nào nằm ở cuối bảng, tức ưu tiên thấp nhất?",
+      "options": [
+        { "key": "A", "text": "Bộ chọn lớp (class) áp dụng cho phần tử." },
+        { "key": "B", "text": "Nguyên tắc thứ tự cuối cùng." },
+        { "key": "C", "text": "Tính kế thừa từ CSS cha." },
+        { "key": "D", "text": "Các định dạng mặc định theo trình duyệt." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bảng ưu tiên kết thúc bằng định dạng mặc định theo trình duyệt, nên đây là mức thấp nhất. A sai vì bộ chọn lớp có trọng số 10 nên đứng trên mức thứ tự, mức kế thừa và mức mặc định; B và C cũng đều đứng trên mặc định theo trình duyệt."
+    },
+    {
+      "id": "tinhoc12-b17-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["kế thừa", "dự đoán giao diện"],
+      "content": "Cho hai mẫu `p {color: red;}` và `span {color: blue;}` cùng đoạn mã `<p>Bài học <span>bắt đầu</span></p>`. Cụm từ \"bắt đầu\" có màu gì?",
+      "options": [
+        { "key": "A", "text": "Màu xanh lam, vì mẫu span áp trực tiếp vào phần tử span và định dạng trực tiếp hơn thắng định dạng kế thừa." },
+        { "key": "B", "text": "Màu đỏ, vì span nằm trong p nên nhất thiết nhận định dạng của p." },
+        { "key": "C", "text": "Màu đỏ, vì mẫu p viết trước nên được áp dụng theo nguyên tắc thứ tự." },
+        { "key": "D", "text": "Màu tím, vì định dạng của p và của span cộng gộp lên văn bản trong span." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nếu không có mẫu span thì chữ trong span đỏ theo tính kế thừa từ p, nhưng mẫu span áp trực tiếp vào phần tử span nên màu xanh lam thắng. B và C sai vì bỏ qua mẫu tác động trực tiếp tới chính phần tử; D sai vì CSS không cộng gộp hai màu trái nhau của cùng một thuộc tính mà chọn một theo ưu tiên."
+    },
+    {
+      "id": "tinhoc12-b17-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["bộ chọn cụ thể", "so sánh ưu tiên"],
+      "content": "Xét bốn bộ chọn `p`, `.t`, `*`, `#g` cùng áp dụng vào phần tử `<p id=\"g\" class=\"t\">Danh mục</p>`. Bộ chọn nào có ưu tiên cao nhất?",
+      "options": [
+        { "key": "A", "text": "`p`, vì bộ chọn thẻ gọi đúng tên thẻ chứa nội dung." },
+        { "key": "B", "text": "`.t`, vì bộ chọn lớp dính trực tiếp vào phần tử." },
+        { "key": "C", "text": "`*`, vì bộ chọn này bao quát toàn bộ trang." },
+        { "key": "D", "text": "`#g`, vì bộ chọn id là cụ thể nhất trong bốn bộ chọn." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trong bốn bộ chọn, id (100) vượt lớp (10), thẻ (1) và dấu sao (0), nên `#g` quyết định định dạng cuối cùng. A và B có kết luận sai vì các bộ chọn này thua id; C sai vì bộ chọn dấu sao có trọng số 0, thấp nhất."
+    },
+    {
+      "id": "tinhoc12-b17-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["trọng số bằng nhau", "thứ tự cuối cùng"],
+      "content": "Hai mẫu viết theo thứ tự `li.dau {color: black;}` rồi `li.cuoi {color: red;}`; phần tử là `<li class=\"dau cuoi\">Mục tin</li>`. Mục tin hiển thị thế nào?",
+      "options": [
+        { "key": "A", "text": "Màu đen, vì mẫu li.dau được viết trước trong khối style." },
+        { "key": "B", "text": "Màu đỏ, vì hai mẫu có cùng trọng số 11 nên khai báo đến sau thắng." },
+        { "key": "C", "text": "Màu đen, vì trong thuộc tính class từ dau đứng trước từ cuoi." },
+        { "key": "D", "text": "Không xác định, vì phần tử mang hai lớp nên xung đột không phân định được." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cả `li.dau` và `li.cuoi` đều gồm một thẻ (1) và một lớp (10) nên cùng trọng số 11; khi đó nguyên tắc thứ tự áp dụng và mẫu viết sau thắng, chữ màu đỏ. A sai vì viết trước không thắng khi trọng số bằng nhau; C sai vì thứ tự các tên lớp trong thuộc tính class không liên quan; D sai vì xung đột được phân định rõ bằng thứ tự."
+    },
+    {
+      "id": "tinhoc12-b17-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["xung đột quy tắc", "dự đoán giao diện"],
+      "content": "Tệp style.css chứa `#header {background: yellow;}` được liên kết vào trang; khối `<style>` đặt sau thẻ link chứa `.header {background: cyan;}`. Phần tử `<div id=\"header\" class=\"header\">` có nền màu gì?",
+      "options": [
+        { "key": "A", "text": "Màu vàng, vì bộ chọn id có ưu tiên cao hơn bộ chọn lớp nên vị trí viết sau không quyết định được." },
+        { "key": "B", "text": "Màu cyan, vì khối `<style>` đặt sau thẻ link nên khai báo của nó luôn thắng." },
+        { "key": "C", "text": "Màu vàng, vì mọi khai báo trong tệp CSS ngoài đều ưu tiên hơn khai báo trong trang." },
+        { "key": "D", "text": "Màu cyan, vì khi hai nguồn CSS xung đột trình duyệt luôn lấy mẫu nằm trong trang." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "id (100) hơn lớp (10) nên nền màu vàng; nguyên tắc thứ tự chỉ dùng khi hai khai báo cùng độ ưu tiên, vì vậy khối style đặt sau không thắng được. B sai vì nhầm vị trí với độ ưu tiên; C và D sai vì bài học không có quy tắc nguồn ngoài hay nguồn trong luôn thắng."
+    },
+    {
+      "id": "tinhoc12-b17-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["lớp giả", "trọng số"],
+      "content": "Theo bảng trọng số trong bài học, một lớp giả (pseudo-class) như `:hover` đóng góp giá trị bao nhiêu?",
+      "options": [
+        { "key": "A", "text": "0, vì lớp giả không phải lớp thực sự." },
+        { "key": "B", "text": "1, vì lớp giả được tính như bộ chọn thẻ." },
+        { "key": "C", "text": "10, bằng với giá trị của lớp và bộ chọn kiểu thuộc tính." },
+        { "key": "D", "text": "100, bằng với giá trị của mã định danh id." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảng trọng số xếp lớp, lớp giả và bộ chọn kiểu thuộc tính vào cùng một nhóm, mỗi thành phần đóng góp 10. A sai vì lớp giả vẫn có trọng số; B nhầm lớp giả với bộ chọn thẻ (1); D nhầm với bộ chọn id (100)."
+    },
+    {
+      "id": "tinhoc12-b17-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["bảng 17.3", "sắp xếp ưu tiên"],
+      "content": "Cho bốn mức ưu tiên: (1) Trọng số CSS, (2) khai báo !important, (3) CSS trực tiếp, (4) nguyên tắc thứ tự cuối cùng. Sắp xếp nào sau đây đúng thứ tự từ cao xuống thấp?",
+      "options": [
+        { "key": "A", "text": "(2), (1), (3), (4)." },
+        { "key": "B", "text": "(3), (2), (1), (4)." },
+        { "key": "C", "text": "(2), (3), (4), (1)." },
+        { "key": "D", "text": "(2), (3), (1), (4)." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bảng ưu tiên của bài học xếp từ cao xuống thấp là: !important, CSS trực tiếp, trọng số CSS, rồi đến nguyên tắc thứ tự cuối cùng, tức (2), (3), (1), (4). A nhầm chỗ của trọng số với CSS trực tiếp; B đặt CSS trực tiếp trên !important; C đặt nguyên tắc thứ tự trên trọng số, nên cả ba đều sai."
+    },
+    {
+      "id": "tinhoc12-b17-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["yếu tố ưu tiên", "khái niệm"],
+      "content": "Độ ưu tiên giữa các khai báo CSS KHÔNG phụ thuộc vào yếu tố nào sau đây?",
+      "options": [
+        { "key": "A", "text": "Độ cụ thể của bộ chọn áp dụng vào phần tử." },
+        { "key": "B", "text": "Thứ tự viết các khai báo khi chúng cùng độ ưu tiên." },
+        { "key": "C", "text": "Việc khai báo có gắn !important hay không." },
+        { "key": "D", "text": "Thứ tự alphabet của tên thuộc tính được định dạng." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài học chỉ phân định ưu tiên bằng độ cụ thể của bộ chọn, !important và thứ tự khai báo khi cùng ưu tiên; tên thuộc tính xếp alphabet không phải yếu tố nào. A, B, C đều là các yếu tố được nêu trực tiếp trong bài nên không chọn."
+    },
+    {
+      "id": "tinhoc12-b17-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["important", "bộ chọn id"],
+      "content": "Hai mẫu viết theo thứ tự `.note {color: yellow !important;}` rồi `#note {color: black;}` áp vào `<p id=\"note\" class=\"note\">Ghi chú</p>`. Dòng \"Ghi chú\" có màu gì?",
+      "options": [
+        { "key": "A", "text": "Màu vàng, vì khai báo có !important đứng trên mọi mức ưu tiên khác đã học." },
+        { "key": "B", "text": "Màu đen, vì bộ chọn id luôn có ưu tiên cao hơn bộ chọn lớp." },
+        { "key": "C", "text": "Màu vàng, vì hai mẫu khác trọng số và mẫu viết trước được áp dụng." },
+        { "key": "D", "text": "Màu đen, vì !important chỉ làm tăng độ đậm của màu chứ không đổi thứ tự áp dụng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "!important là mức cao nhất trong bảng ưu tiên, thắng cả bộ chọn id, nên chữ màu vàng. B đúng quy tắc id hơn lớp nhưng bỏ qua !important nên kết luận sai; C sai vì mẫu viết trước không thắng khi khác ưu tiên; D sai vì !important thay đổi hẳn thứ tự áp dụng chứ không liên quan độ đậm màu."
+    },
+    {
+      "id": "tinhoc12-b17-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["mặc định trình duyệt", "định dạng tác giả"],
+      "content": "Trình duyệt đã hiển thị đoạn văn với màu chữ mặc định, nhưng chỉ một mẫu đơn giản `p {color: brown;}` cũng đủ đổi màu đoạn văn. Vì sao?",
+      "options": [
+        { "key": "A", "text": "Vì bộ chọn thẻ là mức cao nhất trong bảng ưu tiên." },
+        { "key": "B", "text": "Vì định dạng mặc định của trình duyệt được chép vào tệp CSS của trang." },
+        { "key": "C", "text": "Vì định dạng do người viết trang khai báo có ưu tiên cao hơn các định dạng mặc định theo trình duyệt." },
+        { "key": "D", "text": "Vì mẫu p ghi đè định nghĩa thẻ p của HTML." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mặc định của trình duyệt nằm cuối bảng ưu tiên, nên bất kỳ khai báo nào của người viết trang, kể cả bộ chọn thẻ, cũng thắng nó. A sai vì bộ chọn thẻ chỉ cao hơn mặc định chứ không phải cao nhất; B sai vì định dạng mặc định không nằm trong tệp CSS của trang; D sai vì CSS không sửa định nghĩa thẻ HTML."
+    },
+    {
+      "id": "tinhoc12-b17-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["nhận định đúng sai", "vì sao cần ưu tiên", "thứ tự bộ chọn"],
+      "content": "Những nhận định nào sau đây đúng về sự cần thiết của ưu tiên và thứ tự giữa các dạng bộ chọn?",
+      "options": [
+        { "key": "A", "text": "Khi nhiều bộ chọn cùng áp dụng định dạng mâu thuẫn nhau vào một phần tử, trình duyệt dựa vào các mức ưu tiên để quyết định định dạng được dùng." },
+        { "key": "B", "text": "CSS trực tiếp viết trong thuộc tính style có ưu tiên cao hơn định dạng đặt qua bộ chọn, miễn là bộ chọn đó không dùng !important." },
+        { "key": "C", "text": "Bộ chọn id có ưu tiên thấp hơn bộ chọn lớp vì id chỉ dùng cho một phần tử." },
+        { "key": "D", "text": "Bộ chọn thẻ có ưu tiên cao hơn bộ chọn lớp vì thẻ luôn hiện diện trong trang." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A đúng vì đó chính là lý do bài học phải xây dựng bảng mức ưu tiên; B đúng vì CSS trực tiếp xếp trên mọi định dạng đặt qua bộ chọn, chỉ có khai báo !important là vượt trên nó. C sai vì id là bộ chọn cụ thể hơn nên ưu tiên cao hơn lớp; D sai vì bộ chọn thẻ kém cụ thể hơn và có ưu tiên thấp hơn bộ chọn lớp."
+    },
+    {
+      "id": "tinhoc12-b17-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["nhận định đúng sai", "bảng 17.3", "important"],
+      "content": "Những nhận định nào sau đây đúng về thứ tự các mức ưu tiên đã học?",
+      "options": [
+        { "key": "A", "text": "Khai báo có !important là mức cao nhất trong các mức ưu tiên của bài học." },
+        { "key": "B", "text": "CSS liên quan đến kích thước thiết bị (Media type) được xếp dưới CSS trực tiếp và trên trọng số CSS." },
+        { "key": "C", "text": "Khi hai mẫu định dạng cùng độ ưu tiên, mẫu được viết trước sẽ được áp dụng." },
+        { "key": "D", "text": "Các định dạng mặc định theo trình duyệt được xếp dưới tính kế thừa từ CSS cha." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đều khớp bảng ưu tiên: !important đầu bảng, Media type nằm giữa CSS trực tiếp và trọng số CSS, còn mặc định trình duyệt là mức cuối cùng dưới cả kế thừa. C sai vì khi cùng độ ưu tiên thì khai báo đến sau mới thắng, không phải khai báo viết trước."
+    },
+    {
+      "id": "tinhoc12-b17-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["nhận định đúng sai", "trọng số", "tính toán"],
+      "content": "Những nhận định nào sau đây đúng về trọng số của bộ chọn?",
+      "options": [
+        { "key": "A", "text": "Mã định danh id đóng góp trọng số 100, còn lớp, lớp giả và bộ chọn kiểu thuộc tính mỗi thành phần đóng góp 10." },
+        { "key": "B", "text": "Mọi mẫu định dạng áp dụng vào một phần tử đều có cùng trọng số, nên vị trí khai báo không bao giờ ảnh hưởng tới kết quả." },
+        { "key": "C", "text": "Bộ chọn thẻ đóng góp trọng số 1 và bộ chọn dấu sao (*) đóng góp 0." },
+        { "key": "D", "text": "Bộ chọn `p.abc` có trọng số 101 vì tên lớp abc được tính như một id." }
+      ],
+      "correctAnswer": ["A", "C"],
+      "explanation": "A và C đúng với bảng trọng số: id 100; lớp, lớp giả, thuộc tính 10; thẻ 1; dấu sao 0. B sai vì trọng số khác nhau giữa các loại bộ chọn, và khi hai khai báo cùng trọng số thì vị trí khai báo lại quyết định. D sai vì `p.abc` chỉ gồm thẻ (1) và lớp (10) nên trọng số là 11, tên lớp không bị tính thành id."
+    },
+    {
+      "id": "tinhoc12-b17-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-muc-uu-tien-bo-chon",
+      "tags": ["nhận định đúng sai", "dự đoán xung đột", "kế thừa"],
+      "content": "Những nhận định nào sau đây đúng khi dự đoán kết quả xung đột giữa hai quy tắc CSS?",
+      "options": [
+        { "key": "A", "text": "Nguyên tắc thứ tự cuối cùng được xét trước khi so sánh độ ưu tiên của các bộ chọn." },
+        { "key": "B", "text": "Nếu hai mẫu cùng áp dụng cho một phần tử và có cùng độ ưu tiên, mẫu viết sau sẽ được áp dụng." },
+        { "key": "C", "text": "Nếu phần tử con không có mẫu định dạng áp trực tiếp thì màu chữ của nó có thể nhận theo kiểu kế thừa từ phần tử cha." },
+        { "key": "D", "text": "Một khai báo có !important sẽ thắng một khai báo không có !important, kể cả khi khai báo kia dùng bộ chọn id." }
+      ],
+      "correctAnswer": ["B", "C", "D"],
+      "explanation": "B đúng vì nguyên tắc thứ tự chỉ được dùng khi hai khai báo đã cùng độ ưu tiên; C đúng với tính kế thừa: phần tử con nhận định dạng kế thừa khi không có gì áp trực tiếp lên nó; D đúng vì !important là mức cao nhất, thắng cả bộ chọn id. A sai vì độ ưu tiên được xét trước, nguyên tắc thứ tự chỉ là trọng tài khi ưu tiên bằng nhau."
+    }
+  ]
+}

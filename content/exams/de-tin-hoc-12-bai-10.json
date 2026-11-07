@@ -1,0 +1,523 @@
+{
+  "id": "de-tin-hoc-12-bai-10",
+  "title": "Đề ôn tập Tin học 12 – Bài 10: Tạo liên kết",
+  "slug": "de-tin-hoc-12-bai-10",
+  "description": "Đề ôn tập Bài 10 Tin học 12 Định hướng Tin học ứng dụng (Kết nối tri thức) về tạo liên kết trong HTML: cấu trúc thẻ `<a href=\"URL\">…</a>`, văn bản liên kết, liên kết tới trang web khác bằng đường dẫn tuyệt đối, liên kết tới trang khác trong cùng website bằng tệp `.html` với đường dẫn tương đối, liên kết tới vị trí trong cùng trang bằng mã định danh đoạn `id` và `href=\"#…\"`, tạo liên kết cho hình ảnh. Gồm 24 câu trắc nghiệm nhiều lựa chọn và 4 câu chọn các nhận định đúng, làm trong 45 phút, 10 điểm, mọi câu đều có lời giải.",
+  "subject": "tin-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "TH12-B10",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-07T08:00:00.000Z",
+  "updatedAt": "2026-11-07T08:00:00.000Z",
+  "questions": [
+    {
+      "id": "tinhoc12-b10-c1",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["vai trò liên kết", "siêu liên kết"],
+      "content": "Liên kết (siêu liên kết) trong trang web có vai trò gì?",
+      "options": [
+        { "key": "A", "text": "Khi người dùng nháy chuột vào liên kết, trình duyệt chuyển tới một trang web, một tài liệu hoặc một vị trí khác được chỉ định bằng địa chỉ." },
+        { "key": "B", "text": "Khi rê chuột vào liên kết, một đoạn văn bản giải thích dài được viết sẵn sẽ tự động hiện ra che đi nội dung trang." },
+        { "key": "C", "text": "Liên kết tự động đổi màu nền của toàn bộ trang web mỗi lần người dùng nháy chuột." },
+        { "key": "D", "text": "Liên kết lưu lại lịch sử các trang đã xem vào bộ nhớ của máy tính người dùng." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bản chất của siêu liên kết là kết nối cho phép nháy chuột để chuyển tới tài nguyên được liên kết, đúng như phương án A mô tả. B sai vì liên kết không che nội dung trang; C sai vì liên kết không đổi màu nền toàn trang; D sai việc lưu lịch sử là của trình duyệt, không phải vai trò của bản thân liên kết."
+    },
+    {
+      "id": "tinhoc12-b10-c2",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["văn bản liên kết", "thẻ a"],
+      "content": "Nội dung nằm giữa thẻ mở `<a>` và thẻ đóng `</a>`, tức là chỗ người dùng nháy chuột, được gọi là gì?",
+      "options": [
+        { "key": "A", "text": "Chú thích của hình ảnh." },
+        { "key": "B", "text": "Văn bản liên kết." },
+        { "key": "C", "text": "Mã định danh đoạn." },
+        { "key": "D", "text": "Thanh điều hướng của trang." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo bài học, nội dung hiển thị tại vị trí đặt liên kết giữa cặp thẻ `<a>…</a>` chính là văn bản liên kết, hay phần người dùng nháy chuột. Chú thích hình ảnh thuộc thẻ `<img>`; mã định danh đoạn là giá trị của thuộc tính `id` tại vị trí cần liên kết tới; thanh điều hướng là tập hợp các liên kết ở đầu trang, không phải tên gọi của nội dung trong cặp thẻ `<a>`."
+    },
+    {
+      "id": "tinhoc12-b10-c3",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["thuộc tính href", "thẻ a"],
+      "content": "Trong thẻ `<a href=\"URL\">Nội dung hiển thị tại vị trí đặt liên kết</a>`, thuộc tính `href` có tác dụng gì?",
+      "options": [
+        { "key": "A", "text": "Quy định màu và cỡ chữ của văn bản liên kết." },
+        { "key": "B", "text": "Quy định tên của trang đích hiện trên thanh tiêu đề trình duyệt." },
+        { "key": "C", "text": "Cung cấp địa chỉ của trang web hay tài nguyên được liên kết." },
+        { "key": "D", "text": "Liệt kê danh sách các trang mà người dùng đã nháy liên kết để quay lại." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách nêu `href` cung cấp địa chỉ của trang web hay tài nguyên được liên kết, còn nội dung giữa hai thẻ là văn bản hiển thị tại vị trí đặt liên kết. Màu và cỡ chữ do CSS quy định nên A sai; tên trang trên thanh tiêu đề do thẻ `<title>` quy định nên B sai; D mô tả việc lưu lịch sử duyệt web chứ không phải chức năng của `href`."
+    },
+    {
+      "id": "tinhoc12-b10-c4",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["đường dẫn tương đối", "liên kết cùng thư mục"],
+      "content": "Thư mục gốc của website chứa thư mục `tintuc`; trong `tintuc` có hai tệp `bai_1.html` và `bai_2.html`. Từ `bai_1.html`, tạo liên kết tới `bai_2.html` nằm cùng thư mục, đoạn mã viết đúng là",
+      "options": [
+        { "key": "A", "text": "`<a href=\"../bai_2.html\">Bài 2</a>`" },
+        { "key": "B", "text": "`<a href=\"tintuc/bai_2.html\">Bài 2</a>`" },
+        { "key": "C", "text": "`<a href=\"#bai_2.html\">Bài 2</a>`" },
+        { "key": "D", "text": "`<a href=\"bai_2.html\">Bài 2</a>`" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hai tệp cùng nằm trong thư mục `tintuc` nên theo bài học, giữa các trang trong cùng website chỉ cần ghi tên tệp cần liên kết là `bai_2.html`. A sai vì `../` quay lại thư mục gốc, nơi không có `bai_2.html`; B sai vì `tintuc/` là đường dẫn đi xuống thư mục con, sẽ trỏ tới `tintuc/tintuc/bai_2.html` không tồn tại; C sai vì dấu thăng dùng cho liên kết tới một đoạn trong chính trang, không dùng để liên kết sang tệp khác."
+    },
+    {
+      "id": "tinhoc12-b10-c5",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["đường dẫn tuyệt đối", "đọc href"],
+      "content": "Giá trị nào sau đây của `href` là đường dẫn tuyệt đối tới một website khác?",
+      "options": [
+        { "key": "A", "text": "`https://www.example.com`" },
+        { "key": "B", "text": "`bai_tap/bai_tap_1.html`" },
+        { "key": "C", "text": "`../index.html`" },
+        { "key": "D", "text": "`#dau_trang`" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "`https://www.example.com` có đủ giao thức và tên miền nên là đường dẫn tuyệt đối trỏ ra website khác. B và C là đường dẫn tương đối tới tệp trong cùng website; D là liên kết nội tới vị trí có mã định danh đoạn `dau_trang` trong chính trang."
+    },
+    {
+      "id": "tinhoc12-b10-c6",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["liên kết trong website", "tệp html"],
+      "content": "Theo bài học, khi tạo liên kết giữa các trang trong cùng một website, địa chỉ trong `href` thường được viết như thế nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ được viết bằng tên miền của website, không cần tên tệp." },
+        { "key": "B", "text": "Là tên tệp hoặc đường dẫn tương đối tới tệp `.html` cần liên kết." },
+        { "key": "C", "text": "Nhất thiết phải là đường dẫn tuyệt đối có cả giao thức `https://`." },
+        { "key": "D", "text": "Phải bắt đầu bằng dấu thăng để trình duyệt nhận ra trang cùng website." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giữa các trang trong cùng website, ta liên kết bằng tên tệp `.html` hoặc đường dẫn tương đối gồm tên các thư mục theo thứ tự từ trên xuống, mỗi cấp phân cách bởi dấu /. A sai vì tên miền không xác định được tệp trang cụ thể; C sai vì đường dẫn tuyệt đối chỉ bắt buộc khi tài liệu nằm ngoài máy chủ của mình; D sai vì dấu thăng dùng cho liên kết nội trong cùng trang."
+    },
+    {
+      "id": "tinhoc12-b10-c7",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["đường dẫn tương đối", "đọc mã HTML"],
+      "content": "Trang `index.html` đặt ở thư mục gốc của website có liên kết `<a href=\"tai_lieu/bai_1.html\">Bài số 1</a>`. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Trình duyệt chuyển tới tệp `bai_1.html` nằm ngay trong thư mục gốc của website." },
+        { "key": "B", "text": "Trình duyệt mở một trang có địa chỉ `tai_lieu/bai_1.html` trên một website khác." },
+        { "key": "C", "text": "Trình duyệt chuyển tới tệp `bai_1.html` nằm trong thư mục `tai_lieu` của website; đây là đường dẫn tương đối." },
+        { "key": "D", "text": "Đoạn mã sai vì giá trị của `href` không được chứa tên thư mục." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đường dẫn tương đối gồm tên các thư mục và tên tệp cần liên kết theo thứ tự từ trên xuống, mỗi cấp phân cách bởi dấu /, nên `tai_lieu/bai_1.html` chỉ tệp `bai_1.html` trong thư mục `tai_lieu` ngay trên cùng website. A sai vì bỏ mất cấp thư mục `tai_lieu`; B sai vì đây không phải địa chỉ tuyệt đối ra website khác; D sai vì `href` hoàn toàn được chứa tên thư mục."
+    },
+    {
+      "id": "tinhoc12-b10-c8",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["ký hiệu ../", "đường dẫn tương đối"],
+      "content": "Trong đường dẫn tương đối, kí hiệu `../` có ý nghĩa gì?",
+      "options": [
+        { "key": "A", "text": "Đi xuống thư mục con đầu tiên tính từ thư mục gốc của website." },
+        { "key": "B", "text": "Quay trở lại đầu trang web đang hiển thị." },
+        { "key": "C", "text": "Yêu cầu trình duyệt tải lại trang hiện thời trước khi chuyển trang." },
+        { "key": "D", "text": "Chỉ định trở lại thư mục trên một mức so với thư mục chứa tệp có liên kết." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách giải thích `../` chỉ định trở lại thư mục trên một mức so với thư mục chứa tệp có liên kết, và số cụm `../` tương ứng với số mức quay trở lại. A sai vì đi xuống thư mục con thì viết thẳng tên thư mục; B sai vì về đầu trang dùng liên kết nội với dấu thăng; C không phải ý nghĩa của `../`."
+    },
+    {
+      "id": "tinhoc12-b10-c9",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["liên kết nội", "đọc mã HTML"],
+      "content": "Trang đang hiển thị có tiêu đề `<h2 id=\"phan_2\">Phân loại bài viết</h2>` và ở đầu trang có liên kết `<a href=\"#phan_2\">Đến phần 2</a>`. Khi người dùng nháy vào liên kết đó, hiện tượng nào xảy ra?",
+      "options": [
+        { "key": "A", "text": "Trình duyệt tải về một tệp có tên `phan_2.html` từ máy chủ." },
+        { "key": "B", "text": "Trình duyệt cuộn trang hiện thời xuống vị trí tiêu đề \"Phân loại bài viết\" mà không tải một trang mới." },
+        { "key": "C", "text": "Trình duyệt mở trang trong một tab mới vì giá trị `href` bắt đầu bằng dấu thăng." },
+        { "key": "D", "text": "Trình duyệt báo lỗi vì `href` không có giao thức `http://` hoặc `https://`." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Đây là liên kết tới một vị trí trong cùng trang theo hai bước của bài học: phần tử đích mang `id=\"phan_2\"` và liên kết viết `href=\"#phan_2\"`, nên nháy chuột sẽ cuộn tới vị trí đó ngay trong trang đang xem. A sai vì dấu thăng đánh dấu mã định danh đoạn chứ không phải tên tệp; C sai vì dấu thăng chỉ trỏ tới vị trí có `id` trong chính trang đang xem, không dẫn tới trang nào khác nên không có chuyện mở tab mới; D sai vì liên kết nội không cần giao thức, trang đã được tải về rồi."
+    },
+    {
+      "id": "tinhoc12-b10-c10",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["đường dẫn tương đối", "hai mức quay lại"],
+      "content": "Thư mục gốc của website chứa tệp `index.html` và thư mục `tai_nguyen`; trong `tai_nguyen` có thư mục `chuyen_de` chứa tệp `nd.html`. Từ `nd.html`, liên kết trở về trang `index.html` ở thư mục gốc viết đúng là",
+      "options": [
+        { "key": "A", "text": "`<a href=\"../index.html\">Trang chủ</a>`" },
+        { "key": "B", "text": "`<a href=\"tai_nguyen/chuyen_de/index.html\">Trang chủ</a>`" },
+        { "key": "C", "text": "`<a href=\"./index.html\">Trang chủ</a>`" },
+        { "key": "D", "text": "`<a href=\"../../index.html\">Trang chủ</a>`" }
+      ],
+      "correctAnswer": "D",
+      "explanation": "`nd.html` nằm trong `chuyen_de`, còn `chuyen_de` nằm trong `tai_nguyen` của thư mục gốc, nên phải quay lại hai mức; số cụm `../` đúng bằng số mức quay trở lại, do đó đường dẫn là `../../index.html`. A sai vì một cụm `../` chỉ về tới `tai_nguyen` chứ chưa về tới thư mục gốc là nơi chứa `index.html`; B sai vì đây là đường dẫn đi xuống, tính từ `chuyen_de` sẽ trỏ tới một thư mục `tai_nguyen` lồng không tồn tại; C sai vì `./` vẫn chỉ chính thư mục chứa tệp nên không về tới thư mục gốc."
+    },
+    {
+      "id": "tinhoc12-b10-c11",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["tương đối", "tuyệt đối", "phân biệt"],
+      "content": "Phát biểu nào sau đây phân biệt đúng hai loại đường dẫn tương đối và tuyệt đối?",
+      "options": [
+        { "key": "A", "text": "Đường dẫn tương đối gồm tên các thư mục và tên tệp tính theo vị trí tệp chứa liên kết; đường dẫn tuyệt đối là địa chỉ đầy đủ có cả giao thức và tên miền." },
+        { "key": "B", "text": "Hai loại đường dẫn chỉ khác nhau ở độ dài còn cách viết thì giống nhau, đều bắt đầu bằng giao thức `http://`." },
+        { "key": "C", "text": "Đường dẫn tuyệt đối chỉ dùng để liên kết trong nội bộ một trang, còn đường dẫn tương đối chỉ dùng cho hình ảnh." },
+        { "key": "D", "text": "Đường dẫn tương đối dùng để trỏ ra website khác, còn đường dẫn tuyệt đối chỉ dùng trong cùng một website." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A đúng: đường dẫn tương đối gồm tên thư mục và tên tệp theo thứ tự từ trên xuống tính từ vị trí tệp chứa liên kết, còn đường dẫn tuyệt đối cung cấp đầy đủ giao thức, tên miền và đường dẫn chi tiết. B sai vì hai loại khác nhau cả về cấu trúc; C sai vì liên kết nội trong cùng trang dùng mã định danh đoạn với dấu thăng, không phải đường dẫn tuyệt đối; D sai vì ngược lại: tài liệu ngoài máy chủ của mình bắt buộc dùng đường dẫn tuyệt đối."
+    },
+    {
+      "id": "tinhoc12-b10-c12",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["liên kết nội", "mã định danh đoạn"],
+      "content": "Để tạo liên kết tới một vị trí khác trong cùng một trang, bài học hướng dẫn thực hiện theo hai bước như thế nào?",
+      "options": [
+        { "key": "A", "text": "Đặt thuộc tính `href` tại vị trí cần liên kết tới, sau đó viết mã định danh đoạn của nó vào giữa văn bản liên kết." },
+        { "key": "B", "text": "Viết `href` kèm tên vị trí, trình duyệt sẽ tự động nhảy xuống cuối trang khi người dùng nháy chuột." },
+        { "key": "C", "text": "Tạo một phần tử HTML có thuộc tính `id` tại vị trí cần liên kết tới, sau đó tạo liên kết với `href=\"#mã_định_danh_đoạn\"`." },
+        { "key": "D", "text": "Đặt một thẻ `<a>` không có `href` tại đích đến để làm mốc, các liên kết khác tự nhận ra mốc đó." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sách hướng dẫn hai bước: tạo phần tử HTML có thuộc tính `id` tại vị trí cần liên kết tới, rồi tạo liên kết với `href=\"#mã_định_danh_đoạn\"`. A sai vì đảo lẫn chỗ đặt `href` và `id`; B sai vì trình duyệt không tự nhảy tới cuối trang theo cách đó; D sai vì bản thân thẻ `<a>` không có `href` không xác định được vị trí đích theo hướng dẫn của bài."
+    },
+    {
+      "id": "tinhoc12-b10-c13",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["mã định danh đoạn", "thuộc tính id"],
+      "content": "Điều kiện nào sau đây đúng với `id` được dùng làm mã định danh đoạn?",
+      "options": [
+        { "key": "A", "text": "Được phép trùng nhau giữa các vị trí khác nhau trong cùng một trang." },
+        { "key": "B", "text": "Phải được đặt tên duy nhất, chỉ xuất hiện một lần trong toàn bộ trang web." },
+        { "key": "C", "text": "Phải trùng với văn bản liên kết hiển thị tại vị trí đặt liên kết." },
+        { "key": "D", "text": "Luôn phải đặt bên trong thẻ `<a>` tạo liên kết tới nó." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách nêu mã định danh đoạn là giá trị `id` tại vị trí cần liên kết tới và phải được đặt tên duy nhất, chỉ xuất hiện một lần trong toàn bộ trang web. A sai vì trùng `id` làm trình duyệt không xác định được đích; C sai vì `id` là tên định dạng cho máy, không liên quan văn bản hiển thị; D sai vì `id` đặt trên phần tử tại đích đến chứ không đặt trong thẻ `<a>` của liên kết."
+    },
+    {
+      "id": "tinhoc12-b10-c14",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["đọc mã HTML", "liên kết nội"],
+      "content": "Trong trang có tiêu đề `<h2 id=\"bang_a\">Bảng điểm</h2>`. Liên kết nào sau đây khi nháy chuột sẽ chuyển tới đúng tiêu đề đó trong cùng trang?",
+      "options": [
+        { "key": "A", "text": "`<a href=\"bang_a\">Tới bảng điểm</a>`" },
+        { "key": "B", "text": "`<a href=\"/bang_a\">Tới bảng điểm</a>`" },
+        { "key": "C", "text": "`<a href=\"#bang_a\">Tới bảng điểm</a>`" },
+        { "key": "D", "text": "`<a id=\"#bang_a\">Tới bảng điểm</a>`" }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Liên kết nội trong cùng trang có dạng `href=\"#mã_định_danh_đoạn\"`, nên phải viết `href=\"#bang_a\"`. A sai vì thiếu dấu thăng, trình duyệt sẽ hiểu `bang_a` như tên tệp hay thư mục; B sai vì dấu / đầu đường dẫn không phải cú pháp liên kết đoạn theo bài học; D sai vì `id` đặt ở phần tử đích đến, còn liên kết cần `href`."
+    },
+    {
+      "id": "tinhoc12-b10-c15",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["về đầu trang", "liên kết nội"],
+      "content": "Một trang web rất dài muốn đặt liên kết \"Về đầu trang\" ở cuối trang để nháy chuột là quay lại phần đầu. Cách làm đúng theo bài học là",
+      "options": [
+        { "key": "A", "text": "đặt một phần tử có `id` ở phần đầu trang, rồi tại cuối trang tạo liên kết với `href=\"#id_đó\"`." },
+        { "key": "B", "text": "viết `href=\"top\"`, vì mọi trình duyệt đều tự hiểu từ `top` là phần đầu trang." },
+        { "key": "C", "text": "viết `href=\"dau_trang\"`, vì trình duyệt tự tìm phần tử có nội dung là đầu trang." },
+        { "key": "D", "text": "không làm được, vì liên kết trong cùng trang chỉ trỏ tới các tiêu đề, không trỏ tới phần đầu trang." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phần đầu trang cũng là một vị trí trong trang nên áp dụng đúng hai bước liên kết nội: gắn `id` cho phần tử ở đầu trang rồi tạo liên kết `href=\"#id_đó\"`. B sai vì `href=\"top\"` không phải mã định danh đoạn theo bài học; C sai vì liên kết nội phải trỏ tới mã định danh `id` có dấu thăng đứng trước, không phải tới tên hay nội dung của phần tử; D sai vì liên kết nội trỏ tới mọi phần tử có `id`, không riêng tiêu đề."
+    },
+    {
+      "id": "tinhoc12-b10-c16",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["liên kết ảnh", "thẻ img"],
+      "content": "Theo sách giáo khoa, muốn tạo liên kết cho một hình ảnh, tức là nháy chuột vào ảnh thì chuyển tới trang được liên kết, ta làm thế nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ cần viết địa chỉ trang liên kết vào `href`, ảnh sẽ tự hiện ra tại vị trí liên kết." },
+        { "key": "B", "text": "Hiển thị ảnh bằng thẻ `<img>` rồi đặt thẻ đó bên trong cặp thẻ `<a>…</a>`." },
+        { "key": "C", "text": "Thêm thuộc tính `href` vào thẻ `<img>` để biến tấm ảnh thành liên kết." },
+        { "key": "D", "text": "Đặt thẻ `<a>` bên trong thẻ `<img>`, giữa hai thẻ này không cần nội dung nào khác." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách hướng dẫn tạo liên kết cho hình ảnh bằng cách hiển thị ảnh bằng thẻ `<img>` rồi đặt ảnh đó trong cặp thẻ `<a>…</a>`. A sai vì `href` không tự hiển thị ảnh, ảnh phải chèn bằng `<img>`; C sai vì thẻ `<img>` dùng `src` chứ bài học không dùng `href` cho thẻ này; D sai vì thứ tự đúng là `<img>` nằm trong `<a>`, không phải ngược lại."
+    },
+    {
+      "id": "tinhoc12-b10-c17",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["đọc mã HTML", "liên kết ảnh"],
+      "content": "Cho đoạn mã `<a href=\"https://www.example.com\"><img src=\"logo.png\" alt=\"Logo\"></a>` nằm trong một trang web. Phát biểu nào sau đây đúng?",
+      "options": [
+        { "key": "A", "text": "Trang chỉ hiển thị tấm ảnh `logo.png`, tấm ảnh không phải liên kết vì liên kết chỉ tạo được cho văn bản." },
+        { "key": "B", "text": "Đoạn mã sai cú pháp vì thẻ `<img>` không được đặt bên trong cặp thẻ `<a>`." },
+        { "key": "C", "text": "Trang hiển thị ảnh `logo.png` như văn bản liên kết; nháy vào ảnh, trình duyệt chuyển tới trang có địa chỉ `https://www.example.com`." },
+        { "key": "D", "text": "Nháy vào ảnh thì trang `https://www.example.com` mở trong một tab mới vì ảnh luôn được mở tách biệt." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đoạn mã đặt thẻ `<img>` trong cặp thẻ `<a>…</a>` nên ảnh đóng vai trò văn bản liên kết và nháy vào ảnh sẽ chuyển tới địa chỉ trong `href`. A sai vì liên kết tạo được cho ảnh chứ không chỉ cho văn bản; B sai vì đặt `<img>` trong `<a>…</a>` chính là cách sách hướng dẫn; D sai vì ảnh được đặt trong liên kết không có cơ chế mở trang tách riêng, trang đích hiển thị ngay trong tab đang xem."
+    },
+    {
+      "id": "tinhoc12-b10-c18",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["siêu văn bản", "khái niệm liên kết"],
+      "content": "Vì sao một trang web được gọi là siêu văn bản?",
+      "options": [
+        { "key": "A", "text": "Vì nội dung trang chỉ gồm văn bản thuần tuý, không có hình ảnh hay âm thanh." },
+        { "key": "B", "text": "Vì trang được viết hoàn toàn bằng các thẻ HTML mà người đọc phải tự ghi nhớ." },
+        { "key": "C", "text": "Vì trang có nhiều hình ảnh và video hơn hẳn một văn bản in thông thường." },
+        { "key": "D", "text": "Vì trong trang có thể chứa các liên kết, nháy chuột vào liên kết thì chuyển tới trang hoặc vị trí khác." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Siêu văn bản là văn bản có chứa các liên kết, nhờ đó người đọc không phải đọc tuần tự mà có thể nháy chuột để chuyển sang trang khác hoặc tới một vị trí khác. A và C nói về nội dung, hình thức trình bày của trang, còn B nói về cách viết mã nên đều không phải lý do trang web được gọi là siêu văn bản."
+    },
+    {
+      "id": "tinhoc12-b10-c19",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["đọc mã HTML", "đường dẫn tương đối"],
+      "content": "Trang `index.html` và trang `gioi-thieu.html` cùng nằm ở thư mục gốc của website. Câu lệnh nào tạo đúng liên kết từ trang chủ tới trang giới thiệu?",
+      "options": [
+        { "key": "A", "text": "`<a href=\"gioi-thieu.html\">Giới thiệu</a>`" },
+        { "key": "B", "text": "`<a src=\"gioi-thieu.html\">Giới thiệu</a>`" },
+        { "key": "C", "text": "`<link href=\"gioi-thieu.html\">Giới thiệu</link>`" },
+        { "key": "D", "text": "`<a name=\"gioi-thieu.html\">Giới thiệu</a>`" }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai tệp cùng nằm ở thư mục gốc nên `href` chỉ cần ghi tên tệp `gioi-thieu.html`; thẻ `<a>` dùng thuộc tính `href` để chỉ địa chỉ đích. B sai vì `src` là thuộc tính của thẻ chèn tài nguyên như `<img>`, C sai vì thẻ `<link>` không hiển thị văn bản cho người dùng nháy chuột, D sai vì `name` không phải thuộc tính chứa địa chỉ liên kết."
+    },
+    {
+      "id": "tinhoc12-b10-c20",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["phạm vi liên kết", "tài nguyên web"],
+      "content": "Theo nội dung bài học, một liên kết tạo bằng thẻ `<a>` có thể trỏ tới những đối tượng nào?",
+      "options": [
+        { "key": "A", "text": "Chỉ các trang dạng `.html` trong cùng website, không trỏ được ra ngoài." },
+        { "key": "B", "text": "Chỉ các địa chỉ website khác trên Internet, không dùng để nhảy trong cùng một trang." },
+        { "key": "C", "text": "Chỉ vị trí trong chính trang chứa liên kết, muốn ra trang khác phải dùng thẻ khác." },
+        { "key": "D", "text": "Trang khác trong cùng website, trang hay tài nguyên trên website khác, và một vị trí khác trong chính trang hiện tại." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bài học trình bày đủ ba kiểu: liên kết tới trang khác trong cùng website bằng đường dẫn tương đối, liên kết tới website khác bằng đường dẫn tuyệt đối, và liên kết tới vị trí khác trong cùng trang bằng mã định danh đoạn. A, B, C mỗi phương án chỉ giữ lại một kiểu và phủ nhận các kiểu còn lại nên đều sai."
+    },
+    {
+      "id": "tinhoc12-b10-c21",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["dấu nháy kép", "cú pháp href"],
+      "content": "Khi viết giá trị địa chỉ cho thuộc tính `href` của thẻ `<a>`, theo hướng dẫn của bài học địa chỉ đó phải được đặt ở đâu?",
+      "options": [
+        { "key": "A", "text": "Viết rời ra ngoài thẻ, ngay sau thẻ đóng `</a>` để tránh nhầm với văn bản liên kết." },
+        { "key": "B", "text": "Đặt trong cặp dấu nháy kép ngay sau `href=` bên trong thẻ mở `<a>`." },
+        { "key": "C", "text": "Đặt giữa thẻ mở `<a>` và thẻ đóng `</a>` thay cho văn bản liên kết." },
+        { "key": "D", "text": "Khai báo riêng trong phần `<head>` của trang rồi dẫn tên sang thẻ `<a>`." }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Sách quy định đường dẫn URL trong `href` phải nằm trong cặp dấu nháy kép, ví dụ `<a href=\"https://www.example.com\">…</a>`. A sai vì giá trị thuộc tính phải nằm trong thẻ mở; C sai vì vị trí giữa hai thẻ là chỗ của văn bản liên kết; D sai vì bài học không khai báo địa chỉ liên kết trong phần `<head>`."
+    },
+    {
+      "id": "tinhoc12-b10-c22",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "HARD",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["nhận định sai", "liên kết"],
+      "content": "Phát biểu nào sau đây KHÔNG đúng về liên kết trong trang web?",
+      "options": [
+        { "key": "A", "text": "Địa chỉ trong `href` có thể viết bỏ qua dấu nháy kép trong mọi trường hợp mà thẻ `<a>` vẫn hiển thị đúng." },
+        { "key": "B", "text": "Văn bản nằm giữa cặp thẻ `<a>…</a>` là phần người dùng nháy chuột để chuyển tới địa chỉ liên kết." },
+        { "key": "C", "text": "Có thể liên kết tới một vị trí khác trong cùng trang bằng mã định danh đoạn đặt sau dấu thăng." },
+        { "key": "D", "text": "Có thể biến một hình ảnh thành liên kết bằng cách đặt thẻ `<img>` trong cặp thẻ `<a>…</a>`." }
+      ],
+      "correctAnswer": "A",
+      "explanation": "A không đúng vì sách yêu cầu đường dẫn URL trong `href` phải nằm trong cặp dấu nháy kép; một địa chỉ viết không nháy kép sẽ bị cắt sai ngay khi chứa dấu cách, nên không thể nói là bỏ qua trong mọi trường hợp mà thẻ vẫn hiển thị đúng. B đúng vì đó là định nghĩa văn bản liên kết; C đúng vì liên kết nội dùng `href=\"#mã_định_danh_đoạn\"`; D đúng vì cách tạo liên kết cho ảnh là đặt thẻ `<img>` vào trong cặp thẻ `<a>…</a>`."
+    },
+    {
+      "id": "tinhoc12-b10-c23",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "MEDIUM",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["tình huống", "nháy liên kết"],
+      "content": "Trong trang `index.html` có liên kết `<a href=\"https://edu.net.vn\">Cổng tri thức</a>`. Khi người dùng nháy vào dòng chữ \"Cổng tri thức\", hiện tượng nào xảy ra?",
+      "options": [
+        { "key": "A", "text": "Trình duyệt tải trang `https://edu.net.vn` rồi xếp chồng lên trang `index.html` để người dùng cuộn lên xem lại." },
+        { "key": "B", "text": "Nội dung trang `edu.net.vn` được hiển thị ngay trong trang `index.html` mà địa chỉ trên thanh trình duyệt không đổi." },
+        { "key": "C", "text": "Trình duyệt chuyển sang hiển thị trang có địa chỉ `https://edu.net.vn` trong chính tab đang mở trang `index.html`." },
+        { "key": "D", "text": "Trình duyệt tải tệp tin của trang `edu.net.vn` về thư mục trên máy người dùng." }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Liên kết `<a>` với `href` là địa chỉ tuyệt đối nên nháy chuột sẽ chuyển sang trang đích ngay trong tab đang mở. A sai vì trang cũ được thay bằng trang đích chứ không xếp chồng để cuộn lại; B mô tả hiển thị nội dung ngay trong trang, là tính chất của khung nội tuyến chứ không phải liên kết; D sai vì nháy liên kết không đồng nghĩa với tải tệp về máy."
+    },
+    {
+      "id": "tinhoc12-b10-c24",
+      "type": "SINGLE_CHOICE",
+      "partName": "Phần I. Trắc nghiệm nhiều lựa chọn",
+      "difficulty": "EASY",
+      "score": 0.25,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["dấu thăng", "liên kết nội"],
+      "content": "Khi tạo liên kết tới một vị trí khác trong cùng trang, trong `href` ta phải đặt kí hiệu nào trước mã định danh đoạn?",
+      "options": [
+        { "key": "A", "text": "Dấu gạch chéo `/`." },
+        { "key": "B", "text": "Dấu arroba `@`." },
+        { "key": "C", "text": "Dấu hai chấm `:`." },
+        { "key": "D", "text": "Dấu thăng `#`." }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Sách hướng dẫn liên kết nội có dạng `href=\"#mã_định_danh_đoạn\"`, tức mã đoạn phải đặt sau dấu thăng. Dấu gạch chéo dùng để phân cách các cấp thư mục trong đường dẫn tương đối, còn dấu arroba và dấu hai chấm không phải cú pháp liên kết đoạn theo bài học."
+    },
+    {
+      "id": "tinhoc12-b10-c25",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["nhận định đúng sai", "thẻ a", "văn bản liên kết"],
+      "content": "Những nhận định nào sau đây đúng về thẻ tạo liên kết `<a>`?",
+      "options": [
+        { "key": "A", "text": "`<a>` là thẻ kép, địa chỉ liên kết đặt ở thuộc tính `href` trong thẻ mở và được bao bởi cặp dấu nháy kép." },
+        { "key": "B", "text": "Nội dung hiển thị tại vị trí đặt liên kết nằm giữa thẻ mở `<a>` và thẻ đóng `</a>`." },
+        { "key": "C", "text": "Cặp thẻ `<a>…</a>` chỉ chứa được văn bản, không đặt được hình ảnh." },
+        { "key": "D", "text": "Giá trị của `href` có thể là địa chỉ tuyệt đối tới website khác hoặc đường dẫn tương đối tới tệp trong cùng website." }
+      ],
+      "correctAnswer": ["A", "B", "D"],
+      "explanation": "A, B và D đều đúng theo cấu trúc thẻ `<a href=\"URL\">Nội dung hiển thị tại vị trí đặt liên kết</a>` và cách viết địa chỉ trong `href` của bài học. C sai vì sách hướng dẫn rõ ràng có thể đặt thẻ `<img>` bên trong cặp thẻ `<a>…</a>` để tạo liên kết cho hình ảnh."
+    },
+    {
+      "id": "tinhoc12-b10-c26",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["nhận định đúng sai", "đường dẫn", "tương đối tuyệt đối"],
+      "content": "Những nhận định nào sau đây đúng về đường dẫn dùng trong liên kết?",
+      "options": [
+        { "key": "A", "text": "Đường dẫn tương đối là đường dẫn bắt đầu bằng giao thức `https://` kèm tên miền đầy đủ." },
+        { "key": "B", "text": "Khi tài liệu được liên kết không nằm trên máy chủ của mình thì bắt buộc phải dùng đường dẫn tuyệt đối." },
+        { "key": "C", "text": "Đường dẫn tương đối gồm tên các thư mục và tên tệp theo thứ tự từ trên xuống, mỗi cấp phân cách bởi dấu `/`." },
+        { "key": "D", "text": "Mỗi cụm `../` trong đường dẫn tương đối chỉ định đi xuống một thư mục con nằm sâu hơn bên dưới." }
+      ],
+      "correctAnswer": ["B", "C"],
+      "explanation": "B và C đúng theo sách: tài liệu ngoài máy chủ của mình phải dùng đường dẫn tuyệt đối, còn đường dẫn tương đối liệt kê tên thư mục và tên tệp theo thứ tự từ trên xuống, phân cách bởi dấu /. A sai vì mô tả đó là đường dẫn tuyệt đối; D sai vì `../` dùng để quay lại thư mục trên một mức chứ không phải đi xuống thư mục con."
+    },
+    {
+      "id": "tinhoc12-b10-c27",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "MEDIUM",
+      "score": 1,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["nhận định đúng sai", "liên kết nội", "mã định danh đoạn"],
+      "content": "Những nhận định nào sau đây đúng về liên kết tới một vị trí trong cùng trang?",
+      "options": [
+        { "key": "A", "text": "Trong `href` của liên kết, mã định danh đoạn phải được đặt sau dấu thăng." },
+        { "key": "B", "text": "Các vị trí khác nhau trong cùng một trang được phép dùng trùng nhau một mã định danh đoạn." },
+        { "key": "C", "text": "Mã định danh đoạn được gán cho phần tử HTML nằm tại vị trí cần liên kết tới thông qua thuộc tính `id`." },
+        { "key": "D", "text": "Với phần tử `<table id=\"CLBTT\">`, liên kết `<a href=\"#CLBTT\">…</a>` khi nháy chuột sẽ chuyển tới bảng đó trong trang." }
+      ],
+      "correctAnswer": ["A", "C", "D"],
+      "explanation": "A, C và D đúng theo hai bước tạo liên kết nội trong sách: gắn `id` làm mã định danh đoạn tại đích đến rồi liên kết bằng `href=\"#mã_định_danh_đoạn\"`. B sai vì mã định danh đoạn phải được đặt tên duy nhất, chỉ xuất hiện một lần trong toàn bộ trang web."
+    },
+    {
+      "id": "tinhoc12-b10-c28",
+      "type": "MULTIPLE_CHOICE",
+      "partName": "Phần II. Chọn các nhận định đúng",
+      "difficulty": "HARD",
+      "score": 1,
+      "topic": "topic-th-tao-lien-ket",
+      "tags": ["nhận định đúng sai", "liên kết ảnh", "phạm vi liên kết"],
+      "content": "Những nhận định nào sau đây đúng về tạo liên kết trong trang web?",
+      "options": [
+        { "key": "A", "text": "Liên kết có thể trỏ tới trang khác trong cùng website, trang trên website khác hoặc một vị trí trong chính trang hiện tại." },
+        { "key": "B", "text": "Để tạo liên kết cho hình ảnh, ta hiển thị ảnh bằng thẻ `<img>` rồi đặt thẻ đó trong cặp thẻ `<a>…</a>`." },
+        { "key": "C", "text": "Liên kết ra website khác chỉ cần ghi tên miền trong `href`, không cần kèm giao thức `http://` hay `https://`." },
+        { "key": "D", "text": "Văn bản liên kết bắt buộc phải trùng từng chữ với địa chỉ ghi trong `href`." }
+      ],
+      "correctAnswer": ["A", "B"],
+      "explanation": "A và B đúng theo bài: liên kết trỏ được tới ba loại đích và liên kết ảnh được tạo bằng cách đặt thẻ `<img>` trong cặp thẻ `<a>…</a>`. C sai vì tài liệu ngoài máy chủ của mình bắt buộc dùng đường dẫn tuyệt đối có đủ giao thức và tên miền. D sai vì văn bản liên kết do người soạn tự chọn, không cần trùng với địa chỉ trong `href`."
+    }
+  ]
+}
