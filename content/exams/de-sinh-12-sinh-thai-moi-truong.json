@@ -1,0 +1,699 @@
+{
+  "id": "de-sinh-12-sinh-thai-moi-truong",
+  "title": "Sinh học 12 – Sinh thái và môi trường",
+  "slug": "de-sinh-12-sinh-thai-moi-truong",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Chương VI–VIII, theo phạm vi chương trình Kết nối tri thức. Ôn theo nhóm kiến thức, không bao quát từng bài SGK; không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "sinh-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "SH12-05",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T15:00:00.000Z",
+  "updatedAt": "2026-11-16T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Yếu tố nào sau đây là nhân tố sinh thái vô sinh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vật ăn thịt."
+        },
+        {
+          "key": "B",
+          "text": "Nhiệt độ môi trường."
+        },
+        {
+          "key": "C",
+          "text": "Vi khuẩn cộng sinh."
+        },
+        {
+          "key": "D",
+          "text": "Đối thủ cạnh tranh cùng loài."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhiệt độ là yếu tố vật lí của môi trường nên thuộc nhóm vô sinh. Những sinh vật có tác động lên sinh vật khác thuộc nhóm nhân tố hữu sinh.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhóm nào phù hợp với khái niệm quần thể sinh vật?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mọi loài động vật trên Trái Đất."
+        },
+        {
+          "key": "B",
+          "text": "Toàn bộ sinh vật và nước trong một ao."
+        },
+        {
+          "key": "C",
+          "text": "Các sinh vật khác loài có cùng kích thước."
+        },
+        {
+          "key": "D",
+          "text": "Các cá thể cùng loài sống trong một khu vực xác định, cùng thời điểm và có khả năng sinh sản tạo thế hệ mới."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Quần thể gồm các cá thể cùng loài, có mối liên hệ trong không gian và thời gian, có khả năng duy trì thế hệ. Nhiều loài cùng sống tạo nên quần xã, không phải một quần thể.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hệ sinh thái bao gồm những thành phần nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quần xã sinh vật và môi trường vô sinh, có tương tác với nhau."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ các loài động vật ăn thịt."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ các sinh vật sản xuất."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ lớp đất không có sinh vật."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hệ sinh thái có thành phần hữu sinh là quần xã và thành phần vô sinh. Các thành phần liên hệ qua trao đổi vật chất, chuyển hóa năng lượng và những tương tác khác.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong chuỗi thức ăn bắt đầu bằng thực vật xanh, thực vật xanh thường thuộc bậc dinh dưỡng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bậc dinh dưỡng 2."
+        },
+        {
+          "key": "B",
+          "text": "Bậc dinh dưỡng 3."
+        },
+        {
+          "key": "C",
+          "text": "Bậc dinh dưỡng 1."
+        },
+        {
+          "key": "D",
+          "text": "Bậc dinh dưỡng cao nhất bắt buộc."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thực vật xanh là sinh vật sản xuất, chuyển năng lượng ánh sáng thành năng lượng hóa học trong chất hữu cơ. Vì vậy chúng ở bậc dinh dưỡng đầu tiên của chuỗi này.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Diễn thế nguyên sinh khởi đầu trong điều kiện nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một khu rừng vừa bị cháy nhưng vẫn còn đất."
+        },
+        {
+          "key": "B",
+          "text": "Một ruộng vừa thu hoạch vẫn còn đất và sinh vật."
+        },
+        {
+          "key": "C",
+          "text": "Một khu vực chưa có quần xã và chưa hình thành đất, như bề mặt dung nham mới nguội."
+        },
+        {
+          "key": "D",
+          "text": "Một vườn cây đang được tưới hằng ngày."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Diễn thế nguyên sinh bắt đầu trên nền chưa có quần xã và đất phát triển. Khu vực đã có đất sau nhiễu động thường là bối cảnh của diễn thế thứ sinh.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Bảo tồn tại chỗ (in situ) là biện pháp nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bảo vệ loài trong sinh cảnh tự nhiên của chúng."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ lưu hạt trong kho lạnh ngoài sinh cảnh."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ nuôi cá thể trong vườn thú."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ lưu mẫu DNA trong phòng thí nghiệm."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo tồn tại chỗ duy trì loài ngay trong môi trường sống tự nhiên, đồng thời bảo vệ sinh cảnh và tương tác sinh thái. Ngân hàng hạt hay vườn thú là ví dụ bảo tồn chuyển chỗ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể có 240 cá thể phân bố trong khu vực rộng 12 ha. Mật độ trung bình là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12 cá thể/ha."
+        },
+        {
+          "key": "B",
+          "text": "24 cá thể/ha."
+        },
+        {
+          "key": "C",
+          "text": "2 880 cá thể/ha."
+        },
+        {
+          "key": "D",
+          "text": "20 cá thể/ha."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mật độ trung bình bằng số cá thể chia diện tích: 240/12 = 20 cá thể/ha. Không nhân số cá thể với diện tích khi tính mật độ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể có 500 cá thể đầu năm. Trong năm có 80 cá thể sinh ra, 50 chết, 20 nhập cư và 10 xuất cư. Cuối năm có bao nhiêu cá thể?",
+      "options": [
+        {
+          "key": "A",
+          "text": "520."
+        },
+        {
+          "key": "B",
+          "text": "540."
+        },
+        {
+          "key": "C",
+          "text": "560."
+        },
+        {
+          "key": "D",
+          "text": "640."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Kích thước cuối kì = ban đầu + sinh − tử + nhập − xuất = 500 + 80 − 50 + 20 − 10 = 540 cá thể.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong mô hình tăng trưởng logistic, khi kích thước quần thể tiến gần sức chứa K của môi trường, tốc độ tăng trưởng thực tế có xu hướng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm dần và tiến về 0 khi N tiến đến K."
+        },
+        {
+          "key": "B",
+          "text": "Tăng vô hạn bất kể tài nguyên."
+        },
+        {
+          "key": "C",
+          "text": "Luôn bằng đúng K cá thể mỗi ngày."
+        },
+        {
+          "key": "D",
+          "text": "Không phụ thuộc mật độ trong mọi điều kiện."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mô hình logistic có dạng dN/dt = rN(1 − N/K). Khi N gần K, hệ số 1 − N/K gần 0 nên mức tăng thực tế giảm, phản ánh giới hạn tài nguyên.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Một dạng cộng sinh làm cả hai loài tham gia đều được lợi. Quan hệ này có dấu tác động nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "+/−."
+        },
+        {
+          "key": "B",
+          "text": "+/0."
+        },
+        {
+          "key": "C",
+          "text": "+/+."
+        },
+        {
+          "key": "D",
+          "text": "−/−."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dấu + biểu thị có lợi, dấu − biểu thị có hại và 0 là không có ảnh hưởng đáng kể trong mô hình. Quan hệ cả hai loài cùng có lợi mang dấu +/+.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào phân biệt đúng dòng năng lượng và sự vận động vật chất trong hệ sinh thái?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cả năng lượng và vật chất đều tuần hoàn kín hoàn toàn."
+        },
+        {
+          "key": "B",
+          "text": "Năng lượng truyền qua các bậc rồi tiêu tán dưới dạng nhiệt; nhiều nguyên tố vật chất được tuần hoàn."
+        },
+        {
+          "key": "C",
+          "text": "Năng lượng được tái tạo từ nhiệt với hiệu suất 100%."
+        },
+        {
+          "key": "D",
+          "text": "Vật chất luôn mất khỏi Trái Đất sau một chuỗi thức ăn."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Năng lượng không được tái sử dụng theo chu trình kín trong hệ sinh thái vì một phần bị tiêu tán thành nhiệt. Các nguyên tố như carbon, nitrogen được trao đổi qua chu trình sinh địa hóa.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong cùng một khoảng thời gian và diện tích, năng lượng tích lũy ở bậc dinh dưỡng 1 là 10 000 kJ, ở bậc 2 là 1 200 kJ. Hiệu suất truyền năng lượng từ bậc 1 sang bậc 2 là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%."
+        },
+        {
+          "key": "B",
+          "text": "8,33%."
+        },
+        {
+          "key": "C",
+          "text": "83,33%."
+        },
+        {
+          "key": "D",
+          "text": "12%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hiệu suất bằng năng lượng ở bậc nhận chia năng lượng ở bậc trước, nhân 100%: 1 200/10 000 × 100% = 12%. Không mặc định mọi chuỗi đều có hiệu suất 10%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở một hệ sinh thái, năng suất sơ cấp tổng là 1 200 g carbon/m²/năm và lượng carbon cây dùng cho hô hấp là 400 g carbon/m²/năm. Năng suất sơ cấp tinh là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "400 g carbon/m²/năm."
+        },
+        {
+          "key": "B",
+          "text": "1 200 g carbon/m²/năm."
+        },
+        {
+          "key": "C",
+          "text": "1 600 g carbon/m²/năm."
+        },
+        {
+          "key": "D",
+          "text": "800 g carbon/m²/năm."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Năng suất sơ cấp tinh bằng năng suất sơ cấp tổng trừ phần hô hấp của sinh vật sản xuất: 1 200 − 400 = 800 g carbon/m²/năm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong chu trình carbon, quá trình nào trực tiếp cố định CO₂ thành chất hữu cơ ở thực vật xanh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hô hấp tế bào."
+        },
+        {
+          "key": "B",
+          "text": "Quang hợp."
+        },
+        {
+          "key": "C",
+          "text": "Đốt nhiên liệu hóa thạch."
+        },
+        {
+          "key": "D",
+          "text": "Phân giải xác sinh vật bằng hô hấp hiếu khí."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Quang hợp sử dụng CO₂ để tổng hợp chất hữu cơ. Hô hấp, phân giải hiếu khí và đốt nhiên liệu thường giải phóng CO₂ về môi trường.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Vì sao dòng nước giàu nitrogen và phosphorus từ hoạt động con người có thể gây phú dưỡng ao hồ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nitrogen và phosphorus luôn tiêu diệt tức thì mọi loài tảo."
+        },
+        {
+          "key": "B",
+          "text": "Phú dưỡng làm oxygen hòa tan luôn tăng mãi."
+        },
+        {
+          "key": "C",
+          "text": "Dinh dưỡng tăng kích thích tảo phát triển; phân hủy lượng hữu cơ lớn có thể làm giảm oxygen hòa tan."
+        },
+        {
+          "key": "D",
+          "text": "Tảo không cần dinh dưỡng để phát triển."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Dư thừa dinh dưỡng có thể gây nở hoa tảo. Khi sinh khối chết bị phân hủy, quá trình hô hấp tiêu thụ oxygen có thể gây thiếu oxygen, nhất là ở những thời điểm hoặc tầng nước nhất định.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Một khu rừng bị cháy nhưng lớp đất, hạt giống và một số cơ quan sinh dưỡng vẫn còn. Quá trình quần xã phục hồi sau đó thường được xếp vào dạng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Diễn thế thứ sinh."
+        },
+        {
+          "key": "B",
+          "text": "Diễn thế nguyên sinh trên nền chưa có đất."
+        },
+        {
+          "key": "C",
+          "text": "Tái bản DNA."
+        },
+        {
+          "key": "D",
+          "text": "Cân bằng Hardy–Weinberg."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khu vực đã từng có quần xã và còn đất cùng nguồn tái sinh sau nhiễu động. Đây là điều kiện điển hình của diễn thế thứ sinh, không phải khởi đầu từ nền vô sinh chưa có đất.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Một chuỗi thức ăn có năng lượng tích lũy ở sinh vật sản xuất là 50 000 kJ. Hiệu suất truyền sang sinh vật tiêu thụ bậc 1 là 10%, rồi sang sinh vật tiêu thụ bậc 2 là 20%. Năng lượng ở sinh vật tiêu thụ bậc 2 là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 000 kJ."
+        },
+        {
+          "key": "B",
+          "text": "10 000 kJ."
+        },
+        {
+          "key": "C",
+          "text": "1 000 kJ."
+        },
+        {
+          "key": "D",
+          "text": "15 000 kJ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Năng lượng qua từng bước phải nhân lần lượt các hiệu suất: 50 000 × 0,10 × 0,20 = 1 000 kJ. Không cộng hai hiệu suất truyền năng lượng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Đánh dấu 50 cá thể rồi thả lại một quần thể kín. Khi chúng trộn đều, bắt ngẫu nhiên 40 cá thể, trong đó 10 con có dấu. Dấu bền, không ảnh hưởng sống sót hay khả năng bị bắt; mọi cá thể có khả năng bị bắt như nhau. Theo ước lượng N ≈ M × C/R, kích thước quần thể xấp xỉ bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200 cá thể."
+        },
+        {
+          "key": "B",
+          "text": "100 cá thể."
+        },
+        {
+          "key": "C",
+          "text": "500 cá thể."
+        },
+        {
+          "key": "D",
+          "text": "2 000 cá thể."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Áp dụng mô hình đánh dấu–bắt lại đơn giản: N ≈ 50 × 40/10 = 200 cá thể. Đây là ước lượng theo giả thiết đã cho, không phải số đếm chính xác tuyệt đối.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai quần xã mỗi nơi có 4 loài và 100 cá thể. Quần xã X có số cá thể từng loài là 25, 25, 25, 25; Y là 97, 1, 1, 1. Nhận xét nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Y có số loài nhiều hơn X."
+        },
+        {
+          "key": "B",
+          "text": "X có tổng số cá thể ít hơn Y."
+        },
+        {
+          "key": "C",
+          "text": "Hai nơi có phân bố số cá thể giữa các loài giống hệt nhau."
+        },
+        {
+          "key": "D",
+          "text": "Hai nơi có độ giàu loài (số loài) như nhau, nhưng X có độ đồng đều cao hơn."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cả hai có bốn loài nên độ giàu loài (số loài) bằng nhau. X phân chia cá thể đều giữa bốn loài, còn Y gần như bị một loài áp đảo nên X có độ đồng đều cao hơn.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    },
+    {
+      "id": "de-sinh-12-sinh-thai-moi-truong-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Một dự án phục hồi rừng đầu nguồn cần vừa bảo vệ đa dạng sinh học vừa duy trì sinh kế lâu dài. Phương án nào phù hợp nhất với phát triển bền vững?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thay toàn bộ rừng bằng một loài ngoại lai mà không đánh giá tác động."
+        },
+        {
+          "key": "B",
+          "text": "Phục hồi loài bản địa, bảo vệ đất và nước, cùng cộng đồng khai thác ở mức tái tạo được và theo dõi kết quả."
+        },
+        {
+          "key": "C",
+          "text": "Khai thác hết gỗ ngay để tối đa hóa thu nhập ngắn hạn."
+        },
+        {
+          "key": "D",
+          "text": "Ngừng mọi theo dõi vì trồng cây một lần là đủ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Phát triển bền vững kết hợp mục tiêu môi trường, kinh tế và xã hội. Phục hồi có theo dõi, bảo vệ chức năng sinh thái và tạo sinh kế ở mức tài nguyên có thể tái tạo phù hợp hơn khai thác ngắn hạn.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Sinh thái và môi trường",
+        "Chương VI–VIII"
+      ]
+    }
+  ]
+}

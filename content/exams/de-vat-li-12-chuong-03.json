@@ -1,0 +1,699 @@
+{
+  "id": "de-vat-li-12-chuong-03",
+  "title": "Vật lí 12 – Chương III. Từ trường",
+  "slug": "de-vat-li-12-chuong-03",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Chương III. Từ trường, theo phạm vi chương trình Kết nối tri thức. Không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "vat-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "VL12-CHUONG-03",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T14:00:00.000Z",
+  "updatedAt": "2026-11-16T14:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-vat-li-12-chuong-03-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Để phát hiện từ trường tại một vị trí, có thể dùng vật nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một cục thuỷ tinh không nhiễm điện."
+        },
+        {
+          "key": "B",
+          "text": "Một nhiệt kế rượu."
+        },
+        {
+          "key": "C",
+          "text": "Một thước nhựa không nhiễm điện."
+        },
+        {
+          "key": "D",
+          "text": "Một kim nam châm thử."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Kim nam châm chịu mômen lực từ và định hướng trong từ trường, vì vậy được dùng làm nam châm thử.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Đơn vị SI của cảm ứng từ là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vêbe (Wb)."
+        },
+        {
+          "key": "B",
+          "text": "Tesla (T)."
+        },
+        {
+          "key": "C",
+          "text": "Vôn (V)."
+        },
+        {
+          "key": "D",
+          "text": "Ampe (A)."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cảm ứng từ B đo bằng tesla. Vêbe là đơn vị từ thông, vôn là đơn vị điện áp và ampe là đơn vị cường độ dòng điện.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Từ trường đều được biểu diễn bằng các đường sức như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các đường tròn đồng tâm cách đều."
+        },
+        {
+          "key": "B",
+          "text": "Các đường thẳng cắt nhau tại một điểm."
+        },
+        {
+          "key": "C",
+          "text": "Các đường thẳng song song, cùng chiều và cách đều."
+        },
+        {
+          "key": "D",
+          "text": "Các đường cong lúc dày lúc thưa."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Từ trường đều có vectơ cảm ứng từ như nhau tại mọi điểm; hình biểu diễn tương ứng là các đường sức thẳng song song cùng chiều, mật độ không đổi.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Lực từ tác dụng lên đoạn dây thẳng mang dòng điện khác không và đặt trong từ trường đều bằng không khi nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dây song song với vectơ cảm ứng từ."
+        },
+        {
+          "key": "B",
+          "text": "Dây vuông góc với vectơ cảm ứng từ."
+        },
+        {
+          "key": "C",
+          "text": "Dây hợp với vectơ cảm ứng từ góc 30°."
+        },
+        {
+          "key": "D",
+          "text": "Dây hợp với vectơ cảm ứng từ góc 60°."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Độ lớn lực từ F = BIl sin α. Khi dây song song với B thì sin α = 0, nên F = 0.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Một vòng dây dẫn kín đứng yên có dòng điện cảm ứng khi đại lượng nào biến thiên theo thời gian?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Từ thông qua diện tích giới hạn bởi vòng dây."
+        },
+        {
+          "key": "B",
+          "text": "Khối lượng riêng của dây dù từ thông không đổi."
+        },
+        {
+          "key": "C",
+          "text": "Nhiệt độ không khí dù từ thông không đổi."
+        },
+        {
+          "key": "D",
+          "text": "Điện trở của dây dù không có suất điện động."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Từ thông biến thiên tạo ra suất điện động cảm ứng; trong vòng dây kín có điện trở hữu hạn, suất điện động này gây dòng điện cảm ứng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Máy phát điện xoay chiều hoạt động dựa trên hiện tượng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nóng chảy."
+        },
+        {
+          "key": "B",
+          "text": "Phóng xạ."
+        },
+        {
+          "key": "C",
+          "text": "Cảm ứng điện từ."
+        },
+        {
+          "key": "D",
+          "text": "Bay hơi."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Máy phát điện tạo suất điện động nhờ từ thông qua cuộn dây biến thiên khi có chuyển động tương đối giữa cuộn dây và từ trường.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Đoạn dây dài 0,20 m mang dòng điện 3,0 A, đặt vuông góc trong từ trường đều B = 0,50 T. Độ lớn lực từ là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,03 N."
+        },
+        {
+          "key": "B",
+          "text": "0,30 N."
+        },
+        {
+          "key": "C",
+          "text": "3,0 N."
+        },
+        {
+          "key": "D",
+          "text": "0,75 N."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Vì dây vuông góc với B nên F = BIl = 0,50 × 3,0 × 0,20 = 0,30 N.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Dây dài 0,50 m mang dòng điện 4,0 A, hợp với vectơ cảm ứng từ góc 30°. Cho B = 0,20 T. Lực từ có độ lớn bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,40 N."
+        },
+        {
+          "key": "B",
+          "text": "0,80 N."
+        },
+        {
+          "key": "C",
+          "text": "0,10 N."
+        },
+        {
+          "key": "D",
+          "text": "0,20 N."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Áp dụng F = BIl sin 30° = 0,20 × 4,0 × 0,50 × 0,50 = 0,20 N. Góc trong công thức là góc giữa dây và B.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Đảo chiều dòng điện trong một đoạn dây nhưng giữ nguyên độ lớn dòng điện và từ trường đều. Nếu lực từ ban đầu khác không thì lực từ sau đó thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giữ nguyên chiều và độ lớn."
+        },
+        {
+          "key": "B",
+          "text": "Độ lớn tăng gấp đôi."
+        },
+        {
+          "key": "C",
+          "text": "Đảo chiều, độ lớn không đổi."
+        },
+        {
+          "key": "D",
+          "text": "Luôn bằng không."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vectơ lực từ phụ thuộc chiều dòng điện theo quy tắc bàn tay trái. Đảo chiều dòng điện làm lực đổi chiều, còn B, I, l và sin α không đổi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Vòng dây phẳng diện tích 0,020 m² nằm trong từ trường đều B = 0,30 T. Pháp tuyến đã chọn cùng chiều B. Từ thông qua vòng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,006 Wb."
+        },
+        {
+          "key": "B",
+          "text": "0,060 Wb."
+        },
+        {
+          "key": "C",
+          "text": "0 Wb."
+        },
+        {
+          "key": "D",
+          "text": "0,015 Wb."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Từ thông Φ = BS cos α, với α = 0°. Do đó Φ = 0,30 × 0,020 = 0,006 Wb.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Vòng dây có S = 0,010 m² trong từ trường đều B = 0,40 T. Vectơ pháp tuyến đã chọn hợp với B góc 60°. Từ thông là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,004 Wb."
+        },
+        {
+          "key": "B",
+          "text": "0,008 Wb."
+        },
+        {
+          "key": "C",
+          "text": "0,00346 Wb."
+        },
+        {
+          "key": "D",
+          "text": "0,002 Wb."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Φ = BS cos 60° = 0,40 × 0,010 × 0,50 = 0,002 Wb. Không dùng sin của góc với pháp tuyến.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuộn dây 100 vòng có từ thông qua mỗi vòng tăng đều từ 0,001 Wb lên 0,004 Wb trong 0,10 s. Độ lớn suất điện động cảm ứng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,03 V."
+        },
+        {
+          "key": "B",
+          "text": "3,0 V."
+        },
+        {
+          "key": "C",
+          "text": "30 V."
+        },
+        {
+          "key": "D",
+          "text": "5,0 V."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo Faraday, độ lớn e = N|ΔΦ|/Δt = 100 × (0,004 − 0,001)/0,10 = 3,0 V. ΔΦ ở đây tính cho một vòng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Một từ trường ngoài xuyên vuông góc vào mặt giấy qua vòng dây kín và đang tăng độ lớn. Từ trường cảm ứng bên trong vòng có chiều nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Vào mặt giấy."
+        },
+        {
+          "key": "B",
+          "text": "Ra khỏi mặt giấy."
+        },
+        {
+          "key": "C",
+          "text": "Nằm trong mặt giấy sang phải."
+        },
+        {
+          "key": "D",
+          "text": "Nằm trong mặt giấy sang trái."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo Lenz, từ trường cảm ứng chống lại sự tăng từ thông vào mặt giấy nên hướng ra khỏi mặt giấy. Nó chống lại biến thiên, không phải luôn cùng hoặc luôn ngược từ trường ngoài.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Điện áp xoay chiều có biểu thức $u=220\\sqrt{2}\\cos(100\\pi t)$ V, với t tính bằng giây. Điện áp hiệu dụng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "110 V."
+        },
+        {
+          "key": "B",
+          "text": "440 V."
+        },
+        {
+          "key": "C",
+          "text": "100 V."
+        },
+        {
+          "key": "D",
+          "text": "220 V."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Biên độ là $U_0=220\\sqrt{2}$ V. Với điện áp hình sin, $U=U_0/\\sqrt{2}=220$ V.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Dòng điện có biểu thức $i=2\\cos(100\\pi t)$ A, t tính bằng giây. Tần số bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50 Hz."
+        },
+        {
+          "key": "B",
+          "text": "100 Hz."
+        },
+        {
+          "key": "C",
+          "text": "200 Hz."
+        },
+        {
+          "key": "D",
+          "text": "25 Hz."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tần số góc $\\omega=100\\pi$ rad/s, nên $f=\\omega/(2\\pi)=50$ Hz. Không nhầm tần số góc với tần số.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Một máy biến áp lí tưởng có 1000 vòng sơ cấp, 200 vòng thứ cấp; điện áp hiệu dụng sơ cấp 220 V. Điện áp hiệu dụng thứ cấp là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1100 V."
+        },
+        {
+          "key": "B",
+          "text": "22 V."
+        },
+        {
+          "key": "C",
+          "text": "44 V."
+        },
+        {
+          "key": "D",
+          "text": "440 V."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Máy biến áp lí tưởng có U₂/U₁ = N₂/N₁. Suy ra U₂ = 220 × 200/1000 = 44 V; đây là máy hạ áp.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Một máy biến áp lí tưởng hạ điện áp hiệu dụng từ 240 V xuống 12 V, cấp cho tải thuần trở 6 Ω. Cường độ hiệu dụng ở cuộn sơ cấp là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,10 A."
+        },
+        {
+          "key": "B",
+          "text": "2,0 A."
+        },
+        {
+          "key": "C",
+          "text": "0,50 A."
+        },
+        {
+          "key": "D",
+          "text": "40 A."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "I₂ = U₂/R = 12/6 = 2 A. Công suất thứ cấp 24 W bằng công suất sơ cấp của máy lí tưởng, nên I₁ = 24/240 = 0,10 A.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Một vòng dây kín diện tích 0,020 m² có điện trở 2,0 Ω. B vuông góc mặt vòng và tăng đều từ 0,10 T lên 0,50 T trong 0,20 s. Bỏ qua tự cảm. Dòng điện cảm ứng có độ lớn bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,040 A."
+        },
+        {
+          "key": "B",
+          "text": "0,004 A."
+        },
+        {
+          "key": "C",
+          "text": "0,020 A."
+        },
+        {
+          "key": "D",
+          "text": "0,20 A."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Độ lớn e = SΔB/Δt = 0,020 × 0,40/0,20 = 0,040 V. Theo định luật Ohm, I = e/R = 0,040/2,0 = 0,020 A.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuộn dây phẳng 100 vòng, mỗi vòng diện tích 0,010 m², quay đều trong B = 0,20 T với trục quay nằm trong mặt cuộn và vuông góc B. Tốc độ góc 50 rad/s. Biên độ suất điện động bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 V."
+        },
+        {
+          "key": "B",
+          "text": "10 V."
+        },
+        {
+          "key": "C",
+          "text": "5 V."
+        },
+        {
+          "key": "D",
+          "text": "20 V."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Biên độ suất điện động của khung quay là E₀ = NBSω = 100 × 0,20 × 0,010 × 50 = 10 V. Đây là biên độ, không phải giá trị hiệu dụng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-03-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Sóng điện từ truyền trong chân không có tần số 100 MHz. Lấy c = 3,0 × 10⁸ m/s. Bước sóng và tính chất truyền nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bước sóng 0,30 m; cả hai trường vuông góc hướng truyền."
+        },
+        {
+          "key": "B",
+          "text": "Bước sóng 3,0 m; điện trường song song hướng truyền."
+        },
+        {
+          "key": "C",
+          "text": "Bước sóng 30 m; điện trường và từ trường song song nhau."
+        },
+        {
+          "key": "D",
+          "text": "Bước sóng 3,0 m; điện trường và từ trường vuông góc nhau và vuông góc hướng truyền."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đổi 100 MHz = 10⁸ Hz, λ = c/f = 3,0 m. Sóng điện từ trong chân không là sóng ngang: E, B và hướng truyền đôi một vuông góc.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương III. Từ trường",
+        "tu-truong"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+  "id": "de-sinh-12-di-truyen-quan-the",
+  "title": "Sinh học 12 – Di truyền mở rộng và quần thể",
+  "slug": "de-sinh-12-di-truyen-quan-the",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Chương III–IV, theo phạm vi chương trình Kết nối tri thức. Ôn theo nhóm kiến thức, không bao quát từng bài SGK; không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "sinh-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "SH12-03",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T15:00:00.000Z",
+  "updatedAt": "2026-11-16T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở tế bào thực vật, gene ngoài nhân có thể nằm trong những bào quan nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ribosome và không bào."
+        },
+        {
+          "key": "B",
+          "text": "Bộ máy Golgi và lysosome."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ trong nhân con."
+        },
+        {
+          "key": "D",
+          "text": "Ti thể và lục lạp."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ti thể và lục lạp có hệ gene riêng, ngoài hệ gene trong nhân. Ribosome không phải bào quan mang hệ gene độc lập của tế bào.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong một mô hình di truyền tế bào chất, hợp tử nhận toàn bộ lục lạp từ tế bào trứng. Kết quả lai thuận nghịch về tính trạng do gene lục lạp quy định chủ yếu phụ thuộc vào yếu tố nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiễm sắc thể Y của cây bố."
+        },
+        {
+          "key": "B",
+          "text": "Kiểu gene lục lạp mà cây mẹ truyền qua trứng."
+        },
+        {
+          "key": "C",
+          "text": "Số hạt phấn bám trên mỗi lá."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ kiểu gene trong nhân của cây bố."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Theo giả thiết, lục lạp được truyền qua tế bào trứng nên nguồn gene lục lạp ở đời con là cây mẹ. Kết luận này không khẳng định mọi loài hay mọi bào quan đều di truyền theo mẹ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Mức phản ứng của một kiểu gene là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tập hợp mọi allele trong một quần thể."
+        },
+        {
+          "key": "B",
+          "text": "Tốc độ đột biến tối đa của một gene."
+        },
+        {
+          "key": "C",
+          "text": "Tập hợp các kiểu hình mà kiểu gene đó có thể biểu hiện trong các môi trường khác nhau."
+        },
+        {
+          "key": "D",
+          "text": "Số lượng nhiễm sắc thể trong một giao tử."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mức phản ứng mô tả phạm vi biểu hiện kiểu hình của cùng một kiểu gene khi môi trường thay đổi; nó không đồng nghĩa với sự thay đổi trình tự DNA.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Các cây nhân giống vô tính từ một cây mẹ có chiều cao khác nhau khi trồng ở điều kiện dinh dưỡng khác nhau. Giả sử không có đột biến. Nguyên nhân phù hợp nhất là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Môi trường khác nhau ảnh hưởng đến biểu hiện của cùng kiểu gene."
+        },
+        {
+          "key": "B",
+          "text": "Mọi cây đều đổi sang bộ nhiễm sắc thể mới."
+        },
+        {
+          "key": "C",
+          "text": "Các cây con nhận bộ gene khác nhau từ các bố khác nhau."
+        },
+        {
+          "key": "D",
+          "text": "Dinh dưỡng trực tiếp tạo cùng một đột biến ở tất cả các cây."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Các cây vô tính được giả định có cùng kiểu gene. Chênh lệch điều kiện dinh dưỡng có thể gây khác biệt kiểu hình mà không cần có đột biến.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở một quần thể lưỡng bội, tần số allele A tại một locus được tính bằng cách nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số bản sao A chia cho tổng số bản sao của locus đó."
+        },
+        {
+          "key": "B",
+          "text": "Số cá thể AA chia cho tổng số cá thể."
+        },
+        {
+          "key": "C",
+          "text": "Số cá thể có kiểu hình trội chia cho số cá thể aa."
+        },
+        {
+          "key": "D",
+          "text": "Số allele A chia cho tổng số loài trong quần xã."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi cá thể lưỡng bội mang hai bản sao của locus trên nhiễm sắc thể thường. Cá thể AA đóng góp hai A, Aa đóng góp một A; mẫu số là 2N.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Chọn phương án nêu đủ các điều kiện lí tưởng thường dùng cho cân bằng Hardy–Weinberg tại một locus trên nhiễm sắc thể thường.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quần thể rất nhỏ, tự phối hoàn toàn và có chọn lọc mạnh."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ cần mọi cá thể có cùng tuổi."
+        },
+        {
+          "key": "C",
+          "text": "Quần thể rất lớn, ngẫu phối, không đột biến, không di nhập gene, không chọn lọc; hai giới có tần số allele như nhau."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cần không có kiểu gene dị hợp."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mô hình Hardy–Weinberg dựa trên ngẫu phối và không có các nhân tố làm thay đổi tần số allele, với sai lệch ngẫu nhiên không đáng kể trong quần thể rất lớn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể lưỡng bội có 20 AA, 60 Aa và 20 aa tại một locus trên nhiễm sắc thể thường. Tần số allele A là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,20."
+        },
+        {
+          "key": "B",
+          "text": "0,50."
+        },
+        {
+          "key": "C",
+          "text": "0,60."
+        },
+        {
+          "key": "D",
+          "text": "0,80."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Có 100 cá thể và 200 bản sao allele. Số bản sao A là 2 × 20 + 60 = 100, nên p(A) = 100/200 = 0,50.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể lưỡng bội gồm 100 AA, 200 Aa và 200 aa tại một locus trên nhiễm sắc thể thường. Tần số allele a là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,20."
+        },
+        {
+          "key": "B",
+          "text": "0,40."
+        },
+        {
+          "key": "C",
+          "text": "0,80."
+        },
+        {
+          "key": "D",
+          "text": "0,60."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tổng số cá thể là 500. Số bản sao a bằng 2 × 200 + 200 = 600 trên 1 000 bản sao allele, nên q(a) = 0,60.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể cân bằng Hardy–Weinberg có p(A) = 0,7 và q(a) = 0,3. Tần số kiểu gene Aa là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,09."
+        },
+        {
+          "key": "B",
+          "text": "0,21."
+        },
+        {
+          "key": "C",
+          "text": "0,42."
+        },
+        {
+          "key": "D",
+          "text": "0,49."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ở trạng thái cân bằng, tần số dị hợp là 2pq = 2 × 0,7 × 0,3 = 0,42. Không được bỏ hệ số 2 khi tính kiểu gene Aa.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một tính trạng lặn trên nhiễm sắc thể thường biểu hiện ở aa. Quần thể cân bằng Hardy–Weinberg có 9% cá thể biểu hiện tính trạng lặn. Tần số allele a là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,30."
+        },
+        {
+          "key": "B",
+          "text": "0,09."
+        },
+        {
+          "key": "C",
+          "text": "0,18."
+        },
+        {
+          "key": "D",
+          "text": "0,91."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Ở cân bằng, tần số aa bằng q² = 0,09. Lấy căn bậc hai không âm được q = 0,3; tần số kiểu hình lặn không bằng trực tiếp tần số allele lặn.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể ban đầu có toàn bộ cá thể Aa, tự thụ phấn liên tiếp 2 thế hệ. Không đột biến, chọn lọc, di nhập; các dòng đóng góp đời con như nhau. Tỉ lệ Aa ở thế hệ thứ hai là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0%."
+        },
+        {
+          "key": "B",
+          "text": "50%."
+        },
+        {
+          "key": "C",
+          "text": "75%."
+        },
+        {
+          "key": "D",
+          "text": "25%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Mỗi thế hệ tự thụ phấn làm tỉ lệ dị hợp giảm còn một nửa. Sau hai thế hệ, Aa = 1 × (1/2)² = 1/4 = 25%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong quần thể tự thụ phấn lí tưởng, không có đột biến, chọn lọc hay di nhập và các dòng có sức sinh sản như nhau, tần số allele qua các thế hệ có xu hướng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Luôn giảm một nửa sau mỗi thế hệ."
+        },
+        {
+          "key": "B",
+          "text": "Giữ nguyên dù tỉ lệ dị hợp giảm."
+        },
+        {
+          "key": "C",
+          "text": "Allele trội luôn tăng đến 100%."
+        },
+        {
+          "key": "D",
+          "text": "Allele lặn luôn biến mất sau một thế hệ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tự thụ phấn làm thay đổi thành phần kiểu gene theo hướng giảm dị hợp và tăng đồng hợp. Nếu không có nhân tố khác, quá trình này tự nó không làm thay đổi tần số allele.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Muốn so sánh mức phản ứng của hai giống cây, cách bố trí nào phù hợp nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ trồng một cây của mỗi giống ở hai nơi bất kì rồi kết luận."
+        },
+        {
+          "key": "B",
+          "text": "Trồng mỗi giống trong nhiều môi trường xác định, có lặp lại và kiểm soát các yếu tố khác."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ đo chiều cao hạt giống trước khi gieo."
+        },
+        {
+          "key": "D",
+          "text": "Trộn hạt hai giống và không ghi lại nguồn gốc."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mức phản ứng liên quan đến biểu hiện của một kiểu gene qua các môi trường. Thiết kế có nhiều môi trường, lặp lại và đối chứng giúp tách ảnh hưởng giống khỏi ảnh hưởng môi trường.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Lai hai dòng thuần tạo F1 có ưu thế lai rõ. Vì sao không nên mặc định hạt F2 sẽ giữ nguyên mức ưu thế của F1?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mọi hạt F2 đều không có DNA."
+        },
+        {
+          "key": "B",
+          "text": "Tất cả allele trội chắc chắn biến thành allele lặn ở F2."
+        },
+        {
+          "key": "C",
+          "text": "F2 luôn bị mất toàn bộ nhiễm sắc thể."
+        },
+        {
+          "key": "D",
+          "text": "F2 có phân li và tái tổ hợp, làm thay đổi các tổ hợp gene của F1."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "F1 thường đồng đều về kiểu gene ở các locus khác nhau giữa hai dòng bố mẹ. F2 phân li và tái tổ hợp nên không bảo đảm duy trì đồng đều các tổ hợp tạo ưu thế lai của F1.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một cây lá khảm có cả lục lạp bình thường và lục lạp đột biến. Giả sử lục lạp chỉ truyền qua trứng và phân bố không đều vào các trứng. Điều nào có thể xảy ra ở đời con?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các cây con có thể khác nhau về màu lá do nhận tỉ lệ hai loại lục lạp khác nhau."
+        },
+        {
+          "key": "B",
+          "text": "Tất cả cây con bắt buộc giống hệt màu lá của mẹ."
+        },
+        {
+          "key": "C",
+          "text": "Tất cả cây con chỉ nhận lục lạp từ hạt phấn."
+        },
+        {
+          "key": "D",
+          "text": "Mọi trứng đều buộc có đúng một lục lạp của mỗi loại."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Các trứng có thể nhận thành phần lục lạp khác nhau. Vì vậy di truyền qua mẹ không đồng nghĩa mọi cây con đều có kiểu hình y hệt cây mẹ lá khảm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một giống cây có thể đạt năng suất cao trong điều kiện canh tác thích hợp. Kết luận nào đúng khi đưa giống đó đến vùng có đất và khí hậu khác?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Năng suất chắc chắn không đổi ở mọi vùng."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ tên giống quyết định toàn bộ năng suất."
+        },
+        {
+          "key": "C",
+          "text": "Cần khảo nghiệm vì năng suất phụ thuộc cả kiểu gene và môi trường."
+        },
+        {
+          "key": "D",
+          "text": "Mọi khác biệt năng suất đều chứng minh gene đã đột biến."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kiểu hình năng suất chịu ảnh hưởng của kiểu gene, môi trường và tương tác giữa chúng. Khảo nghiệm tại địa phương giúp đánh giá khả năng thích nghi và quy trình canh tác phù hợp.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Quần thể ban đầu có 0,2 AA : 0,6 Aa : 0,2 aa. Tự thụ phấn 2 thế hệ, không chọn lọc, đột biến hay di nhập; các dòng đóng góp như nhau. Tần số AA cuối cùng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,425."
+        },
+        {
+          "key": "B",
+          "text": "0,200."
+        },
+        {
+          "key": "C",
+          "text": "0,350."
+        },
+        {
+          "key": "D",
+          "text": "0,600."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Aa sau hai thế hệ còn 0,6/4 = 0,15. Phần dị hợp giảm 0,45 được chia đều cho hai nhóm đồng hợp, nên AA = 0,2 + 0,45/2 = 0,425.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể cân bằng Hardy–Weinberg có 16% aa; A trội hoàn toàn so với a. Chọn ngẫu nhiên một cá thể có kiểu hình trội. Xác suất cá thể đó là Aa bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12/25."
+        },
+        {
+          "key": "B",
+          "text": "9/25."
+        },
+        {
+          "key": "C",
+          "text": "4/7."
+        },
+        {
+          "key": "D",
+          "text": "3/4."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "q² = 0,16 nên q = 0,4 và p = 0,6. Aa = 0,48, kiểu hình trội = 1 − 0,16 = 0,84. Xác suất có điều kiện là 0,48/0,84 = 4/7.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Trộn 400 cá thể lưỡng bội của quần thể có p(A) = 0,8 với 600 cá thể cùng loài có p(A) = 0,4. Xét một locus thường, không mất cá thể hay allele. Tần số A ngay sau khi trộn là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,60."
+        },
+        {
+          "key": "B",
+          "text": "0,56."
+        },
+        {
+          "key": "C",
+          "text": "0,64."
+        },
+        {
+          "key": "D",
+          "text": "0,48."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mỗi cá thể góp hai bản sao của locus nên có thể lấy trung bình có trọng số theo số cá thể: p = (400 × 0,8 + 600 × 0,4)/1 000 = 0,56. Không lấy trung bình cộng khi kích thước hai nhóm khác nhau.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-quan-the-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Quần thể thực vật rất lớn gồm 0,5 AA : 0,5 aa. Các cá thể ngẫu phối, đóng góp giao tử như nhau, không có đột biến, di nhập hay chọn lọc. Tỉ lệ Aa ở thế hệ con là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0%."
+        },
+        {
+          "key": "B",
+          "text": "25%."
+        },
+        {
+          "key": "C",
+          "text": "100%."
+        },
+        {
+          "key": "D",
+          "text": "50%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tần số A = a = 0,5 trong nguồn giao tử. Thụ tinh ngẫu nhiên tạo Aa với xác suất 2 × 0,5 × 0,5 = 0,5. Quần thể bố mẹ không cần có sẵn Aa để tạo con dị hợp.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền mở rộng và quần thể",
+        "Chương III–IV"
+      ]
+    }
+  ]
+}

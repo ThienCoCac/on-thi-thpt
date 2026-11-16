@@ -1,0 +1,699 @@
+{
+  "id": "de-vat-li-12-chuong-01",
+  "title": "Vật lí 12 – Chương I. Vật lí nhiệt",
+  "slug": "de-vat-li-12-chuong-01",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Chương I. Vật lí nhiệt, theo phạm vi chương trình Kết nối tri thức. Không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "vat-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "VL12-CHUONG-01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T14:00:00.000Z",
+  "updatedAt": "2026-11-16T14:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-vat-li-12-chuong-01-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong chất rắn kết tinh, các phân tử chủ yếu chuyển động như thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đứng yên hoàn toàn ở mọi nhiệt độ."
+        },
+        {
+          "key": "B",
+          "text": "Dao động quanh các vị trí cân bằng xác định."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển động tự do khắp bình như phân tử khí."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ chuyển động khi chất bắt đầu nóng chảy."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ở thể rắn kết tinh, lực liên kết giữ các phân tử quanh vị trí cân bằng xác định; chúng vẫn dao động nhiệt chứ không đứng yên.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Một giọt nước trên mặt kính nhỏ dần ở nhiệt độ phòng. Quá trình nào trực tiếp làm lượng nước lỏng giảm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đông đặc."
+        },
+        {
+          "key": "B",
+          "text": "Nóng chảy."
+        },
+        {
+          "key": "C",
+          "text": "Ngưng tụ."
+        },
+        {
+          "key": "D",
+          "text": "Bay hơi."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bay hơi là sự hoá hơi ở bề mặt chất lỏng và có thể xảy ra khi nhiệt độ thấp hơn nhiệt độ sôi. Ngưng tụ là quá trình ngược lại.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo mô hình phân tử, nội năng của một vật là đại lượng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng động năng và thế năng tương tác của các phân tử cấu tạo nên vật."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ là động năng chuyển động của toàn bộ vật."
+        },
+        {
+          "key": "C",
+          "text": "Nhiệt lượng vật đang chứa sẵn."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ là thế năng của vật trong trọng trường."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nội năng gồm năng lượng chuyển động nhiệt và năng lượng tương tác phân tử. Nhiệt lượng mô tả năng lượng trao đổi khi truyền nhiệt, không phải một lượng được chứa sẵn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai vật có nhiệt độ khác nhau tiếp xúc và chỉ trao đổi nhiệt với nhau. Nhiệt tự truyền theo chiều nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Từ vật có khối lượng lớn sang vật có khối lượng nhỏ."
+        },
+        {
+          "key": "B",
+          "text": "Từ vật có nội năng nhỏ sang vật có nội năng lớn."
+        },
+        {
+          "key": "C",
+          "text": "Từ vật có nhiệt độ cao sang vật có nhiệt độ thấp."
+        },
+        {
+          "key": "D",
+          "text": "Từ vật có nhiệt dung riêng lớn sang vật có nhiệt dung riêng nhỏ."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Chiều truyền nhiệt tự phát do chênh lệch nhiệt độ quyết định, không do khối lượng, nhiệt dung riêng hay tổng nội năng riêng lẻ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Đơn vị SI của nhiệt dung riêng là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "J/kg."
+        },
+        {
+          "key": "B",
+          "text": "J·kg/K."
+        },
+        {
+          "key": "C",
+          "text": "J/(kg·K)."
+        },
+        {
+          "key": "D",
+          "text": "W/K."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Từ Q = mcΔT suy ra c = Q/(mΔT), nên đơn vị là J/(kg·K). J/kg là đơn vị của nhiệt nóng chảy riêng hoặc nhiệt hoá hơi riêng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Nhiệt nóng chảy riêng của một chất cho biết nhiệt lượng cần để làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm nóng chảy hoàn toàn 1 kg chất đó ở nhiệt độ nóng chảy."
+        },
+        {
+          "key": "B",
+          "text": "Tăng nhiệt độ 1 kg chất đó thêm 1 K."
+        },
+        {
+          "key": "C",
+          "text": "Làm hoá hơi hoàn toàn 1 kg chất đó ở nhiệt độ sôi."
+        },
+        {
+          "key": "D",
+          "text": "Tăng nhiệt độ một vật bất kì thêm 1 °C."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nhiệt nóng chảy riêng đặc trưng cho chuyển thể rắn sang lỏng tại nhiệt độ nóng chảy; không phải nhiệt dung riêng hay nhiệt hoá hơi riêng.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Lấy T(K) = t(°C) + 273. Nhiệt độ 27 °C tương ứng với bao nhiêu kelvin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "246 K."
+        },
+        {
+          "key": "B",
+          "text": "27 K."
+        },
+        {
+          "key": "C",
+          "text": "327 K."
+        },
+        {
+          "key": "D",
+          "text": "300 K."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thay t = 27 vào công thức gần đúng: T = 27 + 273 = 300 K. Không dùng trực tiếp số đo Celsius trong các tỉ số nhiệt độ tuyệt đối.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước được làm nóng từ 20 °C đến 55 °C. Độ tăng nhiệt độ theo thang Kelvin bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "308 K."
+        },
+        {
+          "key": "B",
+          "text": "35 K."
+        },
+        {
+          "key": "C",
+          "text": "75 K."
+        },
+        {
+          "key": "D",
+          "text": "273 K."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Một độ chênh lệch Celsius bằng một kelvin nên ΔT = 55 − 20 = 35 K. Chỉ cộng 273 khi đổi một nhiệt độ, không cộng khi đổi độ chênh lệch.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Một khối khí nhận nhiệt lượng 500 J và sinh công 200 J. Độ biến thiên nội năng của khí là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng 300 J."
+        },
+        {
+          "key": "B",
+          "text": "Tăng 700 J."
+        },
+        {
+          "key": "C",
+          "text": "Giảm 300 J."
+        },
+        {
+          "key": "D",
+          "text": "Giảm 700 J."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Dùng ΔU = Q + A với A là công khí nhận: Q = 500 J, A = −200 J. Do đó ΔU = 300 J, nội năng tăng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Nén một khối khí bằng công 180 J, đồng thời khí toả 60 J nhiệt lượng ra ngoài. Nội năng biến thiên thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng 240 J."
+        },
+        {
+          "key": "B",
+          "text": "Giảm 120 J."
+        },
+        {
+          "key": "C",
+          "text": "Tăng 120 J."
+        },
+        {
+          "key": "D",
+          "text": "Giảm 240 J."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Khí nhận công nên A = 180 J; khí toả nhiệt nên Q = −60 J. Định luật I cho ΔU = A + Q = 120 J.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Đun 0,50 kg nước từ 20 °C lên 60 °C, bỏ qua thất thoát. Cho c = 4200 J/(kg·K). Nhiệt lượng nước nhận là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "42 kJ."
+        },
+        {
+          "key": "B",
+          "text": "84 kJ."
+        },
+        {
+          "key": "C",
+          "text": "126 kJ."
+        },
+        {
+          "key": "D",
+          "text": "840 kJ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Không có chuyển thể nên Q = mcΔT = 0,50 × 4200 × (60 − 20) = 84000 J = 84 kJ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Một vật có khối lượng 0,20 kg nhận 1800 J, nhiệt độ tăng 10 K mà không chuyển thể. Nhiệt dung riêng của vật là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "90 J/(kg·K)."
+        },
+        {
+          "key": "B",
+          "text": "360 J/(kg·K)."
+        },
+        {
+          "key": "C",
+          "text": "9000 J/(kg·K)."
+        },
+        {
+          "key": "D",
+          "text": "900 J/(kg·K)."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Từ Q = mcΔT suy ra c = 1800/(0,20 × 10) = 900 J/(kg·K).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Làm nóng chảy hoàn toàn 0,15 kg nước đá ở 0 °C. Cho nhiệt nóng chảy riêng 334 kJ/kg. Nhiệt lượng cần cung cấp là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "22,3 kJ."
+        },
+        {
+          "key": "B",
+          "text": "334 kJ."
+        },
+        {
+          "key": "C",
+          "text": "501 kJ."
+        },
+        {
+          "key": "D",
+          "text": "50,1 kJ."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Nước đá đã ở nhiệt độ nóng chảy nên chỉ cần Q = mλ = 0,15 × 334 = 50,1 kJ.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Hoá hơi hoàn toàn 0,020 kg nước đang sôi, áp suất không đổi. Cho L = 2,3 MJ/kg. Nhiệt lượng cần cung cấp là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4,6 kJ."
+        },
+        {
+          "key": "B",
+          "text": "46 kJ."
+        },
+        {
+          "key": "C",
+          "text": "115 kJ."
+        },
+        {
+          "key": "D",
+          "text": "460 kJ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Áp dụng Q = mL = 0,020 × 2,3 × 10⁶ = 46000 J = 46 kJ. Không có phần tăng nhiệt độ vì nước đã sôi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Cấp nhiệt đều cho một chất rắn kết tinh tinh khiết đang nóng chảy ở áp suất không đổi. Khi hai pha rắn và lỏng cùng tồn tại, nhiệt độ của chất thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng đều theo thời gian."
+        },
+        {
+          "key": "B",
+          "text": "Giảm đều theo thời gian."
+        },
+        {
+          "key": "C",
+          "text": "Giữ không đổi."
+        },
+        {
+          "key": "D",
+          "text": "Lúc tăng lúc giảm theo công suất nguồn."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Trong quá trình nóng chảy của chất kết tinh tinh khiết ở áp suất không đổi, năng lượng nhận dùng cho chuyển thể; nhiệt độ giữ ở nhiệt độ nóng chảy.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Dùng điện trở công suất không đổi P đun một lượng nước m, không chuyển thể. Bỏ qua mọi thất thoát và nhiệt dung dụng cụ. Công thức xác định c từ thời gian τ và độ tăng nhiệt độ ΔT là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "c = Pτ/(mΔT)."
+        },
+        {
+          "key": "B",
+          "text": "c = PmΔT/τ."
+        },
+        {
+          "key": "C",
+          "text": "c = mΔT/(Pτ)."
+        },
+        {
+          "key": "D",
+          "text": "c = PΔT/(mτ)."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Năng lượng điện chuyển hết thành nhiệt lượng của nước: Pτ = mcΔT. Giải phương trình theo c được c = Pτ/(mΔT).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Trộn 0,20 kg nước ở 80 °C với 0,30 kg nước ở 20 °C trong bình cách nhiệt có nhiệt dung không đáng kể. Nhiệt dung riêng không đổi. Nhiệt độ cân bằng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50 °C."
+        },
+        {
+          "key": "B",
+          "text": "56 °C."
+        },
+        {
+          "key": "C",
+          "text": "44 °C."
+        },
+        {
+          "key": "D",
+          "text": "36 °C."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Bảo toàn năng lượng: 0,20c(80 − t) = 0,30c(t − 20). Suy ra 16 − 0,20t = 0,30t − 6, nên t = 44 °C.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Ấm điện công suất 1000 W có hiệu suất truyền nhiệt cho nước 80%. Đun 1,0 kg nước từ 20 °C đến 100 °C, bỏ qua bay hơi, c = 4200 J/(kg·K). Thời gian là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "420 s."
+        },
+        {
+          "key": "B",
+          "text": "336 s."
+        },
+        {
+          "key": "C",
+          "text": "525 s."
+        },
+        {
+          "key": "D",
+          "text": "268,8 s."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Nước cần Q = 1 × 4200 × 80 = 336000 J. Công suất hữu ích là 0,80 × 1000 = 800 W, nên thời gian Q/800 = 420 s.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Cần bao nhiêu nhiệt để biến 0,10 kg nước đá ở −10 °C thành nước ở 20 °C? Cho c đá = 2100 J/(kg·K), c nước = 4200 J/(kg·K), λ = 334 kJ/kg; bỏ qua thất thoát.",
+      "options": [
+        {
+          "key": "A",
+          "text": "33,4 kJ."
+        },
+        {
+          "key": "B",
+          "text": "41,8 kJ."
+        },
+        {
+          "key": "C",
+          "text": "45,9 kJ."
+        },
+        {
+          "key": "D",
+          "text": "43,9 kJ."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Có ba giai đoạn: làm ấm đá 2,1 kJ, nóng chảy 33,4 kJ và làm ấm nước 8,4 kJ. Tổng Q = 2,1 + 33,4 + 8,4 = 43,9 kJ.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-01-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu nước đá 0,20 kg ở 0 °C nhận 50,1 kJ, áp suất giữ không đổi. Cho λ = 334 kJ/kg. Sau trao đổi nhiệt và cân bằng, mẫu còn bao nhiêu nước đá?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,150 kg."
+        },
+        {
+          "key": "B",
+          "text": "0,050 kg."
+        },
+        {
+          "key": "C",
+          "text": "0 kg."
+        },
+        {
+          "key": "D",
+          "text": "0,100 kg."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Làm tan toàn bộ cần 66,8 kJ, lớn hơn nhiệt lượng cấp. Khối lượng tan là 50,1/334 = 0,150 kg; đá còn 0,20 − 0,15 = 0,050 kg, hỗn hợp vẫn ở 0 °C.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương I. Vật lí nhiệt",
+        "nhiet"
+      ]
+    }
+  ]
+}

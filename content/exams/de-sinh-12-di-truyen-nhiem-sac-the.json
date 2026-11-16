@@ -1,0 +1,699 @@
+{
+  "id": "de-sinh-12-di-truyen-nhiem-sac-the",
+  "title": "Sinh học 12 – Di truyền nhiễm sắc thể",
+  "slug": "de-sinh-12-di-truyen-nhiem-sac-the",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Chương II, theo phạm vi chương trình Kết nối tri thức. Ôn theo nhóm kiến thức, không bao quát từng bài SGK; không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "sinh-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "SH12-02",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T15:00:00.000Z",
+  "updatedAt": "2026-11-16T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở sinh vật nhân thực, nhiễm sắc thể trong nhân chủ yếu được cấu tạo từ những thành phần nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ lipid."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ RNA và đường glucose."
+        },
+        {
+          "key": "C",
+          "text": "DNA và protein."
+        },
+        {
+          "key": "D",
+          "text": "Cellulose và tinh bột."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "DNA kết hợp với protein, trong đó có histone, tạo nên chất nhiễm sắc. Sự đóng gói này giúp tổ chức và phân li vật chất di truyền trong tế bào.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một cá thể lưỡng bội có kiểu gene Aa. Giảm phân bình thường, không đột biến. Xét riêng gene này, các loại giao tử và tỉ lệ lí thuyết là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A và a, mỗi loại 1/2."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ Aa, tỉ lệ 100%."
+        },
+        {
+          "key": "C",
+          "text": "AA và aa, mỗi loại 1/2."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ A, tỉ lệ 100%."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai allele phân li vào các giao tử trong giảm phân. Mỗi giao tử bình thường chỉ mang một allele của gene nên A và a có tỉ lệ bằng nhau.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Phép lai phân tích một cá thể mang kiểu hình trội là phép lai cá thể đó với cá thể nào, xét một gene có hai allele và trội hoàn toàn?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cá thể đồng hợp trội."
+        },
+        {
+          "key": "B",
+          "text": "Cá thể đồng hợp lặn."
+        },
+        {
+          "key": "C",
+          "text": "Cá thể có cùng kiểu hình trội bất kì."
+        },
+        {
+          "key": "D",
+          "text": "Cá thể dị hợp bắt buộc."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cá thể đồng hợp lặn chỉ tạo một loại giao tử mang allele lặn. Kiểu hình đời con vì thế giúp suy ra loại giao tử và kiểu gene của cá thể cần kiểm tra.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai gene nằm gần nhau trên cùng một nhiễm sắc thể thường có xu hướng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Luôn phân li độc lập hoàn toàn."
+        },
+        {
+          "key": "B",
+          "text": "Luôn biến đổi thành một gene duy nhất."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ được truyền qua tế bào chất."
+        },
+        {
+          "key": "D",
+          "text": "Được di truyền cùng nhau."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Các gene cùng nằm trên một nhiễm sắc thể thuộc nhóm liên kết. Trao đổi chéo có thể phá vỡ liên kết, nhưng gene càng gần nhau thường có tần số tái tổ hợp càng thấp.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong mô hình trội không hoàn toàn, AA cho hoa đỏ, Aa cho hoa hồng, aa cho hoa trắng. Kiểu gene của cây hoa hồng là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "AA."
+        },
+        {
+          "key": "B",
+          "text": "aa."
+        },
+        {
+          "key": "C",
+          "text": "A hoặc a trong tế bào lưỡng bội."
+        },
+        {
+          "key": "D",
+          "text": "Aa."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thể dị hợp Aa có kiểu hình trung gian giữa hai thể đồng hợp. Đây là trội không hoàn toàn, không phải sự pha trộn làm mất vĩnh viễn các allele.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một loài có bộ nhiễm sắc thể lưỡng bội 2n. Cá thể thể ba ở một cặp có bộ nhiễm sắc thể được kí hiệu thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3n."
+        },
+        {
+          "key": "B",
+          "text": "2n + 1."
+        },
+        {
+          "key": "C",
+          "text": "2n − 1."
+        },
+        {
+          "key": "D",
+          "text": "n + 1."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Thể ba là dạng lệch bội có thêm một nhiễm sắc thể ở một cặp, nên tổng là 2n + 1. Tam bội 3n là tăng cả bộ nhiễm sắc thể, không phải thể ba.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho Aa × Aa, A trội hoàn toàn so với a, các kiểu gene có sức sống như nhau. Tỉ lệ kiểu hình lặn ở đời con theo lí thuyết là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25%."
+        },
+        {
+          "key": "B",
+          "text": "50%."
+        },
+        {
+          "key": "C",
+          "text": "75%."
+        },
+        {
+          "key": "D",
+          "text": "100%."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi bố mẹ cho giao tử a với xác suất 1/2. Kiểu hình lặn là aa nên xác suất bằng 1/2 × 1/2 = 1/4 = 25%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho AaBb × aabb, hai gene phân li độc lập và giảm phân bình thường. Tỉ lệ đời con có kiểu gene AaBb là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12,5%."
+        },
+        {
+          "key": "B",
+          "text": "50%."
+        },
+        {
+          "key": "C",
+          "text": "25%."
+        },
+        {
+          "key": "D",
+          "text": "75%."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cá thể AaBb tạo giao tử AB với xác suất 1/4; aabb chỉ tạo ab. Hợp tử AaBb vì thế chiếm 1/4 = 25%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Cá thể AaBbCc có ba gene nằm trên ba cặp nhiễm sắc thể khác nhau. Giảm phân bình thường, xét cả quần thể giao tử. Có tối đa bao nhiêu loại giao tử về ba gene này?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3."
+        },
+        {
+          "key": "B",
+          "text": "8."
+        },
+        {
+          "key": "C",
+          "text": "6."
+        },
+        {
+          "key": "D",
+          "text": "27."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Mỗi cặp allele dị hợp cho hai khả năng, các gene phân li độc lập. Số loại giao tử tối đa là 2 × 2 × 2 = 8.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo mô hình nhóm máu ABO thông thường, mẹ có kiểu gene Iᴬi, bố có kiểu gene Iᴮi. Xác suất con có nhóm máu O là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0%."
+        },
+        {
+          "key": "B",
+          "text": "50%."
+        },
+        {
+          "key": "C",
+          "text": "75%."
+        },
+        {
+          "key": "D",
+          "text": "25%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Con nhóm máu O có kiểu gene ii. Mỗi bố mẹ truyền allele i với xác suất 1/2, nên xác suất ii bằng 1/4; không xét các ngoại lệ sinh học của hệ ABO.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai cây hoa hồng Aa lai với nhau trong mô hình AA đỏ, Aa hồng, aa trắng. Các kiểu gene có sức sống như nhau. Tỉ lệ hoa hồng ở đời con là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25%."
+        },
+        {
+          "key": "B",
+          "text": "75%."
+        },
+        {
+          "key": "C",
+          "text": "50%."
+        },
+        {
+          "key": "D",
+          "text": "100%."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Aa × Aa cho tỉ lệ kiểu gene 1 AA : 2 Aa : 1 aa. Chỉ Aa cho hoa hồng nên tỉ lệ hoa hồng là 2/4 = 50%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một tính trạng lặn do allele a ở vùng không tương đồng trên X quy định. Mẹ XᴬXᵃ, bố XᴬY. Xét riêng các con trai, xác suất biểu hiện tính trạng lặn là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50%."
+        },
+        {
+          "key": "B",
+          "text": "25%."
+        },
+        {
+          "key": "C",
+          "text": "0%."
+        },
+        {
+          "key": "D",
+          "text": "100%."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Con trai nhận Y từ bố và một X từ mẹ. Một nửa số X của mẹ mang a, nên trong các con trai có 1/2 XᵃY. Nếu hỏi trên toàn bộ con với tỉ lệ giới tính 1:1 thì mới là 1/4.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một loài có 2n = 14. Cá thể thể ba ở một cặp nhiễm sắc thể có tổng cộng bao nhiêu nhiễm sắc thể trong tế bào soma?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15."
+        },
+        {
+          "key": "B",
+          "text": "7."
+        },
+        {
+          "key": "C",
+          "text": "21."
+        },
+        {
+          "key": "D",
+          "text": "28."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Thể ba có 2n + 1 nhiễm sắc thể. Thay 2n = 14 được 15; 21 là số nhiễm sắc thể của thể tam bội ở loài này.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở một loài có 2n = 12, thể tự tứ bội có bao nhiêu nhiễm sắc thể trong tế bào soma?",
+      "options": [
+        {
+          "key": "A",
+          "text": "13."
+        },
+        {
+          "key": "B",
+          "text": "18."
+        },
+        {
+          "key": "C",
+          "text": "24."
+        },
+        {
+          "key": "D",
+          "text": "48."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thể tự tứ bội có 4n. Vì n = 6 nên 4n = 24 nhiễm sắc thể, gấp đôi số lượng của thể lưỡng bội.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong quá trình giảm phân, cơ sở tế bào học thường gây hoán vị gene là sự trao đổi đoạn giữa các cấu trúc nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai phân tử mRNA ở hai ribosome."
+        },
+        {
+          "key": "B",
+          "text": "Hai nhiễm sắc thể bất kì không cần tương đồng."
+        },
+        {
+          "key": "C",
+          "text": "Hai màng nhân của hai tế bào con."
+        },
+        {
+          "key": "D",
+          "text": "Hai chromatid không chị em của cặp nhiễm sắc thể tương đồng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trao đổi chéo giữa chromatid không chị em trong cặp nhiễm sắc thể tương đồng có thể tạo các tổ hợp allele mới, là cơ sở của hoán vị gene.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bệnh giả định do allele lặn a trên nhiễm sắc thể thường gây ra, biểu hiện hoàn toàn ở aa. Hai bố mẹ không biểu hiện bệnh có một con aa; không có đột biến mới. Kiểu gene của hai bố mẹ là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "AA và AA."
+        },
+        {
+          "key": "B",
+          "text": "Aa và Aa."
+        },
+        {
+          "key": "C",
+          "text": "AA và Aa."
+        },
+        {
+          "key": "D",
+          "text": "aa và AA."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Con aa phải nhận a từ cả bố và mẹ. Bố mẹ không biểu hiện bệnh nên không thể aa; mỗi người phải dị hợp Aa trong mô hình đã nêu.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho AaBb × AaBb, hai gene phân li độc lập, A và B đều trội hoàn toàn. Các kiểu gene có sức sống như nhau. Xác suất đời con biểu hiện đúng một trong hai tính trạng trội là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "18,75%."
+        },
+        {
+          "key": "B",
+          "text": "56,25%."
+        },
+        {
+          "key": "C",
+          "text": "75%."
+        },
+        {
+          "key": "D",
+          "text": "37,5%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đúng một tính trạng trội gồm A–bb hoặc aaB–. Xác suất là 3/4 × 1/4 + 1/4 × 3/4 = 6/16 = 37,5%; không gồm A–B–.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Cá thể có kiểu gene AB/ab, tần số hoán vị giữa A và B là 20%. Các loại giao tử đối ứng có tỉ lệ bằng nhau, không có đột biến hay chọn lọc giao tử. Tỉ lệ giao tử Ab là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20%."
+        },
+        {
+          "key": "B",
+          "text": "10%."
+        },
+        {
+          "key": "C",
+          "text": "40%."
+        },
+        {
+          "key": "D",
+          "text": "50%."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Ở kiểu liên kết AB/ab, giao tử tái tổ hợp là Ab và aB. Tổng tỉ lệ hai loại là 20%, mỗi loại chiếm 10%; AB và ab mỗi loại chiếm 40%.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Cá thể Ab/aB có tần số hoán vị gene 20% lai phân tích với ab/ab. Các loại giao tử đối ứng có tỉ lệ bằng nhau, thụ tinh ngẫu nhiên và sức sống ngang nhau. Xác suất đời con aabb là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%."
+        },
+        {
+          "key": "B",
+          "text": "20%."
+        },
+        {
+          "key": "C",
+          "text": "40%."
+        },
+        {
+          "key": "D",
+          "text": "80%."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Với kiểu liên kết đối Ab/aB, ab là giao tử tái tổ hợp nên chiếm 20%/2 = 10%. Cá thể ab/ab luôn cho ab, do đó aabb chiếm 10%.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-nhiem-sac-the-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho AaBb × AaBb, hai gene phân li độc lập. Chỉ kiểu gene có cả A và B (A–B–) cho hoa tím, các kiểu còn lại cho hoa trắng; sức sống ngang nhau. Tỉ lệ hoa trắng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25%."
+        },
+        {
+          "key": "B",
+          "text": "56,25%."
+        },
+        {
+          "key": "C",
+          "text": "43,75%."
+        },
+        {
+          "key": "D",
+          "text": "75%."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hoa tím chiếm 3/4 × 3/4 = 9/16. Hoa trắng là phần còn lại, 1 − 9/16 = 7/16 = 43,75%, thể hiện tương tác bổ sung trong mô hình đã cho.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền nhiễm sắc thể",
+        "Chương II"
+      ]
+    }
+  ]
+}

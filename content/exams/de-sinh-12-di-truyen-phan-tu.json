@@ -1,0 +1,699 @@
+{
+  "id": "de-sinh-12-di-truyen-phan-tu",
+  "title": "Sinh học 12 – Di truyền phân tử",
+  "slug": "de-sinh-12-di-truyen-phan-tu",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Chương I, theo phạm vi chương trình Kết nối tri thức. Ôn theo nhóm kiến thức, không bao quát từng bài SGK; không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "sinh-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "SH12-01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T15:00:00.000Z",
+  "updatedAt": "2026-11-16T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Thông tin di truyền trên một phân tử DNA được lưu giữ trực tiếp ở đặc điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số lượng ribosome bám trên DNA."
+        },
+        {
+          "key": "B",
+          "text": "Trình tự các nucleotide."
+        },
+        {
+          "key": "C",
+          "text": "Thứ tự các amino acid trên DNA."
+        },
+        {
+          "key": "D",
+          "text": "Chiều dài của màng nhân."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "DNA là một polymer nucleotide. Trình tự nucleotide mang thông tin di truyền; amino acid là đơn phân của protein, không phải của DNA.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong DNA mạch kép theo mô hình Watson–Crick, cặp base nào liên kết bổ sung với nhau?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A với G; T với C."
+        },
+        {
+          "key": "B",
+          "text": "A với C; G với T."
+        },
+        {
+          "key": "C",
+          "text": "A với U; G với C."
+        },
+        {
+          "key": "D",
+          "text": "A với T; G với C."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trong DNA, adenine bổ sung với thymine, guanine bổ sung với cytosine. Uracil là base thường gặp trong RNA, không thay thế thymine trong mô hình DNA này.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Nguyên tắc bán bảo toàn của tái bản DNA được thể hiện như thế nào sau một lần tái bản?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mỗi DNA con có một mạch cũ và một mạch mới."
+        },
+        {
+          "key": "B",
+          "text": "Một DNA con gồm hai mạch cũ, DNA còn lại gồm hai mạch mới."
+        },
+        {
+          "key": "C",
+          "text": "Mỗi mạch DNA con đều là hỗn hợp nhiều đoạn cũ và mới xen kẽ."
+        },
+        {
+          "key": "D",
+          "text": "Cả hai DNA con đều chỉ chứa các mạch cũ."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hai mạch DNA mẹ tách ra và mỗi mạch làm khuôn tổng hợp một mạch mới. Vì vậy mỗi phân tử con giữ lại một mạch của phân tử ban đầu.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Enzyme DNA polymerase kéo dài mạch DNA mới theo chiều nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3′ → 5′."
+        },
+        {
+          "key": "B",
+          "text": "Từ giữa mạch ra hai đầu cùng lúc."
+        },
+        {
+          "key": "C",
+          "text": "5′ → 3′."
+        },
+        {
+          "key": "D",
+          "text": "Không có chiều tổng hợp xác định."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "DNA polymerase gắn nucleotide mới vào đầu 3′-OH của mạch đang tổng hợp, nên mạch mới kéo dài theo chiều 5′ → 3′.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Sản phẩm trực tiếp của quá trình phiên mã là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "DNA mạch kép."
+        },
+        {
+          "key": "B",
+          "text": "Chuỗi polypeptide."
+        },
+        {
+          "key": "C",
+          "text": "RNA."
+        },
+        {
+          "key": "D",
+          "text": "Nhiễm sắc thể kép."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phiên mã tổng hợp RNA dựa trên mạch khuôn DNA. Chuỗi polypeptide được hình thành ở quá trình dịch mã, không phải là sản phẩm trực tiếp của phiên mã.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Vai trò của tRNA trong dịch mã là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mang amino acid đến ribosome và nhận biết codon bằng anticodon."
+        },
+        {
+          "key": "B",
+          "text": "Làm khuôn tổng hợp mạch DNA mới."
+        },
+        {
+          "key": "C",
+          "text": "Nối các đoạn Okazaki thành mạch DNA."
+        },
+        {
+          "key": "D",
+          "text": "Cắt bỏ mọi intron khỏi DNA."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "tRNA gắn amino acid tương ứng và có anticodon bắt cặp bổ sung với codon trên mRNA, góp phần đưa đúng amino acid vào chuỗi đang tổng hợp.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Một đoạn DNA mạch kép có tổng cộng 2 000 nucleotide, trong đó có 600 nucleotide A. Số nucleotide G của cả đoạn là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "600."
+        },
+        {
+          "key": "B",
+          "text": "800."
+        },
+        {
+          "key": "C",
+          "text": "1 400."
+        },
+        {
+          "key": "D",
+          "text": "400."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo bổ sung, T = A = 600. Số G = C = (2 000 − 600 − 600)/2 = 400 nucleotide. Tổng nucleotide được tính trên cả hai mạch.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Một đoạn DNA mạch kép có 600 cặp A–T và 400 cặp G–C. Mỗi cặp A–T có 2 liên kết hydrogen, mỗi cặp G–C có 3. Tổng số liên kết hydrogen là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 000."
+        },
+        {
+          "key": "B",
+          "text": "2 400."
+        },
+        {
+          "key": "C",
+          "text": "2 000."
+        },
+        {
+          "key": "D",
+          "text": "3 000."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tổng số liên kết hydrogen là 600 × 2 + 400 × 3 = 2 400. Số cặp base không bằng số liên kết hydrogen.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Một phân tử DNA mạch kép tái bản liên tiếp 3 lần. Tất cả phân tử tạo ra đều tiếp tục tái bản, không có phân hủy. Cuối quá trình có bao nhiêu phân tử DNA?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8."
+        },
+        {
+          "key": "B",
+          "text": "3."
+        },
+        {
+          "key": "C",
+          "text": "6."
+        },
+        {
+          "key": "D",
+          "text": "16."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Mỗi lần tái bản làm số phân tử tăng gấp đôi. Từ một phân tử ban đầu, sau ba lần có 2³ = 8 phân tử DNA.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Một đoạn mạch khuôn có trình tự 3′-TAC GGA-5′. Đoạn RNA tương ứng được phiên mã chính xác là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5′-UAC GGA-3′."
+        },
+        {
+          "key": "B",
+          "text": "5′-ATG CCT-3′."
+        },
+        {
+          "key": "C",
+          "text": "5′-AUG CCU-3′."
+        },
+        {
+          "key": "D",
+          "text": "5′-CCU AUG-3′."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "RNA được tổng hợp ngược chiều và bổ sung với mạch khuôn: T–A, A–U, C–G, G–C. Đọc mạch khuôn từ 3′ đến 5′ cho RNA 5′-AUG CCU-3′.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở tế bào nhân thực, việc loại bỏ intron và nối các exon trong quá trình xử lí tiền mRNA có ý nghĩa trực tiếp nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Xóa intron khỏi mọi phân tử DNA trong nhân."
+        },
+        {
+          "key": "B",
+          "text": "Tạo mRNA trưởng thành từ tiền mRNA."
+        },
+        {
+          "key": "C",
+          "text": "Biến mRNA thành một nhiễm sắc thể mới."
+        },
+        {
+          "key": "D",
+          "text": "Nhân đôi số lượng gene của tế bào."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cắt nối RNA tác động lên tiền mRNA, không xóa các đoạn tương ứng trong DNA. Sản phẩm sau xử lí có thể được dùng làm khuôn dịch mã.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét riêng cơ chế ức chế của operon lac ở E. coli kiểu dại. Khi không có lactose, protein ức chế hoạt động gắn vào vùng nào để hạn chế phiên mã?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Anticodon của tRNA."
+        },
+        {
+          "key": "B",
+          "text": "Bộ ba kết thúc trên mRNA."
+        },
+        {
+          "key": "C",
+          "text": "Tâm động của nhiễm sắc thể."
+        },
+        {
+          "key": "D",
+          "text": "Operator (vùng vận hành)."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Protein ức chế do gene lacI mã hóa có thể gắn operator khi không có chất cảm ứng, qua đó cản trở phiên mã các gene cấu trúc của operon lac.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong operon lac, chất cảm ứng allolactose gắn với protein ức chế và làm nó không bám được operator. Hệ quả trực tiếp là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các gene cấu trúc bị cắt khỏi DNA."
+        },
+        {
+          "key": "B",
+          "text": "Protein ức chế biến thành RNA polymerase."
+        },
+        {
+          "key": "C",
+          "text": "Mọi gene trong tế bào đều biểu hiện ở mức tối đa."
+        },
+        {
+          "key": "D",
+          "text": "Sự ức chế phiên mã bởi protein này được giải phóng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Allolactose làm thay đổi cấu hình protein ức chế, giải phóng operator. Câu hỏi chỉ xét cơ chế ức chế; mức phiên mã còn chịu ảnh hưởng của các yếu tố điều hòa khác.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Đột biến thay một nucleotide làm codon GAA trên mRNA trở thành GAG. Cho biết cả hai codon đều mã hóa glutamate. Đây là dạng đột biến nào xét theo amino acid được mã hóa?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đột biến vô nghĩa."
+        },
+        {
+          "key": "B",
+          "text": "Đột biến đồng nghĩa."
+        },
+        {
+          "key": "C",
+          "text": "Đột biến dịch khung."
+        },
+        {
+          "key": "D",
+          "text": "Đột biến làm mất một nhiễm sắc thể."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Codon thay đổi nhưng amino acid được mã hóa vẫn là glutamate nên đây là đột biến đồng nghĩa. Không thể chỉ từ đó kết luận mọi tác động lên biểu hiện gene đều bằng không.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong công nghệ DNA tái tổ hợp, enzyme ligase có vai trò chủ yếu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dịch mã DNA trực tiếp thành protein."
+        },
+        {
+          "key": "B",
+          "text": "Tổng hợp vách tế bào của tế bào nhận."
+        },
+        {
+          "key": "C",
+          "text": "Nối các đoạn DNA bằng liên kết phosphodiester."
+        },
+        {
+          "key": "D",
+          "text": "Thay mọi nucleotide T bằng U."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ligase nối khung đường–phosphate của các đoạn DNA có đầu phù hợp, tạo liên kết phosphodiester. Enzyme này không đảm nhiệm chức năng dịch mã.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Một gene mã hóa protein bị thêm một nucleotide trong vùng mã hóa, ngay sau bộ ba mở đầu và không tại ranh giới cắt nối. Nếu bộ máy dịch mã vẫn bắt đầu tại vị trí cũ, hệ quả nào thường xảy ra?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khung đọc từ vị trí thêm bị dịch chuyển."
+        },
+        {
+          "key": "B",
+          "text": "Khung đọc chắc chắn giữ nguyên vì chỉ thêm một nucleotide."
+        },
+        {
+          "key": "C",
+          "text": "Toàn bộ DNA của tế bào tăng gấp đôi."
+        },
+        {
+          "key": "D",
+          "text": "Mọi amino acid trước vị trí thêm đều bị thay thế."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Codon được đọc thành từng bộ ba. Thêm một nucleotide, không phải bội số của ba, làm dịch khung đọc ở phía sau vị trí thêm; vùng phía trước không bị đổi khung.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Một phân tử DNA mạch kép gồm 1 000 cặp nucleotide tái bản 3 lần, mọi DNA con đều tiếp tục tái bản. Bỏ qua đoạn mồi, sửa sai và phân hủy, môi trường cung cấp tổng cộng bao nhiêu nucleotide để tổng hợp các mạch DNA mới?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6 000."
+        },
+        {
+          "key": "B",
+          "text": "8 000."
+        },
+        {
+          "key": "C",
+          "text": "14 000."
+        },
+        {
+          "key": "D",
+          "text": "16 000."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mỗi phân tử có 2 000 nucleotide. Lượng nucleotide DNA mới qua ba lần là 2 000 × (1 + 2 + 4) = 2 000 × (2³ − 1) = 14 000; không tính lại vật liệu của DNA ban đầu.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Một vùng đọc mở trên mRNA dài 90 nucleotide, tính từ đầu codon mở đầu đến hết codon kết thúc duy nhất. Dịch mã bình thường, không xét biến đổi sau dịch mã. Chuỗi polypeptide vừa tổng hợp có bao nhiêu amino acid?",
+      "options": [
+        {
+          "key": "A",
+          "text": "29."
+        },
+        {
+          "key": "B",
+          "text": "30."
+        },
+        {
+          "key": "C",
+          "text": "89."
+        },
+        {
+          "key": "D",
+          "text": "90."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vùng này có 90/3 = 30 codon. Một codon kết thúc không mã hóa amino acid, còn codon mở đầu có mã hóa amino acid nên chuỗi mới có 30 − 1 = 29 amino acid.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Một DNA mạch kép ban đầu có cả hai mạch được đánh dấu. Sau 3 lần tái bản bán bảo toàn trong môi trường không đánh dấu, không phân hủy hay tái tổ hợp, bao nhiêu DNA con còn chứa ít nhất một mạch được đánh dấu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1."
+        },
+        {
+          "key": "B",
+          "text": "4."
+        },
+        {
+          "key": "C",
+          "text": "8."
+        },
+        {
+          "key": "D",
+          "text": "2."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hai mạch ban đầu không bị mất và luôn nằm trong hai phân tử con khác nhau sau lần tái bản đầu. Vì vậy trong 8 DNA cuối cùng chỉ có 2 DNA chứa một mạch được đánh dấu.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    },
+    {
+      "id": "de-sinh-12-di-truyen-phan-tu-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở một gene, mạch mã hóa có đoạn 5′-ATG GCT TAA-3′, không có intron. Cho AUG mã hóa methionine, GCU mã hóa alanine, UAA là codon kết thúc. Chuỗi vừa được dịch mã từ đoạn này có trình tự nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Alanine – methionine."
+        },
+        {
+          "key": "B",
+          "text": "Methionine – alanine."
+        },
+        {
+          "key": "C",
+          "text": "Methionine – alanine – UAA."
+        },
+        {
+          "key": "D",
+          "text": "Tyrosine – arginine."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "mRNA có trình tự giống mạch mã hóa theo chiều 5′ → 3′, chỉ thay T bằng U: AUG GCU UAA. Hai codon đầu mã hóa Met và Ala; UAA kết thúc dịch mã, không phải amino acid.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Di truyền phân tử",
+        "Chương I"
+      ]
+    }
+  ]
+}

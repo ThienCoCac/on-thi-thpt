@@ -55,6 +55,18 @@ const SUBJECT_THEMES: Record<string, SubjectTheme> = {
     hoverBorder: 'hover:border-emerald-300',
     glow: 'bg-emerald-500/10',
   },
+  'sinh-hoc': {
+    chip: 'border-transparent bg-lime-100 text-lime-900',
+    bar: 'bg-gradient-to-r from-lime-400 to-lime-600',
+    hoverBorder: 'hover:border-lime-300',
+    glow: 'bg-lime-500/10',
+  },
+  'vat-li': {
+    chip: 'border-transparent bg-violet-100 text-violet-800',
+    bar: 'bg-gradient-to-r from-violet-400 to-violet-600',
+    hoverBorder: 'hover:border-violet-300',
+    glow: 'bg-violet-500/10',
+  },
   'hoa-hoc': {
     chip: 'border-transparent bg-cyan-100 text-cyan-800',
     bar: 'bg-gradient-to-r from-cyan-400 to-cyan-600',

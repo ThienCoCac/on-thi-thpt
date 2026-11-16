@@ -1,0 +1,699 @@
+{
+  "id": "de-vat-li-12-tong-hop-01",
+  "title": "Vật lí 12 – Ôn tập tổng hợp số 1",
+  "slug": "de-vat-li-12-tong-hop-01",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Tổng hợp bốn chương Vật lí nhiệt, Khí lí tưởng, Từ trường và Vật lí hạt nhân, theo phạm vi chương trình Kết nối tri thức. Không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "vat-li",
+  "grade": 12,
+  "type": "FULL_EXAM",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "VL12-TONG-HOP-01",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T14:00:00.000Z",
+  "updatedAt": "2026-11-16T14:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-vat-li-12-tong-hop-01-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Bọc cách nhiệt cho bình chứa nước nóng chủ yếu nhằm mục đích nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Làm nhiệt dung riêng của nước bằng không."
+        },
+        {
+          "key": "B",
+          "text": "Giảm trao đổi nhiệt giữa nước và môi trường."
+        },
+        {
+          "key": "C",
+          "text": "Ngăn các phân tử nước chuyển động."
+        },
+        {
+          "key": "D",
+          "text": "Biến toàn bộ nội năng của nước thành công."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Lớp cách nhiệt làm giảm tốc độ trao đổi nhiệt với môi trường; nó không làm mất nội năng hay chuyển động nhiệt của phân tử.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu khí lí tưởng được giữ trong bình kín cứng. Khi tăng nhiệt độ tuyệt đối, áp suất thay đổi thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm tỉ lệ nghịch với nhiệt độ tuyệt đối."
+        },
+        {
+          "key": "B",
+          "text": "Không đổi trong mọi trường hợp."
+        },
+        {
+          "key": "C",
+          "text": "Tăng tỉ lệ với bình phương thể tích."
+        },
+        {
+          "key": "D",
+          "text": "Tăng tỉ lệ thuận với nhiệt độ tuyệt đối."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Bình kín cứng giữ n và V không đổi. Từ p = nRT/V, áp suất tỉ lệ thuận với T.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Đại lượng nào có đơn vị vêbe?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Từ thông."
+        },
+        {
+          "key": "B",
+          "text": "Cảm ứng từ."
+        },
+        {
+          "key": "C",
+          "text": "Cường độ dòng điện."
+        },
+        {
+          "key": "D",
+          "text": "Điện trở."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Từ thông Φ = BS cos α có đơn vị T·m², gọi là vêbe (Wb). Cảm ứng từ có đơn vị tesla.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Với một hạt nhân phóng xạ riêng lẻ, có thể dự đoán chính xác thời điểm phân rã không?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có; mọi hạt nhân đều phân rã đúng sau một chu kì bán rã."
+        },
+        {
+          "key": "B",
+          "text": "Có; tất cả phân rã đúng lúc mẫu đạt 0 °C."
+        },
+        {
+          "key": "C",
+          "text": "Không; phân rã có tính ngẫu nhiên."
+        },
+        {
+          "key": "D",
+          "text": "Có; chỉ cần biết khối lượng của cả mẫu."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Định luật phóng xạ mô tả thống kê một tập hợp lớn. Chu kì bán rã không phải thời gian sống cố định của mỗi hạt nhân.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Nước tinh khiết đang sôi ở áp suất không đổi tiếp tục nhận nhiệt. Khi còn pha lỏng, năng lượng cấp chủ yếu dùng để làm gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng nhiệt độ nước lỏng lên liên tục."
+        },
+        {
+          "key": "B",
+          "text": "Làm nước đóng băng."
+        },
+        {
+          "key": "C",
+          "text": "Chuyển nước lỏng thành hơi ở nhiệt độ sôi."
+        },
+        {
+          "key": "D",
+          "text": "Làm nhiệt độ nước giảm liên tục."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Ở áp suất không đổi, nước tinh khiết giữ nhiệt độ sôi trong quá trình chuyển pha; nhiệt lượng cung cấp dùng cho hoá hơi.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Hệ thức nào mô tả một lượng khí lí tưởng xác định ở hai trạng thái cân bằng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "p₁V₁/T₁ = p₂V₂/T₂, với T tính bằng kelvin."
+        },
+        {
+          "key": "B",
+          "text": "p₁V₁T₁ = p₂V₂T₂."
+        },
+        {
+          "key": "C",
+          "text": "p₁/V₁ = p₂/V₂ trong mọi quá trình."
+        },
+        {
+          "key": "D",
+          "text": "V₁/T₁ = V₂/T₂ trong mọi quá trình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Khi số mol không đổi, pV/T = nR là hằng số. V/T chỉ không đổi ở quá trình đẳng áp, không phải mọi quá trình.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Một khối đồng 0,40 kg nhận 3040 J làm nhiệt độ tăng từ 20 °C lên 40 °C, không chuyển thể. Nhiệt dung riêng của đồng theo số liệu là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "190 J/(kg·K)."
+        },
+        {
+          "key": "B",
+          "text": "760 J/(kg·K)."
+        },
+        {
+          "key": "C",
+          "text": "38 J/(kg·K)."
+        },
+        {
+          "key": "D",
+          "text": "380 J/(kg·K)."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "c = Q/(mΔT) = 3040/(0,40 × 20) = 380 J/(kg·K).",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Nén đẳng nhiệt một lượng khí lí tưởng từ 8,0 L xuống 5,0 L. Áp suất đầu 125 kPa. Áp suất cuối là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "78,125 kPa."
+        },
+        {
+          "key": "B",
+          "text": "200 kPa."
+        },
+        {
+          "key": "C",
+          "text": "250 kPa."
+        },
+        {
+          "key": "D",
+          "text": "100 kPa."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Áp dụng p₁V₁ = p₂V₂, p₂ = 125 × 8,0/5,0 = 200 kPa.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Dây dài 0,30 m mang dòng điện 2,0 A nằm vuông góc trong từ trường đều và chịu lực 0,12 N. Cảm ứng từ bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,20 T."
+        },
+        {
+          "key": "B",
+          "text": "0,02 T."
+        },
+        {
+          "key": "C",
+          "text": "0,80 T."
+        },
+        {
+          "key": "D",
+          "text": "0,072 T."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Vì sin 90° = 1 nên B = F/(Il) = 0,12/(2,0 × 0,30) = 0,20 T.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Máy biến áp lí tưởng có N₁ = 600 vòng, N₂ = 150 vòng; điện áp hiệu dụng sơ cấp 120 V. Điện áp hiệu dụng thứ cấp là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "480 V."
+        },
+        {
+          "key": "B",
+          "text": "60 V."
+        },
+        {
+          "key": "C",
+          "text": "30 V."
+        },
+        {
+          "key": "D",
+          "text": "15 V."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "U₂ = U₁N₂/N₁ = 120 × 150/600 = 30 V. Số vòng thứ cấp nhỏ hơn nên điện áp giảm.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạt nhân $^{40}_{20}\\mathrm{Ca}$ có tổng số nucleon và số neutron lần lượt là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20 và 40."
+        },
+        {
+          "key": "B",
+          "text": "40 và 20."
+        },
+        {
+          "key": "C",
+          "text": "60 và 20."
+        },
+        {
+          "key": "D",
+          "text": "40 và 40."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Số nucleon bằng A = 40. Số neutron bằng A − Z = 40 − 20 = 20.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu có chu kì bán rã 4 giờ và hoạt độ ban đầu 960 Bq. Sau 8 giờ, hoạt độ của đồng vị đó là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "480 Bq."
+        },
+        {
+          "key": "B",
+          "text": "120 Bq."
+        },
+        {
+          "key": "C",
+          "text": "720 Bq."
+        },
+        {
+          "key": "D",
+          "text": "240 Bq."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Thời gian bằng hai chu kì bán rã. Hoạt độ H = 960 × (1/2)² = 240 Bq.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hệ chỉ nhận công 70 J và toả nhiệt lượng 100 J ra ngoài. Độ biến thiên nội năng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "170 J."
+        },
+        {
+          "key": "B",
+          "text": "30 J."
+        },
+        {
+          "key": "C",
+          "text": "−170 J."
+        },
+        {
+          "key": "D",
+          "text": "−30 J."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Quy ước công hệ nhận dương: A = 70 J. Hệ toả nhiệt nên Q = −100 J. ΔU = A + Q = −30 J.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một lượng khí lí tưởng có thể tích 4,0 L ở 300 K. Làm lạnh đẳng áp tới 240 K thì thể tích là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5,0 L."
+        },
+        {
+          "key": "B",
+          "text": "3,2 L."
+        },
+        {
+          "key": "C",
+          "text": "0,8 L."
+        },
+        {
+          "key": "D",
+          "text": "4,8 L."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "V₂ = V₁T₂/T₁ = 4,0 × 240/300 = 3,2 L. Nhiệt độ tuyệt đối giảm 20% thì thể tích cũng giảm 20%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào đúng về sóng điện từ trong chân không?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sóng bắt buộc phải có không khí để truyền."
+        },
+        {
+          "key": "B",
+          "text": "Điện trường luôn song song với hướng truyền."
+        },
+        {
+          "key": "C",
+          "text": "Sóng mang năng lượng và có thể truyền khi không có môi trường vật chất."
+        },
+        {
+          "key": "D",
+          "text": "Tốc độ sóng luôn tăng khi tăng tần số."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Sóng điện từ truyền được trong chân không với tốc độ c và mang năng lượng. Trong chân không, c không phụ thuộc tần số.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạt nhân có số khối 16 và năng lượng liên kết 127,2 MeV. Năng lượng liên kết riêng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "7,95 MeV/nucleon."
+        },
+        {
+          "key": "B",
+          "text": "8,48 MeV/nucleon."
+        },
+        {
+          "key": "C",
+          "text": "2035,2 MeV/nucleon."
+        },
+        {
+          "key": "D",
+          "text": "0,126 MeV/nucleon."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Năng lượng liên kết riêng là E/A = 127,2/16 = 7,95 MeV/nucleon. Không nhân năng lượng liên kết với số khối.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-nhiet",
+      "type": "SINGLE_CHOICE",
+      "content": "Trộn 0,10 kg nước đá ở 0 °C với 0,40 kg nước ở 40 °C trong bình cách nhiệt có nhiệt dung không đáng kể. Cho λ = 334 kJ/kg và c nước = 4200 J/(kg·K). Nhiệt độ cân bằng xấp xỉ bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "24,1 °C."
+        },
+        {
+          "key": "B",
+          "text": "0 °C."
+        },
+        {
+          "key": "C",
+          "text": "16,1 °C."
+        },
+        {
+          "key": "D",
+          "text": "32 °C."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nước có thể toả 67,2 kJ khi về 0 °C, đủ làm tan đá cần 33,4 kJ. Còn 33,8 kJ làm ấm tổng 0,50 kg nước: t = 33800/(0,50 × 4200) ≈ 16,1 °C.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "nhiet"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một khí lí tưởng có khối lượng mol 0,028 kg/mol, áp suất 83100 Pa, nhiệt độ 280 K. Lấy R = 8,31 J/(mol·K). Khối lượng riêng bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,0 kg/m³."
+        },
+        {
+          "key": "B",
+          "text": "0,10 kg/m³."
+        },
+        {
+          "key": "C",
+          "text": "10 kg/m³."
+        },
+        {
+          "key": "D",
+          "text": "28 kg/m³."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Từ pV = (m/M)RT suy ra ρ = m/V = pM/(RT) = 83100 × 0,028/(8,31 × 280) = 1,0 kg/m³.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-tu-truong",
+      "type": "SINGLE_CHOICE",
+      "content": "Cuộn dây kín 50 vòng, diện tích mỗi vòng 40 cm², tổng điện trở 4 Ω. B vuông góc mặt vòng giảm đều từ 0,80 T về 0 trong 0,020 s. Bỏ qua tự cảm. Dòng điện cảm ứng có độ lớn bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,20 A."
+        },
+        {
+          "key": "B",
+          "text": "8,0 A."
+        },
+        {
+          "key": "C",
+          "text": "20 A."
+        },
+        {
+          "key": "D",
+          "text": "2,0 A."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đổi S = 40 × 10⁻⁴ = 0,004 m². Độ lớn e = NS|ΔB|/Δt = 50 × 0,004 × 0,80/0,020 = 8 V. I = e/R = 8/4 = 2 A.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "tu-truong"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-tong-hop-01-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu ban đầu chỉ có hạt nhân mẹ; mỗi phân rã sinh một hạt nhân con bền. Sau 18 giờ, số hạt nhân con bằng 7 lần số hạt nhân mẹ còn lại. Chu kì bán rã bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "9 giờ."
+        },
+        {
+          "key": "B",
+          "text": "6 giờ."
+        },
+        {
+          "key": "C",
+          "text": "3 giờ."
+        },
+        {
+          "key": "D",
+          "text": "18 giờ."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Gọi N là số hạt nhân mẹ còn lại: N₀ − N = 7N nên N/N₀ = 1/8 = (1/2)³. Đã qua ba chu kì, do đó T = 18/3 = 6 giờ.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Ôn tập tổng hợp số 1",
+        "hat-nhan"
+      ]
+    }
+  ]
+}

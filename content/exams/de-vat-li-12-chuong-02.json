@@ -1,0 +1,699 @@
+{
+  "id": "de-vat-li-12-chuong-02",
+  "title": "Vật lí 12 – Chương II. Khí lí tưởng",
+  "slug": "de-vat-li-12-chuong-02",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Chương II. Khí lí tưởng, theo phạm vi chương trình Kết nối tri thức. Không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "vat-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "VL12-CHUONG-02",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T14:00:00.000Z",
+  "updatedAt": "2026-11-16T14:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-vat-li-12-chuong-02-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong mô hình khí lí tưởng, giữa hai lần va chạm, các phân tử được coi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các hạt đứng yên tại nút mạng."
+        },
+        {
+          "key": "B",
+          "text": "Các hạt có thể tích bằng thể tích bình."
+        },
+        {
+          "key": "C",
+          "text": "Các chất điểm không tương tác với nhau."
+        },
+        {
+          "key": "D",
+          "text": "Các hạt chỉ hút nhau mà không thể chuyển động."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Mô hình bỏ qua kích thước phân tử so với khoảng cách giữa chúng và bỏ qua tương tác khi chưa va chạm. Các phân tử vẫn chuyển động hỗn loạn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Áp suất của khí lên thành bình có nguyên nhân vi mô trực tiếp nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Các phân tử khí va chạm vào thành bình."
+        },
+        {
+          "key": "B",
+          "text": "Trọng lượng của thành bình."
+        },
+        {
+          "key": "C",
+          "text": "Các phân tử khí ngừng chuyển động khi chạm thành."
+        },
+        {
+          "key": "D",
+          "text": "Lực hút giữ mọi phân tử ở tâm bình."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Va chạm làm đổi động lượng của phân tử và gây lực lên thành bình; lực trung bình trên một đơn vị diện tích tạo nên áp suất.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Định luật Boyle áp dụng cho một lượng khí xác định trong quá trình nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Áp suất không đổi."
+        },
+        {
+          "key": "B",
+          "text": "Nhiệt độ không đổi."
+        },
+        {
+          "key": "C",
+          "text": "Thể tích không đổi."
+        },
+        {
+          "key": "D",
+          "text": "Số mol tăng đều."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Với một lượng khí xác định biến đổi đẳng nhiệt, pV không đổi; áp suất tỉ lệ nghịch với thể tích.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một lượng khí lí tưởng xác định biến đổi đẳng áp. Đại lượng nào không đổi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "V·T, với T tính bằng kelvin."
+        },
+        {
+          "key": "B",
+          "text": "V/t, với t tính bằng độ Celsius."
+        },
+        {
+          "key": "C",
+          "text": "p·V, dù nhiệt độ thay đổi."
+        },
+        {
+          "key": "D",
+          "text": "V/T, với T tính bằng kelvin."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Theo định luật Charles, thể tích tỉ lệ thuận với nhiệt độ tuyệt đối khi áp suất và lượng khí không đổi, nên V/T là hằng số.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong phương trình pV = nRT, đơn vị SI của R là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "J/(kg·K)."
+        },
+        {
+          "key": "B",
+          "text": "Pa/K."
+        },
+        {
+          "key": "C",
+          "text": "mol/(J·K)."
+        },
+        {
+          "key": "D",
+          "text": "J/(mol·K)."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Vế pV có đơn vị Pa·m³ = J, còn nT có đơn vị mol·K. Vì vậy R có đơn vị J/(mol·K), không phải J/(kg·K).",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Động năng tịnh tiến trung bình của một phân tử khí lí tưởng tỉ lệ thuận với đại lượng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nhiệt độ Celsius của khí."
+        },
+        {
+          "key": "B",
+          "text": "Nhiệt độ tuyệt đối của khí."
+        },
+        {
+          "key": "C",
+          "text": "Thể tích bình trong mọi quá trình."
+        },
+        {
+          "key": "D",
+          "text": "Khối lượng toàn bộ khí trong bình."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hệ thức động năng tịnh tiến trung bình là 3kT/2. T phải tính theo kelvin, không dùng trực tiếp số đo Celsius.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Nén đẳng nhiệt một lượng khí lí tưởng từ 6,0 L xuống 2,0 L. Áp suất ban đầu 100 kPa. Áp suất cuối là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "300 kPa."
+        },
+        {
+          "key": "B",
+          "text": "33,3 kPa."
+        },
+        {
+          "key": "C",
+          "text": "200 kPa."
+        },
+        {
+          "key": "D",
+          "text": "600 kPa."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Theo Boyle: p₂ = p₁V₁/V₂ = 100 × 6,0/2,0 = 300 kPa. Thể tích giảm ba lần nên áp suất tăng ba lần.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một lượng khí lí tưởng có thể tích 2,0 L ở 300 K. Khi đun đẳng áp đến 450 K, thể tích bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,33 L."
+        },
+        {
+          "key": "B",
+          "text": "4,0 L."
+        },
+        {
+          "key": "C",
+          "text": "3,0 L."
+        },
+        {
+          "key": "D",
+          "text": "2,5 L."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Giữ lượng khí và áp suất không đổi: V₂ = V₁T₂/T₁ = 2,0 × 450/300 = 3,0 L.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một bình kín cứng chứa khí lí tưởng ở 300 K, áp suất 120 kPa. Đun tới 400 K. Áp suất cuối là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "90 kPa."
+        },
+        {
+          "key": "B",
+          "text": "160 kPa."
+        },
+        {
+          "key": "C",
+          "text": "220 kPa."
+        },
+        {
+          "key": "D",
+          "text": "480 kPa."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Bình kín cứng giữ nguyên số mol và thể tích nên p/T không đổi. p₂ = 120 × 400/300 = 160 kPa.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một lượng khí lí tưởng xác định có p₁ = 100 kPa, V₁ = 3,0 L, T₁ = 300 K. Ở trạng thái sau, p₂ = 150 kPa và T₂ = 450 K. V₂ bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2,0 L."
+        },
+        {
+          "key": "B",
+          "text": "4,5 L."
+        },
+        {
+          "key": "C",
+          "text": "6,75 L."
+        },
+        {
+          "key": "D",
+          "text": "3,0 L."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Từ p₁V₁/T₁ = p₂V₂/T₂: V₂ = 100 × 3,0 × 450/(150 × 300) = 3,0 L. Cả áp suất và nhiệt độ cùng tăng 1,5 lần.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Có 0,50 mol khí lí tưởng ở 300 K, thể tích 0,010 m³. Lấy R = 8,31 J/(mol·K). Áp suất khí là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12465 Pa."
+        },
+        {
+          "key": "B",
+          "text": "249300 Pa."
+        },
+        {
+          "key": "C",
+          "text": "124650 Pa."
+        },
+        {
+          "key": "D",
+          "text": "49860 Pa."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "p = nRT/V = 0,50 × 8,31 × 300/0,010 = 124650 Pa. Thể tích đã được cho theo đơn vị SI.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu khí lí tưởng có p = 83100 Pa, V = 0,030 m³ và T = 300 K. Lấy R = 8,31 J/(mol·K). Mẫu chứa bao nhiêu mol?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,0 mol."
+        },
+        {
+          "key": "B",
+          "text": "0,10 mol."
+        },
+        {
+          "key": "C",
+          "text": "3,0 mol."
+        },
+        {
+          "key": "D",
+          "text": "10 mol."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "n = pV/(RT) = 83100 × 0,030/(8,31 × 300) = 1,0 mol.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Khí lí tưởng ở 300 K. Lấy k = 1,38 × 10⁻²³ J/K. Động năng tịnh tiến trung bình của một phân tử bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6,21 × 10⁻²¹ J."
+        },
+        {
+          "key": "B",
+          "text": "4,14 × 10⁻²¹ J."
+        },
+        {
+          "key": "C",
+          "text": "2,07 × 10⁻²¹ J."
+        },
+        {
+          "key": "D",
+          "text": "6,21 × 10⁻²³ J."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Động năng trung bình bằng 3kT/2 = 1,5 × 1,38 × 10⁻²³ × 300 = 6,21 × 10⁻²¹ J.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Tốc độ căn quân phương của các phân tử cùng một loại khí lí tưởng thay đổi thế nào khi nhiệt độ tăng từ 300 K lên 1200 K?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng 4 lần."
+        },
+        {
+          "key": "B",
+          "text": "Tăng 16 lần."
+        },
+        {
+          "key": "C",
+          "text": "Tăng 2 lần."
+        },
+        {
+          "key": "D",
+          "text": "Giảm 2 lần."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Vì mv² trung bình/2 = 3kT/2 nên tốc độ căn quân phương tỉ lệ với căn bậc hai của T. Tăng T bốn lần làm tốc độ tăng hai lần.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai bình khí lí tưởng helium và nitrogen có cùng nhiệt độ. Đại lượng nào của một phân tử có giá trị trung bình bằng nhau trong hai bình?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tốc độ căn quân phương."
+        },
+        {
+          "key": "B",
+          "text": "Khối lượng."
+        },
+        {
+          "key": "C",
+          "text": "Động lượng theo độ lớn."
+        },
+        {
+          "key": "D",
+          "text": "Động năng tịnh tiến."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Động năng tịnh tiến trung bình bằng 3kT/2, chỉ phụ thuộc nhiệt độ. Tốc độ căn quân phương còn phụ thuộc khối lượng phân tử nên không bằng nhau.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một khí có khối lượng riêng 1,2 kg/m³ và tốc độ căn quân phương 500 m/s. Theo mô hình khí lí tưởng, áp suất khí là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "300000 Pa."
+        },
+        {
+          "key": "B",
+          "text": "100000 Pa."
+        },
+        {
+          "key": "C",
+          "text": "200 Pa."
+        },
+        {
+          "key": "D",
+          "text": "300 Pa."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Dùng p = ρv² căn quân phương/3 = 1,2 × 500²/3 = 100000 Pa. Phải bình phương tốc độ trước khi nhân.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một lượng khí lí tưởng được đun đẳng áp từ 27 °C đến 127 °C. Lấy T = t + 273. Thể tích tăng bao nhiêu phần trăm so với ban đầu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khoảng 370,4%."
+        },
+        {
+          "key": "B",
+          "text": "100%."
+        },
+        {
+          "key": "C",
+          "text": "25%."
+        },
+        {
+          "key": "D",
+          "text": "Khoảng 33,3%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "T₁ = 300 K, T₂ = 400 K. Tỉ số V₂/V₁ = 4/3, nên phần tăng (V₂ − V₁)/V₁ = 1/3, tức khoảng 33,3%.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Bình cứng có van chứa khí lí tưởng. Ban đầu p₁ = 200 kPa, T₁ = 300 K; sau khi xả bớt khí rồi đóng van, p₂ = 150 kPa, T₂ = 360 K. Số mol còn lại bằng bao nhiêu phần trăm ban đầu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "75%."
+        },
+        {
+          "key": "B",
+          "text": "62,5%."
+        },
+        {
+          "key": "C",
+          "text": "90%."
+        },
+        {
+          "key": "D",
+          "text": "37,5%."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "V không đổi nhưng n thay đổi. Từ n = pV/(RT), n₂/n₁ = p₂T₁/(p₁T₂) = 150 × 300/(200 × 360) = 0,625. 37,5% là phần đã thoát, không phải phần còn.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai bình cứng có cùng nhiệt độ, chứa cùng loại khí lí tưởng: bình 1 có V₁ = 2 L, p₁ = 300 kPa; bình 2 có V₂ = 4 L, p₂ = 150 kPa. Mở van nối, bỏ qua thể tích ống; nhiệt độ cuối bằng ban đầu. Áp suất cân bằng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200 kPa."
+        },
+        {
+          "key": "B",
+          "text": "225 kPa."
+        },
+        {
+          "key": "C",
+          "text": "450 kPa."
+        },
+        {
+          "key": "D",
+          "text": "100 kPa."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Bảo toàn số mol, ở cùng T: p(V₁ + V₂) = p₁V₁ + p₂V₂. Do đó p = (300 × 2 + 150 × 4)/6 = 200 kPa.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-02-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-khi",
+      "type": "SINGLE_CHOICE",
+      "content": "Một lượng khí lí tưởng xác định được nén từ thể tích V xuống V/2, đồng thời nhiệt độ tăng từ 300 K lên 450 K. Nếu áp suất ban đầu là p thì áp suất cuối bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,5p."
+        },
+        {
+          "key": "B",
+          "text": "0,75p."
+        },
+        {
+          "key": "C",
+          "text": "3p."
+        },
+        {
+          "key": "D",
+          "text": "p/3."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Từ pV/T không đổi: p₂/p₁ = (T₂/T₁)(V₁/V₂) = (450/300) × 2 = 3. Cả tăng nhiệt và giảm thể tích đều làm áp suất tăng.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương II. Khí lí tưởng",
+        "khi"
+      ]
+    }
+  ]
+}

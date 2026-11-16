@@ -1,0 +1,699 @@
+{
+  "id": "de-sinh-12-tong-hop-01",
+  "title": "Sinh học 12 – Đề ôn tập tổng hợp số 1",
+  "slug": "de-sinh-12-tong-hop-01",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Năm nhóm kiến thức, theo phạm vi chương trình Kết nối tri thức. Ôn theo nhóm kiến thức, không bao quát từng bài SGK; không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "sinh-hoc",
+  "grade": 12,
+  "type": "FULL_EXAM",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "SH12-06",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T15:00:00.000Z",
+  "updatedAt": "2026-11-16T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-sinh-12-tong-hop-01-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong tái bản DNA, enzyme nối các đoạn Okazaki để tạo mạch liên tục là enzyme nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pepsin."
+        },
+        {
+          "key": "B",
+          "text": "RNA polymerase của phiên mã."
+        },
+        {
+          "key": "C",
+          "text": "DNA ligase."
+        },
+        {
+          "key": "D",
+          "text": "Amylase."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Các đoạn Okazaki được tổng hợp gián đoạn trên mạch chậm. DNA ligase tạo liên kết phosphodiester để nối những đoạn DNA kề nhau thành mạch liên tục.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Phát biểu nào mô tả đúng sản phẩm mà một gene có thể mã hóa?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một polypeptide hoặc một phân tử RNA có chức năng."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ một loại lipid, không liên quan đến RNA."
+        },
+        {
+          "key": "C",
+          "text": "Luôn cả một cơ thể hoàn chỉnh."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ một nhiễm sắc thể mới."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Gene mang thông tin để tạo sản phẩm chức năng; có gene mã hóa polypeptide và có gene tạo RNA chức năng như tRNA, rRNA. Không phải mọi RNA đều được dịch mã.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Một DNA mạch kép có tổng 3 000 nucleotide và tỉ lệ A là 20%. Số nucleotide C trong toàn bộ phân tử là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "600."
+        },
+        {
+          "key": "B",
+          "text": "900."
+        },
+        {
+          "key": "C",
+          "text": "1 200."
+        },
+        {
+          "key": "D",
+          "text": "1 500."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "A = T = 20% nên G = C = (100% − 40%)/2 = 30%. Số C = 3 000 × 30% = 900 nucleotide trên cả phân tử.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-phan-tu",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét một gene đang phiên mã tại một thời điểm, mạch DNA nào làm khuôn tổng hợp RNA?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cả hai mạch đồng thời tạo cùng một RNA bằng cách ghép lại."
+        },
+        {
+          "key": "B",
+          "text": "Mạch nào cũng được đọc theo chiều 5′ → 3′ để tạo RNA 3′ → 5′."
+        },
+        {
+          "key": "C",
+          "text": "Không cần mạch khuôn DNA."
+        },
+        {
+          "key": "D",
+          "text": "Một mạch của gene, được RNA polymerase đọc theo chiều 3′ → 5′."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đối với một đơn vị phiên mã, RNA polymerase dùng một mạch DNA làm khuôn theo chiều 3′ → 5′ và tạo RNA theo chiều 5′ → 3′. Các gene khác có thể sử dụng mạch đối diện.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một loài lưỡng bội có 2n = 8. Giao tử tạo bởi giảm phân bình thường có bao nhiêu nhiễm sắc thể?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8."
+        },
+        {
+          "key": "B",
+          "text": "12."
+        },
+        {
+          "key": "C",
+          "text": "16."
+        },
+        {
+          "key": "D",
+          "text": "4."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Giảm phân bình thường giảm số bộ nhiễm sắc thể từ lưỡng bội 2n xuống đơn bội n. Với 2n = 8 thì giao tử có n = 4 nhiễm sắc thể.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo mô hình ABO thông thường, kiểu gene IᴬIᴮ biểu hiện đồng thời kháng nguyên A và B. Quan hệ giữa hai allele này là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Iᴬ trội hoàn toàn so với Iᴮ."
+        },
+        {
+          "key": "B",
+          "text": "Đồng trội."
+        },
+        {
+          "key": "C",
+          "text": "Iᴮ trội hoàn toàn so với Iᴬ."
+        },
+        {
+          "key": "D",
+          "text": "Cả hai allele đều không biểu hiện."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Trong thể dị hợp IᴬIᴮ, sản phẩm của cả hai allele đều được biểu hiện và tạo nhóm máu AB. Đây là đồng trội, không phải kiểu hình trung gian do trội không hoàn toàn.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Cho Aa × aa, A trội hoàn toàn, các giao tử và hợp tử có sức sống như nhau. Tỉ lệ đời con biểu hiện tính trạng trội là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "50%."
+        },
+        {
+          "key": "B",
+          "text": "25%."
+        },
+        {
+          "key": "C",
+          "text": "75%."
+        },
+        {
+          "key": "D",
+          "text": "100%."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Aa tạo A và a mỗi loại 1/2; aa chỉ tạo a. Đời con có 1/2 Aa biểu hiện trội và 1/2 aa biểu hiện lặn, nên tỉ lệ trội là 50%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-nhiem-sac-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Cá thể AB/ab có tần số hoán vị gene 30%. Hai loại giao tử bố mẹ có tỉ lệ bằng nhau và hai loại tái tổ hợp có tỉ lệ bằng nhau. Tỉ lệ giao tử AB là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15%."
+        },
+        {
+          "key": "B",
+          "text": "30%."
+        },
+        {
+          "key": "C",
+          "text": "35%."
+        },
+        {
+          "key": "D",
+          "text": "70%."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Tổng giao tử bố mẹ là 100% − 30% = 70%, gồm AB và ab với tỉ lệ ngang nhau. Do đó AB = 70%/2 = 35%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Quần thể cân bằng Hardy–Weinberg tại locus có hai allele với p(A) = 0,8. Tỉ lệ cá thể Aa là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "16%."
+        },
+        {
+          "key": "B",
+          "text": "32%."
+        },
+        {
+          "key": "C",
+          "text": "64%."
+        },
+        {
+          "key": "D",
+          "text": "80%."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "q(a) = 1 − 0,8 = 0,2. Tần số Aa = 2pq = 2 × 0,8 × 0,2 = 0,32, tương ứng 32%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một dòng ban đầu toàn Aa tự thụ phấn 3 thế hệ. Không đột biến, di nhập hay chọn lọc, các dòng đóng góp như nhau. Tỉ lệ dị hợp còn lại là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25%."
+        },
+        {
+          "key": "B",
+          "text": "37,5%."
+        },
+        {
+          "key": "C",
+          "text": "50%."
+        },
+        {
+          "key": "D",
+          "text": "12,5%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Trong mô hình tự thụ phấn lí tưởng, tỉ lệ dị hợp giảm một nửa mỗi thế hệ. Sau ba thế hệ: H₃ = H₀/2³ = 1/8 = 12,5%.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai nhóm cây nhân vô tính từ cùng một cây mẹ được trồng ở hai mức ánh sáng và có màu lá khác nhau. Chưa phân tích DNA. Kết luận thận trọng nhất là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Màu lá khác nhau chứng minh chắc chắn mọi gene đã thay đổi."
+        },
+        {
+          "key": "B",
+          "text": "Mọi cây ở nhóm tối đều thuộc loài mới."
+        },
+        {
+          "key": "C",
+          "text": "Kết quả phù hợp với ảnh hưởng môi trường lên kiểu hình, chưa đủ để khẳng định có đột biến."
+        },
+        {
+          "key": "D",
+          "text": "Ánh sáng không thể ảnh hưởng đến kiểu hình thực vật."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kiểu hình có thể thay đổi do điều kiện ánh sáng dù kiểu gene được giữ nguyên. Chỉ quan sát màu lá chưa phân biệt chắc chắn mọi nguyên nhân hoặc chứng minh đột biến.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-quan-the",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể có 160 AA, 80 Aa và 160 aa. Xét locus thường ở sinh vật lưỡng bội, tần số allele A là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,50."
+        },
+        {
+          "key": "B",
+          "text": "0,20."
+        },
+        {
+          "key": "C",
+          "text": "0,40."
+        },
+        {
+          "key": "D",
+          "text": "0,80."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Tổng cộng 400 cá thể, tức 800 bản sao allele. Số A = 2 × 160 + 80 = 400, nên p(A) = 400/800 = 0,50 dù quần thể này không có thành phần kiểu gene cân bằng.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai loài không có quan hệ họ hàng gần cùng có hình dạng cơ thể thuôn giúp bơi nhanh. Chỉ riêng đặc điểm này cho phép nhận định nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có thể là thích nghi hội tụ; cần thêm bằng chứng để suy luận họ hàng."
+        },
+        {
+          "key": "B",
+          "text": "Chắc chắn hai loài có cùng bố mẹ."
+        },
+        {
+          "key": "C",
+          "text": "Chắc chắn một loài hiện tại sinh ra loài còn lại trong đời nó."
+        },
+        {
+          "key": "D",
+          "text": "Chắc chắn toàn bộ DNA của chúng giống hệt nhau."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Áp lực chọn lọc tương tự trong môi trường nước có thể tạo hình dạng giống nhau ở những nhánh khác nhau. Một đặc điểm chức năng đơn lẻ không đủ xác định quan hệ họ hàng gần.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một số ít hạt cây theo gió đến đảo và lập quần thể mới có tần số allele khác quần thể gốc do ngẫu nhiên. Đây là trường hợp nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quần thể mới tự động đạt mọi kiểu gene có lợi."
+        },
+        {
+          "key": "B",
+          "text": "Cân bằng allele do môi trường chủ động lựa chọn gene cần thiết."
+        },
+        {
+          "key": "C",
+          "text": "Hiệu ứng sáng lập của phiêu bạt di truyền."
+        },
+        {
+          "key": "D",
+          "text": "Mỗi cá thể tự tiến hóa thành một loài riêng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Nhóm sáng lập nhỏ chỉ mang một mẫu của vốn gene quần thể gốc. Sai lệch ngẫu nhiên trong mẫu này có thể tạo chênh lệch tần số allele mà không cần chọn lọc.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai loài ếch cùng ao có tín hiệu gọi bạn tình khác nhau, vì thế hiếm khi giao phối với nhau. Cơ chế đang xét là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách li sau hợp tử do con lai chết."
+        },
+        {
+          "key": "B",
+          "text": "Đột biến số lượng nhiễm sắc thể bắt buộc."
+        },
+        {
+          "key": "C",
+          "text": "Không có bất kì rào cản sinh sản nào."
+        },
+        {
+          "key": "D",
+          "text": "Cách li trước hợp tử về tập tính."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Khác tín hiệu giao phối là khác tập tính sinh sản, cản trở việc hình thành cặp trước thụ tinh. Vì vậy cơ chế này thuộc cách li trước hợp tử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở cùng một môi trường, kiểu hình X trung bình để lại 6 con hữu thụ, kiểu hình Y để lại 3 con hữu thụ. Nếu lấy X làm chuẩn bằng 1, giá trị thích nghi tương đối của Y là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2."
+        },
+        {
+          "key": "B",
+          "text": "0,5."
+        },
+        {
+          "key": "C",
+          "text": "3."
+        },
+        {
+          "key": "D",
+          "text": "6."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giá trị thích nghi tương đối được chuẩn hóa theo mức sinh sản của nhóm chuẩn. Với X bằng 1, Y có giá trị 3/6 = 0,5; không suy ra chỉ từ tuổi thọ hoặc kích thước.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong cùng một diện tích và khoảng thời gian, ba bậc liên tiếp tích lũy năng lượng 20 000 kJ, 2 400 kJ và 240 kJ. Hiệu suất truyền từ bậc thứ hai sang bậc thứ ba là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,2%."
+        },
+        {
+          "key": "B",
+          "text": "12%."
+        },
+        {
+          "key": "C",
+          "text": "100%."
+        },
+        {
+          "key": "D",
+          "text": "10%."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Cần lấy đúng hai bậc đang hỏi: 240/2 400 × 100% = 10%. Tỉ số 240/20 000 = 1,2% là hiệu suất gộp từ bậc đầu sang bậc ba, không phải đáp án.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể trong khu vực cố định 6 ha có 1 200 cá thể đầu năm. Trong năm sinh 120, chết 72, nhập cư 12 và xuất cư 36. Mật độ cuối năm là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200 cá thể/ha."
+        },
+        {
+          "key": "B",
+          "text": "204 cá thể/ha."
+        },
+        {
+          "key": "C",
+          "text": "208 cá thể/ha."
+        },
+        {
+          "key": "D",
+          "text": "224 cá thể/ha."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Cuối năm N = 1 200 + 120 − 72 + 12 − 36 = 1 224 cá thể. Chia cho diện tích không đổi 6 ha được mật độ 1 224/6 = 204 cá thể/ha.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau nhiều đợt nước thải giàu dinh dưỡng vào hồ, tảo nở hoa rồi cá chết khi oxygen hòa tan giảm. Chuỗi cơ chế nào giải thích phù hợp nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dinh dưỡng tăng → sinh khối tảo tăng → phân hủy hữu cơ và hô hấp tiêu thụ nhiều oxygen."
+        },
+        {
+          "key": "B",
+          "text": "Dinh dưỡng tăng → mọi sinh vật ngừng hô hấp → oxygen giảm."
+        },
+        {
+          "key": "C",
+          "text": "Tảo tăng → nước mất toàn bộ carbon ngay lập tức → cá không cần oxygen."
+        },
+        {
+          "key": "D",
+          "text": "Phân hủy hữu cơ → tạo oxygen vô hạn → cá chết vì thiếu oxygen."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Phú dưỡng làm sinh khối tảo tăng mạnh; khi tảo chết, sinh vật phân hủy tiêu thụ oxygen. Sự mất cân bằng oxygen, còn phụ thuộc thời điểm và điều kiện nước, có thể góp phần gây chết cá.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tong-hop-01-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-sinh-thai",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai mảnh rừng có quần thể thú nhỏ bị chia cắt bởi đường giao thông. Mục tiêu là giảm cô lập di truyền mà vẫn hạn chế tai nạn. Biện pháp nào phù hợp nhất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thả ngay một loài săn mồi ngoại lai mà không đánh giá."
+        },
+        {
+          "key": "B",
+          "text": "Phá bỏ toàn bộ cây giữa hai mảnh rừng."
+        },
+        {
+          "key": "C",
+          "text": "Tạo hành lang hoặc cầu vượt sinh thái phù hợp loài, kết hợp bảo vệ sinh cảnh và theo dõi hiệu quả."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ tăng ánh sáng và tốc độ xe trên đường."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kết nối sinh cảnh bằng công trình phù hợp có thể hỗ trợ di chuyển an toàn và trao đổi gene. Cần bảo vệ sinh cảnh, đánh giá rủi ro và theo dõi, không chỉ xây công trình rồi mặc định thành công.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Đề ôn tập tổng hợp số 1",
+        "Năm nhóm kiến thức"
+      ]
+    }
+  ]
+}

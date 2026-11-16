@@ -1,6 +1,6 @@
 // Một lệnh duy nhất cho toàn bộ vòng kiểm tra của repo này.
 //   node scripts/verify.mjs                  -> tự chọn bộ test theo file vừa sửa
-//   node scripts/verify.mjs --scope=all      -> typecheck + lint + build + 11 bộ test (chạy song song)
+//   node scripts/verify.mjs --scope=all      -> typecheck + lint + build + mọi bộ test cục bộ (chạy song song)
 //   node scripts/verify.mjs --scope=deploy   -> như all cộng thêm kiểm tra bản live
 //   node scripts/verify.mjs --scope=toan --jobs=1  -> một bộ, chạy tuần tự cho dễ đọc log
 // Mọi tiến trình con dùng process.execPath nên không cần thêm node vào PATH.
@@ -33,6 +33,8 @@ const SUITES = [
   { id: 'dia', file: 'dia/verify-dia.js', title: 'Đề Địa lí 12', lane: 'subject' },
   { id: 'tinhoc', file: 'tinhoc/verify-tinhoc.js', title: 'Đề Tin học 12', lane: 'subject' },
   { id: 'hoa', file: 'hoa/verify-hoa.js', title: 'Đề Hóa học 11', lane: 'subject' },
+  { id: 'vatli', home: ROOT, file: 'scripts/verify-vat-li.cjs', title: 'Đề Vật lí 12 và ngân hàng luyện tập', lane: 'subject' },
+  { id: 'sinh', home: ROOT, file: 'scripts/verify-sinh-hoc.cjs', title: 'Đề Sinh học 12 và ngân hàng luyện tập', lane: 'subject' },
   { id: 'toan', file: 'toan/verify-toan.js', title: 'Đề Toán tốt nghiệp THPT các năm', lane: 'subject' },
   { id: 'live', file: 'shot/verify-live.js', title: 'Bản đã deploy trên Cloudflare', lane: 'live' },
 ];
@@ -68,6 +70,8 @@ const EXAM_PATTERNS = [
   [/^content\/exams\/de-toan-tn-/, ['toan']],
   [/^content\/exams\/de-tin-hoc-/, ['tinhoc']],
   [/^content\/exams\/de-hoa-/, ['hoa']],
+  [/^content\/exams\/de-vat-li-/, ['vatli']],
+  [/^content\/exams\/de-sinh-/, ['sinh']],
 ];
 
 // Tài liệu, script nội bộ: không cần mở trình duyệt.
@@ -417,9 +421,9 @@ function printFailures(output) {
 }
 
 function printList() {
-  log('Bộ test hiện có (file nằm ngoài repo, xem --help):');
+  log('Bộ test hiện có (đường dẫn đầy đủ của từng bộ):');
   for (const suite of SUITES) {
-    const path = join(SUITE_HOME, suite.file);
+    const path = join(suite.home ?? SUITE_HOME, suite.file);
     log(`  ${suite.id.padEnd(9)} ${suite.title.padEnd(42)} ${existsSync(path) ? path : 'THIẾU FILE'}`);
   }
   log('Nhóm: ' + Object.keys(GROUPS).join(' | ') + ' | hoặc danh sách id phân cách bằng dấu phẩy.');
@@ -536,7 +540,7 @@ async function main() {
     while (queue.length > 0) {
       const id = queue.shift();
       const suite = SUITES.find((item) => item.id === id);
-      const path = join(SUITE_HOME, suite.file);
+      const path = join(suite.home ?? SUITE_HOME, suite.file);
 
       if (!existsSync(path)) {
         finished += 1;
@@ -551,7 +555,7 @@ async function main() {
         label: id,
       });
       const summary = parseSummary(run.output);
-      const ok = run.ok && summary !== null && summary.failed === 0;
+      const ok = run.ok && summary !== null && summary.checks > 0 && summary.failed === 0;
 
       finished += 1;
       log(

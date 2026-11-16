@@ -1,0 +1,699 @@
+{
+  "id": "de-vat-li-12-chuong-04",
+  "title": "Vật lí 12 – Chương IV. Vật lí hạt nhân",
+  "slug": "de-vat-li-12-chuong-04",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Chương IV. Vật lí hạt nhân, theo phạm vi chương trình Kết nối tri thức. Không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "vat-li",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "VL12-CHUONG-04",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T14:00:00.000Z",
+  "updatedAt": "2026-11-16T14:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-vat-li-12-chuong-04-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạt nhân $^{23}_{11}\\mathrm{Na}$ có bao nhiêu neutron?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12."
+        },
+        {
+          "key": "B",
+          "text": "11."
+        },
+        {
+          "key": "C",
+          "text": "23."
+        },
+        {
+          "key": "D",
+          "text": "34."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Số khối A = 23 bằng tổng proton và neutron, số proton Z = 11. Vì vậy N = A − Z = 12.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai hạt nhân đồng vị có đặc điểm nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cùng số neutron, khác số proton."
+        },
+        {
+          "key": "B",
+          "text": "Cùng số khối, khác số proton."
+        },
+        {
+          "key": "C",
+          "text": "Cùng số proton, khác số neutron."
+        },
+        {
+          "key": "D",
+          "text": "Cùng cả số proton lẫn số neutron."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Đồng vị thuộc cùng một nguyên tố nên có cùng Z, nhưng khác số neutron và do đó khác số khối.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Tia alpha là dòng các hạt nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Electron."
+        },
+        {
+          "key": "B",
+          "text": "Positron."
+        },
+        {
+          "key": "C",
+          "text": "Photon không mang điện."
+        },
+        {
+          "key": "D",
+          "text": "Hạt nhân helium gồm hai proton và hai neutron."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Hạt alpha là hạt nhân helium-4, gồm hai proton và hai neutron, có điện tích +2e và số khối 4.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Tia gamma có bản chất gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dòng neutron."
+        },
+        {
+          "key": "B",
+          "text": "Bức xạ điện từ năng lượng cao."
+        },
+        {
+          "key": "C",
+          "text": "Dòng proton."
+        },
+        {
+          "key": "D",
+          "text": "Dòng nguyên tử helium trung hoà."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tia gamma gồm các photon phát ra khi hạt nhân chuyển về mức năng lượng thấp hơn. Nó không mang điện tích.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Đơn vị becquerel (Bq) biểu thị đại lượng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Năng lượng liên kết; 1 Bq bằng 1 J."
+        },
+        {
+          "key": "B",
+          "text": "Hoạt độ phóng xạ; 1 Bq tương ứng trung bình một phân rã mỗi giây."
+        },
+        {
+          "key": "C",
+          "text": "Khối lượng hạt nhân; 1 Bq bằng 1 kg."
+        },
+        {
+          "key": "D",
+          "text": "Nhiệt độ; 1 Bq bằng 1 K."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hoạt độ là tốc độ phân rã trung bình của một mẫu. Đơn vị SI là becquerel, tương ứng một phân rã trong một giây.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Chu kì bán rã của một đồng vị phóng xạ là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thời gian mọi hạt nhân trong mẫu chắc chắn phân rã hết."
+        },
+        {
+          "key": "B",
+          "text": "Một nửa thời gian tồn tại chính xác của từng hạt nhân."
+        },
+        {
+          "key": "C",
+          "text": "Thời gian để khối lượng mỗi hạt nhân giảm một nửa."
+        },
+        {
+          "key": "D",
+          "text": "Thời gian để số hạt nhân chưa phân rã của một mẫu lớn giảm còn một nửa theo định luật phóng xạ."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Chu kì bán rã là đại lượng thống kê của một tập hợp nhiều hạt nhân. Không xác định được chính xác thời điểm phân rã của từng hạt nhân riêng lẻ.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạt nhân $^{210}_{84}\\mathrm{Po}$ phóng xạ alpha. Hạt nhân con có số khối A và số proton Z nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A = 210, Z = 83."
+        },
+        {
+          "key": "B",
+          "text": "A = 208, Z = 80."
+        },
+        {
+          "key": "C",
+          "text": "A = 206, Z = 82."
+        },
+        {
+          "key": "D",
+          "text": "A = 214, Z = 86."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Phát ra hạt alpha có A = 4 và Z = 2 nên hạt nhân con có A = 210 − 4 = 206 và Z = 84 − 2 = 82.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Hạt nhân $^{14}_{6}\\mathrm{C}$ phân rã beta trừ. Hạt nhân con có số khối A và số proton Z nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A = 14, Z = 7."
+        },
+        {
+          "key": "B",
+          "text": "A = 14, Z = 5."
+        },
+        {
+          "key": "C",
+          "text": "A = 13, Z = 6."
+        },
+        {
+          "key": "D",
+          "text": "A = 10, Z = 4."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Trong beta trừ, một neutron biến thành proton kèm electron và phản neutrino. Số nucleon không đổi, Z tăng một đơn vị.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hạt nhân ở trạng thái kích thích phát ra photon gamma. Số khối và số proton thay đổi thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số khối giảm 4, số proton giảm 2."
+        },
+        {
+          "key": "B",
+          "text": "Số khối không đổi, số proton tăng 1."
+        },
+        {
+          "key": "C",
+          "text": "Số khối giảm 1, số proton không đổi."
+        },
+        {
+          "key": "D",
+          "text": "Cả số khối và số proton đều không đổi."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Phát gamma làm giảm năng lượng của hạt nhân, không làm mất proton hay neutron nên A và Z giữ nguyên.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Độ hụt khối của một hạt nhân là 0,020 u. Cho 1 u·c² = 931,5 MeV. Năng lượng liên kết bằng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "46,575 MeV."
+        },
+        {
+          "key": "B",
+          "text": "18,63 MeV."
+        },
+        {
+          "key": "C",
+          "text": "186,3 MeV."
+        },
+        {
+          "key": "D",
+          "text": "0,020 MeV."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Năng lượng liên kết E = Δmc² = 0,020 × 931,5 = 18,63 MeV. Độ hụt khối không phải chính khối lượng hạt nhân.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một hạt nhân có số khối 56 và năng lượng liên kết 492,8 MeV. Năng lượng liên kết riêng là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8,8 MeV/nucleon."
+        },
+        {
+          "key": "B",
+          "text": "56 MeV/nucleon."
+        },
+        {
+          "key": "C",
+          "text": "27,6 MeV/nucleon."
+        },
+        {
+          "key": "D",
+          "text": "0,114 MeV/nucleon."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Năng lượng liên kết riêng bằng năng lượng liên kết chia số nucleon: 492,8/56 = 8,8 MeV/nucleon.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo tiêu chí năng lượng liên kết riêng ở chương trình phổ thông, hạt nhân X có 7,5 MeV/nucleon và Y có 8,5 MeV/nucleon. Nhận xét nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "X liên kết bền vững hơn Y theo tiêu chí này."
+        },
+        {
+          "key": "B",
+          "text": "Hai hạt nhân luôn có cùng số khối."
+        },
+        {
+          "key": "C",
+          "text": "Y liên kết bền vững hơn X theo tiêu chí này."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ so tổng năng lượng liên kết, không thể dùng năng lượng liên kết riêng."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Năng lượng liên kết riêng lớn hơn nghĩa là năng lượng trung bình cần để tách một nucleon lớn hơn. Theo tiêu chí đã nêu, Y bền vững hơn; không suy ra số khối hay chu kì bán rã.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu lớn của một đồng vị có chu kì bán rã 5 ngày. Sau 15 ngày, tỉ lệ hạt nhân mẹ còn lại là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "25%."
+        },
+        {
+          "key": "B",
+          "text": "37,5%."
+        },
+        {
+          "key": "C",
+          "text": "12,5%."
+        },
+        {
+          "key": "D",
+          "text": "87,5%."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Thời gian bằng ba chu kì bán rã, nên N/N₀ = (1/2)³ = 1/8 = 12,5%. 87,5% là phần đã phân rã.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu có hoạt độ ban đầu 800 Bq và chu kì bán rã 2 giờ. Sau 6 giờ, hoạt độ của đồng vị đó là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "100 Bq."
+        },
+        {
+          "key": "B",
+          "text": "200 Bq."
+        },
+        {
+          "key": "C",
+          "text": "400 Bq."
+        },
+        {
+          "key": "D",
+          "text": "0 Bq."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hoạt độ của đồng vị giảm cùng tỉ lệ với số hạt nhân mẹ: H = 800 × (1/2)^(6/2) = 100 Bq.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Phản ứng tổng hợp hạt nhân được mô tả đúng bởi phát biểu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một hạt nhân nặng tách thành các hạt nhân nhẹ hơn."
+        },
+        {
+          "key": "B",
+          "text": "Các hạt nhân nhẹ kết hợp tạo hạt nhân nặng hơn."
+        },
+        {
+          "key": "C",
+          "text": "Electron chuyển từ lớp vỏ ngoài vào lớp vỏ trong."
+        },
+        {
+          "key": "D",
+          "text": "Một chất rắn chuyển thành chất lỏng."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tổng hợp hạt nhân là kết hợp các hạt nhân nhẹ. Sự tách hạt nhân nặng là phân hạch; chuyển mức electron thuộc lớp vỏ nguyên tử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Khi làm việc với nguồn phóng xạ theo quy trình chuyên môn, nhóm nguyên tắc nào giúp giảm phơi nhiễm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tăng thời gian tiếp xúc, giảm khoảng cách và bỏ che chắn."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ đeo găng tay là loại bỏ được mọi bức xạ."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ dựa vào màu sắc và mùi để xác định nguồn an toàn."
+        },
+        {
+          "key": "D",
+          "text": "Giảm thời gian tiếp xúc, tăng khoảng cách và dùng che chắn phù hợp."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Ba nguyên tắc là thời gian, khoảng cách và che chắn phù hợp loại bức xạ. Không thể đánh giá phóng xạ bằng giác quan; việc thao tác phải theo quy trình chuyên môn.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu có 10¹² hạt nhân mẹ, chu kì bán rã 1000 s. Lấy ln 2 = 0,693. Hoạt độ của đồng vị trong mẫu lúc đó là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6,93 × 10¹⁴ Bq."
+        },
+        {
+          "key": "B",
+          "text": "6,93 × 10⁸ Bq."
+        },
+        {
+          "key": "C",
+          "text": "1,443 × 10⁹ Bq."
+        },
+        {
+          "key": "D",
+          "text": "6,93 × 10⁹ Bq."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hằng số phân rã λ = ln 2/T = 0,693/1000 s⁻¹. Hoạt độ H = λN = 6,93 × 10⁸ Bq.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Sau 12 ngày, một mẫu chỉ còn 1/16 số hạt nhân mẹ ban đầu. Chu kì bán rã là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4 ngày."
+        },
+        {
+          "key": "B",
+          "text": "6 ngày."
+        },
+        {
+          "key": "C",
+          "text": "48 ngày."
+        },
+        {
+          "key": "D",
+          "text": "3 ngày."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Vì 1/16 = (1/2)⁴ nên đã trải qua bốn chu kì bán rã. T = 12/4 = 3 ngày.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một mẫu ban đầu có 8,0 × 10¹⁰ hạt nhân mẹ, mỗi phân rã tạo một hạt nhân con bền. Không có hạt nhân con lúc đầu. Sau hai chu kì bán rã, số hạt nhân con đã tạo thành là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2,0 × 10¹⁰."
+        },
+        {
+          "key": "B",
+          "text": "4,0 × 10¹⁰."
+        },
+        {
+          "key": "C",
+          "text": "6,0 × 10¹⁰."
+        },
+        {
+          "key": "D",
+          "text": "8,0 × 10¹⁰."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Hạt nhân mẹ còn N₀/4 = 2,0 × 10¹⁰. Số đã phân rã bằng N₀ − N = 6,0 × 10¹⁰ và cũng bằng số hạt nhân con bền được tạo thành.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    },
+    {
+      "id": "de-vat-li-12-chuong-04-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-li-12-hat-nhan",
+      "type": "SINGLE_CHOICE",
+      "content": "Một phản ứng hạt nhân có tổng khối lượng nghỉ ban đầu lớn hơn tổng khối lượng nghỉ sau phản ứng 0,010 u. Cho 1 u·c² = 931,5 MeV. Phản ứng trao đổi năng lượng thế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Toả 9,315 MeV."
+        },
+        {
+          "key": "B",
+          "text": "Thu 9,315 MeV."
+        },
+        {
+          "key": "C",
+          "text": "Toả 93,15 MeV."
+        },
+        {
+          "key": "D",
+          "text": "Thu 93,15 MeV."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Năng lượng toả Q = (m trước − m sau)c² = 0,010 × 931,5 = 9,315 MeV > 0. Khối lượng nghỉ giảm, phần năng lượng chênh lệch chuyển thành các dạng năng lượng khác.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Vật lí 12",
+        "Chương IV. Vật lí hạt nhân",
+        "hat-nhan"
+      ]
+    }
+  ]
+}

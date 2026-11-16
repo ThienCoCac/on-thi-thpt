@@ -1396,6 +1396,87 @@
           "order": 25
         }
       ]
+    },
+    {
+      "id": "vat-li",
+      "name": "Vật lí",
+      "slug": "vat-li",
+      "description": "Ôn tập Vật lí 12 theo bốn chương Kết nối tri thức: Vật lí nhiệt, Khí lí tưởng, Từ trường và Vật lí hạt nhân. Đề tự soạn kèm lời giải, không phải đề thi chính thức.",
+      "order": 9,
+      "topics": [
+        {
+          "id": "topic-li-12-nhiet",
+          "name": "Chương I. Vật lí nhiệt",
+          "slug": "vat-li-12-nhiet",
+          "description": "Cấu trúc chất, chuyển thể, nội năng, định luật I nhiệt động lực học và nhiệt lượng.",
+          "order": 1
+        },
+        {
+          "id": "topic-li-12-khi",
+          "name": "Chương II. Khí lí tưởng",
+          "slug": "vat-li-12-khi-li-tuong",
+          "description": "Mô hình động học phân tử, định luật Boyle và Charles, phương trình trạng thái, động năng phân tử.",
+          "order": 2
+        },
+        {
+          "id": "topic-li-12-tu-truong",
+          "name": "Chương III. Từ trường",
+          "slug": "vat-li-12-tu-truong",
+          "description": "Lực từ, từ thông, cảm ứng điện từ, máy phát điện, máy biến áp và sóng điện từ.",
+          "order": 3
+        },
+        {
+          "id": "topic-li-12-hat-nhan",
+          "name": "Chương IV. Vật lí hạt nhân",
+          "slug": "vat-li-12-hat-nhan",
+          "description": "Cấu trúc hạt nhân, năng lượng liên kết, phản ứng hạt nhân, phóng xạ và ứng dụng an toàn.",
+          "order": 4
+        }
+      ]
+    },
+    {
+      "id": "sinh-hoc",
+      "name": "Sinh học",
+      "slug": "sinh-hoc",
+      "description": "Ôn tập Sinh học 12 theo năm nhóm kiến thức của chương trình Kết nối tri thức: di truyền phân tử, nhiễm sắc thể, di truyền mở rộng và quần thể, tiến hóa, sinh thái và môi trường. Đề tự soạn có lời giải, không phải đề thi chính thức.",
+      "order": 10,
+      "topics": [
+        {
+          "id": "topic-sinh-12-phan-tu",
+          "name": "Di truyền phân tử",
+          "slug": "sinh-12-di-truyen-phan-tu",
+          "description": "Chương I: DNA, biểu hiện gene, đột biến gene và công nghệ di truyền.",
+          "order": 1
+        },
+        {
+          "id": "topic-sinh-12-nhiem-sac-the",
+          "name": "Di truyền nhiễm sắc thể",
+          "slug": "sinh-12-di-truyen-nhiem-sac-the",
+          "description": "Chương II: Mendel, tương tác gene, di truyền giới tính, liên kết gene, đột biến nhiễm sắc thể và di truyền người.",
+          "order": 2
+        },
+        {
+          "id": "topic-sinh-12-quan-the",
+          "name": "Di truyền mở rộng và quần thể",
+          "slug": "sinh-12-di-truyen-mo-rong-quan-the",
+          "description": "Chương III–IV: gene ngoài nhân, kiểu gene và môi trường, chọn giống, cấu trúc di truyền quần thể.",
+          "order": 3
+        },
+        {
+          "id": "topic-sinh-12-tien-hoa",
+          "name": "Tiến hóa",
+          "slug": "sinh-12-tien-hoa",
+          "description": "Chương V: bằng chứng tiến hóa, chọn lọc tự nhiên, các nhân tố tiến hóa và hình thành loài.",
+          "order": 4
+        },
+        {
+          "id": "topic-sinh-12-sinh-thai",
+          "name": "Sinh thái và môi trường",
+          "slug": "sinh-12-sinh-thai-moi-truong",
+          "description": "Chương VI–VIII: quần thể, quần xã, hệ sinh thái, diễn thế, bảo tồn và phát triển bền vững.",
+          "order": 5
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,699 @@
+{
+  "id": "de-sinh-12-tien-hoa",
+  "title": "Sinh học 12 – Tiến hóa",
+  "slug": "de-sinh-12-tien-hoa",
+  "description": "Đề tự soạn gồm 20 câu chọn một đáp án, 45 phút, 10 điểm; có lời giải. Chương V, theo phạm vi chương trình Kết nối tri thức. Ôn theo nhóm kiến thức, không bao quát từng bài SGK; không phải đề thi chính thức hoặc cấu trúc đề tốt nghiệp.",
+  "subject": "sinh-hoc",
+  "grade": 12,
+  "type": "TOPIC_TEST",
+  "durationMinutes": 45,
+  "totalScore": 10,
+  "examYear": 2026,
+  "examCode": "SH12-04",
+  "isFree": true,
+  "isFeatured": false,
+  "publishedAt": "2026-11-16T15:00:00.000Z",
+  "updatedAt": "2026-11-16T15:00:00.000Z",
+  "questions": [
+    {
+      "id": "de-sinh-12-tien-hoa-c1",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Loại bằng chứng nào cho thấy trực tiếp sinh vật đã từng tồn tại trong quá khứ địa chất?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hóa thạch."
+        },
+        {
+          "key": "B",
+          "text": "Tên gọi địa phương của loài."
+        },
+        {
+          "key": "C",
+          "text": "Số cá thể nuôi trong phòng thí nghiệm hiện nay."
+        },
+        {
+          "key": "D",
+          "text": "Màu sắc của một cá thể chưa rõ nguồn gốc."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hóa thạch là di tích hoặc dấu vết sinh vật được lưu giữ từ quá khứ. Chúng là bằng chứng trực tiếp quan trọng khi nghiên cứu lịch sử tiến hóa.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c2",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Tay người và chi trước của mèo có cùng nguồn gốc từ chi trước của tổ tiên chung nhưng đảm nhiệm chức năng khác nhau. Chúng được gọi là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cơ quan tương tự do không có nguồn gốc chung."
+        },
+        {
+          "key": "B",
+          "text": "Hai allele của một gene."
+        },
+        {
+          "key": "C",
+          "text": "Cơ quan tương đồng."
+        },
+        {
+          "key": "D",
+          "text": "Hai kiểu gene trong một quần thể."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cơ quan tương đồng có cùng nguồn gốc tiến hóa, có thể khác chức năng hiện tại. Chúng phản ánh quan hệ nguồn gốc và sự phân li thích nghi.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c3",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Xét riêng chức năng bay, cánh côn trùng và cánh chim hình thành từ những cấu trúc có nguồn gốc khác nhau. Đây là ví dụ của hiện tượng nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hai loài có cùng toàn bộ kiểu gene."
+        },
+        {
+          "key": "B",
+          "text": "Di truyền trực tiếp tính trạng từ côn trùng sang chim."
+        },
+        {
+          "key": "C",
+          "text": "Phân li allele trong giảm phân."
+        },
+        {
+          "key": "D",
+          "text": "Tiến hóa hội tụ tạo cấu trúc tương tự về chức năng."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Áp lực môi trường tương tự có thể dẫn đến các cấu trúc có chức năng giống nhau ở những nhánh tiến hóa khác nhau. Sự giống chức năng không đủ để kết luận nguồn gốc cấu trúc giống nhau.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c4",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong chọn lọc tự nhiên, sự khác biệt nào có ý nghĩa trực tiếp đối với việc truyền allele sang thế hệ sau?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ khác biệt về kích thước cơ thể."
+        },
+        {
+          "key": "B",
+          "text": "Khác biệt về số con hữu thụ đóng góp cho thế hệ sau."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ khác biệt về tuổi thọ, bất kể sinh sản."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ khác biệt về màu sắc do nhuộm nhân tạo."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Giá trị thích nghi liên quan đến thành công sinh sản tương đối. Sống lâu hoặc to lớn không tự động có lợi tiến hóa nếu không làm tăng đóng góp gene cho thế hệ sau.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c5",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong tiến hóa nhỏ, đại lượng nào của quần thể được xét là thay đổi qua các thế hệ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Danh sách cơ quan của một cá thể trưởng thành."
+        },
+        {
+          "key": "B",
+          "text": "Tần số allele và thành phần kiểu gene."
+        },
+        {
+          "key": "C",
+          "text": "Tuổi của một cá thể duy nhất."
+        },
+        {
+          "key": "D",
+          "text": "Số bữa ăn hằng ngày của một con vật."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Tiến hóa nhỏ được nghiên cứu ở cấp quần thể thông qua biến đổi cấu trúc di truyền. Sự lớn lên hoặc già đi của một cá thể không phải tiến hóa của quần thể.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c6",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Vai trò cơ bản của đột biến đối với tiến hóa là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Luôn tạo biến dị có lợi đúng theo nhu cầu."
+        },
+        {
+          "key": "B",
+          "text": "Luôn làm mọi allele có tần số bằng nhau."
+        },
+        {
+          "key": "C",
+          "text": "Ngăn chặn hoàn toàn chọn lọc tự nhiên."
+        },
+        {
+          "key": "D",
+          "text": "Tạo allele mới, cung cấp nguồn biến dị di truyền."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Đột biến có thể tạo allele mới. Hướng phát sinh đột biến không được định trước bởi nhu cầu thích nghi; tác động có lợi hay có hại còn phụ thuộc hoàn cảnh.",
+      "difficulty": "EASY",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c7",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một số cá thể từ quần thể khác di cư tới và sinh sản thành công trong quần thể nhận. Hiện tượng này có thể làm đổi tần số allele bằng nhân tố nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chỉ diễn thế sinh thái."
+        },
+        {
+          "key": "B",
+          "text": "Chỉ phân giải chất hữu cơ."
+        },
+        {
+          "key": "C",
+          "text": "Dòng gene."
+        },
+        {
+          "key": "D",
+          "text": "Sự lớn lên của từng cá thể."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Di cư kèm đóng góp giao tử đưa allele giữa các quần thể, tạo dòng gene. Chỉ sự di chuyển mà không truyền gene chưa đủ để kết luận có dòng gene qua sinh sản.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c8",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một trận lũ ngẫu nhiên để lại số rất ít cá thể sống sót, không phụ thuộc kiểu gene tại locus đang xét. Sự đổi tần số allele do lấy mẫu ngẫu nhiên này thuộc nhân tố nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Phiêu bạt di truyền."
+        },
+        {
+          "key": "B",
+          "text": "Chọn lọc nhân tạo có chủ đích."
+        },
+        {
+          "key": "C",
+          "text": "Đột biến đồng nghĩa bắt buộc."
+        },
+        {
+          "key": "D",
+          "text": "Ngẫu phối luôn khôi phục allele đã mất."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Một nhóm sống sót nhỏ có thể không đại diện cho vốn gene ban đầu. Đây là hiệu ứng thắt cổ chai, một biểu hiện của phiêu bạt di truyền, không đòi hỏi khác biệt thích nghi ở locus đó.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c9",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai quần thể cây cùng khu vực nhưng ra hoa vào hai thời điểm không trùng nhau nên không giao phấn. Đây là dạng cách li nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách li sau hợp tử do con lai bất thụ."
+        },
+        {
+          "key": "B",
+          "text": "Không có cách li vì cùng khu vực."
+        },
+        {
+          "key": "C",
+          "text": "Cách li sau hợp tử do hợp tử chết."
+        },
+        {
+          "key": "D",
+          "text": "Cách li trước hợp tử về thời gian."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Khác thời gian sinh sản ngăn sự gặp nhau và kết hợp của giao tử trước khi hợp tử hình thành. Vì vậy đây là cơ chế cách li trước hợp tử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c10",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Hai loài giao phối tạo được con lai sống nhưng con lai không có khả năng sinh sản hữu tính. Đây là ví dụ của cơ chế nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cách li trước hợp tử về nơi ở."
+        },
+        {
+          "key": "B",
+          "text": "Cách li sau hợp tử."
+        },
+        {
+          "key": "C",
+          "text": "Không có bất kì cách li sinh sản nào."
+        },
+        {
+          "key": "D",
+          "text": "Dòng gene hoàn toàn không bị cản trở."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Hợp tử đã hình thành và con lai sống được, nhưng bất thụ làm hạn chế truyền gene tiếp tục. Đó là một dạng cách li sau hợp tử.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c11",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Theo quan niệm loài sinh học, tiêu chí cốt lõi khi phân biệt các loài sinh sản hữu tính đang tồn tại là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khả năng giao phối tạo con hữu thụ trong tự nhiên và cách li sinh sản với nhóm khác."
+        },
+        {
+          "key": "B",
+          "text": "Mọi cá thể bắt buộc giống hệt về màu sắc."
+        },
+        {
+          "key": "C",
+          "text": "Chỉ cần sống ở hai tỉnh khác nhau."
+        },
+        {
+          "key": "D",
+          "text": "Chỉ cần có tên thông thường khác nhau."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Quan niệm loài sinh học dựa trên quan hệ sinh sản và cách li sinh sản. Nó có giới hạn khi áp dụng cho hóa thạch hoặc sinh vật chỉ sinh sản vô tính.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c12",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Trong quần thể vi khuẩn đã có sẵn biến dị di truyền về khả năng kháng một kháng sinh. Khi sử dụng kháng sinh đó, diễn biến nào giải thích sự tăng tỉ lệ vi khuẩn kháng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mọi vi khuẩn tự chủ động tạo đúng đột biến cần thiết."
+        },
+        {
+          "key": "B",
+          "text": "Thuốc làm mọi tế bào nhận cùng một allele từ người bệnh."
+        },
+        {
+          "key": "C",
+          "text": "Vi khuẩn kháng có lợi thế sống sót và sinh sản trong môi trường có thuốc."
+        },
+        {
+          "key": "D",
+          "text": "Vi khuẩn nhạy cảm đều biến thành bào quan."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Kháng sinh tạo áp lực chọn lọc: biến thể kháng có khả năng để lại nhiều hậu duệ hơn trong môi trường này. Không cần giả định biến dị có lợi phát sinh theo nhu cầu.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c13",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Cách li địa lí có vai trò nào trong quá trình hình thành loài khác khu vực?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tự động tạo loài mới ngay khi xuất hiện một con sông."
+        },
+        {
+          "key": "B",
+          "text": "Luôn làm các quần thể có kiểu gene giống nhau hơn."
+        },
+        {
+          "key": "C",
+          "text": "Hạn chế dòng gene, tạo điều kiện các quần thể phân hóa và có thể hình thành cách li sinh sản."
+        },
+        {
+          "key": "D",
+          "text": "Thay thế hoàn toàn vai trò của mọi nhân tố tiến hóa."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Rào cản địa lí làm giảm trao đổi gene, nhưng hình thành loài còn đòi hỏi sự phân hóa và thiết lập cách li sinh sản. Không phải mọi chia cắt địa lí đều lập tức tạo loài mới.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c14",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một allele có lợi trong môi trường này nhưng bất lợi trong môi trường khác. Điều đó thể hiện đặc điểm nào của thích nghi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thích nghi có tính tương đối, phụ thuộc môi trường."
+        },
+        {
+          "key": "B",
+          "text": "Thích nghi luôn hoàn hảo ở mọi môi trường."
+        },
+        {
+          "key": "C",
+          "text": "Môi trường không liên quan đến chọn lọc."
+        },
+        {
+          "key": "D",
+          "text": "Mọi allele có lợi đều bất biến về tần số."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Giá trị thích nghi được đánh giá trong điều kiện cụ thể. Khi môi trường hoặc tương tác sinh học thay đổi, tác động của cùng allele lên thành công sinh sản có thể thay đổi.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c15",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "So sánh các trình tự DNA tương đồng giữa nhiều loài có thể cung cấp thông tin chủ yếu nào?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bằng chứng mọi loài có tuổi thọ giống nhau."
+        },
+        {
+          "key": "B",
+          "text": "Bằng chứng phân tử để suy luận quan hệ họ hàng tiến hóa."
+        },
+        {
+          "key": "C",
+          "text": "Kết luận chắc chắn chỉ từ một nucleotide về toàn bộ cây tiến hóa."
+        },
+        {
+          "key": "D",
+          "text": "Kết luận DNA không thay đổi qua thời gian."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Các trình tự tương đồng lưu giữ dấu vết nguồn gốc chung và biến đổi qua thời gian. Suy luận đáng tin cậy cần chọn dữ liệu, mô hình và phạm vi so sánh thích hợp.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c16",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Ở một locus trung tính, vì sao phiêu bạt di truyền thường gây biến động tần số allele mạnh hơn trong quần thể nhỏ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quần thể nhỏ luôn có mọi đột biến có lợi."
+        },
+        {
+          "key": "B",
+          "text": "Mọi allele trong quần thể nhỏ đều là allele trội."
+        },
+        {
+          "key": "C",
+          "text": "Các cá thể nhỏ luôn di chuyển nhanh hơn."
+        },
+        {
+          "key": "D",
+          "text": "Sai lệch do lấy mẫu ngẫu nhiên chiếm tỉ lệ lớn hơn khi số cá thể sinh sản ít."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Số cá thể sinh sản càng ít, đóng góp ngẫu nhiên của từng cá thể càng ảnh hưởng lớn đến vốn gene thế hệ sau. Phiêu bạt có thể làm mất hoặc cố định allele, kể cả allele trung tính.",
+      "difficulty": "MEDIUM",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c17",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể đơn bội ban đầu có 400 cá thể mang A và 600 cá thể mang a. Trong một đợt chọn lọc, 75% nhóm A và 25% nhóm a sống sót. Không sinh sản hay di cư trong đợt đó. Tần số A ở nhóm sống sót là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2/5."
+        },
+        {
+          "key": "B",
+          "text": "2/3."
+        },
+        {
+          "key": "C",
+          "text": "1/2."
+        },
+        {
+          "key": "D",
+          "text": "3/4."
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": "Nhóm sống sót có 400 × 0,75 = 300 cá thể A và 600 × 0,25 = 150 cá thể a. Do là đơn bội, p(A) = 300/(300 + 150) = 2/3.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c18",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một quần thể gồm 800 cá thể lưỡng bội có p(A) = 0,25 nhận thêm 200 cá thể cùng loài có p(A) = 0,75. Xét locus thường, không có sinh hay tử trong quá trình nhập cư. Tần số A sau nhập cư là bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,50."
+        },
+        {
+          "key": "B",
+          "text": "0,25."
+        },
+        {
+          "key": "C",
+          "text": "0,75."
+        },
+        {
+          "key": "D",
+          "text": "0,35."
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": "Tần số allele sau nhập cư là trung bình có trọng số: (800 × 0,25 + 200 × 0,75)/1 000 = 0,35. Đây là thay đổi vốn gene do dòng gene.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c19",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một cây phát sinh có cấu trúc ((A, B), C): A và B chung tổ tiên gần nhất với nhau, C tách ra sớm hơn. Không có thông tin thời gian hay độ dài nhánh. Kết luận nào được dữ liệu này hỗ trợ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A chắc chắn đang tiến hóa nhanh gấp đôi B."
+        },
+        {
+          "key": "B",
+          "text": "C là tổ tiên trực tiếp đang sống của A."
+        },
+        {
+          "key": "C",
+          "text": "A có quan hệ họ hàng gần B hơn C."
+        },
+        {
+          "key": "D",
+          "text": "A hoàn hảo hơn C về mọi đặc điểm."
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": "Cấu trúc nhánh cho biết A và B có tổ tiên chung gần hơn so với tổ tiên chung của chúng với C. Không có cơ sở suy tốc độ tiến hóa hay xếp loài hiện tại theo mức hoàn hảo.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    },
+    {
+      "id": "de-sinh-12-tien-hoa-c20",
+      "partName": "Phần I. Trắc nghiệm nhiều phương án lựa chọn",
+      "topic": "topic-sinh-12-tien-hoa",
+      "type": "SINGLE_CHOICE",
+      "content": "Một nhóm nhỏ tách khỏi quần thể lớn đến đảo. Do ngẫu nhiên, nhóm này không mang allele b vốn có ở quần thể gốc. Không có đột biến hoặc nhập cư về sau. Nhận định nào đúng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ngẫu phối trên đảo không thể tự tạo lại allele b đã vắng mặt."
+        },
+        {
+          "key": "B",
+          "text": "Ngẫu phối chắc chắn tạo lại b sau một thế hệ."
+        },
+        {
+          "key": "C",
+          "text": "b mất đi chứng minh b luôn có hại."
+        },
+        {
+          "key": "D",
+          "text": "Mọi cá thể trên đảo chắc chắn thuộc loài mới ngay lập tức."
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": "Hiệu ứng sáng lập có thể làm mất allele do lấy mẫu ngẫu nhiên. Ngẫu phối chỉ tổ hợp các allele hiện có, không tạo allele mới; mất b không đủ chứng minh chọn lọc chống b hay loài mới.",
+      "difficulty": "HARD",
+      "score": 0.5,
+      "tags": [
+        "Sinh học 12",
+        "Tiến hóa",
+        "Chương V"
+      ]
+    }
+  ]
+}
