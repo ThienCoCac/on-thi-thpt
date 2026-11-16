@@ -2,7 +2,17 @@
 
 Cập nhật 16/11/2026. Mở task mới thì đọc file này trước, rồi tới `AGENTS.md`.
 
-## Đợt hiện tại — Sinh học 12 (16/11, chưa commit/push/deploy)
+## Trạng thái đã xuất bản ngày 16/11 — Vật lí và Sinh học 12
+
+- Người dùng đã yêu cầu rõ **commit/push/deploy**. Cả hai đợt đã commit ở **`fafa1dd`**, push `origin/main` (`90f2438..fafa1dd`) và deploy thành công; không còn đợt Vật lí/Sinh học chờ xuất bản.
+- **Bản LIVE: 221 đề / 7.869 câu / 11 môn**, có đủ **5 đề Vật lí 12 / 100 câu** và **6 đề Sinh học 12 / 120 câu**. Địa chỉ: https://on-thi-thpt.thiencogemini1.workers.dev — Cloudflare version **`e7055212-dcb8-479a-b388-e5d85862da2f`**.
+- Trước phát hành: `check-exam --all` **221 đề / 7869 câu / 6 WARN Sử cũ**, không lỗi; `verify --scope=deploy --build` **Tất cả 15 bộ test đều xanh**, tổng **1141 kiểm tra / 215,4 giây**, exit 0. Typecheck, lint, build đều qua; build 68,7 giây.
+- Sau deploy: `verify --scope=live` **41/41**, thông báo **Tất cả 1 bộ test đều xanh**, exit 0. Chạy thêm hai suite với `BASE=https://on-thi-thpt.thiencogemini1.workers.dev`: **Vật lí 116/116**, **Sinh học 136/136**, đều exit 0. Hai suite gồm kiểm nội dung trên đĩa và kiểm trực tiếp JSON, bộ lọc, ngân hàng, toàn bộ 220 câu luyện tập trên mobile và chấm điểm đúng hết/sai một câu trên bản công khai.
+- Wrangler gặp hai lỗi tải tài nguyên lên Cloudflare API và tự thử lại trong cùng lệnh; cuối cùng tải đủ 2221 file mới/thay đổi, báo deploy thành công cùng version trên. Không còn lỗi triển khai cần xử lí.
+- Commit cập nhật bàn giao sau phát hành chỉ đổi tài liệu, không đổi nội dung ứng dụng đã deploy. Không commit `.env`, thư mục build, ảnh kiểm tra hay các suite ngoài repo.
+- Nội dung vẫn là đề ôn tự soạn, không phải đề chính thức và chưa được giáo viên duyệt độc lập; giới hạn nguồn ở các mục lịch sử dưới đây vẫn còn nguyên. Hóa học 12 chưa bắt đầu, không tự chuyển sang đợt mới.
+
+## Đợt soạn Sinh học 12 (16/11, lịch sử trước khi xuất bản)
 
 - Sau đợt Vật lí, người dùng yêu cầu **“tiếp tục môn khác”**. Đã chọn **Sinh học 12**; không chuyển sang Hóa 12, không sửa lại các đề Vật lí hay các vấn đề Tin học cũ.
 - Trên đĩa hiện có **221 đề / 7.869 câu / 11 môn**. Đợt này thêm **6 đề Sinh học 12 / 120 câu**. Cả 5 đề Vật lí và 6 đề Sinh học vẫn chưa commit/push/deploy. Bản live theo lần kiểm tra xuất bản gần nhất vẫn **210 đề / 7.649 câu**, version `a4c240a8-ce17-4cdc-9923-e1d13f758cc0`; không kiểm tra lại live trong đợt này.
@@ -25,7 +35,7 @@ Câu hỏi và số liệu tự soạn. Đã đọc mục lục và các đoạn
 - Sinh thái: đọc các đoạn Bài 23, 24, 26, 28, 29, gồm [quần thể](https://vietjack.com/sinh-hoc-12-kn/ly-thuyet-bai-24-sinh-thai-hoc-quan-the.jsp), [quần xã](https://vietjack.com/sinh-hoc-12-kn/ly-thuyet-bai-26-quan-xa-sinh-vat.jsp), [hệ sinh thái](https://vietjack.com/sinh-hoc-12-kn/ly-thuyet-bai-28-he-sinh-thai.jsp), [vật chất và năng lượng](https://vietjack.com/sinh-hoc-12-kn/ly-thuyet-bai-29-trao-doi-vat-chat-va-chuyen-hoa-nang-luong.jsp). Hiệu suất truyền năng lượng được cho số cụ thể, không mặc định luôn 10%; phân biệt độ giàu loài (số loài) với độ đồng đều.
 - Phần cuối dùng các bài có nội dung thực trên Loigiaihay: [diễn thế](https://loigiaihay.com/ly-thuyet-dien-the-sinh-thai-sinh-hoc-12-ket-noi-tri-thuc-a177235.html), [sinh quyển và chu trình](https://loigiaihay.com/ly-thuyet-sinh-quyen-khu-sinh-hoc-va-chu-trinh-sinh-dia-hoa-sinh-12-ket-noi-tri-thuc-a177237.html), [phục hồi và bảo tồn](https://loigiaihay.com/ly-thuyet-sinh-thai-hoc-phuc-hoi-va-bao-ton-dang-sinh-vat-sinh-hoc-12-ket-noi-tri-thuc-a177238.html), [phát triển bền vững](https://loigiaihay.com/ly-thuyet-phat-trien-ben-vung-sinh-hoc-12-ket-noi-tri-thuc-a177248.html). Các trang VietJack Bài 30, 31, 33, 34 chưa có lý thuyết đủ dùng nên **không tính là đã kiểm chứng nội dung**. Không dùng ngưỡng độ mặn nước ngọt đáng ngờ ở nguồn Loigiaihay.
 
-## Đợt trước — Vật lí 12 (16/11, chưa commit/push/deploy)
+## Đợt soạn Vật lí 12 (16/11, lịch sử trước khi xuất bản)
 
 - Người dùng giao tự chọn môn lớp 12 còn thiếu. Đã chọn **Vật lí 12**, không làm thêm Sinh học hoặc Hóa 12 trong đợt này.
 - Trên đĩa hiện có **215 đề / 7.749 câu / 10 môn**, thêm **5 đề Vật lí 12 / 100 câu**. Bản live vẫn là **210 đề / 7.649 câu**, version `a4c240a8-ce17-4cdc-9923-e1d13f758cc0`; chưa có yêu cầu xuất bản đợt Vật lí.
