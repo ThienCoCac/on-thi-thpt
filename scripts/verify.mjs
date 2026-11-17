@@ -36,6 +36,7 @@ const SUITES = [
   { id: 'vatli', home: ROOT, file: 'scripts/verify-vat-li.cjs', title: 'Đề Vật lí 12 và ngân hàng luyện tập', lane: 'subject' },
   { id: 'sinh', home: ROOT, file: 'scripts/verify-sinh-hoc.cjs', title: 'Đề Sinh học 12 và ngân hàng luyện tập', lane: 'subject' },
   { id: 'toan', file: 'toan/verify-toan.js', title: 'Đề Toán tốt nghiệp THPT các năm', lane: 'subject' },
+  { id: 'lo-trinh', home: ROOT, file: 'scripts/verify-lo-trinh-hoa.cjs', title: 'Lộ trình lấy lại gốc Hóa học', lane: 'subject' },
   { id: 'live', file: 'shot/verify-live.js', title: 'Bản đã deploy trên Cloudflare', lane: 'live' },
 ];
 
@@ -213,6 +214,10 @@ function selectSuites(scope, files) {
     // Route sinh file dữ liệu: mọi môn đọc từ đây nên không đoán riêng từng môn được.
     if (/^app\/data\//.test(file)) {
       return { ids: LOCAL_SUITES, reason: `${file} là route dữ liệu của mọi môn, phải chạy hết` };
+    }
+    if (/^(content\/roadmaps\/|components\/roadmap\/|app\/\(public\)\/lo-trinh\/|scripts\/verify-lo-trinh-hoa\.cjs$)/.test(file)) {
+      onlyDocs = false;
+      add(['lo-trinh', ...GROUPS.ui], file);
     }
     if (!DOCS_PATTERNS.some((pattern) => pattern.test(file))) {
       onlyDocs = false;

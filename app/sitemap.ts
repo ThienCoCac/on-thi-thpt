@@ -1,6 +1,8 @@
 import type { MetadataRoute } from 'next';
 import { listExams } from '@/lib/content';
 import { absoluteUrl } from '@/lib/seo';
+import { getChemistryRoadmap } from '@/lib/chemistry-roadmap';
+import { ROADMAP_PATH } from '@/lib/roadmap-progress';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const exams = listExams();
@@ -21,6 +23,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly',
       priority: 0.8,
     },
+    { url: absoluteUrl(ROADMAP_PATH), changeFrequency: 'monthly', priority: 0.8 },
+    ...getChemistryRoadmap().lessons.map((lesson) => ({
+      url: absoluteUrl(`${ROADMAP_PATH}/${lesson.id}`),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
     ...exams.map((exam) => ({
       url: absoluteUrl(`/de-thi/${exam.slug}`),
       lastModified: exam.updatedAt,

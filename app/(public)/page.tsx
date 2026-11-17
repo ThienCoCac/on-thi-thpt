@@ -160,6 +160,17 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section className="container pt-10">
+        <div className="flex flex-wrap items-center justify-between gap-6 rounded-2xl border border-emerald-200 bg-emerald-50 p-6 md:p-8">
+          <div className="max-w-2xl">
+            <p className="text-xs font-semibold uppercase tracking-wider text-emerald-800">Học lại từ đầu</p>
+            <h2 className="mt-2 text-2xl font-bold">Mất gốc Hóa? Bắt đầu từ những bước nhỏ.</h2>
+            <p className="mt-3 text-sm leading-7 text-slate-700">40 bài từ nền tảng THCS đến hết Hóa 11, ví dụ từng bước, tự kiểm tra và lịch ôn của riêng bạn.</p>
+          </div>
+          <Button asChild className="bg-emerald-700 hover:bg-emerald-800"><Link href="/lo-trinh/hoa-hoc-mat-goc">Mở lộ trình Hóa học</Link></Button>
+        </div>
+      </section>
+
       {featuredExams.length > 0 ? (
         <section className="container py-14 md:py-16">
           <SectionHeading

@@ -60,15 +60,17 @@ Một bộ test in ra `0/0 kiểm tra` hoặc "không đọc được dòng tổ
 
 Script ánh xạ tự động, nắm quy tắc để đoán thời gian:
 
-- `lib/**`, `content/subjects.json`, `app/globals.css`, `tailwind.config.ts`, `next.config.mjs`, `package.json`, `tsconfig.json`, `components/ui/**` → chạy hết 14 bộ (lõi dữ liệu/chấm điểm/style toàn site).
+- `lib/**`, `content/subjects.json`, `app/globals.css`, `tailwind.config.ts`, `next.config.mjs`, `package.json`, `tsconfig.json`, `components/ui/**` → chạy hết 15 bộ (lõi dữ liệu/chấm điểm/style toàn site).
 - `app/**`, `components/**`, `public/**` → `static` + `features`. Riêng `app/data/**` là route sinh
   `/data/exams/*.json` và `/data/bank/*.json` nên sửa xong phải chạy thêm `--scope=all`, không chỉ `ui`.
 - `content/exams/de-<môn>.json` → bộ test của môn đó + `static` + `features` (đổi số câu làm đổi tổng ở trang danh sách).
+- `content/roadmaps/**`, `components/roadmap/**`, `app/(public)/lo-trinh/**`, `scripts/verify-lo-trinh-hoa.cjs`
+  → `lo-trinh` + `static` + `features` (ánh xạ đặt trước nhánh chỉ-tài-liệu để sửa suite lộ trình vẫn mở trình duyệt).
 - `docs/**`, `scripts/**`, `README.md`, `AGENTS.md` → không cần mở trình duyệt (`--scope=none`).
 
-Mười bốn bộ test và số kiểm tra hiện tại: `static` 45, `features` 94, `van` 49, `ktpl` 53,
-`anh` 97, `mini` 27, `su` 151, `vact` 18, `dia` 88, `tinhoc` 54, `hoa` 30, `vatli` 116, `sinh` 136, `toan` 142 (tổng 1100).
-Lượt đầy đủ sau đợt Sinh học ngày 16/11: 14 bộ xanh, 213,5 giây; build trước đó 64,1 giây. Bộ `toan` kiểm
+Mười lăm bộ test và số kiểm tra hiện tại: `static` 45, `features` 94, `van` 49, `ktpl` 53,
+`anh` 97, `mini` 27, `su` 151, `vact` 18, `dia` 88, `tinhoc` 54, `hoa` 30, `vatli` 116, `sinh` 136, `toan` 142, `lo-trinh` 99 (tổng 1199).
+Lượt đầy đủ sau đợt lộ trình Hóa ngày 17/11: 15 bộ xanh, 221,1 giây; build trước đó 83,6 giây. Bộ `toan` kiểm
 tra cả 8 đề tốt nghiệp thật lẫn 19 đề ôn theo bài SGK; số bài và số chuyên đề nó đọc thẳng từ
 `content/subjects.json` + `content/exams/` nên thêm bài mới không phải sửa suite. Bộ `hoa` kiểm 25 đề Hóa 11
 theo bài (20 câu, 10 điểm mỗi đề), ngân hàng 500 câu và bộ lọc Hóa học. Bộ `vatli` nằm trong repo ở
@@ -76,6 +78,11 @@ theo bài (20 câu, 10 điểm mỗi đề), ngân hàng 500 câu và bộ lọc
 chạy `node scripts/verify-vat-li.cjs --content-only` để chỉ kiểm nội dung (93 kiểm tra).
 Bộ `sinh` nằm trong `scripts/verify-sinh-hoc.cjs`, kiểm 6 đề Sinh học 12 / 120 câu thuộc năm nhóm;
 chạy `node scripts/verify-sinh-hoc.cjs --content-only` để kiểm nội dung (110 kiểm tra, 45 đáp án số tính lại).
+Bộ `lo-trinh` nằm trong `scripts/verify-lo-trinh-hoa.cjs`, kiểm lộ trình lấy lại gốc Hóa học
+(40 bài / 120 câu / 10 chặng, trang `/lo-trinh/hoa-hoc-mat-goc`); chạy
+`node scripts/verify-lo-trinh-hoa.cjs --content-only` để kiểm nội dung (71 kiểm tra, 30 đáp án số tính lại).
+Phần trình duyệt chấm khảo sát đầu vào, bài đạt 3/3 và lần ôn sai, kiểm tra chặng, ghi chú,
+nhịp học, mobile 390px, kho lưu trữ hỏng/bị chặn và đủ 40 trang bài trong sitemap.
 Hai suite live
 (`shot/verify-live.js`, `su/verify-live.js`) chỉ chạy với `--scope=live` hoặc `--scope=deploy`, kiểm tra
 bản trên Cloudflare gồm cả việc file `/data/...` mới tải được và trang làm bài hết hiện "Đang tải nội dung".

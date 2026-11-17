@@ -1,6 +1,27 @@
 # Bàn giao — Ôn Thi THPT
 
-Cập nhật 16/11/2026. Mở task mới thì đọc file này trước, rồi tới `AGENTS.md`.
+Cập nhật 17/11/2026. Mở task mới thì đọc file này trước, rồi tới `AGENTS.md`.
+
+## Lộ trình lấy lại gốc Hóa học đến hết lớp 11 (17/11, CHƯA xuất bản)
+
+- Người dùng yêu cầu **“siêu lộ trình lấy lại gốc từ đầu cho người đã mất gốc hóa tới lớp 11”** và chọn **đưa vào website**. Đợt này chỉ làm lộ trình Hóa; không soạn Hóa 12, không sửa đề cũ, **chưa commit/push/deploy**. Bản live vẫn **221 đề / 7.869 câu**, version `e7055212-dcb8-479a-b388-e5d85862da2f`.
+- Trang mới `/lo-trinh/hoa-hoc-mat-goc` (bản đồ 10 chặng) và 40 trang bài `/lo-trinh/hoa-hoc-mat-goc/<lesson>`. **10 chặng × 4 bài = 40 bài**, mỗi bài ~45 phút gồm mục tiêu, ba đoạn lý thuyết, một ví dụ giải ba bước, chỗ dễ nhầm, gợi nhớ chủ động, ghi chú cá nhân và **3 câu tự kiểm tra có lời giải** → **120 câu riêng của lộ trình**, không nhập vào ngân hàng đề nên tổng 221 đề / 7.869 câu không đổi.
+- Đánh giá: khảo sát đầu vào **12 câu** (chỉ phủ nền tảng đến cân bằng/pH, không đo toàn bộ Hóa 11), kiểm tra mỗi chặng **8 câu** (câu 2–3 của bốn bài, mốc gợi ý 7/8), tổng hợp cuối **20 câu** (mốc gợi ý 16/20). Tất cả **dùng lại câu đã học** và UI nói rõ đó là tự ôn, không phải đề độc lập hay chứng nhận điểm số. Khảo sát/kiểm tra chặng không tự đánh dấu bài đã đạt; chỉ lượt tự kiểm cuối bài đạt 3/3 mới ghi nhận.
+- Tiến độ lưu ở khóa riêng `on-thi-thpt:hoa-mat-goc:v1`, tách khỏi tiến độ đề thi: best/latest/attempts, `masteredAt`, lịch ôn cách quãng **1/3/7/14 ngày** (lần ôn sai hẹn ôn ngay và vẫn hiện dù từng đạt), nhịp **1/2/4 bài mới mỗi tuần** → ước tính 40/20/10 tuần chưa tính học bù, ghi chú ≤3.000 kí tự mỗi bài. Dữ liệu hỏng hoặc bị chặn lưu trữ thì báo rõ, vẫn học trong phiên và **không ghi đè dữ liệu cũ**; có đồng bộ giữa các tab qua sự kiện `storage`. Không khóa chặng nào.
+- File mới: `content/roadmaps/hoa-hoc-mat-goc.json` (dữ liệu), `lib/roadmap-types.ts`, `lib/chemistry-roadmap.ts` (Zod + kiểm tham chiếu lúc build, chỉ đọc phía server), `lib/roadmap-progress.ts` (schema + hàm thuần `recordLesson`), `components/roadmap/` (`use-roadmap-progress.ts`, `roadmap-quiz.tsx`, `roadmap-dashboard.tsx`, `lesson-player.tsx`), hai page trong `app/(public)/lo-trinh/hoa-hoc-mat-goc/`, suite `scripts/verify-lo-trinh-hoa.cjs`. Sửa nhỏ: `site-header.tsx` thêm mục “Học lại Hóa”, trang chủ thêm thẻ dẫn vào lộ trình, `sitemap.ts` thêm 41 URL, `verify.mjs` đăng ký bộ `lo-trinh` và ánh xạ riêng cho đường dẫn lộ trình. Trang tổng quan chỉ nhận tóm tắt bài + pool câu hỏi; trang bài chỉ nhận lý thuyết của chính nó.
+- Liên kết “luyện sâu hơn” nối sang 25 đề Hóa 11 **theo nội dung thật của đề**, không theo số bài SGK: kho cũ đánh số `bai-05` = Sulfur, `bai-06` = Ammonia, `bai-07` = oxide nitrogen; bài nitrogen nối 04/06/07, bài sulfur nối 05/08/09. Không sửa các đề cũ để chiều lộ trình.
+- Kiểm tra đã chạy: `verify-lo-trinh-hoa.cjs --content-only` **71/71** (30 đáp án số tính lại từ dữ kiện, 22 chốt nguyên lí, kiểm liên kết đề theo tiêu đề thật); `verify.mjs --scope=lo-trinh,static,features --build` **3 bộ xanh / 238 kiểm tra**, exit 0 (typecheck 4,0s, lint 33,1s, build 83,6s; lo-trinh 99/99); `verify.mjs --scope=all --no-build` **Tất cả 15 bộ test đều xanh. Tổng 1199 kiểm tra, 221,1 giây**, exit 0, không bộ `0/0`. Đã xem ảnh `.verify/lo-trinh/danh-sach.png`, `bai-hoc.png`, `mobile.png`: bản đồ 10 chặng, trang bài và lời giải đọc tốt, không tràn ngang ở 390px. Suite trình duyệt phủ khảo sát 12/12 không tặng mastery, bài 3/3 hẹn ôn +1 ngày, lần ôn sai 2/3 vào hàng cần ôn, chặng 7/8, ghi chú còn sau tải lại, mobile trả lời đủ 3 câu, kho hỏng giữ nguyên, chặn `setItem` vẫn đổi nhịp trong phiên, đủ 40 trang bài + sitemap + lối vào trang chủ/header.
+- Bản nháp sinh dữ liệu `.verify/soan-lo-trinh.cjs` nằm ngoài git, **từ chối ghi đè** file JSON đã có; sửa nội dung thì sửa thẳng JSON (đã đồng bộ nháp với ba sửa đổi: lỗi lặp từ, câu hỏi peak MS, lời giải alkyne-q1).
+- Việc còn lại: người dùng xem thử tại `http://localhost:4180/lo-trinh/hoa-hoc-mat-goc/` rồi quyết định commit/push/deploy; khi deploy phải chạy `--scope=deploy --build` và `--scope=live` như quy ước. Hóa 12 vẫn chưa bắt đầu.
+
+### Nguồn và giới hạn kiểm chứng nội dung lộ trình Hóa
+
+Nội dung tự biên soạn cho người học lại, sắp thứ tự riêng chứ không chép SGK. Đã đọc **mục lục** Hóa 10 và Hóa 11 Kết nối tri thức trên VietJack ngày 17/11/2026 để đối chiếu phạm vi (Hóa 10 bảy chương gồm halogen; Hóa 11 sáu chương đến carbonyl/carboxylic acid), không đọc trọn sách và **chưa có giáo viên thẩm định độc lập**. Định nghĩa mol đối chiếu BIPM, quan hệ pH/pOH đối chiếu OpenStax ở mức đoạn trích; các điều kiện khí 25 °C/1 bar và 0 °C/1 atm nêu ngay trong bài. Bộ test tự động kiểm dữ liệu, phép tính và hành vi phần mềm, không thay thẩm định chuyên môn. UI ghi rõ giới hạn này cùng cảnh báo không tự thử hóa chất ở nhà.
+
+- [Mục lục Hóa 10 Kết nối tri thức — VietJack](https://www.vietjack.com/hoa-hoc-10-kn/index.jsp)
+- [Mục lục Hóa 11 Kết nối tri thức — VietJack](https://www.vietjack.com/hoa-hoc-11-kn/index.jsp)
+- [Định nghĩa mol — BIPM](https://www.bipm.org/en/si-base-units/mole)
+- [pH và pOH — OpenStax Chemistry 2e](https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh)
 
 ## Trạng thái đã xuất bản ngày 16/11 — Vật lí và Sinh học 12
 

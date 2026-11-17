@@ -1,0 +1,2867 @@
+{
+  "version": 1,
+  "title": "Hóa học: từ mất gốc đến hết lớp 11",
+  "stages": [
+    {
+      "id": "chang-1",
+      "title": "Bắt đầu từ con số 0",
+      "level": "Nền tảng",
+      "description": "Đọc đúng đơn vị, kí hiệu và công thức trước khi học phản ứng.",
+      "target": "Tự đếm nguyên tử, tính M và giải thích được các đơn vị.",
+      "lessonIds": [
+        "don-vi-ti-le",
+        "chat-nguyen-tu",
+        "doc-cong-thuc",
+        "hoa-tri-khoi-luong"
+      ],
+      "checkpointIds": [
+        "don-vi-ti-le-q2",
+        "don-vi-ti-le-q3",
+        "chat-nguyen-tu-q2",
+        "chat-nguyen-tu-q3",
+        "doc-cong-thuc-q2",
+        "doc-cong-thuc-q3",
+        "hoa-tri-khoi-luong-q2",
+        "hoa-tri-khoi-luong-q3"
+      ]
+    },
+    {
+      "id": "chang-2",
+      "title": "Mol và phương trình không còn đáng sợ",
+      "level": "Nền tảng",
+      "description": "Biến một bài tính thành bốn bước có thể kiểm tra.",
+      "target": "Cân bằng được phương trình, đổi mol và tìm chất giới hạn.",
+      "lessonIds": [
+        "phuong-trinh",
+        "mol-chat-khi",
+        "dung-dich",
+        "tinh-theo-phuong-trinh"
+      ],
+      "checkpointIds": [
+        "phuong-trinh-q2",
+        "phuong-trinh-q3",
+        "mol-chat-khi-q2",
+        "mol-chat-khi-q3",
+        "dung-dich-q2",
+        "dung-dich-q3",
+        "tinh-theo-phuong-trinh-q2",
+        "tinh-theo-phuong-trinh-q3"
+      ]
+    },
+    {
+      "id": "chang-3",
+      "title": "Nối lại Hóa THCS",
+      "level": "Nền tảng",
+      "description": "Nhìn ra nhóm chất và điều kiện thay vì nhớ phản ứng rời rạc.",
+      "target": "Nhận diện acid, base, muối; tự giải một bài trung hòa hoặc carbonate.",
+      "lessonIds": [
+        "oxide-acid-base",
+        "muoi-ion",
+        "kim-loai",
+        "bai-toan-vo-co"
+      ],
+      "checkpointIds": [
+        "oxide-acid-base-q2",
+        "oxide-acid-base-q3",
+        "muoi-ion-q2",
+        "muoi-ion-q3",
+        "kim-loai-q2",
+        "kim-loai-q3",
+        "bai-toan-vo-co-q2",
+        "bai-toan-vo-co-q3"
+      ]
+    },
+    {
+      "id": "chang-4",
+      "title": "Hiểu nguyên tử để hiểu chất",
+      "level": "Lớp 10",
+      "description": "Đi từ electron đến vị trí, liên kết và tính chất.",
+      "target": "Tính p/n/e, đọc cấu hình nhẹ và phân biệt các loại liên kết.",
+      "lessonIds": [
+        "cau-tao-nguyen-tu",
+        "bang-tuan-hoan",
+        "lien-ket",
+        "phan-cuc-tuong-tac"
+      ],
+      "checkpointIds": [
+        "cau-tao-nguyen-tu-q2",
+        "cau-tao-nguyen-tu-q3",
+        "bang-tuan-hoan-q2",
+        "bang-tuan-hoan-q3",
+        "lien-ket-q2",
+        "lien-ket-q3",
+        "phan-cuc-tuong-tac-q2",
+        "phan-cuc-tuong-tac-q3"
+      ]
+    },
+    {
+      "id": "chang-5",
+      "title": "Làm chủ phản ứng lớp 10",
+      "level": "Lớp 10",
+      "description": "Phân biệt electron, nhiệt và tốc độ; ứng dụng vào halogen.",
+      "target": "Xác định chất khử, dấu ΔH, yếu tố tốc độ và phản ứng halide.",
+      "lessonIds": [
+        "oxi-hoa-khu",
+        "nang-luong",
+        "toc-do",
+        "halogen"
+      ],
+      "checkpointIds": [
+        "oxi-hoa-khu-q2",
+        "oxi-hoa-khu-q3",
+        "nang-luong-q2",
+        "nang-luong-q3",
+        "toc-do-q2",
+        "toc-do-q3",
+        "halogen-q2",
+        "halogen-q3"
+      ]
+    },
+    {
+      "id": "chang-6",
+      "title": "Vô cơ lớp 11 có hệ thống",
+      "level": "Lớp 11",
+      "description": "Cân bằng, pH và nitrogen–sulfur nối thành một mạng kiến thức.",
+      "target": "Viết Kc, tính pH cơ bản, giải thích NH₃ và phân biệt các hợp chất S.",
+      "lessonIds": [
+        "can-bang",
+        "ph-chuan-do",
+        "nitrogen",
+        "sulfur"
+      ],
+      "checkpointIds": [
+        "can-bang-q2",
+        "can-bang-q3",
+        "ph-chuan-do-q2",
+        "ph-chuan-do-q3",
+        "nitrogen-q2",
+        "nitrogen-q3",
+        "sulfur-q2",
+        "sulfur-q3"
+      ]
+    },
+    {
+      "id": "chang-7",
+      "title": "Học ngôn ngữ hữu cơ",
+      "level": "Lớp 11",
+      "description": "Đọc nhóm chức, cấu tạo và bằng chứng trước khi học phản ứng.",
+      "target": "Tìm công thức phân tử, nhận đồng phân và chọn cách tách chất.",
+      "lessonIds": [
+        "huu-co-tach-chat",
+        "cong-thuc-phan-tu",
+        "cau-tao-huu-co",
+        "dong-phan"
+      ],
+      "checkpointIds": [
+        "huu-co-tach-chat-q2",
+        "huu-co-tach-chat-q3",
+        "cong-thuc-phan-tu-q2",
+        "cong-thuc-phan-tu-q3",
+        "cau-tao-huu-co-q2",
+        "cau-tao-huu-co-q3",
+        "dong-phan-q2",
+        "dong-phan-q3"
+      ]
+    },
+    {
+      "id": "chang-8",
+      "title": "Bốn họ hydrocarbon",
+      "level": "Lớp 11",
+      "description": "So no, không no và thơm bằng cấu tạo thay vì học từng chất riêng.",
+      "target": "Phân biệt thế/cộng, đốt cháy, trùng hợp và tính chất vòng thơm.",
+      "lessonIds": [
+        "alkane",
+        "alkene",
+        "alkyne",
+        "arene"
+      ],
+      "checkpointIds": [
+        "alkane-q2",
+        "alkane-q3",
+        "alkene-q2",
+        "alkene-q3",
+        "alkyne-q2",
+        "alkyne-q3",
+        "arene-q2",
+        "arene-q3"
+      ]
+    },
+    {
+      "id": "chang-9",
+      "title": "Từ halogen đến alcohol, phenol",
+      "level": "Lớp 11",
+      "description": "Theo dõi nhóm chức và điều kiện để chọn đúng đường phản ứng.",
+      "target": "Đọc bậc alcohol, tính khí H₂ và so phenol với ethanol.",
+      "lessonIds": [
+        "dan-xuat-halogen",
+        "alcohol",
+        "phan-ung-alcohol",
+        "phenol"
+      ],
+      "checkpointIds": [
+        "dan-xuat-halogen-q2",
+        "dan-xuat-halogen-q3",
+        "alcohol-q2",
+        "alcohol-q3",
+        "phan-ung-alcohol-q2",
+        "phan-ung-alcohol-q3",
+        "phenol-q2",
+        "phenol-q3"
+      ]
+    },
+    {
+      "id": "chang-10",
+      "title": "Carbonyl, acid và về đích",
+      "level": "Lớp 11",
+      "description": "Ghép các mảnh kiến thức thành bài giải có lý do.",
+      "target": "Phân biệt aldehyde/ketone/acid, tính ester hóa và nhận lỗ hổng cần ôn.",
+      "lessonIds": [
+        "carbonyl",
+        "carboxylic-acid",
+        "ester-chuoi",
+        "tong-hop-hoa-11"
+      ],
+      "checkpointIds": [
+        "carbonyl-q2",
+        "carbonyl-q3",
+        "carboxylic-acid-q2",
+        "carboxylic-acid-q3",
+        "ester-chuoi-q2",
+        "ester-chuoi-q3",
+        "tong-hop-hoa-11-q2",
+        "tong-hop-hoa-11-q3"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "don-vi-ti-le",
+      "title": "Đổi đơn vị, tỉ lệ và đọc một đề Hóa",
+      "stageId": "chang-1",
+      "minutes": 45,
+      "goal": "Đổi mL sang L, tính phần trăm và tách được dữ kiện – điều cần tìm.",
+      "theory": "Hóa không bắt đầu bằng thuộc lòng hàng trăm phản ứng. Trước hết, hãy đọc được một con số: 250 mL là thể tích, 5 g là khối lượng. Đơn vị là một phần của dữ kiện, không phải phần trang trí.\n\n1 L = 1 000 mL; 1 kg = 1 000 g. Đổi từ mL sang L thì chia 1 000. Phần trăm nghĩa là phần trong 100: 15% = 15/100 = 0,15. Nếu a/b = c/d thì a × d = b × c, với các mẫu khác 0.\n\nMỗi bài chia giấy thành ba dòng: Đã cho gì? Cần tìm gì? Quan hệ nào nối hai thứ? Viết phép tính kèm đơn vị rồi mới bấm máy. Số 0,20 và 0,2 bằng nhau; 0,02 thì nhỏ hơn mười lần.",
+      "example": {
+        "question": "Một dung dịch có khối lượng 200 g, chất tan chiếm 5% khối lượng. Có bao nhiêu gam chất tan?",
+        "steps": [
+          "Đã cho: khối lượng toàn dung dịch 200 g; tỉ lệ chất tan 5/100.",
+          "Cần tìm phần khối lượng chất tan: 200 × 5/100 = 10 g.",
+          "Tự kiểm: 10 g nhỏ hơn 200 g; 10/200 × 100% = 5%."
+        ]
+      },
+      "pitfall": "Đừng lấy 200 × 5 rồi quên chia 100. Khi đổi đơn vị, ghi rõ đơn vị mới.",
+      "recall": "Không nhìn bài: giải thích vì sao 250 mL bằng 0,25 L, rồi tự đổi 75 mL.",
+      "examSlugs": [],
+      "prerequisites": [],
+      "questions": [
+        {
+          "id": "don-vi-ti-le-q1",
+          "lessonId": "don-vi-ti-le",
+          "prompt": "250 mL bằng bao nhiêu L?",
+          "options": [
+            "0,25 L",
+            "2,5 L",
+            "25 L",
+            "0,025 L"
+          ],
+          "answer": 0,
+          "explanation": "Chia 250 cho 1 000 được 0,25 L."
+        },
+        {
+          "id": "don-vi-ti-le-q2",
+          "lessonId": "don-vi-ti-le",
+          "prompt": "12% của 150 g là bao nhiêu?",
+          "options": [
+            "12 g",
+            "1 800 g",
+            "0,18 g",
+            "18 g"
+          ],
+          "answer": 3,
+          "explanation": "150 × 12/100 = 18 g."
+        },
+        {
+          "id": "don-vi-ti-le-q3",
+          "lessonId": "don-vi-ti-le",
+          "prompt": "Nếu 2x = 0,6 thì x bằng bao nhiêu?",
+          "options": [
+            "1,2",
+            "3",
+            "0,3",
+            "0,03"
+          ],
+          "answer": 2,
+          "explanation": "Chia hai vế cho 2: x = 0,6/2 = 0,3."
+        }
+      ]
+    },
+    {
+      "id": "chat-nguyen-tu",
+      "title": "Chất, nguyên tử, nguyên tố và phân tử",
+      "stageId": "chang-1",
+      "minutes": 45,
+      "goal": "Phân biệt được vật thể với chất, nguyên tử với nguyên tố và đơn chất với hợp chất.",
+      "theory": "Cốc là vật thể; thủy tinh là vật liệu tạo nên cốc. Một mẫu nước tinh khiết chỉ chứa một chất, còn nước muối là hỗn hợp nước và muối. Hỗn hợp có thể gồm nhiều chất mà các chất không bắt buộc đã phản ứng với nhau.\n\nNguyên tử gồm hạt nhân mang điện dương và lớp vỏ electron mang điện âm. Proton có điện tích +1, electron −1, neutron không mang điện. Nguyên tử trung hòa có số proton bằng số electron. Nguyên tố hóa học là tập hợp những nguyên tử có cùng số proton.\n\nPhân tử là nhóm nguyên tử liên kết với nhau, chẳng hạn H₂O. Đơn chất chỉ tạo từ một nguyên tố, như O₂ hoặc Fe; hợp chất tạo từ hai nguyên tố trở lên, như H₂O. Không gọi mọi chất là tập hợp các phân tử: tinh thể muối NaCl là mạng ion.",
+      "example": {
+        "question": "So sánh O₂, H₂O và nước muối.",
+        "steps": [
+          "O₂ chỉ có nguyên tố oxygen nên là đơn chất, dù một phân tử có hai nguyên tử.",
+          "H₂O gồm hydrogen và oxygen nên là hợp chất.",
+          "Nước muối chứa ít nhất hai chất; đó là hỗn hợp, không phải công thức của một hợp chất mới."
+        ]
+      },
+      "pitfall": "Hai nguyên tử không đồng nghĩa hai nguyên tố. O₂ vẫn chỉ có một nguyên tố.",
+      "recall": "Tự lấy một ví dụ vật thể, một đơn chất, một hợp chất và một hỗn hợp.",
+      "examSlugs": [],
+      "prerequisites": [
+        "don-vi-ti-le"
+      ],
+      "questions": [
+        {
+          "id": "chat-nguyen-tu-q1",
+          "lessonId": "chat-nguyen-tu",
+          "prompt": "Chất nào là đơn chất?",
+          "options": [
+            "H₂O",
+            "O₂",
+            "CO₂",
+            "NaCl"
+          ],
+          "answer": 1,
+          "explanation": "O₂ chỉ tạo bởi nguyên tố oxygen."
+        },
+        {
+          "id": "chat-nguyen-tu-q2",
+          "lessonId": "chat-nguyen-tu",
+          "prompt": "Nguyên tử trung hòa có 11 proton thì có bao nhiêu electron?",
+          "options": [
+            "11",
+            "22",
+            "10",
+            "12"
+          ],
+          "answer": 0,
+          "explanation": "Trung hòa điện nên số electron bằng số proton."
+        },
+        {
+          "id": "chat-nguyen-tu-q3",
+          "lessonId": "chat-nguyen-tu",
+          "prompt": "Các nguyên tử thuộc cùng một nguyên tố nhất thiết có cùng số hạt nào?",
+          "options": [
+            "Neutron",
+            "Tổng proton và neutron",
+            "Tổng mọi loại hạt",
+            "Proton"
+          ],
+          "answer": 3,
+          "explanation": "Số proton xác định nguyên tố; neutron có thể khác nhau giữa các đồng vị."
+        }
+      ]
+    },
+    {
+      "id": "doc-cong-thuc",
+      "title": "Đọc công thức mà không nhầm chỉ số",
+      "stageId": "chang-1",
+      "minutes": 45,
+      "goal": "Đếm đúng nguyên tử, hiểu dấu ngoặc và phân biệt hệ số với chỉ số.",
+      "theory": "Kí hiệu nguyên tố có chữ đầu viết hoa; chữ thứ hai, nếu có, viết thường. Co là cobalt, còn CO là hợp chất gồm carbon và oxygen. Bắt đầu với H, O, C, N, Na, Mg, Al, S, Cl, K, Ca, Fe, Cu. Hãy học qua công thức thay vì chép kín một trang kí hiệu.\n\nChỉ số nhỏ sau kí hiệu cho biết số nguyên tử của nguyên tố đó; không ghi nghĩa là 1. Trong CO₂ có 1 C và 2 O. Dấu ngoặc gom một nhóm: Ca(OH)₂ chứa 1 Ca, 2 O và 2 H.\n\nHệ số đứng trước công thức nhân với toàn bộ công thức. 3H₂O diễn tả ba phân tử nước (hoặc ba mol nước khi xét lượng chất), gồm tổng cộng 6 H và 3 O ở mức phân tử. Đổi hệ số không đổi loại chất; đổi H₂O thành H₂O₂ là đổi chất.",
+      "example": {
+        "question": "Đếm số nguyên tử mỗi nguyên tố trong 2Al₂(SO₄)₃.",
+        "steps": [
+          "Trong một đơn vị công thức: Al = 2; S = 1 × 3 = 3; O = 4 × 3 = 12.",
+          "Hệ số 2 nhân toàn bộ: Al = 4; S = 6; O = 24.",
+          "Tổng số nguyên tử được biểu diễn là 4 + 6 + 24 = 34."
+        ]
+      },
+      "pitfall": "Chỉ số ngoài ngoặc nhân với mọi nguyên tử trong ngoặc, không chỉ chữ đứng sát ngoặc.",
+      "recall": "Tự đếm nguyên tử trong Mg(OH)₂ và 3CO₂, giải thích từng phép nhân.",
+      "examSlugs": [],
+      "prerequisites": [
+        "chat-nguyen-tu"
+      ],
+      "questions": [
+        {
+          "id": "doc-cong-thuc-q1",
+          "lessonId": "doc-cong-thuc",
+          "prompt": "Trong Ca(OH)₂ có bao nhiêu nguyên tử O?",
+          "options": [
+            "1",
+            "3",
+            "2",
+            "4"
+          ],
+          "answer": 2,
+          "explanation": "Nhóm OH lặp hai lần nên có hai O."
+        },
+        {
+          "id": "doc-cong-thuc-q2",
+          "lessonId": "doc-cong-thuc",
+          "prompt": "3CO₂ biểu diễn tổng cộng bao nhiêu nguyên tử O?",
+          "options": [
+            "2",
+            "6",
+            "3",
+            "5"
+          ],
+          "answer": 1,
+          "explanation": "Mỗi phân tử có 2 O; ba phân tử có 3 × 2 = 6 O."
+        },
+        {
+          "id": "doc-cong-thuc-q3",
+          "lessonId": "doc-cong-thuc",
+          "prompt": "Thay đổi nào giữ nguyên loại chất nước?",
+          "options": [
+            "H₂O thành 2H₂O",
+            "H₂O thành H₂O₂",
+            "H₂O thành H₂",
+            "H₂O thành O₂"
+          ],
+          "answer": 0,
+          "explanation": "Hệ số 2 chỉ thay đổi số lượng, không thay đổi cấu tạo một phân tử nước."
+        }
+      ]
+    },
+    {
+      "id": "hoa-tri-khoi-luong",
+      "title": "Hóa trị, công thức và khối lượng mol",
+      "stageId": "chang-1",
+      "minutes": 45,
+      "goal": "Lập công thức nhị nguyên đơn giản và tính M bằng cách cộng đúng số nguyên tử.",
+      "theory": "Hóa trị biểu thị khả năng liên kết của nguyên tử trong những hợp chất xét ở mức cơ bản. Với AₓBᵧ có hóa trị a và b, áp dụng x × a = y × b và rút về tỉ lệ nguyên nhỏ nhất. H thường I; O thường II; Na I; Ca II; Al III. Một nguyên tố có thể có nhiều hóa trị nên phải đọc đề, ví dụ iron(III) là Fe hóa trị III.\n\nKhối lượng nguyên tử tương đối dùng trong bài cơ bản: H = 1; C = 12; N = 14; O = 16; Na = 23; Mg = 24; Al = 27; S = 32; Cl = 35,5; Ca = 40; Fe = 56; Cu = 64. Đây là các giá trị làm tròn phục vụ bài tập.\n\nKhối lượng mol M là khối lượng của một mol chất, đơn vị g/mol. Tính bằng tổng khối lượng của các nguyên tử theo công thức: M(H₂O) = 2 × 1 + 16 = 18 g/mol. Bài tiếp theo sẽ giải thích mol; hôm nay cần cộng công thức chính xác.",
+      "example": {
+        "question": "Lập công thức oxide của Al(III), biết O(II), và tính M.",
+        "steps": [
+          "Điều kiện: 3x = 2y. Chọn tỉ lệ nhỏ nhất x:y = 2:3, được Al₂O₃.",
+          "Có 2 Al và 3 O nên M = 2 × 27 + 3 × 16.",
+          "M(Al₂O₃) = 102 g/mol. Không dùng 27 + 16 rồi nhân tùy ý."
+        ]
+      },
+      "pitfall": "Không dùng hóa trị như số proton. Khi tính M, phải mở ngoặc như bài trước.",
+      "recall": "Lập công thức từ Ca(II) và Cl(I); tính M(CaCl₂) với Cl = 35,5.",
+      "examSlugs": [],
+      "prerequisites": [
+        "doc-cong-thuc"
+      ],
+      "questions": [
+        {
+          "id": "hoa-tri-khoi-luong-q1",
+          "lessonId": "hoa-tri-khoi-luong",
+          "prompt": "Công thức oxide của Al(III) và O(II) là gì?",
+          "options": [
+            "AlO",
+            "Al₃O₂",
+            "AlO₃",
+            "Al₂O₃"
+          ],
+          "answer": 3,
+          "explanation": "2 × III = 3 × II nên công thức tối giản là Al₂O₃."
+        },
+        {
+          "id": "hoa-tri-khoi-luong-q2",
+          "lessonId": "hoa-tri-khoi-luong",
+          "prompt": "M(CaCO₃) với Ca = 40, C = 12, O = 16 là bao nhiêu?",
+          "options": [
+            "68 g/mol",
+            "84 g/mol",
+            "100 g/mol",
+            "116 g/mol"
+          ],
+          "answer": 2,
+          "explanation": "40 + 12 + 3 × 16 = 100 g/mol."
+        },
+        {
+          "id": "hoa-tri-khoi-luong-q3",
+          "lessonId": "hoa-tri-khoi-luong",
+          "prompt": "M(Ca(OH)₂) với Ca = 40, O = 16, H = 1 là bao nhiêu?",
+          "options": [
+            "57 g/mol",
+            "74 g/mol",
+            "58 g/mol",
+            "114 g/mol"
+          ],
+          "answer": 1,
+          "explanation": "40 + 2 × (16 + 1) = 74 g/mol."
+        }
+      ]
+    },
+    {
+      "id": "phuong-trinh",
+      "title": "Cân bằng phương trình bằng bảo toàn nguyên tử",
+      "stageId": "chang-2",
+      "minutes": 45,
+      "goal": "Viết được phương trình cân bằng và đọc được tỉ lệ hệ số.",
+      "theory": "Phản ứng hóa học sắp xếp lại các nguyên tử để tạo chất mới. Trong phản ứng hóa học thông thường, số nguyên tử của mỗi nguyên tố được bảo toàn. Vì vậy hai vế phương trình phải có số nguyên tử mỗi nguyên tố bằng nhau.\n\nViết đúng công thức chất trước, rồi điều chỉnh hệ số đứng trước công thức. Cân bằng nguyên tố xuất hiện ít nơi trước; kiểm lại từng nguyên tố ở cuối. Chỉ dùng hệ số nguyên tối giản khi đề yêu cầu. Không được sửa chỉ số của chất để làm cho hai vế bằng nhau.\n\nVới hệ kín, tổng khối lượng chất tham gia bằng tổng khối lượng sản phẩm. Trong cốc hở có khí thoát ra, khối lượng phần còn trong cốc có thể giảm; điều đó không làm sai định luật bảo toàn khối lượng.",
+      "example": {
+        "question": "Cân bằng Al + O₂ → Al₂O₃.",
+        "steps": [
+          "O xuất hiện theo nhóm 2 ở trái và 3 ở phải. Chọn bội chung 6: đặt 3O₂ và 2Al₂O₃.",
+          "Vế phải có 4 Al nên đặt 4Al bên trái.",
+          "Thu được 4Al + 3O₂ → 2Al₂O₃. Kiểm: hai vế đều 4 Al, 6 O; tỉ lệ hệ số 4:3:2."
+        ]
+      },
+      "pitfall": "Không đổi O₂ thành O₃ để cân bằng. Hệ số là tỉ lệ số hạt/mol, không phải tỉ lệ gam.",
+      "recall": "Tự cân bằng H₂ + O₂ → H₂O rồi đọc bằng lời tỉ lệ mol.",
+      "examSlugs": [],
+      "prerequisites": [
+        "hoa-tri-khoi-luong"
+      ],
+      "questions": [
+        {
+          "id": "phuong-trinh-q1",
+          "lessonId": "phuong-trinh",
+          "prompt": "Hệ số tối giản của H₂ + O₂ → H₂O theo đúng thứ tự là gì?",
+          "options": [
+            "2 : 1 : 2",
+            "1 : 1 : 1",
+            "1 : 2 : 1",
+            "2 : 2 : 1"
+          ],
+          "answer": 0,
+          "explanation": "2H₂ + O₂ → 2H₂O bảo toàn 4 H và 2 O."
+        },
+        {
+          "id": "phuong-trinh-q2",
+          "lessonId": "phuong-trinh",
+          "prompt": "Trong hệ kín, 12 g C phản ứng hết với 32 g O₂ chỉ tạo CO₂. Khối lượng CO₂ là bao nhiêu?",
+          "options": [
+            "20 g",
+            "32 g",
+            "384 g",
+            "44 g"
+          ],
+          "answer": 3,
+          "explanation": "Bảo toàn khối lượng: 12 + 32 = 44 g."
+        },
+        {
+          "id": "phuong-trinh-q3",
+          "lessonId": "phuong-trinh",
+          "prompt": "Cách nào đúng khi cân bằng phương trình?",
+          "options": [
+            "Sửa chỉ số trong phân tử",
+            "Bỏ bớt nguyên tố ở sản phẩm",
+            "Thay hệ số trước công thức",
+            "Cho tổng hệ số hai vế bằng nhau là đủ"
+          ],
+          "answer": 2,
+          "explanation": "Phải bảo toàn từng nguyên tố; hệ số được đổi nhưng công thức chất phải giữ."
+        }
+      ]
+    },
+    {
+      "id": "mol-chat-khi",
+      "title": "Mol: chiếc cầu từ gam sang số hạt và thể tích",
+      "stageId": "chang-2",
+      "minutes": 45,
+      "goal": "Chọn đúng n = m/M, N = nNₐ và n = V/Vₘ theo dữ kiện.",
+      "theory": "Một tá có 12 vật; một mol chứa đúng 6,02214076 × 10²³ thực thể được chỉ định. Phải nói rõ đó là nguyên tử, phân tử hay ion. Trong bài tập có thể dùng Nₐ ≈ 6,022 × 10²³ mol⁻¹. n là lượng chất (mol), m là khối lượng (g), M là khối lượng mol (g/mol).\n\nCông thức n = m/M; suy ra m = nM. Nếu biết số hạt N thì n = N/Nₐ. Cùng số mol phân tử thì cùng số phân tử, nhưng không nhất thiết cùng khối lượng hay cùng số nguyên tử.\n\nKhí lí tưởng ở cùng nhiệt độ và áp suất có V = nVₘ. Ở 25 °C, 1 bar: Vₘ ≈ 24,79 L/mol; ở 0 °C, 1 atm: Vₘ ≈ 22,414 L/mol. Không tự chọn 22,4 hoặc 24,79 chỉ vì đề viết chữ “chuẩn”; hãy đọc nhiệt độ, áp suất hoặc Vₘ cho sẵn. Quan hệ tổng quát là PV = nRT, T tính bằng kelvin.",
+      "example": {
+        "question": "Tính n của 8,8 g CO₂ và thể tích ở 25 °C, 1 bar. Cho M = 44 g/mol, Vₘ = 24,79 L/mol.",
+        "steps": [
+          "Đổi gam sang mol: n = 8,8/44 = 0,20 mol.",
+          "Đổi mol sang thể tích tại điều kiện đã cho: V = 0,20 × 24,79.",
+          "V = 4,958 L. Nếu điều kiện khí đổi thì thể tích đổi, số mol vẫn là 0,20 mol."
+        ]
+      },
+      "pitfall": "24,79 chỉ áp dụng cho điều kiện tương ứng của khí lí tưởng, không cho chất lỏng hoặc mọi nhiệt độ.",
+      "recall": "Giải thích khác nhau giữa một mol O₂ và một mol nguyên tử O.",
+      "examSlugs": [],
+      "prerequisites": [
+        "phuong-trinh"
+      ],
+      "questions": [
+        {
+          "id": "mol-chat-khi-q1",
+          "lessonId": "mol-chat-khi",
+          "prompt": "9 g H₂O, M = 18 g/mol, có lượng chất bao nhiêu?",
+          "options": [
+            "2 mol",
+            "0,5 mol",
+            "162 mol",
+            "9 mol"
+          ],
+          "answer": 1,
+          "explanation": "n = m/M = 9/18 = 0,5 mol."
+        },
+        {
+          "id": "mol-chat-khi-q2",
+          "lessonId": "mol-chat-khi",
+          "prompt": "0,1 mol khí lí tưởng ở 25 °C, 1 bar có thể tích bao nhiêu? Cho Vₘ = 24,79 L/mol.",
+          "options": [
+            "2,479 L",
+            "24,79 L",
+            "0,2479 L",
+            "2,24 L"
+          ],
+          "answer": 0,
+          "explanation": "V = 0,1 × 24,79 = 2,479 L; 2,24 L thuộc một điều kiện khác."
+        },
+        {
+          "id": "mol-chat-khi-q3",
+          "lessonId": "mol-chat-khi",
+          "prompt": "1 mol phân tử O₂ chứa bao nhiêu mol nguyên tử O?",
+          "options": [
+            "1 mol",
+            "0,5 mol",
+            "4 mol",
+            "2 mol"
+          ],
+          "answer": 3,
+          "explanation": "Mỗi phân tử O₂ chứa hai nguyên tử O nên số mol nguyên tử gấp đôi."
+        }
+      ]
+    },
+    {
+      "id": "dung-dich",
+      "title": "Nồng độ dung dịch và pha loãng",
+      "stageId": "chang-2",
+      "minutes": 45,
+      "goal": "Phân biệt phần trăm khối lượng với nồng độ mol, không nhầm dung môi với dung dịch.",
+      "theory": "Dung dịch gồm chất tan và dung môi. Khi hòa tan mà không có mất mát: m dung dịch = m chất tan + m dung môi. Nồng độ phần trăm C% = m chất tan / m dung dịch × 100%. Mẫu số không phải chỉ là khối lượng nước.\n\nNồng độ mol Cₘ = n/V, với n tính bằng mol và V là thể tích toàn dung dịch tính bằng L. Hai dung dịch cùng C% chưa chắc cùng Cₘ; cần thêm khối lượng mol và có thể cần khối lượng riêng.\n\nPha loãng bằng thêm nước không làm đổi số mol chất tan nếu không phản ứng hoặc thất thoát: C₁V₁ = C₂V₂. V₂ là thể tích dung dịch sau cùng, không phải thể tích nước thêm. Bài lý thuyết này không hướng dẫn tự pha hóa chất; thực hành cần giáo viên và dụng cụ phù hợp.",
+      "example": {
+        "question": "Pha loãng 100 mL dung dịch NaCl 1,0 mol/L thành 500 mL dung dịch. Tính nồng độ mới.",
+        "steps": [
+          "Số mol ban đầu: n = 1,0 × 0,100 = 0,100 mol.",
+          "Số mol không đổi, thể tích cuối 0,500 L.",
+          "C₂ = 0,100/0,500 = 0,20 mol/L. Thể tích tăng 5 lần, nồng độ giảm 5 lần."
+        ]
+      },
+      "pitfall": "Luôn đổi mL sang L khi dùng n = CₘV. Không lấy thể tích dung môi thay cho thể tích dung dịch.",
+      "recall": "Viết lại hai công thức nồng độ, khoanh phần mẫu số và ghi đơn vị.",
+      "examSlugs": [],
+      "prerequisites": [
+        "mol-chat-khi"
+      ],
+      "questions": [
+        {
+          "id": "dung-dich-q1",
+          "lessonId": "dung-dich",
+          "prompt": "Hòa tan 10 g muối vào 90 g nước, không mất mát. C% là bao nhiêu?",
+          "options": [
+            "11,11%",
+            "9%",
+            "10%",
+            "90%"
+          ],
+          "answer": 2,
+          "explanation": "Khối lượng dung dịch là 100 g; C% = 10/100 × 100% = 10%."
+        },
+        {
+          "id": "dung-dich-q2",
+          "lessonId": "dung-dich",
+          "prompt": "200 mL dung dịch NaCl 0,5 mol/L chứa bao nhiêu mol NaCl?",
+          "options": [
+            "100 mol",
+            "0,10 mol",
+            "0,40 mol",
+            "0,001 mol"
+          ],
+          "answer": 1,
+          "explanation": "V = 0,200 L; n = 0,5 × 0,200 = 0,10 mol."
+        },
+        {
+          "id": "dung-dich-q3",
+          "lessonId": "dung-dich",
+          "prompt": "Thêm nước, không phản ứng hay thất thoát, đại lượng nào của chất tan giữ nguyên?",
+          "options": [
+            "Số mol chất tan",
+            "Nồng độ mol",
+            "Phần trăm khối lượng",
+            "Thể tích dung dịch"
+          ],
+          "answer": 0,
+          "explanation": "Pha loãng làm tăng lượng dung môi, không tự tạo hoặc mất chất tan."
+        }
+      ]
+    },
+    {
+      "id": "tinh-theo-phuong-trinh",
+      "title": "Tính theo phương trình, chất hết và hiệu suất",
+      "stageId": "chang-2",
+      "minutes": 45,
+      "goal": "Giải theo chuỗi dữ kiện → mol → tỉ lệ → đáp số, biết tìm chất giới hạn.",
+      "theory": "Quy trình bốn bước: cân bằng phương trình; đổi dữ kiện về mol; dùng tỉ lệ hệ số để tìm mol cần hỏi; đổi về gam hoặc L. Với aA → bB, n(B) = n(A) × b/a nếu A phản ứng hết theo phản ứng ấy.\n\nKhi biết lượng của nhiều chất tham gia, so n/hệ số của từng chất. Giá trị nhỏ nhất quyết định chất hết trước, gọi là chất giới hạn. Không chọn chất giới hạn chỉ vì nó có ít gam hơn. Lượng sản phẩm lý thuyết tính theo chất giới hạn, các phản ứng phụ được bỏ qua nếu đề giả định.\n\nHiệu suất H% = lượng sản phẩm thực tế/lượng sản phẩm lý thuyết × 100%. Nếu đề cho H = 80%, sản phẩm thực tế bằng sản phẩm lý thuyết × 0,80; không phải chia 0,80. Chiều chia dùng khi truy ngược lượng cần có theo mục tiêu thực tế.",
+      "example": {
+        "question": "Cho 0,30 mol H₂ và 0,10 mol O₂ tạo nước. Hiệu suất theo chất giới hạn là 80%. Tính mol nước thực tế.",
+        "steps": [
+          "2H₂ + O₂ → 2H₂O. So 0,30/2 = 0,15 với 0,10/1 = 0,10: O₂ giới hạn.",
+          "Lý thuyết: n(H₂O) = 0,10 × 2 = 0,20 mol.",
+          "Thực tế: 0,20 × 80/100 = 0,16 mol."
+        ]
+      },
+      "pitfall": "Hệ số phương trình nối mol, không nối trực tiếp gam. Tính lý thuyết trước rồi mới áp dụng hiệu suất.",
+      "recall": "Tự trình bày bốn bước giải; giải thích vì sao cần so n/hệ số khi có hai chất.",
+      "examSlugs": [],
+      "prerequisites": [
+        "dung-dich"
+      ],
+      "questions": [
+        {
+          "id": "tinh-theo-phuong-trinh-q1",
+          "lessonId": "tinh-theo-phuong-trinh",
+          "prompt": "Theo 2H₂ + O₂ → 2H₂O, 0,4 mol H₂ phản ứng hết với O₂ dư tạo bao nhiêu mol H₂O?",
+          "options": [
+            "0,2 mol",
+            "0,8 mol",
+            "0,1 mol",
+            "0,4 mol"
+          ],
+          "answer": 3,
+          "explanation": "Hệ số H₂ và H₂O đều là 2 nên tỉ lệ mol 1:1."
+        },
+        {
+          "id": "tinh-theo-phuong-trinh-q2",
+          "lessonId": "tinh-theo-phuong-trinh",
+          "prompt": "Với 0,3 mol H₂ và 0,1 mol O₂ phản ứng theo 2H₂ + O₂ → 2H₂O, chất giới hạn là gì?",
+          "options": [
+            "H₂",
+            "H₂O",
+            "O₂",
+            "Không thể xác định"
+          ],
+          "answer": 2,
+          "explanation": "0,3/2 = 0,15 lớn hơn 0,1/1 = 0,1; O₂ hết trước."
+        },
+        {
+          "id": "tinh-theo-phuong-trinh-q3",
+          "lessonId": "tinh-theo-phuong-trinh",
+          "prompt": "Lý thuyết thu 10 g sản phẩm, hiệu suất 75%. Thực tế thu bao nhiêu?",
+          "options": [
+            "13,33 g",
+            "7,5 g",
+            "75 g",
+            "0,75 g"
+          ],
+          "answer": 1,
+          "explanation": "m thực tế = 10 × 0,75 = 7,5 g."
+        }
+      ]
+    },
+    {
+      "id": "oxide-acid-base",
+      "title": "Bản đồ vô cơ: oxide, acid và base",
+      "stageId": "chang-3",
+      "minutes": 45,
+      "goal": "Nhận diện các nhóm chất quen thuộc và viết phản ứng trung hòa đơn giản.",
+      "theory": "Oxide là hợp chất của hai nguyên tố, trong đó có oxygen. CuO là oxide base; CO₂ là oxide acid. Không phải mọi oxide đều rơi vào hai nhóm đó: Al₂O₃ lưỡng tính, CO thường được xếp oxide trung tính ở mức phổ thông.\n\nỞ bước nền tảng, acid như HCl trong nước tạo H⁺ (thực chất được hydrate hóa, thường viết H₃O⁺); base hydroxide như NaOH tạo OH⁻. Kiềm là base tan trong nước. Cu(OH)₂ là base nhưng không được gọi là kiềm vì ít tan. Lớp 11 mở rộng acid–base theo sự cho/nhận proton, kể cả NH₃ không có nhóm OH.\n\nCác mẫu thường gặp: acid + base → muối + nước; oxide base + acid → muối + nước; oxide acid + kiềm có thể tạo muối + nước, sản phẩm phụ thuộc tỉ lệ. Đừng đoán mọi chất gặp nhau đều phản ứng; luôn kiểm tra nhóm chất và điều kiện.",
+      "example": {
+        "question": "Viết phản ứng giữa CuO và HCl tạo CuCl₂, rồi đọc tỉ lệ mol.",
+        "steps": [
+          "CuO là oxide base, HCl là acid; sản phẩm được cho là CuCl₂ và H₂O.",
+          "CuO + 2HCl → CuCl₂ + H₂O.",
+          "Tỉ lệ mol CuO:HCl = 1:2. Một mol CuO cần hai mol HCl."
+        ]
+      },
+      "pitfall": "Acid mạnh/yếu không đồng nghĩa dung dịch đặc/loãng; một bên nói mức phân li, một bên nói lượng chất tan.",
+      "recall": "Xếp CuO, CO₂, NaOH, HCl vào đúng nhóm; nói một ngoại lệ của oxide.",
+      "examSlugs": [],
+      "prerequisites": [
+        "tinh-theo-phuong-trinh"
+      ],
+      "questions": [
+        {
+          "id": "oxide-acid-base-q1",
+          "lessonId": "oxide-acid-base",
+          "prompt": "Chất nào là kiềm?",
+          "options": [
+            "NaOH",
+            "Cu(OH)₂",
+            "CO₂",
+            "HCl"
+          ],
+          "answer": 0,
+          "explanation": "NaOH là base tan trong nước. Cu(OH)₂ là base ít tan."
+        },
+        {
+          "id": "oxide-acid-base-q2",
+          "lessonId": "oxide-acid-base",
+          "prompt": "CuO + 2HCl → CuCl₂ + H₂O. 0,1 mol CuO cần bao nhiêu mol HCl?",
+          "options": [
+            "0,1 mol",
+            "0,05 mol",
+            "2 mol",
+            "0,2 mol"
+          ],
+          "answer": 3,
+          "explanation": "Tỉ lệ 1:2 nên n(HCl) = 2 × 0,1 = 0,2 mol."
+        },
+        {
+          "id": "oxide-acid-base-q3",
+          "lessonId": "oxide-acid-base",
+          "prompt": "Cặp nào là oxide acid và oxide base điển hình?",
+          "options": [
+            "NaOH và HCl",
+            "NaCl và H₂O",
+            "CO₂ và CuO",
+            "H₂ và O₂"
+          ],
+          "answer": 2,
+          "explanation": "CO₂ có tính oxide acid, CuO có tính oxide base."
+        }
+      ]
+    },
+    {
+      "id": "muoi-ion",
+      "title": "Muối, ion và điều kiện phản ứng trao đổi",
+      "stageId": "chang-3",
+      "minutes": 45,
+      "goal": "Hiểu điện tích ion, nhận biết kết tủa và viết phương trình ion rút gọn.",
+      "theory": "Ion là nguyên tử hoặc nhóm nguyên tử mang điện: Na⁺, Ca²⁺ là cation; Cl⁻, SO₄²⁻ là anion. Muối như NaCl, CaCO₃ gồm cation và anion; tổng điện tích trong công thức muối bằng 0. Ca²⁺ cần hai Cl⁻ nên công thức là CaCl₂.\n\nKhi tan trong nước, nhiều muối phân li thành ion. Trong phản ứng trao đổi dung dịch ở mức cơ bản, động lực thường là tạo chất kết tủa, chất khí hoặc chất điện li yếu như nước. Nhớ nhóm nhỏ trước: muối Na⁺, K⁺, NH₄⁺ và nitrate thường tan; AgCl, BaSO₄ không tan đáng kể.\n\nPhương trình ion rút gọn giữ lại những ion thực sự biến đổi. Chỉ tách chất điện li mạnh tan thành ion; không tách kết tủa, khí hoặc nước thành ion. Phải bảo toàn cả nguyên tố và điện tích.",
+      "example": {
+        "question": "Viết phản ứng khi trộn dung dịch AgNO₃ và NaCl, mỗi chất đủ lượng phản ứng.",
+        "steps": [
+          "Phương trình phân tử: AgNO₃ + NaCl → AgCl↓ + NaNO₃.",
+          "Na⁺ và NO₃⁻ vẫn ở dung dịch, không tham gia tạo kết tủa.",
+          "Ion rút gọn: Ag⁺ + Cl⁻ → AgCl↓. Điện tích trái +1 − 1 = 0, bằng phải."
+        ]
+      },
+      "pitfall": "Không viết Ca²⁺ + Cl⁻ thành CaCl; phải bảo toàn điện tích. Không tách AgCl↓ thành ion trong phương trình rút gọn.",
+      "recall": "Tự viết công thức từ Al³⁺ và SO₄²⁻, rồi giải thích tổng điện tích.",
+      "examSlugs": [],
+      "prerequisites": [
+        "oxide-acid-base"
+      ],
+      "questions": [
+        {
+          "id": "muoi-ion-q1",
+          "lessonId": "muoi-ion",
+          "prompt": "Công thức muối tạo bởi Ca²⁺ và Cl⁻ là gì?",
+          "options": [
+            "CaCl",
+            "CaCl₂",
+            "Ca₂Cl",
+            "Ca₂Cl₃"
+          ],
+          "answer": 1,
+          "explanation": "Một Ca²⁺ cần hai Cl⁻ để điện tích tổng bằng 0."
+        },
+        {
+          "id": "muoi-ion-q2",
+          "lessonId": "muoi-ion",
+          "prompt": "Ion nào kết hợp với Cl⁻ tạo AgCl kết tủa?",
+          "options": [
+            "Ag⁺",
+            "Na⁺",
+            "K⁺",
+            "NH₄⁺"
+          ],
+          "answer": 0,
+          "explanation": "Ag⁺ + Cl⁻ → AgCl↓; các muối chloride còn lại trong lựa chọn tan."
+        },
+        {
+          "id": "muoi-ion-q3",
+          "lessonId": "muoi-ion",
+          "prompt": "Ion rút gọn của trung hòa acid mạnh bằng kiềm là gì?",
+          "options": [
+            "Na⁺ + Cl⁻ → NaCl↓",
+            "H⁺ → H₂",
+            "OH⁻ → O₂",
+            "H⁺ + OH⁻ → H₂O"
+          ],
+          "answer": 3,
+          "explanation": "H⁺ và OH⁻ tạo nước; Na⁺, Cl⁻ là ion khán giả trong phản ứng HCl với NaOH."
+        }
+      ]
+    },
+    {
+      "id": "kim-loai",
+      "title": "Kim loại và dãy hoạt động: dùng có điều kiện",
+      "stageId": "chang-3",
+      "minutes": 45,
+      "goal": "Dự đoán một số phản ứng thế, không áp dụng dãy hoạt động máy móc.",
+      "theory": "Kim loại thường có tính dẫn điện, dẫn nhiệt; trong nhiều phản ứng chúng nhường electron tạo cation. Một đoạn dãy hoạt động dùng ở đây: Mg, Al, Zn, Fe, H, Cu, Ag. Vị trí trước thường thể hiện khả năng nhường electron mạnh hơn trong những điều kiện phù hợp.\n\nKim loại đứng trước H thường phản ứng với HCl hoặc H₂SO₄ loãng tạo H₂; Cu không phản ứng theo kiểu đó. Không suy ra Cu không phản ứng với mọi acid: acid có tính oxi hóa như HNO₃ là trường hợp khác và không mặc định sinh H₂.\n\nMột kim loại như Fe có thể đẩy Cu ra khỏi dung dịch CuSO₄. Không suy rộng quy tắc này cho Na, K trong nước vì chúng phản ứng mạnh với nước trước. Al còn có màng oxide; điều kiện bề mặt cũng ảnh hưởng phản ứng. Đây là bài tính lý thuyết, không làm thí nghiệm tại nhà.",
+      "example": {
+        "question": "Cho 5,6 g Fe phản ứng hết với dung dịch CuSO₄ dư. Tính khối lượng Cu thu được; Fe = 56, Cu = 64.",
+        "steps": [
+          "Fe + CuSO₄ → FeSO₄ + Cu. Fe hoạt động mạnh hơn Cu trong hệ này.",
+          "n(Fe) = 5,6/56 = 0,10 mol; tỉ lệ Fe:Cu = 1:1.",
+          "n(Cu) = 0,10 mol; m(Cu) = 0,10 × 64 = 6,4 g."
+        ]
+      },
+      "pitfall": "Dãy hoạt động không thay thế điều kiện phản ứng. Đặc biệt tránh áp dụng acid loãng cho HNO₃.",
+      "recall": "Giải thích vì sao Fe đẩy Cu được trong CuSO₄ nhưng Cu không đẩy Fe trong FeSO₄.",
+      "examSlugs": [],
+      "prerequisites": [
+        "muoi-ion"
+      ],
+      "questions": [
+        {
+          "id": "kim-loai-q1",
+          "lessonId": "kim-loai",
+          "prompt": "Kim loại nào không giải phóng H₂ từ HCl loãng trong điều kiện thường?",
+          "options": [
+            "Mg",
+            "Zn",
+            "Cu",
+            "Fe"
+          ],
+          "answer": 2,
+          "explanation": "Cu đứng sau H và không phản ứng theo kiểu kim loại + HCl loãng tạo H₂."
+        },
+        {
+          "id": "kim-loai-q2",
+          "lessonId": "kim-loai",
+          "prompt": "0,2 mol Fe phản ứng hết theo Fe + CuSO₄ → FeSO₄ + Cu. Khối lượng Cu là bao nhiêu, Cu = 64?",
+          "options": [
+            "6,4 g",
+            "12,8 g",
+            "11,2 g",
+            "32 g"
+          ],
+          "answer": 1,
+          "explanation": "Tỉ lệ Fe:Cu = 1:1; m(Cu) = 0,2 × 64 = 12,8 g."
+        },
+        {
+          "id": "kim-loai-q3",
+          "lessonId": "kim-loai",
+          "prompt": "Trong Fe + Cu²⁺ → Fe²⁺ + Cu, Fe biến đổi thế nào?",
+          "options": [
+            "Nhường 2 electron",
+            "Nhận 2 electron",
+            "Nhường 1 proton",
+            "Nhận 2 proton"
+          ],
+          "answer": 0,
+          "explanation": "Fe → Fe²⁺ + 2e; hạt nhân không đổi trong phản ứng hóa học."
+        }
+      ]
+    },
+    {
+      "id": "bai-toan-vo-co",
+      "title": "Ghép nền tảng: trung hòa và carbonate",
+      "stageId": "chang-3",
+      "minutes": 45,
+      "goal": "Giải trọn bài vô cơ đơn giản, tự kiểm mol và khối lượng.",
+      "theory": "Đến đây, một bài dài chỉ là các bước nhỏ đã học. Gạch chân tên chất và điều kiện, viết đúng công thức, cân bằng phương trình, rồi mới đặt phép tính. Nếu bị tắc ở công thức thì quay về bài 3–4; nếu tắc ở lượng chất thì quay về bài 6–8.\n\nCarbonate phản ứng với acid đủ lượng thường tạo muối, CO₂ và nước: CaCO₃ + 2HCl → CaCl₂ + CO₂ + H₂O. Đây là mẫu giúp nối chất rắn, dung dịch và khí trong cùng một bài. Dùng khí lí tưởng chỉ ở điều kiện được nêu.\n\nKhi trung hòa HCl với NaOH, tỉ lệ 1:1. Với H₂SO₄ trung hòa hoàn toàn bằng NaOH, tỉ lệ 1:2; không dùng công thức C₁V₁ = C₂V₂ một cách tự động cho mọi acid/base. Viết phương trình trước giúp tránh học thuộc sai.",
+      "example": {
+        "question": "10 g CaCO₃ tinh khiết tác dụng hết với HCl dư. Tính mol HCl đã phản ứng và thể tích CO₂ ở 25 °C, 1 bar. M(CaCO₃) = 100; Vₘ = 24,79.",
+        "steps": [
+          "n(CaCO₃) = 10/100 = 0,10 mol; phương trình có tỉ lệ 1:2:1 giữa CaCO₃, HCl, CO₂.",
+          "n(HCl phản ứng) = 0,20 mol. Dư acid không có nghĩa toàn bộ acid ban đầu đã phản ứng.",
+          "n(CO₂) = 0,10 mol; V(CO₂) = 2,479 L."
+        ]
+      },
+      "pitfall": "Hỏi “đã phản ứng” khác hỏi “ban đầu”. Dư một chất thì không thể coi toàn bộ chất ấy đã hết.",
+      "recall": "Tự giải lại ví dụ với 5 g CaCO₃; so đáp số xem có giảm một nửa không.",
+      "examSlugs": [],
+      "prerequisites": [
+        "kim-loai"
+      ],
+      "questions": [
+        {
+          "id": "bai-toan-vo-co-q1",
+          "lessonId": "bai-toan-vo-co",
+          "prompt": "0,1 mol H₂SO₄ cần bao nhiêu mol NaOH để trung hòa hoàn toàn?",
+          "options": [
+            "0,1 mol",
+            "0,05 mol",
+            "0,4 mol",
+            "0,2 mol"
+          ],
+          "answer": 3,
+          "explanation": "H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O; tỉ lệ 1:2."
+        },
+        {
+          "id": "bai-toan-vo-co-q2",
+          "lessonId": "bai-toan-vo-co",
+          "prompt": "5 g CaCO₃, M = 100 g/mol, phản ứng hết với HCl dư tạo bao nhiêu mol CO₂?",
+          "options": [
+            "0,10 mol",
+            "0,5 mol",
+            "0,05 mol",
+            "5 mol"
+          ],
+          "answer": 2,
+          "explanation": "n(CaCO₃) = 5/100 = 0,05; tỉ lệ CaCO₃:CO₂ = 1:1."
+        },
+        {
+          "id": "bai-toan-vo-co-q3",
+          "lessonId": "bai-toan-vo-co",
+          "prompt": "50 mL HCl 0,2 mol/L cần bao nhiêu mL NaOH 0,1 mol/L để vừa đủ trung hòa?",
+          "options": [
+            "25 mL",
+            "100 mL",
+            "50 mL",
+            "10 mL"
+          ],
+          "answer": 1,
+          "explanation": "n(HCl) = 0,050 × 0,2 = 0,010 mol; V(NaOH) = 0,010/0,1 = 0,100 L = 100 mL."
+        }
+      ]
+    },
+    {
+      "id": "cau-tao-nguyen-tu",
+      "title": "Nguyên tử lớp 10: đồng vị và electron",
+      "stageId": "chang-4",
+      "minutes": 45,
+      "goal": "Tính p, n, e và đọc cấu hình electron của nguyên tố nhẹ.",
+      "theory": "Số hiệu nguyên tử Z là số proton; số khối A = proton + neutron. Nguyên tử trung hòa có e = Z. Đồng vị cùng Z nhưng khác neutron nên khác A. Khối lượng nguyên tử trung bình tính theo tỉ lệ các đồng vị, không chỉ cộng rồi chia đôi nếu chúng không có tỉ lệ bằng nhau.\n\nElectron được mô tả bằng orbital, không phải các hành tinh chạy trên đường tròn xác định. Mỗi orbital tối đa hai electron; phân lớp s chứa tối đa 2, p tối đa 6. Với 20 nguyên tố đầu, thứ tự điền thường dùng là 1s, 2s, 2p, 3s, 3p, 4s; tổng số mũ bằng số electron.\n\nNa có Z = 11: 1s²2s²2p⁶3s¹. Khi tạo Na⁺, nguyên tử mất electron ngoài cùng, còn 10 electron; số proton vẫn là 11. Nắm lõi này trước khi học các cấu hình ngoại lệ ở nguyên tố nặng.",
+      "example": {
+        "question": "Với nguyên tử ²³Na có Z = 11, tìm p, n, e; rồi tìm e của Na⁺.",
+        "steps": [
+          "p = Z = 11; n = A − Z = 23 − 11 = 12.",
+          "Nguyên tử trung hòa: e = 11; cấu hình 1s²2s²2p⁶3s¹.",
+          "Na⁺ mất một electron nên e = 10; p và n không đổi."
+        ]
+      },
+      "pitfall": "Điện tích dương nghĩa là mất electron, không phải có thêm proton.",
+      "recall": "Không nhìn bài: tính p, n, e của ²⁴Mg (Z = 12) và e của Mg²⁺.",
+      "examSlugs": [],
+      "prerequisites": [
+        "bai-toan-vo-co"
+      ],
+      "questions": [
+        {
+          "id": "cau-tao-nguyen-tu-q1",
+          "lessonId": "cau-tao-nguyen-tu",
+          "prompt": "Nguyên tử có Z = 17, A = 35 có bao nhiêu neutron?",
+          "options": [
+            "18",
+            "17",
+            "35",
+            "52"
+          ],
+          "answer": 0,
+          "explanation": "n = A − Z = 35 − 17 = 18."
+        },
+        {
+          "id": "cau-tao-nguyen-tu-q2",
+          "lessonId": "cau-tao-nguyen-tu",
+          "prompt": "Mg có Z = 12. Ion Mg²⁺ có bao nhiêu electron?",
+          "options": [
+            "14",
+            "12",
+            "2",
+            "10"
+          ],
+          "answer": 3,
+          "explanation": "Ion 2+ mất hai electron: 12 − 2 = 10."
+        },
+        {
+          "id": "cau-tao-nguyen-tu-q3",
+          "lessonId": "cau-tao-nguyen-tu",
+          "prompt": "Nguyên tố có hai đồng vị khối lượng xấp xỉ 35 và 37, tỉ lệ 75% và 25%. Khối lượng nguyên tử trung bình xấp xỉ bao nhiêu?",
+          "options": [
+            "36",
+            "35,75",
+            "35,5",
+            "37"
+          ],
+          "answer": 2,
+          "explanation": "35 × 0,75 + 37 × 0,25 = 35,5."
+        }
+      ]
+    },
+    {
+      "id": "bang-tuan-hoan",
+      "title": "Đọc bảng tuần hoàn để suy luận",
+      "stageId": "chang-4",
+      "minutes": 45,
+      "goal": "Liên hệ vị trí với electron ngoài cùng và xu hướng tính chất cơ bản.",
+      "theory": "Bảng tuần hoàn sắp nguyên tố theo chiều tăng Z. Chu kì là hàng ngang, nhóm là cột. Với các nguyên tố nhóm chính thường gặp, số lớp electron đang có electron cho biết chu kì; cấu hình lớp ngoài cùng giúp xác định nhóm. Na có ba lớp và 3s¹ nên thuộc chu kì 3, nhóm 1 (IA).\n\nTrong một chu kì, từ trái sang phải, bán kính nguyên tử nhìn chung giảm, độ âm điện nhìn chung tăng (thường không xét khí hiếm trong so sánh đơn giản). Trong một nhóm chính từ trên xuống, bán kính thường tăng. Đây là xu hướng, không phải lệnh áp dụng mù quáng cho mọi đại lượng.\n\nỞ chu kì 3, tính kim loại nhìn chung giảm; oxide/hydroxide chuyển từ tính base sang lưỡng tính rồi acid. Na₂O có tính base, Al₂O₃ lưỡng tính, SO₃ có tính acid. Vị trí giúp dự đoán, còn phương trình và dữ kiện giúp kiểm chứng.",
+      "example": {
+        "question": "Nguyên tử có cấu hình 1s²2s²2p⁶3s² thuộc vị trí nào?",
+        "steps": [
+          "Tổng electron = 2 + 2 + 6 + 2 = 12; nguyên tử trung hòa có Z = 12, là Mg.",
+          "Có electron ở ba lớp n = 1, 2, 3 nên chu kì 3.",
+          "Lớp ngoài 3s²: nhóm 2 (IIA), kim loại nhóm chính."
+        ]
+      },
+      "pitfall": "Số thứ tự nhóm không luôn bằng tổng electron. Quy tắc nhóm A cần nêu rõ phạm vi nhóm chính.",
+      "recall": "Dùng cấu hình của Na và Mg để giải thích vị trí của hai nguyên tố.",
+      "examSlugs": [],
+      "prerequisites": [
+        "cau-tao-nguyen-tu"
+      ],
+      "questions": [
+        {
+          "id": "bang-tuan-hoan-q1",
+          "lessonId": "bang-tuan-hoan",
+          "prompt": "Nguyên tử có ba lớp electron đang được điền thuộc chu kì nào?",
+          "options": [
+            "1",
+            "3",
+            "2",
+            "6"
+          ],
+          "answer": 1,
+          "explanation": "Số lớp electron đang có electron bằng số thứ tự chu kì."
+        },
+        {
+          "id": "bang-tuan-hoan-q2",
+          "lessonId": "bang-tuan-hoan",
+          "prompt": "Trong chu kì 3, so Na với Cl, nguyên tử nào thường có độ âm điện lớn hơn?",
+          "options": [
+            "Cl",
+            "Na",
+            "Bằng nhau",
+            "Cả hai đều bằng 0"
+          ],
+          "answer": 0,
+          "explanation": "Trong một chu kì, độ âm điện nhìn chung tăng từ trái sang phải."
+        },
+        {
+          "id": "bang-tuan-hoan-q3",
+          "lessonId": "bang-tuan-hoan",
+          "prompt": "Oxide nào có tính lưỡng tính?",
+          "options": [
+            "Na₂O",
+            "SO₃",
+            "CO₂",
+            "Al₂O₃"
+          ],
+          "answer": 3,
+          "explanation": "Al₂O₃ phản ứng được với acid và base phù hợp, khác Na₂O base và SO₃, CO₂ acid."
+        }
+      ]
+    },
+    {
+      "id": "lien-ket",
+      "title": "Liên kết ion, cộng hóa trị và Lewis",
+      "stageId": "chang-4",
+      "minutes": 45,
+      "goal": "Hiểu sự cho–nhận hoặc dùng chung electron; đếm liên kết đơn, đôi, ba.",
+      "theory": "Liên kết ion là lực hút tĩnh điện giữa các ion trái dấu. Na nhường electron thành Na⁺; Cl nhận electron thành Cl⁻; các ion tạo mạng tinh thể NaCl. Không tưởng tượng tinh thể này gồm từng phân tử NaCl riêng như nước.\n\nLiên kết cộng hóa trị hình thành bằng một hay nhiều cặp electron dùng chung. Một cặp tạo liên kết đơn; hai cặp tạo liên kết đôi; ba cặp tạo liên kết ba. H₂ có một liên kết đơn; O₂ có liên kết đôi; N₂ có liên kết ba.\n\nCông thức Lewis thể hiện electron hóa trị bằng chấm, liên kết bằng cặp chấm hoặc gạch. H thường đạt 2 electron lớp ngoài; nhiều nguyên tử nhóm chính có xu hướng đạt 8 (octet). Đây là quy tắc hữu ích có ngoại lệ, không phải mọi nguyên tử đều bắt buộc đủ 8. Trong H₂O, O có hai liên kết O–H và hai cặp electron riêng.",
+      "example": {
+        "question": "Mô tả electron hóa trị và cấu tạo Lewis cơ bản của H₂O.",
+        "steps": [
+          "O có 6 electron hóa trị; hai H góp 2 electron: tổng 8 electron hóa trị.",
+          "Hai liên kết O–H dùng 4 electron; còn 4 electron thành hai cặp riêng trên O.",
+          "Mỗi H được bao quanh bởi 2 electron; O được tính 8 electron, gồm cả cặp dùng chung."
+        ]
+      },
+      "pitfall": "Cặp electron dùng chung được tính cho cả hai nguyên tử khi xét octet, nhưng không tạo thêm electron cho phân tử.",
+      "recall": "Vẽ H–H, O=O, N≡N; ghi số cặp electron dùng chung.",
+      "examSlugs": [],
+      "prerequisites": [
+        "bang-tuan-hoan"
+      ],
+      "questions": [
+        {
+          "id": "lien-ket-q1",
+          "lessonId": "lien-ket",
+          "prompt": "Liên kết trong mạng tinh thể NaCl chủ yếu là loại nào?",
+          "options": [
+            "Kim loại",
+            "Hydrogen",
+            "Ion",
+            "Cộng hóa trị không phân cực"
+          ],
+          "answer": 2,
+          "explanation": "Lực hút giữa Na⁺ và Cl⁻ tạo liên kết ion."
+        },
+        {
+          "id": "lien-ket-q2",
+          "lessonId": "lien-ket",
+          "prompt": "Một liên kết đôi gồm bao nhiêu cặp electron dùng chung?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 1,
+          "explanation": "Mỗi cặp dùng chung tương ứng một đơn vị liên kết; liên kết đôi gồm hai cặp."
+        },
+        {
+          "id": "lien-ket-q3",
+          "lessonId": "lien-ket",
+          "prompt": "Trong công thức Lewis của H₂O, O có bao nhiêu cặp electron riêng?",
+          "options": [
+            "2",
+            "0",
+            "1",
+            "4"
+          ],
+          "answer": 0,
+          "explanation": "O có hai liên kết với H và hai cặp electron không tham gia liên kết."
+        }
+      ]
+    },
+    {
+      "id": "phan-cuc-tuong-tac",
+      "title": "Phân cực, liên kết hydrogen và tính chất",
+      "stageId": "chang-4",
+      "minutes": 45,
+      "goal": "Không nhầm liên kết trong phân tử với lực hút giữa các phân tử.",
+      "theory": "Độ âm điện diễn tả khả năng hút electron liên kết. Nếu hai nguyên tử hút không như nhau, liên kết có thể phân cực: trong H–Cl, phía Cl mang một phần điện tích âm, H một phần dương. Điện tích một phần không giống ion có điện tích nguyên.\n\nPhân tử có liên kết phân cực chưa chắc phân cực toàn phần. CO₂ thẳng, hai liên kết C=O phân cực nhưng đối xứng nên moment lưỡng cực triệt tiêu. H₂O gấp khúc nên phân tử phân cực. Hình dạng rất quan trọng.\n\nLiên kết hydrogen thường xét giữa H đã liên kết trực tiếp với F, O hoặc N và cặp electron riêng thích hợp ở phân tử khác hoặc cùng phân tử. Nước và ethanol có thể tạo liên kết hydrogen. Tương tác van der Waals cũng góp phần hút các phân tử. Khi nước sôi, chủ yếu thắng lực giữa phân tử, không bẻ toàn bộ liên kết O–H để thành H₂ và O₂.",
+      "example": {
+        "question": "Vì sao nước sôi tạo hơi nước mà không tự biến thành hydrogen và oxygen?",
+        "steps": [
+          "Nước lỏng và hơi nước đều chứa phân tử H₂O.",
+          "Chuyển thể làm các phân tử tách xa hơn; lực hút giữa phân tử bị vượt qua.",
+          "Phân hủy hóa học cần phá và tạo liên kết theo một quá trình khác; sôi không phải phản ứng phân hủy ấy."
+        ]
+      },
+      "pitfall": "Không kết luận phân tử phân cực chỉ bằng việc có một liên kết phân cực; phải xét hình dạng.",
+      "recall": "So sánh CO₂ và H₂O về hình dạng và phân cực, không chỉ kể tên liên kết.",
+      "examSlugs": [],
+      "prerequisites": [
+        "lien-ket"
+      ],
+      "questions": [
+        {
+          "id": "phan-cuc-tuong-tac-q1",
+          "lessonId": "phan-cuc-tuong-tac",
+          "prompt": "Phân tử nào không phân cực toàn phần dù có liên kết phân cực?",
+          "options": [
+            "H₂O gấp khúc",
+            "HCl",
+            "NH₃ dạng chóp",
+            "CO₂ dạng thẳng"
+          ],
+          "answer": 3,
+          "explanation": "Hai moment C=O trong CO₂ thẳng đối nhau và triệt tiêu."
+        },
+        {
+          "id": "phan-cuc-tuong-tac-q2",
+          "lessonId": "phan-cuc-tuong-tac",
+          "prompt": "Chất nào có thể tạo liên kết hydrogen giữa các phân tử của chính nó?",
+          "options": [
+            "CH₄",
+            "CO₂",
+            "H₂O",
+            "H₂"
+          ],
+          "answer": 2,
+          "explanation": "H₂O có H liên kết trực tiếp với O và O có cặp electron riêng."
+        },
+        {
+          "id": "phan-cuc-tuong-tac-q3",
+          "lessonId": "phan-cuc-tuong-tac",
+          "prompt": "Khi nước lỏng sôi ở áp suất thường, mô tả nào phù hợp nhất?",
+          "options": [
+            "Mọi liên kết O–H đều bị cắt",
+            "Phân tử H₂O tách xa nhau hơn",
+            "Tất cả H₂O thành H₂ và O₂",
+            "Proton bị tách khỏi hạt nhân"
+          ],
+          "answer": 1,
+          "explanation": "Sôi là chuyển thể, không phải tự phân hủy phân tử nước thành đơn chất."
+        }
+      ]
+    },
+    {
+      "id": "oxi-hoa-khu",
+      "title": "Số oxi hóa và cân bằng electron",
+      "stageId": "chang-5",
+      "minutes": 45,
+      "goal": "Tìm chất nhường/nhận electron và cân bằng một phản ứng oxi hóa–khử đơn giản.",
+      "theory": "Số oxi hóa là điện tích quy ước nếu coi cặp electron liên kết chuyển hoàn toàn về nguyên tử có độ âm điện lớn hơn. Đơn chất có số oxi hóa 0; ion đơn nguyên tử có số oxi hóa bằng điện tích. Tổng số oxi hóa trong phân tử trung hòa bằng 0, trong ion bằng điện tích ion.\n\nH thường +1; O thường −2. Có ngoại lệ: O trong peroxide H₂O₂ là −1; H trong hydride kim loại như NaH là −1. Tăng số oxi hóa là quá trình oxi hóa (nhường electron); giảm là quá trình khử (nhận electron). Chất khử bị oxi hóa; chất oxi hóa bị khử.\n\nCân bằng electron: xác định nguyên tố đổi số oxi hóa, viết số electron nhường/nhận, nhân để tổng nhường bằng tổng nhận, rồi cân bằng các nguyên tố còn lại và kiểm toàn phương trình. Electron không tự mất đi trong phương trình tổng.",
+      "example": {
+        "question": "Cân bằng Fe₂O₃ + CO → Fe + CO₂ bằng sự thay đổi số oxi hóa.",
+        "steps": [
+          "Fe từ +3 xuống 0, mỗi Fe nhận 3e; hai Fe nhận 6e. C từ +2 trong CO lên +4, mỗi C nhường 2e.",
+          "Cần 3CO nhường tổng 6e để khử hai Fe.",
+          "Fe₂O₃ + 3CO → 2Fe + 3CO₂. Kiểm O: 3 + 3 = 6 ở trái, 6 ở phải."
+        ]
+      },
+      "pitfall": "Chất khử không phải chất bị khử. Nhớ “khử cho, oxi hóa nhận” nói về vai trò của chất.",
+      "recall": "Tự tìm số oxi hóa của S trong H₂SO₄, rồi của S trong SO₂.",
+      "examSlugs": [],
+      "prerequisites": [
+        "phan-cuc-tuong-tac"
+      ],
+      "questions": [
+        {
+          "id": "oxi-hoa-khu-q1",
+          "lessonId": "oxi-hoa-khu",
+          "prompt": "Số oxi hóa của S trong H₂SO₄ là bao nhiêu?",
+          "options": [
+            "+6",
+            "+4",
+            "−2",
+            "0"
+          ],
+          "answer": 0,
+          "explanation": "2 × (+1) + S + 4 × (−2) = 0 nên S = +6."
+        },
+        {
+          "id": "oxi-hoa-khu-q2",
+          "lessonId": "oxi-hoa-khu",
+          "prompt": "Trong Zn + Cu²⁺ → Zn²⁺ + Cu, chất khử là gì?",
+          "options": [
+            "Cu²⁺",
+            "Zn²⁺",
+            "Cu",
+            "Zn"
+          ],
+          "answer": 3,
+          "explanation": "Zn nhường 2e và bị oxi hóa, nên Zn là chất khử."
+        },
+        {
+          "id": "oxi-hoa-khu-q3",
+          "lessonId": "oxi-hoa-khu",
+          "prompt": "Một nguyên tử Fe từ +3 xuống 0 nhận bao nhiêu electron?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "6"
+          ],
+          "answer": 2,
+          "explanation": "Số oxi hóa giảm ba đơn vị tương ứng nhận 3 electron cho mỗi Fe."
+        }
+      ]
+    },
+    {
+      "id": "nang-luong",
+      "title": "Năng lượng phản ứng: hiểu dấu trước khi tính",
+      "stageId": "chang-5",
+      "minutes": 45,
+      "goal": "Phân biệt tỏa/thu nhiệt và tính biến thiên enthalpy với dữ kiện cho sẵn.",
+      "theory": "Ở áp suất không đổi, biến thiên enthalpy ΔH liên hệ với nhiệt phản ứng. ΔH < 0: hệ tỏa nhiệt ra môi trường; ΔH > 0: hệ thu nhiệt. Dấu âm không nghĩa là phản ứng sai hay không xảy ra. Khi đảo chiều phương trình, ΔH đổi dấu; nhân hệ số bao nhiêu thì ΔH cũng nhân bấy nhiêu.\n\nTừ enthalpy tạo thành: ΔᵣH° = tổng hệ số × ΔfH° của sản phẩm trừ tổng của chất tham gia. Phải dùng đúng trạng thái rắn, lỏng, khí. Giá trị tạo thành chuẩn của đơn chất ở dạng bền chuẩn bằng 0 theo quy ước.\n\nTừ năng lượng liên kết trung bình, ước tính ΔH ≈ tổng năng lượng phá liên kết − tổng năng lượng tạo liên kết. Phá liên kết cần năng lượng; tạo liên kết giải phóng năng lượng. Công thức này thường áp dụng dữ liệu pha khí và có tính gần đúng.",
+      "example": {
+        "question": "H₂(g) + Cl₂(g) → 2HCl(g). Cho năng lượng liên kết H–H = 436, Cl–Cl = 243, H–Cl = 431 kJ/mol. Ước tính ΔH.",
+        "steps": [
+          "Phá một H–H và một Cl–Cl: cần 436 + 243 = 679 kJ theo phương trình.",
+          "Tạo hai H–Cl: giải phóng 2 × 431 = 862 kJ.",
+          "ΔH ≈ 679 − 862 = −183 kJ; phản ứng tỏa nhiệt theo chiều đã viết."
+        ]
+      },
+      "pitfall": "Đừng đổi thành “tạo trừ phá”. Không quên nhân số liên kết hoặc hệ số.",
+      "recall": "Không nhìn công thức: giải thích vì sao phá liên kết cần năng lượng nhưng phản ứng tổng vẫn có thể tỏa nhiệt.",
+      "examSlugs": [],
+      "prerequisites": [
+        "oxi-hoa-khu"
+      ],
+      "questions": [
+        {
+          "id": "nang-luong-q1",
+          "lessonId": "nang-luong",
+          "prompt": "Phản ứng có ΔH = −100 kJ theo phương trình đã viết thuộc loại nào?",
+          "options": [
+            "Thu nhiệt",
+            "Tỏa nhiệt",
+            "Không trao đổi năng lượng",
+            "Không thể xảy ra"
+          ],
+          "answer": 1,
+          "explanation": "ΔH âm nghĩa hệ giải phóng nhiệt ra môi trường ở điều kiện xét."
+        },
+        {
+          "id": "nang-luong-q2",
+          "lessonId": "nang-luong",
+          "prompt": "Đảo chiều phản ứng có ΔH = −80 kJ thì ΔH mới bằng bao nhiêu?",
+          "options": [
+            "+80 kJ",
+            "−80 kJ",
+            "+40 kJ",
+            "0 kJ"
+          ],
+          "answer": 0,
+          "explanation": "Đảo chiều đổi dấu của biến thiên enthalpy."
+        },
+        {
+          "id": "nang-luong-q3",
+          "lessonId": "nang-luong",
+          "prompt": "Tổng năng lượng phá liên kết 500 kJ, tổng năng lượng tạo liên kết 620 kJ. ΔH ước tính là bao nhiêu?",
+          "options": [
+            "+120 kJ",
+            "+1 120 kJ",
+            "−1 120 kJ",
+            "−120 kJ"
+          ],
+          "answer": 3,
+          "explanation": "ΔH ≈ 500 − 620 = −120 kJ."
+        }
+      ]
+    },
+    {
+      "id": "toc-do",
+      "title": "Tốc độ phản ứng: nhanh khác với nhiều",
+      "stageId": "chang-5",
+      "minutes": 45,
+      "goal": "Đọc tốc độ trung bình và giải thích tác dụng của nhiệt độ, bề mặt, xúc tác.",
+      "theory": "Tốc độ phản ứng mô tả mức thay đổi lượng hoặc nồng độ chất theo thời gian. Nếu chất A bị tiêu thụ, −Δ[A]/Δt là tốc độ giảm nồng độ A. Tốc độ phản ứng được chuẩn hóa còn chia hệ số của A; đừng trộn hai cách gọi khi hệ số khác 1.\n\nNhiệt độ tăng thường làm phản ứng nhanh hơn. Tăng nồng độ hoặc áp suất riêng phần của khí có thể làm tăng số va chạm hiệu quả; nghiền nhỏ chất rắn làm tăng diện tích tiếp xúc. Những yếu tố này không phải lúc nào cũng làm tăng lượng sản phẩm tối đa theo chất giới hạn.\n\nChất xúc tác tạo con đường phản ứng có năng lượng hoạt hóa thấp hơn, được tái tạo sau chu trình. Nó làm hệ đạt cân bằng nhanh hơn nhưng không đổi hằng số cân bằng tại cùng nhiệt độ. Nếu đề cho hệ số nhiệt độ γ, có thể dùng v₂/v₁ = γ^((T₂−T₁)/10) trong khoảng áp dụng được nêu.",
+      "example": {
+        "question": "Nồng độ A giảm từ 0,50 xuống 0,20 mol/L trong 30 s. Tính tốc độ giảm nồng độ A trung bình.",
+        "steps": [
+          "Độ giảm nồng độ: 0,50 − 0,20 = 0,30 mol/L.",
+          "Tốc độ giảm: 0,30/30 = 0,010 mol/(L·s).",
+          "Nếu đề hỏi tốc độ phản ứng và A có hệ số a, tiếp tục chia a."
+        ]
+      },
+      "pitfall": "Tốc độ không phải hiệu suất. Xúc tác không làm cân bằng chuyển sang phía có nhiều sản phẩm hơn.",
+      "recall": "Giải thích vì sao bột CaCO₃ phản ứng với acid nhanh hơn cục cùng khối lượng, trong cùng điều kiện.",
+      "examSlugs": [],
+      "prerequisites": [
+        "nang-luong"
+      ],
+      "questions": [
+        {
+          "id": "toc-do-q1",
+          "lessonId": "toc-do",
+          "prompt": "Nghiền nhỏ chất rắn thường làm phản ứng với dung dịch nhanh hơn chủ yếu do đâu?",
+          "options": [
+            "Tăng số mol chất rắn",
+            "Tăng khối lượng mol",
+            "Tăng diện tích tiếp xúc",
+            "Đổi nguyên tố tạo chất"
+          ],
+          "answer": 2,
+          "explanation": "Cùng khối lượng nhưng bề mặt tiếp xúc lớn hơn."
+        },
+        {
+          "id": "toc-do-q2",
+          "lessonId": "toc-do",
+          "prompt": "Nồng độ A giảm 0,20 mol/L trong 10 s. Tốc độ giảm nồng độ A là bao nhiêu?",
+          "options": [
+            "2 mol/(L·s)",
+            "0,020 mol/(L·s)",
+            "0,20 mol/(L·s)",
+            "50 mol/(L·s)"
+          ],
+          "answer": 1,
+          "explanation": "Lấy độ giảm nồng độ chia thời gian: 0,20/10 = 0,020."
+        },
+        {
+          "id": "toc-do-q3",
+          "lessonId": "toc-do",
+          "prompt": "Cho γ = 2 trong khoảng xét. Tăng nhiệt độ từ 20 lên 40 °C làm tốc độ tăng mấy lần?",
+          "options": [
+            "4 lần",
+            "2 lần",
+            "20 lần",
+            "40 lần"
+          ],
+          "answer": 0,
+          "explanation": "Có hai khoảng 10 °C, nên hệ số tăng là 2² = 4."
+        }
+      ]
+    },
+    {
+      "id": "halogen",
+      "title": "Halogen, hydrogen halide và muối halide",
+      "stageId": "chang-5",
+      "minutes": 45,
+      "goal": "Nối bảng tuần hoàn, oxi hóa–khử và kết tủa vào một nhóm nguyên tố.",
+      "theory": "Nhóm 17 (VIIA) gồm các halogen quen thuộc F, Cl, Br, I. Đơn chất thường có dạng X₂; chúng dễ nhận electron. Trong dãy F₂, Cl₂, Br₂, I₂, tính oxi hóa nhìn chung giảm dần. Chỉ dùng phản ứng thế trong dung dịch cho các trường hợp phù hợp như Cl₂ với Br⁻; F₂ có phản ứng mạnh với nước nên không áp dụng máy móc.\n\nHydrogen halide có dạng HX. Trong nước, HCl, HBr, HI là acid mạnh; HF là acid yếu nhưng rất nguy hiểm. “Yếu” chỉ mức phân li, không phải an toàn. Không ngửi, nếm hoặc tự trộn hóa chất để nhận biết.\n\nVới dung dịch AgNO₃, ion Cl⁻, Br⁻, I⁻ tạo kết tủa AgCl trắng, AgBr vàng nhạt, AgI vàng; AgF tan. Đây là thông tin phân tích trên giấy hoặc thí nghiệm có giáo viên giám sát, không phải hướng dẫn tự làm.",
+      "example": {
+        "question": "Viết phản ứng giữa Cl₂ và dung dịch NaBr; xác định chất oxi hóa.",
+        "steps": [
+          "Cl₂ + 2NaBr → 2NaCl + Br₂; ion rút gọn: Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂.",
+          "Cl từ 0 xuống −1, nhận electron; Br từ −1 lên 0, nhường electron.",
+          "Cl₂ là chất oxi hóa; Br⁻ là chất khử."
+        ]
+      },
+      "pitfall": "Không gọi HF an toàn vì là acid yếu. Không ngoại suy quy tắc dung dịch cho F₂.",
+      "recall": "Nêu sự khác nhau giữa Cl₂, HCl và Cl⁻ bằng một câu cho mỗi chất/ion.",
+      "examSlugs": [],
+      "prerequisites": [
+        "toc-do"
+      ],
+      "questions": [
+        {
+          "id": "halogen-q1",
+          "lessonId": "halogen",
+          "prompt": "Trong Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂, chất oxi hóa là gì?",
+          "options": [
+            "Br⁻",
+            "Cl⁻",
+            "Br₂",
+            "Cl₂"
+          ],
+          "answer": 3,
+          "explanation": "Cl₂ nhận electron và bị khử từ 0 xuống −1."
+        },
+        {
+          "id": "halogen-q2",
+          "lessonId": "halogen",
+          "prompt": "Kết tủa AgCl có màu điển hình nào?",
+          "options": [
+            "Xanh lam",
+            "Đỏ nâu",
+            "Trắng",
+            "Đen"
+          ],
+          "answer": 2,
+          "explanation": "Ag⁺ và Cl⁻ tạo AgCl kết tủa trắng."
+        },
+        {
+          "id": "halogen-q3",
+          "lessonId": "halogen",
+          "prompt": "Phát biểu nào chính xác về HF trong nước?",
+          "options": [
+            "Acid yếu nên có thể nếm thử",
+            "Acid yếu nhưng rất nguy hiểm",
+            "Muối trung hòa",
+            "Không chứa hydrogen"
+          ],
+          "answer": 1,
+          "explanation": "Độ mạnh acid mô tả mức phân li, không phải mức độc hại hay độ an toàn."
+        }
+      ]
+    },
+    {
+      "id": "can-bang",
+      "title": "Cân bằng hóa học và nguyên lí Le Chatelier",
+      "stageId": "chang-6",
+      "minutes": 45,
+      "goal": "Hiểu cân bằng động, viết Kc và dự đoán chiều chuyển dịch đơn giản.",
+      "theory": "Phản ứng thuận nghịch có thể xảy ra theo cả hai chiều. Ở cân bằng động, tốc độ thuận bằng tốc độ nghịch; hai phản ứng không dừng lại. Nồng độ các chất ổn định theo thời gian trong điều kiện giữ nguyên, nhưng không nhất thiết bằng nhau.\n\nVới aA + bB ⇌ cC + dD, biểu thức phổ thông Kc = [C]^c[D]^d / ([A]^a[B]^b), dùng nồng độ cân bằng của khí/chất tan theo mô hình đang xét; bỏ chất rắn tinh khiết và chất lỏng tinh khiết. Ở một phản ứng xác định, K chỉ thay đổi khi nhiệt độ thay đổi.\n\nKhi tăng nồng độ một chất, hệ có xu hướng tiêu thụ bớt chất đó. Nén hệ khí ở nhiệt độ không đổi thường ưu tiên phía ít mol khí hơn. Tăng nhiệt độ ưu tiên chiều thu nhiệt. Xúc tác chỉ làm đạt cân bằng nhanh hơn. Hãy đếm hệ số khí, không đếm số tên chất.",
+      "example": {
+        "question": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g), chiều thuận tỏa nhiệt. Tăng áp suất bằng giảm thể tích ở nhiệt độ không đổi thì sao?",
+        "steps": [
+          "Vế trái có tổng 4 mol khí theo hệ số; vế phải có 2.",
+          "Nén hệ làm cân bằng dịch về phía ít mol khí: chiều tạo NH₃.",
+          "K không đổi vì nhiệt độ không đổi; không nhầm chuyển dịch thành thay đổi K."
+        ]
+      },
+      "pitfall": "Cân bằng không nghĩa lượng chất hai bên bằng nhau hoặc phản ứng ngừng.",
+      "recall": "Viết Kc của N₂ + 3H₂ ⇌ 2NH₃; giải thích số mũ 3.",
+      "examSlugs": [
+        "de-hoa-11-bai-01"
+      ],
+      "prerequisites": [
+        "halogen"
+      ],
+      "questions": [
+        {
+          "id": "can-bang-q1",
+          "lessonId": "can-bang",
+          "prompt": "Ở cân bằng hóa học, đại lượng nào bằng nhau?",
+          "options": [
+            "Tốc độ thuận và tốc độ nghịch",
+            "Nồng độ mọi chất",
+            "Khối lượng hai vế",
+            "Số mol mọi chất"
+          ],
+          "answer": 0,
+          "explanation": "Cân bằng động là sự bằng nhau của tốc độ hai chiều, không phải nồng độ các chất."
+        },
+        {
+          "id": "can-bang-q2",
+          "lessonId": "can-bang",
+          "prompt": "H₂ + I₂ ⇌ 2HI có [H₂] = [I₂] = 0,1 M, [HI] = 0,2 M tại cân bằng. Kc bằng bao nhiêu theo biểu thức nồng độ?",
+          "options": [
+            "2",
+            "0,25",
+            "20",
+            "4"
+          ],
+          "answer": 3,
+          "explanation": "Kc = [HI]²/([H₂][I₂]) = 0,2²/(0,1 × 0,1) = 4."
+        },
+        {
+          "id": "can-bang-q3",
+          "lessonId": "can-bang",
+          "prompt": "Thêm xúc tác ở nhiệt độ không đổi làm K thay đổi thế nào?",
+          "options": [
+            "Luôn tăng",
+            "Luôn giảm",
+            "Không đổi",
+            "Về 0"
+          ],
+          "answer": 2,
+          "explanation": "Xúc tác ảnh hưởng tốc độ đạt cân bằng, không thay đổi hằng số cân bằng tại cùng nhiệt độ."
+        }
+      ]
+    },
+    {
+      "id": "ph-chuan-do",
+      "title": "Acid–base lớp 11, pH và chuẩn độ",
+      "stageId": "chang-6",
+      "minutes": 45,
+      "goal": "Dùng khái niệm cho/nhận proton, tính pH đơn giản và tỉ lệ chuẩn độ.",
+      "theory": "Theo Brønsted–Lowry, acid cho proton H⁺, base nhận proton. NH₃ + H₂O ⇌ NH₄⁺ + OH⁻: NH₃ là base vì nhận H⁺; nước đóng vai trò acid ở chiều thuận. Chất điện li mạnh tạo ion gần như hoàn toàn, chất điện li yếu chỉ một phần trong mô hình dung dịch loãng.\n\nỞ mức phổ thông cho dung dịch loãng, pH = −log[H⁺]. Nếu [H⁺] = 10⁻³ mol/L thì pH = 3 vì log(10⁻³) = −3. Ở 25 °C, pH + pOH ≈ 14; trung tính pH ≈ 7. Acid mạnh đơn nấc đủ nồng độ có [H⁺] xấp xỉ nồng độ acid; không áp dụng cho acid yếu hoặc cực loãng mà bỏ qua cân bằng nước.\n\nChuẩn độ xác định lượng chất bằng phản ứng đã biết. Điểm tương đương là lúc chất phản ứng vừa đủ theo tỉ lệ phương trình; điểm kết thúc quan sát bằng chỉ thị có thể chênh nhỏ. Không mặc định pH tại tương đương luôn bằng 7; điều đó chỉ gần đúng cho acid mạnh–base mạnh ở 25 °C.",
+      "example": {
+        "question": "20,0 mL HCl được trung hòa vừa đủ bởi 10,0 mL NaOH 0,100 M. Tính C(HCl).",
+        "steps": [
+          "HCl + NaOH → NaCl + H₂O, tỉ lệ mol 1:1.",
+          "n(NaOH) = 0,0100 × 0,100 = 0,00100 mol = n(HCl).",
+          "C(HCl) = 0,00100/0,0200 = 0,0500 M."
+        ]
+      },
+      "pitfall": "Không lấy −log n(H⁺); phải lấy nồng độ. Khi trộn dung dịch, tính mol dư rồi chia tổng thể tích.",
+      "recall": "Giải thích vì sao NH₃ là base dù không có OH trong công thức.",
+      "examSlugs": [
+        "de-hoa-11-bai-02"
+      ],
+      "prerequisites": [
+        "can-bang"
+      ],
+      "questions": [
+        {
+          "id": "ph-chuan-do-q1",
+          "lessonId": "ph-chuan-do",
+          "prompt": "Ở 25 °C, dung dịch loãng có [H⁺] = 10⁻³ M thì pH xấp xỉ bao nhiêu?",
+          "options": [
+            "−3",
+            "3",
+            "11",
+            "0,001"
+          ],
+          "answer": 1,
+          "explanation": "pH = −log(10⁻³) = 3."
+        },
+        {
+          "id": "ph-chuan-do-q2",
+          "lessonId": "ph-chuan-do",
+          "prompt": "Ở 25 °C, dung dịch có pOH = 2 thì pH xấp xỉ bao nhiêu?",
+          "options": [
+            "12",
+            "2",
+            "7",
+            "−2"
+          ],
+          "answer": 0,
+          "explanation": "pH + pOH ≈ 14 nên pH ≈ 14 − 2 = 12."
+        },
+        {
+          "id": "ph-chuan-do-q3",
+          "lessonId": "ph-chuan-do",
+          "prompt": "Trong NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, NH₃ là base ở chiều thuận vì sao?",
+          "options": [
+            "Cho proton",
+            "Nhận neutron",
+            "Cho oxygen",
+            "Nhận proton"
+          ],
+          "answer": 3,
+          "explanation": "NH₃ nhận H⁺ từ nước thành NH₄⁺."
+        }
+      ]
+    },
+    {
+      "id": "nitrogen",
+      "title": "Nitrogen, ammonia, ammonium và nitric acid",
+      "stageId": "chang-6",
+      "minutes": 45,
+      "goal": "Xâu chuỗi tính chất qua liên kết, acid–base và số oxi hóa của N.",
+      "theory": "N₂ có liên kết ba bền nên khá trơ ở điều kiện thường; ở điều kiện thích hợp vẫn phản ứng. NH₃ có dạng chóp, phân cực, tan tốt trong nước và thể hiện tính base yếu. NH₃ nhận H⁺ tạo NH₄⁺; dung dịch muối ammonium có thể phản ứng với kiềm giải phóng NH₃. Không nhận biết bằng cách ngửi trực tiếp.\n\nTrong HNO₃ và NO₃⁻, N có số oxi hóa +5. HNO₃ vừa là acid mạnh vừa có tính oxi hóa; phản ứng với kim loại không mặc định giải phóng H₂. Sản phẩm khử phụ thuộc nồng độ, kim loại và điều kiện, vì thế phải đọc dữ kiện thay vì thuộc một sản phẩm cho mọi bài.\n\nNO dễ bị oxygen không khí oxi hóa thành NO₂; NO₂ là khí độc. Các oxide nitrogen góp phần gây ô nhiễm và mưa acid; dư dinh dưỡng nitrogen trong nước góp phần phú dưỡng. Học để hiểu môi trường, không tự điều chế các khí này.",
+      "example": {
+        "question": "Viết phản ứng của NH₄Cl với NaOH và đọc tỉ lệ mol NH₄⁺:NH₃.",
+        "steps": [
+          "NH₄Cl + NaOH → NaCl + NH₃ + H₂O (điều kiện thí nghiệm phù hợp).",
+          "Ion rút gọn: NH₄⁺ + OH⁻ → NH₃ + H₂O.",
+          "Mỗi mol NH₄⁺ theo phản ứng tạo một mol NH₃; điện tích và nguyên tố đều bảo toàn."
+        ]
+      },
+      "pitfall": "Không gộp NH₃ với NH₄⁺: một chất trung hòa, một ion. HNO₃ không theo quy tắc acid loãng sinh H₂ thông thường.",
+      "recall": "Viết số oxi hóa của N trong N₂, NH₃, NH₄⁺, NO₃⁻.",
+      "examSlugs": [
+        "de-hoa-11-bai-04",
+        "de-hoa-11-bai-06",
+        "de-hoa-11-bai-07"
+      ],
+      "prerequisites": [
+        "ph-chuan-do"
+      ],
+      "questions": [
+        {
+          "id": "nitrogen-q1",
+          "lessonId": "nitrogen",
+          "prompt": "Số oxi hóa của N trong NH₃ là bao nhiêu?",
+          "options": [
+            "+3",
+            "+5",
+            "−3",
+            "0"
+          ],
+          "answer": 2,
+          "explanation": "N + 3 × (+1) = 0 nên N = −3."
+        },
+        {
+          "id": "nitrogen-q2",
+          "lessonId": "nitrogen",
+          "prompt": "0,1 mol NH₄⁺ phản ứng hết với OH⁻ dư theo NH₄⁺ + OH⁻ → NH₃ + H₂O tạo bao nhiêu mol NH₃?",
+          "options": [
+            "0,2 mol",
+            "0,1 mol",
+            "0,05 mol",
+            "0,3 mol"
+          ],
+          "answer": 1,
+          "explanation": "Tỉ lệ NH₄⁺:NH₃ = 1:1."
+        },
+        {
+          "id": "nitrogen-q3",
+          "lessonId": "nitrogen",
+          "prompt": "Phát biểu nào đúng về phản ứng kim loại với HNO₃?",
+          "options": [
+            "Không mặc định sản phẩm khí là H₂",
+            "Luôn tạo H₂",
+            "HNO₃ chỉ có tính acid, không oxi hóa",
+            "Luôn không phản ứng với Cu"
+          ],
+          "answer": 0,
+          "explanation": "HNO₃ có tính oxi hóa; sản phẩm khử cần xác định theo dữ kiện và điều kiện."
+        }
+      ]
+    },
+    {
+      "id": "sulfur",
+      "title": "Sulfur, SO₂, H₂SO₄ và sulfate",
+      "stageId": "chang-6",
+      "minutes": 45,
+      "goal": "Dùng số oxi hóa để giải thích vai trò của S, phân biệt acid loãng/đặc và ion sulfate.",
+      "theory": "Sulfur có nhiều số oxi hóa, thường gặp −2, 0, +4, +6. Trong SO₂, S là +4 nên có thể tăng lên +6 hoặc giảm xuống mức thấp hơn: SO₂ có thể là chất khử hoặc chất oxi hóa tùy phản ứng. SO₂ là oxide acid, tác động xấu đến hô hấp và góp phần gây mưa acid.\n\nH₂SO₄ loãng thể hiện tính acid; H₂SO₄ đặc có tính háo nước và oxi hóa mạnh trong các điều kiện phù hợp. Không dùng quy tắc “kim loại + acid tạo H₂” cho acid đặc nóng. Pha loãng acid tỏa nhiệt mạnh; không tự thao tác hóa chất ăn mòn khi không được hướng dẫn và giám sát.\n\nIon sulfate SO₄²⁻ tạo BaSO₄ kết tủa trắng với Ba²⁺. Khi phân tích mẫu thật cần xét các ion gây nhiễu, không coi một hiện tượng là bằng chứng tuyệt đối trong mọi hỗn hợp. Bài cơ bản nêu rõ các chất có thể có để suy luận được.",
+      "example": {
+        "question": "Trong 2SO₂ + O₂ → 2SO₃, xác định vai trò của SO₂ và lượng SO₃ từ 0,20 mol SO₂, O₂ dư, phản ứng hoàn toàn.",
+        "steps": [
+          "S tăng số oxi hóa từ +4 lên +6: SO₂ nhường electron, là chất khử.",
+          "Hệ số SO₂ và SO₃ bằng nhau nên n(SO₃) = 0,20 mol.",
+          "O₂ nhận electron nên là chất oxi hóa; đủ cả hai quá trình trong cùng phản ứng."
+        ]
+      },
+      "pitfall": "Không đánh đồng SO₂ với SO₄²⁻. Cùng có S và O nhưng cấu tạo, điện tích và tính chất khác nhau.",
+      "recall": "Tự lập danh sách S, SO₂, H₂SO₄ và số oxi hóa tương ứng của S.",
+      "examSlugs": [
+        "de-hoa-11-bai-05",
+        "de-hoa-11-bai-08",
+        "de-hoa-11-bai-09"
+      ],
+      "prerequisites": [
+        "nitrogen"
+      ],
+      "questions": [
+        {
+          "id": "sulfur-q1",
+          "lessonId": "sulfur",
+          "prompt": "S trong SO₂ có số oxi hóa bao nhiêu?",
+          "options": [
+            "+6",
+            "−2",
+            "0",
+            "+4"
+          ],
+          "answer": 3,
+          "explanation": "S + 2 × (−2) = 0 nên S = +4."
+        },
+        {
+          "id": "sulfur-q2",
+          "lessonId": "sulfur",
+          "prompt": "Ion nào tạo kết tủa BaSO₄ với SO₄²⁻?",
+          "options": [
+            "Na⁺",
+            "K⁺",
+            "Ba²⁺",
+            "NH₄⁺"
+          ],
+          "answer": 2,
+          "explanation": "Ba²⁺ + SO₄²⁻ → BaSO₄↓."
+        },
+        {
+          "id": "sulfur-q3",
+          "lessonId": "sulfur",
+          "prompt": "Trong 2SO₂ + O₂ → 2SO₃, SO₂ giữ vai trò nào?",
+          "options": [
+            "Chất oxi hóa",
+            "Chất khử",
+            "Chỉ là dung môi",
+            "Chỉ là xúc tác"
+          ],
+          "answer": 1,
+          "explanation": "S tăng từ +4 lên +6, nhường electron nên SO₂ là chất khử."
+        }
+      ]
+    },
+    {
+      "id": "huu-co-tach-chat",
+      "title": "Bước vào hữu cơ: nhóm chức và tách chất",
+      "stageId": "chang-7",
+      "minutes": 45,
+      "goal": "Nhận diện hợp chất hữu cơ, chọn phương pháp tách và hiểu vai trò phổ IR.",
+      "theory": "Hóa hữu cơ nghiên cứu phần lớn hợp chất của carbon. Một số hợp chất chứa carbon như CO, CO₂, muối carbonate được xếp vô cơ ở chương trình phổ thông. Hydrocarbon chỉ gồm C và H; dẫn xuất có thêm O, N, halogen… Nhóm chức là nhóm nguyên tử gây ra các tính chất hóa học đặc trưng, như –OH, –CHO, –COOH.\n\nChưng cất dựa vào sự khác nhau về khả năng bay hơi/nhiệt độ sôi; chiết dựa vào độ tan khác nhau trong các dung môi không trộn lẫn thích hợp; kết tinh dựa vào độ tan thay đổi theo điều kiện; sắc kí dựa vào sự phân bố/tương tác khác nhau giữa pha động và pha tĩnh. Chọn cách tách theo tính chất, không chỉ theo tên chất.\n\nPhổ hồng ngoại IR giúp nhận biết liên kết, nhóm chức. Vùng hấp thụ O–H của alcohol thường rộng khoảng 3 200–3 600 cm⁻¹; liên kết C=O thường có vùng gần 1 700 cm⁻¹, tùy chất. Một tín hiệu không đủ suy ra duy nhất toàn bộ cấu tạo; cần phối hợp dữ liệu.",
+      "example": {
+        "question": "Một hỗn hợp hai chất lỏng có nhiệt độ sôi khác nhau đủ lớn, bền khi đun. Chọn phương pháp tách phù hợp về nguyên tắc.",
+        "steps": [
+          "Dữ kiện then chốt là khác biệt độ bay hơi/nhiệt độ sôi.",
+          "Chọn chưng cất: phần dễ bay hơi được làm giàu trong hơi rồi ngưng tụ.",
+          "Không khẳng định luôn tách tuyệt đối một lần; hiệu quả phụ thuộc hỗn hợp và thiết bị."
+        ]
+      },
+      "pitfall": "Có carbon không tự động là hữu cơ. IR nhận diện nhóm chức, không trực tiếp cho số nguyên tử carbon.",
+      "recall": "Lấy một tình huống cho chưng cất và một tình huống cho chiết, nêu tính chất được dùng.",
+      "examSlugs": [
+        "de-hoa-11-bai-10",
+        "de-hoa-11-bai-11"
+      ],
+      "prerequisites": [
+        "sulfur"
+      ],
+      "questions": [
+        {
+          "id": "huu-co-tach-chat-q1",
+          "lessonId": "huu-co-tach-chat",
+          "prompt": "Chất nào được xếp vô cơ trong chương trình phổ thông?",
+          "options": [
+            "Na₂CO₃",
+            "CH₄",
+            "C₂H₅OH",
+            "CH₃COOH"
+          ],
+          "answer": 0,
+          "explanation": "Muối carbonate chứa carbon nhưng được xếp vào hợp chất vô cơ."
+        },
+        {
+          "id": "huu-co-tach-chat-q2",
+          "lessonId": "huu-co-tach-chat",
+          "prompt": "Phương pháp nào dựa chủ yếu vào sự khác biệt độ bay hơi?",
+          "options": [
+            "Lọc giấy đơn thuần",
+            "Dùng nam châm",
+            "Đếm nguyên tử",
+            "Chưng cất"
+          ],
+          "answer": 3,
+          "explanation": "Chưng cất khai thác sự khác nhau về độ bay hơi của các cấu tử."
+        },
+        {
+          "id": "huu-co-tach-chat-q3",
+          "lessonId": "huu-co-tach-chat",
+          "prompt": "Phổ IR thường hỗ trợ trực tiếp việc nào?",
+          "options": [
+            "Đo chính xác số proton hạt nhân",
+            "Xác định mọi cấu tạo chỉ từ một vạch",
+            "Nhận diện nhóm chức",
+            "Đếm số mol bằng mắt"
+          ],
+          "answer": 2,
+          "explanation": "Vùng hấp thụ đặc trưng cung cấp thông tin liên kết/nhóm chức; cần phối hợp dữ kiện khác."
+        }
+      ]
+    },
+    {
+      "id": "cong-thuc-phan-tu",
+      "title": "Từ thành phần nguyên tố đến công thức phân tử",
+      "stageId": "chang-7",
+      "minutes": 45,
+      "goal": "Tìm công thức đơn giản nhất, hệ số nhân và đọc dữ kiện phân tử khối.",
+      "theory": "Công thức đơn giản nhất cho tỉ lệ nguyên nhỏ nhất giữa các nguyên tử; công thức phân tử cho số nguyên tử thật trong một phân tử. CH₂O có thể là công thức đơn giản nhất của C₂H₄O₂ hoặc C₆H₁₂O₆. Chỉ biết tỉ lệ chưa đủ xác định công thức phân tử.\n\nKhi cho phần trăm khối lượng, giả sử lấy 100 g mẫu. Chia khối lượng từng nguyên tố cho nguyên tử khối để được tỉ lệ mol nguyên tử; chia các số cho số nhỏ nhất rồi đưa về nguyên đơn giản. Tìm k = M phân tử/M công thức đơn giản nhất; k phải là số nguyên dương trong sai số dữ liệu.\n\nPhổ khối lượng MS có trục m/z. Nếu đề xác định một peak là ion phân tử mang điện +1 thì m/z có thể dùng suy ra khối lượng phân tử tương ứng. Không mặc định peak cao nhất về cường độ là ion phân tử; đó có thể là mảnh vỡ rất bền.",
+      "example": {
+        "question": "Chất có 40,0% C; 6,67% H; còn lại O; M = 60 g/mol. Dùng C = 12, H = 1, O = 16. Tìm công thức.",
+        "steps": [
+          "Giả sử 100 g: n(C):n(H):n(O) ≈ 40/12 : 6,67/1 : 53,33/16.",
+          "Chia cho khoảng 3,333 được 1:2:1, công thức đơn giản nhất CH₂O, khối lượng 30.",
+          "k = 60/30 = 2; công thức phân tử C₂H₄O₂."
+        ]
+      },
+      "pitfall": "Không dùng trực tiếp tỉ lệ phần trăm làm chỉ số. Phải đổi khối lượng từng nguyên tố ra mol nguyên tử.",
+      "recall": "Giải thích vì sao chỉ CH₂O chưa đủ kết luận phân tử khối bằng 30.",
+      "examSlugs": [
+        "de-hoa-11-bai-12"
+      ],
+      "prerequisites": [
+        "huu-co-tach-chat"
+      ],
+      "questions": [
+        {
+          "id": "cong-thuc-phan-tu-q1",
+          "lessonId": "cong-thuc-phan-tu",
+          "prompt": "Công thức đơn giản nhất CH₂O, M = 180 g/mol. Công thức phân tử là gì?",
+          "options": [
+            "CH₂O",
+            "C₆H₁₂O₆",
+            "C₂H₄O₂",
+            "C₆H₆O₆"
+          ],
+          "answer": 1,
+          "explanation": "M(CH₂O) = 30; k = 180/30 = 6, nhân tất cả chỉ số cho 6."
+        },
+        {
+          "id": "cong-thuc-phan-tu-q2",
+          "lessonId": "cong-thuc-phan-tu",
+          "prompt": "Hydrocarbon có 24 g C và 6 g H. Tỉ lệ mol nguyên tử C:H là gì?",
+          "options": [
+            "1 : 3",
+            "4 : 1",
+            "1 : 4",
+            "2 : 1"
+          ],
+          "answer": 0,
+          "explanation": "n(C):n(H) = 24/12 : 6/1 = 2:6 = 1:3."
+        },
+        {
+          "id": "cong-thuc-phan-tu-q3",
+          "lessonId": "cong-thuc-phan-tu",
+          "prompt": "Phát biểu nào đúng về peak có cường độ lớn nhất trong phổ MS?",
+          "options": [
+            "Luôn là ion phân tử",
+            "Luôn có m/z bằng 1",
+            "Luôn biểu diễn oxygen",
+            "Không nhất thiết là ion phân tử"
+          ],
+          "answer": 3,
+          "explanation": "Peak mạnh nhất có thể là một ion mảnh, không tự động cho phân tử khối."
+        }
+      ]
+    },
+    {
+      "id": "cau-tao-huu-co",
+      "title": "Cấu tạo và gọi tên: học cách đọc mạch carbon",
+      "stageId": "chang-7",
+      "minutes": 45,
+      "goal": "Đếm đủ hóa trị của C, đọc công thức thu gọn và gọi tên mạch đơn giản.",
+      "theory": "Trong các hợp chất hữu cơ cơ bản đang học, C có hóa trị IV, H có hóa trị I, O thường II. Carbon có thể nối thành mạch thẳng, nhánh hoặc vòng. Thứ tự nối quyết định tính chất; cùng số nguyên tử nhưng nối khác nhau có thể tạo chất khác.\n\nCông thức CH₃–CH₂–OH thể hiện hai C nối nhau, nhóm OH ở cuối: ethanol. Đếm liên kết của mỗi carbon để suy ra H còn thiếu. Một liên kết đôi tính hai đơn vị hóa trị; liên kết ba tính ba. Không thêm H quá mức hóa trị.\n\nVới alkane mạch hở, tên nền theo số C: methane (1), ethane (2), propane (3), butane (4), pentane (5), hexane (6). Mạch có nhánh: chọn mạch chính phù hợp dài nhất, đánh số cho nhánh có bộ chỉ số nhỏ; nhánh CH₃– gọi methyl. Các nhóm chức và liên kết bội có quy tắc ưu tiên riêng sẽ học dần, không đánh số chỉ theo nhánh trong mọi trường hợp.",
+      "example": {
+        "question": "Đọc công thức CH₃–CH(CH₃)–CH₃.",
+        "steps": [
+          "Tổng có 4 carbon, nhưng mạch liên tục dài nhất chỉ có 3 carbon: propane.",
+          "Một nhánh CH₃ gắn ở carbon số 2 nên tên 2-methylpropane.",
+          "Đếm H: 3 + 1 + 3 + 3 = 10, công thức phân tử C₄H₁₀."
+        ]
+      },
+      "pitfall": "Tổng số carbon không luôn bằng số carbon mạch chính. Không bỏ carbon nằm trong ngoặc.",
+      "recall": "Vẽ đủ H cho mạch C–C–O–H sao cho C hóa trị IV, O hóa trị II.",
+      "examSlugs": [
+        "de-hoa-11-bai-13"
+      ],
+      "prerequisites": [
+        "cong-thuc-phan-tu"
+      ],
+      "questions": [
+        {
+          "id": "cau-tao-huu-co-q1",
+          "lessonId": "cau-tao-huu-co",
+          "prompt": "Công thức CH₃–CH₂–OH có bao nhiêu nguyên tử H?",
+          "options": [
+            "5",
+            "4",
+            "6",
+            "7"
+          ],
+          "answer": 2,
+          "explanation": "3 H ở CH₃, 2 ở CH₂ và 1 ở OH, tổng 6."
+        },
+        {
+          "id": "cau-tao-huu-co-q2",
+          "lessonId": "cau-tao-huu-co",
+          "prompt": "Tên alkane mạch thẳng có 3 carbon là gì?",
+          "options": [
+            "Methane",
+            "Propane",
+            "Ethane",
+            "Butane"
+          ],
+          "answer": 1,
+          "explanation": "Các tên nền theo số C: 1 methane, 2 ethane, 3 propane, 4 butane."
+        },
+        {
+          "id": "cau-tao-huu-co-q3",
+          "lessonId": "cau-tao-huu-co",
+          "prompt": "CH₃–CH(CH₃)–CH₃ có mạch carbon liên tục dài nhất gồm bao nhiêu C?",
+          "options": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "answer": 0,
+          "explanation": "Carbon giữa nối ba nhóm CH₃; một đường không quay lại chỉ đi qua tối đa ba C."
+        }
+      ]
+    },
+    {
+      "id": "dong-phan",
+      "title": "Đồng phân, đồng đẳng và cách không đếm trùng",
+      "stageId": "chang-7",
+      "minutes": 45,
+      "goal": "Phân biệt cùng công thức với cùng cấu tạo; tìm đồng phân đơn giản có hệ thống.",
+      "theory": "Đồng phân có cùng công thức phân tử nhưng cấu tạo hoặc cách sắp xếp không gian khác nhau. Đồng đẳng thuộc cùng dãy có cấu tạo và tính chất tương tự, thành phần hơn kém nhau một hay nhiều nhóm CH₂. Hai chất hơn kém CH₂ chưa đủ kết luận đồng đẳng nếu khác nhóm chức.\n\nĐếm đồng phân cấu tạo bằng quy trình: viết mạch dài nhất, chuyển dần carbon thành nhánh, xét đối xứng để bỏ hình vẽ trùng; nếu có nhóm chức thì xét vị trí và loại nhóm chức trong phạm vi đề. Xoay hay viết ngược mạch không tạo đồng phân mới.\n\nC₄H₁₀ có butane và 2-methylpropane. C₂H₆O có ethanol CH₃CH₂OH và ether CH₃OCH₃: cùng công thức nhưng nhóm chức khác. Đồng phân hình học ở liên kết đôi chỉ xuất hiện khi mỗi carbon của C=C gắn với hai nhóm khác nhau; không phải mọi alkene đều có cis/trans.",
+      "example": {
+        "question": "Vì sao CH₃CH₂CH₂CH₃ và CH₃CH(CH₃)CH₃ là đồng phân?",
+        "steps": [
+          "Cả hai có 4 C và 10 H nên cùng công thức C₄H₁₀.",
+          "Chất thứ nhất mạch không nhánh; chất thứ hai có nhánh nên thứ tự liên kết khác nhau.",
+          "Không thể biến sơ đồ liên kết này thành sơ đồ kia chỉ bằng xoay tờ giấy."
+        ]
+      },
+      "pitfall": "Viết từ phải sang trái không tạo chất mới. So sơ đồ nối, không so vẻ ngoài của dòng chữ.",
+      "recall": "Tự vẽ hai đồng phân C₄H₁₀; giải thích vì sao không có đồng phân thứ ba chỉ bằng đổi đầu mạch.",
+      "examSlugs": [
+        "de-hoa-11-bai-13",
+        "de-hoa-11-bai-14"
+      ],
+      "prerequisites": [
+        "cau-tao-huu-co"
+      ],
+      "questions": [
+        {
+          "id": "dong-phan-q1",
+          "lessonId": "dong-phan",
+          "prompt": "C₄H₁₀ có bao nhiêu đồng phân cấu tạo alkane?",
+          "options": [
+            "1",
+            "3",
+            "4",
+            "2"
+          ],
+          "answer": 3,
+          "explanation": "Có butane và 2-methylpropane, không đếm các cách viết ngược là chất mới."
+        },
+        {
+          "id": "dong-phan-q2",
+          "lessonId": "dong-phan",
+          "prompt": "Cặp nào là đồng phân cấu tạo?",
+          "options": [
+            "CH₄ và C₂H₆",
+            "O₂ và O₃",
+            "CH₃CH₂OH và CH₃OCH₃",
+            "H₂O và H₂O₂"
+          ],
+          "answer": 2,
+          "explanation": "Hai chất đều C₂H₆O nhưng khác cách nối và nhóm chức."
+        },
+        {
+          "id": "dong-phan-q3",
+          "lessonId": "dong-phan",
+          "prompt": "Điều kiện cần để alkene có đồng phân hình học quanh C=C là gì?",
+          "options": [
+            "Chỉ cần có bất kì liên kết đôi nào",
+            "Mỗi C của C=C gắn hai nhóm khác nhau",
+            "Mỗi C của C=C phải gắn hai H",
+            "Phải có đúng một carbon"
+          ],
+          "answer": 1,
+          "explanation": "Nếu một carbon của liên kết đôi gắn hai nhóm giống nhau thì không phân biệt hai cách sắp xếp hình học tương ứng."
+        }
+      ]
+    },
+    {
+      "id": "alkane",
+      "title": "Alkane: no, mạch hở và phản ứng cháy",
+      "stageId": "chang-8",
+      "minutes": 45,
+      "goal": "Dùng đúng CₙH₂ₙ₊₂ và bảo toàn C, H trong bài đốt cháy.",
+      "theory": "Alkane là hydrocarbon no, mạch hở, chỉ có liên kết đơn; công thức chung CₙH₂ₙ₊₂ với n ≥ 1. “No” nói về liên kết carbon, không nói về dung dịch bão hòa. Cycloalkane có vòng nên không thuộc công thức mạch hở này.\n\nAlkane kém phân cực, ít tan trong nước. Nhiệt độ sôi nhìn chung tăng khi phân tử lớn hơn trong dãy tương ứng. Phản ứng tiêu biểu là thế halogen khi có điều kiện thích hợp; cracking bẻ gãy mạch có thể tạo các phân tử nhỏ hơn. Không khẳng định sản phẩm thế luôn là một chất duy nhất.\n\nCháy hoàn toàn CₓHᵧ tạo xCO₂ và y/2 H₂O cho mỗi mol hydrocarbon. Cân bằng C trước, H sau, O cuối. Nếu thiếu oxygen có thể tạo CO, muội; không áp dụng công thức cháy hoàn toàn cho đốt cháy không hoàn toàn. Không đốt thử nhiên liệu trong không gian kín.",
+      "example": {
+        "question": "Đốt cháy hoàn toàn 0,10 mol propane C₃H₈. Tính mol CO₂ và H₂O.",
+        "steps": [
+          "C₃H₈ + 5O₂ → 3CO₂ + 4H₂O.",
+          "Bảo toàn C: n(CO₂) = 3 × 0,10 = 0,30 mol.",
+          "Bảo toàn H: n(H₂O) = 4 × 0,10 = 0,40 mol."
+        ]
+      },
+      "pitfall": "Không dùng CₙH₂ₙ₊₂ cho mọi hydrocarbon; cần cả điều kiện no và mạch hở.",
+      "recall": "Tự cân bằng phương trình cháy C₂H₆ bằng hệ số nguyên.",
+      "examSlugs": [
+        "de-hoa-11-bai-15"
+      ],
+      "prerequisites": [
+        "dong-phan"
+      ],
+      "questions": [
+        {
+          "id": "alkane-q1",
+          "lessonId": "alkane",
+          "prompt": "Alkane mạch hở có 5 C mang công thức nào?",
+          "options": [
+            "C₅H₁₂",
+            "C₅H₁₀",
+            "C₅H₈",
+            "C₅H₆"
+          ],
+          "answer": 0,
+          "explanation": "H = 2n + 2 = 12."
+        },
+        {
+          "id": "alkane-q2",
+          "lessonId": "alkane",
+          "prompt": "Đốt hoàn toàn 0,2 mol CH₄ tạo bao nhiêu mol CO₂?",
+          "options": [
+            "0,4 mol",
+            "0,1 mol",
+            "0,8 mol",
+            "0,2 mol"
+          ],
+          "answer": 3,
+          "explanation": "CH₄ + 2O₂ → CO₂ + 2H₂O; CH₄:CO₂ = 1:1."
+        },
+        {
+          "id": "alkane-q3",
+          "lessonId": "alkane",
+          "prompt": "Trong CH₄ + Cl₂ → CH₃Cl + HCl dưới ánh sáng, loại phản ứng chính là gì?",
+          "options": [
+            "Cộng",
+            "Trùng hợp",
+            "Thế",
+            "Trung hòa"
+          ],
+          "answer": 2,
+          "explanation": "Một H của methane được thay bởi Cl."
+        }
+      ]
+    },
+    {
+      "id": "alkene",
+      "title": "Alkene: liên kết đôi, cộng và trùng hợp",
+      "stageId": "chang-8",
+      "minutes": 45,
+      "goal": "Nhận ra C=C và phân biệt cộng với thế; tính tỉ lệ phản ứng đơn giản.",
+      "theory": "Alkene ở phạm vi này là hydrocarbon mạch hở có một liên kết đôi C=C, công thức CₙH₂ₙ với n ≥ 2. C=C gồm một liên kết sigma và một liên kết pi; phần pi thuận lợi cho phản ứng cộng. Cùng CₙH₂ₙ cũng có thể là chất vòng, nên công thức một mình chưa đủ xác định alkene.\n\nEthene cộng H₂ tạo ethane (xúc tác phù hợp), cộng Br₂ tạo 1,2-dibromoethane trong điều kiện thích hợp. Phản ứng cộng không làm mất carbon của khung ban đầu. Với alkene bất đối xứng cộng HX, có thể có sản phẩm chính/phụ; quy tắc định hướng có điều kiện, không gọi mọi phản ứng chỉ cho một sản phẩm.\n\nTrùng hợp ethene mở liên kết pi để nối nhiều đơn vị thành polyethylene: nCH₂=CH₂ → (–CH₂–CH₂–)ₙ. Số C và H trong mắt xích không mất đi. Bài cơ bản giả định không có hao hụt khi dùng bảo toàn khối lượng.",
+      "example": {
+        "question": "0,10 mol ethene phản ứng hoàn toàn với Br₂ theo phản ứng cộng một liên kết đôi. Cần bao nhiêu mol Br₂?",
+        "steps": [
+          "CH₂=CH₂ + Br₂ → CH₂Br–CH₂Br.",
+          "Mỗi liên kết đôi cộng một phân tử Br₂ trong phản ứng này; tỉ lệ mol 1:1.",
+          "Cần 0,10 mol Br₂, không phải 0,20 mol dù Br₂ có hai nguyên tử Br."
+        ]
+      },
+      "pitfall": "Chỉ biết CₙH₂ₙ chưa đủ kết luận có C=C; cần thông tin mạch hở hoặc cấu tạo.",
+      "recall": "Vẽ sự thay đổi liên kết khi ethene cộng H₂; đếm H trước và sau.",
+      "examSlugs": [
+        "de-hoa-11-bai-16"
+      ],
+      "prerequisites": [
+        "alkane"
+      ],
+      "questions": [
+        {
+          "id": "alkene-q1",
+          "lessonId": "alkene",
+          "prompt": "Công thức alkene mạch hở có một C=C và 3 carbon là gì?",
+          "options": [
+            "C₃H₈",
+            "C₃H₆",
+            "C₃H₄",
+            "C₃H₃"
+          ],
+          "answer": 1,
+          "explanation": "CₙH₂ₙ với n = 3 cho C₃H₆."
+        },
+        {
+          "id": "alkene-q2",
+          "lessonId": "alkene",
+          "prompt": "0,15 mol ethene cộng hoàn toàn Br₂ theo tỉ lệ 1:1 cần bao nhiêu mol Br₂?",
+          "options": [
+            "0,15 mol",
+            "0,30 mol",
+            "0,075 mol",
+            "1,5 mol"
+          ],
+          "answer": 0,
+          "explanation": "Mỗi mol ethene cộng một mol Br₂ trong phản ứng này."
+        },
+        {
+          "id": "alkene-q3",
+          "lessonId": "alkene",
+          "prompt": "Trùng hợp ethene tạo polymer nào?",
+          "options": [
+            "Tinh bột",
+            "Cellulose",
+            "Protein",
+            "Polyethylene"
+          ],
+          "answer": 3,
+          "explanation": "Các đơn vị CH₂=CH₂ nối thành mạch (–CH₂–CH₂–)ₙ."
+        }
+      ]
+    },
+    {
+      "id": "alkyne",
+      "title": "Alkyne: liên kết ba và hydrogen ở đầu mạch",
+      "stageId": "chang-8",
+      "minutes": 45,
+      "goal": "Phân biệt alkene/alkyne, tính cộng hoàn toàn và nhận diện alkyne đầu mạch.",
+      "theory": "Alkyne mạch hở có một liên kết ba C≡C mang công thức CₙH₂ₙ₋₂, n ≥ 2. Liên kết ba gồm một sigma và hai pi. Ethyne HC≡CH là chất đơn giản nhất. Mức độ bất bão hòa cao hơn alkene nên cộng hoàn toàn có thể cần hai mol H₂ cho mỗi mol liên kết ba.\n\nHydrogen gắn trực tiếp ở đầu liên kết ba (–C≡C–H) có tính chất khác H gắn ở carbon no. Trong thí nghiệm được kiểm soát, alkyne đầu mạch có thể phản ứng với dung dịch bạc trong ammonia tạo kết tủa acetylide. Không phải mọi alkyne đều có H này; CH₃–C≡C–CH₃ không có. Chỉ học nhận diện, không tự tạo hay xử lí các kết tủa này.\n\nMuốn phân biệt nhóm hydrocarbon, kết hợp công thức, cấu tạo và điều kiện. Hiện tượng làm mất màu dung dịch bromine không độc quyền cho alkyne hoặc alkene, nên một hiện tượng riêng lẻ chưa đủ xác định một chất bất kỳ.",
+      "example": {
+        "question": "Hydrogen hóa hoàn toàn 0,10 mol ethyne thành ethane. Tính mol H₂ cần dùng.",
+        "steps": [
+          "C₂H₂ + 2H₂ → C₂H₆ (xúc tác thích hợp).",
+          "Từ hai pi của liên kết ba, cộng tổng cộng 2H₂ để thành alkane.",
+          "n(H₂) = 2 × 0,10 = 0,20 mol."
+        ]
+      },
+      "pitfall": "Alkyne không luôn là alkyne đầu mạch. Phải nhìn H có gắn trực tiếp vào C của liên kết ba không.",
+      "recall": "So CH₃–C≡CH và CH₃–C≡C–CH₃ về H đầu liên kết ba.",
+      "examSlugs": [
+        "de-hoa-11-bai-16"
+      ],
+      "prerequisites": [
+        "alkene"
+      ],
+      "questions": [
+        {
+          "id": "alkyne-q1",
+          "lessonId": "alkyne",
+          "prompt": "Công thức alkyne mạch hở một liên kết ba có 4 C là gì?",
+          "options": [
+            "C₄H₈",
+            "C₄H₁₀",
+            "C₄H₆",
+            "C₄H₄"
+          ],
+          "answer": 2,
+          "explanation": "Alkyne mạch hở một liên kết ba có công thức CₙH₂ₙ₋₂; với n = 4 thì H = 2 × 4 − 2 = 6, được C₄H₆."
+        },
+        {
+          "id": "alkyne-q2",
+          "lessonId": "alkyne",
+          "prompt": "0,2 mol C₂H₂ cộng H₂ hoàn toàn thành C₂H₆ cần bao nhiêu mol H₂?",
+          "options": [
+            "0,2 mol",
+            "0,4 mol",
+            "0,1 mol",
+            "0,6 mol"
+          ],
+          "answer": 1,
+          "explanation": "C₂H₂ + 2H₂ → C₂H₆ nên cần 0,2 × 2 = 0,4 mol."
+        },
+        {
+          "id": "alkyne-q3",
+          "lessonId": "alkyne",
+          "prompt": "Chất nào có H gắn trực tiếp vào carbon của liên kết ba?",
+          "options": [
+            "CH₃–C≡CH",
+            "CH₃–C≡C–CH₃",
+            "CH₂=CH₂",
+            "CH₃–CH₃"
+          ],
+          "answer": 0,
+          "explanation": "Chỉ CH₃–C≡CH trong các lựa chọn có nhóm –C≡C–H."
+        }
+      ]
+    },
+    {
+      "id": "arene",
+      "title": "Arene: vì sao benzene không giống ba alkene",
+      "stageId": "chang-8",
+      "minutes": 45,
+      "goal": "Nhận diện vòng benzene và hiểu phản ứng thế đặc trưng.",
+      "theory": "Benzene C₆H₆ có sáu carbon trong vòng phẳng và hệ electron pi liên hợp đặc biệt. Sáu liên kết C–C tương đương trong phân tử thật; hình vòng với ba liên kết đôi xen kẽ là cách biểu diễn, không có nghĩa benzene hành xử như ba alkene độc lập.\n\nArene là hydrocarbon thơm; toluene C₆H₅CH₃ là một ví dụ chứa vòng benzene. Phản ứng thế trên vòng thường thuận lợi hơn phản ứng cộng vì giữ hệ thơm. Benzene không làm mất màu nước bromine ở điều kiện thường như ethene; thế bromine cần điều kiện/xúc tác phù hợp.\n\nToluene có thể phản ứng ở vòng hoặc ở nhánh tùy điều kiện; nhánh alkyl có thể bị oxi hóa. Không suy ra chỉ một sản phẩm từ việc có vòng thơm. Benzene độc, không dùng như chất để ngửi hay tự thử tính tan tại nhà.",
+      "example": {
+        "question": "Đốt cháy hoàn toàn 0,10 mol benzene. Tính lượng CO₂ và H₂O.",
+        "steps": [
+          "C₆H₆ + 7,5O₂ → 6CO₂ + 3H₂O, hoặc nhân hai để có hệ số nguyên.",
+          "n(CO₂) = 6 × 0,10 = 0,60 mol.",
+          "n(H₂O) = 3 × 0,10 = 0,30 mol."
+        ]
+      },
+      "pitfall": "Không suy tính chất benzene chỉ bằng đếm ba nét đôi trong hình cấu tạo.",
+      "recall": "So sánh phản ứng với nước bromine ở điều kiện thường của ethene và benzene.",
+      "examSlugs": [
+        "de-hoa-11-bai-17",
+        "de-hoa-11-bai-18"
+      ],
+      "prerequisites": [
+        "alkyne"
+      ],
+      "questions": [
+        {
+          "id": "arene-q1",
+          "lessonId": "arene",
+          "prompt": "Công thức phân tử của benzene là gì?",
+          "options": [
+            "C₆H₁₂",
+            "C₆H₁₄",
+            "C₆H₅OH",
+            "C₆H₆"
+          ],
+          "answer": 3,
+          "explanation": "Benzene là hydrocarbon thơm C₆H₆; C₆H₅OH là phenol, không phải hydrocarbon."
+        },
+        {
+          "id": "arene-q2",
+          "lessonId": "arene",
+          "prompt": "Đốt hoàn toàn 0,05 mol C₆H₆ tạo bao nhiêu mol CO₂?",
+          "options": [
+            "0,15 mol",
+            "0,05 mol",
+            "0,30 mol",
+            "0,60 mol"
+          ],
+          "answer": 2,
+          "explanation": "Một mol C₆H₆ tạo sáu mol CO₂: 0,05 × 6 = 0,30."
+        },
+        {
+          "id": "arene-q3",
+          "lessonId": "arene",
+          "prompt": "Benzene với nước bromine ở điều kiện thường, không xúc tác, thường được mô tả thế nào ở phổ thông?",
+          "options": [
+            "Cộng ngay 3Br₂ hoàn toàn",
+            "Không làm mất màu như ethene",
+            "Tạo ngay ethanol",
+            "Tạo ngay CO₂"
+          ],
+          "answer": 1,
+          "explanation": "Benzene bền thơm và không cộng bromine dễ dàng như alkene ở điều kiện đó."
+        }
+      ]
+    },
+    {
+      "id": "dan-xuat-halogen",
+      "title": "Dẫn xuất halogen: nhìn điều kiện để chọn phản ứng",
+      "stageId": "chang-9",
+      "minutes": 45,
+      "goal": "Phân biệt phản ứng thế tạo alcohol với phản ứng tách tạo alkene.",
+      "theory": "Thay H trong hydrocarbon bằng F, Cl, Br hoặc I cho dẫn xuất halogen. Ví dụ CH₃CH₂Br là bromoethane. Liên kết C–halogen phân cực, có thể bị biến đổi trong điều kiện phù hợp. Không coi mọi dẫn xuất, đặc biệt halogen gắn trực tiếp vào vòng thơm, có độ phản ứng giống nhau.\n\nỞ bài cơ bản, bromoethane phản ứng với NaOH trong nước khi đun tạo ethanol: C₂H₅Br + NaOH → C₂H₅OH + NaBr. Nhóm Br bị thay bằng OH, là phản ứng thế.\n\nVới base trong ethanol và đun nóng, phản ứng tách HBr có thể tạo ethene: C₂H₅Br + KOH → C₂H₄ + KBr + H₂O. Cùng chất ban đầu nhưng dung môi/điều kiện dẫn đến hướng khác. Khi làm chuỗi phản ứng, viết điều kiện ngay trên mũi tên bằng lời, không chỉ nhớ sản phẩm.",
+      "example": {
+        "question": "Bromoethane chuyển thành ethanol. Xác định loại phản ứng và tỉ lệ mol theo phương trình thủy phân cơ bản.",
+        "steps": [
+          "Br trong C₂H₅Br được thay bằng OH: đó là thế, không phải cộng vào C=C.",
+          "C₂H₅Br + NaOH (dung dịch, đun) → C₂H₅OH + NaBr.",
+          "Tỉ lệ C₂H₅Br:ethanol = 1:1 trong mô hình một phản ứng hoàn toàn."
+        ]
+      },
+      "pitfall": "Đọc “NaOH trong nước” khác “KOH trong ethanol, đun nóng”. Không bỏ qua dung môi.",
+      "recall": "Tự viết hai hướng thế và tách của bromoethane, ghi rõ điều kiện được học.",
+      "examSlugs": [
+        "de-hoa-11-bai-19"
+      ],
+      "prerequisites": [
+        "arene"
+      ],
+      "questions": [
+        {
+          "id": "dan-xuat-halogen-q1",
+          "lessonId": "dan-xuat-halogen",
+          "prompt": "C₂H₅Br chuyển thành C₂H₅OH là biến đổi kiểu nào?",
+          "options": [
+            "Thế Br bằng OH",
+            "Cộng H₂ vào liên kết đôi",
+            "Trùng hợp",
+            "Phân hạch hạt nhân"
+          ],
+          "answer": 0,
+          "explanation": "Khung hai carbon giữ lại; nhóm Br được thay bằng OH."
+        },
+        {
+          "id": "dan-xuat-halogen-q2",
+          "lessonId": "dan-xuat-halogen",
+          "prompt": "0,1 mol C₂H₅Br chuyển hoàn toàn thành ethanol theo tỉ lệ 1:1 tạo bao nhiêu mol ethanol?",
+          "options": [
+            "0,2 mol",
+            "0,05 mol",
+            "1 mol",
+            "0,1 mol"
+          ],
+          "answer": 3,
+          "explanation": "Theo phương trình thế cơ bản, số mol sản phẩm bằng số mol dẫn xuất phản ứng."
+        },
+        {
+          "id": "dan-xuat-halogen-q3",
+          "lessonId": "dan-xuat-halogen",
+          "prompt": "Để chọn giữa thế và tách, thông tin nào đặc biệt cần đọc?",
+          "options": [
+            "Màu chữ trong đề",
+            "Số thứ tự câu hỏi",
+            "Dung môi và điều kiện phản ứng",
+            "Tên người ra đề"
+          ],
+          "answer": 2,
+          "explanation": "Cùng chất và base nhưng dung môi, nhiệt độ khác có thể ưu tiên hướng phản ứng khác."
+        }
+      ]
+    },
+    {
+      "id": "alcohol",
+      "title": "Alcohol: nhóm OH, bậc và liên kết hydrogen",
+      "stageId": "chang-9",
+      "minutes": 45,
+      "goal": "Nhận diện alcohol, phân biệt đơn/đa chức và đọc bậc alcohol.",
+      "theory": "Alcohol có nhóm –OH gắn với carbon no. Ethanol CH₃CH₂OH là alcohol; phenol C₆H₅OH có OH gắn trực tiếp vào carbon vòng thơm nên thuộc nhóm riêng. Không nhìn thấy OH là gọi mọi chất alcohol: carboxylic acid cũng có OH nằm trong COOH.\n\nAlcohol đơn chức có một OH; đa chức có từ hai OH. Bậc alcohol được xác định bằng bậc của carbon mang OH, tức số carbon gắn trực tiếp vào carbon ấy: bậc I gắn một, bậc II gắn hai, bậc III gắn ba. Ethanol bậc I, propan-2-ol bậc II.\n\nAlcohol có thể tạo liên kết hydrogen nên nhiệt độ sôi thường cao hơn các chất có phân tử khối gần và không tạo liên kết hydrogen tương tự. Nhóm OH ưa nước; phần hydrocarbon lớn lên làm giảm độ tan trong nước nói chung. Methanol rất độc; không dùng uống hoặc đánh giá an toàn qua mùi.",
+      "example": {
+        "question": "Xác định bậc của CH₃–CH(OH)–CH₃ và gọi tên cơ bản.",
+        "steps": [
+          "Mạch chính có 3 carbon, nhóm OH ở carbon số 2: propan-2-ol.",
+          "Carbon mang OH nối trực tiếp với hai carbon còn lại.",
+          "Đó là alcohol bậc II; không tính số H trong phân tử để xác định bậc."
+        ]
+      },
+      "pitfall": "Bậc alcohol không phải số nhóm OH. Một alcohol đơn chức vẫn có thể bậc II hoặc III.",
+      "recall": "So CH₃CH₂OH, CH₃CH(OH)CH₃ và HOCH₂CH₂OH về số OH và bậc carbon mang OH.",
+      "examSlugs": [
+        "de-hoa-11-bai-20"
+      ],
+      "prerequisites": [
+        "dan-xuat-halogen"
+      ],
+      "questions": [
+        {
+          "id": "alcohol-q1",
+          "lessonId": "alcohol",
+          "prompt": "Chất nào là alcohol?",
+          "options": [
+            "C₆H₅OH",
+            "CH₃CH₂OH",
+            "CH₃COOH",
+            "CH₃CHO"
+          ],
+          "answer": 1,
+          "explanation": "OH của ethanol gắn vào carbon no; phenol, acid và aldehyde thuộc nhóm khác."
+        },
+        {
+          "id": "alcohol-q2",
+          "lessonId": "alcohol",
+          "prompt": "CH₃CH(OH)CH₃ là alcohol bậc mấy?",
+          "options": [
+            "II",
+            "I",
+            "III",
+            "IV"
+          ],
+          "answer": 0,
+          "explanation": "Carbon mang OH nối trực tiếp với hai carbon khác."
+        },
+        {
+          "id": "alcohol-q3",
+          "lessonId": "alcohol",
+          "prompt": "HOCH₂CH₂OH có bao nhiêu nhóm OH?",
+          "options": [
+            "1",
+            "3",
+            "4",
+            "2"
+          ],
+          "answer": 3,
+          "explanation": "Có một OH ở mỗi đầu của mạch hai carbon, tổng hai nhóm."
+        }
+      ]
+    },
+    {
+      "id": "phan-ung-alcohol",
+      "title": "Phản ứng alcohol: H linh động, tách nước, oxi hóa",
+      "stageId": "chang-9",
+      "minutes": 45,
+      "goal": "Nhận ra các vị trí biến đổi khác nhau và giữ đúng tỉ lệ trong phép tính.",
+      "theory": "Alcohol phản ứng với Na giải phóng H₂ theo 2ROH + 2Na → 2RONa + H₂; H của nhóm OH được thay. Bài tính chất tinh khiết phải phân biệt dung dịch có nước vì nước cũng phản ứng với Na. Đây chỉ là mô hình lý thuyết, không tự thực hiện phản ứng.\n\nEthanol tách nước trong điều kiện acid và nhiệt độ thích hợp có thể tạo ethene; ở điều kiện khác có thể tạo ether. Do đó phải đọc sản phẩm hoặc điều kiện đề cho. Oxi hóa nhẹ alcohol bậc I có thể cho aldehyde, bậc II cho ketone trong mô hình phổ thông. Không áp dụng kết quả đó cho mọi chất oxi hóa và mọi thời gian phản ứng.\n\nEthylene glycol/glycerol có các nhóm OH kề nhau có thể tạo phức xanh lam với Cu(OH)₂ mới tạo ở điều kiện phù hợp. Ethanol đơn chức không cho hiện tượng đó. Tách các nhánh kiến thức bằng câu hỏi: đang thay H của OH, loại nước hay oxi hóa carbon?",
+      "example": {
+        "question": "0,20 mol ethanol tinh khiết phản ứng hoàn toàn với Na dư. Tính mol H₂.",
+        "steps": [
+          "2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂.",
+          "Tỉ lệ ethanol:H₂ = 2:1, không phải 1:1.",
+          "n(H₂) = 0,20/2 = 0,10 mol; giả thiết không có nước hay chất khác sinh H₂."
+        ]
+      },
+      "pitfall": "Alcohol trong nước không thể tính khí từ Na chỉ theo alcohol vì nước cũng sinh H₂.",
+      "recall": "Viết sản phẩm oxi hóa nhẹ của ethanol và propan-2-ol theo mô hình đã học.",
+      "examSlugs": [
+        "de-hoa-11-bai-20"
+      ],
+      "prerequisites": [
+        "alcohol"
+      ],
+      "questions": [
+        {
+          "id": "phan-ung-alcohol-q1",
+          "lessonId": "phan-ung-alcohol",
+          "prompt": "0,1 mol ethanol tinh khiết phản ứng hết với Na dư tạo bao nhiêu mol H₂?",
+          "options": [
+            "0,1 mol",
+            "0,2 mol",
+            "0,05 mol",
+            "0,025 mol"
+          ],
+          "answer": 2,
+          "explanation": "Theo 2ROH → 1H₂, số mol H₂ bằng n(ethanol)/2."
+        },
+        {
+          "id": "phan-ung-alcohol-q2",
+          "lessonId": "phan-ung-alcohol",
+          "prompt": "Oxi hóa nhẹ propan-2-ol theo mô hình phổ thông tạo chất nào?",
+          "options": [
+            "Ethanal",
+            "Propanone",
+            "Methane",
+            "Ethene"
+          ],
+          "answer": 1,
+          "explanation": "Alcohol bậc II có thể bị oxi hóa thành ketone tương ứng."
+        },
+        {
+          "id": "phan-ung-alcohol-q3",
+          "lessonId": "phan-ung-alcohol",
+          "prompt": "Chất nào có hai nhóm OH kề nhau, phù hợp cho phản ứng tạo phức với Cu(OH)₂?",
+          "options": [
+            "HOCH₂CH₂OH",
+            "CH₃CH₂OH",
+            "CH₃OH",
+            "CH₄"
+          ],
+          "answer": 0,
+          "explanation": "Ethylene glycol có hai OH trên hai carbon kề nhau, khác alcohol đơn chức trong các lựa chọn."
+        }
+      ]
+    },
+    {
+      "id": "phenol",
+      "title": "Phenol: OH gắn vòng thơm làm đổi tính chất",
+      "stageId": "chang-9",
+      "minutes": 45,
+      "goal": "So sánh phenol với ethanol và carboxylic acid bằng phản ứng có điều kiện.",
+      "theory": "Phenol C₆H₅OH có OH gắn trực tiếp với carbon của vòng benzene. Anion phenoxide được ổn định bởi sự phân bố electron trong hệ liên hợp, nên phenol có tính acid mạnh hơn alcohol thông thường, nhưng vẫn là acid yếu.\n\nPhenol phản ứng với NaOH tạo sodium phenoxide và nước, còn ethanol không phản ứng trung hòa với NaOH theo cách tương tự trong dung dịch thông thường. Tuy vậy, không nói phenol mạnh như HCl. Phenol thường không làm quỳ tím chuyển đỏ rõ trong điều kiện thử phổ thông.\n\nNhóm OH ảnh hưởng vòng thơm: phenol có thể phản ứng với nước bromine tạo 2,4,6-tribromophenol kết tủa trắng trong điều kiện thí nghiệm phù hợp. Phản ứng này khác benzene không xúc tác. Phenol độc và ăn mòn; chỉ học phương trình/quan sát trong môi trường có giám sát.",
+      "example": {
+        "question": "Viết phản ứng phenol với NaOH và tính NaOH cần cho 0,05 mol phenol.",
+        "steps": [
+          "C₆H₅OH + NaOH → C₆H₅ONa + H₂O.",
+          "Tỉ lệ phenol:NaOH = 1:1.",
+          "Cần 0,05 mol NaOH. Phản ứng thể hiện tính acid của phenol."
+        ]
+      },
+      "pitfall": "OH giống nhau về chữ viết không có nghĩa cùng tính chất; cần xem OH gắn vào đâu.",
+      "recall": "Nêu một phản ứng phân biệt được phenol với ethanol trên giấy và giải thích.",
+      "examSlugs": [
+        "de-hoa-11-bai-21",
+        "de-hoa-11-bai-22"
+      ],
+      "prerequisites": [
+        "phan-ung-alcohol"
+      ],
+      "questions": [
+        {
+          "id": "phenol-q1",
+          "lessonId": "phenol",
+          "prompt": "Chất nào phản ứng với NaOH theo phản ứng acid–base điển hình trong dung dịch?",
+          "options": [
+            "Ethanol",
+            "Ethane",
+            "Benzene",
+            "Phenol"
+          ],
+          "answer": 3,
+          "explanation": "Phenol có tính acid đủ để phản ứng với NaOH; ethanol không trung hòa NaOH theo cách ấy."
+        },
+        {
+          "id": "phenol-q2",
+          "lessonId": "phenol",
+          "prompt": "0,2 mol phenol phản ứng vừa đủ với bao nhiêu mol NaOH?",
+          "options": [
+            "0,1 mol",
+            "0,4 mol",
+            "0,2 mol",
+            "0,6 mol"
+          ],
+          "answer": 2,
+          "explanation": "C₆H₅OH + NaOH → C₆H₅ONa + H₂O, tỉ lệ 1:1."
+        },
+        {
+          "id": "phenol-q3",
+          "lessonId": "phenol",
+          "prompt": "Trong C₆H₅OH, nhóm OH gắn trực tiếp vào đâu?",
+          "options": [
+            "Carbon no ngoài vòng",
+            "Carbon của vòng thơm",
+            "Nguyên tử hydrogen",
+            "Ion sodium"
+          ],
+          "answer": 1,
+          "explanation": "Đặc điểm OH gắn trực tiếp carbon vòng thơm phân biệt phenol với alcohol."
+        }
+      ]
+    },
+    {
+      "id": "carbonyl",
+      "title": "Aldehyde và ketone: đọc vị trí C=O",
+      "stageId": "chang-10",
+      "minutes": 45,
+      "goal": "Phân biệt –CHO và >C=O, nhận biết sản phẩm khử và phản ứng oxi hóa cơ bản.",
+      "theory": "Nhóm carbonyl là C=O. Aldehyde có nhóm –CHO; carbon carbonyl gắn ít nhất một H. Ketone có carbon carbonyl gắn với hai gốc hydrocarbon. CH₃CHO là ethanal; CH₃COCH₃ là propanone. Nhóm C=O phân cực, ảnh hưởng tính chất hóa học.\n\nKhử aldehyde có thể tạo alcohol bậc I, khử ketone tạo alcohol bậc II với tác nhân phù hợp. Aldehyde dễ bị oxi hóa hơn ketone trong các phép thử thông thường. Ethanal có phản ứng tráng bạc; propanone không cho phản ứng đó trong mô hình này. Không suy rằng mọi chất có phản ứng tráng bạc đều là aldehyde vì có nhóm chất khác cũng phản ứng.\n\nVới ethanal, một mol có thể tạo hai mol Ag theo phản ứng tráng bạc lý thuyết. Không áp dụng máy móc hệ số này cho methanal trong mọi điều kiện. Luôn đọc chất cụ thể và phương trình. Các thuốc thử chứa bạc chỉ dùng trong phòng thí nghiệm được giám sát.",
+      "example": {
+        "question": "0,10 mol ethanal phản ứng tráng bạc hoàn toàn, theo tỉ lệ 1 mol ethanal → 2 mol Ag. Tính khối lượng Ag, Ag = 108.",
+        "steps": [
+          "Theo tỉ lệ cho sẵn: n(Ag) = 2 × 0,10 = 0,20 mol.",
+          "m(Ag) = 0,20 × 108 = 21,6 g.",
+          "Điều kiện: ethanal tinh khiết, phản ứng hoàn toàn, không có chất khác khử bạc."
+        ]
+      },
+      "pitfall": "Carbonyl có ở nhiều nhóm chức; không coi mọi C=O là ketone. Acid cũng có C=O nhưng thuộc nhóm COOH.",
+      "recall": "Tự vẽ CH₃CHO và CH₃COCH₃; đánh dấu H hoặc hai gốc carbon gắn vào carbonyl.",
+      "examSlugs": [
+        "de-hoa-11-bai-23"
+      ],
+      "prerequisites": [
+        "phenol"
+      ],
+      "questions": [
+        {
+          "id": "carbonyl-q1",
+          "lessonId": "carbonyl",
+          "prompt": "Chất nào là aldehyde?",
+          "options": [
+            "CH₃CHO",
+            "CH₃COCH₃",
+            "CH₃CH₂OH",
+            "CH₃COOH"
+          ],
+          "answer": 0,
+          "explanation": "CH₃CHO có nhóm –CHO; các chất còn lại lần lượt là ketone, alcohol và acid."
+        },
+        {
+          "id": "carbonyl-q2",
+          "lessonId": "carbonyl",
+          "prompt": "Khử propanone theo phản ứng phù hợp tạo alcohol nào?",
+          "options": [
+            "Propan-1-ol",
+            "Ethanol",
+            "Methanol",
+            "Propan-2-ol"
+          ],
+          "answer": 3,
+          "explanation": "C=O ở carbon giữa biến thành CH–OH, giữ nguyên khung carbon."
+        },
+        {
+          "id": "carbonyl-q3",
+          "lessonId": "carbonyl",
+          "prompt": "0,05 mol ethanal tạo 2 mol Ag mỗi mol aldehyde khi tráng bạc hoàn toàn. Khối lượng Ag (108 g/mol) là bao nhiêu?",
+          "options": [
+            "5,4 g",
+            "21,6 g",
+            "10,8 g",
+            "0,108 g"
+          ],
+          "answer": 2,
+          "explanation": "n(Ag) = 0,05 × 2 = 0,10 mol; m = 0,10 × 108 = 10,8 g."
+        }
+      ]
+    },
+    {
+      "id": "carboxylic-acid",
+      "title": "Carboxylic acid: nhận nhóm COOH và tính acid",
+      "stageId": "chang-10",
+      "minutes": 45,
+      "goal": "Nối cấu tạo, tính acid yếu và phản ứng với base, carbonate.",
+      "theory": "Carboxylic acid chứa nhóm –COOH, gồm C=O và OH gắn với cùng carbon. CH₃COOH là ethanoic acid (acetic acid), HCOOH là methanoic acid. Không tách nhóm này ra để gọi chất vừa là ketone vừa là alcohol.\n\nCác acid carboxylic đơn giản là acid yếu trong nước: CH₃COOH ⇌ H⁺ + CH₃COO⁻. Tuy phân li không hoàn toàn, khi cho phản ứng với đủ base mạnh, acid vẫn có thể được trung hòa gần như hoàn toàn. “Yếu” không nghĩa chỉ một phần số mol được phép phản ứng.\n\nAcid tác dụng với kiềm tạo muối và nước; với carbonate/hydrogencarbonate tạo CO₂ trong điều kiện đủ acid. Với NaHCO₃: RCOOH + NaHCO₃ → RCOONa + CO₂ + H₂O. Nhóm COOH cũng tham gia ester hóa với alcohol, học ở bài sau. Không suy tính an toàn từ tên acid yếu.",
+      "example": {
+        "question": "6,0 g CH₃COOH tinh khiết phản ứng hết với NaHCO₃ dư. Tính mol CO₂; M acid = 60 g/mol.",
+        "steps": [
+          "n(CH₃COOH) = 6,0/60 = 0,10 mol.",
+          "CH₃COOH + NaHCO₃ → CH₃COONa + CO₂ + H₂O.",
+          "Tỉ lệ acid:CO₂ = 1:1 nên có 0,10 mol CO₂."
+        ]
+      },
+      "pitfall": "Acid yếu vẫn phản ứng theo tỉ lệ phương trình với base mạnh đủ lượng; đừng nhân thêm “độ yếu” tùy ý.",
+      "recall": "Giải thích vì sao COOH là một nhóm chức thống nhất trong bài phân loại chất.",
+      "examSlugs": [
+        "de-hoa-11-bai-24"
+      ],
+      "prerequisites": [
+        "carbonyl"
+      ],
+      "questions": [
+        {
+          "id": "carboxylic-acid-q1",
+          "lessonId": "carboxylic-acid",
+          "prompt": "Nhóm chức đặc trưng của carboxylic acid là gì?",
+          "options": [
+            "–CHO",
+            "–COOH",
+            "–OH gắn C no",
+            "–O– giữa hai gốc carbon"
+          ],
+          "answer": 1,
+          "explanation": "–COOH là nhóm carboxyl, không nhầm với aldehyde –CHO."
+        },
+        {
+          "id": "carboxylic-acid-q2",
+          "lessonId": "carboxylic-acid",
+          "prompt": "0,1 mol CH₃COOH phản ứng hết với NaHCO₃ dư tạo bao nhiêu mol CO₂?",
+          "options": [
+            "0,1 mol",
+            "0,05 mol",
+            "0,2 mol",
+            "0,3 mol"
+          ],
+          "answer": 0,
+          "explanation": "CH₃COOH + NaHCO₃ → CH₃COONa + CO₂ + H₂O; tỉ lệ 1:1."
+        },
+        {
+          "id": "carboxylic-acid-q3",
+          "lessonId": "carboxylic-acid",
+          "prompt": "CH₃COOH là acid yếu nghĩa là gì trong nước?",
+          "options": [
+            "Không phản ứng với NaOH",
+            "Luôn có nồng độ rất nhỏ",
+            "Không gây hại trong mọi tình huống",
+            "Chỉ phân li một phần thành ion"
+          ],
+          "answer": 3,
+          "explanation": "Độ mạnh acid liên quan mức phân li; không đồng nghĩa nồng độ, khả năng trung hòa hoặc an toàn."
+        }
+      ]
+    },
+    {
+      "id": "ester-chuoi",
+      "title": "Ester hóa và nối chuỗi hữu cơ",
+      "stageId": "chang-10",
+      "minutes": 45,
+      "goal": "Viết phản ứng ester hóa cơ bản và lần theo nhóm chức trong một chuỗi biến đổi.",
+      "theory": "Ester hóa cơ bản: carboxylic acid + alcohol ⇌ ester + nước, thường có xúc tác acid và điều kiện phù hợp. Với CH₃COOH và C₂H₅OH, ester là CH₃COOC₂H₅. Phản ứng thuận nghịch nên không mặc định hiệu suất 100%. Đây là phần liên hệ của acid lớp 11, chưa đi sâu chương ester lớp 12.\n\nNhìn sản phẩm ester: phần CH₃COO– đến từ acid, nhóm C₂H₅– đến từ alcohol. Mỗi mol acid đơn chức và alcohol đơn chức trong phương trình này tạo tối đa một mol ester. Khi cho lượng cả hai, tìm chất giới hạn trước, rồi áp dụng hiệu suất.\n\nMột chuỗi quen thuộc: ethene → ethanol → ethanal → ethanoic acid. Mỗi mũi tên là một phản ứng riêng có điều kiện: cộng nước, oxi hóa thích hợp, tiếp tục oxi hóa. Nhận nhóm chức trước giúp chọn phản ứng; không biến mọi mũi tên thành đốt cháy.",
+      "example": {
+        "question": "0,20 mol CH₃COOH và 0,30 mol ethanol tạo ethyl ethanoate. Hiệu suất theo acid là 60%. Tính mol ester thực tế.",
+        "steps": [
+          "Tỉ lệ acid:alcohol:ester = 1:1:1; acid là chất giới hạn.",
+          "Ester lý thuyết = 0,20 mol.",
+          "Thực tế = 0,20 × 0,60 = 0,12 mol."
+        ]
+      },
+      "pitfall": "Không quên ester hóa thuận nghịch và hiệu suất. Bài này không mở rộng sang toàn bộ nội dung Hóa 12.",
+      "recall": "Viết chuỗi ethene → ethanol → ethanal → acid và nêu nhóm chức thay đổi ở mỗi bước.",
+      "examSlugs": [
+        "de-hoa-11-bai-24"
+      ],
+      "prerequisites": [
+        "carboxylic-acid"
+      ],
+      "questions": [
+        {
+          "id": "ester-chuoi-q1",
+          "lessonId": "ester-chuoi",
+          "prompt": "CH₃COOH và C₂H₅OH ester hóa tạo ester nào?",
+          "options": [
+            "C₂H₅COOCH₃",
+            "CH₃CHO",
+            "CH₃COOC₂H₅",
+            "C₂H₅OC₂H₅"
+          ],
+          "answer": 2,
+          "explanation": "Giữ phần acid CH₃COO–, gắn gốc ethyl C₂H₅ từ alcohol."
+        },
+        {
+          "id": "ester-chuoi-q2",
+          "lessonId": "ester-chuoi",
+          "prompt": "0,2 mol acid và alcohol dư, hiệu suất ester hóa 50%, tỉ lệ acid:ester = 1:1. Ester thực tế bao nhiêu mol?",
+          "options": [
+            "0,2 mol",
+            "0,1 mol",
+            "0,4 mol",
+            "0,05 mol"
+          ],
+          "answer": 1,
+          "explanation": "Lý thuyết 0,2 mol; thực tế 0,2 × 0,5 = 0,1 mol."
+        },
+        {
+          "id": "ester-chuoi-q3",
+          "lessonId": "ester-chuoi",
+          "prompt": "Trong chuỗi ethanol → ethanal, nhóm chức thay đổi thế nào?",
+          "options": [
+            "Alcohol thành aldehyde",
+            "Alkene thành alkane",
+            "Acid thành ester",
+            "Phenol thành muối sulfate"
+          ],
+          "answer": 0,
+          "explanation": "Oxi hóa nhẹ thích hợp alcohol bậc I ethanol tạo aldehyde ethanal."
+        }
+      ]
+    },
+    {
+      "id": "tong-hop-hoa-11",
+      "title": "Về đích: tự giải thích, giải bài và tự sửa",
+      "stageId": "chang-10",
+      "minutes": 45,
+      "goal": "Ghép kỹ năng, xác định lỗ hổng và lập kế hoạch ôn tiếp mà không học lại tất cả.",
+      "theory": "Bạn không cần thuộc mọi phản ứng trước khi bắt đầu làm bài. Khi gặp câu mới, xác định nó thuộc nhóm nào: tính mol, acid–base, oxi hóa–khử, cân bằng hay nhóm chức hữu cơ. Viết điều kiện và đại lượng cần tìm, rồi dùng kiến thức tương ứng.\n\nVới đốt cháy hoàn toàn chất hữu cơ chỉ chứa C, H, O: n(C trong mẫu) = n(CO₂), n(H trong mẫu) = 2n(H₂O). Tính khối lượng C, H, lấy khối lượng mẫu trừ đi để tìm O nếu giả thiết chỉ có ba nguyên tố. Muốn công thức phân tử còn cần phân tử khối; đừng dừng ở công thức đơn giản nhất rồi gọi nhầm tên.\n\nSau mỗi lỗi, ghi một câu “Mình đã nhầm gì?” và một câu “Dấu hiệu nào giúp tránh lỗi?”. Ôn lại sau 1, 3, 7 ngày là lịch gợi ý, có thể lùi nếu quá tải. Kiểm tra cuối lộ trình là tự đánh giá trên câu đã học, không chứng nhận điểm số ở trường. Nếu còn vướng, trở lại bài tương ứng thay vì làm đề khó liên tục.",
+      "example": {
+        "question": "Đốt cháy hoàn toàn 4,6 g chất X chỉ có C, H, O thu 0,20 mol CO₂ và 0,30 mol H₂O. Biết M(X) = 46. Tìm công thức phân tử.",
+        "steps": [
+          "n(C) = 0,20; n(H) = 0,60. m(C) = 2,4 g; m(H) = 0,6 g.",
+          "m(O trong X) = 4,6 − 2,4 − 0,6 = 1,6 g; n(O) = 0,10 mol.",
+          "Tỉ lệ C:H:O = 2:6:1, công thức C₂H₆O có M = 46 nên cũng là công thức phân tử. Chưa đủ dữ kiện để kết luận X là ethanol."
+        ]
+      },
+      "pitfall": "C₂H₆O không xác định duy nhất ethanol: còn ether đồng phân. Công thức phân tử chưa phải công thức cấu tạo.",
+      "recall": "Tự nói lại toàn bộ đường đi từ gam → mol → phương trình → đáp số, rồi giải thích một lỗi gần nhất bằng lời của mình.",
+      "examSlugs": [
+        "de-hoa-11-bai-03",
+        "de-hoa-11-bai-09",
+        "de-hoa-11-bai-14",
+        "de-hoa-11-bai-18",
+        "de-hoa-11-bai-22",
+        "de-hoa-11-bai-25"
+      ],
+      "prerequisites": [
+        "ester-chuoi"
+      ],
+      "questions": [
+        {
+          "id": "tong-hop-hoa-11-q1",
+          "lessonId": "tong-hop-hoa-11",
+          "prompt": "Đốt hoàn toàn chất chỉ có C, H, O thu 0,2 mol CO₂ và 0,3 mol H₂O. Tỉ lệ mol nguyên tử C:H là gì?",
+          "options": [
+            "2 : 3",
+            "1 : 1,5",
+            "3 : 1",
+            "1 : 3"
+          ],
+          "answer": 3,
+          "explanation": "n(C) = 0,2; n(H) = 2 × 0,3 = 0,6, nên C:H = 1:3."
+        },
+        {
+          "id": "tong-hop-hoa-11-q2",
+          "lessonId": "tong-hop-hoa-11",
+          "prompt": "Chỉ biết công thức C₂H₆O, kết luận nào chắc chắn?",
+          "options": [
+            "Chắc chắn là ethanol",
+            "Chắc chắn là ether",
+            "Chưa xác định duy nhất cấu tạo",
+            "Chắc chắn có nhóm COOH"
+          ],
+          "answer": 2,
+          "explanation": "C₂H₆O có đồng phân alcohol và ether; cần dữ kiện cấu tạo/tính chất bổ sung."
+        },
+        {
+          "id": "tong-hop-hoa-11-q3",
+          "lessonId": "tong-hop-hoa-11",
+          "prompt": "Khi sai bài vì dùng 22,4 L/mol trong khi đề cho 25 °C, 1 bar, nên ôn mục nào trước?",
+          "options": [
+            "Tên các đồng vị",
+            "Điều kiện khí và đổi mol–thể tích",
+            "Màu của mọi muối",
+            "Cách đánh số vòng thơm"
+          ],
+          "answer": 1,
+          "explanation": "Lỗi thuộc điều kiện áp dụng V = nVₘ; quay lại bài Mol và chất khí để sửa đúng chỗ."
+        }
+      ]
+    }
+  ],
+  "diagnosticIds": [
+    "don-vi-ti-le-q1",
+    "doc-cong-thuc-q1",
+    "phuong-trinh-q1",
+    "mol-chat-khi-q1",
+    "oxide-acid-base-q1",
+    "muoi-ion-q1",
+    "cau-tao-nguyen-tu-q1",
+    "lien-ket-q1",
+    "oxi-hoa-khu-q1",
+    "halogen-q1",
+    "can-bang-q1",
+    "ph-chuan-do-q1"
+  ],
+  "finalIds": [
+    "chat-nguyen-tu-q3",
+    "hoa-tri-khoi-luong-q3",
+    "mol-chat-khi-q3",
+    "tinh-theo-phuong-trinh-q3",
+    "muoi-ion-q3",
+    "bai-toan-vo-co-q3",
+    "bang-tuan-hoan-q3",
+    "phan-cuc-tuong-tac-q3",
+    "nang-luong-q3",
+    "halogen-q3",
+    "ph-chuan-do-q3",
+    "sulfur-q3",
+    "cong-thuc-phan-tu-q3",
+    "dong-phan-q3",
+    "alkene-q3",
+    "arene-q3",
+    "alcohol-q3",
+    "phenol-q3",
+    "carboxylic-acid-q3",
+    "tong-hop-hoa-11-q3"
+  ],
+  "sources": [
+    {
+      "title": "Mục lục Hóa 10 Kết nối tri thức — VietJack",
+      "url": "https://www.vietjack.com/hoa-hoc-10-kn/index.jsp",
+      "note": "Đối chiếu phạm vi bảy chương; lộ trình gom nhóm và đổi thứ tự cho người học lại."
+    },
+    {
+      "title": "Mục lục Hóa 11 Kết nối tri thức — VietJack",
+      "url": "https://www.vietjack.com/hoa-hoc-11-kn/index.jsp",
+      "note": "Đối chiếu sáu chương đến carbonyl và carboxylic acid. Không đồng nhất số bài trong kho đề với số bài SGK."
+    },
+    {
+      "title": "Định nghĩa mol — BIPM",
+      "url": "https://www.bipm.org/en/si-base-units/mole",
+      "note": "Định nghĩa SI của mol và số thực thể chính xác."
+    },
+    {
+      "title": "pH và pOH — OpenStax Chemistry 2e",
+      "url": "https://openstax.org/books/chemistry-2e/pages/14-2-ph-and-poh",
+      "note": "Tham chiếu quan hệ nồng độ, pH, pOH; nêu rõ điều kiện 25 °C và mô hình loãng."
+    }
+  ]
+}
