@@ -118,3 +118,7 @@ Thêm **môn mới** thì phải bổ sung slug ngân hàng ở các suite `engl
 2. `node scripts/verify.mjs --scope=all` (xanh toàn bộ).
 3. Commit và push chỉ khi người dùng yêu cầu rõ.
 4. `npx wrangler deploy`, sau đó `node scripts/verify.mjs --scope=live` để kiểm tra bản live.
+5. Push lên GitHub có thể kích hoạt Cloudflare Workers Builds tự deploy chồng lên bản wrangler
+   (đã gặp 17/11: version thứ hai xuất hiện ~93 giây sau và chiếm 100%). Chờ vài phút cho edge hội tụ
+   rồi mới chạy `--scope=live`; hash chunk trên live có thể khác build cục bộ nên chunk cục bộ bị 404
+   chưa kết luận được là mất file — đối chiếu hash trong HTML live trước. Xem mục sự cố trong `BAN-GIAO.md`.
