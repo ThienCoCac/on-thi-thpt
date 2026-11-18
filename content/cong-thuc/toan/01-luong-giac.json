@@ -1,0 +1,128 @@
+{
+  "id": "luong-giac",
+  "title": "Lượng giác",
+  "gradeNote": "Nền tảng lớp 11 (Chương 1), dùng xuyên suốt tích phân và hình học lớp 12",
+  "formulas": [
+    {
+      "id": "lg-he-thuc-co-ban",
+      "name": "Hệ thức lượng giác cơ bản",
+      "latex": "\\begin{aligned} &\\sin^2\\alpha + \\cos^2\\alpha = 1 \\\\ &\\tan\\alpha = \\frac{\\sin\\alpha}{\\cos\\alpha}, \\qquad \\cot\\alpha = \\frac{\\cos\\alpha}{\\sin\\alpha} \\\\ &1 + \\tan^2\\alpha = \\frac{1}{\\cos^2\\alpha}, \\qquad 1 + \\cot^2\\alpha = \\frac{1}{\\sin^2\\alpha} \\end{aligned}",
+      "keywords": ["sin cos tan cot", "hệ thức cơ bản", "sin bình phương cộng cos bình phương"],
+      "notes": [
+        "$\\tan\\alpha$ xác định khi $\\cos\\alpha \\ne 0$; $\\cot\\alpha$ xác định khi $\\sin\\alpha \\ne 0$.",
+        "Từ $\\sin\\alpha$ suy ra $\\cos\\alpha = \\pm\\sqrt{1 - \\sin^2\\alpha}$: phải xét dấu theo góc phần tư của $\\alpha$, quên dấu là bẫy phổ biến nhất."
+      ],
+      "example": {
+        "prompt": "Cho $\\sin\\alpha = \\frac{3}{5}$ với $\\frac{\\pi}{2} < \\alpha < \\pi$. Tính $\\cos\\alpha$ và $\\tan\\alpha$.",
+        "steps": [
+          "Vì $\\alpha$ nằm trong góc phần tư thứ hai nên $\\cos\\alpha < 0$.",
+          "Do đó $\\cos\\alpha = -\\sqrt{1 - \\sin^2\\alpha} = -\\sqrt{1 - \\frac{9}{25}} = -\\frac{4}{5}$.",
+          "Suy ra $\\tan\\alpha = \\frac{\\sin\\alpha}{\\cos\\alpha} = \\frac{3/5}{-4/5} = -\\frac{3}{4}$."
+        ],
+        "answer": "$\\cos\\alpha = -\\frac{4}{5}$ và $\\tan\\alpha = -\\frac{3}{4}$."
+      },
+      "check": { "expression": "-sqrt(1-(3/5)^2)", "value": -0.8 }
+    },
+    {
+      "id": "lg-cong",
+      "name": "Công thức cộng",
+      "latex": "\\begin{aligned} \\sin(a \\pm b) &= \\sin a\\cos b \\pm \\cos a\\sin b \\\\ \\cos(a \\pm b) &= \\cos a\\cos b \\mp \\sin a\\sin b \\\\ \\tan(a \\pm b) &= \\frac{\\tan a \\pm \\tan b}{1 \\mp \\tan a\\tan b} \\end{aligned}",
+      "keywords": ["công thức cộng", "sin a cộng b", "cos a trừ b", "tan a cộng b"],
+      "notes": [
+        "Với cos, dấu bên phải ngược dấu bên trái: $\\cos(a + b) = \\cos a\\cos b - \\sin a\\sin b$.",
+        "Công thức tan đòi hỏi $\\cos a \\ne 0$, $\\cos b \\ne 0$ và $\\cos(a \\pm b) \\ne 0$."
+      ],
+      "example": {
+        "prompt": "Tính giá trị chính xác của $\\sin 75^\\circ$.",
+        "steps": [
+          "Tách $75^\\circ = 45^\\circ + 30^\\circ$ rồi dùng công thức cộng sin.",
+          "$\\sin 75^\\circ = \\sin 45^\\circ\\cos 30^\\circ + \\cos 45^\\circ\\sin 30^\\circ = \\frac{\\sqrt{2}}{2} \\cdot \\frac{\\sqrt{3}}{2} + \\frac{\\sqrt{2}}{2} \\cdot \\frac{1}{2}$.",
+          "Gộp lại: $\\sin 75^\\circ = \\frac{\\sqrt{6} + \\sqrt{2}}{4} \\approx 0{,}9659$."
+        ],
+        "answer": "$\\sin 75^\\circ = \\frac{\\sqrt{6} + \\sqrt{2}}{4} \\approx 0{,}9659$."
+      },
+      "check": { "expression": "(sqrt(6)+sqrt(2))/4", "value": 0.9659258262890683 }
+    },
+    {
+      "id": "lg-nhan-doi",
+      "name": "Công thức nhân đôi và hạ bậc",
+      "latex": "\\begin{aligned} \\sin 2a &= 2\\sin a\\cos a \\\\ \\cos 2a &= \\cos^2 a - \\sin^2 a = 2\\cos^2 a - 1 = 1 - 2\\sin^2 a \\\\ \\tan 2a &= \\frac{2\\tan a}{1 - \\tan^2 a} \\\\ \\sin^2 a &= \\frac{1 - \\cos 2a}{2}, \\qquad \\cos^2 a = \\frac{1 + \\cos 2a}{2} \\end{aligned}",
+      "keywords": ["nhân đôi", "hạ bậc", "sin 2a", "cos 2a", "tan 2a"],
+      "notes": [
+        "Công thức hạ bậc là chiều ngược của nhân đôi cos, dùng rất nhiều khi tính nguyên hàm của $\\sin^2 x$, $\\cos^2 x$.",
+        "$\\tan 2a$ chỉ xác định khi $\\tan a \\ne \\pm 1$ và $\\cos a \\ne 0$."
+      ],
+      "example": {
+        "prompt": "Cho $\\cos\\alpha = \\frac{3}{5}$. Tính $\\cos 2\\alpha$.",
+        "steps": [
+          "Chọn dạng nhân đôi chỉ chứa cos: $\\cos 2\\alpha = 2\\cos^2\\alpha - 1$.",
+          "Thay số: $\\cos 2\\alpha = 2 \\cdot \\frac{9}{25} - 1 = \\frac{18}{25} - \\frac{25}{25}$.",
+          "Kết quả $\\cos 2\\alpha = -\\frac{7}{25} = -0{,}28$."
+        ],
+        "answer": "$\\cos 2\\alpha = -\\frac{7}{25} = -0{,}28$."
+      },
+      "check": { "expression": "2*(3/5)^2-1", "value": -0.28 }
+    },
+    {
+      "id": "lg-tong-tich",
+      "name": "Biến đổi tổng thành tích, tích thành tổng",
+      "latex": "\\begin{aligned} \\sin a + \\sin b &= 2\\sin\\frac{a + b}{2}\\cos\\frac{a - b}{2} \\\\ \\sin a - \\sin b &= 2\\cos\\frac{a + b}{2}\\sin\\frac{a - b}{2} \\\\ \\cos a + \\cos b &= 2\\cos\\frac{a + b}{2}\\cos\\frac{a - b}{2} \\\\ \\cos a - \\cos b &= -2\\sin\\frac{a + b}{2}\\sin\\frac{a - b}{2} \\\\ \\sin a\\sin b &= \\frac{1}{2}\\left[\\cos(a - b) - \\cos(a + b)\\right] \\\\ \\cos a\\cos b &= \\frac{1}{2}\\left[\\cos(a - b) + \\cos(a + b)\\right] \\end{aligned}",
+      "keywords": ["tổng thành tích", "tích thành tổng", "biến đổi lượng giác"],
+      "notes": [
+        "Nhớ dấu trừ nằm ở công thức $\\cos a - \\cos b$; đây là chỗ hay viết nhầm nhất.",
+        "Tích thành tổng giúp tính nguyên hàm các tích $\\sin ax\\cos bx$ trong đề lớp 12."
+      ],
+      "example": {
+        "prompt": "Tính $\\sin 75^\\circ + \\sin 15^\\circ$ bằng công thức tổng thành tích.",
+        "steps": [
+          "Áp dụng $\\sin a + \\sin b = 2\\sin\\frac{a + b}{2}\\cos\\frac{a - b}{2}$ với $a = 75^\\circ$, $b = 15^\\circ$.",
+          "Ta được $2\\sin 45^\\circ\\cos 30^\\circ = 2 \\cdot \\frac{\\sqrt{2}}{2} \\cdot \\frac{\\sqrt{3}}{2}$.",
+          "Rút gọn: $\\frac{\\sqrt{6}}{2} \\approx 1{,}2247$."
+        ],
+        "answer": "$\\sin 75^\\circ + \\sin 15^\\circ = \\frac{\\sqrt{6}}{2} \\approx 1{,}2247$."
+      },
+      "check": { "expression": "2*sin(pi/4)*cos(pi/6)", "value": 1.224744871391589 }
+    },
+    {
+      "id": "lg-goc-dac-biet",
+      "name": "Giá trị lượng giác của các góc đặc biệt",
+      "latex": "\\begin{array}{c|ccccc} \\alpha & 0^\\circ & 30^\\circ & 45^\\circ & 60^\\circ & 90^\\circ \\\\ \\hline \\sin\\alpha & 0 & \\frac{1}{2} & \\frac{\\sqrt{2}}{2} & \\frac{\\sqrt{3}}{2} & 1 \\\\ \\cos\\alpha & 1 & \\frac{\\sqrt{3}}{2} & \\frac{\\sqrt{2}}{2} & \\frac{1}{2} & 0 \\\\ \\tan\\alpha & 0 & \\frac{\\sqrt{3}}{3} & 1 & \\sqrt{3} & \\text{kxđ} \\end{array}",
+      "keywords": ["góc đặc biệt", "bảng giá trị lượng giác", "sin 30", "cos 60", "tan 45"],
+      "notes": [
+        "Góc $90^\\circ$ ($\\frac{\\pi}{2}$) không có tan vì $\\cos 90^\\circ = 0$; bảng trên ghi kxđ là không xác định.",
+        "Hai góc phụ nhau thì sin góc này bằng cos góc kia: $\\sin 30^\\circ = \\cos 60^\\circ$.",
+        "Đổi ra radian: $30^\\circ = \\frac{\\pi}{6}$, $45^\\circ = \\frac{\\pi}{4}$, $60^\\circ = \\frac{\\pi}{3}$, $90^\\circ = \\frac{\\pi}{2}$."
+      ],
+      "example": {
+        "prompt": "Tính $A = \\sin 30^\\circ + \\cos 60^\\circ + \\tan 45^\\circ$.",
+        "steps": [
+          "Tra bảng: $\\sin 30^\\circ = \\frac{1}{2}$, $\\cos 60^\\circ = \\frac{1}{2}$, $\\tan 45^\\circ = 1$.",
+          "Cộng lại: $A = \\frac{1}{2} + \\frac{1}{2} + 1 = 2$."
+        ],
+        "answer": "$A = 2$."
+      },
+      "check": { "expression": "sin(pi/6)+cos(pi/3)+1", "value": 2 }
+    },
+    {
+      "id": "lg-phuong-trinh-co-ban",
+      "name": "Phương trình lượng giác cơ bản",
+      "latex": "\\begin{aligned} \\sin x = \\sin\\alpha &\\Leftrightarrow x = \\alpha + k2\\pi \\ \\text{hoặc}\\ x = \\pi - \\alpha + k2\\pi \\\\ \\cos x = \\cos\\alpha &\\Leftrightarrow x = \\pm\\alpha + k2\\pi \\\\ \\tan x = \\tan\\alpha &\\Leftrightarrow x = \\alpha + k\\pi \\qquad (k \\in \\mathbb{Z}) \\end{aligned}",
+      "keywords": ["phương trình lượng giác", "sin x bằng", "cos x bằng", "tan x bằng", "nghiệm họ"],
+      "notes": [
+        "Phương trình $\\sin x = m$ chỉ có nghiệm khi $|m| \\le 1$; tương tự với cos.",
+        "Chu kỳ của nghiệm tan là $k\\pi$, không phải $k2\\pi$ — nhầm chu kỳ là bẫy hay gặp.",
+        "Nếu đề cho góc bằng độ thì viết nghiệm theo độ: $x = \\alpha + k360^\\circ$."
+      ],
+      "example": {
+        "prompt": "Giải phương trình $\\sin x = \\frac{1}{2}$.",
+        "steps": [
+          "Viết $\\frac{1}{2} = \\sin\\frac{\\pi}{6}$ để đưa về phương trình cơ bản.",
+          "Họ nghiệm thứ nhất: $x = \\frac{\\pi}{6} + k2\\pi$.",
+          "Họ nghiệm thứ hai: $x = \\pi - \\frac{\\pi}{6} + k2\\pi = \\frac{5\\pi}{6} + k2\\pi$ với $k \\in \\mathbb{Z}$."
+        ],
+        "answer": "$x = \\frac{\\pi}{6} + k2\\pi$ hoặc $x = \\frac{5\\pi}{6} + k2\\pi$ ($k \\in \\mathbb{Z}$)."
+      },
+      "check": { "expression": "sin(5*pi/6)", "value": 0.5 }
+    }
+  ]
+}

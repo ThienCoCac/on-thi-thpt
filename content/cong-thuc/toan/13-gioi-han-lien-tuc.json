@@ -1,0 +1,68 @@
+{
+  "id": "gioi-han-lien-tuc",
+  "title": "Giới hạn và hàm số liên tục",
+  "gradeNote": "Lớp 11 (Chương 5); nền tảng của đạo hàm và tiệm cận lớp 12",
+  "formulas": [
+    {
+      "id": "gh-gioi-han-day-so",
+      "name": "Giới hạn của dãy số",
+      "latex": "\\lim \\frac{1}{n^k} = 0 \\ (k > 0); \\qquad \\lim q^n = 0 \\ (|q| < 1); \\qquad \\lim\\left(1 + \\frac{1}{n}\\right)^n = e",
+      "keywords": ["giới hạn dãy số", "lim 1/n", "q mũ n", "số e"],
+      "notes": [
+        "Giới hạn của tổng, tích, thương bằng tổng, tích, thương các giới hạn (khi thương có mẫu khác 0).",
+        "Dạng $\\frac{\\infty}{\\infty}$ với đa thức theo $n$: chia cả tử và mẫu cho $n$ lũy thừa cao nhất."
+      ],
+      "example": {
+        "prompt": "Tính $\\lim \\frac{3n + 1}{2n - 1}$.",
+        "steps": [
+          "Chia tử và mẫu cho $n$: $\\frac{3 + 1/n}{2 - 1/n}$.",
+          "Vì $\\frac{1}{n} \\to 0$ nên giới hạn bằng $\\frac{3}{2} = 1{,}5$."
+        ],
+        "answer": "$\\lim \\frac{3n+1}{2n-1} = \\frac{3}{2}$."
+      },
+      "check": { "expression": "3/2", "value": 1.5 }
+    },
+    {
+      "id": "gh-gioi-han-ham-so",
+      "name": "Giới hạn của hàm số và các dạng khử",
+      "latex": "\\lim_{x \\to x_0} f(x) = f(x_0) \\ \\text{(nếu liên tục)}; \\qquad \\lim_{x \\to 0}\\frac{\\sin x}{x} = 1",
+      "keywords": ["giới hạn hàm số", "dạng 0/0", "khử dạng vô định", "sin x chia x"],
+      "notes": [
+        "Dạng $\\frac{0}{0}$: phân tích nhân tử rồi rút gọn, hoặc nhân liên hợp nếu có căn thức.",
+        "Dạng $\\frac{\\infty}{\\infty}$ khi $x \\to \\infty$: chia cho lũy thừa cao nhất của $x$.",
+        "Giới hạn một bên dùng khi hàm cho bởi nhiều công thức hoặc xét tiệm cận đứng."
+      ],
+      "example": {
+        "prompt": "Tính $\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}$.",
+        "steps": [
+          "Thay thẳng $x = 2$ gặp dạng $\\frac{0}{0}$; phân tích tử: $x^2 - 4 = (x - 2)(x + 2)$.",
+          "Rút gọn nhân tử chung: $\\frac{(x-2)(x+2)}{x-2} = x + 2$ với $x \\ne 2$.",
+          "Giới hạn bằng $2 + 2 = 4$."
+        ],
+        "answer": "$\\lim_{x \\to 2} \\frac{x^2-4}{x-2} = 4$."
+      },
+      "check": { "expression": "2+2", "value": 4 }
+    },
+    {
+      "id": "gh-ham-lien-tuc",
+      "name": "Hàm số liên tục và định lí giá trị trung gian",
+      "latex": "f \\text{ liên tục tại } x_0 \\Leftrightarrow \\lim_{x \\to x_0} f(x) = f(x_0); \\qquad f(a)f(b) < 0 \\Rightarrow \\exists c \\in (a;b): f(c) = 0",
+      "keywords": ["liên tục", "giá trị trung gian", "phương trình có nghiệm", "đổi dấu"],
+      "notes": [
+        "Định lí nghiệm đúng cần $f$ liên tục trên đoạn $[a;b]$ và $f(a)f(b) < 0$; nếu $f$ ngắt quãng thì kết luận có thể sai.",
+        "Hàm đa thức, phân thức (trên tập xác định), lượng giác, mũ, logarit đều liên tục trên tập xác định của chúng.",
+        "Đây là công cụ chứng minh phương trình có nghiệm trong khoảng cho trước."
+      ],
+      "example": {
+        "prompt": "Chứng minh phương trình $x^3 + x - 1 = 0$ có nghiệm trong khoảng $(0; 1)$.",
+        "steps": [
+          "Đặt $f(x) = x^3 + x - 1$, là hàm đa thức nên liên tục trên $[0; 1]$.",
+          "Tính $f(0) = -1 < 0$ và $f(1) = 1 > 0$, tích $f(0)f(1) = -1 < 0$.",
+          "Theo định lí giá trị trung gian, tồn tại $c \\in (0; 1)$ để $f(c) = 0$."
+        ],
+        "answer": "Phương trình có ít nhất một nghiệm trong $(0; 1)$."
+      },
+      "check": { "expression": "(0^3+0-1)*(1^3+1-1)", "value": -1 }
+    }
+  ]
+}

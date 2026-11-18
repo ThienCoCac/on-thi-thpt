@@ -1,0 +1,154 @@
+{
+  "id": "ham-so-dao-ham",
+  "title": "Hàm số và đạo hàm",
+  "gradeNote": "Đạo hàm học ở lớp 11 (Chương 9); ứng dụng khảo sát hàm số là Chương 1 lớp 12, trọng tâm đề thi",
+  "formulas": [
+    {
+      "id": "dh-don-dieu-cuc-tri",
+      "name": "Tính đơn điệu và cực trị",
+      "latex": "\\begin{aligned} f'(x) > 0 \\ \\forall x \\in (a;b) &\\Rightarrow f \\text{ đồng biến trên } (a;b) \\\\ f'(x) < 0 \\ \\forall x \\in (a;b) &\\Rightarrow f \\text{ nghịch biến trên } (a;b) \\end{aligned}",
+      "keywords": ["đồng biến", "nghịch biến", "cực đại", "cực tiểu", "đơn điệu", "bảng biến thiên"],
+      "notes": [
+        "Điểm cực trị là chỗ $f'$ đổi dấu: từ dương sang âm là cực đại, từ âm sang dương là cực tiểu; $f'(x_0) = 0$ chỉ là điều kiện cần.",
+        "Với hàm đa thức, $f'(x) \\ge 0$ và bằng 0 tại hữu hạn điểm thì hàm vẫn đồng biến.",
+        "Hàm bậc ba $y = ax^3 + bx^2 + cx + d$ có hai cực trị khi $y' = 0$ có hai nghiệm phân biệt."
+      ],
+      "example": {
+        "prompt": "Tìm các điểm cực trị của hàm số $y = x^3 - 3x$.",
+        "steps": [
+          "Tính $y' = 3x^2 - 3$; giải $y' = 0$ được $x = -1$ hoặc $x = 1$.",
+          "Lập bảng dấu: $y' > 0$ khi $x < -1$, $y' < 0$ khi $-1 < x < 1$, $y' > 0$ khi $x > 1$.",
+          "Tại $x = -1$ đạo hàm đổi dấu từ dương sang âm nên là cực đại, $y(-1) = (-1)^3 - 3(-1) = 2$.",
+          "Tại $x = 1$ đạo hàm đổi dấu từ âm sang dương nên là cực tiểu, $y(1) = 1 - 3 = -2$."
+        ],
+        "answer": "Cực đại tại $x = -1$ với $y = 2$; cực tiểu tại $x = 1$ với $y = -2$."
+      },
+      "check": { "expression": "(-1)^3-3*(-1)", "value": 2 }
+    },
+    {
+      "id": "dh-gtln-nn",
+      "name": "Giá trị lớn nhất, nhỏ nhất trên đoạn",
+      "latex": "\\max_{[a;b]} f = \\max\\{f(a), f(b), f(x_1), \\ldots, f(x_k)\\}, \\qquad \\min_{[a;b]} f = \\min\\{f(a), f(b), f(x_1), \\ldots, f(x_k)\\}",
+      "keywords": ["giá trị lớn nhất", "giá trị nhỏ nhất", "max min", "trên đoạn", "bài toán tối ưu"],
+      "notes": [
+        "Quy trình: tìm các điểm trong $(a;b)$ mà $f' = 0$ hoặc $f'$ không xác định, tính $f$ tại các điểm đó và tại hai đầu mút rồi so sánh.",
+        "Hàm liên tục trên đoạn đóng luôn đạt max và min; trên khoảng mở thì chưa chắc, phải xét bảng biến thiên.",
+        "Bài toán thực tiễn (chi phí nhỏ nhất, thể tích lớn nhất…) đưa về max/min của một hàm trên khoảng, nhớ kiểm tra điều kiện của biến."
+      ],
+      "example": {
+        "prompt": "Tìm giá trị lớn nhất và nhỏ nhất của $y = x^2$ trên đoạn $[-1; 2]$.",
+        "steps": [
+          "$y' = 2x = 0$ tại $x = 0$, điểm này nằm trong $(-1; 2)$.",
+          "Tính ba giá trị: $y(-1) = 1$, $y(0) = 0$, $y(2) = 4$.",
+          "So sánh: lớn nhất là 4 tại $x = 2$, nhỏ nhất là 0 tại $x = 0$."
+        ],
+        "answer": "$\\max = 4$ tại $x = 2$; $\\min = 0$ tại $x = 0$."
+      },
+      "check": { "expression": "2^2", "value": 4 }
+    },
+    {
+      "id": "dh-tiem-can",
+      "name": "Đường tiệm cận của đồ thị hàm số",
+      "latex": "\\begin{aligned} \\lim_{x \\to \\pm\\infty} f(x) = y_0 &\\Rightarrow y = y_0 \\text{ là tiệm cận ngang} \\\\ \\lim_{x \\to x_0^{\\pm}} f(x) = \\pm\\infty &\\Rightarrow x = x_0 \\text{ là tiệm cận đứng} \\\\ \\lim_{x \\to \\infty} \\frac{f(x)}{x} = a,\\ \\lim_{x \\to \\infty} [f(x) - ax] = b &\\Rightarrow y = ax + b \\text{ là tiệm cận xiên} \\end{aligned}",
+      "keywords": ["tiệm cận đứng", "tiệm cận ngang", "tiệm cận xiên", "giới hạn vô cực"],
+      "notes": [
+        "Tiệm cận đứng thường xuất hiện tại nghiệm của mẫu số (sau khi đã rút gọn phân thức).",
+        "Hàm phân thức bậc nhất trên bậc nhất luôn có đúng một tiệm cận đứng và một tiệm cận ngang.",
+        "Tiệm cận xiên chỉ xét khi bậc tử lớn hơn bậc mẫu đúng 1; chương trình 2018 vẫn gặp ở dạng bài khảo sát."
+      ],
+      "example": {
+        "prompt": "Tìm các đường tiệm cận của đồ thị $y = \\frac{2x + 1}{x - 1}$.",
+        "steps": [
+          "Mẫu bằng 0 tại $x = 1$ và tử khác 0 tại đó nên $x = 1$ là tiệm cận đứng.",
+          "Chia cả tử và mẫu cho $x$: $y = \\frac{2 + 1/x}{1 - 1/x} \\to 2$ khi $x \\to \\pm\\infty$, nên $y = 2$ là tiệm cận ngang.",
+          "Kiểm tra số: tại $x = 1001$ thì $y = \\frac{2003}{1000} = 2{,}003$, rất gần 2."
+        ],
+        "answer": "Tiệm cận đứng $x = 1$; tiệm cận ngang $y = 2$."
+      },
+      "check": { "expression": "2003/1000", "value": 2.003 }
+    },
+    {
+      "id": "dh-quy-tac-tinh",
+      "name": "Quy tắc tính đạo hàm",
+      "latex": "\\begin{aligned} (u \\pm v)' &= u' \\pm v' \\\\ (uv)' &= u'v + uv' \\\\ \\left(\\frac{u}{v}\\right)' &= \\frac{u'v - uv'}{v^2} \\\\ [f(g(x))]' &= f'(g(x)) \\cdot g'(x) \\end{aligned}",
+      "keywords": ["đạo hàm tích", "đạo hàm thương", "đạo hàm hàm hợp", "quy tắc"],
+      "notes": [
+        "Đạo hàm của tích KHÔNG bằng tích các đạo hàm; nhớ đủ hai số hạng $u'v + uv'$.",
+        "Với hàm hợp, đạo hàm lớp ngoài nhân đạo hàm lớp trong, ví dụ $(\\sin 2x)' = 2\\cos 2x$.",
+        "Thương có mẫu bình phương và dấu trừ ở tử: $u'v - uv'$, viết ngược dấu là sai ngay."
+      ],
+      "example": {
+        "prompt": "Tính đạo hàm của $y = x^2\\sin x$ tại $x = \\pi$.",
+        "steps": [
+          "Dùng quy tắc tích: $y' = 2x\\sin x + x^2\\cos x$.",
+          "Thay $x = \\pi$: $y'(\\pi) = 2\\pi\\sin\\pi + \\pi^2\\cos\\pi = 2\\pi \\cdot 0 + \\pi^2 \\cdot (-1)$.",
+          "Vậy $y'(\\pi) = -\\pi^2 \\approx -9{,}8696$."
+        ],
+        "answer": "$y'(\\pi) = -\\pi^2 \\approx -9{,}8696$."
+      },
+      "check": { "expression": "2*pi*sin(pi)+pi^2*cos(pi)", "value": -9.869604401089358 }
+    },
+    {
+      "id": "dh-bang-co-ban",
+      "name": "Bảng đạo hàm các hàm sơ cấp",
+      "latex": "\\begin{aligned} (x^n)' &= nx^{n-1}, \\qquad (\\sqrt{x})' = \\frac{1}{2\\sqrt{x}} \\\\ (\\sin x)' &= \\cos x, \\qquad (\\cos x)' = -\\sin x \\\\ (\\tan x)' &= \\frac{1}{\\cos^2 x}, \\qquad (\\cot x)' = -\\frac{1}{\\sin^2 x} \\\\ (e^x)' &= e^x, \\qquad (a^x)' = a^x\\ln a \\\\ (\\ln x)' &= \\frac{1}{x}, \\qquad (\\log_a x)' = \\frac{1}{x\\ln a} \\end{aligned}",
+      "keywords": ["bảng đạo hàm", "đạo hàm sin cos", "đạo hàm ln", "đạo hàm mũ", "đạo hàm căn"],
+      "notes": [
+        "$(\\cos x)' = -\\sin x$ có dấu trừ, còn $(\\sin x)' = \\cos x$ không có — đừng nhầm chiều.",
+        "$(\\ln x)' = \\frac{1}{x}$ chỉ với $x > 0$; $(\\sqrt{x})'$ chỉ với $x > 0$.",
+        "Kết hợp hàm hợp: $(\\ln u)' = \\frac{u'}{u}$, $(e^u)' = u'e^u$."
+      ],
+      "example": {
+        "prompt": "Tính đạo hàm của $y = \\ln x$ tại $x = e$.",
+        "steps": [
+          "Theo bảng: $y' = \\frac{1}{x}$ với $x > 0$.",
+          "Thay $x = e$: $y'(e) = \\frac{1}{e} \\approx 0{,}3679$."
+        ],
+        "answer": "$y'(e) = \\frac{1}{e} \\approx 0{,}3679$."
+      },
+      "check": { "expression": "1/e", "value": 0.36787944117144233 }
+    },
+    {
+      "id": "dh-ham-phan-thuc",
+      "name": "Hàm phân thức bậc nhất trên bậc nhất",
+      "latex": "y = \\frac{ax + b}{cx + d} \\ (c \\ne 0,\\ ad - bc \\ne 0): \\qquad y' = \\frac{ad - bc}{(cx + d)^2}",
+      "keywords": ["phân thức bậc nhất", "ad trừ bc", "hàm nhất biến", "tiệm cận phân thức"],
+      "notes": [
+        "Dấu của $ad - bc$ quyết định chiều biến thiên trên từng khoảng xác định: dương thì đồng biến, âm thì nghịch biến.",
+        "Tiệm cận đứng $x = -\\frac{d}{c}$, tiệm cận ngang $y = \\frac{a}{c}$; giao hai tiệm cận là tâm đối xứng của đồ thị.",
+        "Hàm không đồng biến trên toàn tập xác định khi $ad - bc > 0$ vì tập xác định bị ngắt tại tiệm cận đứng."
+      ],
+      "example": {
+        "prompt": "Xét chiều biến thiên của $y = \\frac{x + 2}{x - 1}$ và tính $y'(2)$.",
+        "steps": [
+          "Ở đây $a = 1$, $b = 2$, $c = 1$, $d = -1$ nên $ad - bc = -1 - 2 = -3 < 0$: hàm nghịch biến trên mỗi khoảng $(-\\infty; 1)$ và $(1; +\\infty)$.",
+          "Đạo hàm $y' = \\frac{-3}{(x - 1)^2}$.",
+          "Tại $x = 2$: $y'(2) = \\frac{-3}{1} = -3$."
+        ],
+        "answer": "Hàm nghịch biến trên từng khoảng xác định; $y'(2) = -3$."
+      },
+      "check": { "expression": "-3/(2-1)^2", "value": -3 }
+    },
+    {
+      "id": "dh-tiep-tuyen",
+      "name": "Phương trình tiếp tuyến",
+      "latex": "y = f'(x_0)(x - x_0) + f(x_0)",
+      "keywords": ["tiếp tuyến", "hệ số góc", "tiếp điểm"],
+      "notes": [
+        "Hệ số góc của tiếp tuyến tại $x_0$ chính là $f'(x_0)$.",
+        "Tiếp tuyến tại điểm uốn của hàm bậc ba cắt đồ thị tại tiếp điểm; tiếp tuyến song song với đường thẳng $y = kx + m$ thì giải $f'(x) = k$ trước.",
+        "Phân biệt 'tiếp tuyến TẠI điểm M' (M là tiếp điểm) và 'tiếp tuyến ĐI QUA điểm M' (M chưa chắc là tiếp điểm)."
+      ],
+      "example": {
+        "prompt": "Viết phương trình tiếp tuyến của $y = x^2$ tại điểm có hoành độ $x_0 = 1$.",
+        "steps": [
+          "Tính $f(1) = 1$ và $f'(x) = 2x$ nên $f'(1) = 2$.",
+          "Thay vào công thức: $y = 2(x - 1) + 1 = 2x - 1$.",
+          "Kiểm tra tại $x = 3$: tiếp tuyến cho $y = 2 \\cdot 3 - 1 = 5$."
+        ],
+        "answer": "Tiếp tuyến $y = 2x - 1$."
+      },
+      "check": { "expression": "2*(3-1)+1", "value": 5 }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "duong-conic",
+  "title": "Đường thẳng, đường tròn và ba đường conic",
+  "gradeNote": "Lớp 10 (Chương 6 và Chương 7): hàm bậc hai, tọa độ trong mặt phẳng",
+  "formulas": [
+    {
+      "id": "dc-duong-thang",
+      "name": "Phương trình đường thẳng và khoảng cách",
+      "latex": "\\begin{aligned} &\\text{Tổng quát: } Ax + By + C = 0, \\quad \\text{hệ số góc: } y = kx + m \\\\ &d(M_0, \\Delta) = \\frac{|Ax_0 + By_0 + C|}{\\sqrt{A^2 + B^2}} \\\\ &\\cos(\\Delta_1, \\Delta_2) = \\frac{|A_1A_2 + B_1B_2|}{\\sqrt{A_1^2 + B_1^2}\\sqrt{A_2^2 + B_2^2}} \\end{aligned}",
+      "keywords": ["phương trình đường thẳng", "khoảng cách điểm đường thẳng", "hệ số góc", "góc hai đường thẳng"],
+      "notes": [
+        "Đường thẳng có vectơ pháp tuyến $(A; B)$ và vectơ chỉ phương $(-B; A)$; hệ số góc $k = -\\frac{A}{B}$ khi $B \\ne 0$.",
+        "Hai đường song song khi pháp tuyến cùng phương; vuông góc khi $A_1A_2 + B_1B_2 = 0$.",
+        "Đường thẳng đi qua $M_0$ với hệ số góc $k$: $y - y_0 = k(x - x_0)$."
+      ],
+      "example": {
+        "prompt": "Tính khoảng cách từ $M(2; 3)$ đến đường thẳng $\\Delta: 3x + 4y - 5 = 0$.",
+        "steps": [
+          "Tử số: $|3 \\cdot 2 + 4 \\cdot 3 - 5| = |6 + 12 - 5| = 13$.",
+          "Mẫu số: $\\sqrt{3^2 + 4^2} = 5$.",
+          "Vậy $d = \\frac{13}{5} = 2{,}6$."
+        ],
+        "answer": "$d(M, \\Delta) = 2{,}6$."
+      },
+      "check": { "expression": "abs(3*2+4*3-5)/5", "value": 2.6 }
+    },
+    {
+      "id": "dc-duong-tron",
+      "name": "Phương trình đường tròn",
+      "latex": "(x - a)^2 + (y - b)^2 = R^2; \\qquad x^2 + y^2 - 2ax - 2by + c = 0, \\quad R = \\sqrt{a^2 + b^2 - c}",
+      "keywords": ["đường tròn", "tâm bán kính", "phương trình đường tròn", "tiếp tuyến đường tròn"],
+      "notes": [
+        "Dạng khai triển là đường tròn khi $a^2 + b^2 - c > 0$; tâm $I(a; b)$.",
+        "Đường thẳng tiếp xúc đường tròn khi khoảng cách từ tâm đến đường thẳng bằng $R$.",
+        "Tiếp tuyến tại điểm $M_0$ trên đường tròn vuông góc với bán kính $IM_0$."
+      ],
+      "example": {
+        "prompt": "Tìm tâm và bán kính của đường tròn $x^2 + y^2 - 4x + 6y - 3 = 0$.",
+        "steps": [
+          "So sánh dạng khai triển: $-2a = -4 \\Rightarrow a = 2$; $-2b = 6 \\Rightarrow b = -3$; $c = -3$.",
+          "Bán kính $R = \\sqrt{a^2 + b^2 - c} = \\sqrt{4 + 9 + 3} = \\sqrt{16} = 4$."
+        ],
+        "answer": "Tâm $I(2; -3)$, bán kính $R = 4$."
+      },
+      "check": { "expression": "sqrt(4+9+3)", "value": 4 }
+    },
+    {
+      "id": "dc-elipse",
+      "name": "Elipse",
+      "latex": "\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1 \\ (a > b > 0); \\qquad c^2 = a^2 - b^2, \\quad e = \\frac{c}{a} < 1",
+      "keywords": ["elipse", "tiêu cự", "tâm sai", "trục lớn", "trục nhỏ"],
+      "notes": [
+        "Trục lớn dài $2a$, trục nhỏ dài $2b$, tiêu cự $2c$; hai tiêu điểm $F_1(-c; 0)$, $F_2(c; 0)$.",
+        "Định nghĩa: $MF_1 + MF_2 = 2a$ với mọi điểm $M$ trên elipse.",
+        "Nhớ chiều bất đẳng thức: elipse có $c^2 = a^2 - b^2$ (a lớn nhất), khác hyperbol."
+      ],
+      "example": {
+        "prompt": "Elipse có $a = 5$, $b = 3$. Tính tiêu cự và tâm sai.",
+        "steps": [
+          "$c^2 = a^2 - b^2 = 25 - 9 = 16$ nên $c = 4$, tiêu cự $2c = 8$.",
+          "Tâm sai $e = \\frac{c}{a} = \\frac{4}{5} = 0{,}8$."
+        ],
+        "answer": "Tiêu cự $8$; tâm sai $e = 0{,}8$."
+      },
+      "check": { "expression": "sqrt(25-9)/5", "value": 0.8 }
+    },
+    {
+      "id": "dc-hyperbol",
+      "name": "Hyperbol",
+      "latex": "\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1; \\qquad c^2 = a^2 + b^2, \\quad e = \\frac{c}{a} > 1, \\quad y = \\pm\\frac{b}{a}x \\ \\text{(tiệm cận)}",
+      "keywords": ["hyperbol", "tiệm cận hyperbol", "tâm sai lớn hơn 1"],
+      "notes": [
+        "Định nghĩa: $|MF_1 - MF_2| = 2a$; hyperbol có hai nhánh và hai đường tiệm cận.",
+        "Ở hyperbol $c$ lớn nhất: $c^2 = a^2 + b^2$ — ngược dấu với elipse, chỗ này rất hay nhầm.",
+        "Hình chữ nhật cơ sở có kích thước $2a \\times 2b$, hai đường chéo chính là tiệm cận."
+      ],
+      "example": {
+        "prompt": "Hyperbol có $a = 4$, $b = 3$. Tính tâm sai và viết phương trình tiệm cận.",
+        "steps": [
+          "$c^2 = 16 + 9 = 25$ nên $c = 5$.",
+          "Tâm sai $e = \\frac{5}{4} = 1{,}25$.",
+          "Tiệm cận $y = \\pm\\frac{3}{4}x = \\pm 0{,}75x$."
+        ],
+        "answer": "$e = 1{,}25$; tiệm cận $y = \\pm\\frac{3}{4}x$."
+      },
+      "check": { "expression": "sqrt(16+9)/4", "value": 1.25 }
+    },
+    {
+      "id": "dc-parabol",
+      "name": "Parabol (dạng chính tắc)",
+      "latex": "y^2 = 2px \\ (p > 0); \\qquad F\\left(\\frac{p}{2}; 0\\right), \\quad \\text{đường chuẩn } x = -\\frac{p}{2}, \\quad e = 1",
+      "keywords": ["parabol", "tiêu điểm", "đường chuẩn", "y bình phương bằng 2px"],
+      "notes": [
+        "Định nghĩa: $MF$ bằng khoảng cách từ $M$ đến đường chuẩn; tâm sai luôn bằng 1.",
+        "Từ phương trình $y^2 = mx$ thì $2p = m$, tiêu điểm có hoành độ $\\frac{m}{4}$.",
+        "Đừng nhầm parabol chính tắc $y^2 = 2px$ (bề ngang) với đồ thị hàm bậc hai $y = ax^2 + bx + c$ (bề đứng)."
+      ],
+      "example": {
+        "prompt": "Cho parabol $y^2 = 8x$. Tìm tiêu điểm và đường chuẩn.",
+        "steps": [
+          "So sánh $2p = 8$ nên $p = 4$.",
+          "Tiêu điểm $F\\left(\\frac{p}{2}; 0\\right) = (2; 0)$.",
+          "Đường chuẩn $x = -\\frac{p}{2} = -2$."
+        ],
+        "answer": "$F(2; 0)$; đường chuẩn $x = -2$."
+      },
+      "check": { "expression": "8/4", "value": 2 }
+    },
+    {
+      "id": "dc-ham-bac-hai",
+      "name": "Hàm số bậc hai và đỉnh parabol",
+      "latex": "y = ax^2 + bx + c \\ (a \\ne 0); \\qquad I\\left(-\\frac{b}{2a};\\ -\\frac{\\Delta}{4a}\\right), \\quad \\Delta = b^2 - 4ac",
+      "keywords": ["hàm bậc hai", "đỉnh parabol", "bề lõm", "trục đối xứng"],
+      "notes": [
+        "$a > 0$ bề lõm hướng lên, $a < 0$ hướng xuống; trục đối xứng $x = -\\frac{b}{2a}$.",
+        "Tung độ đỉnh cũng viết được $f\\left(-\\frac{b}{2a}\\right)$, thường dễ tính hơn $-\\frac{\\Delta}{4a}$.",
+        "Hàm đạt giá trị nhỏ nhất (khi $a>0$) hoặc lớn nhất (khi $a<0$) tại đỉnh."
+      ],
+      "example": {
+        "prompt": "Tìm tọa độ đỉnh của parabol $y = x^2 - 4x + 3$.",
+        "steps": [
+          "Hoành độ đỉnh: $-\\frac{b}{2a} = \\frac{4}{2} = 2$.",
+          "Tung độ: $\\Delta = 16 - 12 = 4$ nên $-\\frac{\\Delta}{4a} = -1$ (hoặc tính thẳng $f(2) = 4 - 8 + 3 = -1$).",
+          "Đỉnh $I(2; -1)$, bề lõm hướng lên vì $a = 1 > 0$."
+        ],
+        "answer": "$I(2; -1)$."
+      },
+      "check": { "expression": "-(16-12)/4", "value": -1 }
+    }
+  ]
+}

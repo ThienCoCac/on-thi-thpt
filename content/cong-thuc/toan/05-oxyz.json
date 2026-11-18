@@ -1,0 +1,172 @@
+{
+  "id": "oxyz",
+  "title": "Vectơ và tọa độ trong không gian (Oxyz)",
+  "gradeNote": "Lớp 12 (Chương 2 và Chương 5); phần hình học chiếm khoảng một phần ba đề tốt nghiệp",
+  "formulas": [
+    {
+      "id": "ox-phep-toan-vecto",
+      "name": "Tọa độ vectơ và các phép toán",
+      "latex": "\\begin{aligned} \\overrightarrow{AB} &= (x_B - x_A;\\ y_B - y_A;\\ z_B - z_A) \\\\ \\vec{a} \\pm \\vec{b} &= (a_1 \\pm b_1;\\ a_2 \\pm b_2;\\ a_3 \\pm b_3), \\qquad k\\vec{a} = (ka_1; ka_2; ka_3) \\\\ |\\vec{a}| &= \\sqrt{a_1^2 + a_2^2 + a_3^2} \\end{aligned}",
+      "keywords": ["tọa độ vectơ", "độ dài vectơ", "AB", "cộng trừ vectơ", "nhân vectơ với số"],
+      "notes": [
+        "Tọa độ $\\overrightarrow{AB}$ lấy ngọn trừ gốc: $B - A$, viết ngược là sai dấu.",
+        "Hai vectơ bằng nhau khi và chỉ khi ba tọa độ tương ứng bằng nhau.",
+        "Độ dài đoạn $AB$ chính là $|\\overrightarrow{AB}|$."
+      ],
+      "example": {
+        "prompt": "Cho $A(1; 2; 3)$, $B(4; 6; 3)$. Tìm $\\overrightarrow{AB}$ và độ dài $AB$.",
+        "steps": [
+          "$\\overrightarrow{AB} = (4 - 1;\\ 6 - 2;\\ 3 - 3) = (3; 4; 0)$.",
+          "$AB = |\\overrightarrow{AB}| = \\sqrt{3^2 + 4^2 + 0^2} = \\sqrt{25} = 5$."
+        ],
+        "answer": "$\\overrightarrow{AB} = (3; 4; 0)$ và $AB = 5$."
+      },
+      "check": { "expression": "sqrt(3^2+4^2)", "value": 5 }
+    },
+    {
+      "id": "ox-tich-vo-huong",
+      "name": "Tích vô hướng, góc và điều kiện vuông góc",
+      "latex": "\\vec{a} \\cdot \\vec{b} = a_1b_1 + a_2b_2 + a_3b_3 = |\\vec{a}||\\vec{b}|\\cos(\\vec{a}, \\vec{b}); \\qquad \\vec{a} \\perp \\vec{b} \\Leftrightarrow \\vec{a} \\cdot \\vec{b} = 0",
+      "keywords": ["tích vô hướng", "góc giữa hai vectơ", "vuông góc", "cos góc"],
+      "notes": [
+        "Góc giữa hai vectơ nằm trong $[0^\\circ; 180^\\circ]$; góc giữa hai đường thẳng chỉ lấy giá trị không vượt quá $90^\\circ$ nên dùng trị tuyệt đối của cos.",
+        "Tích vô hướng bằng 0 là cách kiểm tra vuông góc nhanh nhất trong Oxyz."
+      ],
+      "example": {
+        "prompt": "Cho $\\vec{a} = (1; 2; 2)$, $\\vec{b} = (2; -1; 2)$. Tính cosin góc giữa hai vectơ.",
+        "steps": [
+          "Tích vô hướng: $\\vec{a} \\cdot \\vec{b} = 1 \\cdot 2 + 2 \\cdot (-1) + 2 \\cdot 2 = 4$.",
+          "Độ dài: $|\\vec{a}| = \\sqrt{1 + 4 + 4} = 3$, $|\\vec{b}| = \\sqrt{4 + 1 + 4} = 3$.",
+          "Vậy $\\cos(\\vec{a}, \\vec{b}) = \\frac{4}{9} \\approx 0{,}4444$."
+        ],
+        "answer": "$\\cos(\\vec{a}, \\vec{b}) = \\frac{4}{9} \\approx 0{,}4444$."
+      },
+      "check": { "expression": "(1*2+2*(-1)+2*2)/(3*3)", "value": 0.4444444444444444 }
+    },
+    {
+      "id": "ox-tich-co-huong",
+      "name": "Tích có hướng và diện tích, thể tích",
+      "latex": "\\begin{aligned} [\\vec{a}, \\vec{b}] &= (a_2b_3 - a_3b_2;\\ a_3b_1 - a_1b_3;\\ a_1b_2 - a_2b_1) \\\\ S_{\\triangle ABC} &= \\frac{1}{2}\\left|[\\overrightarrow{AB}, \\overrightarrow{AC}]\\right|, \\qquad S_{\\text{hbh}} = \\left|[\\vec{a}, \\vec{b}]\\right| \\\\ V_{\\text{hộp}} &= \\left|[\\vec{a}, \\vec{b}] \\cdot \\vec{c}\\right| \\end{aligned}",
+      "keywords": ["tích có hướng", "diện tích tam giác không gian", "thể tích hộp", "vectơ pháp tuyến"],
+      "notes": [
+        "$[\\vec{a}, \\vec{b}]$ vuông góc với cả hai vectơ nên dùng làm vectơ pháp tuyến của mặt phẳng chứa chúng.",
+        "$[\\vec{a}, \\vec{b}] = \\vec{0}$ khi hai vectơ cùng phương; đổi thứ tự thì đổi dấu: $[\\vec{b}, \\vec{a}] = -[\\vec{a}, \\vec{b}]$.",
+        "Thể tích tứ diện bằng $\\frac{1}{6}$ thể tích hộp: $V = \\frac{1}{6}|[\\overrightarrow{AB}, \\overrightarrow{AC}] \\cdot \\overrightarrow{AD}|$."
+      ],
+      "example": {
+        "prompt": "Tính diện tích tam giác $ABC$ với $A(1; 0; 0)$, $B(0; 2; 0)$, $C(0; 0; 3)$.",
+        "steps": [
+          "$\\overrightarrow{AB} = (-1; 2; 0)$, $\\overrightarrow{AC} = (-1; 0; 3)$.",
+          "Tích có hướng: $[\\overrightarrow{AB}, \\overrightarrow{AC}] = (2 \\cdot 3 - 0 \\cdot 0;\\ 0 \\cdot (-1) - (-1) \\cdot 3;\\ (-1) \\cdot 0 - 2 \\cdot (-1)) = (6; 3; 2)$.",
+          "Độ dài $\\sqrt{36 + 9 + 4} = 7$ nên $S = \\frac{7}{2} = 3{,}5$."
+        ],
+        "answer": "$S_{\\triangle ABC} = 3{,}5$."
+      },
+      "check": { "expression": "sqrt(6^2+3^2+2^2)/2", "value": 3.5 }
+    },
+    {
+      "id": "ox-mat-phang",
+      "name": "Phương trình mặt phẳng",
+      "latex": "\\begin{aligned} &A(x - x_0) + B(y - y_0) + C(z - z_0) = 0 \\\\ &\\text{dạng tổng quát: } Ax + By + Cz + D = 0 \\\\ &\\text{đoạn chắn: } \\frac{x}{a} + \\frac{y}{b} + \\frac{z}{c} = 1 \\end{aligned}",
+      "keywords": ["phương trình mặt phẳng", "vectơ pháp tuyến", "đoạn chắn", "mặt phẳng qua ba điểm"],
+      "notes": [
+        "Mặt phẳng xác định bởi một điểm và vectơ pháp tuyến $\\vec{n} = (A; B; C) \\ne \\vec{0}$.",
+        "Mặt phẳng cắt ba trục tại $(a;0;0)$, $(0;b;0)$, $(0;0;c)$ thì viết ngay dạng đoạn chắn.",
+        "Hai mặt phẳng song song khi hai pháp tuyến cùng phương; vuông góc khi tích vô hướng hai pháp tuyến bằng 0."
+      ],
+      "example": {
+        "prompt": "Viết phương trình mặt phẳng đi qua $M(1; 2; 3)$ với pháp tuyến $\\vec{n} = (2; -1; 4)$.",
+        "steps": [
+          "Thay vào dạng điểm–pháp tuyến: $2(x - 1) - (y - 2) + 4(z - 3) = 0$.",
+          "Khai triển: $2x - y + 4z - 2 + 2 - 12 = 0$, tức $2x - y + 4z - 12 = 0$.",
+          "Kiểm tra: thay $M$ vào vế trái được $2 - 2 + 12 = 12$, đúng bằng $-D$."
+        ],
+        "answer": "$2x - y + 4z - 12 = 0$."
+      },
+      "check": { "expression": "2*1-2+4*3", "value": 12 }
+    },
+    {
+      "id": "ox-khoang-cach-mat-phang",
+      "name": "Khoảng cách từ điểm đến mặt phẳng",
+      "latex": "d\\left(M, (P)\\right) = \\frac{|Ax_0 + By_0 + Cz_0 + D|}{\\sqrt{A^2 + B^2 + C^2}}",
+      "keywords": ["khoảng cách điểm mặt phẳng", "d(M,(P))", "khoảng cách hai mặt phẳng song song"],
+      "notes": [
+        "Tử số phải lấy trị tuyệt đối; mẫu là độ dài pháp tuyến.",
+        "Khoảng cách giữa hai mặt phẳng song song: lấy một điểm bất kỳ trên mặt này rồi tính khoảng cách tới mặt kia.",
+        "Điểm thuộc mặt phẳng thì khoảng cách bằng 0 — tử số triệt tiêu."
+      ],
+      "example": {
+        "prompt": "Tính khoảng cách từ $M(1; 2; 3)$ đến mặt phẳng $(P): 2x - y + 2z - 3 = 0$.",
+        "steps": [
+          "Thay tọa độ vào tử: $|2 \\cdot 1 - 2 + 2 \\cdot 3 - 3| = |3| = 3$.",
+          "Mẫu: $\\sqrt{2^2 + (-1)^2 + 2^2} = \\sqrt{9} = 3$.",
+          "Vậy $d = \\frac{3}{3} = 1$."
+        ],
+        "answer": "$d(M, (P)) = 1$."
+      },
+      "check": { "expression": "abs(2*1-2+2*3-3)/sqrt(2^2+(-1)^2+2^2)", "value": 1 }
+    },
+    {
+      "id": "ox-duong-thang",
+      "name": "Phương trình đường thẳng trong không gian",
+      "latex": "\\begin{aligned} &\\text{tham số: } \\begin{cases} x = x_0 + at \\\\ y = y_0 + bt \\\\ z = z_0 + ct \\end{cases} \\\\ &\\text{chính tắc: } \\frac{x - x_0}{a} = \\frac{y - y_0}{b} = \\frac{z - z_0}{c} \\end{aligned}",
+      "keywords": ["phương trình đường thẳng", "vectơ chỉ phương", "chính tắc", "tham số", "góc hai đường thẳng"],
+      "notes": [
+        "Đường thẳng xác định bởi điểm $M_0$ và vectơ chỉ phương $\\vec{u} = (a; b; c) \\ne \\vec{0}$; dạng chính tắc chỉ dùng khi cả $a, b, c$ khác 0.",
+        "Góc giữa hai đường thẳng: $\\cos\\varphi = \\frac{|\\vec{u}_1 \\cdot \\vec{u}_2|}{|\\vec{u}_1||\\vec{u}_2|}$ (lấy trị tuyệt đối để góc không tù).",
+        "Hai đường thẳng chéo nhau khi không cùng phương và không cắt nhau; khoảng cách dùng công thức ở mục góc và khoảng cách."
+      ],
+      "example": {
+        "prompt": "Đường thẳng $d$ đi qua $A(1; 0; 2)$ với chỉ phương $\\vec{u} = (2; 1; -2)$. Tìm điểm trên $d$ ứng với $t = 3$.",
+        "steps": [
+          "Phương trình tham số: $x = 1 + 2t$, $y = t$, $z = 2 - 2t$.",
+          "Thay $t = 3$: $x = 1 + 6 = 7$, $y = 3$, $z = 2 - 6 = -4$."
+        ],
+        "answer": "Điểm $(7; 3; -4)$."
+      },
+      "check": { "expression": "1+2*3", "value": 7 }
+    },
+    {
+      "id": "ox-mat-cau",
+      "name": "Phương trình mặt cầu",
+      "latex": "\\begin{aligned} &(x - a)^2 + (y - b)^2 + (z - c)^2 = R^2 \\\\ &x^2 + y^2 + z^2 - 2ax - 2by - 2cz + d = 0, \\qquad R = \\sqrt{a^2 + b^2 + c^2 - d} \\end{aligned}",
+      "keywords": ["mặt cầu", "tâm mặt cầu", "bán kính", "phương trình mặt cầu"],
+      "notes": [
+        "Dạng khai triển là phương trình mặt cầu khi $a^2 + b^2 + c^2 - d > 0$; tâm $I(a; b; c)$ đọc từ hệ số của $x, y, z$ chia đôi đổi dấu.",
+        "Mặt cầu tâm $I$ bán kính $R$ tiếp xúc mặt phẳng $(P)$ khi $d(I, (P)) = R$.",
+        "Diện tích mặt cầu $S = 4\\pi R^2$, thể tích khối cầu $V = \\frac{4}{3}\\pi R^3$ (xem thêm chủ đề Hình học không gian)."
+      ],
+      "example": {
+        "prompt": "Mặt cầu tâm $I(1; -2; 3)$, bán kính $R = \\sqrt{6}$. Tìm hệ số $d$ trong phương trình khai triển.",
+        "steps": [
+          "Từ $R^2 = a^2 + b^2 + c^2 - d$ suy ra $d = a^2 + b^2 + c^2 - R^2$.",
+          "Thay số: $d = 1 + 4 + 9 - 6 = 8$.",
+          "Phương trình: $x^2 + y^2 + z^2 - 2x + 4y - 6z + 8 = 0$."
+        ],
+        "answer": "$d = 8$; mặt cầu $x^2 + y^2 + z^2 - 2x + 4y - 6z + 8 = 0$."
+      },
+      "check": { "expression": "1+4+9-6", "value": 8 }
+    },
+    {
+      "id": "ox-goc-khoang-cach",
+      "name": "Góc và khoảng cách trong không gian",
+      "latex": "\\begin{aligned} \\sin\\varphi_{\\text{đường–mp}} &= \\frac{|\\vec{u} \\cdot \\vec{n}|}{|\\vec{u}||\\vec{n}|}, \\qquad \\cos\\varphi_{\\text{hai mp}} = \\frac{|\\vec{n}_1 \\cdot \\vec{n}_2|}{|\\vec{n}_1||\\vec{n}_2|} \\\\ d(M, \\Delta) &= \\frac{\\left|[\\overrightarrow{M_0M}, \\vec{u}]\\right|}{|\\vec{u}|} \\\\ d(\\Delta_1, \\Delta_2)_{\\text{chéo nhau}} &= \\frac{\\left|[\\vec{u}_1, \\vec{u}_2] \\cdot \\overrightarrow{M_1M_2}\\right|}{\\left|[\\vec{u}_1, \\vec{u}_2]\\right|} \\end{aligned}",
+      "keywords": ["góc đường thẳng mặt phẳng", "góc hai mặt phẳng", "khoảng cách điểm đường thẳng", "hai đường chéo nhau"],
+      "notes": [
+        "Góc giữa đường và mặt phẳng dùng SIN với pháp tuyến (vì pháp tuyến vuông góc mặt phẳng), còn góc giữa hai mặt phẳng dùng COS.",
+        "Khoảng cách từ điểm đến đường thẳng: lấy $M_0$ bất kỳ trên đường, dùng tích có hướng với chỉ phương.",
+        "Đường thẳng song song mặt phẳng thì khoảng cách từ đường đến mặt phẳng tính từ một điểm bất kỳ trên đường."
+      ],
+      "example": {
+        "prompt": "Tính khoảng cách từ $A(0; 2; 3)$ đến trục $Ox$.",
+        "steps": [
+          "Trục $Ox$ đi qua gốc $O$ với chỉ phương $\\vec{u} = (1; 0; 0)$; $\\overrightarrow{OA} = (0; 2; 3)$.",
+          "Tích có hướng $[\\overrightarrow{OA}, \\vec{u}] = (2 \\cdot 0 - 3 \\cdot 0;\\ 3 \\cdot 1 - 0 \\cdot 0;\\ 0 \\cdot 0 - 2 \\cdot 1) = (0; 3; -2)$.",
+          "Độ dài $\\sqrt{9 + 4} = \\sqrt{13}$, chia $|\\vec{u}| = 1$ nên $d = \\sqrt{13} \\approx 3{,}6056$."
+        ],
+        "answer": "$d(A, Ox) = \\sqrt{13} \\approx 3{,}6056$."
+      },
+      "check": { "expression": "sqrt(3^2+(-2)^2)", "value": 3.605551275463989 }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "nguyen-ham-tich-phan",
+  "title": "Nguyên hàm và tích phân",
+  "gradeNote": "Lớp 12 (Chương 4); chiếm nhiều câu trong đề tốt nghiệp",
+  "formulas": [
+    {
+      "id": "tp-nguyen-ham-co-ban",
+      "name": "Bảng nguyên hàm cơ bản",
+      "latex": "\\begin{aligned} \\int x^n\\,dx &= \\frac{x^{n+1}}{n+1} + C \\ (n \\ne -1), \\qquad \\int \\frac{1}{x}\\,dx = \\ln|x| + C \\\\ \\int e^x\\,dx &= e^x + C, \\qquad \\int a^x\\,dx = \\frac{a^x}{\\ln a} + C \\\\ \\int \\sin x\\,dx &= -\\cos x + C, \\qquad \\int \\cos x\\,dx = \\sin x + C \\\\ \\int \\frac{1}{\\cos^2 x}\\,dx &= \\tan x + C, \\qquad \\int \\frac{1}{\\sin^2 x}\\,dx = -\\cot x + C \\end{aligned}",
+      "keywords": ["nguyên hàm", "bảng nguyên hàm", "tích phân bất định", "hằng số C"],
+      "notes": [
+        "Luôn cộng hằng số $C$ cho nguyên hàm; thiếu $C$ là mất điểm trình bày.",
+        "$\\int \\frac{1}{x}dx = \\ln|x| + C$ có trị tuyệt đối vì $\\frac{1}{x}$ xác định cả với $x < 0$.",
+        "Nguyên hàm của sin mang dấu trừ, của cos thì không — ngược với bảng đạo hàm."
+      ],
+      "example": {
+        "prompt": "Tìm nguyên hàm $F(x)$ của $f(x) = x^2$ rồi tính $F(3) - F(0)$.",
+        "steps": [
+          "Theo bảng với $n = 2$: $F(x) = \\frac{x^3}{3} + C$.",
+          "Hiệu hai giá trị triệt tiêu $C$: $F(3) - F(0) = \\frac{27}{3} - 0 = 9$."
+        ],
+        "answer": "$F(x) = \\frac{x^3}{3} + C$ và $F(3) - F(0) = 9$."
+      },
+      "check": { "expression": "3^3/3", "value": 9 }
+    },
+    {
+      "id": "tp-tinh-chat",
+      "name": "Tính chất của tích phân",
+      "latex": "\\begin{aligned} \\int_a^b [f(x) \\pm g(x)]\\,dx &= \\int_a^b f(x)\\,dx \\pm \\int_a^b g(x)\\,dx \\\\ \\int_a^b kf(x)\\,dx &= k\\int_a^b f(x)\\,dx \\\\ \\int_a^b f(x)\\,dx &= \\int_a^c f(x)\\,dx + \\int_c^b f(x)\\,dx \\\\ \\int_a^a f(x)\\,dx &= 0, \\qquad \\int_a^b f(x)\\,dx = -\\int_b^a f(x)\\,dx \\end{aligned}",
+      "keywords": ["tính chất tích phân", "tách tích phân", "đổi cận", "hằng số nhân"],
+      "notes": [
+        "Tính chất chèn điểm $c$ rất hữu ích khi hàm cho bởi nhiều công thức trên từng khoảng hoặc có trị tuyệt đối.",
+        "Đổi chỗ hai cận thì đổi dấu tích phân."
+      ],
+      "example": {
+        "prompt": "Tính $I = \\int_0^1 (3x^2 + 2x)\\,dx$.",
+        "steps": [
+          "Tách thành hai tích phân và tìm nguyên hàm: $\\int (3x^2 + 2x)dx = x^3 + x^2 + C$.",
+          "Thay cận: $I = (1^3 + 1^2) - (0^3 + 0^2) = 2$."
+        ],
+        "answer": "$I = 2$."
+      },
+      "check": { "expression": "1^3+1^2", "value": 2 }
+    },
+    {
+      "id": "tp-newton-leibniz",
+      "name": "Công thức Newton–Leibniz",
+      "latex": "\\int_a^b f(x)\\,dx = F(b) - F(a) \\qquad (F \\text{ là một nguyên hàm của } f \\text{ trên } [a;b])",
+      "keywords": ["Newton Leibniz", "thay cận", "tích phân xác định"],
+      "notes": [
+        "Chọn nguyên hàm bất kỳ (thường lấy $C = 0$) vì hiệu $F(b) - F(a)$ không phụ thuộc $C$.",
+        "$f$ phải liên tục trên đoạn $[a;b]$ thì công thức áp dụng trực tiếp được."
+      ],
+      "example": {
+        "prompt": "Tính $\\int_1^2 (2x + 1)\\,dx$.",
+        "steps": [
+          "Nguyên hàm của $2x + 1$ là $F(x) = x^2 + x$.",
+          "$F(2) = 4 + 2 = 6$ và $F(1) = 1 + 1 = 2$.",
+          "Vậy tích phân bằng $6 - 2 = 4$."
+        ],
+        "answer": "$\\int_1^2 (2x + 1)dx = 4$."
+      },
+      "check": { "expression": "(2^2+2)-(1^2+1)", "value": 4 }
+    },
+    {
+      "id": "tp-doi-bien-so",
+      "name": "Phương pháp đổi biến số",
+      "latex": "\\int f(u(x))\\,u'(x)\\,dx = F(u(x)) + C; \\qquad \\int_a^b f(u(x))u'(x)\\,dx = \\int_{u(a)}^{u(b)} f(t)\\,dt",
+      "keywords": ["đổi biến", "đặt t", "đổi cận", "tích phân hàm hợp"],
+      "notes": [
+        "Đổi biến trong tích phân xác định thì PHẢI đổi cận theo biến mới, không cần quay lại biến cũ.",
+        "Dạng hay gặp: thấy $u(x)$ và đạo hàm $u'(x)$ cùng xuất hiện thì đặt $t = u(x)$, ví dụ $\\frac{\\ln x}{x}dx$ đặt $t = \\ln x$."
+      ],
+      "example": {
+        "prompt": "Tính $I = \\int_0^1 2x\\,e^{x^2}\\,dx$.",
+        "steps": [
+          "Đặt $t = x^2$ thì $dt = 2x\\,dx$; đổi cận: $x = 0 \\Rightarrow t = 0$, $x = 1 \\Rightarrow t = 1$.",
+          "Tích phân trở thành $I = \\int_0^1 e^t\\,dt = e^1 - e^0$.",
+          "Vậy $I = e - 1 \\approx 1{,}7183$."
+        ],
+        "answer": "$I = e - 1 \\approx 1{,}7183$."
+      },
+      "check": { "expression": "e-1", "value": 1.718281828459045 }
+    },
+    {
+      "id": "tp-tung-phan",
+      "name": "Phương pháp tích phân từng phần",
+      "latex": "\\int_a^b u\\,dv = \\left. uv \\right|_a^b - \\int_a^b v\\,du",
+      "keywords": ["từng phần", "u dv", "tích phân từng phần"],
+      "notes": [
+        "Chọn $u$ theo thứ tự ưu tiên: logarit, đa thức, lượng giác, mũ (mẹo 'nhất log, nhì đa, tam lượng, tứ mũ').",
+        "Dạng $\\int P(x)e^x dx$, $\\int P(x)\\sin x\\,dx$ đặt $u = P(x)$; dạng $\\int P(x)\\ln x\\,dx$ đặt $u = \\ln x$."
+      ],
+      "example": {
+        "prompt": "Tính $I = \\int_0^1 x\\,e^x\\,dx$.",
+        "steps": [
+          "Đặt $u = x$, $dv = e^x dx$ thì $du = dx$, $v = e^x$.",
+          "Từng phần: $I = \\left. xe^x \\right|_0^1 - \\int_0^1 e^x\\,dx = e - (e - 1)$.",
+          "Rút gọn: $I = 1$."
+        ],
+        "answer": "$I = 1$."
+      },
+      "check": { "expression": "1*e-(e-1)", "value": 1 }
+    },
+    {
+      "id": "tp-ung-dung",
+      "name": "Ứng dụng diện tích, thể tích, quãng đường",
+      "latex": "\\begin{aligned} S &= \\int_a^b |f(x) - g(x)|\\,dx \\\\ V &= \\pi\\int_a^b f^2(x)\\,dx \\quad \\text{(quay quanh trục } Ox\\text{)} \\\\ s &= \\int_{t_1}^{t_2} v(t)\\,dt \\end{aligned}",
+      "keywords": ["diện tích hình phẳng", "thể tích tròn xoay", "quãng đường", "ứng dụng tích phân"],
+      "notes": [
+        "Diện tích giữa hai đồ thị phải lấy trị tuyệt đối hoặc xét dấu $f - g$ trên từng khoảng, chia cận tại giao điểm.",
+        "Thể tích khối tròn xoay quay quanh $Ox$ dùng $\\pi\\int f^2$; quay quanh $Oy$ thì đổi vai trò biến.",
+        "Quãng đường là tích phân của tốc độ (vận tốc không âm); nếu $v$ đổi dấu thì quãng đường dùng $\\int |v|$."
+      ],
+      "example": {
+        "prompt": "Tính thể tích khối tròn xoay tạo bởi miền giới hạn bởi $y = \\sqrt{x}$, trục hoành và $x = 4$ khi quay quanh $Ox$.",
+        "steps": [
+          "Áp dụng $V = \\pi\\int_0^4 (\\sqrt{x})^2\\,dx = \\pi\\int_0^4 x\\,dx$.",
+          "Nguyên hàm của $x$ là $\\frac{x^2}{2}$, thay cận được $\\frac{16}{2} = 8$.",
+          "Vậy $V = 8\\pi \\approx 25{,}1327$ (đơn vị thể tích)."
+        ],
+        "answer": "$V = 8\\pi \\approx 25{,}1327$."
+      },
+      "check": { "expression": "pi*4^2/2", "value": 25.132741228718345 }
+    }
+  ]
+}

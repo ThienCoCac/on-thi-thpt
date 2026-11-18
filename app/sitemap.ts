@@ -23,6 +23,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly',
       priority: 0.8,
     },
+    { url: absoluteUrl('/cong-thuc/toan'), changeFrequency: 'monthly', priority: 0.8 },
     { url: absoluteUrl(ROADMAP_PATH), changeFrequency: 'monthly', priority: 0.8 },
     ...getChemistryRoadmap().lessons.map((lesson) => ({
       url: absoluteUrl(`${ROADMAP_PATH}/${lesson.id}`),

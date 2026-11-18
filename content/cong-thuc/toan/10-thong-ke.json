@@ -1,0 +1,111 @@
+{
+  "id": "thong-ke",
+  "title": "Thống kê: mẫu số liệu ghép nhóm",
+  "gradeNote": "Xu thế trung tâm ở lớp 11 (Chương 3); đo mức độ phân tán ở lớp 12 (Chương 3)",
+  "formulas": [
+    {
+      "id": "tk-so-trung-binh",
+      "name": "Số trung bình của mẫu ghép nhóm",
+      "latex": "\\overline{x} = \\frac{n_1x_1 + n_2x_2 + \\cdots + n_kx_k}{n}, \\qquad n = n_1 + n_2 + \\cdots + n_k",
+      "keywords": ["số trung bình", "trung bình ghép nhóm", "giá trị đại diện", "tần số"],
+      "notes": [
+        "$x_i$ là giá trị đại diện (trung điểm) của nhóm thứ $i$: $x_i = \\frac{\\text{biên trái} + \\text{biên phải}}{2}$.",
+        "$n_i$ là tần số (số quan sát) của nhóm; mẫu ghép nhóm chỉ cho kết quả gần đúng vì đã mất giá trị gốc."
+      ],
+      "example": {
+        "prompt": "Mẫu ghép nhóm: $[0;2)$ tần số 2, $[2;4)$ tần số 3, $[4;6)$ tần số 5. Tính số trung bình.",
+        "steps": [
+          "Giá trị đại diện các nhóm: $x_1 = 1$, $x_2 = 3$, $x_3 = 5$; cỡ mẫu $n = 2 + 3 + 5 = 10$.",
+          "Tử số: $1 \\cdot 2 + 3 \\cdot 3 + 5 \\cdot 5 = 2 + 9 + 25 = 36$.",
+          "$\\overline{x} = \\frac{36}{10} = 3{,}6$."
+        ],
+        "answer": "$\\overline{x} = 3{,}6$."
+      },
+      "check": { "expression": "(1*2+3*3+5*5)/10", "value": 3.6 }
+    },
+    {
+      "id": "tk-trung-vi",
+      "name": "Trung vị của mẫu ghép nhóm",
+      "latex": "M_e = u_k + \\frac{\\frac{n}{2} - (n_1 + \\cdots + n_{k-1})}{n_k} \\cdot h",
+      "keywords": ["trung vị", "median", "nhóm chứa trung vị", "tần số tích lũy"],
+      "notes": [
+        "Nhóm chứa trung vị là nhóm đầu tiên có tần số tích lũy đạt hoặc vượt $\\frac{n}{2}$.",
+        "$u_k$ là biên trái nhóm đó, $n_k$ là tần số nhóm, $h$ là độ dài nhóm; tử số là số quan sát còn thiếu tính từ đầu nhóm.",
+        "Trung vị ít bị ảnh hưởng bởi giá trị bất thường hơn số trung bình."
+      ],
+      "example": {
+        "prompt": "Với mẫu $[0;2)$: 2, $[2;4)$: 3, $[4;6)$: 5 ($n = 10$), tính trung vị.",
+        "steps": [
+          "$\\frac{n}{2} = 5$. Tần số tích lũy: nhóm 1 là 2, nhóm 2 là 5 — nhóm $[2;4)$ là nhóm đầu tiên tích lũy đạt 5.",
+          "Nhóm chứa trung vị là $[2;4)$ với $u_k = 2$, $n_k = 3$, tích lũy trước đó bằng 2, $h = 2$.",
+          "$M_e = 2 + \\frac{5 - 2}{3} \\cdot 2 = 2 + 2 = 4$."
+        ],
+        "answer": "$M_e = 4$."
+      },
+      "check": { "expression": "2+(5-2)/3*2", "value": 4 }
+    },
+    {
+      "id": "tk-mot",
+      "name": "Mốt của mẫu ghép nhóm",
+      "latex": "M_o = u_k + \\frac{n_k - n_{k-1}}{(n_k - n_{k-1}) + (n_k - n_{k+1})} \\cdot h",
+      "keywords": ["mốt", "mode", "nhóm chứa mốt", "tần số lớn nhất"],
+      "notes": [
+        "Nhóm chứa mốt là nhóm có tần số lớn nhất; nếu nhóm đầu hoặc cuối là nhóm mốt thì lấy tần số nhóm ngoài bằng 0.",
+        "Mẫu có thể có nhiều mốt nếu nhiều nhóm cùng tần số lớn nhất."
+      ],
+      "example": {
+        "prompt": "Với mẫu $[0;2)$: 2, $[2;4)$: 3, $[4;6)$: 5, tính mốt.",
+        "steps": [
+          "Nhóm tần số lớn nhất là $[4;6)$ với $n_k = 5$; nhóm trước $n_{k-1} = 3$, nhóm sau không có nên $n_{k+1} = 0$.",
+          "$M_o = 4 + \\frac{5 - 3}{(5 - 3) + (5 - 0)} \\cdot 2 = 4 + \\frac{2}{7} \\cdot 2 = 4 + \\frac{4}{7}$.",
+          "$M_o = \\frac{32}{7} \\approx 4{,}57$."
+        ],
+        "answer": "$M_o = \\frac{32}{7} \\approx 4{,}57$."
+      },
+      "check": { "expression": "4+(5-3)/((5-3)+(5-0))*2", "value": 4.571428571428571 }
+    },
+    {
+      "id": "tk-phuong-sai-do-lech-chuan",
+      "name": "Phương sai và độ lệch chuẩn",
+      "latex": "s^2 = \\frac{1}{n}\\sum_{i=1}^{k} n_i(x_i - \\overline{x})^2, \\qquad s = \\sqrt{s^2}",
+      "keywords": ["phương sai", "độ lệch chuẩn", "phân tán", "s bình phương"],
+      "notes": [
+        "Phương sai và độ lệch chuẩn càng nhỏ thì số liệu càng ít phân tán, càng ổn định.",
+        "Độ lệch chuẩn cùng đơn vị với số liệu gốc nên dễ diễn giải hơn phương sai.",
+        "Tính bằng máy: nhập giá trị đại diện với tần số, dùng chức năng thống kê một biến."
+      ],
+      "example": {
+        "prompt": "Với mẫu $[0;2)$: 2, $[2;4)$: 3, $[4;6)$: 5 và $\\overline{x} = 3{,}6$, tính phương sai và độ lệch chuẩn.",
+        "steps": [
+          "Các độ lệch bình phương: $(1 - 3{,}6)^2 = 6{,}76$; $(3 - 3{,}6)^2 = 0{,}36$; $(5 - 3{,}6)^2 = 1{,}96$.",
+          "Có trọng số tần số: $2 \\cdot 6{,}76 + 3 \\cdot 0{,}36 + 5 \\cdot 1{,}96 = 13{,}52 + 1{,}08 + 9{,}8 = 24{,}4$.",
+          "$s^2 = \\frac{24{,}4}{10} = 2{,}44$ và $s = \\sqrt{2{,}44} \\approx 1{,}5620$."
+        ],
+        "answer": "$s^2 = 2{,}44$; $s \\approx 1{,}5620$."
+      },
+      "check": { "expression": "(2*(1-3.6)^2+3*(3-3.6)^2+5*(5-3.6)^2)/10", "value": 2.44 }
+    },
+    {
+      "id": "tk-khoang-bien-thien-tu-phan-vi",
+      "name": "Khoảng biến thiên và khoảng tứ phân vị",
+      "latex": "R = x_{\\max} - x_{\\min}, \\qquad \\Delta_Q = Q_3 - Q_1",
+      "keywords": ["khoảng biến thiên", "khoảng tứ phân vị", "Q1", "Q3", "tứ phân vị"],
+      "notes": [
+        "Với mẫu ghép nhóm, khoảng biến thiên tính theo biên: biên phải nhóm cuối trừ biên trái nhóm đầu.",
+        "$Q_1, Q_3$ tính như trung vị nhưng thay $\\frac{n}{2}$ bởi $\\frac{n}{4}$ và $\\frac{3n}{4}$.",
+        "Khoảng tứ phân vị đo độ phân tán của nửa giữa mẫu, không bị ảnh hưởng bởi giá trị ngoại lai."
+      ],
+      "example": {
+        "prompt": "Với mẫu $[0;2)$: 2, $[2;4)$: 3, $[4;6)$: 5 ($n = 10$), tính khoảng biến thiên và khoảng tứ phân vị.",
+        "steps": [
+          "Khoảng biến thiên $R = 6 - 0 = 6$.",
+          "$Q_1$: vị trí $\\frac{10}{4} = 2{,}5$ rơi vào nhóm $[2;4)$, $Q_1 = 2 + \\frac{2{,}5 - 2}{3} \\cdot 2 = \\frac{7}{3} \\approx 2{,}3333$.",
+          "$Q_3$: vị trí $\\frac{3 \\cdot 10}{4} = 7{,}5$ rơi vào nhóm $[4;6)$, $Q_3 = 4 + \\frac{7{,}5 - 5}{5} \\cdot 2 = 5$.",
+          "$\\Delta_Q = 5 - \\frac{7}{3} = \\frac{8}{3} \\approx 2{,}6667$."
+        ],
+        "answer": "$R = 6$; $\\Delta_Q = \\frac{8}{3} \\approx 2{,}6667$."
+      },
+      "check": { "expression": "(4+(7.5-5)/5*2)-(2+(2.5-2)/3*2)", "value": 2.6666666666666665 }
+    }
+  ]
+}

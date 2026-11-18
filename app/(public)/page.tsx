@@ -171,6 +171,17 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section className="container pt-6">
+        <div className="flex flex-wrap items-center justify-between gap-6 rounded-2xl border border-sky-200 bg-sky-50 p-6 md:p-8">
+          <div className="max-w-2xl">
+            <p className="text-xs font-semibold uppercase tracking-wider text-sky-800">Ôn nhanh trước giờ thi</p>
+            <h2 className="mt-2 text-2xl font-bold">Sổ tay công thức Toán THPT</h2>
+            <p className="mt-3 text-sm leading-7 text-slate-700">14 chủ đề từ lớp 10 đến 12, mỗi công thức kèm điều kiện áp dụng, bẫy thường gặp và ví dụ minh họa từng bước.</p>
+          </div>
+          <Button asChild className="bg-sky-700 hover:bg-sky-800"><Link href="/cong-thuc/toan">Mở sổ tay công thức</Link></Button>
+        </div>
+      </section>
+
       {featuredExams.length > 0 ? (
         <section className="container py-14 md:py-16">
           <SectionHeading

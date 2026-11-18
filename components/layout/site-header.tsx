@@ -10,6 +10,7 @@ const navItems = [
   { href: '/', label: 'Trang chủ' },
   { href: '/de-thi', label: 'Đề thi' },
   { href: '/luyen-tap', label: 'Luyện tập' },
+  { href: '/cong-thuc/toan', label: 'Công thức Toán' },
   { href: '/lo-trinh/hoa-hoc-mat-goc', label: 'Học lại Hóa' },
   { href: '/tien-do', label: 'Tiến độ' },
 ];

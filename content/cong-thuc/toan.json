@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "subject": "toan",
+  "title": "Sổ tay công thức Toán THPT",
+  "intro": "Công thức Toán cần cho kì thi tốt nghiệp THPT theo chương trình 2018 (nền tảng lớp 10–11, trọng tâm lớp 12), gom theo 14 chủ đề. Mỗi công thức kèm điều kiện áp dụng, bẫy hay gặp và một ví dụ số có lời giải từng bước.",
+  "scopeNote": "Nội dung bám các chương SGK Kết nối tri thức: lớp 10 (hệ thức lượng trong tam giác, vectơ, tọa độ trong mặt phẳng, tổ hợp, xác suất cổ điển), lớp 11 (lượng giác, dãy số – cấp số, thống kê ghép nhóm, giới hạn – liên tục, mũ – logarit, quy tắc tính xác suất, đạo hàm), lớp 12 (ứng dụng đạo hàm khảo sát hàm số, vectơ và tọa độ trong không gian, số đặc trưng đo mức độ phân tán, nguyên hàm – tích phân, xác suất có điều kiện). Riêng chủ đề số phức thuộc chuyên đề học tập Toán 12, không nằm trong phạm vi bắt buộc của đề tốt nghiệp từ năm 2025, giữ lại như phần tham khảo mở rộng.",
+  "limits": [
+    "Sổ tay tóm tắt công thức để tra cứu nhanh, không thay sách giáo khoa: không chứng minh định lí và không phủ mọi dạng bài.",
+    "Số liệu trong ví dụ là tự soạn để minh họa cách dùng công thức, không lấy từ đề thi thật.",
+    "Công thức lượng giác và giải tích mặc định dùng radian nếu không ghi độ; khi bấm máy tính cầm tay phải chọn đúng chế độ góc."
+  ],
+  "sources": [
+    { "label": "Mục lục Toán 10 Kết nối tri thức (VietJack)", "url": "https://vietjack.com/toan-10-kn/index.jsp" },
+    { "label": "Mục lục Toán 11 Kết nối tri thức (VietJack)", "url": "https://vietjack.com/toan-11-kn/index.jsp" },
+    { "label": "Mục lục Toán 12 Kết nối tri thức (VietJack)", "url": "https://vietjack.com/toan-12-kn/index.jsp" }
+  ],
+  "topics": [
+    "01-luong-giac",
+    "02-ham-so-dao-ham",
+    "03-mu-logarit",
+    "04-nguyen-ham-tich-phan",
+    "05-oxyz",
+    "06-hinh-khong-gian",
+    "07-he-thuc-luong",
+    "08-duong-conic",
+    "09-to-hop-xac-suat",
+    "10-thong-ke",
+    "11-day-so-cap-so",
+    "12-so-phuc",
+    "13-gioi-han-lien-tuc",
+    "14-bat-dang-thuc"
+  ]
+}

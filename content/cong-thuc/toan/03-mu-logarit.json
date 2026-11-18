@@ -1,0 +1,126 @@
+{
+  "id": "mu-logarit",
+  "title": "Lũy thừa, mũ và logarit",
+  "gradeNote": "Lớp 11 (Chương 6); gặp nhiều trong đề tốt nghiệp ở dạng phương trình, bất phương trình và bài toán lãi kép",
+  "formulas": [
+    {
+      "id": "ml-luy-thua",
+      "name": "Tính chất lũy thừa",
+      "latex": "\\begin{aligned} a^m \\cdot a^n &= a^{m+n}, \\qquad \\frac{a^m}{a^n} = a^{m-n} \\\\ (a^m)^n &= a^{mn}, \\qquad (ab)^n = a^n b^n \\\\ a^{-n} &= \\frac{1}{a^n}, \\qquad a^{\\frac{m}{n}} = \\sqrt[n]{a^m}, \\qquad a^0 = 1 \\end{aligned}",
+      "keywords": ["lũy thừa", "số mũ", "mũ âm", "mũ phân số", "nhân chia cùng cơ số"],
+      "notes": [
+        "Cơ số phải dương khi số mũ không nguyên: $a^{\\frac{m}{n}}$ yêu cầu $a > 0$.",
+        "$a^0 = 1$ với $a \\ne 0$; biểu thức $0^0$ không xác định.",
+        "Nhân cùng cơ số thì cộng số mũ, lũy thừa của lũy thừa thì nhân số mũ — đừng cộng nhầm."
+      ],
+      "example": {
+        "prompt": "Rút gọn $2^3 \\cdot 2^4$ rồi tính giá trị.",
+        "steps": [
+          "Nhân hai lũy thừa cùng cơ số: $2^3 \\cdot 2^4 = 2^{3+4} = 2^7$.",
+          "Tính $2^7 = 128$."
+        ],
+        "answer": "$2^3 \\cdot 2^4 = 2^7 = 128$."
+      },
+      "check": { "expression": "2^3*2^4", "value": 128 }
+    },
+    {
+      "id": "ml-can-thuc",
+      "name": "Tính chất căn thức",
+      "latex": "\\sqrt[n]{ab} = \\sqrt[n]{a} \\cdot \\sqrt[n]{b}, \\qquad \\sqrt[n]{\\frac{a}{b}} = \\frac{\\sqrt[n]{a}}{\\sqrt[n]{b}}, \\qquad \\sqrt{a^2} = |a|",
+      "keywords": ["căn thức", "căn bậc hai", "căn bậc n", "trục căn", "giá trị tuyệt đối căn"],
+      "notes": [
+        "$\\sqrt{a^2} = |a|$ chứ không phải $a$: với $a < 0$ thì $\\sqrt{a^2} = -a$.",
+        "Căn bậc chẵn chỉ xác định với biểu thức dưới căn không âm; căn bậc lẻ xác định với mọi số thực.",
+        "Trục căn thức ở mẫu: nhân cả tử và mẫu với biểu thức liên hợp, ví dụ $\\frac{1}{\\sqrt{3} - 1} = \\frac{\\sqrt{3} + 1}{2}$."
+      ],
+      "example": {
+        "prompt": "Rút gọn $\\sqrt{50}$ về dạng $a\\sqrt{b}$ tối giản.",
+        "steps": [
+          "Phân tích $50 = 25 \\cdot 2$ với 25 là số chính phương.",
+          "$\\sqrt{50} = \\sqrt{25} \\cdot \\sqrt{2} = 5\\sqrt{2} \\approx 7{,}0711$."
+        ],
+        "answer": "$\\sqrt{50} = 5\\sqrt{2} \\approx 7{,}0711$."
+      },
+      "check": { "expression": "sqrt(50)", "value": 7.0710678118654755 }
+    },
+    {
+      "id": "ml-log-dinh-nghia",
+      "name": "Định nghĩa và tính chất cơ bản của logarit",
+      "latex": "\\log_a b = c \\Leftrightarrow a^c = b \\qquad (a > 0,\\ a \\ne 1,\\ b > 0)",
+      "keywords": ["logarit", "định nghĩa log", "log a b", "cơ số"],
+      "notes": [
+        "Điều kiện bắt buộc: cơ số $a > 0$ và $a \\ne 1$, biểu thức dưới log $b > 0$ — giải phương trình log phải đặt điều kiện trước.",
+        "Hệ quả dùng ngay: $\\log_a 1 = 0$, $\\log_a a = 1$, $a^{\\log_a b} = b$, $\\log_a a^x = x$.",
+        "Logarit cơ số 10 viết là $\\log$ hoặc $\\lg$; logarit tự nhiên cơ số $e$ viết là $\\ln$."
+      ],
+      "example": {
+        "prompt": "Tính $\\log_2 8$.",
+        "steps": [
+          "Đặt $\\log_2 8 = c$, theo định nghĩa $2^c = 8$.",
+          "Vì $8 = 2^3$ nên $c = 3$."
+        ],
+        "answer": "$\\log_2 8 = 3$."
+      },
+      "check": { "expression": "ln(8)/ln(2)", "value": 3 }
+    },
+    {
+      "id": "ml-log-quy-tac",
+      "name": "Quy tắc tính logarit",
+      "latex": "\\begin{aligned} \\log_a(xy) &= \\log_a x + \\log_a y \\\\ \\log_a\\frac{x}{y} &= \\log_a x - \\log_a y \\\\ \\log_a x^p &= p\\log_a x, \\qquad \\log_{a^q} x = \\frac{1}{q}\\log_a x \\end{aligned}",
+      "keywords": ["log của tích", "log của thương", "log lũy thừa", "quy tắc logarit"],
+      "notes": [
+        "Các quy tắc chỉ dùng khi $x > 0$, $y > 0$; viết $\\log(x^2) = 2\\log x$ khi chưa biết dấu $x$ là sai, phải là $2\\log|x|$.",
+        "$\\log_a(x + y)$ KHÔNG tách được thành tổng — chỉ tách tích và thương."
+      ],
+      "example": {
+        "prompt": "Tính $\\log_2 32$ bằng cách tách $32 = 4 \\cdot 8$.",
+        "steps": [
+          "Dùng log của tích: $\\log_2 32 = \\log_2 4 + \\log_2 8$.",
+          "Vì $4 = 2^2$ và $8 = 2^3$ nên tổng bằng $2 + 3 = 5$."
+        ],
+        "answer": "$\\log_2 32 = 5$."
+      },
+      "check": { "expression": "ln(32)/ln(2)", "value": 5 }
+    },
+    {
+      "id": "ml-doi-co-so",
+      "name": "Công thức đổi cơ số",
+      "latex": "\\log_a b = \\frac{\\log_c b}{\\log_c a} = \\frac{\\ln b}{\\ln a}, \\qquad \\log_a b = \\frac{1}{\\log_b a}",
+      "keywords": ["đổi cơ số", "log a b bằng ln b chia ln a", "nghịch đảo log"],
+      "notes": [
+        "Máy tính cầm tay thường chỉ có $\\log$ (cơ số 10) và $\\ln$, muốn tính $\\log_3 5$ thì bấm $\\frac{\\ln 5}{\\ln 3}$.",
+        "Cơ số mới $c$ phải thỏa $c > 0$, $c \\ne 1$."
+      ],
+      "example": {
+        "prompt": "Tính $\\log_4 8$.",
+        "steps": [
+          "Đổi về cơ số $e$: $\\log_4 8 = \\frac{\\ln 8}{\\ln 4} = \\frac{3\\ln 2}{2\\ln 2}$.",
+          "Rút gọn được $\\frac{3}{2} = 1{,}5$."
+        ],
+        "answer": "$\\log_4 8 = \\frac{3}{2}$."
+      },
+      "check": { "expression": "ln(8)/ln(4)", "value": 1.5 }
+    },
+    {
+      "id": "ml-ham-mu-log-lai-kep",
+      "name": "Hàm số mũ, hàm số logarit và lãi kép",
+      "latex": "\\begin{aligned} y = a^x &: \\text{ tập xác định } \\mathbb{R}, \\text{ tập giá trị } (0; +\\infty) \\\\ y = \\log_a x &: \\text{ tập xác định } (0; +\\infty), \\text{ tập giá trị } \\mathbb{R} \\\\ T &= A(1 + r)^n \\quad \\text{(lãi kép sau } n \\text{ kỳ)} \\end{aligned}",
+      "keywords": ["hàm số mũ", "hàm số logarit", "lãi kép", "tăng trưởng", "đồ thị đối xứng"],
+      "notes": [
+        "Với $a > 1$ cả hai hàm đồng biến; với $0 < a < 1$ cả hai nghịch biến.",
+        "Đồ thị $y = a^x$ và $y = \\log_a x$ đối xứng nhau qua đường thẳng $y = x$.",
+        "Lãi kép: $A$ là vốn gốc, $r$ là lãi suất mỗi kỳ (viết dạng thập phân), $n$ là số kỳ; gửi tiết kiệm và tăng trưởng dân số dùng chung công thức."
+      ],
+      "example": {
+        "prompt": "Gửi 100 triệu đồng với lãi kép 6%/năm. Sau 5 năm nhận được bao nhiêu tiền (làm tròn đến hàng nghìn)?",
+        "steps": [
+          "Áp dụng $T = A(1 + r)^n$ với $A = 100$, $r = 0{,}06$, $n = 5$ (triệu đồng).",
+          "Tính $1{,}06^5 \\approx 1{,}338226$.",
+          "$T = 100 \\cdot 1{,}338226 \\approx 133{,}8226$ triệu, tức khoảng 133 823 nghìn đồng."
+        ],
+        "answer": "Khoảng $133{,}82$ triệu đồng (133 822 558 đồng nếu tính chính xác)."
+      },
+      "check": { "expression": "100*1.06^5", "value": 133.82255776 }
+    }
+  ]
+}

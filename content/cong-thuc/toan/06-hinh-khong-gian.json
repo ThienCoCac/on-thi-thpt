@@ -1,0 +1,110 @@
+{
+  "id": "hinh-khong-gian",
+  "title": "Hình học không gian: thể tích, góc, khoảng cách",
+  "gradeNote": "Quan hệ vuông góc và thể tích học ở lớp 11 (Chương 7); lớp 12 giải tiếp bằng tọa độ Oxyz",
+  "formulas": [
+    {
+      "id": "hk-the-tich-da-dien",
+      "name": "Thể tích khối lăng trụ, khối chóp, chóp cụt",
+      "latex": "V_{\\text{lăng trụ}} = B \\cdot h, \\qquad V_{\\text{chóp}} = \\frac{1}{3}B \\cdot h, \\qquad V_{\\text{chóp cụt}} = \\frac{h}{3}\\left(B_1 + B_2 + \\sqrt{B_1B_2}\\right)",
+      "keywords": ["thể tích lăng trụ", "thể tích chóp", "chóp cụt", "diện tích đáy", "chiều cao"],
+      "notes": [
+        "$B$ là diện tích đáy, $h$ là chiều cao (khoảng cách giữa hai đáy với lăng trụ, từ đỉnh xuống đáy với chóp).",
+        "Hộp chữ nhật kích thước $a, b, c$ có $V = abc$; lập phương cạnh $a$ có $V = a^3$.",
+        "Chóp cụt đều: hai đáy là đa giác đều đồng dạng, $h$ là khoảng cách giữa hai mặt đáy."
+      ],
+      "example": {
+        "prompt": "Khối chóp có đáy là hình vuông cạnh 3, chiều cao 4. Tính thể tích.",
+        "steps": [
+          "Diện tích đáy $B = 3^2 = 9$.",
+          "Áp dụng công thức chóp: $V = \\frac{1}{3} \\cdot 9 \\cdot 4 = 12$."
+        ],
+        "answer": "$V = 12$ (đơn vị thể tích)."
+      },
+      "check": { "expression": "9*4/3", "value": 12 }
+    },
+    {
+      "id": "hk-tru-non-cau",
+      "name": "Khối trụ, khối nón, khối cầu",
+      "latex": "\\begin{aligned} V_{\\text{trụ}} &= \\pi r^2 h, \\qquad S_{xq} = 2\\pi rh \\\\ V_{\\text{nón}} &= \\frac{1}{3}\\pi r^2 h, \\qquad S_{xq} = \\pi rl, \\quad l = \\sqrt{r^2 + h^2} \\\\ S_{\\text{cầu}} &= 4\\pi R^2, \\qquad V_{\\text{cầu}} = \\frac{4}{3}\\pi R^3 \\end{aligned}",
+      "keywords": ["thể tích trụ", "thể tích nón", "diện tích cầu", "thể tích cầu", "đường sinh"],
+      "notes": [
+        "Đường sinh nón $l = \\sqrt{r^2 + h^2}$; diện tích xung quanh nón dùng $l$, thể tích dùng $h$ — đừng thay nhầm.",
+        "Diện tích toàn phần bằng diện tích xung quanh cộng diện tích các đáy.",
+        "Nón có thể tích bằng một phần ba trụ cùng đáy cùng chiều cao."
+      ],
+      "example": {
+        "prompt": "Khối nón có bán kính đáy $r = 3$, chiều cao $h = 4$. Tính đường sinh, thể tích và diện tích xung quanh.",
+        "steps": [
+          "Đường sinh $l = \\sqrt{3^2 + 4^2} = 5$.",
+          "Thể tích $V = \\frac{1}{3}\\pi \\cdot 9 \\cdot 4 = 12\\pi \\approx 37{,}6991$.",
+          "Diện tích xung quanh $S_{xq} = \\pi \\cdot 3 \\cdot 5 = 15\\pi \\approx 47{,}1239$."
+        ],
+        "answer": "$l = 5$, $V = 12\\pi \\approx 37{,}6991$, $S_{xq} = 15\\pi$."
+      },
+      "check": { "expression": "pi*3^2*4/3", "value": 37.69911184307752 }
+    },
+    {
+      "id": "hk-goc",
+      "name": "Góc giữa đường và mặt phẳng, góc nhị diện",
+      "latex": "\\begin{aligned} &\\text{Góc đường–mp: } \\sin\\varphi = \\frac{|\\vec{u} \\cdot \\vec{n}|}{|\\vec{u}||\\vec{n}|} \\\\ &\\text{Góc hai mp: } \\cos\\varphi = \\frac{|\\vec{n}_1 \\cdot \\vec{n}_2|}{|\\vec{n}_1||\\vec{n}_2|} \\end{aligned}",
+      "keywords": ["góc đường mặt phẳng", "góc nhị diện", "góc hai mặt phẳng", "hình chiếu"],
+      "notes": [
+        "Cách hình học: góc giữa đường và mặt phẳng là góc giữa đường với hình chiếu của nó lên mặt phẳng.",
+        "Góc nhị diện đo bằng góc giữa hai tia lần lượt nằm trong hai mặt và cùng vuông góc với giao tuyến.",
+        "Góc giữa đường và mặt phẳng luôn trong $[0^\\circ; 90^\\circ]$."
+      ],
+      "example": {
+        "prompt": "Hình lập phương $ABCD.A'B'C'D'$ cạnh 1. Tính góc giữa đường thẳng $A'B$ và mặt phẳng $(ABCD)$.",
+        "steps": [
+          "Chọn $A(0;0;0)$, $B(1;0;0)$, $A'(0;0;1)$; khi đó $\\overrightarrow{A'B} = (1; 0; -1)$.",
+          "Pháp tuyến của $(ABCD)$ là $\\vec{n} = (0; 0; 1)$.",
+          "$\\sin\\varphi = \\frac{|-1|}{\\sqrt{2} \\cdot 1} = \\frac{1}{\\sqrt{2}} \\approx 0{,}7071$, suy ra $\\varphi = 45^\\circ$."
+        ],
+        "answer": "$\\varphi = 45^\\circ$."
+      },
+      "check": { "expression": "abs(-1)/sqrt(2)", "value": 0.7071067811865475 }
+    },
+    {
+      "id": "hk-khoang-cach",
+      "name": "Khoảng cách từ điểm đến mặt phẳng",
+      "latex": "d(A, (SBC)) = \\frac{SA \\cdot AH}{\\sqrt{SA^2 + AH^2}} \\qquad \\text{hoặc} \\qquad d = \\frac{3V}{S_{\\text{đáy}}}",
+      "keywords": ["khoảng cách điểm mặt phẳng", "khoảng cách hai đường chéo nhau", "đoạn vuông góc chung", "3V chia S"],
+      "notes": [
+        "Công thức thứ nhất dùng khi $SA \\perp$ đáy và $AH \\perp BC$ tại $H$: khi đó $BC \\perp (SAH)$, kẻ $AK \\perp SH$ thì $AK \\perp (SBC)$ và $d(A,(SBC)) = AK = \\frac{SA \\cdot AH}{\\sqrt{SA^2 + AH^2}}$.",
+        "Công thức thể tích $d = \\frac{3V}{S_{\\text{đáy}}}$ suy từ $V = \\frac{1}{3}S_{\\text{đáy}} \\cdot d$, dùng được cho mọi chóp khi đã biết thể tích.",
+        "Trong tọa độ Oxyz dùng thẳng công thức $\\frac{|Ax_0 + By_0 + Cz_0 + D|}{\\sqrt{A^2 + B^2 + C^2}}$, nhanh và ít nhầm hơn dựng hình."
+      ],
+      "example": {
+        "prompt": "Chóp $S.ABC$ có $SA \\perp$ đáy, $SA = 4$; đáy vuông tại $B$ với $AB = 3$. Tính khoảng cách từ $A$ đến mặt phẳng $(SBC)$.",
+        "steps": [
+          "Vì $BC \\perp AB$ và $BC \\perp SA$ nên $BC \\perp (SAB)$.",
+          "Trong tam giác vuông $SAB$, kẻ $AH \\perp SB$; do $BC \\perp AH$ nên $AH \\perp (SBC)$, tức $d(A,(SBC)) = AH$.",
+          "Hệ thức lượng trong tam giác vuông: $AH = \\frac{SA \\cdot AB}{\\sqrt{SA^2 + AB^2}} = \\frac{4 \\cdot 3}{\\sqrt{16 + 9}} = \\frac{12}{5} = 2{,}4$."
+        ],
+        "answer": "$d(A, (SBC)) = 2{,}4$."
+      },
+      "check": { "expression": "3*4/sqrt(3^2+4^2)", "value": 2.4 }
+    },
+    {
+      "id": "hk-ti-so-the-tich",
+      "name": "Tỉ số thể tích (công thức tỉ số chóp tam giác)",
+      "latex": "\\frac{V_{S.A'B'C'}}{V_{S.ABC}} = \\frac{SA'}{SA} \\cdot \\frac{SB'}{SB} \\cdot \\frac{SC'}{SC}",
+      "keywords": ["tỉ số thể tích", "chóp tam giác", "mặt phẳng cắt chóp"],
+      "notes": [
+        "$A', B', C'$ lần lượt nằm trên các cạnh $SA, SB, SC$ của chóp tam giác.",
+        "Công thức chỉ áp dụng cho chóp TAM GIÁC; với chóp đáy tứ giác phải chia thành hai chóp tam giác rồi cộng.",
+        "Rất hay dùng khi mặt phẳng cắt chóp và đề hỏi tỉ số thể tích hai phần."
+      ],
+      "example": {
+        "prompt": "Chóp $S.ABC$ có thể tích 24. Các điểm $A', B', C'$ trên $SA, SB, SC$ thỏa $\\frac{SA'}{SA} = \\frac{1}{2}$, $\\frac{SB'}{SB} = \\frac{1}{3}$, $\\frac{SC'}{SC} = \\frac{1}{4}$. Tính thể tích chóp $S.A'B'C'$.",
+        "steps": [
+          "Tỉ số thể tích bằng tích ba tỉ số cạnh: $\\frac{1}{2} \\cdot \\frac{1}{3} \\cdot \\frac{1}{4} = \\frac{1}{24}$.",
+          "Vậy $V_{S.A'B'C'} = 24 \\cdot \\frac{1}{24} = 1$."
+        ],
+        "answer": "$V_{S.A'B'C'} = 1$."
+      },
+      "check": { "expression": "24*(1/2)*(1/3)*(1/4)", "value": 1 }
+    }
+  ]
+}

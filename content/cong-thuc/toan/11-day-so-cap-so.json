@@ -1,0 +1,88 @@
+{
+  "id": "day-so-cap-so",
+  "title": "Dãy số, cấp số cộng, cấp số nhân",
+  "gradeNote": "Lớp 11 (Chương 2); hay gặp ở câu nhận biết – thông hiểu của đề tốt nghiệp",
+  "formulas": [
+    {
+      "id": "ds-day-so",
+      "name": "Dãy số: số hạng tổng quát và tính tăng giảm",
+      "latex": "u_n = f(n) \\ \\text{(công thức tổng quát)}; \\qquad u_{n+1} = g(u_n) \\ \\text{(truy hồi)}",
+      "keywords": ["dãy số", "số hạng tổng quát", "truy hồi", "dãy tăng", "dãy giảm", "bị chặn"],
+      "notes": [
+        "Xét tăng giảm: so sánh $u_{n+1} - u_n$ với 0 (dương thì tăng, âm thì giảm) hoặc xét tỉ số $\\frac{u_{n+1}}{u_n}$ với 1 khi dãy dương.",
+        "Dãy bị chặn trên nếu có $M$ mà $u_n \\le M$ với mọi $n$; bị chặn dưới tương tự.",
+        "Dãy tăng và bị chặn trên thì có giới hạn hữu hạn (định lí về giới hạn đơn điệu)."
+      ],
+      "example": {
+        "prompt": "Cho dãy $u_n = n^2 - n$. Tính $u_5$ và xét tính tăng của dãy.",
+        "steps": [
+          "$u_5 = 5^2 - 5 = 20$.",
+          "Hiệu $u_{n+1} - u_n = (n+1)^2 - (n+1) - n^2 + n = 2n > 0$ với mọi $n \\ge 1$.",
+          "Vậy dãy tăng."
+        ],
+        "answer": "$u_5 = 20$; dãy tăng."
+      },
+      "check": { "expression": "5^2-5", "value": 20 }
+    },
+    {
+      "id": "ds-cap-so-cong",
+      "name": "Cấp số cộng",
+      "latex": "u_n = u_1 + (n-1)d; \\qquad u_n = \\frac{u_{n-1} + u_{n+1}}{2}; \\qquad S_n = \\frac{n(u_1 + u_n)}{2} = \\frac{n[2u_1 + (n-1)d]}{2}",
+      "keywords": ["cấp số cộng", "công sai", "tổng n số hạng", "d"],
+      "notes": [
+        "Cấp số cộng: mỗi số hạng bằng số trước cộng công sai $d$ không đổi.",
+        "Ba số $a, b, c$ lập cấp số cộng khi $a + c = 2b$.",
+        "$S_n$ là tổng $n$ số hạng đầu; nhớ công thức 'số số hạng nhân trung bình cộng số đầu và số cuối'."
+      ],
+      "example": {
+        "prompt": "Cấp số cộng có $u_1 = 3$, công sai $d = 4$. Tính $u_{10}$ và $S_{10}$.",
+        "steps": [
+          "$u_{10} = 3 + 9 \\cdot 4 = 39$.",
+          "$S_{10} = \\frac{10(3 + 39)}{2} = \\frac{10 \\cdot 42}{2} = 210$."
+        ],
+        "answer": "$u_{10} = 39$; $S_{10} = 210$."
+      },
+      "check": { "expression": "10*(3+39)/2", "value": 210 }
+    },
+    {
+      "id": "ds-cap-so-nhan",
+      "name": "Cấp số nhân",
+      "latex": "u_n = u_1 q^{n-1}; \\qquad u_n^2 = u_{n-1}u_{n+1}; \\qquad S_n = u_1\\frac{q^n - 1}{q - 1} \\ (q \\ne 1)",
+      "keywords": ["cấp số nhân", "công bội", "q", "tổng cấp số nhân"],
+      "notes": [
+        "Cấp số nhân: mỗi số hạng bằng số trước nhân công bội $q$ không đổi; các số hạng phải khác 0.",
+        "Ba số $a, b, c$ lập cấp số nhân khi $b^2 = ac$.",
+        "Với $q = 1$ thì $S_n = nu_1$, không dùng công thức phân số (mẫu bằng 0)."
+      ],
+      "example": {
+        "prompt": "Cấp số nhân có $u_1 = 2$, công bội $q = 3$. Tính $S_5$.",
+        "steps": [
+          "Áp dụng $S_5 = u_1\\frac{q^5 - 1}{q - 1} = 2 \\cdot \\frac{3^5 - 1}{3 - 1}$.",
+          "$3^5 = 243$ nên $S_5 = 2 \\cdot \\frac{242}{2} = 242$.",
+          "Kiểm tra bằng cộng trực tiếp: $2 + 6 + 18 + 54 + 162 = 242$."
+        ],
+        "answer": "$S_5 = 242$."
+      },
+      "check": { "expression": "2*(3^5-1)/(3-1)", "value": 242 }
+    },
+    {
+      "id": "ds-lui-vo-han",
+      "name": "Tổng cấp số nhân lùi vô hạn",
+      "latex": "S = u_1 + u_1q + u_1q^2 + \\cdots = \\frac{u_1}{1 - q} \\qquad (|q| < 1)",
+      "keywords": ["lùi vô hạn", "tổng vô hạn", "cấp số nhân lùi"],
+      "notes": [
+        "Chỉ hội tụ khi $|q| < 1$; với $|q| \\ge 1$ tổng vô hạn không tồn tại hữu hạn.",
+        "Ứng dụng: viết số thập phân tuần hoàn thành phân số, bài toán tổng quãng đường nảy của quả bóng."
+      ],
+      "example": {
+        "prompt": "Tính tổng $S = 1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\cdots$.",
+        "steps": [
+          "Đây là cấp số nhân lùi vô hạn với $u_1 = 1$, $q = \\frac{1}{2}$ (thỏa $|q| < 1$).",
+          "$S = \\frac{1}{1 - 1/2} = 2$."
+        ],
+        "answer": "$S = 2$."
+      },
+      "check": { "expression": "1/(1-1/2)", "value": 2 }
+    }
+  ]
+}

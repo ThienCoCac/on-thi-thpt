@@ -1,0 +1,70 @@
+{
+  "id": "bat-dang-thuc",
+  "title": "Tam thức bậc hai và bất đẳng thức nền",
+  "gradeNote": "Tam thức bậc hai ở lớp 10 (Chương 6); bất đẳng thức dùng xuyên suốt các bài max/min",
+  "formulas": [
+    {
+      "id": "bdt-tam-thuc-bac-hai",
+      "name": "Dấu của tam thức bậc hai",
+      "latex": "f(x) = ax^2 + bx + c, \\quad \\Delta = b^2 - 4ac: \\qquad \\begin{cases} \\Delta < 0: & f \\text{ cùng dấu } a \\ \\forall x \\\\ \\Delta = 0: & f \\text{ cùng dấu } a \\ (x \\ne -\\frac{b}{2a}) \\\\ \\Delta > 0: & f \\text{ trái dấu } a \\text{ giữa hai nghiệm} \\end{cases}",
+      "keywords": ["tam thức bậc hai", "dấu tam thức", "trong trái ngoài cùng", "delta"],
+      "notes": [
+        "Mẹo 'trong trái, ngoài cùng': giữa hai nghiệm thì trái dấu $a$, ngoài khoảng hai nghiệm thì cùng dấu $a$.",
+        "$f(x) > 0$ với mọi $x$ khi $a > 0$ và $\\Delta < 0$; $f(x) \\ge 0$ với mọi $x$ khi $a > 0$ và $\\Delta \\le 0$ (hoặc $a = \\Delta = 0$).",
+        "Bất phương trình bậc hai giải bằng bảng xét dấu, nhớ điều kiện hệ số $a$ khi chia."
+      ],
+      "example": {
+        "prompt": "Xét dấu $f(x) = x^2 - 5x + 6$ và tìm khoảng mà $f(x) < 0$.",
+        "steps": [
+          "$\\Delta = 25 - 24 = 1 > 0$, hai nghiệm $x = 2$ và $x = 3$.",
+          "Vì $a = 1 > 0$ nên $f$ trái dấu $a$ (tức âm) giữa hai nghiệm: $f(x) < 0$ trên $(2; 3)$.",
+          "Kiểm tra tại $x = 2{,}5$: $f(2{,}5) = 6{,}25 - 12{,}5 + 6 = -0{,}25 < 0$, đúng."
+        ],
+        "answer": "$f(x) < 0$ khi $2 < x < 3$."
+      },
+      "check": { "expression": "2.5^2-5*2.5+6", "value": -0.25 }
+    },
+    {
+      "id": "bdt-cauchy",
+      "name": "Bất đẳng thức Cauchy (AM–GM) và hệ quả",
+      "latex": "\\frac{a + b}{2} \\ge \\sqrt{ab} \\ (a, b \\ge 0); \\qquad (a^2 + b^2)(c^2 + d^2) \\ge (ac + bd)^2 \\ \\text{(Bunhiacopxki)}",
+      "keywords": ["Cauchy", "AM-GM", "trung bình cộng trung bình nhân", "Bunhiacopxki", "cực trị tích tổng"],
+      "notes": [
+        "Dấu bằng của Cauchy xảy ra khi $a = b$; luôn kiểm tra điều kiện dấu bằng có đạt được không.",
+        "Hệ quả: tổng không đổi thì tích lớn nhất khi hai số bằng nhau; tích không đổi thì tổng nhỏ nhất khi hai số bằng nhau.",
+        "Cauchy ba số: $\\frac{a+b+c}{3} \\ge \\sqrt[3]{abc}$ với $a, b, c \\ge 0$."
+      ],
+      "example": {
+        "prompt": "Với $x > 0$, tìm giá trị nhỏ nhất của $f(x) = x + \\frac{4}{x}$.",
+        "steps": [
+          "Hai số $x$ và $\\frac{4}{x}$ đều dương, tích bằng 4 không đổi.",
+          "Cauchy: $x + \\frac{4}{x} \\ge 2\\sqrt{x \\cdot \\frac{4}{x}} = 2\\sqrt{4} = 4$.",
+          "Dấu bằng khi $x = \\frac{4}{x}$, tức $x = 2$ (thỏa $x > 0$); kiểm tra $f(2) = 2 + 2 = 4$."
+        ],
+        "answer": "Giá trị nhỏ nhất là 4, đạt tại $x = 2$."
+      },
+      "check": { "expression": "2+4/2", "value": 4 }
+    },
+    {
+      "id": "bdt-tri-tuyet-doi",
+      "name": "Bất đẳng thức và phương trình trị tuyệt đối",
+      "latex": "|a + b| \\le |a| + |b|; \\qquad |x| \\le a \\Leftrightarrow -a \\le x \\le a; \\qquad |x| \\ge a \\Leftrightarrow \\left[\\begin{aligned} x &\\ge a \\\\ x &\\le -a \\end{aligned}\\right. \\ (a > 0)",
+      "keywords": ["trị tuyệt đối", "bất đẳng thức tam giác", "phương trình trị tuyệt đối", "bất phương trình trị tuyệt đối"],
+      "notes": [
+        "$|f(x)| = |g(x)| \\Leftrightarrow f(x) = g(x)$ hoặc $f(x) = -g(x)$; $|f(x)| = g(x)$ cần thêm điều kiện $g(x) \\ge 0$.",
+        "Dấu bằng của $|a+b| \\le |a|+|b|$ xảy ra khi $ab \\ge 0$ (cùng dấu).",
+        "Khoảng cách giữa hai điểm trên trục số: $|x - a|$ là khoảng cách từ $x$ đến $a$."
+      ],
+      "example": {
+        "prompt": "Giải bất phương trình $|2x - 3| \\le 5$.",
+        "steps": [
+          "Áp dụng dạng $|u| \\le a$: $-5 \\le 2x - 3 \\le 5$.",
+          "Cộng 3 vào ba vế: $-2 \\le 2x \\le 8$.",
+          "Chia 2: $-1 \\le x \\le 4$; biên phải $\\frac{5+3}{2} = 4$, biên trái $\\frac{-5+3}{2} = -1$."
+        ],
+        "answer": "Tập nghiệm $[-1; 4]$."
+      },
+      "check": { "expression": "(5+3)/2", "value": 4 }
+    }
+  ]
+}

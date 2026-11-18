@@ -1,0 +1,90 @@
+{
+  "id": "so-phuc",
+  "title": "Số phức (tham khảo mở rộng)",
+  "gradeNote": "Thuộc chuyên đề học tập Toán 12, không nằm trong phạm vi bắt buộc của đề tốt nghiệp từ 2025; hữu ích khi ôn đánh giá năng lực",
+  "formulas": [
+    {
+      "id": "sp-khai-niem",
+      "name": "Khái niệm số phức, liên hợp và mô-đun",
+      "latex": "z = a + bi \\ (i^2 = -1); \\qquad \\overline{z} = a - bi, \\qquad |z| = \\sqrt{a^2 + b^2}",
+      "keywords": ["số phức", "phần thực", "phần ảo", "liên hợp", "mô-đun"],
+      "notes": [
+        "$a$ là phần thực, $b$ là phần ảo (phần ảo là $b$, không phải $bi$).",
+        "Hai số phức bằng nhau khi phần thực bằng phần thực và phần ảo bằng phần ảo.",
+        "Số phức thuần ảo có $a = 0$; số thực là số phức có $b = 0$."
+      ],
+      "example": {
+        "prompt": "Cho $z = 3 - 4i$. Tìm phần thực, phần ảo, số phức liên hợp và mô-đun.",
+        "steps": [
+          "Phần thực $a = 3$, phần ảo $b = -4$.",
+          "Liên hợp $\\overline{z} = 3 + 4i$.",
+          "Mô-đun $|z| = \\sqrt{3^2 + (-4)^2} = \\sqrt{25} = 5$."
+        ],
+        "answer": "$\\overline{z} = 3 + 4i$; $|z| = 5$."
+      },
+      "check": { "expression": "sqrt(3^2+4^2)", "value": 5 }
+    },
+    {
+      "id": "sp-phep-toan",
+      "name": "Các phép toán số phức",
+      "latex": "\\begin{aligned} (a + bi) \\pm (c + di) &= (a \\pm c) + (b \\pm d)i \\\\ (a + bi)(c + di) &= (ac - bd) + (ad + bc)i \\\\ \\frac{z_1}{z_2} &= \\frac{z_1\\overline{z_2}}{|z_2|^2} \\end{aligned}",
+      "keywords": ["cộng trừ nhân chia số phức", "chia số phức", "nhân liên hợp"],
+      "notes": [
+        "Nhân số phức giống nhân đa thức rồi thay $i^2 = -1$.",
+        "Chia số phức: nhân cả tử và mẫu với liên hợp của mẫu để mẫu thành số thực $|z_2|^2$.",
+        "Các lũy thừa của $i$ tuần hoàn chu kỳ 4: $i^1 = i$, $i^2 = -1$, $i^3 = -i$, $i^4 = 1$."
+      ],
+      "example": {
+        "prompt": "Tính $\\frac{1 + 2i}{1 - i}$.",
+        "steps": [
+          "Nhân tử và mẫu với liên hợp $1 + i$: tử thành $(1 + 2i)(1 + i) = 1 + i + 2i + 2i^2 = -1 + 3i$.",
+          "Mẫu thành $|1 - i|^2 = 1^2 + 1^2 = 2$.",
+          "Kết quả $\\frac{-1 + 3i}{2} = -0{,}5 + 1{,}5i$."
+        ],
+        "answer": "$-0{,}5 + 1{,}5i$."
+      },
+      "check": { "expression": "(1*1-2*1)/2", "value": -0.5 }
+    },
+    {
+      "id": "sp-mo-dun-tinh-chat",
+      "name": "Tính chất của mô-đun và liên hợp",
+      "latex": "|z_1z_2| = |z_1||z_2|, \\qquad \\left|\\frac{z_1}{z_2}\\right| = \\frac{|z_1|}{|z_2|}, \\qquad |z^n| = |z|^n, \\qquad z\\overline{z} = |z|^2",
+      "keywords": ["tính chất mô-đun", "z nhân liên hợp", "mô-đun tích"],
+      "notes": [
+        "Mô-đun của tích bằng tích các mô-đun — dùng để tính nhanh $|z^n|$ mà không cần khai triển.",
+        "$|z| = |\\overline{z}|$; $z$ là số thực khi $z = \\overline{z}$, thuần ảo khi $z = -\\overline{z}$.",
+        "Bất đẳng thức tam giác: $|z_1 + z_2| \\le |z_1| + |z_2|$."
+      ],
+      "example": {
+        "prompt": "Tính mô-đun của $z = (1 + i)^4$ mà không khai triển.",
+        "steps": [
+          "$|1 + i| = \\sqrt{1 + 1} = \\sqrt{2}$.",
+          "Dùng tính chất lũy thừa: $|z| = |1 + i|^4 = (\\sqrt{2})^4 = 4$."
+        ],
+        "answer": "$|z| = 4$."
+      },
+      "check": { "expression": "sqrt(2)^4", "value": 4 }
+    },
+    {
+      "id": "sp-dang-luong-giac-moivre",
+      "name": "Dạng lượng giác và công thức Moivre",
+      "latex": "z = r(\\cos\\varphi + i\\sin\\varphi), \\quad r = |z|; \\qquad z^n = r^n(\\cos n\\varphi + i\\sin n\\varphi)",
+      "keywords": ["dạng lượng giác số phức", "Moivre", "acgumen", "căn bậc hai số phức"],
+      "notes": [
+        "$\\varphi$ là acgumen, xác định bởi $\\cos\\varphi = \\frac{a}{r}$, $\\sin\\varphi = \\frac{b}{r}$ (sai khác $k2\\pi$).",
+        "Nhân hai số phức dạng lượng giác: nhân mô-đun, cộng acgumen; chia thì chia mô-đun, trừ acgumen.",
+        "Số phức $z \\ne 0$ có đúng hai căn bậc hai đối nhau."
+      ],
+      "example": {
+        "prompt": "Viết $z = 1 + i\\sqrt{3}$ ở dạng lượng giác rồi tính $z^3$.",
+        "steps": [
+          "$r = \\sqrt{1 + 3} = 2$; $\\cos\\varphi = \\frac{1}{2}$, $\\sin\\varphi = \\frac{\\sqrt{3}}{2}$ nên $\\varphi = \\frac{\\pi}{3}$.",
+          "Moivre: $z^3 = 2^3\\left(\\cos\\pi + i\\sin\\pi\\right) = 8(-1 + 0i)$.",
+          "Vậy $z^3 = -8$."
+        ],
+        "answer": "$z = 2\\left(\\cos\\frac{\\pi}{3} + i\\sin\\frac{\\pi}{3}\\right)$; $z^3 = -8$."
+      },
+      "check": { "expression": "sqrt(1+3)^3", "value": 8 }
+    }
+  ]
+}

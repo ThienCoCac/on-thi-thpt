@@ -1,0 +1,127 @@
+{
+  "id": "he-thuc-luong",
+  "title": "Hệ thức lượng trong tam giác và vectơ phẳng",
+  "gradeNote": "Lớp 10 (Chương 3 và Chương 4); nền tảng cho hình học phẳng và lượng giác lớp 11",
+  "formulas": [
+    {
+      "id": "ht-dinh-ly-cosin",
+      "name": "Định lí cosin",
+      "latex": "a^2 = b^2 + c^2 - 2bc\\cos A, \\qquad \\cos A = \\frac{b^2 + c^2 - a^2}{2bc}",
+      "keywords": ["định lí cosin", "tính cạnh tam giác", "tính góc tam giác"],
+      "notes": [
+        "Dùng khi biết hai cạnh và góc xen giữa để tính cạnh thứ ba, hoặc biết ba cạnh để tính góc.",
+        "Với $A = 90^\\circ$ thì $\\cos A = 0$, định lí cosin trở về Pytago."
+      ],
+      "example": {
+        "prompt": "Tam giác $ABC$ có $b = 5$, $c = 7$, $\\widehat{A} = 60^\\circ$. Tính cạnh $a$.",
+        "steps": [
+          "Áp dụng $a^2 = b^2 + c^2 - 2bc\\cos A = 25 + 49 - 2 \\cdot 5 \\cdot 7 \\cdot \\frac{1}{2}$.",
+          "Tính được $a^2 = 74 - 35 = 39$.",
+          "Vậy $a = \\sqrt{39} \\approx 6{,}2450$."
+        ],
+        "answer": "$a = \\sqrt{39} \\approx 6{,}2450$."
+      },
+      "check": { "expression": "sqrt(25+49-2*5*7*cos(pi/3))", "value": 6.244997998398398 }
+    },
+    {
+      "id": "ht-dinh-ly-sin",
+      "name": "Định lí sin và bán kính đường tròn ngoại tiếp",
+      "latex": "\\frac{a}{\\sin A} = \\frac{b}{\\sin B} = \\frac{c}{\\sin C} = 2R",
+      "keywords": ["định lí sin", "bán kính ngoại tiếp", "R ngoại tiếp"],
+      "notes": [
+        "Dùng khi biết một cạnh và góc đối diện để tìm cạnh khác, góc khác hoặc bán kính $R$ của đường tròn ngoại tiếp.",
+        "Từ $\\sin B$ suy ra $B$ có thể có hai giá trị (nhọn hoặc tù) — phải kiểm tra tổng ba góc."
+      ],
+      "example": {
+        "prompt": "Tam giác $ABC$ có $a = 6$, $\\widehat{A} = 30^\\circ$. Tính bán kính đường tròn ngoại tiếp.",
+        "steps": [
+          "Theo định lí sin: $2R = \\frac{a}{\\sin A} = \\frac{6}{\\sin 30^\\circ} = \\frac{6}{1/2} = 12$.",
+          "Vậy $R = 6$."
+        ],
+        "answer": "$R = 6$."
+      },
+      "check": { "expression": "6/(2*sin(pi/6))", "value": 6 }
+    },
+    {
+      "id": "ht-dien-tich-tam-giac",
+      "name": "Các công thức diện tích tam giác",
+      "latex": "\\begin{aligned} S &= \\frac{1}{2}ab\\sin C = \\frac{1}{2}bc\\sin A = \\frac{1}{2}ca\\sin B = \\frac{1}{2}a h_a \\\\ S &= \\frac{abc}{4R} = pr = \\sqrt{p(p-a)(p-b)(p-c)} \\quad \\text{(Heron)} \\end{aligned}",
+      "keywords": ["diện tích tam giác", "Heron", "nửa chu vi", "bán kính nội tiếp", "pr"],
+      "notes": [
+        "$p = \\frac{a+b+c}{2}$ là nửa chu vi, $r$ là bán kính đường tròn nội tiếp, $R$ là bán kính ngoại tiếp.",
+        "Biết ba cạnh thì dùng Heron; biết hai cạnh và góc xen giữa thì dùng $\\frac{1}{2}ab\\sin C$."
+      ],
+      "example": {
+        "prompt": "Tính diện tích tam giác có ba cạnh 3, 4, 5 bằng công thức Heron.",
+        "steps": [
+          "Nửa chu vi $p = \\frac{3 + 4 + 5}{2} = 6$.",
+          "$S = \\sqrt{6(6-3)(6-4)(6-5)} = \\sqrt{6 \\cdot 3 \\cdot 2 \\cdot 1} = \\sqrt{36}$.",
+          "Vậy $S = 6$ (đúng bằng $\\frac{1}{2} \\cdot 3 \\cdot 4$ vì tam giác vuông)."
+        ],
+        "answer": "$S = 6$."
+      },
+      "check": { "expression": "sqrt(6*3*2*1)", "value": 6 }
+    },
+    {
+      "id": "ht-trung-tuyen-trong-tam",
+      "name": "Đường trung tuyến và trọng tâm",
+      "latex": "m_a^2 = \\frac{2b^2 + 2c^2 - a^2}{4}; \\qquad G\\left(\\frac{x_A + x_B + x_C}{3};\\ \\frac{y_A + y_B + y_C}{3}\\right)",
+      "keywords": ["trung tuyến", "trọng tâm", "tọa độ trọng tâm", "m_a"],
+      "notes": [
+        "$m_a$ là trung tuyến ứng với cạnh $a$; công thức tính từ ba cạnh.",
+        "Trọng tâm chia mỗi trung tuyến theo tỉ số 2:1 tính từ đỉnh; vectơ $\\overrightarrow{GA} + \\overrightarrow{GB} + \\overrightarrow{GC} = \\vec{0}$.",
+        "Tọa độ trọng tâm là trung bình cộng tọa độ ba đỉnh."
+      ],
+      "example": {
+        "prompt": "Tam giác có $a = \\sqrt{39}$, $b = 5$, $c = 7$. Tính độ dài trung tuyến $m_a$.",
+        "steps": [
+          "Thay vào công thức: $m_a^2 = \\frac{2 \\cdot 25 + 2 \\cdot 49 - 39}{4} = \\frac{50 + 98 - 39}{4} = \\frac{109}{4}$.",
+          "Vậy $m_a = \\frac{\\sqrt{109}}{2} \\approx 5{,}2202$."
+        ],
+        "answer": "$m_a = \\frac{\\sqrt{109}}{2} \\approx 5{,}2202$."
+      },
+      "check": { "expression": "sqrt((2*25+2*49-39)/4)", "value": 5.220153254455275 }
+    },
+    {
+      "id": "ht-tich-vo-huong-phang",
+      "name": "Tích vô hướng của hai vectơ trong mặt phẳng",
+      "latex": "\\vec{a} \\cdot \\vec{b} = x_1x_2 + y_1y_2 = |\\vec{a}||\\vec{b}|\\cos(\\vec{a}, \\vec{b}); \\qquad |\\vec{a}| = \\sqrt{x_1^2 + y_1^2}",
+      "keywords": ["tích vô hướng phẳng", "vectơ tọa độ", "vuông góc vectơ", "cos góc vectơ"],
+      "notes": [
+        "$\\vec{a} \\perp \\vec{b} \\Leftrightarrow x_1x_2 + y_1y_2 = 0$ (với hai vectơ khác $\\vec{0}$).",
+        "Tích vô hướng âm khi góc tù, dương khi góc nhọn.",
+        "Hình chiếu của $\\vec{a}$ lên phương của $\\vec{b}$ có độ dài đại số $\\frac{\\vec{a} \\cdot \\vec{b}}{|\\vec{b}|}$."
+      ],
+      "example": {
+        "prompt": "Cho $\\vec{a} = (3; 4)$, $\\vec{b} = (-4; 3)$. Chứng minh hai vectơ vuông góc và tính $|\\vec{a}|$.",
+        "steps": [
+          "Tích vô hướng: $3 \\cdot (-4) + 4 \\cdot 3 = -12 + 12 = 0$ nên $\\vec{a} \\perp \\vec{b}$.",
+          "Độ dài $|\\vec{a}| = \\sqrt{9 + 16} = 5$."
+        ],
+        "answer": "$\\vec{a} \\cdot \\vec{b} = 0$ (vuông góc); $|\\vec{a}| = 5$."
+      },
+      "check": { "expression": "3*(-4)+4*3", "value": 0 }
+    },
+    {
+      "id": "ht-he-thuc-vuong",
+      "name": "Hệ thức lượng trong tam giác vuông",
+      "latex": "\\frac{1}{h^2} = \\frac{1}{b^2} + \\frac{1}{c^2}, \\qquad h^2 = b'c', \\qquad b^2 = a \\cdot b', \\qquad a^2 = b^2 + c^2",
+      "keywords": ["tam giác vuông", "đường cao", "hình chiếu cạnh", "Pytago", "h bình phương"],
+      "notes": [
+        "Ký hiệu: $a$ là cạnh huyền, $b, c$ là hai cạnh góc vuông, $h$ là đường cao ứng với huyền, $b', c'$ là hình chiếu của $b, c$ lên huyền.",
+        "Công thức $\\frac{1}{h^2} = \\frac{1}{b^2} + \\frac{1}{c^2}$ cho nhanh đường cao khi biết hai cạnh góc vuông.",
+        "Pytago $a^2 = b^2 + c^2$ là trường hợp riêng của định lí cosin."
+      ],
+      "example": {
+        "prompt": "Tam giác vuông có hai cạnh góc vuông 3 và 4. Tính đường cao ứng với cạnh huyền.",
+        "steps": [
+          "Cạnh huyền $a = \\sqrt{3^2 + 4^2} = 5$.",
+          "Dùng $\\frac{1}{h^2} = \\frac{1}{9} + \\frac{1}{16} = \\frac{25}{144}$ nên $h^2 = \\frac{144}{25}$.",
+          "Vậy $h = \\frac{12}{5} = 2{,}4$ (khớp với $h = \\frac{bc}{a}$)."
+        ],
+        "answer": "$h = 2{,}4$."
+      },
+      "check": { "expression": "1/sqrt(1/3^2+1/4^2)", "value": 2.4 }
+    }
+  ]
+}

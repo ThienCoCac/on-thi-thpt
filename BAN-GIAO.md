@@ -1,6 +1,15 @@
 # Bàn giao — Ôn Thi THPT
 
-Cập nhật 17/11/2026. Mở task mới thì đọc file này trước, rồi tới `AGENTS.md`.
+Cập nhật 18/11/2026. Mở task mới thì đọc file này trước, rồi tới `AGENTS.md`.
+
+## Sổ tay công thức Toán THPT (18/11, CHƯA xuất bản — chờ duyệt)
+
+- Người dùng yêu cầu **“tổng hợp toàn bộ các công thức cần thiết để thi THPT”**, chốt phạm vi **chỉ môn Toán**, định dạng **trang trên website**, mức chi tiết **kèm ví dụ minh họa**. Trang mới `/cong-thuc/toan`: **14 chủ đề / 76 công thức**, mỗi công thức gồm điều kiện áp dụng và bẫy thường gặp, ví dụ giải từng bước, kèm một phép tính máy kiểm chứng đáp số. **Chưa commit/push/deploy — chờ người dùng duyệt.** Xem thử tại `http://localhost:4180/cong-thuc/toan`.
+- Bám mục lục SGK Kết nối tri thức 10/11/12: lượng giác; hàm số–đạo hàm; mũ–logarit; nguyên hàm–tích phân; vectơ–Oxyz; hình không gian; hệ thức lượng tam giác; conic; tổ hợp–xác suất (có xác suất có điều kiện/Bayes); thống kê ghép nhóm (số trung tâm và mức độ phân tán); dãy số–cấp số; giới hạn–liên tục; tam thức bậc hai–bất đẳng thức. **Số phức giữ lại như chuyên đề tham khảo mở rộng**; meta và gradeNote nói rõ không bắt buộc trong đề tốt nghiệp từ 2025. Ví dụ là số tự soạn, không lấy từ đề thật.
+- File mới: `content/cong-thuc/toan.json` và 14 file `content/cong-thuc/toan/NN-*.json`; `lib/formula-types.ts` (Zod), `lib/formula-check.ts` (parser đệ quy cho biểu thức kiểm chứng, `^` là lũy thừa chứ không phải XOR), `lib/math-formulas.ts` (loader chỉ đọc lúc build: mã không trùng, thư mục chủ đề khớp meta, KaTeX `throwOnError:true`, tính lại đủ 76 đáp số); `components/formulas/formula-book.tsx` (tìm kiếm bỏ dấu, mục lục dính đầu trang, thẻ công thức + ví dụ đóng/mở); `app/(public)/cong-thuc/toan/page.tsx`; suite `scripts/verify-cong-thuc-toan.cjs`. Sửa nhỏ: `site-header.tsx` thêm mục “Công thức Toán”, trang chủ thêm banner dẫn vào sổ tay, `sitemap.ts` thêm 1 URL, `verify.mjs` đăng ký bộ `cong-thuc` và ánh xạ riêng cho đường dẫn sổ tay.
+- Hai lỗi bắt được và đã sửa trong đợt: (1) mốt của mẫu ghép nhóm rút gọn sai mẫu số trong lời giải (`2/4` thay vì `2/7`), đáp số đúng là `32/7 ≈ 4,57` — suite tính lại độc lập bắt được; (2) công thức rộng trên mobile bị cắt mất vế trái không cuộn tới được vì `.katex-display` căn giữa bên trong khung cuộn — sửa bằng một khung cuộn duy nhất ở `.math-display` căn trái, `.katex-display` thành `inline-block min-w-full overflow-visible` (công thức hẹp vẫn căn giữa như cũ).
+- Kiểm tra đã chạy: `verify-cong-thuc-toan.cjs --content-only` **106/106**; `verify.mjs --scope=all` **Tất cả 16 bộ test đều xanh. Tổng 1325 kiểm tra, 219,0 giây**, exit 0 (typecheck 2,9s, lint 3,1s, build 64,3s; riêng `cong-thuc` 126/126 gồm 20 kiểm tra trình duyệt). Đã xem ảnh `.verify/cong-thuc/desktop.png`, `khung-desktop.png`, `khung-mobile.png`, `the-trung-binh-mobile-sau-sua.png`, `the-trung-binh-mobile-cuoi-cuon.png`: bố cục đọc tốt, công thức rộng cuộn đủ hai đầu, không tràn ngang ở 390px.
+- Khi được duyệt xuất bản: làm đúng 5 bước trong `AGENTS.md`; nhớ push lên main có thể sinh version Workers Builds chồng lên bản wrangler, chờ edge hội tụ rồi mới chạy `--scope=live` (mục sự cố bên dưới).
 
 ## Lộ trình lấy lại gốc Hóa học đến hết lớp 11 (17/11, ĐÃ xuất bản)
 

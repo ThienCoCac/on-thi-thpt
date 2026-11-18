@@ -1,0 +1,149 @@
+{
+  "id": "to-hop-xac-suat",
+  "title": "Tổ hợp và xác suất",
+  "gradeNote": "Đếm và xác suất cổ điển ở lớp 10 (Chương 8–9); quy tắc cộng, nhân ở lớp 11 (Chương 8); xác suất có điều kiện ở lớp 12 (Chương 6)",
+  "formulas": [
+    {
+      "id": "xs-quy-tac-dem",
+      "name": "Quy tắc cộng và quy tắc nhân",
+      "latex": "\\begin{aligned} &\\text{Cộng: việc chọn được thực hiện bởi một trong các phương án loại trừ nhau} \\\\ &\\text{Nhân: việc chọn gồm các công đoạn liên tiếp, số cách } = m_1 \\cdot m_2 \\cdots m_k \\end{aligned}",
+      "keywords": ["quy tắc cộng", "quy tắc nhân", "đếm", "công đoạn"],
+      "notes": [
+        "Phân biệt: chọn MỘT trong nhiều nhóm (cộng) hay chọn lần lượt QUA nhiều công đoạn (nhân).",
+        "Các phương án phải loại trừ nhau (không trùng kết quả) mới được cộng."
+      ],
+      "example": {
+        "prompt": "Có 3 chiếc áo và 4 chiếc quần. Hỏi có bao nhiêu cách chọn một bộ (một áo, một quần)?",
+        "steps": [
+          "Chọn bộ gồm hai công đoạn liên tiếp: chọn áo (3 cách) rồi chọn quần (4 cách).",
+          "Quy tắc nhân: $3 \\cdot 4 = 12$ cách."
+        ],
+        "answer": "12 cách."
+      },
+      "check": { "expression": "3*4", "value": 12 }
+    },
+    {
+      "id": "xs-hoan-vi-chinh-hop-to-hop",
+      "name": "Hoán vị, chỉnh hợp, tổ hợp",
+      "latex": "P_n = n!, \\qquad A_n^k = \\frac{n!}{(n-k)!}, \\qquad C_n^k = \\frac{n!}{k!(n-k)!}",
+      "keywords": ["hoán vị", "chỉnh hợp", "tổ hợp", "giai thừa", "n giai thừa", "C n k"],
+      "notes": [
+        "Chỉnh hợp có thứ tự, tổ hợp không có thứ tự: chọn ban cán sự 3 người từ 10 người là tổ hợp, xếp 3 người vào 3 ghế khác nhau là chỉnh hợp.",
+        "Quy ước $0! = 1$; $C_n^0 = C_n^n = 1$ và $C_n^k = C_n^{n-k}$.",
+        "Hoán vị là chỉnh hợp chập $n$: $P_n = A_n^n = n!$."
+      ],
+      "example": {
+        "prompt": "Từ 5 học sinh, tính số cách chọn ra 2 bạn làm trực nhật (không phân biệt vai trò) và số cách chọn 2 bạn lần lượt làm lớp trưởng, lớp phó.",
+        "steps": [
+          "Chọn 2 bạn trực nhật không kể thứ tự: $C_5^2 = \\frac{5!}{2! \\cdot 3!} = 10$.",
+          "Chọn 2 bạn có phân công thứ tự: $A_5^2 = \\frac{5!}{3!} = 5 \\cdot 4 = 20$.",
+          "Kiểm tra quan hệ: $A_5^2 = C_5^2 \\cdot 2! = 10 \\cdot 2 = 20$."
+        ],
+        "answer": "$C_5^2 = 10$ cách; $A_5^2 = 20$ cách."
+      },
+      "check": { "expression": "5*4/2", "value": 10 }
+    },
+    {
+      "id": "xs-nhi-thuc-newton",
+      "name": "Nhị thức Newton",
+      "latex": "(a + b)^n = \\sum_{k=0}^{n} C_n^k\\, a^{n-k} b^k",
+      "keywords": ["nhị thức Newton", "khai triển", "số hạng tổng quát", "hệ số"],
+      "notes": [
+        "Số hạng thứ $k+1$ trong khai triển là $C_n^k a^{n-k}b^k$; tìm hệ số của $x^m$ thì giải $n - k$ (hoặc số mũ của $x$) bằng $m$.",
+        "Tổng các hệ số bằng giá trị khai triển tại $a = b = 1$, tức $2^n$.",
+        "Với $(a - b)^n$ các số hạng mang dấu xen kẽ $(-1)^k$."
+      ],
+      "example": {
+        "prompt": "Tìm hệ số của $x^3$ trong khai triển $(x + 2)^5$.",
+        "steps": [
+          "Số hạng tổng quát: $C_5^k x^{5-k} 2^k$; muốn có $x^3$ thì $5 - k = 3$, tức $k = 2$.",
+          "Hệ số là $C_5^2 \\cdot 2^2 = 10 \\cdot 4 = 40$."
+        ],
+        "answer": "Hệ số của $x^3$ là 40."
+      },
+      "check": { "expression": "10*4", "value": 40 }
+    },
+    {
+      "id": "xs-co-dien",
+      "name": "Xác suất cổ điển và biến cố đối",
+      "latex": "P(A) = \\frac{n(A)}{n(\\Omega)}, \\qquad P(\\overline{A}) = 1 - P(A)",
+      "keywords": ["xác suất cổ điển", "không gian mẫu", "biến cố đối", "đồng khả năng"],
+      "notes": [
+        "Chỉ dùng định nghĩa cổ điển khi các kết quả đồng khả năng (xúc xắc cân đối, rút bài ngẫu nhiên…).",
+        "$0 \\le P(A) \\le 1$; $P(\\Omega) = 1$, $P(\\varnothing) = 0$.",
+        "Gặp chữ 'ít nhất một' thì nghĩ ngay đến biến cố đối: $P(\\text{ít nhất 1}) = 1 - P(\\text{không có cái nào})$."
+      ],
+      "example": {
+        "prompt": "Gieo một xúc xắc cân đối. Tính xác suất mặt xuất hiện có số chấm chẵn.",
+        "steps": [
+          "Không gian mẫu $\\Omega = \\{1; 2; 3; 4; 5; 6\\}$, $n(\\Omega) = 6$.",
+          "Biến cố chẵn $A = \\{2; 4; 6\\}$, $n(A) = 3$.",
+          "$P(A) = \\frac{3}{6} = 0{,}5$."
+        ],
+        "answer": "$P(A) = 0{,}5$."
+      },
+      "check": { "expression": "3/6", "value": 0.5 }
+    },
+    {
+      "id": "xs-quy-tac-cong",
+      "name": "Quy tắc cộng xác suất",
+      "latex": "P(A \\cup B) = P(A) + P(B) - P(A \\cap B)",
+      "keywords": ["quy tắc cộng xác suất", "hợp biến cố", "xung khắc"],
+      "notes": [
+        "Nếu $A, B$ xung khắc ($A \\cap B = \\varnothing$) thì $P(A \\cup B) = P(A) + P(B)$.",
+        "Không xung khắc mà quên trừ giao là lỗi phổ biến nhất của quy tắc này."
+      ],
+      "example": {
+        "prompt": "Rút ngẫu nhiên một lá từ bộ bài 52 lá. Tính xác suất rút được lá át hoặc lá cơ.",
+        "steps": [
+          "Gọi $A$ là 'rút được át' ($4$ lá), $B$ là 'rút được cơ' ($13$ lá); giao là át cơ ($1$ lá).",
+          "$P(A \\cup B) = \\frac{4}{52} + \\frac{13}{52} - \\frac{1}{52} = \\frac{16}{52}$.",
+          "Rút gọn: $\\frac{4}{13} \\approx 0{,}3077$."
+        ],
+        "answer": "$P = \\frac{4}{13} \\approx 0{,}3077$."
+      },
+      "check": { "expression": "(4+13-1)/52", "value": 0.3076923076923077 }
+    },
+    {
+      "id": "xs-quy-tac-nhan",
+      "name": "Quy tắc nhân xác suất và biến cố độc lập",
+      "latex": "P(A \\cap B) = P(A) \\cdot P(B \\mid A); \\qquad A, B \\text{ độc lập} \\Leftrightarrow P(A \\cap B) = P(A)P(B)",
+      "keywords": ["quy tắc nhân", "độc lập", "giao biến cố", "hai lần gieo"],
+      "notes": [
+        "Hai biến cố độc lập khi việc xảy ra của biến cố này không ảnh hưởng xác suất biến cố kia (gieo xúc xắc hai lần, rút có hoàn lại).",
+        "Rút không hoàn lại thì các lần rút KHÔNG độc lập, phải dùng xác suất có điều kiện.",
+        "Độc lập từng cặp chưa chắc độc lập toàn bộ với ba biến cố trở lên."
+      ],
+      "example": {
+        "prompt": "Gieo một đồng xu cân đối hai lần. Tính xác suất cả hai lần đều sấp.",
+        "steps": [
+          "Hai lần gieo độc lập, mỗi lần $P(\\text{sấp}) = 0{,}5$.",
+          "Quy tắc nhân: $P = 0{,}5 \\cdot 0{,}5 = 0{,}25$."
+        ],
+        "answer": "$P = 0{,}25$."
+      },
+      "check": { "expression": "0.5*0.5", "value": 0.25 }
+    },
+    {
+      "id": "xs-co-dieu-kien-bayes",
+      "name": "Xác suất có điều kiện, toàn phần và Bayes",
+      "latex": "\\begin{aligned} P(A \\mid B) &= \\frac{P(A \\cap B)}{P(B)} \\\\ P(B) &= \\sum_i P(A_i)\\,P(B \\mid A_i) \\quad \\text{(toàn phần)} \\\\ P(A_i \\mid B) &= \\frac{P(A_i)\\,P(B \\mid A_i)}{P(B)} \\quad \\text{(Bayes)} \\end{aligned}",
+      "keywords": ["xác suất có điều kiện", "công thức Bayes", "xác suất toàn phần", "P(A|B)"],
+      "notes": [
+        "$P(A \\mid B)$ đọc là xác suất của $A$ khi đã biết $B$ xảy ra; mẫu số phải là $P(B) > 0$.",
+        "Bayes dùng để 'đảo chiều' điều kiện: biết kết quả, suy ngược nguyên nhân (bài toán hộp bi, xét nghiệm y tế…).",
+        "Hệ thống $\\{A_i\\}$ trong công thức toàn phần phải đầy đủ và xung khắc từng đôi."
+      ],
+      "example": {
+        "prompt": "Hộp thứ nhất có 4 bi đỏ và 6 bi xanh; hộp thứ hai có 7 bi đỏ và 3 bi xanh. Chọn ngẫu nhiên một hộp rồi rút một bi. Biết bi rút ra màu đỏ, tính xác suất nó đến từ hộp thứ nhất.",
+        "steps": [
+          "Gọi $H_1, H_2$ là chọn hộp 1, hộp 2 ($P = 0{,}5$ mỗi hộp); $D$ là rút được bi đỏ.",
+          "Xác suất toàn phần: $P(D) = 0{,}5 \\cdot 0{,}4 + 0{,}5 \\cdot 0{,}7 = 0{,}55$.",
+          "Bayes: $P(H_1 \\mid D) = \\frac{0{,}5 \\cdot 0{,}4}{0{,}55} = \\frac{0{,}2}{0{,}55} = \\frac{4}{11} \\approx 0{,}3636$."
+        ],
+        "answer": "$P(H_1 \\mid D) = \\frac{4}{11} \\approx 0{,}3636$."
+      },
+      "check": { "expression": "(0.5*0.4)/(0.5*0.4+0.5*0.7)", "value": 0.36363636363636365 }
+    }
+  ]
+}
